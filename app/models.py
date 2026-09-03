@@ -34,6 +34,7 @@ class Category(str, Enum):
     HISTORIA = "historia"
     NOSSA_SENHORA = "nossa-senhora"
     LIVROS = "livros"
+    ORACOES = "oracoes"
 
 
 class ContentEntry(BaseModel):
@@ -164,6 +165,21 @@ class Livro(ContentEntry):
     genero: str | None = None
 
 
+class Oracao(ContentEntry):
+    """Oração tradicional católica.
+
+    `texto` é o corpo verbatim da oração — preserva quebras de linha (uma por
+    verso/frase) porque é isso que o frontend renderiza como o texto a ser
+    rezado. `corpo` (herdado de `ContentEntry`) continua sendo a explicação em
+    prosa (origem, contexto, uso) — nunca o texto da própria oração.
+    """
+
+    categoria: Literal[Category.ORACOES] = Category.ORACOES
+    texto: str = Field(min_length=1)
+    uso: str | None = None
+    origem: str | None = None
+
+
 # União discriminada por `categoria`: garante que a resposta serializada
 # carregue os campos próprios da subclasse (e não só os da base).
 AnyEntry = Annotated[
@@ -178,6 +194,7 @@ AnyEntry = Annotated[
         PeriodoHistorico,
         NossaSenhora,
         Livro,
+        Oracao,
     ],
     Field(discriminator="categoria"),
 ]
@@ -194,6 +211,7 @@ ENTRY_MODEL_BY_CATEGORY: dict[Category, type[ContentEntry]] = {
     Category.HISTORIA: PeriodoHistorico,
     Category.NOSSA_SENHORA: NossaSenhora,
     Category.LIVROS: Livro,
+    Category.ORACOES: Oracao,
 }
 
 

@@ -1,8 +1,8 @@
 # Acervo Católico — Backend (FastAPI)
 
-API somente-leitura que serve conteúdo católico curado em 10 categorias:
+API somente-leitura que serve conteúdo católico curado em 11 categorias:
 **santos, papas, concílios, milagres eucarísticos, doutores da Igreja,
-catecismo, crisma, história, Nossa Senhora e livros**.
+catecismo, crisma, história, Nossa Senhora, livros e orações**.
 
 > **Nota sobre a arquitetura:** o repositório não contém `docs/ARCHITECTURE.md`.
 > Este backend foi implementado a partir da especificação funcional acordada
@@ -92,7 +92,7 @@ Códigos usados: `CATEGORY_NOT_FOUND` (404), `ENTRY_NOT_FOUND` (404),
 ├── app/
 │   ├── config.py       # Settings (pydantic-settings), CORS, limites de página
 │   ├── exceptions.py   # exceções de domínio + handlers HTTP
-│   ├── models.py       # Pydantic v2: ContentEntry + 10 subclasses, união discriminada
+│   ├── models.py       # Pydantic v2: ContentEntry + 11 subclasses, união discriminada
 │   ├── repository.py   # carga/validação no startup, listagem, detalhe e busca
 │   ├── routers.py      # rotas finas /api/*
 │   ├── main.py         # app, lifespan, CORS, handlers
@@ -109,7 +109,7 @@ Códigos usados: `CATEGORY_NOT_FOUND` (404), `ENTRY_NOT_FOUND` (404),
 
 ### Decisões que valem explicação
 
-- **Sem banco de dados.** O acervo é pequeno e somente-leitura: os 10 JSONs são
+- **Sem banco de dados.** O acervo é pequeno e somente-leitura: os 11 JSONs são
   carregados e **validados** no `lifespan`. JSON malformado, campo desconhecido
   (`extra="forbid"`) ou slug duplicado levantam `DataIntegrityError` e a
   aplicação **não sobe** — melhor falhar no boot que responder 500 em produção.
@@ -162,7 +162,7 @@ Ao adicionar entradas, siga as mesmas regras que valem para o que já está lá:
 5. **Revisão eclesiástica.** Para uso catequético real, o material deve ser
    revisado por autoridade competente — a API não substitui isso.
 
-Conteúdo atual: 46 entradas nas 10 categorias.
+Conteúdo atual: 54 entradas nas 11 categorias.
 
 ## Configuração
 

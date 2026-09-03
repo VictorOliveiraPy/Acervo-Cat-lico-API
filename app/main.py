@@ -47,9 +47,9 @@ app = FastAPI(
     description=(
         "API somente-leitura de conteúdo católico curado (santos, papas, "
         "concílios, milagres eucarísticos, doutores da Igreja, catecismo, "
-        "crisma, história, Nossa Senhora e livros). O acervo atual é um "
-        "conjunto inicial de exemplos verificáveis, a ser expandido — não um "
-        "catálogo definitivo."
+        "crisma, história, Nossa Senhora, livros e orações). O acervo atual "
+        "é um conjunto inicial de exemplos verificáveis, a ser expandido — "
+        "não um catálogo definitivo."
     ),
     lifespan=lifespan,
 )

@@ -1,0 +1,156 @@
+{
+  "_meta": {
+    "categoria": "oracoes",
+    "nome": "Orações",
+    "descricao": "Orações tradicionais católicas — texto para rezar e uma nota sobre origem e uso de cada uma.",
+    "status": "exemplos-iniciais",
+    "aviso": "Conjunto inicial de exemplos para desenvolvimento. NÃO é um catálogo exaustivo de orações católicas — existem centenas. Cada texto foi conferido contra fonte confiável antes de entrar aqui; onde não há um texto único fixado pela liturgia (caso de orações de devoção popular, não de fórmulas litúrgicas), isso está dito explicitamente no corpo da entrada.",
+    "revisao_editorial": "Textos litúrgicos fixos (Pai Nosso, Ave Maria, Glória ao Pai, Credo, Salve Rainha) seguem a versão em português amplamente usada nas paróquias brasileiras. Onde existem variantes populares sem texto oficial único (Santo Anjo, Ato de Contrição, orações a São Bento), isso é dito no corpo, e o texto escolhido é identificado como uma versão entre outras.",
+    "fontes_gerais": [
+      "Catecismo da Igreja Católica, Quarta Parte (\"A oração cristã\")",
+      "Liturgia das Horas (Ofício Divino)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "oracoes:pai-nosso",
+      "slug": "pai-nosso",
+      "titulo": "Pai Nosso",
+      "categoria": "oracoes",
+      "resumo": "A oração ensinada pelo próprio Jesus aos discípulos, modelo de toda oração cristã.",
+      "corpo": "O Pai Nosso é a única oração que, segundo os evangelhos, o próprio Jesus ensinou aos discípulos, em resposta ao pedido «Senhor, ensina-nos a orar» (Lc 11,1). Aparece em duas versões no Novo Testamento — mais breve em Lucas (11,2-4) e mais desenvolvida em Mateus (6,9-13), dentro do Sermão da Montanha —, sendo a versão de Mateus a que deu origem ao texto litúrgico tradicional.\n\nO Catecismo da Igreja Católica chama o Pai Nosso de «resumo de todo o Evangelho» e dedica a ela toda a quarta parte da exposição da fé, uma petição de cada vez. É rezada em praticamente toda celebração litúrgica católica — na Missa, no terço, no ofício divino — e é, por isso, a oração mais repetida por um católico ao longo da vida.\n\nA doxologia final usada na Missa («Vosso é o reino, o poder e a glória, para sempre») não está no texto bíblico original: foi acrescentada pela tradição litúrgica antiga e mantida, hoje, como resposta do povo depois da oração do padre — por isso não faz parte do texto da oração privada em si.",
+      "tags": ["oração", "evangelho", "liturgia"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Brooklyn_Museum_-_The_Lord%27s_Prayer_%28Le_Pater_Noster%29_-_James_Tissot.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Evangelho segundo Mateus 6,9-13",
+        "Evangelho segundo Lucas 11,2-4",
+        "Catecismo da Igreja Católica, nn. 2759-2865"
+      ],
+      "texto": "Pai Nosso, que estais no Céu,\nsantificado seja o Vosso nome;\nvenha a nós o Vosso reino;\nseja feita a Vossa vontade,\nassim na terra como no Céu.\nO pão nosso de cada dia nos dai hoje;\nperdoai-nos as nossas ofensas,\nassim como nós perdoamos\na quem nos tem ofendido;\ne não nos deixeis cair em tentação,\nmas livrai-nos do mal.\nAmém.",
+      "uso": "Oração diária, Santa Missa, terço (a cada dezena), ofício divino",
+      "origem": "Evangelho segundo Mateus 6,9-13; Evangelho segundo Lucas 11,2-4"
+    },
+    {
+      "id": "oracoes:ave-maria",
+      "slug": "ave-maria",
+      "titulo": "Ave Maria",
+      "categoria": "oracoes",
+      "resumo": "Saudação a Maria que une as palavras do anjo Gabriel e de Isabel no Evangelho a um pedido de intercessão.",
+      "corpo": "A primeira metade da Ave Maria une duas saudações bíblicas: a do anjo Gabriel a Maria na Anunciação — «Ave, cheia de graça, o Senhor é convosco» (Lc 1,28) — e a de Isabel, no encontro da Visitação — «Bendita és tu entre as mulheres, e bendito é o fruto do teu ventre» (Lc 1,42). Essa parte bíblica já era usada em orações desde os primeiros séculos do cristianismo.\n\nA segunda metade — «Santa Maria, Mãe de Deus, rogai por nós pecadores, agora e na hora da nossa morte» — é um acréscimo posterior, de origem medieval, consolidado sobretudo a partir do século XV e fixado oficialmente na reforma do Breviário Romano de 1568, sob Pio V.\n\nÉ a oração mais repetida do terço — cada dezena tem dez Ave Marias — e uma das primeiras que uma criança católica aprende, junto com o Pai Nosso e o Sinal da Cruz.",
+      "tags": ["oração", "Maria", "evangelho", "terço"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/La_Anunciaci%C3%B3n_%28Fra_Angelico-Prado%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Evangelho segundo Lucas 1,26-45",
+        "Catecismo da Igreja Católica, nn. 2676-2677"
+      ],
+      "texto": "Ave, Maria, cheia de graça,\no Senhor é convosco;\nbendita sois vós entre as mulheres,\ne bendito é o fruto do vosso ventre, Jesus.\nSanta Maria, Mãe de Deus,\nrogai por nós, pecadores,\nagora e na hora da nossa morte.\nAmém.",
+      "uso": "Terço (dez por dezena), Angelus, oração diária",
+      "origem": "Evangelho segundo Lucas 1,28 e 1,42 (primeira parte); acréscimo medieval fixado no Breviário Romano de 1568 (segunda parte)"
+    },
+    {
+      "id": "oracoes:gloria-ao-pai",
+      "slug": "gloria-ao-pai",
+      "titulo": "Glória ao Pai",
+      "categoria": "oracoes",
+      "resumo": "Breve doxologia trinitária rezada ao final de salmos, do terço e de várias orações litúrgicas.",
+      "corpo": "A «Glória ao Pai» (em latim, «Gloria Patri») é uma doxologia — fórmula breve de louvor à Santíssima Trindade — de uso muito antigo na liturgia cristã, com registros já no século IV. Sua função é encerrar orações mais longas devolvendo-as à sua finalidade última: toda oração cristã termina em louvor a Deus Pai, Filho e Espírito Santo.\n\nÉ rezada ao final de cada salmo no ofício divino, ao final de cada dezena do terço e em diversos outros momentos litúrgicos. A segunda parte («como era no princípio, agora e sempre») afirma a eternidade da Trindade contra as heresias arianas dos primeiros séculos, que negavam a divindade plena do Filho e do Espírito Santo.",
+      "tags": ["oração", "Trindade", "liturgia", "terço"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Andrey_Rublev_-_%D0%A1%D0%B2._%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B0_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "fontes": ["Catecismo da Igreja Católica, n. 2641 (louvor trinitário)"],
+      "texto": "Glória ao Pai, e ao Filho,\ne ao Espírito Santo.\nComo era no princípio, agora e sempre,\npor todos os séculos dos séculos.\nAmém.",
+      "uso": "Final de salmos, terço (a cada dezena), ofício divino",
+      "origem": "Uso litúrgico atestado desde o século IV"
+    },
+    {
+      "id": "oracoes:credo-dos-apostolos",
+      "slug": "credo-dos-apostolos",
+      "titulo": "Credo dos Apóstolos",
+      "categoria": "oracoes",
+      "resumo": "A profissão de fé mais antiga da Igreja latina, resumindo em doze artigos o que o cristão crê.",
+      "corpo": "O Credo dos Apóstolos (ou Símbolo dos Apóstolos) é a mais antiga profissão de fé batismal da Igreja de Roma, com raízes num antigo formulário batismal do século II, embora não tenha sido escrito literalmente pelos doze apóstolos — a tradição que atribui um artigo a cada um deles, atestada já por Santo Ambrósio no século IV, é simbólica, não histórica no sentido literal.\n\nEstá dividido, desde a Antiguidade, em doze artigos, cada um enunciando um ponto central da fé cristã: Deus Pai criador, Jesus Cristo — concepção, nascimento, paixão, morte, ressurreição, ascensão, juízo final —, o Espírito Santo, e as realidades da Igreja, dos sacramentos e da vida eterna.\n\nÉ recitado no Batismo e é uma das duas fórmulas de credo aceitas na Missa dominical, junto com o Credo Niceno-Constantinopolitano — mais longo, o mesmo definido nos concílios de Niceia (325) e Constantinopla (381); ver categoria «Concílios».",
+      "tags": ["oração", "credo", "fé", "batismo"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nicaea_icon.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 194-195",
+        "Santo Ambrósio, «Explanatio Symboli» (século IV)"
+      ],
+      "texto": "Creio em Deus Pai todo-poderoso,\ncriador do Céu e da Terra;\ne em Jesus Cristo, seu único Filho, nosso Senhor,\nque foi concebido pelo poder do Espírito Santo,\nnasceu da Virgem Maria,\npadeceu sob Pôncio Pilatos,\nfoi crucificado, morto e sepultado;\ndesceu à mansão dos mortos,\nressuscitou ao terceiro dia,\nsubiu aos Céus,\nestá sentado à direita de Deus Pai todo-poderoso,\nde onde há de vir a julgar os vivos e os mortos.\nCreio no Espírito Santo,\nna Santa Igreja Católica,\nna comunhão dos santos,\nna remissão dos pecados,\nna ressurreição da carne,\nna vida eterna.\nAmém.",
+      "uso": "Batismo, início do terço, Missa dominical (alternativa ao Credo Niceno)",
+      "origem": "Formulário batismal romano antigo (c. século II), fixado por volta do século VIII"
+    },
+    {
+      "id": "oracoes:santo-anjo",
+      "slug": "santo-anjo",
+      "titulo": "Santo Anjo (Oração ao Anjo da Guarda)",
+      "categoria": "oracoes",
+      "resumo": "Pedido de proteção ao anjo que, segundo a fé católica, Deus designa para acompanhar cada pessoa.",
+      "corpo": "A crença num anjo da guarda pessoal, designado por Deus para acompanhar e proteger cada ser humano ao longo da vida, tem raízes bíblicas (Sl 91,11; Mt 18,10) e é celebrada na memória litúrgica dos Santos Anjos da Guarda, em 2 de outubro.\n\nA oração «Santo Anjo do Senhor» é a versão em português de uma fórmula latina medieval conhecida como «Angele Dei» («Anjo de Deus»), de autoria incerta — tradicionalmente associada a Reginaldo de Cantuária, monge dos séculos XI-XII. Existem outras versões e traduções populares em uso no Brasil, mais longas ou em linguagem infantil («Anjo de Deus, meu guardião...»), sem que haja um texto único fixado oficialmente pela liturgia — diferentemente do Pai Nosso ou da Ave Maria, esta é uma oração de devoção popular, não uma fórmula litúrgica fixa.\n\nÉ tradicionalmente rezada ao acordar e antes de dormir, como pedido de proteção para o dia ou a noite que começa.",
+      "tags": ["oração", "anjos", "proteção"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bernhard_Plockhorst_-_Schutzengel.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Salmo 91,11",
+        "Evangelho segundo Mateus 18,10",
+        "Martirológio Romano, 2 de outubro (Santos Anjos da Guarda)"
+      ],
+      "texto": "Santo Anjo do Senhor,\nmeu zeloso guardador,\nse a ti me confiou\na piedade divina,\nsempre me rege,\nme guarda,\nme governa\ne me ilumina.\nAmém.",
+      "uso": "Ao acordar, antes de dormir, oração diária",
+      "origem": "Fórmula latina medieval «Angele Dei», tradicionalmente atribuída a Reginaldo de Cantuária (séculos XI-XII)"
+    },
+    {
+      "id": "oracoes:salve-rainha",
+      "slug": "salve-rainha",
+      "titulo": "Salve Rainha",
+      "categoria": "oracoes",
+      "resumo": "Antífona mariana medieval que encerra o terço, invocando Maria como advogada e mãe de misericórdia.",
+      "corpo": "A «Salve Rainha» (em latim, «Salve Regina») é uma das quatro grandes antífonas marianas do ofício divino, de origem medieval — atribuída, sem certeza documental definitiva, a monges do século XI, entre eles Hermano Contracto. Tornou-se uma das orações marianas mais difundidas do Ocidente cristão.\n\nSeu tom é marcadamente diferente do de outras orações marianas: descreve a condição humana como exílio («vale de lágrimas», «degredados filhos de Eva») e pede a Maria que interceda junto a Jesus por quem ainda peregrina nesta vida — daí o título de «advogada nossa».\n\nÉ tradicionalmente rezada ao final do terço e, na liturgia das horas, como antífona final de Completas — a última oração do dia — no período entre a Solenidade da Santíssima Trindade e o Advento.",
+      "tags": ["oração", "Maria", "terço", "liturgia"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Coronation_of_Virgin_Jacopo_di_mino_Montepulciano.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Liturgia das Horas, Completas",
+        "Catecismo da Igreja Católica, n. 2677 (títulos marianos de intercessão)"
+      ],
+      "texto": "Salve, Rainha, Mãe de misericórdia,\nvida, doçura e esperança nossa, salve!\nA vós bradamos, os degredados filhos de Eva;\na vós suspiramos, gemendo e chorando\nneste vale de lágrimas.\nEia, pois, advogada nossa,\nesses vossos olhos misericordiosos\na nós volvei;\ne, depois deste desterro,\nmostrai-nos Jesus, bendito fruto do vosso ventre.\nÓ clemente, ó piedosa, ó doce sempre Virgem Maria!\nRogai por nós, santa Mãe de Deus,\npara que sejamos dignos das promessas de Cristo.\nAmém.",
+      "uso": "Final do terço, antífona final de Completas (Trindade ao Advento)",
+      "origem": "Composição medieval (c. século XI), autoria tradicionalmente discutida entre monges beneditinos"
+    },
+    {
+      "id": "oracoes:ato-de-contricao",
+      "slug": "ato-de-contricao",
+      "titulo": "Ato de Contrição",
+      "categoria": "oracoes",
+      "resumo": "Oração de arrependimento dos pecados, parte central do sacramento da Confissão.",
+      "corpo": "O Ato de Contrição é a oração em que o penitente expressa, com as próprias palavras ou com uma fórmula pronta, a dor por ter pecado e o propósito de não pecar mais — elemento que o Catecismo situa entre os atos essenciais do penitente no sacramento da Reconciliação, ao lado do exame de consciência, da confissão em si e da satisfação (penitência).\n\nA teologia moral distingue a «contrição perfeita» — motivada pelo amor a Deus, como nesta fórmula («porque sois infinitamente bom e vos amo») — da «contrição imperfeita» ou «atrição», motivada por exemplo pelo temor da condenação; ambas são aceitas para a absolvição sacramental, mas a perfeita é tida como o motivo mais elevado.\n\nExistem várias versões tradicionais em português, algumas mais longas que esta; a Igreja não impõe um texto único e fixo, e o penitente pode expressar a contrição em palavras próprias, desde que o conteúdo — arrependimento e propósito de emenda — esteja presente.",
+      "tags": ["oração", "confissão", "penitência", "sacramentos"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Return_of_the_Prodigal_Son_1667-1670_Murillo.jpg",
+      "imagem_credito": null,
+      "fontes": ["Catecismo da Igreja Católica, nn. 1450-1460 (os atos do penitente)"],
+      "texto": "Meu Deus, porque sois infinitamente bom\ne vos amo de todo o meu coração,\npesa-me de vos ter ofendido;\ne, com o auxílio da vossa divina graça,\nproponho firmemente\nnunca mais vos tornar a ofender.\nPeço e espero o perdão das minhas culpas\npela vossa infinita misericórdia.\nAmém.",
+      "uso": "Sacramento da Confissão (Reconciliação)",
+      "origem": "Fórmula catequética tradicional, de uso consolidado desde ao menos o século XVI"
+    },
+    {
+      "id": "oracoes:cruz-de-sao-bento",
+      "slug": "cruz-de-sao-bento",
+      "titulo": "Cruz de São Bento",
+      "categoria": "oracoes",
+      "resumo": "Fórmula latina gravada na medalha de São Bento, tradicionalmente usada como proteção contra o mal.",
+      "corpo": "A medalha de São Bento traz, na face da cruz, duas séries de iniciais latinas que resumem uma fórmula de proteção espiritual: «C S S M L — N D S M D» (a Cruz Sagrada seja minha luz, que o dragão não seja meu guia) ao redor da cruz, e «C S P B» (Cruz do Santo Padre Bento) em seus braços.\n\nNo verso, as iniciais «V R S — N S M V — S M Q L — I V B» resumem o «Vade Retro Satana» («Afasta-te, Satanás»), fórmula de rejeição ao mal cuja origem devocional remonta pelo menos ao século XVII, quando a medalha começou a ser cunhada com esse desenho na abadia de Metten, na Baviera; o formato hoje mais difundido foi fixado em 1880, para o 14º centenário do nascimento de São Bento.\n\nA medalha não é um amuleto: a Igreja a trata como um sacramental — um sinal que dispõe a pessoa a receber a graça pela fé e pela oração, não um objeto com poder mágico próprio. É tradicionalmente associada à proteção contra tentações e ao patronato de São Bento sobre uma boa morte, e costuma ser abençoada por um sacerdote antes do uso. Além desta fórmula da medalha, circulam orações devocionais populares a São Bento — mais longas e sem um texto único fixado, distintas da fórmula reproduzida aqui.",
+      "tags": ["oração", "São Bento", "sacramentais", "proteção"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Saint_Benedict_Medal.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Bênção da medalha de São Bento, Ritual Romano",
+        "Ordem de São Bento — tradição monástica beneditina"
+      ],
+      "texto": "C S S M L — Crux Sacra Sit Mihi Lux\n(A Cruz Sagrada seja minha luz)\nN D S M D — Non Draco Sit Mihi Dux\n(Que o dragão não seja meu guia)\n\nV R S — Vade Retro Satana\n(Afasta-te, Satanás)\nN S M V — Numquam Suade Mihi Vana\n(Não me induzas a vaidades)\nS M Q L — Sunt Mala Quae Libas\n(É mal o que me ofereces)\nI V B — Ipse Venena Bibas\n(Bebe tu mesmo o teu veneno)\n\nC S P B — Crux Sancti Patris Benedicti\n(Cruz do Santo Padre Bento)",
+      "uso": "Devoção pessoal; medalha usada ou fixada em ambientes",
+      "origem": "Fórmula documentada desde o século XVII; forma atual da medalha fixada em 1880"
+    }
+  ]
+}
