@@ -20,17 +20,27 @@
       "categoria": "santos",
       "resumo": "Fundador da Ordem dos Frades Menores, conhecido pela pobreza evangélica radical e pelo amor a toda a criação.",
       "corpo": "Francisco nasceu em Assis, na Úmbria (Itália), filho de um comerciante de tecidos. Jovem de família próspera, converteu-se de modo gradual e público: renunciou aos bens do pai e passou a viver da mendicância e do trabalho, reconstruindo igrejas em ruínas nos arredores de Assis.\n\nEm torno dele reuniu-se um grupo de companheiros, origem da Ordem dos Frades Menores. Sua forma de vida propunha a pobreza evangélica, a itinerância e a pregação penitencial, em obediência à Igreja. Da tradição franciscana vem também o Cântico das Criaturas, em que a criação inteira é chamada de irmã e irmão.\n\nMorreu em 1226 e foi canonizado por Gregório IX. Em 1979, João Paulo II o proclamou patrono dos que promovem a ecologia, pela Carta Apostólica «Inter Sanctos». Sua memória litúrgica é celebrada em 4 de outubro.",
-      "tags": ["franciscanos", "pobreza", "criação", "Itália", "Assis"],
-      "imagem": null,
+      "tags": [
+        "franciscanos",
+        "pobreza",
+        "criação",
+        "Itália",
+        "Assis"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bonaventura_Berlinghieri%2C_San_Francesco_e_storie_della_sua_vita%2C_1235%2C_01b.jpg",
       "festa": "4 de outubro",
-      "patronato": ["Itália", "Ecologistas e quem promove a ecologia"],
+      "patronato": [
+        "Itália",
+        "Ecologistas e quem promove a ecologia"
+      ],
       "nascimento": "c. 1181-1182, Assis (Itália)",
       "morte": "3 de outubro de 1226, Assis (Itália)",
       "fontes": [
         "João Paulo II, Carta Apostólica «Inter Sanctos» (29 de novembro de 1979)",
         "Martirológio Romano, 4 de outubro",
         "Calendário Romano Geral, memória de São Francisco de Assis"
-      ]
+      ],
+      "imagem_credito": "Foto: Sailko (2018) — Wikimedia Commons, CC BY-SA 4.0"
     },
     {
       "id": "santos:teresa-de-avila",
@@ -39,17 +49,26 @@
       "categoria": "santos",
       "resumo": "Carmelita espanhola, reformadora do Carmelo e mestra da oração; primeira mulher proclamada Doutora da Igreja.",
       "corpo": "Teresa de Ahumada nasceu em Ávila, na Espanha, em 1515, e entrou no Carmelo da Encarnação daquela cidade. A partir da fundação do mosteiro de São José de Ávila, deu início à reforma do Carmelo — o ramo dos «descalços» —, marcada pela clausura, pela pobreza e pela vida de oração contemplativa.\n\nEscreveu obras que se tornaram clássicos da literatura espiritual, entre elas o «Livro da Vida», o «Caminho de Perfeição» e o «Castelo Interior» (Moradas), em que descreve os graus da vida de oração até a união com Deus.\n\nMorreu em Alba de Tormes em 1582 e foi canonizada em 1622. Em 1970, Paulo VI a proclamou Doutora da Igreja, a primeira mulher a receber esse título. Sua memória litúrgica é celebrada em 15 de outubro.",
-      "tags": ["carmelitas", "oração", "mística", "Espanha", "doutora da Igreja"],
-      "imagem": null,
+      "tags": [
+        "carmelitas",
+        "oração",
+        "mística",
+        "Espanha",
+        "doutora da Igreja"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Santa_Teresa_en_gloria_%28Novelli%29.jpg",
       "festa": "15 de outubro",
-      "patronato": ["Espanha"],
+      "patronato": [
+        "Espanha"
+      ],
       "nascimento": "28 de março de 1515, Ávila (Espanha)",
       "morte": "4 de outubro de 1582, Alba de Tormes (Espanha)",
       "fontes": [
         "Paulo VI, Carta Apostólica «Multiformis sapientia Dei» (27 de setembro de 1970)",
         "Santa Teresa de Jesus, «Castelo Interior (Moradas)»",
         "Calendário Romano Geral, memória de Santa Teresa de Jesus"
-      ]
+      ],
+      "imagem_credito": null
     },
     {
       "id": "santos:pio-de-pietrelcina",
@@ -58,8 +77,13 @@
       "categoria": "santos",
       "resumo": "Frade capuchinho italiano, conhecido pelo ministério da confissão e pela obra hospitalar Casa Alívio do Sofrimento.",
       "corpo": "Francesco Forgione nasceu em Pietrelcina, no sul da Itália, em 1887, e recebeu o nome de Pio ao entrar entre os Frades Menores Capuchinhos. Ordenado sacerdote em 1910, viveu a maior parte da vida no convento de San Giovanni Rotondo.\n\nSeu ministério ficou marcado por longas horas no confessionário e pela direção espiritual de um número imenso de fiéis. Promoveu a construção da «Casa Sollievo della Sofferenza» (Casa Alívio do Sofrimento), hospital inaugurado em San Giovanni Rotondo, e a organização de grupos de oração.\n\nMorreu em 1968 e foi canonizado por João Paulo II em 16 de junho de 2002. Sua memória litúrgica é celebrada em 23 de setembro.",
-      "tags": ["capuchinhos", "confissão", "Itália", "século XX"],
-      "imagem": null,
+      "tags": [
+        "capuchinhos",
+        "confissão",
+        "Itália",
+        "século XX"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Padre_Pio_portraitFXD.jpg",
       "festa": "23 de setembro",
       "patronato": [],
       "nascimento": "25 de maio de 1887, Pietrelcina (Itália)",
@@ -67,7 +91,8 @@
       "fontes": [
         "João Paulo II, Homilia da canonização de São Pio de Pietrelcina (16 de junho de 2002)",
         "Martirológio Romano, 23 de setembro"
-      ]
+      ],
+      "imagem_credito": null
     }
   ]
 }

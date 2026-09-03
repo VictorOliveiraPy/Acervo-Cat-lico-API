@@ -19,8 +19,13 @@
       "categoria": "concilios",
       "resumo": "Primeiro concílio ecumênico (325): professou a divindade do Filho, consubstancial ao Pai, contra o arianismo.",
       "corpo": "Reunido em Niceia, na Bitínia (hoje İznik, Turquia), em 325, o primeiro concílio ecumênico respondeu à controvérsia levantada por Ário, que negava a plena divindade do Filho.\n\nO concílio professou que o Filho é «gerado, não criado, consubstancial ao Pai» — em grego, «homooúsios». Desse concílio, com o acréscimo do Concílio de Constantinopla I (381), deriva o Símbolo niceno-constantinopolitano professado na liturgia. Niceia I tratou também da data da celebração da Páscoa e promulgou cânones disciplinares.\n\nO Catecismo da Igreja Católica recorre ao Símbolo niceno-constantinopolitano como um dos dois símbolos de fé que estruturam sua exposição da profissão de fé.",
-      "tags": ["trindade", "arianismo", "credo", "século IV"],
-      "imagem": null,
+      "tags": [
+        "trindade",
+        "arianismo",
+        "credo",
+        "século IV"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Nicea.jpg",
       "numero_ordem": 1,
       "ano_inicio": 325,
       "ano_fim": 325,
@@ -29,7 +34,8 @@
         "Símbolo niceno-constantinopolitano",
         "Catecismo da Igreja Católica, nn. 195, 465",
         "Denzinger-Hünermann, nn. 125-130"
-      ]
+      ],
+      "imagem_credito": null
     },
     {
       "id": "concilios:trento",
@@ -38,8 +44,13 @@
       "categoria": "concilios",
       "resumo": "Concílio ecumênico celebrado entre 1545 e 1563; respondeu à Reforma protestante e definiu a doutrina sobre Escritura, justificação e sacramentos.",
       "corpo": "Celebrado em Trento (norte da Itália) entre 1545 e 1563, ao longo de vários períodos de sessões, o concílio respondeu às questões levantadas pela Reforma protestante e conduziu uma ampla reforma disciplinar da Igreja.\n\nSuas sessões trataram, entre outros temas, das fontes da Revelação (Escritura e Tradição), do pecado original, da justificação, dos sacramentos e do sacrifício da Missa. No plano prático, determinou a criação de seminários para a formação do clero e a residência obrigatória dos bispos em suas dioceses.\n\nDos trabalhos do concílio decorreram obras publicadas depois de seu encerramento, como o Catecismo Romano e a edição reformada do Missal e do Breviário.",
-      "tags": ["reforma", "sacramentos", "justificação", "século XVI"],
-      "imagem": null,
+      "tags": [
+        "reforma",
+        "sacramentos",
+        "justificação",
+        "século XVI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tridentinum.jpg",
       "numero_ordem": 19,
       "ano_inicio": 1545,
       "ano_fim": 1563,
@@ -48,7 +59,8 @@
         "Concílio de Trento, Decreto «De iustificatione» (Sessão VI, 1547)",
         "Concílio de Trento, Decreto sobre os livros sagrados e a tradição (Sessão IV, 1546)",
         "Denzinger-Hünermann, nn. 1500-1835"
-      ]
+      ],
+      "imagem_credito": null
     },
     {
       "id": "concilios:vaticano-ii",
@@ -57,8 +69,13 @@
       "categoria": "concilios",
       "resumo": "Vigésimo primeiro concílio ecumênico (1962-1965): quatro constituições sobre liturgia, Igreja, Revelação e Igreja no mundo contemporâneo.",
       "corpo": "Convocado por João XXIII e aberto em 11 de outubro de 1962, o Concílio Vaticano II foi encerrado por Paulo VI em 8 de dezembro de 1965. Reuniu o episcopado do mundo inteiro na Basílica de São Pedro, no Vaticano.\n\nPromulgou dezesseis documentos, entre os quais quatro constituições: «Sacrosanctum Concilium», sobre a sagrada liturgia; «Lumen Gentium», sobre a Igreja; «Dei Verbum», sobre a divina Revelação; e «Gaudium et Spes», sobre a Igreja no mundo contemporâneo. A eles se somam declarações e decretos, como «Dignitatis Humanae», sobre a liberdade religiosa, e «Nostra Aetate», sobre as relações com as religiões não cristãs.\n\nA reforma litúrgica, a doutrina sobre o povo de Deus e a colegialidade episcopal, a valorização da Escritura e o chamado universal à santidade estão entre os temas centrais de seu magistério.",
-      "tags": ["liturgia", "eclesiologia", "século XX", "Roma"],
-      "imagem": null,
+      "tags": [
+        "liturgia",
+        "eclesiologia",
+        "século XX",
+        "Roma"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Vatican_II_photo.jpg",
       "numero_ordem": 21,
       "ano_inicio": 1962,
       "ano_fim": 1965,
@@ -68,7 +85,8 @@
         "Concílio Vaticano II, Constituição Dogmática «Lumen Gentium» (21 de novembro de 1964)",
         "Concílio Vaticano II, Constituição Dogmática «Dei Verbum» (18 de novembro de 1965)",
         "Concílio Vaticano II, Constituição Pastoral «Gaudium et Spes» (7 de dezembro de 1965)"
-      ]
+      ],
+      "imagem_credito": "Foto: Carroll College, coleção histórica (1962) — Wikimedia Commons, CC BY 3.0"
     }
   ]
 }

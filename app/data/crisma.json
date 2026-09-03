@@ -19,14 +19,22 @@
       "categoria": "crisma",
       "resumo": "O que é a Crisma: sacramento da iniciação cristã que confere o dom do Espírito Santo e imprime caráter indelével.",
       "corpo": "A Confirmação é, com o Batismo e a Eucaristia, um dos três sacramentos da iniciação cristã. O Catecismo ensina que ela é necessária para a plenitude da graça batismal: os confirmados são enriquecidos com uma força especial do Espírito Santo e mais perfeitamente vinculados à Igreja.\n\nO rito essencial consiste na unção com o santo crisma na fronte, imposta com a imposição da mão, acompanhada das palavras «Recebe por este sinal o dom do Espírito Santo». O ministro originário é o Bispo; em determinados casos, o presbítero pode conferi-lo conforme as normas da Igreja.\n\nComo o Batismo e a Ordem, a Confirmação imprime na alma um caráter espiritual indelével e, por isso, é recebida uma só vez.",
-      "tags": ["confirmação", "iniciação cristã", "espírito santo", "crisma"],
-      "imagem": null,
+      "tags": [
+        "confirmação",
+        "iniciação cristã",
+        "espírito santo",
+        "crisma"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pietro_Longhi%2C_Confirmationis_Sacramentum.png",
       "ordem": 1,
-      "paragrafos_ccc": ["1285-1321"],
+      "paragrafos_ccc": [
+        "1285-1321"
+      ],
       "fontes": [
         "Catecismo da Igreja Católica, nn. 1285, 1293-1301, 1304-1305",
         "Paulo VI, Constituição Apostólica «Divinae consortium naturae» (1971)"
-      ]
+      ],
+      "imagem_credito": null
     },
     {
       "id": "crisma:os-sete-dons-do-espirito-santo",
@@ -35,14 +43,22 @@
       "categoria": "crisma",
       "resumo": "Sabedoria, entendimento, conselho, fortaleza, ciência, piedade e temor de Deus: os dons que completam e aperfeiçoam as virtudes.",
       "corpo": "A tradição da Igreja enumera sete dons do Espírito Santo: sabedoria, entendimento, conselho, fortaleza, ciência, piedade e temor de Deus. A enumeração tem por base a profecia de Isaías 11,1-2, aplicada pela tradição ao Messias e, nele, aos cristãos.\n\nO Catecismo ensina que os dons «completam e aperfeiçoam as virtudes daqueles que os recebem», tornando-os dóceis à ação do Espírito Santo. Não são poderes extraordinários, mas disposições estáveis que dispõem a pessoa a seguir os impulsos da graça na vida ordinária.\n\nNa catequese de Confirmação, os dons costumam ser apresentados junto à vida de oração e aos sacramentos, que são o meio ordinário pelo qual a graça é alimentada.",
-      "tags": ["dons", "espírito santo", "virtudes", "Isaías"],
-      "imagem": null,
+      "tags": [
+        "dons",
+        "espírito santo",
+        "virtudes",
+        "Isaías"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
       "ordem": 2,
-      "paragrafos_ccc": ["1830-1831"],
+      "paragrafos_ccc": [
+        "1830-1831"
+      ],
       "fontes": [
         "Catecismo da Igreja Católica, nn. 1830-1831",
         "Is 11,1-2"
-      ]
+      ],
+      "imagem_credito": null
     },
     {
       "id": "crisma:os-frutos-do-espirito-santo",
@@ -51,14 +67,22 @@
       "categoria": "crisma",
       "resumo": "Os frutos que a tradição enumera a partir de Gálatas 5,22-23 como sinais da ação do Espírito na vida cristã.",
       "corpo": "Os frutos do Espírito Santo são, segundo o Catecismo, «perfeições que o Espírito Santo forma em nós como primícias da glória eterna». A tradição da Igreja os enumera a partir de Gálatas 5,22-23: caridade, alegria, paz, paciência, longanimidade, bondade, benignidade, mansidão, fidelidade, modéstia, continência e castidade.\n\nEnquanto os dons dispõem a pessoa à ação do Espírito, os frutos são o efeito visível dessa ação na conduta: são o critério concreto para verificar se a vida cristã está crescendo.\n\nPor isso a preparação para a Confirmação não termina no dia da celebração: ela desemboca na vida sacramental, na oração e na caridade praticada, onde esses frutos amadurecem.",
-      "tags": ["frutos", "espírito santo", "caridade", "vida cristã"],
-      "imagem": null,
+      "tags": [
+        "frutos",
+        "espírito santo",
+        "caridade",
+        "vida cristã"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/46/Dublin_Christ_Church_Cathedral_Passage_to_Synod_Hall_Window_Fruit_of_the_Spirit_2012_09_26.jpg",
       "ordem": 3,
-      "paragrafos_ccc": ["1832"],
+      "paragrafos_ccc": [
+        "1832"
+      ],
       "fontes": [
         "Catecismo da Igreja Católica, n. 1832",
         "Gl 5,22-23"
-      ]
+      ],
+      "imagem_credito": "Foto: Andreas F. Borchert (2012) — Wikimedia Commons, CC BY-SA 4.0"
     }
   ]
 }

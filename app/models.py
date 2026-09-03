@@ -51,6 +51,11 @@ class ContentEntry(BaseModel):
     categoria: Category
     tags: list[str] = Field(default_factory=list)
     imagem: str | None = None
+    imagem_credito: str | None = None
+    """Crédito exigido pela licença da imagem (ex.: "Foto: Fulano — CC BY-SA
+    4.0"). `None` quando a imagem é de domínio público ou CC0, onde crédito
+    não é obrigatório (ainda que seja boa prática). Nunca preenchido sem
+    `imagem` também estar preenchida."""
     fontes: list[str] = Field(default_factory=list)
 
 
