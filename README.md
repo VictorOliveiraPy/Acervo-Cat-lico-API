@@ -162,7 +162,7 @@ Ao adicionar entradas, siga as mesmas regras que valem para o que já está lá:
 5. **Revisão eclesiástica.** Para uso catequético real, o material deve ser
    revisado por autoridade competente — a API não substitui isso.
 
-Conteúdo atual: 54 entradas nas 11 categorias.
+Conteúdo atual: 59 entradas nas 11 categorias.
 
 ## Configuração
 
