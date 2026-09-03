@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "categoria": "doutores-igreja",
+    "nome": "Doutores da Igreja",
+    "descricao": "Santos e santas cuja doutrina a Igreja reconhece como referência eminente para toda a cristandade.",
+    "status": "exemplos-iniciais",
+    "aviso": "Conjunto inicial de exemplos para desenvolvimento. NÃO é a lista completa dos Doutores da Igreja: deve ser expandido e revisado contra os documentos de proclamação antes de qualquer uso editorial.",
+    "revisao_editorial": "O campo 'ano_proclamacao' registra o ano do ato pontifício de proclamação como Doutor da Igreja. Títulos honoríficos são os consagrados pela tradição e pelo magistério, não formulações deste acervo.",
+    "fontes_gerais": [
+      "Atos pontifícios de proclamação de Doutores da Igreja (vatican.va)",
+      "Catecismo da Igreja Católica"
+    ]
+  },
+  "itens": [
+    {
+      "id": "doutores-igreja:agostinho-de-hipona",
+      "slug": "agostinho-de-hipona",
+      "titulo": "Santo Agostinho de Hipona",
+      "categoria": "doutores-igreja",
+      "resumo": "Bispo de Hipona (354-430), um dos quatro grandes Doutores da Igreja latina; autor das «Confissões» e de «A Cidade de Deus».",
+      "corpo": "Agostinho nasceu em Tagaste, no norte da África, em 354. Depois de uma longa busca intelectual e religiosa, converteu-se e foi batizado em Milão, sob a influência de Santo Ambrósio e das orações de sua mãe, Santa Mônica. Tornou-se sacerdote e depois Bispo de Hipona.\n\nSua obra é vastíssima: as «Confissões», narrativa da própria conversão em forma de oração; «A Cidade de Deus», sobre as duas cidades edificadas pelo amor de Deus e pelo amor de si; tratados sobre a Trindade, a graça e a interpretação da Escritura, além de centenas de sermões e cartas.\n\nMorreu em Hipona em 430. É contado entre os quatro grandes Doutores da Igreja latina, ao lado de Ambrósio, Jerônimo e Gregório Magno, e recebeu da tradição o título de «Doutor da Graça». Sua memória litúrgica é celebrada em 28 de agosto.",
+      "tags": ["patrística", "graça", "África", "século IV", "século V"],
+      "imagem": null,
+      "titulo_honorifico": "Doutor da Graça (Doctor Gratiae)",
+      "ano_proclamacao": 1298,
+      "fontes": [
+        "Santo Agostinho, «Confissões»",
+        "Santo Agostinho, «De civitate Dei»",
+        "Catecismo da Igreja Católica, n. 27 (citação das «Confissões», I, 1, 1)"
+      ]
+    },
+    {
+      "id": "doutores-igreja:tomas-de-aquino",
+      "slug": "tomas-de-aquino",
+      "titulo": "Santo Tomás de Aquino",
+      "categoria": "doutores-igreja",
+      "resumo": "Frade dominicano do século XIII, autor da «Suma Teológica»; chamado Doutor Angélico.",
+      "corpo": "Tomás nasceu no reino de Nápoles, no início do século XIII, e entrou na Ordem dos Pregadores (dominicanos). Estudou sob Santo Alberto Magno e ensinou em Paris e na Itália.\n\nSua obra mais conhecida é a «Suma Teológica», exposição ordenada da doutrina cristã que articula a fé com a filosofia, em especial com Aristóteles. Escreveu também a «Suma contra os Gentios», comentários à Escritura e a Aristóteles, e textos litúrgicos para a solenidade do Corpus Christi atribuídos a ele pela tradição, como o «Pange lingua» e o «Adoro te devote».\n\nMorreu em 1274. Foi proclamado Doutor da Igreja por Pio V, em 1567, e é chamado Doutor Angélico. Leão XIII, na encíclica «Aeterni Patris» (1879), recomendou seu estudo nas escolas católicas; o Concílio Vaticano II o menciona como mestre na formação teológica.",
+      "tags": ["dominicanos", "escolástica", "teologia", "século XIII"],
+      "imagem": null,
+      "titulo_honorifico": "Doutor Angélico (Doctor Angelicus)",
+      "ano_proclamacao": 1567,
+      "fontes": [
+        "Santo Tomás de Aquino, «Summa Theologiae»",
+        "Leão XIII, Carta Encíclica «Aeterni Patris» (4 de agosto de 1879)",
+        "Concílio Vaticano II, Decreto «Optatam Totius» (1965), n. 16"
+      ]
+    },
+    {
+      "id": "doutores-igreja:teresa-de-avila",
+      "slug": "teresa-de-avila",
+      "titulo": "Santa Teresa de Ávila, Doutora da Igreja",
+      "categoria": "doutores-igreja",
+      "resumo": "Reformadora do Carmelo e mestra da oração; primeira mulher proclamada Doutora da Igreja, em 1970.",
+      "corpo": "Teresa de Jesus (1515-1582), carmelita de Ávila, reformou o Carmelo e deixou uma doutrina espiritual que a Igreja reconhece como magistério de vida de oração.\n\nSuas obras — «Livro da Vida», «Caminho de Perfeição», «Castelo Interior (Moradas)» e as «Fundações» — descrevem o caminho da oração desde os primeiros passos até a união com Deus, sempre com insistência na humildade, na verdade e na vida fraterna dentro da comunidade.\n\nEm 27 de setembro de 1970, Paulo VI a proclamou Doutora da Igreja pela Carta Apostólica «Multiformis sapientia Dei» — a primeira mulher a receber o título. Poucos dias depois, o mesmo Papa proclamou Doutora Santa Catarina de Sena.",
+      "tags": ["carmelitas", "mística", "oração", "século XVI"],
+      "imagem": null,
+      "titulo_honorifico": "Doutora da Igreja",
+      "ano_proclamacao": 1970,
+      "fontes": [
+        "Paulo VI, Carta Apostólica «Multiformis sapientia Dei» (27 de setembro de 1970)",
+        "Santa Teresa de Jesus, «Castelo Interior (Moradas)»",
+        "Catecismo da Igreja Católica, n. 2709 (citação do «Livro da Vida», 8, 5)"
+      ]
+    }
+  ]
+}

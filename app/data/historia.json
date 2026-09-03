@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "categoria": "historia",
+    "nome": "História da Igreja",
+    "descricao": "Períodos amplos da história da Igreja, apresentados como recorte didático.",
+    "status": "exemplos-iniciais",
+    "aviso": "Conjunto inicial de exemplos para desenvolvimento. A divisão em períodos é um recurso didático, não uma classificação oficial da Igreja; os limites de século são aproximados e discutidos entre historiadores.",
+    "revisao_editorial": "Cada período cita apenas fatos com data amplamente documentada (concílios, editos, documentos pontifícios). Nenhuma data foi arredondada para dar impressão de precisão, e as transições entre períodos aparecem explicitamente como aproximadas.",
+    "fontes_gerais": [
+      "Documentos dos concílios ecumênicos (vatican.va)",
+      "Catecismo da Igreja Católica",
+      "Denzinger-Hünermann, «Enchiridion symbolorum»"
+    ]
+  },
+  "itens": [
+    {
+      "id": "historia:igreja-primitiva",
+      "slug": "igreja-primitiva",
+      "titulo": "Igreja primitiva",
+      "categoria": "historia",
+      "resumo": "Da Pentecostes ao reconhecimento legal do cristianismo no Império Romano: era apostólica, Padres da Igreja e perseguições.",
+      "corpo": "O período começa com a Pentecostes e a pregação dos Apóstolos, narrada nos Atos dos Apóstolos, e se estende pelos primeiros séculos de expansão do cristianismo na bacia do Mediterrâneo.\n\nÉ o tempo da formação do cânon das Escrituras, dos Padres apostólicos e dos primeiros apologistas, da consolidação da estrutura episcopal e da liturgia. É também o tempo das perseguições — sob vários imperadores romanos, em momentos e regiões distintos — e da memória dos mártires, que se tornou parte central da devoção cristã.\n\nO Edito de Milão, em 313, mudou a situação jurídica dos cristãos no Império. Poucos anos depois, em 325, reuniu-se em Niceia o primeiro concílio ecumênico. Esses dois marcos são usados aqui como fronteira aproximada com o período seguinte.",
+      "tags": ["apóstolos", "mártires", "padres da Igreja", "Roma antiga"],
+      "imagem": null,
+      "periodo": "século I ao início do século IV (limites aproximados)",
+      "fontes": [
+        "Atos dos Apóstolos",
+        "Concílio de Niceia I (325) — Símbolo niceno",
+        "Catecismo da Igreja Católica, nn. 731-747 (Pentecostes e a Igreja)"
+      ]
+    },
+    {
+      "id": "historia:idade-media",
+      "slug": "idade-media",
+      "titulo": "Idade Média",
+      "categoria": "historia",
+      "resumo": "Monaquismo, cristianização da Europa, universidades e escolástica; também o cisma entre Oriente e Ocidente.",
+      "corpo": "Convencionalmente situada entre os séculos V e XV, a Idade Média é o período em que a Igreja participa decisivamente da formação da Europa: o monaquismo — com a Regra de São Bento como referência — preserva e transmite cultura, e as ordens mendicantes (franciscanos e dominicanos), surgidas no século XIII, renovam a pregação e a vida religiosa.\n\nÉ o tempo das grandes catedrais, do nascimento das universidades e da teologia escolástica, cujo expoente maior é Santo Tomás de Aquino, e da consolidação do direito canônico.\n\nÉ também o período de tensões graves, entre elas a ruptura entre Oriente e Ocidente, cujos episódios de 1054 são o marco tradicional, e os conflitos entre poder espiritual e poder temporal. Os concílios medievais — de Latrão a Constança — pertencem a essa história.",
+      "tags": ["monaquismo", "escolástica", "cisma", "ordens mendicantes"],
+      "imagem": null,
+      "periodo": "séculos V a XV (limites aproximados)",
+      "fontes": [
+        "Regra de São Bento",
+        "Santo Tomás de Aquino, «Summa Theologiae»",
+        "Documentos dos concílios ecumênicos medievais (vatican.va)"
+      ]
+    },
+    {
+      "id": "historia:epoca-moderna",
+      "slug": "epoca-moderna",
+      "titulo": "Época moderna",
+      "categoria": "historia",
+      "resumo": "Reforma protestante, Concílio de Trento e a reforma católica, expansão missionária e novas congregações.",
+      "corpo": "A partir do século XVI, a Reforma protestante rompe a unidade religiosa da Europa ocidental. A resposta da Igreja se articula sobretudo no Concílio de Trento (1545-1563), que define doutrina sobre Escritura e Tradição, justificação e sacramentos, e determina medidas de reforma disciplinar, como a criação de seminários.\n\nO período vê nascer congregações e ordens de forte impulso missionário e educativo — entre elas a Companhia de Jesus, aprovada em 1540 — e a expansão missionária ligada à navegação europeia, com todos os problemas históricos que a acompanharam.\n\nÉ ainda o tempo dos catecismos, do Missal reformado após Trento e de figuras como Santa Teresa de Ávila e São João da Cruz na renovação da vida contemplativa. Os séculos seguintes, com o Concílio Vaticano I (1869-1870), abrem caminho para a época contemporânea.",
+      "tags": ["Trento", "reforma", "missões", "século XVI"],
+      "imagem": null,
+      "periodo": "século XVI ao século XIX (limites aproximados)",
+      "fontes": [
+        "Concílio de Trento (1545-1563), decretos e cânones",
+        "Concílio Vaticano I (1869-1870), Constituição Dogmática «Pastor Aeternus»",
+        "Denzinger-Hünermann, nn. 1500-1835"
+      ]
+    }
+  ]
+}

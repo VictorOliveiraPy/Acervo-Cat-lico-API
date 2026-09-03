@@ -1,0 +1,27 @@
+# Render Blueprint — https://render.com/docs/blueprint-spec
+#
+# Deploy: conecte este repositório no Render (New > Blueprint) e ele lê
+# este arquivo sozinho. `sync: false` nas variáveis abaixo significa "não
+# tem valor padrão seguro, preencha no dashboard" — nunca um segredo ou
+# uma origem de CORS de verdade fica commitado aqui.
+services:
+  - type: web
+    name: acervo-catolico-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: ENVIRONMENT
+        value: production
+      - key: DEBUG
+        value: "false"
+      - key: CORS_ORIGINS
+        # Formato exato (pydantic-settings espera JSON, não CSV):
+        # ["https://SEU-PROJETO.vercel.app"]
+        # Preencha DEPOIS de saber a URL do frontend no Vercel — ver
+        # DEPLOY.md, "Ordem de deploy".
+        sync: false

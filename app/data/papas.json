@@ -1,0 +1,70 @@
+{
+  "_meta": {
+    "categoria": "papas",
+    "nome": "Papas",
+    "descricao": "Romanos Pontífices: sucessão apostólica e pontificados de referência.",
+    "status": "exemplos-iniciais",
+    "aviso": "Conjunto inicial de exemplos para desenvolvimento. NÃO é a lista completa dos Romanos Pontífices: deve ser expandido e revisado contra fonte primária antes de qualquer uso editorial.",
+    "revisao_editorial": "Para os pontificados do primeiro século não há datação com certeza documental; nesses casos os campos de data foram deixados nulos e a informação tradicional é declarada como tal no corpo do texto.",
+    "fontes_gerais": [
+      "Annuario Pontificio (Santa Sé)",
+      "vatican.va — arquivo dos Sumos Pontífices"
+    ]
+  },
+  "itens": [
+    {
+      "id": "papas:sao-pedro",
+      "slug": "sao-pedro",
+      "titulo": "São Pedro Apóstolo",
+      "categoria": "papas",
+      "resumo": "Apóstolo escolhido por Cristo como pedra da Igreja; primeiro na sucessão dos Bispos de Roma.",
+      "corpo": "Simão, filho de Jonas, pescador da Galileia, foi chamado por Jesus e recebeu dele o nome de Pedro. Os Evangelhos o apresentam como o primeiro entre os Doze; em Mateus 16,18-19 Cristo lhe declara: «Tu és Pedro, e sobre esta pedra edificarei a minha Igreja», confiando-lhe as chaves do Reino.\n\nOs Atos dos Apóstolos narram seu papel na primeira comunidade de Jerusalém, na Pentecostes e na abertura da pregação aos gentios. A tradição da Igreja, atestada desde os primeiros séculos, sustenta que Pedro terminou seu ministério em Roma e ali sofreu o martírio durante a perseguição de Nero, sendo sepultado na colina do Vaticano — local sobre o qual se ergueu a Basílica de São Pedro.\n\nNão há documentação que permita fixar com certeza as datas do seu pontificado; por isso este acervo as omite. O Concílio Vaticano I e o Concílio Vaticano II expõem a doutrina do primado de Pedro e da sua sucessão nos Bispos de Roma.",
+      "tags": ["apóstolo", "primado", "Roma", "sucessão apostólica"],
+      "imagem": null,
+      "numero_ordem": 1,
+      "pontificado_inicio": null,
+      "pontificado_fim": null,
+      "fontes": [
+        "Mt 16,13-19; Jo 21,15-17; Atos dos Apóstolos 1-12",
+        "Concílio Vaticano II, Constituição Dogmática «Lumen Gentium» (1964), nn. 18-23",
+        "Catecismo da Igreja Católica, nn. 880-882"
+      ]
+    },
+    {
+      "id": "papas:joao-paulo-ii",
+      "slug": "joao-paulo-ii",
+      "titulo": "São João Paulo II",
+      "categoria": "papas",
+      "resumo": "Karol Wojtyła, papa de 1978 a 2005; promulgou o Catecismo da Igreja Católica e o Código de Direito Canônico de 1983.",
+      "corpo": "Karol Wojtyła nasceu em Wadowice, na Polônia, em 1920. Sacerdote e depois Arcebispo de Cracóvia, participou do Concílio Vaticano II. Foi eleito Bispo de Roma em 16 de outubro de 1978, o primeiro papa não italiano em vários séculos.\n\nSeu pontificado, um dos mais longos da história, foi marcado pelas viagens apostólicas a todos os continentes, pela instituição das Jornadas Mundiais da Juventude e por um magistério extenso, com encíclicas como «Redemptor Hominis» (1979), «Veritatis Splendor» (1993) e «Fides et Ratio» (1998). Promulgou o Código de Direito Canônico em 1983 e o Catecismo da Igreja Católica pela Constituição Apostólica «Fidei Depositum», em 1992.\n\nMorreu em 2 de abril de 2005. Foi canonizado em 27 de abril de 2014 por Francisco. Sua memória litúrgica é celebrada em 22 de outubro.",
+      "tags": ["século XX", "Vaticano II", "catecismo", "Polônia", "JMJ"],
+      "imagem": null,
+      "numero_ordem": 264,
+      "pontificado_inicio": "16 de outubro de 1978",
+      "pontificado_fim": "2 de abril de 2005",
+      "fontes": [
+        "João Paulo II, Constituição Apostólica «Fidei Depositum» (11 de outubro de 1992)",
+        "Código de Direito Canônico (1983), Constituição Apostólica «Sacrae Disciplinae Leges»",
+        "vatican.va — biografia de São João Paulo II"
+      ]
+    },
+    {
+      "id": "papas:bento-xvi",
+      "slug": "bento-xvi",
+      "titulo": "Bento XVI",
+      "categoria": "papas",
+      "resumo": "Joseph Ratzinger, papa de 2005 a 2013; renunciou ao ministério petrino, caso raríssimo na história da Igreja.",
+      "corpo": "Joseph Ratzinger nasceu em Marktl am Inn, na Baviera (Alemanha), em 1927. Teólogo e professor universitário, participou do Concílio Vaticano II como peritus. Foi Arcebispo de Munique e Freising e, por longos anos, Prefeito da Congregação para a Doutrina da Fé, período em que acompanhou de perto a redação do Catecismo da Igreja Católica.\n\nEleito Bispo de Roma em 19 de abril de 2005, escreveu as encíclicas «Deus Caritas Est» (2005), «Spe Salvi» (2007) e «Caritas in Veritate» (2009), além da trilogia «Jesus de Nazaré». Convocou o Ano da Fé e deu impulso ao tema da relação entre fé e razão.\n\nEm 11 de fevereiro de 2013 anunciou, pela «Declaratio», a renúncia ao ministério de Bispo de Roma, com efeito a partir de 28 de fevereiro de 2013. Viveu depois como Papa emérito no Vaticano e morreu em 31 de dezembro de 2022.",
+      "tags": ["século XXI", "teologia", "renúncia", "Alemanha"],
+      "imagem": null,
+      "numero_ordem": 265,
+      "pontificado_inicio": "19 de abril de 2005",
+      "pontificado_fim": "28 de fevereiro de 2013",
+      "fontes": [
+        "Bento XVI, «Declaratio» (11 de fevereiro de 2013)",
+        "Bento XVI, Carta Encíclica «Deus Caritas Est» (25 de dezembro de 2005)",
+        "vatican.va — biografia de Bento XVI"
+      ]
+    }
+  ]
+}

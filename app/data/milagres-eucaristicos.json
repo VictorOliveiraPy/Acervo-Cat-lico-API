@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "categoria": "milagres-eucaristicos",
+    "nome": "Milagres Eucarísticos",
+    "descricao": "Milagres eucarísticos com culto e documentação eclesiástica reconhecidos.",
+    "status": "exemplos-iniciais",
+    "aviso": "Conjunto inicial de exemplos para desenvolvimento. Inclui apenas casos com culto aprovado e longa documentação eclesiástica; NÃO é um catálogo definitivo e não substitui o juízo da autoridade eclesiástica competente.",
+    "revisao_editorial": "Milagres eucarísticos são fatos de devoção privada aprovada, não artigos de fé. As datas de origem destes casos são transmitidas pela tradição local e não têm precisão documental; por isso aparecem como século ou com 'segundo a tradição', e nenhuma data foi convertida em número exato.",
+    "fontes_gerais": [
+      "Catecismo da Igreja Católica, nn. 1373-1381 (presença real de Cristo na Eucaristia)",
+      "Documentação e arquivos dos santuários responsáveis pela custódia das relíquias"
+    ]
+  },
+  "itens": [
+    {
+      "id": "milagres-eucaristicos:lanciano",
+      "slug": "lanciano",
+      "titulo": "Milagre Eucarístico de Lanciano",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Relíquias de carne e sangue conservadas em Lanciano, na Itália, veneradas desde a Idade Média.",
+      "corpo": "Em Lanciano, na região dos Abruzos (Itália), conservam-se relíquias de carne e de sangue coagulado veneradas como milagre eucarístico. A tradição local situa o fato no século VIII, durante uma Missa em que um monge duvidava da presença real de Cristo na Eucaristia.\n\nAs relíquias são custodiadas no Santuário do Milagre Eucarístico de Lanciano, sob os cuidados dos frades menores conventuais, e são expostas à veneração dos fiéis. O caso é um dos mais antigos e mais divulgados da devoção eucarística latina.\n\nA Igreja permite e acompanha esse culto, mas a fé na presença real não depende de nenhum milagre particular: ela se funda nas palavras de Cristo e na doutrina professada pela Igreja, como expõe o Catecismo nos nn. 1373-1381.",
+      "tags": ["eucaristia", "Itália", "relíquia", "presença real"],
+      "imagem": null,
+      "local": "Lanciano, Abruzos (Itália)",
+      "ano": "século VIII (segundo a tradição local)",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1373-1381",
+        "Santuário do Milagre Eucarístico de Lanciano — documentação de custódia"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:bolsena-orvieto",
+      "slug": "bolsena-orvieto",
+      "titulo": "Milagre Eucarístico de Bolsena-Orvieto",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Corporal manchado de sangue venerado na Catedral de Orvieto, associado pela tradição à instituição da festa de Corpus Christi.",
+      "corpo": "Segundo a tradição, durante uma Missa celebrada na igreja de Santa Cristina, em Bolsena (Itália), o corporal foi manchado pelo sangue que brotou da hóstia consagrada. O corporal é conservado e venerado na Catedral de Orvieto, onde se construiu uma capela própria para guardá-lo.\n\nA tradição relaciona o fato à instituição da solenidade do Santíssimo Corpo e Sangue de Cristo (Corpus Christi) para toda a Igreja latina, feita por Urbano IV pela bula «Transiturus de hoc mundo», em 1264. O texto da bula, contudo, não narra o milagre: o vínculo entre os dois eventos pertence à tradição local, e este acervo o registra como tal.\n\nAo Ofício e à Missa da solenidade estão ligados hinos da tradição atribuídos a Santo Tomás de Aquino, entre eles o «Pange lingua» e o «Lauda Sion».",
+      "tags": ["eucaristia", "Corpus Christi", "Itália", "Orvieto"],
+      "imagem": null,
+      "local": "Bolsena e Orvieto (Itália)",
+      "ano": "1263 (segundo a tradição)",
+      "fontes": [
+        "Urbano IV, Bula «Transiturus de hoc mundo» (1264)",
+        "Catecismo da Igreja Católica, nn. 1373-1381",
+        "Catedral de Orvieto — Capela do Corporal, documentação de custódia"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:santarem",
+      "slug": "santarem",
+      "titulo": "Milagre Eucarístico de Santarém",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Relíquia eucarística venerada na Igreja do Santíssimo Milagre, em Santarém, Portugal.",
+      "corpo": "Em Santarém, Portugal, a Igreja de Santo Estêvão — conhecida como Igreja do Santíssimo Milagre — conserva uma relíquia eucarística venerada há séculos pelos fiéis. A tradição local situa a origem do fato na Idade Média e o associa a uma hóstia consagrada subtraída de uma celebração.\n\nA relíquia é exposta à veneração e é objeto de romaria e de procissão próprias na cidade. Como nos demais casos, a documentação primária mais antiga é escassa, e este acervo se limita a registrar o que a tradição transmite, sem fixar datas exatas.\n\nO valor catequético desses fatos é despertar a fé e a adoração devidas ao Santíssimo Sacramento, cuja doutrina a Igreja professa independentemente de qualquer sinal extraordinário.",
+      "tags": ["eucaristia", "Portugal", "relíquia", "adoração"],
+      "imagem": null,
+      "local": "Santarém (Portugal)",
+      "ano": "século XIII (segundo a tradição local)",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1373-1381",
+        "Igreja do Santíssimo Milagre (Santo Estêvão), Santarém — documentação de custódia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "_meta": {
+    "categoria": "catecismo",
+    "nome": "Catecismo",
+    "descricao": "As quatro partes do Catecismo da Igreja Católica e o que cada uma expõe.",
+    "status": "exemplos-iniciais",
+    "aviso": "Conjunto inicial de exemplos para desenvolvimento: apresenta a estrutura das quatro partes do Catecismo, NÃO um resumo do seu conteúdo nem substituto de sua leitura. Deve ser expandido seção por seção.",
+    "revisao_editorial": "As faixas de parágrafos correspondem à numeração da edição típica latina do Catecismo da Igreja Católica (1997). O Prólogo (nn. 1-25) precede a primeira parte.",
+    "fontes_gerais": [
+      "Catecismo da Igreja Católica (edição típica, 1997) — texto integral em vatican.va",
+      "João Paulo II, Constituição Apostólica «Fidei Depositum» (11 de outubro de 1992)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "catecismo:profissao-da-fe",
+      "slug": "profissao-da-fe",
+      "titulo": "Primeira parte: A profissão da fé",
+      "categoria": "catecismo",
+      "resumo": "O que a Igreja crê: a Revelação de Deus, a resposta da fé e a exposição do Símbolo dos Apóstolos.",
+      "corpo": "A primeira parte do Catecismo trata da fé: Deus vem ao encontro do homem e se revela; o homem responde pela fé, na Igreja, que a transmite e professa.\n\nA seção seguinte percorre o Símbolo dos Apóstolos, artigo por artigo, com o Símbolo niceno-constantinopolitano em paralelo: a fé em Deus Pai criador, em Jesus Cristo — encarnação, paixão, morte, ressurreição e ascensão —, no Espírito Santo, na Igreja, na comunhão dos santos, na remissão dos pecados, na ressurreição da carne e na vida eterna.\n\nÉ a parte que responde à pergunta «em quem e no que cremos», base sobre a qual se assentam as três seguintes.",
+      "tags": ["fé", "credo", "revelação", "trindade"],
+      "imagem": null,
+      "ordem": 1,
+      "paragrafos_ccc": ["26-1065"],
+      "fontes": [
+        "Catecismo da Igreja Católica, Primeira Parte, nn. 26-1065",
+        "Catecismo da Igreja Católica, Prólogo, nn. 1-25"
+      ]
+    },
+    {
+      "id": "catecismo:celebracao-do-misterio-cristao",
+      "slug": "celebracao-do-misterio-cristao",
+      "titulo": "Segunda parte: A celebração do mistério cristão",
+      "categoria": "catecismo",
+      "resumo": "A economia sacramental e os sete sacramentos: como a salvação celebrada na liturgia é comunicada.",
+      "corpo": "A segunda parte expõe a liturgia como obra da Santíssima Trindade e ação de Cristo e da Igreja. Explica a economia sacramental: os sacramentos são sinais eficazes da graça, instituídos por Cristo e confiados à Igreja.\n\nEm seguida, trata dos sete sacramentos, agrupados em sacramentos da iniciação cristã (Batismo, Confirmação e Eucaristia), sacramentos de cura (Penitência e Unção dos enfermos) e sacramentos ao serviço da comunhão e da missão (Ordem e Matrimônio). Aborda também os sacramentais e as exéquias cristãs.\n\nÉ a parte que responde à pergunta «como celebramos e recebemos o que cremos».",
+      "tags": ["liturgia", "sacramentos", "eucaristia", "batismo"],
+      "imagem": null,
+      "ordem": 2,
+      "paragrafos_ccc": ["1066-1690"],
+      "fontes": [
+        "Catecismo da Igreja Católica, Segunda Parte, nn. 1066-1690",
+        "Concílio Vaticano II, Constituição «Sacrosanctum Concilium» (1963)"
+      ]
+    },
+    {
+      "id": "catecismo:vida-em-cristo",
+      "slug": "vida-em-cristo",
+      "titulo": "Terceira parte: A vida em Cristo",
+      "categoria": "catecismo",
+      "resumo": "A vocação do homem à bem-aventurança, a liberdade, a graça, os Dez Mandamentos e a vida em sociedade.",
+      "corpo": "A terceira parte trata da vida moral cristã. Parte da dignidade do homem, criado à imagem de Deus e chamado à bem-aventurança, e percorre a liberdade humana, a moralidade dos atos, as paixões, a consciência moral, as virtudes e o pecado.\n\nTrata em seguida da vida comunitária — pessoa e sociedade, participação na vida social, justiça social — e da salvação por meio da graça, da lei e da Igreja como mãe e educadora.\n\nA segunda seção comenta os Dez Mandamentos, mandamento por mandamento, lidos à luz de Cristo e do duplo mandamento do amor a Deus e ao próximo.",
+      "tags": ["moral", "mandamentos", "virtudes", "consciência"],
+      "imagem": null,
+      "ordem": 3,
+      "paragrafos_ccc": ["1691-2557"],
+      "fontes": [
+        "Catecismo da Igreja Católica, Terceira Parte, nn. 1691-2557",
+        "Concílio Vaticano II, Constituição Pastoral «Gaudium et Spes» (1965)"
+      ]
+    },
+    {
+      "id": "catecismo:oracao-crista",
+      "slug": "oracao-crista",
+      "titulo": "Quarta parte: A oração cristã",
+      "categoria": "catecismo",
+      "resumo": "A oração na vida cristã e o comentário ao Pai-Nosso, «a oração do Senhor».",
+      "corpo": "A quarta parte apresenta a oração como dom, aliança e comunhão. Percorre a revelação da oração no Antigo Testamento, na vida de Cristo e no tempo da Igreja, e trata das expressões da oração — vocal, meditação e oração contemplativa — bem como do combate da oração, das distrações e da perseverança.\n\nA segunda seção é um comentário ao Pai-Nosso, «a oração do Senhor»: a invocação e as sete petições, uma a uma, com a doxologia final.\n\nÉ a parte que responde à pergunta «como falamos com Deus aquilo que cremos, celebramos e vivemos».",
+      "tags": ["oração", "pai-nosso", "vida espiritual"],
+      "imagem": null,
+      "ordem": 4,
+      "paragrafos_ccc": ["2558-2865"],
+      "fontes": [
+        "Catecismo da Igreja Católica, Quarta Parte, nn. 2558-2865",
+        "Mt 6,9-13; Lc 11,2-4"
+      ]
+    }
+  ]
+}
