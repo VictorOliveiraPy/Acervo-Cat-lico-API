@@ -1,0 +1,103 @@
+{
+  "_meta": {
+    "categoria": "livros",
+    "nome": "Livros",
+    "descricao": "Indicações de leitura: clássicos da espiritualidade católica e obras de referência.",
+    "status": "exemplos-iniciais",
+    "aviso": "Conjunto inicial de exemplos para desenvolvimento. NÃO é um catálogo definitivo nem exaustivo: deve ser expandido e revisado antes de qualquer uso editorial. Datas de publicação de obras antigas são aproximadas quando a fonte primária não permite precisão.",
+    "revisao_editorial": "Datas de composição de obras medievais/antigas aparecem como aproximadas ('c.') quando não há consenso entre os historiadores.",
+    "fontes_gerais": []
+  },
+  "itens": [
+    {
+      "id": "livros:confissoes-agostinho",
+      "slug": "confissoes-agostinho",
+      "titulo": "Confissões",
+      "categoria": "livros",
+      "resumo": "Relato autobiográfico da conversão de Santo Agostinho, um dos textos fundadores da introspecção espiritual ocidental.",
+      "corpo": "Escritas entre 397 e 400, as «Confissões» narram, em forma de oração dirigida a Deus, a trajetória de Agostinho da juventude dissoluta na Numídia romana até a conversão ao cristianismo em Milão, sob influência de Santo Ambrósio e de leituras neoplatônicas e paulinas.\n\nÉ considerada a primeira autobiografia espiritual da tradição ocidental e um marco na reflexão sobre memória, tempo e interioridade — os últimos livros da obra dedicam-se a uma meditação filosófica sobre o tempo e a criação, distante do tom narrativo dos primeiros.\n\nÉ leitura recomendada a quem busca entender a experiência da conversão e da graça na tradição cristã, narrada com uma sinceridade rara para a época — Agostinho não poupa os próprios erros de juventude.",
+      "tags": ["patrística", "conversão", "espiritualidade", "Santo Agostinho"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg",
+      "imagem_credito": null,
+      "fontes": ["Santo Agostinho, «Confissões», edição crítica"],
+      "autor": "Santo Agostinho de Hipona",
+      "ano_publicacao": "c. 397-400",
+      "genero": "Autobiografia espiritual"
+    },
+    {
+      "id": "livros:imitacao-de-cristo",
+      "slug": "imitacao-de-cristo",
+      "titulo": "A Imitação de Cristo",
+      "categoria": "livros",
+      "resumo": "Manual clássico de vida espiritual e devoção interior, um dos livros cristãos mais traduzidos da história.",
+      "corpo": "Compilado no início do século XV — a atribuição mais aceita, embora não unânime entre os historiadores, é do cônego agostiniano Tomás de Kempis, ligado ao movimento da «Devotio Moderna» —, «A Imitação de Cristo» é um manual de vida espiritual dividido em quatro livros, voltado à união com Deus pela humildade, pelo desapego das coisas do mundo e pela imitação da vida de Cristo.\n\nTornou-se, depois da Bíblia, um dos livros cristãos mais editados e traduzidos da história, influenciando gerações de leitores dentro e fora do catolicismo — de Inácio de Loyola a Thomas Merton.\n\nÉ uma leitura densa e sentenciosa, pensada para ser lida aos poucos, em capítulos curtos, mais como alimento diário para a oração do que como texto corrido.",
+      "tags": ["espiritualidade", "Devotio Moderna", "Idade Média"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Thomas_%C3%A0_Kempis_-_De_Imitatione_Christi.gif",
+      "imagem_credito": null,
+      "fontes": ["Tomás de Kempis (atrib.), «De Imitatione Christi», manuscrito autógrafo de 1441"],
+      "autor": "Tomás de Kempis (atribuição tradicional)",
+      "ano_publicacao": "c. 1418-1427",
+      "genero": "Espiritualidade"
+    },
+    {
+      "id": "livros:castelo-interior",
+      "slug": "castelo-interior",
+      "titulo": "Castelo Interior (Moradas)",
+      "categoria": "livros",
+      "resumo": "Descrição, em sete «moradas» concêntricas, do itinerário da alma até a união mística com Deus.",
+      "corpo": "Escrito em 1577 por ordem do confessor de Teresa de Ávila, «Castelo Interior» descreve a alma como um castelo de cristal com sete moradas concêntricas, percorridas em direção ao centro, onde habita Deus. Cada morada corresponde a um estágio do caminho espiritual, da oração vocal simples até a «união mística» e o «matrimônio espiritual».\n\nÉ considerada a obra-prima da teologia mística de Teresa de Ávila e um dos textos centrais da chamada «escola carmelitana», ao lado dos escritos de São João da Cruz. Em 1970, essa obra e o conjunto de sua produção espiritual contribuíram para que Teresa se tornasse a primeira mulher proclamada Doutora da Igreja.\n\nRecomendado a leitores já com alguma base em oração — é um texto exigente, escrito por uma mística experiente para orientar outras almas em oração, não uma introdução ao tema.",
+      "tags": ["mística", "carmelitas", "oração", "Espanha"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Santa_Teresa_en_gloria_%28Novelli%29.jpg",
+      "imagem_credito": null,
+      "fontes": ["Santa Teresa de Jesus, «Castelo Interior (Moradas)» (1577)"],
+      "autor": "Santa Teresa de Ávila",
+      "ano_publicacao": "1577",
+      "genero": "Teologia mística"
+    },
+    {
+      "id": "livros:historia-de-uma-alma",
+      "slug": "historia-de-uma-alma",
+      "titulo": "História de uma Alma",
+      "categoria": "livros",
+      "resumo": "Autobiografia espiritual de Teresinha de Lisieux, que apresenta o «caminhozinho» da confiança e do amor nas pequenas coisas.",
+      "corpo": "Escrita por obediência às superioras do Carmelo de Lisieux nos últimos anos de vida de Teresa e publicada um ano após sua morte, em 1898, «História de uma Alma» narra sua infância, vocação e vida religiosa, e expõe o que ficou conhecido como o «caminhozinho» (petite voie): a santidade buscada não em grandes feitos, mas na confiança total em Deus e no amor vivido nas pequenas ações do cotidiano.\n\nO livro teve enorme difusão popular no século XX e foi decisivo para a canonização rápida de Teresinha, em 1925, e para sua proclamação como Doutora da Igreja em 1997.\n\nÉ uma das portas de entrada mais acessíveis à espiritualidade católica — escrita em linguagem simples, por uma jovem de 24 anos, sem formação teológica formal.",
+      "tags": ["carmelitas", "espiritualidade", "França", "século XIX"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Teresa-de-Lisieux.jpg",
+      "imagem_credito": null,
+      "fontes": ["Santa Teresa de Lisieux, «História de uma Alma» (1898)"],
+      "autor": "Santa Teresa de Lisieux (Teresinha do Menino Jesus)",
+      "ano_publicacao": "1898 (publicação póstuma)",
+      "genero": "Autobiografia espiritual"
+    },
+    {
+      "id": "livros:introducao-a-vida-devota",
+      "slug": "introducao-a-vida-devota",
+      "titulo": "Introdução à Vida Devota",
+      "categoria": "livros",
+      "resumo": "Guia de vida espiritual escrito para leigos, pioneiro em afirmar que a santidade é vocação de todo cristão, não só de religiosos.",
+      "corpo": "Publicado em 1609 pelo bispo de Genebra, Francisco de Sales, «Introdução à Vida Devota» é dirigido explicitamente a leigos que vivem no mundo — casados, ocupados com família e trabalho —, não apenas a religiosos de clausura. Nisso reside sua importância histórica: afirma, em tom acessível e otimista, que a busca da santidade («vida devota») é vocação de todo cristão, adaptada ao estado de vida de cada um.\n\nA obra teve influência duradoura na espiritualidade católica moderna e é considerada precursora da espiritualidade leiga que o Concílio Vaticano II retomaria, séculos depois, ao afirmar o «chamado universal à santidade».\n\nÉ uma boa porta de entrada para quem procura espiritualidade prática aplicada à vida comum, sem exigir vocação religiosa ou clausura.",
+      "tags": ["espiritualidade leiga", "França", "século XVII"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Saint_Fran%C3%A7ois_de_Sales.jpg",
+      "imagem_credito": null,
+      "fontes": ["São Francisco de Sales, «Introdução à Vida Devota» (1609)"],
+      "autor": "São Francisco de Sales",
+      "ano_publicacao": "1609",
+      "genero": "Espiritualidade"
+    },
+    {
+      "id": "livros:catecismo-da-igreja-catolica",
+      "slug": "catecismo-da-igreja-catolica",
+      "titulo": "Catecismo da Igreja Católica",
+      "categoria": "livros",
+      "resumo": "Exposição oficial e orgânica da fé católica, organizada em quatro partes: credo, sacramentos, vida moral e oração.",
+      "corpo": "Promulgado por João Paulo II em 1992, com edição típica latina definitiva em 1997, o «Catecismo da Igreja Católica» é a exposição oficial e sistemática da doutrina católica — fruto de um projeto aprovado pelo Sínodo Extraordinário dos Bispos de 1985, vinte anos após o encerramento do Concílio Vaticano II.\n\nEstá organizado em quatro partes — a profissão de fé, a celebração do mistério cristão, a vida em Cristo e a oração cristã —, as mesmas que estruturam as categorias «Catecismo» e «Crisma» deste acervo.\n\nÉ a referência doutrinal de base para catequese, ensino teológico e diálogo ecumênico e inter-religioso na Igreja Católica contemporânea — não uma leitura corrida, mas um livro de consulta.",
+      "tags": ["catecismo", "doutrina", "magistério", "João Paulo II"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Emblem_of_the_Catechism_of_the_Catholic_Church.jpg",
+      "imagem_credito": null,
+      "fontes": ["João Paulo II, Constituição Apostólica «Fidei Depositum» (11 de outubro de 1992)"],
+      "autor": "Igreja Católica (promulgado por João Paulo II)",
+      "ano_publicacao": "1992 (edição típica latina, 1997)",
+      "genero": "Referência doutrinal"
+    }
+  ]
+}

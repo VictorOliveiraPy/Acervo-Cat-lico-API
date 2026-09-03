@@ -78,6 +78,54 @@
         "Denzinger-Hünermann, nn. 1500-1835"
       ],
       "imagem_credito": null
+    },
+    {
+      "id": "historia:simbolo-do-peixe",
+      "slug": "simbolo-do-peixe",
+      "titulo": "A origem do símbolo do peixe (Ichthys)",
+      "categoria": "historia",
+      "resumo": "Como um acróstico grego virou um dos sinais de reconhecimento mais antigos dos cristãos perseguidos pelo Império Romano.",
+      "corpo": "Nos primeiros séculos do cristianismo, sob risco de perseguição, os cristãos recorreram a símbolos discretos para se reconhecerem. Um dos mais conhecidos é o peixe, ligado ao acróstico grego «ichthys» (Ἰχθύς, «peixe»): cada letra inicia uma palavra da confissão de fé — Iesous CHristos THeou Yios Soter, «Jesus Cristo, Filho de Deus, Salvador».\n\nO símbolo também dialoga com passagens evangélicas — a multiplicação dos pães e peixes, o chamado dos apóstolos pescadores para serem «pescadores de homens» (Mt 4,19) — e aparece em inscrições e afrescos de sítios cristãos dos séculos II e III, como as ruínas de Éfeso e as catacumbas romanas.\n\nO uso do símbolo diminuiu depois da legalização do cristianismo no século IV, quando deixou de haver necessidade de sinais discretos de reconhecimento, mas foi retomado como símbolo cristão popular a partir do século XX.",
+      "tags": ["símbolos", "igreja primitiva", "perseguições"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ephesus_Ichthys.jpg",
+      "imagem_credito": "Foto: David Bjorgen (2003) — Wikimedia Commons, CC BY-SA 2.5/3.0",
+      "periodo": "Igreja primitiva (séculos II a IV)",
+      "fontes": [
+        "Ruínas de Éfeso, inscrição do símbolo ichthys (séculos II-III)",
+        "Evangelho segundo Mateus 4,19"
+      ]
+    },
+    {
+      "id": "historia:cisma-do-oriente",
+      "slug": "cisma-do-oriente",
+      "titulo": "O Grande Cisma do Oriente (1054)",
+      "categoria": "historia",
+      "resumo": "Ruptura de comunhão entre a Igreja de Roma e as Igrejas do Oriente bizantino, com raízes em diferenças teológicas, litúrgicas e de jurisdição.",
+      "corpo": "Em 1054, delegados do papa Leão IX e o patriarca de Constantinopla, Miguel Cerulário, trocaram excomunhões mútuas — um episódio que ficou simbolicamente associado ao início do Cisma do Oriente: a ruptura de plena comunhão entre a Igreja latina (católica) e as Igrejas bizantinas, que vieram a formar a Ortodoxia.\n\nAs causas foram anteriores e mais profundas que o episódio de 1054: divergências sobre o acréscimo do «Filioque» ao Credo (a procedência do Espírito Santo «do Pai e do Filho»), diferenças litúrgicas e disciplinares — como o uso do pão ázimo e o celibato clerical —, e sobretudo a questão da autoridade e do primado do bispo de Roma sobre as demais sés patriarcais.\n\nAs excomunhões mútuas de 1054 foram levantadas apenas em 1965, num gesto conjunto do papa Paulo VI e do patriarca ecumênico Atenágoras I — embora a plena comunhão eclesial entre as duas tradições ainda não tenha sido restabelecida.",
+      "tags": ["cisma", "ortodoxia", "Constantinopla", "Idade Média"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/90/Great_Schism_with_former_borders_%281054%29.png",
+      "imagem_credito": "Mapa: Barrikader — Wikimedia Commons, CC BY-SA 3.0",
+      "periodo": "Idade Média (1054)",
+      "fontes": [
+        "Paulo VI e Atenágoras I, Declaração Comum (7 de dezembro de 1965)",
+        "Denzinger-Hünermann, contexto do século XI"
+      ]
+    },
+    {
+      "id": "historia:evangelizacao-da-america-latina",
+      "slug": "evangelizacao-da-america-latina",
+      "titulo": "A evangelização da América Latina",
+      "categoria": "historia",
+      "resumo": "A chegada do cristianismo ao continente americano a partir do fim do século XV, entre a ação missionária e as tensões da colonização.",
+      "corpo": "A evangelização da América Latina começou com a chegada dos espanhóis e portugueses ao continente a partir de 1492, acompanhando o processo de colonização. Ordens religiosas — franciscanos, dominicanos, agostinianos e, a partir do século XVI, jesuítas — organizaram missões, doutrinas e reduções, como as reduções jesuíticas guaranis, para catequizar os povos indígenas.\n\nO período foi marcado por tensões profundas: ao lado de missionários que denunciaram os abusos da colonização — o dominicano Bartolomé de Las Casas é o caso mais conhecido, com sua defesa dos direitos dos indígenas perante a Coroa espanhola —, houve também violência, imposição cultural e cumplicidade de parte do clero com o sistema colonial. A avaliação histórica desse período segue sendo objeto de debate.\n\nDessa evangelização nasceram devoções que se tornariam centrais na identidade católica latino-americana, como Nossa Senhora de Guadalupe (México, 1531) e, mais tarde, Nossa Senhora Aparecida (Brasil, 1717). Hoje a América Latina concentra a maior população católica do mundo.",
+      "tags": ["missões", "colonização", "jesuítas", "América Latina", "século XVI"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Fray_Bartolom%C3%A9_de_las_Casas.jpg",
+      "imagem_credito": null,
+      "periodo": "Época moderna (séculos XVI a XVIII)",
+      "fontes": [
+        "Bartolomé de Las Casas, «Brevíssima Relação da Destruição das Índias» (1552)",
+        "Concílio Vaticano II, Decreto «Ad Gentes», sobre a atividade missionária (1965)"
+      ]
     }
   ]
 }

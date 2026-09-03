@@ -32,6 +32,8 @@ class Category(str, Enum):
     CATECISMO = "catecismo"
     CRISMA = "crisma"
     HISTORIA = "historia"
+    NOSSA_SENHORA = "nossa-senhora"
+    LIVROS = "livros"
 
 
 class ContentEntry(BaseModel):
@@ -131,6 +133,37 @@ class PeriodoHistorico(ContentEntry):
     periodo: str | None = None
 
 
+class TipoMariano(str, Enum):
+    """Natureza de uma entrada mariana: dogma definido, aparição ou título."""
+
+    DOGMA = "dogma"
+    APARICAO = "aparicao"
+    TITULO = "titulo"
+
+
+class NossaSenhora(ContentEntry):
+    """Dogma mariano, aparição aprovada ou título de devoção a Nossa Senhora.
+
+    Só entram aqui aparições com reconhecimento eclesiástico formal (ex.:
+    Lourdes, Guadalupe, Aparecida) — a mesma regra editorial do restante do
+    acervo: nada de aparição sem reconhecimento oficial da Igreja.
+    """
+
+    categoria: Literal[Category.NOSSA_SENHORA] = Category.NOSSA_SENHORA
+    tipo: TipoMariano
+    ano: str | None = None
+    local: str | None = None
+
+
+class Livro(ContentEntry):
+    """Indicação de leitura — clássico espiritual ou obra de referência."""
+
+    categoria: Literal[Category.LIVROS] = Category.LIVROS
+    autor: str | None = None
+    ano_publicacao: str | None = None
+    genero: str | None = None
+
+
 # União discriminada por `categoria`: garante que a resposta serializada
 # carregue os campos próprios da subclasse (e não só os da base).
 AnyEntry = Annotated[
@@ -143,6 +176,8 @@ AnyEntry = Annotated[
         Crisma,
         DoutorIgreja,
         PeriodoHistorico,
+        NossaSenhora,
+        Livro,
     ],
     Field(discriminator="categoria"),
 ]
@@ -157,6 +192,8 @@ ENTRY_MODEL_BY_CATEGORY: dict[Category, type[ContentEntry]] = {
     Category.CATECISMO: Catecismo,
     Category.CRISMA: Crisma,
     Category.HISTORIA: PeriodoHistorico,
+    Category.NOSSA_SENHORA: NossaSenhora,
+    Category.LIVROS: Livro,
 }
 
 

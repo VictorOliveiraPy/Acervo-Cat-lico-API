@@ -41,7 +41,7 @@ conectar o repo.
 4. Deploy. Quando terminar, anote a URL pública, algo como
    `https://acervo-catolico-api.onrender.com`.
 5. Confirme que subiu: `curl https://SUA-URL.onrender.com/api/health` —
-   deve devolver `{"status":"ok","categorias":8,"total_entradas":25}`
+   deve devolver `{"status":"ok","categorias":10,"total_entradas":46}`
    (ou mais, se o acervo tiver crescido).
 
 **Plano gratuito do Render "dorme" após inatividade** — a primeira

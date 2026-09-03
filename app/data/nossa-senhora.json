@@ -1,0 +1,142 @@
+{
+  "_meta": {
+    "categoria": "nossa-senhora",
+    "nome": "Nossa Senhora",
+    "descricao": "Dogmas marianos, aparições com reconhecimento eclesiástico e títulos de devoção à Virgem Maria.",
+    "status": "exemplos-iniciais",
+    "aviso": "Conjunto inicial de exemplos para desenvolvimento. NÃO é um catálogo definitivo nem exaustivo: deve ser expandido e revisado contra fonte primária antes de qualquer uso editorial ou catequético. Só entram aparições com reconhecimento eclesiástico formal.",
+    "revisao_editorial": "Datas sem consenso ou detalhes de tradição oral (não dogmáticos) estão marcados como tal no corpo do texto. Nenhuma aparição sem aprovação eclesiástica foi incluída.",
+    "fontes_gerais": [
+      "Catecismo da Igreja Católica, nn. 484-511 (a fé em Deus Pai) e nn. 963-975 (Maria, Mãe de Cristo e da Igreja)",
+      "Denzinger-Hünermann, definições dogmáticas marianas"
+    ]
+  },
+  "itens": [
+    {
+      "id": "nossa-senhora:maternidade-divina",
+      "slug": "maternidade-divina",
+      "titulo": "Maternidade Divina de Maria (Theotokos)",
+      "categoria": "nossa-senhora",
+      "resumo": "Dogma definido no Concílio de Éfeso (431): Maria é verdadeiramente Mãe de Deus, porque gerou o Verbo encarnado.",
+      "corpo": "Em 431, o Concílio de Éfeso, terceiro concílio ecumênico, definiu contra o patriarca Nestório de Constantinopla que Maria pode e deve ser chamada «Theotokos» (Mãe de Deus), e não apenas «Christotokos» (Mãe de Cristo). A questão não era primariamente sobre Maria, mas sobre a identidade de Jesus Cristo: afirmar que Maria é Mãe de Deus é afirmar que aquele que ela gerou é uma só pessoa — verdadeiro Deus e verdadeiro homem —, e não duas pessoas separadas, como Nestório ensinava.\n\nÉ considerado o mais antigo dos dogmas marianos e fundamento dos demais: os títulos e privilégios atribuídos a Maria em definições posteriores — Imaculada Conceição, virgindade perpétua, Assunção — decorrem dessa maternidade divina, e não de méritos próprios independentes de Cristo.\n\nO título «Theotokos» é usado até hoje na liturgia e na iconografia das Igrejas orientais, católicas e ortodoxas, como um dos nomes mais antigos e centrais dados a Maria.",
+      "tags": ["Concílio de Éfeso", "dogma", "cristologia", "século V"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kazan_moscow.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Concílio de Éfeso, Terceira Carta de Cirilo de Alexandria a Nestório (431)",
+        "Catecismo da Igreja Católica, n. 495"
+      ],
+      "tipo": "dogma",
+      "ano": "431",
+      "local": "Concílio de Éfeso"
+    },
+    {
+      "id": "nossa-senhora:virgindade-perpetua",
+      "slug": "virgindade-perpetua",
+      "titulo": "Virgindade Perpétua de Maria",
+      "categoria": "nossa-senhora",
+      "resumo": "Doutrina de que Maria concebeu, deu à luz e permaneceu virgem para sempre — daí o título «Sempre Virgem».",
+      "corpo": "A Igreja professa, desde os primeiros séculos, que Maria concebeu Jesus permanecendo virgem («virgindade antes do parto»), que o deu à luz sem detrimento de sua integridade virginal («virgindade no parto») e que permaneceu virgem para sempre depois («virgindade depois do parto»). Daí o título «Sempre Virgem» (em grego, «Aeiparthenos»), já usado por Padres da Igreja como Santo Atanásio no século IV e confirmado conciliarmente em Constantinopla II, em 553.\n\nA referência evangélica aos «irmãos de Jesus» (por exemplo, Mc 6,3) é lida pela tradição católica, apoiada em usos linguísticos semíticos do termo «irmão» — que também designava parentes mais amplos, como primos —, como não contraditória com essa doutrina.\n\nJunto com a maternidade divina, a virgindade perpétua é professada como sinal de que a geração de Jesus foi obra do Espírito Santo, e não geração humana comum.",
+      "tags": ["dogma", "mariologia", "concílio de Constantinopla II"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Vladimirskaya.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Concílio de Constantinopla II (553)",
+        "Catecismo da Igreja Católica, nn. 499-501"
+      ],
+      "tipo": "dogma",
+      "ano": "553",
+      "local": null
+    },
+    {
+      "id": "nossa-senhora:imaculada-conceicao",
+      "slug": "imaculada-conceicao",
+      "titulo": "Imaculada Conceição",
+      "categoria": "nossa-senhora",
+      "resumo": "Dogma proclamado por Pio IX em 1854: Maria foi preservada, desde o instante de sua concepção, de toda mancha do pecado original.",
+      "corpo": "Em 8 de dezembro de 1854, pela bula «Ineffabilis Deus», o papa Pio IX definiu como dogma de fé que a Virgem Maria, «desde o primeiro instante de sua conceição, por singular graça e privilégio de Deus onipotente, em vista dos méritos de Jesus Cristo, Salvador do gênero humano, foi preservada imune de toda mancha do pecado original».\n\nA doutrina não afirma nada de diferente sobre a concepção biológica de Maria pelos pais — a tradição os identifica como Joaquim e Ana, embora esses nomes venham de escritos apócrifos, não da Escritura —, mas que, por um privilégio único e antecipado em vista dos méritos futuros de Cristo, a alma de Maria nunca esteve sob o pecado original, diferentemente do restante da humanidade.\n\nEm 1858, segundo o relato tradicional das aparições de Lourdes, Maria teria confirmado a definição dogmática recente ao identificar-se a Bernadette Soubirous como «a Imaculada Conceição» — expressão que a jovem, sem instrução teológica, não teria como formular por conta própria.",
+      "tags": ["dogma", "Pio IX", "século XIX"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Juan_Antonio_de_Fr%C3%ADas_y_Escalante._Inmaculada_Concepci%C3%B3n.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Pio IX, Bula «Ineffabilis Deus» (8 de dezembro de 1854)",
+        "Catecismo da Igreja Católica, nn. 490-492"
+      ],
+      "tipo": "dogma",
+      "ano": "1854",
+      "local": null
+    },
+    {
+      "id": "nossa-senhora:assuncao",
+      "slug": "assuncao",
+      "titulo": "Assunção de Nossa Senhora",
+      "categoria": "nossa-senhora",
+      "resumo": "Dogma proclamado por Pio XII em 1950: Maria, ao concluir o curso de sua vida terrena, foi assunta em corpo e alma à glória celeste.",
+      "corpo": "Em 1º de novembro de 1950, pela constituição apostólica «Munificentissimus Deus», o papa Pio XII definiu como dogma que «a Imaculada Mãe de Deus, sempre Virgem Maria, terminado o curso da vida terrena, foi assunta em corpo e alma à glória celeste».\n\nA definição deixa deliberadamente em aberto se Maria morreu antes de ser assunta — posição majoritária na tradição, inclusive litúrgica oriental, que fala de sua «dormição» — ou foi assunta sem experimentar a morte: o dogma afirma o fato da assunção, não os detalhes de como ocorreu.\n\nA doutrina já era celebrada liturgicamente havia séculos — a festa remonta ao menos ao século VI no Oriente — antes de sua definição dogmática formal em 1950. No Brasil e em vários países de tradição católica, o dia 15 de agosto é feriado ou data de guarda religiosa associada a essa solenidade.",
+      "tags": ["dogma", "Pio XII", "século XX"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tizian_041.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Pio XII, Constituição Apostólica «Munificentissimus Deus» (1º de novembro de 1950)",
+        "Catecismo da Igreja Católica, n. 966"
+      ],
+      "tipo": "dogma",
+      "ano": "1950",
+      "local": null
+    },
+    {
+      "id": "nossa-senhora:guadalupe",
+      "slug": "guadalupe",
+      "titulo": "Nossa Senhora de Guadalupe",
+      "categoria": "nossa-senhora",
+      "resumo": "Aparição mariana ao indígena São Juan Diego em 1531, no México, com a imagem impressa na tilma hoje venerada na Basílica de Guadalupe.",
+      "corpo": "Segundo o relato tradicional, em dezembro de 1531 a Virgem Maria apareceu ao indígena nahua Juan Diego Cuauhtlatoatzin na colina do Tepeyac, próxima à Cidade do México, pedindo que ali se construísse um templo. Diante da incredulidade do bispo, a tradição narra que Maria fez brotar flores fora de época e que, ao Juan Diego abrir sua tilma (manto) para mostrá-las diante do bispo, nela apareceu impressa a imagem da Virgem — hoje venerada na Basílica de Nossa Senhora de Guadalupe, um dos santuários marianos mais visitados do mundo.\n\nA devoção teve papel central na evangelização e na identidade católica do México e de boa parte da América Latina. João Paulo II canonizou Juan Diego em 2002. Nossa Senhora de Guadalupe é padroeira das Américas.",
+      "tags": ["aparição", "México", "século XVI", "Juan Diego"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Guadalupe_Tilma.gif",
+      "imagem_credito": null,
+      "fontes": [
+        "João Paulo II, Homilia da canonização de Juan Diego (31 de julho de 2002)",
+        "Nican Mopohua, relato tradicional em náuatle (século XVI)"
+      ],
+      "tipo": "aparicao",
+      "ano": "1531",
+      "local": "Tepeyac, México"
+    },
+    {
+      "id": "nossa-senhora:lourdes",
+      "slug": "lourdes",
+      "titulo": "Nossa Senhora de Lourdes",
+      "categoria": "nossa-senhora",
+      "resumo": "Série de aparições marianas a Santa Bernadette Soubirous em 1858, na gruta de Massabielle, hoje um dos maiores santuários de peregrinação católicos.",
+      "corpo": "Entre fevereiro e julho de 1858, a jovem camponesa Bernadette Soubirous, de 14 anos, relatou dezoito aparições de «uma Senhora» na gruta de Massabielle, em Lourdes, no sul da França. Na aparição de 25 de março, a Senhora teria se identificado dizendo, em dialeto occitano, «Eu sou a Imaculada Conceição» — expressão que Bernadette, sem instrução teológica, dificilmente formularia por conta própria, e que reforçou o reconhecimento eclesiástico das aparições, ocorridas apenas quatro anos depois da definição dogmática da Imaculada Conceição (1854).\n\nUma fonte de água que brotou durante as aparições tornou-se centro de peregrinação, associada a numerosos relatos de cura; a Igreja mantém um bureau médico independente que avalia esses casos segundo critérios científicos antes de qualquer reconhecimento formal como milagre. Bernadette tornou-se religiosa e foi canonizada em 1933.\n\nLourdes é hoje um dos maiores santuários marianos do mundo, e 11 de fevereiro — data da primeira aparição — é o Dia Mundial do Doente, instituído por João Paulo II.",
+      "tags": ["aparição", "França", "século XIX", "Bernadette Soubirous"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/France-002009_-_Our_Lady_of_Lourdes_%2815774765182%29.jpg",
+      "imagem_credito": "Foto: Dennis G. Jarvis (2014) — Wikimedia Commons, CC BY-SA 2.0",
+      "fontes": [
+        "Pio XI, Homilia da canonização de Santa Bernadette Soubirous (1933)",
+        "Bureau des Constatations Médicales de Lourdes"
+      ],
+      "tipo": "aparicao",
+      "ano": "1858",
+      "local": "Lourdes, França"
+    },
+    {
+      "id": "nossa-senhora:aparecida",
+      "slug": "aparecida",
+      "titulo": "Nossa Senhora Aparecida",
+      "categoria": "nossa-senhora",
+      "resumo": "Imagem de Nossa Senhora da Conceição encontrada por pescadores em 1717 nas águas do rio Paraíba do Sul; padroeira do Brasil.",
+      "corpo": "Segundo a tradição, em outubro de 1717 um grupo de pescadores lançou redes no rio Paraíba do Sul, perto de Guaratinguetá, e encontrou primeiro o corpo e depois a cabeça de uma pequena imagem de terracota de Nossa Senhora da Conceição — enegrecida pelo tempo, o que lhe deu o nome popular «Aparecida» (a que apareceu). A tradição conta que, depois do achado da imagem completa, a pesca no local se tornou extraordinariamente farta.\n\nA devoção cresceu ao longo dos séculos XVIII e XIX, e Pio XI proclamou Nossa Senhora Aparecida padroeira principal do Brasil em 1930. O Santuário Nacional de Aparecida, no município de Aparecida (SP), é hoje um dos maiores santuários marianos do mundo em número de peregrinos.\n\nA data do achado, 12 de outubro, é feriado nacional no Brasil e coincide com o Dia das Crianças.",
+      "tags": ["título mariano", "Brasil", "padroeira", "século XVIII"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/NS_Aparecida.png",
+      "imagem_credito": null,
+      "fontes": [
+        "Pio XI, Breve «Sat cognitum est» (1930)",
+        "Conferência Nacional dos Bispos do Brasil — Santuário Nacional de Aparecida"
+      ],
+      "tipo": "titulo",
+      "ano": "1717",
+      "local": "Rio Paraíba do Sul, Guaratinguetá (Brasil)"
+    }
+  ]
+}

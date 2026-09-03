@@ -6,6 +6,7 @@ import pytest
 from fastapi.testclient import TestClient
 
 from app.main import app
+from app.models import Category
 
 
 @pytest.fixture(scope="module")
@@ -24,7 +25,7 @@ def test_should_report_ok_when_health_is_called(client: TestClient) -> None:
     assert response.status_code == 200
     body = response.json()
     assert body["status"] == "ok"
-    assert body["categorias"] == 8
+    assert body["categorias"] == len(Category)
     assert body["total_entradas"] > 0
 
 
@@ -38,7 +39,7 @@ def test_should_list_categories_with_totals_when_requested(
     # Then
     assert response.status_code == 200
     body = response.json()
-    assert len(body) == 8
+    assert len(body) == len(Category)
     assert all(item["total"] > 0 for item in body)
 
 

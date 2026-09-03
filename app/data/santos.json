@@ -93,6 +93,104 @@
         "Martirológio Romano, 23 de setembro"
       ],
       "imagem_credito": null
+    },
+    {
+      "id": "santos:tarcisio",
+      "slug": "tarcisio",
+      "titulo": "São Tarcísio",
+      "categoria": "santos",
+      "resumo": "Jovem mártir romano do século III, venerado como padroeiro dos acólitos e coroinhas por morrer defendendo a Eucaristia.",
+      "corpo": "A tradição cristã antiga guarda a memória de Tarcísio, um jovem de Roma martirizado no século III durante a perseguição do imperador Valeriano. Segundo o relato tradicional — atestado por um epitáfio do papa São Dâmaso I (366-384) no cemitério de São Calisto —, Tarcísio atuava como acólito e se ofereceu para levar a Eucaristia a cristãos presos ou impedidos de participar da celebração. Ao ser abordado na Via Ápia por um grupo que exigiu ver o que carregava, recusou-se a entregar o Santíssimo Sacramento; foi espancado e apedrejado até a morte, protegendo a Eucaristia com o próprio corpo. Ao revistarem o corpo, não encontraram o Sacramento.\n\nPapa Dâmaso I comparou sua coragem à do diácono Santo Estêvão, primeiro mártir. Detalhes biográficos precisos — idade exata, data de nascimento — não são conhecidos com certeza histórica: a tradição chegou sobretudo pelo epitáfio damasiano e por relatos posteriores, que o descrevem como muito jovem.\n\nÉ venerado como padroeiro dos coroinhas, acólitos e das crianças que se preparam para a Primeira Comunhão.",
+      "tags": ["mártires", "Eucaristia", "Roma", "coroinhas", "século III"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Antony_Troncet_-_The_Martyrdom_of_Saint_Tarcisius_-_2012.86_-_Minneapolis_Institute_of_Arts.jpg",
+      "imagem_credito": null,
+      "festa": "15 de agosto",
+      "patronato": ["Coroinhas", "Acólitos", "Primeira Comunhão"],
+      "nascimento": null,
+      "morte": "Século III, Roma (Itália)",
+      "fontes": [
+        "Papa Dâmaso I, epitáfio de Tarcísio, cemitério de São Calisto (século IV)",
+        "Martirológio Romano, 15 de agosto"
+      ]
+    },
+    {
+      "id": "santos:sao-jose",
+      "slug": "sao-jose",
+      "titulo": "São José",
+      "categoria": "santos",
+      "resumo": "Esposo de Maria e pai adotivo de Jesus, padroeiro da Igreja Universal e dos trabalhadores.",
+      "corpo": "Segundo os evangelhos de Mateus e Lucas, José era descendente da casa de Davi e esposo de Maria; a tradição o descreve como artesão da construção (\"tekton\" em grego, tradicionalmente traduzido como carpinteiro). Aceitou, por obediência à vontade de Deus revelada em sonho, desposar Maria e assumir a paternidade legal de Jesus, dando-lhe o nome conforme instrução angélica (Mt 1,21). Conduziu a família na fuga para o Egito diante da perseguição de Herodes e no retorno a Nazaré, onde criou Jesus no próprio ofício.\n\nOs evangelhos não registram nenhuma palavra sua; é descrito apenas como \"homem justo\" (Mt 1,19). A tradição situa sua morte antes do início da vida pública de Jesus, dada a ausência posterior nos relatos evangélicos — por isso é também invocado como padroeiro da boa morte, por tê-la vivido, segundo a piedade popular, assistido por Jesus e Maria.\n\nPio IX o proclamou padroeiro da Igreja Universal em 1870; João XXIII inseriu seu nome no Cânon Romano da Missa em 1962; Pio XII instituiu a festa de São José Operário, em 1º de maio, para associá-lo aos trabalhadores.",
+      "tags": ["Sagrada Família", "trabalhadores", "Nazaré"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Agust%C3%ADn_Rodr%C3%ADguez_-_San_Jos%C3%A9_y_el_Ni%C3%B1o.jpg",
+      "imagem_credito": null,
+      "festa": "19 de março (Solenidade de São José); 1º de maio (São José Operário)",
+      "patronato": ["Igreja Universal", "Trabalhadores", "Boa morte", "Pais de família"],
+      "nascimento": null,
+      "morte": null,
+      "fontes": [
+        "Evangelho segundo Mateus 1-2",
+        "Evangelho segundo Lucas 1-2",
+        "Pio IX, Decreto «Quemadmodum Deus» (8 de dezembro de 1870)",
+        "João XXIII, Decreto «Novis hisce temporibus» (13 de novembro de 1962)"
+      ]
+    },
+    {
+      "id": "santos:maximiliano-kolbe",
+      "slug": "maximiliano-kolbe",
+      "titulo": "São Maximiliano Kolbe",
+      "categoria": "santos",
+      "resumo": "Frade franciscano polonês que se ofereceu para morrer no lugar de um prisioneiro no campo de concentração de Auschwitz.",
+      "corpo": "Raymund Kolbe nasceu em 1894 na Polônia e entrou na Ordem dos Frades Menores Conventuais, recebendo o nome de Maximiliano. Fundou a Milícia da Imaculada e um grande centro editorial franciscano dedicado à evangelização pela imprensa.\n\nPreso pela Gestapo durante a ocupação nazista da Polônia, foi enviado ao campo de concentração de Auschwitz em 1941. Após a fuga de um prisioneiro, os guardas escolheram dez homens para morrer de fome como represália; quando um dos escolhidos, Franciszek Gajowniczek, implorou pela própria família, Kolbe se ofereceu para morrer em seu lugar. Foi morto por injeção letal em 14 de agosto de 1941, após duas semanas no bunker da fome.\n\nJoão Paulo II o canonizou em 10 de outubro de 1982, como mártir da caridade.",
+      "tags": ["franciscanos", "mártires", "Auschwitz", "século XX", "Polônia"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Fr.Maximilian_Kolbe_in_1936.jpg",
+      "imagem_credito": null,
+      "festa": "14 de agosto",
+      "patronato": ["Jornalistas", "Famílias", "Presos", "Movimento pró-vida"],
+      "nascimento": "8 de janeiro de 1894, Zduńska Wola (Polônia)",
+      "morte": "14 de agosto de 1941, Auschwitz (Polônia ocupada)",
+      "fontes": [
+        "João Paulo II, Homilia da canonização de São Maximiliano Kolbe (10 de outubro de 1982)",
+        "Martirológio Romano, 14 de agosto"
+      ]
+    },
+    {
+      "id": "santos:rita-de-cassia",
+      "slug": "rita-de-cassia",
+      "titulo": "Santa Rita de Cássia",
+      "categoria": "santos",
+      "resumo": "Religiosa agostiniana italiana, venerada como padroeira das causas impossíveis e das situações conjugais difíceis.",
+      "corpo": "Rita nasceu em Roccaporena, na Úmbria (Itália), por volta de 1381. Casou-se ainda jovem, por arranjo dos pais, com um homem de temperamento violento; suportou anos de um casamento difícil até a conversão e, depois, o assassinato do marido, seguido da morte dos dois filhos.\n\nViúva, buscou entrar no mosteiro agostiniano de Santa Maria Madalena, em Cascia, sendo aceita após muita insistência. Viveu ali décadas de vida religiosa marcada pela penitência; a tradição relata o aparecimento de uma chaga na testa, associada à Paixão de Cristo, que a teria acompanhado até a morte.\n\nMorreu em 22 de maio de 1457 e foi canonizada em 1900 por Leão XIII. É popularmente invocada como \"santa das causas impossíveis\", por sua vida marcada por dificuldades superadas pela fé.",
+      "tags": ["agostinianas", "casamento", "Itália", "século XV"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/S.Rita_da_Cascia.jpg",
+      "imagem_credito": null,
+      "festa": "22 de maio",
+      "patronato": ["Causas impossíveis", "Casamentos difíceis", "Vítimas de abuso"],
+      "nascimento": "c. 1381, Roccaporena (Itália)",
+      "morte": "22 de maio de 1457, Cascia (Itália)",
+      "fontes": [
+        "Leão XIII, canonização de Santa Rita de Cássia (24 de maio de 1900)",
+        "Martirológio Romano, 22 de maio"
+      ]
+    },
+    {
+      "id": "santos:teresa-de-lisieux",
+      "slug": "teresa-de-lisieux",
+      "titulo": "Santa Teresa de Lisieux (Teresinha do Menino Jesus)",
+      "categoria": "santos",
+      "resumo": "Carmelita francesa, autora de «História de uma Alma» e criadora do «caminhozinho» da confiança e do amor; Doutora da Igreja.",
+      "corpo": "Thérèse Martin nasceu em Alençon, na França, em 1873, caçula de uma família que deu à Igreja cinco filhas religiosas. Entrou ainda adolescente, com dispensa especial, no Carmelo de Lisieux, onde viveu uma vida contemplativa marcada pela simplicidade.\n\nDesenvolveu a espiritualidade que ficou conhecida como \"caminhozinho\" (petite voie): a santidade alcançada não por grandes feitos, mas pela confiança total em Deus e pelo amor vivido nas pequenas coisas do cotidiano. Escreveu, por obediência, a autobiografia espiritual «História de uma Alma», publicada após sua morte e tornada um dos livros espirituais mais lidos do catolicismo moderno.\n\nMorreu de tuberculose em 1897, aos 24 anos. Foi canonizada por Pio XI em 1925 e proclamada Doutora da Igreja por João Paulo II em 19 de outubro de 1997 — uma das quatro mulheres com esse título. É também copadroeira das missões, apesar de nunca ter saído do convento.",
+      "tags": ["carmelitas", "oração", "França", "doutora da Igreja"],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Teresa-de-Lisieux.jpg",
+      "imagem_credito": null,
+      "festa": "1º de outubro",
+      "patronato": ["Missões", "Floristas", "Aviadores"],
+      "nascimento": "2 de janeiro de 1873, Alençon (França)",
+      "morte": "30 de setembro de 1897, Lisieux (França)",
+      "fontes": [
+        "João Paulo II, Carta Apostólica «Divini Amoris Scientia» (19 de outubro de 1997)",
+        "Santa Teresa de Lisieux, «História de uma Alma»",
+        "Martirológio Romano, 1º de outubro"
+      ]
     }
   ]
 }
