@@ -9,6 +9,25 @@ mora no repositório irmão
 [`Compendio-Catolico-Web`](https://github.com/VictorOliveiraPy/Compendio-Catolico-Web),
 deploy no Vercel — ver `DEPLOY.md` de lá.
 
+## Domínio de produção
+
+O domínio `compendio-catolico.com` foi comprado no HostGator e a zona DNS
+mora na Cloudflare (HostGator ficou só como registrador — nameservers
+`ruth.ns.cloudflare.com` / `vin.ns.cloudflare.com`). O e-mail (Titan, via
+HostGator) continua funcionando porque os registros `MX`/`SPF`/`DKIM` foram
+preservados na Cloudflare tal como estavam.
+
+- **Backend (este serviço)**: `api.compendio-catolico.com`, CNAME na
+  Cloudflare apontando pro hostname `.onrender.com` do serviço no Render
+  (custom domain configurado lá, certificado emitido automaticamente).
+- **Frontend**: `compendio-catolico.com` (raiz) e `www.compendio-catolico.com`
+  (redirect pra raiz), ambos no Vercel — ver `DEPLOY.md` do repositório do
+  frontend.
+
+Todo registro que aponta pra Render/Vercel fica como **DNS only** (nuvem
+cinza) na Cloudflare — o proxy (nuvem laranja) pode atrapalhar a emissão do
+certificado TLS desses provedores.
+
 ## Por que o backend vai primeiro
 
 O backend precisa saber a origem do frontend (`CORS_ORIGINS`) e o
@@ -38,11 +57,16 @@ conectar o repo.
    ```
    **Formato importa**: é lista JSON, não string separada por vírgula —
    testado localmente, `pydantic-settings` rejeita CSV nesse campo.
-4. Deploy. Quando terminar, anote a URL pública, algo como
-   `https://acervo-catolico-api.onrender.com`.
+4. Deploy. Quando terminar, anote a URL pública `.onrender.com` do
+   serviço (aparece em Settings → o hostname exato depende do nome do
+   serviço criado, confira ali antes de configurar DNS).
 5. Confirme que subiu: `curl https://SUA-URL.onrender.com/api/health` —
    deve devolver `{"status":"ok","categorias":11,"total_entradas":59}`
    (ou mais, se o acervo tiver crescido).
+6. Configure o domínio próprio: Settings → Custom Domains → adicione
+   `api.compendio-catolico.com`. O Render mostra o CNAME de verificação —
+   crie esse registro na Cloudflare (nome `api`, DNS only) e aguarde
+   "Verified" + certificado emitido.
 
 **Plano gratuito do Render "dorme" após inatividade** — a primeira
 requisição depois de um tempo ocioso demora mais (cold start). Normal no
@@ -56,20 +80,20 @@ URL do passo 1 com `/api` no final. Ver `DEPLOY.md` de lá.
 
 ## 3. Voltar aqui e travar o CORS
 
-Com a URL real do Vercel em mãos:
+Com o domínio de produção do frontend em mãos:
 
 1. No serviço do Render, edite a variável `CORS_ORIGINS` para a origem
    de produção de verdade:
    ```
-   ["https://SUA-URL.vercel.app"]
+   ["https://compendio-catolico.com","https://www.compendio-catolico.com"]
    ```
    Mantenha `http://localhost:3000` na lista só se ainda for testar
    contra o backend de produção a partir do seu ambiente local — senão,
-   deixe só a URL do Vercel.
+   deixe só as duas origens do domínio.
 2. Salve — o Render redeploya sozinho quando uma env var muda.
-3. Confirme abrindo o site no Vercel e checando que a navegação/busca
-   carrega dado de verdade (não erro de rede/CORS no console do
-   navegador).
+3. Confirme abrindo `https://compendio-catolico.com` e checando que a
+   navegação/busca carrega dado de verdade (não erro de rede/CORS no
+   console do navegador).
 
 ## Checklist antes de considerar o deploy "pronto"
 
