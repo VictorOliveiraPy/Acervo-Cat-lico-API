@@ -22,7 +22,7 @@ class Settings(BaseSettings):
         env_file=".env", env_file_encoding="utf-8", extra="ignore"
     )
 
-    app_name: str = "Acervo Católico API"
+    app_name: str = "Compêndio Católico API"
     app_version: str = "0.1.0"
     environment: str = "development"
     debug: bool = True

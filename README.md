@@ -1,4 +1,4 @@
-# Acervo Católico — Backend (FastAPI)
+# Compêndio Católico — Backend (FastAPI)
 
 API somente-leitura que serve conteúdo católico curado em 11 categorias:
 **santos, papas, concílios, milagres eucarísticos, doutores da Igreja,
@@ -103,7 +103,7 @@ Códigos usados: `CATEGORY_NOT_FOUND` (404), `ENTRY_NOT_FOUND` (404),
 ```
 
 > Este repositório é o irmão de
-> [`Acervo-Cat-lico-Web`](https://github.com/VictorOliveiraPy/Acervo-Cat-lico-Web)
+> [`Compendio-Catolico-Web`](https://github.com/VictorOliveiraPy/Compendio-Catolico-Web)
 > (frontend Next.js) — mesma convenção usada em `melhorperfil-api`/`melhorperfil-web`
 > e `santo-guardiao-api`/`santo-guardiao-web`. Deploy: ver `DEPLOY.md`.
 
