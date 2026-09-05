@@ -61,7 +61,7 @@ conectar o repo.
    serviço (aparece em Settings → o hostname exato depende do nome do
    serviço criado, confira ali antes de configurar DNS).
 5. Confirme que subiu: `curl https://SUA-URL.onrender.com/api/health` —
-   deve devolver `{"status":"ok","categorias":11,"total_entradas":59}`
+   deve devolver `{"status":"ok","categorias":13,"total_entradas":485}`
    (ou mais, se o acervo tiver crescido).
 6. Configure o domínio próprio: Settings → Custom Domains → adicione
    `api.compendio-catolico.com`. O Render mostra o CNAME de verificação —

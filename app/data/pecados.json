@@ -1,0 +1,197 @@
+{
+  "_meta": {
+    "categoria": "pecados",
+    "nome": "Pecados",
+    "descricao": "Os sete pecados capitais e outras categorias clássicas do pecado na moral católica, cada um com a virtude que lhe é oposta.",
+    "status": "exemplos-iniciais",
+    "aviso": "Conjunto inicial de exemplos para desenvolvimento. NÃO substitui o acompanhamento de um diretor espiritual ou confessor para discernimento moral pessoal; é material catequético introdutório.",
+    "revisao_editorial": "A ordem tradicional dos sete pecados capitais segue a lista consolidada por São Gregório Magno; a numeração de 'ordem' reflete essa sequência histórica, não uma escala de gravidade moral fixa entre eles.",
+    "fontes_gerais": [
+      "Catecismo da Igreja Católica, nn. 1846-1876 (o pecado) e nn. 1852-1864",
+      "São Tomás de Aquino, «Suma Teológica», II-II"
+    ]
+  },
+  "itens": [
+    {
+      "id": "pecados:soberba",
+      "slug": "soberba",
+      "titulo": "Soberba",
+      "categoria": "pecados",
+      "resumo": "O primeiro e, para a tradição espiritual, o mais grave dos pecados capitais: o amor desordenado da própria excelência.",
+      "corpo": "A soberba é o desejo desordenado de ser superior aos outros, a recusa em reconhecer a própria dependência de Deus e dos outros. A tradição espiritual — de Santo Agostinho e São Gregório Magno a São Tomás de Aquino — a considera raiz de todos os demais pecados capitais, por ser, em sua forma mais radical, a tentativa da criatura de se colocar no lugar do Criador. É chamada \"pecado capital\" porque dá origem a outros vícios (vaidade, ambição desmedida, desprezo pelo outro), não porque seja necessariamente o mais grave em cada caso concreto — distinção que a moral católica sempre fez.",
+      "tags": [
+        "pecados capitais",
+        "moral",
+        "virtudes"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 1,
+      "virtude_oposta": "Humildade",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1846-1876 (o pecado)"
+      ]
+    },
+    {
+      "id": "pecados:avareza",
+      "slug": "avareza",
+      "titulo": "Avareza",
+      "categoria": "pecados",
+      "resumo": "Apego desordenado aos bens materiais e à riqueza, que fecha o coração à partilha e à confiança na providência de Deus.",
+      "corpo": "A avareza é o desejo desordenado de possuir riquezas e bens materiais, e o apego excessivo a eles mesmo à custa da justiça e da caridade devidas ao próximo. Distingue-se da simples prudência ou economia doméstica pelo fato de tornar o próprio ter um fim em si mesmo, em vez de um meio a serviço da vida e da caridade. O Evangelho a associa com frequência à dificuldade de confiar em Deus (\"não podeis servir a Deus e ao dinheiro\", Mt 6,24) e a virtude que lhe é oposta, a generosidade, integra a lista das obras de misericórdia.",
+      "tags": [
+        "pecados capitais",
+        "moral",
+        "bens materiais"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 2,
+      "virtude_oposta": "Generosidade",
+      "fontes": [
+        "Evangelho segundo Mateus 6,24",
+        "Catecismo da Igreja Católica, nn. 1846-1876"
+      ]
+    },
+    {
+      "id": "pecados:luxuria",
+      "slug": "luxuria",
+      "titulo": "Luxúria",
+      "categoria": "pecados",
+      "resumo": "Busca desordenada do prazer sexual, desligada do sentido unitivo e procriativo que a Igreja reconhece na sexualidade humana.",
+      "corpo": "A luxúria é o desejo desordenado ou o gozo desmedido do prazer sexual, buscado por si mesmo e desligado do contexto de doação total e fecunda que a moral católica reconhece como próprio da sexualidade dentro do matrimônio. O Catecismo distingue vários modos concretos em que esse desordenamento se manifesta — masturbação, fornicação, pornografia, prostituição — sem reduzir a moral sexual católica a uma lista de proibições: o pano de fundo é sempre a integração da sexualidade na doação de si mesmo a serviço do amor.",
+      "tags": [
+        "pecados capitais",
+        "moral",
+        "castidade"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 3,
+      "virtude_oposta": "Castidade",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 2351-2359"
+      ]
+    },
+    {
+      "id": "pecados:ira",
+      "slug": "ira",
+      "titulo": "Ira",
+      "categoria": "pecados",
+      "resumo": "Desejo desordenado de vingança ou ódio ao próximo, distinto da indignação legítima diante de uma injustiça real.",
+      "corpo": "A ira, como pecado capital, é o desejo desordenado de vingança ou o ódio persistente contra quem se considera ter causado um mal. A tradição moral católica distingue essa ira pecaminosa de uma reação inicial de indignação diante de uma injustiça real — sentimento humano em si neutro, e às vezes até virtuoso, quando ordenado e proporcional — do ódio que se instala e busca o mal do outro. É pecado grave sobretudo quando alimenta desejo real de dano ao próximo.",
+      "tags": [
+        "pecados capitais",
+        "moral",
+        "paciência"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 4,
+      "virtude_oposta": "Paciência",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1846-1876 (o pecado)"
+      ]
+    },
+    {
+      "id": "pecados:gula",
+      "slug": "gula",
+      "titulo": "Gula",
+      "categoria": "pecados",
+      "resumo": "Amor desordenado aos prazeres da comida e da bebida, que subordina a razão ao apetite em vez de o contrário.",
+      "corpo": "A gula é o amor desordenado aos prazeres da mesa — comer ou beber além da necessidade real, ou com excessiva preocupação e requinte —, de modo que o apetite passa a comandar a razão em vez de ser por ela governado. Santo Tomás de Aquino distinguia várias formas de gula, da simples voracidade à busca obsessiva por iguarias raras e caras, e via nela um enfraquecimento da capacidade de domínio próprio necessária para outras virtudes.",
+      "tags": [
+        "pecados capitais",
+        "moral",
+        "temperança"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 5,
+      "virtude_oposta": "Temperança",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1846-1876 (o pecado)"
+      ]
+    },
+    {
+      "id": "pecados:inveja",
+      "slug": "inveja",
+      "titulo": "Inveja",
+      "categoria": "pecados",
+      "resumo": "Tristeza pelo bem alheio e desejo de que o outro perca aquilo que possui, oposta à alegria fraterna pelo bem do próximo.",
+      "corpo": "A inveja é a tristeza experimentada diante do bem — material, moral ou espiritual — que outra pessoa possui, acompanhada com frequência do desejo, mais ou menos consciente, de que ela o perca. O Catecismo a distingue da legítima aspiração a possuir também um bem que se vê no outro (desejo que, ordenado, pode até impulsionar ao crescimento), definindo como pecaminosa especificamente a tristeza pelo bem alheio como tal.",
+      "tags": [
+        "pecados capitais",
+        "moral",
+        "caridade"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 6,
+      "virtude_oposta": "Caridade fraterna",
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 2539"
+      ]
+    },
+    {
+      "id": "pecados:preguica",
+      "slug": "preguica",
+      "titulo": "Preguiça (Acídia)",
+      "categoria": "pecados",
+      "resumo": "Negligência ou desânimo espiritual que leva a abandonar deveres e a resistir ao esforço do crescimento na vida cristã.",
+      "corpo": "Na tradição monástica antiga, o pecado capital hoje chamado \"preguiça\" era descrito com a palavra grega \"acídia\": não apenas a preguiça física comum, mas um tédio ou desânimo espiritual profundo que leva a negligenciar os próprios deveres — inclusive a vida de oração — e a resistir ao esforço necessário para crescer na vida cristã. É oposta ao \"fervor\" ou \"diligência\" na busca daquilo que verdadeiramente importa.",
+      "tags": [
+        "pecados capitais",
+        "moral",
+        "diligência espiritual"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 7,
+      "virtude_oposta": "Diligência (fervor espiritual)",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1846-1876 (o pecado)"
+      ]
+    },
+    {
+      "id": "pecados:pecado-mortal",
+      "slug": "pecado-mortal",
+      "titulo": "Pecado Mortal",
+      "categoria": "pecados",
+      "resumo": "Categoria da moral católica para a transgressão grave que rompe a comunhão de caridade com Deus e exige arrependimento e confissão para ser perdoada.",
+      "corpo": "Segundo o Catecismo, um pecado é mortal quando reúne simultaneamente três condições: matéria grave, plena consciência de sua gravidade e consentimento deliberado da vontade. Ao contrário do pecado venial, que enfraquece a vida de graça sem a destruir, o pecado mortal destrói a caridade no coração do homem e priva-o da vida sobrenatural da graça — daí sua necessidade de ser reconciliado pelo sacramento da Penitência antes de se poder novamente comungar.",
+      "tags": [
+        "moral",
+        "pecado",
+        "confissão"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1854-1861"
+      ]
+    },
+    {
+      "id": "pecados:pecado-venial",
+      "slug": "pecado-venial",
+      "titulo": "Pecado Venial",
+      "categoria": "pecados",
+      "resumo": "Transgressão que enfraquece a caridade sem a destruir por completo, distinta do pecado mortal por sua matéria leve ou pela falta de plena consciência ou consentimento.",
+      "corpo": "O pecado venial ocorre quando falta uma das três condições do pecado mortal — matéria grave, plena consciência ou pleno consentimento — ou quando a matéria em si é leve. Ele enfraquece a caridade, manifesta uma afeição desordenada aos bens criados e merece penas temporais, mas não rompe a aliança com Deus nem priva da graça santificante. Ainda assim, o Catecismo adverte que pecados veniais deliberados e não corrigidos dispõem gradualmente ao pecado mortal.",
+      "tags": [
+        "moral",
+        "pecado",
+        "confissão"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1862-1864"
+      ]
+    }
+  ]
+}

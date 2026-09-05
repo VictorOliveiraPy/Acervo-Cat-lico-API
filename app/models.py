@@ -35,6 +35,8 @@ class Category(str, Enum):
     NOSSA_SENHORA = "nossa-senhora"
     LIVROS = "livros"
     ORACOES = "oracoes"
+    PECADOS = "pecados"
+    LITURGIA = "liturgia"
 
 
 class ContentEntry(BaseModel):
@@ -180,6 +182,33 @@ class Oracao(ContentEntry):
     origem: str | None = None
 
 
+class Pecado(ContentEntry):
+    """Pecado capital ou outra categoria clássica de pecado, com a virtude que lhe é oposta.
+
+    `ordem` segue a sequência tradicional dos sete pecados capitais (1 a 7)
+    quando aplicável; entradas que não fazem parte dessa lista (ex.: a
+    distinção entre pecado mortal e venial) deixam o campo nulo.
+    """
+
+    categoria: Literal[Category.PECADOS] = Category.PECADOS
+    ordem: int | None = Field(default=None, ge=1)
+    virtude_oposta: str | None = None
+
+
+class Liturgia(ContentEntry):
+    """Tema de vida litúrgica e sacramental prática: partes da Missa, adoração
+    eucarística, preparação para a Confissão e afins.
+
+    `ordem` mantém a sequência de uma sequência interna (ex.: as partes da
+    Missa, na ordem em que ocorrem no rito); `paragrafos_ccc` guarda as
+    referências ao Catecismo, quando existem.
+    """
+
+    categoria: Literal[Category.LITURGIA] = Category.LITURGIA
+    ordem: int | None = Field(default=None, ge=1)
+    paragrafos_ccc: list[str] = Field(default_factory=list)
+
+
 # União discriminada por `categoria`: garante que a resposta serializada
 # carregue os campos próprios da subclasse (e não só os da base).
 AnyEntry = Annotated[
@@ -195,6 +224,8 @@ AnyEntry = Annotated[
         NossaSenhora,
         Livro,
         Oracao,
+        Pecado,
+        Liturgia,
     ],
     Field(discriminator="categoria"),
 ]
@@ -212,6 +243,8 @@ ENTRY_MODEL_BY_CATEGORY: dict[Category, type[ContentEntry]] = {
     Category.NOSSA_SENHORA: NossaSenhora,
     Category.LIVROS: Livro,
     Category.ORACOES: Oracao,
+    Category.PECADOS: Pecado,
+    Category.LITURGIA: Liturgia,
 }
 
 

@@ -1,8 +1,9 @@
 # Compêndio Católico — Backend (FastAPI)
 
-API somente-leitura que serve conteúdo católico curado em 11 categorias:
+API somente-leitura que serve conteúdo católico curado em 13 categorias:
 **santos, papas, concílios, milagres eucarísticos, doutores da Igreja,
-catecismo, crisma, história, Nossa Senhora, livros e orações**.
+catecismo, crisma, história, Nossa Senhora, livros, orações, pecados e
+vida litúrgica**.
 
 > **Nota sobre a arquitetura:** o repositório não contém `docs/ARCHITECTURE.md`.
 > Este backend foi implementado a partir da especificação funcional acordada
@@ -162,7 +163,7 @@ Ao adicionar entradas, siga as mesmas regras que valem para o que já está lá:
 5. **Revisão eclesiástica.** Para uso catequético real, o material deve ser
    revisado por autoridade competente — a API não substitui isso.
 
-Conteúdo atual: 59 entradas nas 11 categorias.
+Conteúdo atual: 485 entradas nas 13 categorias.
 
 ## Configuração
 

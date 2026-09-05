@@ -1,0 +1,337 @@
+{
+  "_meta": {
+    "categoria": "liturgia",
+    "nome": "Vida Litúrgica",
+    "descricao": "A Santa Missa do Rito Romano parte a parte, a adoração ao Santíssimo Sacramento, o passo a passo da Confissão e outros temas práticos da vida litúrgica e sacramental católica.",
+    "status": "exemplos-iniciais",
+    "aviso": "Conjunto inicial de exemplos para desenvolvimento. Descreve a forma ordinária do Rito Romano tal como está no Missal Romano atual; não é um manual de rubricas nem substitui a orientação de um pároco para dúvidas litúrgicas concretas.",
+    "revisao_editorial": "As referências ao Catecismo e ao Missal Romano seguem a edição típica atual; onde uma prática (ex.: adoração perpétua) admite variação local, isso é dito explicitamente no corpo do texto.",
+    "fontes_gerais": [
+      "Missal Romano (edição típica)",
+      "Catecismo da Igreja Católica, Segunda Parte (\"A celebração do mistério cristão\")",
+      "Concílio Vaticano II, Constituição «Sacrosanctum Concilium» (1963)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "liturgia:a-missa-visao-geral",
+      "slug": "a-missa-visao-geral",
+      "titulo": "A Santa Missa: visão geral do Rito Romano",
+      "categoria": "liturgia",
+      "resumo": "Estrutura geral da Missa segundo o Rito Romano, dividida em duas grandes partes — Liturgia da Palavra e Liturgia Eucarística — emolduradas pelos ritos iniciais e finais.",
+      "corpo": "A Missa do Rito Romano — a forma litúrgica mais usada no mundo católico, celebrada em sua forma atual desde a reforma pós-conciliar do Missal Romano (1969) — organiza-se em quatro grandes blocos: os Ritos Iniciais, a Liturgia da Palavra, a Liturgia Eucarística e os Ritos Finais. O Concílio Vaticano II, na constituição \"Sacrosanctum Concilium\", descreveu a Missa como o centro de toda a vida cristã, \"fonte e ápice\" de toda a atividade da Igreja, unindo numa só celebração a mesa da Palavra e a mesa do Corpo de Cristo. Este acervo detalha cada uma dessas partes em entradas próprias.",
+      "tags": [
+        "missa",
+        "rito romano",
+        "liturgia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 1,
+      "paragrafos_ccc": [
+        "1345-1355"
+      ],
+      "fontes": [
+        "Concílio Vaticano II, «Sacrosanctum Concilium» (1963)",
+        "Missal Romano, Ordinário da Missa"
+      ]
+    },
+    {
+      "id": "liturgia:ritos-iniciais-da-missa",
+      "slug": "ritos-iniciais-da-missa",
+      "titulo": "Os Ritos Iniciais da Missa",
+      "categoria": "liturgia",
+      "resumo": "Sequência de abertura da Missa — canto de entrada, saudação, ato penitencial, Glória e oração coleta — que dispõe a assembleia para a celebração.",
+      "corpo": "Os Ritos Iniciais reúnem o povo convocado e o prepara para ouvir a Palavra de Deus e celebrar a Eucaristia dignamente. Compreendem, em ordem: o canto de entrada, a saudação do sacerdote ao povo, o ato penitencial (em que os fiéis reconhecem seus pecados antes de prosseguir), o \"Kýrie, eléison\" (\"Senhor, tende piedade\"), o hino do \"Glória\" (omitido no Advento e na Quaresma) e a oração coleta, que resume o sentido próprio da celebração daquele dia.",
+      "tags": [
+        "missa",
+        "rito romano",
+        "liturgia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 2,
+      "paragrafos_ccc": [
+        "1348-1349"
+      ],
+      "fontes": [
+        "Missal Romano",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "liturgia:liturgia-da-palavra",
+      "slug": "liturgia-da-palavra",
+      "titulo": "A Liturgia da Palavra",
+      "categoria": "liturgia",
+      "resumo": "Bloco da Missa dedicado à proclamação das Escrituras — leituras, salmo responsorial, Evangelho, homilia, Credo e oração dos fiéis.",
+      "corpo": "A Liturgia da Palavra proclama a Sagrada Escritura como alimento espiritual da assembleia. Nos domingos e solenidades inclui três leituras — do Antigo Testamento (ou Atos dos Apóstolos no Tempo Pascal), de uma carta apostólica e do Evangelho —, intercaladas pelo salmo responsorial; segue-se a homilia, em que o sacerdote ou diácono explica a Palavra proclamada, a profissão de fé (Credo) e a oração universal (ou \"oração dos fiéis\"), em que a comunidade intercede por necessidades da Igreja e do mundo.",
+      "tags": [
+        "missa",
+        "rito romano",
+        "Sagrada Escritura",
+        "liturgia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 3,
+      "paragrafos_ccc": [
+        "1349",
+        "103-104"
+      ],
+      "fontes": [
+        "Missal Romano",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "liturgia:liturgia-eucaristica",
+      "slug": "liturgia-eucaristica",
+      "titulo": "A Liturgia Eucarística",
+      "categoria": "liturgia",
+      "resumo": "Núcleo sacramental da Missa: apresentação das oferendas, Oração Eucarística com a consagração, e a fração do pão, culminando na comunhão.",
+      "corpo": "A Liturgia Eucarística é o centro da Missa, em que o pão e o vinho, apresentados no ofertório, tornam-se, pela ação do Espírito Santo e as palavras da consagração pronunciadas pelo sacerdote agindo \"in persona Christi\", o Corpo e o Sangue de Cristo — mistério que a Igreja chama de transubstanciação. A Oração Eucarística, cujo texto varia conforme o cânone escolhido, tem sua origem e estrutura essencial na Última Ceia. Segue-se a fração do pão e os ritos que preparam a comunhão, incluindo o Pai-Nosso, o rito da paz e o \"Cordeiro de Deus\".",
+      "tags": [
+        "missa",
+        "eucaristia",
+        "rito romano",
+        "liturgia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 4,
+      "paragrafos_ccc": [
+        "1333-1344",
+        "1373-1381"
+      ],
+      "fontes": [
+        "Missal Romano",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "liturgia:ritos-de-comunhao",
+      "slug": "ritos-de-comunhao",
+      "titulo": "Os Ritos de Comunhão",
+      "categoria": "liturgia",
+      "resumo": "Sequência que prepara e realiza a distribuição da Eucaristia aos fiéis: Pai-Nosso, rito da paz, fração do pão e comunhão propriamente dita.",
+      "corpo": "Antes de comungar, a assembleia reza o Pai-Nosso — que pede o \"pão de cada dia\" e o perdão das ofensas — seguido do rito da paz, em que os fiéis trocam um sinal de reconciliação fraterna, e da fração do pão ao canto do \"Cordeiro de Deus\". A comunhão eucarística, distribuída sob a espécie do pão (e, quando prevista, também do vinho), é o ponto culminante da participação dos fiéis no sacrifício celebrado, seguida de um momento de silêncio ou canto de ação de graças.",
+      "tags": [
+        "missa",
+        "eucaristia",
+        "comunhão",
+        "rito romano"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 5,
+      "paragrafos_ccc": [
+        "1382-1390"
+      ],
+      "fontes": [
+        "Missal Romano",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "liturgia:ritos-finais-da-missa",
+      "slug": "ritos-finais-da-missa",
+      "titulo": "Os Ritos Finais da Missa",
+      "categoria": "liturgia",
+      "resumo": "Conclusão breve da celebração — avisos, bênção final e despedida — que envia os fiéis à missão no mundo.",
+      "corpo": "Os Ritos Finais são deliberadamente breves: eventuais avisos à comunidade, a bênção final do sacerdote e a despedida (\"Ide em paz\"), da qual deriva o próprio nome latino \"Missa\" (de \"missio\", envio). A brevidade é intencional: a celebração termina enviando os fiéis a viver, na vida cotidiana, o que celebraram no altar.",
+      "tags": [
+        "missa",
+        "rito romano",
+        "liturgia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 6,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Missal Romano",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "liturgia:adoracao-ao-santissimo-sacramento",
+      "slug": "adoracao-ao-santissimo-sacramento",
+      "titulo": "Adoração ao Santíssimo Sacramento",
+      "categoria": "liturgia",
+      "resumo": "Prática de oração diante da Eucaristia exposta, fundada na fé católica na presença real e permanente de Cristo nas espécies consagradas.",
+      "corpo": "A adoração eucarística fundamenta-se na doutrina da presença real: para a fé católica, Cristo permanece verdadeiramente presente no pão consagrado mesmo depois do fim da Missa, o que torna legítima e recomendável a adoração fora da celebração eucarística propriamente dita. A prática — atestada desde a Idade Média, quando se consolidou a reserva permanente da Eucaristia no sacrário — pode assumir a forma de visitas breves ao Santíssimo reservado no sacrário, ou de exposição solene numa custódia (ostensório) para adoração prolongada, às vezes contínua (\"adoração perpétua\"). O Concílio de Trento e, depois, o Catecismo da Igreja Católica, reafirmam o culto de latria (adoração devida só a Deus) prestado a Cristo eucarístico.",
+      "tags": [
+        "eucaristia",
+        "adoração",
+        "liturgia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 1,
+      "paragrafos_ccc": [
+        "1378-1381"
+      ],
+      "fontes": [
+        "Concílio de Trento, Decreto sobre a Santíssima Eucaristia (1551)",
+        "Catecismo da Igreja Católica, nn. 1378-1381"
+      ]
+    },
+    {
+      "id": "liturgia:exposicao-e-bencao-do-santissimo",
+      "slug": "exposicao-e-bencao-do-santissimo",
+      "titulo": "Exposição e Bênção do Santíssimo Sacramento",
+      "categoria": "liturgia",
+      "resumo": "Rito litúrgico em que a hóstia consagrada é exposta em ostensório para adoração pública e, ao final, usada para abençoar a assembleia.",
+      "corpo": "A exposição do Santíssimo Sacramento consiste em colocar a hóstia consagrada, geralmente numa lúnula dentro de um ostensório, à vista dos fiéis para adoração — momento tradicionalmente acompanhado de cânticos como o \"Tantum Ergo\" (últimas estrofes do hino \"Pange Lingua\" de Santo Tomás de Aquino) e de tempo de silêncio e oração pessoal. A celebração encerra-se com a bênção eucarística, em que o sacerdote ou diácono, segurando o ostensório, traça o sinal da cruz sobre a assembleia — não uma bênção do ministro em nome próprio, mas do próprio Cristo presente no Sacramento.",
+      "tags": [
+        "eucaristia",
+        "adoração",
+        "liturgia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 2,
+      "paragrafos_ccc": [
+        "1378"
+      ],
+      "fontes": [
+        "Ritual Romano, «De Sacra Communione et de Cultu Mysterii Eucharistici Extra Missam»"
+      ]
+    },
+    {
+      "id": "liturgia:como-se-confessar",
+      "slug": "como-se-confessar",
+      "titulo": "Como se confessar: o passo a passo do sacramento da Penitência",
+      "categoria": "liturgia",
+      "resumo": "Guia prático dos momentos da confissão sacramental — exame de consciência, acusação dos pecados, contrição, propósito de emenda, absolvição e penitência.",
+      "corpo": "A confissão sacramental segue uma estrutura simples, embora sua vivência interior possa ser profunda: (1) o exame de consciência, feito antes de entrar no confessionário, revendo a vida à luz dos mandamentos e do Evangelho; (2) a saudação e o sinal da cruz; (3) a confissão em si, dizendo ao sacerdote os pecados cometidos, com sinceridade e sem minimizar nem exagerar; (4) a escuta de uma breve palavra ou conselho do confessor; (5) a atribuição de uma penitência (oração ou obra reparadora); (6) a recitação do Ato de Contrição, expressando arrependimento e propósito de não pecar mais; e (7) a absolvição, dada pelo sacerdote em nome de Cristo e da Igreja, que perdoa efetivamente os pecados confessados com verdadeira contrição.",
+      "tags": [
+        "confissão",
+        "penitência",
+        "sacramentos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 3,
+      "paragrafos_ccc": [
+        "1450-1460"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1440-1470",
+        "Ritual Romano, «Ordo Paenitentiae» (1973)"
+      ]
+    },
+    {
+      "id": "liturgia:exame-de-consciencia",
+      "slug": "exame-de-consciencia",
+      "titulo": "O Exame de Consciência",
+      "categoria": "liturgia",
+      "resumo": "Prática de revisão pessoal da própria vida à luz da lei moral, feita antes da confissão e recomendada também como hábito diário de oração.",
+      "corpo": "O exame de consciência consiste em rever, com sinceridade e sem escrúpulo excessivo nem autoindulgência, os próprios pensamentos, palavras, ações e omissões desde a última confissão, geralmente usando como roteiro os Dez Mandamentos, os preceitos da Igreja ou os pecados capitais. Além de sua função imediata de preparação para a confissão sacramental, o Catecismo recomenda o exame de consciência como prática espiritual diária, tradicionalmente associada à oração da noite, como modo simples de crescer em autoconhecimento e conversão contínua.",
+      "tags": [
+        "confissão",
+        "penitência",
+        "vida espiritual"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 4,
+      "paragrafos_ccc": [
+        "1454"
+      ],
+      "fontes": [
+        "Missal Romano",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "liturgia:liturgia-das-horas",
+      "slug": "liturgia-das-horas",
+      "titulo": "A Liturgia das Horas",
+      "categoria": "liturgia",
+      "resumo": "Oração oficial e pública da Igreja ao longo do dia, estruturada em torno dos salmos, que santifica as diferentes horas com louvor a Deus.",
+      "corpo": "A Liturgia das Horas (também chamada Ofício Divino ou Breviário) é a oração pública e oficial que a Igreja reza ao longo do dia — Laudes pela manhã, Vésperas ao entardecer, Completas antes de dormir, e outras horas menores —, centrada na recitação dos 150 salmos distribuídos ao longo de quatro semanas, intercalados por leituras bíblicas e patrísticas. É obrigatória para clérigos e para muitos religiosos, mas o Concílio Vaticano II incentivou também sua adoção por leigos como forma de \"santificar todo o curso do dia e da noite\".",
+      "tags": [
+        "liturgia das horas",
+        "oração",
+        "clero"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 5,
+      "paragrafos_ccc": [
+        "1174-1178"
+      ],
+      "fontes": [
+        "Concílio Vaticano II, «Sacrosanctum Concilium», nn. 83-101 (1963)"
+      ]
+    },
+    {
+      "id": "liturgia:ano-liturgico-e-cores",
+      "slug": "ano-liturgico-e-cores",
+      "titulo": "O Ano Litúrgico e as Cores Litúrgicas",
+      "categoria": "liturgia",
+      "resumo": "Ciclo anual de tempos litúrgicos — Advento, Natal, Quaresma, Páscoa e Tempo Comum — cada um sinalizado por uma cor própria dos paramentos.",
+      "corpo": "O ano litúrgico organiza o tempo da Igreja em torno do mistério de Cristo, alternando tempos fortes — Advento (preparação para o Natal), o Tempo do Natal, a Quaresma (preparação penitencial para a Páscoa) e o Tempo Pascal — com longos períodos de Tempo Comum. Cada tempo, e muitas celebrações específicas, associam-se a uma cor litúrgica usada nos paramentos do sacerdote: roxo (penitência, Advento e Quaresma), branco ou dourado (festas do Senhor, de Maria e dos santos não mártires, e o Tempo Pascal), vermelho (Paixão, Pentecostes, festas de mártires) e verde (Tempo Comum).",
+      "tags": [
+        "ano litúrgico",
+        "liturgia",
+        "paramentos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 6,
+      "paragrafos_ccc": [
+        "1163-1173"
+      ],
+      "fontes": [
+        "Missal Romano",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "liturgia:paramentos-liturgicos",
+      "slug": "paramentos-liturgicos",
+      "titulo": "Os Paramentos Litúrgicos",
+      "categoria": "liturgia",
+      "resumo": "Vestes usadas pelo sacerdote na celebração da Missa — alva, cíngulo, estola e casula — cada uma com um significado simbólico próprio.",
+      "corpo": "As principais vestes litúrgicas do sacerdote celebrante são, na ordem em que são vestidas: a alva, túnica branca longa que simboliza a pureza batismal; o cíngulo, cordão que a ajusta na cintura, símbolo de domínio próprio; a estola, faixa que marca especificamente o caráter sacerdotal, usada sobre os ombros; e a casula, veste externa que recobre as demais, cuja cor varia conforme o tempo litúrgico ou a celebração do dia.",
+      "tags": [
+        "liturgia",
+        "paramentos",
+        "missa"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 7,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Missal Romano",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "liturgia:preceitos-da-igreja",
+      "slug": "preceitos-da-igreja",
+      "titulo": "Os Preceitos da Igreja",
+      "categoria": "liturgia",
+      "resumo": "Conjunto de obrigações mínimas de vida cristã prática fixadas pela Igreja — participar da Missa dominical, confessar-se ao menos uma vez ao ano, comungar na Páscoa, entre outras.",
+      "corpo": "Distintos dos Dez Mandamentos, de origem bíblica, os preceitos da Igreja são normas eclesiásticas que fixam o mínimo indispensável de esforço na oração e na vida moral: participar da Missa aos domingos e dias de preceito e abster-se de trabalhos desnecessários nesses dias; confessar-se dos pecados graves ao menos uma vez ao ano; comungar ao menos na época pascal; observar os tempos de jejum e abstinência fixados pela Igreja (como a Quaresma); e prover às necessidades materiais da Igreja, conforme as próprias possibilidades.",
+      "tags": [
+        "preceitos da Igreja",
+        "vida cristã prática"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 8,
+      "paragrafos_ccc": [
+        "2041-2043"
+      ],
+      "fontes": [
+        "Missal Romano",
+        "Catecismo da Igreja Católica"
+      ]
+    }
+  ]
+}
