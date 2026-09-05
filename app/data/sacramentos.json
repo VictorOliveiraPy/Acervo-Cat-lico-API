@@ -1,0 +1,202 @@
+{
+  "_meta": {
+    "categoria": "sacramentos",
+    "nome": "Sacramentos",
+    "descricao": "Os sete sacramentos da Igreja Católica — matéria, forma, ministro e efeitos de cada um, com base no Catecismo.",
+    "status": "exemplos-iniciais",
+    "aviso": "Descreve a doutrina comum sobre matéria, forma, ministro e efeitos de cada sacramento; não substitui a preparação catequética presencial exigida pela Igreja para recebê-los.",
+    "revisao_editorial": "A estrutura matéria/forma/ministro/efeitos segue a exposição clássica da teologia sacramental católica, tal como sistematizada no Catecismo da Igreja Católica.",
+    "fontes_gerais": [
+      "Catecismo da Igreja Católica, Segunda Parte (\"A celebração do mistério cristão\")",
+      "Código de Direito Canônico (1983), cânones 840-1165"
+    ]
+  },
+  "itens": [
+    {
+      "id": "sacramentos:batismo",
+      "slug": "batismo",
+      "titulo": "Batismo",
+      "categoria": "sacramentos",
+      "resumo": "Porta de entrada na vida cristã e nos demais sacramentos, que apaga o pecado original e faz da pessoa filho adotivo de Deus.",
+      "corpo": "O Batismo é o fundamento de toda a vida cristã, o pórtico que dá acesso aos demais sacramentos. Pela água e pela palavra, a pessoa é libertada do pecado e renasce como filho de Deus, tornando-se membro da Igreja e templo do Espírito Santo. Jesus mandou que os apóstolos batizassem \"todas as nações, em nome do Pai, do Filho e do Espírito Santo\" (Mt 28,19). Pode ser recebido por imersão ou infusão (derramamento de água), e em caso de perigo de morte, qualquer pessoa — mesmo não batizada — pode batizar validamente, desde que use água e tenha a intenção de fazer o que a Igreja faz.",
+      "tags": [
+        "sacramentos",
+        "iniciação cristã"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Pietro_Perugino_-_Baptism_of_Christ_-_Sistine_Chapel_-_cat13a.jpg",
+      "imagem_credito": null,
+      "ordem": 1,
+      "materia": "Água natural",
+      "forma": "«Eu te batizo em nome do Pai, e do Filho, e do Espírito Santo»",
+      "ministro": "Ordinário: bispo, padre ou diácono. Em perigo de morte, qualquer pessoa com a intenção de fazer o que a Igreja faz.",
+      "efeitos": "Remissão do pecado original e de todos os pecados pessoais anteriores, e das penas devidas a eles; nova vida como filho adotivo de Deus e membro da Igreja; imprime caráter sacramental indelével, por isso não pode ser repetido.",
+      "paragrafos_ccc": [
+        "1213-1284"
+      ],
+      "fontes": [
+        "Evangelho segundo Mateus 28,19",
+        "Catecismo da Igreja Católica, nn. 1213-1284"
+      ]
+    },
+    {
+      "id": "sacramentos:confirmacao",
+      "slug": "confirmacao",
+      "titulo": "Confirmação (Crisma)",
+      "categoria": "sacramentos",
+      "resumo": "Sacramento que consuma a graça batismal com uma efusão especial do Espírito Santo, unindo mais firmemente o cristão a Cristo e à Igreja.",
+      "corpo": "A Confirmação, também chamada Crisma, aperfeiçoa a graça batismal: é o sacramento que dá o Espírito Santo, como aconteceu aos apóstolos no dia de Pentecostes, para enraizar mais profundamente na filiação divina, unir mais firmemente a Cristo, aumentar os dons do Espírito e dar força especial para testemunhar a fé cristã, sem jamais se envergonhar da cruz. É administrada pela unção com o crisma — óleo perfumado consagrado pelo bispo — acompanhada da imposição das mãos e das palavras da forma sacramental.",
+      "tags": [
+        "sacramentos",
+        "iniciação cristã",
+        "Espírito Santo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pietro_Longhi%2C_Confirmationis_Sacramentum.png",
+      "imagem_credito": null,
+      "ordem": 2,
+      "materia": "Unção com o crisma (óleo perfumado consagrado pelo bispo) na fronte, com a imposição das mãos",
+      "forma": "«Recebe o sinal do dom do Espírito Santo»",
+      "ministro": "Ordinário: o bispo. O padre pode administrar em circunstâncias determinadas, como o perigo de morte ou por delegação do bispo.",
+      "efeitos": "Efusão especial do Espírito Santo, como em Pentecostes; enraíza mais profundamente na filiação divina; une mais firmemente a Cristo e à Igreja; aumenta os dons do Espírito Santo; dá força para confessar a fé; imprime caráter sacramental indelével.",
+      "paragrafos_ccc": [
+        "1285-1321"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "sacramentos:eucaristia",
+      "slug": "eucaristia",
+      "titulo": "Eucaristia",
+      "categoria": "sacramentos",
+      "resumo": "\"Fonte e ápice\" de toda a vida cristã: o próprio Cristo, verdadeiramente presente sob as espécies de pão e vinho consagrados.",
+      "corpo": "A Eucaristia contém todo o bem espiritual da Igreja, o próprio Cristo, nossa Páscoa. Instituída por Jesus na Última Ceia, quando tomou o pão e o vinho e disse \"Isto é o meu Corpo... Isto é o meu Sangue\", é renovada em cada Missa pela ação do sacerdote, que consagra em nome de Cristo. A Igreja professa que, pela consagração, o pão e o vinho se convertem verdadeira, real e substancialmente no Corpo e Sangue de Cristo — a chamada transubstanciação —, permanecendo apenas as aparências exteriores.",
+      "tags": [
+        "sacramentos",
+        "eucaristia",
+        "iniciação cristã"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/43/BentoXVI-51-11052007_%28frag%29.jpg",
+      "imagem_credito": "Foto: Fabio Pozzebom/ABr(Agência Brasil) — Wikimedia Commons, CC BY 3.0 br",
+      "ordem": 3,
+      "materia": "Pão de trigo e vinho de uva",
+      "forma": "As palavras da instituição pronunciadas por Cristo na Última Ceia (\"Isto é o meu Corpo... Isto é o cálice do meu Sangue...\")",
+      "ministro": "Somente o sacerdote (padre ou bispo) validamente ordenado pode consagrar; a comunhão pode ser distribuída também por diáconos e ministros extraordinários.",
+      "efeitos": "União íntima com Cristo; aumento da graça recebida no Batismo; perdão dos pecados veniais e proteção contra futuros pecados mortais; fortalece a unidade do Corpo místico da Igreja; penhor da glória futura.",
+      "paragrafos_ccc": [
+        "1322-1419"
+      ],
+      "fontes": [
+        "Evangelho segundo Lucas 22,19-20",
+        "Concílio de Trento, Decreto sobre a Santíssima Eucaristia (1551)",
+        "Catecismo da Igreja Católica, nn. 1322-1419"
+      ]
+    },
+    {
+      "id": "sacramentos:penitencia-reconciliacao",
+      "slug": "penitencia-reconciliacao",
+      "titulo": "Penitência e Reconciliação (Confissão)",
+      "categoria": "sacramentos",
+      "resumo": "Sacramento pelo qual os pecados cometidos após o Batismo são perdoados por meio da absolvição do sacerdote, agindo em nome de Cristo e da Igreja.",
+      "corpo": "Quem peca depois do Batismo pode receber, pelo sacramento da Penitência, novo perdão e reconciliação com Deus e com a Igreja. O penitente prepara-se com o exame de consciência, confessa os pecados a um sacerdote com verdadeira contrição, recebe uma penitência (satisfação) e é absolvido em nome da Santíssima Trindade. Cristo confiou este poder aos apóstolos, dizendo: \"a quem perdoardes os pecados, ser-lhes-ão perdoados\" (Jo 20,23). É também chamado de Confissão, Conversão ou Reconciliação, cada nome iluminando um aspecto do mesmo sacramento.",
+      "tags": [
+        "sacramentos",
+        "confissão",
+        "penitência"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PL_Wwa%2C_kos_Krzyza%2C_konfesjonal%2C_2023.04.08%2C_fot_Ivonna_Nowicka_corr_3.jpg",
+      "imagem_credito": "Foto: Ivonna Nowicka — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 4,
+      "materia": "Os atos do penitente: contrição, confissão dos pecados e satisfação (penitência)",
+      "forma": "«Eu te absolvo dos teus pecados em nome do Pai, e do Filho, e do Espírito Santo»",
+      "ministro": "Somente o bispo ou o padre que tenha a faculdade de confessar, concedida pela autoridade eclesiástica competente.",
+      "efeitos": "Reconciliação com Deus e com a Igreja; perdão dos pecados cometidos após o Batismo; remissão da pena eterna devida aos pecados mortais e, ao menos em parte, das penas temporais; paz e serenidade de consciência; aumento da força espiritual para o combate cristão.",
+      "paragrafos_ccc": [
+        "1422-1498"
+      ],
+      "fontes": [
+        "Evangelho segundo João 20,22-23",
+        "Catecismo da Igreja Católica, nn. 1422-1498"
+      ]
+    },
+    {
+      "id": "sacramentos:uncao-dos-enfermos",
+      "slug": "uncao-dos-enfermos",
+      "titulo": "Unção dos Enfermos",
+      "categoria": "sacramentos",
+      "resumo": "Sacramento que confia os doentes graves e idosos ao Senhor sofredor e glorificado, para seu alívio e salvação.",
+      "corpo": "A Unção dos Enfermos não é reservada apenas ao momento da morte (\"extrema-unção\", nome antigo hoje evitado por essa razão): pode e deve ser recebida por qualquer fiel que comece a estar em perigo de morte por doença ou velhice, podendo ser repetida se a doença se agravar ou surgir uma nova. É celebrada com a unção do óleo dos enfermos na fronte e nas mãos, acompanhada da oração da Igreja, e une o doente à paixão redentora de Cristo, para o seu bem e o bem de toda a Igreja.",
+      "tags": [
+        "sacramentos",
+        "doentes",
+        "cura"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Extreme_Unction_Rogier_Van_der_Weyden.jpg",
+      "imagem_credito": null,
+      "ordem": 5,
+      "materia": "Óleo dos enfermos, abençoado pelo bispo (ou, em caso de necessidade, pelo próprio padre celebrante)",
+      "forma": "«Por esta santa unção e por sua bondosíssima misericórdia, te ajude o Senhor com a graça do Espírito Santo...»",
+      "ministro": "Somente o bispo ou o padre.",
+      "efeitos": "União do doente à Paixão de Cristo, para seu bem e o de toda a Igreja; conforto, paz e coragem para suportar a doença; perdão dos pecados, se o doente não pôde confessar-se; restabelecimento da saúde, se for útil à salvação da alma; preparação para a passagem à vida eterna.",
+      "paragrafos_ccc": [
+        "1499-1532"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "sacramentos:ordem",
+      "slug": "ordem",
+      "titulo": "Ordem",
+      "categoria": "sacramentos",
+      "resumo": "Sacramento pelo qual a missão confiada por Cristo aos apóstolos continua a ser exercida na Igreja, nos três graus de episcopado, presbiterado e diaconato.",
+      "corpo": "Pela Ordem, homens são consagrados em nome de Cristo para apascentar a Igreja com a palavra e a graça de Deus. O sacramento tem três graus: o episcopado, que confere a plenitude do sacerdócio e insere no colégio apostólico; o presbiterado, pelo qual os padres se tornam colaboradores dos bispos; e o diaconato, que configura a Cristo Servo. Todos os graus são conferidos pela imposição das mãos do bispo, seguida da oração consecratória própria de cada um. Na Igreja latina, é reservado a homens batizados, e o presbiterado e o episcopado são reservados a celibatários, salvo exceções previstas pelo direito.",
+      "tags": [
+        "sacramentos",
+        "clero",
+        "ordenação"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Nicolas_Poussin_-_The_Sacrament_of_Ordination_%28Christ_Presenting_the_Keys_to_Saint_Peter%29_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 6,
+      "materia": "Imposição das mãos do bispo",
+      "forma": "A oração consecratória própria de cada grau (episcopado, presbiterado ou diaconato)",
+      "ministro": "Somente o bispo validamente ordenado.",
+      "efeitos": "Configura o ordenado a Cristo, como Cabeça e Pastor (bispos e padres) ou como Servo (diáconos); confere poder sagrado para servir o povo de Deus na liturgia, no ensino e no governo pastoral; imprime caráter sacramental indelével, por isso não pode ser repetido.",
+      "paragrafos_ccc": [
+        "1536-1600"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "sacramentos:matrimonio",
+      "slug": "matrimonio",
+      "titulo": "Matrimônio",
+      "categoria": "sacramentos",
+      "resumo": "Aliança pela qual um homem e uma mulher constituem entre si uma comunhão de vida e amor, ordenada ao bem dos cônjuges e à geração e educação dos filhos.",
+      "corpo": "O matrimônio entre batizados foi elevado por Cristo à dignidade de sacramento. Diferente dos outros sacramentos, os próprios esposos são os ministros: administram-no um ao outro ao manifestar seu consentimento mútuo diante da Igreja, sendo o padre ou diácono presente a testemunha qualificada que recebe esse consentimento em nome da Igreja e dá a bênção. As propriedades essenciais do matrimônio católico são a unidade (um só homem, uma só mulher) e a indissolubilidade (até a morte), fundadas nas palavras de Cristo: \"o que Deus uniu, o homem não separe\" (Mt 19,6).",
+      "tags": [
+        "sacramentos",
+        "matrimônio",
+        "família"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Wedding_rings.jpg",
+      "imagem_credito": "Foto: Jeff Belmonte from Cuiabá, Brazil — Wikimedia Commons, CC BY 2.0",
+      "ordem": 7,
+      "materia": "O próprio consentimento mútuo, livre e válido, manifestado pelos esposos",
+      "forma": "A troca do consentimento matrimonial diante da Igreja",
+      "ministro": "Os próprios cônjuges administram o sacramento um ao outro; o padre ou diácono é a testemunha qualificada da Igreja e dá a bênção nupcial.",
+      "efeitos": "Cria um vínculo perpétuo e exclusivo entre os cônjuges; confere graça própria para se aperfeiçoarem no amor mútuo e se fortalecerem na sua unidade indissolúvel; consagra os esposos para os deveres e a dignidade do seu estado de vida.",
+      "paragrafos_ccc": [
+        "1601-1666"
+      ],
+      "fontes": [
+        "Evangelho segundo Mateus 19,3-9",
+        "Catecismo da Igreja Católica, nn. 1601-1666"
+      ]
+    }
+  ]
+}

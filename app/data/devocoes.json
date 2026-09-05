@@ -1,0 +1,232 @@
+{
+  "_meta": {
+    "categoria": "devocoes",
+    "nome": "Devoções",
+    "descricao": "Práticas devocionais populares católicas — Via-Sacra, novenas, Sagrado Coração, escapulário, adoração perpétua e mais — distintas do texto isolado de uma oração.",
+    "status": "exemplos-iniciais",
+    "aviso": "Descreve práticas de devoção popular aprovadas e amplamente difundidas; a forma exata de cada prática (número de dias, orações específicas) pode variar de paróquia para paróquia e de país para país.",
+    "revisao_editorial": "Nenhuma devoção listada aqui é de prática obrigatória para o católico — distinguem-se dos sacramentos e dos preceitos da Igreja, e são sempre formas facultativas de aprofundar a vida espiritual.",
+    "fontes_gerais": [
+      "Catecismo da Igreja Católica, nn. 2676-2679 (formas da oração cristã)",
+      "Diretório sobre Piedade Popular e Liturgia (Congregação para o Culto Divino, 2001)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "devocoes:via-sacra",
+      "slug": "via-sacra",
+      "titulo": "Via-Sacra (Via Crucis)",
+      "categoria": "devocoes",
+      "resumo": "Devoção que percorre, em catorze estações, os principais momentos da Paixão de Cristo, de sua condenação à sepultura.",
+      "corpo": "A Via-Sacra reproduz simbolicamente o caminho que Jesus percorreu até o Calvário, em catorze estações que vão da condenação por Pilatos à deposição no túmulo — tradicionalmente encerrada, em muitas igrejas, com uma décima quinta estação sobre a Ressurreição. Tem origem nas peregrinações à Terra Santa da Idade Média, quando os franciscanos, guardiães dos Lugares Santos desde o século XIV, passaram a reproduzir esse percurso em igrejas da Europa para quem não podia viajar a Jerusalém. É especialmente praticada às sextas-feiras, sobretudo na Quaresma e na Sexta-feira Santa.",
+      "tags": [
+        "Via-Sacra",
+        "Quaresma",
+        "Paixão de Cristo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/02/GaudenzioFerrari_StorieCristo_Varallo.jpg",
+      "imagem_credito": null,
+      "ordem": 1,
+      "origem": "Peregrinações medievais à Terra Santa, difundida pelos franciscanos a partir do século XIV",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "devocoes:novenas",
+      "slug": "novenas",
+      "titulo": "Novenas",
+      "categoria": "devocoes",
+      "resumo": "Nove dias consecutivos de oração por uma intenção específica ou em preparação a uma festa, inspirados nos nove dias entre a Ascensão e Pentecostes.",
+      "corpo": "A prática da novena — nove dias seguidos de oração — remonta ao intervalo entre a Ascensão de Jesus e a descida do Espírito Santo em Pentecostes (At 1,14), quando os apóstolos e Maria permaneceram em oração perseverante. Popularizou-se na Idade Média e no período barroco como forma de preparação espiritual para grandes festas litúrgicas ou como súplica insistente por uma graça específica, dirigida a Deus, a Maria ou a um santo de devoção.",
+      "tags": [
+        "novena",
+        "oração"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "ordem": 2,
+      "origem": "Atos dos Apóstolos 1,12-14 (os nove dias entre a Ascensão e Pentecostes)",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "devocoes:sagrado-coracao-de-jesus",
+      "slug": "sagrado-coracao-de-jesus",
+      "titulo": "Devoção ao Sagrado Coração de Jesus",
+      "categoria": "devocoes",
+      "resumo": "Devoção ao amor humano e divino de Cristo, simbolizado em seu coração, difundida a partir das revelações a Santa Margarida Maria Alacoque.",
+      "corpo": "Embora tenha raízes espirituais mais antigas, a devoção ao Sagrado Coração ganhou forma e difusão amplas a partir das aparições relatadas por Santa Margarida Maria Alacoque, em Paray-le-Monial, na década de 1670: Jesus teria mostrado seu coração como símbolo do amor humano e divino com que ama a humanidade, pedindo reparação pela indiferença que esse amor recebe. Deu origem à festa litúrgica do Sagrado Coração e à prática das \"Primeiras Sextas-Feiras\".",
+      "tags": [
+        "Sagrado Coração",
+        "reparação"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/SacredHeartBatoni.jpg",
+      "imagem_credito": null,
+      "ordem": 3,
+      "origem": "Aparições a Santa Margarida Maria Alacoque em Paray-le-Monial (década de 1670)",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "devocoes:primeiras-sextas-feiras",
+      "slug": "primeiras-sextas-feiras",
+      "titulo": "As Primeiras Sextas-Feiras",
+      "categoria": "devocoes",
+      "resumo": "Prática de comungar na primeira sexta-feira de nove meses consecutivos, em reparação e devoção ao Sagrado Coração de Jesus.",
+      "corpo": "Ligada à devoção ao Sagrado Coração, a prática das \"Primeiras Sextas-Feiras\" consiste em receber a comunhão eucarística na primeira sexta-feira de cada mês, por nove meses seguidos, em espírito de reparação. Segundo o relato tradicional das revelações a Santa Margarida Maria Alacoque, Jesus teria prometido graças especiais de perseverança final a quem praticasse essa devoção com essa intenção.",
+      "tags": [
+        "Sagrado Coração",
+        "eucaristia",
+        "reparação"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/SacredHeartBatoni.jpg",
+      "imagem_credito": null,
+      "ordem": 4,
+      "origem": "Tradição ligada às revelações a Santa Margarida Maria Alacoque",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "devocoes:escapulario-do-carmo",
+      "slug": "escapulario-do-carmo",
+      "titulo": "Escapulário do Monte Carmelo",
+      "categoria": "devocoes",
+      "resumo": "Pequeno hábito religioso reduzido, usado como sinal de consagração e proteção mariana, ligado à Ordem do Carmo.",
+      "corpo": "O escapulário marrom de Nossa Senhora do Monte Carmelo é uma versão reduzida do hábito religioso dos carmelitas, usado por leigos como sinal de consagração a Maria e de pertença espiritual à família carmelita. Segundo a tradição da ordem, Nossa Senhora o teria entregue a São Simão Stock no século XIII, prometendo proteção especial a quem o usasse com fidelidade e vida cristã coerente — não como amuleto mágico, mas como lembrete constante do compromisso batismal.",
+      "tags": [
+        "escapulário",
+        "Nossa Senhora do Carmo",
+        "carmelitas"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Stetner_-_Madonna_with_the_Scapular%2C_1740.jpg",
+      "imagem_credito": null,
+      "ordem": 5,
+      "origem": "Tradição carmelita, remontando ao século XIII (São Simão Stock)",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "devocoes:santo-terco-devocao",
+      "slug": "santo-terco-devocao",
+      "titulo": "O Santo Terço como devoção diária",
+      "categoria": "devocoes",
+      "resumo": "A prática, difundida sobretudo após as aparições de Fátima, de rezar o terço completo todos os dias como caminho de conversão e paz.",
+      "corpo": "Embora o Rosário como oração já existisse havia séculos (ver a entrada \"Os Mistérios do Rosário\" em Orações), sua prática diária ganhou impulso renovado sobretudo depois das aparições de Fátima em 1917, quando Nossa Senhora teria pedido insistentemente aos pastorinhos a reza do terço \"todos os dias\" como meio de alcançar a paz para o mundo e a conversão dos pecadores — pedido repetido por papas modernos, entre eles João Paulo II, que dedicou a carta apostólica «Rosarium Virginis Mariae» ao tema em 2002.",
+      "tags": [
+        "terço",
+        "Fátima",
+        "Maria"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Michelangelo_Merisi%2C_called_Caravaggio_-_Madonna_of_the_Rosary_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 6,
+      "origem": "Prática de origem medieval, com impulso renovado após as aparições de Fátima (1917)",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "devocoes:divina-misericordia-devocao",
+      "slug": "divina-misericordia-devocao",
+      "titulo": "Devoção à Divina Misericórdia",
+      "categoria": "devocoes",
+      "resumo": "Conjunto devocional — imagem, coroazinha, festa própria e Hora da Misericórdia — centrado na confiança na misericórdia infinita de Deus.",
+      "corpo": "A devoção à Divina Misericórdia articula vários elementos ao redor de um único tema — a confiança incondicional na misericórdia de Deus —, tal como relatado por Santa Faustina Kowalska em seu diário: a imagem de \"Jesus, eu confio em Vós\", a Coroazinha da Misericórdia (ver Orações), a Festa da Divina Misericórdia, instituída por João Paulo II no segundo domingo da Páscoa em 2000, e a prática de rezar às 15h, hora tradicionalmente associada à morte de Cristo na cruz.",
+      "tags": [
+        "misericórdia divina",
+        "Santa Faustina"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kazimirowski_Eugeniusz%2C_Divine_Mercy%2C_1934.jpg",
+      "imagem_credito": null,
+      "ordem": 7,
+      "origem": "Diário de Santa Faustina Kowalska (década de 1930); festa instituída por João Paulo II em 2000",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "devocoes:adoracao-perpetua",
+      "slug": "adoracao-perpetua",
+      "titulo": "Adoração Eucarística Perpétua",
+      "categoria": "devocoes",
+      "resumo": "Prática de manter, em revezamento contínuo, a adoração ao Santíssimo Sacramento exposto ininterruptamente, dia e noite.",
+      "corpo": "Distinta da adoração eucarística ocasional (ver a categoria Vida Litúrgica), a \"adoração perpétua\" é a prática, hoje difundida em milhares de paróquias e capitéis dedicados no mundo todo, de manter o Santíssimo Sacramento exposto de modo contínuo — 24 horas por dia —, com fiéis se revezando em turnos de oração para que nunca fique sem alguém adorando, prolongando indefinidamente a lógica da exposição eucarística tradicional.",
+      "tags": [
+        "adoração eucarística",
+        "eucaristia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Genaro_P%C3%A9rez_Villaamil_-_The_Corpus_Christi_Procession_inside_Seville_Catedral_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 8,
+      "origem": "Prática consolidada a partir de fundações monásticas medievais, hoje difundida em paróquias e capelas dedicadas",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "devocoes:consagracao-a-maria",
+      "slug": "consagracao-a-maria",
+      "titulo": "Consagração a Jesus por Maria",
+      "categoria": "devocoes",
+      "resumo": "Prática espiritual de entregar-se totalmente a Cristo por meio de Maria, sistematizada por São Luís de Montfort.",
+      "corpo": "Distinta de uma simples oração a Maria, a \"consagração\" é um ato formal e deliberado de entrega total da própria vida a Jesus Cristo através da mediação materna de Maria, sistematizado sobretudo por São Luís Maria Grignion de Montfort no «Tratado da Verdadeira Devoção» (ver Livros). Foi adotada como espiritualidade pessoal por vários papas modernos, entre eles João Paulo II, cujo lema \"Totus Tuus\" (\"Todo teu\") remete diretamente a essa tradição.",
+      "tags": [
+        "consagração mariana",
+        "Maria",
+        "Luís de Montfort"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Louis_de_Montfort.jpg",
+      "imagem_credito": null,
+      "ordem": 9,
+      "origem": "Sistematizada por São Luís de Montfort no início do século XVIII",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "devocoes:angelus-devocao",
+      "slug": "angelus-devocao",
+      "titulo": "A prática do Angelus (três vezes ao dia)",
+      "categoria": "devocoes",
+      "resumo": "O hábito de interromper as atividades três vezes ao dia — manhã, meio-dia e tarde — para rezar o Angelus, ao toque do sino.",
+      "corpo": "Além do texto da oração em si (ver Orações), o Angelus é também uma prática devocional de ritmo diário: tradicionalmente marcada pelo toque de sinos da igreja paroquial três vezes ao dia — ao amanhecer, ao meio-dia e ao entardecer —, convida os fiéis a interromper por um instante as ocupações cotidianas para relembrar o mistério da Encarnação, prática ainda viva em muitas comunidades rurais e observada publicamente pelo Papa todos os domingos ao meio-dia.",
+      "tags": [
+        "Angelus",
+        "oração",
+        "vida diária"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Botticelli%2C_annunciazione_del_Metropolitan.jpg",
+      "imagem_credito": null,
+      "ordem": 10,
+      "origem": "Uso devocional consolidado por volta do século XVI",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "devocoes:primeiros-sabados",
+      "slug": "primeiros-sabados",
+      "titulo": "Os Cinco Primeiros Sábados",
+      "categoria": "devocoes",
+      "resumo": "Devoção mariana ligada às aparições de Fátima: confissão, comunhão, terço e meditação em reparação, no primeiro sábado de cinco meses seguidos.",
+      "corpo": "Distinta, embora relacionada, das Primeiras Sextas-Feiras ao Sagrado Coração, a devoção dos \"Cinco Primeiros Sábados\" tem origem no relato das aparições de Fátima: no primeiro sábado de cinco meses consecutivos, o fiel confessa-se, comunga, reza um terço e medita por quinze minutos os mistérios do Rosário, em espírito de reparação pelas ofensas ao Imaculado Coração de Maria, segundo o pedido atribuído a Nossa Senhora nas aparições de 1917.",
+      "tags": [
+        "Fátima",
+        "Maria",
+        "reparação"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/First_Sculpture_of_Our_Lady_of_Fatima.jpg",
+      "imagem_credito": null,
+      "ordem": 11,
+      "origem": "Relato das aparições de Nossa Senhora de Fátima (1917)",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    }
+  ]
+}

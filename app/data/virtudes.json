@@ -1,0 +1,764 @@
+{
+  "_meta": {
+    "categoria": "virtudes",
+    "nome": "Virtudes",
+    "descricao": "As virtudes teologais e cardeais, os dons e frutos do Espírito Santo, as Bem-aventuranças e as obras de misericórdia — o lado positivo da vida moral católica, complementar à categoria Pecados.",
+    "status": "exemplos-iniciais",
+    "aviso": "Material catequético introdutório sobre as virtudes e temas morais correlatos; não substitui o acompanhamento espiritual pessoal nem a formação catequética completa de uma paróquia.",
+    "revisao_editorial": "A lista de doze frutos do Espírito Santo segue a tradição latina (baseada na Vulgata), mais longa que a lista de nove atestada no grego original de Gálatas 5,22-23 — distinção referida no corpo da própria entrada sobre os frutos.",
+    "fontes_gerais": [
+      "Catecismo da Igreja Católica, nn. 1803-1845",
+      "Evangelho segundo Mateus 5,1-12 (Bem-aventuranças) e 25,31-46 (juízo final)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "virtudes:fe",
+      "slug": "fe",
+      "titulo": "Fé",
+      "categoria": "virtudes",
+      "resumo": "Virtude teologal pela qual cremos em Deus e em tudo o que Ele revelou, porque Deus é a própria Verdade.",
+      "corpo": "A fé é a virtude teologal pela qual o cristão adere livremente a Deus e a tudo o que Ele revelou e a Igreja propõe para crer, porque Deus é a verdade mesma. Não é apenas assentimento intelectual: envolve confiança pessoal, obediência e um compromisso de vida com o Deus que se revela. É dom gratuito de Deus e, ao mesmo tempo, ato genuinamente humano — livre e responsável — que exige exercício constante, sobretudo na oração e na prática do que se crê.",
+      "tags": [
+        "virtudes teologais",
+        "fé"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Giotto_-_Scrovegni_-_-44-_-_Faith.jpg",
+      "imagem_credito": null,
+      "tipo": "teologal",
+      "ordem": 1,
+      "referencia_biblica": "Hebreus 11,1",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1814-1816"
+      ]
+    },
+    {
+      "id": "virtudes:esperanca",
+      "slug": "esperanca",
+      "titulo": "Esperança",
+      "categoria": "virtudes",
+      "resumo": "Virtude teologal pela qual desejamos e aguardamos de Deus a vida eterna e a graça para alcançá-la.",
+      "corpo": "A esperança é a virtude teologal pela qual desejamos, como nossa felicidade, o Reino dos Céus e a vida eterna, colocando a confiança nas promessas de Cristo e apoiando-se não nas próprias forças, mas no auxílio da graça do Espírito Santo. Responde ao desejo de felicidade que Deus colocou no coração de todo homem, purificando-o de todo desvio egoísta e sustentando o cristão em meio ao desânimo, à acídia e à tentação de desespero.",
+      "tags": [
+        "virtudes teologais",
+        "esperança"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Giotto_-_Scrovegni_-_-46-_-_Hope.jpg",
+      "imagem_credito": null,
+      "tipo": "teologal",
+      "ordem": 2,
+      "referencia_biblica": "Romanos 8,24-25",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1817-1821"
+      ]
+    },
+    {
+      "id": "virtudes:caridade",
+      "slug": "caridade",
+      "titulo": "Caridade",
+      "categoria": "virtudes",
+      "resumo": "A maior das virtudes teologais: amar a Deus sobre todas as coisas e ao próximo como a nós mesmos, por amor a Deus.",
+      "corpo": "A caridade é a virtude teologal pela qual amamos a Deus sobre todas as coisas por Ele mesmo, e ao próximo como a nós mesmos por amor de Deus. Segundo São Paulo, é a maior das três virtudes teologais — maior até que a fé e a esperança —, porque permanecerá quando estas já não forem necessárias, na visão face a face de Deus. É o \"vínculo da perfeição\" (Cl 3,14) e a alma de todas as demais virtudes: sem caridade, mesmo os maiores feitos \"nada valem\" (1 Cor 13,1-3).",
+      "tags": [
+        "virtudes teologais",
+        "caridade",
+        "amor"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Giotto_-_Scrovegni_-_-45-_-_Charity.jpg",
+      "imagem_credito": null,
+      "tipo": "teologal",
+      "ordem": 3,
+      "referencia_biblica": "1 Coríntios 13",
+      "fontes": [
+        "1 Coríntios 13,1-13",
+        "Catecismo da Igreja Católica, nn. 1822-1829"
+      ]
+    },
+    {
+      "id": "virtudes:prudencia",
+      "slug": "prudencia",
+      "titulo": "Prudência",
+      "categoria": "virtudes",
+      "resumo": "A \"virtude auriga\": dispõe a razão prática a discernir, em cada circunstância, o verdadeiro bem e escolher os meios corretos para realizá-lo.",
+      "corpo": "Chamada por São Tomás de Aquino de \"virtude auriga\" (que conduz as demais como um cocheiro conduz os cavalos), a prudência não é hesitação nem cautela excessiva, mas a capacidade de discernir corretamente o bem a fazer em cada situação concreta e escolher os meios adequados para realizá-lo. É a virtude que aplica corretamente os princípios morais aos casos particulares, superando dúvidas sobre o bem a alcançar e o mal a evitar.",
+      "tags": [
+        "virtudes cardeais",
+        "prudência"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Giotto_-_Scrovegni_-_-40-_-_Prudence.jpg",
+      "imagem_credito": null,
+      "tipo": "cardeal",
+      "ordem": 4,
+      "referencia_biblica": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1805-1806"
+      ]
+    },
+    {
+      "id": "virtudes:justica",
+      "slug": "justica",
+      "titulo": "Justiça",
+      "categoria": "virtudes",
+      "resumo": "Virtude cardeal que consiste na vontade firme e constante de dar a Deus e ao próximo o que lhes é devido.",
+      "corpo": "A justiça é a virtude moral que consiste na constante e firme vontade de dar a Deus e ao próximo o que lhes é devido. A justiça para com Deus chama-se \"virtude da religião\"; para com os homens, dispõe a respeitar os direitos de cada um e a estabelecer nas relações humanas a harmonia que promove a equidade em relação às pessoas e ao bem comum.",
+      "tags": [
+        "virtudes cardeais",
+        "justiça"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Giotto_-_Scrovegni_-_-43-_-_Justice.jpg",
+      "imagem_credito": null,
+      "tipo": "cardeal",
+      "ordem": 5,
+      "referencia_biblica": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 1807"
+      ]
+    },
+    {
+      "id": "virtudes:fortaleza",
+      "slug": "fortaleza",
+      "titulo": "Fortaleza",
+      "categoria": "virtudes",
+      "resumo": "Virtude cardeal que assegura firmeza nas dificuldades e constância na busca do bem, vencendo o medo mesmo diante da morte.",
+      "corpo": "A fortaleza é a virtude moral que assegura, nas dificuldades, a firmeza e a constância na busca do bem. Fortalece a resolução de resistir às tentações e de superar os obstáculos da vida moral, dando a coragem necessária para vencer o medo, inclusive o medo da morte, e para enfrentar provas e perseguições. Dispõe até a renunciar e sacrificar a própria vida na defesa de uma causa justa.",
+      "tags": [
+        "virtudes cardeais",
+        "fortaleza"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Giotto_-_Scrovegni_-_-41-_-_Fortitude.jpg",
+      "imagem_credito": null,
+      "tipo": "cardeal",
+      "ordem": 6,
+      "referencia_biblica": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 1808"
+      ]
+    },
+    {
+      "id": "virtudes:temperanca",
+      "slug": "temperanca",
+      "titulo": "Temperança",
+      "categoria": "virtudes",
+      "resumo": "Virtude cardeal que modera a atração pelos prazeres e assegura o domínio da vontade sobre os instintos.",
+      "corpo": "A temperança é a virtude moral que modera a atração pelos prazeres e assegura o domínio da vontade sobre os instintos, mantendo os desejos dentro dos limites da honestidade. Não significa negação dos bens legítimos e dos prazeres da vida, mas o justo equilíbrio no seu uso, para que a pessoa continue senhora de si mesma em vez de escrava de seus apetites — o oposto direto dos pecados de gula e luxúria.",
+      "tags": [
+        "virtudes cardeais",
+        "temperança"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Giotto_-_Scrovegni_-_-42-_-_Temperance.jpg",
+      "imagem_credito": null,
+      "tipo": "cardeal",
+      "ordem": 7,
+      "referencia_biblica": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 1809"
+      ]
+    },
+    {
+      "id": "virtudes:dom-sabedoria",
+      "slug": "dom-sabedoria",
+      "titulo": "Dom da Sabedoria",
+      "categoria": "virtudes",
+      "resumo": "Dom do Espírito Santo que permite julgar e ordenar todas as coisas segundo as razões e a verdade divinas.",
+      "corpo": "A Sabedoria é o mais elevado dos sete dons do Espírito Santo, listados pelo profeta Isaías (11,2-3): faz com que a alma julgue e saboreie as coisas de Deus, vendo toda a realidade a partir de uma perspectiva divina e amando-a com um gosto especial pelas coisas espirituais. Aperfeiçoa a virtude teologal da caridade.",
+      "tags": [
+        "dons do Espírito Santo",
+        "sabedoria"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
+      "imagem_credito": "Foto: PetarM — Wikimedia Commons, CC BY-SA",
+      "tipo": "dom_espirito_santo",
+      "ordem": 8,
+      "referencia_biblica": "Isaías 11,2-3",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:dom-entendimento",
+      "slug": "dom-entendimento",
+      "titulo": "Dom do Entendimento",
+      "categoria": "virtudes",
+      "resumo": "Dom do Espírito Santo que dá penetração para compreender mais profundamente as verdades reveladas da fé.",
+      "corpo": "O Entendimento é o dom do Espírito Santo que ilumina a mente para captar, com mais profundidade e clareza, o sentido interior das verdades reveladas — não como conhecimento acadêmico, mas como penetração viva e existencial no mistério de Deus. Aperfeiçoa a virtude da fé.",
+      "tags": [
+        "dons do Espírito Santo",
+        "entendimento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
+      "imagem_credito": null,
+      "tipo": "dom_espirito_santo",
+      "ordem": 9,
+      "referencia_biblica": "Isaías 11,2-3",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:dom-conselho",
+      "slug": "dom-conselho",
+      "titulo": "Dom do Conselho",
+      "categoria": "virtudes",
+      "resumo": "Dom do Espírito Santo que dispõe a alma a discernir, em cada circunstância concreta, o que Deus pede.",
+      "corpo": "O Conselho é o dom do Espírito Santo que aperfeiçoa a virtude da prudência, dando à alma uma docilidade especial para discernir prontamente, à luz de Deus, o que se deve fazer ou evitar em cada situação particular — sobretudo em decisões difíceis onde o simples raciocínio humano não basta.",
+      "tags": [
+        "dons do Espírito Santo",
+        "conselho"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
+      "imagem_credito": null,
+      "tipo": "dom_espirito_santo",
+      "ordem": 10,
+      "referencia_biblica": "Isaías 11,2-3",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:dom-fortaleza",
+      "slug": "dom-fortaleza",
+      "titulo": "Dom da Fortaleza",
+      "categoria": "virtudes",
+      "resumo": "Dom do Espírito Santo que dá energia sobrenatural para superar os obstáculos à vida cristã e perseverar até o fim.",
+      "corpo": "A Fortaleza como dom do Espírito Santo — distinta, embora relacionada, da virtude cardeal do mesmo nome — comunica à alma uma energia que vai além das próprias forças naturais, capacitando-a a suportar provações extraordinárias, vencer o medo e perseverar heroicamente na fé, como se viu de modo eminente na vida dos mártires.",
+      "tags": [
+        "dons do Espírito Santo",
+        "fortaleza"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
+      "imagem_credito": null,
+      "tipo": "dom_espirito_santo",
+      "ordem": 11,
+      "referencia_biblica": "Isaías 11,2-3",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:dom-ciencia",
+      "slug": "dom-ciencia",
+      "titulo": "Dom da Ciência",
+      "categoria": "virtudes",
+      "resumo": "Dom do Espírito Santo que permite julgar retamente as coisas criadas em relação a Deus, seu Criador e fim último.",
+      "corpo": "A Ciência, como dom do Espírito Santo, não é acúmulo de informação, mas a capacidade de julgar corretamente as realidades criadas — pessoas, acontecimentos, bens do mundo — à luz de Deus, reconhecendo sua verdadeira relação com o Criador e evitando tanto o desprezo quanto o apego desordenado às coisas do mundo.",
+      "tags": [
+        "dons do Espírito Santo",
+        "ciência"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
+      "imagem_credito": null,
+      "tipo": "dom_espirito_santo",
+      "ordem": 12,
+      "referencia_biblica": "Isaías 11,2-3",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:dom-piedade",
+      "slug": "dom-piedade",
+      "titulo": "Dom da Piedade",
+      "categoria": "virtudes",
+      "resumo": "Dom do Espírito Santo que inspira afeto filial e confiante para com Deus Pai e compaixão fraterna para com o próximo.",
+      "corpo": "A Piedade é o dom do Espírito Santo que dá à alma um afeto verdadeiramente filial por Deus, amado e reverenciado como Pai, e que se estende, por consequência, numa disposição de respeito e compaixão fraterna para com todas as pessoas, reconhecidas como filhos do mesmo Pai.",
+      "tags": [
+        "dons do Espírito Santo",
+        "piedade"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
+      "imagem_credito": null,
+      "tipo": "dom_espirito_santo",
+      "ordem": 13,
+      "referencia_biblica": "Isaías 11,2-3",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:dom-temor-de-deus",
+      "slug": "dom-temor-de-deus",
+      "titulo": "Dom do Temor de Deus",
+      "categoria": "virtudes",
+      "resumo": "Dom do Espírito Santo que inspira profundo respeito pela majestade de Deus e horror a tudo que possa ofendê-lo.",
+      "corpo": "O Temor de Deus, como dom do Espírito Santo, não é medo servil de castigo, mas um respeito filial e reverente diante da grandeza e santidade de Deus, unido ao temor — este sim salutar — de se afastar dele pelo pecado. É descrito na Escritura como \"o princípio da sabedoria\" (Sl 111,10; Pr 9,10).",
+      "tags": [
+        "dons do Espírito Santo",
+        "temor de Deus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
+      "imagem_credito": null,
+      "tipo": "dom_espirito_santo",
+      "ordem": 14,
+      "referencia_biblica": "Provérbios 9,10",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:frutos-do-espirito-santo",
+      "slug": "frutos-do-espirito-santo",
+      "titulo": "Os Doze Frutos do Espírito Santo",
+      "categoria": "virtudes",
+      "resumo": "As perfeições que o Espírito Santo forma em nós como primícias da glória eterna, segundo a lista tradicional de doze frutos.",
+      "corpo": "Os \"frutos do Espírito Santo\" são perfeições que o próprio Espírito forma em nós como primícias da glória eterna — sinais visíveis de que a graça está de fato dando frutos numa vida concreta. São Paulo, na Carta aos Gálatas (5,22-23), enumera nove: \"caridade, alegria, paz, paciência, benignidade, bondade, mansidão, fidelidade, modéstia\"; a tradição latina, seguindo a Vulgata, acrescentou três outros — continência, castidade e longanimidade —, completando a lista tradicional de doze usada na catequese ocidental. Distinguem-se dos dons do Espírito Santo: os dons são disposições permanentes que tornam a alma dócil às inspirações divinas; os frutos são os efeitos concretos, visíveis, dessa docilidade na vida diária.",
+      "tags": [
+        "dons do Espírito Santo",
+        "frutos do Espírito Santo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 15,
+      "referencia_biblica": "Gálatas 5,22-23",
+      "fontes": [
+        "Gálatas 5,22-23",
+        "Catecismo da Igreja Católica, n. 1832"
+      ]
+    },
+    {
+      "id": "virtudes:bem-aventurados-os-pobres-de-espirito",
+      "slug": "bem-aventurados-os-pobres-de-espirito",
+      "titulo": "\"Bem-aventurados os pobres de espírito\"",
+      "categoria": "virtudes",
+      "resumo": "A primeira bem-aventurança: a felicidade de quem não põe a segurança nas riquezas, mas na confiança total em Deus.",
+      "corpo": "\"Bem-aventurados os pobres de espírito, porque deles é o Reino dos Céus\" (Mt 5,3). Abre o Sermão da Montanha proclamando bem-aventurado não quem possui muito, mas quem reconhece sua radical dependência de Deus e não coloca a segurança última nas riquezas materiais ou no próprio mérito. É o oposto direto do pecado de avareza e da soberba.",
+      "tags": [
+        "bem-aventuranças",
+        "Sermão da Montanha"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "imagem_credito": null,
+      "tipo": "bem_aventuranca",
+      "ordem": 16,
+      "referencia_biblica": "Mateus 5,3",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:bem-aventurados-os-mansos",
+      "slug": "bem-aventurados-os-mansos",
+      "titulo": "\"Bem-aventurados os mansos\"",
+      "categoria": "virtudes",
+      "resumo": "A segunda bem-aventurança: a felicidade de quem responde ao mal com serenidade em vez de violência ou vingança.",
+      "corpo": "\"Bem-aventurados os mansos, porque possuirão a terra\" (Mt 5,4, na numeração usada por Mateus; alguns o listam como o segundo enunciado). A mansidão bíblica não é fraqueza, mas força serena que renuncia à vingança e à violência, confiando a Deus a justiça final — como o próprio Jesus, que se descreveu como \"manso e humilde de coração\" (Mt 11,29).",
+      "tags": [
+        "bem-aventuranças",
+        "Sermão da Montanha"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "imagem_credito": null,
+      "tipo": "bem_aventuranca",
+      "ordem": 17,
+      "referencia_biblica": "Mateus 5,4",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:bem-aventurados-os-aflitos",
+      "slug": "bem-aventurados-os-aflitos",
+      "titulo": "\"Bem-aventurados os que choram\"",
+      "categoria": "virtudes",
+      "resumo": "A bem-aventurança que promete consolação divina a quem sofre e chora nesta vida.",
+      "corpo": "\"Bem-aventurados os que choram, porque serão consolados\" (Mt 5,5). Não é elogio ao sofrimento em si, mas promessa de que a dor genuína — pela própria condição humana, pelos pecados do mundo, pela perda de entes queridos — será acolhida e transformada pela consolação definitiva de Deus, antecipada já nesta vida pela esperança cristã.",
+      "tags": [
+        "bem-aventuranças",
+        "Sermão da Montanha"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "imagem_credito": null,
+      "tipo": "bem_aventuranca",
+      "ordem": 18,
+      "referencia_biblica": "Mateus 5,5",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:bem-aventurados-os-que-tem-fome-e-sede-de-justica",
+      "slug": "bem-aventurados-os-que-tem-fome-e-sede-de-justica",
+      "titulo": "\"Bem-aventurados os que têm fome e sede de justiça\"",
+      "categoria": "virtudes",
+      "resumo": "A bem-aventurança do desejo ardente pela justiça de Deus, que há de ser plenamente saciado.",
+      "corpo": "\"Bem-aventurados os que têm fome e sede de justiça, porque serão saciados\" (Mt 5,6). Descreve o desejo intenso e constante — comparado à fome e à sede — não apenas pela justiça social entre os homens, mas sobretudo pela justiça de Deus, isto é, por viver e ver triunfar a sua vontade santa no mundo.",
+      "tags": [
+        "bem-aventuranças",
+        "Sermão da Montanha"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "imagem_credito": null,
+      "tipo": "bem_aventuranca",
+      "ordem": 19,
+      "referencia_biblica": "Mateus 5,6",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:bem-aventurados-os-misericordiosos",
+      "slug": "bem-aventurados-os-misericordiosos",
+      "titulo": "\"Bem-aventurados os misericordiosos\"",
+      "categoria": "virtudes",
+      "resumo": "A bem-aventurança que liga diretamente a misericórdia que praticamos à misericórdia que receberemos de Deus.",
+      "corpo": "\"Bem-aventurados os misericordiosos, porque alcançarão misericórdia\" (Mt 5,7). Estabelece um vínculo direto — retomado depois no próprio Pai-Nosso (\"perdoai-nos... assim como nós perdoamos\") — entre a misericórdia que praticamos para com os outros e a misericórdia que receberemos de Deus, fundamento bíblico das obras de misericórdia.",
+      "tags": [
+        "bem-aventuranças",
+        "Sermão da Montanha",
+        "misericórdia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/RossanoGospelsFolio007vGoodSamaritan.jpg",
+      "imagem_credito": null,
+      "tipo": "bem_aventuranca",
+      "ordem": 20,
+      "referencia_biblica": "Mateus 5,7",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:bem-aventurados-os-limpos-de-coracao",
+      "slug": "bem-aventurados-os-limpos-de-coracao",
+      "titulo": "\"Bem-aventurados os limpos de coração\"",
+      "categoria": "virtudes",
+      "resumo": "A bem-aventurança que promete a visão de Deus a quem tem o coração livre de duplicidade e de apego desordenado.",
+      "corpo": "\"Bem-aventurados os limpos de coração, porque verão a Deus\" (Mt 5,8). A \"pureza de coração\" bíblica é mais ampla que a pureza sexual: designa um coração íntegro, sem duplicidade nem apego desordenado às criaturas, unicamente voltado para Deus — condição para \"ver\" a Deus, já parcialmente nesta vida pela fé, e plenamente na visão beatífica.",
+      "tags": [
+        "bem-aventuranças",
+        "Sermão da Montanha"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "imagem_credito": null,
+      "tipo": "bem_aventuranca",
+      "ordem": 21,
+      "referencia_biblica": "Mateus 5,8",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:bem-aventurados-os-pacificadores",
+      "slug": "bem-aventurados-os-pacificadores",
+      "titulo": "\"Bem-aventurados os pacificadores\"",
+      "categoria": "virtudes",
+      "resumo": "A bem-aventurança que chama de filhos de Deus quem constrói ativamente a paz, e não apenas a deseja.",
+      "corpo": "\"Bem-aventurados os pacificadores, porque serão chamados filhos de Deus\" (Mt 5,9). Distingue-se de uma paz passiva ou de mera ausência de conflito: o \"pacificador\" trabalha ativamente para reconciliar, construir pontes e curar divisões, imitando a obra do próprio Deus, que em Cristo reconcilia o mundo consigo (2 Cor 5,18-19).",
+      "tags": [
+        "bem-aventuranças",
+        "Sermão da Montanha",
+        "paz"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "imagem_credito": null,
+      "tipo": "bem_aventuranca",
+      "ordem": 22,
+      "referencia_biblica": "Mateus 5,9",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:bem-aventurados-os-perseguidos",
+      "slug": "bem-aventurados-os-perseguidos",
+      "titulo": "\"Bem-aventurados os perseguidos por causa da justiça\"",
+      "categoria": "virtudes",
+      "resumo": "A última bem-aventurança: a felicidade paradoxal de sofrer perseguição por fidelidade a Cristo e ao Evangelho.",
+      "corpo": "\"Bem-aventurados os perseguidos por causa da justiça, porque deles é o Reino dos Céus\" (Mt 5,10), desenvolvida logo em seguida para os perseguidos especificamente \"por minha causa\" (Mt 5,11). É a bem-aventurança mais paradoxal da lista, prometendo alegria não apesar da perseguição, mas precisamente por causa da fidelidade a Cristo que a provoca — o horizonte direto do testemunho dos mártires.",
+      "tags": [
+        "bem-aventuranças",
+        "Sermão da Montanha",
+        "mártires"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "imagem_credito": null,
+      "tipo": "bem_aventuranca",
+      "ordem": 23,
+      "referencia_biblica": "Mateus 5,10-12",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:dar-de-comer-a-quem-tem-fome",
+      "slug": "dar-de-comer-a-quem-tem-fome",
+      "titulo": "Dar de comer a quem tem fome",
+      "categoria": "virtudes",
+      "resumo": "Primeira obra de misericórdia corporal, fundada na identificação de Cristo com os famintos no juízo final.",
+      "corpo": "Fundada diretamente nas palavras de Jesus sobre o juízo final — \"tive fome e me destes de comer\" (Mt 25,35) —, esta obra de misericórdia identifica o próprio Cristo com quem passa fome, tornando o socorro material ao faminto um ato de fé, não apenas de filantropia.",
+      "tags": [
+        "obras de misericórdia",
+        "misericórdia corporal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/De_zeven_werken_van_barmhartigheid_Rijksmuseum_SK-A-2815-1.jpeg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_corporal",
+      "ordem": 24,
+      "referencia_biblica": "Mateus 25,35",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:dar-de-beber-a-quem-tem-sede",
+      "slug": "dar-de-beber-a-quem-tem-sede",
+      "titulo": "Dar de beber a quem tem sede",
+      "categoria": "virtudes",
+      "resumo": "Segunda obra de misericórdia corporal, atenção às necessidades básicas de sobrevivência do próximo.",
+      "corpo": "Ao lado de dar de comer, dar de beber a quem tem sede integra a lista de obras que Jesus liga diretamente ao próprio reconhecimento dele no juízo final (Mt 25,35), lembrando que o cuidado com as necessidades mais elementares do próximo é, para o cristão, uma forma concreta de servir a Cristo mesmo.",
+      "tags": [
+        "obras de misericórdia",
+        "misericórdia corporal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/De_zeven_werken_van_barmhartigheid_Rijksmuseum_SK-A-2815-2.jpeg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_corporal",
+      "ordem": 25,
+      "referencia_biblica": "Mateus 25,35",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:vestir-os-nus",
+      "slug": "vestir-os-nus",
+      "titulo": "Vestir os nus",
+      "categoria": "virtudes",
+      "resumo": "Terceira obra de misericórdia corporal: prover roupas e dignidade a quem não as tem.",
+      "corpo": "\"Estava nu, e me vestistes\" (Mt 25,36): vestir quem não tem roupa adequada é, na parábola do juízo final, tratado como ato feito diretamente a Cristo, unindo a dimensão material da caridade (prover um bem básico) à dimensão da dignidade humana que a falta de roupa adequada compromete.",
+      "tags": [
+        "obras de misericórdia",
+        "misericórdia corporal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/De_zeven_werken_van_barmhartigheid_Rijksmuseum_SK-A-2815-3.jpeg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_corporal",
+      "ordem": 26,
+      "referencia_biblica": "Mateus 25,36",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:dar-pousada-aos-peregrinos",
+      "slug": "dar-pousada-aos-peregrinos",
+      "titulo": "Dar pousada aos peregrinos",
+      "categoria": "virtudes",
+      "resumo": "Quarta obra de misericórdia corporal: acolher quem está sem casa ou de passagem.",
+      "corpo": "\"Era peregrino, e me acolhestes\" (Mt 25,35): acolher o estrangeiro, o viajante ou quem está temporariamente sem teto tem raízes na hospitalidade bíblica mais antiga (Gn 18, a visita dos três homens a Abraão) e permanece, hoje, ligada a questões concretas como migração e acolhimento de refugiados.",
+      "tags": [
+        "obras de misericórdia",
+        "misericórdia corporal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De_zeven_werken_van_barmhartigheid_Rijksmuseum_SK-A-2815-5.jpeg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_corporal",
+      "ordem": 27,
+      "referencia_biblica": "Mateus 25,35",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:visitar-os-enfermos",
+      "slug": "visitar-os-enfermos",
+      "titulo": "Visitar os enfermos",
+      "categoria": "virtudes",
+      "resumo": "Quinta obra de misericórdia corporal: acompanhar quem está doente, física ou emocionalmente fragilizado.",
+      "corpo": "\"Estava doente, e me visitastes\" (Mt 25,36): a visita ao doente é reconhecida por Jesus como visita a ele mesmo, valorizando não apenas o cuidado médico, mas a simples presença e companhia que combatem o isolamento próprio da doença.",
+      "tags": [
+        "obras de misericórdia",
+        "misericórdia corporal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/De_zeven_werken_van_barmhartigheid_Rijksmuseum_SK-A-2815-6.jpeg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_corporal",
+      "ordem": 28,
+      "referencia_biblica": "Mateus 25,36",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:visitar-os-presos",
+      "slug": "visitar-os-presos",
+      "titulo": "Visitar os presos",
+      "categoria": "virtudes",
+      "resumo": "Sexta obra de misericórdia corporal: não abandonar quem está encarcerado à própria sorte.",
+      "corpo": "\"Estava preso, e fostes ver-me\" (Mt 25,36): das sete obras corporais, é talvez a mais contracultural, chamando o cristão a reconhecer Cristo também na pessoa encarcerada — sem que isso implique julgamento sobre a culpa ou inocência de quem está preso, mas reconhecimento de sua dignidade humana permanente.",
+      "tags": [
+        "obras de misericórdia",
+        "misericórdia corporal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/De_zeven_werken_van_barmhartigheid_Rijksmuseum_SK-A-2815-7.jpeg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_corporal",
+      "ordem": 29,
+      "referencia_biblica": "Mateus 25,36",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:sepultar-os-mortos",
+      "slug": "sepultar-os-mortos",
+      "titulo": "Sepultar os mortos",
+      "categoria": "virtudes",
+      "resumo": "Sétima obra de misericórdia corporal, acrescentada pela tradição ao texto evangélico do juízo final.",
+      "corpo": "Diferente das outras seis, \"sepultar os mortos\" não aparece explicitamente na lista de Mateus 25, mas foi acrescentada pela tradição cristã antiga, inspirada em exemplos como o do livro de Tobias, que arriscava a vida para dar sepultura digna aos judeus mortos em terra estrangeira (Tb 1,17-18; 2,3-8) — reconhecendo o respeito ao corpo humano mesmo após a morte, à espera da ressurreição.",
+      "tags": [
+        "obras de misericórdia",
+        "misericórdia corporal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De_zeven_werken_van_barmhartigheid_Rijksmuseum_SK-A-2815-4.jpg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_corporal",
+      "ordem": 30,
+      "referencia_biblica": "Tobias 1,17-18",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:ensinar-os-ignorantes",
+      "slug": "ensinar-os-ignorantes",
+      "titulo": "Ensinar os que não sabem",
+      "categoria": "virtudes",
+      "resumo": "Primeira obra de misericórdia espiritual: partilhar conhecimento, sobretudo da fé, com quem não teve acesso a ele.",
+      "corpo": "Ensinar quem não teve oportunidade de aprender — na fé ou em qualquer saber necessário à vida digna — é reconhecida como obra de misericórdia espiritual porque a ignorância involuntária priva a pessoa de recursos essenciais para decidir e viver bem.",
+      "tags": [
+        "obras de misericórdia",
+        "misericórdia espiritual"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Dietrich_Jesus_teaching_in_the_Temple.jpg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_espiritual",
+      "ordem": 31,
+      "referencia_biblica": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:dar-bom-conselho",
+      "slug": "dar-bom-conselho",
+      "titulo": "Dar bom conselho a quem precisa",
+      "categoria": "virtudes",
+      "resumo": "Segunda obra de misericórdia espiritual: ajudar alguém em dúvida a discernir o caminho certo.",
+      "corpo": "Aconselhar bem quem está diante de uma decisão difícil ou de uma dúvida moral é obra de misericórdia espiritual precisamente porque exige doar tempo, atenção e discernimento genuíno ao problema do outro, sem impor a própria vontade no lugar do bem da pessoa aconselhada.",
+      "tags": [
+        "obras de misericórdia",
+        "misericórdia espiritual"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_espiritual",
+      "ordem": 32,
+      "referencia_biblica": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:corrigir-os-que-erram",
+      "slug": "corrigir-os-que-erram",
+      "titulo": "Corrigir os que erram",
+      "categoria": "virtudes",
+      "resumo": "Terceira obra de misericórdia espiritual: a chamada \"correção fraterna\", feita com caridade e não com humilhação.",
+      "corpo": "A \"correção fraterna\", já ensinada pelo próprio Jesus (Mt 18,15), é reconhecida como obra de misericórdia porque calar diante do erro de alguém que se ama nem sempre é caridade — pode ser omissão. Exige, porém, ser feita com humildade e respeito, buscando o bem de quem erra, não a sua humilhação.",
+      "tags": [
+        "obras de misericórdia",
+        "misericórdia espiritual"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/79/The_Denial_of_Saint_Peter-Caravaggio_%281610%29.jpg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_espiritual",
+      "ordem": 33,
+      "referencia_biblica": "Mateus 18,15",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:consolar-os-tristes",
+      "slug": "consolar-os-tristes",
+      "titulo": "Consolar os tristes",
+      "categoria": "virtudes",
+      "resumo": "Quarta obra de misericórdia espiritual: acompanhar quem sofre, sem minimizar sua dor.",
+      "corpo": "Consolar não significa apagar instantaneamente a tristeza alheia, mas acompanhá-la com presença, escuta e esperança — um eco direto da bem-aventurança \"bem-aventurados os que choram, porque serão consolados\" (Mt 5,4), vivida concretamente através de quem se dispõe a consolar.",
+      "tags": [
+        "obras de misericórdia",
+        "misericórdia espiritual"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_espiritual",
+      "ordem": 34,
+      "referencia_biblica": "Mateus 5,4",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:perdoar-as-ofensas",
+      "slug": "perdoar-as-ofensas",
+      "titulo": "Perdoar as ofensas",
+      "categoria": "virtudes",
+      "resumo": "Quinta obra de misericórdia espiritual, diretamente ligada ao pedido do Pai-Nosso pelo perdão mútuo.",
+      "corpo": "Perdoar quem nos ofendeu é obra de misericórdia com base direta no próprio Pai-Nosso — \"perdoai-nos as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido\" — e na parábola do servo que, perdoado de dívida enorme, recusa-se a perdoar uma dívida menor (Mt 18,23-35).",
+      "tags": [
+        "obras de misericórdia",
+        "misericórdia espiritual",
+        "perdão"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_espiritual",
+      "ordem": 35,
+      "referencia_biblica": "Mateus 18,23-35",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:suportar-com-paciencia-os-defeitos-do-proximo",
+      "slug": "suportar-com-paciencia-os-defeitos-do-proximo",
+      "titulo": "Suportar com paciência os defeitos do próximo",
+      "categoria": "virtudes",
+      "resumo": "Sexta obra de misericórdia espiritual: tolerância paciente com as fraquezas e limitações alheias.",
+      "corpo": "Suportar pacientemente os defeitos e as imperfeições dos outros — sem exigir deles uma perfeição que ninguém, nem mesmo quem exige, possui — é reconhecido como obra de misericórdia espiritual, exercício concreto da caridade que \"tudo sofre, tudo crê, tudo espera, tudo suporta\" (1 Cor 13,7).",
+      "tags": [
+        "obras de misericórdia",
+        "misericórdia espiritual"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_espiritual",
+      "ordem": 36,
+      "referencia_biblica": "1 Coríntios 13,7",
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "virtudes:rezar-por-vivos-e-mortos",
+      "slug": "rezar-por-vivos-e-mortos",
+      "titulo": "Rezar a Deus por vivos e mortos",
+      "categoria": "virtudes",
+      "resumo": "Sétima obra de misericórdia espiritual: a intercessão orante por todos, inclusive pelos que já morreram.",
+      "corpo": "Rezar pelos vivos e pelos mortos fecha a lista tradicional das obras de misericórdia espirituais, ligando-se à doutrina da comunhão dos santos e à prática do sufrágio pelos falecidos — a crença de que a oração de quem ainda peregrina nesta vida pode ajudar as almas que já partiram.",
+      "tags": [
+        "obras de misericórdia",
+        "misericórdia espiritual",
+        "comunhão dos santos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ghent_Altarpiece_-_Adoration_of_the_Mystic_Lamb.jpg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_espiritual",
+      "ordem": 37,
+      "referencia_biblica": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    }
+  ]
+}

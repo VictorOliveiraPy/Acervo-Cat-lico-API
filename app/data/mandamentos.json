@@ -1,0 +1,385 @@
+{
+  "_meta": {
+    "categoria": "mandamentos",
+    "nome": "Mandamentos",
+    "descricao": "Os Dez Mandamentos comentados um a um, com referência bíblica, e os cinco preceitos da Igreja.",
+    "status": "exemplos-iniciais",
+    "aviso": "Explicação catequética introdutória de cada mandamento; casos morais concretos e complexos exigem sempre o acompanhamento de um confessor ou diretor espiritual, não apenas a leitura deste resumo.",
+    "revisao_editorial": "A numeração e a divisão exata dos Dez Mandamentos variam ligeiramente entre tradições cristãs (a tradição católica e luterana, seguindo Santo Agostinho, dividem de modo diferente da tradição judaica e reformada); este acervo segue a divisão tradicional católica, também usada pelo Catecismo da Igreja Católica.",
+    "fontes_gerais": [
+      "Êxodo 20,1-17",
+      "Deuteronômio 5,6-21",
+      "Catecismo da Igreja Católica, Terceira Parte, Segunda Seção (\"Os Dez Mandamentos\")"
+    ]
+  },
+  "itens": [
+    {
+      "id": "mandamentos:primeiro-mandamento",
+      "slug": "primeiro-mandamento",
+      "titulo": "\"Amar a Deus sobre todas as coisas\"",
+      "categoria": "mandamentos",
+      "resumo": "O primeiro mandamento proíbe a idolatria e exige adorar só a Deus, fundamento de toda a Lei.",
+      "corpo": "\"Não terás outros deuses diante de mim\" (Ex 20,3) é o fundamento de todo o Decálogo: reconhecer e adorar o único Deus verdadeiro, recusando qualquer forma de idolatria — não apenas o culto a ídolos de pedra, mas também as idolatrias modernas do dinheiro, do poder, do prazer ou de si mesmo, quando colocados no lugar que só a Deus pertence. Inclui os pecados de superstição, adivinhação, magia e o ateísmo voluntário.",
+      "tags": [
+        "dez mandamentos",
+        "decálogo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/GoldCalf.jpg",
+      "imagem_credito": null,
+      "tipo": "decalogo",
+      "ordem": 1,
+      "referencia_biblica": "Êxodo 20,2-6",
+      "paragrafos_ccc": [
+        "2084-2141"
+      ],
+      "fontes": [
+        "Êxodo 20,1-17",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "mandamentos:segundo-mandamento-md",
+      "slug": "segundo-mandamento-md",
+      "titulo": "\"Não invocarás o nome de Deus em vão\"",
+      "categoria": "mandamentos",
+      "resumo": "O segundo mandamento exige reverência pelo nome de Deus e proíbe blasfêmia, perjúrio e juramentos levianos.",
+      "corpo": "\"Não tomarás o nome do Senhor teu Deus em vão\" (Ex 20,7) pede respeito pelo nome de Deus, dos santos e dos lugares sagrados. Proíbe a blasfêmia (palavras de ódio, desafio ou desprezo contra Deus), o perjúrio (jurar falsamente invocando o nome de Deus como testemunha) e o uso leviano ou supersticioso do nome divino.",
+      "tags": [
+        "dez mandamentos",
+        "decálogo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Decalogue_parchment_by_Jekuthiel_Sofer_1768.jpg",
+      "imagem_credito": null,
+      "tipo": "decalogo",
+      "ordem": 2,
+      "referencia_biblica": "Êxodo 20,7",
+      "paragrafos_ccc": [
+        "2142-2167"
+      ],
+      "fontes": [
+        "Êxodo 20,1-17",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "mandamentos:terceiro-mandamento-md",
+      "slug": "terceiro-mandamento-md",
+      "titulo": "\"Guardar o dia do Senhor\"",
+      "categoria": "mandamentos",
+      "resumo": "O terceiro mandamento pede a santificação do domingo, dia da Ressurreição, com a participação na Missa e o descanso do trabalho.",
+      "corpo": "No Antigo Testamento, o preceito referia-se ao sábado, memorial do descanso de Deus após a criação (Gn 2,2-3). Para os cristãos, o preceito se transferiu para o domingo, \"dia do Senhor\", em memória da Ressurreição de Cristo. A Igreja pede a participação na Missa dominical e a abstenção de trabalhos e atividades que impeçam o culto devido a Deus e o justo descanso da alma e do corpo.",
+      "tags": [
+        "dez mandamentos",
+        "decálogo",
+        "domingo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ventimiglia_Sant%27Agostino_Ite_missa_est.jpg",
+      "imagem_credito": null,
+      "tipo": "decalogo",
+      "ordem": 3,
+      "referencia_biblica": "Êxodo 20,8-11",
+      "paragrafos_ccc": [
+        "2168-2195"
+      ],
+      "fontes": [
+        "Êxodo 20,1-17",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "mandamentos:quarto-mandamento-md",
+      "slug": "quarto-mandamento-md",
+      "titulo": "\"Honrar pai e mãe\"",
+      "categoria": "mandamentos",
+      "resumo": "O quarto mandamento pede respeito e obediência devida aos pais na infância, e apoio mútuo entre pais e filhos ao longo da vida.",
+      "corpo": "\"Honra teu pai e tua mãe\" (Ex 20,12) é o único dos Dez Mandamentos acompanhado de uma promessa: \"para que se prolonguem os teus dias\". Regula as relações entre pais e filhos — obediência e respeito na infância, cuidado e apoio material e espiritual aos pais na velhice —, e a tradição católica estende seu princípio a todas as relações de autoridade legítima na sociedade.",
+      "tags": [
+        "dez mandamentos",
+        "decálogo",
+        "família"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sagrada_Familia_del_pajarito_%28Murillo%29.jpg",
+      "imagem_credito": null,
+      "tipo": "decalogo",
+      "ordem": 4,
+      "referencia_biblica": "Êxodo 20,12",
+      "paragrafos_ccc": [
+        "2197-2257"
+      ],
+      "fontes": [
+        "Êxodo 20,1-17",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "mandamentos:quinto-mandamento-md",
+      "slug": "quinto-mandamento-md",
+      "titulo": "\"Não matarás\"",
+      "categoria": "mandamentos",
+      "resumo": "O quinto mandamento protege a inviolabilidade da vida humana, do início natural até o fim natural.",
+      "corpo": "\"Não matarás\" (Ex 20,13) funda a doutrina católica sobre a inviolabilidade da vida humana desde a concepção até a morte natural, sendo a base da oposição da Igreja ao aborto direto e à eutanásia. Inclui também a proibição do suicídio, dos maus-tratos e de tudo que ponha em risco desnecessário a saúde e a vida própria ou alheia, embora reconheça o direito à legítima defesa.",
+      "tags": [
+        "dez mandamentos",
+        "decálogo",
+        "vida"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Cain_leadeth_abel_to_death_tissot.jpg",
+      "imagem_credito": null,
+      "tipo": "decalogo",
+      "ordem": 5,
+      "referencia_biblica": "Êxodo 20,13",
+      "paragrafos_ccc": [
+        "2258-2330"
+      ],
+      "fontes": [
+        "Êxodo 20,1-17",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "mandamentos:sexto-mandamento-md",
+      "slug": "sexto-mandamento-md",
+      "titulo": "\"Não cometerás adultério\"",
+      "categoria": "mandamentos",
+      "resumo": "O sexto mandamento chama à castidade em cada estado de vida e protege a fidelidade e a unidade do matrimônio.",
+      "corpo": "\"Não cometerás adultério\" (Ex 20,14) funda a doutrina sobre a castidade — virtude que integra bem a sexualidade na pessoa, própria de cada estado de vida — e a fidelidade conjugal. A tradição moral católica trata sob este mandamento toda a moral sexual: além do adultério, a fornicação, a masturbação, a pornografia e a prostituição, sempre a partir do princípio positivo de que a sexualidade humana é chamada a se realizar plenamente na doação total e fecunda do matrimônio.",
+      "tags": [
+        "dez mandamentos",
+        "decálogo",
+        "castidade"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Wedding_rings.jpg",
+      "imagem_credito": null,
+      "tipo": "decalogo",
+      "ordem": 6,
+      "referencia_biblica": "Êxodo 20,14",
+      "paragrafos_ccc": [
+        "2331-2400"
+      ],
+      "fontes": [
+        "Êxodo 20,1-17",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "mandamentos:setimo-mandamento-md",
+      "slug": "setimo-mandamento-md",
+      "titulo": "\"Não furtarás\"",
+      "categoria": "mandamentos",
+      "resumo": "O sétimo mandamento protege o direito à propriedade e exige justiça nas relações econômicas.",
+      "corpo": "\"Não furtarás\" (Ex 20,15) protege o direito legítimo à propriedade privada e à justiça nas relações econômicas, proibindo o roubo em qualquer forma — incluindo fraude comercial, sonegação, corrupção e danos deliberados ao patrimônio alheio ou público. Ao mesmo tempo, a tradição católica lembra que a propriedade privada tem uma \"hipoteca social\": os bens da terra são destinados originalmente a todos.",
+      "tags": [
+        "dez mandamentos",
+        "decálogo",
+        "justiça"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Decalogue_parchment_by_Jekuthiel_Sofer_1768.jpg",
+      "imagem_credito": null,
+      "tipo": "decalogo",
+      "ordem": 7,
+      "referencia_biblica": "Êxodo 20,15",
+      "paragrafos_ccc": [
+        "2401-2463"
+      ],
+      "fontes": [
+        "Êxodo 20,1-17",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "mandamentos:oitavo-mandamento-md",
+      "slug": "oitavo-mandamento-md",
+      "titulo": "\"Não dirás falso testemunho\"",
+      "categoria": "mandamentos",
+      "resumo": "O oitavo mandamento exige a verdade nas palavras e proíbe mentira, calúnia, difamação e falso testemunho.",
+      "corpo": "\"Não dirás falso testemunho contra o teu próximo\" (Ex 20,16) funda o dever de dizer a verdade e respeitar a honra e a reputação alheia. Proíbe o falso testemunho em juízo, a mentira, a calúnia (atribuir falsamente uma falta a alguém), a difamação (revelar sem motivo legítimo falhas reais de outrem) e a lisonja movida por interesse.",
+      "tags": [
+        "dez mandamentos",
+        "decálogo",
+        "verdade"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Decalogue_parchment_by_Jekuthiel_Sofer_1768.jpg",
+      "imagem_credito": null,
+      "tipo": "decalogo",
+      "ordem": 8,
+      "referencia_biblica": "Êxodo 20,16",
+      "paragrafos_ccc": [
+        "2464-2513"
+      ],
+      "fontes": [
+        "Êxodo 20,1-17",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "mandamentos:nono-mandamento-md",
+      "slug": "nono-mandamento-md",
+      "titulo": "\"Não desejarás a mulher do próximo\"",
+      "categoria": "mandamentos",
+      "resumo": "O nono mandamento pede a purificação do coração e dos desejos, além da conduta externa.",
+      "corpo": "\"Não cobiçarás a mulher do teu próximo\" (Ex 20,17) desloca o foco da moral do ato externo para o desejo interior, completando o sexto mandamento: pede não só a fidelidade nos atos, mas a purificação do próprio coração e dos pensamentos, reconhecendo que o desejo desordenado, mesmo não realizado, já compromete a pureza interior.",
+      "tags": [
+        "dez mandamentos",
+        "decálogo",
+        "castidade"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Decalogue_parchment_by_Jekuthiel_Sofer_1768.jpg",
+      "imagem_credito": null,
+      "tipo": "decalogo",
+      "ordem": 9,
+      "referencia_biblica": "Êxodo 20,17",
+      "paragrafos_ccc": [
+        "2514-2533"
+      ],
+      "fontes": [
+        "Êxodo 20,1-17",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "mandamentos:decimo-mandamento-md",
+      "slug": "decimo-mandamento-md",
+      "titulo": "\"Não cobiçarás os bens do próximo\"",
+      "categoria": "mandamentos",
+      "resumo": "O décimo mandamento completa o sétimo, pedindo desapego interior em relação aos bens materiais alheios.",
+      "corpo": "\"Não cobiçarás... coisa alguma que lhe pertença\" (Ex 20,17) completa o sétimo mandamento no plano interior: proíbe a avareza e o desejo desordenado de apropriar-se dos bens alheios, mesmo sem chegar a furtá-los de fato, e convida a um desapego que abre espaço à confiança em Deus e à pobreza evangélica.",
+      "tags": [
+        "dez mandamentos",
+        "decálogo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Decalogue_parchment_by_Jekuthiel_Sofer_1768.jpg",
+      "imagem_credito": null,
+      "tipo": "decalogo",
+      "ordem": 10,
+      "referencia_biblica": "Êxodo 20,17",
+      "paragrafos_ccc": [
+        "2534-2557"
+      ],
+      "fontes": [
+        "Êxodo 20,1-17",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "mandamentos:participar-da-missa-dominical",
+      "slug": "participar-da-missa-dominical",
+      "titulo": "Participar da Missa aos domingos e dias de guarda",
+      "categoria": "mandamentos",
+      "resumo": "Primeiro preceito da Igreja: assistir à Missa dominical e nas festas de guarda, e abster-se de trabalhos desnecessários.",
+      "corpo": "O primeiro preceito da Igreja obriga os fiéis a participar da Missa aos domingos e nos dias de guarda estabelecidos, e a abster-se de trabalhos e atividades que impeçam a santificação desses dias. Não é um acréscimo arbitrário ao terceiro mandamento: é sua concretização institucional, garantindo que a comunidade cristã de fato se reúna com regularidade para celebrar o mistério pascal.",
+      "tags": [
+        "preceitos da Igreja",
+        "Missa"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg",
+      "imagem_credito": null,
+      "tipo": "igreja",
+      "ordem": 11,
+      "referencia_biblica": null,
+      "paragrafos_ccc": [
+        "2042"
+      ],
+      "fontes": [
+        "Êxodo 20,1-17",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "mandamentos:confessar-os-pecados-ao-menos-uma-vez-por-ano",
+      "slug": "confessar-os-pecados-ao-menos-uma-vez-por-ano",
+      "titulo": "Confessar os pecados graves ao menos uma vez por ano",
+      "categoria": "mandamentos",
+      "resumo": "Segundo preceito da Igreja: procurar o sacramento da Reconciliação ao menos anualmente quando há pecado grave.",
+      "corpo": "O segundo preceito estabelece o mínimo indispensável de vida sacramental: quem tem consciência de pecado grave deve confessar-se ao menos uma vez ao ano, preparando-se assim para receber dignamente a Eucaristia. Não impede, e a Igreja recomenda, uma frequência bem maior à confissão como meio ordinário de crescimento espiritual.",
+      "tags": [
+        "preceitos da Igreja",
+        "confissão"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PL_Wwa%2C_kos_Krzyza%2C_konfesjonal%2C_2023.04.08%2C_fot_Ivonna_Nowicka_corr_3.jpg",
+      "imagem_credito": null,
+      "tipo": "igreja",
+      "ordem": 12,
+      "referencia_biblica": null,
+      "paragrafos_ccc": [
+        "2042"
+      ],
+      "fontes": [
+        "Êxodo 20,1-17",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "mandamentos:comungar-pelo-menos-na-pascoa",
+      "slug": "comungar-pelo-menos-na-pascoa",
+      "titulo": "Comungar ao menos pela Páscoa",
+      "categoria": "mandamentos",
+      "resumo": "Terceiro preceito da Igreja: receber a Eucaristia ao menos uma vez por ano, no tempo pascal.",
+      "corpo": "O terceiro preceito fixa o mínimo de participação eucarística: todo fiel que já fez a Primeira Comunhão deve comungar ao menos uma vez por ano, de preferência no tempo pascal — período que se estende, conforme o direito canônico, aproximadamente da Quarta-feira de Cinzas à Solenidade da Santíssima Trindade.",
+      "tags": [
+        "preceitos da Igreja",
+        "eucaristia",
+        "Páscoa"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/The_First_Communion_MET_DT201073.jpg",
+      "imagem_credito": null,
+      "tipo": "igreja",
+      "ordem": 13,
+      "referencia_biblica": null,
+      "paragrafos_ccc": [
+        "2042"
+      ],
+      "fontes": [
+        "Êxodo 20,1-17",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "mandamentos:observar-os-dias-de-jejum-e-abstinencia",
+      "slug": "observar-os-dias-de-jejum-e-abstinencia",
+      "titulo": "Observar os dias de jejum e abstinência",
+      "categoria": "mandamentos",
+      "resumo": "Quarto preceito da Igreja: guardar os tempos de penitência fixados, como a Quaresma, especialmente a Quarta-feira de Cinzas e a Sexta-feira Santa.",
+      "corpo": "O quarto preceito pede que os fiéis observem os tempos ascéticos e penitenciais estabelecidos pela Igreja, sobretudo os dias de jejum e abstinência de carne fixados no calendário — na prática atual, principalmente a Quarta-feira de Cinzas e a Sexta-feira Santa —, como preparação espiritual e ato concreto de penitência.",
+      "tags": [
+        "preceitos da Igreja",
+        "jejum",
+        "Quaresma"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/05_Tentaciones_de_Cristo_%28Botticelli%29.jpg",
+      "imagem_credito": null,
+      "tipo": "igreja",
+      "ordem": 14,
+      "referencia_biblica": null,
+      "paragrafos_ccc": [
+        "2043"
+      ],
+      "fontes": [
+        "Êxodo 20,1-17",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "mandamentos:prover-as-necessidades-da-igreja",
+      "slug": "prover-as-necessidades-da-igreja",
+      "titulo": "Ajudar a Igreja em suas necessidades materiais",
+      "categoria": "mandamentos",
+      "resumo": "Quinto preceito da Igreja: contribuir, conforme as próprias possibilidades, para a manutenção material da Igreja.",
+      "corpo": "O quinto preceito lembra que a Igreja, mesmo sendo antes de tudo comunidade espiritual, precisa de recursos materiais para sustentar seu culto, seu clero e suas obras de caridade e evangelização, e pede que cada fiel contribua para isso na medida de suas possibilidades — dever distinto, mas complementar, da caridade geral com os pobres.",
+      "tags": [
+        "preceitos da Igreja"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Seven_Sacraments_Rogier.jpg",
+      "imagem_credito": null,
+      "tipo": "igreja",
+      "ordem": 15,
+      "referencia_biblica": null,
+      "paragrafos_ccc": [
+        "2043"
+      ],
+      "fontes": [
+        "Êxodo 20,1-17",
+        "Catecismo da Igreja Católica"
+      ]
+    }
+  ]
+}

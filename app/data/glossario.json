@@ -1,0 +1,601 @@
+{
+  "_meta": {
+    "categoria": "glossario",
+    "nome": "Glossário",
+    "descricao": "Dicionário de termos litúrgicos, canônicos e devocionais católicos — do ostensório ao motu proprio.",
+    "status": "exemplos-iniciais",
+    "aviso": "Definições introdutórias e resumidas; para uso técnico ou canônico rigoroso, consulte o Código de Direito Canônico ou obras de referência especializadas.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Catecismo da Igreja Católica",
+      "Código de Direito Canônico (1983)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "glossario:ostensorio",
+      "slug": "ostensorio",
+      "titulo": "Ostensório",
+      "categoria": "glossario",
+      "resumo": "Peça litúrgica de metal precioso usada para expor a hóstia consagrada à adoração dos fiéis.",
+      "corpo": "Também chamado \"custódia\", o ostensório é uma peça de ouro ou prata, geralmente em forma de sol com raios, com um receptáculo central de vidro (a lúnula) onde se coloca a hóstia consagrada para exposição e adoração pública, fora da Missa — ver a categoria Vida Litúrgica.",
+      "tags": [
+        "objetos litúrgicos",
+        "eucaristia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:ambula",
+      "slug": "ambula",
+      "titulo": "Âmbula",
+      "categoria": "glossario",
+      "resumo": "Recipiente metálico onde se guardam as hóstias consagradas dentro do sacrário.",
+      "corpo": "A âmbula (também chamada cibório, quando tem forma de taça com tampa) é o vaso sagrado, normalmente de metal dourado por dentro, usado para conservar as hóstias consagradas reservadas no sacrário para a comunhão dos fiéis e a adoração eucarística fora da Missa.",
+      "tags": [
+        "objetos litúrgicos",
+        "eucaristia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:casula",
+      "slug": "casula",
+      "titulo": "Casula",
+      "categoria": "glossario",
+      "resumo": "Veste externa usada pelo sacerdote na Missa, cuja cor varia conforme o tempo litúrgico.",
+      "corpo": "A casula é a veste litúrgica externa, geralmente em forma de poncho amplo, usada pelo sacerdote celebrante por cima da alva e da estola durante a Missa. Sua cor segue o calendário do ano litúrgico (ver a categoria Calendário Litúrgico) e frequentemente traz bordados ou símbolos relacionados à celebração.",
+      "tags": [
+        "objetos litúrgicos",
+        "paramentos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:ambao",
+      "slug": "ambao",
+      "titulo": "Ambão",
+      "categoria": "glossario",
+      "resumo": "Local elevado, distinto do altar, de onde se proclamam as leituras bíblicas e se prega a homilia.",
+      "corpo": "O ambão é o local, geralmente uma espécie de púlpito ou estante elevada no presbitério, reservado especificamente à proclamação da Palavra de Deus — as leituras, o salmo responsorial e o Evangelho — e à pregação da homilia, distinto do altar, reservado ao sacrifício eucarístico.",
+      "tags": [
+        "arquitetura sacra",
+        "liturgia da palavra"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:cirio-pascal",
+      "slug": "cirio-pascal",
+      "titulo": "Círio Pascal",
+      "categoria": "glossario",
+      "resumo": "Vela grande, benzida na Vigília Pascal, que simboliza Cristo ressuscitado, \"luz do mundo\".",
+      "corpo": "O Círio Pascal é uma grande vela de cera, abençoada e acesa solenemente na Vigília Pascal a partir do fogo novo, símbolo de Cristo ressuscitado, \"luz que as trevas não venceram\". Permanece aceso durante todas as celebrações do Tempo Pascal e é usado também para acender a vela do batizando em cada Batismo ao longo do ano.",
+      "tags": [
+        "objetos litúrgicos",
+        "Páscoa"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:sacrario",
+      "slug": "sacrario",
+      "titulo": "Sacrário",
+      "categoria": "glossario",
+      "resumo": "Cofre fixo e inviolável, na igreja, onde se conserva permanentemente o Santíssimo Sacramento.",
+      "corpo": "O sacrário (também chamado tabernáculo) é o local seguro e digno — normalmente um pequeno cofre de metal, embutido ou sobre um pedestal — onde a Eucaristia consagrada é conservada de modo permanente na igreja, tanto para a comunhão dos enfermos quanto para a adoração eucarística. Uma lâmpada acesa ao seu lado sinaliza aos fiéis a presença real de Cristo ali reservado.",
+      "tags": [
+        "objetos litúrgicos",
+        "eucaristia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:indulgencia",
+      "slug": "indulgencia",
+      "titulo": "Indulgência",
+      "categoria": "glossario",
+      "resumo": "Remissão, diante de Deus, da pena temporal já perdoada quanto à culpa, concedida pela Igreja em determinadas condições.",
+      "corpo": "A indulgência não perdoa o pecado em si — isso é efeito do sacramento da Penitência — mas remite, total (plenária) ou parcialmente, a pena temporal que ainda resta a cumprir por pecados já perdoados quanto à culpa. É concedida pela Igreja, que aplica em favor do fiel o tesouro espiritual dos méritos de Cristo e dos santos, mediante a prática de obras determinadas — orações, peregrinações, obras de caridade — em condições fixadas pela autoridade eclesiástica.",
+      "tags": [
+        "penitência",
+        "vida eterna"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1471-1479"
+      ]
+    },
+    {
+      "id": "glossario:nulidade-matrimonial",
+      "slug": "nulidade-matrimonial",
+      "titulo": "Nulidade Matrimonial",
+      "categoria": "glossario",
+      "resumo": "Declaração eclesiástica de que um casamento, apesar da aparência externa, nunca chegou a existir validamente desde o início.",
+      "corpo": "A \"nulidade\" (ou anulação) não é o equivalente católico do divórcio: é a constatação, por um tribunal eclesiástico, de que um requisito essencial para a validade do matrimônio — pleno consentimento livre, ausência de coação, capacidade psicológica, entre outros — estava ausente desde o início, de modo que aquele vínculo, apesar da celebração externa, nunca existiu como matrimônio sacramental válido.",
+      "tags": [
+        "matrimônio",
+        "direito canônico"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:via-sacra-termo",
+      "slug": "via-sacra-termo",
+      "titulo": "Estação (da Via-Sacra)",
+      "categoria": "glossario",
+      "resumo": "Cada um dos catorze (ou quinze) pontos de parada e meditação que compõem a Via-Sacra.",
+      "corpo": "Cada \"estação\" da Via-Sacra corresponde a um episódio específico da Paixão de Cristo — por exemplo, a primeira estação (\"Jesus é condenado à morte\") ou a décima segunda (\"Jesus morre na cruz\") —, geralmente representada por uma imagem ou relevo fixado na parede da igreja, diante do qual os fiéis param para rezar e meditar (ver a categoria Devoções).",
+      "tags": [
+        "Via-Sacra",
+        "Paixão de Cristo"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:dalmatica",
+      "slug": "dalmatica",
+      "titulo": "Dalmática",
+      "categoria": "glossario",
+      "resumo": "Veste litúrgica própria do diácono, semelhante à casula mas com mangas.",
+      "corpo": "A dalmática é a veste externa própria do diácono na liturgia solene, análoga à casula do sacerdote, mas com formato mais amplo e mangas — seu uso remonta ao Império Romano e à cidade da Dalmácia, de onde vem o nome.",
+      "tags": [
+        "objetos litúrgicos",
+        "paramentos",
+        "diaconato"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:estola",
+      "slug": "estola",
+      "titulo": "Estola",
+      "categoria": "glossario",
+      "resumo": "Faixa de tecido usada sobre os ombros, sinal distintivo do caráter sacerdotal ou diaconal do ministro.",
+      "corpo": "A estola é uma longa faixa de tecido, na cor litúrgica do dia, usada por padres (cruzada ou solta sobre o peito) e diáconos (na diagonal, de um ombro ao quadril oposto) como sinal visível de seu ministério ordenado — usada também pelo sacerdote na confissão, ainda que sem a casula.",
+      "tags": [
+        "objetos litúrgicos",
+        "paramentos",
+        "ordem"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:cingulo",
+      "slug": "cingulo",
+      "titulo": "Cíngulo",
+      "categoria": "glossario",
+      "resumo": "Cordão que ajusta a alva na cintura, símbolo tradicional de domínio próprio e castidade.",
+      "corpo": "O cíngulo é o cordão, geralmente branco ou na cor litúrgica do dia, que ajusta a alva à cintura do ministro celebrante, interpretado pela tradição espiritual como símbolo do domínio sobre os próprios apetites e da castidade exigida pelo ministério sagrado.",
+      "tags": [
+        "objetos litúrgicos",
+        "paramentos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:purificatorio",
+      "slug": "purificatorio",
+      "titulo": "Purificatório",
+      "categoria": "glossario",
+      "resumo": "Pequeno pano de linho usado para limpar o cálice depois da comunhão.",
+      "corpo": "O purificatório é um pano retangular de linho branco, distinto do corporal (estendido sob o cálice e a patena durante a consagração), usado pelo sacerdote para secar o cálice e seus próprios dedos após a comunhão, tratado com o mesmo cuidado devido aos objetos que entraram em contato com a Eucaristia.",
+      "tags": [
+        "objetos litúrgicos",
+        "eucaristia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:corporal",
+      "slug": "corporal",
+      "titulo": "Corporal",
+      "categoria": "glossario",
+      "resumo": "Toalha branca de linho estendida sobre o altar onde se colocam o cálice e a patena durante a Missa.",
+      "corpo": "O corporal é o pano quadrado de linho branco estendido sobre a toalha do altar, no local exato onde se apoiam o cálice e a patena durante a Liturgia Eucarística — o nome vem do fato de sobre ele repousar o \"Corpus\" (Corpo) de Cristo consagrado.",
+      "tags": [
+        "objetos litúrgicos",
+        "eucaristia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:patena",
+      "slug": "patena",
+      "titulo": "Patena",
+      "categoria": "glossario",
+      "resumo": "Pequeno prato, geralmente de metal precioso, usado para conter a hóstia durante a Missa.",
+      "corpo": "A patena é um pequeno prato raso, habitualmente de metal dourado a condizer com o cálice, sobre o qual repousa a hóstia grande durante a Liturgia Eucarística, desde o ofertório até a comunhão do sacerdote.",
+      "tags": [
+        "objetos litúrgicos",
+        "eucaristia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:biretrum",
+      "slug": "biretrum",
+      "titulo": "Barrete (Biretum)",
+      "categoria": "glossario",
+      "resumo": "Chapéu litúrgico rígido de três (ou quatro) pontas, usado tradicionalmente pelo clero.",
+      "corpo": "O barrete (em latim, \"biretum\") é um chapéu litúrgico rígido, de três pontas (quatro, no caso de alguns graus acadêmicos ou eclesiásticos), tradicionalmente preto para padres, roxo para bispos e vermelho para cardeais, hoje de uso mais restrito a contextos solenes ou tradicionais.",
+      "tags": [
+        "objetos litúrgicos",
+        "paramentos",
+        "clero"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:mitra",
+      "slug": "mitra",
+      "titulo": "Mitra",
+      "categoria": "glossario",
+      "resumo": "Chapéu litúrgico alto e pontudo, próprio do bispo, símbolo de sua autoridade de ensino.",
+      "corpo": "A mitra é o chapéu litúrgico alto, de duas pontas triangulares (frontal e posterior), próprio do bispo em celebrações solenes, com duas fitas (\"vitas\") que caem sobre os ombros — símbolo tradicional, junto ao báculo e ao anel, da autoridade episcopal de ensinar, governar e santificar.",
+      "tags": [
+        "objetos litúrgicos",
+        "paramentos",
+        "episcopado"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:baculo",
+      "slug": "baculo",
+      "titulo": "Báculo",
+      "categoria": "glossario",
+      "resumo": "Bastão pastoral em forma de cajado, insígnia do governo pastoral do bispo sobre sua diocese.",
+      "corpo": "O báculo, em forma de cajado de pastor com a extremidade superior curvada, é a insígnia que simboliza o governo pastoral do bispo sobre seu rebanho — a diocese —, evocando diretamente a imagem bíblica de Cristo como Bom Pastor.",
+      "tags": [
+        "objetos litúrgicos",
+        "episcopado"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:palio",
+      "slug": "palio",
+      "titulo": "Pálio",
+      "categoria": "glossario",
+      "resumo": "Faixa de lã branca com cruzes pretas, insígnia papal conferida também a arcebispos metropolitanos.",
+      "corpo": "O pálio é uma estreita faixa circular de lã branca bordada com cruzes pretas, usada sobre a casula ao redor do pescoço, símbolo do vínculo de comunhão com o Papa e da autoridade pastoral. É insígnia própria do Papa, mas também conferida por ele a arcebispos metropolitanos, tradicionalmente entregue na festa de São Pedro e São Paulo, 29 de junho.",
+      "tags": [
+        "objetos litúrgicos",
+        "papado",
+        "episcopado"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:via-crucis-termo",
+      "slug": "via-crucis-termo",
+      "titulo": "Genuflexão",
+      "categoria": "glossario",
+      "resumo": "Gesto litúrgico de dobrar o joelho como sinal de adoração, sobretudo diante do Santíssimo Sacramento.",
+      "corpo": "A genuflexão — dobrar rapidamente o joelho direito até o chão — é o gesto litúrgico tradicional de adoração (reservado a Deus, ao contrário da simples reverência de cabeça ou inclinação, que pode ser dirigida também a pessoas ou imagens veneradas), praticado especialmente ao passar diante do sacrário ou ao entrar e sair do banco na igreja.",
+      "tags": [
+        "gestos litúrgicos",
+        "eucaristia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:genuflexorio",
+      "slug": "genuflexorio",
+      "titulo": "Genuflexório",
+      "categoria": "glossario",
+      "resumo": "Pequeno banco ou apoio próprio para ajoelhar-se durante a oração.",
+      "corpo": "O genuflexório é um móvel ou estrutura de apoio, geralmente estofada, destinada especificamente a permitir que a pessoa se ajoelhe com mais conforto durante a oração pessoal ou litúrgica, comum tanto em igrejas quanto em oratórios domésticos.",
+      "tags": [
+        "objetos litúrgicos",
+        "oração"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:relicario",
+      "slug": "relicario",
+      "titulo": "Relicário",
+      "categoria": "glossario",
+      "resumo": "Recipiente, muitas vezes ornamentado, usado para guardar e expor relíquias de santos.",
+      "corpo": "O relicário é o recipiente — de tamanhos e formas muito variados, de simples caixas a elaboradas peças de ourivesaria — destinado a guardar e expor à veneração dos fiéis uma relíquia: um objeto ligado ao corpo (relíquia de primeira classe), aos pertences (segunda classe) ou a objetos que tocaram o corpo (terceira classe) de um santo.",
+      "tags": [
+        "objetos litúrgicos",
+        "relíquias",
+        "santos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:via-sacra-estacoes-numero",
+      "slug": "via-sacra-estacoes-numero",
+      "titulo": "Postulador (processo de canonização)",
+      "categoria": "glossario",
+      "resumo": "Responsável técnico e jurídico por conduzir a causa de beatificação ou canonização de um Servo de Deus.",
+      "corpo": "O postulador é a pessoa — hoje quase sempre um especialista formado em processos de canonização — encarregada oficialmente de reunir e apresentar à Santa Sé toda a documentação histórica, teológica e, quando aplicável, médica necessária para instruir a causa de beatificação ou canonização de um \"Servo de Deus\" (ver a categoria Beatos e Canonização).",
+      "tags": [
+        "canonização",
+        "direito canônico"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:dicasterio",
+      "slug": "dicasterio",
+      "titulo": "Dicastério",
+      "categoria": "glossario",
+      "resumo": "Departamento da Cúria Romana responsável por uma área específica do governo da Igreja universal.",
+      "corpo": "\"Dicastério\" é o termo usado desde a reforma da Cúria Romana (constituição «Praedicate Evangelium», 2022) para designar cada um dos departamentos centrais que auxiliam o Papa no governo da Igreja universal — como o Dicastério para a Doutrina da Fé ou o Dicastério para os Bispos —, substituindo o termo anterior \"congregação\" para a maioria desses órgãos.",
+      "tags": [
+        "Cúria Romana",
+        "governo da Igreja"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:beato",
+      "slug": "beato",
+      "titulo": "Beato/Beata",
+      "categoria": "glossario",
+      "resumo": "Título dado a quem passou pela beatificação, penúltimo grau do processo de canonização, com culto permitido de modo restrito.",
+      "corpo": "\"Beato\" ou \"beata\" é o título dado a uma pessoa já falecida, reconhecida pela Igreja como tendo vivido as virtudes cristãs em grau heroico (ou como mártir), após a confirmação de um milagre atribuído à sua intercessão (dispensado no caso de mártires). Difere de \"santo\" porque o culto público a um beato é, em regra, permitido apenas de modo restrito — geralmente limitado a uma diocese, região ou família religiosa —, enquanto a canonização estende o culto a toda a Igreja universal.",
+      "tags": [
+        "canonização",
+        "beatos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:veneravel",
+      "slug": "veneravel",
+      "titulo": "Venerável",
+      "categoria": "glossario",
+      "resumo": "Título concedido a um Servo de Deus cujas virtudes heroicas (ou martírio) já foram reconhecidas oficialmente pelo Papa.",
+      "corpo": "\"Venerável\" é o título dado a um \"Servo de Deus\" — pessoa falecida cuja causa de canonização está em andamento — quando o Papa reconhece formalmente, por decreto, que ela viveu as virtudes cristãs (fé, esperança, caridade e as virtudes cardeais) em grau heroico, ou sofreu martírio pela fé. É o passo anterior à beatificação, que ainda exige a confirmação de um milagre.",
+      "tags": [
+        "canonização",
+        "beatos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:servo-de-deus",
+      "slug": "servo-de-deus",
+      "titulo": "Servo de Deus",
+      "categoria": "glossario",
+      "resumo": "Título inicial dado a uma pessoa falecida cuja causa de beatificação foi formalmente aberta pela diocese.",
+      "corpo": "\"Servo de Deus\" é o primeiro título formal no processo de canonização, concedido quando o bispo diocesano autoriza a abertura oficial da investigação sobre a vida, as virtudes ou o martírio de uma pessoa falecida com reputação de santidade, geralmente não antes de cinco anos após sua morte.",
+      "tags": [
+        "canonização",
+        "beatos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:conclave",
+      "slug": "conclave",
+      "titulo": "Conclave",
+      "categoria": "glossario",
+      "resumo": "Reunião fechada dos cardeais eleitores para escolher o novo Papa após a morte ou renúncia do anterior.",
+      "corpo": "O conclave (do latim \"cum clave\", \"com chave\", pela tradicional reclusão dos cardeais até a eleição) é a assembleia dos cardeais com direito a voto — hoje limitados por idade a menores de 80 anos — reunidos na Capela Sistina, sob rigoroso sigilo, para eleger o novo Bispo de Roma. A eleição exige maioria de dois terços dos votos, e a fumaça branca da queima das cédulas anuncia ao mundo que um novo Papa foi eleito.",
+      "tags": [
+        "papado",
+        "conclave",
+        "Cúria Romana"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:enciclica",
+      "slug": "enciclica",
+      "titulo": "Encíclica",
+      "categoria": "glossario",
+      "resumo": "Carta doutrinal solene do Papa, dirigida normalmente a toda a Igreja, sobre uma questão de fé ou moral.",
+      "corpo": "A encíclica é uma das formas mais solenes de magistério papal escrito: uma carta doutrinal circular, hoje geralmente dirigida a todos os fiéis e, muitas vezes, \"a todas as pessoas de boa vontade\", tratando de temas de fé, moral ou doutrina social da Igreja — exemplos históricos incluem «Rerum Novarum» (Leão XIII, 1891) e «Laudato Si'» (Francisco, 2015).",
+      "tags": [
+        "magistério",
+        "documentos pontifícios"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:bula-papal",
+      "slug": "bula-papal",
+      "titulo": "Bula Papal",
+      "categoria": "glossario",
+      "resumo": "Documento pontifício solene, com selo de chumbo (\"bulla\"), usado para atos de grande importância jurídica ou doutrinal.",
+      "corpo": "A bula (do latim \"bulla\", o selo de chumbo que tradicionalmente autenticava o documento) é uma das formas mais antigas e solenes de documento pontifício, historicamente usada para atos de grande peso jurídico ou doutrinal — canonizações, definições dogmáticas, convocação de jubileus —, como a bula «Ineffabilis Deus» (1854), que definiu o dogma da Imaculada Conceição.",
+      "tags": [
+        "magistério",
+        "documentos pontifícios"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:motu-proprio",
+      "slug": "motu-proprio",
+      "titulo": "Motu Proprio",
+      "categoria": "glossario",
+      "resumo": "Documento legislativo emitido pelo Papa por iniciativa própria, sem petição prévia de outra autoridade.",
+      "corpo": "\"Motu proprio\" (\"por iniciativa própria\", em latim) designa um documento legislativo que o Papa promulga por sua própria decisão, não em resposta a uma consulta ou petição de terceiros — usado com frequência para pequenas reformas administrativas ou disciplinares na Igreja.",
+      "tags": [
+        "magistério",
+        "documentos pontifícios"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "glossario:ex-cathedra",
+      "slug": "ex-cathedra",
+      "titulo": "Ex Cathedra",
+      "categoria": "glossario",
+      "resumo": "Expressão que designa as raríssimas ocasiões em que o Papa exerce a infalibilidade ao definir solenemente uma doutrina de fé ou moral.",
+      "corpo": "\"Ex cathedra\" (\"da cátedra\", em latim) designa a condição, definida pelo Concílio Vaticano I (1870), sob a qual o Papa exerce a infalibilidade: quando, como pastor e doutor supremo de todos os cristãos, define solenemente, com a intenção explícita de obrigar toda a Igreja, uma doutrina sobre fé ou moral. Trata-se de um exercício raríssimo — a definição do dogma da Assunção, em 1950, é o único caso citado com certeza pela generalidade dos teólogos desde a definição do próprio conceito.",
+      "tags": [
+        "infalibilidade papal",
+        "magistério"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Concílio Vaticano I, Constituição «Pastor Aeternus» (1870)"
+      ]
+    },
+    {
+      "id": "glossario:ecumenismo",
+      "slug": "ecumenismo",
+      "titulo": "Ecumenismo",
+      "categoria": "glossario",
+      "resumo": "Movimento e esforço pela unidade visível entre todos os cristãos, hoje divididos em diferentes Igrejas e comunidades.",
+      "corpo": "O ecumenismo é o conjunto de iniciativas, orações e diálogos voltados a restaurar a unidade plena entre todos os batizados em Cristo, hoje divididos historicamente em diferentes Igrejas e comunidades eclesiais — católica, ortodoxa, protestantes —, sem exigir a supressão da legítima diversidade, mas buscando superar as divisões que contradizem a vontade de Cristo de que todos sejam \"um só\" (Jo 17,21).",
+      "tags": [
+        "ecumenismo",
+        "unidade cristã"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Concílio Vaticano II, Decreto «Unitatis Redintegratio» (1964)"
+      ]
+    },
+    {
+      "id": "glossario:rito-oriental-catolico",
+      "slug": "rito-oriental-catolico",
+      "titulo": "Rito Oriental Católico",
+      "categoria": "glossario",
+      "resumo": "Uma das tradições litúrgicas orientais (bizantina, siríaca, caldeia, entre outras) em plena comunhão com Roma.",
+      "corpo": "As Igrejas orientais católicas seguem tradições litúrgicas, disciplinares e espirituais distintas do Rito Romano — bizantina, alexandrina, siríaca ocidental, siríaca oriental (caldeia) e armênia, entre outras — mas permanecem em plena comunhão com o Papa e a Igreja de Roma, formando junto com a Igreja latina a única Igreja Católica, uma na fé, diversa nos ritos.",
+      "tags": [
+        "ritos orientais",
+        "estrutura da Igreja"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica"
+      ]
+    }
+  ]
+}

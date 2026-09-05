@@ -37,6 +37,13 @@ class Category(str, Enum):
     ORACOES = "oracoes"
     PECADOS = "pecados"
     LITURGIA = "liturgia"
+    SACRAMENTOS = "sacramentos"
+    VIRTUDES = "virtudes"
+    MANDAMENTOS = "mandamentos"
+    BIBLIA = "biblia"
+    DEVOCOES = "devocoes"
+    GLOSSARIO = "glossario"
+    CALENDARIO_LITURGICO = "calendario-liturgico"
 
 
 class ContentEntry(BaseModel):
@@ -195,6 +202,98 @@ class Pecado(ContentEntry):
     virtude_oposta: str | None = None
 
 
+class Sacramento(ContentEntry):
+    """Um dos sete sacramentos, com matéria, forma, ministro e efeitos —
+    a estrutura clássica da teologia sacramental católica."""
+
+    categoria: Literal[Category.SACRAMENTOS] = Category.SACRAMENTOS
+    ordem: int | None = Field(default=None, ge=1)
+    materia: str | None = None
+    forma: str | None = None
+    ministro: str | None = None
+    efeitos: str | None = None
+    paragrafos_ccc: list[str] = Field(default_factory=list)
+
+
+class TipoVirtude(str, Enum):
+    """Classificação de uma entrada de virtude/dom/bem-aventurança."""
+
+    TEOLOGAL = "teologal"
+    CARDEAL = "cardeal"
+    DOM_ESPIRITO_SANTO = "dom_espirito_santo"
+    FRUTO_ESPIRITO_SANTO = "fruto_espirito_santo"
+    BEM_AVENTURANCA = "bem_aventuranca"
+    OBRA_MISERICORDIA_CORPORAL = "obra_misericordia_corporal"
+    OBRA_MISERICORDIA_ESPIRITUAL = "obra_misericordia_espiritual"
+
+
+class Virtude(ContentEntry):
+    """Virtude teologal ou cardeal, dom/fruto do Espírito Santo,
+    bem-aventurança ou obra de misericórdia — o lado positivo da vida moral,
+    complementar à categoria Pecados."""
+
+    categoria: Literal[Category.VIRTUDES] = Category.VIRTUDES
+    tipo: TipoVirtude
+    ordem: int | None = Field(default=None, ge=1)
+    referencia_biblica: str | None = None
+
+
+class TipoMandamento(str, Enum):
+    DECALOGO = "decalogo"
+    IGREJA = "igreja"
+
+
+class Mandamento(ContentEntry):
+    """Um dos Dez Mandamentos ou um preceito da Igreja, comentado
+    individualmente com referência bíblica."""
+
+    categoria: Literal[Category.MANDAMENTOS] = Category.MANDAMENTOS
+    tipo: TipoMandamento
+    ordem: int | None = Field(default=None, ge=1)
+    referencia_biblica: str | None = None
+    paragrafos_ccc: list[str] = Field(default_factory=list)
+
+
+class TestamentoBiblico(str, Enum):
+    ANTIGO = "antigo"
+    NOVO = "novo"
+
+
+class LivroBiblia(ContentEntry):
+    """Um dos 73 livros do cânon bíblico católico."""
+
+    categoria: Literal[Category.BIBLIA] = Category.BIBLIA
+    ordem: int | None = Field(default=None, ge=1)
+    testamento: TestamentoBiblico
+    genero_literario: str | None = None
+    autor_tradicional: str | None = None
+    data_composicao: str | None = None
+    deuterocanonico: bool = False
+
+
+class Devocao(ContentEntry):
+    """Prática devocional popular católica (novenas, Via-Sacra, Sagrado
+    Coração, escapulário etc.), distinta de uma oração-texto isolada."""
+
+    categoria: Literal[Category.DEVOCOES] = Category.DEVOCOES
+    ordem: int | None = Field(default=None, ge=1)
+    origem: str | None = None
+
+
+class TermoGlossario(ContentEntry):
+    """Verbete de vocabulário litúrgico, canônico ou devocional."""
+
+    categoria: Literal[Category.GLOSSARIO] = Category.GLOSSARIO
+
+
+class TempoLiturgico(ContentEntry):
+    """Tempo, cor ou grau de celebração do Ano Litúrgico."""
+
+    categoria: Literal[Category.CALENDARIO_LITURGICO] = Category.CALENDARIO_LITURGICO
+    ordem: int | None = Field(default=None, ge=1)
+    cor_liturgica: str | None = None
+
+
 class Liturgia(ContentEntry):
     """Tema de vida litúrgica e sacramental prática: partes da Missa, adoração
     eucarística, preparação para a Confissão e afins.
@@ -226,6 +325,13 @@ AnyEntry = Annotated[
         Oracao,
         Pecado,
         Liturgia,
+        Sacramento,
+        Virtude,
+        Mandamento,
+        LivroBiblia,
+        Devocao,
+        TermoGlossario,
+        TempoLiturgico,
     ],
     Field(discriminator="categoria"),
 ]
@@ -245,6 +351,13 @@ ENTRY_MODEL_BY_CATEGORY: dict[Category, type[ContentEntry]] = {
     Category.ORACOES: Oracao,
     Category.PECADOS: Pecado,
     Category.LITURGIA: Liturgia,
+    Category.SACRAMENTOS: Sacramento,
+    Category.VIRTUDES: Virtude,
+    Category.MANDAMENTOS: Mandamento,
+    Category.BIBLIA: LivroBiblia,
+    Category.DEVOCOES: Devocao,
+    Category.GLOSSARIO: TermoGlossario,
+    Category.CALENDARIO_LITURGICO: TempoLiturgico,
 }
 
 

@@ -1,0 +1,222 @@
+{
+  "_meta": {
+    "categoria": "calendario-liturgico",
+    "nome": "Calendário Litúrgico",
+    "descricao": "Os tempos, cores e graus de celebração do Ano Litúrgico católico, e como funcionam suas datas móveis.",
+    "status": "exemplos-iniciais",
+    "aviso": "Descreve a estrutura do calendário do Rito Romano; calendários particulares (diocesanos, de ordens religiosas) podem acrescentar celebrações próprias não listadas aqui.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Missal Romano, «Normas Universais sobre o Ano Litúrgico e o Calendário»",
+      "Concílio Vaticano II, Constituição «Sacrosanctum Concilium» (1963)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "calendario-liturgico:advento",
+      "slug": "advento",
+      "titulo": "Advento",
+      "categoria": "calendario-liturgico",
+      "resumo": "Tempo de quatro semanas de preparação e expectativa para o Natal, com dupla ênfase: a vinda histórica e a vinda final de Cristo.",
+      "corpo": "O Advento (do latim \"adventus\", vinda) abre o ano litúrgico e se estende por quatro domingos antes do Natal. Tem um duplo sentido: nas duas primeiras semanas, orienta o olhar para a segunda vinda de Cristo no fim dos tempos; a partir de 17 de dezembro, volta-se mais diretamente para a preparação imediata do Natal, a primeira vinda de Cristo na história. É tempo de expectativa vigilante, não de penitência austera como a Quaresma, embora compartilhe a cor roxa.",
+      "tags": [
+        "ano litúrgico",
+        "Advento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Advent_wreath_and_candles_at_St._Pega%27s_church%2C_Peakirk_-_geograph.org.uk_-_8208229.jpg",
+      "imagem_credito": "Foto: Paul Bryan — Wikimedia Commons, CC BY-SA 2.0",
+      "ordem": 1,
+      "cor_liturgica": "Roxo (rosa na Gaudete, terceiro domingo)",
+      "fontes": [
+        "Missal Romano",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:tempo-do-natal",
+      "slug": "tempo-do-natal",
+      "titulo": "Tempo do Natal",
+      "categoria": "calendario-liturgico",
+      "resumo": "Do Natal ao Batismo do Senhor, celebra o nascimento de Cristo e sua manifestação ao mundo.",
+      "corpo": "O Tempo do Natal começa na Missa da Vigília de 24/25 de dezembro e se estende, na forma atual do calendário romano, até a festa do Batismo do Senhor, incluindo a Solenidade de Maria, Mãe de Deus (1º de janeiro) e a Epifania, que celebra a manifestação de Cristo aos magos vindos do Oriente — e, por extensão, a todas as nações.",
+      "tags": [
+        "ano litúrgico",
+        "Natal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Correggio_-_The_Holy_Night_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 2,
+      "cor_liturgica": "Branco ou dourado",
+      "fontes": [
+        "Missal Romano",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:tempo-comum",
+      "slug": "tempo-comum",
+      "titulo": "Tempo Comum",
+      "categoria": "calendario-liturgico",
+      "resumo": "O período mais longo do ano litúrgico, dividido em duas partes, sem um mistério específico de Cristo em destaque como tema único.",
+      "corpo": "O Tempo Comum (também chamado \"Tempo Ordinário\") ocupa a maior parte do calendário litúrgico, dividido em duas partes — entre o Batismo do Senhor e a Quarta-feira de Cinzas, e entre Pentecostes e o início do Advento seguinte —, num total de até 34 semanas. \"Comum\" não significa \"sem importância\": é o tempo de celebrar o conjunto do mistério de Cristo e seu ensinamento na vida cotidiana da Igreja, fora dos grandes tempos fortes.",
+      "tags": [
+        "ano litúrgico",
+        "Tempo Comum"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Seven_Sacraments_Rogier.jpg",
+      "imagem_credito": null,
+      "ordem": 3,
+      "cor_liturgica": "Verde",
+      "fontes": [
+        "Missal Romano",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:quaresma",
+      "slug": "quaresma",
+      "titulo": "Quaresma",
+      "categoria": "calendario-liturgico",
+      "resumo": "Quarenta dias de penitência, jejum e oração intensificada, em preparação para a Páscoa.",
+      "corpo": "A Quaresma estende-se da Quarta-feira de Cinzas até a Missa da Ceia do Senhor na Quinta-feira Santa, num período simbólico de quarenta dias — em referência aos quarenta dias de Jesus no deserto (Mt 4,1-11) e aos quarenta anos de Israel no deserto. É tempo litúrgico de conversão, marcado por maior austeridade (o \"Glória\" e o \"Aleluia\" são omitidos na Missa), intensificação da oração, do jejum e da esmola, e preparação direta dos catecúmenos para o Batismo na Vigília Pascal.",
+      "tags": [
+        "ano litúrgico",
+        "Quaresma",
+        "penitência"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/05_Tentaciones_de_Cristo_%28Botticelli%29.jpg",
+      "imagem_credito": null,
+      "ordem": 4,
+      "cor_liturgica": "Roxo (rosa no quarto domingo, Laetare)",
+      "fontes": [
+        "Missal Romano",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:triduo-pascal",
+      "slug": "triduo-pascal",
+      "titulo": "Tríduo Pascal",
+      "categoria": "calendario-liturgico",
+      "resumo": "Os três dias centrais de todo o ano litúrgico: da Missa da Ceia do Senhor à Vigília Pascal, celebrando a Paixão, morte e ressurreição de Cristo.",
+      "corpo": "O Tríduo Pascal — \"o coração de todo o ano litúrgico\", nas palavras da própria Igreja — começa com a Missa da Ceia do Senhor na Quinta-feira Santa (institução da Eucaristia e do sacerdócio), passa pela Celebração da Paixão do Senhor na Sexta-feira Santa (única \"missa\" do ano que não é propriamente Missa, sem consagração), pelo silêncio contemplativo do Sábado Santo, e culmina na Vigília Pascal na noite de sábado para domingo, a mais solene celebração litúrgica de todo o calendário cristão.",
+      "tags": [
+        "ano litúrgico",
+        "Tríduo Pascal",
+        "Páscoa"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Peter_Paul_Rubens%2C_Crucifixion%2C_c.1618-1620.jpg",
+      "imagem_credito": null,
+      "ordem": 5,
+      "cor_liturgica": "Branco (vermelho na Sexta-feira Santa)",
+      "fontes": [
+        "Missal Romano",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:tempo-pascal",
+      "slug": "tempo-pascal",
+      "titulo": "Tempo Pascal",
+      "categoria": "calendario-liturgico",
+      "resumo": "Os cinquenta dias de alegria que vão da Páscoa a Pentecostes, celebrados como um único \"grande domingo\".",
+      "corpo": "O Tempo Pascal estende-se por cinquenta dias, da Vigília Pascal a Pentecostes, tradicionalmente descritos pelos Padres da Igreja como um único e prolongado \"grande domingo\" de alegria pela Ressurreição — por isso o Aleluia, omitido na Quaresma, volta a ser cantado com frequência redobrada, e o jejum é excluído mesmo às sextas-feiras.",
+      "tags": [
+        "ano litúrgico",
+        "Páscoa",
+        "Pentecostes"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Pietro_Perugino_cat53.jpg",
+      "imagem_credito": null,
+      "ordem": 6,
+      "cor_liturgica": "Branco (vermelho em Pentecostes)",
+      "fontes": [
+        "Missal Romano",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:cores-liturgicas",
+      "slug": "cores-liturgicas",
+      "titulo": "As Cores Litúrgicas",
+      "categoria": "calendario-liturgico",
+      "resumo": "O código de cores dos paramentos que sinaliza visualmente o tempo ou a celebração do dia: branco, vermelho, verde, roxo e, ocasionalmente, rosa.",
+      "corpo": "Cada cor litúrgica carrega um significado: o branco (ou dourado) expressa alegria e glória, usado no Natal, na Páscoa e em festas do Senhor, de Maria e de santos não mártires; o vermelho, sangue e fogo, usado na Paixão, em Pentecostes e nas festas de mártires e apóstolos; o verde, esperança e vida, no Tempo Comum; o roxo, penitência e expectativa, no Advento e na Quaresma; e o rosa, uso raro e facultativo, sinaliza uma pausa de alegria antecipada nos domingos Gaudete (Advento) e Laetare (Quaresma).",
+      "tags": [
+        "ano litúrgico",
+        "cores litúrgicas",
+        "paramentos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Catholic_priest_vesting_%28La_Ravoire_Morrow_-_My_Catholic_Faith%2C_1949%29.png",
+      "imagem_credito": null,
+      "ordem": 7,
+      "cor_liturgica": null,
+      "fontes": [
+        "Missal Romano",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:solenidade-festa-memoria",
+      "slug": "solenidade-festa-memoria",
+      "titulo": "Solenidade, Festa e Memória",
+      "categoria": "calendario-liturgico",
+      "resumo": "Os três graus de importância litúrgica de uma celebração no calendário católico, do mais ao menos solene.",
+      "corpo": "O calendário litúrgico classifica cada celebração num de três graus decrescentes de importância: solenidade (o grau máximo, como o Natal, a Páscoa ou o Corpus Christi, com Missa e ofício próprios e, muitas vezes, véspera antecipada); festa (grau intermediário, como as festas dos Apóstolos); e memória, que pode ser obrigatória ou facultativa (a maioria dos santos no calendário, deixando ao celebrante certa liberdade de escolha quando facultativa).",
+      "tags": [
+        "ano litúrgico",
+        "calendário litúrgico"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ghent_Altarpiece_-_Adoration_of_the_Mystic_Lamb.jpg",
+      "imagem_credito": null,
+      "ordem": 8,
+      "cor_liturgica": null,
+      "fontes": [
+        "Missal Romano",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:datas-moveis",
+      "slug": "datas-moveis",
+      "titulo": "Datas Móveis do Calendário Litúrgico",
+      "categoria": "calendario-liturgico",
+      "resumo": "Por que a Páscoa e as festas que dela dependem — Cinzas, Ascensão, Pentecostes — mudam de data a cada ano.",
+      "corpo": "Ao contrário do Natal, fixado em 25 de dezembro, a data da Páscoa varia a cada ano porque segue um cálculo lunissolar antigo, fixado pelo Concílio de Niceia (325): é celebrada no domingo seguinte à primeira lua cheia depois do equinócio de primavera do hemisfério norte (por volta de 21 de março), podendo cair entre 22 de março e 25 de abril. Como consequência, todas as datas calculadas a partir da Páscoa também se movem: a Quarta-feira de Cinzas (46 dias antes), a Ascensão (tradicionalmente 40 dias depois) e Pentecostes (50 dias depois).",
+      "tags": [
+        "ano litúrgico",
+        "Páscoa",
+        "Concílio de Niceia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nicaea_icon.jpg",
+      "imagem_credito": null,
+      "ordem": 9,
+      "cor_liturgica": null,
+      "fontes": [
+        "Concílio de Niceia I (325)",
+        "Missal Romano"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:ciclo-dominical-abc",
+      "slug": "ciclo-dominical-abc",
+      "titulo": "O Ciclo de Leituras Dominicais A, B e C",
+      "categoria": "calendario-liturgico",
+      "resumo": "O sistema trienal de leituras bíblicas dominicais, que percorre principalmente Mateus, Marcos e Lucas em anos sucessivos.",
+      "corpo": "Desde a reforma litúrgica pós-conciliar, as leituras da Missa dominical seguem um ciclo de três anos — A, B e C —, dedicados principalmente, em cada ano, à leitura contínua de um dos evangelhos sinóticos: Mateus no Ano A, Marcos no Ano B (complementado por João em algumas ocasiões) e Lucas no Ano C. O Evangelho de João é lido, sobretudo, nos tempos fortes de Quaresma e Páscoa, independentemente do ano do ciclo.",
+      "tags": [
+        "ano litúrgico",
+        "liturgia da palavra",
+        "lecionário"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg",
+      "imagem_credito": "Foto: NYC Wanderer (Kevin Eng) — Wikimedia Commons, CC BY-SA 2.0",
+      "ordem": 10,
+      "cor_liturgica": null,
+      "fontes": [
+        "Missal Romano",
+        "Catecismo da Igreja Católica"
+      ]
+    }
+  ]
+}
