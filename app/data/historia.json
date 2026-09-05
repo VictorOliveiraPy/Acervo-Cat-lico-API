@@ -86,7 +86,11 @@
       "categoria": "historia",
       "resumo": "Como um acróstico grego virou um dos sinais de reconhecimento mais antigos dos cristãos perseguidos pelo Império Romano.",
       "corpo": "Nos primeiros séculos do cristianismo, sob risco de perseguição, os cristãos recorreram a símbolos discretos para se reconhecerem. Um dos mais conhecidos é o peixe, ligado ao acróstico grego «ichthys» (Ἰχθύς, «peixe»): cada letra inicia uma palavra da confissão de fé — Iesous CHristos THeou Yios Soter, «Jesus Cristo, Filho de Deus, Salvador».\n\nO símbolo também dialoga com passagens evangélicas — a multiplicação dos pães e peixes, o chamado dos apóstolos pescadores para serem «pescadores de homens» (Mt 4,19) — e aparece em inscrições e afrescos de sítios cristãos dos séculos II e III, como as ruínas de Éfeso e as catacumbas romanas.\n\nO uso do símbolo diminuiu depois da legalização do cristianismo no século IV, quando deixou de haver necessidade de sinais discretos de reconhecimento, mas foi retomado como símbolo cristão popular a partir do século XX.",
-      "tags": ["símbolos", "igreja primitiva", "perseguições"],
+      "tags": [
+        "símbolos",
+        "igreja primitiva",
+        "perseguições"
+      ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ephesus_Ichthys.jpg",
       "imagem_credito": "Foto: David Bjorgen (2003) — Wikimedia Commons, CC BY-SA 2.5/3.0",
       "periodo": "Igreja primitiva (séculos II a IV)",
@@ -102,7 +106,12 @@
       "categoria": "historia",
       "resumo": "Ruptura de comunhão entre a Igreja de Roma e as Igrejas do Oriente bizantino, com raízes em diferenças teológicas, litúrgicas e de jurisdição.",
       "corpo": "Em 1054, delegados do papa Leão IX e o patriarca de Constantinopla, Miguel Cerulário, trocaram excomunhões mútuas — um episódio que ficou simbolicamente associado ao início do Cisma do Oriente: a ruptura de plena comunhão entre a Igreja latina (católica) e as Igrejas bizantinas, que vieram a formar a Ortodoxia.\n\nAs causas foram anteriores e mais profundas que o episódio de 1054: divergências sobre o acréscimo do «Filioque» ao Credo (a procedência do Espírito Santo «do Pai e do Filho»), diferenças litúrgicas e disciplinares — como o uso do pão ázimo e o celibato clerical —, e sobretudo a questão da autoridade e do primado do bispo de Roma sobre as demais sés patriarcais.\n\nAs excomunhões mútuas de 1054 foram levantadas apenas em 1965, num gesto conjunto do papa Paulo VI e do patriarca ecumênico Atenágoras I — embora a plena comunhão eclesial entre as duas tradições ainda não tenha sido restabelecida.",
-      "tags": ["cisma", "ortodoxia", "Constantinopla", "Idade Média"],
+      "tags": [
+        "cisma",
+        "ortodoxia",
+        "Constantinopla",
+        "Idade Média"
+      ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/90/Great_Schism_with_former_borders_%281054%29.png",
       "imagem_credito": "Mapa: Barrikader — Wikimedia Commons, CC BY-SA 3.0",
       "periodo": "Idade Média (1054)",
@@ -118,7 +127,13 @@
       "categoria": "historia",
       "resumo": "A chegada do cristianismo ao continente americano a partir do fim do século XV, entre a ação missionária e as tensões da colonização.",
       "corpo": "A evangelização da América Latina começou com a chegada dos espanhóis e portugueses ao continente a partir de 1492, acompanhando o processo de colonização. Ordens religiosas — franciscanos, dominicanos, agostinianos e, a partir do século XVI, jesuítas — organizaram missões, doutrinas e reduções, como as reduções jesuíticas guaranis, para catequizar os povos indígenas.\n\nO período foi marcado por tensões profundas: ao lado de missionários que denunciaram os abusos da colonização — o dominicano Bartolomé de Las Casas é o caso mais conhecido, com sua defesa dos direitos dos indígenas perante a Coroa espanhola —, houve também violência, imposição cultural e cumplicidade de parte do clero com o sistema colonial. A avaliação histórica desse período segue sendo objeto de debate.\n\nDessa evangelização nasceram devoções que se tornariam centrais na identidade católica latino-americana, como Nossa Senhora de Guadalupe (México, 1531) e, mais tarde, Nossa Senhora Aparecida (Brasil, 1717). Hoje a América Latina concentra a maior população católica do mundo.",
-      "tags": ["missões", "colonização", "jesuítas", "América Latina", "século XVI"],
+      "tags": [
+        "missões",
+        "colonização",
+        "jesuítas",
+        "América Latina",
+        "século XVI"
+      ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Fray_Bartolom%C3%A9_de_las_Casas.jpg",
       "imagem_credito": null,
       "periodo": "Época moderna (séculos XVI a XVIII)",
@@ -126,6 +141,242 @@
         "Bartolomé de Las Casas, «Brevíssima Relação da Destruição das Índias» (1552)",
         "Concílio Vaticano II, Decreto «Ad Gentes», sobre a atividade missionária (1965)"
       ]
+    },
+    {
+      "id": "historia:edito-de-milao",
+      "slug": "edito-de-milao",
+      "titulo": "O Edito de Milão (313)",
+      "categoria": "historia",
+      "resumo": "Acordo entre os imperadores Constantino e Licínio que concedeu tolerância religiosa ao cristianismo, encerrando séculos de perseguição legal em Roma.",
+      "corpo": "Em 313, os imperadores Constantino e Licínio firmaram em Milão um acordo — conhecido tradicionalmente como \"Edito de Milão\", embora historiadores debatam a forma jurídica exata do documento — que estabeleceu a tolerância religiosa em todo o Império Romano, encerrando o período de perseguições legais ao cristianismo. O passo seguinte, a proclamação do cristianismo como religião oficial do Império, só viria com o imperador Teodósio, em 380, pelo Edito de Tessalônica.",
+      "tags": [
+        "Constantino",
+        "igreja primitiva",
+        "século IV"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Igreja primitiva (313)",
+      "fontes": []
+    },
+    {
+      "id": "historia:concilio-de-niceia-contexto",
+      "slug": "concilio-de-niceia-contexto",
+      "titulo": "O Primeiro Concílio Ecumênico: Niceia (325)",
+      "categoria": "historia",
+      "resumo": "Reunião convocada pelo imperador Constantino que definiu a divindade plena do Filho contra o arianismo, e fixou a data comum da Páscoa.",
+      "corpo": "Convocado pelo imperador Constantino em 325, o Concílio de Niceia reuniu bispos de todo o Império para responder à controvérsia ariana, que negava a plena divindade do Filho em relação ao Pai. O concílio definiu que o Filho é \"consubstancial\" (homoousios) ao Pai, formulação que se tornaria a base do Credo niceno, e também tratou da data comum de celebração da Páscoa. Foi o primeiro dos vinte e um concílios reconhecidos como ecumênicos pela Igreja Católica.",
+      "tags": [
+        "Concílio de Niceia",
+        "arianismo",
+        "século IV"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Igreja primitiva (325)",
+      "fontes": [
+        "Atas do Concílio de Niceia I (325)"
+      ]
+    },
+    {
+      "id": "historia:querela-das-investiduras",
+      "slug": "querela-das-investiduras",
+      "titulo": "A Querela das Investiduras",
+      "categoria": "historia",
+      "resumo": "Disputa entre papado e Sacro Império Romano-Germânico, no século XI, sobre quem tinha autoridade para nomear bispos e abades.",
+      "corpo": "Ao longo do século XI, papas reformadores — sobretudo Gregório VII — e imperadores do Sacro Império Romano-Germânico disputaram o direito de investir bispos e abades com os símbolos de seu cargo, questão de fundo sobre a independência da Igreja diante do poder político. O conflito atingiu seu ponto mais dramático no episódio de Canossa (1077), quando o imperador Henrique IV se apresentou como penitente diante do papa. Foi formalmente resolvida pela Concordata de Worms, em 1122, que distinguiu a investidura espiritual (reservada à Igreja) da investidura temporal dos feudos.",
+      "tags": [
+        "Idade Média",
+        "reforma gregoriana",
+        "século XI-XII"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Idade Média (1075-1122)",
+      "fontes": [
+        "Concordata de Worms (1122)"
+      ]
+    },
+    {
+      "id": "historia:cruzadas",
+      "slug": "cruzadas",
+      "titulo": "As Cruzadas",
+      "categoria": "historia",
+      "resumo": "Série de expedições militares entre os séculos XI e XIII, convocadas para socorrer o Império Bizantino e retomar a Terra Santa do domínio muçulmano.",
+      "corpo": "Iniciadas com a convocação de Urbano II no Concílio de Clermont (1095), as Cruzadas foram uma série de campanhas militares — ao menos oito grandes expedições, além de outras menores — que buscaram, com resultados variados, apoiar o Império Bizantino e recuperar Jerusalém e a Terra Santa do domínio muçulmano. A Primeira Cruzada tomou Jerusalém em 1099; a cidade seria reconquistada por Saladino em 1187, e as cruzadas posteriores não conseguiriam retomá-la de modo duradouro. O episódio é hoje avaliado de forma crítica também pela historiografia católica, reconhecendo tanto motivações religiosas genuínas quanto interesses políticos e episódios de violência incompatíveis com o Evangelho, como o saque cristão de Constantinopla na Quarta Cruzada (1204).",
+      "tags": [
+        "cruzadas",
+        "Idade Média",
+        "Terra Santa"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Idade Média (1095-1291)",
+      "fontes": []
+    },
+    {
+      "id": "historia:inquisicao-medieval",
+      "slug": "inquisicao-medieval",
+      "titulo": "A Inquisição medieval e moderna",
+      "categoria": "historia",
+      "resumo": "Conjunto de tribunais eclesiásticos instituídos a partir do século XIII para julgar casos de heresia, cuja atuação histórica é hoje objeto de estudo crítico e revisão pela própria Igreja.",
+      "corpo": "A partir do século XIII, sobretudo sob Gregório IX, a Igreja instituiu tribunais especializados para investigar e julgar casos de heresia, num contexto em que a heterodoxia religiosa era também vista como ameaça à ordem social. Formas posteriores e distintas — a Inquisição Espanhola (1478, sob controle majoritariamente da coroa) e a Inquisição Romana (1542) — tiveram históricos, métodos e níveis de rigor diferentes entre si. Em 1998 e 2000, João Paulo II promoveu estudos históricos independentes sobre o tema e pediu publicamente perdão pelos erros e violências cometidos por membros da Igreja ao longo da história, incluindo os da Inquisição.",
+      "tags": [
+        "Idade Média",
+        "Inquisição",
+        "revisão histórica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Idade Média a Idade Moderna (a partir do século XIII)",
+      "fontes": [
+        "João Paulo II, Homilia do \"Dia do Perdão\" (12 de março de 2000)",
+        "Comissão Teológica Internacional, \"Memória e Reconciliação\" (1999)"
+      ]
+    },
+    {
+      "id": "historia:cisma-anglicano",
+      "slug": "cisma-anglicano",
+      "titulo": "O Cisma Anglicano",
+      "categoria": "historia",
+      "resumo": "Ruptura entre a Igreja da Inglaterra e Roma no século XVI, desencadeada pela recusa papal em anular o casamento de Henrique VIII.",
+      "corpo": "Em 1534, o Parlamento inglês aprovou o \"Ato de Supremacia\", que reconhecia o rei Henrique VIII como \"chefe supremo\" da Igreja da Inglaterra, rompendo a comunhão com Roma depois que o papa Clemente VII se recusou a anular seu casamento com Catarina de Aragão. Bispos e leigos que resistiram à ruptura, como Tomás More e João Fisher, foram executados. A separação, consolidada nos reinados seguintes apesar de um breve retorno ao catolicismo sob Maria I, deu origem à Comunhão Anglicana.",
+      "tags": [
+        "cisma",
+        "Inglaterra",
+        "Henrique VIII",
+        "século XVI"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Época moderna (1534)",
+      "fontes": []
+    },
+    {
+      "id": "historia:concilio-de-trento-contexto",
+      "slug": "concilio-de-trento-contexto",
+      "titulo": "O Concílio de Trento",
+      "categoria": "historia",
+      "resumo": "Concílio ecumênico do século XVI que respondeu doutrinal e disciplinarmente à Reforma Protestante, ao longo de quase vinte anos e três pontificados.",
+      "corpo": "Convocado por Paulo III em 1545 e concluído por Pio IV em 1563, o Concílio de Trento reafirmou a doutrina católica sobre a Escritura e a Tradição, a justificação e os sete sacramentos, em resposta direta às posições da Reforma Protestante, e promoveu extensa reforma disciplinar do clero — entre outras medidas, a criação obrigatória de seminários para a formação sacerdotal. É considerado o marco fundador da Contrarreforma católica.",
+      "tags": [
+        "Concílio de Trento",
+        "contrarreforma",
+        "século XVI"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Época moderna (1545-1563)",
+      "fontes": [
+        "Concílio de Trento, decretos e cânones (1545-1563)"
+      ]
+    },
+    {
+      "id": "historia:supressao-jesuitas",
+      "slug": "supressao-jesuitas",
+      "titulo": "A supressão da Companhia de Jesus (1773)",
+      "categoria": "historia",
+      "resumo": "Dissolução temporária da Companhia de Jesus por pressão das monarquias europeias, revertida quatro décadas depois por Pio VII.",
+      "corpo": "Sob forte pressão das coroas de Portugal, Espanha, França e Nápoles — que já haviam expulsado os jesuítas de seus territórios em décadas anteriores, acusando-os de interferência política e econômica —, o papa Clemente XIV assinou em 1773 o breve que suprimiu a Companhia de Jesus em todo o mundo católico. A Ordem sobreviveu formalmente apenas em territórios não católicos, como a Prússia protestante e a Rússia ortodoxa, cujos governantes se recusaram a publicar o decreto. Foi restaurada por Pio VII em 1814.",
+      "tags": [
+        "jesuítas",
+        "iluminismo",
+        "século XVIII"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Época moderna (1773-1814)",
+      "fontes": []
+    },
+    {
+      "id": "historia:revolucao-francesa-e-igreja",
+      "slug": "revolucao-francesa-e-igreja",
+      "titulo": "A Igreja durante a Revolução Francesa",
+      "categoria": "historia",
+      "resumo": "Perseguição religiosa, confisco de bens eclesiásticos e tentativa de subordinação total do clero ao Estado durante a Revolução Francesa (1789-1799).",
+      "corpo": "A Revolução Francesa produziu uma das rupturas mais drásticas entre um Estado europeu e a Igreja Católica: a nacionalização dos bens eclesiásticos (1789), a Constituição Civil do Clero (1790), que subordinava a nomeação de bispos e párocos ao Estado e exigia um juramento rejeitado pelo papa Pio VI, e, na fase mais radical do período do Terror, perseguição direta a padres refratários, muitos executados ou exilados. O próprio papa Pio VI morreria prisioneiro das tropas francesas em 1799.",
+      "tags": [
+        "Revolução Francesa",
+        "perseguição religiosa",
+        "século XVIII"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Época moderna (1789-1799)",
+      "fontes": []
+    },
+    {
+      "id": "historia:perda-dos-estados-pontificios",
+      "slug": "perda-dos-estados-pontificios",
+      "titulo": "A perda dos Estados Pontifícios (1870)",
+      "categoria": "historia",
+      "resumo": "Ocupação de Roma pelo Reino da Itália em 1870, que pôs fim ao poder temporal dos papas sobre um território próprio até os Tratados de Latrão de 1929.",
+      "corpo": "Em 20 de setembro de 1870, tropas do recém-formado Reino da Itália romperam as muralhas de Roma e ocuparam a cidade, absorvendo os últimos remanescentes dos Estados Pontifícios — território que os papas haviam governado como soberanos temporais desde a Idade Média. Pio IX recusou-se a reconhecer a perda e se autodeclarou \"prisioneiro do Vaticano\", situação que se manteria por quase sessenta anos, até a assinatura dos Tratados de Latrão em 1929, sob Pio XI, que criaram o atual Estado da Cidade do Vaticano.",
+      "tags": [
+        "Estados Pontifícios",
+        "Itália",
+        "século XIX"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Época contemporânea (1870)",
+      "fontes": []
+    },
+    {
+      "id": "historia:concilio-vaticano-i-contexto",
+      "slug": "concilio-vaticano-i-contexto",
+      "titulo": "O Concílio Vaticano I",
+      "categoria": "historia",
+      "resumo": "Concílio ecumênico de 1869-1870 que definiu o dogma da infalibilidade papal, interrompido pela invasão de Roma antes de concluir sua agenda.",
+      "corpo": "Convocado por Pio IX e aberto em dezembro de 1869, o Concílio Vaticano I definiu, na constituição \"Pastor Aeternus\", o dogma da infalibilidade papal em matéria de fé e moral, quando o papa fala \"ex cathedra\" — situação rara e sujeita a condições precisas. O concílio foi interrompido, sem ser formalmente encerrado, pela invasão de Roma pelas tropas do Reino da Itália em 1870, deixando pendente boa parte de sua agenda original sobre a Igreja, que só seria retomada quase um século depois pelo Concílio Vaticano II.",
+      "tags": [
+        "Concílio Vaticano I",
+        "infalibilidade papal",
+        "século XIX"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Época contemporânea (1869-1870)",
+      "fontes": [
+        "Concílio Vaticano I, Constituição Dogmática «Pastor Aeternus» (1870)"
+      ]
+    },
+    {
+      "id": "historia:concilio-vaticano-ii-contexto",
+      "slug": "concilio-vaticano-ii-contexto",
+      "titulo": "O Concílio Vaticano II",
+      "categoria": "historia",
+      "resumo": "Concílio ecumênico de 1962-1965 que promoveu ampla renovação litúrgica, eclesiológica e pastoral da Igreja Católica no mundo contemporâneo.",
+      "corpo": "Convocado por João XXIII e concluído por Paulo VI, o Concílio Vaticano II (1962-1965) é o mais recente concílio ecumênico da Igreja Católica e um dos mais influentes de toda sua história. Produziu dezesseis documentos que renovaram a compreensão da Igreja como \"Povo de Deus\" (\"Lumen Gentium\"), promoveram a reforma litúrgica com maior participação dos fiéis (\"Sacrosanctum Concilium\"), abriram caminho para o diálogo ecumênico e inter-religioso (\"Unitatis Redintegratio\", \"Nostra Aetate\") e afirmaram a liberdade religiosa (\"Dignitatis Humanae\"). Seus efeitos práticos e sua correta interpretação continuam sendo objeto de debate teológico e pastoral dentro da Igreja até hoje.",
+      "tags": [
+        "Concílio Vaticano II",
+        "século XX"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Época contemporânea (1962-1965)",
+      "fontes": [
+        "Concílio Vaticano II, Constituição Dogmática «Lumen Gentium» (1964)",
+        "Concílio Vaticano II, Constituição «Sacrosanctum Concilium» (1963)"
+      ]
+    },
+    {
+      "id": "historia:perseguicao-religiosa-mexico",
+      "slug": "perseguicao-religiosa-mexico",
+      "titulo": "A Guerra Cristera no México",
+      "categoria": "historia",
+      "resumo": "Conflito armado entre 1926 e 1929, causado pela aplicação radical de leis anticlericais no México pós-revolucionário, que perseguiram abertamente a Igreja Católica.",
+      "corpo": "A partir de 1926, o governo mexicano, sob o presidente Plutarco Elías Calles, aplicou com rigor extremo dispositivos anticlericais da Constituição de 1917, fechando igrejas, expulsando ou executando sacerdotes e proibindo o culto público. A resistência popular, sobretudo no centro-oeste rural do país, deu origem a um conflito armado conhecido como Guerra Cristera (1926-1929), de que resultaram numerosos mártires, entre eles o jesuíta Miguel Pro, executado sem julgamento formal em 1927 e canonizado décadas depois. O episódio inspirou, entre outras obras, o romance \"O Poder e a Glória\", de Graham Greene.",
+      "tags": [
+        "México",
+        "perseguição religiosa",
+        "mártires",
+        "século XX"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Época contemporânea (1926-1929)",
+      "fontes": []
     }
   ]
 }
