@@ -1,0 +1,201 @@
+{
+  "_meta": {
+    "categoria": "estrutura-igreja",
+    "nome": "Estrutura da Igreja",
+    "descricao": "Como a Igreja Católica se organiza e se governa: do Papa à paróquia, a Cúria, o direito canônico e o clero.",
+    "status": "exemplos-iniciais",
+    "aviso": "Visão introdutória da organização eclesiástica; casos concretos de direito canônico exigem sempre consulta a um canonista.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Código de Direito Canônico (1983)",
+      "Concílio Vaticano II, Constituição «Lumen Gentium» (1964)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "estrutura-igreja:papa",
+      "slug": "papa",
+      "titulo": "O Papa (Bispo de Roma)",
+      "categoria": "estrutura-igreja",
+      "resumo": "O Bispo de Roma, sucessor de São Pedro, que exerce autoridade suprema, plena, imediata e universal sobre toda a Igreja Católica.",
+      "corpo": "O Papa é o Bispo de Roma e, por essa mesma sé, sucessor de São Pedro no primado sobre o colégio dos apóstolos, exercendo autoridade \"suprema, plena, imediata e universal\" sobre toda a Igreja Católica — não apenas honorífica, mas de jurisdição real sobre cada diocese e cada fiel. É eleito por um conclave de cardeais e permanece no cargo até a morte ou, em casos raros, a renúncia.",
+      "tags": [
+        "hierarquia",
+        "papado"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/St._Peter%27s_Basilica_Rome_-_20140808_2350.jpg",
+      "imagem_credito": null,
+      "ordem": 1,
+      "fontes": [
+        "Código de Direito Canônico (1983)"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:colegio-cardinalicio",
+      "slug": "colegio-cardinalicio",
+      "titulo": "O Colégio dos Cardeais",
+      "categoria": "estrutura-igreja",
+      "resumo": "Corpo de bispos e, mais raramente, presbíteros escolhidos pelo Papa como seus principais conselheiros, responsáveis por eleger seu sucessor.",
+      "corpo": "Os cardeais formam um corpo especial de conselheiros do Papa, individualmente e reunidos em consistório, distribuídos honorificamente nas antigas ordens de cardeais-bispos, cardeais-presbíteros e cardeais-diáconos. Sua função mais visível ao público é a eleição do novo Papa em conclave, mas no dia a dia muitos chefiam dicastérios da Cúria Romana ou governam suas próprias dioceses ao redor do mundo.",
+      "tags": [
+        "hierarquia",
+        "cardeais",
+        "conclave"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/St._Peter%27s_Basilica_Rome_-_20140808_2350.jpg",
+      "imagem_credito": null,
+      "ordem": 2,
+      "fontes": [
+        "Código de Direito Canônico (1983)"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:curia-romana",
+      "slug": "curia-romana",
+      "titulo": "A Cúria Romana",
+      "categoria": "estrutura-igreja",
+      "resumo": "Conjunto de dicastérios e organismos que auxiliam o Papa no governo da Igreja universal.",
+      "corpo": "A Cúria Romana é a estrutura administrativa central que assiste o Papa no exercício de sua missão de pastor supremo — reunindo dicastérios (o equivalente a ministérios), tribunais e outros organismos especializados em áreas como doutrina, culto divino, clero, evangelização ou caridade. Foi reformada mais recentemente pela constituição apostólica «Praedicate Evangelium» (2022), de Francisco.",
+      "tags": [
+        "hierarquia",
+        "Cúria Romana"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/St._Peter%27s_Basilica_Rome_-_20140808_2350.jpg",
+      "imagem_credito": null,
+      "ordem": 3,
+      "fontes": [
+        "Francisco, Constituição Apostólica «Praedicate Evangelium» (2022)"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:bispo-diocesano",
+      "slug": "bispo-diocesano",
+      "titulo": "O Bispo Diocesano",
+      "categoria": "estrutura-igreja",
+      "resumo": "Pastor próprio de uma Igreja particular (diocese), sucessor dos apóstolos, com poder de governo, ensino e santificação sobre seu território.",
+      "corpo": "Cada diocese — divisão territorial básica da Igreja Católica — é governada por um bispo, considerado, na teologia católica, sucessor dos apóstolos e não mero delegado administrativo do Papa: recebe pela ordenação episcopal o poder pleno de ensinar, governar e santificar sua Igreja particular, em comunhão com o Papa e o colégio episcopal universal.",
+      "tags": [
+        "hierarquia",
+        "episcopado",
+        "diocese"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Nicolas_Poussin_-_The_Sacrament_of_Ordination_%28Christ_Presenting_the_Keys_to_Saint_Peter%29_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 4,
+      "fontes": [
+        "Código de Direito Canônico (1983)"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:paroquia",
+      "slug": "paroquia",
+      "titulo": "A Paróquia",
+      "categoria": "estrutura-igreja",
+      "resumo": "A comunidade de fiéis, dentro de uma diocese, confiada de modo estável a um pároco sob a autoridade do bispo diocesano.",
+      "corpo": "A paróquia é a célula pastoral básica com que a maioria dos católicos convive diretamente: uma comunidade de fiéis, delimitada normalmente por território, confiada de modo estável a um pároco, sob a autoridade do bispo diocesano — responsável por administrar sacramentos, catequese e vida comunitária local.",
+      "tags": [
+        "hierarquia",
+        "paróquia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg",
+      "imagem_credito": null,
+      "ordem": 5,
+      "fontes": [
+        "Código de Direito Canônico (1983)"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:conferencia-episcopal",
+      "slug": "conferencia-episcopal",
+      "titulo": "Conferência Episcopal",
+      "categoria": "estrutura-igreja",
+      "resumo": "Assembleia dos bispos de um país ou região, que coordena a ação pastoral comum sem substituir a autoridade própria de cada bispo diocesano.",
+      "corpo": "As conferências episcopais — no Brasil, a CNBB (Conferência Nacional dos Bispos do Brasil) — reúnem os bispos de um país ou território para coordenar orientações pastorais comuns, sem prejudicar a autoridade própria de cada bispo em sua diocese, que permanece plena e não delegada pela conferência.",
+      "tags": [
+        "hierarquia",
+        "CNBB",
+        "conferência episcopal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/St._Peter%27s_Basilica_Rome_-_20140808_2350.jpg",
+      "imagem_credito": null,
+      "ordem": 6,
+      "fontes": [
+        "Código de Direito Canônico (1983)"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:sinodo-dos-bispos",
+      "slug": "sinodo-dos-bispos",
+      "titulo": "Sínodo dos Bispos",
+      "categoria": "estrutura-igreja",
+      "resumo": "Assembleia periódica de bispos representantes de todo o mundo, convocada pelo Papa para aconselhá-lo sobre temas relevantes da Igreja universal.",
+      "corpo": "Instituído por Paulo VI logo após o Concílio Vaticano II (1965), o Sínodo dos Bispos reúne periodicamente representantes do episcopado mundial para debater e aconselhar o Papa sobre questões relevantes da Igreja universal — como os sínodos recentes sobre a família (2014-2015) e sobre a sinodalidade (2021-2024). É órgão consultivo, não legislativo: as conclusões só se tornam normativas se e quando o Papa as acolhe formalmente.",
+      "tags": [
+        "hierarquia",
+        "sínodo",
+        "Concílio Vaticano II"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/St._Peter%27s_Basilica_Rome_-_20140808_2350.jpg",
+      "imagem_credito": null,
+      "ordem": 7,
+      "fontes": [
+        "Código de Direito Canônico (1983)"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:clero-secular-e-religioso",
+      "slug": "clero-secular-e-religioso",
+      "titulo": "Clero Secular e Clero Religioso",
+      "categoria": "estrutura-igreja",
+      "resumo": "A distinção entre padres incardinados numa diocese (seculares) e padres membros de uma ordem ou congregação religiosa.",
+      "corpo": "O clero \"secular\" (ou diocesano) é formado por padres incardinados a uma diocese específica, sob obediência direta ao bispo local, geralmente sem voto de pobreza comunitária. O clero \"religioso\" é formado por padres membros de uma ordem, congregação ou instituto religioso (jesuítas, franciscanos, dominicanos etc.), vivendo os votos próprios de sua família religiosa e respondendo também a superiores próprios da ordem, além do bispo do território onde atuam.",
+      "tags": [
+        "hierarquia",
+        "clero"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Nicolas_Poussin_-_The_Sacrament_of_Ordination_%28Christ_Presenting_the_Keys_to_Saint_Peter%29_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 8,
+      "fontes": [
+        "Código de Direito Canônico (1983)"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:diaconato-permanente",
+      "slug": "diaconato-permanente",
+      "titulo": "Diaconato Permanente",
+      "categoria": "estrutura-igreja",
+      "resumo": "Grau da Ordem restaurado pelo Concílio Vaticano II como estado de vida definitivo, aberto também a homens casados.",
+      "corpo": "Restaurado como estado de vida permanente (e não apenas etapa de transição para o presbiterado) pelo Concílio Vaticano II, o diaconato permanente pode ser exercido por homens casados de idade mais madura, dedicados a ministérios como a proclamação do Evangelho, a celebração de batismos e matrimônios, e obras de caridade, sem o poder de consagrar a Eucaristia ou absolver na Confissão, próprio apenas dos padres e bispos.",
+      "tags": [
+        "hierarquia",
+        "diaconato",
+        "ordem"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Nicolas_Poussin_-_The_Sacrament_of_Ordination_%28Christ_Presenting_the_Keys_to_Saint_Peter%29_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 9,
+      "fontes": [
+        "Concílio Vaticano II, Constituição «Lumen Gentium», n. 29 (1964)"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:direito-canonico",
+      "slug": "direito-canonico",
+      "titulo": "Direito Canônico",
+      "categoria": "estrutura-igreja",
+      "resumo": "O corpo de leis eclesiásticas que organiza a vida, o governo e a disciplina da Igreja Católica.",
+      "corpo": "O Código de Direito Canônico — na versão em vigor para a Igreja latina, promulgado em 1983 por João Paulo II — reúne as normas jurídicas que organizam sacramentos, governo eclesiástico, processos de nulidade matrimonial, direitos e deveres dos fiéis e disciplina do clero. As Igrejas orientais católicas têm seu próprio código, o «Código dos Cânones das Igrejas Orientais» (1990).",
+      "tags": [
+        "direito canônico",
+        "governo da Igreja"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Papa_Gregorio_IX.png",
+      "imagem_credito": null,
+      "ordem": 10,
+      "fontes": [
+        "Código de Direito Canônico (1983)"
+      ]
+    }
+  ]
+}

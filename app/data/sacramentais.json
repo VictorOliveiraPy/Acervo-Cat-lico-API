@@ -1,0 +1,146 @@
+{
+  "_meta": {
+    "categoria": "sacramentais",
+    "nome": "Sacramentais",
+    "descricao": "Sinais sagrados que, por semelhança com os sacramentos, dispõem a receber a graça: água benta, bênçãos, medalhas e mais.",
+    "status": "exemplos-iniciais",
+    "aviso": "Sacramentais não têm eficácia mágica independente da fé e da oração da Igreja; distinguem-se claramente dos sete sacramentos instituídos por Cristo.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Catecismo da Igreja Católica, nn. 1667-1679"
+    ]
+  },
+  "itens": [
+    {
+      "id": "sacramentais:agua-benta",
+      "slug": "agua-benta",
+      "titulo": "Água Benta",
+      "categoria": "sacramentais",
+      "resumo": "Água abençoada pela Igreja, usada como sinal de purificação e lembrança do Batismo.",
+      "corpo": "A água benta é bento por um sacerdote ou diácono e usada pelos fiéis — ao entrar na igreja, em bênçãos domésticas, ou em exorcismos menores — como sinal sensível de purificação espiritual e lembrança constante do próprio Batismo. Não tem poder mágico próprio: sua eficácia, como todo sacramental, depende da fé e da disposição de quem a usa, e da oração da Igreja que a acompanha.",
+      "tags": [
+        "sacramentais",
+        "água benta",
+        "Batismo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Pietro_Perugino_-_Baptism_of_Christ_-_Sistine_Chapel_-_cat13a.jpg",
+      "imagem_credito": null,
+      "ordem": 1,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:bencao",
+      "slug": "bencao",
+      "titulo": "Bênção",
+      "categoria": "sacramentais",
+      "resumo": "Sacramental que invoca a proteção e a graça de Deus sobre pessoas, objetos ou ocasiões específicas.",
+      "corpo": "As bênçãos são o mais amplo e frequente dos sacramentais: invocam o nome de Deus e pedem sua proteção sobre pessoas (bênção dos pais aos filhos, do sacerdote aos fiéis), lugares (uma casa nova), objetos (um terço, uma imagem) ou momentos particulares da vida (uma viagem, uma colheita). Podem ser dadas por padres, diáconos e, em muitos casos, por leigos — como pais de família, no âmbito doméstico.",
+      "tags": [
+        "sacramentais",
+        "bênção"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sagrada_Familia_del_pajarito_%28Murillo%29.jpg",
+      "imagem_credito": null,
+      "ordem": 2,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:medalha-religiosa",
+      "slug": "medalha-religiosa",
+      "titulo": "Medalha Religiosa",
+      "categoria": "sacramentais",
+      "resumo": "Pequeno objeto devocional, geralmente com a imagem de Cristo, Maria ou um santo, usado como sinal de fé e proteção espiritual.",
+      "corpo": "Medalhas como a Milagrosa (ver a categoria Nossa Senhora) ou a de São Bento (ver Orações) são sacramentais populares que, uma vez abençoadas, funcionam como lembrete físico constante da fé e da proteção divina invocada — nunca como amuleto com poder mágico independente da fé de quem a usa.",
+      "tags": [
+        "sacramentais",
+        "medalha",
+        "devoção popular"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/de/VirgenMedallaMilagrosa-IglesiaSagradaEucarisita-CABA.jpg",
+      "imagem_credito": null,
+      "ordem": 3,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:velas-e-cirios",
+      "slug": "velas-e-cirios",
+      "titulo": "Velas e Círios",
+      "categoria": "sacramentais",
+      "resumo": "Luz simbólica usada na liturgia e na devoção pessoal como sinal de Cristo, \"luz do mundo\", e da oração que se eleva a Deus.",
+      "corpo": "O uso de velas e círios na liturgia — do Círio Pascal (ver Glossário) às velas do altar e às pequenas velas acesas por devotos diante de imagens — carrega o simbolismo bíblico da luz que vence as trevas e de Cristo como \"luz do mundo\" (Jo 8,12), além de representar visivelmente a oração e a intenção de quem a acende.",
+      "tags": [
+        "sacramentais",
+        "velas",
+        "luz"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Advent_wreath_and_candles_at_St._Pega%27s_church%2C_Peakirk_-_geograph.org.uk_-_8208229.jpg",
+      "imagem_credito": "Foto: Paul Bryan — Wikimedia Commons, CC BY-SA 2.0",
+      "ordem": 4,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:exorcismo-menor",
+      "slug": "exorcismo-menor",
+      "titulo": "Exorcismo Menor",
+      "categoria": "sacramentais",
+      "resumo": "Oração de proteção contra a influência do mal, distinta do exorcismo solene reservado a casos de possessão diabólica reconhecida.",
+      "corpo": "O \"exorcismo menor\" é uma forma de oração de proteção espiritual usada rotineiramente na liturgia — por exemplo, nas orações preparatórias ao Batismo — pedindo a libertação do poder do mal sobre a pessoa, sem pressupor um caso de possessão diabólica propriamente dita. Distingue-se do \"exorcismo solene\" ou maior, reservado a casos excepcionais de possessão reconhecida, que só pode ser realizado por um sacerdote especialmente designado pelo bispo, mediante rigorosa avaliação prévia — inclusive médica e psicológica — para excluir causas naturais.",
+      "tags": [
+        "sacramentais",
+        "exorcismo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/GuidoReni_MichaelDefeatsSatan.jpg",
+      "imagem_credito": null,
+      "ordem": 5,
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 1673"
+      ]
+    },
+    {
+      "id": "sacramentais:bencao-do-santissimo-sacramental",
+      "slug": "bencao-do-santissimo-sacramental",
+      "titulo": "Sinal da Cruz",
+      "categoria": "sacramentais",
+      "resumo": "O gesto e a fórmula trinitária mais básicos da vida cristã, feitos ao entrar na oração ou receber uma bênção.",
+      "corpo": "O Sinal da Cruz — tocar a testa, o peito e os ombros enquanto se pronuncia \"Em nome do Pai, e do Filho, e do Espírito Santo\" — é o gesto mais elementar e repetido da devoção católica, profissão silenciosa e física da fé na Santíssima Trindade e no mistério da cruz de Cristo, feito ao início e ao fim de quase toda oração e celebração litúrgica.",
+      "tags": [
+        "sacramentais",
+        "sinal da cruz",
+        "Trindade"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Masaccio%2C_Holy_Trinity%2C_1425-28%2C_Santa_Maria_Novella%2C_Florence.jpg",
+      "imagem_credito": null,
+      "ordem": 6,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:agua-benta-domestica",
+      "slug": "agua-benta-domestica",
+      "titulo": "Bênção de Casas e Objetos",
+      "categoria": "sacramentais",
+      "resumo": "Prática de convidar um sacerdote a abençoar a casa, o local de trabalho ou objetos pessoais como sinal de consagração da vida cotidiana a Deus.",
+      "corpo": "Pedir a bênção de uma casa nova, de um veículo, de instrumentos de trabalho ou de outros bens é uma prática de devoção popular muito difundida, que exprime o desejo de consagrar a Deus os espaços e instrumentos da vida cotidiana, não apenas os momentos explicitamente \"religiosos\".",
+      "tags": [
+        "sacramentais",
+        "bênção",
+        "vida diária"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sagrada_Familia_del_pajarito_%28Murillo%29.jpg",
+      "imagem_credito": null,
+      "ordem": 7,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1667-1679"
+      ]
+    }
+  ]
+}

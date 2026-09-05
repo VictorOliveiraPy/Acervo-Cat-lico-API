@@ -45,11 +45,14 @@ app = FastAPI(
     title=settings.app_name,
     version=settings.app_version,
     description=(
-        "API somente-leitura de conteúdo católico curado: santos, papas, "
-        "concílios, milagres eucarísticos, doutores da Igreja, catecismo, "
-        "crisma, história, Nossa Senhora, livros, orações, pecados, vida "
-        "litúrgica, sacramentos, virtudes, mandamentos, a Bíblia (73 livros "
-        "do cânon católico), devoções, glossário e calendário litúrgico. "
+        "API somente-leitura de conteúdo católico curado em 29 categorias: "
+        "santos, papas, concílios, milagres eucarísticos, doutores da "
+        "Igreja, catecismo, crisma, história, Nossa Senhora, livros, "
+        "orações, pecados, vida litúrgica, sacramentos, virtudes, "
+        "mandamentos, a Bíblia (73 livros do cânon católico), devoções, "
+        "glossário, calendário litúrgico, novíssimos, ordens religiosas, "
+        "estrutura da Igreja, santuários, documentos do magistério, beatos "
+        "e canonização, Igreja no Brasil, sacramentais e apologética. "
         "O acervo cobre o essencial da fé, da moral e da prática católica — "
         "não se restringe a um recorte estreito de temas — e segue sendo "
         "expandido; não é ainda um catálogo definitivo."

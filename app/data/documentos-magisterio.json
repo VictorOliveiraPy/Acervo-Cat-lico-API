@@ -1,0 +1,307 @@
+{
+  "_meta": {
+    "categoria": "documentos-magisterio",
+    "nome": "Documentos do Magistério",
+    "descricao": "Principais encíclicas, exortações e constituições pontifícias e conciliares, com resumo e contexto histórico.",
+    "status": "exemplos-iniciais",
+    "aviso": "Resumo introdutório; a leitura do texto integral do documento é sempre recomendada para citação ou estudo aprofundado.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "vatican.va — arquivo de documentos pontifícios e conciliares"
+    ]
+  },
+  "itens": [
+    {
+      "id": "documentos-magisterio:rerum-novarum",
+      "slug": "rerum-novarum",
+      "titulo": "Rerum Novarum",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica fundadora da doutrina social católica moderna, sobre a condição dos trabalhadores na sociedade industrial.",
+      "corpo": "Publicada por Leão XIII em 1891, «Rerum Novarum» («Das coisas novas») respondeu à questão social do fim do século XIX diante da industrialização, defendendo ao mesmo tempo o direito à propriedade privada e à livre associação sindical dos trabalhadores, um salário justo e a responsabilidade do Estado em proteger os mais fracos — sem aderir nem ao socialismo coletivista nem ao capitalismo sem freios morais. É considerada o documento fundador da moderna doutrina social da Igreja.",
+      "tags": [
+        "doutrina social",
+        "Leão XIII"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Papa_Leone_XIII_%281898%29.jpg",
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Leão XIII",
+      "ano": "1891",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:quadragesimo-anno",
+      "slug": "quadragesimo-anno",
+      "titulo": "Quadragesimo Anno",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de Pio XI, publicada quarenta anos após a Rerum Novarum, que desenvolve a doutrina social diante da crise de 1929.",
+      "corpo": "Escrita para marcar o quadragésimo aniversário da «Rerum Novarum», em plena Grande Depressão, «Quadragesimo Anno» (1931) desenvolve a doutrina social católica com o princípio da \"subsidiariedade\" — a ideia de que decisões devem ser tomadas no nível mais próximo possível das pessoas afetadas, e que instâncias maiores só devem intervir quando as menores não conseguem resolver sozinhas.",
+      "tags": [
+        "doutrina social",
+        "Pio XI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Pius_XI%2C_by_Nicola_Perscheid_%28retouched%29.jpg",
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Pio XI",
+      "ano": "1931",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:humani-generis",
+      "slug": "humani-generis",
+      "titulo": "Humani Generis",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de Pio XII que trata dos limites entre fé e certas correntes filosóficas e científicas modernas, incluindo a questão da evolução.",
+      "corpo": "Publicada em 1950, aborda de modo cauteloso a relação entre a fé católica e correntes de pensamento contemporâneas, sendo lembrada sobretudo por admitir a possibilidade de discussão científica sobre a evolução biológica do corpo humano, desde que se sustente a criação direta da alma espiritual por Deus.",
+      "tags": [
+        "fé e ciência",
+        "Pio XII"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Pius_XII_with_tabard%2C_by_Michael_Pitcairn%2C_1951.png",
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Pio XII",
+      "ano": "1950",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:mater-et-magistra",
+      "slug": "mater-et-magistra",
+      "titulo": "Mater et Magistra",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de João XXIII sobre desenvolvimento social e desigualdades econômicas globais, marco antes do Concílio Vaticano II.",
+      "corpo": "Publicada em 1961, «Mater et Magistra» («Mãe e Mestra») atualiza a doutrina social diante de temas novos como a industrialização agrícola, o desenvolvimento econômico desigual entre nações e a corrida armamentista, ampliando o horizonte da questão social para além da relação capital-trabalho tratada pela «Rerum Novarum».",
+      "tags": [
+        "doutrina social",
+        "João XXIII"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ioannes_XXIII%2C_by_De_Agostini%2C_1958%E2%80%931963.jpg",
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "João XXIII",
+      "ano": "1961",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:pacem-in-terris",
+      "slug": "pacem-in-terris",
+      "titulo": "Pacem in Terris",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de João XXIII sobre a paz mundial, publicada em plena Crise dos Mísseis de Cuba, dirigida a todos os homens de boa vontade.",
+      "corpo": "Publicada em abril de 1963, poucos meses após a Crise dos Mísseis de Cuba ter levado o mundo à beira de guerra nuclear, «Pacem in Terris» foi a primeira encíclica dirigida não apenas a católicos, mas \"a todos os homens de boa vontade\", tratando dos direitos humanos fundamentais como base para a paz entre as nações.",
+      "tags": [
+        "paz",
+        "direitos humanos",
+        "João XXIII"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ioannes_XXIII%2C_by_De_Agostini%2C_1958%E2%80%931963.jpg",
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "João XXIII",
+      "ano": "1963",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:humanae-vitae",
+      "slug": "humanae-vitae",
+      "titulo": "Humanae Vitae",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de Paulo VI que reafirma a doutrina católica contra métodos artificiais de contracepção, gerando amplo debate público.",
+      "corpo": "Publicada em 1968, em meio a expectativas de mudança após uma comissão pontifícia ter estudado o tema, «Humanae Vitae» reafirmou a proibição católica aos métodos artificiais de contracepção, insistindo no vínculo inseparável entre os sentidos unitivo e procriativo do ato conjugal. Gerou intenso debate público e teológico que continua até hoje.",
+      "tags": [
+        "Humanae Vitae",
+        "moral sexual",
+        "Paulo VI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Paulus_VI%2C_by_Fotografia_Felici%2C_1969.jpg",
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Paulo VI",
+      "ano": "1968",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:evangelii-nuntiandi",
+      "slug": "evangelii-nuntiandi",
+      "titulo": "Evangelii Nuntiandi",
+      "categoria": "documentos-magisterio",
+      "resumo": "Exortação apostólica de Paulo VI sobre a evangelização no mundo contemporâneo, referência central para a ação missionária pós-conciliar.",
+      "corpo": "Publicada em 1975, encerrando o Sínodo dos Bispos de 1974 sobre evangelização, tornou-se um dos textos mais citados sobre o tema, definindo a evangelização em sentido amplo — não apenas a pregação verbal, mas o testemunho de vida, a promoção humana e a inculturação da fé em diferentes culturas.",
+      "tags": [
+        "evangelização",
+        "Paulo VI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Paulus_VI%2C_by_Fotografia_Felici%2C_1969.jpg",
+      "imagem_credito": null,
+      "tipo_documento": "Exortação Apostólica",
+      "papa_autor": "Paulo VI",
+      "ano": "1975",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:veritatis-splendor",
+      "slug": "veritatis-splendor",
+      "titulo": "Veritatis Splendor",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de João Paulo II sobre os fundamentos da teologia moral católica, respondendo a correntes que relativizavam a existência de atos intrinsecamente maus.",
+      "corpo": "Publicada em 1993, é uma das encíclicas mais sistemáticas de João Paulo II sobre teologia moral fundamental, reafirmando a existência de \"atos intrinsecamente maus\" — que nenhuma circunstância ou boa intenção pode tornar lícitos — contra correntes de teologia moral que, no debate pós-conciliar, tendiam a relativizar essa categoria.",
+      "tags": [
+        "teologia moral",
+        "João Paulo II"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg",
+      "imagem_credito": "Foto: Gregorini Demetrio (1988) — Wikimedia Commons, CC BY-SA 3.0",
+      "tipo_documento": "Encíclica",
+      "papa_autor": "João Paulo II",
+      "ano": "1993",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:evangelium-vitae",
+      "slug": "evangelium-vitae",
+      "titulo": "Evangelium Vitae",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de João Paulo II em defesa da vida humana desde a concepção até a morte natural, contra o que chama de \"cultura da morte\".",
+      "corpo": "Publicada em 1995, é a exposição mais sistemática de João Paulo II sobre a defesa da vida humana em todas as suas fases, tratando com particular ênfase o aborto e a eutanásia, e cunhando a expressão \"cultura da morte\" para descrever tendências sociais e legais que, em sua análise, banalizam a destruição da vida humana vulnerável.",
+      "tags": [
+        "vida humana",
+        "João Paulo II"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg",
+      "imagem_credito": "Foto: Gregorini Demetrio (1988) — Wikimedia Commons, CC BY-SA 3.0",
+      "tipo_documento": "Encíclica",
+      "papa_autor": "João Paulo II",
+      "ano": "1995",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:fides-et-ratio",
+      "slug": "fides-et-ratio",
+      "titulo": "Fides et Ratio",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de João Paulo II sobre a relação entre fé e razão, descritas como \"as duas asas\" pelas quais o espírito humano se eleva à verdade.",
+      "corpo": "Publicada em 1998, discute a relação entre a fé cristã e a filosofia, defendendo que ambas, corretamente entendidas, se complementam em vez de se oporem: \"a fé e a razão são como as duas asas com as quais o espírito humano se eleva para a contemplação da verdade\" (abertura da encíclica).",
+      "tags": [
+        "fé e razão",
+        "filosofia",
+        "João Paulo II"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg",
+      "imagem_credito": "Foto: Gregorini Demetrio (1988) — Wikimedia Commons, CC BY-SA 3.0",
+      "tipo_documento": "Encíclica",
+      "papa_autor": "João Paulo II",
+      "ano": "1998",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:deus-caritas-est",
+      "slug": "deus-caritas-est",
+      "titulo": "Deus Caritas Est",
+      "categoria": "documentos-magisterio",
+      "resumo": "Primeira encíclica de Bento XVI, sobre a natureza do amor de Deus e sua expressão na caridade cristã concreta.",
+      "corpo": "Publicada em 2005, a primeira encíclica de Bento XVI reflete sobre a natureza do amor divino — articulando \"eros\" e \"ágape\" — e sobre como esse amor se traduz na prática concreta da caridade cristã organizada, incluindo a atividade caritativa institucional da Igreja.",
+      "tags": [
+        "caridade",
+        "Bento XVI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/BentoXVI-30-10052007.jpg",
+      "imagem_credito": "Foto: Fabio Pozzebom/Agência Brasil (2007) — Wikimedia Commons, CC BY 3.0 BR",
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Bento XVI",
+      "ano": "2005",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:laudato-si",
+      "slug": "laudato-si",
+      "titulo": "Laudato Si'",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de Francisco sobre ecologia integral, ligando a crise ambiental à justiça social e ao \"cuidado da casa comum\".",
+      "corpo": "Publicada em 2015, é a primeira encíclica dedicada centralmente à questão ecológica, propondo o conceito de \"ecologia integral\": a crise ambiental não pode ser separada da crise social e da pobreza, e o cuidado da criação (\"a casa comum\") é parte inseparável da fé cristã, não um tema \"à parte\" da moral católica tradicional.",
+      "tags": [
+        "ecologia",
+        "meio ambiente",
+        "Francisco"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Pope_Francis_Korea_Haemi_Castle_19_%284x5_cropped%29.jpg",
+      "imagem_credito": "Foto: Korea.net / Korean Culture and Information Service (Jeon Han) — Wikimedia Commons, CC BY-SA 2.0",
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Francisco",
+      "ano": "2015",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:amoris-laetitia",
+      "slug": "amoris-laetitia",
+      "titulo": "Amoris Laetitia",
+      "categoria": "documentos-magisterio",
+      "resumo": "Exortação apostólica de Francisco sobre o amor na família, fruto dos Sínodos sobre a Família de 2014 e 2015.",
+      "corpo": "Publicada em 2016, sintetiza as conclusões de dois sínodos dos bispos sobre a família (2014-2015), tratando do amor conjugal e familiar, dos desafios pastorais contemporâneos e, de modo mais discutido, da atenção pastoral a situações familiares irregulares, com ênfase no discernimento caso a caso.",
+      "tags": [
+        "família",
+        "Francisco"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Pope_Francis_Korea_Haemi_Castle_19_%284x5_cropped%29.jpg",
+      "imagem_credito": "Foto: Korea.net / Korean Culture and Information Service (Jeon Han) — Wikimedia Commons, CC BY-SA 2.0",
+      "tipo_documento": "Exortação Apostólica",
+      "papa_autor": "Francisco",
+      "ano": "2016",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:fratelli-tutti",
+      "slug": "fratelli-tutti",
+      "titulo": "Fratelli Tutti",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de Francisco sobre fraternidade e amizade social entre todos os povos, inspirada em São Francisco de Assis.",
+      "corpo": "Publicada em 2020, durante a pandemia de Covid-19, propõe a fraternidade universal e a \"amizade social\" como resposta à polarização, ao nacionalismo fechado e à indiferença diante do sofrimento alheio, retomando a parábola do Bom Samaritano como modelo central de conduta.",
+      "tags": [
+        "fraternidade",
+        "Francisco"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Pope_Francis_Korea_Haemi_Castle_19_%284x5_cropped%29.jpg",
+      "imagem_credito": "Foto: Korea.net / Korean Culture and Information Service (Jeon Han) — Wikimedia Commons, CC BY-SA 2.0",
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Francisco",
+      "ano": "2020",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:dei-verbum",
+      "slug": "dei-verbum",
+      "titulo": "Dei Verbum",
+      "categoria": "documentos-magisterio",
+      "resumo": "Constituição dogmática do Concílio Vaticano II sobre a Revelação Divina, a Sagrada Escritura e a Tradição.",
+      "corpo": "Um dos quatro documentos mais solenes do Concílio Vaticano II (1965), trata da natureza da Revelação divina e de sua transmissão pela Escritura e pela Tradição, ambas fluindo \"da mesma fonte divina\" e unidas num único depósito sagrado da fé confiado à Igreja.",
+      "tags": [
+        "Concílio Vaticano II",
+        "Sagrada Escritura"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Basilica_di_San_Pietro_-_Esterrno.jpg",
+      "imagem_credito": "Foto: PubblicUsername — Wikimedia Commons, CC BY 4.0",
+      "tipo_documento": "Constituição Dogmática (conciliar)",
+      "papa_autor": "Concílio Vaticano II (promulgada por Paulo VI)",
+      "ano": "1965",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:gaudium-et-spes",
+      "slug": "gaudium-et-spes",
+      "titulo": "Gaudium et Spes",
+      "categoria": "documentos-magisterio",
+      "resumo": "Constituição pastoral do Concílio Vaticano II sobre a Igreja no mundo contemporâneo, tratando de temas como dignidade humana, cultura, economia e paz.",
+      "corpo": "Um dos documentos mais extensos e inovadores do Concílio Vaticano II, aborda diretamente a relação da Igreja com o mundo moderno — dignidade da pessoa humana, vida familiar, cultura, vida econômico-social, comunidade política, paz e comunidade das nações — num tom de diálogo aberto pouco comum em documentos conciliares anteriores.",
+      "tags": [
+        "Concílio Vaticano II",
+        "doutrina social"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Basilica_di_San_Pietro_-_Esterrno.jpg",
+      "imagem_credito": "Foto: PubblicUsername — Wikimedia Commons, CC BY 4.0",
+      "tipo_documento": "Constituição Pastoral (conciliar)",
+      "papa_autor": "Concílio Vaticano II (promulgada por Paulo VI)",
+      "ano": "1965",
+      "fontes": []
+    }
+  ]
+}

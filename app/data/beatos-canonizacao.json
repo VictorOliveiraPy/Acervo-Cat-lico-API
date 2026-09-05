@@ -1,0 +1,162 @@
+{
+  "_meta": {
+    "categoria": "beatos-canonizacao",
+    "nome": "Beatos e Processo de Canonização",
+    "descricao": "As etapas do processo de canonização católico, de Servo de Deus a Santo, e conceitos correlatos.",
+    "status": "exemplos-iniciais",
+    "aviso": "Explicação processual simplificada; casos concretos seguem normas específicas emitidas pelo Dicastério das Causas dos Santos.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "João Paulo II, Constituição Apostólica «Divinus Perfectionis Magister» (1983)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "beatos-canonizacao:fama-de-santidade",
+      "slug": "fama-de-santidade",
+      "titulo": "Fama de Santidade",
+      "categoria": "beatos-canonizacao",
+      "resumo": "Reputação pública e espontânea, entre os fiéis, de que uma pessoa falecida viveu de modo heroico as virtudes cristãs.",
+      "corpo": "A \"fama de santidade\" (ou de martírio) é o ponto de partida informal de qualquer causa de canonização: a percepção espontânea e difundida, entre os fiéis que conheceram a pessoa ou sua história, de que ela viveu de modo extraordinário a fé, a esperança e a caridade — ou morreu como mártir. Sem essa reputação genuína, nenhum processo formal é sequer aberto.",
+      "tags": [
+        "canonização",
+        "processo de canonização"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ghent_Altarpiece_-_Adoration_of_the_Mystic_Lamb.jpg",
+      "imagem_credito": null,
+      "ordem": 1,
+      "fontes": [
+        "Código de Direito Canônico (1983), cânones 1403"
+      ]
+    },
+    {
+      "id": "beatos-canonizacao:servo-de-deus-processo",
+      "slug": "servo-de-deus-processo",
+      "titulo": "Abertura da Causa: \"Servo de Deus\"",
+      "categoria": "beatos-canonizacao",
+      "resumo": "A fase diocesana inicial, em que o bispo local autoriza formalmente a investigação sobre a vida da pessoa.",
+      "corpo": "A causa começa formalmente quando o bispo diocesano, atendendo a um pedido (geralmente de um \"postulador\", ver Glossário), autoriza a abertura da investigação — normalmente não antes de cinco anos após a morte, salvo dispensa papal, como ocorreu com Madre Teresa de Calcutá e João Paulo II. A partir daí, a pessoa recebe o título de \"Servo de Deus\" e começa a coleta de testemunhos e documentos sobre sua vida.",
+      "tags": [
+        "canonização",
+        "servo de Deus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Tumba_Carlo_Acutis_%28cropped%29.jpg",
+      "imagem_credito": "Foto: Esthappanos Bar Geevarghese — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 2,
+      "fontes": [
+        "Código de Direito Canônico (1983), cânones 1403"
+      ]
+    },
+    {
+      "id": "beatos-canonizacao:virtudes-heroicas-ou-martirio",
+      "slug": "virtudes-heroicas-ou-martirio",
+      "titulo": "Reconhecimento de Virtudes Heroicas ou Martírio",
+      "categoria": "beatos-canonizacao",
+      "resumo": "O Papa declara, por decreto, que a pessoa viveu as virtudes cristãs em grau heroico ou sofreu martírio pela fé.",
+      "corpo": "Depois de a documentação reunida pela diocese ser examinada por teólogos e cardeais na Santa Sé, o Papa pode reconhecer formalmente, por decreto, que o Servo de Deus viveu as virtudes teologais e cardeais em grau heroico — muito além da prática comum e esperada — ou que sofreu martírio real por ódio à fé. Esse reconhecimento confere à pessoa o título de \"Venerável\" (ver Glossário).",
+      "tags": [
+        "canonização",
+        "venerável",
+        "virtudes heroicas"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/St._Kizito_being_baptised_by_St._Charles_Lwanga_at_Munyonyo.jpg",
+      "imagem_credito": null,
+      "ordem": 3,
+      "fontes": [
+        "Código de Direito Canônico (1983), cânones 1403"
+      ]
+    },
+    {
+      "id": "beatos-canonizacao:beatificacao-processo",
+      "slug": "beatificacao-processo",
+      "titulo": "Beatificação",
+      "categoria": "beatos-canonizacao",
+      "resumo": "A confirmação de um milagre (dispensada para mártires) permite a beatificação, com culto público ainda restrito.",
+      "corpo": "Para avançar do título de Venerável para o de Beato, é necessária, em regra, a confirmação de um milagre obtido por sua intercessão depois da morte — a Igreja não exige milagre para mártires, cujo próprio testemunho de sangue já é considerado prova suficiente. Depois de examinado por médicos (em casos de cura) e teólogos, e aprovado pelo Papa, ocorre a cerimônia de beatificação, autorizando o culto público, mas ainda restrito a uma diocese, região ou família religiosa.",
+      "tags": [
+        "canonização",
+        "beatificação",
+        "milagre"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/St._Peter%27s_Basilica_Rome_-_20140808_2350.jpg",
+      "imagem_credito": null,
+      "ordem": 4,
+      "fontes": [
+        "Código de Direito Canônico (1983), cânones 1403"
+      ]
+    },
+    {
+      "id": "beatos-canonizacao:canonizacao-processo",
+      "slug": "canonizacao-processo",
+      "titulo": "Canonização",
+      "categoria": "beatos-canonizacao",
+      "resumo": "A confirmação de um segundo milagre (após a beatificação) leva à canonização, que estende o culto do santo a toda a Igreja universal.",
+      "corpo": "A canonização exige, em regra, a confirmação de um segundo milagre ocorrido após a beatificação, atribuído à intercessão do Beato. Com a canonização, o Papa declara infalivelmente que a pessoa está na glória de Deus, inscreve seu nome no catálogo dos santos e autoriza — na verdade, recomenda — seu culto público em toda a Igreja Católica, com direito a memória litúrgica própria no calendário universal ou local.",
+      "tags": [
+        "canonização",
+        "santos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/St._Peter%27s_Basilica_Rome_-_20140808_2350.jpg",
+      "imagem_credito": null,
+      "ordem": 5,
+      "fontes": [
+        "Código de Direito Canônico (1983), cânones 1403"
+      ]
+    },
+    {
+      "id": "beatos-canonizacao:exame-medico-de-milagres",
+      "slug": "exame-medico-de-milagres",
+      "titulo": "O Exame Médico e Teológico dos Milagres",
+      "categoria": "beatos-canonizacao",
+      "resumo": "Casos de cura alegadamente milagrosa são submetidos a rigoroso exame por médicos e, depois, por teólogos, antes de qualquer reconhecimento oficial.",
+      "corpo": "Casos de cura física apresentados como milagre passam primeiro por uma comissão médica da Santa Sé (a \"Consulta Medica\"), formada por especialistas — nem todos necessariamente católicos —, que verifica se a cura é completa, duradoura e cientificamente inexplicável pelo conhecimento médico atual. Só depois dessa etapa o caso é examinado teologicamente, para verificar se a cura ocorreu de fato em conexão com a invocação do candidato à santidade.",
+      "tags": [
+        "canonização",
+        "milagre",
+        "medicina"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/ParroquiaSantaMaria_Caballito_BsAs.jpg",
+      "imagem_credito": "Foto: Nicolasrnphoto (2013) — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 6,
+      "fontes": [
+        "Código de Direito Canônico (1983), cânones 1403"
+      ]
+    },
+    {
+      "id": "beatos-canonizacao:martires-reconhecimento",
+      "slug": "martires-reconhecimento",
+      "titulo": "O Martírio como Caminho Direto à Beatificação",
+      "categoria": "beatos-canonizacao",
+      "resumo": "Quando reconhecido o martírio \"em ódio à fé\", a Igreja dispensa a exigência de um milagre para a beatificação.",
+      "corpo": "Diferente do caso comum, quando a Igreja reconhece que uma pessoa foi morta especificamente \"em ódio à fé\" (não por razões meramente políticas, pessoais ou aleatórias), não exige a confirmação de um milagre para a beatificação — o próprio testemunho do martírio já é considerado prova suficiente de união radical com Cristo. Um milagre continua sendo exigido, porém, para a canonização subsequente.",
+      "tags": [
+        "canonização",
+        "martírio"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/St._Kizito_being_baptised_by_St._Charles_Lwanga_at_Munyonyo.jpg",
+      "imagem_credito": null,
+      "ordem": 7,
+      "fontes": [
+        "Código de Direito Canônico (1983), cânones 1403"
+      ]
+    },
+    {
+      "id": "beatos-canonizacao:padroeiro",
+      "slug": "padroeiro",
+      "titulo": "Padroeiro (Patronato)",
+      "categoria": "beatos-canonizacao",
+      "resumo": "Título que associa um santo à proteção especial de um lugar, profissão, causa ou grupo de pessoas.",
+      "corpo": "O \"patronato\" ou \"padroeiro\" é uma prática devocional, não parte formal do processo de canonização: associa um santo já canonizado à intercessão especial por um país, cidade, profissão, doença ou causa específica — geralmente por conexão biográfica (São José, carpinteiro, padroeiro dos trabalhadores) ou histórica (Nossa Senhora Aparecida, padroeira do Brasil desde 1930, por decisão de Pio XI).",
+      "tags": [
+        "padroeiro",
+        "devoção popular"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/NS_Aparecida.png",
+      "imagem_credito": null,
+      "ordem": 8,
+      "fontes": [
+        "Código de Direito Canônico (1983), cânones 1403"
+      ]
+    }
+  ]
+}

@@ -44,6 +44,15 @@ class Category(str, Enum):
     DEVOCOES = "devocoes"
     GLOSSARIO = "glossario"
     CALENDARIO_LITURGICO = "calendario-liturgico"
+    NOVISSIMOS = "novissimos"
+    ORDENS_RELIGIOSAS = "ordens-religiosas"
+    ESTRUTURA_IGREJA = "estrutura-igreja"
+    SANTUARIOS = "santuarios"
+    DOCUMENTOS_MAGISTERIO = "documentos-magisterio"
+    BEATOS_CANONIZACAO = "beatos-canonizacao"
+    IGREJA_BRASIL = "igreja-brasil"
+    SACRAMENTAIS = "sacramentais"
+    APOLOGETICA = "apologetica"
 
 
 class ContentEntry(BaseModel):
@@ -294,6 +303,78 @@ class TempoLiturgico(ContentEntry):
     cor_liturgica: str | None = None
 
 
+class Novissimo(ContentEntry):
+    """Uma das \"últimas coisas\" (novíssimos): morte, juízo, céu, inferno,
+    purgatório."""
+
+    categoria: Literal[Category.NOVISSIMOS] = Category.NOVISSIMOS
+    ordem: int | None = Field(default=None, ge=1)
+
+
+class OrdemReligiosa(ContentEntry):
+    """Ordem, congregação ou família religiosa católica."""
+
+    categoria: Literal[Category.ORDENS_RELIGIOSAS] = Category.ORDENS_RELIGIOSAS
+    fundador: str | None = None
+    ano_fundacao: str | None = None
+    carisma: str | None = None
+
+
+class ElementoEstrutural(ContentEntry):
+    """Elemento da estrutura de governo e organização da Igreja Católica."""
+
+    categoria: Literal[Category.ESTRUTURA_IGREJA] = Category.ESTRUTURA_IGREJA
+    ordem: int | None = Field(default=None, ge=1)
+
+
+class Santuario(ContentEntry):
+    """Santuário ou basílica de peregrinação católica."""
+
+    categoria: Literal[Category.SANTUARIOS] = Category.SANTUARIOS
+    local: str | None = None
+    pais: str | None = None
+    ano: str | None = None
+
+
+class DocumentoMagisterio(ContentEntry):
+    """Documento do magistério pontifício ou conciliar (encíclica,
+    constituição, exortação etc.)."""
+
+    categoria: Literal[Category.DOCUMENTOS_MAGISTERIO] = Category.DOCUMENTOS_MAGISTERIO
+    tipo_documento: str | None = None
+    papa_autor: str | None = None
+    ano: str | None = None
+
+
+class ProcessoCanonizacao(ContentEntry):
+    """Etapa, título ou conceito do processo de beatificação e canonização."""
+
+    categoria: Literal[Category.BEATOS_CANONIZACAO] = Category.BEATOS_CANONIZACAO
+    ordem: int | None = Field(default=None, ge=1)
+
+
+class IgrejaBrasil(ContentEntry):
+    """Tema da história e organização da Igreja Católica no Brasil."""
+
+    categoria: Literal[Category.IGREJA_BRASIL] = Category.IGREJA_BRASIL
+    ordem: int | None = Field(default=None, ge=1)
+
+
+class Sacramental(ContentEntry):
+    """Sacramental: sinal sagrado que, por semelhança com os sacramentos,
+    dispõe a receber a graça (água benta, medalhas, bênçãos etc.)."""
+
+    categoria: Literal[Category.SACRAMENTAIS] = Category.SACRAMENTAIS
+    ordem: int | None = Field(default=None, ge=1)
+
+
+class QuestaoApologetica(ContentEntry):
+    """Resposta católica a uma objeção clássica sobre a fé ou a prática da Igreja."""
+
+    categoria: Literal[Category.APOLOGETICA] = Category.APOLOGETICA
+    objecao: str | None = None
+
+
 class Liturgia(ContentEntry):
     """Tema de vida litúrgica e sacramental prática: partes da Missa, adoração
     eucarística, preparação para a Confissão e afins.
@@ -332,6 +413,15 @@ AnyEntry = Annotated[
         Devocao,
         TermoGlossario,
         TempoLiturgico,
+        Novissimo,
+        OrdemReligiosa,
+        ElementoEstrutural,
+        Santuario,
+        DocumentoMagisterio,
+        ProcessoCanonizacao,
+        IgrejaBrasil,
+        Sacramental,
+        QuestaoApologetica,
     ],
     Field(discriminator="categoria"),
 ]
@@ -358,6 +448,15 @@ ENTRY_MODEL_BY_CATEGORY: dict[Category, type[ContentEntry]] = {
     Category.DEVOCOES: Devocao,
     Category.GLOSSARIO: TermoGlossario,
     Category.CALENDARIO_LITURGICO: TempoLiturgico,
+    Category.NOVISSIMOS: Novissimo,
+    Category.ORDENS_RELIGIOSAS: OrdemReligiosa,
+    Category.ESTRUTURA_IGREJA: ElementoEstrutural,
+    Category.SANTUARIOS: Santuario,
+    Category.DOCUMENTOS_MAGISTERIO: DocumentoMagisterio,
+    Category.BEATOS_CANONIZACAO: ProcessoCanonizacao,
+    Category.IGREJA_BRASIL: IgrejaBrasil,
+    Category.SACRAMENTAIS: Sacramental,
+    Category.APOLOGETICA: QuestaoApologetica,
 }
 
 

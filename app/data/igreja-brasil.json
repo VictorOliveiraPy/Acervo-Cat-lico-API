@@ -1,0 +1,168 @@
+{
+  "_meta": {
+    "categoria": "igreja-brasil",
+    "nome": "Igreja no Brasil",
+    "descricao": "A história e a organização da Igreja Católica no Brasil, da primeira Missa à CNBB.",
+    "status": "exemplos-iniciais",
+    "aviso": "Recorte histórico introdutório; temas como a Teologia da Libertação envolvem debates internos à Igreja que este acervo procura descrever, não arbitrar.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "CNBB — Conferência Nacional dos Bispos do Brasil",
+      "Pero Vaz de Caminha, Carta a El-Rei Dom Manuel (1500)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "igreja-brasil:primeira-missa-no-brasil",
+      "slug": "primeira-missa-no-brasil",
+      "titulo": "A Primeira Missa no Brasil",
+      "categoria": "igreja-brasil",
+      "resumo": "Celebração eucarística realizada em 26 de abril de 1500, dias após a chegada da frota de Cabral, considerada o marco inicial do catolicismo no território brasileiro.",
+      "corpo": "Narrada na célebre carta do escrivão Pero Vaz de Caminha ao rei Dom Manuel I, a primeira Missa em solo brasileiro foi celebrada por Frei Henrique de Coimbra em 26 de abril de 1500, na Bahia, dias após a chegada da frota de Pedro Álvares Cabral, na presença de indígenas locais. É tradicionalmente celebrada como o marco fundador da presença católica no território que se tornaria o Brasil.",
+      "tags": [
+        "colonização",
+        "evangelização",
+        "século XVI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Meirelles-primeiramissa2.jpg",
+      "imagem_credito": null,
+      "ordem": 1,
+      "fontes": []
+    },
+    {
+      "id": "igreja-brasil:companhia-de-jesus-no-brasil-colonial",
+      "slug": "companhia-de-jesus-no-brasil-colonial",
+      "titulo": "A Companhia de Jesus no Brasil Colonial",
+      "categoria": "igreja-brasil",
+      "resumo": "Os jesuítas, com destaque para Manuel da Nóbrega e José de Anchieta, organizaram a catequese e a educação na colônia entre os séculos XVI e XVIII.",
+      "corpo": "Chegados ao Brasil já em 1549, junto com o primeiro governador-geral, Tomé de Sousa, os jesuítas — com destaque para Manuel da Nóbrega e José de Anchieta — organizaram um extenso sistema de missões (\"reduções\"), colégios e catequese entre os povos indígenas, tornando-se por dois séculos os principais educadores da colônia, até serem expulsos do Brasil e de todo o império português pelo Marquês de Pombal, em 1759.",
+      "tags": [
+        "jesuítas",
+        "colonização",
+        "catequese indígena"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Benedito_Calixto_de_Jesus_-_Retrato_do_Padre_Jos%C3%A9_de_Anchieta%2C_Acervo_do_Museu_Paulista_da_USP.jpg",
+      "imagem_credito": null,
+      "ordem": 2,
+      "fontes": []
+    },
+    {
+      "id": "igreja-brasil:padroado-real",
+      "slug": "padroado-real",
+      "titulo": "O Padroado Régio",
+      "categoria": "igreja-brasil",
+      "resumo": "Sistema pelo qual a Coroa portuguesa exerceu, por concessão papal, amplo controle administrativo sobre a Igreja no Brasil colonial e imperial.",
+      "corpo": "O \"padroado\" foi um sistema, concedido pelos papas aos reis de Portugal a partir do século XV, que dava à Coroa direitos administrativos extensos sobre a Igreja em seus territórios ultramarinos — indicação de bispos, cobrança e uso do dízimo, autorização prévia para a publicação de documentos papais —, em troca do patrocínio real à evangelização. Perdurou, com adaptações, durante toda a época colonial e o Império, sendo extinto apenas com a proclamação da República, em 1889-1891.",
+      "tags": [
+        "padroado",
+        "Igreja e Estado",
+        "Império"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Meirelles-primeiramissa2.jpg",
+      "imagem_credito": null,
+      "ordem": 3,
+      "fontes": []
+    },
+    {
+      "id": "igreja-brasil:separacao-igreja-estado-brasil",
+      "slug": "separacao-igreja-estado-brasil",
+      "titulo": "A Separação entre Igreja e Estado (1890-1891)",
+      "categoria": "igreja-brasil",
+      "resumo": "O decreto republicano que extinguiu o padroado e instituiu a liberdade religiosa e a laicidade do Estado brasileiro.",
+      "corpo": "Com a proclamação da República em 1889, o governo provisório decretou em 1890 a separação entre a Igreja Católica e o Estado brasileiro, extinguindo o padroado régio e instituindo formalmente a liberdade de culto — princípio consolidado na Constituição de 1891, a primeira republicana. A Igreja perdeu privilégios institucionais, mas ganhou maior autonomia de organização interna em relação ao poder político.",
+      "tags": [
+        "República",
+        "Igreja e Estado",
+        "século XIX"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+      "imagem_credito": "Foto: Artyominc — Wikimedia Commons, CC BY-SA 3.0 de",
+      "ordem": 4,
+      "fontes": []
+    },
+    {
+      "id": "igreja-brasil:cnbb",
+      "slug": "cnbb",
+      "titulo": "CNBB — Conferência Nacional dos Bispos do Brasil",
+      "categoria": "igreja-brasil",
+      "resumo": "Órgão de coordenação pastoral dos bispos católicos brasileiros, uma das primeiras conferências episcopais nacionais do mundo.",
+      "corpo": "Fundada em 1952, sob impulso de Dom Hélder Câmara, entre outros, a CNBB foi uma das primeiras conferências episcopais nacionais do mundo, servindo mais tarde de modelo para a criação de conferências semelhantes em outros países e para a própria instituição do Sínodo dos Bispos após o Concílio Vaticano II. Coordena diretrizes pastorais comuns entre as dioceses brasileiras, sem substituir a autoridade própria de cada bispo diocesano.",
+      "tags": [
+        "CNBB",
+        "hierarquia",
+        "século XX"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Seven_Sacraments_Rogier.jpg",
+      "imagem_credito": null,
+      "ordem": 5,
+      "fontes": []
+    },
+    {
+      "id": "igreja-brasil:teologia-da-libertacao-brasil",
+      "slug": "teologia-da-libertacao-brasil",
+      "titulo": "A Teologia da Libertação no Brasil",
+      "categoria": "igreja-brasil",
+      "resumo": "Corrente teológica latino-americana que enfatizou a \"opção preferencial pelos pobres\" e a leitura da fé a partir da realidade social, com forte presença de teólogos brasileiros.",
+      "corpo": "Surgida na América Latina a partir do final da década de 1960 — o peruano Gustavo Gutiérrez é considerado seu formulador seminal —, a Teologia da Libertação teve expressivos representantes brasileiros, como os frades franciscanos Leonardo e Clodovis Boff, propondo uma leitura da fé cristã centrada na \"opção preferencial pelos pobres\" e na análise das estruturas sociais de injustiça. Recebeu tanto adesão pastoral entusiasta quanto críticas e advertências doutrinais da Santa Sé, sobretudo nas décadas de 1980-1990.",
+      "tags": [
+        "teologia da libertação",
+        "opção pelos pobres",
+        "século XX"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/df/1605_Francken_sieben_Werke_der_Barmherzigkeit_anagoria.JPG",
+      "imagem_credito": null,
+      "ordem": 6,
+      "fontes": []
+    },
+    {
+      "id": "igreja-brasil:santos-e-beatos-brasileiros",
+      "slug": "santos-e-beatos-brasileiros",
+      "titulo": "Santos e Beatos Brasileiros",
+      "categoria": "igreja-brasil",
+      "resumo": "O pequeno mas crescente número de brasileiros canonizados ou beatificados pela Igreja Católica.",
+      "corpo": "Entre os santos e beatos brasileiros reconhecidos pela Igreja estão Frei Galvão (primeiro santo nascido no Brasil, canonizado em 2007), Santa Dulce dos Pobres (a \"Madre Tereza brasileira\", canonizada em 2019, ambos já biografados na categoria Santos deste acervo) e diversos beatos e mártires, refletindo um processo ainda em expansão de reconhecimento oficial de figuras de santidade nascidas ou atuantes em solo brasileiro.",
+      "tags": [
+        "santos brasileiros",
+        "canonização"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Irma-dulce-santa-canonizada.jpg",
+      "imagem_credito": "Foto: Nascimento Azevedo — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 7,
+      "fontes": []
+    },
+    {
+      "id": "igreja-brasil:cristo-redentor-simbolo",
+      "slug": "cristo-redentor-simbolo",
+      "titulo": "O Cristo Redentor como Símbolo Nacional",
+      "categoria": "igreja-brasil",
+      "resumo": "A estátua no Corcovado, inaugurada em 1931, tornou-se um dos símbolos mais reconhecidos do catolicismo brasileiro e do próprio país.",
+      "corpo": "Inaugurada em 1931 no alto do morro do Corcovado, no Rio de Janeiro, a estátua do Cristo Redentor — projeto do engenheiro Heitor da Silva Costa com participação do escultor francês Paul Landowski — tornou-se um dos monumentos mais reconhecidos do catolicismo mundial e um símbolo tanto religioso quanto nacional do Brasil, eleito uma das \"Sete Maravilhas do Mundo Moderno\" em 2007.",
+      "tags": [
+        "Cristo Redentor",
+        "Rio de Janeiro",
+        "século XX"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+      "imagem_credito": "Foto: Artyominc — Wikimedia Commons, CC BY-SA 3.0 de",
+      "ordem": 8,
+      "fontes": []
+    },
+    {
+      "id": "igreja-brasil:celam-medellin",
+      "slug": "celam-medellin",
+      "titulo": "O CELAM e a Conferência de Medellín (1968)",
+      "categoria": "igreja-brasil",
+      "resumo": "O Conselho Episcopal Latino-Americano e sua conferência de 1968, que aplicou o Concílio Vaticano II à realidade social latino-americana, incluindo o Brasil.",
+      "corpo": "Fundado em 1955, o Conselho Episcopal Latino-Americano (CELAM) reúne as conferências episcopais de toda a América Latina, incluindo a CNBB. Sua segunda conferência geral, em Medellín (Colômbia, 1968), aplicou as diretrizes do recém-concluído Concílio Vaticano II à realidade de pobreza e desigualdade estrutural da região, influenciando fortemente a pastoral social e a Teologia da Libertação nas décadas seguintes, também no Brasil.",
+      "tags": [
+        "CELAM",
+        "Medellín",
+        "doutrina social"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/St._Peter%27s_Basilica_Rome_-_20140808_2350.jpg",
+      "imagem_credito": null,
+      "ordem": 9,
+      "fontes": []
+    }
+  ]
+}

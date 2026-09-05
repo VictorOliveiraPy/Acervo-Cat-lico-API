@@ -1,0 +1,173 @@
+{
+  "_meta": {
+    "categoria": "apologetica",
+    "nome": "Apologética",
+    "descricao": "Respostas católicas a objeções clássicas sobre a fé e a prática da Igreja — confissão, imagens, intercessão dos santos, papado e mais.",
+    "status": "exemplos-iniciais",
+    "aviso": "Apresenta a posição católica diante de objeções reais e recorrentes, com respeito às tradições cristãs que divergem em cada ponto — não pretende esgotar debates teológicos e ecumênicos que seguem em aberto entre estudiosos sérios de diferentes tradições.",
+    "revisao_editorial": "Cada entrada procura formular a objeção da forma mais honesta e reconhecível possível antes de responder, evitando construir 'homens de palha'.",
+    "fontes_gerais": [
+      "Catecismo da Igreja Católica"
+    ]
+  },
+  "itens": [
+    {
+      "id": "apologetica:por-que-confessar-a-um-padre",
+      "slug": "por-que-confessar-a-um-padre",
+      "titulo": "Por que confessar os pecados a um padre, e não diretamente a Deus?",
+      "categoria": "apologetica",
+      "resumo": "A Igreja Católica ensina que Cristo confiou aos apóstolos e seus sucessores o ministério concreto de perdoar pecados em seu nome, e não apenas o exercício de uma piedade interior sem mediação visível.",
+      "corpo": "A objeção parte de uma premissa correta — Deus, e só Deus, perdoa pecados — mas conclui algo que a própria Escritura não sustenta isoladamente: que essa mediação deva ser sempre direta e sem intermediário humano visível. Os Evangelhos registram Jesus dizendo aos apóstolos, no dia da Ressurreição: \"Recebei o Espírito Santo. Àqueles a quem perdoardes os pecados, ser-lhes-ão perdoados\" (Jo 20,22-23) — um poder de perdoar concretamente exercido por homens, em nome de Cristo, não apenas uma exortação genérica à conversão interior. A Igreja lê essa passagem como fundamento do sacramento da Reconciliação: o padre não substitui Deus como fonte do perdão, mas atua como sinal visível, historicamente contínuo desde os apóstolos, de uma reconciliação que também tem dimensão eclesial — o pecado fere não só a relação pessoal com Deus, mas a comunhão com a Igreja.",
+      "tags": [
+        "confissão",
+        "sacerdócio"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PL_Wwa%2C_kos_Krzyza%2C_konfesjonal%2C_2023.04.08%2C_fot_Ivonna_Nowicka_corr_3.jpg",
+      "imagem_credito": "Foto: Ivonna Nowicka — Wikimedia Commons, CC BY-SA 4.0",
+      "objecao": "Se Deus perdoa diretamente, por que preciso de um padre no meio?",
+      "fontes": [
+        "Evangelho segundo João 20,22-23",
+        "Catecismo da Igreja Católica, nn. 1441-1442"
+      ]
+    },
+    {
+      "id": "apologetica:por-que-venerar-imagens-de-santos",
+      "slug": "por-que-venerar-imagens-de-santos",
+      "titulo": "A veneração de imagens e santos não seria uma forma de idolatria?",
+      "categoria": "apologetica",
+      "resumo": "A Igreja distingue claramente entre \"adoração\" (devida só a Deus) e \"veneração\" (honra dada aos santos como amigos de Deus), e trata as imagens como recordação visual, não como objetos de culto em si mesmas.",
+      "corpo": "A crítica costuma citar o mandamento contra a idolatria (Ex 20,4-5) como se a Igreja pedisse aos fiéis que adorassem estátuas e pinturas — o que ela própria condena. A distinção teológica é precisa, formulada já no II Concílio de Niceia (787): \"adoração\" (latria), devida exclusivamente a Deus, é radicalmente diferente de \"veneração\" (dulia), a honra dada aos santos como modelos e intercessores, ou da \"hiperdulia\" especial dedicada a Maria. Uma imagem de um santo não recebe culto por si mesma — é apenas um auxílio visual à memória e à devoção, do mesmo modo que uma fotografia de um ente querido falecido não é confundida com a própria pessoa, mas ajuda a lembrá-la e a ela se dirigir com afeto.",
+      "tags": [
+        "veneração",
+        "imagens",
+        "idolatria"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ghent_Altarpiece_-_Adoration_of_the_Mystic_Lamb.jpg",
+      "imagem_credito": null,
+      "objecao": "Rezar diante de uma estátua ou imagem não é o mesmo que idolatria proibida pela Bíblia?",
+      "fontes": [
+        "Êxodo 20,4-5",
+        "II Concílio de Niceia (787)",
+        "Catecismo da Igreja Católica, nn. 2131-2132"
+      ]
+    },
+    {
+      "id": "apologetica:por-que-rezar-pelos-santos-intercessao",
+      "slug": "por-que-rezar-pelos-santos-intercessao",
+      "titulo": "Por que pedir a intercessão de Maria e dos santos, em vez de orar direto a Deus?",
+      "categoria": "apologetica",
+      "resumo": "Pedir a intercessão de um santo é análogo a pedir a oração de um amigo vivo: não substitui a relação direta com Deus, mas se soma a ela dentro da comunhão dos santos.",
+      "corpo": "A prática às vezes é lida como se colocasse Maria e os santos \"no lugar\" de Deus, ou como se sugerisse que Deus precisasse de intermediários para ouvir uma oração. A lógica católica é diferente: pedir a um santo que interceda por nós é estruturalmente igual a pedir a um amigo vivo que reze por nós — ninguém acusa essa segunda prática de substituir a oração pessoal a Deus. A doutrina da \"comunhão dos santos\" (parte do Credo dos Apóstolos) ensina que a morte não rompe os laços de caridade e intercessão mútua entre os membros do Corpo de Cristo — os que já estão na glória de Deus continuam, na fé católica, unidos em oração a quem ainda peregrina nesta vida.",
+      "tags": [
+        "intercessão dos santos",
+        "comunhão dos santos",
+        "Maria"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ghent_Altarpiece_-_Adoration_of_the_Mystic_Lamb.jpg",
+      "imagem_credito": null,
+      "objecao": "Por que não rezar direto a Deus, sem \"intermediários\" como Maria e os santos?",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 946-962 (a comunhão dos santos)"
+      ]
+    },
+    {
+      "id": "apologetica:primado-de-pedro-fundamento-biblico",
+      "slug": "primado-de-pedro-fundamento-biblico",
+      "titulo": "Qual é o fundamento bíblico do primado do Papa?",
+      "categoria": "apologetica",
+      "resumo": "A Igreja Católica funda o primado petrino nas palavras de Jesus a Pedro em Mateus 16,18-19, entendendo-as como instituição de uma autoridade que se transmite historicamente aos sucessores de Pedro como Bispos de Roma.",
+      "corpo": "A objeção mais comum é que o \"primado papal\" seria uma invenção institucional tardia, sem base direta no Novo Testamento. A leitura católica se apoia centralmente em Mateus 16,18-19, quando Jesus diz a Simão: \"Tu és Pedro, e sobre esta pedra edificarei a minha Igreja... Dar-te-ei as chaves do Reino dos Céus\" — linguagem de autoridade e fundação que, na leitura católica, distingue Pedro dos demais apóstolos, ainda que todos recebam também poder de \"ligar e desligar\" (Mt 18,18). A questão histórica mais debatida entre tradições cristãs não é tanto se Pedro teve um papel de destaque (isso é amplamente aceito), mas se esse papel se transmitiu institucionalmente, de modo vinculante, aos bispos de Roma que o sucederam — ponto em que católicos e ortodoxos, por exemplo, divergem quanto ao alcance da autoridade, mesmo reconhecendo ambos uma \"primazia de honra\" à Sé de Roma.",
+      "tags": [
+        "primado de Pedro",
+        "papado",
+        "ecumenismo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Nicolas_Poussin_-_The_Sacrament_of_Ordination_%28Christ_Presenting_the_Keys_to_Saint_Peter%29_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "objecao": "O papado seria uma criação humana posterior, sem respaldo nas palavras de Jesus?",
+      "fontes": [
+        "Mateus 16,18-19",
+        "Mateus 18,18",
+        "Concílio Vaticano I, «Pastor Aeternus» (1870)"
+      ]
+    },
+    {
+      "id": "apologetica:por-que-o-celibato-sacerdotal",
+      "slug": "por-que-o-celibato-sacerdotal",
+      "titulo": "Por que a Igreja latina exige celibato dos padres, se os apóstolos eram casados?",
+      "categoria": "apologetica",
+      "resumo": "O celibato sacerdotal na Igreja latina é uma disciplina eclesiástica, não um dogma de fé, justificada teologicamente pela dedicação integral ao Reino de Deus, e não vigora nas Igrejas orientais católicas nem em todo caso na latina.",
+      "corpo": "É verdade, e a própria Igreja reconhece, que ao menos alguns apóstolos — Pedro, citado nos Evangelhos como tendo sogra (Mc 1,30) — eram casados. A Igreja Católica não afirma que o celibato seja doutrinalmente exigido pela natureza do sacerdócio: é uma disciplina eclesiástica, historicamente consolidada na Igreja latina a partir da Idade Média, justificada teologicamente pela imitação da entrega célibe do próprio Cristo e pela disponibilidade integral ao ministério (1 Cor 7,32-35), mas não vigente do mesmo modo nas Igrejas orientais católicas, que ordenam homens casados ao presbiterado, nem impede exceções pontuais na própria Igreja latina (ex-clérigos anglicanos casados, em certos casos).",
+      "tags": [
+        "celibato",
+        "clero",
+        "disciplina eclesiástica"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Nicolas_Poussin_-_The_Sacrament_of_Ordination_%28Christ_Presenting_the_Keys_to_Saint_Peter%29_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "objecao": "Se Pedro era casado, por que os padres católicos hoje não podem se casar?",
+      "fontes": [
+        "Marcos 1,30",
+        "1 Coríntios 7,32-35",
+        "Código de Direito Canônico (1983), cânone 277"
+      ]
+    },
+    {
+      "id": "apologetica:por-que-purgatorio-nao-esta-na-biblia",
+      "slug": "por-que-purgatorio-nao-esta-na-biblia",
+      "titulo": "O Purgatório tem fundamento bíblico, já que o termo não aparece literalmente nas Escrituras?",
+      "categoria": "apologetica",
+      "resumo": "Embora a palavra \"purgatório\" não apareça na Bíblia, a Igreja identifica na Escritura a ideia de uma purificação após a morte e da eficácia da oração pelos falecidos, especialmente em 2 Macabeus 12,46.",
+      "corpo": "É correto que a palavra \"purgatório\" não ocorre literalmente em nenhum livro bíblico — o termo se consolidou depois, na tradição teológica. Isso, porém, não é diferente de outros termos teológicos centrais e amplamente aceitos entre cristãos, como \"Trindade\" ou \"Encarnação\", que também não aparecem literalmente na Bíblia, mas expressam um conteúdo que a Igreja entende estar presente nela. A base bíblica citada para o Purgatório inclui 2 Macabeus 12,46 (\"É santo e salutar pensamento orar pelos mortos, para que sejam livres de seus pecados\") — texto que católicos aceitam como canônico e a maioria das tradições protestantes não (ver a nota sobre livros deuterocanônicos na categoria Bíblia) — e passagens como 1 Coríntios 3,12-15, sobre uma purificação \"como através do fogo\".",
+      "tags": [
+        "purgatório",
+        "cânon bíblico"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Dor%C3%A9_Dante_Fegefeuer.jpg",
+      "imagem_credito": null,
+      "objecao": "Como a Igreja defende uma doutrina cuja palavra nem aparece na Bíblia?",
+      "fontes": [
+        "2 Macabeus 12,46",
+        "1 Coríntios 3,12-15",
+        "Catecismo da Igreja Católica, nn. 1030-1032"
+      ]
+    },
+    {
+      "id": "apologetica:por-que-tantos-titulos-para-maria",
+      "slug": "por-que-tantos-titulos-para-maria",
+      "titulo": "Por que Maria recebe tantos títulos diferentes (Guadalupe, Fátima, Aparecida...) se é uma só pessoa?",
+      "categoria": "apologetica",
+      "resumo": "Os diferentes títulos marianos não indicam \"marias diferentes\", mas aspectos, aparições ou lugares de devoção distintos referidos à mesma e única Maria, mãe de Jesus.",
+      "corpo": "A multiplicidade de nomes pode sugerir, a quem observa de fora, uma espécie de politeísmo mariano — várias \"Marias\" distintas sendo veneradas. Teologicamente, porém, todos os títulos (Nossa Senhora Aparecida, de Fátima, de Guadalupe, do Carmo etc.) referem-se à mesma e única mãe de Jesus; o título apenas indica o lugar da aparição, um aspecto de sua vida ou virtude particularmente destacado, ou a imagem específica sob a qual uma comunidade a venera — de modo similar a como uma mesma pessoa pode ser chamada de formas diferentes conforme o contexto (mãe, filha, colega), sem deixar de ser uma só.",
+      "tags": [
+        "títulos marianos",
+        "Maria"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Gentile_da_Fabriano_-_Coronation_of_the_Virgin.jpg",
+      "imagem_credito": null,
+      "objecao": "Existem \"várias Marias\" diferentes sendo veneradas pela Igreja?",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 963-975"
+      ]
+    },
+    {
+      "id": "apologetica:por-que-crisma-e-necessaria-se-ja-fui-batizado",
+      "slug": "por-que-crisma-e-necessaria-se-ja-fui-batizado",
+      "titulo": "Se o Batismo já perdoa os pecados e me torna filho de Deus, por que preciso também da Crisma?",
+      "categoria": "apologetica",
+      "resumo": "A Confirmação não repete o Batismo, mas o aperfeiçoa e completa, comunicando uma efusão especial do Espírito Santo distinta e complementar à graça batismal.",
+      "corpo": "Os dois sacramentos têm efeitos distintos e complementares, não redundantes: o Batismo apaga o pecado original e insere a pessoa na vida da graça e na Igreja; a Confirmação, sem repetir esse efeito, comunica um fortalecimento específico do Espírito Santo, comparado pela tradição catequética ao que os apóstolos receberam em Pentecostes — uma capacitação especial para testemunhar e viver a fé com maturidade adulta, e não apenas a condição inicial de filho de Deus recebida no Batismo.",
+      "tags": [
+        "sacramentos",
+        "Batismo",
+        "Confirmação"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
+      "imagem_credito": null,
+      "objecao": "O Batismo já não basta? Para que serve a Crisma além dele?",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1285-1289"
+      ]
+    }
+  ]
+}

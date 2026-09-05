@@ -1,0 +1,214 @@
+{
+  "_meta": {
+    "categoria": "santuarios",
+    "nome": "Santuários e Basílicas",
+    "descricao": "Os principais santuários e basílicas de peregrinação católica no mundo, do Vaticano a Aparecida.",
+    "status": "exemplos-iniciais",
+    "aviso": "Não é uma lista completa dos milhares de santuários católicos existentes; cobre alguns dos mais visitados e historicamente significativos.",
+    "revisao_editorial": null,
+    "fontes_gerais": []
+  },
+  "itens": [
+    {
+      "id": "santuarios:basilica-de-sao-pedro",
+      "slug": "basilica-de-sao-pedro",
+      "titulo": "Basílica de São Pedro",
+      "categoria": "santuarios",
+      "resumo": "A principal igreja da cristandade católica, erguida sobre o túmulo tradicional de São Pedro no Vaticano.",
+      "corpo": "Construída ao longo de mais de um século (1506-1626), substituindo uma basílica constantiniana anterior, a Basílica de São Pedro é a maior igreja do mundo católico e uma das quatro basílicas papais maiores de Roma. Erguida sobre o local tradicional do túmulo de São Pedro, reúne obras de Bramante, Michelangelo (a cúpula e a Pietà) e Bernini (o baldaquino e a colunata da praça). É palco das principais celebrações papais e canonizações.",
+      "tags": [
+        "basílicas de Roma",
+        "Vaticano"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/St._Peter%27s_Basilica_Rome_-_20140808_2350.jpg",
+      "imagem_credito": null,
+      "local": "Cidade do Vaticano",
+      "pais": "Vaticano",
+      "ano": null,
+      "fontes": []
+    },
+    {
+      "id": "santuarios:basilica-de-sao-joao-de-latrao",
+      "slug": "basilica-de-sao-joao-de-latrao",
+      "titulo": "Basílica de São João de Latrão",
+      "categoria": "santuarios",
+      "resumo": "Catedral do Papa como Bispo de Roma, a mais antiga das quatro basílicas papais maiores.",
+      "corpo": "Embora São Pedro seja mais conhecida, a Basílica de São João de Latrão é, tecnicamente, a catedral de Roma — a sé própria do Papa como bispo daquela diocese —, ostentando o título de \"mãe e cabeça de todas as igrejas da cidade e do mundo\". Foi sede dos concílios de Latrão (ver a categoria Concílios) e permaneceu residência papal por quase mil anos antes da mudança para o Vaticano.",
+      "tags": [
+        "basílicas de Roma"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Latran_-_panoramio.jpg",
+      "imagem_credito": "Foto: Jean-François Capdet — Wikimedia Commons, CC BY 3.0",
+      "local": "Roma",
+      "pais": "Itália",
+      "ano": null,
+      "fontes": []
+    },
+    {
+      "id": "santuarios:basilica-de-santa-maria-maior",
+      "slug": "basilica-de-santa-maria-maior",
+      "titulo": "Basílica de Santa Maria Maior",
+      "categoria": "santuarios",
+      "resumo": "A maior basílica dedicada a Maria em Roma, construída após o Concílio de Éfeso (431) que a definiu \"Mãe de Deus\".",
+      "corpo": "Erguida no século V, logo após o Concílio de Éfeso ter definido o dogma da maternidade divina de Maria (\"Theotokos\"), a Basílica de Santa Maria Maior é a maior das muitas igrejas romanas dedicadas a Maria e uma das quatro basílicas papais maiores. Guarda relíquias tradicionalmente associadas à manjedoura de Belém e o ícone mariano \"Salus Populi Romani\".",
+      "tags": [
+        "basílicas de Roma",
+        "Nossa Senhora"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/84/Basilica_di_Santa_Maria_Maggiore_-_Roma.jpg",
+      "imagem_credito": "Foto: NikonZ7II — Wikimedia Commons, CC BY-SA 4.0",
+      "local": "Roma",
+      "pais": "Itália",
+      "ano": "432",
+      "fontes": []
+    },
+    {
+      "id": "santuarios:basilica-de-sao-paulo-fora-dos-muros",
+      "slug": "basilica-de-sao-paulo-fora-dos-muros",
+      "titulo": "Basílica de São Paulo Fora dos Muros",
+      "categoria": "santuarios",
+      "resumo": "Erguida sobre o túmulo tradicional de São Paulo Apóstolo, a quarta das basílicas papais maiores de Roma.",
+      "corpo": "Construída sobre o local onde a tradição situa o túmulo de São Paulo, fora das antigas muralhas de Roma, a basílica foi quase totalmente destruída por um incêndio em 1823 e reconstruída seguindo em grande parte o plano original. É palco de encontros ecumênicos importantes, dada a proximidade simbólica com o apóstolo dos gentios.",
+      "tags": [
+        "basílicas de Roma"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/StPaul.jpg",
+      "imagem_credito": "Wikimedia Commons, CC BY 4.0",
+      "local": "Roma",
+      "pais": "Itália",
+      "ano": null,
+      "fontes": []
+    },
+    {
+      "id": "santuarios:santuario-de-fatima",
+      "slug": "santuario-de-fatima",
+      "titulo": "Santuário de Fátima",
+      "categoria": "santuarios",
+      "resumo": "Um dos maiores santuários marianos do mundo, erguido no local das aparições de 1917 em Portugal.",
+      "corpo": "Construído na Cova da Iria, local das aparições marianas de 1917 relatadas pelos pastorinhos Francisco, Jacinta e Lúcia (ver a categoria Nossa Senhora), o Santuário de Fátima recebe milhões de peregrinos anualmente, sobretudo nos aniversários mensais das aparições (13 de cada mês, de maio a outubro).",
+      "tags": [
+        "santuários marianos",
+        "Fátima"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/First_Sculpture_of_Our_Lady_of_Fatima.jpg",
+      "imagem_credito": null,
+      "local": "Fátima",
+      "pais": "Portugal",
+      "ano": "1917 (aparições); santuário construído nas décadas seguintes",
+      "fontes": []
+    },
+    {
+      "id": "santuarios:santuario-de-guadalupe",
+      "slug": "santuario-de-guadalupe",
+      "titulo": "Basílica de Nossa Senhora de Guadalupe",
+      "categoria": "santuarios",
+      "resumo": "O santuário mariano mais visitado do mundo, erguido no local da aparição a São Juan Diego em 1531.",
+      "corpo": "Construída no Tepeyac, na Cidade do México, a Basílica de Guadalupe guarda a tilma com a imagem que a tradição associa à aparição de 1531 a Juan Diego (ver a categoria Nossa Senhora), e recebe a maior afluência anual de peregrinos entre todos os santuários católicos do mundo, sobretudo em torno de 12 de dezembro.",
+      "tags": [
+        "santuários marianos",
+        "Guadalupe",
+        "México"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Guadalupe_Tilma.gif",
+      "imagem_credito": null,
+      "local": "Cidade do México",
+      "pais": "México",
+      "ano": "1531 (aparição); basílica atual de 1976",
+      "fontes": []
+    },
+    {
+      "id": "santuarios:santuario-de-lourdes",
+      "slug": "santuario-de-lourdes",
+      "titulo": "Santuário de Nossa Senhora de Lourdes",
+      "categoria": "santuarios",
+      "resumo": "Um dos maiores centros de peregrinação e de relatos de cura do mundo católico, no sul da França.",
+      "corpo": "Erguido na gruta de Massabielle, onde Bernadette Soubirous relatou as aparições marianas de 1858 (ver a categoria Nossa Senhora), o Santuário de Lourdes é hoje um complexo com várias basílicas e recebe milhões de peregrinos e doentes por ano, muitos em busca de cura física ou espiritual junto à fonte de água que brotou durante as aparições.",
+      "tags": [
+        "santuários marianos",
+        "Lourdes",
+        "França"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/France-002009_-_Our_Lady_of_Lourdes_%2815774765182%29.jpg",
+      "imagem_credito": "Foto: Dennis G. Jarvis (2014) — Wikimedia Commons, CC BY-SA 2.0",
+      "local": "Lourdes",
+      "pais": "França",
+      "ano": "1858",
+      "fontes": []
+    },
+    {
+      "id": "santuarios:santuario-de-aparecida",
+      "slug": "santuario-de-aparecida",
+      "titulo": "Santuário Nacional de Aparecida",
+      "categoria": "santuarios",
+      "resumo": "O maior santuário mariano do mundo em capacidade de fiéis, padroeira do Brasil.",
+      "corpo": "Erguido no município de Aparecida (SP) em torno da pequena imagem de terracota encontrada por pescadores em 1717 (ver a categoria Nossa Senhora), o Santuário Nacional de Aparecida é hoje a segunda maior basílica católica do mundo em área, atrás apenas de São Pedro no Vaticano, recebendo milhões de peregrinos anualmente, sobretudo em 12 de outubro, feriado nacional brasileiro.",
+      "tags": [
+        "santuários marianos",
+        "Aparecida",
+        "Brasil"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/NS_Aparecida.png",
+      "imagem_credito": null,
+      "local": "Aparecida",
+      "pais": "Brasil",
+      "ano": "1717 (achado da imagem); basílica atual inaugurada em etapas a partir de 1955",
+      "fontes": []
+    },
+    {
+      "id": "santuarios:catedral-de-santiago-de-compostela",
+      "slug": "catedral-de-santiago-de-compostela",
+      "titulo": "Catedral de Santiago de Compostela",
+      "categoria": "santuarios",
+      "resumo": "Destino final do Caminho de Santiago, erguida sobre o túmulo tradicional do apóstolo Tiago Maior.",
+      "corpo": "A Catedral de Santiago de Compostela, na Galícia espanhola, guarda o túmulo tradicionalmente identificado como o de São Tiago Maior, apóstolo. É o destino de um dos itinerários de peregrinação mais antigos e percorridos do cristianismo, o \"Caminho de Santiago\", com rotas que atravessam toda a Europa desde a Idade Média.",
+      "tags": [
+        "peregrinação",
+        "Caminho de Santiago",
+        "Espanha"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Fachada_do_Obradoiro_2011-09-11_174-3%283v%29.jpg",
+      "imagem_credito": "Foto: Stegop — Wikimedia Commons, CC BY-SA 4.0",
+      "local": "Santiago de Compostela",
+      "pais": "Espanha",
+      "ano": null,
+      "fontes": []
+    },
+    {
+      "id": "santuarios:santuario-da-divina-misericordia-cracovia",
+      "slug": "santuario-da-divina-misericordia-cracovia",
+      "titulo": "Santuário da Divina Misericórdia (Cracóvia)",
+      "categoria": "santuarios",
+      "resumo": "Santuário construído junto ao túmulo de Santa Faustina Kowalska, centro mundial da devoção à Divina Misericórdia.",
+      "corpo": "Erguido em Cracóvia-Łagiewniki, na Polônia, junto ao convento onde viveu e morreu Santa Faustina Kowalska, o santuário guarda seu túmulo e a imagem original de \"Jesus, eu confio em Vós\", pintada sob orientação da própria santa (ver a categoria Devoções). Tornou-se centro mundial de peregrinação da devoção à Divina Misericórdia, especialmente após sua difusão por João Paulo II, também polonês.",
+      "tags": [
+        "Divina Misericórdia",
+        "Polônia",
+        "Santa Faustina"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kazimirowski_Eugeniusz%2C_Divine_Mercy%2C_1934.jpg",
+      "imagem_credito": null,
+      "local": "Cracóvia",
+      "pais": "Polônia",
+      "ano": null,
+      "fontes": []
+    },
+    {
+      "id": "santuarios:santuario-de-nossa-senhora-do-carmo-e-basilica-do-rosario-buenos-aires",
+      "slug": "santuario-de-nossa-senhora-do-carmo-e-basilica-do-rosario-buenos-aires",
+      "titulo": "Basílica de Luján",
+      "categoria": "santuarios",
+      "resumo": "Principal santuário mariano da Argentina, padroeira do país e de parte do Cone Sul.",
+      "corpo": "A Basílica de Nossa Senhora de Luján, na Argentina, guarda a pequena imagem de Nossa Senhora da Conceição associada por tradição a um relato do século XVII, tornando-se padroeira nacional da Argentina e um dos maiores destinos de peregrinação mariana da América do Sul.",
+      "tags": [
+        "santuários marianos",
+        "Argentina"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Basilica_de_Nuestra_Senora_de_Lujan.jpg",
+      "imagem_credito": "Foto: Fernando Bonsembiante — Wikimedia Commons, CC BY-SA 4.0",
+      "local": "Luján",
+      "pais": "Argentina",
+      "ano": null,
+      "fontes": []
+    }
+  ]
+}

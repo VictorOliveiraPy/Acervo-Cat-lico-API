@@ -1,0 +1,132 @@
+{
+  "_meta": {
+    "categoria": "novissimos",
+    "nome": "Novíssimos",
+    "descricao": "As \"últimas coisas\": morte, juízo particular, juízo final, céu, inferno e purgatório.",
+    "status": "exemplos-iniciais",
+    "aviso": "Exposição doutrinal introdutória sobre o destino último do homem; para aprofundamento teológico, consulte o Catecismo da Igreja Católica na íntegra.",
+    "revisao_editorial": "Descrições do Céu, Inferno e Purgatório evitam literalismo sobre imagens bíblicas simbólicas (fogo, trevas), seguindo a cautela do próprio Catecismo.",
+    "fontes_gerais": [
+      "Catecismo da Igreja Católica, nn. 1005-1060"
+    ]
+  },
+  "itens": [
+    {
+      "id": "novissimos:morte",
+      "slug": "morte",
+      "titulo": "A Morte",
+      "categoria": "novissimos",
+      "resumo": "Para a fé católica, a morte encerra a vida terrena de peregrinação e decisão livre diante de Deus, sem possibilidade de nova escolha depois dela.",
+      "corpo": "A Igreja ensina que a morte é o fim da existência terrena, o termo do \"único percurso de vida terrena\" em que o homem decide, à luz de Deus, seu destino eterno — sem uma \"reencarnação\" ou nova chance de escolha após ela (Hb 9,27). Encarada à luz da fé, a morte cristã é transformada por Cristo: unida à sua morte e ressurreição, deixa de ser apenas fim biológico para se tornar passagem — daí a Igreja falar do dia da morte de um santo como seu \"dies natalis\", dia de nascimento para o Céu.",
+      "tags": [
+        "novíssimos",
+        "morte",
+        "vida eterna"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Philips_Gjsels_-_Memento_Mori_with_a_skull_and_crossbones.jpg",
+      "imagem_credito": null,
+      "ordem": 1,
+      "fontes": [
+        "Hebreus 9,27",
+        "Catecismo da Igreja Católica, nn. 1005-1014"
+      ]
+    },
+    {
+      "id": "novissimos:juizo-particular",
+      "slug": "juizo-particular",
+      "titulo": "O Juízo Particular",
+      "categoria": "novissimos",
+      "resumo": "Julgamento imediato de cada alma no momento da morte, que decide sua sorte eterna antes mesmo da ressurreição final.",
+      "corpo": "Segundo a doutrina católica, cada pessoa é submetida, imediatamente após a morte, a um juízo particular diante de Cristo, no qual sua alma recebe a retribuição eterna correspondente à fé e às obras de sua vida — a entrada imediata na bem-aventurança do Céu (talvez após purificação no Purgatório) ou a condenação eterna. Distingue-se do Juízo Final, que ocorrerá no fim dos tempos e envolverá também a ressurreição dos corpos.",
+      "tags": [
+        "novíssimos",
+        "juízo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Last_Judgement_%28Michelangelo%29.jpg",
+      "imagem_credito": null,
+      "ordem": 2,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1021-1022"
+      ]
+    },
+    {
+      "id": "novissimos:juizo-final",
+      "slug": "juizo-final",
+      "titulo": "O Juízo Final",
+      "categoria": "novissimos",
+      "resumo": "Julgamento universal e definitivo de toda a humanidade, no fim dos tempos, coincidindo com a ressurreição dos mortos e a segunda vinda de Cristo.",
+      "corpo": "Diferente do juízo particular de cada alma, o Juízo Final é o julgamento universal de toda a história humana, que ocorrerá na segunda vinda gloriosa de Cristo (a \"Parusia\"), quando os mortos ressuscitarão em seus corpos e cada pessoa verá manifestada publicamente a verdade de sua relação com Deus. A célebre cena de Mateus 25,31-46 — as ovelhas e os cabritos, o critério das obras de misericórdia — é a mais citada descrição bíblica desse julgamento.",
+      "tags": [
+        "novíssimos",
+        "juízo",
+        "ressurreição"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Last_Judgement_%28Michelangelo%29.jpg",
+      "imagem_credito": null,
+      "ordem": 3,
+      "fontes": [
+        "Mateus 25,31-46",
+        "Catecismo da Igreja Católica, nn. 1038-1041"
+      ]
+    },
+    {
+      "id": "novissimos:ceu",
+      "slug": "ceu",
+      "titulo": "O Céu",
+      "categoria": "novissimos",
+      "resumo": "A comunhão de vida e amor plena e definitiva com a Santíssima Trindade, com Maria, os anjos e todos os santos — a felicidade suprema e o fim último do homem.",
+      "corpo": "O Céu não é descrito pela doutrina católica como um lugar físico no sentido comum, mas como o estado supremo e definitivo de felicidade: a comunhão de vida e de amor com a Trindade, com a Virgem Maria, os anjos e todos os bem-aventurados — a \"visão beatífica\", ver a Deus \"face a face\" (1 Cor 13,12), que ultrapassa toda capacidade de compreensão ou imaginação humana nesta vida.",
+      "tags": [
+        "novíssimos",
+        "céu",
+        "vida eterna"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ghent_Altarpiece_-_Adoration_of_the_Mystic_Lamb.jpg",
+      "imagem_credito": null,
+      "ordem": 4,
+      "fontes": [
+        "1 Coríntios 13,12",
+        "Catecismo da Igreja Católica, nn. 1023-1029"
+      ]
+    },
+    {
+      "id": "novissimos:inferno",
+      "slug": "inferno",
+      "titulo": "O Inferno",
+      "categoria": "novissimos",
+      "resumo": "Estado de autoexclusão definitiva e livre da comunhão com Deus, consequência de morrer em pecado mortal não arrependido.",
+      "corpo": "A Igreja ensina a existência do inferno e sua eternidade não como uma imposição arbitrária de Deus, mas como consequência da própria rejeição livre e definitiva, por parte da criatura, da comunhão com Deus — \"morrer em pecado mortal sem arrepender-se\" (Catecismo, n. 1033). É descrito nas Escrituras com imagens simbólicas (\"fogo eterno\", \"trevas exteriores\") que expressam a gravidade dessa separação definitiva, mais do que descrições literais de sua natureza física.",
+      "tags": [
+        "novíssimos",
+        "inferno",
+        "pecado mortal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/17/Hieronymus_Bosch_-_The_Garden_of_Earthly_Delights_-_Hell.jpg",
+      "imagem_credito": null,
+      "ordem": 5,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1033-1037"
+      ]
+    },
+    {
+      "id": "novissimos:purgatorio",
+      "slug": "purgatorio",
+      "titulo": "O Purgatório",
+      "categoria": "novissimos",
+      "resumo": "Estado de purificação final para as almas que morrem em graça de Deus, mas ainda imperfeitamente purificadas, antes de entrar na plena visão de Deus.",
+      "corpo": "O Purgatório não é, na doutrina católica, um \"segundo inferno\" nem uma segunda chance de conversão: é o estado — não necessariamente um lugar no sentido espacial — de purificação final das almas que morrem em amizade com Deus (destinadas com certeza ao Céu), mas ainda carregam consequências de pecados já perdoados quanto à culpa. A Igreja recomenda o sufrágio pelos falecidos (orações, esmolas, indulgências) como ajuda concreta a essas almas, com base bíblica citada, entre outras passagens, em 2 Macabeus 12,46.",
+      "tags": [
+        "novíssimos",
+        "purgatório",
+        "sufrágio pelos mortos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Dor%C3%A9_Dante_Fegefeuer.jpg",
+      "imagem_credito": null,
+      "ordem": 6,
+      "fontes": [
+        "2 Macabeus 12,46",
+        "Catecismo da Igreja Católica, nn. 1030-1032"
+      ]
+    }
+  ]
+}

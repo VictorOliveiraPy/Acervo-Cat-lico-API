@@ -1,0 +1,281 @@
+{
+  "_meta": {
+    "categoria": "ordens-religiosas",
+    "nome": "Ordens Religiosas",
+    "descricao": "Ordens, congregações e institutos de vida consagrada católicos: fundador, origem e carisma de cada um.",
+    "status": "exemplos-iniciais",
+    "aviso": "Não é uma lista completa das milhares de ordens e congregações católicas existentes; cobre algumas das mais numerosas e historicamente influentes.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Catecismo da Igreja Católica, nn. 914-933 (vida consagrada)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "ordens-religiosas:beneditinos",
+      "slug": "beneditinos",
+      "titulo": "Beneditinos (Ordem de São Bento)",
+      "categoria": "ordens-religiosas",
+      "resumo": "A mais antiga ordem monástica do Ocidente, regida pela Regra de São Bento e pelo lema \"ora et labora\".",
+      "corpo": "Fundada por São Bento de Núrsia em Monte Cassino, a Ordem de São Bento organiza a vida monástica em torno do equilíbrio entre a oração litúrgica (o \"Ofício Divino\"), o trabalho manual e intelectual, e a leitura espiritual (\"lectio divina\"). Cada mosteiro beneditino é autônomo, unido às demais casas por uma confederação, não por um governo central único como em ordens posteriores. Foi decisiva na preservação da cultura clássica e cristã durante a Alta Idade Média.",
+      "tags": [
+        "monaquismo",
+        "beneditinos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Fra_Angelico_031.jpg",
+      "imagem_credito": null,
+      "fundador": "São Bento de Núrsia",
+      "ano_fundacao": "c. 529",
+      "carisma": "Vida monástica contemplativa em comunidade estável, equilíbrio entre oração e trabalho",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:franciscanos",
+      "slug": "franciscanos",
+      "titulo": "Franciscanos (Ordem dos Frades Menores)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Ordem mendicante fundada por São Francisco de Assis, marcada pela pobreza radical e pelo amor à criação.",
+      "corpo": "Fundada por Francisco de Assis no início do século XIII e aprovada por Inocêncio III, a Ordem dos Frades Menores propõe a pobreza evangélica radical — nem posse individual nem comunitária de bens — e a itinerância na pregação, vivendo da mendicância e do trabalho. Hoje se divide em três ramos principais (Frades Menores, Capuchinhos e Conventuais), além da Ordem de Santa Clara (feminina) e da Ordem Terceira para leigos.",
+      "tags": [
+        "franciscanos",
+        "mendicantes"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bonaventura_Berlinghieri%2C_San_Francesco_e_storie_della_sua_vita%2C_1235%2C_01b.jpg",
+      "imagem_credito": "Foto: Sailko (2018) — Wikimedia Commons, CC BY-SA 4.0",
+      "fundador": "São Francisco de Assis",
+      "ano_fundacao": "1209",
+      "carisma": "Pobreza evangélica radical, fraternidade e amor à criação",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:dominicanos",
+      "slug": "dominicanos",
+      "titulo": "Dominicanos (Ordem dos Pregadores)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Ordem mendicante fundada por São Domingos de Gusmão, dedicada especialmente ao estudo e à pregação da verdade.",
+      "corpo": "Fundada por Domingos de Gusmão para responder, pela pregação itinerante e pelo estudo teológico rigoroso, ao avanço de heresias no sul da França, a Ordem dos Pregadores tornou-se um dos maiores centros intelectuais da Igreja medieval — Santo Tomás de Aquino e Alberto Magno foram dominicanos. Seu lema, \"contemplare et contemplata aliis tradere\" (contemplar e transmitir aos outros o fruto da contemplação), resume seu carisma.",
+      "tags": [
+        "dominicanos",
+        "mendicantes"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/38/SaintDominic.jpg",
+      "imagem_credito": null,
+      "fundador": "São Domingos de Gusmão",
+      "ano_fundacao": "1216",
+      "carisma": "Estudo, contemplação e pregação da verdade",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:jesuitas",
+      "slug": "jesuitas",
+      "titulo": "Jesuítas (Companhia de Jesus)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Ordem fundada por Santo Inácio de Loyola, marcada pela obediência ao Papa, pela formação intelectual e pela missão.",
+      "corpo": "Fundada por Inácio de Loyola e companheiros, aprovada por Paulo III em 1540, a Companhia de Jesus acrescenta aos votos religiosos tradicionais um quarto voto de obediência especial ao Papa quanto às missões. Teve papel decisivo na Contrarreforma, na educação (fundando colégios por toda a Europa e no mundo colonial) e nas missões — incluindo o Brasil, com José de Anchieta e Manuel da Nóbrega. Foi suprimida em 1773 e restaurada em 1814.",
+      "tags": [
+        "jesuítas",
+        "missões",
+        "educação"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/15/St_Ignatius_of_Loyola_%281491-1556%29_Founder_of_the_Jesuits.jpg",
+      "imagem_credito": null,
+      "fundador": "Santo Inácio de Loyola",
+      "ano_fundacao": "1540",
+      "carisma": "Obediência ao Papa, discernimento espiritual (Exercícios Espirituais) e missão",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:carmelitas",
+      "slug": "carmelitas",
+      "titulo": "Carmelitas",
+      "categoria": "ordens-religiosas",
+      "resumo": "Ordem de origem eremítica no Monte Carmelo, reformada no século XVI por Santa Teresa de Ávila e São João da Cruz.",
+      "corpo": "De origem eremítica ligada ao Monte Carmelo, na Terra Santa, a Ordem do Carmo organizou-se na Europa a partir do século XIII. No século XVI, Teresa de Ávila e João da Cruz promoveram uma reforma que deu origem ao ramo dos \"descalços\", de vida mais austera e contemplativa, ao lado dos \"carmelitas da antiga observância\". É a ordem de origem de Santa Teresinha de Lisieux e de Santa Teresa Benedita da Cruz (Edith Stein).",
+      "tags": [
+        "carmelitas",
+        "mística"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Zurbar%C3%A1n_%28atribuido%29-John_of_the_Cross-1656.jpg",
+      "imagem_credito": null,
+      "fundador": "Origem eremítica; reforma por Santa Teresa de Ávila e São João da Cruz",
+      "ano_fundacao": "c. século XII (origem); 1562 (reforma teresiana)",
+      "carisma": "Vida contemplativa, oração mental e devoção mariana",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:redentoristas",
+      "slug": "redentoristas",
+      "titulo": "Redentoristas (Congregação do Santíssimo Redentor)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Congregação fundada por Santo Afonso Maria de Ligório, dedicada à evangelização dos mais abandonados, sobretudo no meio rural.",
+      "corpo": "Fundada por Afonso Maria de Ligório no Reino de Nápoles, dedicou-se desde o início à evangelização popular dos mais pobres e abandonados espiritualmente, especialmente em áreas rurais carentes de assistência pastoral regular. É também responsável, desde 1866, pela custódia e difusão da devoção a Nossa Senhora do Perpétuo Socorro.",
+      "tags": [
+        "redentoristas",
+        "missões populares"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/St_Alphonsus_Liguori.jpg",
+      "imagem_credito": null,
+      "fundador": "Santo Afonso Maria de Ligório",
+      "ano_fundacao": "1732",
+      "carisma": "Evangelização dos mais abandonados, especialmente no meio popular e rural",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:salesianos",
+      "slug": "salesianos",
+      "titulo": "Salesianos (Sociedade de São Francisco de Sales)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Congregação fundada por São João Bosco, dedicada à educação e evangelização de jovens, sobretudo os mais pobres.",
+      "corpo": "Fundada por João Bosco em Turim para atender jovens pobres e em risco social da revolução industrial, a congregação salesiana desenvolveu um método educativo próprio — o \"sistema preventivo\", baseado em razão, religião e amabilidade, em vez de repressão — hoje aplicado em escolas, oratórios e obras sociais salesianas em todo o mundo, incluindo extensa presença no Brasil.",
+      "tags": [
+        "salesianos",
+        "educação",
+        "juventude"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Don_Bosco_%40_Torino%2C_1880_%28original%29.jpg",
+      "imagem_credito": null,
+      "fundador": "São João Bosco",
+      "ano_fundacao": "1859",
+      "carisma": "Educação e evangelização de jovens, sobretudo os mais pobres",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:missionarias-da-caridade",
+      "slug": "missionarias-da-caridade",
+      "titulo": "Missionárias da Caridade",
+      "categoria": "ordens-religiosas",
+      "resumo": "Congregação fundada por Santa Teresa de Calcutá, dedicada ao cuidado dos \"mais pobres entre os pobres\".",
+      "corpo": "Fundada por Madre Teresa de Calcutá para servir \"os mais pobres entre os pobres\" — moribundos abandonados, doentes de hanseníase, órfãos —, a congregação acrescenta aos três votos religiosos tradicionais um quarto voto de serviço gratuito e integral aos mais pobres. Expandiu-se de Calcutá para centenas de casas em todo o mundo.",
+      "tags": [
+        "Missionárias da Caridade",
+        "caridade",
+        "pobres"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Mother_Teresa_1.jpg",
+      "imagem_credito": "Foto: Kingkongphoto & www.celebrity-photos.com — Wikimedia Commons, CC BY-SA 2.0",
+      "fundador": "Santa Teresa de Calcutá",
+      "ano_fundacao": "1950",
+      "carisma": "Serviço gratuito e integral aos mais pobres entre os pobres",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:agostinianos",
+      "slug": "agostinianos",
+      "titulo": "Agostinianos (Ordem de Santo Agostinho)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Ordem mendicante que segue a Regra atribuída a Santo Agostinho, unindo vida comunitária, estudo e apostolado.",
+      "corpo": "Formada no século XIII pela reunião de vários grupos eremíticos sob a Regra atribuída a Santo Agostinho de Hipona, a Ordem de Santo Agostinho combina vida comunitária fraterna, estudo e diversas formas de apostolado. Martinho Lutero foi frade agostiniano antes da ruptura da Reforma; mais recentemente, o Papa Leão XIV pertence a esta ordem.",
+      "tags": [
+        "agostinianos",
+        "mendicantes"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg",
+      "imagem_credito": null,
+      "fundador": "Reunião de grupos eremíticos sob a Regra de Santo Agostinho",
+      "ano_fundacao": "1244",
+      "carisma": "Vida comunitária fraterna, estudo e apostolado diversificado",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:clarissas",
+      "slug": "clarissas",
+      "titulo": "Clarissas (Ordem de Santa Clara)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Ramo feminino contemplativo da tradição franciscana, fundado por Santa Clara de Assis.",
+      "corpo": "Fundada por Clara de Assis, discípula de Francisco, como o ramo feminino contemplativo da tradição franciscana, dedicada à vida de clausura, pobreza radical e oração. Clara resistiu por décadas a pressões para que a ordem aceitasse rendas e propriedades, defendendo o \"privilégio da pobreza\" como identidade central de seu carisma.",
+      "tags": [
+        "clarissas",
+        "franciscanos",
+        "vida contemplativa"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Simone_Martini_047.jpg",
+      "imagem_credito": null,
+      "fundador": "Santa Clara de Assis",
+      "ano_fundacao": "1212",
+      "carisma": "Pobreza radical e vida contemplativa de clausura",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:combonianos",
+      "slug": "combonianos",
+      "titulo": "Combonianos (Missionários Combonianos do Coração de Jesus)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Instituto missionário fundado por São Daniele Comboni, dedicado à evangelização da África.",
+      "corpo": "Fundado pelo bispo missionário Daniele Comboni, dedica-se desde a origem à evangelização do continente africano, com ênfase, já no projeto original de Comboni, na formação de um clero e de religiosos nativos africanos, e no combate ao tráfico de escravos.",
+      "tags": [
+        "combonianos",
+        "missões",
+        "África"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Daniele_Comboni.jpg",
+      "imagem_credito": null,
+      "fundador": "São Daniele Comboni",
+      "ano_fundacao": "1867",
+      "carisma": "Evangelização da África com clero e religiosos nativos",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:opus-dei",
+      "slug": "opus-dei",
+      "titulo": "Opus Dei",
+      "categoria": "ordens-religiosas",
+      "resumo": "Prelazia pessoal fundada por São Josemaría Escrivá, que propõe a busca da santidade no meio do trabalho e da vida ordinária secular.",
+      "corpo": "Fundada pelo sacerdote espanhol Josemaría Escrivá, o Opus Dei (\"obra de Deus\") não é uma ordem religiosa, mas uma prelazia pessoal — estrutura jurídica própria dentro da Igreja —, composta majoritariamente por leigos, que propõe a santificação do trabalho profissional e das ocupações comuns da vida secular como caminho ordinário de santidade, sem exigir a vida religiosa clássica.",
+      "tags": [
+        "Opus Dei",
+        "leigos",
+        "santificação do trabalho"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Josemaria_Escriva.jpg",
+      "imagem_credito": "Foto: Oficina de Información de la Prelatura del Opus Dei en España — Wikimedia Commons, CC BY-SA 2.0",
+      "fundador": "São Josemaría Escrivá",
+      "ano_fundacao": "1928",
+      "carisma": "Santificação do trabalho e da vida ordinária secular",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:irmas-de-madre-teresa",
+      "slug": "irmas-de-madre-teresa",
+      "titulo": "Servos de Maria (Servitas)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Ordem mendicante fundada por sete leigos florentinos, com devoção especial a Nossa Senhora das Dores.",
+      "corpo": "Fundada por sete comerciantes de Florença que se retiraram em vida eremítica dedicada a Maria, a Ordem dos Servos de Maria (servitas) desenvolveu devoção especial às dores da Virgem aos pés da cruz, e se dedica, como as demais ordens mendicantes, a uma combinação de vida comunitária de oração e apostolado ativo.",
+      "tags": [
+        "servitas",
+        "Nossa Senhora das Dores"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Getaria_-_Iglesia_del_Salvador_26.jpg",
+      "imagem_credito": null,
+      "fundador": "Sete Fundadores de Florença",
+      "ano_fundacao": "1233",
+      "carisma": "Devoção às dores de Nossa Senhora e vida comunitária apostólica",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 925-927 (vida consagrada)"
+      ]
+    }
+  ]
+}
