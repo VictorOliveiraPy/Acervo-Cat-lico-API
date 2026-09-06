@@ -29,6 +29,12 @@ class TipoVela(str, Enum):
     SAO_JOSE = "sao_jose"
     ESPIRITO_SANTO = "espirito_santo"
     SAO_JUDAS_TADEU = "sao_judas_tadeu"
+    CARLO_ACUTIS = "carlo_acutis"
+    SANTO_AGOSTINHO = "santo_agostinho"
+    SAO_BENTO = "sao_bento"
+    SANTA_TEREZINHA = "santa_terezinha"
+    SANTO_ANTONIO = "santo_antonio"
+    SAO_JOAO_BATISTA = "sao_joao_batista"
 
 
 _EMAIL_RE = re.compile(r"^[^@\s]+@[^@\s]+\.[^@\s]+$")
