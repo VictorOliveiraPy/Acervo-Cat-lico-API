@@ -89,6 +89,58 @@ def test_should_create_and_list_vela_when_repository_is_configured(
     assert body["itens"][0]["nome"] == "Maria"
 
 
+def test_should_accept_and_expose_city_and_state(client: TestClient) -> None:
+    # Given
+    client.app.state.velas_repository = InMemoryVelasRepository()
+
+    # When
+    response = client.post(
+        "/api/velas",
+        json={"nome": "Ana", "tipo": "aparecida", "cidade": "Aparecida", "estado": "SP"},
+    )
+
+    # Then
+    assert response.status_code == 201
+    body = response.json()
+    assert body["cidade"] == "Aparecida"
+    assert body["estado"] == "SP"
+
+
+def test_should_accept_valid_email_but_never_return_it(client: TestClient) -> None:
+    # Given
+    client.app.state.velas_repository = InMemoryVelasRepository()
+
+    # When
+    response = client.post(
+        "/api/velas",
+        json={"nome": "Carlos", "tipo": "sao_jose", "email": "carlos@example.com"},
+    )
+
+    # Then
+    assert response.status_code == 201
+    assert "email" not in response.json()
+
+    # When
+    list_response = client.get("/api/velas")
+
+    # Then
+    assert "email" not in list_response.json()["itens"][0]
+
+
+def test_should_reject_malformed_email(client: TestClient) -> None:
+    # Given
+    client.app.state.velas_repository = InMemoryVelasRepository()
+
+    # When
+    response = client.post(
+        "/api/velas",
+        json={"nome": "Beatriz", "tipo": "jesus", "email": "nao-e-email"},
+    )
+
+    # Then
+    assert response.status_code == 422
+
+
 def test_should_accept_creation_without_intention(client: TestClient) -> None:
     # Given
     client.app.state.velas_repository = InMemoryVelasRepository()

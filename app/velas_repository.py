@@ -82,7 +82,9 @@ class PostgresVelasRepository(VelasRepository):
 
     @staticmethod
     async def create_schema(pool: AsyncPool) -> None:
-        """Cria a tabela se não existir — sem migração, é uma tabela só."""
+        """Cria a tabela se não existir, e adiciona colunas novas nela se já
+        existir — `ADD COLUMN IF NOT EXISTS` é seguro de rodar toda subida,
+        inclusive num banco com velas reais já gravadas (não trunca nada)."""
         await pool.execute(
             """
             CREATE TABLE IF NOT EXISTS velas (
@@ -94,19 +96,27 @@ class PostgresVelasRepository(VelasRepository):
             );
             CREATE INDEX IF NOT EXISTS idx_velas_criado_em
                 ON velas (criado_em DESC);
+            ALTER TABLE velas ADD COLUMN IF NOT EXISTS cidade TEXT;
+            ALTER TABLE velas ADD COLUMN IF NOT EXISTS estado TEXT;
+            ALTER TABLE velas ADD COLUMN IF NOT EXISTS email TEXT;
             """
         )
 
     async def create(self, payload: VelaCreate) -> Vela:
+        # `email` é gravado mas fica fora do RETURNING de propósito: nunca
+        # deve voltar como um `Vela` (contato privado, não campo público).
         row = await self._pool.fetchrow(
             """
-            INSERT INTO velas (nome, intencao, tipo)
-            VALUES ($1, $2, $3)
-            RETURNING id, nome, intencao, tipo, criado_em
+            INSERT INTO velas (nome, intencao, tipo, cidade, estado, email)
+            VALUES ($1, $2, $3, $4, $5, $6)
+            RETURNING id, nome, intencao, tipo, cidade, estado, criado_em
             """,
             payload.nome,
             payload.intencao,
             payload.tipo.value,
+            payload.cidade,
+            payload.estado,
+            payload.email,
         )
         assert row is not None  # noqa: S101 — INSERT ... RETURNING sempre devolve 1 linha
         return Vela(**dict(row))
@@ -115,7 +125,7 @@ class PostgresVelasRepository(VelasRepository):
         total = await self._pool.fetchval("SELECT count(*) FROM velas")
         rows = await self._pool.fetch(
             """
-            SELECT id, nome, intencao, tipo, criado_em
+            SELECT id, nome, intencao, tipo, cidade, estado, criado_em
             FROM velas
             ORDER BY criado_em DESC
             LIMIT $1 OFFSET $2
@@ -140,6 +150,8 @@ class InMemoryVelasRepository(VelasRepository):
             nome=payload.nome,
             intencao=payload.intencao,
             tipo=payload.tipo,
+            cidade=payload.cidade,
+            estado=payload.estado,
             criado_em=datetime.now(UTC),
         )
         self._itens.insert(0, vela)
