@@ -25,3 +25,8 @@ services:
         # Preencha DEPOIS de saber a URL do frontend no Vercel — ver
         # DEPLOY.md, "Ordem de deploy".
         sync: false
+      - key: DATABASE_URL
+        # Opcional — string de conexão Postgres do mural de velas (ex.:
+        # Neon). Sem ela, a API sobe normalmente e só /api/velas responde
+        # 503. Ver DEPLOY.md, "Mural de velas".
+        sync: false

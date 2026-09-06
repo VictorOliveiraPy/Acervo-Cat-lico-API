@@ -95,6 +95,27 @@ Com o domínio de produção do frontend em mãos:
    navegação/busca carrega dado de verdade (não erro de rede/CORS no
    console do navegador).
 
+## Mural de velas (opcional)
+
+O único recurso de escrita da API (`/api/velas`) guarda dado num Postgres à
+parte — o Render free tem disco efêmero (apaga a cada deploy e às vezes ao
+"acordar" de inatividade), então um SQLite local perderia o mural sozinho.
+
+1. Crie uma conta grátis em [neon.tech](https://neon.tech) e um projeto novo
+   (qualquer nome).
+2. No painel do projeto, copie a **connection string** da branch padrão —
+   algo como `postgresql://usuario:senha@ep-xxxx.aws.neon.tech/neondb?sslmode=require`.
+3. No Render, Settings → Environment do serviço, adicione `DATABASE_URL`
+   com essa string.
+4. Redeploy (o Render faz sozinho ao salvar a env var). O lifespan cria a
+   tabela `velas` sozinho na primeira subida (`CREATE TABLE IF NOT EXISTS`).
+5. Confirme: `curl <backend>/api/velas` deve responder `200` com
+   `{"total":0,...}` — antes de configurar `DATABASE_URL`, o mesmo endpoint
+   responde `503`.
+
+Sem `DATABASE_URL`, a API sobe normalmente e o resto do acervo funciona —
+só `/api/velas` fica em 503 até a variável existir.
+
 ## Checklist antes de considerar o deploy "pronto"
 
 - [ ] `curl <backend>/api/health` responde 200 com o total de entradas

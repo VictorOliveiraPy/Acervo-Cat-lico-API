@@ -46,6 +46,8 @@ mypy app                   # tipagem
 | GET | `/api/search?q=&categoria=&limit=` | Busca textual (mín. 2 caracteres) |
 | GET | `/api/{categoria}?limit=&offset=` | Listagem paginada de uma categoria |
 | GET | `/api/{categoria}/{slug}` | Detalhe de uma entrada |
+| GET | `/api/velas?limit=&offset=` | Mural de velas acesas (mais recentes primeiro) |
+| POST | `/api/velas` | Acende uma vela (`nome`, `intencao?`, `tipo`) — única rota de escrita |
 
 ### Exemplos
 
@@ -81,8 +83,9 @@ o `code` **não** muda sem aviso):
 ```
 
 Códigos usados: `CATEGORY_NOT_FOUND` (404), `ENTRY_NOT_FOUND` (404),
-`INTERNAL_ERROR` (500). Erro de parâmetro (ex.: `q` com 1 caractere) usa o
-`422` padrão do FastAPI.
+`VELAS_INDISPONIVEL` (503, sem `DATABASE_URL` configurada),
+`RATE_LIMITED` (429, uma vela por IP a cada ~20s), `INTERNAL_ERROR` (500).
+Erro de parâmetro (ex.: `q` com 1 caractere) usa o `422` padrão do FastAPI.
 
 ---
 
@@ -91,16 +94,20 @@ Códigos usados: `CATEGORY_NOT_FOUND` (404), `ENTRY_NOT_FOUND` (404),
 ```
 .
 ├── app/
-│   ├── config.py       # Settings (pydantic-settings), CORS, limites de página
-│   ├── exceptions.py   # exceções de domínio + handlers HTTP
-│   ├── models.py       # Pydantic v2: ContentEntry + 11 subclasses, união discriminada
-│   ├── repository.py   # carga/validação no startup, listagem, detalhe e busca
-│   ├── routers.py      # rotas finas /api/*
-│   ├── main.py         # app, lifespan, CORS, handlers
-│   └── data/*.json     # conteúdo curado, um arquivo por categoria
+│   ├── config.py          # Settings (pydantic-settings), CORS, limites de página
+│   ├── exceptions.py      # exceções de domínio + handlers HTTP
+│   ├── models.py          # Pydantic v2: ContentEntry + subclasses, união discriminada
+│   ├── repository.py      # carga/validação no startup, listagem, detalhe e busca
+│   ├── routers.py         # rotas finas /api/* do acervo (somente leitura)
+│   ├── velas_models.py    # Pydantic do mural de velas (a única escrita da API)
+│   ├── velas_repository.py# Postgres (produção) e in-memory (testes), mesma interface
+│   ├── velas_router.py    # rotas /api/velas (GET público, POST com rate limit)
+│   ├── main.py            # app, lifespan (acervo + pool do mural), CORS, handlers
+│   └── data/*.json        # conteúdo curado, um arquivo por categoria
 └── tests/
     ├── test_repository.py  # unitários (sem HTTP)
-    └── test_routers.py     # integração via TestClient
+    ├── test_routers.py     # integração via TestClient (acervo)
+    └── test_velas.py       # integração do mural (repositório em memória)
 ```
 
 > Este repositório é o irmão de
@@ -110,10 +117,14 @@ Códigos usados: `CATEGORY_NOT_FOUND` (404), `ENTRY_NOT_FOUND` (404),
 
 ### Decisões que valem explicação
 
-- **Sem banco de dados.** O acervo é pequeno e somente-leitura: os 11 JSONs são
-  carregados e **validados** no `lifespan`. JSON malformado, campo desconhecido
-  (`extra="forbid"`) ou slug duplicado levantam `DataIntegrityError` e a
-  aplicação **não sobe** — melhor falhar no boot que responder 500 em produção.
+- **Acervo sem banco de dados; mural de velas com um, à parte.** O acervo é
+  somente-leitura: os JSONs são carregados e **validados** no `lifespan`. JSON
+  malformado, campo desconhecido (`extra="forbid"`) ou slug duplicado
+  levantam `DataIntegrityError` e a aplicação **não sobe** — melhor falhar no
+  boot que responder 500 em produção. Já o mural de velas (`/api/velas`) é a
+  única escrita persistida da API, e por isso guarda em Postgres (`DATABASE_URL`,
+  opcional — ver `DEPLOY.md`, "Mural de velas"); sem essa variável, o acervo
+  sobe normalmente e só `/api/velas` responde `503`.
 - **União discriminada por `categoria`.** Cada subclasse fixa
   `categoria: Literal[...]`, então o detalhe de um papa serializa
   `numero_ordem` e o de um santo serializa `festa`/`patronato`, sem campo
@@ -178,3 +189,4 @@ Todas as variáveis são opcionais em desenvolvimento (há defaults em
 | `DATA_DIR` | `app/data` | Diretório alternativo de conteúdo |
 | `DEFAULT_PAGE_SIZE` / `MAX_PAGE_SIZE` | `20` / `100` | Paginação |
 | `MAX_SEARCH_RESULTS` | `50` | Teto de resultados da busca |
+| `DATABASE_URL` | *(nenhum)* | Postgres do mural de velas — sem ela, `/api/velas` responde `503` e o resto da API funciona normalmente |

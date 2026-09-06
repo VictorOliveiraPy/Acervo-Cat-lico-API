@@ -36,6 +36,12 @@ class Settings(BaseSettings):
     # Permite apontar para outro diretório de conteúdo (usado em testes).
     data_dir: Path | None = None
 
+    # String de conexão Postgres para o mural de velas (feature opcional):
+    # sem ela, os endpoints de /api/velas respondem 503 em vez de derrubar
+    # a API inteira — o acervo de leitura não pode depender de um banco à
+    # parte. Formato: postgresql://usuario:senha@host/banco?sslmode=require
+    database_url: str | None = None
+
     # Teto de itens por página, para uma requisição não puxar o acervo inteiro.
     max_page_size: int = 100
     default_page_size: int = 20

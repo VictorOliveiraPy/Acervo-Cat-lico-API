@@ -3,6 +3,10 @@
 O acervo é carregado no lifespan: se algum arquivo de conteúdo estiver
 inválido, a aplicação **não sobe** — é preferível a um endpoint respondendo
 500 silenciosamente em produção.
+
+O mural de velas (`/api/velas`) é a única escrita persistida da API — mora
+num Postgres à parte (`DATABASE_URL`), opcional: sem ele configurado, o
+acervo de leitura sobe normalmente e só o mural responde 503.
 """
 
 from __future__ import annotations
@@ -11,6 +15,7 @@ import logging
 from collections.abc import AsyncIterator
 from contextlib import asynccontextmanager
 
+import asyncpg
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -18,6 +23,8 @@ from app.config import settings
 from app.exceptions import register_exception_handlers
 from app.repository import repository
 from app.routers import router
+from app.velas_repository import PostgresVelasRepository
+from app.velas_router import router as velas_router
 
 logging.basicConfig(
     level=logging.DEBUG if settings.debug else logging.INFO,
@@ -28,8 +35,23 @@ logger = logging.getLogger(__name__)
 
 @asynccontextmanager
 async def lifespan(app: FastAPI) -> AsyncIterator[None]:
-    """Carrega o acervo na subida e apenas registra a parada."""
+    """Carrega o acervo e, se configurado, abre o pool do mural de velas."""
     repository.load()
+
+    pool: asyncpg.Pool | None = None
+    if settings.database_url:
+        try:
+            pool = await asyncpg.create_pool(settings.database_url, min_size=1, max_size=5)
+            await PostgresVelasRepository.create_schema(pool)
+            app.state.velas_repository = PostgresVelasRepository(pool)
+            logger.info("Mural de velas conectado")
+        except Exception:
+            logger.exception("Falha ao conectar o banco do mural de velas")
+            app.state.velas_repository = None
+    else:
+        app.state.velas_repository = None
+        logger.info("DATABASE_URL não configurada — mural de velas desativado")
+
     logger.info(
         "API iniciada",
         extra={
@@ -38,6 +60,8 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
         },
     )
     yield
+    if pool is not None:
+        await pool.close()
     logger.info("API encerrada")
 
 
@@ -45,7 +69,8 @@ app = FastAPI(
     title=settings.app_name,
     version=settings.app_version,
     description=(
-        "API somente-leitura de conteúdo católico curado em 45 categorias: "
+        "API de conteúdo católico curado em 45 categorias (somente leitura, "
+        "com um único recurso de escrita: o mural de velas em /api/velas): "
         "santos, papas, concílios, milagres eucarísticos, doutores da "
         "Igreja, catecismo, crisma, história, Nossa Senhora, livros, "
         "orações, pecados, vida litúrgica, sacramentos, virtudes, "
@@ -66,14 +91,19 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
-# Sem credenciais e sem curinga: o frontend só precisa de GET público.
+# Sem credenciais e sem curinga: POST só existe para acender uma vela, sem
+# cookie nem header de autenticação — não precisa de credentials.
 app.add_middleware(
     CORSMiddleware,
     allow_origins=settings.cors_origins,
     allow_credentials=False,
-    allow_methods=["GET", "OPTIONS"],
+    allow_methods=["GET", "POST", "OPTIONS"],
     allow_headers=["*"],
 )
 
 register_exception_handlers(app)
+# `velas_router` primeiro: `/api/velas` precisa ser resolvido antes da rota
+# coringa `/api/{categoria}` do acervo, senão "velas" seria lido como slug
+# de categoria inexistente.
+app.include_router(velas_router)
 app.include_router(router)

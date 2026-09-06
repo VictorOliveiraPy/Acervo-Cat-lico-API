@@ -67,6 +67,30 @@ class EntryNotFoundException(NotFoundException):
         )
 
 
+class ServiceUnavailableException(AppException):
+    """Recurso opcional (ex.: mural de velas) sem o backend configurado."""
+
+    def __init__(
+        self,
+        message: str = "Serviço temporariamente indisponível.",
+        code: str = "SERVICE_UNAVAILABLE",
+        details: dict | None = None,
+    ) -> None:
+        super().__init__(message, status_code=503, code=code, details=details)
+
+
+class RateLimitedException(AppException):
+    """Cliente excedeu a frequência permitida de escrita."""
+
+    def __init__(
+        self,
+        message: str = "Aguarde um momento antes de tentar novamente.",
+        code: str = "RATE_LIMITED",
+        details: dict | None = None,
+    ) -> None:
+        super().__init__(message, status_code=429, code=code, details=details)
+
+
 class DataIntegrityError(ValueError):
     """Conteúdo do acervo inválido — derruba o boot, nunca é ignorado.
 
