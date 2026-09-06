@@ -52,7 +52,7 @@ def test_should_reject_creation_when_database_not_configured(
 
     # When
     response = client.post(
-        "/api/velas", json={"nome": "Maria", "tipo": "branca"}
+        "/api/velas", json={"nome": "Maria", "tipo": "jesus"}
     )
 
     # Then
@@ -68,7 +68,7 @@ def test_should_create_and_list_vela_when_repository_is_configured(
     # When
     create_response = client.post(
         "/api/velas",
-        json={"nome": "Maria", "intencao": "Pela saúde da família", "tipo": "branca"},
+        json={"nome": "Maria", "intencao": "Pela saúde da família", "tipo": "jesus"},
     )
 
     # Then
@@ -76,7 +76,7 @@ def test_should_create_and_list_vela_when_repository_is_configured(
     created = create_response.json()
     assert created["nome"] == "Maria"
     assert created["intencao"] == "Pela saúde da família"
-    assert created["tipo"] == "branca"
+    assert created["tipo"] == "jesus"
     assert created["id"] == 1
 
     # When
@@ -95,7 +95,7 @@ def test_should_accept_creation_without_intention(client: TestClient) -> None:
 
     # When
     response = client.post(
-        "/api/velas", json={"nome": "João", "tipo": "dourada"}
+        "/api/velas", json={"nome": "João", "tipo": "aparecida"}
     )
 
     # Then
@@ -108,7 +108,7 @@ def test_should_reject_blank_name(client: TestClient) -> None:
     client.app.state.velas_repository = InMemoryVelasRepository()
 
     # When
-    response = client.post("/api/velas", json={"nome": "   ", "tipo": "branca"})
+    response = client.post("/api/velas", json={"nome": "   ", "tipo": "jesus"})
 
     # Then
     assert response.status_code == 422
@@ -132,11 +132,11 @@ def test_should_rate_limit_second_creation_from_same_client(
 ) -> None:
     # Given
     client.app.state.velas_repository = InMemoryVelasRepository()
-    first = client.post("/api/velas", json={"nome": "Pedro", "tipo": "azul"})
+    first = client.post("/api/velas", json={"nome": "Pedro", "tipo": "sao_jose"})
     assert first.status_code == 201
 
     # When
-    second = client.post("/api/velas", json={"nome": "Pedro", "tipo": "azul"})
+    second = client.post("/api/velas", json={"nome": "Pedro", "tipo": "sao_jose"})
 
     # Then
     assert second.status_code == 429
@@ -152,7 +152,7 @@ def test_should_paginate_velas_newest_first(client: TestClient) -> None:
     from app.velas_models import TipoVela, VelaCreate
 
     for nome in ["Primeira", "Segunda", "Terceira"]:
-        asyncio.run(repo.create(VelaCreate(nome=nome, tipo=TipoVela.ROXA)))
+        asyncio.run(repo.create(VelaCreate(nome=nome, tipo=TipoVela.SAO_JUDAS_TADEU)))
 
     # When
     response = client.get("/api/velas", params={"limit": 2, "offset": 0})

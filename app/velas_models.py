@@ -14,18 +14,20 @@ from pydantic import BaseModel, ConfigDict, Field, field_validator
 
 
 class TipoVela(str, Enum):
-    """Os poucos desenhos de vela que a pessoa pode escolher ao acender.
+    """As poucas "skins" de vela que a pessoa pode escolher ao acender —
+    devoção (Jesus, um santo), não cor.
 
     Lista curta e fechada de propósito: a imagem de cada tipo mora no
     frontend (mesmo padrão de `CATEGORY_LABELS` no lado do site), então
     adicionar um tipo aqui sem adicionar a imagem lá quebra a tela.
     """
 
-    BRANCA = "branca"
-    VERMELHA = "vermelha"
-    DOURADA = "dourada"
-    AZUL = "azul"
-    ROXA = "roxa"
+    JESUS = "jesus"
+    NOSSA_SENHORA = "nossa_senhora"
+    APARECIDA = "aparecida"
+    SAO_JOSE = "sao_jose"
+    ESPIRITO_SANTO = "espirito_santo"
+    SAO_JUDAS_TADEU = "sao_judas_tadeu"
 
 
 def _clean_text(value: str | None) -> str | None:
