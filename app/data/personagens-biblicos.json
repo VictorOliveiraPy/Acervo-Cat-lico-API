@@ -1,0 +1,663 @@
+{
+  "_meta": {
+    "categoria": "personagens-biblicos",
+    "nome": "Personagens Bíblicos",
+    "descricao": "Patriarcas, profetas, reis, mulheres e outras figuras do Antigo e do Novo Testamento, complementando os livros da categoria Bíblia.",
+    "status": "exemplos-iniciais",
+    "aviso": "Os Doze Apóstolos já estão biografados na categoria Santos; esta categoria cobre outras figuras bíblicas relevantes, canonizadas ou não.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Bíblia de Jerusalém"
+    ]
+  },
+  "itens": [
+    {
+      "id": "personagens-biblicos:adao-e-eva",
+      "slug": "adao-e-eva",
+      "titulo": "Adão e Eva",
+      "categoria": "personagens-biblicos",
+      "resumo": "O primeiro homem e a primeira mulher, segundo o relato bíblico da criação, cuja desobediência introduz o pecado original na humanidade.",
+      "corpo": "Criados por Deus \"à sua imagem e semelhança\" (Gn 1,27), Adão e Eva vivem no Jardim do Éden até desobedecerem ao mandamento divino de não comer do fruto da árvore do conhecimento do bem e do mal, instigados pela serpente. Essa desobediência — o \"pecado original\" na teologia católica — introduz na humanidade a ruptura com Deus da qual Cristo, o \"novo Adão\", viria a redimir.",
+      "tags": [
+        "Gênesis",
+        "pecado original",
+        "criação"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Expulsion_of_Adam_and_Eve_%28Alexandre_Cabanel%29.jpg",
+      "imagem_credito": null,
+      "tipo": "outro",
+      "testamento": "antigo",
+      "referencia_biblica": "Gênesis 1-3",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:noe",
+      "slug": "noe",
+      "titulo": "Noé",
+      "categoria": "personagens-biblicos",
+      "resumo": "Patriarca justo que, por mandado divino, constrói uma arca para salvar sua família e pares de animais do Dilúvio.",
+      "corpo": "Descrito como \"justo e íntegro entre seus contemporâneos\" (Gn 6,9), Noé recebe de Deus a missão de construir uma arca para sobreviver ao Dilúvio enviado como julgamento sobre a corrupção da humanidade. Depois das águas baixarem, Deus estabelece com Noé uma aliança, simbolizada pelo arco-íris, prometendo nunca mais destruir a terra por um dilúvio.",
+      "tags": [
+        "Gênesis",
+        "Dilúvio",
+        "aliança"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/92/NoahsSacrifice.JPG",
+      "imagem_credito": null,
+      "tipo": "patriarca",
+      "testamento": "antigo",
+      "referencia_biblica": "Gênesis 6-9",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:abraao",
+      "slug": "abraao",
+      "titulo": "Abraão",
+      "categoria": "personagens-biblicos",
+      "resumo": "O primeiro patriarca, pai da fé para judeus, cristãos e muçulmanos, chamado por Deus a deixar sua terra e receber a promessa de uma grande descendência.",
+      "corpo": "Chamado por Deus a deixar Ur, na Mesopotâmia, e partir para uma terra que lhe seria mostrada, Abraão (originalmente Abrão) torna-se o \"pai na fé\" por excelência, celebrado por sua confiança nas promessas divinas — inclusive quando chamado a sacrificar seu filho Isaac, episódio interrompido por um anjo antes de ser consumado. É reverenciado como patriarca comum ao judaísmo, ao cristianismo e ao islamismo.",
+      "tags": [
+        "Gênesis",
+        "patriarcas",
+        "aliança",
+        "fé"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Guercino_Abramo_ripudia_Agar_%28cropped_2%29.jpg",
+      "imagem_credito": null,
+      "tipo": "patriarca",
+      "testamento": "antigo",
+      "referencia_biblica": "Gênesis 12-25",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:sara",
+      "slug": "sara",
+      "titulo": "Sara",
+      "categoria": "personagens-biblicos",
+      "resumo": "Esposa de Abraão, que dá à luz Isaac já em idade avançada, cumprindo a promessa divina de descendência.",
+      "corpo": "Esposa de Abraão, Sara é estéril durante décadas até que, já idosa, concebe e dá à luz Isaac, cumprindo a promessa que ela mesma, ao ouvi-la, recebera com risos de incredulidade — daí o nome do filho, \"Isaac\", que significa \"ele ri\". É reverenciada como matriarca do povo de Israel.",
+      "tags": [
+        "Gênesis",
+        "matriarcas"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Sarah_Abraham.jpg",
+      "imagem_credito": null,
+      "tipo": "mulher",
+      "testamento": "antigo",
+      "referencia_biblica": "Gênesis 17-21",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:isaac",
+      "slug": "isaac",
+      "titulo": "Isaac",
+      "categoria": "personagens-biblicos",
+      "resumo": "Filho de Abraão e Sara, poupado do sacrifício por intervenção divina, pai de Esaú e Jacó.",
+      "corpo": "Filho da promessa, nascido da idade avançada de seus pais, Isaac é levado por Abraão ao Monte Moriá para ser sacrificado em obediência a um mandamento divino, interrompido no último instante por um anjo, que revela um cordeiro para o sacrifício em seu lugar — episódio lido pela tradição cristã como prefiguração do sacrifício de Cristo. Torna-se pai dos gêmeos Esaú e Jacó.",
+      "tags": [
+        "Gênesis",
+        "patriarcas"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Isaac_a_Lover_of_Peace.jpg",
+      "imagem_credito": null,
+      "tipo": "patriarca",
+      "testamento": "antigo",
+      "referencia_biblica": "Gênesis 22; 25-27",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:jaco-israel",
+      "slug": "jaco-israel",
+      "titulo": "Jacó (Israel)",
+      "categoria": "personagens-biblicos",
+      "resumo": "Patriarca que, após lutar com um anjo, recebe o nome \"Israel\" e se torna pai das doze tribos.",
+      "corpo": "Filho de Isaac, Jacó obtém por astúcia a bênção paterna destinada a seu irmão gêmeo Esaú, foge da ira deste, e trabalha por anos na casa de seu tio Labão, casando-se com Lia e Raquel. Após uma misteriosa luta noturna com um \"homem\" (interpretado como anjo ou o próprio Deus), recebe o novo nome \"Israel\" (\"aquele que luta com Deus\"), tornando-se pai das doze tribos que levam esse nome.",
+      "tags": [
+        "Gênesis",
+        "patriarcas",
+        "doze tribos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Jacob_and_Rebekah.jpg",
+      "imagem_credito": null,
+      "tipo": "patriarca",
+      "testamento": "antigo",
+      "referencia_biblica": "Gênesis 25-35",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:jose-do-egito",
+      "slug": "jose-do-egito",
+      "titulo": "José do Egito",
+      "categoria": "personagens-biblicos",
+      "resumo": "Filho de Jacó, vendido pelos irmãos como escravo, que se torna governador do Egito e salva sua família da fome.",
+      "corpo": "Filho predileto de Jacó, José é vendido pelos próprios irmãos, invejosos, a mercadores que o levam ao Egito como escravo. Ali, após interpretar sonhos do faraó prevendo sete anos de fartura seguidos de sete de fome, é elevado a governador, e mais tarde perdoa os irmãos que o haviam traído, salvando toda a família da fome — episódio lido como um dos relatos bíblicos mais completos sobre a providência divina agindo através de circunstâncias humanas adversas.",
+      "tags": [
+        "Gênesis",
+        "patriarcas",
+        "Egito"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Peter_von_Cornelius_002.jpg",
+      "imagem_credito": null,
+      "tipo": "patriarca",
+      "testamento": "antigo",
+      "referencia_biblica": "Gênesis 37-50",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:moises",
+      "slug": "moises",
+      "titulo": "Moisés",
+      "categoria": "personagens-biblicos",
+      "resumo": "O maior líder e legislador do Antigo Testamento, que liberta Israel da escravidão no Egito e recebe a Lei no Sinai.",
+      "corpo": "Salvo ainda bebê das águas do Nilo e criado na corte egípcia, Moisés é chamado por Deus, na visão da sarça ardente, para libertar os hebreus escravizados no Egito. Após as dez pragas e a travessia do Mar Vermelho, conduz o povo por quarenta anos no deserto, recebendo no Monte Sinai os Dez Mandamentos e a Lei que organizaria a vida de Israel. Morre à vista, mas sem entrar, na Terra Prometida.",
+      "tags": [
+        "Êxodo",
+        "profetas",
+        "Dez Mandamentos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Rembrandt_Harmensz._van_Rijn_079.jpg",
+      "imagem_credito": null,
+      "tipo": "profeta",
+      "testamento": "antigo",
+      "referencia_biblica": "Livro do Êxodo",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:arao",
+      "slug": "arao",
+      "titulo": "Arão",
+      "categoria": "personagens-biblicos",
+      "resumo": "Irmão de Moisés e primeiro sumo sacerdote de Israel, fundador da linhagem sacerdotal levítica.",
+      "corpo": "Irmão mais velho de Moisés, Arão atua como seu porta-voz diante do faraó e é consagrado o primeiro sumo sacerdote de Israel, dando origem à linhagem sacerdotal levítica que oficiaria o culto israelita por séculos. É também lembrado, negativamente, por ter cedido à pressão do povo para fabricar o bezerro de ouro enquanto Moisés recebia a Lei no Sinai.",
+      "tags": [
+        "Êxodo",
+        "sacerdócio levítico"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e2/El_sumo_sacerdote_Aar%C3%B3n_%28Museo_del_Prado%29_%28cropped%29.jpg",
+      "imagem_credito": null,
+      "tipo": "outro",
+      "testamento": "antigo",
+      "referencia_biblica": "Êxodo 4; 32",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:josue-personagem",
+      "slug": "josue-personagem",
+      "titulo": "Josué",
+      "categoria": "personagens-biblicos",
+      "resumo": "Sucessor de Moisés, que conduz Israel na conquista da Terra Prometida.",
+      "corpo": "Auxiliar direto de Moisés durante a travessia do deserto, Josué é escolhido para sucedê-lo à frente do povo, conduzindo a travessia do rio Jordão e a conquista militar de Canaã, incluindo o célebre episódio da queda das muralhas de Jericó ao som das trombetas.",
+      "tags": [
+        "Livro de Josué",
+        "conquista de Canaã"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collection_Motais_de_Narbonne_-_Josu%C3%A9_arr%C3%A8te_la_course_du_soleil_-_Carlo_Maratta.jpg",
+      "imagem_credito": null,
+      "tipo": "outro",
+      "testamento": "antigo",
+      "referencia_biblica": "Livro de Josué",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:debora",
+      "slug": "debora",
+      "titulo": "Débora",
+      "categoria": "personagens-biblicos",
+      "resumo": "Profetisa e juíza de Israel, única mulher entre os \"juízes\" bíblicos, que lidera a libertação contra a opressão cananeia.",
+      "corpo": "Débora é a única mulher listada entre os \"juízes\" de Israel — líderes carismáticos do período entre a conquista e a monarquia —, atuando também como profetisa. Comanda, ao lado do general Baraque, a resistência militar contra a opressão do rei cananeu Jabin, celebrada no antigo \"Cântico de Débora\" (Jz 5), um dos textos poéticos mais antigos da Bíblia hebraica.",
+      "tags": [
+        "Juízes",
+        "profetisas"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Salomon_de_Bray_-_Jael%2C_Deborah_and_Barak_-_WGA03141.jpg",
+      "imagem_credito": null,
+      "tipo": "mulher",
+      "testamento": "antigo",
+      "referencia_biblica": "Juízes 4-5",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:sansao",
+      "slug": "sansao",
+      "titulo": "Sansão",
+      "categoria": "personagens-biblicos",
+      "resumo": "Juiz de Israel de força sobre-humana ligada a um voto nazireu, traído por Dalila.",
+      "corpo": "Consagrado desde o nascimento como nazireu — voto que incluía nunca cortar os cabelos —, Sansão realiza feitos de força extraordinária contra os filisteus, inimigos de Israel. Traído pela amante Dalila, que descobre e revela o segredo de sua força, é capturado e cegado, mas recupera a força numa última vez para destruir o templo filisteu onde estava exposto, morrendo junto com seus captores.",
+      "tags": [
+        "Juízes",
+        "nazireus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lucas_Cranach_d.%C3%84._-_Simson_bezwingt_den_L%C3%B6wen.jpg",
+      "imagem_credito": null,
+      "tipo": "outro",
+      "testamento": "antigo",
+      "referencia_biblica": "Juízes 13-16",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:davi-personagem",
+      "slug": "davi-personagem",
+      "titulo": "Davi",
+      "categoria": "personagens-biblicos",
+      "resumo": "Segundo rei de Israel, autor tradicional de muitos Salmos, ancestral messiânico de Jesus Cristo.",
+      "corpo": "Pastor de ovelhas ungido ainda jovem pelo profeta Samuel, Davi torna-se célebre pela vitória sobre o gigante filisteu Golias antes de suceder Saul como rei de Israel, unificando o reino e conquistando Jerusalém como capital. Apesar de faltas graves — o adultério com Bat-Seba e a morte indireta de seu marido Urias —, recebe a promessa divina de uma dinastia eterna, e os Evangelhos traçam a genealogia messiânica de Jesus até ele (\"filho de Davi\").",
+      "tags": [
+        "1 e 2 Samuel",
+        "reis de Israel",
+        "messianismo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/59/David_SM_Maggiore.jpg",
+      "imagem_credito": null,
+      "tipo": "rei",
+      "testamento": "antigo",
+      "referencia_biblica": "1 e 2 Samuel",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:salomao",
+      "slug": "salomao",
+      "titulo": "Salomão",
+      "categoria": "personagens-biblicos",
+      "resumo": "Filho e sucessor de Davi, rei célebre por sua sabedoria, construtor do primeiro Templo de Jerusalém.",
+      "corpo": "Filho de Davi e Bat-Seba, Salomão pede a Deus sabedoria para governar, tornando-se proverbial por seu discernimento — o \"Julgamento de Salomão\" entre duas mulheres disputando um bebê é o episódio mais citado (1 Rs 3,16-28). Constrói o primeiro Templo de Jerusalém, mas seu reinado tardio é marcado por excessos e idolatria, ligados por tradição, embora com autoria discutida pelos exegetas modernos, aos livros de Provérbios, Eclesiastes e Cântico dos Cânticos.",
+      "tags": [
+        "1 Reis",
+        "reis de Israel",
+        "sabedoria",
+        "Templo de Jerusalém"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/The_Bible_panorama%2C_or_The_Holy_Scriptures_in_picture_and_story_%281891%29_%2814804804673%29.jpg",
+      "imagem_credito": "Foto: Foster, William A. [from old catalog] — Wikimedia Commons, No restrictions",
+      "tipo": "rei",
+      "testamento": "antigo",
+      "referencia_biblica": "1 Reis 1-11",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:saul-rei",
+      "slug": "saul-rei",
+      "titulo": "Saul",
+      "categoria": "personagens-biblicos",
+      "resumo": "Primeiro rei de Israel, cuja desobediência e ciúme de Davi marcam seu reinado e sua queda trágica.",
+      "corpo": "Escolhido e ungido por Samuel como primeiro rei de Israel, atendendo ao pedido do povo por uma monarquia como as nações vizinhas, Saul perde progressivamente o favor divino por atos de desobediência, e é dominado por ciúme obsessivo do jovem Davi, cuja popularidade crescente ameaça seu trono. Morre em batalha contra os filisteus, no Monte Gilboa.",
+      "tags": [
+        "1 Samuel",
+        "reis de Israel"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Saul_Throws_Spear_at_David_by_George_Tinworth.png",
+      "imagem_credito": null,
+      "tipo": "rei",
+      "testamento": "antigo",
+      "referencia_biblica": "1 Samuel 9-31",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:elias",
+      "slug": "elias",
+      "titulo": "Elias",
+      "categoria": "personagens-biblicos",
+      "resumo": "Um dos maiores profetas de Israel, que confronta os profetas de Baal no Monte Carmelo e é arrebatado ao céu num carro de fogo.",
+      "corpo": "Profeta do Reino do Norte durante o reinado idólatra de Acabe e Jezabel, Elias é célebre pelo confronto no Monte Carmelo contra os profetas de Baal, demonstrando publicamente o poder do único Deus verdadeiro (1 Rs 18). É levado ao céu vivo, num redemoinho e carro de fogo, sem experimentar a morte (2 Rs 2,11) — por isso a tradição judaica esperava seu retorno antes do Messias, expectativa que os Evangelhos associam a João Batista, e que aparece também na Transfiguração de Jesus.",
+      "tags": [
+        "1 e 2 Reis",
+        "profetas",
+        "Monte Carmelo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Dieric_Bouts_-_Prophet_Elijah_in_the_Desert_-_WGA03015.jpg",
+      "imagem_credito": null,
+      "tipo": "profeta",
+      "testamento": "antigo",
+      "referencia_biblica": "1 Reis 17-19; 2 Reis 2",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:eliseu",
+      "slug": "eliseu",
+      "titulo": "Eliseu",
+      "categoria": "personagens-biblicos",
+      "resumo": "Discípulo e sucessor de Elias, a quem são atribuídos numerosos milagres de cura e providência.",
+      "corpo": "Escolhido por Elias como seu sucessor e discípulo, Eliseu recebe uma \"porção dobrada\" do espírito profético de seu mestre ao vê-lo ser arrebatado ao céu, e realiza numerosos milagres registrados no Segundo Livro dos Reis — multiplicação de óleo e de pães, cura da lepra do general sírio Naamã, e a ressurreição do filho de uma mulher sunamita.",
+      "tags": [
+        "2 Reis",
+        "profetas",
+        "milagres"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Elisha-Eliseus.jpg",
+      "imagem_credito": null,
+      "tipo": "profeta",
+      "testamento": "antigo",
+      "referencia_biblica": "2 Reis 2-13",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:isaias-personagem",
+      "slug": "isaias-personagem",
+      "titulo": "Isaías (o profeta)",
+      "categoria": "personagens-biblicos",
+      "resumo": "Um dos maiores profetas de Israel, cuja pregação inclui alguns dos textos messiânicos mais citados pelo cristianismo.",
+      "corpo": "Ativo em Jerusalém durante o século VIII a.C., Isaías profetizou em meio a crises políticas e à ameaça assíria, combinando denúncia da injustiça social com anúncios messiânicos amplamente retomados pelo Novo Testamento — o \"Emanuel\" (Is 7,14), o \"Príncipe da Paz\" (Is 9,5) e os \"cânticos do Servo sofredor\" (Is 52-53), lidos pela tradição cristã como profecias sobre Cristo (ver a categoria Bíblia para o livro que leva seu nome).",
+      "tags": [
+        "Isaías",
+        "profetas",
+        "messianismo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Melozzo_da_forl%C3%AC%2C_angeli_coi_simboli_della_passione_e_profeti%2C_1477_ca.%2C_profeta_isaia_00.jpg",
+      "imagem_credito": "Foto: Sailko — Wikimedia Commons, CC BY 3.0",
+      "tipo": "profeta",
+      "testamento": "antigo",
+      "referencia_biblica": "Livro de Isaías",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:jeremias-personagem",
+      "slug": "jeremias-personagem",
+      "titulo": "Jeremias (o profeta)",
+      "categoria": "personagens-biblicos",
+      "resumo": "Profeta que anuncia, com grande sofrimento pessoal, a destruição de Jerusalém e a esperança de uma \"nova aliança\".",
+      "corpo": "Chamado por Deus ainda jovem (\"antes de te formar no ventre, eu te conheci\", Jr 1,5), Jeremias profetizou em Jerusalém nos últimos anos antes da destruição da cidade pelos babilônios em 587 a.C., enfrentando perseguição e prisão por anunciar um julgamento que a maioria se recusava a aceitar. É também autor da promessa de uma \"nova aliança\" escrita no coração (Jr 31,31-34), central para a teologia cristã posterior.",
+      "tags": [
+        "Jeremias",
+        "profetas",
+        "exílio babilônico"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Michelangelo_Buonarroti_027.jpg",
+      "imagem_credito": null,
+      "tipo": "profeta",
+      "testamento": "antigo",
+      "referencia_biblica": "Livro de Jeremias",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:daniel-personagem",
+      "slug": "daniel-personagem",
+      "titulo": "Daniel (o profeta)",
+      "categoria": "personagens-biblicos",
+      "resumo": "Jovem judeu exilado na Babilônia, célebre por sua fidelidade e pelas visões apocalípticas que levam seu nome.",
+      "corpo": "Levado ainda jovem para a corte babilônica após a conquista de Jerusalém, Daniel mantém fidelidade às práticas judaicas mesmo sob pressão da corte pagã, interpreta sonhos reais e sobrevive milagrosamente à cova dos leões por se recusar a interromper sua oração diária a Deus. É também o vidente das visões apocalípticas que dão nome ao livro que leva seu nome (ver a categoria Bíblia).",
+      "tags": [
+        "Daniel",
+        "profetas",
+        "exílio babilônico"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Daniel%27s_Answer_to_the_King%2C_by_Briton_Riviere%2C_GMIII_MCAG_1937_123-001.jpg",
+      "imagem_credito": null,
+      "tipo": "profeta",
+      "testamento": "antigo",
+      "referencia_biblica": "Livro de Daniel",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:jo-personagem",
+      "slug": "jo-personagem",
+      "titulo": "Jó",
+      "categoria": "personagens-biblicos",
+      "resumo": "Homem justo que sofre perdas terríveis e questiona o sentido do sofrimento imerecido, sem perder a fé em Deus.",
+      "corpo": "Descrito como \"íntegro e reto, temente a Deus\", Jó perde bens, filhos e saúde numa série de provações permitidas por Deus para testar sua fidelidade, segundo o quadro narrativo do livro que leva seu nome. Seu longo debate poético com amigos sobre a causa do sofrimento culmina não numa resposta filosófica, mas no encontro direto com o próprio Deus (ver a categoria Bíblia).",
+      "tags": [
+        "Jó",
+        "sofrimento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/L%C3%A9on_Bonnat_-_Job.jpg",
+      "imagem_credito": null,
+      "tipo": "outro",
+      "testamento": "antigo",
+      "referencia_biblica": "Livro de Jó",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:joao-batista-personagem",
+      "slug": "joao-batista-personagem",
+      "titulo": "João Batista",
+      "categoria": "personagens-biblicos",
+      "resumo": "Precursor de Jesus, filho de Isabel e Zacarias, que prega a conversão e batiza no Jordão (ver também a categoria Santos).",
+      "corpo": "Já biografado com mais detalhe na categoria Santos, João Batista aparece aqui como personagem-chave da história bíblica: filho de Isabel e Zacarias, concebido milagrosamente na velhice dos pais, dedica-se a uma pregação austera de conversão às margens do Jordão, identifica Jesus como o \"Cordeiro de Deus\" e é decapitado por ordem de Herodes Antipas.",
+      "tags": [
+        "Novo Testamento",
+        "precursor"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Anton_Raphael_Mengs_-_St._John_the_Baptist_Preaching_in_the_Wilderness_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "tipo": "outro",
+      "testamento": "novo",
+      "referencia_biblica": "Lucas 1; 3",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:herodes-o-grande",
+      "slug": "herodes-o-grande",
+      "titulo": "Herodes, o Grande",
+      "categoria": "personagens-biblicos",
+      "resumo": "Rei da Judeia sob domínio romano no tempo do nascimento de Jesus, responsável, segundo Mateus, pelo massacre dos Santos Inocentes.",
+      "corpo": "Rei cliente de Roma na Judeia entre 37 e 4 a.C., Herodes, o Grande, é lembrado historicamente por grandes obras arquitetônicas — a reconstrução do Templo de Jerusalém entre elas — e, no relato evangélico, pela ordem de matar todos os meninos de Belém com dois anos ou menos, temendo o \"rei dos judeus\" recém-nascido anunciado pelos magos (Mt 2,16).",
+      "tags": [
+        "Novo Testamento",
+        "Herodes"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/HerodtheGreat2.jpg",
+      "imagem_credito": null,
+      "tipo": "rei",
+      "testamento": "novo",
+      "referencia_biblica": "Mateus 2",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:herodes-antipas",
+      "slug": "herodes-antipas",
+      "titulo": "Herodes Antipas",
+      "categoria": "personagens-biblicos",
+      "resumo": "Filho de Herodes, o Grande, tetrarca da Galileia responsável pela morte de João Batista e presente no julgamento de Jesus.",
+      "corpo": "Filho de Herodes, o Grande, e tetrarca da Galileia durante todo o ministério público de Jesus, Herodes Antipas manda decapitar João Batista após uma promessa imprudente feita à filha de Herodíades, e mais tarde interroga Jesus, por curiosidade, durante o julgamento que antecede a crucificação (Lc 23,6-12), sem proferir sentença.",
+      "tags": [
+        "Novo Testamento",
+        "Herodes"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Lucas_Cranach_d.%C3%84._-_Gastmahl_des_Herodes_%28Wadsworth_Atheneum%29.jpg",
+      "imagem_credito": null,
+      "tipo": "rei",
+      "testamento": "novo",
+      "referencia_biblica": "Marcos 6,14-29; Lucas 23,6-12",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:poncio-pilatos",
+      "slug": "poncio-pilatos",
+      "titulo": "Pôncio Pilatos",
+      "categoria": "personagens-biblicos",
+      "resumo": "Prefeito romano da Judeia que, apesar de reconhecer a inocência de Jesus, autoriza sua crucificação sob pressão popular.",
+      "corpo": "Prefeito romano da Judeia entre 26 e 36 d.C., Pôncio Pilatos preside o julgamento romano de Jesus, declarando publicamente não encontrar nele culpa alguma, mas cedendo, por pressão da multidão e temor de tumulto, à sentença de crucificação — episódio registrado até hoje no Credo (\"padeceu sob Pôncio Pilatos\"), fixando historicamente o momento da Paixão.",
+      "tags": [
+        "Novo Testamento",
+        "Paixão de Cristo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Munkacsy_-_Christ_in_front_of_Pilate.jpg",
+      "imagem_credito": null,
+      "tipo": "outro",
+      "testamento": "novo",
+      "referencia_biblica": "João 18,28-19,16",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:judas-iscariotes",
+      "slug": "judas-iscariotes",
+      "titulo": "Judas Iscariotes",
+      "categoria": "personagens-biblicos",
+      "resumo": "Um dos Doze Apóstolos que trai Jesus por trinta moedas de prata, entregando-o às autoridades no Getsêmani.",
+      "corpo": "Tesoureiro do grupo apostólico, Judas Iscariotes concorda em entregar Jesus às autoridades religiosas por trinta moedas de prata, identificando-o com um beijo no Getsêmani. Segundo Mateus, arrependido, devolve o dinheiro e comete suicídio antes mesmo da crucificação (Mt 27,3-5); Atos dos Apóstolos relata uma versão ligeiramente diferente de sua morte (At 1,18-19).",
+      "tags": [
+        "Novo Testamento",
+        "Paixão de Cristo",
+        "apóstolos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Almeida_J%C3%BAnior_-_Remorso_de_Judas%2C_1880.jpg",
+      "imagem_credito": null,
+      "tipo": "apostolo",
+      "testamento": "novo",
+      "referencia_biblica": "Mateus 26,14-16.47-50; 27,3-5",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:nicodemos",
+      "slug": "nicodemos",
+      "titulo": "Nicodemos",
+      "categoria": "personagens-biblicos",
+      "resumo": "Fariseu e membro do Sinédrio que visita Jesus à noite e depois participa, com José de Arimateia, de seu sepultamento.",
+      "corpo": "Fariseu e membro do Sinédrio, Nicodemos procura Jesus discretamente à noite, temendo a reação de seus pares, e recebe o ensinamento sobre a necessidade de \"nascer de novo\" (Jo 3,1-21). Aparece de novo mais tarde defendendo timidamente o direito de Jesus a um julgamento justo, e, ao final, ajuda José de Arimateia a preparar e sepultar o corpo de Jesus após a crucificação.",
+      "tags": [
+        "Novo Testamento",
+        "Evangelho de João"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jacob_Jordaens_-_Christ_instructing_Nicodemus.jpg",
+      "imagem_credito": null,
+      "tipo": "outro",
+      "testamento": "novo",
+      "referencia_biblica": "João 3,1-21; 19,39-42",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:jose-de-arimateia",
+      "slug": "jose-de-arimateia",
+      "titulo": "José de Arimateia",
+      "categoria": "personagens-biblicos",
+      "resumo": "Membro rico e piedoso do Sinédrio que doa seu próprio túmulo novo para o sepultamento de Jesus.",
+      "corpo": "Descrito como discípulo secreto de Jesus e membro do Sinédrio que não concordara com a condenação, José de Arimateia pede a Pilatos o corpo de Jesus após a crucificação e o sepulta em seu próprio túmulo novo, escavado na rocha — o mesmo de onde, segundo os quatro Evangelhos, Jesus ressuscitaria.",
+      "tags": [
+        "Novo Testamento",
+        "Paixão de Cristo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Josedearimatea.jpg",
+      "imagem_credito": "Foto: jovenescofradescabra.blogspot.com — Wikimedia Commons, CC BY 3.0",
+      "tipo": "outro",
+      "testamento": "novo",
+      "referencia_biblica": "Mateus 27,57-60",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:zaqueu",
+      "slug": "zaqueu",
+      "titulo": "Zaqueu",
+      "categoria": "personagens-biblicos",
+      "resumo": "Cobrador de impostos rico e baixo de estatura que, ao subir numa árvore para ver Jesus, é convertido por um convite inesperado a hospedá-lo.",
+      "corpo": "Chefe dos cobradores de impostos em Jericó — profissão malvista por colaborar com a ocupação romana —, Zaqueu sobe numa figueira brava para conseguir ver Jesus por cima da multidão, dada sua baixa estatura. Surpreendido por Jesus, que anuncia hospedar-se em sua casa naquele mesmo dia, converte-se publicamente, prometendo restituir o quádruplo a quem tivesse lesado.",
+      "tags": [
+        "Novo Testamento",
+        "conversão"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Greek-Orthodox_Zaccheus%27_Tree%2C_Jericho.jpg",
+      "imagem_credito": "Foto: Alejandrofsc — Wikimedia Commons, CC BY-SA 4.0",
+      "tipo": "outro",
+      "testamento": "novo",
+      "referencia_biblica": "Lucas 19,1-10",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:mulher-samaritana",
+      "slug": "mulher-samaritana",
+      "titulo": "A Samaritana do Poço",
+      "categoria": "personagens-biblicos",
+      "resumo": "Mulher samaritana que dialoga com Jesus junto ao poço de Jacó e se torna uma das primeiras evangelizadoras registradas nos Evangelhos.",
+      "corpo": "No célebre diálogo junto ao poço de Sicar, Jesus revela a uma mulher samaritana — cuja etnia e vida pessoal a tornavam duplamente marginalizada — ser o \"água viva\" e o próprio Messias esperado, num dos discursos teológicos mais ricos do Evangelho de João. Ela corre a anunciar o encontro a sua cidade, tornando-se uma das primeiras \"evangelizadoras\" registradas no Novo Testamento.",
+      "tags": [
+        "Evangelho de João",
+        "Samaria",
+        "evangelização"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Angelika_Kauffmann_-_Christus_und_die_Samariterin_am_Brunnen_-1796.jpeg",
+      "imagem_credito": null,
+      "tipo": "mulher",
+      "testamento": "novo",
+      "referencia_biblica": "João 4,1-42",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:isabel-mae-de-joao-batista",
+      "slug": "isabel-mae-de-joao-batista",
+      "titulo": "Isabel",
+      "categoria": "personagens-biblicos",
+      "resumo": "Prima de Maria e mãe de João Batista, que o concebe já idosa e estéril, segundo o relato de Lucas.",
+      "corpo": "Esposa do sacerdote Zacarias, Isabel concebe João Batista já em idade avançada e após longa esterilidade, anunciada pelo anjo Gabriel a seu marido. É a Isabel que Maria visita logo após a Anunciação — episódio da Visitação —, e é ela quem primeiro reconhece, ainda grávida, a presença do Messias no ventre de Maria (\"bendita és tu entre as mulheres\").",
+      "tags": [
+        "Evangelho de Lucas",
+        "Visitação"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/The_Visitation_of_Mary_to_Elizabeth._Watercolour_painting._Wellcome_V0034594.jpg",
+      "imagem_credito": "Foto: Wellcome Collection — Wikimedia Commons, CC BY 4.0",
+      "tipo": "mulher",
+      "testamento": "novo",
+      "referencia_biblica": "Lucas 1,5-45",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:simeao-e-ana-profetisa",
+      "slug": "simeao-e-ana-profetisa",
+      "titulo": "Simeão e Ana, a Profetisa",
+      "categoria": "personagens-biblicos",
+      "resumo": "Dois idosos justos que reconhecem em Jesus, ainda menino, o Messias esperado por Israel, no episódio da Apresentação no Templo.",
+      "corpo": "No Templo de Jerusalém, o ancião Simeão — a quem fora revelado que não morreria antes de ver o Messias — reconhece Jesus e entoa o cântico \"Nunc Dimittis\" (\"agora, Senhor, podes deixar ir em paz o teu servo\"). A profetisa Ana, viúva idosa que vivia no Templo em jejum e oração, também reconhece a criança e passa a falar dela a todos os que esperavam a redenção de Jerusalém.",
+      "tags": [
+        "Evangelho de Lucas",
+        "Apresentação no Templo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Rembrandt_Harmensz._van_Rijn_085.jpg",
+      "imagem_credito": null,
+      "tipo": "outro",
+      "testamento": "novo",
+      "referencia_biblica": "Lucas 2,25-38",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:barrabas",
+      "slug": "barrabas",
+      "titulo": "Barrabás",
+      "categoria": "personagens-biblicos",
+      "resumo": "Prisioneiro libertado pela multidão em lugar de Jesus, no episódio do costume pascal de liberar um preso.",
+      "corpo": "Descrito como insurgente ou assassino preso por sedição, Barrabás é o prisioneiro que a multidão escolhe libertar em vez de Jesus, quando Pilatos oferece, seguindo um costume pascal de anistiar um preso, a escolha entre os dois — episódio que a tradição cristã lê com forte carga simbólica sobre a escolha humana entre a violência e a inocência.",
+      "tags": [
+        "Novo Testamento",
+        "Paixão de Cristo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/GiveUsBarabbas.png",
+      "imagem_credito": null,
+      "tipo": "outro",
+      "testamento": "novo",
+      "referencia_biblica": "Marcos 15,6-15",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:maria-e-marta-de-betania-personagens",
+      "slug": "maria-e-marta-de-betania-personagens",
+      "titulo": "Maria e Marta de Betânia",
+      "categoria": "personagens-biblicos",
+      "resumo": "Irmãs de Lázaro, amigas próximas de Jesus, cada uma representando um modo distinto e complementar de acolher o Mestre.",
+      "corpo": "Já tratadas na categoria Santos, Maria e Marta aparecem aqui no conjunto da narrativa bíblica: hospedeiras de Jesus em Betânia, protagonizam o episódio em que Marta se ocupa do serviço enquanto Maria escuta aos pés do Mestre (Lc 10,38-42), e mais tarde suplicam por seu irmão Lázaro, que Jesus ressuscita.",
+      "tags": [
+        "Evangelho de Lucas",
+        "Betânia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Harold_Copping_Jesus_at_the_home_of_Martha_and_Mary_400.jpg",
+      "imagem_credito": null,
+      "tipo": "mulher",
+      "testamento": "novo",
+      "referencia_biblica": "Lucas 10,38-42; João 11",
+      "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:lazaro-de-betania",
+      "slug": "lazaro-de-betania",
+      "titulo": "Lázaro de Betânia",
+      "categoria": "personagens-biblicos",
+      "resumo": "Amigo de Jesus, morto e ressuscitado por ele quatro dias após a sepultura, no maior milagre relatado no Evangelho de João.",
+      "corpo": "Irmão de Marta e Maria de Betânia, Lázaro morre e já está sepultado há quatro dias quando Jesus, comovido (\"Jesus chorou\", Jo 11,35, o versículo mais curto da Bíblia), o chama de volta à vida diante de uma multidão — o último e maior dos \"sinais\" narrados no Evangelho de João, decisivo para acirrar a oposição das autoridades religiosas contra Jesus.",
+      "tags": [
+        "Evangelho de João",
+        "milagres",
+        "ressurreição"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Juan_de_Flandes_001.jpg",
+      "imagem_credito": null,
+      "tipo": "outro",
+      "testamento": "novo",
+      "referencia_biblica": "João 11,1-44",
+      "fontes": []
+    }
+  ]
+}

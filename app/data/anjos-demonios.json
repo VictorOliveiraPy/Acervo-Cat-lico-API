@@ -1,0 +1,244 @@
+{
+  "_meta": {
+    "categoria": "anjos-demonios",
+    "nome": "Anjos e Demônios",
+    "descricao": "Os arcanjos, os nove coros angélicos, o anjo da guarda e a doutrina católica sobre a queda angélica, a tentação e o exorcismo.",
+    "status": "exemplos-iniciais",
+    "aviso": "Exposição catequética introdutória sobre a angelologia e a demonologia católicas; matéria de intensa especulação popular, tratada aqui com base no Catecismo e na Escritura.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Catecismo da Igreja Católica, n. 328-336 e 391-395",
+      "Ritual Romano, De Exorcismis"
+    ]
+  },
+  "itens": [
+    {
+      "id": "anjos-demonios:sao-miguel-arcanjo",
+      "slug": "sao-miguel-arcanjo",
+      "titulo": "São Miguel Arcanjo",
+      "categoria": "anjos-demonios",
+      "resumo": "\"Quem como Deus?\" — o príncipe da milícia celeste, defensor da Igreja contra o poder do demônio.",
+      "corpo": "Miguel (\"Quem como Deus?\" em hebraico) aparece no livro de Daniel como \"o grande príncipe, defensor do teu povo\" (Dn 12,1), e no Apocalipse lidera os anjos fiéis na batalha contra o dragão: \"E houve uma guerra no céu: Miguel e seus anjos combateram contra o dragão\" (Ap 12,7). A tradição da Igreja o venera como chefe da milícia celeste e protetor especial do povo de Deus, invocado na oração composta pelo papa Leão XIII para proteção contra o demônio, ainda rezada ao final de muitas missas e como oração de exorcismo.",
+      "tags": [
+        "arcanjo",
+        "guerra celeste",
+        "Apocalipse",
+        "exorcismo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/GuidoReni_MichaelDefeatsSatan.jpg",
+      "imagem_credito": null,
+      "tipo": "arcanjo"
+    },
+    {
+      "id": "anjos-demonios:sao-gabriel-arcanjo",
+      "slug": "sao-gabriel-arcanjo",
+      "titulo": "São Gabriel Arcanjo",
+      "categoria": "anjos-demonios",
+      "resumo": "\"Força de Deus\" — o arcanjo mensageiro que anunciou a Daniel, a Zacarias e a Maria os planos de Deus.",
+      "corpo": "Gabriel (\"Força de Deus\" ou \"Deus é minha força\") é o arcanjo mensageiro por excelência: no livro de Daniel, explica-lhe visões proféticas sobre o fim dos tempos (Dn 8-9); no Evangelho de Lucas, anuncia a Zacarias o nascimento de João Batista e, seis meses depois, anuncia a Maria em Nazaré que ela conceberia o Filho de Deus pelo poder do Espírito Santo (Lc 1,26-38) — a Anunciação, o momento central da Encarnação. É por isso o padroeiro das comunicações e das mensagens.",
+      "tags": [
+        "arcanjo",
+        "Anunciação",
+        "mensageiro"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Archangel_Gabriel_from_an_Annunciation_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "tipo": "arcanjo"
+    },
+    {
+      "id": "anjos-demonios:sao-rafael-arcanjo",
+      "slug": "sao-rafael-arcanjo",
+      "titulo": "São Rafael Arcanjo",
+      "categoria": "anjos-demonios",
+      "resumo": "\"Deus cura\" — o arcanjo companheiro de viagem que curou a cegueira de Tobit no livro de Tobias.",
+      "corpo": "Rafael (\"Deus cura\") é o arcanjo protagonista do livro de Tobias, onde acompanha o jovem Tobias disfarçado de companheiro de viagem, protegendo-o de perigos, orientando seu casamento com Sara — libertando-a de um demônio que matava seus pretendentes — e por fim curando a cegueira de seu pai Tobit. Ao revelar sua identidade angélica no final da narrativa, declara: \"Eu sou Rafael, um dos sete anjos que estão prontos e entram diante da glória do Senhor\" (Tb 12,15). É invocado como padroeiro dos viajantes, dos médicos e dos que buscam cônjuge.",
+      "tags": [
+        "arcanjo",
+        "livro de Tobias",
+        "cura",
+        "viajantes"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Accademia_-_Archangel_Raphael_and_Tobit_by_Titian.jpg",
+      "imagem_credito": null,
+      "tipo": "arcanjo"
+    },
+    {
+      "id": "anjos-demonios:coros-angelicos",
+      "slug": "coros-angelicos",
+      "titulo": "Os Nove Coros Angélicos",
+      "categoria": "anjos-demonios",
+      "resumo": "A hierarquia celeste sistematizada pela tradição em nove ordens de espíritos puros, de Serafins a Anjos.",
+      "corpo": "A partir de referências bíblicas dispersas (querubins no Gênesis e em Ezequiel, serafins em Isaías, \"tronos\", \"dominações\", \"principados\" e \"potestades\" nas cartas de Paulo), a tradição cristã, sobretudo através da obra \"Hierarquia Celeste\" atribuída a Dionísio Pseudo-Areopagita (século V-VI) e sistematizada por Tomás de Aquino, organizou os anjos em nove coros distribuídos em três hierarquias: a primeira (Serafins, Querubins, Tronos) contempla diretamente a Deus; a segunda (Dominações, Virtudes, Potestades) governa o cosmos; a terceira (Principados, Arcanjos, Anjos) atua mais diretamente sobre a história humana. O Catecismo não define dogmaticamente esta hierarquia, mas a acolhe como expressão legítima da tradição sobre a variedade dos espíritos angélicos.",
+      "tags": [
+        "hierarquia celeste",
+        "Dionísio Areopagita",
+        "Tomás de Aquino",
+        "serafins"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Coro_di_angeli_-_Francesco_Botticini.jpg",
+      "imagem_credito": null,
+      "tipo": "coro_angelico"
+    },
+    {
+      "id": "anjos-demonios:anjo-da-guarda",
+      "slug": "anjo-da-guarda",
+      "titulo": "Anjo da Guarda",
+      "categoria": "anjos-demonios",
+      "resumo": "A doutrina católica de que cada pessoa é confiada, desde o nascimento, à proteção de um anjo pessoal.",
+      "corpo": "A Igreja ensina, com base em passagens como Mateus 18,10 (\"seus anjos no céu veem continuamente a face de meu Pai\") e Salmo 91,11 (\"Ele deu ordens a seus anjos de te guardar em todos os teus caminhos\"), que cada pessoa é acompanhada ao longo de toda a vida por um anjo da guarda, cuja missão é proteger, iluminar e conduzir a alma para Deus. O Catecismo afirma: \"Desde a infância até a morte, a vida humana é cercada pela guarda e intercessão dos anjos\" (CIC 336). A festa litúrgica dos Santos Anjos da Guarda é celebrada em 2 de outubro, e a devoção popular a expressa em orações simples recitadas desde a infância.",
+      "tags": [
+        "proteção",
+        "devoção popular",
+        "CIC 336"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Franceschini%2C_Marcantonio_-_The_Guardian_Angel_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "tipo": "anjo_da_guarda"
+    },
+    {
+      "id": "anjos-demonios:queda-dos-anjos",
+      "slug": "queda-dos-anjos",
+      "titulo": "A Queda dos Anjos",
+      "categoria": "anjos-demonios",
+      "resumo": "A doutrina sobre a rebelião original de Lúcifer e dos anjos que, por livre escolha, recusaram definitivamente servir a Deus.",
+      "corpo": "A Igreja ensina que Satanás e os demais demônios foram originalmente anjos bons, criados por Deus, que pecaram livre e irrevogavelmente ao se recusarem, num ato de soberba, a servir a Deus e ao seu plano (CIC 391-395). Diferentemente do pecado humano, que ocorre no tempo e pode ser perdoado, a escolha angélica é entendida como um ato espiritual instantâneo e definitivo, sem possibilidade de arrependimento, dada a natureza intelectual pura e atemporal dos anjos. A tradição associa a figura de Lúcifer (\"portador de luz\"), com base em leituras patrísticas de Isaías 14 e Ezequiel 28, à liderança dessa rebelião original, embora o nome não apareça literalmente como designação do demônio no texto bíblico original.",
+      "tags": [
+        "Lúcifer",
+        "Satanás",
+        "livre-arbítrio angélico",
+        "CIC 391-395"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "tipo": "conceito"
+    },
+    {
+      "id": "anjos-demonios:satanas-demonio",
+      "slug": "satanas-demonio",
+      "titulo": "Satanás",
+      "categoria": "anjos-demonios",
+      "resumo": "O \"acusador\", o anjo caído que a tradição cristã identifica como a principal fonte espiritual do mal e da tentação.",
+      "corpo": "O nome \"Satanás\" vem do hebraico \"satan\" (\"adversário\" ou \"acusador\"), título usado no livro de Jó para a figura que desafia a integridade do justo diante de Deus. No Novo Testamento, Jesus o chama \"pai da mentira\" e \"homicida desde o princípio\" (Jo 8,44), e o próprio Jesus é tentado por ele no deserto (Mt 4,1-11). A doutrina católica sustenta sua existência real como espírito pessoal e não como mera personificação simbólica do mal, embora sua ação esteja sempre subordinada à soberania de Deus e à vitória definitiva de Cristo, selada na cruz e na Ressurreição.",
+      "tags": [
+        "tentação",
+        "pai da mentira",
+        "deserto"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gustav_Dor%C3%A9%2C_Satan_Confronting_Sin_and_Death_at_the_Gates_of_Hell%2C_c_1880.jpg",
+      "imagem_credito": null,
+      "tipo": "demonio"
+    },
+    {
+      "id": "anjos-demonios:possessao-demoniaca",
+      "slug": "possessao-demoniaca",
+      "titulo": "Possessão Demoníaca",
+      "categoria": "anjos-demonios",
+      "resumo": "O fenômeno, reconhecido pela tradição da Igreja com extrema cautela, de um espírito maligno dominando a vontade e o corpo de uma pessoa.",
+      "corpo": "A possessão demoníaca — a ação extraordinária pela qual um espírito maligno assume controle sobre o corpo e, em certa medida, sobre a vontade de uma pessoa — é atestada nos Evangelhos em vários episódios de libertação realizados por Jesus, como o endemoninhado de Gerasa. A Igreja distingue com rigor a possessão real de doenças psiquiátricas ou fenômenos naturais, exigindo investigação médica e psicológica cuidadosa antes de qualquer diagnóstico espiritual, e reserva o rito de exorcismo solene a casos verificados, sob autorização explícita do bispo, conforme regula o Ritual Romano.",
+      "tags": [
+        "exorcismo",
+        "endemoninhado de Gerasa",
+        "discernimento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Paul_Bril_-_Felsige_Landschaft_mit_Heilung_des_Besessenen_-_876_-_Bavarian_State_Painting_Collections.jpg",
+      "imagem_credito": null,
+      "tipo": "conceito"
+    },
+    {
+      "id": "anjos-demonios:exorcismo",
+      "slug": "exorcismo",
+      "titulo": "Exorcismo",
+      "categoria": "anjos-demonios",
+      "resumo": "O rito litúrgico pelo qual a Igreja invoca, em nome de Cristo, a libertação de uma pessoa da influência do demônio.",
+      "corpo": "O exorcismo é um sacramental — não um sacramento — pelo qual a Igreja, em nome de Jesus Cristo, pede publicamente e com autoridade que uma pessoa (ou às vezes um objeto ou lugar) seja protegida ou libertada do poder do demônio (CIC 1673). Distingue-se o \"exorcismo simples\", presente por exemplo no rito do Batismo, do \"exorcismo solene\" ou \"grande exorcismo\", reservado a sacerdotes especificamente designados pelo bispo diocesano e aplicado somente após criteriosa avaliação que descarte causas médicas ou psiquiátricas. A Igreja insiste que todo exorcismo deve ser conduzido \"com prudência, respeitando estritamente as normas estabelecidas pela Igreja\" (CIC 1673).",
+      "tags": [
+        "sacramental",
+        "CIC 1673",
+        "Ritual Romano"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/70/El_exorcismo_-_anonimo_%28Prado%29.jpg",
+      "imagem_credito": null,
+      "tipo": "conceito"
+    },
+    {
+      "id": "anjos-demonios:anjos-na-biblia",
+      "slug": "anjos-na-biblia",
+      "titulo": "Os Anjos na Sagrada Escritura",
+      "categoria": "anjos-demonios",
+      "resumo": "A presença constante de mensageiros celestes ao longo de toda a narrativa bíblica, do Gênesis ao Apocalipse.",
+      "corpo": "Do querubim que guarda a entrada do Éden (Gn 3,24) ao anjo que anuncia o nascimento de Sansão, de Isaías, que vê serafins cantando o \"Santo, Santo, Santo\" no templo (Is 6), aos anjos que anunciam a Ressurreição às mulheres no túmulo vazio e proclamam a Ascensão diante dos apóstolos, a Escritura apresenta os anjos como mensageiros, executores da vontade divina e adoradores permanentes da glória de Deus. O Catecismo resume: \"A existência dos anjos... é uma verdade de fé\" atestada \"pela unanimidade da Tradição\" (CIC 328).",
+      "tags": [
+        "Antigo Testamento",
+        "Novo Testamento",
+        "CIC 328"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Le_Christ_au_d%C3%A9sert_servi_par_les_anges.jpg",
+      "imagem_credito": null,
+      "tipo": "conceito"
+    },
+    {
+      "id": "anjos-demonios:anjos-guardioes-de-nacoes",
+      "slug": "anjos-guardioes-de-nacoes",
+      "titulo": "Anjos das Nações e das Igrejas",
+      "categoria": "anjos-demonios",
+      "resumo": "A tradição bíblica e patrística de anjos protetores confiados não só a indivíduos, mas a povos, nações e comunidades.",
+      "corpo": "Além do anjo da guarda pessoal, a tradição bíblica sugere a existência de anjos confiados a coletividades: o livro de Daniel fala do \"príncipe do reino da Pérsia\" e de \"Miguel, um dos primeiros príncipes\", entendidos como anjos protetores de nações (Dn 10,13.20-21), e o Apocalipse dirige-se aos \"anjos\" de cada uma das sete Igrejas da Ásia (Ap 2-3), interpretados por parte da tradição como seus guardiões espirituais. Embora não seja doutrina dogmaticamente definida em detalhe, essa tradição alimentou a devoção a padroeiros angélicos de países e dioceses ao longo da história cristã.",
+      "tags": [
+        "livro de Daniel",
+        "Apocalipse",
+        "sete Igrejas"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/28/Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_13%3F_%E2%80%9EVision_Daniels%E2%80%9C.jpg",
+      "imagem_credito": null,
+      "tipo": "conceito"
+    },
+    {
+      "id": "anjos-demonios:querubins",
+      "slug": "querubins",
+      "titulo": "Querubins",
+      "categoria": "anjos-demonios",
+      "resumo": "Espíritos celestes de contemplação, guardiões do jardim do Éden e da Arca da Aliança na tradição bíblica.",
+      "corpo": "Os querubins aparecem pela primeira vez guardando a entrada do Éden após a expulsão de Adão e Eva (Gn 3,24), e depois como figuras esculpidas em ouro sobre a Arca da Aliança, com as asas estendidas cobrindo o \"propiciatório\" — o lugar da presença de Deus entre seu povo (Ex 25,18-22). No profeta Ezequiel, aparecem como criaturas de aparência complexa associadas ao trono móvel da glória divina (Ez 1 e 10). Na hierarquia dos nove coros, ocupam, junto aos serafins, o grau mais elevado, dedicado à contemplação direta da sabedoria de Deus.",
+      "tags": [
+        "Éden",
+        "Arca da Aliança",
+        "Ezequiel"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/BOWYER_BIBLE_GENESIS_05.9_Adam_%26_Eve_expelled._Genesis_3_v_24._Caspar_Luyken.jpg",
+      "imagem_credito": "Wikimedia Commons — Wikimedia Commons, CC BY-SA 4.0",
+      "tipo": "coro_angelico"
+    },
+    {
+      "id": "anjos-demonios:serafins",
+      "slug": "serafins",
+      "titulo": "Serafins",
+      "categoria": "anjos-demonios",
+      "resumo": "O coro angélico mais elevado, descrito por Isaías cantando eternamente a santidade de Deus diante do trono celeste.",
+      "corpo": "Os serafins aparecem uma única vez na Bíblia, na visão inaugural do profeta Isaías: seres de seis asas que voam ao redor do trono de Deus no templo, clamando uns aos outros \"Santo, Santo, Santo é o Senhor dos exércitos\" (Is 6,1-3) — o hino que a liturgia da Missa incorpora até hoje no \"Sanctus\". O nome deriva provavelmente do hebraico para \"os que queimam\" ou \"ardentes\", associado à intensidade de seu amor e proximidade com a glória divina. Ocupam o grau mais alto entre os nove coros angélicos.",
+      "tags": [
+        "Isaías 6",
+        "Sanctus",
+        "liturgia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Seraph_medieval.jpg",
+      "imagem_credito": null,
+      "tipo": "coro_angelico"
+    },
+    {
+      "id": "anjos-demonios:tentacao-demoniaca",
+      "slug": "tentacao-demoniaca",
+      "titulo": "A Tentação",
+      "categoria": "anjos-demonios",
+      "resumo": "A ação pela qual o demônio busca induzir a vontade humana ao pecado, sem jamais poder forçá-la contra sua liberdade.",
+      "corpo": "A tentação é a ação pela qual o demônio propõe o mal como algo desejável, buscando induzir a vontade humana ao pecado — como fez com Adão e Eva no Éden e com o próprio Jesus no deserto. A doutrina católica insiste que o demônio nunca pode forçar a vontade humana livre; pode sugerir, insistir e explorar fraquezas, mas o consentimento ao pecado permanece sempre um ato livre da pessoa. Por isso a oração do Pai-Nosso pede \"não nos deixeis cair em tentação\", reconhecendo tanto a realidade do combate espiritual quanto a necessidade da graça de Deus para resistir a ele.",
+      "tags": [
+        "Pai-Nosso",
+        "livre-arbítrio",
+        "combate espiritual"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Barth%C3%A9lemy_Parrocel-J%C3%A9sus_au_d%C3%A9sert.jpg",
+      "imagem_credito": null,
+      "tipo": "conceito"
+    }
+  ]
+}

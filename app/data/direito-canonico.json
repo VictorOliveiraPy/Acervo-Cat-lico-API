@@ -1,0 +1,161 @@
+{
+  "_meta": {
+    "categoria": "direito-canonico",
+    "nome": "Direito Canônico",
+    "descricao": "Institutos e procedimentos específicos do Direito Canônico — nulidade matrimonial, excomunhão, censuras e outros —, em nível de maior detalhe do que a visão geral da categoria Estrutura da Igreja.",
+    "status": "exemplos-iniciais",
+    "aviso": "Exposição introdutória de institutos jurídicos; não substitui aconselhamento canônico qualificado para casos concretos.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Código de Direito Canônico (1983)",
+      "Código dos Cânones das Igrejas Orientais (1990)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "direito-canonico:codigo-de-direito-canonico",
+      "slug": "codigo-de-direito-canonico",
+      "titulo": "O Código de Direito Canônico",
+      "categoria": "direito-canonico",
+      "resumo": "A coletânea sistemática de leis que rege a organização e a vida da Igreja Católica de rito latino.",
+      "corpo": "O Código de Direito Canônico (Codex Iuris Canonici) é a compilação oficial das leis que regem a organização, o governo e a disciplina da Igreja Latina, promulgada em sua forma atual por João Paulo II em 1983, substituindo o código de 1917 à luz das reformas do Concílio Vaticano II. Organizado em sete \"livros\", trata de temas como as normas gerais, o povo de Deus, o ensinamento da Igreja, a função de santificar (sacramentos), os bens temporais, as sanções e os processos. As Igrejas Orientais Católicas têm um código próprio, o Código dos Cânones das Igrejas Orientais (1990).",
+      "tags": [
+        "Codex Iuris Canonici",
+        "João Paulo II",
+        "Vaticano II"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/1917_Codex_Iuris_Canonici_%281918_ed.%29_%28page_10_crop%29.jpg",
+      "imagem_credito": null,
+      "ordem": 1
+    },
+    {
+      "id": "direito-canonico:nulidade-matrimonial",
+      "slug": "nulidade-matrimonial",
+      "titulo": "Nulidade Matrimonial",
+      "categoria": "direito-canonico",
+      "resumo": "A declaração eclesiástica de que um casamento, por faltar-lhe algum elemento essencial desde o início, nunca foi válido.",
+      "corpo": "A declaração de nulidade matrimonial não é um \"divórcio católico\", como popularmente se confunde, mas o reconhecimento, por um tribunal eclesiástico, de que determinado casamento nunca existiu validamente desde seu início, por faltar-lhe algum elemento essencial exigido pelo Direito Canônico — como consentimento livre e pleno, discernimento suficiente, ou ausência de impedimentos como vínculo anterior não dissolvido. O processo, reformado e simplificado por Francisco no motu proprio \"Mitis Iudex\" (2015), busca examinar com seriedade pastoral e jurídica se o vínculo matrimonial realmente se constituiu, não apenas encerrar uma relação que fracassou.",
+      "tags": [
+        "Mitis Iudex",
+        "tribunal eclesiástico",
+        "consentimento matrimonial"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Pietro_Longhi%2C_Matrimonii_Sacramentum.png",
+      "imagem_credito": null,
+      "ordem": 2
+    },
+    {
+      "id": "direito-canonico:excomunhao",
+      "slug": "excomunhao",
+      "titulo": "Excomunhão",
+      "categoria": "direito-canonico",
+      "resumo": "A pena canônica mais grave, que exclui temporariamente o fiel de certos atos da vida sacramental da Igreja até sua reconciliação.",
+      "corpo": "A excomunhão é a censura canônica mais severa prevista pelo Direito da Igreja, aplicada a certos delitos gravíssimos taxativamente previstos em lei (como a apostasia, o aborto procurado e consumado, ou atentar contra a integridade do sacramento da Eucaristia). O excomungado permanece cristão batizado, mas fica privado de participar dos sacramentos e de exercer certos ofícios eclesiásticos, até que se reconcilie através de confissão, retratação ou outra via prevista em lei. Contrariamente à percepção popular, não é uma \"condenação eterna\" nem exclui a pessoa da Igreja de modo definitivo: é uma medida medicinal, destinada a levar o fiel à conversão e à reconciliação.",
+      "tags": [
+        "censura",
+        "delito canônico",
+        "reconciliação"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/86/Karl_Aspelin-Luther_uppbr%C3%A4nner_den_p%C3%A5fliga_bullan.jpg",
+      "imagem_credito": null,
+      "ordem": 3
+    },
+    {
+      "id": "direito-canonico:censuras-eclesiasticas",
+      "slug": "censuras-eclesiasticas",
+      "titulo": "Censuras Eclesiásticas",
+      "categoria": "direito-canonico",
+      "resumo": "As penas medicinais do Direito Canônico — excomunhão, interdito e suspensão — que buscam a conversão do fiel antes de puni-lo.",
+      "corpo": "As censuras (ou penas \"medicinais\") são um dos dois grandes tipos de pena no Direito Canônico, ao lado das penas expiatórias. Compreendem três graus: a excomunhão (a mais grave, que priva de participar dos sacramentos), o interdito (que priva de certos atos de culto ou sacramentos, mas sem excluir da comunhão eclesial em sentido pleno) e a suspensão (aplicável apenas a clérigos, restringindo o exercício de seu ofício ou ministério). Seu objetivo declarado não é punitivo em sentido estrito, mas \"medicinal\": buscam provocar o arrependimento e a emenda do fiel, cessando assim que ele se corrige e é validamente absolvido ou dispensado.",
+      "tags": [
+        "excomunhão",
+        "interdito",
+        "suspensão",
+        "pena medicinal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Decretum_Gratiani_-_Doctoral_investment_scene.jpg",
+      "imagem_credito": null,
+      "ordem": 4
+    },
+    {
+      "id": "direito-canonico:foro-interno-e-externo",
+      "slug": "foro-interno-e-externo",
+      "titulo": "Foro Interno e Foro Externo",
+      "categoria": "direito-canonico",
+      "resumo": "A distinção canônica entre a esfera íntima da consciência, tratada na confissão, e a esfera pública e jurídica da Igreja.",
+      "corpo": "O Direito Canônico distingue o \"foro interno\" — a esfera da consciência pessoal, tratada sobretudo no sacramento da Confissão, protegida por sigilo absoluto — do \"foro externo\", a esfera pública e institucional na qual a Igreja exerce sua autoridade jurídica visível, como em processos, sanções e atos administrativos. Um pecado ou uma situação pode ser resolvida no foro interno pela confissão sem que isso produza qualquer efeito jurídico público no foro externo, e vice-versa: essa distinção protege tanto a liberdade da consciência pessoal quanto a ordem jurídica pública necessária ao bom governo da Igreja.",
+      "tags": [
+        "sigilo sacramental",
+        "confissão",
+        "administração eclesial"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/09/San_Carlos_Church_confessional.JPG",
+      "imagem_credito": "Oyayi — Wikimedia Commons, CC BY-SA 3.0",
+      "ordem": 5
+    },
+    {
+      "id": "direito-canonico:processo-de-canonizacao-como-direito",
+      "slug": "processo-de-canonizacao-como-direito",
+      "titulo": "O Processo de Canonização como Instituto Jurídico",
+      "categoria": "direito-canonico",
+      "resumo": "As causas de santos seguem um procedimento canônico rigoroso, com fases diocesanas e romanas claramente reguladas por lei.",
+      "corpo": "Embora a santidade seja realidade espiritual, seu reconhecimento oficial pela Igreja segue um processo jurídico-canônico detalhado, regulado desde a constituição \"Divinus Perfectionis Magister\" de João Paulo II (1983): abertura da causa na diocese de origem do candidato após cinco anos de sua morte (salvo dispensa), coleta de testemunhos e escritos, exame pela Congregação (hoje Dicastério) das Causas dos Santos em Roma, reconhecimento das virtudes heroicas (\"Venerável\"), aprovação de um milagre para a beatificação e de um segundo para a canonização (dispensado no caso de mártires). Cada fase segue normas processuais estritas, com promotores, relatores e comissões médicas e teológicas.",
+      "tags": [
+        "causas dos santos",
+        "beatificação",
+        "canonização"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Canonizing_Pope_John_Paul_II_-_Vatican_City_%289611375434%29_%282%29.jpg",
+      "imagem_credito": "l0da_ralta — Wikimedia Commons, CC BY 2.0",
+      "ordem": 6
+    },
+    {
+      "id": "direito-canonico:direito-dos-fieis",
+      "slug": "direito-dos-fieis",
+      "titulo": "Direitos e Deveres dos Fiéis",
+      "categoria": "direito-canonico",
+      "resumo": "O Código de Direito Canônico reconhece a todos os batizados direitos fundamentais na Igreja, junto com deveres correspondentes.",
+      "corpo": "O Código de Direito Canônico de 1983, refletindo a eclesiologia de comunhão do Concílio Vaticano II, dedica um título específico aos direitos e deveres de todos os fiéis cristãos: o direito de receber os sacramentos e a palavra de Deus, de manifestar necessidades e opiniões pastorais aos pastores, de associar-se e promover a ação apostólica, de receber educação cristã, e o dever correspondente de manter comunhão com a Igreja, viver santamente e sustentar suas necessidades materiais. É um desenvolvimento jurídico relativamente recente, que reconhece formalmente ao leigo comum uma dignidade e uma participação ativa antes menos explicitadas no direito eclesiástico.",
+      "tags": [
+        "Código de 1983",
+        "eclesiologia de comunhão",
+        "leigos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tridentinum.jpg",
+      "imagem_credito": null,
+      "ordem": 7
+    },
+    {
+      "id": "direito-canonico:impedimentos-matrimoniais",
+      "slug": "impedimentos-matrimoniais",
+      "titulo": "Impedimentos Matrimoniais",
+      "categoria": "direito-canonico",
+      "resumo": "As circunstâncias previstas em lei que tornam uma pessoa inábil para contrair validamente o matrimônio, salvo dispensa.",
+      "corpo": "Os impedimentos matrimoniais são circunstâncias estabelecidas pelo Direito Canônico que tornam uma pessoa incapaz de contrair validamente o matrimônio até que sejam removidas ou dispensadas — como idade insuficiente, vínculo matrimonial anterior não dissolvido (ligâmen), ordem sacra, voto público perpétuo de castidade em instituto religioso, ou parentesco de sangue em determinados graus (consanguinidade). Alguns impedimentos são de direito divino, portanto insuperáveis por nenhuma autoridade eclesiástica (como o vínculo de um casamento válido anterior), enquanto outros são de direito eclesiástico e podem, em certos casos, ser dispensados pela autoridade competente por justa causa.",
+      "tags": [
+        "ligâmen",
+        "consanguinidade",
+        "dispensa"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Cambrige%2C_Fitzwilliam_Museum_Ms._262_fol._71v_Decretum_-_Tree_of_Affinity.jpg",
+      "imagem_credito": null,
+      "ordem": 8
+    },
+    {
+      "id": "direito-canonico:apelacao-e-recurso-canonico",
+      "slug": "apelacao-e-recurso-canonico",
+      "titulo": "Apelação e Recurso Canônico",
+      "categoria": "direito-canonico",
+      "resumo": "O direito de todo fiel de recorrer contra decisões administrativas ou judiciais da autoridade eclesiástica que considere injustas.",
+      "corpo": "O Direito Canônico prevê mecanismos formais de recurso contra decisões que um fiel considere injustas, seja no âmbito judicial (apelação de sentenças de tribunais eclesiásticos a instâncias superiores, até a Rota Romana) seja no âmbito administrativo (recurso hierárquico contra decretos de autoridades eclesiásticas, podendo chegar aos dicastérios da Cúria Romana e, em casos excepcionais, ao próprio papa). Esses mecanismos refletem o princípio de que também a autoridade eclesiástica está submetida ao direito e não pode agir arbitrariamente, garantindo aos fiéis instrumentos concretos de defesa de seus direitos legítimos.",
+      "tags": [
+        "Rota Romana",
+        "recurso hierárquico",
+        "Cúria Romana"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bronze_door_of_the_Apostolic_Palace_%2811641456776%29.jpg",
+      "imagem_credito": null,
+      "ordem": 9
+    }
+  ]
+}

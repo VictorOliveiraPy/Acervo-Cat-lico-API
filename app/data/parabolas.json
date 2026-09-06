@@ -1,0 +1,595 @@
+{
+  "_meta": {
+    "categoria": "parabolas",
+    "nome": "Parábolas de Jesus",
+    "descricao": "As parábolas contadas por Jesus nos Evangelhos, com contexto, referência bíblica e chave de interpretação.",
+    "status": "exemplos-iniciais",
+    "aviso": "Não esgota todas as parábolas dos Evangelhos; cobre as mais conhecidas e comentadas pela tradição cristã.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Catecismo da Igreja Católica, n. 546 (as parábolas do Reino)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "parabolas:filho-prodigo",
+      "slug": "filho-prodigo",
+      "titulo": "O Filho Pródigo",
+      "categoria": "parabolas",
+      "resumo": "Parábola do pai que corre ao encontro do filho que desperdiçou a herança, imagem central da misericórdia de Deus.",
+      "corpo": "Um jovem pede antecipadamente sua parte da herança, desperdiça tudo numa \"vida dissoluta\" e, reduzido à miséria, decide voltar para casa esperando ser recebido apenas como empregado. O pai, ao vê-lo ainda de longe, corre ao seu encontro, o abraça e organiza uma festa — para desgosto do irmão mais velho, obediente mas incapaz de compreender tanta misericórdia. É lida como a mais completa parábola bíblica sobre o perdão e a alegria de Deus diante do pecador arrependido.",
+      "tags": [
+        "misericórdia",
+        "perdão"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg",
+      "imagem_credito": "Rembrandt — Wikimedia Commons, domínio público",
+      "referencia_biblica": "Lucas 15,11-32",
+      "evangelistas": [
+        "Lucas"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:bom-samaritano",
+      "slug": "bom-samaritano",
+      "titulo": "O Bom Samaritano",
+      "categoria": "parabolas",
+      "resumo": "Parábola que redefine \"próximo\" como qualquer pessoa necessitada, não apenas os do mesmo grupo social ou religioso.",
+      "corpo": "Em resposta à pergunta \"quem é o meu próximo?\", Jesus narra um homem assaltado e deixado ferido à beira do caminho, ignorado por um sacerdote e um levita, mas socorrido por um samaritano — membro de um grupo desprezado pelos judeus da época —, que cuida dele e paga sua estadia numa hospedaria. A parábola desloca a pergunta original: não \"quem é meu próximo\", mas \"quem se fez próximo\" de quem precisava.",
+      "tags": [
+        "caridade",
+        "próximo",
+        "misericórdia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/de/Balthasar_van_Cortbemde_-_The_Good_Samaritan.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "referencia_biblica": "Lucas 10,25-37",
+      "evangelistas": [
+        "Lucas"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:semeador",
+      "slug": "semeador",
+      "titulo": "O Semeador",
+      "categoria": "parabolas",
+      "resumo": "Parábola sobre os diferentes tipos de terreno em que a semente da Palavra de Deus pode cair, explicada pelo próprio Jesus.",
+      "corpo": "Um semeador lança sementes que caem em quatro tipos de solo — a beira do caminho, terreno pedregoso, entre espinhos, e terra boa —, com resultados muito diferentes. É uma das raras parábolas cuja explicação alegórica o próprio Jesus dá aos discípulos: os diferentes solos representam diferentes disposições do coração humano ao receber a Palavra de Deus.",
+      "tags": [
+        "Palavra de Deus",
+        "Reino de Deus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pieter_Bruegel_the_Elder_-_Landscape_with_the_Parable_of_the_Sower_-_WGA03340.jpg",
+      "imagem_credito": "Pieter Bruegel, o Velho — Wikimedia Commons, domínio público",
+      "referencia_biblica": "Mateus 13,1-23",
+      "evangelistas": [
+        "Mateus",
+        "Marcos",
+        "Lucas"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:joio-e-trigo",
+      "slug": "joio-e-trigo",
+      "titulo": "O Joio e o Trigo",
+      "categoria": "parabolas",
+      "resumo": "Parábola sobre a convivência entre o bem e o mal no mundo até o juízo final, quando serão finalmente separados.",
+      "corpo": "Um inimigo semeia joio (erva daninha) no meio do trigo de um campo; o dono opta por deixar ambos crescerem juntos até a colheita, para não arrancar acidentalmente o trigo bom — imagem da paciência de Deus, que permite a convivência entre o bem e o mal no mundo (e até dentro da própria Igreja) até o julgamento final, quando a separação definitiva ocorrerá.",
+      "tags": [
+        "Reino de Deus",
+        "juízo final"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/184_W%C3%BCrttemberg_und_M%C3%B6mpelgard_M%C3%B6mpelgarder_Altar_You_know_who.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "referencia_biblica": "Mateus 13,24-30.36-43",
+      "evangelistas": [
+        "Mateus"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:grao-de-mostarda",
+      "slug": "grao-de-mostarda",
+      "titulo": "O Grão de Mostarda",
+      "categoria": "parabolas",
+      "resumo": "Parábola sobre o Reino de Deus que começa pequeno e imperceptível, mas cresce até se tornar imenso.",
+      "corpo": "O Reino de Deus é comparado a um grão de mostarda, a menor de todas as sementes, que no entanto cresce até se tornar uma grande planta capaz de abrigar pássaros em seus ramos — imagem do contraste entre os começos despretensiosos do Evangelho e sua expansão universal ao longo da história.",
+      "tags": [
+        "Reino de Deus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Teachings_of_Jesus_5_of_40._parable_of_the_mustard_seed._Jan_Luyken_etching._Bowyer_Bible.gif",
+      "imagem_credito": "Jan Luyken — Wikimedia Commons, FAL",
+      "referencia_biblica": "Mateus 13,31-32",
+      "evangelistas": [
+        "Mateus",
+        "Marcos",
+        "Lucas"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:fermento-na-massa",
+      "slug": "fermento-na-massa",
+      "titulo": "O Fermento na Massa",
+      "categoria": "parabolas",
+      "resumo": "Breve parábola sobre a ação silenciosa e transformadora do Reino de Deus no mundo.",
+      "corpo": "Comparado a um pouco de fermento que uma mulher mistura numa grande quantidade de farinha até toda a massa crescer, o Reino de Deus age de modo silencioso, gradual, mas profundamente transformador na realidade em que é introduzido.",
+      "tags": [
+        "Reino de Deus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Teachings_of_Jesus_6_of_40._parable_of_the_leaven._Jan_Luyken_etching._Bowyer_Bible.gif",
+      "imagem_credito": "Jan Luyken — Wikimedia Commons, FAL",
+      "referencia_biblica": "Mateus 13,33",
+      "evangelistas": [
+        "Mateus",
+        "Lucas"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:tesouro-escondido-e-perola",
+      "slug": "tesouro-escondido-e-perola",
+      "titulo": "O Tesouro Escondido e a Pérola de Grande Valor",
+      "categoria": "parabolas",
+      "resumo": "Duas parábolas geminadas sobre o valor supremo do Reino de Deus, que vale a pena \"vender tudo\" para alcançar.",
+      "corpo": "Um homem encontra um tesouro escondido num campo e vende tudo que tem para comprar aquele campo; um mercador encontra uma pérola de grande valor e faz o mesmo. As duas parábolas geminadas expressam, de ângulos complementares — o achado inesperado e a busca deliberada —, que o Reino de Deus vale mais que qualquer outra posse ou projeto de vida.",
+      "tags": [
+        "Reino de Deus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Werkstatt_des_Domenico_Fetti_%E2%80%94_Gleichnis_von_der_k%C3%B6stlichen_Perle.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "referencia_biblica": "Mateus 13,44-46",
+      "evangelistas": [
+        "Mateus"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:ovelha-perdida",
+      "slug": "ovelha-perdida",
+      "titulo": "A Ovelha Perdida",
+      "categoria": "parabolas",
+      "resumo": "Parábola do pastor que deixa noventa e nove ovelhas para buscar a única que se perdeu.",
+      "corpo": "Um pastor com cem ovelhas, ao perceber que uma se perdeu, deixa as noventa e nove no deserto e vai atrás da perdida até encontrá-la, carregando-a nos ombros de volta com alegria. É uma das três parábolas da \"misericórdia\" no capítulo 15 de Lucas (com a moeda perdida e o filho pródigo), afirmando que há \"mais alegria no Céu por um pecador que se converte\" do que por noventa e nove justos que não precisam de conversão.",
+      "tags": [
+        "misericórdia",
+        "conversão"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Teachings_of_Jesus_14_of_40._parable_of_the_lost_sheep._Jan_Luyken_etching._Bowyer_Bible.gif",
+      "imagem_credito": "Foto: Phillip Medhurst — Wikimedia Commons, FAL",
+      "referencia_biblica": "Lucas 15,1-7",
+      "evangelistas": [
+        "Mateus",
+        "Lucas"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:moeda-perdida",
+      "slug": "moeda-perdida",
+      "titulo": "A Moeda Perdida",
+      "categoria": "parabolas",
+      "resumo": "Parábola da mulher que varre a casa inteira até encontrar uma única moeda perdida, imagem da busca de Deus por cada pecador.",
+      "corpo": "Uma mulher com dez moedas de prata, ao perder uma, acende uma lâmpada e varre cuidadosamente a casa até encontrá-la, convocando as vizinhas para celebrar. Ao lado da ovelha perdida e do filho pródigo, reforça a mesma mensagem: Deus busca ativamente cada pessoa perdida, e sua recuperação é motivo de festa no Céu.",
+      "tags": [
+        "misericórdia",
+        "conversão"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Brooklyn_Museum_-_The_Lost_Drachma_%28La_drachme_perdue%29_-_James_Tissot_-_overall.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "referencia_biblica": "Lucas 15,8-10",
+      "evangelistas": [
+        "Lucas"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:credor-incompassivo",
+      "slug": "credor-incompassivo",
+      "titulo": "O Credor Incompassivo (Servo Impiedoso)",
+      "categoria": "parabolas",
+      "resumo": "Parábola sobre o dever de perdoar sem limites, a partir do contraste entre uma dívida enorme perdoada e uma pequena não perdoada.",
+      "corpo": "Um servo que tem uma dívida astronômica perdoada pelo rei recusa-se, logo depois, a perdoar uma dívida muito menor de um colega, sendo por isso severamente punido. Responde à pergunta de Pedro sobre quantas vezes se deve perdoar (\"até sete vezes?\"), ensinando um perdão sem limite calculável, à luz do perdão imensurável já recebido de Deus.",
+      "tags": [
+        "perdão",
+        "misericórdia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Jan_van_Hemessen_-_The_Parable_of_the_Unmerciful_Servant.jpg",
+      "imagem_credito": "Jan Sanders van Hemessen — Wikimedia Commons, domínio público",
+      "referencia_biblica": "Mateus 18,21-35",
+      "evangelistas": [
+        "Mateus"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:trabalhadores-da-vinha",
+      "slug": "trabalhadores-da-vinha",
+      "titulo": "Os Trabalhadores da Vinha (Última Hora)",
+      "categoria": "parabolas",
+      "resumo": "Parábola sobre a generosidade gratuita de Deus, que paga o mesmo salário a quem trabalhou o dia todo e a quem trabalhou só uma hora.",
+      "corpo": "Um proprietário contrata trabalhadores em horários diferentes do dia — de manhã cedo até a última hora da tarde — e paga a todos o mesmo salário combinado, gerando protesto dos que trabalharam mais horas. A parábola não é sobre justiça trabalhista, mas sobre a generosidade gratuita de Deus, que \"não é injusto\" por dar a todos, mesmo aos que vieram por último, a plenitude da salvação.",
+      "tags": [
+        "graça",
+        "generosidade de Deus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Rembrandt_-_Parable_of_the_Laborers_in_the_Vineyard.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "referencia_biblica": "Mateus 20,1-16",
+      "evangelistas": [
+        "Mateus"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:dois-filhos-mandados-a-vinha",
+      "slug": "dois-filhos-mandados-a-vinha",
+      "titulo": "Os Dois Filhos",
+      "categoria": "parabolas",
+      "resumo": "Breve parábola sobre a diferença entre dizer \"sim\" a Deus e realmente cumprir sua vontade.",
+      "corpo": "Um pai pede a dois filhos que trabalhem na vinha: um recusa de imediato, mas depois se arrepende e vai; o outro concorda prontamente, mas não vai. Jesus pergunta qual dos dois fez a vontade do pai — resposta óbvia que ele usa para confrontar líderes religiosos que professavam fidelidade sem a viver de fato.",
+      "tags": [
+        "obediência",
+        "conversão"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Matteo_Rosselli_Jesus_and_John_the_Baptist.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "referencia_biblica": "Mateus 21,28-32",
+      "evangelistas": [
+        "Mateus"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:vinhateiros-homicidas",
+      "slug": "vinhateiros-homicidas",
+      "titulo": "Os Vinhateiros Homicidas",
+      "categoria": "parabolas",
+      "resumo": "Parábola alegórica sobre a rejeição dos profetas e, por fim, do próprio Filho de Deus, pelos líderes de Israel.",
+      "corpo": "Arrendatários de uma vinha maltratam e matam os servos enviados pelo dono para receber os frutos, e por fim matam até o próprio filho do proprietário, esperando ficar com a herança. A parábola alegórica é lida como resumo da história da rejeição dos profetas por parte de Israel e, culminantemente, da rejeição e morte do próprio Filho de Deus.",
+      "tags": [
+        "rejeição",
+        "Paixão de Cristo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Parabola_dei_vignaioli_omicidi_-_Fetti.png",
+      "imagem_credito": "Domenico Fetti — Wikimedia Commons, domínio público",
+      "referencia_biblica": "Mateus 21,33-46",
+      "evangelistas": [
+        "Mateus",
+        "Marcos",
+        "Lucas"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:banquete-de-bodas",
+      "slug": "banquete-de-bodas",
+      "titulo": "O Banquete de Bodas",
+      "categoria": "parabolas",
+      "resumo": "Parábola sobre convidados que recusam um convite real, substituídos por gente das ruas — imagem da abertura do Reino a todos.",
+      "corpo": "Um rei convida para o banquete de bodas de seu filho, mas os convidados originais recusam, alguns até maltratando os mensageiros; o rei então manda convidar indiscriminadamente quem for encontrado pelas ruas. É lida como imagem da rejeição inicial do Evangelho por parte de Israel e sua consequente extensão a todos os povos, sem exclusão.",
+      "tags": [
+        "Reino de Deus",
+        "universalidade"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bernardo_Strozzi_-_Parable_of_the_Wedding_Feast.jpg",
+      "imagem_credito": "Bernardo Strozzi — Wikimedia Commons, domínio público",
+      "referencia_biblica": "Mateus 22,1-14",
+      "evangelistas": [
+        "Mateus",
+        "Lucas"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:dez-virgens",
+      "slug": "dez-virgens",
+      "titulo": "As Dez Virgens (Prudentes e Néscias)",
+      "categoria": "parabolas",
+      "resumo": "Parábola sobre a necessidade de vigilância constante diante da vinda inesperada do Esposo (Cristo).",
+      "corpo": "Dez damas de honra aguardam a chegada de um noivo para um casamento; cinco levam óleo de reserva para suas lâmpadas, cinco não, e estas últimas ficam de fora quando o noivo chega de surpresa, tarde da noite. É lida como advertência sobre a necessidade de vigilância espiritual constante, já que \"não sabeis nem o dia nem a hora\" da vinda definitiva de Cristo.",
+      "tags": [
+        "vigilância",
+        "Parusia",
+        "escatologia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/ThreeFoolishVirginsMagdeburg.jpg",
+      "imagem_credito": "Foto: Wikimedia Commons — Wikimedia Commons, CC BY-SA 3.0",
+      "referencia_biblica": "Mateus 25,1-13",
+      "evangelistas": [
+        "Mateus"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:talentos",
+      "slug": "talentos",
+      "titulo": "Os Talentos",
+      "categoria": "parabolas",
+      "resumo": "Parábola sobre o uso responsável e frutífero dos dons recebidos de Deus, e não seu mero acúmulo passivo.",
+      "corpo": "Um senhor confia quantias diferentes (\"talentos\", unidade monetária que deu origem à palavra moderna \"talento\" no sentido de aptidão) a três servos antes de viajar; os dois que investem e multiplicam o dinheiro são recompensados, enquanto o que simplesmente o enterra por medo é repreendido. Ensina que os dons recebidos de Deus — capacidades, oportunidades, graças — devem ser usados frutuosamente, não apenas preservados passivamente.",
+      "tags": [
+        "dons",
+        "responsabilidade"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Willem_de_Poorter%27s_The_Parable_of_The_Talents_or_Minas.png",
+      "imagem_credito": "Willem de Poorter — Wikimedia Commons, domínio público",
+      "referencia_biblica": "Mateus 25,14-30",
+      "evangelistas": [
+        "Mateus",
+        "Lucas"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:juizo-das-nacoes",
+      "slug": "juizo-das-nacoes",
+      "titulo": "O Juízo das Nações (Ovelhas e Cabritos)",
+      "categoria": "parabolas",
+      "resumo": "Parábola do Juízo Final em que o critério decisivo é o tratamento dado a \"um destes meus irmãos mais pequeninos\" — os famintos, sedentos, presos, doentes.",
+      "corpo": "No relato mais detalhado do Juízo Final nos Evangelhos, o Rei separa as \"ovelhas\" dos \"cabritos\" com base num único critério: o tratamento dado aos famintos, sedentos, estrangeiros, nus, doentes e presos, identificando-se pessoalmente com cada um deles (\"tudo o que fizestes a um destes meus irmãos mais pequeninos, a mim o fizestes\"). É a base bíblica direta das obras de misericórdia corporais (ver a categoria Virtudes).",
+      "tags": [
+        "juízo final",
+        "obras de misericórdia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Separation_of_Sheep_and_Goats_MET_cdi24-144-4s1.jpg",
+      "imagem_credito": "Metropolitan Museum of Art — Wikimedia Commons, CC0",
+      "referencia_biblica": "Mateus 25,31-46",
+      "evangelistas": [
+        "Mateus"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:rico-e-lazaro",
+      "slug": "rico-e-lazaro",
+      "titulo": "O Rico e Lázaro",
+      "categoria": "parabolas",
+      "resumo": "Parábola sobre a inversão radical de sortes após a morte entre um homem rico indiferente e o mendigo Lázaro à sua porta.",
+      "corpo": "Um homem rico vive na fartura, ignorando o mendigo Lázaro, coberto de chagas, à sua porta; após a morte de ambos, as sortes se invertem radicalmente — Lázaro é consolado \"no seio de Abraão\", e o rico sofre tormento, sem possibilidade de reversão. É uma severa advertência sobre a indiferença diante da pobreza alheia e sobre a irreversibilidade do destino após a morte.",
+      "tags": [
+        "pobreza",
+        "novíssimos",
+        "indiferença"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/The_Rich_Man_and_Lazarus_%28Girolamo_da_Ponte%29.jpg",
+      "imagem_credito": "Girolamo da Ponte — Wikimedia Commons, domínio público",
+      "referencia_biblica": "Lucas 16,19-31",
+      "evangelistas": [
+        "Lucas"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:fariseu-e-publicano",
+      "slug": "fariseu-e-publicano",
+      "titulo": "O Fariseu e o Publicano",
+      "categoria": "parabolas",
+      "resumo": "Parábola sobre a oração humilde do pecador arrependido, que Deus acolhe mais do que a autossuficiência do religioso orgulhoso.",
+      "corpo": "Um fariseu ora agradecendo a Deus por não ser como os demais homens, enumerando suas próprias práticas religiosas; um publicano (cobrador de impostos, malvisto socialmente) apenas bate no peito e pede: \"Meu Deus, tende piedade de mim, que sou pecador\". Jesus declara que o segundo, e não o primeiro, \"voltou para casa justificado\" — parábola central sobre humildade e autossuficiência espiritual.",
+      "tags": [
+        "humildade",
+        "oração",
+        "soberba"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/24/BasilikaOttobeurenFresko07.JPG",
+      "imagem_credito": "Foto: Johannes Böckh &amp; Thomas Mirtsch — Wikimedia Commons, CC BY-SA 3.0",
+      "referencia_biblica": "Lucas 18,9-14",
+      "evangelistas": [
+        "Lucas"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:juiz-injusto-e-viuva-insistente",
+      "slug": "juiz-injusto-e-viuva-insistente",
+      "titulo": "O Juiz Injusto e a Viúva Insistente",
+      "categoria": "parabolas",
+      "resumo": "Parábola que ensina a perseverança na oração a partir do contraste entre um juiz desonesto e a insistência de uma viúva.",
+      "corpo": "Uma viúva insiste repetidamente diante de um juiz desonesto e sem temor de Deus, até que ele, cansado de sua insistência, lhe faz justiça apenas para se livrar dela. Jesus argumenta \"a fortiori\": se até um juiz injusto cede à insistência, quanto mais Deus, que é bom, atenderá aos que perseveram na oração — parábola sobre a confiança perseverante na oração, não sobre \"cansar\" Deus.",
+      "tags": [
+        "oração",
+        "perseverança"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Gelijkenis_van_de_rechter_die_wordt_lastiggevallen_door_een_klagende_vrouw%2C_RP-P-OB-46.028.jpg",
+      "imagem_credito": "Rijksmuseum — Wikimedia Commons, CC0",
+      "referencia_biblica": "Lucas 18,1-8",
+      "evangelistas": [
+        "Lucas"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:figueira-esteril",
+      "slug": "figueira-esteril",
+      "titulo": "A Figueira Estéril",
+      "categoria": "parabolas",
+      "resumo": "Parábola sobre a paciência de Deus diante da falta de frutos, mas também sobre o limite real dessa paciência.",
+      "corpo": "Um homem quer cortar uma figueira que há três anos não dá fruto, mas o jardineiro pede mais um ano de prazo, prometendo cuidar dela com atenção redobrada antes de desistir. Combina paciência divina diante da falta de conversão com uma advertência real: essa paciência não é infinita nem incondicional.",
+      "tags": [
+        "conversão",
+        "paciência de Deus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/27_Mark%E2%80%99s_Gospel_H._parables_of_the_kingdom_image_1_of_1._the_barren_fig_tree._French_School.png",
+      "imagem_credito": "Foto: Phillip De Vere — Wikimedia Commons, FAL",
+      "referencia_biblica": "Lucas 13,6-9",
+      "evangelistas": [
+        "Lucas"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:rico-insensato",
+      "slug": "rico-insensato",
+      "titulo": "O Rico Insensato",
+      "categoria": "parabolas",
+      "resumo": "Parábola do homem que planeja construir celeiros maiores para guardar sua riqueza, sem contar com a proximidade da própria morte.",
+      "corpo": "Um homem rico, diante de uma colheita abundante, planeja construir celeiros maiores para guardar tudo e \"descansar, comer, beber e alegrar-se\" por muitos anos — sem saber que morreria naquela mesma noite. É advertência contra a avareza e a falsa segurança colocada apenas nos bens materiais, \"não sendo rico diante de Deus\".",
+      "tags": [
+        "avareza",
+        "vaidade das riquezas"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rembrandt_-_The_Parable_of_the_Rich_Fool.jpg",
+      "imagem_credito": "Rembrandt — Wikimedia Commons, domínio público",
+      "referencia_biblica": "Lucas 12,13-21",
+      "evangelistas": [
+        "Lucas"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:grande-ceia",
+      "slug": "grande-ceia",
+      "titulo": "A Grande Ceia (Os Convidados que se Escusam)",
+      "categoria": "parabolas",
+      "resumo": "Parábola semelhante ao Banquete de Bodas, sobre desculpas triviais que impedem pessoas de aceitar o convite decisivo de Deus.",
+      "corpo": "Um homem prepara uma grande ceia e convida muitos, mas todos, um a um, apresentam desculpas triviais — um campo recém-comprado, bois recém-adquiridos, um casamento recente — para não comparecer. O anfitrião então manda buscar pelos becos e estradas quem quiser vir, e declara que nenhum dos primeiros convidados provará de sua ceia.",
+      "tags": [
+        "Reino de Deus",
+        "indiferença religiosa"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Cornelis_Droochsloot_%281630-1673%29_-_The_Parable_of_the_Great_Supper_-_B.M.605_-_Bowes_Museum.jpg",
+      "imagem_credito": "Cornelis Droochsloot — Wikimedia Commons, domínio público",
+      "referencia_biblica": "Lucas 14,15-24",
+      "evangelistas": [
+        "Lucas"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:administrador-infiel",
+      "slug": "administrador-infiel",
+      "titulo": "O Administrador Desonesto (Astuto)",
+      "categoria": "parabolas",
+      "resumo": "Parábola de interpretação célebre pela dificuldade: um administrador desonesto é elogiado por sua astúcia prática, não por sua desonestidade.",
+      "corpo": "Um administrador prestes a ser demitido por má gestão negocia rapidamente descontos nas dívidas devidas a seu patrão, garantindo assim favores futuros para si mesmo; surpreendentemente, é elogiado — não por sua desonestidade, mas por sua astúcia e senso de urgência prática, que Jesus contrasta com a falta de igual empenho dos \"filhos da luz\" nas coisas espirituais.",
+      "tags": [
+        "prudência",
+        "urgência espiritual"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Parable_of_the_Unjust_Steward_Marinus_van_Reymerswaele.jpg",
+      "imagem_credito": "Marinus van Reymerswaele — Wikimedia Commons, domínio público",
+      "referencia_biblica": "Lucas 16,1-13",
+      "evangelistas": [
+        "Lucas"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:boas-arvores-e-frutos",
+      "slug": "boas-arvores-e-frutos",
+      "titulo": "A Árvore e seus Frutos",
+      "categoria": "parabolas",
+      "resumo": "Ensinamento parabólico de que uma árvore boa não pode dar maus frutos, nem uma árvore má, bons frutos — critério para discernir profetas falsos.",
+      "corpo": "\"Toda árvore boa dá bons frutos, e toda árvore má dá maus frutos\" (Mt 7,17): imagem usada por Jesus, no Sermão da Montanha, como critério prático para discernir falsos profetas e falsos mestres — não pelas palavras que professam, mas pelos frutos concretos de sua vida e ação.",
+      "tags": [
+        "discernimento",
+        "falsos profetas"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Abraham_Bloemaert_-_Landschap_met_groenten_en_vruchten_op_de_voorgrond.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "referencia_biblica": "Mateus 7,15-20",
+      "evangelistas": [
+        "Mateus",
+        "Lucas"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:cego-guiando-cego",
+      "slug": "cego-guiando-cego",
+      "titulo": "O Cego Guiando o Cego",
+      "categoria": "parabolas",
+      "resumo": "Breve provérbio-parábola de Jesus sobre o perigo de seguir mestres tão despreparados quanto seus discípulos.",
+      "corpo": "\"Pode um cego guiar outro cego? Não cairão ambos na vala?\" (Lc 6,39): imagem breve e direta usada por Jesus para advertir contra seguir mestres ou guias espirituais tão despreparados ou cegos quanto aqueles que pretendem guiar.",
+      "tags": [
+        "discernimento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Pieter_Bruegel_the_Elder_-_The_Parable_of_the_Blind_Leading_the_Blind_-_WGA3511.jpg",
+      "imagem_credito": "Pieter Bruegel, o Velho — Wikimedia Commons, domínio público",
+      "referencia_biblica": "Lucas 6,39-40",
+      "evangelistas": [
+        "Mateus",
+        "Lucas"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    },
+    {
+      "id": "parabolas:casa-construida-sobre-a-rocha",
+      "slug": "casa-construida-sobre-a-rocha",
+      "titulo": "A Casa Construída sobre a Rocha",
+      "categoria": "parabolas",
+      "resumo": "Parábola que encerra o Sermão da Montanha, contrastando quem ouve e pratica a palavra de Jesus com quem apenas ouve.",
+      "corpo": "Quem ouve as palavras de Jesus e as pratica é comparado a um homem prudente que constrói sua casa sobre a rocha, resistente às tempestades; quem ouve e não pratica, a um insensato que constrói sobre a areia, cuja casa desaba ao primeiro temporal. Encerra o Sermão da Montanha com uma advertência prática sobre a diferença entre ouvir e viver o Evangelho.",
+      "tags": [
+        "prática da fé",
+        "Sermão da Montanha"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/89/The_house_built_upon_a_rock_LCCN2013647176.jpg",
+      "imagem_credito": "Library of Congress — Wikimedia Commons, domínio público",
+      "referencia_biblica": "Mateus 7,24-27",
+      "evangelistas": [
+        "Mateus",
+        "Lucas"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 546"
+      ]
+    }
+  ]
+}

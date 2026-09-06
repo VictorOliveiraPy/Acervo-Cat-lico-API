@@ -1,0 +1,181 @@
+{
+  "_meta": {
+    "categoria": "doutrina-social",
+    "nome": "Doutrina Social da Igreja",
+    "descricao": "Os princípios fundamentais da Doutrina Social — dignidade da pessoa, bem comum, subsidiariedade, solidariedade e outros — que orientam a leitura cristã da vida econômica, política e social.",
+    "status": "exemplos-iniciais",
+    "aviso": "Esta categoria trata dos princípios; os documentos que os desenvolvem (Rerum Novarum, Laudato Si' e outros) estão na categoria Documentos do Magistério.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Compêndio da Doutrina Social da Igreja",
+      "Catecismo da Igreja Católica, n. 1878-1948"
+    ]
+  },
+  "itens": [
+    {
+      "id": "doutrina-social:dignidade-da-pessoa-humana",
+      "slug": "dignidade-da-pessoa-humana",
+      "titulo": "Dignidade da Pessoa Humana",
+      "categoria": "doutrina-social",
+      "resumo": "O princípio fundante de toda a Doutrina Social: cada pessoa possui valor infinito por ser criada à imagem e semelhança de Deus.",
+      "corpo": "A dignidade da pessoa humana é o princípio do qual derivam todos os demais princípios da Doutrina Social da Igreja. Fundamenta-se na afirmação bíblica de que o ser humano foi criado \"à imagem e semelhança de Deus\" (Gn 1,26-27) e foi elevado ainda mais pela Encarnação, na qual o próprio Filho de Deus assumiu a natureza humana. Dessa dignidade decorre que nenhuma pessoa pode ser tratada como simples meio para fins econômicos, políticos ou sociais — ela é sempre um fim em si mesma —, e que essa dignidade é intrínseca e inviolável, independente de idade, saúde, capacidade produtiva, nacionalidade ou qualquer outra condição.",
+      "tags": [
+        "imagem de Deus",
+        "Encarnação",
+        "vida humana"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sistine_Chapel_ceiling%2C_Creation_of_Adam.jpg",
+      "imagem_credito": null,
+      "ordem": 1
+    },
+    {
+      "id": "doutrina-social:bem-comum",
+      "slug": "bem-comum",
+      "titulo": "Bem Comum",
+      "categoria": "doutrina-social",
+      "resumo": "O conjunto de condições sociais que permitem a cada pessoa e a cada grupo atingir mais plena e facilmente sua própria perfeição.",
+      "corpo": "O Concílio Vaticano II define o bem comum como \"o conjunto de condições da vida social que permitem, tanto aos grupos como a cada um de seus membros, atingir mais plena e facilmente a própria perfeição\" (Gaudium et Spes, 26). Não é a simples soma dos bens individuais nem o interesse da maioria contra a minoria, mas o bem de toda a pessoa e de todas as pessoas, que exige da autoridade política e de cada cidadão a busca de condições justas de segurança, trabalho, educação, saúde e paz para toda a sociedade, com atenção especial aos mais vulneráveis.",
+      "tags": [
+        "Gaudium et Spes",
+        "autoridade política",
+        "justiça social"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Ambrogio_Lorenzetti_-_Allegory_of_Good_Government_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 2
+    },
+    {
+      "id": "doutrina-social:subsidiariedade",
+      "slug": "subsidiariedade",
+      "titulo": "Subsidiariedade",
+      "categoria": "doutrina-social",
+      "resumo": "O princípio segundo o qual uma estrutura social maior não deve substituir a iniciativa e a responsabilidade que corpos menores podem exercer por si mesmos.",
+      "corpo": "Formulado classicamente por Pio XI na encíclica \"Quadragesimo Anno\" (1931), o princípio de subsidiariedade estabelece que \"assim como é injusto subtrair aos indivíduos o que eles podem realizar com a própria iniciativa e indústria para confiá-lo à comunidade, também é uma injustiça e, ao mesmo tempo, um grave dano e perturbação da boa ordem confiar a uma sociedade maior e mais elevada o que pode ser feito por comunidades menores e inferiores.\" O Estado e outras instituições maiores devem, portanto, apoiar e coordenar — não absorver ou substituir — a família, as associações locais e os corpos intermediários da sociedade, respeitando sua autonomia legítima.",
+      "tags": [
+        "Quadragesimo Anno",
+        "Pio XI",
+        "corpos intermediários",
+        "Estado"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Christmas_family_by_John_Lewis_Krimmel_c_1812.jpg",
+      "imagem_credito": null,
+      "ordem": 3
+    },
+    {
+      "id": "doutrina-social:solidariedade",
+      "slug": "solidariedade",
+      "titulo": "Solidariedade",
+      "categoria": "doutrina-social",
+      "resumo": "A determinação firme e perseverante de empenhar-se pelo bem comum, reconhecendo a interdependência entre todos os seres humanos.",
+      "corpo": "João Paulo II, na encíclica \"Sollicitudo Rei Socialis\" (1987), define a solidariedade não como \"um sentimento de vaga compaixão\", mas como \"a determinação firme e perseverante de empenhar-se pelo bem comum; ou seja, pelo bem de todos e de cada um, porque todos somos verdadeiramente responsáveis por todos.\" Reconhece a profunda interdependência que une hoje toda a família humana — econômica, cultural, política e ecológica — e converte essa constatação em exigência moral concreta de partilha e de responsabilidade mútua entre pessoas, povos e nações, especialmente diante das desigualdades globais.",
+      "tags": [
+        "Sollicitudo Rei Socialis",
+        "João Paulo II",
+        "interdependência"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Vincent_van_Gogh_-_The_Good_Samaritan%2C_1890_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 4
+    },
+    {
+      "id": "doutrina-social:destino-universal-dos-bens",
+      "slug": "destino-universal-dos-bens",
+      "titulo": "Destino Universal dos Bens",
+      "categoria": "doutrina-social",
+      "resumo": "O princípio de que os bens da criação são destinados a toda a humanidade, o que relativiza — sem abolir — o direito de propriedade privada.",
+      "corpo": "A Doutrina Social ensina que Deus destinou a terra e tudo o que ela contém a toda a humanidade, de modo que os bens criados devem chegar equitativamente a todos, sob a orientação da justiça e com a caridade como companheira. O direito de propriedade privada é legítimo e necessário, mas subordinado a este destino universal originário: \"a propriedade privada... está subordinada ao destino universal dos bens\" (Gaudium et Spes, 69). Por isso a tradição social católica insiste que a propriedade tem sempre uma \"hipoteca social\" — não pode ser usada de modo a prejudicar o acesso de outros ao que é necessário para uma vida digna.",
+      "tags": [
+        "propriedade privada",
+        "Gaudium et Spes",
+        "justiça"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Blue_Marble_Western_Hemisphere.jpg",
+      "imagem_credito": null,
+      "ordem": 5
+    },
+    {
+      "id": "doutrina-social:opcao-preferencial-pelos-pobres",
+      "slug": "opcao-preferencial-pelos-pobres",
+      "titulo": "Opção Preferencial pelos Pobres",
+      "categoria": "doutrina-social",
+      "resumo": "O chamado a colocar as necessidades dos pobres e vulneráveis no centro das decisões morais, sociais e econômicas.",
+      "corpo": "A \"opção preferencial pelos pobres\", expressão consolidada a partir da Conferência de Puebla (1979) e amplamente desenvolvida por João Paulo II e Francisco, não significa exclusão de outros grupos, mas prioridade moral: diante de qualquer decisão econômica, política ou pastoral, a Igreja pede que se avalie primeiro seu impacto sobre os mais pobres e vulneráveis. Enraíza-se na prática do próprio Jesus, que anunciou a boa nova primeiramente aos pobres (Lc 4,18), e no ensinamento profético do Antigo Testamento sobre a justiça devida ao órfão, à viúva e ao estrangeiro.",
+      "tags": [
+        "Puebla",
+        "Francisco",
+        "pobreza",
+        "justiça social"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 6
+    },
+    {
+      "id": "doutrina-social:participacao",
+      "slug": "participacao",
+      "titulo": "Participação",
+      "categoria": "doutrina-social",
+      "resumo": "O direito e o dever de todo cidadão de contribuir ativamente para a vida cultural, econômica, social e política de sua comunidade.",
+      "corpo": "A participação é a série de atividades pelas quais o cidadão, individualmente ou associado a outros, contribui para a vida cultural, econômica, social e política da comunidade a que pertence. A Doutrina Social a considera um dever tanto quanto um direito: sistemas que excluem grandes parcelas da população da participação efetiva — por pobreza, discriminação ou autoritarismo político — ferem gravemente a dignidade humana e o bem comum, e por isso a Igreja defende a promoção ativa de estruturas democráticas e associativas que permitam a participação real de todos, especialmente dos mais marginalizados.",
+      "tags": [
+        "cidadania",
+        "democracia",
+        "associativismo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 7
+    },
+    {
+      "id": "doutrina-social:dignidade-do-trabalho",
+      "slug": "dignidade-do-trabalho",
+      "titulo": "Dignidade do Trabalho",
+      "categoria": "doutrina-social",
+      "resumo": "A doutrina de que o trabalho humano não é mera mercadoria, mas expressão da dignidade da pessoa e forma de colaboração com a obra criadora de Deus.",
+      "corpo": "Desde a encíclica fundadora \"Rerum Novarum\" (1891) até \"Laborem Exercens\" (1981), a Doutrina Social afirma que o trabalho possui um valor subjetivo que precede e supera seu valor objetivo de mercado: ele não é simples mercadoria a ser comprada e vendida ao menor custo, mas expressão da dignidade de quem trabalha e participa, ao transformar o mundo, da própria obra criadora de Deus. Disso decorrem exigências concretas: salário justo, condições dignas, direito ao descanso, à organização sindical e à proteção contra a exploração — o princípio de que \"o capital não pode subsistir sem o trabalho\" tanto quanto o trabalho depende de meios de produção.",
+      "tags": [
+        "Rerum Novarum",
+        "Laborem Exercens",
+        "salário justo",
+        "sindicalismo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ford_Madox_Brown_-_Work_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 8
+    },
+    {
+      "id": "doutrina-social:cuidado-da-casa-comum",
+      "slug": "cuidado-da-casa-comum",
+      "titulo": "Cuidado da Casa Comum",
+      "categoria": "doutrina-social",
+      "resumo": "A responsabilidade moral pela criação, entendida como dom recebido de Deus a ser cultivado e guardado, não explorado sem limites.",
+      "corpo": "Desenvolvido sobretudo na encíclica \"Laudato Si'\" (2015) de Francisco, o princípio do cuidado da \"casa comum\" ensina que a criação é dom de Deus confiado à humanidade para \"cultivar e guardar\" (Gn 2,15), não para dominar sem limites. A crise ecológica é lida como sintoma de uma crise mais profunda, moral e espiritual, ligada à mesma lógica que gera injustiça social — daí o conceito de \"ecologia integral\", que une o cuidado do meio ambiente ao cuidado dos pobres, pois \"tudo está interligado\" e o grito da terra é inseparável do grito dos pobres.",
+      "tags": [
+        "Laudato Si'",
+        "ecologia integral",
+        "criação",
+        "Francisco"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/34/D%C3%BClmen%2C_Naturschutzgebiet_-Am_Enteborn-_--_2014_--_0202.jpg",
+      "imagem_credito": "Dietmar Rabich — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 9
+    },
+    {
+      "id": "doutrina-social:promocao-da-paz",
+      "slug": "promocao-da-paz",
+      "titulo": "Promoção da Paz",
+      "categoria": "doutrina-social",
+      "resumo": "A paz como obra da justiça, fruto de uma ordem social fundada na verdade, na liberdade, no amor e na justiça, não mera ausência de guerra.",
+      "corpo": "A Doutrina Social rejeita a noção de paz como simples ausência de conflito armado, definindo-a, com João XXIII na encíclica \"Pacem in Terris\" (1963), como fruto de uma ordem social fundada sobre a verdade, construída segundo a justiça, vivificada e integrada pela caridade e posta em prática na liberdade. Nessa visão, a paz é obra da justiça: onde há profunda desigualdade, opressão ou exclusão, a paz permanece frágil ou ilusória, e a Igreja insiste na busca de solução pacífica dos conflitos, no desarmamento e na cooperação internacional como caminhos concretos para consolidá-la.",
+      "tags": [
+        "Pacem in Terris",
+        "João XXIII",
+        "justiça",
+        "desarmamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Peter_Paul_Rubens_-_Allegory_on_the_Blessings_of_Peace_-_WGA20333.jpg",
+      "imagem_credito": null,
+      "ordem": 10
+    }
+  ]
+}

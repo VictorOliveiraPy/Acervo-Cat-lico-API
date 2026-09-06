@@ -1,0 +1,160 @@
+{
+  "_meta": {
+    "categoria": "vocacoes-estados-de-vida",
+    "nome": "Vocações e Estados de Vida",
+    "descricao": "O matrimônio, a vida consagrada, o ministério ordenado e a vida leiga como formas concretas do chamado universal à santidade.",
+    "status": "exemplos-iniciais",
+    "aviso": "Visão introdutória; a categoria Ordens Religiosas trata das congregações específicas, e Sacramentos, do matrimônio e da ordem como ritos sacramentais.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Concílio Vaticano II, Lumen Gentium, cap. IV-VI",
+      "Catecismo da Igreja Católica"
+    ]
+  },
+  "itens": [
+    {
+      "id": "vocacoes-estados-de-vida:vocacao-visao-geral",
+      "slug": "vocacao-visao-geral",
+      "titulo": "Vocação: Visão Geral",
+      "categoria": "vocacoes-estados-de-vida",
+      "resumo": "Todo cristão recebe de Deus um chamado pessoal e específico para viver e amar de determinada forma, dentro do único chamado comum à santidade.",
+      "corpo": "\"Vocação\" (do latim vocare, \"chamar\") designa o chamado pessoal e específico que Deus dirige a cada pessoa para uma forma concreta de vida e de amor, dentro do chamado universal e comum à santidade que vale para todo batizado, sem exceção. A Igreja reconhece diferentes estados de vida através dos quais esse chamado se concretiza — o matrimônio, a vida consagrada, o ministério ordenado e a vida leiga no mundo —, nenhum deles superior em dignidade humana aos demais, ainda que distintos em sua forma e missão específicas. Discernir a própria vocação é tarefa central da vida espiritual, geralmente amadurecida com oração, direção espiritual e experiência concreta de vida.",
+      "tags": [
+        "chamado de Deus",
+        "santidade",
+        "discernimento vocacional"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Caravaggio%2C_Michelangelo_Merisi_da_-_The_Calling_of_Saint_Matthew_-_1599-1600_%28hi_res%29.jpg",
+      "imagem_credito": null,
+      "ordem": 1
+    },
+    {
+      "id": "vocacoes-estados-de-vida:matrimonio-como-vocacao",
+      "slug": "matrimonio-como-vocacao",
+      "titulo": "O Matrimônio como Vocação",
+      "categoria": "vocacoes-estados-de-vida",
+      "resumo": "A união entre um homem e uma mulher, elevada por Cristo à dignidade de sacramento, é o caminho de santidade da imensa maioria dos cristãos.",
+      "corpo": "O matrimônio cristão não é apenas um contrato social ou civil, mas uma verdadeira vocação e sacramento: a aliança de amor exclusivo e definitivo entre um homem e uma mulher, aberta à vida, através da qual ambos se santificam mutuamente e educam os filhos na fé. Sendo o estado de vida da imensa maioria dos batizados, é também caminho ordinário e pleno de santidade, não etapa \"menor\" frente à vida consagrada — o Concílio Vaticano II insistiu explicitamente que todos os estados de vida, incluindo o matrimonial, são vocação a viver plenamente a caridade e a santidade cristãs.",
+      "tags": [
+        "sacramento do matrimônio",
+        "família",
+        "Vaticano II"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Raphael_Marriage_of_the_Virgin.jpg",
+      "imagem_credito": null,
+      "ordem": 2
+    },
+    {
+      "id": "vocacoes-estados-de-vida:vida-consagrada-como-vocacao",
+      "slug": "vida-consagrada-como-vocacao",
+      "titulo": "A Vida Consagrada como Vocação",
+      "categoria": "vocacoes-estados-de-vida",
+      "resumo": "A vida religiosa e outras formas de consagração pública radicalizam, através dos votos, a entrega total a Deus e ao Reino.",
+      "corpo": "A vida consagrada — vivida sobretudo por religiosos e religiosas através da profissão pública dos votos de pobreza, castidade e obediência — configura de modo radical a pessoa consagrada a Cristo casto, pobre e obediente, antecipando visivelmente, já nesta vida, a realidade escatológica do Reino de Deus, onde \"não haverá mais casamento nem doação em casamento\" (Mt 22,30). Não é fuga do mundo, mas testemunho profético de que Deus basta e de que os bens desta vida — riqueza, autonomia total, vida conjugal — não são o fim último da existência humana.",
+      "tags": [
+        "votos religiosos",
+        "vida religiosa",
+        "escatologia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Robert_Walter_Weir%2C_Taking_the_Veil.jpg",
+      "imagem_credito": null,
+      "ordem": 3
+    },
+    {
+      "id": "vocacoes-estados-de-vida:ordem-sacra-como-vocacao",
+      "slug": "ordem-sacra-como-vocacao",
+      "titulo": "O Ministério Ordenado como Vocação",
+      "categoria": "vocacoes-estados-de-vida",
+      "resumo": "Bispos, padres e diáconos recebem, pelo sacramento da Ordem, uma configuração especial a Cristo Cabeça e Servo da Igreja.",
+      "corpo": "O sacramento da Ordem confere a bispos, padres e diáconos uma configuração sacramental especial a Cristo, capacitando-os a agir \"in persona Christi Capitis\" — na pessoa de Cristo, Cabeça da Igreja — sobretudo na celebração dos sacramentos e na proclamação autorizada da Palavra. Diferentemente do matrimônio e da vida consagrada, que dizem respeito primariamente à santificação pessoal de quem os vive, a Ordem é orientada essencialmente ao serviço da comunidade eclesial: o ordenado recebe o dom não para si, mas para edificar o Corpo de Cristo através do ensino, do culto e do governo pastoral.",
+      "tags": [
+        "sacramento da Ordem",
+        "in persona Christi",
+        "ministério pastoral"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Nicolas_Poussin_-_The_Sacrament_of_Ordination_%28Christ_Presenting_the_Keys_to_Saint_Peter%29_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 4
+    },
+    {
+      "id": "vocacoes-estados-de-vida:vida-leiga-no-mundo",
+      "slug": "vida-leiga-no-mundo",
+      "titulo": "A Vida Leiga no Mundo",
+      "categoria": "vocacoes-estados-de-vida",
+      "resumo": "A vocação específica do leigo é santificar as realidades temporais — família, trabalho, política, cultura — a partir de dentro delas.",
+      "corpo": "O Concílio Vaticano II, na constituição Lumen Gentium, definiu com clareza a vocação própria do leigo: buscar o Reino de Deus \"tratando as coisas temporais e ordenando-as segundo Deus\", vivendo a fé precisamente em meio às realidades comuns do mundo — a profissão, a família, a vida cívica, a cultura — não apesar delas, mas através delas. O leigo não é um \"religioso de segunda categoria\" nem um mero colaborador subordinado do clero, mas tem missão própria e insubstituível de impregnar de espírito evangélico as estruturas temporais da sociedade, a partir de dentro e com competência própria em seu campo de atuação.",
+      "tags": [
+        "Lumen Gentium",
+        "realidades temporais",
+        "apostolado leigo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Heilige_Familie_in_de_timmermanswerkplaats%2C_RP-P-1949-507.jpg",
+      "imagem_credito": null,
+      "ordem": 5
+    },
+    {
+      "id": "vocacoes-estados-de-vida:institutos-seculares",
+      "slug": "institutos-seculares",
+      "titulo": "Institutos Seculares",
+      "categoria": "vocacoes-estados-de-vida",
+      "resumo": "Uma forma pouco conhecida de consagração: pessoas que professam os conselhos evangélicos permanecendo plenamente inseridas na vida secular comum.",
+      "corpo": "Reconhecidos formalmente por Pio XII em 1947, os institutos seculares reúnem homens e mulheres que professam os conselhos evangélicos de pobreza, castidade e obediência — como os religiosos — mas sem vida comunitária ou hábito distintivo, permanecendo inseridos em suas profissões e ambientes seculares comuns, muitas vezes sem que colegas ou vizinhos saibam de sua consagração. Combinam, assim, a radicalidade dos votos com uma presença discreta e leiga no coração das estruturas seculares, sendo considerados uma ponte original entre a vida consagrada tradicional e a vocação leiga no mundo.",
+      "tags": [
+        "Pio XII",
+        "conselhos evangélicos",
+        "consagração discreta"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Jean-Fran%C3%A7ois_Millet_-_The_Angelus_-_Walters_37903.jpg",
+      "imagem_credito": null,
+      "ordem": 6
+    },
+    {
+      "id": "vocacoes-estados-de-vida:viuvez-consagrada",
+      "slug": "viuvez-consagrada",
+      "titulo": "Viuvez e Virgindade Consagradas",
+      "categoria": "vocacoes-estados-de-vida",
+      "resumo": "Ordens antigas, recuperadas pela reforma litúrgica pós-conciliar, pelas quais mulheres se consagram a Deus fora da vida religiosa comunitária.",
+      "corpo": "A Ordem das Virgens e o rito de consagração das viúvas são formas de consagração muito antigas — atestadas já nos primeiros séculos do cristianismo — que caíram parcialmente em desuso ao longo da história, mas foram recuperadas e restauradas pela reforma litúrgica do Concílio Vaticano II. Mulheres solteiras ou viúvas podem, através de rito litúrgico presidido pelo bispo, consagrar-se definitivamente a Cristo, vivendo geralmente de modo independente (não em comunidade religiosa formal), dedicadas à oração, à penitência e às obras de caridade em seu contexto próprio de vida.",
+      "tags": [
+        "Ordem das Virgens",
+        "consagração litúrgica",
+        "restauração pós-conciliar"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Rembrandt_The_Prophetess_Anna_in_the_Temple.jpg",
+      "imagem_credito": null,
+      "ordem": 7
+    },
+    {
+      "id": "vocacoes-estados-de-vida:diaconato-permanente",
+      "slug": "diaconato-permanente",
+      "titulo": "O Diaconato Permanente",
+      "categoria": "vocacoes-estados-de-vida",
+      "resumo": "Restaurado pelo Concílio Vaticano II como grau estável do ministério ordenado, aberto também a homens casados.",
+      "corpo": "Por séculos, o diaconato no Ocidente havia se tornado quase exclusivamente uma etapa transitória a caminho do presbiterado. O Concílio Vaticano II autorizou sua restauração como grau permanente e estável do sacramento da Ordem, aberto tanto a homens celibatários quanto a homens casados (desde que já casados antes da ordenação, não podendo casar-se depois de ordenados, caso enviuvem). Os diáconos permanentes exercem ministérios de caridade, de serviço litúrgico (podem batizar, presidir casamentos e funerais, pregar) e de proclamação da Palavra, geralmente conciliando o ministério com profissão secular e vida familiar.",
+      "tags": [
+        "Vaticano II",
+        "clero casado latino",
+        "ministério da caridade"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_Martyrdom_of_St_Stephen_Tobias_Pock_%281640%29.jpg",
+      "imagem_credito": null,
+      "ordem": 8
+    },
+    {
+      "id": "vocacoes-estados-de-vida:discernimento-vocacional",
+      "slug": "discernimento-vocacional",
+      "titulo": "Discernimento Vocacional",
+      "categoria": "vocacoes-estados-de-vida",
+      "resumo": "O processo espiritual pelo qual a pessoa busca identificar, com liberdade e oração, para qual estado de vida Deus a está chamando.",
+      "corpo": "O discernimento vocacional é o processo pessoal e espiritual, geralmente acompanhado de oração assídua, direção espiritual qualificada e experiência concreta de vida, pelo qual alguém busca identificar com maior clareza para qual estado de vida específico Deus o está chamando. Não se trata de simplesmente escolher entre opções indiferentes, mas de buscar ativamente, na liberdade e na escuta interior, a vontade específica de Deus para aquela pessoa — processo que pode levar tempo considerável e frequentemente envolve dúvida, resistência interior e amadurecimento progressivo antes de uma resposta definitiva e livre.",
+      "tags": [
+        "direção espiritual",
+        "oração",
+        "liberdade e vontade de Deus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Hoffman-ChristAndTheRichYoungRuler.jpg",
+      "imagem_credito": null,
+      "ordem": 9
+    }
+  ]
+}

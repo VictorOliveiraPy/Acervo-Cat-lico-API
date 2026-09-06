@@ -1,0 +1,445 @@
+{
+  "_meta": {
+    "categoria": "milagres-de-jesus",
+    "nome": "Milagres de Jesus",
+    "descricao": "Os sinais e milagres realizados por Jesus segundo os quatro Evangelhos: curas, exorcismos, domínio sobre a natureza e ressurreições.",
+    "status": "exemplos-iniciais",
+    "aviso": "Não esgota todos os milagres narrados nos Evangelhos; cobre os episódios mais conhecidos e comentados pela tradição cristã.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Catecismo da Igreja Católica, n. 547-550 (os milagres de Jesus)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "milagres-de-jesus:bodas-de-cana",
+      "slug": "bodas-de-cana",
+      "titulo": "As Bodas de Caná",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus transforma água em vinho em Caná da Galileia, seu primeiro sinal, a pedido de Maria.",
+      "corpo": "Em Caná da Galileia, durante uma festa de casamento, faltou vinho. Maria, atenta à necessidade dos noivos, pede a Jesus que interceda, e ele manda encher seis talhas de pedra com água, que se torna o melhor vinho da festa. João chama este episódio de \"sinal\" (sēmeion), não simples prodígio: revela a glória de Jesus e desperta a fé dos discípulos. É também o primeiro milagre atribuído à intercessão de Maria, fundamento da piedade mariana de pedir por meio dela.",
+      "tags": [
+        "Caná",
+        "vinho",
+        "primeiro sinal",
+        "Maria"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/14/Veronese%2C_The_Marriage_at_Cana_%281563%29.jpg",
+      "imagem_credito": null,
+      "tipo": "natureza",
+      "referencia_biblica": "João 2,1-11"
+    },
+    {
+      "id": "milagres-de-jesus:cura-do-filho-do-funcionario-real",
+      "slug": "cura-do-filho-do-funcionario-real",
+      "titulo": "Cura do Filho do Funcionário Real",
+      "categoria": "milagres-de-jesus",
+      "resumo": "À distância, pela sua palavra, Jesus cura o filho de um oficial de Cafarnaum.",
+      "corpo": "Um funcionário real de Cafarnaum implora a Jesus que cure seu filho à beira da morte. Jesus não vai até a casa: apenas diz \"vai, teu filho vive\", e o funcionário crê na palavra e parte. No caminho, seus servos confirmam que o menino sarou na hora exata em que Jesus falou. É o segundo sinal no Evangelho de João e mostra que a cura de Jesus não depende de proximidade física, mas da fé na sua palavra.",
+      "tags": [
+        "cura à distância",
+        "fé",
+        "Cafarnaum"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Brooklyn_Museum_-_The_Healing_of_the_Officer%27s_Son_%28La_gu%C3%A9rison_du_fils_de_l%27officier%29_-_James_Tissot.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "João 4,46-54"
+    },
+    {
+      "id": "milagres-de-jesus:pesca-milagrosa",
+      "slug": "pesca-milagrosa",
+      "titulo": "A Pesca Milagrosa",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Depois de uma noite sem pescar nada, os apóstolos recolhem uma rede cheia por ordem de Jesus.",
+      "corpo": "Simão Pedro e seus companheiros haviam trabalhado a noite inteira sem pegar peixe algum. A pedido de Jesus, lançam de novo as redes e recolhem uma quantidade tão grande que as redes começam a rasgar-se. Pedro, atônito, cai de joelhos: \"Afasta-te de mim, Senhor, porque sou um homem pecador.\" Jesus responde chamando-o para ser pescador de homens. O episódio marca o chamado definitivo dos primeiros apóstolos.",
+      "tags": [
+        "pesca",
+        "chamado dos apóstolos",
+        "Pedro"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/V%26A_-_Raphael%2C_The_Miraculous_Draught_of_Fishes_%281515%29.jpg",
+      "imagem_credito": null,
+      "tipo": "natureza",
+      "referencia_biblica": "Lucas 5,1-11"
+    },
+    {
+      "id": "milagres-de-jesus:cura-do-leproso",
+      "slug": "cura-do-leproso",
+      "titulo": "Cura de um Leproso",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus toca um leproso — gesto proibido pela Lei — e o purifica.",
+      "corpo": "Um homem coberto de lepra se aproxima de Jesus e pede: \"Se quiseres, podes purificar-me.\" Jesus, compadecido, estende a mão e o toca — algo que a Lei mosaica proibia terminantemente, pois o leproso era impuro e devia manter distância. Ao dizer \"Quero, sê purificado\", Jesus não apenas cura o corpo, mas restitui o homem à comunidade da qual a doença o excluíra. O gesto antecipa a atitude da Igreja para com os marginalizados.",
+      "tags": [
+        "lepra",
+        "pureza ritual",
+        "compaixão"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Gebhard_Fugel_Christus_und_die_Auss%C3%A4tzigen_c1920.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Marcos 1,40-45"
+    },
+    {
+      "id": "milagres-de-jesus:cura-do-paralitico-de-cafarnaum",
+      "slug": "cura-do-paralitico-de-cafarnaum",
+      "titulo": "Cura do Paralítico de Cafarnaum",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Descido pelo telhado por seus amigos, um paralítico ouve primeiro o perdão dos pecados, depois a cura.",
+      "corpo": "Diante da multidão que impedia a entrada, quatro homens abrem um buraco no telhado da casa e descem o paralítico até Jesus. Vendo a fé deles, Jesus diz primeiro: \"Filho, teus pecados estão perdoados\" — provocando a acusação de blasfêmia dos escribas, pois só Deus perdoa pecados. Para provar sua autoridade, Jesus ordena então que o homem se levante e ande, o que ele faz imediatamente. O milagre físico confirma o poder espiritual de perdoar.",
+      "tags": [
+        "paralisia",
+        "perdão dos pecados",
+        "fé dos amigos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Fresco_of_Christ_healing_the_paralytic_at_Capernaum_%28S._Saba%2C_Rome%29.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Marcos 2,1-12"
+    },
+    {
+      "id": "milagres-de-jesus:cura-da-mao-ressecada",
+      "slug": "cura-da-mao-ressecada",
+      "titulo": "Cura da Mão Ressequida no Sábado",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus cura um homem em dia de sábado, desafiando a interpretação rígida da Lei.",
+      "corpo": "Na sinagoga, observado com hostilidade por quem queria acusá-lo de violar o sábado, Jesus pergunta: \"É lícito, no sábado, fazer o bem ou o mal, salvar uma vida ou matar?\" Diante do silêncio, cura a mão ressequida do homem. O episódio revela o conflito entre a letra da Lei e seu espírito: para Jesus, o sábado existe para o bem do homem, não o contrário, e a misericórdia tem prioridade sobre a observância formal.",
+      "tags": [
+        "sábado",
+        "controvérsia farisaica",
+        "Lei"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Brooklyn_Museum_-_The_Man_with_the_Withered_Hand_%28L%27homme_%C3%A0_la_main_dess%C3%A9ch%C3%A9e%29_-_James_Tissot_-_overall.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Marcos 3,1-6"
+    },
+    {
+      "id": "milagres-de-jesus:tempestade-acalmada",
+      "slug": "tempestade-acalmada",
+      "titulo": "A Tempestade Acalmada",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus repreende o vento e o mar, que se aquietam imediatamente, diante do medo dos apóstolos.",
+      "corpo": "Atravessando o mar da Galileia à noite, os discípulos são surpreendidos por uma tempestade violenta enquanto Jesus dorme na popa. Apavorados, o acordam gritando: \"Mestre, não te importas que pereçamos?\" Ele se levanta, repreende o vento e diz ao mar: \"Cala-te, aquieta-te!\" — e sobrevém uma grande bonança. Diante da autoridade sobre as forças da natureza, os discípulos perguntam: \"Quem é este, que até o vento e o mar lhe obedecem?\"",
+      "tags": [
+        "tempestade",
+        "poder sobre a natureza",
+        "fé pequena"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg",
+      "imagem_credito": null,
+      "tipo": "natureza",
+      "referencia_biblica": "Marcos 4,35-41"
+    },
+    {
+      "id": "milagres-de-jesus:endemoninhado-gerasa",
+      "slug": "endemoninhado-gerasa",
+      "titulo": "O Endemoninhado de Gerasa",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus liberta um homem possuído por uma legião de demônios, que são enviados para uma manada de porcos.",
+      "corpo": "Na região dos gerasenos, Jesus encontra um homem possuído tão violento que vivia entre os túmulos, acorrentado sem sucesso. Os demônios, identificando-se como \"Legião, porque somos muitos\", pedem para entrar numa manada de porcos próxima; ao entrarem, os animais se atiram ao mar e se afogam. O homem, agora curado, veste-se e senta-se junto a Jesus, \"em perfeito juízo\". É um dos exorcismos mais dramáticos dos Evangelhos, mostrando o poder de Jesus sobre a legião do mal.",
+      "tags": [
+        "exorcismo",
+        "possessão",
+        "gentios"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Paul_Bril_-_Felsige_Landschaft_mit_Heilung_des_Besessenen_-_876_-_Bavarian_State_Painting_Collections.jpg",
+      "imagem_credito": null,
+      "tipo": "exorcismo",
+      "referencia_biblica": "Marcos 5,1-20"
+    },
+    {
+      "id": "milagres-de-jesus:filha-de-jairo",
+      "slug": "filha-de-jairo",
+      "titulo": "A Ressurreição da Filha de Jairo",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus ressuscita a filha de um chefe de sinagoga, dizendo que ela apenas dorme.",
+      "corpo": "Jairo, chefe da sinagoga, implora a Jesus que cure sua filha à beira da morte; no caminho, chega a notícia de que ela já morreu. Jesus insiste: \"Não temas, tem apenas fé\", e ao chegar afirma diante da zombaria dos presentes que a menina \"não morreu, dorme\". Tomando-a pela mão, diz \"Talitá cumi\" — \"Menina, levanta-te\" — e ela se levanta imediatamente. É a primeira das três ressurreições relatadas nos Evangelhos.",
+      "tags": [
+        "ressurreição",
+        "fé",
+        "Jairo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Gabriel_Max_-_The_Raising_of_the_Daughter_of_Jairus_-_Walters_37170.jpg",
+      "imagem_credito": null,
+      "tipo": "ressureicao",
+      "referencia_biblica": "Marcos 5,21-24.35-43"
+    },
+    {
+      "id": "milagres-de-jesus:hemorroissa",
+      "slug": "hemorroissa",
+      "titulo": "A Cura da Hemorroíssa",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Uma mulher com hemorragia crônica é curada ao tocar a orla do manto de Jesus.",
+      "corpo": "Havia doze anos uma mulher sofria de hemorragias e gastara tudo com médicos sem melhora. No meio da multidão, ela toca apenas a orla do manto de Jesus, pensando \"Se eu tocar suas vestes, ficarei curada\" — e a hemorragia cessa instantaneamente. Jesus percebe que saiu poder dele e pergunta quem o tocou; ao se identificar, tremendo, ele lhe diz: \"Filha, tua fé te salvou; vai em paz.\" O episódio entrelaça-se com a ressurreição da filha de Jairo.",
+      "tags": [
+        "fé",
+        "impureza ritual",
+        "toque"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Brooklyn_Museum_-_The_Woman_with_an_Issue_of_Blood_%28L%27h%C3%A9moro%C3%AFsse%29_-_James_Tissot.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Marcos 5,25-34"
+    },
+    {
+      "id": "milagres-de-jesus:multiplicacao-dos-paes-5000",
+      "slug": "multiplicacao-dos-paes-5000",
+      "titulo": "A Multiplicação dos Pães para Cinco Mil",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Com cinco pães e dois peixes, Jesus alimenta uma multidão de milhares de pessoas.",
+      "corpo": "Diante de uma multidão faminta no deserto e apenas cinco pães e dois peixes disponíveis, Jesus ergue os olhos ao céu, abençoa, parte e entrega aos discípulos para distribuir. Todos comem até se fartar, e ainda sobram doze cestos de pedaços. É o único milagre, além da Paixão e Ressurreição, narrado pelos quatro Evangelhos, e prefigura a Eucaristia: o gesto de tomar, abençoar, partir e dar antecipa a Última Ceia.",
+      "tags": [
+        "pão",
+        "Eucaristia",
+        "multidão",
+        "quatro Evangelhos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Abraham_Bloemaert_%281566-1651%29_-_Miracle_of_the_Loaves%2C_Jesus_Feeds_the_Five_Thousand_-_NG_2824_-_National_Galleries_of_Scotland.jpg",
+      "imagem_credito": null,
+      "tipo": "natureza",
+      "referencia_biblica": "Mateus 14,13-21; Marcos 6,30-44; Lucas 9,10-17; João 6,1-15"
+    },
+    {
+      "id": "milagres-de-jesus:jesus-anda-sobre-as-aguas",
+      "slug": "jesus-anda-sobre-as-aguas",
+      "titulo": "Jesus Anda sobre as Águas",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus caminha sobre o mar da Galileia até o barco dos discípulos, e Pedro tenta imitá-lo.",
+      "corpo": "Depois da multiplicação dos pães, Jesus manda os discípulos seguirem de barco enquanto ele sobe ao monte para orar. À noite, vendo-os em dificuldade contra o vento, caminha até eles sobre as águas. Pedro, a convite de Jesus, também caminha sobre o mar, mas, tomado de medo diante do vento, começa a afundar e clama: \"Senhor, salva-me!\" Jesus o segura, dizendo: \"Homem de pouca fé, por que duvidaste?\"",
+      "tags": [
+        "água",
+        "fé de Pedro",
+        "poder sobre a natureza"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/61/The_Disciples_See_Christ_Walking_on_the_Water%2C_by_Henry_Ossawa_Tanner.jpg",
+      "imagem_credito": null,
+      "tipo": "natureza",
+      "referencia_biblica": "Mateus 14,22-33"
+    },
+    {
+      "id": "milagres-de-jesus:filha-da-mulher-cananeia",
+      "slug": "filha-da-mulher-cananeia",
+      "titulo": "Cura da Filha da Mulher Cananeia",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Pela persistente fé de uma mulher pagã, Jesus liberta sua filha de um demônio.",
+      "corpo": "Uma mulher cananeia, estrangeira e pagã, suplica a Jesus pela filha atormentada por um demônio. Diante da aparente recusa inicial de Jesus — que fala de ser enviado \"apenas às ovelhas perdidas da casa de Israel\" — ela insiste com humildade e agudeza: \"até os cachorrinhos comem as migalhas que caem da mesa dos seus donos.\" Jesus exalta sua fé, chamando-a \"grande\", e cura a filha à distância, naquela mesma hora.",
+      "tags": [
+        "exorcismo",
+        "gentios",
+        "fé perseverante"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Annibale_Carracci%2C_Cristo_e_la_Cananea%2C_1595%2C_Parma.jpg",
+      "imagem_credito": null,
+      "tipo": "exorcismo",
+      "referencia_biblica": "Mateus 15,21-28"
+    },
+    {
+      "id": "milagres-de-jesus:multiplicacao-dos-paes-4000",
+      "slug": "multiplicacao-dos-paes-4000",
+      "titulo": "A Multiplicação dos Pães para Quatro Mil",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Um segundo episódio de multiplicação, agora com sete pães, em território majoritariamente pagão.",
+      "corpo": "Com sete pães e alguns peixinhos, Jesus alimenta quatro mil pessoas numa região da Decápole, de maioria gentia, sobrando ainda sete cestos. Os Evangelhos de Mateus e Marcos registram este segundo episódio distinto do dos cinco mil, sugerindo que o pão de Cristo alimenta não só Israel, mas também os povos pagãos — antecipação da universalidade da missão da Igreja.",
+      "tags": [
+        "pão",
+        "gentios",
+        "segunda multiplicação"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Church_of_the_Multiplication_20091026_mosaic_detail.jpg",
+      "imagem_credito": "Otter — Wikimedia Commons, CC BY-SA 3.0",
+      "tipo": "natureza",
+      "referencia_biblica": "Mateus 15,32-39; Marcos 8,1-10"
+    },
+    {
+      "id": "milagres-de-jesus:cura-do-menino-epiletico",
+      "slug": "cura-do-menino-epiletico",
+      "titulo": "Cura do Menino Possuído (Epilético)",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus expulsa um espírito que os discípulos não conseguiram, ensinando sobre fé e oração.",
+      "corpo": "Um pai leva ao pé do monte da Transfiguração seu filho, atormentado por convulsões atribuídas a um espírito mudo, depois que os discípulos falharam em curá-lo. \"Se podes fazer alguma coisa, tem compaixão de nós e ajuda-nos\", pede o pai, ao que Jesus responde: \"Se podes! Tudo é possível para quem crê.\" O pai clama: \"Creio, ajuda a minha pouca fé!\" Jesus expulsa o espírito e depois ensina aos discípulos que \"esta espécie só se expulsa com oração\".",
+      "tags": [
+        "exorcismo",
+        "fé",
+        "oração"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Raffael_Transfiguration_Detail.jpg",
+      "imagem_credito": null,
+      "tipo": "exorcismo",
+      "referencia_biblica": "Marcos 9,14-29"
+    },
+    {
+      "id": "milagres-de-jesus:cego-de-nascenca",
+      "slug": "cego-de-nascenca",
+      "titulo": "Cura do Cego de Nascença",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus devolve a visão a um homem cego desde o nascimento, usando barro e saliva.",
+      "corpo": "Diante de um homem cego desde que nasceu, os discípulos perguntam de quem foi o pecado que causou a cegueira; Jesus responde que ela existe \"para que nele se manifestem as obras de Deus\". Ele faz lama com saliva, unge os olhos do cego e manda-o lavar-se no tanque de Siloé; o homem volta enxergando. O restante do capítulo narra o interrogatório dos fariseus, que termina expulsando o homem curado — enquanto Jesus se revela a ele como Filho do Homem.",
+      "tags": [
+        "cegueira",
+        "sinal",
+        "Siloé"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/La_curacion_del_ciego_El_Greco_Dresde.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "João 9,1-41"
+    },
+    {
+      "id": "milagres-de-jesus:ressurreicao-do-filho-da-viuva-de-naim",
+      "slug": "ressurreicao-do-filho-da-viuva-de-naim",
+      "titulo": "Ressurreição do Filho da Viúva de Naim",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Comovido pela dor de uma mãe viúva, Jesus ressuscita seu único filho no caminho do funeral.",
+      "corpo": "Ao chegar perto do portão de Naim, Jesus cruza com um cortejo fúnebre: o único filho de uma mulher viúva estava sendo levado para sepultar. \"Vendo-a, o Senhor se compadeceu dela\" — a única vez nos Evangelhos em que a iniciativa da cura parte inteiramente da compaixão de Jesus, sem qualquer pedido. Ele toca o esquife, ordena \"Jovem, eu te digo, levanta-te\", e o rapaz se senta e começa a falar. É a segunda das três ressurreições relatadas.",
+      "tags": [
+        "ressurreição",
+        "compaixão",
+        "viúva"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Martino_Altomonte_-_Raising_of_the_Son_of_the_Widow_of_Nain.jpg",
+      "imagem_credito": null,
+      "tipo": "ressureicao",
+      "referencia_biblica": "Lucas 7,11-17"
+    },
+    {
+      "id": "milagres-de-jesus:mulher-curvada",
+      "slug": "mulher-curvada",
+      "titulo": "Cura da Mulher Encurvada",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus liberta e endireita uma mulher presa por dezoito anos a um espírito de enfermidade, em dia de sábado.",
+      "corpo": "Havia dezoito anos uma mulher vivia curvada, incapaz de se endireitar, presa por \"um espírito de enfermidade\". Jesus a chama, impõe as mãos sobre ela em pleno sábado, e ela imediatamente se põe de pé, glorificando a Deus. Ao chefe da sinagoga que o repreende por curar no sábado, Jesus responde chamando-a \"filha de Abraão\" que precisava ser libertada — mais uma vez, priorizando a pessoa sobre a rigidez legalista.",
+      "tags": [
+        "sábado",
+        "libertação",
+        "dignidade da mulher"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/HealWomanSabbath.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Lucas 13,10-17"
+    },
+    {
+      "id": "milagres-de-jesus:dez-leprosos",
+      "slug": "dez-leprosos",
+      "titulo": "Cura dos Dez Leprosos",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus purifica dez leprosos, mas apenas um — um samaritano — volta para agradecer.",
+      "corpo": "A caminho de Jerusalém, dez leprosos clamam de longe por misericórdia; Jesus os manda mostrar-se aos sacerdotes, e no caminho todos se purificam. Apenas um deles, um samaritano — portanto estrangeiro aos olhos judeus —, volta glorificando a Deus e prostra-se aos pés de Jesus em gratidão. Jesus pergunta: \"Não foram purificados os dez? E os outros nove, onde estão?\" O episódio contrasta o dom recebido com a gratidão devida.",
+      "tags": [
+        "lepra",
+        "gratidão",
+        "samaritano"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Brooklyn_Museum_-_The_Healing_of_Ten_Lepers_%28Gu%C3%A9rison_de_dix_l%C3%A9preux%29_-_James_Tissot_-_overall.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Lucas 17,11-19"
+    },
+    {
+      "id": "milagres-de-jesus:ressurreicao-de-lazaro",
+      "slug": "ressurreicao-de-lazaro",
+      "titulo": "A Ressurreição de Lázaro",
+      "categoria": "milagres-de-jesus",
+      "resumo": "O maior dos sinais de Jesus: chamar de volta à vida um amigo já sepultado havia quatro dias.",
+      "corpo": "Lázaro, irmão de Marta e Maria, morre em Betânia, e Jesus chega quatro dias depois de seu sepultamento. Diante do túmulo, \"Jesus chorou\" — o versículo mais curto da Bíblia — antes de proclamar a Marta: \"Eu sou a ressurreição e a vida.\" Ordena que removam a pedra e clama em alta voz: \"Lázaro, vem para fora!\" — e o morto sai, ainda envolto nas faixas. É o último e maior sinal antes da Paixão, e a causa imediata, segundo João, da decisão de matar Jesus.",
+      "tags": [
+        "ressurreição",
+        "sinal",
+        "Betânia",
+        "Eu sou a ressurreição"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Rembrandt_Harmensz._van_Rijn_-_The_Raising_of_Lazarus_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "tipo": "ressureicao",
+      "referencia_biblica": "João 11,1-44"
+    },
+    {
+      "id": "milagres-de-jesus:cura-do-cego-bartimeu",
+      "slug": "cura-do-cego-bartimeu",
+      "titulo": "Cura do Cego Bartimeu",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Um mendigo cego de Jericó recupera a vista ao gritar persistentemente pelo \"Filho de Davi\".",
+      "corpo": "Sentado à beira do caminho em Jericó, o mendigo cego Bartimeu grita: \"Jesus, Filho de Davi, tem piedade de mim!\", apesar de ser repreendido pela multidão para calar-se. Jesus o chama, pergunta o que deseja, e ao ouvir \"que eu veja\", diz: \"Vai, a tua fé te salvou.\" Bartimeu recupera a vista imediatamente e passa a seguir Jesus pelo caminho — um discípulo modelo, que primeiro clama, depois vê, depois segue.",
+      "tags": [
+        "cegueira",
+        "Filho de Davi",
+        "Jericó"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/William_Blake_-_Christ_Giving_Sight_to_Bartimaeus_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Marcos 10,46-52"
+    },
+    {
+      "id": "milagres-de-jesus:figueira-seca",
+      "slug": "figueira-seca",
+      "titulo": "A Figueira Amaldiçoada e Seca",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus amaldiçoa uma figueira sem frutos, que seca imediatamente, como sinal profético contra o formalismo estéril.",
+      "corpo": "Com fome, Jesus se aproxima de uma figueira frondosa mas sem figos fora de época e diz: \"Nunca mais alguém coma fruto de ti!\" No dia seguinte, os discípulos encontram a árvore completamente seca até a raiz. É o único milagre \"negativo\" de Jesus nos Evangelhos, geralmente lido como sinal profético contra o culto estéril do Templo — aparência sem fruto real — e ocasião para um ensinamento sobre a fé que move montanhas.",
+      "tags": [
+        "sinal profético",
+        "fé",
+        "Templo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Brooklyn_Museum_-_The_Accursed_Fig_Tree_%28Le_figuier_maudit%29_-_James_Tissot.jpg",
+      "imagem_credito": null,
+      "tipo": "natureza",
+      "referencia_biblica": "Marcos 11,12-14.20-25"
+    },
+    {
+      "id": "milagres-de-jesus:cura-do-servo-do-centuriao",
+      "slug": "cura-do-servo-do-centuriao",
+      "titulo": "Cura do Servo do Centurião",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Um centurião romano professa uma fé tão grande que Jesus a elogia como não encontrada em Israel.",
+      "corpo": "Um centurião romano pede a Jesus que cure seu servo paralítico e sofredor, mas insiste que Jesus nem precisa ir até sua casa: \"Dize somente uma palavra, e o meu servo será curado\", comparando a autoridade de Jesus à sua própria autoridade militar. Jesus se admira e declara: \"Em ninguém encontrei tanta fé em Israel!\" O servo é curado naquela mesma hora — a frase do centurião ecoa até hoje na liturgia da Missa antes da comunhão.",
+      "tags": [
+        "fé",
+        "centurião",
+        "cura à distância",
+        "liturgia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Veronese_-_Der_Hauptmann_von_Capernaum_vor_Christus%2C_Um_1581-82.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Mateus 8,5-13; Lucas 7,1-10"
+    },
+    {
+      "id": "milagres-de-jesus:cura-da-sogra-de-pedro",
+      "slug": "cura-da-sogra-de-pedro",
+      "titulo": "Cura da Sogra de Pedro",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus cura de febre a sogra de Simão Pedro, que se levanta imediatamente para servir.",
+      "corpo": "Ao entrar na casa de Pedro, Jesus encontra sua sogra de cama, com febre alta. Toma-a pela mão e a febre a deixa imediatamente; ela se levanta e passa a servi-los. É um dos primeiros milagres do ministério público, ocorrido em Cafarnaum no mesmo dia de outras curas e exorcismos relatados por Marcos, mostrando a autoridade de Jesus sobre a doença desde o início.",
+      "tags": [
+        "febre",
+        "Cafarnaum",
+        "serviço"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Brooklyn_Museum_-_The_Healing_of_Peter%27s_Mother-in-law_%28La_gu%C3%A9rison_de_la_belle-m%C3%A8re_de_Pierre%29_-_James_Tissot_-_overall.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Marcos 1,29-31"
+    },
+    {
+      "id": "milagres-de-jesus:cura-do-surdo-mudo-decapolis",
+      "slug": "cura-do-surdo-mudo-decapolis",
+      "titulo": "Cura do Surdo-Mudo da Decápole",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Com um gesto físico e a palavra \"Efatá\", Jesus abre os ouvidos e solta a língua de um homem.",
+      "corpo": "Na Decápole, região gentia, trazem a Jesus um homem surdo e com dificuldade de fala. Ele o leva à parte, coloca os dedos em seus ouvidos, toca sua língua com saliva, olha para o céu, suspira e diz: \"Efatá\" — \"Abre-te\". Imediatamente os ouvidos do homem se abrem e sua língua se solta. A palavra aramaica \"Efatá\" é preservada até hoje no rito do Batismo.",
+      "tags": [
+        "surdez",
+        "Decápole",
+        "Batismo",
+        "Efatá"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/L%C3%A9onard_Gaultier%2C_Christ_Healing_a_Deaf_Man%2C_1579%2C_NGA_48105.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Marcos 7,31-37"
+    }
+  ]
+}

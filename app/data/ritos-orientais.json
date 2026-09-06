@@ -1,0 +1,192 @@
+{
+  "_meta": {
+    "categoria": "ritos-orientais",
+    "nome": "Ritos e Igrejas Orientais Católicas",
+    "descricao": "As Igrejas Católicas Orientais — bizantina, maronita, copta, siro-malabar e outras — em plena comunhão com Roma, cada uma com liturgia e tradição espiritual próprias.",
+    "status": "exemplos-iniciais",
+    "aviso": "Conjunto inicial cobrindo as tradições mais numerosas; a Igreja Católica reconhece ao todo 23 Igrejas sui iuris orientais além da Igreja Latina.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Concílio Vaticano II, Orientalium Ecclesiarum",
+      "Código dos Cânones das Igrejas Orientais"
+    ]
+  },
+  "itens": [
+    {
+      "id": "ritos-orientais:igrejas-catolicas-orientais-visao-geral",
+      "slug": "igrejas-catolicas-orientais-visao-geral",
+      "titulo": "Igrejas Católicas Orientais: Visão Geral",
+      "categoria": "ritos-orientais",
+      "resumo": "Vinte e três Igrejas com liturgia, direito canônico e tradições espirituais próprias, todas em plena comunhão com o papa.",
+      "corpo": "Além da Igreja Latina — de longe a maior e mais conhecida no Ocidente —, a Igreja Católica reúne outras 23 Igrejas \"sui iuris\" (\"de direito próprio\"), cada uma com sua liturgia, disciplina canônica, espiritualidade e, frequentemente, clero casado, mas todas em plena comunhão com o bispo de Roma e partilhando a mesma fé e os mesmos sacramentos. Muitas surgiram de retornos históricos à comunhão católica de comunidades ortodoxas orientais, preservando integralmente seus ritos ancestrais — o Concílio Vaticano II, no decreto Orientalium Ecclesiarum, afirmou o \"igual direito e dever\" dessas Igrejas de conservar seu patrimônio litúrgico e espiritual próprio.",
+      "tags": [
+        "sui iuris",
+        "Orientalium Ecclesiarum",
+        "comunhão com Roma"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Christ_Icon_Sinai_6th_century.jpg",
+      "imagem_credito": null,
+      "familia_liturgica": null,
+      "regiao": "Mundial"
+    },
+    {
+      "id": "ritos-orientais:rito-bizantino",
+      "slug": "rito-bizantino",
+      "titulo": "Rito Bizantino",
+      "categoria": "ritos-orientais",
+      "resumo": "A família litúrgica mais numerosa entre os católicos orientais, herdada de Constantinopla, com Divina Liturgia de São João Crisóstomo.",
+      "corpo": "O rito bizantino, originado em Constantinopla, é hoje partilhado por diversas Igrejas Católicas Orientais — como a Ucraniana, a Melquita, a Rutena, a Romena e a Húngara —, todas em plena comunhão com Roma mas preservando a mesma liturgia, calendário e espiritualidade da tradição ortodoxa bizantina, da qual historicamente se originaram por reuniões parciais ao longo dos séculos. Sua celebração eucarística central, a Divina Liturgia de São João Crisóstomo, é marcada por rica ornamentação, icônostase separando o altar da nave, cânticos contínuos sem instrumentos musicais e uso extenso de incenso — uma experiência sensorial e contemplativa da liturgia bem distinta do rito latino.",
+      "tags": [
+        "Divina Liturgia",
+        "Constantinopla",
+        "icônostase",
+        "Igreja Ucraniana"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Griechisch-Katholische_Kirche%2C_Innere%2C_nach_O%2C_2022_Debrecen.jpg",
+      "imagem_credito": "Globetrotter19 — Wikimedia Commons, CC BY-SA 3.0",
+      "familia_liturgica": "Bizantina",
+      "regiao": "Europa Oriental e Oriente Médio"
+    },
+    {
+      "id": "ritos-orientais:rito-maronita",
+      "slug": "rito-maronita",
+      "titulo": "Rito Maronita",
+      "categoria": "ritos-orientais",
+      "resumo": "A única Igreja Católica Oriental sem uma contraparte ortodoxa correspondente, com origem no monge São Marão e centro histórico no Líbano.",
+      "corpo": "A Igreja Maronita, com sede patriarcal no Líbano, é singular entre as Igrejas Católicas Orientais por nunca ter se separado de Roma ao longo de sua história — não existe uma \"Igreja Ortodoxa Maronita\" paralela, como acontece com quase todas as demais tradições orientais. Remonta ao monge sírio São Marão (século IV-V) e a seus discípulos, refugiados nas montanhas do Líbano durante as controvérsias cristológicas dos primeiros séculos. Sua liturgia, de tradição antioquena de língua siríaca (hoje celebrada majoritariamente em árabe), preserva elementos musicais e orações de raiz semítica muito antiga, e sua Igreja desempenhou papel central na formação da identidade nacional libanesa.",
+      "tags": [
+        "São Marão",
+        "Líbano",
+        "Antioquia",
+        "siríaco"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/76/St._Marouns_Maronite_Cathedral_-_panoramio.jpg",
+      "imagem_credito": "Evilscaught — Wikimedia Commons, CC BY 3.0",
+      "familia_liturgica": "Antioquena (Siríaca Ocidental)",
+      "regiao": "Líbano e diáspora"
+    },
+    {
+      "id": "ritos-orientais:rito-copta",
+      "slug": "rito-copta",
+      "titulo": "Rito Copta",
+      "categoria": "ritos-orientais",
+      "resumo": "A tradição litúrgica do Egito cristão, herdeira direta da Igreja de Alexandria fundada, segundo a tradição, pelo evangelista Marcos.",
+      "corpo": "A Igreja Católica Copta, minoritária diante da muito mais numerosa Igreja Ortodoxa Copta da qual se separou historicamente após reconciliações parciais com Roma a partir do século XVIII, preserva a antiga liturgia alexandrina, atribuída na tradição a São Marcos Evangelista, fundador lendário da Igreja do Egito. A língua litúrgica copta, descendente direta do antigo egípcio dos faraós escrito com alfabeto grego adaptado, mantém viva uma linha ininterrupta de continuidade cultural com o Egito pré-islâmico, mesmo tendo o árabe substituído o copta como língua falada cotidiana há mais de mil anos.",
+      "tags": [
+        "Egito",
+        "São Marcos Evangelista",
+        "Alexandria",
+        "língua copta"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/27/St._Mercurios_Killing_King_Oleonus_%28St._Mercurios_Killing_Emperor_Julian_the_Apostate%29_%283309043161%29.jpg",
+      "imagem_credito": "A. Davey from Where I Live Now: Pacific Northwest — Wikimedia Commons, CC BY 2.0",
+      "familia_liturgica": "Alexandrina",
+      "regiao": "Egito"
+    },
+    {
+      "id": "ritos-orientais:rito-siro-malabar",
+      "slug": "rito-siro-malabar",
+      "titulo": "Rito Siro-Malabar",
+      "categoria": "ritos-orientais",
+      "resumo": "A Igreja de tradição cristã indiana que remonta, segundo a própria tradição, à pregação do apóstolo Tomé no litoral do Malabar.",
+      "corpo": "A Igreja Siro-Malabar, sediada no estado indiano de Kerala, atribui sua fundação à pregação do apóstolo Tomé na costa do Malabar no século I — os chamados \"cristãos de São Tomé\", uma das comunidades cristãs continuamente existentes mais antigas do mundo, fora do círculo mediterrâneo original. Sua liturgia deriva da tradição siríaca oriental (caldeia/persa), refletindo os antigos vínculos comerciais e eclesiásticos entre a Índia e a Mesopotâmia cristã, e é hoje uma das Igrejas Católicas Orientais de crescimento mais vigoroso no mundo, com grande vitalidade missionária e vocacional.",
+      "tags": [
+        "apóstolo Tomé",
+        "Kerala",
+        "Índia",
+        "siríaco oriental"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Coonan_Cross_Church%2C_St_George_Church%2C_Mattancherry%2C_Kochi%2C_Kerala%2C_India._%2834668793490%29.jpg",
+      "imagem_credito": null,
+      "familia_liturgica": "Siríaca Oriental (Caldeia)",
+      "regiao": "Índia (Kerala)"
+    },
+    {
+      "id": "ritos-orientais:rito-caldeu",
+      "slug": "rito-caldeu",
+      "titulo": "Rito Caldeu",
+      "categoria": "ritos-orientais",
+      "resumo": "A Igreja de tradição siríaca oriental do Iraque e do Irã, ligada à antiga Igreja do Oriente e à figura do apóstolo Tadeu.",
+      "corpo": "A Igreja Católica Caldeia, com sede patriarcal em Bagdá, originou-se de uma reconciliação parcial com Roma, a partir do século XVI, de comunidades ligadas à antiga Igreja do Oriente (tradicionalmente chamada \"nestoriana\", embora essa identificação teológica seja hoje considerada simplificada demais pelos estudiosos). Sua liturgia, celebrada em siríaco oriental (aramaico), é uma das mais antigas tradições litúrgicas cristãs vivas, remontando a comunidades que a tradição associa à pregação dos apóstolos Tomé e Tadeu na Mesopotâmia. Enfrentou perseguições e deslocamentos massivos nas últimas décadas, sobretudo após as guerras e a perseguição do Estado Islâmico contra os cristãos do Iraque.",
+      "tags": [
+        "Bagdá",
+        "aramaico",
+        "apóstolo Tadeu",
+        "Mesopotâmia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Chaldean_Catholic_Church_in_Baghdad.jpg",
+      "imagem_credito": "Christian World — Wikimedia Commons, CC BY 2.0",
+      "familia_liturgica": "Siríaca Oriental (Caldeia)",
+      "regiao": "Iraque e diáspora"
+    },
+    {
+      "id": "ritos-orientais:rito-armenio",
+      "slug": "rito-armenio",
+      "titulo": "Rito Armênio",
+      "categoria": "ritos-orientais",
+      "resumo": "A tradição litúrgica de um dos povos cristãos mais antigos do mundo, herdeira do primeiro reino a adotar oficialmente o cristianismo.",
+      "corpo": "A Armênia tornou-se, por volta do ano 301, o primeiro reino do mundo a adotar oficialmente o cristianismo como religião de Estado, sob a pregação de São Gregório, o Iluminador. A Igreja Católica Armênia, minoritária diante da muito maior Igreja Apostólica Armênia (não calcedoniana), preserva a liturgia armênia clássica, de grande solenidade musical e poética, celebrada no antigo idioma armênio clássico (grabar). Sua história é marcada de modo indelével pelo genocídio armênio de 1915-1923, no qual pereceram também numerosos fiéis e clérigos católicos armênios.",
+      "tags": [
+        "São Gregório o Iluminador",
+        "primeiro reino cristão",
+        "genocídio armênio"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Beirut_Armenian_Catholic_Cathedral1966.jpg",
+      "imagem_credito": null,
+      "familia_liturgica": "Armênia",
+      "regiao": "Armênia, Líbano e diáspora"
+    },
+    {
+      "id": "ritos-orientais:rito-siro-malancares",
+      "slug": "rito-siro-malancares",
+      "titulo": "Rito Siro-Malancarês",
+      "categoria": "ritos-orientais",
+      "resumo": "Igreja indiana de rito siríaco ocidental (antioqueno), fruto de um retorno à comunhão católica no início do século XX.",
+      "corpo": "A Igreja Siro-Malancarês, também de Kerala, na Índia, compartilha com a Siro-Malabar a mesma tradição apostólica de São Tomé, mas adota a liturgia siríaca ocidental (de tradição antioquena, semelhante à maronita e à síria), herdada de vínculos históricos estabelecidos com a Igreja Ortodoxa Síria a partir do século XVII. Formou-se como Igreja Católica distinta em 1930, quando um grupo de fiéis e clero da Igreja Ortodoxa Síria Malancar retornou à plena comunhão com Roma, preservando integralmente seu rito litúrgico siríaco-antioqueno e sua identidade indiana.",
+      "tags": [
+        "Kerala",
+        "1930",
+        "siríaco ocidental",
+        "Ortodoxia Síria"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/66/St._George_Orthodox_Koonan_Kurish_Old_Syrian_Church%2C_Kochi._%2834257916805%29.jpg",
+      "imagem_credito": null,
+      "familia_liturgica": "Antioquena (Siríaca Ocidental)",
+      "regiao": "Índia (Kerala)"
+    },
+    {
+      "id": "ritos-orientais:liturgia-eucaristica-oriental",
+      "slug": "liturgia-eucaristica-oriental",
+      "titulo": "A Liturgia Eucarística nas Tradições Orientais",
+      "categoria": "ritos-orientais",
+      "resumo": "Traços comuns e particularidades das celebrações eucarísticas orientais frente à Missa latina: mais longas, mais cantadas, mais veladas.",
+      "corpo": "Embora compartilhem com o rito latino a mesma fé sobre a Eucaristia como presença real de Cristo, as tradições litúrgicas orientais têm um estilo celebrativo geralmente bem distinto: liturgias mais longas e inteiramente cantadas, sem partes apenas faladas; uso extenso de véus, cortinas ou icônostases que ocultam parcialmente o altar durante momentos-chave, sublinhando o mistério; ênfase na epiclese (invocação explícita do Espírito Santo sobre o pão e o vinho) como momento central da consagração; e comunhão frequentemente distribuída sob as duas espécies unidas numa colher (rito bizantino) ou por intinção. Essa diversidade de expressão da mesma fé é vista pela Igreja como riqueza, não como problema a ser uniformizado.",
+      "tags": [
+        "epiclese",
+        "icônostase",
+        "diversidade litúrgica"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Romania-1494_-_Iconostasis_of_the_Great_Church_%287604829840%29.jpg",
+      "imagem_credito": "Dennis G. Jarvis — Wikimedia Commons, CC BY-SA 2.0",
+      "familia_liturgica": null,
+      "regiao": "Diversas"
+    },
+    {
+      "id": "ritos-orientais:clero-casado-oriental",
+      "slug": "clero-casado-oriental",
+      "titulo": "O Clero Casado nas Igrejas Orientais",
+      "categoria": "ritos-orientais",
+      "resumo": "A disciplina, distinta da Igreja Latina, que permite a ordenação de homens casados ao sacerdócio nas tradições orientais católicas.",
+      "corpo": "Diferentemente da Igreja Latina, que reserva o sacerdócio ordinariamente a homens celibatários, a maioria das Igrejas Católicas Orientais preserva a disciplina antiga, comum a toda a Igreja indivisa do primeiro milênio, de ordenar sacerdotes homens já casados — embora o episcopado permaneça reservado a celibatários também no Oriente. Esta diferença disciplinar, não doutrinal, foi explicitamente reafirmada como direito legítimo das Igrejas Orientais pelo Concílio Vaticano II e reflete a diversidade de disciplinas eclesiásticas historicamente compatíveis com a mesma fé católica, distinguindo disciplina (variável) de dogma (permanente).",
+      "tags": [
+        "celibato",
+        "Orientalium Ecclesiarum",
+        "disciplina eclesiástica"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/St._John_the_Baptist_Ukrainian_Catholic_Church%2C_Syracuse%2C_New_York_-_20220419.jpg",
+      "imagem_credito": "Andre Carrotflower — Wikimedia Commons, CC BY-SA 4.0",
+      "familia_liturgica": null,
+      "regiao": "Diversas"
+    }
+  ]
+}

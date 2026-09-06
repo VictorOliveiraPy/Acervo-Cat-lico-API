@@ -53,6 +53,22 @@ class Category(str, Enum):
     IGREJA_BRASIL = "igreja-brasil"
     SACRAMENTAIS = "sacramentais"
     APOLOGETICA = "apologetica"
+    JESUS_CRISTO = "jesus-cristo"
+    PERSONAGENS_BIBLICOS = "personagens-biblicos"
+    PARABOLAS = "parabolas"
+    MILAGRES_DE_JESUS = "milagres-de-jesus"
+    TERRA_SANTA = "terra-santa"
+    PADRES_DA_IGREJA = "padres-da-igreja"
+    HERESIAS_CISMAS = "heresias-cismas"
+    ANJOS_DEMONIOS = "anjos-demonios"
+    DOUTRINA_SOCIAL = "doutrina-social"
+    LITURGIA_DAS_HORAS = "liturgia-das-horas"
+    RITOS_ORIENTAIS = "ritos-orientais"
+    ARTE_SACRA = "arte-sacra-simbolos"
+    DIREITO_CANONICO = "direito-canonico"
+    VOCACOES = "vocacoes-estados-de-vida"
+    PRIMEIRA_COMUNHAO = "primeira-comunhao"
+    MUSICA_SACRA = "musica-sacra"
 
 
 class ContentEntry(BaseModel):
@@ -375,6 +391,176 @@ class QuestaoApologetica(ContentEntry):
     objecao: str | None = None
 
 
+class TipoJesus(str, Enum):
+    MISTERIO_VIDA = "misterio_vida"
+    TITULO = "titulo"
+    DOGMA_CRISTOLOGICO = "dogma_cristologico"
+
+
+class Jesus(ContentEntry):
+    """Mistério da vida de Cristo, título cristológico ou dogma sobre sua
+    pessoa e natureza."""
+
+    categoria: Literal[Category.JESUS_CRISTO] = Category.JESUS_CRISTO
+    tipo: TipoJesus
+    ordem: int | None = Field(default=None, ge=1)
+    referencia_biblica: str | None = None
+    paragrafos_ccc: list[str] = Field(default_factory=list)
+
+
+class TipoPersonagemBiblico(str, Enum):
+    PATRIARCA = "patriarca"
+    PROFETA = "profeta"
+    REI = "rei"
+    APOSTOLO = "apostolo"
+    MULHER = "mulher"
+    OUTRO = "outro"
+
+
+class PersonagemBiblico(ContentEntry):
+    """Figura do Antigo ou Novo Testamento, distinta de um livro bíblico."""
+
+    categoria: Literal[Category.PERSONAGENS_BIBLICOS] = Category.PERSONAGENS_BIBLICOS
+    tipo: TipoPersonagemBiblico
+    testamento: TestamentoBiblico
+    referencia_biblica: str | None = None
+
+
+class Parabola(ContentEntry):
+    """Parábola contada por Jesus nos Evangelhos."""
+
+    categoria: Literal[Category.PARABOLAS] = Category.PARABOLAS
+    referencia_biblica: str | None = None
+    evangelistas: list[str] = Field(default_factory=list)
+
+
+class TipoMilagre(str, Enum):
+    CURA = "cura"
+    EXORCISMO = "exorcismo"
+    NATUREZA = "natureza"
+    RESSUREICAO = "ressureicao"
+
+
+class MilagreDeJesus(ContentEntry):
+    """Milagre realizado por Jesus segundo os Evangelhos."""
+
+    categoria: Literal[Category.MILAGRES_DE_JESUS] = Category.MILAGRES_DE_JESUS
+    tipo: TipoMilagre
+    referencia_biblica: str | None = None
+
+
+class LocalSagrado(ContentEntry):
+    """Lugar da Terra Santa ligado à vida de Cristo ou à história bíblica."""
+
+    categoria: Literal[Category.TERRA_SANTA] = Category.TERRA_SANTA
+    local: str | None = None
+    pais: str | None = None
+    tipo_local: str | None = None
+
+
+class PadreDaIgreja(ContentEntry):
+    """Padre da Igreja: escritor eclesiástico dos primeiros séculos cuja
+    doutrina e santidade de vida a Igreja reconhece como testemunho da fé
+    apostólica — categoria distinta de Doutor da Igreja."""
+
+    categoria: Literal[Category.PADRES_DA_IGREJA] = Category.PADRES_DA_IGREJA
+    regiao: str | None = None
+    seculo: str | None = None
+    e_doutor: bool = False
+
+
+class TipoHeresiaCisma(str, Enum):
+    HERESIA = "heresia"
+    CISMA = "cisma"
+
+
+class HeresiaCisma(ContentEntry):
+    """Heresia ou cisma histórico e a resposta doutrinal da Igreja."""
+
+    categoria: Literal[Category.HERESIAS_CISMAS] = Category.HERESIAS_CISMAS
+    tipo: TipoHeresiaCisma
+    seculo: str | None = None
+    condenacao: str | None = None
+
+
+class TipoAnjoDemonio(str, Enum):
+    ARCANJO = "arcanjo"
+    CORO_ANGELICO = "coro_angelico"
+    ANJO_DA_GUARDA = "anjo_da_guarda"
+    DEMONIO = "demonio"
+    CONCEITO = "conceito"
+
+
+class AnjoDemonio(ContentEntry):
+    """Anjo, coro angélico, conceito sobre anjos, ou tema relativo a demônios
+    e exorcismo na doutrina católica."""
+
+    categoria: Literal[Category.ANJOS_DEMONIOS] = Category.ANJOS_DEMONIOS
+    tipo: TipoAnjoDemonio
+
+
+class PrincipioDoutrinaSocial(ContentEntry):
+    """Princípio fundamental da Doutrina Social da Igreja."""
+
+    categoria: Literal[Category.DOUTRINA_SOCIAL] = Category.DOUTRINA_SOCIAL
+    ordem: int | None = Field(default=None, ge=1)
+
+
+class HoraLiturgica(ContentEntry):
+    """Uma das horas da Liturgia das Horas (Ofício Divino)."""
+
+    categoria: Literal[Category.LITURGIA_DAS_HORAS] = Category.LITURGIA_DAS_HORAS
+    ordem: int | None = Field(default=None, ge=1)
+
+
+class RitoOriental(ContentEntry):
+    """Rito litúrgico ou Igreja sui iuris oriental em plena comunhão com Roma."""
+
+    categoria: Literal[Category.RITOS_ORIENTAIS] = Category.RITOS_ORIENTAIS
+    familia_liturgica: str | None = None
+    regiao: str | None = None
+
+
+class SimboloSacro(ContentEntry):
+    """Símbolo, monograma ou elemento visual da arte sacra católica."""
+
+    categoria: Literal[Category.ARTE_SACRA] = Category.ARTE_SACRA
+    ordem: int | None = Field(default=None, ge=1)
+
+
+class TopicoCanonico(ContentEntry):
+    """Instituto ou procedimento do Direito Canônico (nulidade, excomunhão,
+    censuras etc.), distinto da visão geral já dada em Estrutura da Igreja."""
+
+    categoria: Literal[Category.DIREITO_CANONICO] = Category.DIREITO_CANONICO
+    ordem: int | None = Field(default=None, ge=1)
+
+
+class EstadoDeVida(ContentEntry):
+    """Vocação ou estado de vida reconhecido pela Igreja (matrimônio, vida
+    consagrada, ordem sacra, vida leiga, viuvez consagrada etc.)."""
+
+    categoria: Literal[Category.VOCACOES] = Category.VOCACOES
+    ordem: int | None = Field(default=None, ge=1)
+
+
+class PrimeiraComunhao(ContentEntry):
+    """Tema de catequese de preparação para a Primeira Comunhão, espelhando
+    a trilha já existente para a Crisma."""
+
+    categoria: Literal[Category.PRIMEIRA_COMUNHAO] = Category.PRIMEIRA_COMUNHAO
+    ordem: int | None = Field(default=None, ge=1)
+    paragrafos_ccc: list[str] = Field(default_factory=list)
+
+
+class ObraMusicaSacra(ContentEntry):
+    """Peça ou gênero de música sacra católica (gregoriano, hinos latinos etc.)."""
+
+    categoria: Literal[Category.MUSICA_SACRA] = Category.MUSICA_SACRA
+    idioma: str | None = None
+    ordem: int | None = Field(default=None, ge=1)
+
+
 class Liturgia(ContentEntry):
     """Tema de vida litúrgica e sacramental prática: partes da Missa, adoração
     eucarística, preparação para a Confissão e afins.
@@ -422,6 +608,22 @@ AnyEntry = Annotated[
         IgrejaBrasil,
         Sacramental,
         QuestaoApologetica,
+        Jesus,
+        PersonagemBiblico,
+        Parabola,
+        MilagreDeJesus,
+        LocalSagrado,
+        PadreDaIgreja,
+        HeresiaCisma,
+        AnjoDemonio,
+        PrincipioDoutrinaSocial,
+        HoraLiturgica,
+        RitoOriental,
+        SimboloSacro,
+        TopicoCanonico,
+        EstadoDeVida,
+        PrimeiraComunhao,
+        ObraMusicaSacra,
     ],
     Field(discriminator="categoria"),
 ]
@@ -457,6 +659,22 @@ ENTRY_MODEL_BY_CATEGORY: dict[Category, type[ContentEntry]] = {
     Category.IGREJA_BRASIL: IgrejaBrasil,
     Category.SACRAMENTAIS: Sacramental,
     Category.APOLOGETICA: QuestaoApologetica,
+    Category.JESUS_CRISTO: Jesus,
+    Category.PERSONAGENS_BIBLICOS: PersonagemBiblico,
+    Category.PARABOLAS: Parabola,
+    Category.MILAGRES_DE_JESUS: MilagreDeJesus,
+    Category.TERRA_SANTA: LocalSagrado,
+    Category.PADRES_DA_IGREJA: PadreDaIgreja,
+    Category.HERESIAS_CISMAS: HeresiaCisma,
+    Category.ANJOS_DEMONIOS: AnjoDemonio,
+    Category.DOUTRINA_SOCIAL: PrincipioDoutrinaSocial,
+    Category.LITURGIA_DAS_HORAS: HoraLiturgica,
+    Category.RITOS_ORIENTAIS: RitoOriental,
+    Category.ARTE_SACRA: SimboloSacro,
+    Category.DIREITO_CANONICO: TopicoCanonico,
+    Category.VOCACOES: EstadoDeVida,
+    Category.PRIMEIRA_COMUNHAO: PrimeiraComunhao,
+    Category.MUSICA_SACRA: ObraMusicaSacra,
 }
 
 

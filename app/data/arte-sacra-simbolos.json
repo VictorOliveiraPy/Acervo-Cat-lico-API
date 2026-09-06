@@ -1,0 +1,259 @@
+{
+  "_meta": {
+    "categoria": "arte-sacra-simbolos",
+    "nome": "Arte Sacra e Símbolos",
+    "descricao": "Os monogramas, símbolos, vestes e objetos litúrgicos que compõem a linguagem visual da fé católica ao longo dos séculos.",
+    "status": "exemplos-iniciais",
+    "aviso": "Conjunto inicial dos símbolos mais reconhecíveis; não esgota a riqueza de toda a iconografia sacra católica.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Catecismo da Igreja Católica",
+      "Dicionário de símbolos cristãos"
+    ]
+  },
+  "itens": [
+    {
+      "id": "arte-sacra-simbolos:crucifixo",
+      "slug": "crucifixo",
+      "titulo": "O Crucifixo",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "A cruz com o corpo de Cristo, símbolo central de toda a fé católica e presença obrigatória em cada altar.",
+      "corpo": "O crucifixo — a cruz representando o corpo de Cristo crucificado — condensa visualmente o núcleo da fé cristã: a Paixão e Morte de Jesus como ato supremo de amor redentor. Distingue-se da cruz nua (mais comum em contextos protestantes, que enfatizam a Ressurreição) por manter visível o sofrimento redentor de Cristo. A norma litúrgica católica exige um crucifixo visível próximo ao altar em toda celebração da Missa, e sua presença em lares, salas de aula e espaços públicos tem sido, ao longo da história, um dos sinais identitários mais imediatos da presença católica numa cultura.",
+      "tags": [
+        "cruz",
+        "Paixão",
+        "altar",
+        "Missa"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Cimabue%2C_crocifisso_di_santa_croce.JPG",
+      "imagem_credito": "sailko — Wikimedia Commons, CC BY-SA 3.0",
+      "ordem": 1
+    },
+    {
+      "id": "arte-sacra-simbolos:ihs",
+      "slug": "ihs",
+      "titulo": "IHS",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "O trigrama que abrevia o nome de Jesus em grego, um dos monogramas cristãos mais difundidos na arte sacra ocidental.",
+      "corpo": "IHS deriva das três primeiras letras do nome \"Jesus\" em grego (ΙΗΣΟΥΣ – Iota, Eta, Sigma), transliteradas para o alfabeto latino. Popularizado sobretudo por São Bernardino de Sena no século XV e depois adotado como emblema oficial da Companhia de Jesus, o monograma passou a ser lido popularmente, por interpretação posterior (não etimológica), como sigla de frases latinas como \"Iesus Hominum Salvator\" (\"Jesus, Salvador dos homens\"). Aparece esculpido em fachadas de igrejas, bordado em paramentos e estampado em hóstias e vasos sagrados como abreviação venerável do nome de Jesus.",
+      "tags": [
+        "monograma",
+        "Companhia de Jesus",
+        "Bernardino de Sena"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/IHS_%28Piazza_del_Ges%C3%B9%29.jpg",
+      "imagem_credito": null,
+      "ordem": 2
+    },
+    {
+      "id": "arte-sacra-simbolos:crismon",
+      "slug": "crismon",
+      "titulo": "Crismon (Chi-Rho)",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "As duas primeiras letras gregas da palavra \"Cristo\" sobrepostas, um dos símbolos cristãos mais antigos, usado desde Constantino.",
+      "corpo": "O Crismon, ou Chi-Rho, sobrepõe as letras gregas Chi (X) e Ro (P), as duas primeiras da palavra \"Christos\". Segundo a tradição relatada por Eusébio de Cesareia, o imperador Constantino teria visto esse sinal no céu antes da batalha da Ponte Mílvia (312), acompanhado das palavras \"in hoc signo vinces\" (\"com este sinal vencerás\"), e ordenou que fosse pintado nos escudos de suas tropas. A partir daí, tornou-se um dos símbolos cristãos mais difundidos da Antiguidade tardia, gravado em sarcófagos, moedas, catacumbas e edifícios cristãos primitivos, muitas vezes acompanhado das letras gregas Alfa e Ômega.",
+      "tags": [
+        "Constantino",
+        "Ponte Mílvia",
+        "catacumbas"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/10/As-Constantine-XR_RIC_vII_019.jpg",
+      "imagem_credito": "CNG.[1] — Wikimedia Commons, CC BY-SA 3.0",
+      "ordem": 3
+    },
+    {
+      "id": "arte-sacra-simbolos:alfa-e-omega",
+      "slug": "alfa-e-omega",
+      "titulo": "Alfa e Ômega",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "As duas letras extremas do alfabeto grego, símbolo de Cristo como princípio e fim de toda a criação.",
+      "corpo": "\"Eu sou o Alfa e o Ômega, o princípio e o fim, diz o Senhor Deus\" (Ap 1,8; 22,13) — as duas letras extremas do alfabeto grego, colocadas lado a lado, tornaram-se símbolo direto dessa autoafirmação divina de Cristo como origem e destino de toda a história e de toda a criação. Frequentemente combinadas com o Crismon ou com a cruz em arte funerária, batistérios e o próprio Círio Pascal — no qual o sacerdote as inscreve solenemente durante a Vigília Pascal, junto com o ano corrente, proclamando que \"a Ele pertencem o tempo e a eternidade\".",
+      "tags": [
+        "Apocalipse",
+        "Círio Pascal",
+        "eternidade"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Alpha_and_Omega_%2849643228228%29.jpg",
+      "imagem_credito": null,
+      "ordem": 4
+    },
+    {
+      "id": "arte-sacra-simbolos:peixe-ictus",
+      "slug": "peixe-ictus",
+      "titulo": "O Peixe (Ichthys)",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "Um dos símbolos mais discretos e engenhosos do cristianismo primitivo, acróstico grego que professa a fé em Cristo Salvador.",
+      "corpo": "A palavra grega \"ichthys\" (peixe) funciona como acróstico: cada uma de suas letras inicia uma palavra da confissão de fé \"Iesous CHristos THeou Yios Soter\" — \"Jesus Cristo, Filho de Deus, Salvador\". Usado pelos primeiros cristãos como sinal discreto de reconhecimento mútuo em tempos de perseguição — bastava desenhar um simples arco no chão, que o outro completava formando o peixe, se também fosse cristão —, sobreviveu como símbolo popular até hoje, inclusive fora de contextos estritamente litúrgicos, como adesivo em veículos e joias.",
+      "tags": [
+        "acróstico grego",
+        "perseguição",
+        "cristianismo primitivo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Pectorios_Inscription.jpg",
+      "imagem_credito": "Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 5
+    },
+    {
+      "id": "arte-sacra-simbolos:cordeiro-pascal",
+      "slug": "cordeiro-pascal",
+      "titulo": "O Cordeiro Pascal",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "Imagem bíblica que une o sacrifício do cordeiro na Páscoa judaica ao sacrifício redentor de Cristo, o \"Agnus Dei\".",
+      "corpo": "A imagem do Cordeiro remonta ao cordeiro pascal sacrificado no Êxodo, cujo sangue protegia as casas hebreias da décima praga (Ex 12), e é aplicada a Cristo por João Batista: \"Eis o Cordeiro de Deus, que tira o pecado do mundo\" (Jo 1,29) — fórmula que a liturgia da Missa repete antes da comunhão. O Apocalipse retoma insistentemente a figura do \"Cordeiro imolado\" reinando em glória, unindo sofrimento redentor e vitória pascal numa só imagem, muito representada na arte sacra sobretudo em altares e vitrais, frequentemente portando um estandarte de vitória.",
+      "tags": [
+        "Agnus Dei",
+        "Páscoa judaica",
+        "Apocalipse",
+        "Missa"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Christ_Church%2C_Burney_Lane%2C_Birmingham_-_Bloye_-_Holy_Lamb.jpg",
+      "imagem_credito": "Oosoom at English Wikipedia — Wikimedia Commons, CC BY-SA 3.0",
+      "ordem": 6
+    },
+    {
+      "id": "arte-sacra-simbolos:pelicano-eucaristico",
+      "slug": "pelicano-eucaristico",
+      "titulo": "O Pelicano Eucarístico",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "Uma lenda medieval sobre a ave que alimentaria os filhotes com o próprio sangue tornou-se símbolo tradicional da Eucaristia.",
+      "corpo": "Segundo uma crença zoológica medieval sem base real, o pelicano feriria o próprio peito para alimentar os filhotes com seu sangue em tempos de escassez — ou os ressuscitaria assim após matá-los acidentalmente. Essa lenda tornou-se, na arte sacra medieval e barroca, poderosa metáfora eucarística de Cristo que se entrega e derrama seu sangue para dar vida aos fiéis, tema retomado explicitamente pelo hino \"Adoro Te Devote\", atribuído a Tomás de Aquino, que invoca Jesus como \"pelicano piedoso\". Aparece esculpido com frequência em sacrários, púlpitos e ostensórios.",
+      "tags": [
+        "Eucaristia",
+        "Tomás de Aquino",
+        "Adoro Te Devote"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Denver_Cathedral%2C_window_16a%2C_sanctuary%2C_The_Crucifixion_%28with_Pelican%29.jpg",
+      "imagem_credito": "Workman — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 7
+    },
+    {
+      "id": "arte-sacra-simbolos:trindade-triangulo",
+      "slug": "trindade-triangulo",
+      "titulo": "O Triângulo Trinitário",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "A figura geométrica de três lados iguais e um só contorno, símbolo visual recorrente da unidade e igualdade das três Pessoas divinas.",
+      "corpo": "O triângulo equilátero — três lados e três ângulos idênticos formando uma única figura fechada — tornou-se símbolo visual conveniente, ainda que necessariamente limitado, da doutrina trinitária: três Pessoas realmente distintas (Pai, Filho e Espírito Santo) e, ao mesmo tempo, um único e mesmo Deus, sem subordinação de uma pessoa às outras. Aparece com frequência com um olho no centro (o \"Olho da Providência\"), irradiando luz, ou entrelaçado com o Crismon, especialmente em retábulos, vitrais e frontispícios barrocos dedicados à Santíssima Trindade.",
+      "tags": [
+        "Trindade",
+        "Olho da Providência",
+        "barroco"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Robert_Campin_-_The_Holy_Trinity_%28detail%29_-_WGA14433.jpg",
+      "imagem_credito": null,
+      "ordem": 8
+    },
+    {
+      "id": "arte-sacra-simbolos:pomba-espirito-santo",
+      "slug": "pomba-espirito-santo",
+      "titulo": "A Pomba do Espírito Santo",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "A imagem bíblica que representa a terceira Pessoa da Trindade descendo sobre Jesus no Batismo e sobre a Igreja em Pentecostes.",
+      "corpo": "A pomba branca em voo, geralmente irradiando raios de luz, é a representação visual mais universal do Espírito Santo na arte cristã, com base direta nos relatos evangélicos do Batismo de Jesus, quando \"o Espírito Santo desceu sobre ele em forma corpórea, como pomba\" (Lc 3,22). Aparece de modo recorrente em cenas de Anunciação, Batismo, Pentecostes e no célebre vitral da abside da Basílica de São Pedro, esculpido por Bernini, onde a pomba domina toda a composição como fonte luminosa da glória celeste.",
+      "tags": [
+        "Espírito Santo",
+        "Batismo de Jesus",
+        "Bernini",
+        "Pentecostes"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Rom%2C_Vatikan%2C_Basilika_St._Peter%2C_Die_Taube_des_Heiligen_Geistes_%28Cathedra_Petri%2C_Bernini%29.jpg",
+      "imagem_credito": "Dnalor 01 — Wikimedia Commons, CC BY-SA 3.0 at",
+      "ordem": 9
+    },
+    {
+      "id": "arte-sacra-simbolos:coracao-sagrado-de-jesus",
+      "slug": "coracao-sagrado-de-jesus",
+      "titulo": "O Sagrado Coração de Jesus",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "A imagem do coração de Cristo, coroado de espinhos e chamejante de amor, símbolo central da devoção reparadora difundida a partir de Santa Margarida Maria.",
+      "corpo": "A representação do Sagrado Coração de Jesus — coroado de espinhos, ferido, envolto em chamas de amor e frequentemente encimado por uma cruz — consolidou-se a partir das aparições de Jesus a Santa Margarida Maria Alacoque no século XVII, que deram origem à devoção reparadora ao Sagrado Coração. Visualmente, condensa numa só imagem o amor infinito de Cristo pela humanidade, o sofrimento aceito por amor e o convite à reparação pelos pecados do mundo, tornando-se um dos ícones devocionais mais reproduzidos em lares católicos, sobretudo desde o século XIX.",
+      "tags": [
+        "Margarida Maria Alacoque",
+        "devoção reparadora",
+        "amor de Cristo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/SacredHeartBatoni.jpg",
+      "imagem_credito": null,
+      "ordem": 10
+    },
+    {
+      "id": "arte-sacra-simbolos:estola",
+      "slug": "estola",
+      "titulo": "A Estola",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "A faixa de tecido que envolve o pescoço do sacerdote ou diácono, sinal distintivo por excelência da autoridade e do ofício sacramental ordenado.",
+      "corpo": "A estola é uma longa faixa de tecido usada pelo clero ordenado ao redor do pescoço — cruzada sobre o peito pelo sacerdote na tradição mais antiga, pendente reto nas celebrações atuais mais comuns, e apenas sobre o ombro esquerdo pelo diácono. É, entre todas as vestes litúrgicas, o sinal mais imediato do ofício de quem a usa: nenhum sacramento é ministrado sem ela, mesmo quando as demais vestimentas litúrgicas são dispensadas em circunstâncias excepcionais, como na confissão fora do confessionário ou na unção dos enfermos em emergência.",
+      "tags": [
+        "vestes litúrgicas",
+        "clero",
+        "sacramentos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Franc_Cardinal_Rode_ordination_of_priests_2_20100325.jpg",
+      "imagem_credito": "James Bradley — Wikimedia Commons, CC BY 2.0",
+      "ordem": 11
+    },
+    {
+      "id": "arte-sacra-simbolos:casula",
+      "slug": "casula",
+      "titulo": "A Casula",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "A veste externa e mais visível do sacerdote na celebração da Missa, cuja cor muda conforme o tempo litúrgico.",
+      "corpo": "A casula é a veste litúrgica externa usada pelo sacerdote durante a celebração da Missa, envolvendo todo o corpo como um manto sem mangas. Sua cor segue rigorosamente o calendário litúrgico — verde no tempo comum, roxo no Advento e na Quaresma, branco ou dourado nas solenidades e tempos pascal e natalino, vermelho em festas de mártires, Pentecostes e Sexta-feira Santa, e ocasionalmente rosa em dois domingos específicos (Gaudete e Laetare) — comunicando visualmente, mesmo antes de qualquer palavra, o caráter espiritual de cada celebração ao longo do ano.",
+      "tags": [
+        "cores litúrgicas",
+        "Missa",
+        "calendário litúrgico"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/28/Escudo_Arzobispado_de_Toledo_-_Imposicion_de_la_casulla_a_San_Ildefonso_%28Catedral_de_Toledo%29_%2821865919828%29.jpg",
+      "imagem_credito": "jacilluch — Wikimedia Commons, CC BY-SA 2.0",
+      "ordem": 12
+    },
+    {
+      "id": "arte-sacra-simbolos:ostensorio",
+      "slug": "ostensorio",
+      "titulo": "O Ostensório",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "A peça de ouro ou prata, geralmente em forma de sol, usada para expor a Hóstia consagrada à adoração dos fiéis.",
+      "corpo": "O ostensório — também chamado custódia — é um objeto litúrgico precioso, geralmente de ouro ou prata dourada, desenhado com frequência em forma radiante de sol, no qual se encaixa a lúnula que sustenta a Hóstia consagrada para exposição pública à adoração eucarística, sobretudo na Adoração do Santíssimo Sacramento e nas procissões de Corpus Christi. Sua forma solar radiante reforça visualmente a fé de que ali está verdadeiramente presente Cristo, \"luz do mundo\", exposto à contemplação e à adoração dos fiéis reunidos.",
+      "tags": [
+        "adoração eucarística",
+        "Corpus Christi",
+        "Santíssimo Sacramento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/17/Corpus_Christi_-_Toledo%2C_Spain_-_2010_-.jpg",
+      "imagem_credito": "Francisco Javier Martín Fernández — Wikimedia Commons, CC BY 2.0",
+      "ordem": 13
+    },
+    {
+      "id": "arte-sacra-simbolos:cruz-de-santo-andre",
+      "slug": "cruz-de-santo-andre",
+      "titulo": "A Cruz de Santo André",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "A cruz em forma de X, associada ao apóstolo André, que segundo a tradição pediu ser crucificado numa cruz diferente da de Cristo.",
+      "corpo": "Segundo a tradição, o apóstolo André, irmão de Pedro, foi crucificado numa cruz em forma de X, tendo pedido esse formato distinto por considerar-se indigno de morrer numa cruz idêntica à de Cristo. Essa forma de cruz — também chamada \"cruz decussata\" — tornou-se seu atributo iconográfico característico e símbolo nacional de países e regiões sob seu patrocínio, como a Escócia, cuja bandeira (a \"Cruz de São André\" ou \"Saltire\") a incorpora diretamente sobre fundo azul.",
+      "tags": [
+        "apóstolo André",
+        "martírio",
+        "Escócia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Saint_Andrew_led_to_the_cross_of_martyrdom.jpg",
+      "imagem_credito": null,
+      "ordem": 14
+    },
+    {
+      "id": "arte-sacra-simbolos:tau",
+      "slug": "tau",
+      "titulo": "O Tau",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "A letra grega em forma de T, adotada por São Francisco de Assis como símbolo pessoal e hoje amplamente associado à espiritualidade franciscana.",
+      "corpo": "O Tau, última letra do alfabeto hebraico e forma correspondente no grego, ganhou peso simbólico bíblico no livro de Ezequiel, onde Deus manda marcar com um sinal na testa (interpretado por alguns Padres como um tau) os fiéis a serem poupados do castigo (Ez 9,4). São Francisco de Assis adotou o Tau como assinatura pessoal e símbolo de penitência e conversão, inspirado também por sua menção no Concílio de Latrão IV, presidido pelo papa Inocêncio III. Hoje é usado amplamente como símbolo distintivo da espiritualidade franciscana, em colares, hábitos e capelas.",
+      "tags": [
+        "Francisco de Assis",
+        "franciscanos",
+        "Ezequiel"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Accademia_-_Saint_Francis_Receiving_the_Stigmata_by_Veronese_Cat_833.jpg",
+      "imagem_credito": null,
+      "ordem": 15
+    }
+  ]
+}

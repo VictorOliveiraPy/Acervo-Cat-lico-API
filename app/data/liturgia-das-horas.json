@@ -1,0 +1,145 @@
+{
+  "_meta": {
+    "categoria": "liturgia-das-horas",
+    "nome": "Liturgia das Horas",
+    "descricao": "As horas do Ofício Divino — Laudes, Hora Média, Vésperas, Completas e Ofício das Leituras — que santificam o curso do dia com a oração pública da Igreja.",
+    "status": "exemplos-iniciais",
+    "aviso": "Visão introdutória do Breviário; não substitui o próprio livro litúrgico da Liturgia das Horas para uso na oração diária.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Instrução Geral sobre a Liturgia das Horas",
+      "Sacrosanctum Concilium, cap. IV"
+    ]
+  },
+  "itens": [
+    {
+      "id": "liturgia-das-horas:o-oficio-divino",
+      "slug": "o-oficio-divino",
+      "titulo": "O Ofício Divino: Visão Geral",
+      "categoria": "liturgia-das-horas",
+      "resumo": "A Liturgia das Horas é a oração pública e comum do Povo de Deus, que santifica todo o curso do dia através de horas fixas de oração.",
+      "corpo": "A Liturgia das Horas, também chamada Ofício Divino ou Breviário, é a oração oficial da Igreja distribuída ao longo do dia para santificar todas as suas horas, tal como pedia Paulo ao exortar a \"orar sem cessar\" (1Ts 5,17). Composta principalmente de salmos, cânticos bíblicos, leituras e orações, é rezada diariamente por padres, diáconos, religiosos e um número crescente de leigos, unindo quem a reza à oração de Cristo e de toda a Igreja espalhada pelo mundo, num único coro que nunca cessa, dia e noite. O Concílio Vaticano II a reformou profundamente na constituição Sacrosanctum Concilium, simplificando sua estrutura e ampliando o repertório de salmos e leituras.",
+      "tags": [
+        "Sacrosanctum Concilium",
+        "Breviário",
+        "oração contínua"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Illuminated_Manuscript%2C_Book_of_Hours_in_Dutch%2C_Annunciation%2C_Walters_Manuscript_W.918%2C_fol._13v.jpg",
+      "imagem_credito": null,
+      "ordem": 1
+    },
+    {
+      "id": "liturgia-das-horas:laudes",
+      "slug": "laudes",
+      "titulo": "Laudes (Oração da Manhã)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "A oração que consagra o início do dia a Deus, celebrada tradicionalmente ao nascer do sol como louvor pela nova criação da luz.",
+      "corpo": "Laudes — do latim \"louvores\" — é rezada ao amanhecer e consagra o começo do dia e da atividade humana a Deus, retomando o simbolismo bíblico da luz que vence as trevas e da ressurreição de Cristo, \"sol que nasce do alto\" (Lc 1,78). Sua estrutura clássica inclui um salmo matutino, um cântico do Antigo Testamento, um salmo de louvor, uma breve leitura bíblica e o cântico evangélico de Zacarias (Benedictus), que celebra a chegada da salvação. Junto com Vésperas, é considerada pela tradição litúrgica uma das duas \"horas cardeais\" — os pontos mais importantes de todo o Ofício Divino.",
+      "tags": [
+        "Benedictus",
+        "hora cardeal",
+        "amanhecer"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Caspar_David_Friedrich_-_Neubrandenburg_in_Flames_%28Sunrise_near_Neubrandenburg%29_-_WGA8287.jpg",
+      "imagem_credito": null,
+      "ordem": 2
+    },
+    {
+      "id": "liturgia-das-horas:hora-media",
+      "slug": "hora-media",
+      "titulo": "Hora Média (Terça, Sexta e Noa)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "As breves orações do meio do dia que santificam as horas de trabalho, tradicionalmente ligadas a momentos-chave da Paixão de Cristo.",
+      "corpo": "A Hora Média reúne as antigas horas menores de Terça (por volta das 9h), Sexta (meio-dia) e Noa (por volta das 15h), rezadas tradicionalmente por quem segue o Ofício Divino em sua forma mais completa, embora hoje geralmente se reze apenas uma delas conforme o momento do dia. A tradição associa essas horas a episódios da Paixão: Sexta relembra a crucificação de Cristo ao meio-dia, e Noa sua morte na cruz \"por volta da hora nona\" (Mt 27,46), enquanto Terça recorda a descida do Espírito Santo sobre os apóstolos em Pentecostes, que ocorreu \"pela terceira hora do dia\" (At 2,15).",
+      "tags": [
+        "Terça",
+        "Sexta",
+        "Noa",
+        "Paixão de Cristo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Jean-Fran%C3%A7ois_Millet_-_The_Angelus_-_Walters_37903.jpg",
+      "imagem_credito": null,
+      "ordem": 3
+    },
+    {
+      "id": "liturgia-das-horas:visperas",
+      "slug": "visperas",
+      "titulo": "Vésperas (Oração da Tarde)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "A oração do entardecer que agradece pelo dia que passou, celebrada tradicionalmente ao acender das luzes, com o cântico de Maria.",
+      "corpo": "Vésperas é rezada ao entardecer, quando a luz do dia começa a declinar, e por isso está tradicionalmente ligada ao rito de acender lâmpadas (lucernário) como símbolo de Cristo, luz que não se apaga com o cair da noite. É a segunda das \"horas cardeais\", com estrutura semelhante a Laudes, mas culminando no cântico de Maria, o Magnificat (Lc 1,46-55), que dá graças a Deus pelas maravilhas realizadas na história da salvação. É a hora mais celebrada solenemente em muitas comunidades religiosas e catedrais, muitas vezes cantada com incenso, como forma pública e festiva de oração vespertina.",
+      "tags": [
+        "Magnificat",
+        "hora cardeal",
+        "lucernário"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Jean_Jouvenet_-_Magnificat.jpg",
+      "imagem_credito": null,
+      "ordem": 4
+    },
+    {
+      "id": "liturgia-das-horas:completas",
+      "slug": "completas",
+      "titulo": "Completas (Oração antes de Dormir)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "A última oração do dia, breve e recolhida, que confia o sono e a própria vida à proteção de Deus.",
+      "corpo": "Completas é a oração mais curta e recolhida do Ofício Divino, rezada imediatamente antes de deitar, servindo como exame de consciência simplificado e ato de abandono confiante nas mãos de Deus antes do sono — tradicionalmente associado à morte, seu \"irmão gêmeo\" espiritual. Estruturalmente estável ao longo da semana, tem como ponto alto o cântico de Simeão (Nunc Dimittis: \"Agora, Senhor, podes deixar o teu servo ir em paz\", Lc 2,29-32) e conclui-se com uma das antífonas marianas — Salve Rainha, Ave Regina Caelorum, Regina Caeli ou Sub Tuum Praesidium, conforme o tempo litúrgico.",
+      "tags": [
+        "Nunc Dimittis",
+        "antífonas marianas",
+        "Salve Rainha"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Rembrandt_-_Simeon_in_the_Temple_DSC6899.jpg",
+      "imagem_credito": null,
+      "ordem": 5
+    },
+    {
+      "id": "liturgia-das-horas:oficio-de-leituras",
+      "slug": "oficio-de-leituras",
+      "titulo": "Ofício das Leituras (Vigília)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "A hora mais extensa do Breviário, com leituras bíblicas e patrísticas mais longas, originalmente rezada de noite como vigília.",
+      "corpo": "O Ofício das Leituras — antiga \"Matinas\", herdeira das vigílias noturnas dos primeiros monges — oferece as leituras mais longas e substanciosas de todo o Ofício Divino: um trecho mais extenso da Escritura, lido em sequência ao longo do ano litúrgico, e uma segunda leitura patrística ou de um autor espiritual, com comentários dos Padres da Igreja, de santos ou de documentos do Magistério, ligados ao tempo litúrgico ou à festa do dia. Embora tradicionalmente rezado de madrugada, a reforma do Vaticano II permite rezá-lo em qualquer momento do dia, sendo hoje frequentemente combinado com Laudes pela manhã.",
+      "tags": [
+        "Matinas",
+        "vigília",
+        "Padres da Igreja"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/A_good_reading_%281890%29%2C_by_Eduard_von_Gr%C3%BCtzner.jpg",
+      "imagem_credito": null,
+      "ordem": 6
+    },
+    {
+      "id": "liturgia-das-horas:os-salmos-na-liturgia-das-horas",
+      "slug": "os-salmos-na-liturgia-das-horas",
+      "titulo": "Os Salmos na Liturgia das Horas",
+      "categoria": "liturgia-das-horas",
+      "resumo": "O saltério é o coração da Liturgia das Horas: os 150 salmos, orados em ciclo de quatro semanas, formam a espinha dorsal de cada hora do Ofício.",
+      "corpo": "Os salmos constituem o núcleo de cada hora da Liturgia das Horas, distribuídos num ciclo de quatro semanas que percorre praticamente todo o saltério bíblico ao longo do ano. Herdados diretamente da prática de oração judaica do Templo e das sinagogas — que o próprio Jesus e os apóstolos rezavam —, os salmos permitem que quem ora empreste sua voz a toda a gama da experiência humana diante de Deus: louvor, súplica, lamento, confiança, arrependimento e ação de graças. A tradição cristã lê os salmos também cristologicamente, como voz de Cristo orando com e por seu Corpo, a Igreja.",
+      "tags": [
+        "saltério",
+        "ciclo de quatro semanas",
+        "cristologia dos salmos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gerard_van_Honthorst_-_King_David_Playing_the_Harp_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 7
+    },
+    {
+      "id": "liturgia-das-horas:liturgia-das-horas-e-vida-consagrada",
+      "slug": "liturgia-das-horas-e-vida-consagrada",
+      "titulo": "A Liturgia das Horas na Vida Consagrada",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Para monges, religiosos e clérigos, o Ofício Divino estrutura o ritmo diário de trabalho, silêncio e oração ao longo dos séculos.",
+      "corpo": "Desde os primeiros mosteiros do deserto egípcio e a Regra de São Bento — que organiza a vida monástica em torno de horas fixas de oração intercaladas com trabalho e leitura (\"ora et labora\") —, a Liturgia das Horas estruturou o cotidiano da vida religiosa e clerical ao longo de toda a história cristã. O Concílio Vaticano II reafirmou sua obrigatoriedade para clérigos e religiosos e, ao mesmo tempo, incentivou fortemente sua adoção também pelos leigos, como forma de santificar o tempo comum a partir da vida secular, para além dos muros do mosteiro.",
+      "tags": [
+        "Regra de São Bento",
+        "ora et labora",
+        "vida religiosa"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Franz_Reichardt_Pater_Prior_in_der_Klosterbibliothek.jpg",
+      "imagem_credito": null,
+      "ordem": 8
+    }
+  ]
+}

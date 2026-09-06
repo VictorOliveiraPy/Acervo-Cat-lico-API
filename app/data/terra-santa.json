@@ -1,0 +1,344 @@
+{
+  "_meta": {
+    "categoria": "terra-santa",
+    "nome": "Terra Santa",
+    "descricao": "Lugares da Palestina, Israel e regiões vizinhas ligados à vida de Cristo e à história bíblica, muitos deles também santuários de peregrinação.",
+    "status": "exemplos-iniciais",
+    "aviso": "Conjunto inicial de lugares mais conhecidos; não substitui um guia de peregrinação completo à Terra Santa.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Bíblia de Jerusalém",
+      "Catecismo da Igreja Católica"
+    ]
+  },
+  "itens": [
+    {
+      "id": "terra-santa:belem",
+      "slug": "belem",
+      "titulo": "Belém",
+      "categoria": "terra-santa",
+      "resumo": "Cidade da Judeia onde nasceu Jesus Cristo, também berço do rei Davi.",
+      "corpo": "Belém, a cerca de dez quilômetros de Jerusalém, é venerada como o local do nascimento de Jesus, cumprindo a profecia de Miqueias: \"E tu, Belém Efrata, pequena demais para figurar entre os clãs de Judá, de ti sairá aquele que deve ser o dominador de Israel\" (Mq 5,1). Ali também nasceu e foi ungido rei Davi. A Basílica da Natividade, erguida sobre a grota tradicional do nascimento no século IV por ordem de Constantino e reconstruída por Justiniano, é uma das igrejas cristãs mais antigas em uso contínuo no mundo, declarada Patrimônio Mundial da UNESCO.",
+      "tags": [
+        "Natividade",
+        "Davi",
+        "Basílica da Natividade"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Church_of_the_Nativity_%287703592746%29.jpg",
+      "imagem_credito": "Foto: Neil Ward — Wikimedia Commons, CC BY 2.0",
+      "local": "Belém",
+      "pais": "Palestina (Cisjordânia)",
+      "tipo_local": "cidade"
+    },
+    {
+      "id": "terra-santa:nazare",
+      "slug": "nazare",
+      "titulo": "Nazaré",
+      "categoria": "terra-santa",
+      "resumo": "Cidade da Galileia onde Jesus cresceu e viveu a maior parte de sua vida oculta.",
+      "corpo": "Nazaré era, no tempo de Jesus, uma pequena aldeia agrícola da Galileia, tão insignificante que Natanael perguntaria \"pode vir alguma coisa boa de Nazaré?\" (Jo 1,46). Foi ali que o anjo Gabriel anunciou a Maria a concepção virginal, e ali Jesus viveu quase trinta anos antes do início de seu ministério público — os \"anos ocultos\" de trabalho, oração e vida familiar em Nazaré. A Basílica da Anunciação, erguida sobre a gruta tradicional da casa de Maria, é hoje a maior igreja cristã do Oriente Médio.",
+      "tags": [
+        "Anunciação",
+        "vida oculta",
+        "Sagrada Família"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Habsora_from_selezian.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "local": "Nazaré",
+      "pais": "Israel",
+      "tipo_local": "cidade"
+    },
+    {
+      "id": "terra-santa:cafarnaum",
+      "slug": "cafarnaum",
+      "titulo": "Cafarnaum",
+      "categoria": "terra-santa",
+      "resumo": "Cidade à beira do mar da Galileia que se tornou a base do ministério público de Jesus.",
+      "corpo": "Depois de deixar Nazaré, Jesus fixou residência em Cafarnaum, à margem norte do mar da Galileia, que os Evangelhos chamam de \"sua própria cidade\" (Mt 9,1). Ali chamou os primeiros apóstolos — pescadores como Pedro, André, Tiago e João —, curou o servo de um centurião e a sogra de Pedro, e ensinou na sinagoga local, cujas ruínas de calcário branco ainda são visíveis sobre fundações mais antigas de basalto negro, possivelmente contemporâneas de Jesus. Ao lado, arqueólogos identificam a \"Casa de Pedro\", venerada como local de cura e pregação desde os primeiros séculos cristãos.",
+      "tags": [
+        "sinagoga",
+        "Pedro",
+        "ministério público"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Kafar1.jpg",
+      "imagem_credito": "Foto: Wikimedia Commons — Wikimedia Commons, CC BY-SA 3.0",
+      "local": "Cafarnaum",
+      "pais": "Israel",
+      "tipo_local": "cidade"
+    },
+    {
+      "id": "terra-santa:getsemani",
+      "slug": "getsemani",
+      "titulo": "Getsêmani",
+      "categoria": "terra-santa",
+      "resumo": "Jardim de oliveiras ao pé do monte das Oliveiras onde Jesus orou em agonia antes de ser preso.",
+      "corpo": "Getsêmani — do hebraico \"prensa de azeite\" — era um olival ao pé do monte das Oliveiras, atravessando o vale do Cedron a partir de Jerusalém, onde Jesus costumava retirar-se para orar. Na noite anterior à Paixão, ali viveu a agonia relatada pelos Evangelhos: \"Minha alma está triste até a morte\" (Mt 26,38), o suor como gotas de sangue mencionado por Lucas, e a prisão pelas tropas conduzidas por Judas. A Basílica da Agonia (ou das Nações), construída no século XX, preserva junto ao altar a rocha tradicional onde Jesus teria orado, e o jardim ao lado guarda oliveiras milenares.",
+      "tags": [
+        "Paixão",
+        "agonia",
+        "monte das Oliveiras",
+        "oração"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Getsemane2.JPG",
+      "imagem_credito": "Foto: Mewasul — Wikimedia Commons, CC BY-SA 3.0",
+      "local": "Getsêmani",
+      "pais": "Israel",
+      "tipo_local": "santuário"
+    },
+    {
+      "id": "terra-santa:santo-sepulcro",
+      "slug": "santo-sepulcro",
+      "titulo": "Igreja do Santo Sepulcro",
+      "categoria": "terra-santa",
+      "resumo": "Basílica de Jerusalém erguida sobre o Calvário e o túmulo vazio de Cristo, o lugar mais sagrado do cristianismo.",
+      "corpo": "Construída por ordem de Constantino no século IV sobre o local identificado como o Gólgota (Calvário) e o túmulo onde Jesus foi sepultado e ressuscitou, a Igreja do Santo Sepulcro reúne sob um único teto as estações finais da Paixão, Morte e Ressurreição. É partilhada, num arranjo delicado regido pelo chamado Status Quo desde o século XIX, entre as Igrejas Católica, Ortodoxa Grega, Armênia e outras comunidades cristãs. A pedra da unção, o Calvário no andar superior e a Edícula que abriga o túmulo vazio fazem dela o destino de peregrinação mais importante da cristandade.",
+      "tags": [
+        "Ressurreição",
+        "Calvário",
+        "peregrinação",
+        "Jerusalém"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/01/The_Church_of_the_Holy_Sepulchre-Jerusalem.JPG",
+      "imagem_credito": "Foto: https://www.flickr.com/photos/jlascar/ — Wikimedia Commons, CC BY 2.0",
+      "local": "Jerusalém",
+      "pais": "Israel",
+      "tipo_local": "santuário"
+    },
+    {
+      "id": "terra-santa:monte-das-oliveiras",
+      "slug": "monte-das-oliveiras",
+      "titulo": "Monte das Oliveiras",
+      "categoria": "terra-santa",
+      "resumo": "Elevação a leste de Jerusalém, palco da Ascensão de Jesus e de momentos decisivos da sua vida.",
+      "corpo": "Do monte das Oliveiras, de onde se avista toda Jerusalém através do vale do Cedron, Jesus chorou sobre a cidade, pronunciou o discurso escatológico e, segundo os Atos dos Apóstolos, ascendeu ao céu diante dos apóstolos quarenta dias depois da Ressurreição (At 1,9-12). No topo, a Capela da Ascensão marca o local tradicional; na encosta ficam o jardim de Getsêmani e a igreja \"Dominus Flevit\" (\"O Senhor chorou\"), erguida em forma de lágrima.",
+      "tags": [
+        "Ascensão",
+        "Jerusalém",
+        "escatologia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mount_of_olives.jpg",
+      "imagem_credito": "Foto: The original uploader was תמרה at Hebrew Wikipedia. — Wikimedia Commons, Attribution",
+      "local": "Monte das Oliveiras",
+      "pais": "Israel",
+      "tipo_local": "monte"
+    },
+    {
+      "id": "terra-santa:rio-jordao",
+      "slug": "rio-jordao",
+      "titulo": "Rio Jordão",
+      "categoria": "terra-santa",
+      "resumo": "Rio onde João Batista batizou Jesus, marcando o início público de seu ministério.",
+      "corpo": "No rio Jordão, perto de Jericó, João Batista pregava conversão e batizava multidões quando Jesus veio até ele para ser batizado — episódio em que, segundo os três Evangelhos sinóticos, o céu se abriu, o Espírito desceu como pomba e uma voz proclamou: \"Este é o meu Filho amado\" (Mt 3,17). O local tradicional, chamado Qasr al-Yahud do lado ocidental, é hoje sítio de peregrinação e de renovação batismal para cristãos de todo o mundo.",
+      "tags": [
+        "Batismo de Jesus",
+        "João Batista",
+        "Trindade"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/78/20100923_mer_morte13.JPG",
+      "imagem_credito": "Foto: Jean Housen — Wikimedia Commons, CC BY-SA 3.0",
+      "local": "Rio Jordão",
+      "pais": "Israel/Jordânia",
+      "tipo_local": "rio"
+    },
+    {
+      "id": "terra-santa:monte-tabor",
+      "slug": "monte-tabor",
+      "titulo": "Monte Tabor",
+      "categoria": "terra-santa",
+      "resumo": "Monte da Galileia venerado como o local tradicional da Transfiguração de Jesus.",
+      "corpo": "Isolado na planície de Jezreel, o monte Tabor é identificado pela tradição cristã desde os primeiros séculos como o \"monte alto\" onde Jesus se transfigurou diante de Pedro, Tiago e João, aparecendo em glória ao lado de Moisés e Elias (Mt 17,1-8). No cume, a Basílica da Transfiguração, projetada pelo arquiteto Antonio Barluzzi no século XX, incorpora ruínas de igrejas bizantinas e cruzadas anteriores.",
+      "tags": [
+        "Transfiguração",
+        "Moisés e Elias",
+        "glória"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Mount_Tabor%2C2.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "local": "Monte Tabor",
+      "pais": "Israel",
+      "tipo_local": "monte"
+    },
+    {
+      "id": "terra-santa:monte-das-bemaventurancas",
+      "slug": "monte-das-bemaventurancas",
+      "titulo": "Monte das Bem-Aventuranças",
+      "categoria": "terra-santa",
+      "resumo": "Colina à beira do mar da Galileia venerada como o local do Sermão da Montanha.",
+      "corpo": "Numa suave colina com vista para o mar da Galileia, perto de Cafarnaum e Tabgha, a tradição situa o Sermão da Montanha, no qual Jesus proclamou as Bem-Aventuranças (Mt 5,1-12) e boa parte de sua síntese ética e espiritual. A igreja octogonal atual, erguida em 1938 e financiada por Mussolini, tem oito lados em referência às oito bem-aventuranças, e permanece um dos lugares mais serenos de peregrinação na Galileia.",
+      "tags": [
+        "Sermão da Montanha",
+        "bem-aventuranças",
+        "Galileia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Berg_der_Seligpreisungen_BW_5.JPG",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "local": "Monte das Bem-Aventuranças",
+      "pais": "Israel",
+      "tipo_local": "santuário"
+    },
+    {
+      "id": "terra-santa:tabgha",
+      "slug": "tabgha",
+      "titulo": "Tabgha",
+      "categoria": "terra-santa",
+      "resumo": "Local à beira do mar da Galileia venerado como o da multiplicação dos pães e peixes.",
+      "corpo": "Tabgha, do grego \"Heptapegon\" (\"sete fontes\"), é tradicionalmente identificado como o local da multiplicação dos pães e peixes para cinco mil pessoas (Mt 14,13-21). A Igreja da Multiplicação, reconstruída no século XX sobre fundações bizantinas do século V, preserva um famoso mosaico de piso representando uma cesta com pães e dois peixes diante do altar. Nas proximidades, a Igreja do Primado de Pedro marca o local tradicional onde Jesus ressuscitado confiou a Pedro o cuidado do rebanho (Jo 21,15-17).",
+      "tags": [
+        "multiplicação dos pães",
+        "mosaico",
+        "Primado de Pedro"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Tabgha_Ein_Sheva_1903.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "local": "Tabgha",
+      "pais": "Israel",
+      "tipo_local": "santuário"
+    },
+    {
+      "id": "terra-santa:cesareia-de-filipe",
+      "slug": "cesareia-de-filipe",
+      "titulo": "Cesareia de Filipe",
+      "categoria": "terra-santa",
+      "resumo": "Cidade ao norte da Galileia onde Pedro professou que Jesus é o Cristo, o Filho de Deus.",
+      "corpo": "Junto às nascentes do rio Jordão, ao pé do monte Hermon, ficava Cesareia de Filipe, centro de cultos pagãos dedicados ao deus Pã. Foi ali que Jesus perguntou aos discípulos \"quem dizem os homens que eu sou?\", e Pedro respondeu: \"Tu és o Cristo, o Filho do Deus vivo\" — confissão à qual Jesus respondeu prometendo edificar sua Igreja sobre aquela \"pedra\" (Mt 16,13-19). O contraste entre o santuário pagão de Pã e a confissão messiânica de Pedro é lido pela tradição como sinal da vitória de Cristo sobre os ídolos.",
+      "tags": [
+        "confissão de Pedro",
+        "primado",
+        "Igreja"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Banias_Spring_Cliff_Pan%27s_Cave.JPG",
+      "imagem_credito": "Foto: gugganij — Wikimedia Commons, CC BY-SA 3.0",
+      "local": "Cesareia de Filipe (Banias)",
+      "pais": "Israel/Golã",
+      "tipo_local": "cidade"
+    },
+    {
+      "id": "terra-santa:jerico",
+      "slug": "jerico",
+      "titulo": "Jericó",
+      "categoria": "terra-santa",
+      "resumo": "Uma das cidades mais antigas do mundo, palco da cura de Bartimeu e do encontro com Zaqueu.",
+      "corpo": "Jericó, no vale do Jordão perto do mar Morto, é uma das cidades habitadas mais antigas da humanidade, com achados arqueológicos de mais de nove mil anos. Nos Evangelhos, é onde Jesus cura o cego Bartimeu (Mc 10,46-52) e onde o publicano Zaqueu sobe numa figueira brava para vê-lo passar, recebendo Jesus em sua casa (Lc 19,1-10). No Antigo Testamento, é a cidade cujos muros caíram diante de Josué após a conquista de Canaã.",
+      "tags": [
+        "Zaqueu",
+        "Bartimeu",
+        "Josué"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Jerycho-panorama.jpg",
+      "imagem_credito": "Foto: Janusz J. — Wikimedia Commons, CC BY-SA 3.0",
+      "local": "Jericó",
+      "pais": "Palestina (Cisjordânia)",
+      "tipo_local": "cidade"
+    },
+    {
+      "id": "terra-santa:cana-da-galileia",
+      "slug": "cana-da-galileia",
+      "titulo": "Caná da Galileia",
+      "categoria": "terra-santa",
+      "resumo": "Vilarejo onde Jesus realizou seu primeiro sinal, transformando água em vinho num casamento.",
+      "corpo": "Caná, pequena localidade da Galileia perto de Nazaré, é o cenário do primeiro sinal público de Jesus: a transformação da água em vinho num banquete de casamento, por intercessão de Maria (Jo 2,1-11). O episódio é lido pela tradição não apenas como prodígio, mas como revelação messiânica e antecipação do banquete eucarístico, além de fundamento bíblico da dignidade do matrimônio.",
+      "tags": [
+        "primeiro sinal",
+        "Maria",
+        "matrimônio"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Paolo_Veronese%2C_The_Wedding_at_Cana.JPG",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "local": "Caná (Kafr Kanna)",
+      "pais": "Israel",
+      "tipo_local": "cidade"
+    },
+    {
+      "id": "terra-santa:betania",
+      "slug": "betania",
+      "titulo": "Betânia",
+      "categoria": "terra-santa",
+      "resumo": "Vilarejo próximo a Jerusalém, casa de Marta, Maria e Lázaro, onde Jesus ressuscitou seu amigo.",
+      "corpo": "A cerca de três quilômetros de Jerusalém, na encosta oriental do monte das Oliveiras, Betânia era a casa de Marta, Maria e Lázaro, amigos íntimos de Jesus. Ali ele ressuscitou Lázaro quatro dias depois de sua morte (Jo 11,1-44) e ali, na casa de Simão o leproso, uma mulher ungiu seus pés com perfume precioso pouco antes da Paixão. O nome árabe do vilarejo atual, al-Eizariya, deriva diretamente do nome de Lázaro (\"Eleazar\").",
+      "tags": [
+        "Lázaro",
+        "Marta e Maria",
+        "ressurreição"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/44/Lazarus_Bethany.JPG",
+      "imagem_credito": "Foto: Marion Doss from Scranton, Kansas, USA — Wikimedia Commons, CC BY-SA 2.0",
+      "local": "Betânia (al-Eizariya)",
+      "pais": "Palestina (Cisjordânia)",
+      "tipo_local": "cidade"
+    },
+    {
+      "id": "terra-santa:montanha-das-tentacoes",
+      "slug": "montanha-das-tentacoes",
+      "titulo": "Monte da Quarentena (Monte das Tentações)",
+      "categoria": "terra-santa",
+      "resumo": "Monte no deserto da Judeia venerado como o local do jejum e das tentações de Jesus no deserto.",
+      "corpo": "Erguendo-se abruptamente sobre a cidade de Jericó, o Monte da Quarentena (Jebel Quruntul) é identificado pela tradição desde os primeiros séculos cristãos como o local onde Jesus jejuou quarenta dias e foi tentado pelo demônio antes de iniciar seu ministério público (Mt 4,1-11). Um mosteiro grego-ortodoxo, escavado parcialmente na própria rocha do penhasco, marca o local desde a Idade Média, acessível hoje por teleférico a partir de Jericó.",
+      "tags": [
+        "tentações de Jesus",
+        "deserto",
+        "jejum"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Mount_of_Temptation_from_Jericho_%284878885487%29.jpg",
+      "imagem_credito": null,
+      "local": "Monte da Quarentena",
+      "pais": "Palestina (Cisjordânia)",
+      "tipo_local": "monte"
+    },
+    {
+      "id": "terra-santa:via-dolorosa",
+      "slug": "via-dolorosa",
+      "titulo": "Via Dolorosa",
+      "categoria": "terra-santa",
+      "resumo": "Percurso tradicional em Jerusalém que relembra o caminho de Jesus até o Calvário, carregando a cruz.",
+      "corpo": "A Via Dolorosa (\"caminho das dores\") é o trajeto tradicional, marcado por catorze estações, que rememora o percurso de Jesus desde sua condenação por Pilatos até a crucificação e sepultamento no Gólgota. Consolidada como devoção pelos franciscanos a partir da Idade Média, percorre hoje as ruas estreitas da cidade velha de Jerusalém e termina dentro da própria Igreja do Santo Sepulcro. É a base histórica do exercício devocional da Via-Sacra, hoje praticado em igrejas de todo o mundo.",
+      "tags": [
+        "Via-Sacra",
+        "Paixão",
+        "Jerusalém",
+        "devoção"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Via_Dolorosa.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "local": "Jerusalém",
+      "pais": "Israel",
+      "tipo_local": "santuário"
+    },
+    {
+      "id": "terra-santa:monte-sinai",
+      "slug": "monte-sinai",
+      "titulo": "Monte Sinai",
+      "categoria": "terra-santa",
+      "resumo": "Monte do deserto onde, segundo o Êxodo, Deus entregou a Moisés os Dez Mandamentos.",
+      "corpo": "No sul da península do Sinai, o monte identificado pela tradição desde o século IV como o Sinai bíblico é onde, segundo o livro do Êxodo, Deus revelou-se a Moisés na sarça ardente e mais tarde lhe entregou as tábuas da Lei em meio a trovões e fogo (Ex 19-20). Ao pé do monte, o Mosteiro de Santa Catarina, fundado no século VI por ordem do imperador Justiniano, é um dos mosteiros cristãos mais antigos em funcionamento contínuo no mundo e guarda uma das mais importantes coleções de manuscritos e ícones bizantinos.",
+      "tags": [
+        "Moisés",
+        "Dez Mandamentos",
+        "Antigo Testamento",
+        "Santa Catarina"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Mount_Sinai_Egypt.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "local": "Monte Sinai",
+      "pais": "Egito",
+      "tipo_local": "monte"
+    },
+    {
+      "id": "terra-santa:mar-morto",
+      "slug": "mar-morto",
+      "titulo": "Mar Morto",
+      "categoria": "terra-santa",
+      "resumo": "O ponto mais baixo da superfície terrestre, associado a Sodoma e Gomorra e aos manuscritos de Qumran.",
+      "corpo": "O Mar Morto, cuja densidade salina impede qualquer vida aquática, é associado no livro do Gênesis à destruição de Sodoma e Gomorra pela impiedade de seus habitantes (Gn 19). Em suas margens, as cavernas de Qumran preservaram os Manuscritos do Mar Morto, descobertos a partir de 1947 — os textos bíblicos hebraicos mais antigos conhecidos, cerca de mil anos anteriores aos manuscritos que se usavam até então, e testemunho precioso da fidelidade da transmissão do texto bíblico ao longo dos séculos.",
+      "tags": [
+        "Sodoma e Gomorra",
+        "manuscritos de Qumran",
+        "Antigo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Dead_Sea_1920px.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "local": "Mar Morto",
+      "pais": "Israel/Jordânia",
+      "tipo_local": "outro"
+    }
+  ]
+}

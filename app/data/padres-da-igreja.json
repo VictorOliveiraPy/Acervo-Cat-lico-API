@@ -1,0 +1,375 @@
+{
+  "_meta": {
+    "categoria": "padres-da-igreja",
+    "nome": "Padres da Igreja",
+    "descricao": "Escritores eclesiásticos dos primeiros séculos cuja doutrina e vida são testemunho da fé apostólica — categoria distinta de Doutor da Igreja, embora vários Padres também o sejam.",
+    "status": "exemplos-iniciais",
+    "aviso": "Nem todo Padre da Igreja foi canonizado ou declarado Doutor; o campo 'e_doutor' indica apenas os que também recebem esse título.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Catecismo da Igreja Católica",
+      "Patrologia de J. Quasten"
+    ]
+  },
+  "itens": [
+    {
+      "id": "padres-da-igreja:inacio-de-antioquia",
+      "slug": "inacio-de-antioquia",
+      "titulo": "Inácio de Antioquia",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bispo de Antioquia e mártir que, a caminho do martírio em Roma, escreveu sete cartas fundamentais para a eclesiologia primitiva.",
+      "corpo": "Discípulo, segundo a tradição, do apóstolo João, Inácio foi o segundo ou terceiro bispo de Antioquia. Condenado às feras por professar a fé cristã, escreveu no caminho para o martírio em Roma (c. 107) sete cartas a igrejas da Ásia Menor e a Roma, que são o testemunho mais antigo, fora do Novo Testamento, sobre a estrutura hierárquica da Igreja (bispo, presbíteros, diáconos), a Eucaristia como \"remédio da imortalidade\" e o próprio termo \"Igreja Católica\" (katholikē ekklēsía), usado pela primeira vez na história na sua Carta aos Esmirniotas.",
+      "tags": [
+        "Antioquia",
+        "mártir",
+        "eclesiologia",
+        "Igreja Católica"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Síria",
+      "seculo": "I-II",
+      "e_doutor": false
+    },
+    {
+      "id": "padres-da-igreja:policarpo-de-esmirna",
+      "slug": "policarpo-de-esmirna",
+      "titulo": "Policarpo de Esmirna",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bispo de Esmirna, discípulo do apóstolo João, martirizado aos 86 anos por recusar renegar Cristo.",
+      "corpo": "Policarpo foi discípulo direto do apóstolo João e bispo de Esmirna por décadas, elo vivo entre a geração apostólica e a Igreja do século II. Sua única carta que sobrevive, endereçada aos filipenses, cita extensamente o Novo Testamento e exorta à caridade e à ortodoxia. Seu martírio, narrado no antigo documento \"Martírio de Policarpo\", é um dos relatos de martírio mais antigos e detalhados da Igreja: ao ser instado a amaldiçoar Cristo para salvar a vida, respondeu: \"Há oitenta e seis anos que o sirvo, e ele nunca me fez mal algum; como posso blasfemar contra o meu Rei que me salvou?\"",
+      "tags": [
+        "Esmirna",
+        "mártir",
+        "discípulo de João"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Vitrail_St-Polycarpe_par_B%C3%A9gule.jpg",
+      "imagem_credito": "Foto: GO69 — Wikimedia Commons, CC BY-SA 3.0",
+      "regiao": "Ásia Menor",
+      "seculo": "I-II",
+      "e_doutor": false
+    },
+    {
+      "id": "padres-da-igreja:justino-martir",
+      "slug": "justino-martir",
+      "titulo": "Justino Mártir",
+      "categoria": "padres-da-igreja",
+      "resumo": "Filósofo pagão convertido ao cristianismo, primeiro grande apologista a dialogar com a cultura filosófica grega.",
+      "corpo": "Justino, nascido pagão e formado em várias escolas filosóficas antes de se converter ao cristianismo, tornou-se o mais importante apologista do século II. Em suas duas \"Apologias\", dirigidas a imperadores romanos, e no \"Diálogo com Trifão\", argumentou que o cristianismo é a verdadeira filosofia, cumprindo tudo o que havia de bom nas filosofias pagãs através do \"Logos\" (Verbo) presente em toda a humanidade. Sua primeira Apologia contém a mais antiga descrição detalhada da liturgia eucarística cristã fora do Novo Testamento. Foi decapitado em Roma por recusar sacrificar aos deuses, ganhando o título de \"Mártir\".",
+      "tags": [
+        "apologética",
+        "filosofia",
+        "mártir",
+        "liturgia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Justin_Martyr.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Palestina/Roma",
+      "seculo": "II",
+      "e_doutor": false
+    },
+    {
+      "id": "padres-da-igreja:ireneu-de-lyon",
+      "slug": "ireneu-de-lyon",
+      "titulo": "Irineu de Lyon",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bispo de Lyon que refutou sistematicamente o gnosticismo e articulou a doutrina da sucessão apostólica.",
+      "corpo": "Irineu, formado na Ásia Menor por discípulos de Policarpo, tornou-se bispo de Lyon, na Gália. Sua obra-prima, \"Contra as Heresias\", é a refutação mais completa e sistemática do gnosticismo produzida pela Igreja antiga, e nela desenvolve a doutrina da \"recapitulação\" — Cristo como o novo Adão que reúne e restaura toda a humanidade — e o princípio da sucessão apostólica como critério de autenticidade doutrinal, listando os bispos de Roma desde Pedro. É considerado o pai da teologia sistemática cristã e ponte entre o cristianismo oriental e ocidental.",
+      "tags": [
+        "gnosticismo",
+        "sucessão apostólica",
+        "recapitulação"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/91/San_Ireneo%2C_vitral_%28cropped%29.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Ásia Menor/Gália",
+      "seculo": "II",
+      "e_doutor": false
+    },
+    {
+      "id": "padres-da-igreja:origenes",
+      "slug": "origenes",
+      "titulo": "Orígenes",
+      "categoria": "padres-da-igreja",
+      "resumo": "Teólogo e exegeta de Alexandria de erudição imensa, cuja obra moldou a exegese bíblica cristã apesar de posições posteriormente condenadas.",
+      "corpo": "Orígenes dirigiu a escola catequética de Alexandria e produziu uma obra de proporções monumentais: a \"Hexapla\" (edição do Antigo Testamento em seis colunas de texto comparado), comentários bíblicos de método alegórico, e o tratado \"Sobre os Princípios\", primeira grande síntese sistemática de teologia cristã. Sofreu tortura durante a perseguição de Décio, da qual nunca se recuperou plenamente. Algumas de suas especulações teológicas — como a preexistência das almas e a possível salvação universal (apocatástase) — foram condenadas por concílios posteriores, razão pela qual, apesar de sua influência incalculável, nunca foi reconhecido como santo pela Igreja.",
+      "tags": [
+        "Alexandria",
+        "exegese",
+        "Hexapla"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/20/Origen.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Egito",
+      "seculo": "II-III",
+      "e_doutor": false
+    },
+    {
+      "id": "padres-da-igreja:tertuliano",
+      "slug": "tertuliano",
+      "titulo": "Tertuliano",
+      "categoria": "padres-da-igreja",
+      "resumo": "Advogado cartaginês convertido, primeiro grande escritor cristão em latim e cunhador do vocabulário teológico ocidental.",
+      "corpo": "Tertuliano, jurista de formação em Cartago, foi o primeiro autor cristão de peso a escrever em latim, e por isso é chamado \"pai da teologia latina\": cunhou termos técnicos que a teologia ocidental usa até hoje, como \"Trindade\" (trinitas) e \"pessoa\" e \"substância\" aplicados a Deus. Sua obra apologética \"Apologeticum\" defende os cristãos perante o Império com a célebre frase \"o sangue dos mártires é semente [de novos cristãos]\". Na maturidade aderiu ao rigorismo montanista, rompendo com a Igreja — razão pela qual, apesar de sua influência linguística e teológica duradoura, não é contado entre os Padres em sentido pleno nem foi canonizado.",
+      "tags": [
+        "Cartago",
+        "latim",
+        "Trindade",
+        "apologética"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Tertullian.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "África do Norte",
+      "seculo": "II-III",
+      "e_doutor": false
+    },
+    {
+      "id": "padres-da-igreja:cipriano-de-cartago",
+      "slug": "cipriano-de-cartago",
+      "titulo": "Cipriano de Cartago",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bispo de Cartago e mártir, teólogo da unidade da Igreja em tempos de perseguição e cisma.",
+      "corpo": "Cipriano, retórico convertido ao cristianismo, tornou-se bispo de Cartago e enfrentou a crise dos \"lapsi\" (cristãos que haviam apostatado sob perseguição) e o cisma de Novaciano em Roma. Seu tratado \"Sobre a Unidade da Igreja Católica\" contém a célebre imagem da Igreja como túnica inconsútil de Cristo, que não pode ser rasgada, e a fórmula \"fora da Igreja não há salvação\" (extra Ecclesiam nulla salus), além da afirmação de que \"não pode ter Deus por Pai quem não tem a Igreja por mãe\". Foi decapitado durante a perseguição de Valeriano em 258, um dos primeiros bispos-mártires da África romana.",
+      "tags": [
+        "Cartago",
+        "unidade da Igreja",
+        "mártir",
+        "lapsi"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Heiliger_Cyprianus.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "África do Norte",
+      "seculo": "III",
+      "e_doutor": false
+    },
+    {
+      "id": "padres-da-igreja:atanasio-de-alexandria",
+      "slug": "atanasio-de-alexandria",
+      "titulo": "Atanásio de Alexandria",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bispo de Alexandria, principal defensor da fé niceia contra o arianismo, exilado cinco vezes por sua fidelidade.",
+      "corpo": "Atanásio, ainda diácono, acompanhou seu bispo ao Concílio de Niceia (325) e passou o resto da vida defendendo, quase sozinho por décadas, a definição niceia de que o Filho é \"consubstancial\" (homoousios) ao Pai contra o arianismo, então dominante entre boa parte do episcopado e da corte imperial. Foi exilado cinco vezes por imperadores arianos ou pró-arianos, dando origem à expressão \"Atanásio contra o mundo\" (Athanasius contra mundum). Escreveu a \"Vida de Antão\", que difundiu o monaquismo egípcio pelo Ocidente, e sua Carta Festal de 367 é o primeiro documento a listar exatamente os 27 livros do Novo Testamento tal como hoje o conhecemos.",
+      "tags": [
+        "arianismo",
+        "Niceia",
+        "cânon bíblico",
+        "monaquismo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Ikone_Athanasius_von_Alexandria.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Egito",
+      "seculo": "IV",
+      "e_doutor": false
+    },
+    {
+      "id": "padres-da-igreja:cirilo-de-jerusalem",
+      "slug": "cirilo-de-jerusalem",
+      "titulo": "Cirilo de Jerusalém",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bispo de Jerusalém cujas catequeses batismais são a fonte mais rica sobre a iniciação cristã no século IV, e Doutor da Igreja.",
+      "corpo": "Cirilo, bispo de Jerusalém em tempos de controvérsia ariana, é conhecido sobretudo por suas \"Catequeses\", pronunciadas aos candidatos ao Batismo durante a Quaresma e aos recém-batizados na Semana de Páscoa. Constituem o testemunho mais detalhado que existe sobre como a Igreja do século IV preparava e explicava os sacramentos da iniciação cristã — Batismo, Crisma e Eucaristia — a partir da própria experiência litúrgica de Jerusalém, cidade dos lugares santos. Foi proclamado Doutor da Igreja em 1883.",
+      "tags": [
+        "catequese",
+        "Jerusalém",
+        "iniciação cristã",
+        "Doutor da Igreja"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Saint_Cyril_of_Jerusalem.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Palestina",
+      "seculo": "IV",
+      "e_doutor": true
+    },
+    {
+      "id": "padres-da-igreja:cirilo-de-alexandria",
+      "slug": "cirilo-de-alexandria",
+      "titulo": "Cirilo de Alexandria",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bispo de Alexandria e principal artífice da condenação do nestorianismo no Concílio de Éfeso, Doutor da Igreja.",
+      "corpo": "Cirilo, patriarca de Alexandria, liderou a defesa do título \"Theotokos\" (Mãe de Deus) para Maria contra Nestório no Concílio de Éfeso (431), argumentando com precisão teológica que, sendo Cristo uma só Pessoa divina em duas naturezas, quem Maria gerou é verdadeiramente Deus feito homem, não apenas um homem unido a Deus. Sua vitória em Éfeso consolidou a cristologia que seria refinada em Calcedônia vinte anos depois. Foi proclamado Doutor da Igreja em 1882.",
+      "tags": [
+        "Éfeso",
+        "Theotokos",
+        "nestorianismo",
+        "Doutor da Igreja"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Saint_Cyril_of_Alexandria_at_Chora.jpg",
+      "imagem_credito": "Foto: José Luiz — Wikimedia Commons, CC BY-SA 3.0",
+      "regiao": "Egito",
+      "seculo": "IV-V",
+      "e_doutor": true
+    },
+    {
+      "id": "padres-da-igreja:joao-crisostomo",
+      "slug": "joao-crisostomo",
+      "titulo": "João Crisóstomo",
+      "categoria": "padres-da-igreja",
+      "resumo": "Patriarca de Constantinopla célebre por sua eloquência (\"boca de ouro\"), pregador incansável da justiça social e Doutor da Igreja.",
+      "corpo": "João, apelidado \"Crisóstomo\" (\"boca de ouro\") pela qualidade excepcional de sua pregação, foi patriarca de Constantinopla depois de anos como monge e presbítero em Antioquia. Suas homilias — centenas ainda preservadas — combinam exegese bíblica cuidadosa com denúncia vigorosa da injustiça social, do luxo da corte e da hipocrisia religiosa, o que lhe custou o exílio por ordem da imperatriz Eudóxia, ofendida com suas críticas. Morreu em exílio em 407. É Doutor da Igreja e um dos quatro grandes Padres gregos, junto com Basílio, os dois Gregórios.",
+      "tags": [
+        "Constantinopla",
+        "pregação",
+        "justiça social",
+        "Doutor da Igreja"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Johnchrysostom.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Síria/Constantinopla",
+      "seculo": "IV-V",
+      "e_doutor": true
+    },
+    {
+      "id": "padres-da-igreja:basilio-magno",
+      "slug": "basilio-magno",
+      "titulo": "Basílio Magno",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bispo da Cesareia da Capadócia, organizador do monaquismo oriental e defensor da divindade do Espírito Santo, Doutor da Igreja.",
+      "corpo": "Basílio, um dos três \"Padres Capadócios\" (com seu irmão Gregório de Nissa e seu amigo Gregório Nazianzeno), foi bispo de Cesareia da Capadócia e organizador decisivo do monaquismo oriental: sua \"Regra\" — na verdade um conjunto de respostas ascéticas — influencia até hoje os monges bizantinos e ortodoxos, que se chamam \"basilianos\". Seu tratado \"Sobre o Espírito Santo\" defendeu a plena divindade da terceira Pessoa da Trindade, preparando o Concílio de Constantinopla I (381). Fundou também um dos primeiros grandes complexos de assistência aos pobres e doentes, a \"Basiliade\".",
+      "tags": [
+        "Capadócia",
+        "monaquismo",
+        "Espírito Santo",
+        "Doutor da Igreja"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/92/Basil-the-Great.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Ásia Menor",
+      "seculo": "IV",
+      "e_doutor": true
+    },
+    {
+      "id": "padres-da-igreja:gregorio-nazianzeno",
+      "slug": "gregorio-nazianzeno",
+      "titulo": "Gregório Nazianzeno",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bispo e teólogo capadócio conhecido como \"o Teólogo\" pela precisão de sua doutrina trinitária, Doutor da Igreja.",
+      "corpo": "Gregório Nazianzeno, amigo de Basílio Magno desde os estudos em Atenas, é chamado simplesmente \"o Teólogo\" na tradição oriental — título partilhado apenas com o apóstolo João e Simeão o Novo Teólogo — pela clareza com que expôs a doutrina trinitária em seus \"Discursos Teológicos\", pronunciados em Constantinopla. Foi brevemente patriarca de Constantinopla durante o Concílio de 381, mas renunciou por humildade em meio a disputas eclesiásticas, retirando-se para uma vida de oração e poesia teológica.",
+      "tags": [
+        "Capadócia",
+        "Trindade",
+        "Constantinopla",
+        "Doutor da Igreja"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Icon_02036_Svyatiteli_Ioann_Zlatoust_i_Grigorij_Bogoslov._Ikona_XVIII_v._Rossiya.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Ásia Menor",
+      "seculo": "IV",
+      "e_doutor": true
+    },
+    {
+      "id": "padres-da-igreja:gregorio-de-nissa",
+      "slug": "gregorio-de-nissa",
+      "titulo": "Gregório de Nissa",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bispo capadócio e teólogo místico, irmão mais novo de Basílio Magno, um dos pensadores mais profundos da patrística grega.",
+      "corpo": "Gregório de Nissa, irmão mais novo de Basílio Magno, combinou rigor filosófico platônico com profunda experiência mística cristã. Sua obra \"Vida de Moisés\" lê a experiência do profeta no Sinai como itinerário da alma para Deus através da \"escuridão luminosa\", tema que marcaria toda a mística cristã posterior. Defendeu com finura filosófica a doutrina trinitária e a unidade da natureza humana, sendo às vezes chamado \"pai da teologia mística\" apesar de nunca ter sido formalmente declarado Doutor da Igreja.",
+      "tags": [
+        "Capadócia",
+        "mística",
+        "Trindade",
+        "Vida de Moisés"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gregorius_von_Nyssa.jpeg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Ásia Menor",
+      "seculo": "IV",
+      "e_doutor": false
+    },
+    {
+      "id": "padres-da-igreja:efrem-o-sirio",
+      "slug": "efrem-o-sirio",
+      "titulo": "Efrém, o Sírio",
+      "categoria": "padres-da-igreja",
+      "resumo": "Diácono e poeta teológico da Síria, autor de hinos litúrgicos de imensa influência no Oriente cristão, Doutor da Igreja.",
+      "corpo": "Efrém, diácono em Nísibe e depois em Edessa, expressou quase toda a sua teologia em forma poética: seus hinos sobre a fé, o paraíso, a Natividade e a Virgem Maria são de uma densidade simbólica e beleza que lhe valeram o título de \"harpa do Espírito Santo\" entre os sírios. Sua obra, escrita em siríaco e não em grego ou latim, é um elo essencial entre a tradição bíblica semítica e a teologia cristã, e continua central na liturgia das Igrejas de rito siríaco e maronita. Foi proclamado Doutor da Igreja em 1920.",
+      "tags": [
+        "poesia teológica",
+        "hinos",
+        "siríaco",
+        "Doutor da Igreja"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Mor_Ephrem_icon.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Síria/Mesopotâmia",
+      "seculo": "IV",
+      "e_doutor": true
+    },
+    {
+      "id": "padres-da-igreja:ambrosio-de-milao",
+      "slug": "ambrosio-de-milao",
+      "titulo": "Ambrósio de Milão",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bispo de Milão, formador espiritual de Santo Agostinho e um dos quatro grandes Doutores da Igreja latina.",
+      "corpo": "Ambrósio, governador romano eleito bispo de Milão por aclamação popular ainda catecúmeno, tornou-se um dos maiores oradores e administradores eclesiásticos da Antiguidade. Sua pregação convincente e sua vida exemplar foram decisivas na conversão de Agostinho de Hipona, que ele batizou em 387. Enfrentou o próprio imperador Teodósio, impondo-lhe penitência pública por um massacre em Tessalônica — episódio célebre de afirmação da autoridade moral da Igreja diante do poder civil. É um dos quatro grandes Doutores da Igreja latina, junto com Jerônimo, Agostinho e Gregório Magno.",
+      "tags": [
+        "Milão",
+        "conversão de Agostinho",
+        "Teodósio",
+        "Doutor da Igreja"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/AmbroseOfMilan.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Itália",
+      "seculo": "IV",
+      "e_doutor": true
+    },
+    {
+      "id": "padres-da-igreja:jeronimo",
+      "slug": "jeronimo",
+      "titulo": "Jerônimo",
+      "categoria": "padres-da-igreja",
+      "resumo": "Monge erudito autor da Vulgata, a tradução latina da Bíblia que moldou mil anos de cristianismo ocidental, Doutor da Igreja.",
+      "corpo": "Jerônimo, estudioso das línguas bíblicas retirado em Belém, dedicou décadas à tradução da Bíblia inteira do hebraico e do grego para o latim — a \"Vulgata\", que se tornaria o texto bíblico oficial da Igreja latina por mais de mil anos, até a reforma litúrgica do século XX. Sua máxima \"ignorância das Escrituras é ignorância de Cristo\" resume seu compromisso vitalício com o estudo bíblico. Temperamento vigoroso, envolveu-se em polêmicas ásperas, mas seu legado exegético e sua devoção ao texto sagrado o tornam um dos quatro grandes Doutores latinos.",
+      "tags": [
+        "Vulgata",
+        "tradução bíblica",
+        "Belém",
+        "Doutor da Igreja"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/28/Francisco_de_Zurbar%C3%A1n_041.jpg",
+      "imagem_credito": "Wikimedia Commons, CC0",
+      "regiao": "Dalmácia/Palestina",
+      "seculo": "IV-V",
+      "e_doutor": true
+    },
+    {
+      "id": "padres-da-igreja:agostinho-de-hipona",
+      "slug": "agostinho-de-hipona",
+      "titulo": "Agostinho de Hipona",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bispo de Hipona, o mais influente dos Padres latinos, cuja obra moldou a teologia ocidental sobre graça, pecado original e a Cidade de Deus.",
+      "corpo": "Agostinho, convertido depois de anos de busca filosófica e moral narrados nas \"Confissões\" — uma das primeiras autobiografias espirituais da história —, tornou-se bispo de Hipona, no norte da África. Sua obra imensa aborda a graça e o livre-arbítrio (na polêmica contra o pelagianismo), o pecado original, a Trindade (\"De Trinitate\") e a filosofia da história em \"A Cidade de Deus\", escrita após o saque de Roma em 410. Nenhum outro Padre latino influenciou tanto a teologia ocidental, católica e depois também protestante, ao longo dos séculos seguintes.",
+      "tags": [
+        "graça",
+        "pecado original",
+        "Confissões",
+        "Cidade de Deus",
+        "Doutor da Igreja"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "África do Norte",
+      "seculo": "IV-V",
+      "e_doutor": true
+    },
+    {
+      "id": "padres-da-igreja:gregorio-magno",
+      "slug": "gregorio-magno",
+      "titulo": "Gregório Magno",
+      "categoria": "padres-da-igreja",
+      "resumo": "Papa que reformou a liturgia e a administração eclesiástica, autor de obras pastorais fundamentais, último dos quatro grandes Doutores latinos.",
+      "corpo": "Gregório, antigo prefeito de Roma tornado monge e depois papa (590-604), governou a Igreja em meio ao colapso do poder romano no Ocidente e às invasões lombardas, assumindo também funções de governo civil em Roma. Seu \"Livro da Regra Pastoral\" tornou-se o manual de referência para bispos durante toda a Idade Média, e enviou Agostinho de Cantuária para evangelizar a Inglaterra anglo-saxônica. A tradição lhe atribui a organização do canto litúrgico que herdaria seu nome — o canto gregoriano — embora sua formação definitiva seja hoje datada de séculos depois.",
+      "tags": [
+        "papado",
+        "Regra Pastoral",
+        "canto gregoriano",
+        "Doutor da Igreja"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gregorius_I.png",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Itália",
+      "seculo": "VI-VII",
+      "e_doutor": true
+    }
+  ]
+}

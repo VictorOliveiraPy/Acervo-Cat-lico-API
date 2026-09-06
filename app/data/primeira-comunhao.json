@@ -1,0 +1,337 @@
+{
+  "_meta": {
+    "categoria": "primeira-comunhao",
+    "nome": "Primeira Comunhão",
+    "descricao": "Trilha catequética de preparação para a Primeira Comunhão, espelhando a já existente para a Crisma: o sacramento, a Missa, a confissão e a vida eucarística.",
+    "status": "exemplos-iniciais",
+    "aviso": "Conjunto inicial de temas catequéticos; não substitui um catecismo ou material paroquial completo de preparação sacramental.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Catecismo da Igreja Católica, n. 1322-1419",
+      "Código de Direito Canônico, cân. 913-914"
+    ]
+  },
+  "itens": [
+    {
+      "id": "primeira-comunhao:o-sacramento-da-eucaristia",
+      "slug": "o-sacramento-da-eucaristia",
+      "titulo": "O sacramento da Eucaristia",
+      "categoria": "primeira-comunhao",
+      "resumo": "O que é a Eucaristia: sacramento da iniciação cristã em que Jesus se faz presente sob as espécies de pão e vinho.",
+      "corpo": "A Eucaristia é, com o Batismo e a Confirmação, o terceiro sacramento da iniciação cristã, e o Catecismo a chama \"fonte e ápice de toda a vida cristã\" (CIC 1324): nela está contido todo o bem espiritual da Igreja, o próprio Cristo. Na Última Ceia, na noite antes de morrer, Jesus tomou pão e vinho, deu graças, partiu o pão e disse \"Isto é o meu corpo\" e \"Este é o cálice do meu sangue\", mandando aos apóstolos que fizessem o mesmo em sua memória.\n\nA Primeira Comunhão é o momento em que a criança, já batizada e devidamente preparada pela catequese, recebe pela primeira vez o Corpo de Cristo sob a espécie do pão consagrado.",
+      "tags": [
+        "Eucaristia",
+        "iniciação cristã",
+        "Última Ceia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Giusto_di_gand%2C_comunione_degli_apostoli%2C_1473-1474.jpg",
+      "imagem_credito": null,
+      "ordem": 1,
+      "paragrafos_ccc": [
+        "1322-1327"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 1324"
+      ]
+    },
+    {
+      "id": "primeira-comunhao:a-ultima-ceia",
+      "slug": "a-ultima-ceia",
+      "titulo": "A Última Ceia",
+      "categoria": "primeira-comunhao",
+      "resumo": "Na véspera de sua morte, Jesus institui a Eucaristia durante a ceia pascal judaica com os apóstolos.",
+      "corpo": "Na noite antes de sofrer, Jesus reuniu-se com os Doze para celebrar a ceia pascal judaica, que recordava a libertação do Egito. Durante essa ceia, ele institui um novo e definitivo memorial: toma o pão, dá graças, parte e o dá aos discípulos dizendo \"Tomai e comei, isto é o meu Corpo\"; depois toma o cálice de vinho e diz \"Bebei dele todos, pois isto é o meu Sangue, sangue da Aliança, derramado por muitos para remissão dos pecados\" (Mt 26,26-28). Ao final, ordena: \"Fazei isto em memória de mim\" (Lc 22,19) — mandato que a Igreja cumpre em cada Missa até hoje.",
+      "tags": [
+        "Última Ceia",
+        "instituição da Eucaristia",
+        "Páscoa judaica"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Leonardo_da_Vinci_%281452-1519%29_-_The_Last_Supper_%281495-1498%29.jpg",
+      "imagem_credito": null,
+      "ordem": 2,
+      "paragrafos_ccc": [
+        "1337-1340"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 1337-1340",
+        "Mt 26,26-28; Lc 22,19"
+      ]
+    },
+    {
+      "id": "primeira-comunhao:presenca-real",
+      "slug": "presenca-real",
+      "titulo": "A Presença Real de Cristo",
+      "categoria": "primeira-comunhao",
+      "resumo": "A fé católica de que, após a consagração, o pão e o vinho se tornam verdadeiramente o Corpo e o Sangue de Cristo.",
+      "corpo": "A Igreja ensina que, pelas palavras da consagração pronunciadas pelo sacerdote na Missa, o pão e o vinho se convertem substancialmente no Corpo e no Sangue de Cristo, permanecendo apenas as aparências (cor, sabor, textura) de pão e vinho — o que a teologia chama \"transubstanciação\". Não é um símbolo nem uma lembrança apenas espiritual: é Cristo mesmo, verdadeiro Deus e verdadeiro homem, presente de modo real, verdadeiro e substancial sob as espécies eucarísticas, e essa presença permanece enquanto subsistirem as espécies consagradas — por isso o Santíssimo Sacramento é guardado no sacrário e adorado fora da Missa.",
+      "tags": [
+        "transubstanciação",
+        "presença real",
+        "sacrário"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Giusto_di_Gand_%28Joos_van_Wassenhove%29%2C_istituzione_dell%27eucarestia.jpg",
+      "imagem_credito": null,
+      "ordem": 3,
+      "paragrafos_ccc": [
+        "1373-1377"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 1373-1377"
+      ]
+    },
+    {
+      "id": "primeira-comunhao:a-missa-passo-a-passo",
+      "slug": "a-missa-passo-a-passo",
+      "titulo": "A Missa Passo a Passo",
+      "categoria": "primeira-comunhao",
+      "resumo": "Conhecer a estrutura da Missa ajuda a criança a participar com atenção e compreensão do que está acontecendo no altar.",
+      "corpo": "A Missa tem duas grandes partes, unidas num só ato de culto: a Liturgia da Palavra, em que se proclamam as leituras bíblicas e o Evangelho, seguidos da homilia; e a Liturgia Eucarística, em que se preparam e apresentam o pão e o vinho, o sacerdote os consagra na Oração Eucarística, e os fiéis se unem a Cristo na comunhão. Ao redor dessas duas partes centrais, ritos iniciais (saudação, ato penitencial, Glória) preparam o coração, e ritos finais (bênção, despedida) enviam os fiéis a viver o que celebraram. Compreender essa estrutura ajuda a criança a acompanhar a Missa com atenção, não apenas como espectadora passiva.",
+      "tags": [
+        "Liturgia da Palavra",
+        "Liturgia Eucarística",
+        "estrutura da Missa"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Pala_del_Corpus_Domini_di_Giusto_di_Gand%2C_1472-74.JPG",
+      "imagem_credito": "Mongolo1984 — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 4,
+      "paragrafos_ccc": [
+        "1348-1355"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 1348-1355"
+      ]
+    },
+    {
+      "id": "primeira-comunhao:preparacao-para-a-primeira-comunhao",
+      "slug": "preparacao-para-a-primeira-comunhao",
+      "titulo": "A Preparação Catequética",
+      "categoria": "primeira-comunhao",
+      "resumo": "O período de catequese específica que antecede a Primeira Comunhão, aprofundando a fé e a compreensão do sacramento.",
+      "corpo": "A preparação para a Primeira Comunhão é um tempo catequético específico, geralmente com duração de um ou dois anos, no qual a criança aprofunda o conhecimento da fé católica — a Trindade, a vida de Jesus, os mandamentos, a oração — com atenção especial ao mistério eucarístico que está prestes a receber. Diferente de uma simples instrução escolar, essa preparação busca também formar hábitos de oração, participação na Missa dominical e prática da caridade, envolvendo idealmente a família toda no acompanhamento e no testemunho de vida cristã em casa.",
+      "tags": [
+        "catequese",
+        "preparação sacramental",
+        "família"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Painting_%22First_Communion%22_by_Aimee_Schweig_-_DPLA_-_d87b934b0a7ca5c2fd10dc7eaa2fca17_%28page_5%29.jpg",
+      "imagem_credito": "Schweig, Aimee Mae Goldstone, 1897-1987 — Wikimedia Commons, No restrictions",
+      "ordem": 5,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Diretório Geral para a Catequese"
+      ]
+    },
+    {
+      "id": "primeira-comunhao:primeira-confissao",
+      "slug": "primeira-confissao",
+      "titulo": "A Primeira Confissão",
+      "categoria": "primeira-comunhao",
+      "resumo": "Antes da Primeira Comunhão, a criança é preparada para receber pela primeira vez o sacramento da Reconciliação.",
+      "corpo": "É prática tradicional e recomendada da Igreja que a criança receba pela primeira vez o sacramento da Confissão (Reconciliação) pouco antes de sua Primeira Comunhão, geralmente na mesma etapa de preparação catequética. Isso permite que ela se aproxime da Eucaristia com a alma em estado de graça, compreendendo desde cedo que os dois sacramentos caminham juntos: a Confissão purifica e reconcilia, a Eucaristia alimenta e fortalece. A criança é preparada para fazer um exame de consciência simples, adequado à sua idade, e para compreender a confissão como encontro de misericórdia, não como interrogatório temido.",
+      "tags": [
+        "confissão",
+        "reconciliação",
+        "exame de consciência"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/09/San_Carlos_Church_confessional.JPG",
+      "imagem_credito": "Oyayi — Wikimedia Commons, CC BY-SA 3.0",
+      "ordem": 6,
+      "paragrafos_ccc": [
+        "1422-1424"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 1422-1424"
+      ]
+    },
+    {
+      "id": "primeira-comunhao:jejum-eucaristico",
+      "slug": "jejum-eucaristico",
+      "titulo": "O Jejum Eucarístico",
+      "categoria": "primeira-comunhao",
+      "resumo": "A abstinência de alimentos e bebidas por um breve período antes da comunhão, sinal de desejo e preparação espiritual.",
+      "corpo": "A Igreja pede que os fiéis observem um breve jejum eucarístico — hoje reduzido a apenas uma hora antes de receber a comunhão, não contando água e remédios — como sinal de respeito e de desejo espiritual pelo sacramento que vão receber. Historicamente mais rigoroso (chegando a exigir jejum desde a meia-noite anterior), o jejum foi progressivamente abrandado ao longo do século XX para facilitar o acesso frequente à comunhão, mas manteve-se como pequeno gesto ascético que ajuda a preparar o corpo e o espírito para o encontro com Cristo.",
+      "tags": [
+        "jejum",
+        "preparação",
+        "disciplina eclesiástica"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Osias_Beert_-_Still_life_on_a_plain_wooden_table.jpg",
+      "imagem_credito": null,
+      "ordem": 7,
+      "paragrafos_ccc": [
+        "1387"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 1387",
+        "Código de Direito Canônico, cân. 919"
+      ]
+    },
+    {
+      "id": "primeira-comunhao:a-hostia-e-o-calice",
+      "slug": "a-hostia-e-o-calice",
+      "titulo": "A Hóstia e o Cálice",
+      "categoria": "primeira-comunhao",
+      "resumo": "O pão ázimo e o vinho de uva são a matéria essencial do sacramento, transformados no Corpo e Sangue de Cristo.",
+      "corpo": "A Igreja Latina usa pão ázimo (sem fermento) para a Eucaristia, em memória do pão sem fermento da Páscoa judaica que Jesus partilhou na Última Ceia; a hóstia — do latim hostia, \"vítima de sacrifício\" — é o nome dado a esse pão já consagrado. O vinho deve ser de uva, puro e não deteriorado. Ambos são elementos simples e comuns, escolhidos por Cristo mesmo, que se tornam veículo do maior dos mistérios: o pão e o vinho oferecidos por mãos humanas retornam aos fiéis como o próprio Corpo e Sangue do Senhor.",
+      "tags": [
+        "pão ázimo",
+        "vinho",
+        "matéria do sacramento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/BLW_Missal_from_the_Abbey_of_Saint_Denis%2C_1350.jpg",
+      "imagem_credito": "Valerie McGlinchey — Wikimedia Commons, CC BY-SA 2.0 uk",
+      "ordem": 8,
+      "paragrafos_ccc": [
+        "1412"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 1412"
+      ]
+    },
+    {
+      "id": "primeira-comunhao:comungar-com-reverencia",
+      "slug": "comungar-com-reverencia",
+      "titulo": "Comungar com Reverência",
+      "categoria": "primeira-comunhao",
+      "resumo": "Os gestos de respeito — genuflexão, reverência, silêncio — que acompanham tradicionalmente a recepção da comunhão.",
+      "corpo": "A recepção da comunhão é acompanhada, na tradição católica, de gestos concretos de reverência diante da presença real de Cristo: uma inclinação da cabeça ou genuflexão antes de comungar, as mãos postas ou em concha para recebê-la, o silêncio interior de quem sabe estar diante do próprio Deus. Ensinar a criança a fazer esses gestos com cuidado, sem pressa e sem constrangimento, ajuda a formar desde cedo o senso de que ali não se recebe apenas \"um pedaço de pão\", mas o próprio Senhor, merecedor de toda a reverência e amor.",
+      "tags": [
+        "reverência",
+        "genuflexão",
+        "gestos litúrgicos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a2/148_Galleria_Nazionale_delle_Marche_%28Urbino%29%2C_la_Comuni%C3%B3_dels_Ap%C3%B2stols%2C_de_Just_de_Gant%2C_i_predel%C2%B7la_de_Paolo_Uccello.jpg",
+      "imagem_credito": "Enric — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 9,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Instrução Geral do Missal Romano"
+      ]
+    },
+    {
+      "id": "primeira-comunhao:frutos-da-comunhao",
+      "slug": "frutos-da-comunhao",
+      "titulo": "Os Frutos da Comunhão",
+      "categoria": "primeira-comunhao",
+      "resumo": "Os efeitos espirituais que a recepção da Eucaristia produz na vida de quem a recebe com fé e disposição adequada.",
+      "corpo": "O Catecismo ensina que a comunhão eucarística aumenta a união do fiel com Cristo, perdoa os pecados veniais e preserva da futura queda em pecados graves, fortalece a caridade e renova, fortifica e aprofunda a incorporação do cristão à Igreja, já realizada pelo Batismo. É chamada \"pão da vida\" e \"remédio da imortalidade\": alimenta a vida da graça de modo semelhante a como o alimento material sustenta a vida do corpo, sendo por isso recomendada sua recepção frequente, idealmente em cada Missa dominical.",
+      "tags": [
+        "graça",
+        "frutos sacramentais",
+        "pão da vida"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/SacredHeartBatoni.jpg",
+      "imagem_credito": null,
+      "ordem": 10,
+      "paragrafos_ccc": [
+        "1391-1397"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 1391-1397"
+      ]
+    },
+    {
+      "id": "primeira-comunhao:comunhao-espiritual",
+      "slug": "comunhao-espiritual",
+      "titulo": "A Comunhão Espiritual",
+      "categoria": "primeira-comunhao",
+      "resumo": "Um ato de desejo fervoroso de receber a Cristo, praticado por quem não pode comungar sacramentalmente naquele momento.",
+      "corpo": "A comunhão espiritual é o desejo ardente e a súplica interior de receber a Cristo eucarístico, feita por quem, por alguma razão, não pode naquele momento comungar sacramentalmente — por não estar presente na Missa, por estar em pecado grave sem possibilidade imediata de confissão, ou por qualquer outro impedimento. Santos como Afonso Maria de Ligório recomendavam sua prática frequente, ensinando orações simples para expressar esse desejo. Embora não substitua a comunhão sacramental quando esta é possível, é reconhecida pela tradição espiritual como fonte real, ainda que não idêntica, de graça e de união com Cristo.",
+      "tags": [
+        "desejo espiritual",
+        "Afonso Maria de Ligório",
+        "oração"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Batoni_sacred_heart.jpg",
+      "imagem_credito": null,
+      "ordem": 11,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 1418"
+      ]
+    },
+    {
+      "id": "primeira-comunhao:vestes-brancas-tradicao",
+      "slug": "vestes-brancas-tradicao",
+      "titulo": "A Tradição das Vestes Brancas",
+      "categoria": "primeira-comunhao",
+      "resumo": "O costume de vestir as crianças de branco na Primeira Comunhão simboliza pureza e a alegria do encontro com Cristo.",
+      "corpo": "É tradição antiga e difundida, sobretudo desde o século XIX, que meninos e meninas se vistam de branco no dia de sua Primeira Comunhão — hábito que retoma o simbolismo da veste branca do Batismo, sinal de pureza e de nova vida em Cristo, e da alegria festiva própria de um encontro nupcial com o Senhor (imagem cara à tradição bíblica do banquete das bodas). Embora não seja exigência litúrgica obrigatória e varie conforme a cultura e a época, o costume ajuda a marcar visualmente, para a própria criança e para a comunidade reunida, a singularidade e a solenidade daquele dia.",
+      "tags": [
+        "veste branca",
+        "simbolismo batismal",
+        "tradição popular"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Painting_%22First_Communion%22_by_Aimee_Schweig_-_DPLA_-_d87b934b0a7ca5c2fd10dc7eaa2fca17_%28page_2%29.jpg",
+      "imagem_credito": "Schweig, Aimee Mae Goldstone, 1897-1987 — Wikimedia Commons, No restrictions",
+      "ordem": 12,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 1243 (veste branca do Batismo)"
+      ]
+    },
+    {
+      "id": "primeira-comunhao:papel-da-familia",
+      "slug": "papel-da-familia",
+      "titulo": "O Papel da Família na Preparação",
+      "categoria": "primeira-comunhao",
+      "resumo": "Pais e padrinhos são os primeiros catequistas da criança, e seu exemplo de vida cristã é decisivo nesse período.",
+      "corpo": "Embora a catequese formal seja conduzida por catequistas na paróquia, a Igreja insiste que os pais permanecem os \"primeiros e principais educadores na fé\" de seus filhos (CIC 2223), e seu testemunho concreto de vida cristã — participação na Missa dominical, oração em casa, prática da caridade — pesa mais na formação espiritual da criança do que qualquer instrução isolada de sala de aula. A preparação para a Primeira Comunhão é, por isso, também ocasião para que a própria família redescubra ou aprofunde sua prática da fé, acompanhando de perto o percurso catequético do filho ou filha.",
+      "tags": [
+        "educação na fé",
+        "pais catequistas",
+        "vida familiar"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Heilige_Familie_in_de_timmermanswerkplaats%2C_RP-P-1949-507.jpg",
+      "imagem_credito": null,
+      "ordem": 13,
+      "paragrafos_ccc": [
+        "2223-2226"
+      ],
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 2223"
+      ]
+    },
+    {
+      "id": "primeira-comunhao:idade-da-discricao",
+      "slug": "idade-da-discricao",
+      "titulo": "A Idade da Discrição",
+      "categoria": "primeira-comunhao",
+      "resumo": "A Igreja pede apenas que a criança tenha uso de razão suficiente para distinguir o pão eucarístico do pão comum antes de comungar.",
+      "corpo": "O Direito Canônico estabelece que a Primeira Comunhão seja recebida ao atingir a \"idade da discrição\" (geralmente por volta dos sete anos), entendida não como um exame acadêmico rigoroso, mas como a capacidade mínima de a criança compreender, com fé proporcional à sua idade, que o que vai receber não é pão comum, mas o Corpo de Cristo, merecedor de amor e adoração. São Pio X, no início do século XX, antecipou decisivamente a idade da Primeira Comunhão, antes reservada com frequência à adolescência, precisamente para não privar as crianças pequenas do alimento espiritual da Eucaristia por tempo desnecessariamente longo.",
+      "tags": [
+        "Código de Direito Canônico",
+        "São Pio X",
+        "uso de razão"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/His_Holiness_Pope_St._Pius_X.jpg",
+      "imagem_credito": null,
+      "ordem": 14,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Código de Direito Canônico, cân. 913",
+        "São Pio X, Decreto Quam Singulari (1910)"
+      ]
+    },
+    {
+      "id": "primeira-comunhao:comunhao-frequente",
+      "slug": "comunhao-frequente",
+      "titulo": "A Comunhão Frequente",
+      "categoria": "primeira-comunhao",
+      "resumo": "O incentivo, hoje ordinário, a que os fiéis comunguem em toda Missa a que assistem, não apenas em ocasiões especiais.",
+      "corpo": "Até o início do século XX, era relativamente comum que os fiéis comungassem apenas algumas vezes ao ano, mesmo participando da Missa com regularidade. São Pio X incentivou fortemente, no decreto \"Sacra Tridentina Synodus\" (1905), a prática da comunhão frequente e mesmo diária para todos os fiéis em estado de graça e com reta intenção, revertendo séculos de prática mais espaçada motivada por excessivo temor reverencial. Hoje a Igreja recomenda que o fiel comungue em toda Missa a que assiste, desde que esteja em estado de graça, como forma ordinária de alimentar a vida espiritual.",
+      "tags": [
+        "São Pio X",
+        "Sacra Tridentina Synodus",
+        "estado de graça"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Pope_Pius_X_%28LCCN2014686818%29.jpg",
+      "imagem_credito": null,
+      "ordem": 15,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "São Pio X, Decreto Sacra Tridentina Synodus (1905)"
+      ]
+    }
+  ]
+}

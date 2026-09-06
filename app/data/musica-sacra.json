@@ -1,0 +1,238 @@
+{
+  "_meta": {
+    "categoria": "musica-sacra",
+    "nome": "Música Sacra",
+    "descricao": "O canto gregoriano e os grandes hinos latinos da tradição católica — Te Deum, Tantum Ergo, Salve Regina e outros —, com contexto litúrgico e tradução.",
+    "status": "exemplos-iniciais",
+    "aviso": "Conjunto inicial dos hinos e gêneros mais conhecidos; não esgota a riqueza de toda a tradição musical católica.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Concílio Vaticano II, Sacrosanctum Concilium, cap. VI",
+      "Liber Usualis"
+    ]
+  },
+  "itens": [
+    {
+      "id": "musica-sacra:canto-gregoriano",
+      "slug": "canto-gregoriano",
+      "titulo": "Canto Gregoriano",
+      "categoria": "musica-sacra",
+      "resumo": "O canto litúrgico oficial da Igreja Latina: melodia monofônica, sem instrumentos, cantada em latim há mais de mil anos.",
+      "corpo": "O canto gregoriano — nome que a tradição associa ao papa São Gregório Magno, embora sua forma definitiva tenha se consolidado séculos depois dele — é o repertório de cantos litúrgicos monofônicos (uma só linha melódica, sem harmonia) que acompanha a Missa e o Ofício Divino na tradição latina. O Concílio Vaticano II, na constituição Sacrosanctum Concilium, reafirmou-o como \"canto próprio da liturgia romana\", ao qual \"se deve dar o primeiro lugar\" nas celebrações litúrgicas, mesmo autorizando outras formas musicais. Sua característica mais marcante é a ausência de instrumentos, ritmo livre baseado no texto latino que acompanha, e uma qualidade contemplativa e atemporal muito distinta da música moderna.",
+      "tags": [
+        "Sacrosanctum Concilium",
+        "monofonia",
+        "liturgia romana"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Ave_maria_gregorian_chant.gif",
+      "imagem_credito": "Domínio Público — Wikimedia Commons, CC BY-SA 4.0",
+      "idioma": "latim",
+      "ordem": 1
+    },
+    {
+      "id": "musica-sacra:te-deum",
+      "slug": "te-deum",
+      "titulo": "Te Deum Laudamus",
+      "categoria": "musica-sacra",
+      "resumo": "Um dos hinos de louvor mais antigos e solenes da tradição cristã, cantado em ações de graças e ocasiões de grande solenidade.",
+      "corpo": "\"Te Deum laudamus\" (\"A vós, ó Deus, louvamos\") é um hino de louvor à Santíssima Trindade, de autoria incerta mas provavelmente do século IV, atribuído por vezes a Santo Ambrósio ou Nicetas de Remesiana. É cantado tradicionalmente em ocasiões de particular solenidade e ação de graças — a conclusão do ano civil na noite de 31 de dezembro, canonizações, ordenações episcopais, término de concílios — e integra o Ofício das Leituras nos domingos e solenidades. Sua estrutura percorre o louvor aos anjos, aos apóstolos, aos profetas, aos mártires, à Igreja inteira, culminando numa súplica confiante pela misericórdia de Deus.",
+      "tags": [
+        "hino trinitário",
+        "ação de graças",
+        "Ofício das Leituras"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Koronacja_na_kr%C3%B3la_Pontyfika%C5%82_Erazma_Cio%C5%82ka.jpg",
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 2
+    },
+    {
+      "id": "musica-sacra:tantum-ergo",
+      "slug": "tantum-ergo",
+      "titulo": "Tantum Ergo",
+      "categoria": "musica-sacra",
+      "resumo": "As duas últimas estrofes do hino eucarístico de Tomás de Aquino, cantadas na bênção do Santíssimo Sacramento.",
+      "corpo": "\"Tantum Ergo Sacramentum\" corresponde às duas estrofes finais do hino \"Pange Lingua Gloriosi\", composto por Tomás de Aquino para a festa de Corpus Christi, instituída em 1264. É cantado tradicionalmente no momento da bênção eucarística durante a Adoração do Santíssimo Sacramento, quando o sacerdote ergue o ostensório sobre os fiéis, tornando-se um dos hinos eucarísticos mais conhecidos e mais frequentemente musicados da tradição católica, com versões que vão do canto gregoriano simples a composições polifônicas elaboradas de compositores como Duruflé e Fauré.",
+      "tags": [
+        "Tomás de Aquino",
+        "Corpus Christi",
+        "adoração eucarística"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Saint_Thomas_Aquinas_Reading.png",
+      "imagem_credito": "Wikimedia Commons, CC BY-SA 4.0",
+      "idioma": "latim",
+      "ordem": 3
+    },
+    {
+      "id": "musica-sacra:pange-lingua",
+      "slug": "pange-lingua",
+      "titulo": "Pange Lingua Gloriosi",
+      "categoria": "musica-sacra",
+      "resumo": "O hino completo de Tomás de Aquino sobre o mistério eucarístico, cantado sobretudo na procissão da Quinta-feira Santa.",
+      "corpo": "\"Pange Lingua Gloriosi Corporis Mysterium\" (\"Canta, ó língua, o mistério do Corpo glorioso\") é o hino eucarístico completo composto por Tomás de Aquino, do qual o \"Tantum Ergo\" constitui apenas as duas estrofes finais. É cantado tradicionalmente na procissão do Santíssimo Sacramento na noite de Quinta-feira Santa, quando a Eucaristia é levada solenemente do altar principal para o local de reposição, relembrando tanto a instituição da Eucaristia na Última Ceia quanto a vigília de Getsêmani. É considerado uma das obras-primas da poesia litúrgica latina medieval.",
+      "tags": [
+        "Tomás de Aquino",
+        "Quinta-feira Santa",
+        "poesia litúrgica"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Benozzo_Gozzoli_-_Triumph_of_St_Thomas_Aquinas_-_WGA10334.jpg",
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 4
+    },
+    {
+      "id": "musica-sacra:veni-creator-spiritus",
+      "slug": "veni-creator-spiritus",
+      "titulo": "Veni Creator Spiritus",
+      "categoria": "musica-sacra",
+      "resumo": "Antigo hino de invocação ao Espírito Santo, cantado em Pentecostes, ordenações e no início de grandes empreendimentos eclesiais.",
+      "corpo": "\"Veni Creator Spiritus\" (\"Vinde, Espírito Criador\"), hino atribuído tradicionalmente a Rabano Mauro no século IX, é uma das invocações mais antigas e solenes ao Espírito Santo na tradição latina. É cantado na solenidade de Pentecostes, em ordenações sacerdotais e episcopais, na abertura de concílios e sínodos, na eleição de um novo papa e em muitas outras ocasiões que marcam início de missões, cargos ou empreendimentos eclesiais importantes, pedindo a luz e a força do Espírito Santo para a tarefa que se inicia.",
+      "tags": [
+        "Espírito Santo",
+        "Pentecostes",
+        "Rabano Mauro"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Rabanus_Maurus.jpg",
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 5
+    },
+    {
+      "id": "musica-sacra:salve-regina",
+      "slug": "salve-regina",
+      "titulo": "Salve Regina",
+      "categoria": "musica-sacra",
+      "resumo": "A mais conhecida das quatro antífonas marianas, cantada tradicionalmente ao final de Completas, sobretudo do Advento à Quaresma.",
+      "corpo": "\"Salve Regina, Mater misericordiae\" (\"Salve, Rainha, Mãe de misericórdia\") é a mais popular das quatro grandes antífonas marianas do Ofício Divino, provavelmente composta no século XI. É cantada tradicionalmente ao final de Completas, a última oração do dia, sobretudo no período que vai do início do Tempo Comum até a véspera do Tempo Pascal, invocando Maria como \"vida, doçura e esperança nossa\" e pedindo sua intercessão maternal \"depois deste desterro\", na hora da morte.",
+      "tags": [
+        "antífona mariana",
+        "Completas",
+        "intercessão de Maria"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Antiphonal_folio_with_decorated_initial_%27D%27_%28CBL_W_195.112%29.jpg",
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 6
+    },
+    {
+      "id": "musica-sacra:ave-maria-musica",
+      "slug": "ave-maria-musica",
+      "titulo": "Ave Maria (tradição musical)",
+      "categoria": "musica-sacra",
+      "resumo": "A saudação angélica a Maria tornou-se um dos textos mais musicados da história ocidental, de Gregoriano a Schubert e Gounod.",
+      "corpo": "Poucos textos litúrgicos foram musicados tantas vezes ao longo da história como a Ave Maria, que une a saudação do arcanjo Gabriel (\"Ave, cheia de graça\") à saudação de Isabel a Maria (Lc 1,28.42) e a súplica final (\"Santa Maria, Mãe de Deus, rogai por nós...\"). Além de sua versão original em canto gregoriano, recebeu incontáveis composições eruditas ao longo dos séculos — de Josquin des Prés a Palestrina, da célebre versão de Franz Schubert (originalmente não litúrgica) à igualmente famosa de Charles Gounod, construída sobre um prelúdio de Bach —, tornando-se um dos pontos de encontro mais universais entre a devoção mariana popular e a grande música ocidental.",
+      "tags": [
+        "saudação angélica",
+        "Schubert",
+        "Gounod",
+        "devoção mariana"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Zelli_Annunciation_%28detail%29_02.jpg",
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 7
+    },
+    {
+      "id": "musica-sacra:adoro-te-devote",
+      "slug": "adoro-te-devote",
+      "titulo": "Adoro Te Devote",
+      "categoria": "musica-sacra",
+      "resumo": "Hino eucarístico de Tomás de Aquino sobre a fé na presença real de Cristo, apesar da aparência sensível de simples pão.",
+      "corpo": "\"Adoro Te Devote\" (\"Devotamente vos adoro\"), outro hino eucarístico atribuído a Tomás de Aquino, é uma meditação profunda sobre o ato de fé exigido pela Eucaristia: \"a vista, o tato, o sabor em ti se enganam, mas o ouvido basta para crer com firmeza\" — isto é, apenas a palavra revelada de Cristo, ouvida com fé, garante a presença real ali onde os sentidos percebem apenas pão e vinho. É um dos textos que a tradição espiritual católica mais recomenda para meditação pessoal diante do Santíssimo Sacramento exposto.",
+      "tags": [
+        "Tomás de Aquino",
+        "fé eucarística",
+        "adoração"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/St-thomas-aquinas.jpg",
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 8
+    },
+    {
+      "id": "musica-sacra:dies-irae",
+      "slug": "dies-irae",
+      "titulo": "Dies Irae",
+      "categoria": "musica-sacra",
+      "resumo": "Sequência medieval sobre o Juízo Final, por séculos parte da Missa de Réquiem e inspiração de incontáveis compositores.",
+      "corpo": "\"Dies Irae, dies illa\" (\"Dia de ira, aquele dia\"), atribuída ao frade franciscano Tomás de Celano no século XIII, é uma sequência dramática sobre o Juízo Final, que por séculos fez parte obrigatória da Missa de Réquiem (funeral) no rito romano, até ser tornada opcional na reforma litúrgica pós-conciliar, que buscou dar maior ênfase à esperança da ressurreição. Sua melodia gregoriana original tornou-se uma das mais citadas da história musical, aparecendo transformada em obras de Mozart, Verdi, Berlioz, Liszt e até em trilhas sonoras de cinema contemporâneas, muito além do contexto litúrgico original.",
+      "tags": [
+        "Tomás de Celano",
+        "Missa de Réquiem",
+        "Juízo Final"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Last_Judgement_%28Michelangelo%29.jpg",
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 9
+    },
+    {
+      "id": "musica-sacra:stabat-mater",
+      "slug": "stabat-mater",
+      "titulo": "Stabat Mater",
+      "categoria": "musica-sacra",
+      "resumo": "Sequência medieval que contempla Maria de pé junto à cruz, um dos textos marianos mais musicados de toda a tradição ocidental.",
+      "corpo": "\"Stabat Mater dolorosa\" (\"Estava a Mãe dolorosa\"), atribuída a Jacopone da Todi no século XIII, contempla verso a verso a presença de Maria ao pé da cruz durante a crucificação de seu Filho, unindo compaixão mariana e convite à participação espiritual nos sofrimentos de Cristo. Tornou-se um dos textos litúrgicos mais musicados de toda a história ocidental, com versões célebres de Palestrina, Pergolesi, Rossini, Dvořák e Verdi, entre dezenas de outros compositores, e permanece associada sobretudo à devoção da Via-Sacra e ao tempo da Quaresma.",
+      "tags": [
+        "Jacopone da Todi",
+        "Nossa Senhora das Dores",
+        "Quaresma"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Hendrick_ter_Brugghen_The_Crucifixion_with_the_Virgin_and_Saint_John.jpg",
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 10
+    },
+    {
+      "id": "musica-sacra:gloria-in-excelsis",
+      "slug": "gloria-in-excelsis",
+      "titulo": "Glória in Excelsis Deo",
+      "categoria": "musica-sacra",
+      "resumo": "O grande hino de louvor cantado na Missa, inspirado no cântico dos anjos aos pastores na noite de Belém.",
+      "corpo": "O \"Glória in Excelsis Deo\" (\"Glória a Deus nas alturas\") é um dos textos mais antigos e solenes cantados na Missa, situado logo após o ato penitencial nos ritos iniciais, em domingos e solenidades (exceto no Advento e na Quaresma). Inspira-se diretamente no cântico dos anjos aos pastores na noite do nascimento de Jesus (Lc 2,14), desenvolvendo-se depois numa ampla série de louvores, súplicas e aclamações à Trindade. Recebeu incontáveis versões musicais ao longo da história, de simples fórmulas gregorianas a grandiosas composições sinfônico-corais de Vivaldi, Bach, Mozart e Beethoven em suas respectivas Missas.",
+      "tags": [
+        "Missa",
+        "cântico dos anjos",
+        "ritos iniciais"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Ludovico_Cigoli_-_L%27Adorazione_dei_pastori_con_Santa_Caterina_d%27Alessandria.jpg",
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 11
+    },
+    {
+      "id": "musica-sacra:agnus-dei-canto",
+      "slug": "agnus-dei-canto",
+      "titulo": "Agnus Dei (canto litúrgico)",
+      "categoria": "musica-sacra",
+      "resumo": "A invocação ao Cordeiro de Deus cantada imediatamente antes da comunhão em toda Missa católica.",
+      "corpo": "\"Agnus Dei, qui tollis peccata mundi, miserere nobis\" (\"Cordeiro de Deus, que tirais o pecado do mundo, tende piedade de nós\") é cantado repetidamente — tradicionalmente três vezes, a última substituindo \"miserere nobis\" por \"dona nobis pacem\" (\"dai-nos a paz\") — no momento da fração do pão, imediatamente antes da comunhão. Introduzido na liturgia romana pelo papa Sérgio I no século VII, retoma diretamente a proclamação de João Batista sobre Jesus (Jo 1,29) e é, como o Glória e o Sanctus, parte do \"Ordinário\" da Missa musicado por praticamente todo grande compositor de música sacra ao longo da história.",
+      "tags": [
+        "Cordeiro de Deus",
+        "fração do pão",
+        "Ordinário da Missa"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lam_Gods_%28titel_op_object%29%2C_RP-P-1997-162.jpg",
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 12
+    },
+    {
+      "id": "musica-sacra:hinos-latinos-e-traducao",
+      "slug": "hinos-latinos-e-traducao",
+      "titulo": "Latim e Tradução na Música Sacra",
+      "categoria": "musica-sacra",
+      "resumo": "Por que a Igreja preserva o latim em tantos hinos litúrgicos, e como compreender seu sentido sem dominar a língua.",
+      "corpo": "O latim permanece a língua oficial da Igreja Latina e de boa parte de seu repertório musical clássico, não por apego a uma língua \"morta\", mas por seu valor de unidade universal (um mesmo hino cantado e reconhecido em qualquer país do mundo), precisão teológica consolidada ao longo de séculos, e conexão viva com toda a tradição musical e espiritual anterior ao Concílio Vaticano II. O Concílio, embora tenha autorizado amplamente o uso das línguas vernáculas na liturgia, pediu explicitamente que se cuidasse para que os fiéis \"soubessem recitar ou cantar em latim as partes do Ordinário da Missa que lhes cabem\" — daí o valor catequético de conhecer ao menos a tradução dos hinos latinos mais comuns, para uni-los à compreensão consciente do que se canta.",
+      "tags": [
+        "Sacrosanctum Concilium",
+        "língua litúrgica",
+        "catequese musical"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Antiphonal_folio_with_historiated_initial_%27E%27_%28CBL_W_195.097%29.jpg",
+      "imagem_credito": null,
+      "idioma": "latim/português",
+      "ordem": 13
+    }
+  ]
+}

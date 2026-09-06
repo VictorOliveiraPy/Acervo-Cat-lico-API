@@ -1,0 +1,297 @@
+{
+  "_meta": {
+    "categoria": "heresias-cismas",
+    "nome": "Heresias e Cismas",
+    "descricao": "Os principais erros doutrinais e rupturas de comunhão da história da Igreja, e a resposta conciliar ou magisterial que os enfrentou.",
+    "status": "exemplos-iniciais",
+    "aviso": "Conjunto inicial dos episódios mais estudados; não esgota a história de todas as heresias e cismas cristãos.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Catecismo da Igreja Católica",
+      "Denzinger-Hünermann, Enchiridion Symbolorum"
+    ]
+  },
+  "itens": [
+    {
+      "id": "heresias-cismas:gnosticismo",
+      "slug": "gnosticismo",
+      "titulo": "Gnosticismo",
+      "categoria": "heresias-cismas",
+      "resumo": "Movimento religioso dos primeiros séculos que via a matéria como má e pregava uma salvação por conhecimento (gnosis) secreto e reservado a poucos.",
+      "corpo": "O gnosticismo ensinava que o mundo material foi criado não pelo verdadeiro Deus supremo, mas por um ser inferior (o \"demiurgo\", identificado por alguns com o Deus do Antigo Testamento), e que a salvação vem de um conhecimento (gnosis) secreto sobre a origem divina da alma, reservado a uma elite espiritual. Negava a real Encarnação — para muitos gnósticos, Cristo apenas parecia ter corpo (docetismo) — e a bondade da criação material. Irineu de Lyon dedicou sua obra \"Contra as Heresias\" a refutá-lo sistematicamente, defendendo a bondade da criação e a unidade do Deus criador e salvador.",
+      "tags": [
+        "dualismo",
+        "docetismo",
+        "Irineu de Lyon"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Nag_Hammadi_Codex_V_17.png",
+      "imagem_credito": null,
+      "tipo": "heresia",
+      "seculo": "I-III",
+      "condenacao": "Refutada por Irineu de Lyon e outros apologistas; nunca convocou concílio ecumênico específico"
+    },
+    {
+      "id": "heresias-cismas:arianismo",
+      "slug": "arianismo",
+      "titulo": "Arianismo",
+      "categoria": "heresias-cismas",
+      "resumo": "Heresia do padre alexandrino Ário que negava a plena divindade do Filho, afirmando que Cristo foi criado pelo Pai e não é eterno.",
+      "corpo": "Ário, padre de Alexandria, ensinava que o Filho de Deus, embora superior a todas as criaturas, foi criado pelo Pai e não é coeterno nem consubstancial a ele — resumido no slogan ariano \"houve quando ele não existia\". A controvérsia dividiu profundamente o Império Romano e levou à convocação do primeiro concílio ecumênico. Apesar da condenação, o arianismo permaneceu dominante entre a corte imperial e vários povos germânicos (godos, vândalos, lombardos) por séculos, e Atanásio de Alexandria passou a vida defendendo, muitas vezes sozinho, a fé niceia contra ele.",
+      "tags": [
+        "Ário",
+        "Niceia",
+        "consubstancialidade",
+        "Atanásio"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ariusz.JPG",
+      "imagem_credito": null,
+      "tipo": "heresia",
+      "seculo": "IV",
+      "condenacao": "Concílio de Niceia (325) e Concílio de Constantinopla I (381)"
+    },
+    {
+      "id": "heresias-cismas:nestorianismo",
+      "slug": "nestorianismo",
+      "titulo": "Nestorianismo",
+      "categoria": "heresias-cismas",
+      "resumo": "Heresia de Nestório que via em Cristo duas pessoas distintas, humana e divina, negando a Maria o título de Mãe de Deus.",
+      "corpo": "Nestório, patriarca de Constantinopla, ensinava — ou foi entendido como ensinando — que em Cristo coexistiam duas pessoas distintas unidas apenas moralmente, uma humana e outra divina, e por isso recusava chamar Maria de \"Theotokos\" (Mãe de Deus), preferindo \"Christotokos\" (Mãe de Cristo). Cirilo de Alexandria liderou a oposição, argumentando que, sendo Cristo uma só Pessoa divina em duas naturezas, Maria gerou verdadeiramente Deus feito homem. Comunidades nestorianas sobreviveram no Oriente, dando origem à Igreja Assíria do Oriente, ainda existente hoje.",
+      "tags": [
+        "Nestório",
+        "Éfeso",
+        "Theotokos",
+        "Cirilo de Alexandria"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Myra_Saint_Nicolas_church_fresco_narthex_Ecumenical_Council_A_5864.jpg",
+      "imagem_credito": "Dosseman — Wikimedia Commons, CC BY-SA 4.0",
+      "tipo": "heresia",
+      "seculo": "V",
+      "condenacao": "Concílio de Éfeso (431)"
+    },
+    {
+      "id": "heresias-cismas:monofisismo",
+      "slug": "monofisismo",
+      "titulo": "Monofisismo",
+      "categoria": "heresias-cismas",
+      "resumo": "Heresia oposta ao nestorianismo que via em Cristo uma única natureza, na qual a humana teria sido absorvida pela divina.",
+      "corpo": "Reagindo ao nestorianismo, Êutiques e outros passaram a ensinar que em Cristo há apenas uma natureza (mono physis) após a Encarnação, com a natureza humana absorvida ou fundida na divina — negando, na prática, a plena e permanente humanidade de Cristo. O Concílio de Calcedônia respondeu definindo que Cristo subsiste \"em duas naturezas, sem confusão, sem mudança, sem divisão, sem separação\". A recusa de Calcedônia por parte de importantes Igrejas do Egito, Síria, Armênia e Etiópia originou o cisma que ainda hoje separa as Igrejas Ortodoxas Orientais (não calcedonianas) da Igreja Católica e da Ortodoxia bizantina.",
+      "tags": [
+        "Êutiques",
+        "Calcedônia",
+        "duas naturezas",
+        "Ortodoxia Oriental"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Myra_Saint_Nicolas_church_fresco_narthex_Ecumenical_Council_B_5868.jpg",
+      "imagem_credito": "Dosseman — Wikimedia Commons, CC BY-SA 4.0",
+      "tipo": "heresia",
+      "seculo": "V",
+      "condenacao": "Concílio de Calcedônia (451)"
+    },
+    {
+      "id": "heresias-cismas:pelagianismo",
+      "slug": "pelagianismo",
+      "titulo": "Pelagianismo",
+      "categoria": "heresias-cismas",
+      "resumo": "Heresia do monge Pelágio que minimizava a necessidade da graça divina, defendendo que o homem pode alcançar a salvação por seu próprio esforço moral.",
+      "corpo": "Pelágio, monge de origem britânica, ensinava que o pecado original não corrompeu substancialmente a natureza humana e que o homem possui, por sua própria vontade livre, capacidade plena de escolher o bem e cumprir a Lei de Deus sem necessidade essencial da graça — reduzindo a graça a mero exemplo ou ajuda externa. Agostinho de Hipona foi seu principal opositor, desenvolvendo em resposta toda a sua teologia da graça e do pecado original. A controvérsia moldou permanentemente a compreensão católica de que a salvação é sempre dom gratuito de Deus, ainda que exija cooperação livre da pessoa.",
+      "tags": [
+        "Pelágio",
+        "graça",
+        "livre-arbítrio",
+        "Agostinho"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Pelagius.jpg",
+      "imagem_credito": null,
+      "tipo": "heresia",
+      "seculo": "IV-V",
+      "condenacao": "Concílios de Cartago (418) e Éfeso (431)"
+    },
+    {
+      "id": "heresias-cismas:cisma-do-oriente",
+      "slug": "cisma-do-oriente",
+      "titulo": "Cisma do Oriente (Grande Cisma de 1054)",
+      "categoria": "heresias-cismas",
+      "resumo": "Ruptura entre a Igreja de Roma e a de Constantinopla, marcando a separação entre catolicismo e ortodoxia que persiste até hoje.",
+      "corpo": "Tensões acumuladas por séculos — sobre a autoridade do papa, a adição da cláusula \"Filioque\" ao Credo, diferenças litúrgicas e disciplinares, e rivalidade política entre Roma e Constantinopla — culminaram em 1054 na excomunhão mútua entre o legado papal Humberto de Silva Cândida e o patriarca Miguel Cerulário. Embora o cisma não tenha sido percebido de imediato como definitivo, aprofundou-se ao longo dos séculos seguintes, especialmente após o saque cruzado de Constantinopla em 1204, consolidando a divisão entre a Igreja Católica e as Igrejas Ortodoxas que persiste até hoje, apesar de esforços de diálogo ecumênico desde o século XX.",
+      "tags": [
+        "Filioque",
+        "Constantinopla",
+        "excomunhão mútua",
+        "ecumenismo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/90/Great_Schism_with_former_borders_%281054%29.png",
+      "imagem_credito": "Foto: Barrikader (talk · contribs) — Wikimedia Commons, CC BY-SA 3.0",
+      "tipo": "cisma",
+      "seculo": "XI",
+      "condenacao": "Excomunhões mútuas de 1054, formalmente revogadas em 1965"
+    },
+    {
+      "id": "heresias-cismas:catarismo",
+      "slug": "catarismo",
+      "titulo": "Catarismo",
+      "categoria": "heresias-cismas",
+      "resumo": "Movimento dualista medieval do sul da França que via a matéria como criação do mal, negando os sacramentos e a Encarnação.",
+      "corpo": "Os cátaros (\"puros\"), concentrados sobretudo na região do Languedoc francês, retomavam um dualismo radical de raiz maniqueísta: o mundo material seria obra de um princípio do mal, e a salvação consistiria em libertar a centelha espiritual presa na matéria através de extrema ascese, rejeitando o casamento, a procriação, a alimentação animal e os sacramentos da Igreja, cuja hierarquia e riqueza material denunciavam como corruptas. A Igreja respondeu inicialmente com pregação — daí a origem da Ordem dos Pregadores de Domingos de Gusmão — e depois com a Cruzada Albigense, movimento militar que, com apoio da coroa francesa, dizimou o catarismo ao longo do século XIII.",
+      "tags": [
+        "dualismo",
+        "Languedoc",
+        "Cruzada Albigense",
+        "Domingos de Gusmão"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Cathars_expelled.JPG",
+      "imagem_credito": null,
+      "tipo": "heresia",
+      "seculo": "XII-XIII",
+      "condenacao": "Concílio de Latrão IV (1215) e Cruzada Albigense (1209-1229)"
+    },
+    {
+      "id": "heresias-cismas:valdismo",
+      "slug": "valdismo",
+      "titulo": "Valdismo",
+      "categoria": "heresias-cismas",
+      "resumo": "Movimento leigo iniciado por Pedro Valdo pregando pobreza radical e leitura da Bíblia em língua vulgar, inicialmente tolerado e depois condenado.",
+      "corpo": "Pedro Valdo, mercador rico de Lyon, distribuiu seus bens e passou a pregar pobreza evangélica radical, mandando traduzir partes da Bíblia para o occitano para que leigos pudessem lê-la diretamente. A recusa em obedecer à proibição eclesiástica de pregar sem autorização episcopal, e certas posições que negavam a eficácia dos sacramentos ministrados por padres em pecado, levaram à condenação do movimento, embora seu ideal de pobreza evangélica tenha influenciado indiretamente as ordens mendicantes que surgiriam pouco depois. Comunidades valdenses sobreviveram nos Alpes italianos até hoje, atualmente integradas ao protestantismo.",
+      "tags": [
+        "Pedro Valdo",
+        "pobreza evangélica",
+        "Lyon",
+        "Bíblia vernácula"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Waldo_at_third_lateran_council.jpg",
+      "imagem_credito": null,
+      "tipo": "heresia",
+      "seculo": "XII-XIII",
+      "condenacao": "Concílio de Verona (1184) e Concílio de Latrão IV (1215)"
+    },
+    {
+      "id": "heresias-cismas:hussitismo",
+      "slug": "hussitismo",
+      "titulo": "Hussitismo",
+      "categoria": "heresias-cismas",
+      "resumo": "Movimento reformista boêmio de Jan Hus, precursor da Reforma Protestante, condenado e reprimido após a execução de seu fundador.",
+      "corpo": "Jan Hus, reitor da Universidade de Praga influenciado pelas ideias do inglês John Wyclif, pregava reforma radical do clero, tradução da liturgia e das Escrituras para a língua vernácula e a comunhão sob as duas espécies (pão e vinho) para os leigos. Convocado ao Concílio de Constança sob salvo-conduto imperial, foi julgado, condenado e queimado vivo em 1415 apesar da promessa de segurança — episódio que chocou a Boêmia e desencadeou décadas de guerras hussitas. É considerado um dos precursores diretos da Reforma Protestante, mais de cem anos antes de Lutero.",
+      "tags": [
+        "Jan Hus",
+        "Constança",
+        "Boêmia",
+        "precursor da Reforma"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Execution_of_Jan_Hus_2.jpg",
+      "imagem_credito": null,
+      "tipo": "heresia",
+      "seculo": "XV",
+      "condenacao": "Concílio de Constança (1414-1418)"
+    },
+    {
+      "id": "heresias-cismas:reforma-protestante",
+      "slug": "reforma-protestante",
+      "titulo": "Reforma Protestante",
+      "categoria": "heresias-cismas",
+      "resumo": "Movimento liderado por Martinho Lutero que rompeu a unidade cristã ocidental, defendendo a salvação só pela fé e a Escritura como única autoridade.",
+      "corpo": "Martinho Lutero, monge agostiniano e professor em Wittenberg, publicou em 1517 suas 95 teses contra o comércio de indulgências, desencadeando um movimento que rapidamente se radicalizou em ruptura com Roma. Seus princípios centrais — \"sola fide\" (salvação só pela fé, sem mérito das obras), \"sola scriptura\" (a Bíblia como única autoridade, sem o magistério da Igreja) e o sacerdócio universal dos fiéis — foram condenados pela Igreja Católica, que respondeu com o Concílio de Trento, reafirmando a doutrina católica sobre graça, sacramentos e autoridade eclesial. A Reforma fragmentou a cristandade ocidental em múltiplas confissões que persistem até hoje.",
+      "tags": [
+        "Lutero",
+        "sola fide",
+        "sola scriptura",
+        "Trento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/58/95Thesen_facsimile_colour.png",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "tipo": "cisma",
+      "seculo": "XVI",
+      "condenacao": "Bula Exsurge Domine (1520) e Concílio de Trento (1545-1563)"
+    },
+    {
+      "id": "heresias-cismas:cisma-anglicano",
+      "slug": "cisma-anglicano",
+      "titulo": "Cisma Anglicano",
+      "categoria": "heresias-cismas",
+      "resumo": "Ruptura da Igreja da Inglaterra com Roma sob Henrique VIII, motivada inicialmente por razões dinásticas e depois consolidada teologicamente.",
+      "corpo": "Henrique VIII, rei da Inglaterra, rompeu com Roma em 1534 depois que o papa Clemente VII recusou anular seu casamento com Catarina de Aragão, fazendo o Parlamento aprovar o Ato de Supremacia, que o declarava chefe supremo da Igreja da Inglaterra. Embora Henrique tenha mantido boa parte da doutrina e liturgia católicas, seus sucessores — sobretudo sob Isabel I — consolidaram uma identidade anglicana teologicamente distinta, incorporando elementos da Reforma continental enquanto preservava estrutura episcopal e boa parte da tradição litúrgica.",
+      "tags": [
+        "Henrique VIII",
+        "Ato de Supremacia",
+        "Igreja da Inglaterra"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Portrait_of_Henry_VIII_of_England_%28Holbein%29.jpg",
+      "imagem_credito": "Hans Holbein the Younger — Wikimedia Commons, CC BY-SA 4.0",
+      "tipo": "cisma",
+      "seculo": "XVI",
+      "condenacao": "Excomunhão de Henrique VIII pelo papa Paulo III (1538)"
+    },
+    {
+      "id": "heresias-cismas:jansenismo",
+      "slug": "jansenismo",
+      "titulo": "Jansenismo",
+      "categoria": "heresias-cismas",
+      "resumo": "Movimento teológico rigorista de inspiração agostiniana, condenado por posições sobre a graça consideradas próximas ao predestinacionismo protestante.",
+      "corpo": "Baseado na obra póstuma \"Augustinus\", do bispo Cornelius Jansen, o jansenismo defendia uma leitura rigorista da graça agostiniana que, segundo seus críticos, tornava a graça irresistível para os eleitos e praticamente inacessível aos demais, aproximando-se perigosamente do determinismo protestante e minimizando o livre-arbítrio humano. Centrado no mosteiro francês de Port-Royal, influenciou figuras como Blaise Pascal e promoveu prática sacramental extremamente rigorosa, exigindo disposições quase impossíveis para a comunhão frequente. Foi condenado repetidamente por Roma ao longo do século XVII.",
+      "tags": [
+        "Jansen",
+        "Port-Royal",
+        "graça",
+        "Pascal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Cornelius_Jansenius%2C_PA00161.jpg",
+      "imagem_credito": null,
+      "tipo": "heresia",
+      "seculo": "XVII",
+      "condenacao": "Bulas Cum Occasione (1653) e Unigenitus (1713)"
+    },
+    {
+      "id": "heresias-cismas:galicanismo",
+      "slug": "galicanismo",
+      "titulo": "Galicanismo",
+      "categoria": "heresias-cismas",
+      "resumo": "Corrente que buscava maior autonomia da Igreja da França frente à autoridade papal, limitando a jurisdição de Roma sobre a Igreja local.",
+      "corpo": "O galicanismo defendia que o rei da França e o episcopado francês possuíam autoridade considerável e relativamente independente sobre assuntos eclesiásticos internos, limitando a intervenção direta do papado nos negócios da Igreja francesa — posição sistematizada nos \"Quatro Artigos Galicanos\" de 1682, sob patrocínio de Luís XIV. Embora nunca tenha constituído cisma formal, tensionou permanentemente as relações entre Roma e a Coroa francesa até ser definitivamente superado pela afirmação da infalibilidade e primado papal no Concílio Vaticano I (1870).",
+      "tags": [
+        "Luís XIV",
+        "Quatro Artigos Galicanos",
+        "primado papal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Hyacinthe_Rigaud_-_Portrait_of_Jacques-B%C3%A9nigne_Bossuet_-_WGA19491.jpg",
+      "imagem_credito": null,
+      "tipo": "heresia",
+      "seculo": "XVII-XIX",
+      "condenacao": "Superado doutrinalmente pelo Concílio Vaticano I (1870)"
+    },
+    {
+      "id": "heresias-cismas:velhos-catolicos",
+      "slug": "velhos-catolicos",
+      "titulo": "Velho-Catolicismo",
+      "categoria": "heresias-cismas",
+      "resumo": "Cisma de grupos que recusaram a definição da infalibilidade papal proclamada pelo Concílio Vaticano I.",
+      "corpo": "Após o Concílio Vaticano I definir dogmaticamente a infalibilidade do papa em matérias de fé e moral quando fala ex cathedra (1870), um grupo de bispos, padres e leigos — sobretudo na Alemanha, Suíça, Áustria e Países Baixos, liderados por figuras como o teólogo Ignaz von Döllinger — recusou-se a aceitar a definição e rompeu com Roma, formando as Igrejas Velho-Católicas, que mantêm estrutura episcopal e boa parte da liturgia tradicional mas rejeitam o primado e a infalibilidade papal tal como definidos em 1870.",
+      "tags": [
+        "Vaticano I",
+        "infalibilidade papal",
+        "Döllinger"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Gertrudiskathedraal_Oudkatholiek_9586.jpg",
+      "imagem_credito": "Foto: Dosseman — Wikimedia Commons, CC BY-SA 4.0",
+      "tipo": "cisma",
+      "seculo": "XIX",
+      "condenacao": "Ruptura formalizada após 1870, sem processo de excomunhão coletiva formal"
+    },
+    {
+      "id": "heresias-cismas:modernismo",
+      "slug": "modernismo",
+      "titulo": "Modernismo (teológico)",
+      "categoria": "heresias-cismas",
+      "resumo": "Corrente do início do século XX que buscava reinterpretar a doutrina católica à luz da filosofia moderna e da crítica histórica, condenada por Pio X.",
+      "corpo": "O modernismo teológico, associado a autores como Alfred Loisy e George Tyrrell, propunha reinterpretar dogmas, Escritura e autoridade eclesial à luz da filosofia imanentista e da crítica histórico-literária então em voga, relativizando a fixidez dos dogmas como expressões históricas da experiência religiosa mais do que verdades reveladas de modo definitivo. O papa Pio X condenou o movimento na encíclica \"Pascendi Dominici Gregis\" (1907) e no decreto \"Lamentabili Sane\", chamando-o \"síntese de todas as heresias\" por reunir elementos de racionalismo, imanentismo e relativismo histórico.",
+      "tags": [
+        "Pio X",
+        "Pascendi",
+        "crítica histórica",
+        "Loisy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/His_Holiness_Pope_St._Pius_X.jpg",
+      "imagem_credito": null,
+      "tipo": "heresia",
+      "seculo": "XX",
+      "condenacao": "Encíclica Pascendi Dominici Gregis e decreto Lamentabili Sane (1907)"
+    }
+  ]
+}
