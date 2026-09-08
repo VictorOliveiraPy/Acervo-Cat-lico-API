@@ -6,7 +6,9 @@ inválido, a aplicação **não sobe** — é preferível a um endpoint responde
 
 O mural de velas (`/api/velas`) é a única escrita persistida da API — mora
 num Postgres à parte (`DATABASE_URL`), opcional: sem ele configurado, o
-acervo de leitura sobe normalmente e só o mural responde 503.
+acervo de leitura sobe normalmente e só o mural responde 503. A liturgia
+diária (`/api/liturgia-diaria`) usa o mesmo Postgres como cache — sem
+`DATABASE_URL`, esse endpoint também responde 503, pelo mesmo motivo.
 """
 
 from __future__ import annotations
@@ -21,6 +23,8 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.config import settings
 from app.exceptions import register_exception_handlers
+from app.liturgia_repository import PostgresLiturgiaDiariaRepository
+from app.liturgia_router import router as liturgia_router
 from app.repository import repository
 from app.routers import router
 from app.velas_repository import PostgresVelasRepository
@@ -48,9 +52,23 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
         except Exception:
             logger.exception("Falha ao conectar o banco do mural de velas")
             app.state.velas_repository = None
+
+        try:
+            # Mesmo pool do mural de velas — é só cache de leitura, não
+            # precisa de conexão dedicada.
+            if pool is not None:
+                await PostgresLiturgiaDiariaRepository.create_schema(pool)
+                app.state.liturgia_repository = PostgresLiturgiaDiariaRepository(pool)
+                logger.info("Liturgia diária conectada")
+            else:
+                app.state.liturgia_repository = None
+        except Exception:
+            logger.exception("Falha ao preparar o cache da liturgia diária")
+            app.state.liturgia_repository = None
     else:
         app.state.velas_repository = None
-        logger.info("DATABASE_URL não configurada — mural de velas desativado")
+        app.state.liturgia_repository = None
+        logger.info("DATABASE_URL não configurada — mural de velas e liturgia diária desativados")
 
     logger.info(
         "API iniciada",
@@ -102,8 +120,9 @@ app.add_middleware(
 )
 
 register_exception_handlers(app)
-# `velas_router` primeiro: `/api/velas` precisa ser resolvido antes da rota
-# coringa `/api/{categoria}` do acervo, senão "velas" seria lido como slug
-# de categoria inexistente.
+# `velas_router`/`liturgia_router` primeiro: `/api/velas` e
+# `/api/liturgia-diaria` precisam ser resolvidos antes da rota coringa
+# `/api/{categoria}` do acervo, senão virariam slug de categoria inexistente.
 app.include_router(velas_router)
+app.include_router(liturgia_router)
 app.include_router(router)

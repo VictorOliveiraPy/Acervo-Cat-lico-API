@@ -48,6 +48,7 @@ mypy app                   # tipagem
 | GET | `/api/{categoria}/{slug}` | Detalhe de uma entrada |
 | GET | `/api/velas?limit=&offset=` | Mural de velas acesas (mais recentes primeiro) |
 | POST | `/api/velas` | Acende uma vela (`nome`, `intencao?`, `tipo`) — única rota de escrita |
+| GET | `/api/liturgia-diaria?data=` | Liturgia do dia: cor, celebração e leituras da Missa (padrão: hoje, horário de Brasília) |
 
 ### Exemplos
 
@@ -84,7 +85,9 @@ o `code` **não** muda sem aviso):
 
 Códigos usados: `CATEGORY_NOT_FOUND` (404), `ENTRY_NOT_FOUND` (404),
 `VELAS_INDISPONIVEL` (503, sem `DATABASE_URL` configurada),
-`RATE_LIMITED` (429, uma vela por IP a cada ~20s), `INTERNAL_ERROR` (500).
+`RATE_LIMITED` (429, uma vela por IP a cada ~20s),
+`LITURGIA_INDISPONIVEL` (503, sem `DATABASE_URL` ou fonte externa fora do ar),
+`INTERNAL_ERROR` (500).
 Erro de parâmetro (ex.: `q` com 1 caractere) usa o `422` padrão do FastAPI.
 
 ---
@@ -102,12 +105,17 @@ Erro de parâmetro (ex.: `q` com 1 caractere) usa o `422` padrão do FastAPI.
 │   ├── velas_models.py    # Pydantic do mural de velas (a única escrita da API)
 │   ├── velas_repository.py# Postgres (produção) e in-memory (testes), mesma interface
 │   ├── velas_router.py    # rotas /api/velas (GET público, POST com rate limit)
+│   ├── liturgia_models.py     # Pydantic da liturgia diária (leituras da Missa)
+│   ├── liturgia_client.py     # busca e parseia a fonte externa (função pura, sem I/O)
+│   ├── liturgia_repository.py # cache em Postgres (1 busca/dia) e in-memory (testes)
+│   ├── liturgia_router.py     # rota /api/liturgia-diaria
 │   ├── main.py            # app, lifespan (acervo + pool do mural), CORS, handlers
 │   └── data/*.json        # conteúdo curado, um arquivo por categoria
 └── tests/
     ├── test_repository.py  # unitários (sem HTTP)
     ├── test_routers.py     # integração via TestClient (acervo)
-    └── test_velas.py       # integração do mural (repositório em memória)
+    ├── test_velas.py       # integração do mural (repositório em memória)
+    └── test_liturgia.py    # parsing + integração da liturgia diária (fetcher fake)
 ```
 
 > Este repositório é o irmão de
@@ -146,6 +154,14 @@ Erro de parâmetro (ex.: `q` com 1 caractere) usa o `422` padrão do FastAPI.
 - **404 para categoria desconhecida.** `/api/xpto` responde
   `404 CATEGORY_NOT_FOUND` (URL inexistente) em vez do `422` que sairia se a
   categoria fosse validada como enum no path.
+- **Liturgia diária cacheada, nunca buscada em tempo real por requisição.**
+  A fonte (`api-liturgia-diaria.vercel.app`, agregador de terceiros — não é
+  um serviço oficial da CNBB nem do Vaticano; não encontramos uma API pública
+  oficial em português) é buscada no máximo uma vez por dia e o resultado
+  fica gravado em Postgres; todas as requisições seguintes daquele dia leem
+  do cache. Isso isola o site da lentidão/instabilidade de um serviço de
+  terceiros de graça. Reusa o mesmo `DATABASE_URL` do mural de velas — sem
+  ele, `/api/liturgia-diaria` responde `503`, igual ao mural.
 
 ---
 
@@ -189,4 +205,4 @@ Todas as variáveis são opcionais em desenvolvimento (há defaults em
 | `DATA_DIR` | `app/data` | Diretório alternativo de conteúdo |
 | `DEFAULT_PAGE_SIZE` / `MAX_PAGE_SIZE` | `20` / `100` | Paginação |
 | `MAX_SEARCH_RESULTS` | `50` | Teto de resultados da busca |
-| `DATABASE_URL` | *(nenhum)* | Postgres do mural de velas — sem ela, `/api/velas` responde `503` e o resto da API funciona normalmente |
+| `DATABASE_URL` | *(nenhum)* | Postgres do mural de velas e do cache da liturgia diária — sem ela, `/api/velas` e `/api/liturgia-diaria` respondem `503` e o resto da API funciona normalmente |
