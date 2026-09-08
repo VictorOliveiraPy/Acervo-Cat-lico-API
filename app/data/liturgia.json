@@ -332,6 +332,60 @@
         "Missal Romano",
         "Catecismo da Igreja Católica"
       ]
+    },
+    {
+      "id": "liturgia:coroinha",
+      "slug": "coroinha",
+      "titulo": "Coroinha",
+      "categoria": "liturgia",
+      "resumo": "Criança ou jovem que ajuda o padre na Missa — carrega vela, turíbulo ou livro —, sem ser um ministério instituído nem exigir formação ou idade mínima.",
+      "corpo": "O coroinha é a forma mais simples e mais antiga de ajudar o padre na Missa: carrega a cruz processional, as velas, o turíbulo (incensário) ou o Missal, toca a campainha nos momentos-chave da consagração e prepara o que for necessário no altar. Diferente do acólito, não é um ministério instituído — não existe rito formal de instituição, e o próprio pároco pode convidar e dispensar coroinhas livremente, geralmente crianças e adolescentes, meninos e meninas.\n\nA tradição atribui a São Tarcísio, jovem de Roma no século III, o papel de patrono dos coroinhas: segundo a hagiografia, ele foi espancado até a morte por uma multidão pagã ao se recusar a entregar a Eucaristia que carregava escondida, preferindo morrer a profanar o Santíssimo Sacramento.",
+      "tags": [
+        "coroinha",
+        "missa",
+        "ministérios leigos",
+        "São Tarcísio"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Altar_boys_in_the_procession_at_the_Easter_high_mass_at_the_Corpus_Christi_Church8d28470v.jpg",
+      "imagem_credito": null,
+      "ordem": 9,
+      "paragrafos_ccc": []
+    },
+    {
+      "id": "liturgia:acolito",
+      "slug": "acolito",
+      "titulo": "Acólito",
+      "categoria": "liturgia",
+      "resumo": "Ministério leigo instituído formalmente pelo bispo — desde 1972 aberto a leigos, e desde 2021 também a mulheres —, com atribuições mais amplas que o coroinha: purificar os vasos sagrados e distribuir a Comunhão como ministro extraordinário.",
+      "corpo": "Diferente do coroinha, o acólito é um ministério instituído: existe desde 1972, quando Paulo VI, no motu proprio «Ministeria Quaedam», reformou as antigas ordens menores e abriu o acolitado a leigos — antes reservado a candidatos ao sacerdócio. A instituição acontece num rito próprio, presidido pelo bispo, e confere ao acólito atribuições que o coroinha não tem: purificar os vasos sagrados depois da Comunhão e, quando necessário, atuar como ministro extraordinário da Sagrada Comunhão.\n\nEm 11 de janeiro de 2021, o Papa Francisco, pelo motu proprio «Spiritus Domini», mudou o Código de Direito Canônico (cânon 230, §1) para permitir também a instituição de mulheres como acólitas — até então, o ministério era reservado a homens por sua origem histórica ligada aos antigos graus do caminho ao sacerdócio.",
+      "tags": [
+        "acólito",
+        "ministérios instituídos",
+        "Paulo VI",
+        "Spiritus Domini"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Ministranten%2C_Fronleichnamsprozession_2023_in_Millstatt_11.jpg",
+      "imagem_credito": "Foto: Naturpuur — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 10,
+      "paragrafos_ccc": []
+    },
+    {
+      "id": "liturgia:cerimoniario",
+      "slug": "cerimoniario",
+      "titulo": "Cerimoniário",
+      "categoria": "liturgia",
+      "resumo": "Coroinha ou acólito mais experiente que coordena os bastidores da liturgia — onde cada um fica, quando se move, se as rubricas estão sendo seguidas. O próprio Papa tem o seu, com escritório fixo no Vaticano.",
+      "corpo": "Cerimoniário (ou cerimoniária, no feminino) não é um grau à parte de coroinha e acólito, mas uma função: alguém com mais experiência no serviço do altar que assume a coordenação de toda a celebração — orienta os demais coroinhas e acólitos sobre onde ficar e quando se mover, e cuida para que as rubricas (as instruções litúrgicas oficiais) sejam seguidas à risca, principalmente em celebrações mais complexas, como uma Missa presidida por um bispo.\n\nA função existe em escala máxima no Vaticano: a Santa Sé tem um Mestre das Celebrações Litúrgicas Pontifícias, cargo hoje ocupado por Diego Ravelli, responsável por coordenar cada detalhe das liturgias públicas do Papa — da posição exata de cada objeto no altar ao momento certo de cada gesto. Guido Marini, seu antecessor no cargo entre 2007 e 2021, tornou-se mundialmente conhecido por pronunciar o \"Extra omnes\" que fecha as portas da Capela Sistina no início de um conclave.",
+      "tags": [
+        "cerimoniário",
+        "liturgia",
+        "Vaticano",
+        "mestre de cerimônias"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Mons._Guido_Marini_-_2008-05-18_-_Visita_di_Papa_Benedetto_XVI_a_Genova.jpg",
+      "imagem_credito": null,
+      "ordem": 11,
+      "paragrafos_ccc": []
     }
   ]
 }
