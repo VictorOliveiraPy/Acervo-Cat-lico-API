@@ -8,7 +8,10 @@ O mural de velas (`/api/velas`) é a única escrita persistida da API — mora
 num Postgres à parte (`DATABASE_URL`), opcional: sem ele configurado, o
 acervo de leitura sobe normalmente e só o mural responde 503. A liturgia
 diária (`/api/liturgia-diaria`) usa o mesmo Postgres como cache — sem
-`DATABASE_URL`, esse endpoint também responde 503, pelo mesmo motivo.
+`DATABASE_URL`, esse endpoint também responde 503, pelo mesmo motivo. O
+chatbot do acervo (`/api/chat`, RAG — ver `app/rag/`) precisa do mesmo
+Postgres mais duas chaves de API (`ANTHROPIC_API_KEY`, `VOYAGE_API_KEY`);
+sem qualquer uma das três, responde 503 e o resto da API segue normal.
 """
 
 from __future__ import annotations
@@ -21,10 +24,12 @@ import asyncpg
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
+from app.chat_router import router as chat_router
 from app.config import settings
 from app.exceptions import register_exception_handlers
 from app.liturgia_repository import PostgresLiturgiaDiariaRepository
 from app.liturgia_router import router as liturgia_router
+from app.rag.repository import PostgresRagRepository
 from app.repository import repository
 from app.routers import router
 from app.velas_repository import PostgresVelasRepository
@@ -65,10 +70,24 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
         except Exception:
             logger.exception("Falha ao preparar o cache da liturgia diária")
             app.state.liturgia_repository = None
+
+        # Chatbot (RAG): além do banco, precisa das duas chaves de API — sem
+        # qualquer uma das três, fica desativado (503), não derruba a API.
+        if pool is not None and settings.anthropic_api_key and settings.voyage_api_key:
+            try:
+                await PostgresRagRepository.create_schema(pool)
+                app.state.rag_repository = PostgresRagRepository(pool)
+                logger.info("Chatbot do acervo conectado")
+            except Exception:
+                logger.exception("Falha ao preparar o índice do chatbot")
+                app.state.rag_repository = None
+        else:
+            app.state.rag_repository = None
     else:
         app.state.velas_repository = None
         app.state.liturgia_repository = None
-        logger.info("DATABASE_URL não configurada — mural de velas e liturgia diária desativados")
+        app.state.rag_repository = None
+        logger.info("DATABASE_URL não configurada — mural de velas, liturgia diária e chatbot desativados")
 
     logger.info(
         "API iniciada",
@@ -121,8 +140,10 @@ app.add_middleware(
 
 register_exception_handlers(app)
 # `velas_router`/`liturgia_router` primeiro: `/api/velas` e
-# `/api/liturgia-diaria` precisam ser resolvidos antes da rota coringa
-# `/api/{categoria}` do acervo, senão virariam slug de categoria inexistente.
+# `/api/liturgia-diaria` e `/api/chat` precisam ser resolvidos antes da rota
+# coringa `/api/{categoria}` do acervo, senão virariam slug de categoria
+# inexistente.
 app.include_router(velas_router)
 app.include_router(liturgia_router)
+app.include_router(chat_router)
 app.include_router(router)

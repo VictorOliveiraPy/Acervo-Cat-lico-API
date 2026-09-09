@@ -9,9 +9,19 @@ asyncpg==0.30.0
 # do FastAPI, por isso já estava listado abaixo antes de virar dependência
 # de runtime de verdade.
 httpx==0.28.1
+# Chatbot do acervo (RAG, app/rag/) — geração de resposta, embeddings e o
+# tipo `vector` do Postgres pro asyncpg, respectivamente.
+anthropic==1.4.0
+voyageai==0.5.0
+pgvector==0.5.0
 
 # Desenvolvimento e testes
 pytest==8.3.4
 pytest-cov==6.0.0
+# `asyncio_mode = "auto"` já estava configurado em pyproject.toml (sem
+# nenhum teste async pra usar ainda) — os testes de app/rag/generation.py
+# são os primeiros `async def test_...` do projeto, e precisam do plugin de
+# verdade instalado, não só da configuração.
+pytest-asyncio==1.4.0
 ruff==0.8.4
 mypy==1.14.0

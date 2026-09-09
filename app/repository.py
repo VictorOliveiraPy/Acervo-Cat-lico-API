@@ -261,6 +261,16 @@ class Repository:
         """Total de entradas carregadas em todas as categorias."""
         return sum(len(items) for items in self._entries.values())
 
+    def all_entries(self) -> list[AnyEntry]:
+        """Todas as entradas de todas as categorias, na ordem curada de cada uma.
+
+        Existe para quem precisa varrer o acervo inteiro (hoje: o script de
+        indexação do chatbot, `scripts/indexar_acervo.py`) sem depender de
+        `_entries` — atributo privado por design, pra não virar contrato
+        implícito de mais um consumidor além do `load()`.
+        """
+        return [entry for items in self._entries.values() for entry in items]
+
     @staticmethod
     def resolve_category(categoria: str | Category) -> Category:
         """Converte o segmento de URL em `Category` ou levanta 404."""

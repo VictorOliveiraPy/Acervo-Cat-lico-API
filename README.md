@@ -49,6 +49,7 @@ mypy app                   # tipagem
 | GET | `/api/velas?limit=&offset=` | Mural de velas acesas (mais recentes primeiro) |
 | POST | `/api/velas` | Acende uma vela (`nome`, `intencao?`, `tipo`) — única rota de escrita |
 | GET | `/api/liturgia-diaria?data=` | Liturgia do dia: cor, celebração e leituras da Missa (padrão: hoje, horário de Brasília) |
+| POST | `/api/chat` | Pergunta ao chatbot do acervo (RAG) — `{"pergunta": "..."}` → resposta + fontes citadas |
 
 ### Exemplos
 
@@ -58,6 +59,9 @@ curl "http://localhost:8000/api/santos?limit=2&offset=0"
 curl "http://localhost:8000/api/papas/joao-paulo-ii"
 curl "http://localhost:8000/api/search?q=oracao&limit=5"
 curl "http://localhost:8000/api/search?q=teresa&categoria=doutores-igreja"
+curl -X POST "http://localhost:8000/api/chat" \
+  -H "Content-Type: application/json" \
+  -d '{"pergunta": "O que é a Crisma?"}'
 ```
 
 ### Formatos de resposta
@@ -75,6 +79,15 @@ Busca (`SearchResult[]`) — apenas o necessário para a lista de resultados:
    "titulo": "Santa Teresa de Ávila", "trecho": "…mestra da oração…" }]
 ```
 
+Chatbot (`ChatResponse`) — `fontes` vem vazia quando nada no acervo bateu
+com a pergunta (nesse caso `resposta` é a recusa, não uma tentativa de
+responder mesmo assim: ver "Decisões que valem explicação" abaixo):
+
+```json
+{ "resposta": "A Crisma é o sacramento que...",
+  "fontes": [{ "titulo": "Crisma", "categoria": "crisma", "slug": "o-sacramento-da-confirmacao" }] }
+```
+
 Erro (contrato estável para o frontend — a `message` é UX e pode mudar,
 o `code` **não** muda sem aviso):
 
@@ -85,8 +98,10 @@ o `code` **não** muda sem aviso):
 
 Códigos usados: `CATEGORY_NOT_FOUND` (404), `ENTRY_NOT_FOUND` (404),
 `VELAS_INDISPONIVEL` (503, sem `DATABASE_URL` configurada),
-`RATE_LIMITED` (429, uma vela por IP a cada ~20s),
+`RATE_LIMITED` (429, uma vela por IP a cada ~20s no mural; ~6s por IP no chat),
 `LITURGIA_INDISPONIVEL` (503, sem `DATABASE_URL` ou fonte externa fora do ar),
+`CHAT_INDISPONIVEL` (503, sem `DATABASE_URL`/`ANTHROPIC_API_KEY`/`VOYAGE_API_KEY`
+configuradas, ou falha ao chamar alguma das duas APIs),
 `INTERNAL_ERROR` (500).
 Erro de parâmetro (ex.: `q` com 1 caractere) usa o `422` padrão do FastAPI.
 
@@ -109,13 +124,25 @@ Erro de parâmetro (ex.: `q` com 1 caractere) usa o `422` padrão do FastAPI.
 │   ├── liturgia_client.py     # busca e parseia a fonte externa (função pura, sem I/O)
 │   ├── liturgia_repository.py # cache em Postgres (1 busca/dia) e in-memory (testes)
 │   ├── liturgia_router.py     # rota /api/liturgia-diaria
+│   ├── rag/                   # chatbot do acervo (RAG) — fase 1: só o acervo, sem PDF
+│   │   ├── chunking.py         # quebra verbete em pedaços indexáveis (função pura)
+│   │   ├── embeddings.py       # cliente Voyage AI (embedding de documento e de consulta)
+│   │   ├── repository.py       # índice em Postgres/pgvector, e em memória (testes)
+│   │   ├── generation.py       # prompt + chamada ao Claude, com o guard-rail central
+│   │   └── models.py           # contrato HTTP (ChatRequest/ChatResponse) e ChunkResult
+│   ├── chat_router.py     # rota /api/chat (rate limit próprio, mais folgado que o mural)
 │   ├── main.py            # app, lifespan (acervo + pool do mural), CORS, handlers
 │   └── data/*.json        # conteúdo curado, um arquivo por categoria
+├── scripts/
+│   └── indexar_acervo.py  # popula/reindexa app/rag — `python -m scripts.indexar_acervo`
 └── tests/
-    ├── test_repository.py  # unitários (sem HTTP)
-    ├── test_routers.py     # integração via TestClient (acervo)
-    ├── test_velas.py       # integração do mural (repositório em memória)
-    └── test_liturgia.py    # parsing + integração da liturgia diária (fetcher fake)
+    ├── test_repository.py     # unitários (sem HTTP)
+    ├── test_routers.py        # integração via TestClient (acervo)
+    ├── test_velas.py          # integração do mural (repositório em memória)
+    ├── test_liturgia.py       # parsing + integração da liturgia diária (fetcher fake)
+    ├── test_rag_chunking.py   # chunking, com verbetes reais do acervo
+    ├── test_rag_generation.py # guard-rail contra alucinação, isolado (sem rede)
+    └── test_chat.py           # integração do chatbot (Voyage/Claude sempre mockados)
 ```
 
 > Este repositório é o irmão de
@@ -162,6 +189,15 @@ Erro de parâmetro (ex.: `q` com 1 caractere) usa o `422` padrão do FastAPI.
   do cache. Isso isola o site da lentidão/instabilidade de um serviço de
   terceiros de graça. Reusa o mesmo `DATABASE_URL` do mural de velas — sem
   ele, `/api/liturgia-diaria` responde `503`, igual ao mural.
+- **Chatbot nunca responde do que o modelo "sabe" — só do acervo (RAG).**
+  Toda pergunta busca primeiro nos embeddings do próprio conteúdo
+  (`app/rag/`, indexado por `scripts/indexar_acervo.py`); o Claude só vê os
+  trechos recuperados e é instruído a recusar em vez de completar com
+  conhecimento próprio. Abaixo de `SIMILARITY_THRESHOLD`
+  (`app/rag/generation.py`), nem chama a API — devolve a recusa direto, sem
+  gastar uma chamada paga que já se sabe que não tem como responder bem.
+  Fase 1 (atual): só os 1.043 verbetes do acervo. Livros em PDF ficam para
+  uma fase seguinte, com um script de ingestão próprio.
 
 ---
 
@@ -205,4 +241,9 @@ Todas as variáveis são opcionais em desenvolvimento (há defaults em
 | `DATA_DIR` | `app/data` | Diretório alternativo de conteúdo |
 | `DEFAULT_PAGE_SIZE` / `MAX_PAGE_SIZE` | `20` / `100` | Paginação |
 | `MAX_SEARCH_RESULTS` | `50` | Teto de resultados da busca |
-| `DATABASE_URL` | *(nenhum)* | Postgres do mural de velas e do cache da liturgia diária — sem ela, `/api/velas` e `/api/liturgia-diaria` respondem `503` e o resto da API funciona normalmente |
+| `DATABASE_URL` | *(nenhum)* | Postgres do mural de velas, do cache da liturgia diária e do índice do chatbot — sem ela, `/api/velas`, `/api/liturgia-diaria` e `/api/chat` respondem `503` e o resto da API funciona normalmente |
+| `ANTHROPIC_API_KEY` | *(nenhum)* | Chave da Anthropic — sem ela, `/api/chat` responde `503` |
+| `VOYAGE_API_KEY` | *(nenhum)* | Chave da Voyage AI (embeddings) — sem ela, `/api/chat` responde `503` |
+| `CHAT_MODEL` | `claude-sonnet-5` | Modelo do Claude que gera a resposta do chat |
+| `VOYAGE_EMBEDDING_MODEL` / `VOYAGE_EMBEDDING_DIMENSIONS` | `voyage-3-lite` / `512` | Mudam juntos — a dimensão é fixa na coluna `vector(N)` do Postgres; trocar o modelo sem migrar a coluna quebra a indexação |
+| `CHAT_MAX_CONTEXT_CHUNKS` | `6` | Quantos trechos do acervo entram no prompt de cada pergunta |

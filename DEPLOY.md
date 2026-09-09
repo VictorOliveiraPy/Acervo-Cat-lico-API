@@ -116,6 +116,37 @@ parte — o Render free tem disco efêmero (apaga a cada deploy e às vezes ao
 Sem `DATABASE_URL`, a API sobe normalmente e o resto do acervo funciona —
 só `/api/velas` fica em 503 até a variável existir.
 
+## Chatbot do acervo (opcional)
+
+`/api/chat` (RAG — ver README, "Decisões que valem explicação") precisa do
+mesmo Postgres do mural de velas, mais duas chaves de API pagas.
+
+1. Chave da Anthropic: crie em [console.anthropic.com](https://console.anthropic.com).
+2. Chave da Voyage AI (embeddings): crie em [voyageai.com](https://www.voyageai.com) —
+   o plano grátis cobre a indexação inicial dos 1.043 verbetes com sobra.
+3. No Render, adicione `ANTHROPIC_API_KEY` e `VOYAGE_API_KEY` (Settings →
+   Environment) — `DATABASE_URL` já deve existir (passo anterior).
+4. Redeploy. O lifespan cria a tabela `rag_chunks` sozinho na primeira
+   subida (`CREATE EXTENSION IF NOT EXISTS vector` + `CREATE TABLE IF NOT
+   EXISTS`) — mas a tabela sobe **vazia**, sem chunk nenhum.
+5. Popule o índice rodando o script localmente, apontando pro Postgres de
+   produção (mesma `DATABASE_URL`, mesmas chaves, num `.env` local):
+   ```bash
+   python -m scripts.indexar_acervo
+   ```
+   Leva alguns minutos (1.043 verbetes, chamadas em lote à Voyage). Rodar de
+   novo depois de editar `app/data/*.json` reindexa sem duplicar nada
+   (`replace_source` apaga os chunks antigos do verbete antes de gravar).
+6. Confirme: `curl -X POST <backend>/api/chat -H "Content-Type:
+   application/json" -d '{"pergunta":"O que é a Crisma?"}'` deve responder
+   `200` com uma resposta citando a fonte — antes de rodar o passo 5, a
+   mesma pergunta responde com a recusa ("não encontrei isso no acervo"),
+   porque o índice está vazio.
+
+Sem as três variáveis (`DATABASE_URL`, `ANTHROPIC_API_KEY`,
+`VOYAGE_API_KEY`), `/api/chat` responde `503` e o resto da API funciona
+normalmente.
+
 ## Checklist antes de considerar o deploy "pronto"
 
 - [ ] `curl <backend>/api/health` responde 200 com o total de entradas

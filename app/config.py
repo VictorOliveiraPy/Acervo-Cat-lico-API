@@ -42,6 +42,20 @@ class Settings(BaseSettings):
     # parte. Formato: postgresql://usuario:senha@host/banco?sslmode=require
     database_url: str | None = None
 
+    # Chatbot do acervo (RAG, `/api/chat`) — feature opcional como o mural de
+    # velas: sem as duas chaves de API abaixo (ou sem `DATABASE_URL`, que
+    # guarda os embeddings), o endpoint responde 503 em vez de derrubar a
+    # API inteira. `voyage_embedding_model`/`_dimensions` têm que mudar
+    # juntos — a dimensão do vetor é fixa na coluna do Postgres
+    # (`CREATE TABLE ... vector(N)`), trocar o modelo sem migrar a coluna
+    # quebra a indexação.
+    anthropic_api_key: str | None = None
+    voyage_api_key: str | None = None
+    voyage_embedding_model: str = "voyage-3-lite"
+    voyage_embedding_dimensions: int = 512
+    chat_model: str = "claude-sonnet-5"
+    chat_max_context_chunks: int = 6
+
     # Teto de itens por página, para uma requisição não puxar o acervo inteiro.
     max_page_size: int = 100
     default_page_size: int = 20
