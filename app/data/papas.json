@@ -37,55 +37,6 @@
       "imagem_credito": null
     },
     {
-      "id": "papas:joao-paulo-ii",
-      "slug": "joao-paulo-ii",
-      "titulo": "São João Paulo II",
-      "categoria": "papas",
-      "resumo": "Karol Wojtyła, papa de 1978 a 2005; promulgou o Catecismo da Igreja Católica e o Código de Direito Canônico de 1983.",
-      "corpo": "Karol Wojtyła nasceu em Wadowice, na Polônia, em 1920. Sacerdote e depois Arcebispo de Cracóvia, participou do Concílio Vaticano II. Foi eleito Bispo de Roma em 16 de outubro de 1978, o primeiro papa não italiano em vários séculos.\n\nSeu pontificado, um dos mais longos da história, foi marcado pelas viagens apostólicas a todos os continentes, pela instituição das Jornadas Mundiais da Juventude e por um magistério extenso, com encíclicas como «Redemptor Hominis» (1979), «Veritatis Splendor» (1993) e «Fides et Ratio» (1998). Promulgou o Código de Direito Canônico em 1983 e o Catecismo da Igreja Católica pela Constituição Apostólica «Fidei Depositum», em 1992.\n\nMorreu em 2 de abril de 2005. Foi canonizado em 27 de abril de 2014 por Francisco. Sua memória litúrgica é celebrada em 22 de outubro.",
-      "tags": [
-        "século XX",
-        "Vaticano II",
-        "catecismo",
-        "Polônia",
-        "JMJ"
-      ],
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg",
-      "numero_ordem": 264,
-      "pontificado_inicio": "16 de outubro de 1978",
-      "pontificado_fim": "2 de abril de 2005",
-      "fontes": [
-        "João Paulo II, Constituição Apostólica «Fidei Depositum» (11 de outubro de 1992)",
-        "Código de Direito Canônico (1983), Constituição Apostólica «Sacrae Disciplinae Leges»",
-        "vatican.va — biografia de São João Paulo II"
-      ],
-      "imagem_credito": "Foto: Gregorini Demetrio (1988) — Wikimedia Commons, CC BY-SA 3.0"
-    },
-    {
-      "id": "papas:bento-xvi",
-      "slug": "bento-xvi",
-      "titulo": "Bento XVI",
-      "categoria": "papas",
-      "resumo": "Joseph Ratzinger, papa de 2005 a 2013; renunciou ao ministério petrino, caso raríssimo na história da Igreja.",
-      "corpo": "Joseph Ratzinger nasceu em Marktl am Inn, na Baviera (Alemanha), em 1927. Teólogo e professor universitário, participou do Concílio Vaticano II como peritus. Foi Arcebispo de Munique e Freising e, por longos anos, Prefeito da Congregação para a Doutrina da Fé, período em que acompanhou de perto a redação do Catecismo da Igreja Católica.\n\nEleito Bispo de Roma em 19 de abril de 2005, escreveu as encíclicas «Deus Caritas Est» (2005), «Spe Salvi» (2007) e «Caritas in Veritate» (2009), além da trilogia «Jesus de Nazaré». Convocou o Ano da Fé e deu impulso ao tema da relação entre fé e razão.\n\nEm 11 de fevereiro de 2013 anunciou, pela «Declaratio», a renúncia ao ministério de Bispo de Roma, com efeito a partir de 28 de fevereiro de 2013. Viveu depois como Papa emérito no Vaticano e morreu em 31 de dezembro de 2022.",
-      "tags": [
-        "século XXI",
-        "teologia",
-        "renúncia",
-        "Alemanha"
-      ],
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/BentoXVI-30-10052007.jpg",
-      "numero_ordem": 265,
-      "pontificado_inicio": "19 de abril de 2005",
-      "pontificado_fim": "28 de fevereiro de 2013",
-      "fontes": [
-        "Bento XVI, «Declaratio» (11 de fevereiro de 2013)",
-        "Bento XVI, Carta Encíclica «Deus Caritas Est» (25 de dezembro de 2005)",
-        "vatican.va — biografia de Bento XVI"
-      ],
-      "imagem_credito": "Foto: Fabio Pozzebom/Agência Brasil (2007) — Wikimedia Commons, CC BY 3.0 BR"
-    },
-    {
       "id": "papas:sao-lino",
       "slug": "sao-lino",
       "titulo": "São Lino",
@@ -105,6 +56,28 @@
       "fontes": [
         "Santo Ireneu de Lyon, «Adversus Haereses» III, 3",
         "Eusébio de Cesareia, «História Eclesiástica» III, 2"
+      ]
+    },
+    {
+      "id": "papas:sao-anacleto",
+      "slug": "sao-anacleto",
+      "titulo": "São Anacleto (Cleto)",
+      "categoria": "papas",
+      "resumo": "Terceiro Bispo de Roma, sucessor de Lino; a tradição lhe atribui a ordenação de presbíteros para as comunidades romanas.",
+      "corpo": "Anacleto — também chamado Cleto nas listas mais antigas, formas do mesmo nome grego — sucedeu a Lino à frente da Igreja de Roma no final do século I. O Liber Pontificalis atribui-lhe a ordenação de vinte e cinco presbíteros para atender às comunidades cristãs então dispersas pela cidade, um dos primeiros indícios de organização clerical romana. A tradição o conta entre os mártires, sem que se conheçam detalhes seguros das circunstâncias.",
+      "tags": [
+        "igreja primitiva",
+        "Padres Apostólicos",
+        "século I"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Interior_of_Chiesa_dei_Gesuiti_%28Venice%29_-_sacristy_-_Papa_Cleto_-_1592-1593_-_by_Palma_il_Giovane%28cropped%29.jpg",
+      "imagem_credito": "Foto: Palma il Giovane (pintura); Didier Descouens (foto) — Wikimedia Commons, CC BY-SA 4.0",
+      "numero_ordem": 3,
+      "pontificado_inicio": null,
+      "pontificado_fim": null,
+      "fontes": [
+        "Liber Pontificalis",
+        "Martirológio Romano"
       ]
     },
     {
@@ -130,6 +103,248 @@
       ]
     },
     {
+      "id": "papas:sao-evaristo",
+      "slug": "sao-evaristo",
+      "titulo": "São Evaristo",
+      "categoria": "papas",
+      "resumo": "Papa de origem judaico-grega; a tradição atribui-lhe a primeira divisão de Roma em paróquias (títulos).",
+      "corpo": "Filho de pai grego nascido em Antioquia, segundo o Liber Pontificalis, Evaristo governou a Igreja de Roma entre o fim do pontificado de Clemente I e o início do século II. A tradição atribui-lhe a distribuição da cidade de Roma entre presbíteros responsáveis por comunidades locais — os «títulos», embrião das futuras paróquias — e a instituição de sete diáconos para assistir o bispo. É venerado como mártir.",
+      "tags": [
+        "igreja primitiva",
+        "Padres Apostólicos",
+        "século II"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Pope_Saint_Evaristus_%28by_Sandro_Botticelli%29_%E2%80%93_Sistine_Chapel_%281481%29.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 5,
+      "pontificado_inicio": null,
+      "pontificado_fim": null,
+      "fontes": [
+        "Liber Pontificalis",
+        "Martirológio Romano"
+      ]
+    },
+    {
+      "id": "papas:sao-alexandre-i",
+      "slug": "sao-alexandre-i",
+      "titulo": "São Alexandre I",
+      "categoria": "papas",
+      "resumo": "Sexto Bispo de Roma; tradições litúrgicas posteriores associam seu nome à bênção da água com sal usada na Missa.",
+      "corpo": "Pouco se sabe com certeza histórica sobre o pontificado de Alexandre I, no início do século II. O Liber Pontificalis lhe atribui a introdução do uso de água benta misturada com sal nas casas dos fiéis e certas fórmulas do cânon da Missa — atribuições que a crítica histórica moderna considera lendas posteriores, e não registro contemporâneo. É venerado como mártir pela tradição romana.",
+      "tags": [
+        "igreja primitiva",
+        "século II",
+        "liturgia primitiva"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Alexander_I._Alessandro_I%2C_santo_e_papa_%28VII.%29.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 6,
+      "pontificado_inicio": null,
+      "pontificado_fim": null,
+      "fontes": [
+        "Liber Pontificalis",
+        "Martirológio Romano"
+      ]
+    },
+    {
+      "id": "papas:sao-sisto-i",
+      "slug": "sao-sisto-i",
+      "titulo": "São Sisto I",
+      "categoria": "papas",
+      "resumo": "Sétimo Bispo de Roma; tradições litúrgicas posteriores associam-no a normas sobre os vasos sagrados e ao canto do Santo na Missa.",
+      "corpo": "Romano de nascimento segundo o Liber Pontificalis, Sisto I governou a Igreja no primeiro quartel do século II. Fontes posteriores atribuem-lhe decretos sobre a reserva do toque dos vasos sagrados aos ministros ordenados e a introdução do «Sanctus» na liturgia eucarística — tradições registradas séculos depois de seu pontificado, não documentos contemporâneos. É venerado como mártir.",
+      "tags": [
+        "igreja primitiva",
+        "século II",
+        "liturgia primitiva"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Sixtus_I.png",
+      "imagem_credito": null,
+      "numero_ordem": 7,
+      "pontificado_inicio": null,
+      "pontificado_fim": null,
+      "fontes": [
+        "Liber Pontificalis",
+        "Martirológio Romano"
+      ]
+    },
+    {
+      "id": "papas:sao-telesforo",
+      "slug": "sao-telesforo",
+      "titulo": "São Telésforo",
+      "categoria": "papas",
+      "resumo": "Papa grego do século II; único bispo de Roma deste período cujo martírio é atestado por uma fonte contemporânea, Santo Ireneu.",
+      "corpo": "De origem grega, provavelmente eremita antes de ser eleito, Telésforo é o primeiro papa deste período inicial cujo martírio é confirmado por um testemunho quase contemporâneo: Santo Ireneu de Lyon, escrevendo poucas décadas depois, afirma expressamente que ele «morreu gloriosamente por Cristo». A tradição posterior atribui-lhe a instituição de um período de jejum antes da Páscoa e da celebração noturna do Natal, embora esses costumes tenham se consolidado apenas mais tarde.",
+      "tags": [
+        "igreja primitiva",
+        "mártir",
+        "século II"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Telesphorus.png",
+      "imagem_credito": null,
+      "numero_ordem": 8,
+      "pontificado_inicio": null,
+      "pontificado_fim": null,
+      "fontes": [
+        "Ireneu de Lyon, «Adversus Haereses» III, 3",
+        "Martirológio Romano"
+      ]
+    },
+    {
+      "id": "papas:sao-higino",
+      "slug": "sao-higino",
+      "titulo": "São Higino",
+      "categoria": "papas",
+      "resumo": "Papa grego de meados do século II, contemporâneo da chegada a Roma dos primeiros mestres gnósticos.",
+      "corpo": "Filósofo grego de nascimento, segundo o Liber Pontificalis, Higino governou a Igreja de Roma num momento em que mestres associados a correntes gnósticas — Valentino e Cérdon entre eles — chegavam à cidade e atraíam seguidores. A tradição lhe atribui alguma organização dos graus do clero, sem que se conheçam decretos concretos preservados. É venerado como mártir.",
+      "tags": [
+        "igreja primitiva",
+        "gnosticismo",
+        "século II"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Hyginus.png",
+      "imagem_credito": null,
+      "numero_ordem": 9,
+      "pontificado_inicio": null,
+      "pontificado_fim": null,
+      "fontes": [
+        "Liber Pontificalis",
+        "Martirológio Romano"
+      ]
+    },
+    {
+      "id": "papas:sao-pio-i",
+      "slug": "sao-pio-i",
+      "titulo": "São Pio I",
+      "categoria": "papas",
+      "resumo": "Papa romano de meados do século II; seu pontificado viu a chegada a Roma da heresia de Marcião.",
+      "corpo": "Irmão de Hermas — autor do tratado «O Pastor», um dos textos mais lidos da Igreja primitiva fora do cânon bíblico —, Pio I governou a Igreja de Roma por volta de 140-154. Foi durante seu pontificado que Marcião, mercador do Ponto que rejeitava o Antigo Testamento e propunha um cânon reduzido de escrituras, chegou a Roma e foi excluído da comunhão da Igreja. É venerado como mártir pela tradição.",
+      "tags": [
+        "igreja primitiva",
+        "marcionismo",
+        "século II"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Pope_Pius_I.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 10,
+      "pontificado_inicio": null,
+      "pontificado_fim": null,
+      "fontes": [
+        "Liber Pontificalis",
+        "Irineu de Lyon, «Adversus Haereses» III, 4"
+      ]
+    },
+    {
+      "id": "papas:sao-aniceto",
+      "slug": "sao-aniceto",
+      "titulo": "São Aniceto",
+      "categoria": "papas",
+      "resumo": "Papa que recebeu em Roma Santo Policarpo de Esmirna para discutir a data da Páscoa, num dos encontros mais bem documentados da Igreja do século II.",
+      "corpo": "Sírio de nascimento, Aniceto governou a Igreja de Roma por volta de 150-160. Seu pontificado é lembrado sobretudo pela visita de Policarpo de Esmirna, discípulo do apóstolo João, que veio a Roma discutir a divergência entre o Oriente e o Ocidente quanto à data da celebração da Páscoa — a chamada controvérsia quartodecimana. Não chegaram a um acordo, mas, segundo relata Ireneu de Lyon, separaram-se em comunhão e paz, com Aniceto cedendo a Policarpo a honra de presidir a Eucaristia durante sua estada.",
+      "tags": [
+        "igreja primitiva",
+        "controvérsia quartodecimana",
+        "século II"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/32/11-St.Anicetus.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 11,
+      "pontificado_inicio": null,
+      "pontificado_fim": null,
+      "fontes": [
+        "Ireneu de Lyon, carta a Vítor citada por Eusébio, «História Eclesiástica» V, 24",
+        "Martirológio Romano"
+      ]
+    },
+    {
+      "id": "papas:sao-sotero",
+      "slug": "sao-sotero",
+      "titulo": "São Sotero",
+      "categoria": "papas",
+      "resumo": "Papa lembrado por sua correspondência com a Igreja de Corinto e pelo cuidado com os confessores condenados às minas.",
+      "corpo": "Natural da Campânia, Sotero governou a Igreja de Roma na segunda metade do século II. Escreveu à comunidade cristã de Corinto uma carta hoje perdida, mencionada com elogio numa resposta do bispo Dionísio de Corinto — testemunho preservado por Eusébio de Cesareia — que destaca sua caridade para com os cristãos condenados a trabalhos forçados nas minas por causa da fé. É venerado como mártir.",
+      "tags": [
+        "igreja primitiva",
+        "século II",
+        "caridade"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Pope_Soter.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 12,
+      "pontificado_inicio": null,
+      "pontificado_fim": null,
+      "fontes": [
+        "Dionísio de Corinto, carta citada por Eusébio, «História Eclesiástica» IV, 23",
+        "Martirológio Romano"
+      ]
+    },
+    {
+      "id": "papas:sao-eleuterio",
+      "slug": "sao-eleuterio",
+      "titulo": "São Eleutério",
+      "categoria": "papas",
+      "resumo": "Papa grego do fim do século II; a ele se atribuiu, em fontes bem posteriores e hoje consideradas lendárias, o envio de missionários à Britânia.",
+      "corpo": "Diácono grego natural de Nicópolis antes de ser eleito, Eleutério governou a Igreja de Roma entre aproximadamente 175 e 189, período marcado pela expansão de correntes gnósticas e pelo surgimento do montanismo na Ásia Menor. Um relato do século VIII, retomado por Beda, o Venerável, atribui-lhe o envio de missionários a pedido de um suposto «rei Lúcio» da Britânia — episódio que a historiografia moderna considera lenda tardia, sem base em fonte contemporânea, e que este acervo registra apenas como tal.",
+      "tags": [
+        "igreja primitiva",
+        "século II",
+        "lenda tardia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Eleutherius.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 13,
+      "pontificado_inicio": null,
+      "pontificado_fim": null,
+      "fontes": [
+        "Liber Pontificalis",
+        "Beda, o Venerável, «História Eclesiástica do Povo Inglês» I, 4 (relato tardio)"
+      ]
+    },
+    {
+      "id": "papas:sao-vitor-i",
+      "slug": "sao-vitor-i",
+      "titulo": "São Vítor I",
+      "categoria": "papas",
+      "resumo": "Primeiro papa de origem africana; exigiu que toda a Igreja adotasse a data ocidental da Páscoa, ameaçando de excomunhão as igrejas da Ásia Menor que resistiam.",
+      "corpo": "Natural da África romana, Vítor I foi o primeiro Bispo de Roma dessa origem de que se tem notícia certa. Seu pontificado, entre 189 e 199, é marcado pela retomada firme da controvérsia quartodecimana: ao contrário da atitude conciliadora de seu antecessor Aniceto, Vítor exigiu que as igrejas da Ásia Menor abandonassem sua data tradicional da Páscoa em favor do domingo observado em Roma, chegando a ameaçá-las de exclusão da comunhão. Vários bispos, entre eles Ireneu de Lyon, intercederam pedindo moderação, e o cisma aberto foi evitado. É venerado como mártir.",
+      "tags": [
+        "igreja primitiva",
+        "controvérsia quartodecimana",
+        "século II"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/A_mosaic_representing_Victor_I%2C_14th_Pope_of_the_Catholic_Church.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 14,
+      "pontificado_inicio": null,
+      "pontificado_fim": null,
+      "fontes": [
+        "Eusébio de Cesareia, «História Eclesiástica» V, 23-24",
+        "Martirológio Romano"
+      ]
+    },
+    {
+      "id": "papas:sao-zeferino",
+      "slug": "sao-zeferino",
+      "titulo": "São Zeferino",
+      "categoria": "papas",
+      "resumo": "Papa do início do século III que enfrentou as controvérsias monarquianas sobre a Trindade, tendo o diácono Calisto — futuro papa — como conselheiro próximo.",
+      "corpo": "Romano de nascimento, Zeferino governou a Igreja entre 199 e 217, período de intensos debates teológicos em Roma sobre como conciliar a unidade de Deus com a divindade de Cristo — as chamadas correntes monarquianas, associadas a nomes como Práxeas e Sabélio. Contou como principal conselheiro o diácono Calisto, responsável pelo cemitério cristão da Via Ápia, que lhe sucederia no pontificado. O presbítero Hipólito de Roma, crítico de ambos, é a principal fonte — hostil — sobre esse período.",
+      "tags": [
+        "igreja primitiva",
+        "monarquianismo",
+        "século III"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Zephyrinus.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 15,
+      "pontificado_inicio": null,
+      "pontificado_fim": "217",
+      "fontes": [
+        "Hipólito de Roma, «Philosophumena» IX",
+        "Martirológio Romano"
+      ]
+    },
+    {
       "id": "papas:sao-calisto-i",
       "slug": "sao-calisto-i",
       "titulo": "São Calisto I",
@@ -148,6 +363,92 @@
       "pontificado_fim": null,
       "fontes": [
         "Hipólito de Roma, «Philosophumena» IX",
+        "Martirológio Romano"
+      ]
+    },
+    {
+      "id": "papas:sao-urbano-i",
+      "slug": "sao-urbano-i",
+      "titulo": "São Urbano I",
+      "categoria": "papas",
+      "resumo": "Papa romano do início do século III; a tradição de seu martírio é hoje questionada, já que o imperador de seu tempo é conhecido por sua tolerância aos cristãos.",
+      "corpo": "Romano de nascimento, Urbano I sucedeu a Calisto I à frente da Igreja entre 222 e 230, durante o reinado de Alexandre Severo — imperador reconhecido pela historiografia por sua relativa tolerância religiosa, o que levou estudiosos modernos a questionar a tradição, registrada apenas em fontes tardias, de que Urbano tenha sido martirizado. Praticamente nada mais se sabe com segurança sobre seu pontificado além do que registra o Liber Pontificalis.",
+      "tags": [
+        "igreja primitiva",
+        "século III"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/17-St.Urban_I.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 17,
+      "pontificado_inicio": null,
+      "pontificado_fim": null,
+      "fontes": [
+        "Liber Pontificalis",
+        "Martirológio Romano"
+      ]
+    },
+    {
+      "id": "papas:sao-ponciano",
+      "slug": "sao-ponciano",
+      "titulo": "São Ponciano",
+      "categoria": "papas",
+      "resumo": "Primeiro papa da história a renunciar ao cargo, ao ser deportado com o antipapa Hipólito para as minas da Sardenha, onde ambos morreram.",
+      "corpo": "Eleito em 230, Ponciano governou a Igreja de Roma até ser preso e deportado para as minas da Sardenha em 235, durante a perseguição movida pelo imperador Maximino, o Trácio — junto com ele foi deportado Hipólito, presbítero que havia liderado um cisma como antipapa rival desde o pontificado de Calisto I. Nas minas os dois se reconciliaram antes de morrer. Para permitir a eleição de um sucessor sem vacância indefinida, Ponciano renunciou formalmente ao pontificado em 28 de setembro de 235 — o primeiro caso conhecido de renúncia papal.",
+      "tags": [
+        "igreja primitiva",
+        "renúncia papal",
+        "século III"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Pontianus.png",
+      "imagem_credito": null,
+      "numero_ordem": 18,
+      "pontificado_inicio": "230",
+      "pontificado_fim": "28 de setembro de 235",
+      "fontes": [
+        "Liber Pontificalis",
+        "Eusébio de Cesareia, «História Eclesiástica» VI, 29"
+      ]
+    },
+    {
+      "id": "papas:sao-antero",
+      "slug": "sao-antero",
+      "titulo": "São Antero",
+      "categoria": "papas",
+      "resumo": "Papa grego cujo pontificado, entre os mais breves da história, durou pouco mais de um mês.",
+      "corpo": "De origem grega, Antero foi eleito em novembro de 235, logo após a deportação de Ponciano para a Sardenha, e morreu já em janeiro do ano seguinte — um dos pontificados mais curtos já registrados. O Liber Pontificalis lhe atribui o cuidado de reunir e preservar relatos sobre os mártires da Igreja, embora essa atribuição, como muitas do período, seja de difícil verificação histórica. É venerado como mártir.",
+      "tags": [
+        "igreja primitiva",
+        "século III"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Anterus.png",
+      "imagem_credito": null,
+      "numero_ordem": 19,
+      "pontificado_inicio": "21 de novembro de 235",
+      "pontificado_fim": "3 de janeiro de 236",
+      "fontes": [
+        "Liber Pontificalis",
+        "Martirológio Romano"
+      ]
+    },
+    {
+      "id": "papas:sao-fabiano",
+      "slug": "sao-fabiano",
+      "titulo": "São Fabiano",
+      "categoria": "papas",
+      "resumo": "Papa eleito em circunstâncias extraordinárias segundo Eusébio de Cesareia; organizou a administração da Igreja de Roma e morreu no início da perseguição de Décio.",
+      "corpo": "Leigo romano presente por acaso na assembleia reunida para eleger o novo bispo, Fabiano foi apontado, segundo o relato de Eusébio de Cesareia, quando uma pomba pousou sobre sua cabeça — sinal que a assembleia leu como indicação do Espírito Santo, elegendo-o por aclamação apesar de não ser clérigo. Governou a Igreja de 236 a 250, dividindo Roma em sete distritos diaconais para melhor administração da caridade, e manteve correspondência com Orígenes. Foi uma das primeiras vítimas da perseguição movida pelo imperador Décio, morrendo como mártir em janeiro de 250.",
+      "tags": [
+        "igreja primitiva",
+        "mártir",
+        "século III"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Saint_Fabian1.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 20,
+      "pontificado_inicio": "236",
+      "pontificado_fim": "20 de janeiro de 250",
+      "fontes": [
+        "Eusébio de Cesareia, «História Eclesiástica» VI, 29 e 39",
         "Martirológio Romano"
       ]
     },
@@ -907,6 +1208,55 @@
       "fontes": [
         "Annuario Pontificio (Santa Sé)"
       ]
+    },
+    {
+      "id": "papas:joao-paulo-ii",
+      "slug": "joao-paulo-ii",
+      "titulo": "São João Paulo II",
+      "categoria": "papas",
+      "resumo": "Karol Wojtyła, papa de 1978 a 2005; promulgou o Catecismo da Igreja Católica e o Código de Direito Canônico de 1983.",
+      "corpo": "Karol Wojtyła nasceu em Wadowice, na Polônia, em 1920. Sacerdote e depois Arcebispo de Cracóvia, participou do Concílio Vaticano II. Foi eleito Bispo de Roma em 16 de outubro de 1978, o primeiro papa não italiano em vários séculos.\n\nSeu pontificado, um dos mais longos da história, foi marcado pelas viagens apostólicas a todos os continentes, pela instituição das Jornadas Mundiais da Juventude e por um magistério extenso, com encíclicas como «Redemptor Hominis» (1979), «Veritatis Splendor» (1993) e «Fides et Ratio» (1998). Promulgou o Código de Direito Canônico em 1983 e o Catecismo da Igreja Católica pela Constituição Apostólica «Fidei Depositum», em 1992.\n\nMorreu em 2 de abril de 2005. Foi canonizado em 27 de abril de 2014 por Francisco. Sua memória litúrgica é celebrada em 22 de outubro.",
+      "tags": [
+        "século XX",
+        "Vaticano II",
+        "catecismo",
+        "Polônia",
+        "JMJ"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg",
+      "numero_ordem": 264,
+      "pontificado_inicio": "16 de outubro de 1978",
+      "pontificado_fim": "2 de abril de 2005",
+      "fontes": [
+        "João Paulo II, Constituição Apostólica «Fidei Depositum» (11 de outubro de 1992)",
+        "Código de Direito Canônico (1983), Constituição Apostólica «Sacrae Disciplinae Leges»",
+        "vatican.va — biografia de São João Paulo II"
+      ],
+      "imagem_credito": "Foto: Gregorini Demetrio (1988) — Wikimedia Commons, CC BY-SA 3.0"
+    },
+    {
+      "id": "papas:bento-xvi",
+      "slug": "bento-xvi",
+      "titulo": "Bento XVI",
+      "categoria": "papas",
+      "resumo": "Joseph Ratzinger, papa de 2005 a 2013; renunciou ao ministério petrino, caso raríssimo na história da Igreja.",
+      "corpo": "Joseph Ratzinger nasceu em Marktl am Inn, na Baviera (Alemanha), em 1927. Teólogo e professor universitário, participou do Concílio Vaticano II como peritus. Foi Arcebispo de Munique e Freising e, por longos anos, Prefeito da Congregação para a Doutrina da Fé, período em que acompanhou de perto a redação do Catecismo da Igreja Católica.\n\nEleito Bispo de Roma em 19 de abril de 2005, escreveu as encíclicas «Deus Caritas Est» (2005), «Spe Salvi» (2007) e «Caritas in Veritate» (2009), além da trilogia «Jesus de Nazaré». Convocou o Ano da Fé e deu impulso ao tema da relação entre fé e razão.\n\nEm 11 de fevereiro de 2013 anunciou, pela «Declaratio», a renúncia ao ministério de Bispo de Roma, com efeito a partir de 28 de fevereiro de 2013. Viveu depois como Papa emérito no Vaticano e morreu em 31 de dezembro de 2022.",
+      "tags": [
+        "século XXI",
+        "teologia",
+        "renúncia",
+        "Alemanha"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/BentoXVI-30-10052007.jpg",
+      "numero_ordem": 265,
+      "pontificado_inicio": "19 de abril de 2005",
+      "pontificado_fim": "28 de fevereiro de 2013",
+      "fontes": [
+        "Bento XVI, «Declaratio» (11 de fevereiro de 2013)",
+        "Bento XVI, Carta Encíclica «Deus Caritas Est» (25 de dezembro de 2005)",
+        "vatican.va — biografia de Bento XVI"
+      ],
+      "imagem_credito": "Foto: Fabio Pozzebom/Agência Brasil (2007) — Wikimedia Commons, CC BY 3.0 BR"
     },
     {
       "id": "papas:papa-francisco",
