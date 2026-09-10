@@ -475,6 +475,332 @@
       ]
     },
     {
+      "id": "papas:sao-lucio-i",
+      "slug": "sao-lucio-i",
+      "titulo": "São Lúcio I",
+      "categoria": "papas",
+      "resumo": "Papa romano de pontificado breve, exilado logo após a eleição e falecido pouco depois de poder retornar a Roma.",
+      "corpo": "Eleito em 253, Lúcio I foi quase imediatamente exilado pelo imperador Treboniano Galo, num momento de recrudescimento da hostilidade contra os cristãos. Pôde retornar a Roma pouco depois, mas morreu poucos meses mais tarde, em 254. Santo Cipriano de Cartago, correspondente da Sé romana nesse período, elogiou sua firmeza diante do exílio.",
+      "tags": [
+        "igreja primitiva",
+        "século III"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Lucius_I.png",
+      "imagem_credito": null,
+      "numero_ordem": 22,
+      "pontificado_inicio": "25 de junho de 253",
+      "pontificado_fim": "5 de março de 254",
+      "fontes": [
+        "Cipriano de Cartago, carta 61",
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:sao-estevao-i",
+      "slug": "sao-estevao-i",
+      "titulo": "São Estêvão I",
+      "categoria": "papas",
+      "resumo": "Papa envolvido numa controvérsia com Santo Cipriano de Cartago sobre a validade do batismo administrado por hereges — posição que prevaleceu na doutrina posterior da Igreja.",
+      "corpo": "Estêvão I governou a Igreja de Roma entre 254 e 257, período em que se travou uma disputa importante com Cipriano de Cartago e os bispos africanos: estes sustentavam que o batismo administrado por hereges e cismáticos era inválido e devia ser repetido; Estêvão defendia que o batismo era válido desde que feito com água e na fórmula trinitária, independentemente de quem o administrasse, bastando a imposição de mãos para reconciliar o convertido. A correspondência entre os dois, preservada por Cipriano, é uma das fontes mais ricas sobre a eclesiologia do século III. A posição de Estêvão prevaleceria como doutrina da Igreja.",
+      "tags": [
+        "igreja primitiva",
+        "controvérsia batismal",
+        "século III"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/86/23-St.Stephen_I.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 23,
+      "pontificado_inicio": "12 de maio de 254",
+      "pontificado_fim": "2 de agosto de 257",
+      "fontes": [
+        "Cipriano de Cartago, cartas 68-75",
+        "Eusébio de Cesareia, «História Eclesiástica» VII, 2-5"
+      ]
+    },
+    {
+      "id": "papas:sao-sisto-ii",
+      "slug": "sao-sisto-ii",
+      "titulo": "São Sisto II",
+      "categoria": "papas",
+      "resumo": "Papa martirizado durante a perseguição de Valeriano, surpreendido enquanto celebrava a liturgia numa catacumba romana.",
+      "corpo": "Eleito em 257, Sisto II governou a Igreja num momento de perseguição renovada sob o imperador Valeriano, cujo edito de 258 ordenava a execução imediata de bispos, presbíteros e diáconos. Foi surpreendido enquanto presidia uma celebração na catacumba de Pretextato, em Roma, e decapitado ali mesmo junto com quatro diáconos. Seu diácono Lourenço, encarregado de administrar os bens da Igreja, seria martirizado poucos dias depois, episódio que se tornaria um dos mais celebrados da tradição martirial romana.",
+      "tags": [
+        "igreja primitiva",
+        "mártir",
+        "século III"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Sandro_Botticelli_%E2%80%93_Sixtus_II.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 24,
+      "pontificado_inicio": "31 de agosto de 257",
+      "pontificado_fim": "6 de agosto de 258",
+      "fontes": [
+        "Cipriano de Cartago, carta 80",
+        "Martirológio Romano"
+      ]
+    },
+    {
+      "id": "papas:sao-dionisio",
+      "slug": "sao-dionisio",
+      "titulo": "São Dionísio",
+      "categoria": "papas",
+      "resumo": "Papa eleito após um longo vacância provocada pela perseguição de Valeriano; interveio numa disputa teológica com Dionísio de Alexandria.",
+      "corpo": "A morte de Sisto II sob perseguição deixou a Sé de Roma vaga por quase um ano, até que o fim da perseguição — com a captura de Valeriano em 260 — permitisse uma eleição regular. Dionísio, eleito em 259, dedicou-se a reorganizar a Igreja romana e a distribuir responsabilidades entre as paróquias urbanas. Interveio também numa controvérsia teológica com seu homônimo Dionísio, bispo de Alexandria, questionado por formulações que pareciam aproximar-se do sabelianismo ao tratar da distinção entre o Pai e o Filho.",
+      "tags": [
+        "igreja primitiva",
+        "século III"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Pope_Dionysius_St_Paul.gif",
+      "imagem_credito": null,
+      "numero_ordem": 25,
+      "pontificado_inicio": "22 de julho de 259",
+      "pontificado_fim": "26 de dezembro de 268",
+      "fontes": [
+        "Atanásio de Alexandria, «Sobre os Decretos do Concílio de Niceia» 26",
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:sao-felix-i",
+      "slug": "sao-felix-i",
+      "titulo": "São Félix I",
+      "categoria": "papas",
+      "resumo": "Papa da segunda metade do século III sobre cujo pontificado quase nada se sabe com certeza histórica além do registro do Liber Pontificalis.",
+      "corpo": "Sucessor de Dionísio, Félix I governou a Igreja de Roma entre 269 e 274, num período de relativa trégua entre as grandes perseguições. Pouco se conhece de concreto sobre seu pontificado; a tradição posterior o venera como mártir, atribuição que a crítica histórica considera incerta, possivelmente resultado da confusão com outro cristão do mesmo nome sepultado nas catacumbas romanas.",
+      "tags": [
+        "igreja primitiva",
+        "século III"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/PopeFelixI.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 26,
+      "pontificado_inicio": "5 de janeiro de 269",
+      "pontificado_fim": "30 de dezembro de 274",
+      "fontes": [
+        "Liber Pontificalis",
+        "Martirológio Romano"
+      ]
+    },
+    {
+      "id": "papas:sao-eutiquiano",
+      "slug": "sao-eutiquiano",
+      "titulo": "São Eutiquiano",
+      "categoria": "papas",
+      "resumo": "Papa da segunda metade do século III, período de relativa paz para a Igreja entre duas grandes ondas de perseguição.",
+      "corpo": "Eutiquiano governou a Igreja de Roma entre 275 e 283, numa época de relativa tolerância que se seguiu ao fim das perseguições de Valeriano e Aureliano. O Liber Pontificalis lhe atribui numerosos sepultamentos de mártires nas catacumbas romanas, informação difícil de verificar com precisão histórica. Quase nada mais se sabe de concreto sobre seu governo.",
+      "tags": [
+        "igreja primitiva",
+        "século III"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Eutychius.png",
+      "imagem_credito": null,
+      "numero_ordem": 27,
+      "pontificado_inicio": "4 de janeiro de 275",
+      "pontificado_fim": "7 de dezembro de 283",
+      "fontes": [
+        "Liber Pontificalis",
+        "Martirológio Romano"
+      ]
+    },
+    {
+      "id": "papas:sao-caio",
+      "slug": "sao-caio",
+      "titulo": "São Caio",
+      "categoria": "papas",
+      "resumo": "Papa cujo pontificado terminou pouco antes do início da Grande Perseguição de Diocleciano, a mais severa movida contra os cristãos.",
+      "corpo": "Caio governou a Igreja de Roma entre 283 e 296. Fontes tardias e de confiabilidade discutível associam-no à família do imperador Diocleciano, sem que essa relação possa ser confirmada por documentação contemporânea. Morreu antes de 303, ano em que Diocleciano desencadearia a perseguição mais sistemática e violenta contra os cristãos em toda a história do Império Romano.",
+      "tags": [
+        "igreja primitiva",
+        "século III"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/28-St.Caius.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 28,
+      "pontificado_inicio": "17 de dezembro de 283",
+      "pontificado_fim": "22 de abril de 296",
+      "fontes": [
+        "Liber Pontificalis",
+        "Martirológio Romano"
+      ]
+    },
+    {
+      "id": "papas:sao-marcelino",
+      "slug": "sao-marcelino",
+      "titulo": "São Marcelino",
+      "categoria": "papas",
+      "resumo": "Papa cujo pontificado coincidiu com o início da Grande Perseguição de Diocleciano; tradições polêmicas, hoje contestadas, alegam que teria cedido temporariamente sob pressão.",
+      "corpo": "Marcelino foi eleito em 296 e governava a Igreja quando, em 303, Diocleciano desencadeou a perseguição mais violenta já movida contra os cristãos, com ordens de destruir igrejas, queimar as Escrituras e prender o clero. Fontes hostis do movimento donatista, escritas décadas depois, chegaram a alegar que Marcelino teria entregado livros sagrados às autoridades para salvar a vida — acusação que a crítica histórica considera propaganda tardia, sem confirmação em fonte contemporânea confiável. Morreu em 304, provavelmente vítima da própria perseguição.",
+      "tags": [
+        "igreja primitiva",
+        "perseguição de Dioclesiano",
+        "século IV"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Pope_Marcellinus.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 29,
+      "pontificado_inicio": "30 de junho de 296",
+      "pontificado_fim": "3 de abril de 304",
+      "fontes": [
+        "Liber Pontificalis",
+        "Agostinho de Hipona, «Contra a carta de Parmeniano» (refutação da acusação donatista)"
+      ]
+    },
+    {
+      "id": "papas:sao-marcelo-i",
+      "slug": "sao-marcelo-i",
+      "titulo": "São Marcelo I",
+      "categoria": "papas",
+      "resumo": "Papa eleito após quatro anos de vacância provocada pela perseguição; exilado por Maxêncio em meio a distúrbios sobre a reconciliação dos que haviam apostatado.",
+      "corpo": "A morte de Marcelino em plena perseguição deixou a Sé de Roma vacante por cerca de quatro anos, até que Marcelo pudesse ser eleito em 308. Seu pontificado enfrentou de imediato o problema de como readmitir à comunhão os «lapsi» que haviam cedido durante a perseguição — questão que dividiu a comunidade romana e gerou tumultos públicos. O imperador Maxêncio, alegando necessidade de restaurar a ordem, exilou Marcelo de Roma, onde morreria pouco depois, em 309.",
+      "tags": [
+        "igreja primitiva",
+        "lapsi",
+        "século IV"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/30-St.Marcellus_I.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 30,
+      "pontificado_inicio": "308",
+      "pontificado_fim": "17 de janeiro de 309",
+      "fontes": [
+        "Liber Pontificalis",
+        "Martirológio Romano"
+      ]
+    },
+    {
+      "id": "papas:sao-eusebio",
+      "slug": "sao-eusebio",
+      "titulo": "São Eusébio",
+      "categoria": "papas",
+      "resumo": "Papa de pontificado brevíssimo, também exilado por Maxêncio em meio à mesma disputa sobre a reconciliação dos apóstatas.",
+      "corpo": "Sucessor de Marcelo, Eusébio governou por poucos meses em 309, dando continuidade à disputa sobre o tratamento dos «lapsi», desta vez enfrentando a oposição de um presbítero de nome Heráclio, que defendia critérios mais rígidos para a reconciliação. Como seu antecessor, foi exilado por ordem de Maxêncio — para a Sicília, segundo a tradição —, onde morreu ainda naquele mesmo ano.",
+      "tags": [
+        "igreja primitiva",
+        "lapsi",
+        "século IV"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Eusebius_%28Saint_Paul_Outside_the_Walls%29.png",
+      "imagem_credito": null,
+      "numero_ordem": 31,
+      "pontificado_inicio": "19 de abril de 309",
+      "pontificado_fim": "18 de agosto de 309",
+      "fontes": [
+        "Liber Pontificalis",
+        "Inscrição funerária de São Dâmaso I (Damasi Epigrammata)"
+      ]
+    },
+    {
+      "id": "papas:sao-melquiades",
+      "slug": "sao-melquiades",
+      "titulo": "São Melquíades",
+      "categoria": "papas",
+      "resumo": "Papa que testemunhou o fim das perseguições e o Edito de Milão; recebeu de Constantino o Palácio de Latrão, futura sede dos papas.",
+      "corpo": "Eleito em 311, Melquíades presidiu a Igreja de Roma exatamente no momento da virada decisiva de sua história: em 313, o imperador Constantino, junto com Licínio, promulgou o Edito de Milão, concedendo liberdade de culto aos cristãos após séculos de perseguição intermitente. Constantino doou à Igreja de Roma o Palácio de Latrão, que se tornaria residência papal por quase mil anos. Ainda em 313, Melquíades presidiu em Roma um sínodo que examinou o caso do bispo Ceciliano de Cartago, contestado pelo que se tornaria o cisma donatista no norte da África.",
+      "tags": [
+        "Edito de Milão",
+        "fim das perseguições",
+        "século IV"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Pope_miltiades.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 32,
+      "pontificado_inicio": "3 de julho de 311",
+      "pontificado_fim": "11 de janeiro de 314",
+      "fontes": [
+        "Eusébio de Cesareia, «História Eclesiástica» X, 5",
+        "Atas do Sínodo de Roma (313)"
+      ]
+    },
+    {
+      "id": "papas:sao-silvestre-i",
+      "slug": "sao-silvestre-i",
+      "titulo": "São Silvestre I",
+      "categoria": "papas",
+      "resumo": "Papa contemporâneo da construção das grandes basílicas constantinianas e do Concílio de Niceia; a Idade Média lhe atribuiu falsamente o documento conhecido como «Doação de Constantino».",
+      "corpo": "Um dos pontificados mais longos e historicamente significativos dos primeiros séculos, o de Silvestre I (314-336) coincidiu com a construção, patrocinada por Constantino, das primeiras grandes basílicas cristãs de Roma — São João de Latrão, São Pedro no Vaticano e outras. Em 325 reuniu-se em Niceia o primeiro concílio ecumênico da história, convocado por Constantino para responder à crise ariana; Silvestre não compareceu pessoalmente, mas enviou legados que assinaram em seu nome.\n\nSéculos depois de sua morte, um documento forjado conhecido como «Doação de Constantino» passou a circular, atribuindo a Silvestre a cura milagrosa de uma suposta lepra de Constantino e alegando que o imperador lhe teria doado autoridade temporal sobre o Ocidente. A crítica histórica demonstrou de forma conclusiva, já na Renascença, que o documento é uma falsificação do século VIII — nenhuma dessas histórias tem base em fonte contemporânea a Silvestre.",
+      "tags": [
+        "Concílio de Niceia",
+        "basílicas constantinianas",
+        "falsificação medieval",
+        "século IV"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/33-St.Sylvester_I.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 33,
+      "pontificado_inicio": "31 de janeiro de 314",
+      "pontificado_fim": "31 de dezembro de 335",
+      "fontes": [
+        "Atas do Concílio de Niceia I (325)",
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:sao-marcos",
+      "slug": "sao-marcos",
+      "titulo": "São Marcos",
+      "categoria": "papas",
+      "resumo": "Papa de pontificado breve; a tradição lhe atribui a norma de que o bispo de Óstia consagre os novos papas.",
+      "corpo": "Marcos sucedeu a Silvestre I em janeiro de 336, governando a Igreja por menos de um ano. A tradição lhe atribui a construção de duas basílicas em Roma e o estabelecimento do costume, mantido por séculos, de que a consagração episcopal de um novo papa fosse conferida pelo bispo de Óstia.",
+      "tags": [
+        "igreja primitiva",
+        "século IV"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/34-St.Mark.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 34,
+      "pontificado_inicio": "18 de janeiro de 336",
+      "pontificado_fim": "7 de outubro de 336",
+      "fontes": [
+        "Liber Pontificalis",
+        "Martirológio Romano"
+      ]
+    },
+    {
+      "id": "papas:sao-julio-i",
+      "slug": "sao-julio-i",
+      "titulo": "São Júlio I",
+      "categoria": "papas",
+      "resumo": "Papa que defendeu Atanásio de Alexandria contra seus acusadores arianos e afirmou a autoridade de Roma para rever a deposição de bispos de outras sés.",
+      "corpo": "Júlio I governou a Igreja de Roma entre 337 e 352, num período de intensa turbulência causada pela controvérsia ariana. Acolheu em Roma o bispo Atanásio de Alexandria, deposto e exilado por pressão de bispos de orientação ariana, e convocou um sínodo em 340-341 que o declarou inocente das acusações levantadas contra ele. Ao fazê-lo, Júlio afirmou o princípio de que a deposição de um bispo por um concílio provincial podia ser revista pela Sé de Roma — um marco na afirmação da autoridade romana sobre a Igreja mais ampla, posteriormente confirmado pelos cânones do Concílio de Sárdica (343).",
+      "tags": [
+        "arianismo",
+        "Atanásio de Alexandria",
+        "autoridade romana",
+        "século IV"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/35-St.Julius_I.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 35,
+      "pontificado_inicio": "6 de fevereiro de 337",
+      "pontificado_fim": "12 de abril de 352",
+      "fontes": [
+        "Atanásio de Alexandria, «Apologia contra os Arianos»",
+        "Cânones do Concílio de Sárdica (343)"
+      ]
+    },
+    {
+      "id": "papas:liberio",
+      "slug": "liberio",
+      "titulo": "Papa Libério",
+      "categoria": "papas",
+      "resumo": "Papa exilado por defender Atanásio contra o imperador ariano Constâncio II; historiadores debatem até hoje até que ponto cedeu sob pressão para conseguir voltar do exílio.",
+      "corpo": "Eleito em 352, Libério manteve inicialmente a defesa de Atanásio de Alexandria contra as pressões do imperador Constâncio II, de convicção ariana, recusando-se a assinar sua condenação. Por isso foi exilado para a Trácia em 355, enquanto Roma via a instalação de um antipapa, Félix II, apoiado pela corte imperial.\n\nA tradição — hoje discutida quanto à sua exata extensão — relata que Libério, sob pressão do exílio, teria assinado alguma fórmula de compromisso de tendência semiariana para obter permissão de retornar a Roma em 358. A extensão real dessa concessão é debatida por historiadores até hoje, por faltarem fontes plenamente confiáveis sobre o episódio; por essa controvérsia, Libério é o primeiro papa que a tradição ocidental posterior deixou de venerar universalmente como santo.",
+      "tags": [
+        "arianismo",
+        "exílio",
+        "século IV"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/47/Liberio_papa1.gif",
+      "imagem_credito": null,
+      "numero_ordem": 36,
+      "pontificado_inicio": "17 de maio de 352",
+      "pontificado_fim": "24 de setembro de 366",
+      "fontes": [
+        "Atanásio de Alexandria, «História dos Arianos»",
+        "Jerônimo, «Crônica»"
+      ]
+    },
+    {
       "id": "papas:sao-damaso-i",
       "slug": "sao-damaso-i",
       "titulo": "São Dâmaso I",
