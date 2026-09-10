@@ -596,6 +596,139 @@
       "fontes": [
         "Catecismo da Igreja Católica"
       ]
+    },
+    {
+      "id": "glossario:turibulo",
+      "slug": "turibulo",
+      "titulo": "Turíbulo",
+      "categoria": "glossario",
+      "resumo": "Recipiente de metal suspenso por correntes, usado para queimar incenso durante celebrações litúrgicas solenes.",
+      "corpo": "O turíbulo é um recipiente de metal, geralmente ouro ou prata, suspenso por correntes que permitem balançá-lo para avivar as brasas e espalhar a fumaça do incenso. É usado em momentos solenes da Missa e de outras celebrações — na incensação do altar, do Evangelho, das oferendas e dos fiéis —, gesto que simboliza a oração subindo a Deus (Salmo 141,2). O incenso é transportado até o turíbulo na naveta, outro objeto litúrgico específico para esse fim.",
+      "tags": [
+        "objetos litúrgicos",
+        "incenso"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Instrução Geral do Missal Romano, nn. 276-277"
+      ]
+    },
+    {
+      "id": "glossario:aspersorio",
+      "slug": "aspersorio",
+      "titulo": "Aspersório",
+      "categoria": "glossario",
+      "resumo": "Instrumento usado para aspergir água benta sobre os fiéis, objetos ou espaços em ritos de bênção.",
+      "corpo": "O aspersório (também chamado hissope) é um pequeno instrumento, tradicionalmente de metal com cerdas ou uma esfera perfurada na ponta, usado para aspergir água benta sobre pessoas, objetos ou ambientes durante ritos de bênção — como o rito penitencial de aspersão que pode substituir o «Confiteor» nas Missas dominicais, especialmente no Tempo Pascal. O nome deriva do latim «aspergere», «aspergir».",
+      "tags": [
+        "objetos litúrgicos",
+        "água benta"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Missal Romano, Rito da Aspersão"
+      ]
+    },
+    {
+      "id": "glossario:naveta",
+      "slug": "naveta",
+      "titulo": "Naveta",
+      "categoria": "glossario",
+      "resumo": "Pequeno recipiente em forma de barco usado para guardar e transportar grãos de incenso até o turíbulo.",
+      "corpo": "A naveta é um pequeno recipiente de metal, tradicionalmente em forma de barco (daí o nome, do latim «navis») ou de concha, usado para guardar os grãos de incenso antes de serem colocados sobre as brasas do turíbulo durante a incensação litúrgica. Costuma ter uma colher própria e ser conduzida pelo mesmo ministro (turiferário) responsável pelo turíbulo.",
+      "tags": [
+        "objetos litúrgicos",
+        "incenso"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Instrução Geral do Missal Romano, n. 277"
+      ]
+    },
+    {
+      "id": "glossario:alva",
+      "slug": "alva",
+      "titulo": "Alva",
+      "categoria": "glossario",
+      "resumo": "Túnica branca que cobre todo o corpo, vestimenta litúrgica de base usada por padres, diáconos e ministros antes das demais peças.",
+      "corpo": "A alva é uma longa túnica branca, geralmente presa à cintura por um cíngulo, que cobre o corpo dos pés ao pescoço. É a vestimenta litúrgica de base sobre a qual se colocam as demais peças específicas de cada ministério — a estola e a casula do padre, a estola e a dalmática do diácono. O branco simboliza a pureza batismal: a mesma túnica branca é usada, em versão simplificada, pelos recém-batizados.",
+      "tags": [
+        "vestes litúrgicas"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Instrução Geral do Missal Romano, n. 336"
+      ]
+    },
+    {
+      "id": "glossario:manipulo",
+      "slug": "manipulo",
+      "titulo": "Manípulo",
+      "categoria": "glossario",
+      "resumo": "Antiga peça de tecido usada pendurada no antebraço esquerdo do celebrante, hoje fora de uso obrigatório na Missa do Rito Romano ordinário.",
+      "corpo": "O manípulo era uma faixa de tecido, na mesma cor litúrgica da casula e da estola, usada pendurada no antebraço esquerdo do padre, diácono ou bispo durante a Missa — origem provável num pano usado para limpar o suor ou as mãos na Roma antiga. Deixou de ser obrigatório após a reforma litúrgica do Concílio Vaticano II, permanecendo em uso apenas nas celebrações segundo a forma extraordinária do Rito Romano (Missa tridentina).",
+      "tags": [
+        "vestes litúrgicas",
+        "forma extraordinária"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Instrução Geral do Missal Romano (edições anteriores a 1969)"
+      ]
+    },
+    {
+      "id": "glossario:solideu",
+      "slug": "solideu",
+      "titulo": "Solidéu",
+      "categoria": "glossario",
+      "resumo": "Pequeno gorro litúrgico redondo cuja cor indica a categoria hierárquica de quem o usa — branco para o papa, vermelho para cardeais, roxo para bispos.",
+      "corpo": "O solidéu é um pequeno gorro litúrgico redondo, ajustado à cabeça, usado sob a mitra ou sozinho fora das celebrações. Sua cor segue uma hierarquia precisa: branco para o papa, vermelho (ou escarlate) para os cardeais, roxo para bispos e arcebispos, preto (às vezes com detalhes coloridos) para abades e outros clérigos com privilégio. É retirado em momentos específicos da Missa, como durante a Oração Eucarística.",
+      "tags": [
+        "vestes litúrgicas",
+        "hierarquia eclesiástica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Caeremoniale Episcoporum"
+      ]
+    },
+    {
+      "id": "glossario:anel-do-pescador",
+      "slug": "anel-do-pescador",
+      "titulo": "Anel do Pescador",
+      "categoria": "glossario",
+      "resumo": "Anel de ouro que simboliza a autoridade papal, gravado com a imagem de São Pedro pescando e o nome do papa reinante.",
+      "corpo": "O Anel do Pescador (em latim, «Anulus Piscatoris») é um anel de ouro gravado com a imagem de São Pedro lançando redes de um barco, aludindo à sua vocação de «pescador de homens», e o nome do papa reinante ao redor da imagem. Historicamente usado para selar documentos pontifícios, hoje tem função sobretudo simbólica e cerimonial. Segue uma tradição antiga da Igreja: ao término de cada pontificado, o anel é ritualmente destruído (tradicionalmente riscado com um cinzel, hoje simbolicamente danificado), e um novo é cunhado para o papa seguinte, justamente para impedir seu uso indevido depois da morte ou renúncia do titular.",
+      "tags": [
+        "objetos papais",
+        "simbolismo"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Universi Dominici Gregis (1996), sobre a sede vacante"
+      ]
+    },
+    {
+      "id": "glossario:camauro",
+      "slug": "camauro",
+      "titulo": "Camauro",
+      "categoria": "glossario",
+      "resumo": "Gorro papal vermelho com borda de pele branca, tradicionalmente usado no inverno, hoje raramente visto em uso.",
+      "corpo": "O camauro é um gorro de veludo vermelho com borda de pele branca (arminho ou similar), tradicionalmente usado pelos papas durante o inverno como proteção contra o frio, sobretudo até meados do século XX. Caiu em desuso após o Concílio Vaticano II, sendo usado apenas ocasionalmente por alguns papas desde então — Bento XVI voltou a usá-lo publicamente em 2005, despertando atenção da imprensa justamente por sua raridade.",
+      "tags": [
+        "objetos papais",
+        "vestes litúrgicas"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": []
     }
   ]
 }

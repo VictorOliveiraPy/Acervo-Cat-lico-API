@@ -227,6 +227,84 @@
       "fontes": [
         "Catecismo da Igreja Católica"
       ]
+    },
+    {
+      "id": "devocoes:imaculado-coracao-de-maria",
+      "slug": "imaculado-coracao-de-maria",
+      "titulo": "Devoção ao Imaculado Coração de Maria",
+      "categoria": "devocoes",
+      "resumo": "Devoção mariana que honra o coração de Maria como símbolo de seu amor materno e de sua total entrega a Deus, difundida sobretudo após as aparições de Fátima.",
+      "corpo": "Paralela e complementar à devoção ao Sagrado Coração de Jesus, a devoção ao Imaculado Coração de Maria honra o coração da Virgem como símbolo de seu amor materno, de sua fé e de sua total entrega à vontade de Deus — fundamentada na passagem em que Lucas relata que Maria \"guardava todas essas coisas, meditando-as em seu coração\" (Lc 2,19.51). Ganhou grande impulso a partir das aparições de Fátima (1917), nas quais, segundo o relato dos videntes, Nossa Senhora pediu a consagração do mundo a seu Imaculado Coração como caminho de conversão e de paz — pedido atendido formalmente por diversos papas, entre eles Pio XII em 1942 e Francisco em 2022, este último estendendo a consagração à Rússia e à Ucrânia.",
+      "tags": [
+        "devoção mariana",
+        "Fátima"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Gara%2C_r%C3%B3mai_katolikus_templom_bels%C5%91_tere_%E2%80%93_02_%C3%A9szaki_kereszthaj%C3%B3_2024_09.jpg",
+      "imagem_credito": "Foto: Pasztilla aka Attila Terbócs — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 12,
+      "origem": "Antiga na tradição mariana, consolidada devocionalmente após as aparições de Fátima (1917)",
+      "fontes": [
+        "Lucas 2,19.51",
+        "Pio XII, ato de consagração do mundo (1942)"
+      ]
+    },
+    {
+      "id": "devocoes:bencao-do-santissimo",
+      "slug": "bencao-do-santissimo",
+      "titulo": "Bênção do Santíssimo Sacramento",
+      "categoria": "devocoes",
+      "resumo": "Rito de adoração eucarística em que o padre ou diácono abençoa os fiéis com a hóstia consagrada exposta no ostensório.",
+      "corpo": "A Bênção do Santíssimo Sacramento é um rito devocional, distinto da Missa, em que a hóstia consagrada é exposta no ostensório para adoração — geralmente ao fim de um período de adoração eucarística — e o ministro (padre ou diácono, nunca um leigo) traça com ela o sinal da cruz sobre a assembleia, abençoando-a com a própria presença real de Cristo. É acompanhada tradicionalmente de cânticos eucarísticos, como o \"Tantum Ergo\", trecho final do hino \"Pange Lingua\" de São Tomás de Aquino.",
+      "tags": [
+        "adoração eucarística",
+        "eucaristia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Karmel-Gent-Sacrament.JPG",
+      "imagem_credito": "Foto: Carolus (atribuição presumida) — Wikimedia Commons, CC BY 2.5",
+      "ordem": 13,
+      "origem": "Desenvolvida a partir da instituição da festa de Corpus Christi (século XIII)",
+      "fontes": [
+        "Ritual Romano, Rito de Bênção com o Santíssimo Sacramento"
+      ]
+    },
+    {
+      "id": "devocoes:ladainha-lauretana",
+      "slug": "ladainha-lauretana",
+      "titulo": "Ladainha de Nossa Senhora (Ladainha Lauretana)",
+      "categoria": "devocoes",
+      "resumo": "Sequência de invocações e títulos marianos rezados em forma de litania, tradicionalmente associada ao santuário de Loreto.",
+      "corpo": "A Ladainha Lauretana é uma sequência de invocações a Nossa Senhora, cada uma seguida da resposta \"rogai por nós\", que percorre diversos títulos marianos — \"Mãe da Igreja\", \"Virgem prudentíssima\", \"Estrela da manhã\", entre outros — culminando nas invocações a Cristo como \"Cordeiro de Deus\". Recebeu esse nome por sua associação histórica ao Santuário da Santa Casa de Loreto, na Itália, onde é rezada desde ao menos o século XVI. É costume encerrar com ela a recitação do terço em muitas comunidades.",
+      "tags": [
+        "devoção mariana",
+        "litania"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Murillo_immaculate_conception.jpg",
+      "imagem_credito": null,
+      "ordem": 14,
+      "origem": "Atestada em Loreto desde o século XVI; aprovada oficialmente por Sisto V em 1587",
+      "fontes": [
+        "Sisto V, aprovação da Ladainha Lauretana (1587)"
+      ]
+    },
+    {
+      "id": "devocoes:exercicios-espirituais-inacianos",
+      "slug": "exercicios-espirituais-inacianos",
+      "titulo": "Exercícios Espirituais de Santo Inácio de Loyola",
+      "categoria": "devocoes",
+      "resumo": "Método estruturado de retiro e discernimento espiritual, organizado por Santo Inácio de Loyola em quatro \"semanas\" temáticas.",
+      "corpo": "Os Exercícios Espirituais são um método de oração e discernimento organizado por Santo Inácio de Loyola, fundador dos jesuítas, a partir de sua própria experiência de conversão no século XVI, e publicados em livro em 1548. Estruturam-se classicamente em quatro \"semanas\" temáticas — o pecado e a misericórdia de Deus, a vida de Cristo, sua Paixão, e sua Ressurreição — conduzidas tradicionalmente em regime de silêncio e acompanhamento espiritual individual, ao longo de um retiro de trinta dias ou, mais comumente hoje, em versões adaptadas de poucos dias. Tornaram-se referência para retiros espirituais muito além da Companhia de Jesus, influenciando a espiritualidade católica de modo amplo.",
+      "tags": [
+        "retiro espiritual",
+        "jesuítas",
+        "discernimento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Exercitia_Spiritualia_1ed2.jpg",
+      "imagem_credito": null,
+      "ordem": 15,
+      "origem": "Escritos por Santo Inácio de Loyola entre 1522 e 1524; publicados em 1548",
+      "fontes": [
+        "Inácio de Loyola, «Exercícios Espirituais» (1548)"
+      ]
     }
   ]
 }

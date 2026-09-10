@@ -156,6 +156,98 @@
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bronze_door_of_the_Apostolic_Palace_%2811641456776%29.jpg",
       "imagem_credito": null,
       "ordem": 9
+    },
+    {
+      "id": "direito-canonico:dispensa-canonica",
+      "slug": "dispensa-canonica",
+      "titulo": "Dispensa Canônica",
+      "categoria": "direito-canonico",
+      "resumo": "Ato pelo qual a autoridade competente libera um fiel, em caso concreto, do cumprimento de uma lei meramente eclesiástica.",
+      "corpo": "A dispensa é a relaxação de uma lei puramente eclesiástica (nunca do direito divino) num caso particular, concedida por quem detém autoridade executiva sobre essa lei — o papa, o bispo diocesano ou, para casos específicos, o pároco. Exige causa justa e proporcionada ao peso da lei dispensada. É comum, por exemplo, em impedimentos matrimoniais menores, no jejum e abstinência em circunstâncias especiais, ou em normas de idade e prazo para certos atos canônicos.",
+      "tags": [
+        "direito canônico",
+        "autoridade eclesiástica"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Gratian_%28Italian%2C_died_about_1159%29_-_Decretals_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 10,
+      "fontes": [
+        "Código de Direito Canônico, cânones 85-93"
+      ]
+    },
+    {
+      "id": "direito-canonico:sede-vacante",
+      "slug": "sede-vacante",
+      "titulo": "Sede Vacante",
+      "categoria": "direito-canonico",
+      "resumo": "Período entre a morte ou renúncia de um papa (ou bispo) e a eleição de seu sucessor, regido por normas próprias que suspendem certos atos de governo.",
+      "corpo": "\"Sede vacante\" designa o período em que uma sé episcopal — mais notavelmente a Sé de Roma — está sem titular, seja por morte, seja por renúncia, como ocorreu com Bento XVI em 2013. No caso do papado, esse período é regido por normas específicas (atualmente a constituição «Universi Dominici Gregis», de 1996): o governo cotidiano da Igreja passa ao Colégio Cardinalício, mas com poderes limitados — não podem inovar em matéria doutrinal ou disciplinar, ficando essas decisões reservadas ao papa recém-eleito. O mesmo princípio, em escala diocesana, aplica-se à vacância de uma sé episcopal comum, administrada por um vigário capitular ou administrador diocesano até a nomeação de um novo bispo.",
+      "tags": [
+        "direito canônico",
+        "eleição papal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Sede_vacante.svg",
+      "imagem_credito": "Foto: SajoR — Wikimedia Commons, CC BY-SA 2.5",
+      "ordem": 11,
+      "fontes": [
+        "João Paulo II, Constituição Apostólica «Universi Dominici Gregis» (1996)"
+      ]
+    },
+    {
+      "id": "direito-canonico:concordata",
+      "slug": "concordata",
+      "titulo": "Concordata",
+      "categoria": "direito-canonico",
+      "resumo": "Acordo bilateral entre a Santa Sé e um Estado soberano, regulando questões de interesse comum entre a Igreja e o poder civil.",
+      "corpo": "Uma concordata é um tratado internacional celebrado entre a Santa Sé — reconhecida como sujeito de direito internacional — e um Estado soberano, regulando matérias de interesse mútuo: o estatuto jurídico da Igreja naquele país, o reconhecimento civil do casamento religioso, o ensino religioso nas escolas, a nomeação de bispos, entre outros pontos. O Brasil mantém acordo desse tipo com a Santa Sé desde 2008. Concordatas históricas notáveis incluem a de 1801 com a França napoleônica e a de 1929 com a Itália (Tratado de Latrão), que criou o Estado da Cidade do Vaticano.",
+      "tags": [
+        "direito canônico",
+        "relações Igreja-Estado"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/58/MarrydelValpacelli.jpg",
+      "imagem_credito": null,
+      "ordem": 12,
+      "fontes": [
+        "Acordo Brasil-Santa Sé (2008)",
+        "Tratado de Latrão (1929)"
+      ]
+    },
+    {
+      "id": "direito-canonico:interdito",
+      "slug": "interdito",
+      "titulo": "Interdito",
+      "categoria": "direito-canonico",
+      "resumo": "Censura canônica que proíbe a participação em certos atos litúrgicos e sacramentos, sem excluir a pessoa da comunhão da Igreja como a excomunhão.",
+      "corpo": "O interdito é uma censura eclesiástica menos grave que a excomunhão: priva o fiel de participar de certos atos de culto — como receber alguns sacramentos ou exercer funções litúrgicas —, mas, ao contrário da excomunhão, não o exclui da comunhão da Igreja nem de todos os seus direitos. Pode ser aplicado a pessoas individuais ou, historicamente, a comunidades e territórios inteiros — prática hoje em desuso, já que o Código de 1983 restringiu o interdito coletivo a hipóteses raras. Um exemplo histórico famoso é o interdito lançado pelo papa Inocêncio III sobre a Inglaterra do rei João Sem-Terra, no início do século XIII.",
+      "tags": [
+        "direito canônico",
+        "censuras eclesiásticas"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Decretum_Gratiani_%281514%29.jpg",
+      "imagem_credito": "Foto: Wikimedia Commons, CC BY 2.0",
+      "ordem": 13,
+      "fontes": [
+        "Código de Direito Canônico, cânones 1331-1335"
+      ]
+    },
+    {
+      "id": "direito-canonico:direito-de-padroado",
+      "slug": "direito-de-padroado",
+      "titulo": "Direito de Padroado",
+      "categoria": "direito-canonico",
+      "resumo": "Antigo privilégio, hoje extinto, que concedia a reis e governantes civis o direito de indicar ou apresentar candidatos a certos cargos eclesiásticos.",
+      "corpo": "O padroado era o conjunto de privilégios concedidos pela Santa Sé a monarcas que financiavam a fundação de igrejas ou a expansão missionária em seus territórios, incluindo o direito de apresentar (indicar) candidatos para ocupar bispados e outros benefícios eclesiásticos, cabendo à autoridade eclesiástica a decisão final. O caso mais conhecido na história brasileira é o Padroado Português, que deu à Coroa de Portugal — e depois ao Império do Brasil — ampla influência sobre a nomeação de bispos e a administração eclesiástica nas colônias. O regime de padroado foi extinto no Brasil com a separação entre Igreja e Estado, formalizada na Constituição republicana de 1891.",
+      "tags": [
+        "direito canônico",
+        "Igreja e Estado",
+        "história do Brasil"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/46/Calixtus_III_-_Enea_Piccolomini_-_Pituricchio.jpg",
+      "imagem_credito": null,
+      "ordem": 14,
+      "fontes": [
+        "Constituição da República dos Estados Unidos do Brasil (1891), art. 72"
+      ]
     }
   ]
 }

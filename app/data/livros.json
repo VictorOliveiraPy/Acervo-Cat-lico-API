@@ -486,6 +486,90 @@
       "ano_publicacao": "c. 1566",
       "genero": "Espiritualidade",
       "fontes": []
+    },
+    {
+      "id": "livros:glorias-de-maria",
+      "slug": "glorias-de-maria",
+      "titulo": "As Glórias de Maria",
+      "categoria": "livros",
+      "resumo": "Clássico da devoção mariana de Santo Afonso Maria de Ligório, reunindo meditações sobre os privilégios e o papel de Maria na salvação.",
+      "corpo": "Publicada em 1750 por Santo Afonso Maria de Ligório, fundador dos Redentoristas e Doutor da Igreja, «As Glórias de Maria» é uma das obras marianas mais lidas da história católica, organizada em torno do comentário à Ave-Maria e à antífona «Salve Rainha», reunindo meditações patrísticas e devocionais sobre a intercessão, a misericórdia e os privilégios de Maria na obra da salvação. Escrita num estilo acessível e afetivo, tornou-se referência da piedade mariana popular, especialmente na tradição de língua italiana e portuguesa, tendo passado por centenas de edições desde sua publicação.",
+      "tags": [
+        "Nossa Senhora",
+        "devoção mariana",
+        "Afonso de Ligório"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Le_Glorie_di_Maria.jpg",
+      "imagem_credito": null,
+      "autor": "Santo Afonso Maria de Ligório",
+      "ano_publicacao": "1750",
+      "genero": "Devoção mariana",
+      "fontes": [
+        "Afonso Maria de Ligório, «As Glórias de Maria» (1750)"
+      ]
+    },
+    {
+      "id": "livros:um-exorcista-conta-a-sua-historia",
+      "slug": "um-exorcista-conta-a-sua-historia",
+      "titulo": "Um Exorcista Conta a Sua História",
+      "categoria": "livros",
+      "resumo": "Relato do padre Gabriele Amorth, exorcista oficial da diocese de Roma por décadas, sobre sua experiência com casos de possessão e opressão demoníaca.",
+      "corpo": "Publicado em 1990, o livro reúne relatos e reflexões do padre Gabriele Amorth, exorcista da diocese de Roma por mais de vinte anos e um dos fundadores da Associação Internacional de Exorcistas, sobre casos concretos de sua prática ministerial e sobre a doutrina católica a respeito da ação do demônio, distinguindo com cuidado fenômenos de origem psiquiátrica dos casos que a Igreja considera de possível origem demoníaca. Tornou-se best-seller internacional e um dos textos mais citados sobre o tema fora de círculos estritamente acadêmicos, ainda que alguns pontos de suas opiniões pessoais — distintos da doutrina oficial — tenham gerado debate entre teólogos.",
+      "tags": [
+        "exorcismo",
+        "demonologia",
+        "Gabriele Amorth"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gabriele_Amorth_2013.jpg",
+      "imagem_credito": "Foto: Ewa Ablewicz-Rzeczkowska — Wikimedia Commons, CC BY 4.0",
+      "autor": "Gabriele Amorth",
+      "ano_publicacao": "1990",
+      "genero": "Relato pastoral",
+      "fontes": [
+        "Gabriele Amorth, «Um Exorcista Conta a Sua História» (1990)"
+      ]
+    },
+    {
+      "id": "livros:introducao-ao-cristianismo",
+      "slug": "introducao-ao-cristianismo",
+      "titulo": "Introdução ao Cristianismo",
+      "categoria": "livros",
+      "resumo": "Ensaio teológico de Joseph Ratzinger (futuro Bento XVI) sobre o Credo apostólico, considerado uma de suas obras mais influentes antes do pontificado.",
+      "corpo": "Publicado em 1968, quando Joseph Ratzinger — o futuro papa Bento XVI — ainda era professor de teologia na Alemanha, «Introdução ao Cristianismo» é um comentário estruturado ao Credo apostólico, artigo por artigo, dirigido a um público culto mas não necessariamente especializado em teologia, num contexto de forte secularização intelectual europeia no pós-Concílio Vaticano II. É considerada uma das obras mais influentes de Ratzinger anteriores ao pontificado, referência frequente em cursos de teologia fundamental.",
+      "tags": [
+        "Credo",
+        "teologia fundamental",
+        "Bento XVI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/BentoXVI-30-10052007.jpg",
+      "imagem_credito": "Foto: Fabio Pozzebom/ABr — Wikimedia Commons, CC BY 3.0 br",
+      "autor": "Joseph Ratzinger (Bento XVI)",
+      "ano_publicacao": "1968",
+      "genero": "Ensaio teológico",
+      "fontes": [
+        "Joseph Ratzinger, «Introdução ao Cristianismo» (1968)"
+      ]
+    },
+    {
+      "id": "livros:teologia-do-corpo",
+      "slug": "teologia-do-corpo",
+      "titulo": "Homem e Mulher os Criou (Teologia do Corpo)",
+      "categoria": "livros",
+      "resumo": "Ciclo de catequeses de João Paulo II sobre o corpo, a sexualidade e o amor humano à luz da criação e da redenção.",
+      "corpo": "Entre 1979 e 1984, João Paulo II dedicou 129 catequeses das audiências gerais de quarta-feira a um extenso ciclo de reflexões conhecido como «Teologia do Corpo», reunidas em livro sob o título «Homem e Mulher os Criou». Partindo dos relatos da criação em Gênesis, o papa desenvolve uma antropologia do corpo humano, da sexualidade e do amor conjugal como sinal do amor doador de Deus, buscando responder às transformações da moral sexual no Ocidente após a revolução dos anos 1960 sem recorrer apenas a proibições, mas a uma visão positiva da corporeidade. Tornou-se referência central para a pastoral familiar e para movimentos de espiritualidade conjugal nas décadas seguintes.",
+      "tags": [
+        "teologia do corpo",
+        "João Paulo II",
+        "moral conjugal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg",
+      "imagem_credito": "Foto: Gregorini Demetrio (1988) — Wikimedia Commons, CC BY-SA 3.0",
+      "autor": "São João Paulo II",
+      "ano_publicacao": "1979-1984 (catequeses); publicação em livro posterior",
+      "genero": "Catequese magisterial",
+      "fontes": [
+        "João Paulo II, catequeses das audiências gerais (1979-1984)"
+      ]
     }
   ]
 }

@@ -276,6 +276,111 @@
       "fontes": [
         "Catecismo da Igreja Católica, nn. 925-927 (vida consagrada)"
       ]
+    },
+    {
+      "id": "ordens-religiosas:trapistas",
+      "slug": "trapistas",
+      "titulo": "Trapistas (Ordem Cisterciense da Estrita Observância)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Ramo reformado dos cistercienses, marcado pelo silêncio, pela clausura rigorosa e pelo trabalho manual — origem também da tradição dos queijos e licores trapistas.",
+      "corpo": "Os trapistas nasceram de uma reforma promovida pelo abade Armand de Rancé no mosteiro de La Trappe, na França, no século XVII, buscando recuperar o rigor original da Regra de São Bento dentro da tradição cisterciense. Vivem em silêncio quase absoluto, clausura estrita e forte ênfase no trabalho manual como forma de sustento e de oração — é dessa disciplina que vem a tradição, hoje mundialmente conhecida, dos queijos, pães e licores produzidos por mosteiros trapistas. Formalizaram-se como ordem própria, distinta da cisterciense comum, em 1892.",
+      "tags": [
+        "monaquismo",
+        "reforma cisterciense",
+        "clausura"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Armand_Bouthillier_Rance.jpg",
+      "imagem_credito": null,
+      "fundador": "Armand Jean le Bouthillier de Rancé",
+      "ano_fundacao": "1664 (reforma); 1892 (ordem própria)",
+      "carisma": "Vida monástica contemplativa em silêncio e clausura, sustentada pelo trabalho manual",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:cartuxos",
+      "slug": "cartuxos",
+      "titulo": "Cartuxos (Ordem dos Cartuxos)",
+      "categoria": "ordens-religiosas",
+      "resumo": "A ordem de vida eremítica mais rigorosa da Igreja, onde os monges vivem quase todo o tempo sozinhos em suas próprias celas, unidos pela liturgia comum.",
+      "corpo": "Fundada por São Bruno de Colônia em 1084, na região montanhosa da Chartreuse, próxima a Grenoble, na França, a Ordem dos Cartuxos combina o eremitismo com uma estrutura comunitária mínima: cada monge vive praticamente isolado numa cela individual, dedicado à oração e ao silêncio, reunindo-se aos demais apenas para os ofícios litúrgicos e raras ocasiões comuns na semana. É considerada a forma de vida contemplativa mais austera ainda praticada regularmente na Igreja latina. A casa-mãe, a Grande Chartreuse, segue habitada até hoje.",
+      "tags": [
+        "monaquismo",
+        "eremitismo",
+        "clausura"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/La_Grande_Chartreuse.JPG",
+      "imagem_credito": null,
+      "fundador": "São Bruno de Colônia",
+      "ano_fundacao": "1084",
+      "carisma": "Vida eremítica solitária dentro de uma estrutura comunitária mínima",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 920-921 (vida eremítica)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:vicentinos",
+      "slug": "vicentinos",
+      "titulo": "Vicentinos (Congregação da Missão)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Congregação fundada por São Vicente de Paulo para evangelizar o meio rural pobre e formar clero, também origem das Filhas da Caridade.",
+      "corpo": "Fundada por São Vicente de Paulo em 1625, na França, a Congregação da Missão — cujos membros são chamados vicentinos ou lazaristas, em referência ao antigo priorado de Saint-Lazare, em Paris, sede da comunidade — dedicou-se originalmente à evangelização das populações rurais pobres, então pouco atendidas pela pastoral paroquial comum, e à formação de seminaristas e clero diocesano. Vicente de Paulo fundaria ainda, com Santa Luísa de Marillac, as Filhas da Caridade, congregação irmã dedicada ao serviço direto dos pobres e enfermos. O nome «vicentino» é hoje também associado às Sociedades de São Vicente de Paulo, organizações leigas de caridade inspiradas no mesmo carisma, mas juridicamente distintas da congregação religiosa.",
+      "tags": [
+        "evangelização rural",
+        "formação do clero",
+        "caridade"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/27/CMPaul.png",
+      "imagem_credito": null,
+      "fundador": "São Vicente de Paulo",
+      "ano_fundacao": "1625",
+      "carisma": "Evangelização dos pobres e formação do clero",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:passionistas",
+      "slug": "passionistas",
+      "titulo": "Passionistas (Congregação da Paixão de Jesus Cristo)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Congregação centrada na memória viva da Paixão de Cristo, dedicada às missões populares e à pregação de retiros.",
+      "corpo": "Fundada por São Paulo da Cruz em 1720, na Itália, a Congregação da Paixão de Jesus Cristo tem como carisma próprio manter viva, na pregação e na vida espiritual de seus membros, a memória da Paixão e Morte de Cristo como o maior sinal do amor de Deus pela humanidade. Historicamente dedicada a missões populares em regiões rurais pouco atendidas e à pregação de retiros espirituais, hoje mantém também trabalho paroquial e educacional em diversos países, incluindo o Brasil.",
+      "tags": [
+        "Paixão de Cristo",
+        "missões populares",
+        "retiros"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Curia_Provincial_MAPRAES_2015.jpg",
+      "imagem_credito": "Foto: Tiagosgd — Wikimedia Commons, CC BY-SA 4.0",
+      "fundador": "São Paulo da Cruz",
+      "ano_fundacao": "1720",
+      "carisma": "Memória viva da Paixão de Cristo, missões populares e retiros espirituais",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:maristas",
+      "slug": "maristas",
+      "titulo": "Irmãos Maristas (Instituto dos Irmãos Maristas)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Instituto de religiosos leigos dedicado à educação de crianças e jovens, com forte presença em escolas ao redor do mundo, incluindo o Brasil.",
+      "corpo": "Fundado por São Marcelino Champagnat em 1817, na França, o Instituto dos Irmãos Maristas é formado por religiosos leigos — não sacerdotes — dedicados sobretudo à educação escolar de crianças e jovens, com atenção especial aos mais pobres e afastados da fé, na esteira das reformas educacionais promovidas na Europa pós-revolucionária. Sob a proteção espiritual de Maria, expandiu-se para dezenas de países, mantendo hoje uma extensa rede de escolas e universidades, com presença particularmente forte no Brasil desde o início do século XX.",
+      "tags": [
+        "educação católica",
+        "religiosos leigos",
+        "Maria"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Marist-stem.jpg",
+      "imagem_credito": null,
+      "fundador": "São Marcelino Champagnat",
+      "ano_fundacao": "1817",
+      "carisma": "Educação evangelizadora de crianças e jovens, com atenção aos mais pobres",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 925-927 (vida consagrada)"
+      ]
     }
   ]
 }

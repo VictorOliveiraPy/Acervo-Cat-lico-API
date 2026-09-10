@@ -209,6 +209,100 @@
       "pais": "Argentina",
       "ano": null,
       "fontes": []
+    },
+    {
+      "id": "santuarios:santuario-de-jasna-gora",
+      "slug": "santuario-de-jasna-gora",
+      "titulo": "Santuário de Jasna Góra (Częstochowa)",
+      "categoria": "santuarios",
+      "resumo": "Casa do ícone da Virgem Negra de Częstochowa, o principal centro de peregrinação mariana da Polônia.",
+      "corpo": "Erguido sobre a colina de Jasna Góra, na cidade polonesa de Częstochowa, o santuário abriga desde o século XIV o ícone conhecido como Nossa Senhora Negra de Częstochowa — imagem cuja tradição atribui, sem confirmação histórica segura, autoria a São Lucas Evangelista. O mosteiro, confiado aos monges paulinos, resistiu a um cerco sueco em 1655, episódio que consolidou sua imagem como símbolo da identidade católica polonesa. Recebe milhões de peregrinos todos os anos, sendo um dos maiores santuários marianos da Europa.",
+      "tags": [
+        "santuários marianos",
+        "Polônia",
+        "ícone"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Obraz_Matki_Bo%C5%BCej_Cz%C4%99stochowskiej_bez_ram.jpg",
+      "imagem_credito": null,
+      "local": "Częstochowa",
+      "pais": "Polônia",
+      "ano": "século XIV",
+      "fontes": []
+    },
+    {
+      "id": "santuarios:santuario-de-loreto",
+      "slug": "santuario-de-loreto",
+      "titulo": "Santuário da Santa Casa de Loreto",
+      "categoria": "santuarios",
+      "resumo": "Basílica italiana que abriga a Santa Casa, tradicionalmente venerada como a própria casa de Nazaré onde viveu a Sagrada Família.",
+      "corpo": "O santuário italiano de Loreto, nas Marcas, foi construído em torno de uma pequena casa de pedra que a tradição, desde o século XIII, identifica como a Santa Casa de Nazaré — moradia da Sagrada Família, que teria sido transportada até ali (segundo a devoção popular, por anjos; segundo pesquisas históricas mais recentes, possivelmente por cruzados ou comerciantes). É padroeiro dos aviadores desde o século XX, por associação simbólica com a lenda do transporte aéreo da casa.",
+      "tags": [
+        "santuários marianos",
+        "Itália",
+        "Sagrada Família"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Basilica_Pontificia_della_Santa_Casa_di_Loreto.jpg",
+      "imagem_credito": "Foto: Mroselli / Rabanus Flavus — Wikimedia Commons, CC BY-SA 2.5",
+      "local": "Loreto, Marcas",
+      "pais": "Itália",
+      "ano": "santuário construído a partir do século XV",
+      "fontes": []
+    },
+    {
+      "id": "santuarios:santuario-de-knock",
+      "slug": "santuario-de-knock",
+      "titulo": "Santuário de Nossa Senhora de Knock",
+      "categoria": "santuarios",
+      "resumo": "Principal santuário mariano da Irlanda, erguido no local de uma aparição silenciosa testemunhada por quinze pessoas em 1879.",
+      "corpo": "Em 21 de agosto de 1879, na pequena vila irlandesa de Knock, quinze testemunhas afirmaram ter visto, na parede externa da igreja local, uma aparição silenciosa de Nossa Senhora, São José e São João Evangelista junto a um cordeiro sobre um altar. Ao contrário de outras aparições marianas famosas, não houve mensagem falada nem vidente único — o episódio foi investigado por comissões eclesiásticas em 1879 e 1936, que consideraram os depoimentos das testemunhas satisfatórios. O santuário tornou-se o principal centro de peregrinação mariana da Irlanda, visitado por João Paulo II em 1979 e por Francisco em 2018.",
+      "tags": [
+        "santuários marianos",
+        "Irlanda"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Statue_of_Our_Lady_Knock_Shrine.jpg",
+      "imagem_credito": "Foto: Michael McLaughlin Photography — Wikimedia Commons, CC BY-SA 4.0",
+      "local": "Knock, Condado de Mayo",
+      "pais": "Irlanda",
+      "ano": "1879",
+      "fontes": []
+    },
+    {
+      "id": "santuarios:santuario-de-sao-pio-de-pietrelcina",
+      "slug": "santuario-de-sao-pio-de-pietrelcina",
+      "titulo": "Santuário de São Pio de Pietrelcina (San Giovanni Rotondo)",
+      "categoria": "santuarios",
+      "resumo": "Um dos santuários mais visitados da Itália, erguido em torno do túmulo e do convento onde viveu o Padre Pio por décadas.",
+      "corpo": "Em San Giovanni Rotondo, na região da Apúlia (Itália), o santuário reúne o convento capuchinho onde São Pio de Pietrelcina (Padre Pio) viveu a maior parte de sua vida religiosa, o hospital que ele fundou (Casa Sollievo della Sofferenza) e, desde sua canonização em 2002, o túmulo que guarda seus restos mortais. Tornou-se um dos destinos de peregrinação mais procurados da Itália, ao lado de Roma e Assis, atraindo devotos interessados sobretudo em sua fama de estigmas, dons místicos e direção espiritual.",
+      "tags": [
+        "Padre Pio",
+        "Itália",
+        "peregrinação"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Chiesa_San_Pio_da_Pietrelcina.JPG",
+      "imagem_credito": null,
+      "local": "San Giovanni Rotondo, Apúlia",
+      "pais": "Itália",
+      "ano": "santuário atual inaugurado em 2004",
+      "fontes": []
+    },
+    {
+      "id": "santuarios:basilica-de-sao-francisco-de-assis",
+      "slug": "basilica-de-sao-francisco-de-assis",
+      "titulo": "Basílica de São Francisco de Assis",
+      "categoria": "santuarios",
+      "resumo": "Basílica italiana erguida sobre o túmulo de São Francisco, célebre pelos afrescos de Giotto sobre a vida do santo.",
+      "corpo": "Construída em Assis, na Úmbria (Itália), logo após a canonização de São Francisco em 1228, a basílica que leva seu nome é dividida em duas igrejas sobrepostas — a Basílica Inferior, que guarda o túmulo do santo numa cripta, e a Basílica Superior, cujos afrescos, atribuídos em parte a Giotto, narram episódios da vida de Francisco e se tornaram referência decisiva para a pintura ocidental. É um dos destinos de peregrinação mais visitados da Itália, especialmente entre os que seguem a espiritualidade franciscana.",
+      "tags": [
+        "São Francisco de Assis",
+        "Itália",
+        "arte cristã"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Basilica.Francis02.jpg",
+      "imagem_credito": "Foto: Georges Jansoone — Wikimedia Commons, CC BY 2.5",
+      "local": "Assis, Úmbria",
+      "pais": "Itália",
+      "ano": "iniciada em 1228",
+      "fontes": []
     }
   ]
 }
