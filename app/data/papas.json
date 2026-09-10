@@ -823,6 +823,160 @@
       ]
     },
     {
+      "id": "papas:sao-siricio",
+      "slug": "sao-siricio",
+      "titulo": "São Sirício",
+      "categoria": "papas",
+      "resumo": "Primeiro papa a escrever uma decretal no sentido jurídico do termo — o mais antigo documento legislativo pontifício que se conserva.",
+      "corpo": "Sirício governou a Igreja de Roma entre 384 e 399. Sua «Decretal a Himério de Tarragona», de 385, é o mais antigo documento desse gênero que chegou até hoje: escrita em tom de lei eclesiástica, e não de simples carta pastoral, tratava de disciplina clerical — entre outros pontos, do celibato dos padres e diáconos casados antes da ordenação — e da reconciliação de penitentes. O documento é um marco na afirmação da autoridade normativa do Bispo de Roma sobre toda a Igreja ocidental.",
+      "tags": [
+        "decretais",
+        "disciplina clerical",
+        "século IV"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/30/38-St.Siricius.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 38,
+      "pontificado_inicio": "1 de dezembro de 384",
+      "pontificado_fim": "26 de novembro de 399",
+      "fontes": [
+        "Sirício, «Decretal a Himério de Tarragona» (385)",
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:sao-anastacio-i",
+      "slug": "sao-anastacio-i",
+      "titulo": "São Anastácio I",
+      "categoria": "papas",
+      "resumo": "Papa que condenou os escritos de Orígenes, elogiado por São Jerônimo e Santo Agostinho por seu zelo pastoral.",
+      "corpo": "Anastácio I governou a Igreja entre 399 e 401, período em que se acirrava a controvérsia sobre a ortodoxia dos escritos de Orígenes, teólogo do século III cujas especulações eram então contestadas por Jerônimo e Teófilo de Alexandria. Anastácio condenou formalmente os escritos considerados problemáticos, sem estender a condenação à pessoa de Orígenes. São Jerônimo e Santo Agostinho, ambos seus contemporâneos, deixaram registros elogiosos sobre sua conduta pastoral.",
+      "tags": [
+        "controvérsia origenista",
+        "século IV"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/39-St.Anastasius_I.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 39,
+      "pontificado_inicio": "28 de novembro de 399",
+      "pontificado_fim": "19 de dezembro de 401",
+      "fontes": [
+        "Jerônimo, «Cartas» 95 e 97",
+        "Agostinho de Hipona, «Cartas» 40"
+      ]
+    },
+    {
+      "id": "papas:sao-inocencio-i",
+      "slug": "sao-inocencio-i",
+      "titulo": "São Inocêncio I",
+      "categoria": "papas",
+      "resumo": "Papa que afirmou com força a primazia romana, testemunhou o saque de Roma pelos visigodos e condenou o pelagianismo a pedido de Santo Agostinho e dos bispos africanos.",
+      "corpo": "Inocêncio I governou a Igreja entre 401 e 417, período de intensa afirmação da autoridade doutrinal e disciplinar de Roma: sustentou que nenhuma questão eclesiástica importante deveria ser decidida sem recurso à Sé romana. Esteve ausente de Roma, em Ravena, negociando com o imperador Honório, quando a cidade foi saqueada pelos visigodos de Alarico em 410 — um dos episódios mais traumáticos do fim do Império Romano do Ocidente.\n\nA pedido de concílios africanos liderados por Santo Agostinho de Hipona, condenou formalmente os ensinamentos de Pelágio e Celéstio sobre a graça e o livre-arbítrio, endossando as conclusões dos bispos africanos — episódio que originou a célebre expressão posterior «Roma locuta, causa finita» («Roma falou, a causa está encerrada»).",
+      "tags": [
+        "saque de Roma",
+        "pelagianismo",
+        "primazia romana",
+        "século V"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/40-St.Innocent_I.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 40,
+      "pontificado_inicio": "1 de janeiro de 402",
+      "pontificado_fim": "12 de março de 417",
+      "fontes": [
+        "Agostinho de Hipona, «Cartas» 181-183",
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:sao-zosimo",
+      "slug": "sao-zosimo",
+      "titulo": "São Zósimo",
+      "categoria": "papas",
+      "resumo": "Papa grego que inicialmente se inclinou a aceitar a ortodoxia de Pelágio e Celéstio, revertendo a posição sob pressão dos bispos africanos.",
+      "corpo": "De origem grega, Zósimo governou por pouco mais de um ano, entre 417 e 418. Ao assumir, revisou o caso de Celéstio e Pelágio — já condenados por seu antecessor Inocêncio I — e por um tempo inclinou-se a considerá-los ortodoxos, com base em novas alegações de fé apresentadas por eles. A reação enérgica dos bispos africanos, reunidos em concílio em Cartago em 418 sob a liderança de Santo Agostinho, levou Zósimo a reverter sua posição inicial e confirmar a condenação do pelagianismo antes de morrer naquele mesmo ano.",
+      "tags": [
+        "pelagianismo",
+        "século V"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/81/41-St.Zosimus.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 41,
+      "pontificado_inicio": "20 de março de 417",
+      "pontificado_fim": "28 de dezembro de 418",
+      "fontes": [
+        "Concílio de Cartago (418)",
+        "Agostinho de Hipona, «Contra duas cartas dos pelagianos»"
+      ]
+    },
+    {
+      "id": "papas:sao-bonifacio-i",
+      "slug": "sao-bonifacio-i",
+      "titulo": "São Bonifácio I",
+      "categoria": "papas",
+      "resumo": "Papa cuja eleição foi contestada por um antipapa rival, resolvida por intervenção do imperador Honório em seu favor.",
+      "corpo": "A eleição de Bonifácio I, em 418, foi imediatamente contestada pela facção que elegera Eulálio como bispo de Roma, gerando um cisma que exigiu a intervenção do imperador Honório — que, após inicial hesitação, decidiu em favor de Bonifácio e exilou Eulálio. Assentado no cargo, Bonifácio continuou a linha de seus antecessores na afirmação da autoridade de Roma sobre as sés metropolitanas e reforçou decretos sobre disciplina clerical.",
+      "tags": [
+        "cisma eleitoral",
+        "século V"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/42-St.Boniface_I.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 42,
+      "pontificado_inicio": "28 de dezembro de 418",
+      "pontificado_fim": "4 de setembro de 422",
+      "fontes": [
+        "Liber Pontificalis",
+        "Constituição imperial de Honório sobre a disputa eleitoral (419)"
+      ]
+    },
+    {
+      "id": "papas:sao-celestino-i",
+      "slug": "sao-celestino-i",
+      "titulo": "São Celestino I",
+      "categoria": "papas",
+      "resumo": "Papa sob cuja autoridade o Concílio de Éfeso condenou o nestorianismo e proclamou Maria como Mãe de Deus.",
+      "corpo": "Celestino I governou a Igreja entre 422 e 432. Diante do ensinamento de Nestório, patriarca de Constantinopla, que resistia a chamar Maria de «Theotokos» (Mãe de Deus) por considerar que isso confundiria as naturezas humana e divina de Cristo, Celestino comissionou Cirilo de Alexandria para agir em seu nome contra Nestório. O Concílio de Éfeso, terceiro concílio ecumênico, reunido em 431 sob essa autoridade, condenou o nestorianismo e confirmou solenemente o título de Maria como Mãe de Deus. Celestino também enviou o bispo Paládio como missionário para os cristãos da Irlanda, um dos primeiros registros de atividade missionária romana organizada naquela ilha.",
+      "tags": [
+        "Concílio de Éfeso",
+        "nestorianismo",
+        "Theotokos",
+        "século V"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Celestine1pope.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 43,
+      "pontificado_inicio": "12 de setembro de 422",
+      "pontificado_fim": "27 de julho de 432",
+      "fontes": [
+        "Atas do Concílio de Éfeso (431)",
+        "Próspero de Aquitânia, «Crônica»"
+      ]
+    },
+    {
+      "id": "papas:sao-sisto-iii",
+      "slug": "sao-sisto-iii",
+      "titulo": "São Sisto III",
+      "categoria": "papas",
+      "resumo": "Papa que trabalhou pela reconciliação após o Concílio de Éfeso e mandou construir a basílica de Santa Maria Maior em Roma.",
+      "corpo": "Sisto III sucedeu a Celestino I em 432, herdando as tensões deixadas pelo Concílio de Éfeso entre os partidários de Cirilo de Alexandria e os de João de Antioquia. Trabalhou pela reconciliação entre as duas partes, contribuindo para o «Acordo de 433» entre Cirilo e João. Em Roma, mandou construir a basílica de Santa Maria Maior, cujos mosaicos do arco triunfal celebram justamente a proclamação de Maria como Mãe de Deus feita em Éfeso — um dos mais importantes monumentos artísticos do início da era cristã que sobrevivem até hoje.",
+      "tags": [
+        "Concílio de Éfeso",
+        "Santa Maria Maior",
+        "arte cristã primitiva",
+        "século V"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/44-St.Sixtus_III.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 44,
+      "pontificado_inicio": "2 de agosto de 432",
+      "pontificado_fim": "18 de agosto de 440",
+      "fontes": [
+        "Liber Pontificalis",
+        "Inscrições do arco triunfal de Santa Maria Maior"
+      ]
+    },
+    {
       "id": "papas:sao-leao-magno-papa",
       "slug": "sao-leao-magno-papa",
       "titulo": "São Leão Magno",
@@ -843,6 +997,71 @@
       "fontes": [
         "São Leão Magno, «Tomo a Flaviano» (449)",
         "Atas do Concílio de Calcedônia (451)"
+      ]
+    },
+    {
+      "id": "papas:sao-hilario",
+      "slug": "sao-hilario",
+      "titulo": "São Hilário",
+      "categoria": "papas",
+      "resumo": "Papa que, como legado, escapou por pouco do tumultuado 'Sínodo do Latrocínio' de Éfeso; já como bispo de Roma, reforçou normas sobre a sucessão episcopal.",
+      "corpo": "Antes de ser eleito papa, Hilário participara em 449, como legado do então papa Leão Magno, do concílio de Éfeso que a história batizaria de «Latrocínio» («roubo», em referência à violência e às manobras irregulares que o marcaram) — escapando de lá com dificuldade. Eleito bispo de Roma em 461, convocou um sínodo em 465 que produziu decretos importantes sobre a ordem de sucessão episcopal e a disciplina do clero, entre os registros conciliares mais antigos preservados na íntegra do Ocidente.",
+      "tags": [
+        "Concílio de Éfeso 449",
+        "disciplina eclesiástica",
+        "século V"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/46-St.Hilarius.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 46,
+      "pontificado_inicio": "21 de novembro de 461",
+      "pontificado_fim": "28 de fevereiro de 468",
+      "fontes": [
+        "Atas do Sínodo Romano (465)",
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:sao-simplicio",
+      "slug": "sao-simplicio",
+      "titulo": "São Simplício",
+      "categoria": "papas",
+      "resumo": "Papa cujo pontificado testemunhou a queda do Império Romano do Ocidente em 476.",
+      "corpo": "Simplício governou a Igreja de Roma entre 468 e 483, período que viu o fim do Império Romano do Ocidente: em 476, o general germânico Odoacro depôs o último imperador ocidental, Rômulo Augústulo, marco tradicionalmente usado para datar o fim da Antiguidade no Ocidente. Nesse contexto de colapso político, a Igreja de Roma consolidava-se como instituição de continuidade. No Oriente, Simplício acompanhava com preocupação crescente as tensões cristológicas que, sob seus sucessores, levariam ao Cisma Acaciano com Constantinopla.",
+      "tags": [
+        "queda de Roma",
+        "século V"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Sansimpliciopapa.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 47,
+      "pontificado_inicio": "3 de março de 468",
+      "pontificado_fim": "10 de março de 483",
+      "fontes": [
+        "Liber Pontificalis",
+        "Jordanes, «Getica»"
+      ]
+    },
+    {
+      "id": "papas:sao-felix-iii",
+      "slug": "sao-felix-iii",
+      "titulo": "São Félix III",
+      "categoria": "papas",
+      "resumo": "Papa que excomungou o patriarca de Constantinopla por uma fórmula de compromisso cristológico, abrindo o Cisma Acaciano entre Roma e o Oriente.",
+      "corpo": "Félix III governou a Igreja entre 483 e 492. Seu pontificado é marcado pela ruptura com Acácio, patriarca de Constantinopla, que havia subscrito o «Henotikon» — fórmula de compromisso promovida pelo imperador Zenão para pacificar calcedonenses e monofisitas, mas que, aos olhos de Roma, cedia terreno demais às posições monofisitas ao evitar reafirmar claramente o Concílio de Calcedônia. Félix excomungou Acácio em 484, dando início ao Cisma Acaciano, que separaria Roma e Constantinopla por 35 anos.",
+      "tags": [
+        "Cisma Acaciano",
+        "monofisismo",
+        "século V"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/48-St.Felix_III.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 48,
+      "pontificado_inicio": "15 de março de 483",
+      "pontificado_fim": "1 de março de 492",
+      "fontes": [
+        "Atas do Sínodo Romano (484)",
+        "Evágrio Escolástico, «História Eclesiástica» III"
       ]
     },
     {
