@@ -2875,6 +2875,329 @@
       ]
     },
     {
+      "id": "papas:bento-vi",
+      "slug": "bento-vi",
+      "titulo": "Papa Bento VI",
+      "categoria": "papas",
+      "resumo": "Papa preso e estrangulado por uma facção romana rival após a morte do imperador Otão I, que o havia apoiado.",
+      "corpo": "Bento VI, eleito em 973 com apoio do imperador Otão I, perdeu proteção quando este morreu poucos meses depois. Uma facção romana liderada pela família Crescêncio aproveitou o vácuo de poder para depô-lo, prendê-lo e, segundo os relatos do período, estrangulá-lo em 974, instalando em seu lugar um antipapa — episódio que reabriu o ciclo de violência política que marcara o «saeculum obscurum» décadas antes.",
+      "tags": [
+        "família Crescêncio",
+        "deposição papal",
+        "século X"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "numero_ordem": 136,
+      "pontificado_inicio": "19 de janeiro de 973",
+      "pontificado_fim": "junho de 974",
+      "fontes": [
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:bento-vii",
+      "slug": "bento-vii",
+      "titulo": "Papa Bento VII",
+      "categoria": "papas",
+      "resumo": "Papa que restaurou a ordem em Roma após o assassinato de Bento VI, com apoio do novo imperador Otão II.",
+      "corpo": "Bento VII foi elevado ao papado em 974 com apoio do imperador Otão II, restaurando alguma estabilidade após o assassinato de Bento VI e a deposição do antipapa que o sucedera. Deu continuidade ao apoio papal à reforma monástica beneditina em curso desde Cluny, e reinou por quase uma década sem os sobressaltos violentos mais recentes.",
+      "tags": [
+        "reforma monástica",
+        "século X"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Pope_Benedict_VII_Illustration.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 137,
+      "pontificado_inicio": "1 de outubro de 974",
+      "pontificado_fim": "10 de julho de 983",
+      "fontes": [
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:joao-xiv",
+      "slug": "joao-xiv",
+      "titulo": "Papa João XIV",
+      "categoria": "papas",
+      "resumo": "Papa nomeado por Otão II pouco antes da morte deste; sem proteção imperial, foi preso pelo antipapa rival que retornara e morreu na prisão.",
+      "corpo": "João XIV foi indicado ao papado pelo imperador Otão II em 983, mas este morreu poucos meses depois, deixando o novo papa sem sustentação política. O antipapa Bonifácio VII, que havia fugido de Roma anos antes após um episódio de usurpação, retornou à cidade e conseguiu prender João XIV, que morreu na prisão em 984, provavelmente de fome — mais um episódio da violenta instabilidade que marcava sucessivamente o papado romano neste período.",
+      "tags": [
+        "antipapa",
+        "deposição papal",
+        "século X"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Pope_John_XIV_Illustration.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 138,
+      "pontificado_inicio": "novembro de 983",
+      "pontificado_fim": "20 de agosto de 984",
+      "fontes": [
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:joao-xv",
+      "slug": "joao-xv",
+      "titulo": "Papa João XV",
+      "categoria": "papas",
+      "resumo": "Papa que realizou a primeira canonização formal de um santo por processo pontifício documentado — Santo Ulrico de Augsburgo, em 993.",
+      "corpo": "João XV governou entre 985 e 996, período em que a poderosa família romana dos Crescêncio exercia controle político equivalente ao que os Teofilactos haviam exercido décadas antes. Seu pontificado é lembrado por um marco processual importante: em 993, canonizou formalmente Santo Ulrico de Augsburgo num sínodo romano, sendo esse o primeiro caso bem documentado de canonização feita diretamente por decisão papal, prenunciando o processo centralizado que a Igreja desenvolveria plenamente nos séculos seguintes.",
+      "tags": [
+        "família Crescêncio",
+        "primeira canonização papal",
+        "século X"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Pope_John_XV_Illustration.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 139,
+      "pontificado_inicio": "985",
+      "pontificado_fim": "1 de março de 996",
+      "fontes": [
+        "Atas do Sínodo Romano sobre a canonização de Santo Ulrico (993)",
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:gregorio-v",
+      "slug": "gregorio-v",
+      "titulo": "Papa Gregório V",
+      "categoria": "papas",
+      "resumo": "Primeiro papa de origem germânica, indicado por seu primo, o imperador Otão III; foi expulso de Roma por um golpe e depois restaurado pela força.",
+      "corpo": "Bruno de Caríntia, primo do imperador Otão III, tornou-se em 996 o primeiro papa de origem germânica da história, com o nome de Gregório V. Pouco depois, uma revolta liderada por Crescêncio II expulsou-o de Roma e instalou um antipapa em seu lugar. Otão III retornou à Itália com um exército, restaurou Gregório V ao trono, mandou executar Crescêncio II e puniu severamente o antipapa deposto — episódio que demonstrou, mais uma vez, o quanto o papado dependia do apoio militar imperial para se manter diante das facções romanas.",
+      "tags": [
+        "Sacro Império",
+        "família Crescêncio",
+        "século X"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Pope_Gregory_V.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 140,
+      "pontificado_inicio": "13 de maio de 996",
+      "pontificado_fim": "18 de fevereiro de 999",
+      "fontes": [
+        "Liber Pontificalis",
+        "Thietmar de Merseburgo, «Crônica»"
+      ]
+    },
+    {
+      "id": "papas:silvestre-ii",
+      "slug": "silvestre-ii",
+      "titulo": "São Silvestre II",
+      "categoria": "papas",
+      "resumo": "Primeiro papa francês, um dos maiores eruditos de seu tempo em matemática; lendas tardias, sem base histórica, o acusaram de feitiçaria por esse saber.",
+      "corpo": "Gerbert de Aurillac, tutor do jovem imperador Otão III, tornou-se em 999 o primeiro papa de origem francesa, adotando o nome de Silvestre II. Antes de ser eleito, já era reconhecido como um dos maiores eruditos de seu tempo, com contribuições em matemática, na construção de instrumentos astronômicos e na difusão, no Ocidente latino, do ábaco aperfeiçoado e dos algarismos de origem árabe.\n\nEsse mesmo saber incomum para a época alimentou, séculos depois, lendas sem qualquer base histórica que o acusavam de ter obtido conhecimento através de pactos com forças ocultas — fabricações tardias que a pesquisa histórica moderna rejeita por completo, reconhecendo nele um dos maiores intelectuais do seu século.",
+      "tags": [
+        "matemática medieval",
+        "primeiro papa francês",
+        "lenda tardia",
+        "século X"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Meister_der_Reichenauer_Schule_002_%28cropped%29.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 141,
+      "pontificado_inicio": "12 de abril de 999",
+      "pontificado_fim": "12 de maio de 1003",
+      "fontes": [
+        "Richer de Reims, «Historiae»",
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:joao-xvii",
+      "slug": "joao-xvii",
+      "titulo": "Papa João XVII",
+      "categoria": "papas",
+      "resumo": "Papa de pontificado brevíssimo, instalado ainda sob a influência da família Crescêncio.",
+      "corpo": "João XVII governou por apenas cerca de cinco meses em 1003, período em que a família Crescêncio ainda mantinha influência considerável sobre a escolha e a atuação dos papas romanos, embora já em processo de declínio frente ao poder imperial germânico.",
+      "tags": [
+        "família Crescêncio",
+        "século XI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ioannes_XVII_%28XVIII%29.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 142,
+      "pontificado_inicio": "junho de 1003",
+      "pontificado_fim": "outubro de 1003",
+      "fontes": [
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:joao-xviii",
+      "slug": "joao-xviii",
+      "titulo": "Papa João XVIII",
+      "categoria": "papas",
+      "resumo": "Papa que, em gesto raro para a época, renunciou ao cargo e se retirou para a vida monástica antes de morrer.",
+      "corpo": "João XVIII governou entre 1003 e 1009, ainda sob considerável influência da família Crescêncio sobre os assuntos romanos. Ao final de seu pontificado, renunciou voluntariamente ao papado — gesto raro na história medieval — e retirou-se para viver como monge num mosteiro romano, onde viveu seus últimos dias.",
+      "tags": [
+        "renúncia papal",
+        "família Crescêncio",
+        "século XI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/03/Ioannes_XVIII_%28XIX%29.png",
+      "imagem_credito": null,
+      "numero_ordem": 143,
+      "pontificado_inicio": "31 de dezembro de 1003",
+      "pontificado_fim": "24 de julho de 1009",
+      "fontes": [
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:sergio-iv",
+      "slug": "sergio-iv",
+      "titulo": "Papa Sérgio IV",
+      "categoria": "papas",
+      "resumo": "Papa de pontificado pouco documentado, reinando no ocaso da influência política da família Crescêncio sobre Roma.",
+      "corpo": "Sérgio IV governou entre 1009 e 1012, nos últimos anos em que a família Crescêncio ainda mantinha alguma influência sobre a política romana, prestes a ser substituída pelo domínio da família dos Condes de Tusculum, que dominaria o papado pelas décadas seguintes. Pouco se sabe com detalhe sobre atos concretos de seu governo.",
+      "tags": [
+        "família Crescêncio",
+        "século XI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Sergius_IV_%28Saint_Paul_Outside_the_Walls%29.png",
+      "imagem_credito": null,
+      "numero_ordem": 144,
+      "pontificado_inicio": "12 de agosto de 1009",
+      "pontificado_fim": "12 de maio de 1012",
+      "fontes": [
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:sao-bento-viii",
+      "slug": "sao-bento-viii",
+      "titulo": "São Bento VIII",
+      "categoria": "papas",
+      "resumo": "Papa da família dos Condes de Tusculum que coroou o imperador Henrique II e introduziu o \"Filioque\" no Credo cantado em Roma, a pedido imperial.",
+      "corpo": "Membro da influente família dos Condes de Tusculum, que substituiria os Crescêncio no domínio da política romana, Bento VIII governou entre 1012 e 1024. Coroou o rei germânico Henrique II como imperador em 1014, e organizou resistência naval contra incursões sarracenas que ameaçavam a Sardenha e o litoral italiano.\n\nFoi também a pedido de Henrique II que Bento VIII introduziu, em 1014, a cláusula «Filioque» («e do Filho») no Credo Niceno-Constantinopolitano cantado na liturgia romana — prática já comum havia séculos na Espanha e nos reinos francos, mas até então ausente da liturgia da própria Roma. A adoção romana dessa fórmula, referente à procissão do Espírito Santo do Pai e do Filho, tornaria-se um dos pontos de atrito teológico mais persistentes com as Igrejas do Oriente.",
+      "tags": [
+        "Filioque",
+        "Condes de Tusculum",
+        "coroação imperial",
+        "século XI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/B_Benedikt_VIII.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 145,
+      "pontificado_inicio": "30 de maio de 1012",
+      "pontificado_fim": "9 de abril de 1024",
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 246 (sobre o Filioque)",
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:joao-xix",
+      "slug": "joao-xix",
+      "titulo": "Papa João XIX",
+      "categoria": "papas",
+      "resumo": "Irmão de Bento VIII, foi ordenado e consagrado em rápida sucessão irregular no mesmo dia de sua eleição; coroou o imperador Conrado II.",
+      "corpo": "Irmão de Bento VIII, João XIX era ainda leigo quando eleito papa em 1024, sendo ordenado a todos os graus do clero e consagrado bispo de Roma no mesmo dia — sucessão excepcionalmente rápida, possibilitada pela influência da família dos Condes de Tusculum, que assim mantinha o controle da Sé de Roma. Coroou o rei germânico Conrado II como imperador em 1027.",
+      "tags": [
+        "Condes de Tusculum",
+        "ordenação irregular",
+        "século XI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Bari_Exultet_roll_1_-_emperors_and_pope_%28pope1%29.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 146,
+      "pontificado_inicio": "25 de abril de 1024",
+      "pontificado_fim": "15 de outubro de 1032",
+      "fontes": [
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:bento-ix",
+      "slug": "bento-ix",
+      "titulo": "Papa Bento IX",
+      "categoria": "papas",
+      "resumo": "Único papa da história a ocupar o cargo três vezes; vendeu o papado ao próprio padrinho em 1045, um dos casos de simonia mais notórios já registrados.",
+      "corpo": "Sobrinho dos dois papas anteriores, Bento IX chegou ao papado ainda muito jovem, em 1032, graças à influência contínua da família dos Condes de Tusculum — sua idade exata na eleição é discutida pelas fontes, mas era certamente incomum para o cargo. Sua conduta pessoal, segundo relatos hostis contemporâneos e de gerações seguintes, era escandalosa mesmo para os padrões já baixos do período.\n\nEm 1045, sob pressão de facções rivais romanas, Bento IX vendeu literalmente o papado ao próprio padrinho, o arcipreste João Graciano, que assumiu como Gregório VI — um dos casos de simonia (venda de cargo eclesiástico) mais notórios e mais bem documentados de toda a história da Igreja. Ainda assim, Bento IX retornaria ao poder por duas vezes mais em anos seguintes, em meio ao caos sucessório que levaria à intervenção decisiva do imperador Henrique III no Sínodo de Sutri (1046), sendo definitivamente afastado após a terceira tentativa, em 1048.",
+      "tags": [
+        "simonia",
+        "Condes de Tusculum",
+        "século XI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Benedictus_IX_%28Saint_Paul_Outside_the_Walls%29.png",
+      "imagem_credito": null,
+      "numero_ordem": 147,
+      "pontificado_inicio": "outubro de 1032",
+      "pontificado_fim": "1048 (com duas interrupções)",
+      "fontes": [
+        "Atas do Sínodo de Sutri (1046)",
+        "Rodolfo Glaber, «Histórias»"
+      ]
+    },
+    {
+      "id": "papas:silvestre-iii",
+      "slug": "silvestre-iii",
+      "titulo": "Papa Silvestre III",
+      "categoria": "papas",
+      "resumo": "Papa instalado brevemente por uma facção romana rival enquanto Bento IX ainda reivindicava o cargo, num dos episódios mais confusos da sucessão papal medieval.",
+      "corpo": "Silvestre III foi elevado ao papado no início de 1045 por uma facção romana opositora à família dos Condes de Tusculum, enquanto Bento IX — afastado de Roma naquele momento, mas ainda reivindicando legitimidade — permanecia tecnicamente papa aos olhos de outra parte do clero. Silvestre foi expulso de Roma por partidários de Bento IX poucas semanas depois, e sua posição nesse episódio confuso continua sendo objeto de discussão entre historiadores do papado até hoje.",
+      "tags": [
+        "disputa papal",
+        "Condes de Tusculum",
+        "século XI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Pope_Sylvester_III_%E2%80%93_Nuremberg_chronicles_f_188v_1.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 148,
+      "pontificado_inicio": "26 de janeiro de 1045",
+      "pontificado_fim": "16 de março de 1045",
+      "fontes": [
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:gregorio-vi",
+      "slug": "gregorio-vi",
+      "titulo": "Papa Gregório VI",
+      "categoria": "papas",
+      "resumo": "Arcipreste que comprou o papado do próprio afilhado Bento IX, aparentemente com a intenção de encerrar o escândalo; foi deposto por simonia no Sínodo de Sutri.",
+      "corpo": "João Graciano, arcipreste respeitado por sua reputação pessoal, pagou uma soma a seu afilhado Bento IX em 1045 para que este renunciasse ao papado, assumindo o cargo como Gregório VI — transação que, segundo alguns relatos, teria intenção de encerrar o escândalo do pontificado anterior, mas que constituía, ainda assim, simonia, a compra ou venda de um cargo eclesiástico, uma das faltas mais graves reconhecidas pelo direito canônico.\n\nO imperador Henrique III, alarmado com o triplo impasse sucessório entre Bento IX, Silvestre III e Gregório VI, convocou o Sínodo de Sutri em 1046, que depôs os três — Gregório VI por reconhecer a irregularidade de sua própria elevação — e abriu caminho para uma série de papas reformadores indicados por influência germânica, marco inicial do que se tornaria a grande Reforma Gregoriana do fim daquele século.",
+      "tags": [
+        "simonia",
+        "Sínodo de Sutri",
+        "reforma gregoriana",
+        "século XI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Gregorius_VI_%28Saint_Paul_Outside_the_Walls%29.png",
+      "imagem_credito": null,
+      "numero_ordem": 149,
+      "pontificado_inicio": "1 de maio de 1045",
+      "pontificado_fim": "20 de dezembro de 1046",
+      "fontes": [
+        "Atas do Sínodo de Sutri (1046)",
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:clemente-ii",
+      "slug": "clemente-ii",
+      "titulo": "Papa Clemente II",
+      "categoria": "papas",
+      "resumo": "Bispo alemão elevado ao papado pelo imperador Henrique III após o Sínodo de Sutri, iniciando a série de papas reformadores que precederam a Reforma Gregoriana.",
+      "corpo": "Bispo de Bamberg, na Germânia, Clemente II foi indicado por Henrique III logo após o Sínodo de Sutri depor os três pretendentes rivais ao papado, sendo consagrado e coroando o próprio Henrique III como imperador no mesmo dia, em dezembro de 1046. Iniciou esforços concretos de combate à simonia, dando início a uma sequência de papas de origem germânica, indicados por influência imperial mas genuinamente comprometidos com a reforma da disciplina eclesiástica — precursores diretos da Reforma Gregoriana que marcaria a segunda metade do século XI. Morreu menos de um ano depois, em circunstâncias que exames modernos de seus restos mortais associaram a envenenamento por chumbo, possivelmente de origem medicinal e acidental.",
+      "tags": [
+        "reforma gregoriana",
+        "Sínodo de Sutri",
+        "coroação imperial",
+        "século XI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Clemens_II_%28Saint_Paul_Outside_the_Walls%29.png",
+      "imagem_credito": null,
+      "numero_ordem": 150,
+      "pontificado_inicio": "24 de dezembro de 1046",
+      "pontificado_fim": "9 de outubro de 1047",
+      "fontes": [
+        "Atas do Sínodo de Sutri (1046)",
+        "Estudo forense sobre os restos de Clemente II (2007)"
+      ]
+    },
+    {
       "id": "papas:sao-gregorio-vii",
       "slug": "sao-gregorio-vii",
       "titulo": "São Gregório VII",
