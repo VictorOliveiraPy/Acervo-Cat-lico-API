@@ -155,6 +155,184 @@
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Hoffman-ChristAndTheRichYoungRuler.jpg",
       "imagem_credito": null,
       "ordem": 9
+    },
+    {
+      "id": "vocacoes-estados-de-vida:celibato-sacerdotal",
+      "slug": "celibato-sacerdotal",
+      "titulo": "O Celibato Sacerdotal",
+      "categoria": "vocacoes-estados-de-vida",
+      "resumo": "Disciplina da Igreja latina pela qual os candidatos ao presbiterado renunciam ao matrimônio, unindo-se a Cristo com coração indiviso para se dedicar mais livremente ao serviço de Deus e dos homens.",
+      "corpo": "O celibato sacerdotal — a renúncia ao matrimônio por parte de quem se prepara para o presbiterado na Igreja latina — não é dogma de fé nem exigência da própria natureza do sacerdócio, mas disciplina eclesiástica com longa tradição, solenemente reafirmada pelo Concílio de Trento e hoje codificada no cânon 277 do Código de Direito Canônico. O Concílio Vaticano II, no decreto Presbyterorum Ordinis, ensina que esse celibato \"por causa do Reino dos Céus\" é sinal e estímulo da caridade pastoral, permitindo ao padre unir-se a Cristo com coração indiviso e dedicar-se mais livre e totalmente ao serviço de Deus e dos homens. A disciplina não vale, note-se, para as Igrejas orientais católicas, que mantêm a tradição de ordenar também homens casados ao presbiterado.",
+      "tags": [
+        "celibato sacerdotal",
+        "cânon 277",
+        "Presbyterorum Ordinis"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 10
+    },
+    {
+      "id": "vocacoes-estados-de-vida:conselhos-evangelicos",
+      "slug": "conselhos-evangelicos",
+      "titulo": "Os Conselhos Evangélicos",
+      "categoria": "vocacoes-estados-de-vida",
+      "resumo": "Pobreza, castidade e obediência, propostos por Cristo no Evangelho a quem quiser segui-lo mais de perto, são o fundamento comum sobre o qual se constrói toda forma de vida consagrada.",
+      "corpo": "Distintos dos mandamentos, que obrigam a todo cristão, os conselhos evangélicos — castidade perfeita pelo Reino dos Céus, pobreza voluntária e obediência — são propostos por Cristo no Evangelho não como obrigação universal, mas como caminho de perfeição livremente oferecido a quem se sinta chamado a segui-lo mais de perto. O Catecismo da Igreja Católica ensina que é precisamente a profissão pública e estável desses três conselhos, assumida em um instituto reconhecido pela Igreja, que caracteriza tecnicamente a \"vida consagrada\" e a distingue de outras formas de vida cristã. Cada um dos três conselhos responde a uma tentação humana fundamental — o apego aos bens, ao prazer e à própria vontade — e antecipa, de modo visível, a liberdade definitiva dos filhos de Deus.",
+      "tags": [
+        "conselhos evangélicos",
+        "vida consagrada",
+        "pobreza",
+        "castidade",
+        "obediência"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 11
+    },
+    {
+      "id": "vocacoes-estados-de-vida:vida-eremitica",
+      "slug": "vida-eremitica",
+      "titulo": "A Vida Eremítica",
+      "categoria": "vocacoes-estados-de-vida",
+      "resumo": "Reconhecida pelo cânon 603 do Código de Direito Canônico, permite que fiéis se consagrem a Deus vivendo em solidão, silêncio e penitência, sob a orientação do bispo diocesano.",
+      "corpo": "Ao lado da vida religiosa comunitária, a Igreja reconhece formalmente a vida eremítica ou anacorética como forma própria e distinta de vida consagrada: o eremita se afasta mais estritamente do mundo, no silêncio da solidão, na oração assídua e na penitência, dedicando a vida ao louvor de Deus e à salvação do mundo. O cânon 603 do Código de Direito Canônico exige, para esse reconhecimento jurídico, a profissão pública dos três conselhos evangélicos nas mãos do bispo diocesano, confirmada por voto ou outro vínculo sagrado, e a vida sob a orientação desse mesmo bispo — diferentemente do monge cenobita, o eremita diocesano não pertence a um instituto religioso e deve, em regra, prover o próprio sustento.",
+      "tags": [
+        "vida eremítica",
+        "cânon 603",
+        "eremitismo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Jusepe_de_Ribera_-_Saint_Paul_the_Hermit_-_Walters_37278.jpg",
+      "imagem_credito": null,
+      "ordem": 12
+    },
+    {
+      "id": "vocacoes-estados-de-vida:sociedades-de-vida-apostolica",
+      "slug": "sociedades-de-vida-apostolica",
+      "titulo": "Sociedades de Vida Apostólica",
+      "categoria": "vocacoes-estados-de-vida",
+      "resumo": "Categoria canônica distinta da vida consagrada: seus membros vivem em fraternidade comum e perseguem um fim apostólico próprio, sem professar necessariamente votos religiosos.",
+      "corpo": "O Código de Direito Canônico (cânones 731-746) reconhece, ao lado dos institutos religiosos e dos institutos seculares, uma terceira categoria: as sociedades de vida apostólica, cujos membros buscam a finalidade apostólica própria da sociedade levando vida fraterna em comum, segundo um modo de vida determinado pelas próprias constituições, tendendo à perfeição da caridade por meio de sua observância. A diferença fundamental em relação aos institutos de vida consagrada é que os membros de uma sociedade de vida apostólica, ao menos como regra, não emitem os votos religiosos públicos de pobreza, castidade e obediência — embora algumas sociedades prevejam, em suas próprias constituições, algum vínculo sagrado equivalente. São exemplos históricos a Congregação da Missão (vicentinos) e as Filhas da Caridade.",
+      "tags": [
+        "sociedades de vida apostólica",
+        "direito canônico",
+        "vida fraterna"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 13
+    },
+    {
+      "id": "vocacoes-estados-de-vida:ordens-terceiras-seculares",
+      "slug": "ordens-terceiras-seculares",
+      "titulo": "Ordens Terceiras Seculares",
+      "categoria": "vocacoes-estados-de-vida",
+      "resumo": "Associações de leigos e clérigos diocesanos que vivem, em seu próprio estado de vida no mundo, a espiritualidade e a regra de uma família religiosa, como a franciscana ou a carmelita.",
+      "corpo": "Ao lado da \"primeira ordem\" (os religiosos) e da \"segunda ordem\" (os ramos femininos contemplativos), diversas famílias religiosas medievais deram origem a uma \"ordem terceira\" ou \"ordem secular\": associações de fiéis leigos — e também clérigos diocesanos — que, sem deixar seu estado de vida comum no mundo (casados, solteiros, viúvos), professam viver a espiritualidade e seguir a regra própria daquela família religiosa adaptada à vida secular. O exemplo mais conhecido é a Ordem Franciscana Secular (OFS), criada pelo próprio Francisco de Assis para leigos que não podiam ou não queriam \"abandonar o mundo\", mas desejavam santificar-se dentro dele seguindo o espírito franciscano; outras famílias religiosas, como a carmelita e a dominicana, têm ramos seculares análogos.",
+      "tags": [
+        "ordens terceiras",
+        "leigos",
+        "espiritualidade franciscana"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 14
+    },
+    {
+      "id": "vocacoes-estados-de-vida:irmao-religioso",
+      "slug": "irmao-religioso",
+      "titulo": "O Irmão Religioso",
+      "categoria": "vocacoes-estados-de-vida",
+      "resumo": "Religioso consagrado pelos votos de pobreza, castidade e obediência que não recebe o sacramento da Ordem, vivendo sua vocação pelo trabalho, pela oração comunitária e pelo testemunho fraterno.",
+      "corpo": "Nem todo religioso é padre: o \"irmão\" é o religioso professo — de votos temporários ou perpétuos — que não é ordenado presbítero nem diácono, vivendo sua consagração integralmente através do testemunho fraterno, do trabalho e da oração em comunidade, sem o exercício do ministério sacramental próprio dos ordenados. Nos primeiros séculos da vida monástica, a maioria dos monges era, nesse sentido, leiga — a ordenação sacerdotal de boa parte dos religiosos é desenvolvimento histórico posterior — e institutos como os Irmãos Maristas ou os Irmãos das Escolas Cristãs foram fundados precisamente para serem compostos, em sua totalidade, por irmãos não ordenados. A Igreja insiste em que essa vocação específica não é uma etapa \"menor\" ou incompleta rumo ao sacerdócio, mas forma plena e completa, em si mesma, de vida consagrada.",
+      "tags": [
+        "irmão religioso",
+        "vida consagrada masculina",
+        "votos religiosos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 15
+    },
+    {
+      "id": "vocacoes-estados-de-vida:noviciado-e-profissao-religiosa",
+      "slug": "noviciado-e-profissao-religiosa",
+      "titulo": "Noviciado e Profissão Religiosa",
+      "categoria": "vocacoes-estados-de-vida",
+      "resumo": "O caminho formal de iniciação a um instituto religioso, do período de noviciado aos votos temporários e, por fim, à profissão perpétua.",
+      "corpo": "Antes de assumir de modo estável os conselhos evangélicos, quem ingressa em um instituto religioso passa pelo noviciado — período, segundo o cânon 646 do Código de Direito Canônico, destinado a que o noviço conheça melhor sua vocação e a vocação própria do instituto, faça experiência concreta de seu modo de vida e comprove sua intenção e idoneidade, com duração mínima de um ano e máxima de dois. Concluído o noviciado, o religioso emite a profissão temporária — por um período determinado, geralmente entre três e seis anos —, renovável, até que, avaliada sua maturidade vocacional, seja admitido à profissão perpétua, vínculo definitivo e estável pelo qual se incorpora de modo pleno e irrevogável ao instituto escolhido.",
+      "tags": [
+        "noviciado",
+        "votos temporários",
+        "votos perpétuos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 16
+    },
+    {
+      "id": "vocacoes-estados-de-vida:sacerdocio-comum-dos-fieis",
+      "slug": "sacerdocio-comum-dos-fieis",
+      "titulo": "O Sacerdócio Comum dos Fiéis",
+      "categoria": "vocacoes-estados-de-vida",
+      "resumo": "Todo batizado participa, à sua maneira, do único sacerdócio de Cristo — participação distinta em essência, e não apenas em grau, do sacerdócio ministerial dos ordenados.",
+      "corpo": "A constituição conciliar Lumen Gentium ensina, no seu número 10, que Cristo constituiu todo o povo batizado em \"reino de sacerdotes\" para Deus, de modo que cada fiel, pelo exercício da fé, da esperança e da caridade e pela vida sacramental, participa realmente do único sacerdócio de Cristo — o chamado sacerdócio comum ou batismal. O mesmo texto afirma, contudo, que esse sacerdócio comum e o sacerdócio ministerial dos ordenados, embora ambos derivem do único sacerdócio de Cristo e estejam ordenados um ao outro, diferem entre si não apenas em grau, mas em essência: o sacerdócio ministerial existe precisamente para servir e desenvolver o sacerdócio comum de todo o povo de Deus, e não o substitui nem o absorve.",
+      "tags": [
+        "Lumen Gentium",
+        "sacerdócio comum",
+        "sacerdócio batismal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Piero_della_Francesca_-_Baptism_of_Christ_-_WGA17595.jpg",
+      "imagem_credito": null,
+      "ordem": 17
+    },
+    {
+      "id": "vocacoes-estados-de-vida:vida-contemplativa-e-vida-ativa",
+      "slug": "vida-contemplativa-e-vida-ativa",
+      "titulo": "Vida Contemplativa e Vida Ativa na Vida Consagrada",
+      "categoria": "vocacoes-estados-de-vida",
+      "resumo": "Dentro da vida consagrada, institutos se distinguem por priorizar a oração e a clausura ou a ação apostólica direta junto ao povo de Deus — dois modos legítimos e complementares do mesmo chamado.",
+      "corpo": "Nem toda vida consagrada tem a mesma forma concreta: institutos de vida contemplativa — como cartuxos, trapistas ou carmelitas descalças — organizam-se em torno da clausura, do silêncio e da oração litúrgica e pessoal como ocupação central e quase exclusiva, colocando de modo mais explícito a oração no centro da existência. Já institutos de vida apostólica ativa — como salesianos, redentoristas ou muitas congregações de irmãs dedicadas à educação e à saúde — unem a oração comunitária a uma missão apostólica direta e visível junto ao povo, como o ensino, o cuidado dos doentes ou a evangelização. A exortação apostólica Vita Consecrata, de São João Paulo II, ensina que essa diversidade de formas não indica hierarquia de valor entre contemplação e ação, mas a riqueza de carismas com que o Espírito Santo continua a enriquecer a Igreja.",
+      "tags": [
+        "vida contemplativa",
+        "vida ativa",
+        "Vita Consecrata"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 18
+    },
+    {
+      "id": "vocacoes-estados-de-vida:diaconato-transitorio",
+      "slug": "diaconato-transitorio",
+      "titulo": "O Diaconato Transitório",
+      "categoria": "vocacoes-estados-de-vida",
+      "resumo": "Etapa obrigatória no caminho ao presbiterado, na qual o candidato recebe o primeiro grau do sacramento da Ordem antes de ser ordenado padre.",
+      "corpo": "Diferentemente do diaconato permanente, assumido como vocação estável e definitiva, o diaconato transitório é a ordenação diaconal recebida por todo candidato ao presbiterado como etapa necessária do próprio itinerário sacramental: ninguém é ordenado padre sem antes ter sido ordenado diácono. Concluídos os estudos de filosofia e teologia, o futuro presbítero exerce o ministério diaconal — pregação, batismo, assistência a casamentos, serviço litúrgico e caritativo — por um período relativamente breve, geralmente entre seis meses e um ano, definido pelo bispo diocesano ou pelo superior religioso competente, antes de receber a ordenação presbiteral propriamente dita.",
+      "tags": [
+        "diaconato transitório",
+        "formação sacerdotal",
+        "sacramento da Ordem"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 19
+    },
+    {
+      "id": "vocacoes-estados-de-vida:seminario-maior-e-formacao-sacerdotal",
+      "slug": "seminario-maior-e-formacao-sacerdotal",
+      "titulo": "O Seminário Maior e a Formação Sacerdotal",
+      "categoria": "vocacoes-estados-de-vida",
+      "resumo": "A casa e o processo formativo pelos quais a Igreja acompanha o discernimento e a preparação, ao longo de várias etapas sucessivas, dos candidatos ao sacerdócio ministerial.",
+      "corpo": "O seminário maior é a instituição onde a Igreja acolhe e forma, ao longo de vários anos, os candidatos ao presbiterado, unindo formação humana, espiritual, intelectual e pastoral. Segundo a Ratio Fundamentalis Institutionis Sacerdotalis, documento da Congregação para o Clero que rege atualmente essa formação em toda a Igreja latina, o itinerário se estrutura em quatro etapas sucessivas: a etapa propedêutica, dedicada ao discernimento vocacional inicial e ao amadurecimento humano e espiritual; a etapa do discipulado, correspondente aos estudos filosóficos; a etapa da configuração, correspondente à teologia; e a etapa de síntese vocacional, de caráter mais diretamente pastoral, que antecede a ordenação. O processo completo costuma se estender por sete a oito anos.",
+      "tags": [
+        "seminário maior",
+        "formação sacerdotal",
+        "Ratio Fundamentalis"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 20
     }
   ]
 }

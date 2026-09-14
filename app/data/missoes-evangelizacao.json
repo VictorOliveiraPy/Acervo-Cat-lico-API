@@ -12,5 +12,344 @@
       "Documentos pontifícios sobre missões (ex.: Redemptoris Missio)"
     ]
   },
-  "itens": []
+  "itens": [
+    {
+      "id": "missoes-evangelizacao:francisco-xavier",
+      "slug": "francisco-xavier",
+      "titulo": "São Francisco Xavier",
+      "categoria": "missoes-evangelizacao",
+      "resumo": "Jesuíta espanhol, companheiro de Santo Inácio de Loyola, conhecido como \"Apóstolo das Índias\" por sua missão evangelizadora na Ásia e no Japão.",
+      "corpo": "Nascido no castelo de Xavier, na Navarra, Francisco de Xavier conheceu Inácio de Loyola em Paris e foi um dos primeiros companheiros a fundar com ele a Companhia de Jesus. Embarcou para a Índia em 1541 a pedido do rei de Portugal e, durante cerca de dez anos, evangelizou em Goa, Malaca, nas Ilhas Molucas e, a partir de 1549, no Japão, onde iniciou uma missão então inédita para o cristianismo no Extremo Oriente. Morreu em 1552 na ilha de Sanchoão, ao largo da costa chinesa, para onde tentava entrar clandestinamente para pregar o Evangelho; foi canonizado em 1622 e é hoje padroeiro universal das missões.",
+      "tags": [
+        "Francisco Xavier",
+        "jesuítas",
+        "Ásia",
+        "Japão"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Franciscus_de_Xabier.jpg",
+      "imagem_credito": null,
+      "tipo": "missionario",
+      "regiao": "Índia, Sudeste Asiático e Japão",
+      "seculo": "século XVI",
+      "fontes": [
+        "Vatican News: S. Francisco Xavier, presbítero jesuíta, evangelizador das Índias",
+        "Martirológio Romano (edição típica, 2004)"
+      ]
+    },
+    {
+      "id": "missoes-evangelizacao:matteo-ricci",
+      "slug": "matteo-ricci",
+      "titulo": "Matteo Ricci",
+      "categoria": "missoes-evangelizacao",
+      "resumo": "Missionário jesuíta italiano que introduziu o cristianismo na China imperial através do método da inculturação, adotando a língua e os costumes chineses.",
+      "corpo": "Formado em direito, matemática e astronomia no Colégio Romano, Matteo Ricci partiu para a missão do Extremo Oriente e viveu na China por 28 anos, até sua morte em Pequim em 1610. Em vez de impor costumes e a língua latina ocidentais, aprendeu profundamente a língua e a cultura chinesas, vestindo-se como um letrado confuciano e dialogando com a elite intelectual do império Ming — método hoje reconhecido como um dos primeiros e mais bem-sucedidos exemplos de \"inculturação\" missionária na história da Igreja. É considerado o fundador das missões católicas modernas na China, e recebeu do governo imperial a honra, rara para um estrangeiro, de ser sepultado em solo chinês; em 2022 o Papa Francisco o declarou Venerável.",
+      "tags": [
+        "Matteo Ricci",
+        "jesuítas",
+        "China",
+        "inculturação"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "missionario",
+      "regiao": "China",
+      "seculo": "séculos XVI-XVII",
+      "fontes": [
+        "The Society of Jesus: Matteo Ricci, missionary of inculturation",
+        "IHU Online: Quem foi Matteo Ricci?"
+      ]
+    },
+    {
+      "id": "missoes-evangelizacao:jose-de-anchieta",
+      "slug": "jose-de-anchieta",
+      "titulo": "São José de Anchieta",
+      "categoria": "missoes-evangelizacao",
+      "resumo": "Jesuíta espanhol conhecido como \"Apóstolo do Brasil\", catequista dos povos indígenas e cofundador da cidade de São Paulo.",
+      "corpo": "Nascido em Tenerife, José de Anchieta chegou ao Brasil em 1553, ainda noviço jesuíta, a convite do padre Manuel da Nóbrega, para catequizar os povos indígenas da colônia portuguesa. Aprendeu a língua tupi a ponto de compor sua primeira gramática sistemática, usando poesia e teatro catequético como instrumentos de evangelização adaptados à cultura local. Junto com Nóbrega, fundou em 1554 o Colégio de São Paulo de Piratininga, origem da atual cidade de São Paulo, e em 1563 permaneceu refém por meses durante um conflito com os índios Tamoios, contribuindo depois para a pacificação da região. Beatificado em 1980, foi canonizado em 2014.",
+      "tags": [
+        "José de Anchieta",
+        "jesuítas",
+        "Brasil",
+        "catequese indígena"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Anchieta.jpg",
+      "imagem_credito": null,
+      "tipo": "missionario",
+      "regiao": "Brasil",
+      "seculo": "século XVI",
+      "fontes": [
+        "Vatican News: São José de Anchieta, Apóstolo do Brasil",
+        "Martirológio Romano (edição típica, 2004)"
+      ]
+    },
+    {
+      "id": "missoes-evangelizacao:charles-de-foucauld",
+      "slug": "charles-de-foucauld",
+      "titulo": "São Charles de Foucauld",
+      "categoria": "missoes-evangelizacao",
+      "resumo": "Ex-militar e explorador francês que se tornou eremita missionário entre os tuaregues do deserto do Saara, propondo uma missão de presença silenciosa e fraternidade universal.",
+      "corpo": "Nobre e militar francês de vida boêmia na juventude, Charles de Foucauld converteu-se profundamente aos 28 anos, tornou-se monge trapista e, mais tarde, eremita na Terra Santa, sendo ordenado sacerdote em 1901, já aos 43 anos. Partiu então para o deserto argelino do Saara, vivendo primeiro em Beni Abbès e depois em Tamanrasset, entre os tuaregues muçulmanos do Hoggar, sem jamais buscar conversões forçadas: propunha uma \"missão de presença\", vivendo entre eles como \"irmão universal\", em pobreza, oração e amizade silenciosa. Foi assassinado em 1916 junto à sua ermida; não deixou discípulos em vida, mas seus escritos inspiraram, décadas depois, a fundação de diversas congregações como os Pequenos Irmãos e as Pequenas Irmãs de Jesus. Foi canonizado pelo Papa Francisco em 15 de maio de 2022.",
+      "tags": [
+        "Charles de Foucauld",
+        "Saara",
+        "diálogo inter-religioso",
+        "vida eremítica"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Charles_de_Foucauld.jpg",
+      "imagem_credito": null,
+      "tipo": "missionario",
+      "regiao": "Argélia (deserto do Saara)",
+      "seculo": "séculos XIX-XX",
+      "fontes": [
+        "Vatican News: Charles de Foucauld, o postulador: irmão universal que imitou Jesus",
+        "ACI Digital: Charles de Foucauld e outros seis beatos serão declarados santos em 2022"
+      ]
+    },
+    {
+      "id": "missoes-evangelizacao:junipero-serra",
+      "slug": "junipero-serra",
+      "titulo": "São Junípero Serra",
+      "categoria": "missoes-evangelizacao",
+      "resumo": "Frade franciscano espanhol que fundou nove das missões que deram origem a importantes cidades da Califórnia; figura hoje reavaliada de modo crítico por parte da historiografia quanto ao tratamento dos povos indígenas.",
+      "corpo": "Nascido em Maiorca, na Espanha, Junípero Serra ingressou na Ordem Franciscana e partiu como missionário para o México, trabalhando primeiro junto ao povo indígena Pame na região de Sierra Gorda. A partir de 1769 tornou-se responsável pelas missões franciscanas na Califórnia, então território espanhol, percorrendo a pé milhares de quilômetros e fundando nove missões — entre elas as que deram origem às atuais cidades de São Francisco, São Diego e Los Angeles. Foi canonizado pelo Papa Francisco em 2015, em meio a controvérsia: historiadores e representantes de povos indígenas norte-americanos apontam que o sistema de missões californianas também impôs trabalho forçado, deslocamento cultural e condições que contribuíram para o colapso demográfico de comunidades nativas, um debate que a própria Igreja reconhece como parte necessária da avaliação histórica de sua obra.",
+      "tags": [
+        "Junípero Serra",
+        "franciscanos",
+        "Califórnia",
+        "missões da América do Norte"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Juniperro-serra.jpg",
+      "imagem_credito": null,
+      "tipo": "missionario",
+      "regiao": "Califórnia (América do Norte)",
+      "seculo": "século XVIII",
+      "fontes": [
+        "Agência Ecclesia: América 2015 — Papa canoniza franciscano que levou mensagem católica à Califórnia",
+        "Franciscanos OFM: São Junípero Serra"
+      ]
+    },
+    {
+      "id": "missoes-evangelizacao:missionarios-do-verbo-divino",
+      "slug": "missionarios-do-verbo-divino",
+      "titulo": "Missionários do Verbo Divino (SVD)",
+      "categoria": "missoes-evangelizacao",
+      "resumo": "Congregação de vocação exclusivamente missionária fundada na Holanda por Santo Arnaldo Janssen, hoje presente em dezenas de países de missão.",
+      "corpo": "Fundada em Steyl, nos atuais Países Baixos, pelo padre alemão Arnaldo Janssen, a Sociedade do Verbo Divino nasceu como reação ao Kulturkampf que dificultava então a vida sacerdotal na Alemanha, e como resposta a um chamado que Janssen sentia com urgência: formar missionários católicos alemães, já que o país não contava ainda com um instituto missionário próprio. A congregação recebeu aprovação canônica em 1901 e enviou seus primeiros missionários à China já em 1879, chegando ao Brasil em 1895; sua espiritualidade é centrada na Palavra de Deus (o \"Verbo Divino\" do evangelho de João) e na Santíssima Trindade como fonte de toda missão.",
+      "tags": [
+        "Missionários do Verbo Divino",
+        "Arnaldo Janssen",
+        "ordens missionárias"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "ordem_missionaria",
+      "regiao": "Missão ad gentes global (origem na Alemanha e Países Baixos)",
+      "seculo": "séculos XIX-XX",
+      "fontes": [
+        "Vatican News: Padre Anselmo Ribeiro — os 150 anos da fundação da Sociedade do Verbo Divino",
+        "Wikipédia: Missionários do Verbo Divino"
+      ]
+    },
+    {
+      "id": "missoes-evangelizacao:missionarios-da-consolata",
+      "slug": "missionarios-da-consolata",
+      "titulo": "Missionários da Consolata",
+      "categoria": "missoes-evangelizacao",
+      "resumo": "Instituto missionário fundado em Turim por São Giuseppe Allamano, dedicado sobretudo à evangelização de países da África Oriental.",
+      "corpo": "Fundado em Turim por Giuseppe Allamano, reitor do santuário da Consolata e sobrinho de São José Cafasso, o Instituto Missões Consolata recebeu aprovação eclesiástica em 1901 e enviou seus primeiros quatro missionários ao Quênia já em 1902. Allamano, que nunca chegou a viajar pessoalmente à África, insistia que seus missionários fossem \"santos antes de serem missionários\", priorizando a formação espiritual e humana como base de toda ação evangelizadora. A partir do Quênia, o instituto — que conta também com um ramo feminino, as Irmãs Missionárias da Consolata, fundado em 1910 — expandiu-se para a Etiópia, a Tanzânia, a Somália e Moçambique; Allamano foi canonizado em 2024.",
+      "tags": [
+        "Missionários da Consolata",
+        "Giuseppe Allamano",
+        "África"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Giuseppe_Allamano.jpg",
+      "imagem_credito": null,
+      "tipo": "ordem_missionaria",
+      "regiao": "África Oriental (Quênia, Etiópia, Tanzânia, Moçambique)",
+      "seculo": "séculos XIX-XX",
+      "fontes": [
+        "Vatican News: Ser santos antes de ser missionários — São Giuseppe Allamano",
+        "Consolata: Instituto Missões Consolata celebra 120 anos de fundação"
+      ]
+    },
+    {
+      "id": "missoes-evangelizacao:pime",
+      "slug": "pime",
+      "titulo": "Pontifício Instituto para as Missões Estrangeiras (PIME)",
+      "categoria": "missoes-evangelizacao",
+      "resumo": "Sociedade de vida apostólica que reúne padres seculares diocesanos dedicados exclusivamente à missão ad gentes, nascida da fusão de dois institutos missionários italianos.",
+      "corpo": "O PIME tem origem no Seminário Lombardo para as Missões Exteriores, fundado em Milão em 1850 pelo bispo Angelo Ramazzotti, o primeiro instituto missionário nascido na Itália. Em 1926, o Papa Pio XI, pelo motu proprio Cum missionalium opera, uniu esse seminário ao Pontifício Seminário Romano dos Santos Apóstolos Pedro e Paulo, dando origem ao atual Pontifício Instituto para as Missões Estrangeiras. Diferentemente de uma ordem religiosa, o PIME é uma sociedade de vida apostólica que reúne padres seculares diocesanos e leigos comprometidos exclusivamente com a missão entre povos ainda não evangelizados, atuando como auxiliar direto da Congregação para a Evangelização dos Povos em países da Ásia, África e América.",
+      "tags": [
+        "PIME",
+        "sociedades de vida apostólica",
+        "missão ad gentes"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "ordem_missionaria",
+      "regiao": "Ásia, África e América (origem na Itália)",
+      "seculo": "séculos XIX-XX",
+      "fontes": [
+        "Wikipédia: Pontifício Instituto para as Missões Estrangeiras",
+        "PIME Brasil: Quem somos"
+      ]
+    },
+    {
+      "id": "missoes-evangelizacao:reducoes-jesuiticas-do-paraguai",
+      "slug": "reducoes-jesuiticas-do-paraguai",
+      "titulo": "Reduções Jesuíticas do Paraguai (Missões Guarani)",
+      "categoria": "missoes-evangelizacao",
+      "resumo": "Aldeamentos missionários organizados por jesuítas junto aos povos guarani na América do Sul colonial, combinando evangelização, proteção contra a escravização e organização social própria.",
+      "corpo": "A partir do início do século XVII, por iniciativa de um grupo de jesuítas liderado por Diego de Torres Bollo, a Companhia de Jesus organizou nas bacias dos rios Paraná, Paraguai e Uruguai cerca de trinta \"reduções\" — aldeamentos onde populações guarani viviam sob organização social, econômica e religiosa própria, orientadas por dois ou três padres jesuítas, cada redução chegando a reunir milhares de indígenas em torno de uma praça central com igreja, escola, oficinas e hortas comunitárias. O projeto respondia tanto ao objetivo evangelizador quanto à necessidade de proteger os guarani da escravização por bandeirantes e colonos, gerando um modelo de organização territorial e cultural sem paralelo direto em outras missões coloniais da América. O sistema entrou em colapso após a expulsão dos jesuítas dos domínios espanhóis e portugueses, em fins do século XVIII; suas ruínas, hoje em território do Brasil, da Argentina e do Paraguai, são Patrimônio Mundial da UNESCO.",
+      "tags": [
+        "reduções jesuíticas",
+        "guarani",
+        "jesuítas",
+        "América colonial"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/28/San_Ignacio_Min%C3%AD_mission_ruins.jpg",
+      "imagem_credito": "Foto: Miguel Vieira (2011) — Wikimedia Commons, CC BY 2.0",
+      "tipo": "territorio",
+      "regiao": "Bacia do Prata (atuais Paraguai, Argentina e Brasil)",
+      "seculo": "séculos XVII-XVIII",
+      "fontes": [
+        "Portal Jesuítas Brasil: Reduções Jesuítico-Guarani — uma alternativa ao sistema de dominação colonial",
+        "Vatican News: Redescoberta e valorização da memória jesuítico-guarani"
+      ]
+    },
+    {
+      "id": "missoes-evangelizacao:seculo-cristao-do-japao",
+      "slug": "seculo-cristao-do-japao",
+      "titulo": "O \"Século Cristão\" do Japão",
+      "categoria": "missoes-evangelizacao",
+      "resumo": "Período de rápida expansão e depois violenta perseguição do cristianismo no Japão, entre a chegada de São Francisco Xavier em 1549 e o isolamento quase total do país no século XVII.",
+      "corpo": "Termo cunhado pelo historiador Charles Boxer, o \"Século Cristão\" designa o período que se abre com a chegada de Francisco Xavier ao Japão, em 1549, e no qual jesuítas e, depois, franciscanos e outras ordens estabeleceram uma comunidade cristã japonesa próspera, que chegou a ultrapassar 300 mil fiéis, com diocese própria erigida em 1588. A partir do final do século XVI, porém, o cristianismo passou a ser visto como ameaça política pelos governantes unificadores do Japão, num processo que culminou na crucificação de 26 mártires em Nagasaki (1597) e num edito de 1614 que expulsava do país todas as ordens religiosas e ordenava a demolição de igrejas. A perseguição sistemática que se seguiu levou ao surgimento dos \"kakure kirishitan\" (\"cristãos escondidos\"), comunidades que preservaram secretamente a fé, sem clero nem contato institucional com Roma, por mais de dois séculos, até serem redescobertas em meados do século XIX.",
+      "tags": [
+        "Japão",
+        "Kirishitan",
+        "perseguição religiosa"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "territorio",
+      "regiao": "Japão",
+      "seculo": "séculos XVI-XVII",
+      "fontes": [
+        "Wikipédia: Kirishitan (História da Igreja Católica no Japão)",
+        "e-cristianismo: A perseguição japonesa ao catolicismo e os kakure kirishitan"
+      ]
+    },
+    {
+      "id": "missoes-evangelizacao:martires-de-uganda",
+      "slug": "martires-de-uganda",
+      "titulo": "Mártires de Uganda",
+      "categoria": "missoes-evangelizacao",
+      "resumo": "Grupo de jovens cristãos da corte do reino de Buganda, executados entre 1885 e 1887 por se recusarem a renunciar à fé; canonizados em 1964 como testemunhas da evangelização na África.",
+      "corpo": "Entre 1885 e 1887, no reino africano de Buganda (atual Uganda), o jovem rei Mwanga II ordenou a perseguição de pajens e cortesãos católicos e anglicanos que se recusavam a ceder a suas exigências e permaneciam fiéis à instrução cristã recebida de missionários. Em 3 de junho de 1886, Carlos Lwanga e onze companheiros foram queimados vivos em Namugongo, em uma das execuções mais conhecidas do grupo, que somou ao todo cerca de vinte e dois mártires católicos beatificados. Canonizados pelo Papa Paulo VI em 18 de outubro de 1964, durante o Concílio Vaticano II, os Mártires de Uganda são hoje venerados como padroeiros da juventude africana, e o santuário construído em Namugongo — com formato inspirado na cabana tradicional africana — recebe anualmente milhares de peregrinos em 3 de junho.",
+      "tags": [
+        "mártires de Uganda",
+        "Carlos Lwanga",
+        "África",
+        "perseguição religiosa"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "martirio",
+      "regiao": "Reino de Buganda (atual Uganda)",
+      "seculo": "século XIX",
+      "fontes": [
+        "Vatican News: SS. Carlos Lwanga e Companheiros, mártires de Uganda",
+        "Martirológio Romano (edição típica, 2004)"
+      ]
+    },
+    {
+      "id": "missoes-evangelizacao:martires-do-japao-nagasaki",
+      "slug": "martires-do-japao-nagasaki",
+      "titulo": "Os 26 Mártires do Japão",
+      "categoria": "missoes-evangelizacao",
+      "resumo": "Grupo de três jesuítas, seis franciscanos e dezessete leigos japoneses crucificados em Nagasaki em 1597, primeiro grande martírio em massa do cristianismo no Japão.",
+      "corpo": "Em 5 de fevereiro de 1597, por ordem do governante Toyotomi Hideyoshi, vinte e seis cristãos — três jesuítas, seis franciscanos espanhóis e dezessete leigos e catequistas japoneses, entre eles adolescentes — foram crucificados na colina de Nishizaka, em Nagasaki, num dos primeiros atos de grande escala da perseguição que marcaria o fim do chamado Século Cristão japonês. Entre eles destacou-se Paulo Miki, jesuíta japonês que pregou aos presentes do alto de sua própria cruz, tornando-se o primeiro mártir e religioso nativo do Japão canonizado pela Igreja. Beatificados em 1627 e canonizados em 1862, os 26 Mártires do Japão são celebrados anualmente em 6 de fevereiro, e um monumento erguido em Nishizaka em 1962 marca até hoje o local de seu martírio.",
+      "tags": [
+        "mártires do Japão",
+        "Paulo Miki",
+        "Nagasaki",
+        "perseguição religiosa"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "martirio",
+      "regiao": "Nagasaki, Japão",
+      "seculo": "século XVI",
+      "fontes": [
+        "Vatican News: SS. Paulo Miki presbítero e Companheiros, mártires japoneses",
+        "Martirológio Romano (edição típica, 2004)"
+      ]
+    },
+    {
+      "id": "missoes-evangelizacao:ad-gentes",
+      "slug": "ad-gentes",
+      "titulo": "Ad Gentes (Decreto Conciliar sobre a Atividade Missionária)",
+      "categoria": "missoes-evangelizacao",
+      "resumo": "Decreto do Concílio Vaticano II que reafirma a natureza intrinsecamente missionária da Igreja e estabelece as bases da moderna teologia da missão.",
+      "corpo": "Promulgado pelo Papa Paulo VI em 7 de dezembro de 1965, ao final do Concílio Vaticano II, o decreto Ad Gentes (\"Para as Nações\") foi aprovado por ampla maioria dos padres conciliares e trata especificamente da atividade missionária da Igreja. Dividido em seis capítulos, o documento ensina que a Igreja é \"missionária por sua própria natureza\", enviada por Deus a todos os povos como sacramento universal de salvação, e não apenas por uma atividade entre outras; a partir dessa afirmação central, trata dos princípios doutrinais da missão, da própria obra missionária concreta, das igrejas particulares em território de missão, dos missionários e da cooperação de toda a Igreja com a tarefa evangelizadora. O decreto se tornaria referência obrigatória para toda a reflexão missiológica posterior, incluindo a encíclica Redemptoris Missio de João Paulo II.",
+      "tags": [
+        "Ad Gentes",
+        "Concílio Vaticano II",
+        "teologia da missão"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "conceito",
+      "regiao": null,
+      "seculo": "século XX",
+      "fontes": [
+        "Concílio Vaticano II, Decreto Ad Gentes (7 de dezembro de 1965)",
+        "CNBB Regional Sul 3: Ad Gentes — a Igreja missionária"
+      ]
+    },
+    {
+      "id": "missoes-evangelizacao:redemptoris-missio",
+      "slug": "redemptoris-missio",
+      "titulo": "Redemptoris Missio",
+      "categoria": "missoes-evangelizacao",
+      "resumo": "Encíclica de São João Paulo II sobre a validade permanente do mandato missionário da Igreja, publicada 25 anos após o decreto conciliar Ad Gentes.",
+      "corpo": "Publicada em 7 de dezembro de 1990, no vigésimo quinto aniversário do decreto Ad Gentes e no décimo quinto da exortação Evangelii Nuntiandi de Paulo VI, a encíclica Redemptoris Missio — \"sobre a validade permanente do mandato missionário\" — responde a uma pergunta que se tornava então cada vez mais frequente: se a missão ad gentes ainda faz sentido num mundo já parcialmente evangelizado e cada vez mais plural. João Paulo II distingue três situações pastorais diferentes — a missão entre povos que ainda não conhecem Cristo, a nova evangelização de comunidades cristãs que perderam o sentido vivo da fé, e a pastoral ordinária de comunidades já fervorosas —, insistindo que a primeira delas continua urgente e insubstituível. O documento também trata dos agentes da missão, da cooperação entre Igrejas e da espiritualidade própria do missionário.",
+      "tags": [
+        "Redemptoris Missio",
+        "João Paulo II",
+        "teologia da missão"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "conceito",
+      "regiao": null,
+      "seculo": "século XX",
+      "fontes": [
+        "João Paulo II, Encíclica Redemptoris Missio (7 de dezembro de 1990) — vatican.va",
+        "University of Dayton: Magisterial Documents — Redemptoris Missio"
+      ]
+    },
+    {
+      "id": "missoes-evangelizacao:obras-pontificias-missionarias",
+      "slug": "obras-pontificias-missionarias",
+      "titulo": "Pontifícias Obras Missionárias",
+      "categoria": "missoes-evangelizacao",
+      "resumo": "Rede mundial de oração e apoio material às missões, iniciada pela leiga francesa Pauline Jaricot em 1822 e hoje coordenada pela Congregação para a Evangelização dos Povos.",
+      "corpo": "A origem das Pontifícias Obras Missionárias remonta à iniciativa de Pauline Jaricot, jovem leiga de Lyon, que em 3 de maio de 1822 fundou a Obra da Propagação da Fé: uma rede na qual cada associado se comprometia a angariar o apoio de outros dez doadores para sustentar financeiramente missionários em todo o mundo, criando assim a primeira rede mundial organizada de oração e solidariedade com as missões. O Papa Pio XI elevou essa e outras obras semelhantes à condição de \"pontifícias\" em 1922, colocando-as sob coordenação direta da Congregação para a Evangelização dos Povos; hoje as Pontifícias Obras Missionárias reúnem quatro ramos distintos — Propagação da Fé, São Pedro Apóstolo, Santa Infância e União Missionária —, presentes em praticamente todos os países, sustentando material e espiritualmente a atividade missionária ad gentes da Igreja.",
+      "tags": [
+        "Pontifícias Obras Missionárias",
+        "Pauline Jaricot",
+        "cooperação missionária"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Pauline_Jaricot_portrait_officiel.jpg",
+      "imagem_credito": "Foto: Œuvres Pontificales Missionnaires de France (2008) — Wikimedia Commons, CC BY-SA 4.0",
+      "tipo": "conceito",
+      "regiao": null,
+      "seculo": "século XIX",
+      "fontes": [
+        "CNBB: Fundada por Pauline Jaricot, Pontifícia Obra da Propagação da Fé completa duzentos anos",
+        "Wikipédia: Pontifícias Obras Missionárias"
+      ]
+    }
+  ]
 }

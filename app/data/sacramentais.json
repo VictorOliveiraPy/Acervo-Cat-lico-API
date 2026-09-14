@@ -141,6 +141,276 @@
       "fontes": [
         "Catecismo da Igreja Católica, nn. 1667-1679"
       ]
+    },
+    {
+      "id": "sacramentais:escapulario-do-carmo",
+      "slug": "escapulario-do-carmo",
+      "titulo": "Escapulário do Carmo",
+      "categoria": "sacramentais",
+      "resumo": "Sacramental mariano ligado à tradição de uma aparição de Nossa Senhora ao carmelita São Simão Stock em 1251, sinal de consagração e proteção mariana.",
+      "corpo": "A tradição carmelita conta que, na noite de 16 de julho de 1251, em Aylesford, na Inglaterra, Nossa Senhora apareceu a São Simão Stock, então superior geral da Ordem do Carmo, e lhe entregou um pequeno hábito de tecido — o escapulário marrom — como sinal de proteção especial para quem o usasse com fé. Não há documentação histórica contemporânea que comprove os detalhes da aparição, mas a devoção foi acolhida e difundida pela Igreja ao longo dos séculos, e a própria Ordem Carmelita recebeu aprovação do papa Inocêncio IV.\n\nO escapulário de pano é hoje uma versão reduzida do hábito religioso carmelita, usado sobre o peito e as costas por leigos inscritos na Confraria de Nossa Senhora do Monte Carmelo. Como todo sacramental, precisa ser abençoado por um sacerdote antes do primeiro uso (a imposição costuma ser feita uma única vez), e seu valor não está no pano em si, mas no compromisso de vida cristã e na consagração mariana que ele exprime — nunca deve ser entendido como amuleto de proteção automática.",
+      "tags": [
+        "sacramentais",
+        "escapulário",
+        "Nossa Senhora do Carmo",
+        "devoção mariana"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 8,
+      "fontes": [
+        "Tradição carmelita sobre São Simão Stock (Aylesford, 1251)",
+        "Catecismo da Igreja Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:medalha-de-sao-bento",
+      "slug": "medalha-de-sao-bento",
+      "titulo": "Medalha de São Bento",
+      "categoria": "sacramentais",
+      "resumo": "Medalha com fórmula exorcística latina, aprovada em 1742 pelo papa Bento XIV, usada como sinal de proteção espiritual contra o mal.",
+      "corpo": "Não se sabe ao certo quando a medalha de São Bento foi cunhada pela primeira vez — os registros mais antigos remontam ao século XV —, mas o desenho hoje mais difundido data de 1880, ano do 1400º aniversário do nascimento do santo. Em 1742, o papa Bento XIV aprovou oficialmente a medalha, concedeu indulgências a quem a usasse com fé e consagrou a oração gravada no verso como fórmula de exorcismo menor, conhecida pelas suas iniciais \"Vade Retro Satana\" (\"Retira-te, Satanás\").\n\nNo anverso, a medalha traz a imagem de São Bento segurando a Regra que escreveu para os monges e uma cruz; ao lado, um cálice do qual sai uma serpente e um corvo recordam episódios da vida do santo em que ele escapou de tentativas de envenenamento. No verso, as iniciais em latim compõem a oração completa: \"Crux sacra sit mihi lux, non draco sit mihi dux... Vade retro Satana, numquam suade mihi vana; sunt mala quae libas, ipse venena bibas\" — \"A cruz sagrada seja minha luz, não seja o dragão o meu guia... Retira-te, Satanás, nunca me aconselhes coisas vãs; é mau o que me ofereces, bebe tu mesmo o teu veneno\". Como todo sacramental, sua eficácia depende da fé de quem a usa, nunca de um poder mágico próprio do objeto.",
+      "tags": [
+        "sacramentais",
+        "medalha de São Bento",
+        "exorcismo",
+        "São Bento"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 9,
+      "fontes": [
+        "Bento XIV, aprovação da medalha de São Bento (1742)",
+        "Catecismo da Igreja Católica, n. 1673"
+      ]
+    },
+    {
+      "id": "sacramentais:cinzas-da-quarta-feira-de-cinzas",
+      "slug": "cinzas-da-quarta-feira-de-cinzas",
+      "titulo": "As Cinzas da Quarta-feira de Cinzas",
+      "categoria": "sacramentais",
+      "resumo": "Cinzas abençoadas e impostas na fronte no início da Quaresma, sinal de humildade, penitência e chamado à conversão.",
+      "corpo": "Na Quarta-feira de Cinzas, dia que abre o tempo litúrgico da Quaresma, o sacerdote ou o diácono impõe as cinzas — obtidas, segundo o costume, da queima dos ramos bentos do Domingo de Ramos do ano anterior — na fronte dos fiéis, em forma de cruz, pronunciando uma de duas fórmulas: \"Lembra-te de que és pó e ao pó tornarás\" (cf. Gn 3,19) ou \"Convertei-vos e crede no Evangelho\" (cf. Mc 1,15).\n\nAs cinzas, como todo sacramental, precisam ser abençoadas antes de usadas na liturgia. O Catecismo explica que os sacramentais \"não conferem a graça do Espírito Santo à maneira dos sacramentos, mas, pela oração da Igreja, preparam para receber a graça e dispõem a cooperar com ela\" (CIC 1670). O gesto recorda ao cristão a sua condição de criatura mortal e o convida a iniciar a Quaresma com espírito de penitência, oração e caridade.",
+      "tags": [
+        "sacramentais",
+        "cinzas",
+        "Quaresma",
+        "penitência"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 10,
+      "fontes": [
+        "Gênesis 3,19; Marcos 1,15",
+        "Catecismo da Igreja Católica, n. 1670"
+      ]
+    },
+    {
+      "id": "sacramentais:ramos-bentos",
+      "slug": "ramos-bentos",
+      "titulo": "Ramos Bentos (Domingo de Ramos)",
+      "categoria": "sacramentais",
+      "resumo": "Ramos abençoados no Domingo de Ramos, em memória da entrada triunfal de Jesus em Jerusalém, aclamado pela multidão com palmas e mantos.",
+      "corpo": "O Domingo de Ramos, que abre a Semana Santa, recorda a entrada solene de Jesus em Jerusalém pouco antes de sua Paixão: narrada nos quatro Evangelhos, a cena mostra a multidão estendendo mantos e agitando ramos de palmeira pelo caminho, aclamando-o como o Messias esperado. Já nos séculos IV e V há registros, em Jerusalém, de uma procissão anual que recordava esse episódio, prática que depois se difundiu por todo o Oriente e, por volta do século IX, se uniu à liturgia da Paixão no Ocidente.\n\nNa celebração atual, os ramos que os fiéis trazem são abençoados pelo sacerdote antes da procissão de entrada, geralmente a partir de um local afastado da igreja principal. Levados para casa depois da Missa, os ramos bentos costumam ser conservados atrás de crucifixos ou imagens como sinal doméstico da vitória de Cristo, sendo depois recolhidos e queimados para se tornarem as cinzas usadas na Quarta-feira de Cinzas do ano seguinte.",
+      "tags": [
+        "sacramentais",
+        "ramos bentos",
+        "Domingo de Ramos",
+        "Semana Santa"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 11,
+      "fontes": [
+        "Evangelhos da entrada em Jerusalém (Mt 21,1-11; Mc 11,1-10; Lc 19,28-40; Jo 12,12-19)",
+        "Catecismo da Igreja Católica, n. 1670"
+      ]
+    },
+    {
+      "id": "sacramentais:bencao-apostolica-em-artigo-de-morte",
+      "slug": "bencao-apostolica-em-artigo-de-morte",
+      "titulo": "Bênção Apostólica em Artigo de Morte",
+      "categoria": "sacramentais",
+      "resumo": "Bênção concedida pelo sacerdote em nome do Papa aos fiéis em perigo de morte, acompanhada de indulgência plenária.",
+      "corpo": "A Bênção Apostólica \"in articulo mortis\" (\"no momento da morte\") é dada pelo sacerdote — habitualmente ao lado dos demais sacramentos administrados ao doente grave — em nome do próprio Papa, e traz associada uma indulgência plenária, isto é, a remissão total da pena temporal ainda devida pelos pecados já perdoados. O rito costuma seguir a confissão sacramental e um ato de contrição, preparando espiritualmente o fiel para a passagem definitiva ao Pai.\n\nSegundo a disciplina da Igreja sobre indulgências, embora normalmente só se possa obter uma indulgência plenária por dia, abre-se exceção justamente para quem se encontra em perigo de morte. Se não houver sacerdote disponível, a Igreja concede benignamente a mesma indulgência ao fiel bem disposto que, durante a vida, tenha tido o hábito de rezar com alguma regularidade — mostrando que o essencial não é o rito externo isolado, mas a disposição interior de conversão e confiança em Deus.",
+      "tags": [
+        "sacramentais",
+        "bênção apostólica",
+        "indulgência plenária",
+        "doentes"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 12,
+      "fontes": [
+        "Paulo VI, Constituição Apostólica Indulgentiarum Doctrina (1967), norma 18",
+        "Catecismo da Igreja Católica, nn. 1471-1479"
+      ]
+    },
+    {
+      "id": "sacramentais:sinos-da-igreja",
+      "slug": "sinos-da-igreja",
+      "titulo": "Os Sinos da Igreja",
+      "categoria": "sacramentais",
+      "resumo": "Instrumento litúrgico abençoado — popularmente chamado \"batismo dos sinos\" — que convoca os fiéis à oração e marca os tempos da vida da comunidade.",
+      "corpo": "O uso de sinos na vida da Igreja remonta ao século V, sendo São Paulino de Nola, na Itália, frequentemente lembrado como um dos primeiros bispos a introduzi-los para marcar os horários das celebrações; a prática se espalhou amplamente pelas comunidades monásticas medievais, que precisavam reunir os monges dispersos pelo mosteiro.\n\nAntes de entrar em uso litúrgico, cada sino recebe uma bênção especial que, por sua semelhança com o rito batismal, é popularmente chamada de \"batismo dos sinos\": o sino é lavado com água benta, ungido com óleo, incensado e recebe um nome — geralmente de um santo padroeiro ou da Virgem Maria. Os padres da Igreja medieval viam nessa bênção um modo de santificar o som do sino, que deveria não apenas chamar os fiéis com pontualidade aos ofícios divinos, mas também ser sinal sagrado que afasta o mal e invoca a misericórdia de Deus sobre a comunidade.",
+      "tags": [
+        "sacramentais",
+        "sinos",
+        "bênção",
+        "liturgia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 13,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:vela-da-candelaria",
+      "slug": "vela-da-candelaria",
+      "titulo": "Vela da Candelária",
+      "categoria": "sacramentais",
+      "resumo": "Velas abençoadas na Festa da Apresentação do Senhor, em 2 de fevereiro, sinal de Cristo como \"luz para iluminar as nações\".",
+      "corpo": "Quarenta dias depois do Natal, em 2 de fevereiro, a Igreja celebra a Apresentação do Senhor no Templo, evento narrado no Evangelho de Lucas em que o ancião Simeão reconhece no menino Jesus a \"luz para iluminar as nações e glória do povo de Israel\" (Lc 2,32). A partir dessas palavras, desenvolveu-se o costume — organizado de modo solene já no século X, na região da Gália — de abençoar velas no início da celebração e realizar uma procissão com elas acesas rumo ao altar, o que deu à festa o nome popular de \"Candelária\".\n\nAs velas abençoadas nesse dia costumam ser levadas para casa e acesas em momentos de oração ou dificuldade ao longo do ano, como sinal sensível de que Cristo é luz que ilumina a vida do cristão. Em muitas paróquias, aproveita-se a ocasião para abençoar também as velas que serão usadas na festa de São Brás, celebrada no dia seguinte.",
+      "tags": [
+        "sacramentais",
+        "vela",
+        "Apresentação do Senhor",
+        "Candelária"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 14,
+      "fontes": [
+        "Evangelho segundo Lucas 2,22-32",
+        "Catecismo da Igreja Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:incenso",
+      "slug": "incenso",
+      "titulo": "Incenso",
+      "categoria": "sacramentais",
+      "resumo": "Substância aromática abençoada e queimada na liturgia, sinal sensível da oração dos fiéis que sobe como fumaça diante de Deus.",
+      "corpo": "O incenso é usado na liturgia católica desde os primeiros séculos, retomando um gesto já presente no culto judaico: a fumaça perfumada que sobe ao alto é sinal da oração da Igreja e de cada fiel elevando-se à presença de Deus, imagem cara à tradição bíblica dos Salmos (\"suba a minha oração como incenso diante de ti\", Sl 141,2). Antes de ser usado, o incenso recebe uma bênção do sacerdote, o que lhe confere seu valor de sacramental.\n\nA Instrução Geral do Missal Romano prevê o uso do incenso em momentos específicos da Missa: para incensar o altar e a cruz, o livro dos Evangelhos antes de sua proclamação, as oferendas de pão e vinho, o sacerdote e os demais ministros, e o povo reunido — gesto de honra que reconhece a dignidade batismal de todos os presentes. Longe de ser mero perfume ambiental, o incenso é, portanto, sinal litúrgico de oferenda e de oração que se eleva ao Céu.",
+      "tags": [
+        "sacramentais",
+        "incenso",
+        "liturgia",
+        "oração"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 15,
+      "fontes": [
+        "Salmo 141,2",
+        "Instrução Geral do Missal Romano",
+        "Catecismo da Igreja Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:crucifixo",
+      "slug": "crucifixo",
+      "titulo": "Crucifixo",
+      "categoria": "sacramentais",
+      "resumo": "Imagem de Cristo crucificado, abençoada pelo sacerdote, presente em lares e igrejas como sinal da Paixão redentora — nunca como amuleto.",
+      "corpo": "O crucifixo — a cruz com a imagem do corpo de Cristo — é um dos sacramentais mais difundidos da tradição católica, recordando de modo visual e permanente o centro da fé cristã: a Paixão, morte e ressurreição de Jesus pela salvação da humanidade. É costume da Igreja recomendar que cada lar tenha ao menos um crucifixo em lugar visível, para que a família tenha diante dos olhos, no cotidiano, a lembrança do sacrifício de Cristo.\n\nComo os demais objetos de devoção, o crucifixo deve ser abençoado por um sacerdote ou diácono — bênção que, uma vez feita, normalmente não precisa ser repetida para aquele objeto específico. A bênção invoca o nome de Deus sobre o objeto e o destina a um uso que glorifica o Criador, mas não lhe confere poder mágico algum: o crucifixo é meio de oração, meditação e conversão, nunca amuleto de proteção automática independente da fé de quem o venera.",
+      "tags": [
+        "sacramentais",
+        "crucifixo",
+        "cruz",
+        "Paixão de Cristo"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 16,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:bencao-dos-animais",
+      "slug": "bencao-dos-animais",
+      "titulo": "Bênção dos Animais",
+      "categoria": "sacramentais",
+      "resumo": "Tradição ligada a São Francisco de Assis, celebrada geralmente em 4 de outubro, que reconhece os animais como parte da criação confiada ao cuidado humano.",
+      "corpo": "É costume difundido em muitas paróquias abençoar animais de estimação e de trabalho por ocasião da festa de São Francisco de Assis (1181/1182-1226), celebrada em 4 de outubro. Francisco, canonizado já em 1228, menos de dois anos após sua morte, ficou conhecido por sua relação de fraternidade com toda a criação, chamando os animais e os elementos da natureza de \"irmãos\" e \"irmãs\" — o que lhe valeu, séculos depois, o título de padroeiro da ecologia.\n\nAo abençoar os animais, a Igreja não lhes atribui dignidade divina nem os iguala à pessoa humana: reconhece, antes, que muitos deles participam da vida humana — auxiliando no trabalho, servindo de alimento ou fazendo companhia — e que, como parte da obra de Deus, merecem ser tratados com o respeito devido à criação, da qual o ser humano é responsável diante do Criador.",
+      "tags": [
+        "sacramentais",
+        "bênção dos animais",
+        "São Francisco de Assis",
+        "criação"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 17,
+      "fontes": [
+        "Vida de São Francisco de Assis (1181/1182-1226; canonizado em 1228)",
+        "Catecismo da Igreja Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:genuflexao",
+      "slug": "genuflexao",
+      "titulo": "Genuflexão",
+      "categoria": "sacramentais",
+      "resumo": "Gesto de dobrar o joelho direito até o chão diante do Santíssimo Sacramento, sinal corporal de adoração e humildade.",
+      "corpo": "A genuflexão — do latim genuflectere, \"dobrar o joelho\" — é o gesto de ajoelhar-se brevemente sobre o joelho direito diante de uma presença sagrada, com origem na tradição judaica de prostração diante de Deus e adotado desde cedo pelos cristãos. Distingue-se de uma simples inclinação de cabeça ou de tronco por seu significado mais forte: enquanto a inclinação exprime respeito e reverência em geral, a genuflexão é reservada, na liturgia romana, à adoração devida ao Santíssimo Sacramento.\n\nDurante a Missa, os fiéis costumam genuflectir ao entrar e sair do banco, se o sacrário estiver na capela-mor com o Santíssimo reservado, e o sacerdote genuflete após a consagração do pão e do vinho e antes da comunhão. O gesto, simples e corporal, é um modo concreto de o cristão reconhecer com o próprio corpo a grandeza de Deus presente na Eucaristia e a pequenez de quem se ajoelha diante dele.",
+      "tags": [
+        "sacramentais",
+        "genuflexão",
+        "adoração",
+        "reverência"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 18,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1378, 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:bencao-da-mesa",
+      "slug": "bencao-da-mesa",
+      "titulo": "Bênção da Mesa",
+      "categoria": "sacramentais",
+      "resumo": "Oração de gratidão antes das refeições, que consagra o alimento cotidiano e reconhece nele um dom recebido de Deus.",
+      "corpo": "Inspirado na tradição judaica de bendizer a Deus antes de comer, o costume cristão de abençoar a mesa remonta aos primeiros séculos e continua vivo em muitas famílias católicas até hoje. O Catecismo situa entre os sacramentais, em primeiro lugar, precisamente as bênçãos de pessoas, mesas, objetos e lugares — sinais sagrados que preparam o coração a receber os frutos dos sacramentos e a santificar as diferentes circunstâncias da vida.\n\nA fórmula latina tradicional — \"Benedic, Domine, nos et haec tua dona, quae de tua largitate sumus sumpturi\" (\"Abençoa-nos, Senhor, e a estes dons que vamos receber de tua bondade\") — pode ser rezada em qualquer refeição, geralmente conduzida pelo pai ou pela mãe de família. Mais do que uma fórmula fixa, a bênção da mesa exprime o reconhecimento de que o alimento diário é dom de Deus, fruto da terra fértil e do trabalho humano, e não algo simplesmente devido ou tomado por garantido.",
+      "tags": [
+        "sacramentais",
+        "bênção da mesa",
+        "oração",
+        "vida cotidiana"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 19,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:terco-abencoado",
+      "slug": "terco-abencoado",
+      "titulo": "O Terço Abençoado",
+      "categoria": "sacramentais",
+      "resumo": "As contas do Rosário, quando abençoadas por um sacerdote ou diácono, tornam-se sacramental ligado à oração mariana e a indulgências.",
+      "corpo": "O terço — objeto de contas usado para acompanhar a recitação do Rosário — torna-se sacramental quando abençoado por um sacerdote ou diácono, que costuma pedir, na fórmula de bênção, que \"pelas orações e pela glória de Maria, Virgem Mãe de Deus, em memória dos mistérios da vida, morte e ressurreição de Nosso Senhor Jesus Cristo\", as contas sejam abençoadas e santificadas. A partir daí, o objeto passa a ser sinal sagrado, mas sua eficácia espiritual continua ligada à fé e à disposição interior de quem reza com ele, nunca a um poder mágico das contas em si.\n\nA disciplina eclesiástica das indulgências reconhece ainda um benefício adicional: o fiel que usa com piedade um terço devidamente abençoado por qualquer sacerdote ou diácono pode obter indulgência parcial; se o mesmo terço for abençoado pelo Papa ou por um bispo, quem o usa com piedade pode obter indulgência plenária na solenidade dos Apóstolos Pedro e Paulo, acrescentando alguma fórmula legítima de profissão de fé.",
+      "tags": [
+        "sacramentais",
+        "terço",
+        "rosário",
+        "indulgência"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 20,
+      "fontes": [
+        "Manual de Indulgências (Enchiridion Indulgentiarum)",
+        "Catecismo da Igreja Católica, nn. 1667-1679"
+      ]
     }
   ]
 }

@@ -233,6 +233,214 @@
       "imagem_credito": null,
       "idioma": "latim/português",
       "ordem": 13
+    },
+    {
+      "id": "musica-sacra:ubi-caritas",
+      "slug": "ubi-caritas",
+      "titulo": "Ubi Caritas",
+      "categoria": "musica-sacra",
+      "resumo": "Antífona que celebra a caridade fraterna e a unidade em Cristo, cantada tradicionalmente no lava-pés da Quinta-feira Santa.",
+      "corpo": "\"Ubi Caritas et Amor, Deus Ibi Est\" (\"Onde há caridade e amor, aí está Deus\") é uma das antífonas mais humanas e tocantes do repertório litúrgico latino, usada há séculos para acompanhar o rito do lava-pés na Missa da Ceia do Senhor, na Quinta-feira Santa. Seu texto é atribuído a Paulino de Aquileia, por volta do ano 796, e a melodia gregoriana tradicional provavelmente data do mesmo período.\n\nO hino celebra a fraternidade cristã reunida pelo amor de Cristo — \"congregou-nos em um só corpo o amor de Cristo\" — e permanece parte viva da liturgia contemporânea, com numerosas versões corais modernas, entre elas as compostas por Maurice Duruflé e pela comunidade de Taizé, que ampliaram sua difusão muito além do rito da Quinta-feira Santa.",
+      "tags": [
+        "Quinta-feira Santa",
+        "lava-pés",
+        "caridade fraterna"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 14,
+      "fontes": [
+        "Wikipédia, «Ubi caritas»",
+        "LiveAbout, «The Meaning, Latin Lyrics, and English Translation of Ubi Caritas»"
+      ]
+    },
+    {
+      "id": "musica-sacra:panis-angelicus",
+      "slug": "panis-angelicus",
+      "titulo": "Panis Angelicus",
+      "categoria": "musica-sacra",
+      "resumo": "Estrofe do hino eucarístico de Tomás de Aquino, tornada mundialmente conhecida na versão musical de César Franck.",
+      "corpo": "\"Panis Angelicus\" (\"Pão dos Anjos\") corresponde à sexta estrofe do hino \"Sacris Solemniis\", um dos textos eucarísticos que Tomás de Aquino compôs para a festa de Corpus Christi, instituída em 1264. O texto celebra o pão eucarístico como alimento que ultrapassa toda figura antiga, dado aos filhos e não apenas aos servos.\n\nA versão musical mais célebre é a composta por César Franck em 1872, originalmente para tenor e órgão, depois incorporada à sua Missa para três vozes. Executada e regravada milhares de vezes desde então, tornou-se uma das joias da música sacra de caráter eucarístico, cantada tanto em concertos quanto em celebrações de adoração ao Santíssimo.",
+      "tags": [
+        "Tomás de Aquino",
+        "César Franck",
+        "Corpus Christi"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 15,
+      "fontes": [
+        "Wikipedia, «Panis angelicus»"
+      ]
+    },
+    {
+      "id": "musica-sacra:victimae-paschali-laudes",
+      "slug": "victimae-paschali-laudes",
+      "titulo": "Victimae Paschali Laudes",
+      "categoria": "musica-sacra",
+      "resumo": "Sequência pascal cantada na Missa do Domingo de Páscoa, uma das quatro sequências medievais preservadas no Missal Romano.",
+      "corpo": "\"Victimae Paschali Laudes\" (\"À Vítima Pascal, louvores\") é a sequência prescrita para a Missa do Domingo de Páscoa, tradicionalmente atribuída a Wipo de Borgonha, capelão do imperador Conrado II no século XI, embora a autoria também tenha sido associada a Notker Balbulus e a outros autores medievais, sem consenso definitivo.\n\nÉ uma das únicas quatro sequências medievais que sobreviveram à reforma do Missal Romano após o Concílio de Trento (1570) — junto às de Corpus Christi, Pentecostes e a dos Mortos —, graças à sua melodia simples e ao caráter didático, adequado à piedade popular na manhã de Páscoa. O texto narra em forma de diálogo o encontro de Maria Madalena com o túmulo vazio e a proclamação da Ressurreição.",
+      "tags": [
+        "Páscoa",
+        "sequência",
+        "Concílio de Trento"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 16,
+      "fontes": [
+        "Wikipedia, «Victimae paschali laudes»",
+        "Padre Paulo Ricardo, «Um hino à Vítima Pascal»"
+      ]
+    },
+    {
+      "id": "musica-sacra:ave-verum-corpus",
+      "slug": "ave-verum-corpus",
+      "titulo": "Ave Verum Corpus",
+      "categoria": "musica-sacra",
+      "resumo": "Breve hino eucarístico medieval sobre a presença real de Cristo, popularizado mundialmente na versão musical de Mozart.",
+      "corpo": "\"Ave Verum Corpus\" (\"Salve, verdadeiro Corpo\") é um hino eucarístico do século XIV, atribuído ao papa Inocêncio VI, que professa em poucos versos a fé na presença real de Cristo na Eucaristia — o corpo \"verdadeiramente nascido da Virgem Maria\", que \"sofreu e foi imolado na cruz por nós\". Era cantado tradicionalmente no momento da elevação, na consagração, ou na bênção eucarística.\n\nSua versão musical mais conhecida é o motete K. 618 de Wolfgang Amadeus Mozart, composto em 17 de junho de 1791 para a festa de Corpus Christi, a pedido de seu amigo Anton Stoll, músico da igreja de Santo Estêvão em Baden bei Wien. Escrito para coro a quatro vozes, cordas e órgão, tornou-se uma das peças de música sacra mais executadas em todo o mundo.",
+      "tags": [
+        "Mozart",
+        "transubstanciação",
+        "Corpus Christi"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 17,
+      "fontes": [
+        "Aleteia, «Ave Verum Corpus: um hino eucarístico de 700 anos, em versão musicada por Mozart»",
+        "Wikipedia, «Ave verum corpus (Mozart)»"
+      ]
+    },
+    {
+      "id": "musica-sacra:miserere-allegri",
+      "slug": "miserere-allegri",
+      "titulo": "Miserere de Allegri",
+      "categoria": "musica-sacra",
+      "resumo": "Adaptação polifônica do Salmo 51 composta por Gregorio Allegri para uso exclusivo da Capela Sistina durante a Semana Santa.",
+      "corpo": "O \"Miserere\" de Gregorio Allegri é uma adaptação do Salmo 51 (50) composta por volta de 1638, sob o pontificado de Urbano VIII, para ser cantada pelo coro da Capela Sistina durante os ofícios de Trevas da Semana Santa — prática que remonta a pelo menos 1514. Foi escrita para dois coros, um de cinco e outro de quatro vozes, complementados por um terceiro grupo entoando responsórios em canto gregoriano, resultando numa textura polifônica de nove vozes.\n\nDurante quase um século e meio, sua execução ficou reservada exclusivamente à Capela Sistina, e a ornamentação vocal característica da obra era transmitida oralmente entre gerações de cantores, sem registro escrito completo — o que torna o \"Miserere\" um caso único na história musical, célebre também pela lenda de que o jovem Mozart o teria transcrito de memória após ouvi-lo apenas duas vezes.",
+      "tags": [
+        "Capela Sistina",
+        "Semana Santa",
+        "Salmo 51"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 18,
+      "fontes": [
+        "Wikipedia, «Miserere (Allegri)»"
+      ]
+    },
+    {
+      "id": "musica-sacra:lauda-sion",
+      "slug": "lauda-sion",
+      "titulo": "Lauda Sion Salvatorem",
+      "categoria": "musica-sacra",
+      "resumo": "Sequência eucarística de Tomás de Aquino para a festa de Corpus Christi, uma das quatro sequências medievais remanescentes na liturgia romana.",
+      "corpo": "\"Lauda Sion Salvatorem\" (\"Louva, ó Sião, o Salvador\") foi composta por Tomás de Aquino a pedido do papa Urbano IV, por ocasião da instituição da festa de Corpus Christi em 1264 — segundo a tradição, na própria cidade de Orvieto, onde se venera um milagre eucarístico. O texto expõe em forma poética a mesma doutrina sobre a presença real de Cristo na Eucaristia que Tomás desenvolveu em seus tratados teológicos.\n\nApós o Concílio de Trento, seu uso litúrgico foi restrito às festas maiores, permanecendo, ao lado das sequências da Páscoa, de Pentecostes e da Missa dos Mortos, como uma das quatro sequências medievais que sobreviveram na liturgia romana pós-tridentina. Pode ser cantada por inteiro ou, mais comumente, apenas em suas quatro últimas estrofes.",
+      "tags": [
+        "Tomás de Aquino",
+        "Corpus Christi",
+        "Urbano IV"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 19,
+      "fontes": [
+        "A12, «Conheça a Sequência de Corpus Christi»",
+        "Gaudium Press, «O Lauda Sion»"
+      ]
+    },
+    {
+      "id": "musica-sacra:missa-papae-marcelli",
+      "slug": "missa-papae-marcelli",
+      "titulo": "Missa Papae Marcelli",
+      "categoria": "musica-sacra",
+      "resumo": "Missa polifônica de Palestrina, composta em honra ao papa Marcelo II, cercada pela lenda de ter salvado a polifonia na liturgia católica.",
+      "corpo": "A \"Missa Papae Marcelli\" foi escrita por Giovanni Pierluigi da Palestrina em honra ao papa Marcelo II, cujo pontificado durou apenas três semanas em 1555. Sua composição é contemporânea das sessões finais do Concílio de Trento (1562-1563), nas quais se debateu se a complexidade da polifonia obscurecia demais o texto litúrgico da Missa, prejudicando a devoção dos fiéis.\n\nUma lenda difundida atribui a essa missa o mérito de ter convencido o cardeal Carlos Borromeu de que a polifonia poderia permanecer inteligível e, assim, salvo esse estilo musical de ser banido da liturgia católica — embora historiadores hoje observem que não há evidência de que o Concílio pretendesse proibir totalmente a polifonia, nem certeza sobre se a obra foi composta antes ou depois das discussões conciliares. É, de todo modo, a obra mais célebre de Palestrina, cantada nas missas de coroação papal até o pontificado de Paulo VI, em 1963.",
+      "tags": [
+        "Palestrina",
+        "Concílio de Trento",
+        "polifonia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 20,
+      "fontes": [
+        "Wikipedia, «Missa Papae Marcelli»",
+        "Britannica, «Pope Marcellus Mass»"
+      ]
+    },
+    {
+      "id": "musica-sacra:vexilla-regis",
+      "slug": "vexilla-regis",
+      "titulo": "Vexilla Regis",
+      "categoria": "musica-sacra",
+      "resumo": "Hino à Cruz composto no século VI por Venâncio Fortunato, cantado nas Vésperas do tempo da Paixão.",
+      "corpo": "\"Vexilla Regis Prodeunt\" (\"Avançam os estandartes do Rei\") foi composto por Venâncio Fortunato (c. 530-609) para celebrar a chegada de uma relíquia da Vera Cruz, enviada pelo imperador Justino II e pela imperatriz Sofia à rainha Radegunda, que pediu ao poeta um hino para a procissão solene de recepção da relíquia.\n\nO hino canta o mistério da crucifixão apresentando a cruz como o estandarte vitorioso de Cristo Rei, unindo os temas da redenção, do sacrifício e da vitória sobre a morte. É cantado tradicionalmente nas Vésperas, do Domingo de Paixão até a Quinta-feira Santa, e na festa da Exaltação da Santa Cruz.",
+      "tags": [
+        "Venâncio Fortunato",
+        "Semana Santa",
+        "relíquia da Cruz"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 21,
+      "fontes": [
+        "New Advent, «Vexilla Regis Prodeunt»",
+        "Catholic Culture, «Hymn: Vexilla Regis Prodeunt»"
+      ]
+    },
+    {
+      "id": "musica-sacra:o-salutaris-hostia",
+      "slug": "o-salutaris-hostia",
+      "titulo": "O Salutaris Hostia",
+      "categoria": "musica-sacra",
+      "resumo": "As duas últimas estrofes de um hino eucarístico de Tomás de Aquino, cantadas tradicionalmente na bênção do Santíssimo Sacramento.",
+      "corpo": "\"O Salutaris Hostia\" (\"Ó Hóstia salutar\") corresponde às duas estrofes finais, com a doxologia, do hino \"Verbum Supernum Prodiens\", um dos cinco hinos eucarísticos que Tomás de Aquino escreveu ou revisou a pedido do papa Urbano IV para a festa de Corpus Christi, instituída em 1264. O texto original completo foi composto para as Laudes do ofício dessa festa.\n\nA prática litúrgica destacou apenas essas estrofes finais para formar um hino autônomo, cantado especificamente no momento da bênção do Santíssimo Sacramento — desempenhando, na exposição eucarística, papel semelhante ao do \"Tantum Ergo\", retirado de modo análogo do hino \"Pange Lingua\".",
+      "tags": [
+        "Tomás de Aquino",
+        "bênção do Santíssimo",
+        "Corpus Christi"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 22,
+      "fontes": [
+        "Wikipedia, «O salutaris hostia»",
+        "Wikipedia, «Verbum supernum prodiens»"
+      ]
+    },
+    {
+      "id": "musica-sacra:missa-de-angelis",
+      "slug": "missa-de-angelis",
+      "titulo": "Missa de Angelis (Missa VIII)",
+      "categoria": "musica-sacra",
+      "resumo": "A mais conhecida das dezoito missas gregorianas reunidas no Kyriale Romano, tradicionalmente destinada às grandes solenidades.",
+      "corpo": "A \"Missa de Angelis\", ou Missa VIII, é a mais executada e reconhecida das missas gregorianas do Ordinário, com a indicação tradicional \"In festis duplicibus\" (para festas duplas), reservando-a às solenidades do calendário litúrgico. Faz parte do Kyriale Romano, o compêndio que reúne dezoito conjuntos de peças gregorianas — Kyrie, Glória, Sanctus e Agnus Dei — para o Ordinário da Missa.\n\nAs peças que compõem a Missa de Angelis foram reunidas ao longo de séculos diferentes: o Kyrie remonta aos séculos XV-XVI, o Glória ao século XVI, o Sanctus aos séculos XI-XII e o Agnus Dei ao século XV — um mosaico que ilustra bem como o repertório gregoriano do Ordinário se formou por acréscimos sucessivos, e não de uma só vez.",
+      "tags": [
+        "Kyriale",
+        "Ordinário da Missa",
+        "solenidades"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 23,
+      "fontes": [
+        "Gregorianum.org, «Missa VIII (Missa de Angelis)»",
+        "Aleteia, «Os cantos gregorianos da Missa de Angelis na voz sublime dos monges de Silos»"
+      ]
     }
   ]
 }

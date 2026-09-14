@@ -254,6 +254,226 @@
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Accademia_-_Saint_Francis_Receiving_the_Stigmata_by_Veronese_Cat_833.jpg",
       "imagem_credito": null,
       "ordem": 15
+    },
+    {
+      "id": "arte-sacra-simbolos:cruz-de-jerusalem",
+      "slug": "cruz-de-jerusalem",
+      "titulo": "A Cruz de Jerusalém",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "Uma cruz maior cercada por quatro cruzes menores, símbolo ligado às cruzadas e ao Reino de Jerusalém.",
+      "corpo": "A Cruz de Jerusalém — também chamada cruz das cinco cruzes ou cruz dos cruzados — é formada por uma cruz potente central, cujas extremidades terminam em pequenas barras transversais, ladeada nos quatro espaços de seus braços por cruzes gregas menores. O desenho quíntuplo parece ter surgido já no século XI, mas sua associação ao Reino de Jerusalém, fundado pelos cruzados, consolidou-se apenas na segunda metade do século XIII.\n\nExistem duas leituras simbólicas tradicionais para as cinco cruzes: uma as associa às cinco chagas de Cristo — a cruz central representando a ferida da lança, e as quatro menores, as feridas das mãos e dos pés —, e outra vê nas quatro cruzes pequenas os quatro evangelistas em torno de Cristo, representado pela cruz maior. É hoje símbolo usado sobretudo pela Custódia Franciscana da Terra Santa, guardiã dos Lugares Santos.",
+      "tags": [
+        "cruzadas",
+        "Terra Santa",
+        "cinco chagas"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Wikipédia, «Cruz de Jerusalém»",
+        "Aleteia, «O significado da Cruz de Jerusalém»"
+      ],
+      "ordem": 16
+    },
+    {
+      "id": "arte-sacra-simbolos:baculo-pastoral",
+      "slug": "baculo-pastoral",
+      "titulo": "O Báculo Pastoral",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "O cajado de metal com a ponta curva que o bispo carrega como sinal de sua missão de pastor do rebanho.",
+      "corpo": "O báculo é a insígnia episcopal que representa o ofício do bispo como pastor da porção do povo de Deus confiada a seus cuidados, à semelhança do cajado usado pelos pastores de ovelhas. Seu uso remonta pelo menos ao século IV, e a primeira referência inequívoca a ele como instrumento litúrgico aparece no vigésimo sétimo cânon do Concílio de Toledo, em 633.\n\nA tradição interpreta simbolicamente cada parte do báculo: a ponta inferior, aguçada, para picar e estimular os indolentes; a haste reta do meio, para significar o governo justo; e a extremidade superior, recurvada, para atrair e conduzir as almas aos caminhos de Deus. O bispo o recebe no dia de sua ordenação, com a fórmula \"recebe o báculo, símbolo do serviço pastoral, e cuida de todo o rebanho\", e o porta nas celebrações solenes de sua diocese, na procissão de entrada, na proclamação do Evangelho e na bênção final.",
+      "tags": [
+        "bispo",
+        "pastoreio",
+        "ordenação episcopal"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "A12, «O báculo: um sinal do bispo pastor»",
+        "Concílio de Toledo (633), cânone 27"
+      ],
+      "ordem": 17
+    },
+    {
+      "id": "arte-sacra-simbolos:mitra",
+      "slug": "mitra",
+      "titulo": "A Mitra Episcopal",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "A cobertura de cabeça fendida em duas pontas, usada por bispos e abades como sinal de sua dignidade e autoridade de ensino.",
+      "corpo": "A mitra é um adorno litúrgico de cabeça, dividido em duas peças rígidas terminadas em ponta — chamadas cornua — com duas faixas franjadas (ínfulas) que descem sobre as costas. Foi usada pela primeira vez em Roma por volta da metade do século X, reservada inicialmente ao papa, e só depois, a partir dos séculos X-XI, estendida a bispos e abades.\n\nA tradição atribui às duas pontas o significado do conhecimento que o prelado deve ter do Antigo e do Novo Testamento, e ao próprio formato pontiagudo, voltado para o alto, a lembrança de que a autoridade do bispo vem de Deus. É usada nas celebrações solenes presididas pelo bispo, sendo retirada nos momentos de oração mais direta, como a Oração Eucarística.",
+      "tags": [
+        "bispo",
+        "vestes litúrgicas",
+        "insígnias episcopais"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Aleteia, «Mitra: você sabe por que os bispos a usam?»",
+        "Wikipédia, «Mitra (insígnia)»"
+      ],
+      "ordem": 18
+    },
+    {
+      "id": "arte-sacra-simbolos:palio",
+      "slug": "palio",
+      "titulo": "O Pálio",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "Faixa de lã branca em forma de \"Y\", usada pelo papa e por arcebispos metropolitanos como sinal do ministério pastoral.",
+      "corpo": "O pálio é uma estreita faixa de lã branca, hoje em forma de \"Y\", com seis cruzes de seda preta costuradas e três alfinetes que recordam as chagas de Cristo, colocada sobre os ombros do papa e dos arcebispos metropolitanos. Seu simbolismo remete à ovelha que o bom pastor carrega sobre os próprios ombros, como Cristo fez com a ovelha perdida.\n\nÉ confeccionado com a lã de cordeiros brancos, criados por monges trapistas e oferecidos numa missa solene no dia 21 de janeiro, festa de Santa Inês (Agnes, do latim, remete a \"cordeiro\"), sendo depois tecido por freiras beneditinas do Mosteiro de Santa Cecília, em Roma. Historicamente, a primeira concessão conhecida de um pálio a um bispo remonta a 513, quando o papa Símaco o outorgou a São Cesário de Arles; desde o século IX, os pálios ficam depositados sobre o túmulo de São Pedro antes de serem impostos aos novos arcebispos, em 29 de junho.",
+      "tags": [
+        "arcebispo",
+        "Santa Inês",
+        "São Pedro"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Vatican News, «Pálio: o que é, como é feito e para que serve»",
+        "Arquidiocese de Natal, «O pálio arquiepiscopal»"
+      ],
+      "ordem": 19
+    },
+    {
+      "id": "arte-sacra-simbolos:turibulo",
+      "slug": "turibulo",
+      "titulo": "O Turíbulo (Incensário)",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "O recipiente metálico suspenso por correntes em que se queima incenso durante celebrações solenes, sinal de oração que sobe a Deus.",
+      "corpo": "O turíbulo — do latim \"turibulum\", de \"tus\" (incenso) — é composto por uma base em forma de esfera cortada ao meio, onde se coloca o carvão incandescente e as pedras de incenso, suspensa por três correntes presas a uma cápsula móvel. É manuseado pelo turiferário, acompanhado do naveteiro, que carrega a naveta com as pedras de incenso a serem acrescentadas durante a celebração.\n\nO gesto de incensar tem raiz bíblica direta: \"suba a minha prece como incenso à tua presença\" (Sl 141,2), e o incenso foi um dos presentes ofertados pelos magos ao Menino Jesus (Mt 2,11), além de aparecer no Apocalipse como oferenda que sobe ao altar celeste junto com as orações dos santos (Ap 8,3). Na Missa, o turíbulo é usado antes da procissão de entrada, antes do Evangelho, no ofertório e na consagração, com dois movimentos rituais próprios — o \"ducto\", de elevar o turíbulo à altura dos olhos, e o \"hicto\", de oscilá-lo em direção a quem ou ao que se incensa.",
+      "tags": [
+        "incenso",
+        "liturgia",
+        "adoração"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Arquidiocese de Vitória, «Turíbulo»",
+        "Salmo 141,2",
+        "Apocalipse 8,3"
+      ],
+      "ordem": 20
+    },
+    {
+      "id": "arte-sacra-simbolos:coroa-de-espinhos",
+      "slug": "coroa-de-espinhos",
+      "titulo": "A Coroa de Espinhos",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "O sinal de zombaria imposto a Jesus antes da crucificação, transformado pela tradição cristã em símbolo de sua realeza paradoxal.",
+      "corpo": "Segundo os relatos evangélicos, os soldados romanos teceram uma coroa de espinhos e a colocaram sobre a cabeça de Jesus no pretório, aclamando-o ironicamente \"Rei dos judeus\" antes de o conduzirem ao Calvário (Mt 27,29; Jo 19,2). O que nasceu como instrumento de escárnio e de sofrimento físico tornou-se, na piedade e na arte cristãs, um dos símbolos mais eloquentes da Paixão: a realeza de Cristo manifestada precisamente através da entrega e do sofrimento aceitos por amor.\n\nJá no início do século V, segundo o testemunho de São Paulino de Nola, os cristãos veneravam relíquias associadas à coroa de espinhos numa basílica no Monte Sião, em Jerusalém. Ao longo dos séculos, pintores e escultores repetidamente representaram Cristo coroado de espinhos, fazendo da imagem um dos temas mais constantes da iconografia da Paixão, ainda hoje central em devoções como a Via-Sacra.",
+      "tags": [
+        "Paixão de Cristo",
+        "realeza de Cristo",
+        "arte sacra"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Evangelho segundo Mateus 27,29",
+        "Evangelho segundo João 19,2",
+        "Megacurioso, «Como a coroa de espinhos de Jesus Cristo sobreviveu até hoje?»"
+      ],
+      "ordem": 21
+    },
+    {
+      "id": "arte-sacra-simbolos:cruz-celta",
+      "slug": "cruz-celta",
+      "titulo": "A Cruz Celta",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "A cruz latina envolvida por um anel no cruzamento dos braços, símbolo cristão irlandês difundido a partir da Idade Média.",
+      "corpo": "A cruz celta surgiu em monumentos de pedra esculpida na Irlanda e na Grã-Bretanha por volta do século VIII, caracterizando-se por um anel — o nimbo — que envolve o ponto em que os braços da cruz se cruzam com o eixo vertical. A lenda popular atribui sua criação a São Patrício, que a teria concebido unindo a cruz cristã ao símbolo pagão do sol para facilitar a catequese dos celtas recém-convertidos, mas essa narrativa não resiste à cronologia: as cruzes anilhadas mais antigas conhecidas datam de cerca de 750-800, quase trezentos anos após a morte do santo.\n\nSobre o significado do anel circundante, coexistem várias interpretações — a supremacia de Cristo sobre o sol venerado pelos povos pagãos, a ideia céltica de eternidade sem princípio nem fim, ou, mais prosaicamente, um reforço estrutural que evitava a quebra dos braços de pedra. Tornou-se, com o tempo, símbolo identitário do cristianismo irlandês e de comunidades de origem céltica em todo o mundo.",
+      "tags": [
+        "Irlanda",
+        "São Patrício",
+        "Idade Média"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "GotQuestions, «Qual é a origem e o significado da cruz celta?»",
+        "Edublin, «Cruz celta: símbolo de arte, cultura e religiosidade»"
+      ],
+      "ordem": 22
+    },
+    {
+      "id": "arte-sacra-simbolos:calice-e-patena",
+      "slug": "calice-e-patena",
+      "titulo": "Cálice e Patena",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "Os dois vasos sagrados centrais da Missa, usados para consagrar respectivamente o vinho e o pão eucarísticos.",
+      "corpo": "O cálice é o copo no qual o vinho e a água do sacrifício eucarístico são contidos e, depois da consagração, o Sangue de Cristo; a patena é o pequeno prato, geralmente dourado e levemente côncavo, sobre o qual se coloca o pão a ser consagrado. Juntos, são os vasos sagrados mais centrais de toda celebração da Missa, aqueles que a tradição litúrgica trata com maior cuidado material e simbólico.\n\nAs normas litúrgicas exigem que sejam feitos de metal nobre — e, quando o metal for oxidável, dourados por dentro, na parte que entra em contato com as espécies consagradas — e que recebam uma bênção especial antes de serem destinados exclusivamente à celebração eucarística. Esse caráter \"sagrado\", reservado só a esse uso, expressa diante de toda a comunidade a distinção entre os objetos do culto divino e qualquer uso profano.",
+      "tags": [
+        "vasos sagrados",
+        "Eucaristia",
+        "Missa"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Lírio Católico, «Vasos Sagrados»",
+        "Instrução Geral do Missal Romano"
+      ],
+      "ordem": 23
+    },
+    {
+      "id": "arte-sacra-simbolos:ambula-ciborio",
+      "slug": "ambula-ciborio",
+      "titulo": "A Âmbula (Cibório)",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "O vaso sagrado com tampa usado para guardar as hóstias consagradas no sacrário e distribuí-las na comunhão dos fiéis.",
+      "corpo": "A âmbula — também chamada cibório ou píxide, três nomes igualmente corretos, cada um mais comum em determinada época — é o vaso sagrado destinado a conter as hóstias consagradas, tanto para a comunhão da assembleia quanto para a reserva eucarística no sacrário. Diferencia-se do cálice sobretudo por possuir tampa, o que lhe permite conservar as espécies consagradas por um tempo mais longo.\n\nSeu uso desenvolveu-se sobretudo a partir do século XIII, com o crescimento do culto eucarístico em torno da instituição da festa de Corpus Christi. Ao contrário do ostensório — peça semelhante, também presente neste acervo, mas destinada a expor a Hóstia à adoração pública —, a âmbula tem função de guarda e transporte discretos das espécies eucarísticas.",
+      "tags": [
+        "sacrário",
+        "Eucaristia",
+        "vasos sagrados"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Pílulas Litúrgicas, «O cibório ou âmbula»"
+      ],
+      "ordem": 24
+    },
+    {
+      "id": "arte-sacra-simbolos:cruz-patriarcal",
+      "slug": "cruz-patriarcal",
+      "titulo": "A Cruz Patriarcal",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "A cruz latina com um segundo braço curto acima do maior, tradicionalmente associada à inscrição \"INRI\" e usada como distinção hierárquica.",
+      "corpo": "A cruz patriarcal, ou cruz dobrada, é uma variante da cruz latina que acrescenta, acima do braço principal, um segundo braço menor mais próximo do topo. A leitura tradicional associa esse braço adicional à placa que os soldados romanos fixaram sobre a cabeça de Jesus com a inscrição \"INRI\" (Iesus Nazarenus Rex Iudaeorum), de modo que os dois braços juntos lembrariam tanto a cruz de Cristo quanto o título que a acompanhava.\n\nGanhou popularidade no Império Bizantino a partir do século X e é hoje muito usada na iconografia greco-bizantina e nas Igrejas ortodoxas orientais, além de ter sido adotada no Ocidente como símbolo de distinção hierárquica de cardeais, patriarcas e arcebispos, em contraste com a cruz simples usada pelos demais bispos.",
+      "tags": [
+        "INRI",
+        "hierarquia eclesiástica",
+        "iconografia bizantina"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Wikipédia, «Cruz patriarcal»"
+      ],
+      "ordem": 25
+    },
+    {
+      "id": "arte-sacra-simbolos:lirio-de-sao-jose",
+      "slug": "lirio-de-sao-jose",
+      "titulo": "O Lírio de São José",
+      "categoria": "arte-sacra-simbolos",
+      "resumo": "A flor branca que acompanha as imagens de São José na iconografia católica, símbolo de sua pureza e castidade virginal.",
+      "corpo": "Nas representações artísticas de São José, quase sempre aparece em suas mãos um lírio branco — símbolo, na tradição cristã, da pureza do coração, da castidade e também da vitória da vida sobre a morte. Uma antiga tradição piedosa, sem base em nenhum relato bíblico e sem pretensão de historicidade, conta que o sumo sacerdote teria reunido os pretendentes à mão de Maria dando a cada um um bastão seco, do qual brotaria uma flor apenas no bastão do escolhido por Deus — José, cujo bastão teria florescido em forma de lírio.\n\nEste acervo registra essa origem como tradição legendária, e não como fato histórico, do mesmo modo como distingue lenda de narrativa evangélica em outros símbolos aqui reunidos, como o pelicano eucarístico. Independentemente da lenda, o lírio consolidou-se como atributo iconográfico fixo de São José, associado também, mais amplamente, à pureza e à promessa de renovação em cerimônias religiosas.",
+      "tags": [
+        "São José",
+        "pureza",
+        "iconografia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "A12, «O lírio de São José e seus significados»",
+        "Comunidade Católica Shalom, «Por que São José carrega um lírio?»"
+      ],
+      "ordem": 26
     }
   ]
 }

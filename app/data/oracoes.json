@@ -602,6 +602,243 @@
         "Concílio de Constantinopla I (381)",
         "Catecismo da Igreja Católica, n. 195"
       ]
+    },
+    {
+      "id": "oracoes:confiteor",
+      "slug": "confiteor",
+      "titulo": "Confiteor (Eu Confesso)",
+      "categoria": "oracoes",
+      "resumo": "Oração penitencial do início da Missa, em que os fiéis reconhecem sua condição pecadora antes de celebrar os mistérios sagrados.",
+      "corpo": "O \"Confiteor\" é a oração de confissão dos pecados que abre o ato penitencial da Missa, com raízes que remontam em parte ao século VIII, sendo formalmente inserida na liturgia da Missa por volta do século XI. Já Santo Agostinho observava o costume de recitá-la batendo no peito como sinal de humildade — gesto preservado até hoje, sobretudo nas palavras \"por minha culpa, minha tão grande culpa\".\n\nA versão usada no Missal Romano de Paulo VI, reproduzida abaixo, é uma forma abreviada em relação ao texto mais longo do Missal anterior à reforma litúrgica, que incluía também a invocação de São Miguel Arcanjo, de João Batista e dos apóstolos Pedro e Paulo. É apenas uma das fórmulas previstas pelo Missal para o ato penitencial, podendo ser substituída por outras no início da Missa.",
+      "tags": [
+        "ato penitencial",
+        "Missa",
+        "confissão dos pecados"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Missal Romano, Ato Penitencial (fórmula I)",
+        "Wikipédia, «Confissão (oração)»"
+      ],
+      "texto": "Confesso a Deus Todo-Poderoso\ne a vós, irmãos e irmãs,\nque pequei muitas vezes\npor pensamentos e palavras, atos e omissões,\npor minha culpa, minha tão grande culpa.\nE peço à Virgem Maria, aos Anjos e Santos,\ne a vós, irmãos e irmãs,\nque rogueis por mim a Deus, nosso Senhor.",
+      "uso": "Ato penitencial no início da Missa (uma das fórmulas previstas pelo Missal Romano)",
+      "origem": "Composta em parte no século VIII; inserida na Missa por volta do século XI"
+    },
+    {
+      "id": "oracoes:sub-tuum-praesidium",
+      "slug": "sub-tuum-praesidium",
+      "titulo": "Sub Tuum Praesidium (À Vossa Proteção)",
+      "categoria": "oracoes",
+      "resumo": "A mais antiga oração mariana conhecida, preservada num fragmento de papiro egípcio do século III.",
+      "corpo": "O \"Sub Tuum Praesidium\" é considerado a mais antiga oração dirigida a Maria de que se tem registro: seu texto foi identificado num fragmento de papiro descoberto no Egito em 1927 e datado do século III. Tem particular importância histórica por ecoar o contexto de perseguição vivido pelos primeiros cristãos, e importância teológica por invocar Maria já com o título de \"Mãe de Deus\" (Theotókos), séculos antes de esse título ser definido dogmaticamente no Concílio de Éfeso (431).\n\nÉ usada como antífona mariana em diversos ritos litúrgicos, sobretudo nas Completas, e permanece uma das orações marianas mais rezadas em devoção pessoal até hoje, quase dezoito séculos depois de ter sido composta.",
+      "tags": [
+        "Theotókos",
+        "cristianismo primitivo",
+        "Egito"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "A12, «A mais antiga oração mariana»",
+        "Locus Mariologicus, «Antífona mariana: Sub tuum praesidium»"
+      ],
+      "texto": "Sob a vossa proteção nos refugiamos,\nSanta Mãe de Deus;\nnão desprezeis as nossas súplicas\nem nossas necessidades,\nmas livrai-nos sempre\nde todos os perigos,\nó Virgem gloriosa e bendita.",
+      "uso": "Antífona mariana; devoção pessoal em diversos ritos litúrgicos",
+      "origem": "Papiro egípcio do século III, descoberto em 1927; mais antiga oração mariana conhecida"
+    },
+    {
+      "id": "oracoes:de-profundis",
+      "slug": "de-profundis",
+      "titulo": "De Profundis (Salmo 130)",
+      "categoria": "oracoes",
+      "resumo": "Salmo penitencial que clama a misericórdia divina desde o abismo da angústia, tradicionalmente rezado em sufrágio pelos fiéis falecidos.",
+      "corpo": "O \"De Profundis\" é o Salmo 130 (129 na numeração da Vulgata), um dos sete salmos penitenciais da tradição bíblica, que recebe esse nome latino de suas primeiras palavras, \"das profundezas clamo a ti\". Expressa a confiança na misericórdia de Deus a partir do reconhecimento sincero do próprio pecado e da própria pequenez.\n\nAo longo da história cristã, tornou-se sobretudo a oração de sufrágio pelos mortos mais usada na tradição católica, recitada em funerais e em memória dos falecidos, além de ser recomendada no exame de consciência antes da confissão e em momentos pessoais de aflição.",
+      "tags": [
+        "salmo penitencial",
+        "sufrágio pelos mortos",
+        "misericórdia divina"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Salmo 130",
+        "Tenda do Senhor, «Salmo De Profundis (Sl 129/130): texto e significado»"
+      ],
+      "texto": "Das profundezas clamo a vós, Senhor;\nSenhor, escutai a minha voz.\nEstejam atentos os vossos ouvidos\nà voz da minha súplica.\n\nSe observardes as nossas faltas,\nSenhor, quem poderá subsistir?\nMas em vós está o perdão,\npara que sejais temido.\n\nEu espero no Senhor,\nminha alma espera na sua palavra;\na minha alma aguarda o Senhor\nmais do que o guarda aguarda a aurora.\n\nMais do que o guarda a aurora,\nespere Israel no Senhor,\nporque nele há misericórdia\ne copiosa redenção;\ne ele remirá Israel\nde todas as suas iniquidades.",
+      "uso": "Sufrágio pelos falecidos, exame de consciência, momentos de aflição",
+      "origem": "Salmo 130 (129 na Vulgata)"
+    },
+    {
+      "id": "oracoes:oferecimento-do-dia",
+      "slug": "oferecimento-do-dia",
+      "titulo": "Oferecimento do Dia (Oração da Manhã)",
+      "categoria": "oracoes",
+      "resumo": "Oração matinal do Apostolado da Oração que consagra a Deus todo o dia que se inicia, em união com a oferta eucarística de Cristo.",
+      "corpo": "O \"Oferecimento do Dia\", ou Oferecimento Diário, é o coração da espiritualidade do Apostolado da Oração — hoje conhecido como Rede Mundial de Oração do Papa —, movimento fundado no século XIX. Consiste em apresentar a Deus, logo pela manhã, tudo o que se é e se vai viver naquele dia: orações, trabalhos, alegrias e sofrimentos, unidos à oferta que Cristo faz de si mesmo na Eucaristia.\n\nÉ rezada tradicionalmente ao acordar, incluindo a intenção de oração do papa para aquele mês, e busca dar sentido espiritual às tarefas mais comuns do cotidiano, unindo-as conscientemente ao sacrifício eucarístico celebrado em algum lugar do mundo a cada momento.",
+      "tags": [
+        "Apostolado da Oração",
+        "Sagrado Coração",
+        "oração diária"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Apostolado da Oração Brasil (MEJ), «Oferecimento Diário»"
+      ],
+      "texto": "Deus, nosso Pai,\neu te ofereço todo o dia de hoje:\nminhas orações e obras,\nmeus pensamentos e palavras,\nminhas alegrias e sofrimentos,\nem reparação de nossas ofensas,\nem união com o Coração de teu Filho, Jesus,\nque continua a oferecer-se a ti, na Eucaristia,\npela salvação do mundo.\nQue o Espírito Santo, que guiou a Jesus,\nseja meu guia e meu amparo neste dia,\npara que eu possa ser testemunha do teu amor.\nCom Maria, Mãe de Jesus e da Igreja,\nrezo especialmente pela intenção do Santo Padre para este mês.",
+      "uso": "Oração diária, ao acordar",
+      "origem": "Apostolado da Oração (Rede Mundial de Oração do Papa), fundado no século XIX"
+    },
+    {
+      "id": "oracoes:oracao-a-sao-jose-leao-xiii",
+      "slug": "oracao-a-sao-jose-leao-xiii",
+      "titulo": "Oração a São José (Leão XIII)",
+      "categoria": "oracoes",
+      "resumo": "Oração composta pelo papa Leão XIII em 1889, recomendada tradicionalmente para ser rezada ao final do terço no mês de outubro.",
+      "corpo": "Esta oração — em latim, \"Ad te, beate Ioseph\" — foi composta pelo papa Leão XIII e publicada em anexo à encíclica \"Quamquam Pluries\", de 15 de agosto de 1889, num contexto em que o papa buscava reforçar a confiança dos católicos na intercessão de São José diante das dificuldades enfrentadas pela Igreja em sua época.\n\nInvoca José como guarda providente da Sagrada Família e protetor da Igreja, pedindo-lhe que afaste \"a peste do erro e do vício\" e defenda a Igreja \"das ciladas do Inimigo e de toda adversidade\". Tornou-se costume rezá-la ao final do terço, sobretudo durante o mês de outubro, tradicionalmente dedicado ao Rosário.",
+      "tags": [
+        "São José",
+        "Leão XIII",
+        "terço"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Leão XIII, Encíclica «Quamquam Pluries» (1889)",
+        "Vatican News, «Oração a São José»"
+      ],
+      "texto": "A vós, São José, recorremos em nossa tribulação\ne, tendo implorado o auxílio de vossa santíssima esposa,\ncheios de confiança solicitamos também o vosso patrocínio.\nPor esse laço sagrado de caridade\nque vos uniu à Virgem Imaculada Mãe de Deus,\ne pelo amor paternal que tivestes ao Menino Jesus,\nardentemente vos suplicamos\nque lanceis um olhar favorável\nsobre a herança que Jesus Cristo conquistou com o seu sangue,\ne nos socorrais em nossas necessidades\ncom o vosso auxílio e poder.\nProtegei, ó guarda providente da Divina Família,\no povo eleito de Jesus Cristo.\nAfastai para longe de nós, ó pai amantíssimo,\na peste do erro e do vício.\nAssisti-nos do alto do céu, ó nosso fortíssimo sustentáculo,\nna luta contra o poder das trevas,\ne assim como outrora salvastes da morte\na vida ameaçada do Menino Jesus,\nassim também defendei agora a Santa Igreja de Deus\ndas ciladas do Inimigo e de toda adversidade.\nAmparai a cada um de nós com o vosso constante patrocínio,\na fim de que, a vosso exemplo e sustentados com o vosso auxílio,\npossamos viver virtuosamente,\nmorrer piedosamente\ne obter no céu a eterna bem-aventurança.\nAmém.",
+      "uso": "Ao final do terço, especialmente no mês de outubro",
+      "origem": "Composta pelo papa Leão XIII, publicada em anexo à encíclica «Quamquam Pluries» (15 de agosto de 1889)"
+    },
+    {
+      "id": "oracoes:oracao-a-sao-judas-tadeu",
+      "slug": "oracao-a-sao-judas-tadeu",
+      "titulo": "Oração a São Judas Tadeu",
+      "categoria": "oracoes",
+      "resumo": "Oração de súplica ao apóstolo Judas Tadeu, invocado tradicionalmente como patrono das causas difíceis e desesperadas.",
+      "corpo": "São Judas Tadeu, apóstolo de Jesus, é venerado como patrono dos \"casos desesperados\" e dos \"negócios sem remédio\" — segundo a piedade popular, precisamente por partilhar o nome do apóstolo traidor, Judas Iscariotes, teria sido menos invocado ao longo da história do que outros apóstolos, o que a tradição interpreta como razão para que se mostre especialmente pronto a socorrer quem já não tem a quem recorrer.\n\nNão existe um texto único fixado oficialmente pela liturgia para esta oração devocional: circulam diversas versões tradicionais, sendo a reproduzida abaixo uma das mais difundidas em língua portuguesa. É costume rezá-la também em forma de novena de nove dias diante de uma necessidade específica, com celebração litúrgica de sua festa em 28 de outubro, junto com o apóstolo Simão.",
+      "tags": [
+        "São Judas Tadeu",
+        "causas difíceis",
+        "apóstolos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "O Liberal, «Oração do São Judas Tadeu para causas impossíveis»"
+      ],
+      "texto": "São Judas Tadeu, glorioso apóstolo,\nfiel servo e amigo de Jesus,\no nome do traidor é causa\nde serdes esquecido por muitos,\nmas a Santa Igreja honra-vos e invoca-vos universalmente\ncomo padroeiro de casos desesperados, sem remédio.\nIntercedei por mim, que sou tão miserável,\npondo em prática, eu vo-lo rogo,\no privilégio particular que vos é concedido,\na fim de trazer ajuda pronta e visível\nonde isso é quase impossível.\nVinde valer-me nesta grande necessidade\npara que eu possa receber\nas consolações e socorros do Céu\nem todas as minhas aflições, necessidades e sofrimentos,\nparticularmente (aqui expor a graça que se deseja obter),\ne para que eu possa bendizer a Deus\nconvosco e com todos os eleitos, por toda a eternidade.\nAmém.",
+      "uso": "Súplica pessoal; novena de nove dias em causas difíceis",
+      "origem": "Devoção popular sem texto litúrgico único fixado; várias versões tradicionais em circulação"
+    },
+    {
+      "id": "oracoes:bendita-seja-tua-pureza",
+      "slug": "bendita-seja-tua-pureza",
+      "titulo": "Bendita Seja Tua Pureza",
+      "categoria": "oracoes",
+      "resumo": "Breve jaculatória mariana de tradição hispânica, rezada como saudação de louvor à pureza de Maria.",
+      "corpo": "\"Bendita Seja Tua Pureza\" é uma jaculatória mariana de origem popular hispânica, sem autoria documentada com certeza nem um momento litúrgico fixo de uso — diferentemente das grandes antífonas marianas do ofício divino, é oração de devoção livre, rezada por iniciativa pessoal.\n\nMuito difundida no Brasil e em outros países de língua portuguesa e espanhola, costuma abrir novenas e momentos de oração mariana como breve saudação de louvor, unindo a contemplação da pureza de Maria a um pedido simples de compaixão maternal.",
+      "tags": [
+        "pureza de Maria",
+        "devoção popular",
+        "jaculatória"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Vera Fidei, «Bendita seja a tua pureza»"
+      ],
+      "texto": "Bendita seja tua pureza\ne eternamente o seja,\npois todo um Deus se recreia\nem tão graciosa beleza.\nA ti, celestial Princesa,\nVirgem Sagrada Maria,\nvos ofereço neste dia\nalma, vida e coração.\nOlhai-me com compaixão,\nnão me deixeis, Mãe minha.",
+      "uso": "Jaculatória devocional; início de novenas e orações marianas",
+      "origem": "Devoção popular de tradição hispânica, sem autoria documentada com certeza"
+    },
+    {
+      "id": "oracoes:oracoes-do-anjo-de-fatima",
+      "slug": "oracoes-do-anjo-de-fatima",
+      "titulo": "Orações do Anjo de Fátima",
+      "categoria": "oracoes",
+      "resumo": "Duas orações ensinadas, segundo o relato dos pastorinhos, pelo Anjo da Paz em 1916, um ano antes das aparições de Nossa Senhora de Fátima.",
+      "corpo": "Segundo o relato de Lúcia, Francisco e Jacinta, um anjo que se identificou como \"Anjo da Paz\" apareceu-lhes por três vezes em 1916, um ano antes das aparições marianas de Fátima, ensinando-lhes duas orações que deveriam repetir três vezes cada.\n\nA primeira, mais breve, professa fé, adoração, esperança e amor a Deus; a segunda, ensinada meses depois, é uma oração trinitária e eucarística de reparação, oferecendo o Corpo, Sangue, Alma e Divindade de Jesus Cristo presentes em todos os sacrários da terra. Ambas são consideradas pela tradição devocional de Fátima uma preparação direta para as aparições marianas do ano seguinte, 1917.",
+      "tags": [
+        "Fátima",
+        "Anjo da Paz",
+        "pastorinhos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Wikipédia, «Orações do Anjo»",
+        "Saia Modesta, «As cinco orações reveladas nas aparições de Fátima»"
+      ],
+      "texto": "Primeira oração (ensinada na primavera de 1916):\nMeu Deus, eu creio, adoro, espero e amo-Vos.\nPeço-Vos perdão para os que não creem,\nnão adoram, não esperam e não Vos amam.\n\nSegunda oração (ensinada no outono de 1916):\nSantíssima Trindade, Pai, Filho, Espírito Santo,\nadoro-Vos profundamente\ne ofereço-Vos o Preciosíssimo Corpo, Sangue,\nAlma e Divindade de Jesus Cristo,\npresente em todos os sacrários da terra,\nem reparação dos ultrajes, sacrilégios e indiferenças\ncom que Ele mesmo é ofendido.\nE, pelos méritos infinitos do seu Santíssimo Coração\ne do Coração Imaculado de Maria,\npeço-Vos a conversão dos pobres pecadores.",
+      "uso": "Repetidas três vezes, segundo o relato do gesto do Anjo",
+      "origem": "Segundo o relato dos pastorinhos, ensinadas pelo Anjo da Paz em 1916"
+    },
+    {
+      "id": "oracoes:ladainha-do-sagrado-coracao-de-jesus",
+      "slug": "ladainha-do-sagrado-coracao-de-jesus",
+      "titulo": "Ladainha do Sagrado Coração de Jesus",
+      "categoria": "oracoes",
+      "resumo": "Série de invocações ao Coração de Jesus, uma para cada ano de sua vida terrena, aprovada para toda a Igreja por Leão XIII em 1899.",
+      "corpo": "A Ladainha do Sagrado Coração de Jesus tem origem devocional ligada às visões de Santa Margarida Maria Alacoque (1647-1690), nas quais Jesus lhe mostrava o próprio coração ferido, coroado de espinhos e inflamado de amor pela humanidade. Sua estrutura sintetiza diversas litanias mais antigas, que remontam ao século XVII.\n\nA versão final, aprovada pela Sagrada Congregação para os Ritos, reúne trinta e três invocações ao Coração de Jesus — uma para cada ano de sua vida terrena —, e foi estendida ao uso público de toda a Igreja pelo decreto do papa Leão XIII, de 2 de abril de 1899.",
+      "tags": [
+        "Sagrado Coração",
+        "ladainha",
+        "Leão XIII"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Padre Paulo Ricardo, «Ladainha do Sagrado Coração de Jesus»",
+        "Pílulas Litúrgicas, «Ladainha do Sagrado Coração de Jesus»"
+      ],
+      "texto": "Senhor, tende piedade de nós.\nCristo, tende piedade de nós.\nSenhor, tende piedade de nós.\n\nCoração de Jesus, Filho do Pai Eterno, tende piedade de nós.\nCoração de Jesus, formado pelo Espírito Santo no seio da Virgem Mãe, tende piedade de nós.\nCoração de Jesus, unido substancialmente ao Verbo de Deus, tende piedade de nós.\nCoração de Jesus, de majestade infinita, tende piedade de nós.\nCoração de Jesus, templo santo de Deus, tende piedade de nós.\nCoração de Jesus, tabernáculo do Altíssimo, tende piedade de nós.\n[demais invocações, uma para cada ano da vida terrena de Cristo]\n\nCordeiro de Deus, que tirais o pecado do mundo, perdoai-nos, Senhor.\nCordeiro de Deus, que tirais o pecado do mundo, ouvi-nos, Senhor.\nCordeiro de Deus, que tirais o pecado do mundo, tende piedade de nós.",
+      "uso": "Devoção ao Sagrado Coração; especialmente no mês de junho",
+      "origem": "Ligada às revelações a Santa Margarida Maria Alacoque; versão final aprovada por Leão XIII em 2 de abril de 1899"
+    },
+    {
+      "id": "oracoes:oracao-antes-da-comunhao-sao-tomas-de-aquino",
+      "slug": "oracao-antes-da-comunhao-sao-tomas-de-aquino",
+      "titulo": "Oração de São Tomás de Aquino antes da Comunhão",
+      "categoria": "oracoes",
+      "resumo": "Súplica de preparação interior para receber dignamente a Eucaristia, tradicionalmente atribuída a Tomás de Aquino.",
+      "corpo": "Esta oração, atribuída pela tradição a São Tomás de Aquino, é uma das que compõem um conjunto de preces de preparação antes e de ação de graças depois da comunhão associadas a seu nome. Nela, quem reza reconhece sua própria pobreza e indignidade diante da grandeza do sacramento — \"impuro, venho à fonte da misericórdia\" — e pede a purificação necessária para acolher dignamente \"o pão dos Anjos\".\n\nContinua impressa em muitos missais e devocionários como sugestão de preparação pessoal antes da comunhão eucarística, ao lado de outras orações de Tomás de Aquino já presentes neste acervo, como o \"Adoro Te Devote\" e o \"Pange Lingua\" (ver Música Sacra).",
+      "tags": [
+        "Tomás de Aquino",
+        "Eucaristia",
+        "preparação para a comunhão"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "A12, «Oração de São Tomás de Aquino para antes da Comunhão»"
+      ],
+      "texto": "Ó Deus eterno e todo-poderoso,\neis que me aproximo do sacramento\ndo vosso Filho único, nosso Senhor Jesus Cristo.\nImpuro, venho à fonte da misericórdia;\ncego, à luz da eterna claridade;\npobre e indigente, ao Senhor do céu e da terra.\nImploro, pois, a abundância de vossa imensa liberalidade\npara que vos digneis curar minha fraqueza,\nlavar minhas manchas,\niluminar minha cegueira,\nenriquecer minha pobreza\ne vestir minha nudez.\nQue eu receba o pão dos Anjos,\no Rei dos reis e o Senhor dos senhores,\ncom o respeito e a humildade,\ncom a contrição e a devoção,\na pureza e a fé,\no propósito e a intenção que convêm\nà salvação de minha alma.\nDai-me receber não só o sacramento\ndo Corpo e do Sangue do Senhor,\nmas também seu efeito e sua força.\nÓ Deus de mansidão,\nfazei-me acolher com tais disposições\no Corpo que vosso Filho único,\nNosso Senhor Jesus Cristo, recebeu da Virgem Maria,\nde modo que eu seja incorporado ao seu Corpo Místico\ne contado entre os seus membros.\nAmém.",
+      "uso": "Preparação pessoal antes de receber a comunhão eucarística",
+      "origem": "Atribuída a São Tomás de Aquino"
+    },
+    {
+      "id": "oracoes:ato-de-consagracao-pessoal-ao-sagrado-coracao-de-jesus",
+      "slug": "ato-de-consagracao-pessoal-ao-sagrado-coracao-de-jesus",
+      "titulo": "Ato de Consagração Pessoal ao Sagrado Coração de Jesus",
+      "categoria": "oracoes",
+      "resumo": "Fórmula de entrega total da própria vida ao Sagrado Coração de Jesus, expressão pessoal da devoção reparadora difundida a partir de Santa Margarida Maria Alacoque.",
+      "corpo": "Distinta do ato solene com que o papa Leão XIII consagrou toda a humanidade ao Sagrado Coração de Jesus em 1899 (ver Devoções), esta é uma fórmula de consagração pessoal, rezada por um fiel em nome próprio, oferecendo a Cristo pensamentos, palavras, ações e sofrimentos em resposta ao amor revelado nas aparições a Santa Margarida Maria Alacoque.\n\nCirculam diversas versões tradicionais desta consagração pessoal, sem um texto único fixado pela liturgia, todas expressando o mesmo núcleo de entrega: pertencer inteiramente ao Sagrado Coração como fonte de proteção, de perseverança e de amparo na hora da morte.",
+      "tags": [
+        "Sagrado Coração",
+        "consagração pessoal",
+        "devoção reparadora"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "O Fiel Católico, «Atos de Consagração ao Sagrado Coração de Jesus»"
+      ],
+      "texto": "Eu, N., vos dou e consagro,\nó Sagrado Coração de Jesus Cristo,\na minha vida, as minhas ações,\nas minhas penas e sofrimentos,\npara não querer mais servir-me\nde nenhuma parte do meu ser\nsenão para vos honrar, amar e glorificar.\nÉ esta a minha vontade irrevogável:\nser todo vosso\ne tudo fazer por vosso amor,\nrenunciando de todo o meu coração\na tudo quanto vos possa desagradar.\nTomo-vos, pois, ó Sagrado Coração,\npor único bem do meu amor,\nprotetor da minha vida,\nsegurança da minha salvação,\nremédio da minha fragilidade e da minha inconstância,\nreparador de todas as imperfeições da minha vida\ne meu amparo seguro na hora da morte.\nAmém.",
+      "uso": "Devoção pessoal ao Sagrado Coração; renovação de consagração",
+      "origem": "Fórmula devocional tradicional, ligada à espiritualidade reparadora de Santa Margarida Maria Alacoque"
     }
   ]
 }
