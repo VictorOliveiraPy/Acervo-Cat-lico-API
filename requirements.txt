@@ -16,7 +16,7 @@ voyageai==0.5.0
 pgvector==0.5.0
 
 # Desenvolvimento e testes
-pytest==8.3.4
+pytest==8.4.2
 pytest-cov==6.0.0
 # `asyncio_mode = "auto"` já estava configurado em pyproject.toml (sem
 # nenhum teste async pra usar ainda) — os testes de app/rag/generation.py
