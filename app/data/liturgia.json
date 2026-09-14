@@ -386,6 +386,258 @@
       "imagem_credito": "Foto: Fczarnowski — Wikimedia Commons, CC BY-SA 3.0",
       "ordem": 11,
       "paragrafos_ccc": []
+    },
+    {
+      "id": "liturgia:leitorado-instituido",
+      "slug": "leitorado-instituido",
+      "titulo": "O Leitorado: Ministério Instituído da Palavra",
+      "categoria": "liturgia",
+      "resumo": "Ministério litúrgico instituído que proclama as leituras não evangélicas na Missa, aberto a leigos desde 1972 e explicitamente a mulheres desde 2021.",
+      "corpo": "O leitorado é um dos dois ministérios instituídos que restaram da reforma de Paulo VI: no motu proprio \"Ministeria Quaedam\" (15 de agosto de 1972), o papa suprimiu as antigas ordens menores do caminho ao sacerdócio (ostiariado, leitorado, exorcistado e acolitado) e as substituiu por dois ministérios — leitorado e acolitado — agora abertos, com rito próprio de instituição pelo bispo ou por um superior religioso, a leigos batizados e confirmados, e não mais reservados a candidatos às ordens sacras. O leitor instituído proclama as leituras da Missa que não sejam o Evangelho (reservado a diácono ou sacerdote), pode assumir o Salmo Responsorial na falta de salmista e anunciar as intenções da oração dos fiéis quando não há diácono presente.\n\nDurante quase cinquenta anos, a instituição no leitorado ficou reservada aos homens. O Papa Francisco, pelo motu proprio \"Spiritus Domini\" (11 de janeiro de 2021), alterou o cânon 230, §1 do Código de Direito Canônico para declarar explicitamente que também as mulheres podem ser instituídas leitoras e acólitas, reconhecendo formalmente uma prática que já era comum na distribuição informal dessas funções nas paróquias.",
+      "tags": [
+        "leitorado",
+        "Ministeria Quaedam",
+        "Spiritus Domini",
+        "ministérios instituídos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 12,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Paulo VI, motu proprio «Ministeria Quaedam» (1972)",
+        "Francisco, motu proprio «Spiritus Domini» (2021)"
+      ]
+    },
+    {
+      "id": "liturgia:ministro-extraordinario-da-comunhao",
+      "slug": "ministro-extraordinario-da-comunhao",
+      "titulo": "Ministro Extraordinário da Sagrada Comunhão",
+      "categoria": "liturgia",
+      "resumo": "Fiel leigo autorizado pelo bispo a distribuir a Eucaristia quando faltam ministros ordinários, instituído pela Igreja em 1973 para atender necessidades pastorais concretas.",
+      "corpo": "Diferente do sacerdote, do diácono e do acólito instituído — ministros ordinários ou estáveis da Comunhão —, o ministro extraordinário da Sagrada Comunhão é um leigo designado apenas quando a necessidade concreta da comunidade o exige: grande número de fiéis a comungar, doentes impossibilitados de sair de casa, ou falta de clero suficiente. A figura foi criada pela instrução \"Immensae Caritatis\", publicada pela Sagrada Congregação dos Sacramentos em 29 de janeiro de 1973, que também facilitou a comunhão de doentes e idosos e abrandou, para eles, as normas do jejum eucarístico.\n\nO cânon 230, §3 do Código de Direito Canônico prevê essa possibilidade \"onde a necessidade da Igreja o aconselhar\", cabendo ao pároco ou ao bispo diocesano designar e formar esses fiéis, geralmente por um mandato temporário e renovável. Entre suas funções mais visíveis está também levar a comunhão a doentes e pessoas idosas que não podem participar da Missa dominical, ligando a mesa eucarística da paróquia à casa de quem está impossibilitado de chegar até ela.",
+      "tags": [
+        "ministro extraordinário",
+        "comunhão",
+        "Immensae Caritatis"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 13,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Sagrada Congregação dos Sacramentos, instrução «Immensae Caritatis» (1973)",
+        "Código de Direito Canônico, cân. 230"
+      ]
+    },
+    {
+      "id": "liturgia:forma-extraordinaria-do-rito-romano",
+      "slug": "forma-extraordinaria-do-rito-romano",
+      "titulo": "A Forma Extraordinária do Rito Romano (Missa Tridentina)",
+      "categoria": "liturgia",
+      "resumo": "A Missa celebrada segundo o Missal Romano anterior à reforma de 1969, cujo uso foi ampliado por Bento XVI em 2007 e depois restringido por Francisco em 2021.",
+      "corpo": "A chamada \"Missa Tridentina\" ou \"Missa em latim\" é a celebração eucarística segundo os livros litúrgicos em vigor antes da reforma pós-conciliar do Missal Romano de 1969 — em especial a edição de 1962, do Papa São João XXIII. Em 2007, o motu proprio \"Summorum Pontificum\", de Bento XVI, reconheceu essa forma como \"forma extraordinária\" do único Rito Romano (ao lado da \"forma ordinária\", nascida da reforma do Vaticano II), autorizando de modo geral qualquer sacerdote a celebrá-la sem precisar de permissão específica do bispo.\n\nEm 2021, o Papa Francisco, pelo motu proprio \"Traditionis Custodes\", revisou essa disciplina: devolveu ao bispo diocesano a competência exclusiva para autorizar o uso da forma extraordinária em sua diocese, restringindo sua celebração normalmente a locais que não sejam igrejas paroquiais e sujeitando grupos e sacerdotes interessados à aprovação caso a caso do próprio bispo. A medida buscou, segundo o documento, favorecer a comunhão em torno da reforma litúrgica conciliar, e gerou reações diversas entre fiéis ligados a essa tradição.",
+      "tags": [
+        "Summorum Pontificum",
+        "Traditionis Custodes",
+        "Missa Tridentina",
+        "Bento XVI"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 14,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Bento XVI, motu proprio «Summorum Pontificum» (2007)",
+        "Francisco, motu proprio «Traditionis Custodes» (2021)"
+      ]
+    },
+    {
+      "id": "liturgia:turibulo-e-incenso",
+      "slug": "turibulo-e-incenso",
+      "titulo": "O Turíbulo e o Incenso na Liturgia",
+      "categoria": "liturgia",
+      "resumo": "O uso do incenso queimado no turíbulo, herdado do culto do Templo de Jerusalém, simboliza a oração da Igreja subindo à presença de Deus.",
+      "corpo": "O turíbulo (do latim \"turibulum\", instrumento para o incenso) é o recipiente metálico suspenso por correntes em que se queima incenso sobre brasas nas celebrações mais solenes. Seu uso remonta ao culto do Templo de Jerusalém e foi incorporado à liturgia cristã desde os primeiros séculos como sinal de honra e reverência: a fumaça que sobe representa simbolicamente as orações do povo de Deus subindo à sua presença, conforme a imagem do Salmo 140 (141): \"Suba a minha oração como incenso na tua presença\".\n\nNo Missal Romano, a incensação é facultativa e pode ocorrer em vários momentos da Missa: na procissão e no início da celebração, antes da proclamação do Evangelho, sobre as oferendas, o sacerdote e o povo depois do ofertório, e durante a elevação do Corpo e do Sangue de Cristo após a consagração. O gesto de balançar o turíbulo — tradicionalmente três vezes diante de pessoas e imagens mais veneradas — reforça o caráter sensorial e contemplativo da liturgia, unindo o incenso à água benta, às velas e aos paramentos como sinais que tornam visível o mistério celebrado.",
+      "tags": [
+        "turíbulo",
+        "incenso",
+        "liturgia",
+        "missa solene"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 15,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Missal Romano, Instrução Geral, nn. 276-277",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "liturgia:rito-da-aspersao",
+      "slug": "rito-da-aspersao",
+      "titulo": "O Rito da Aspersão com Água Benta",
+      "categoria": "liturgia",
+      "resumo": "Rito facultativo que pode substituir o ato penitencial aos domingos, aspergindo a assembleia com água benta como memória viva do próprio Batismo.",
+      "corpo": "O Missal Romano prevê que, aos domingos, especialmente no Tempo Pascal, os Ritos Iniciais da Missa possam incluir a aspersão da assembleia com água benta em lugar do ato penitencial habitual — prática conhecida pelas palavras latinas com que tradicionalmente começa: \"Asperges me, Domine\" (\"Aspergir-me-ás, Senhor\"), do Salmo 50, cantado durante a maior parte do ano, e \"Vidi Aquam\" (\"Vi a água\"), do Salmo 117, reservado ao Tempo Pascal. Depois de abençoar a água (ou de usar água já benta, como a da Vigília Pascal), o sacerdote asperge primeiro o altar, depois a si mesmo, os ministros e, por fim, toda a assembleia.\n\nO gesto recorda diretamente o Batismo: a água que um dia lavou o pecado original e incorporou o fiel a Cristo e à Igreja é trazida de volta, de forma sensível, ao início da celebração dominical, renovando simbolicamente aquela purificação. Por isso o rito é particularmente valorizado no Tempo Pascal, quando toda a Igreja celebra o mistério da Ressurreição e a memória batismal que dele decorre.",
+      "tags": [
+        "água benta",
+        "aspersão",
+        "batismo",
+        "ritos iniciais"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 16,
+      "paragrafos_ccc": [
+        "1217-1222"
+      ],
+      "fontes": [
+        "Missal Romano, «Ritos Iniciais»",
+        "Ritual Romano"
+      ]
+    },
+    {
+      "id": "liturgia:jejum-eucaristico",
+      "slug": "jejum-eucaristico",
+      "titulo": "O Jejum Eucarístico",
+      "categoria": "liturgia",
+      "resumo": "A abstinência de alimentos e bebidas, hoje fixada em apenas uma hora antes da comunhão, como sinal de respeito e desejo diante do dom da Eucaristia.",
+      "corpo": "O jejum eucarístico é a abstinência de comida e bebida (com exceção de água e remédios) observada antes de receber a Sagrada Comunhão, prática que a Igreja já conhecia com rigor considerável desde a Antiguidade — chegando a exigir jejum total desde a meia-noite anterior. Pio XII, na constituição apostólica \"Christus Dominus\" (6 de janeiro de 1953), suavizou pela primeira vez essa disciplina, permitindo Missas vespertinas e reduzindo o jejum para três horas quanto a alimentos sólidos e bebidas alcoólicas, e uma hora quanto às bebidas não alcoólicas.\n\nEm 1964, Paulo VI reduziu ainda mais essa exigência, fixando-a em apenas uma hora antes da comunhão para qualquer alimento ou bebida — disciplina mantida até hoje pelo Código de Direito Canônico (cân. 919). Doentes e idosos, bem como quem os assiste, estão dispensados até dessa hora mínima. Embora hoje breve, o jejum eucarístico continua a expressar o mesmo sentido espiritual de sempre: preparar o corpo e o coração para receber com fome e desejo verdadeiros o Corpo de Cristo, distinguindo esse alimento de qualquer outro.",
+      "tags": [
+        "jejum eucarístico",
+        "comunhão",
+        "Christus Dominus"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 17,
+      "paragrafos_ccc": [
+        "1387"
+      ],
+      "fontes": [
+        "Pio XII, constituição apostólica «Christus Dominus» (1953)",
+        "Código de Direito Canônico, cân. 919"
+      ]
+    },
+    {
+      "id": "liturgia:sacrario",
+      "slug": "sacrario",
+      "titulo": "O Sacrário: A Reserva Eucarística",
+      "categoria": "liturgia",
+      "resumo": "O pequeno cofre inviolável onde se guarda a Eucaristia consagrada fora da Missa, para os doentes e para a adoração dos fiéis.",
+      "corpo": "Sacrário (ou tabernáculo, do latim \"tabernaculum\", tenda) é o receptáculo sólido e inviolável em que a Igreja guarda as hóstias consagradas fora da celebração da Missa. Desde os primeiros séculos, quando padres e leigos levavam o pão eucarístico consagrado aos doentes e aos ausentes da celebração, a Igreja precisou de um lugar seguro para reservá-lo; ao longo da Idade Média esse lugar migrou de anexos da sacristia e nichos no presbitério para, a partir do século XI, um espaço de destaque próximo ou sobre o altar, prática que se consolidou de modo mais uniforme no período barroco, entre os séculos XVII e XVIII, e foi reafirmada pelo Papa Bento XIV em sua constituição \"Accepimus\" (1746).\n\nAs normas litúrgicas atuais exigem que o sacrário seja feito de material sólido e inamovível, mantido sempre trancado quando contém o Santíssimo Sacramento, para evitar qualquer perigo de profanação, e localizado num lugar da igreja verdadeiramente nobre, visível e adequado à oração. A pequena lâmpada ou vela que arde permanentemente diante dele sinaliza aos fiéis, a qualquer hora, a presença real de Cristo ali reservado — convite silencioso à visita e à adoração eucarística mesmo fora dos horários de Missa.",
+      "tags": [
+        "sacrário",
+        "tabernáculo",
+        "eucaristia",
+        "presença real"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 18,
+      "paragrafos_ccc": [
+        "1183",
+        "1379"
+      ],
+      "fontes": [
+        "Missal Romano, Instrução Geral, nn. 314-317",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "liturgia:genuflexao-e-posturas-na-missa",
+      "slug": "genuflexao-e-posturas-na-missa",
+      "titulo": "Genuflexão e as Posturas do Corpo na Missa",
+      "categoria": "liturgia",
+      "resumo": "Ficar de pé, sentar, ajoelhar e genufletir não são detalhes indiferentes: cada postura corporal expressa e também educa uma atitude interior na Missa.",
+      "corpo": "A liturgia católica atribui sentido às posições do corpo, e não apenas às palavras: ficar de pé — postura dos ressuscitados e dos que aguardam com prontidão — marca os momentos mais solenes, como os Ritos Iniciais, o Evangelho, o Credo e os Ritos Finais; sentar-se convém à escuta atenta, como durante as leituras e a homilia; e ajoelhar-se, postura de súplica e adoração, é indicado sobretudo durante a Oração Eucarística, salvo impedimentos de saúde, falta de espaço ou grande número de fiéis.\n\nA genuflexão propriamente dita — dobrar o joelho direito até o chão e logo se erguer — é um gesto mais breve e específico, reservado à adoração do Santíssimo Sacramento: faz-se ao entrar ou sair de uma igreja onde ele está reservado no sacrário, e o próprio sacerdote genuflete diante do altar após a consagração e antes da comunhão. Distinta da inclinação (mera reverência, usada por exemplo ao passar diante do altar sem o Santíssimo exposto), a genuflexão é assim um gesto teologicamente preciso: não uma cortesia qualquer, mas o reconhecimento corporal de estar diante de Deus realmente presente.",
+      "tags": [
+        "genuflexão",
+        "posturas litúrgicas",
+        "adoração",
+        "gestos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 19,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Missal Romano, Instrução Geral, nn. 42-43",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "liturgia:ritual-de-bencaos",
+      "slug": "ritual-de-bencaos",
+      "titulo": "O Ritual de Bênçãos",
+      "categoria": "liturgia",
+      "resumo": "O livro litúrgico que reúne as fórmulas oficiais da Igreja para abençoar pessoas, objetos e situações da vida em nome de Deus.",
+      "corpo": "O \"De Benedictionibus\" (\"Cerimonial das Bênçãos\", em sua tradução portuguesa), publicado em edição típica latina em 1984, é o livro do Ritual Romano que reúne as fórmulas oficiais com que a Igreja, em nome de Deus, abençoa pessoas, objetos, lugares e circunstâncias da vida cristã. Toda bênção, ensina o próprio ritual, é ao mesmo tempo louvor a Deus por seus dons e súplica para alcançá-los, unindo sempre uma leitura da Palavra a uma oração, geralmente acompanhada do sinal da cruz, da imposição das mãos ou de aspersão com água benta.\n\nO ritual organiza as bênçãos em famílias: bênçãos de pessoas (como de uma criança, de uma família, de doentes ou de grupos específicos), de objetos e lugares destinados ao uso litúrgico (como um novo altar ou um sacrário), de objetos de devoção popular (terços, medalhas, imagens) e bênçãos para diversas outras finalidades, como o início do ano ou de uma viagem. A teologia distingue ainda bênçãos de caráter \"invocativo\" (pedem a Deus favor sobre pessoas) das de caráter \"constitutivo\" (destinam definitivamente um objeto ou lugar ao uso sagrado).",
+      "tags": [
+        "bênção",
+        "Ritual Romano",
+        "De Benedictionibus"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 20,
+      "paragrafos_ccc": [
+        "1671",
+        "1672"
+      ],
+      "fontes": [
+        "Ritual Romano, «De Benedictionibus» (1984)",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "liturgia:salmista",
+      "slug": "salmista",
+      "titulo": "O Salmista: Ministério do Salmo Responsorial",
+      "categoria": "liturgia",
+      "resumo": "Quem canta o Salmo Responsorial entre as leituras da Missa exerce um verdadeiro ministério litúrgico, não uma simples performance musical.",
+      "corpo": "Entre a primeira leitura e a segunda (ou o Evangelho, nos dias feriais), a Liturgia da Palavra reserva um espaço de meditação orante através do Salmo Responsorial, normalmente cantado por um salmista do ambão ou de outro local adequado, com a assembleia respondendo um refrão entre as estrofes. Longe de ser mero intervalo musical, essa proclamação-canto é considerada pela própria Igreja um gesto sacramental e um ministério litúrgico à parte, distinto tanto do leitor quanto do coral: o salmista empresta sua voz ao próprio salmo, prolongando meditativamente a leitura que acabou de ser proclamada.\n\nExercer bem essa função pede, ao mesmo tempo, técnica vocal e atitude espiritual e orante: não basta cantar afinado, é preciso salmodiar com boa dicção e verdadeiro sentido de oração, para que o Salmo — herdado da mesma tradição judaica de oração que Jesus e os apóstolos rezavam — continue a ser, também na Missa de hoje, palavra viva de louvor, súplica ou lamento diante de Deus.",
+      "tags": [
+        "salmista",
+        "salmo responsorial",
+        "ministério de música",
+        "liturgia da palavra"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 21,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Missal Romano, Instrução Geral, nn. 61, 102",
+        "Congregação para o Culto Divino, «Musicam Sacram» (1967)"
+      ]
+    },
+    {
+      "id": "liturgia:missas-votivas-e-de-defuntos",
+      "slug": "missas-votivas-e-de-defuntos",
+      "titulo": "Missas Votivas e Missas de Defuntos",
+      "categoria": "liturgia",
+      "resumo": "Além da Missa do dia fixada pelo calendário, o Missal Romano prevê Missas votivas dedicadas a um mistério ou santo, e Missas específicas pelos falecidos.",
+      "corpo": "Nem toda Missa segue necessariamente os textos do dia fixados pelo calendário litúrgico: o Missal Romano reserva uma seção às Missas votivas, celebradas por devoção — em dias feriais do Tempo Comum, ou mesmo quando ocorre uma memória facultativa — em honra de algum mistério do Senhor, da Virgem Maria, de um anjo ou de um santo, prática já atestada desde a Idade Média. Curiosamente, entre as primeiras Missas votivas a se difundirem estiveram justamente as celebradas em sufrágio de um defunto, às quais depois se somaram muitas outras intenções devocionais.\n\nAs Missas de defuntos, hoje reunidas numa seção própria do Missal logo depois das votivas, oferecem o sacrifício eucarístico da Páscoa de Cristo pelos falecidos, para que, pela comunhão entre os membros do Corpo de Cristo, uns recebam auxílio espiritual e outros, consolação e esperança. Distinguem-se conforme a ocasião: a Missa exequial (no funeral), a Missa celebrada ao receber a notícia da morte, a do dia da sepultura ou de aniversário do falecimento, e as Missas quotidianas pelos defuntos em geral — todas expressão concreta da fé católica na comunhão dos santos, que une vivos e mortos na mesma oração.",
+      "tags": [
+        "missa votiva",
+        "missa de defuntos",
+        "sufrágio",
+        "comunhão dos santos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 22,
+      "paragrafos_ccc": [
+        "958",
+        "1032"
+      ],
+      "fontes": [
+        "Missal Romano, «Missas Votivas» e «Missas de Defuntos»",
+        "Catecismo da Igreja Católica"
+      ]
     }
   ]
 }

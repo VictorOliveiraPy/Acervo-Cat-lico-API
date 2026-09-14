@@ -370,6 +370,267 @@
       "regiao": "Itália",
       "seculo": "VI-VII",
       "e_doutor": true
+    },
+    {
+      "id": "padres-da-igreja:clemente-de-roma",
+      "slug": "clemente-de-roma",
+      "titulo": "Clemente de Roma",
+      "categoria": "padres-da-igreja",
+      "resumo": "Um dos primeiros bispos de Roma depois dos apóstolos, autor da mais antiga carta cristã conhecida fora do Novo Testamento.",
+      "corpo": "Clemente foi bispo de Roma entre aproximadamente 88 e 99, sendo contado pela tradição entre os primeiros sucessores de São Pedro — a lista de Santo Irineu de Lyon o situa como o terceiro depois de Lino e Anacleto. É tradicionalmente identificado, embora sem certeza histórica plena, com o Clemente mencionado por São Paulo na Carta aos Filipenses (4,3).\n\nSua obra mais importante é a chamada Primeira Epístola de Clemente aos Coríntios, escrita por volta de 96, quando o próprio apóstolo João ainda vivia. A carta responde a um cisma que dividia a comunidade de Corinto, exortando à obediência aos presbíteros legitimamente constituídos e é considerada o testemunho mais antigo, fora dos escritos neotestamentários, sobre a sucessão apostólica e a autoridade dos ministros ordenados na Igreja primitiva.",
+      "tags": [
+        "Roma",
+        "papas",
+        "século I",
+        "sucessão apostólica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "regiao": "Roma (Itália)",
+      "seculo": "I",
+      "e_doutor": false,
+      "fontes": [
+        "Clemente de Roma, «Epístola aos Coríntios»",
+        "Santo Irineu de Lyon, «Adversus Haereses», III, 3"
+      ]
+    },
+    {
+      "id": "padres-da-igreja:hipolito-de-roma",
+      "slug": "hipolito-de-roma",
+      "titulo": "Hipólito de Roma",
+      "categoria": "padres-da-igreja",
+      "resumo": "Presbítero e escritor de Roma do século III, protagonista do primeiro cisma conhecido na sé romana, reconciliado com a Igreja antes do martírio.",
+      "corpo": "Hipólito nasceu por volta de 170, provavelmente no Oriente grego, e tornou-se um dos mais importantes escritores cristãos de Roma na virada do século II para o III, autor de obras exegéticas, apologéticas e da chamada «Tradição Apostólica», importante fonte sobre a liturgia e a disciplina eclesiástica primitivas.\n\nEntrou em conflito com os papas Zeferino e, sobretudo, Calisto I, a quem acusava de excessiva tolerância disciplinar; chegou a ser aclamado bispo por um grupo de fiéis, configurando o que a tradição considera o primeiro antipapa da história. O cisma persistiu sob os pontificados seguintes, até que, durante a perseguição do imperador Maximino Trácio, Hipólito e o papa legítimo Ponciano foram juntos deportados para as minas da Sardenha.\n\nAinda nas minas, reconciliou-se com a Igreja de Roma antes de morrer, por volta de 235, provavelmente pelos maus-tratos do trabalho forçado. Seus restos e os de Ponciano foram trazidos de volta a Roma e sepultados com honras, e sua memória é hoje celebrada como mártir, apesar do episódio cismático de sua vida.",
+      "tags": [
+        "Roma",
+        "século III",
+        "mártir",
+        "liturgia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "regiao": "Roma (Itália)",
+      "seculo": "II-III",
+      "e_doutor": false,
+      "fontes": [
+        "Martirológio Romano, 13 de agosto",
+        "Eusébio de Cesareia, «História Eclesiástica», VI"
+      ]
+    },
+    {
+      "id": "padres-da-igreja:clemente-de-alexandria",
+      "slug": "clemente-de-alexandria",
+      "titulo": "Clemente de Alexandria",
+      "categoria": "padres-da-igreja",
+      "resumo": "Mestre da célebre Escola Catequética de Alexandria, pioneiro no diálogo entre a fé cristã e a filosofia grega.",
+      "corpo": "Tito Flávio Clemente nasceu por volta de 150, provavelmente em Atenas, de família pagã, e recebeu sólida formação na filosofia grega antes de se converter ao cristianismo. Peregrinou por diversas escolas cristãs do Mediterrâneo antes de se fixar em Alexandria, onde se tornou discípulo e, depois, sucessor de Panteno à frente da Escola Catequética local, um dos primeiros grandes centros de reflexão teológica cristã.\n\nSua obra mais conhecida é composta pela trilogia «Protréptico» (exortação aos pagãos à conversão), «Pedagogo» (orientação moral para os recém-convertidos) e «Stromata» (\"Miscelâneas\"), uma vasta reflexão que busca mostrar a compatibilidade entre a verdadeira filosofia grega e a revelação cristã, antecipando métodos que Orígenes, seu discípulo mais famoso, desenvolveria em seguida.\n\nFugiu de Alexandria durante a perseguição de Septímio Severo, por volta de 202, e morreu na Capadócia cerca de 215. Embora seu nome tenha sido retirado do Martirológio Romano em 1748 por dúvidas sobre alguns pontos de sua doutrina, permanece estudado como uma das figuras fundamentais da patrística grega e da história do pensamento cristão.",
+      "tags": [
+        "Alexandria",
+        "século II",
+        "século III",
+        "filosofia",
+        "Egito"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "regiao": "Alexandria (Egito)",
+      "seculo": "II-III",
+      "e_doutor": false,
+      "fontes": [
+        "Clemente de Alexandria, «Stromata»",
+        "Eusébio de Cesareia, «História Eclesiástica», VI, 6"
+      ]
+    },
+    {
+      "id": "padres-da-igreja:lactancio",
+      "slug": "lactancio",
+      "titulo": "Lactâncio",
+      "categoria": "padres-da-igreja",
+      "resumo": "Apologista latino do fim do Império Romano, preceptor do filho de Constantino, autor das «Instituições Divinas».",
+      "corpo": "Lúcio Cecílio Firmiano Lactâncio nasceu por volta de 240, provavelmente no norte da África, e alcançou renome como professor de retórica antes de se converter ao cristianismo. Durante a grande perseguição promovida por Diocleciano, a partir de 303, perdeu sua cátedra em Nicomédia e passou a viver momentos de grande privação.\n\nApós o Edito de Milão (313), que estabeleceu a tolerância ao cristianismo no Império, foi chamado pelo imperador Constantino para ser preceptor de seu filho Crispo em Trier. Sua obra principal, as «Instituições Divinas», em sete livros, é a primeira tentativa de expor sistematicamente toda a doutrina cristã em língua latina para um público culto, valendo-lhe dos humanistas renascentistas o apelido de \"Cícero cristão\", pela elegância de seu estilo.\n\nMorreu por volta de 320. Por seu estilo refinado e sua defesa da fé diante da cultura clássica, é contado, ao lado de Tertuliano e Cipriano, entre os fundadores da literatura teológica em língua latina.",
+      "tags": [
+        "apologética",
+        "século III",
+        "século IV",
+        "Roma",
+        "latim"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "regiao": "Norte da África / Império Romano do Oriente",
+      "seculo": "III-IV",
+      "e_doutor": false,
+      "fontes": [
+        "Lactâncio, «Divinarum Institutionum Libri VII»",
+        "São Jerônimo, «De Viris Illustribus», 80"
+      ]
+    },
+    {
+      "id": "padres-da-igreja:hilario-de-poitiers",
+      "slug": "hilario-de-poitiers",
+      "titulo": "Hilário de Poitiers",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bispo da Gália do século IV, chamado \"Atanásio do Ocidente\" pela firme defesa da fé niceia contra o arianismo.",
+      "corpo": "Hilário nasceu por volta de 315 em Pictávio (atual Poitiers, na Gália), em família pagã de posição social elevada; converteu-se ao cristianismo já adulto, depois de casado e pai de família, pela leitura das Escrituras. Foi eleito bispo de sua cidade natal pouco depois do batismo.\n\nTornou-se um dos principais adversários do arianismo no Ocidente latino, o que lhe valeu o exílio na Frígia, decretado pelo imperador Constâncio II, entre 356 e 360. No exílio, teve contato direto com a teologia dos Padres gregos e escreveu sua obra-prima, o tratado «De Trinitate», a mais completa exposição latina da doutrina trinitária niceia até então.\n\nDe volta à Gália, continuou a combater o arianismo e a formar outros bispos na ortodoxia niceia, entre eles São Martinho de Tours, que fundou por sua inspiração o primeiro mosteiro da região. Morreu em 367 e foi proclamado Doutor da Igreja em 1851 pelo beato Pio IX.",
+      "tags": [
+        "Gália",
+        "século IV",
+        "arianismo",
+        "Trindade",
+        "França"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "regiao": "Gália (atual França)",
+      "seculo": "IV",
+      "e_doutor": true,
+      "fontes": [
+        "Hilário de Poitiers, «De Trinitate»",
+        "Martirológio Romano, 13 de janeiro"
+      ]
+    },
+    {
+      "id": "padres-da-igreja:isidoro-de-sevilha",
+      "slug": "isidoro-de-sevilha",
+      "titulo": "Isidoro de Sevilha",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bispo hispano-visigodo do século VII, autor da enciclopédia «Etimologias» e considerado o último dos Padres latinos.",
+      "corpo": "Isidoro nasceu por volta de 560 em Cartagena ou Sevilha, na Hispânia então sob domínio visigodo, numa família de grande relevância eclesiástica: seus irmãos Leandro e Fulgêncio também foram bispos, e sua irmã Florentina, religiosa. Sucedeu o próprio irmão Leandro como bispo de Sevilha por volta de 600, cargo que exerceu até a morte.\n\nPresidiu concílios importantes para a organização da Igreja na Hispânia visigótica, entre eles o IV Concílio de Toledo (633), que padronizou a liturgia e a disciplina eclesiástica no reino. Sua obra mais influyente foi as «Etimologias», uma vasta enciclopédia em vinte livros que reúne e organiza o saber greco-romano e cristão então disponível, tornando-se um dos textos de referência mais copiados durante toda a Idade Média.\n\nMorreu em 636. Por ter reunido e transmitido à posteridade boa parte do conhecimento clássico que, de outro modo, teria se perdido com a fragmentação do Império Romano, é tradicionalmente chamado de último dos Padres latinos; foi proclamado Doutor da Igreja em 1722 pelo papa Inocêncio XIII.",
+      "tags": [
+        "Hispânia",
+        "século VI",
+        "século VII",
+        "Espanha",
+        "enciclopedismo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Isidor_von_Sevilla.jpeg",
+      "imagem_credito": null,
+      "regiao": "Hispânia (atual Espanha)",
+      "seculo": "VI-VII",
+      "e_doutor": true,
+      "fontes": [
+        "Isidoro de Sevilha, «Etimologias»",
+        "Martirológio Romano, 4 de abril"
+      ]
+    },
+    {
+      "id": "padres-da-igreja:joao-cassiano",
+      "slug": "joao-cassiano",
+      "titulo": "João Cassiano",
+      "categoria": "padres-da-igreja",
+      "resumo": "Monge do século V que transmitiu ao Ocidente latino a experiência do monaquismo egípcio, fundando dois mosteiros em Marselha.",
+      "corpo": "João Cassiano nasceu por volta de 360, provavelmente na região da Cítia Menor (atual Romênia ou Bulgária). Ainda jovem, viajou ao Egito para viver entre os monges eremitas do deserto, experiência que marcaria profundamente toda a sua obra posterior; foi ordenado diácono em Constantinopla, sob a proteção de São João Crisóstomo, e depois presbítero em Roma.\n\nPor volta de 415, fixou-se em Marselha, na Gália, onde fundou dois mosteiros — um masculino e outro feminino —, contribuindo decisivamente para o início do monaquismo organizado no Ocidente latino. Suas obras principais, as «Institutas Cenobíticas» e as «Conferências», reúnem os ensinamentos práticos e espirituais recolhidos junto aos monges egípcios, e influenciaram diretamente a Regra de São Bento.\n\nMorreu por volta de 435. Sua reflexão sobre a relação entre a graça divina e o esforço humano na vida espiritual, posteriormente associada à controvérsia \"semipelagiana\", gerou debate teológico já em sua época, mas não impediu que sua obra permanecesse leitura fundamental da tradição monástica até hoje, sobretudo no Oriente cristão, onde é venerado como santo.",
+      "tags": [
+        "monaquismo",
+        "Gália",
+        "século IV",
+        "século V",
+        "Egito"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "regiao": "Gália (Marselha, atual França)",
+      "seculo": "IV-V",
+      "e_doutor": false,
+      "fontes": [
+        "João Cassiano, «Conferências»",
+        "João Cassiano, «Institutas Cenobíticas»"
+      ]
+    },
+    {
+      "id": "padres-da-igreja:leao-magno",
+      "slug": "leao-magno",
+      "titulo": "Leão Magno",
+      "categoria": "padres-da-igreja",
+      "resumo": "Papa do século V cujo \"Tomo a Flaviano\" definiu a doutrina cristológica do Concílio de Calcedônia.",
+      "corpo": "Leão foi eleito papa em 440 e governou a Igreja de Roma por 21 anos, num período de grave instabilidade política no Império Romano do Ocidente. Destacou-se como pregador e como defensor da unidade doutrinal da Igreja diante das controvérsias cristológicas que então dividiam o Oriente cristão.\n\nSua intervenção mais decisiva foi o chamado \"Tomo a Flaviano\" (449), carta doutrinal enviada ao patriarca de Constantinopla contra a heresia monofisista de Êutiques, que negava a plena humanidade de Cristo. Lido no Concílio de Calcedônia (451), o texto foi aclamado pelos bispos presentes como expressão fiel da fé apostólica sobre a união, \"sem confusão, sem mudança, sem divisão e sem separação\", das naturezas divina e humana em Cristo, tornando-se base da definição dogmática conciliar.\n\nÉ também lembrado por ter dissuadido, em 452, o rei huno Átila de avançar sobre Roma, num encontro que a tradição transformou em símbolo da autoridade moral do papado diante do colapso do poder imperial. Morreu em 461 e foi proclamado Doutor da Igreja em 1754 pelo papa Bento XIV.",
+      "tags": [
+        "papas",
+        "Calcedônia",
+        "cristologia",
+        "século V",
+        "Roma"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mosaic_of_Saint_Pope_Leo_I_the_Great_at_the_Cappella_Palatina_in_Palermo.jpg",
+      "imagem_credito": "Foto: Holger Uwe Schmitt — Wikimedia Commons, CC BY 4.0",
+      "regiao": "Roma (Itália)",
+      "seculo": "V",
+      "e_doutor": true,
+      "fontes": [
+        "São Leão Magno, «Tomo a Flaviano» (449)",
+        "Atas do Concílio de Calcedônia (451)"
+      ]
+    },
+    {
+      "id": "padres-da-igreja:pedro-crisologo",
+      "slug": "pedro-crisologo",
+      "titulo": "Pedro Crisólogo",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bispo de Ravena no século V, apelidado \"Crisólogo\" (palavra de ouro) por seus sermões breves e densos.",
+      "corpo": "Pedro nasceu por volta de 380 em Ímola, no norte da Itália, onde foi batizado, educado e ordenado diácono pelo bispo local, Cornélio. Por volta de 433, foi eleito bispo de Ravena, então capital do Império Romano do Ocidente e sede da corte da imperatriz Gala Placídia, de quem se tornou conselheiro próximo.\n\nFicou conhecido pelo apelido \"Crisólogo\" (do grego, \"palavra de ouro\") por seus sermões — restam cerca de cento e setenta e seis homilias — marcados por brevidade, clareza e riqueza doutrinal, muitas vezes dedicados a explicar aos fiéis o Credo, o Pai-Nosso e as principais verdades da fé de modo acessível, sem abrir mão do rigor teológico.\n\nMorreu por volta de 450, em sua cidade natal, para onde havia retornado. Foi proclamado Doutor da Igreja em 1729 pelo papa Bento XIII, com o título de \"Doutor das Homilias\", pela influência duradoura de sua pregação sobre a arte da homilética cristã.",
+      "tags": [
+        "Ravena",
+        "século V",
+        "pregação",
+        "Itália"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "regiao": "Ravena (Itália)",
+      "seculo": "V",
+      "e_doutor": true,
+      "fontes": [
+        "São Pedro Crisólogo, «Sermões»",
+        "Martirológio Romano, 30 de julho"
+      ]
+    },
+    {
+      "id": "padres-da-igreja:joao-damasceno",
+      "slug": "joao-damasceno",
+      "titulo": "João Damasceno",
+      "categoria": "padres-da-igreja",
+      "resumo": "Monge de Jerusalém do século VIII, último grande representante da patrística grega e defensor da veneração dos ícones.",
+      "corpo": "João nasceu por volta de 676 em Damasco, então sob domínio do califado omíada, numa família cristã de posição destacada na administração local; segundo a tradição, ocupou ele mesmo um cargo na corte antes de se retirar para o Mosteiro de São Sabas, perto de Jerusalém, onde foi ordenado sacerdote.\n\nSua obra mais importante, «A Fonte do Conhecimento», é uma ampla síntese da filosofia, da história das heresias e da fé cristã ortodoxa, e exerceu enorme influência tanto no Oriente quanto, mais tarde, no Ocidente medieval. Tornou-se célebre sobretudo por seus três «Discursos Apologéticos contra os que Rejeitam as Santas Imagens», escritos durante a crise iconoclasta bizantina, nos quais argumenta que a veneração de ícones é legítima precisamente por causa da Encarnação: Deus se fez visível em Cristo, e por isso pode ser representado e venerado em imagens.\n\nMorreu por volta de 749. É considerado o último dos grandes Padres da tradição grega e foi proclamado Doutor da Igreja em 1890 pelo papa Leão XIII.",
+      "tags": [
+        "Damasco",
+        "século VII",
+        "século VIII",
+        "ícones",
+        "Síria"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/John-of-Damascus_01.jpg",
+      "imagem_credito": null,
+      "regiao": "Damasco (Síria)",
+      "seculo": "VII-VIII",
+      "e_doutor": true,
+      "fontes": [
+        "João Damasceno, «A Fonte do Conhecimento»",
+        "João Damasceno, «Discursos Apologéticos contra os que Rejeitam as Santas Imagens»"
+      ]
+    },
+    {
+      "id": "padres-da-igreja:beda-o-veneravel",
+      "slug": "beda-o-veneravel",
+      "titulo": "Beda, o Venerável",
+      "categoria": "padres-da-igreja",
+      "resumo": "Monge inglês do século VIII, autor da «História Eclesiástica do Povo Inglês», considerado o \"pai da história inglesa\".",
+      "corpo": "Beda nasceu por volta de 673 na Nortúmbria, no norte da Inglaterra, e foi entregue ainda criança, aos sete anos, aos cuidados dos monges do mosteiro de Monkwearmouth-Jarrow, onde viveria o resto da vida, ordenado diácono aos dezenove anos e presbítero aos trinta.\n\nDedicou-se ao estudo e ao ensino, deixando cerca de sessenta obras sobre exegese bíblica, gramática, ciências naturais, cronologia e história. Sua obra-prima, a «História Eclesiástica do Povo Inglês» (731), narra a evangelização da Inglaterra anglo-saxônica e é uma das fontes historiográficas mais importantes da Alta Idade Média europeia, valendo-lhe o título de \"pai da história inglesa\".\n\nMorreu em 25 de maio de 735, em Jarrow. Foi proclamado Doutor da Igreja em 1899 pelo papa Leão XIII, sendo o único autor inglês a receber esse título, e o epíteto \"Venerável\" já lhe era atribuído desde poucas gerações após sua morte.",
+      "tags": [
+        "Inglaterra",
+        "século VII",
+        "século VIII",
+        "história",
+        "monaquismo"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "regiao": "Nortúmbria (Inglaterra)",
+      "seculo": "VII-VIII",
+      "e_doutor": true,
+      "fontes": [
+        "Beda, o Venerável, «Historia Ecclesiastica Gentis Anglorum»",
+        "Martirológio Romano, 25 de maio"
+      ]
     }
   ]
 }

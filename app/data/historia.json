@@ -377,6 +377,205 @@
       "imagem_credito": "Foto: AntoFran — Wikimedia Commons, CC BY-SA 4.0",
       "periodo": "Época contemporânea (1926-1929)",
       "fontes": []
+    },
+    {
+      "id": "historia:cisma-do-ocidente",
+      "slug": "cisma-do-ocidente",
+      "titulo": "O Grande Cisma do Ocidente (1378-1417)",
+      "categoria": "historia",
+      "resumo": "Período em que a cristandade ocidental teve simultaneamente dois, e depois três, papas rivais, até a solução encontrada pelo Concílio de Constança.",
+      "corpo": "O Grande Cisma do Ocidente começou em 1378, quando parte dos cardeais que haviam eleito Urbano VI, considerando a eleição inválida, elegeu em seu lugar Clemente VII, que se instalou em Avinhão enquanto Urbano permanecia em Roma. Cada um teve sucessores, perpetuando por décadas a existência de duas — e, a partir de 1409, com a intervenção fracassada do Concílio de Pisa, de até três — linhas papais rivais, cada uma reconhecida por diferentes reinos europeus.\n\nA crise só foi resolvida pelo Concílio de Constança (1414-1418), que obteve a renúncia ou depôs os três pretendentes e, em 11 de novembro de 1417, elegeu por conclave um único papa reconhecido por toda a cristandade ocidental, Martinho V. O episódio expôs de forma dramática a fragilidade da unidade visível da Igreja e alimentou, no século seguinte, correntes conciliaristas que defendiam a superioridade do concílio ecumênico sobre o próprio papa — questão que a Igreja teria de enfrentar teologicamente nos séculos seguintes.",
+      "tags": [
+        "cisma",
+        "Avinhão",
+        "Concílio de Constança",
+        "século XIV-XV"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Idade Média (1378-1417)",
+      "fontes": [
+        "Wikipédia, \"Grande Cisma do Ocidente\"",
+        "IHU Unisinos, \"O Concílio de Constança e o Grande Cisma\""
+      ]
+    },
+    {
+      "id": "historia:papado-de-avinhao",
+      "slug": "papado-de-avinhao",
+      "titulo": "O Papado de Avinhão (1309-1377)",
+      "categoria": "historia",
+      "resumo": "Período de quase setenta anos em que os papas, todos franceses, residiram em Avinhão em vez de Roma, sob forte influência da Coroa francesa.",
+      "corpo": "Em 1309, o papa Clemente V — sucessor de Bonifácio VIII e primeiro papa francês depois do conflito deste com o rei Filipe IV — transferiu a residência papal de Roma para Avinhão, no sul da França, então território sob influência dos vassalos papais. Ali permaneceriam sete papas sucessivos, todos franceses, ao longo de quase setenta anos, num período que ficou conhecido, por analogia com o exílio bíblico de Israel, como o \"cativeiro babilônico\" do papado.\n\nA proximidade geográfica e política com a Coroa francesa comprometeu, aos olhos de boa parte da cristandade, a independência espiritual dos papas avinhonenses: dos 134 cardeais nomeados nesse período, 111 eram franceses. O papado só retornaria definitivamente a Roma em 1377, sob Gregório XI, mas sua morte pouco depois abriria caminho para a crise ainda maior do Grande Cisma do Ocidente.",
+      "tags": [
+        "Avinhão",
+        "Clemente V",
+        "século XIV"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Idade Média (1309-1377)",
+      "fontes": [
+        "Wikipédia, \"Papado de Avinhão\"",
+        "A12, \"Quando os Papas viveram fora de Roma: o Cativeiro de Avignon\""
+      ]
+    },
+    {
+      "id": "historia:concilio-de-constanca-contexto",
+      "slug": "concilio-de-constanca-contexto",
+      "titulo": "O Concílio de Constança (1414-1418)",
+      "categoria": "historia",
+      "resumo": "Décimo sexto concílio ecumênico, convocado para encerrar o Grande Cisma do Ocidente; também julgou e condenou o reformador Jan Hus.",
+      "corpo": "Reunido na cidade imperial de Constança, no sul da Alemanha, entre novembro de 1414 e abril de 1418, o Concílio de Constança foi convocado com o objetivo prioritário de sanar o Grande Cisma do Ocidente, que havia dividido a cristandade latina entre três pretendentes ao papado — Gregório XII (Roma), Bento XIII (Avinhão) e João XXIII (Pisa). O concílio obteve a renúncia de Gregório XII, depôs os outros dois e, em 11 de novembro de 1417, elegeu por conclave o cardeal Oddo Colonna, que tomou o nome de Martinho V, restaurando um papado único e reconhecido por toda a Europa ocidental.\n\nO mesmo concílio também julgou o reformador boêmio Jan Hus, condenando-o como herege e entregando-o ao braço secular, que o executou na fogueira em 1415, apesar do salvo-conduto imperial que lhe fora concedido para comparecer — decisão que provocaria décadas de guerras hussitas na Boêmia.",
+      "tags": [
+        "Concílio de Constança",
+        "Martinho V",
+        "Jan Hus"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Idade Média (1414-1418)",
+      "fontes": [
+        "Infopédia, \"Constança\"",
+        "GotQuestions, \"O que ocorreu no Concílio de Constança?\""
+      ]
+    },
+    {
+      "id": "historia:concilio-de-efeso-contexto",
+      "slug": "concilio-de-efeso-contexto",
+      "titulo": "O Concílio de Éfeso (431)",
+      "categoria": "historia",
+      "resumo": "Terceiro concílio ecumênico, convocado pelo imperador Teodósio II, que condenou o nestorianismo e proclamou Maria \"Theotokos\", Mãe de Deus.",
+      "corpo": "Convocado pelo imperador Teodósio II e reunido em Éfeso, na Ásia Menor, em 431, o terceiro concílio ecumênico da Igreja foi motivado pela controvérsia em torno de Nestório, patriarca de Constantinopla, que rejeitava chamar Maria de \"Theotokos\" (Mãe de Deus), preferindo o título de \"Christotokos\" (Mãe de Cristo), por entender que isso preservava melhor a distinção entre a natureza humana e a divina em Cristo.\n\nSob a liderança teológica de Cirilo de Alexandria, os bispos reunidos condenaram por unanimidade a posição de Nestório, afirmando que, sendo Cristo uma só pessoa divina subsistindo em duas naturezas, é legítimo e necessário chamar Maria de verdadeira Mãe de Deus. Nestório foi deposto e excomungado; comunidades fiéis à sua cristologia sobreviveriam no Oriente, dando origem à tradição hoje conhecida como Igreja Assíria do Oriente.",
+      "tags": [
+        "Concílio de Éfeso",
+        "Theotokos",
+        "Nestório"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Igreja primitiva (431)",
+      "fontes": [
+        "Wikipédia, \"Primeiro Concílio de Éfeso\""
+      ]
+    },
+    {
+      "id": "historia:concilio-de-calcedonia-contexto",
+      "slug": "concilio-de-calcedonia-contexto",
+      "titulo": "O Concílio de Calcedônia (451)",
+      "categoria": "historia",
+      "resumo": "Quarto concílio ecumênico, convocado pelo imperador Marciano, que definiu Cristo como uma só pessoa subsistindo em duas naturezas, humana e divina.",
+      "corpo": "Convocado pelo imperador Marciano e reunido entre 8 de outubro e 1º de novembro de 451 na cidade de Calcedônia, próxima a Constantinopla, o quarto concílio ecumênico reuniu cerca de seiscentos bispos — número sem precedentes até então — para resolver a controvérsia cristológica que se seguira ao Concílio de Éfeso, sobretudo em torno das posições monofisistas de Êutiques, que via em Cristo uma única natureza após a Encarnação.\n\nApoiando-se no chamado \"Tomo de Leão\", carta doutrinal do papa Leão Magno, o concílio definiu que Cristo é uma só pessoa que subsiste em duas naturezas, divina e humana, \"sem confusão, sem mudança, sem divisão, sem separação\" — fórmula que se tornaria a base da cristologia católica e ortodoxa posterior. A recusa de importantes Igrejas do Egito, Síria, Armênia e Etiópia em aceitar essa definição originou o cisma que ainda hoje separa as Igrejas Ortodoxas Orientais (não calcedonianas) de Roma e de Constantinopla.",
+      "tags": [
+        "Concílio de Calcedônia",
+        "duas naturezas",
+        "cristologia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Igreja primitiva (451)",
+      "fontes": [
+        "Wikipédia, \"Concílio de Calcedónia\"",
+        "Ligonier, \"Verdadeiro Deus, verdadeiro homem: o Concílio de Calcedônia\""
+      ]
+    },
+    {
+      "id": "historia:concilio-de-latrao-iv-contexto",
+      "slug": "concilio-de-latrao-iv-contexto",
+      "titulo": "O Quarto Concílio de Latrão (1215)",
+      "categoria": "historia",
+      "resumo": "Concílio convocado por Inocêncio III, com participação recorde de bispos, que definiu o dogma da transubstanciação e a obrigação da confissão e comunhão pascal anuais.",
+      "corpo": "Convocado pela bula \"Vineam Domini Sabaoth\" em 1213 e reunido em novembro de 1215 na Basílica de São João de Latrão, em Roma, o Quarto Concílio de Latrão foi presidido pelo papa Inocêncio III e reuniu uma participação sem precedentes na história medieval — mais de setenta patriarcas e arcebispos, cerca de quatrocentos bispos e novecentos abades e priores, representando mais de oitenta províncias eclesiásticas.\n\nEntre seus setenta decretos de reforma, o concílio definiu formalmente o dogma da transubstanciação, explicando a presença real de Cristo na Eucaristia, e determinou que todo fiel que tivesse atingido o uso da razão deveria confessar-se e comungar ao menos uma vez por ano, na Páscoa — norma que moldou a prática sacramental católica por séculos. O concílio também condenou as heresias cátara e valdense, abrindo caminho para a cruzada militar contra os cátaros do sul da França.",
+      "tags": [
+        "Concílio de Latrão",
+        "Inocêncio III",
+        "transubstanciação"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Idade Média (1215)",
+      "fontes": [
+        "Wikipédia, \"Quarto Concílio de Latrão\""
+      ]
+    },
+    {
+      "id": "historia:grande-perseguicao-de-diocleciano",
+      "slug": "grande-perseguicao-de-diocleciano",
+      "titulo": "A Grande Perseguição de Diocleciano (303-311)",
+      "categoria": "historia",
+      "resumo": "A mais extensa e violenta perseguição imperial romana aos cristãos, iniciada por uma série de éditos de Diocleciano e encerrada pelo edito de tolerância de Galério.",
+      "corpo": "Em 24 de fevereiro de 303, o imperador Diocleciano deu início à chamada Grande Perseguição, a mais sistemática e sangrenta campanha imperial contra os cristãos no Império Romano. Ao longo de cerca de um ano, foram publicados quatro éditos sucessivos, de intensidade crescente: o primeiro ordenava a apreensão e destruição de escrituras e edifícios cristãos e a perda de direitos civis dos fiéis; o segundo mandava prender bispos, diáconos e demais clérigos; os últimos exigiam que todos os cristãos, clérigos e leigos, oferecessem sacrifícios aos deuses romanos e ao imperador, sob pena de tortura e morte.\n\nA perseguição atingiu com particular violência as províncias orientais do Império e produziu um número elevado de mártires, cuja memória alimentaria por séculos a devoção cristã. Ela só terminou em 311, quando o imperador Galério, já gravemente doente, reconheceu o fracasso da campanha e publicou um edito de tolerância — antecedente direto do Edito de Milão, que dois anos depois, sob Constantino e Licínio, estenderia a liberdade religiosa a todo o Império.",
+      "tags": [
+        "Diocleciano",
+        "mártires",
+        "perseguições"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Igreja primitiva (303-311)",
+      "fontes": [
+        "Wikipédia, \"Perseguição de Diocleciano\""
+      ]
+    },
+    {
+      "id": "historia:bula-unam-sanctam-bonifacio-viii",
+      "slug": "bula-unam-sanctam-bonifacio-viii",
+      "titulo": "A Bula Unam Sanctam (1302)",
+      "categoria": "historia",
+      "resumo": "Documento do papa Bonifácio VIII, no auge de seu conflito com o rei Filipe IV da França, que afirmou a submissão de todo poder temporal à autoridade papal.",
+      "corpo": "O conflito entre o papa Bonifácio VIII e o rei Filipe IV, o Belo, da França, nasceu da disputa sobre o direito da Coroa francesa de tributar o clero sem autorização papal, num contexto mais amplo de afirmação do poder dos Estados nacionais europeus diante da autoridade universal do papado. Em resposta, Bonifácio VIII promulgou, em 18 de novembro de 1302, a bula \"Unam Sanctam\", um dos documentos mais categóricos já emitidos sobre a autoridade papal.\n\nO texto sustentava que todo poder, inclusive o temporal dos reis, deve estar, em última instância, submetido ao poder espiritual exercido pelo papa, concluindo que a submissão a ele é necessária para a salvação de toda criatura humana. A reação de Filipe IV foi violenta: seus agentes chegaram a sequestrar e agredir fisicamente o papa idoso em Anagni, episódio do qual Bonifácio VIII nunca se recuperaria, morrendo poucas semanas depois — um marco do declínio do poder político direto do papado medieval diante dos Estados nacionais emergentes.",
+      "tags": [
+        "Bonifácio VIII",
+        "Filipe IV",
+        "poder temporal"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Idade Média (1302)",
+      "fontes": [
+        "Repositório UFC, \"A bula Unam Sanctam de Bonifácio VIII no contexto da disputa pelo poder político\"",
+        "World History Encyclopedia, \"Unam Sanctam: Spiritual Authority and the Medieval Church\""
+      ]
+    },
+    {
+      "id": "historia:grande-jubileu-de-2000",
+      "slug": "grande-jubileu-de-2000",
+      "titulo": "O Grande Jubileu do Ano 2000",
+      "categoria": "historia",
+      "resumo": "Ano santo extraordinário proclamado por João Paulo II para celebrar os dois mil anos do nascimento de Cristo, marcado pela abertura da Porta Santa nas quatro basílicas papais de Roma.",
+      "corpo": "Na noite de Natal de 1999, o papa João Paulo II abriu a Porta Santa da Basílica de São Pedro, dando início ao Grande Jubileu do Ano 2000, ano santo extraordinário proclamado para celebrar o segundo milênio do nascimento de Cristo. Foi o único jubileu da história em que o próprio papa abriu pessoalmente as portas santas das quatro basílicas papais de Roma — São Pedro, São João de Latrão, Santa Maria Maior e São Paulo Fora dos Muros —, tarefa que em jubileus anteriores era delegada a cardeais legados.\n\nDurante os 379 dias em que ficou aberta, a Porta Santa de São Pedro foi passagem para mais de vinte e cinco milhões de peregrinos. O ano jubilar incluiu ainda gestos marcantes do pontificado de João Paulo II, como o pedido público de perdão pelos pecados históricos cometidos por membros da Igreja, e encerrou-se com o fechamento solene da Porta Santa em 6 de janeiro de 2001.",
+      "tags": [
+        "Jubileu",
+        "João Paulo II",
+        "Porta Santa"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Época contemporânea (1999-2001)",
+      "fontes": [
+        "Wikipédia, \"Grande Jubileu de 2000\"",
+        "Vatican News, \"Papas e Jubileus: a abertura da Porta Santa na história\""
+      ]
+    },
+    {
+      "id": "historia:peste-negra-e-a-igreja",
+      "slug": "peste-negra-e-a-igreja",
+      "titulo": "A Peste Negra e a Igreja (século XIV)",
+      "categoria": "historia",
+      "resumo": "A pandemia que dizimou a Europa entre 1347 e 1351 atingiu duramente o clero e gerou movimentos religiosos extremos, como os flagelantes, condenados pelo papa Clemente VI.",
+      "corpo": "A Peste Negra, que devastou a Europa entre 1347 e 1351 matando uma parcela expressiva de sua população, atingiu com particular dureza o clero paroquial, exposto ao contágio no cuidado pastoral dos doentes e moribundos — o que, em muitas regiões, deixou paróquias inteiras sem sacerdotes por anos. A crise abalou profundamente a religiosidade da época: para muitos, a peste era interpretada como castigo divino pelos pecados da cristandade, alimentando práticas de penitência extrema.\n\nO fenômeno mais marcante desse período foi o ressurgimento do movimento dos flagelantes — grupos de leigos que percorriam cidades açoitando-se publicamente em busca de perdão e para aplacar a ira divina. Preocupado com os excessos do movimento, que incluíram atos de violência e pregações sobre o fim do mundo à margem da autoridade eclesiástica, o papa Clemente VI condenou os flagelantes como heréticos pela bula \"Inter Sollicitudines\", em outubro de 1349, embora o movimento só viesse a ser definitivamente reprimido décadas depois, com nova condenação do Concílio de Constança (1414-1418).",
+      "tags": [
+        "Peste Negra",
+        "flagelantes",
+        "Clemente VI",
+        "século XIV"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "periodo": "Idade Média (1347-1351)",
+      "fontes": [
+        "Wikipedia (es), \"Movimiento de los Flagelantes\"",
+        "Enciclopédia Católica (ACI Prensa), \"Papa Clemente VI\""
+      ]
     }
   ]
 }

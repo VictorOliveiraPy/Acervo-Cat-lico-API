@@ -192,6 +192,217 @@
       "fontes": [
         "Catecismo da Igreja Católica, nn. 1862-1864"
       ]
+    },
+    {
+      "id": "pecados:pecado-original",
+      "slug": "pecado-original",
+      "titulo": "Pecado Original",
+      "categoria": "pecados",
+      "resumo": "A situação de ruptura com Deus herdada por toda a humanidade a partir da desobediência dos primeiros pais, transmitida — não cometida — por cada pessoa ao nascer.",
+      "corpo": "O relato de Gênesis 3 narra como o primeiro homem, tentado pelo demônio, deixou morrer no coração a confiança no Criador e, abusando da liberdade, desobedeceu ao seu mandamento, preferindo-se a Deus e, nesse gesto, desprezando-o. Desse primeiro pecado resultou a perda da santidade e da justiça originais em que o homem havia sido constituído, ferindo a natureza humana em suas próprias forças, submetendo-a à ignorância, ao sofrimento, ao império da morte e inclinando-a ao pecado — inclinação que a tradição chama concupiscência.\n\nA Igreja ensina que esse pecado é transmitido a toda a humanidade \"por propagação\", não por imitação: cada pessoa nasce numa condição humana já ferida, e não por ter cometido pessoalmente uma falta. Por isso o pecado original é chamado \"pecado\" apenas por analogia — é um pecado \"contraído\", não \"cometido\" — e distingue-se claramente do pecado pessoal, ato livre de cada indivíduo. O remédio é o Batismo, que, embora não elimine as consequências da natureza ferida (como a própria concupiscência), apaga o pecado original e reintegra a pessoa na amizade com Deus.",
+      "tags": [
+        "pecado original",
+        "moral",
+        "Adão e Eva",
+        "batismo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Cole_Thomas_Expulsion_from_the_Garden_of_Eden_1828.jpg",
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 396-412",
+        "Gênesis 3"
+      ]
+    },
+    {
+      "id": "pecados:pecados-que-clamam-ao-ceu",
+      "slug": "pecados-que-clamam-ao-ceu",
+      "titulo": "Pecados que Clamam ao Céu",
+      "categoria": "pecados",
+      "resumo": "Categoria tradicional de pecados especialmente graves, que a Escritura descreve como um \"clamor\" que sobe até Deus pedindo justiça.",
+      "corpo": "A tradição catequética, recolhida pelo Catecismo da Igreja Católica (n. 1867), lembra a existência de pecados que \"bradam ao céu\": o sangue de Abel, derramado pelo irmão Caim (Gn 4,10); o pecado dos habitantes de Sodoma (Gn 18,20; 19,13); o clamor do povo oprimido no Egito (Ex 3,7-10); o lamento do estrangeiro, da viúva e do órfão, que a Lei manda proteger de modo especial; e a injustiça cometida contra o assalariado a quem se nega o justo salário (Dt 24,14-15; Tg 5,4).\n\nO que une esses exemplos, tirados sobretudo do Antigo Testamento, é a gravidade de ofensas que atingem diretamente a vida, a dignidade e a subsistência de pessoas particularmente indefesas — a vítima de um homicídio, o forasteiro sem proteção legal, o trabalhador sem poder de reivindicar o que lhe é devido. A expressão bíblica do \"clamor\" sugere que, quando a justiça humana falha ou se cala diante dessas injustiças, é o próprio Deus quem, na Escritura, se apresenta como o defensor último de quem não tem quem o defenda.",
+      "tags": [
+        "moral",
+        "justiça",
+        "Antigo Testamento",
+        "pobres"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Cain_leadeth_abel_to_death_tissot.jpg",
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 1867",
+        "Gênesis 4,10; 18,20; Êxodo 3,7-10; Tiago 5,4"
+      ]
+    },
+    {
+      "id": "pecados:pecado-contra-o-espirito-santo",
+      "slug": "pecado-contra-o-espirito-santo",
+      "titulo": "Pecado contra o Espírito Santo",
+      "categoria": "pecados",
+      "resumo": "A recusa deliberada e obstinada de acolher a misericórdia de Deus — considerada \"imperdoável\" não por limite da misericórdia divina, mas pela livre resistência do pecador a ela.",
+      "corpo": "Jesus afirma no Evangelho que \"tudo será perdoado aos filhos dos homens, os pecados e as blasfêmias que disserem; mas aquele que blasfemar contra o Espírito Santo não terá perdão para sempre\" (Mc 3,28-29; cf. Mt 12,31-32). O Catecismo explica que isso não significa que exista um pecado maior do que a misericórdia de Deus, cujos limites são infinitos: quem blasfema contra o Espírito Santo é quem recusa, deliberada e obstinadamente, receber essa mesma misericórdia por meio do arrependimento, rejeitando assim o perdão dos pecados e a salvação oferecida pelo Espírito Santo (CIC 1864).\n\nA tradição espiritual, a partir de Santo Tomás de Aquino, costuma distinguir seis formas concretas em que esse endurecimento do coração se manifesta: o desespero da salvação, a presunção de salvar-se sem mérito, resistir à verdade conhecida como tal, invejar a graça alcançada por outrem, a obstinação deliberada no pecado e a impenitência final. Em todos os casos, o que está em jogo não é um limite de Deus, mas a liberdade humana que se fecha, até o fim, à graça que lhe é oferecida.",
+      "tags": [
+        "Espírito Santo",
+        "moral",
+        "misericórdia",
+        "esperança"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": "Esperança",
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 1864",
+        "Marcos 3,28-29; Mateus 12,31-32"
+      ]
+    },
+    {
+      "id": "pecados:estruturas-de-pecado",
+      "slug": "estruturas-de-pecado",
+      "titulo": "Estruturas de Pecado",
+      "categoria": "pecados",
+      "resumo": "Expressão consagrada por João Paulo II para designar mecanismos sociais, econômicos e políticos que, nascidos de pecados pessoais acumulados, adquirem vida própria e induzem novos pecados.",
+      "corpo": "Na encíclica \"Sollicitudo Rei Socialis\" (1987), João Paulo II observa que \"a interdependência dos sistemas sociais, econômicos e políticos cria, no mundo de hoje, múltiplas estruturas de pecado\" (n. 36) — mecanismos como a corrupção institucionalizada, a exploração econômica sistemática ou a indiferença organizada diante da miséria, que ultrapassam a soma dos atos individuais e passam a condicionar comportamentos, dificultando o bem e favorecendo o mal de modo quase automático. O Catecismo recolhe essa reflexão no n. 1869, ao falar de \"pecado social\".",
+      "tags": [
+        "Sollicitudo Rei Socialis",
+        "João Paulo II",
+        "moral",
+        "doutrina social"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": "Solidariedade",
+      "fontes": [
+        "João Paulo II, Sollicitudo Rei Socialis, n. 36 (1987)",
+        "Catecismo da Igreja Católica, n. 1869"
+      ]
+    },
+    {
+      "id": "pecados:escandalo",
+      "slug": "escandalo",
+      "titulo": "Escândalo",
+      "categoria": "pecados",
+      "resumo": "A atitude ou o comportamento que leva outra pessoa a praticar o mal, tornando quem o pratica \"tentador do próximo\".",
+      "corpo": "O Catecismo define o escândalo como a atitude ou o comportamento que leva outrem a praticar o mal: quem o comete torna-se tentador do seu próximo, atenta contra a virtude e a retidão alheias, podendo arrastar o irmão à morte espiritual (CIC 2284). Jesus mesmo adverte com severidade: \"é inevitável que aconteçam escândalos, mas ai daquele por quem eles vêm!\" (Lc 17,1), sendo particularmente grave quando dirigido contra os pequenos ou os mais frágeis na fé (Mt 18,6).\n\nO Catecismo observa ainda que o escândalo assume gravidade particular conforme a autoridade de quem o pratica ou a fragilidade de quem o sofre, e que se torna culpado de escândalo quem estabelece leis ou estruturas sociais que induzem à degradação dos costumes e da prática religiosa, ou quem usa o poder de que dispõe em condições que favorecem o mal, direta ou indiretamente (CIC 2286-2287).",
+      "tags": [
+        "moral",
+        "exemplo",
+        "responsabilidade moral"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": "Bom exemplo",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 2284-2287",
+        "Lucas 17,1; Mateus 18,6"
+      ]
+    },
+    {
+      "id": "pecados:cooperacao-no-pecado-alheio",
+      "slug": "cooperacao-no-pecado-alheio",
+      "titulo": "Cooperação no Pecado Alheio",
+      "categoria": "pecados",
+      "resumo": "A responsabilidade moral de quem participa, ordena, aconselha, elogia ou deixa de impedir o pecado de outra pessoa, quando tinha obrigação de agir.",
+      "corpo": "O pecado, ensina o Catecismo, é ato pessoal; mas a responsabilidade por ele pode ser partilhada quando cooperamos voluntariamente na sua realização (CIC 1868). Por cumplicidade entende-se o auxílio prestado à execução de um mal que outra pessoa já decidiu praticar; a chamada cumplicidade formal — quando alguém quer o pecado alheio ou presta uma colaboração que, por sua própria natureza, significa aprovação desse pecado — é sempre pecaminosa.\n\nA tradição moral costuma distinguir diversos modos concretos dessa cooperação: mandar, aconselhar, elogiar ou aprovar o mal cometido por outrem, participar diretamente dele, calar-se ou não denunciar quando havia obrigação de fazê-lo, proteger quem faz o mal ou não impedir o pecado alheio podendo e devendo fazê-lo. Essa categoria liga-se de perto ao escândalo e às estruturas de pecado, lembrando que a moral católica nunca isolou completamente a responsabilidade individual do tecido de relações em que cada pessoa está inserida.",
+      "tags": [
+        "moral",
+        "responsabilidade moral",
+        "cumplicidade"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 1868"
+      ]
+    },
+    {
+      "id": "pecados:vicio",
+      "slug": "vicio",
+      "titulo": "Vício",
+      "categoria": "pecados",
+      "resumo": "A disposição estável para o mal formada na alma pela repetição de pecados, que obscurece a consciência e corrompe o juízo concreto sobre o bem e o mal.",
+      "corpo": "Segundo o Catecismo, o pecado gera pecado: sua repetição — ainda que se trate de faltas veniais — engendra o vício, uma inclinação perversa que obscurece a consciência e corrompe a apreciação concreta do bem e do mal (CIC 1865, 1876). O vício é, assim, o oposto exato da virtude: enquanto esta é uma disposição habitual e firme para fazer o bem, adquirida ou infundida pela graça e reforçada pela repetição de bons atos, o vício é a mesma lógica do hábito operando em sentido contrário, como uma \"segunda natureza\" que inclina ao mal quase sem deliberação consciente.\n\nOs vícios podem ser classificados relacionando-os às virtudes a que se opõem, ou reconduzindo-os aos pecados capitais que a experiência cristã, seguindo São João Cassiano e São Gregório Magno, distinguiu ao longo dos séculos: soberba, avareza, inveja, ira, luxúria, gula e preguiça (acídia), cada um deles capaz de gerar, por sua vez, outros vícios e outros pecados.",
+      "tags": [
+        "moral",
+        "vícios",
+        "pecados capitais",
+        "virtudes"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": "Virtude",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1865-1876"
+      ]
+    },
+    {
+      "id": "pecados:concupiscencia",
+      "slug": "concupiscencia",
+      "titulo": "Concupiscência",
+      "categoria": "pecados",
+      "resumo": "A inclinação desordenada ao pecado que permanece na natureza humana mesmo depois do Batismo, ferida deixada pelo pecado original.",
+      "corpo": "Em sentido etimológico, \"concupiscência\" designa qualquer forma veemente de desejo humano; a teologia cristã deu-lhe um sentido mais preciso: o impulso do apetite sensível contrário aos ditames da razão (CIC 2515). O Catecismo ensina que ela decorre da desobediência do primeiro pecado, que desregulou as faculdades morais do homem: sem ser, em si mesma, uma ofensa a Deus, a concupiscência inclina o ser humano a cometer o pecado (CIC 405, 1264).\n\nAinda que o Batismo apague o pecado original e reconcilie a pessoa com Deus, ele não remove essa inclinação, que permanece como campo de combate espiritual ao longo de toda a vida cristã — daí o nono e o décimo mandamentos pedirem explicitamente a purificação do próprio desejo, e não apenas da conduta externa. Vencer a concupiscência não é tarefa do próprio esforço isolado, mas do exercício constante da temperança sustentado pela graça.",
+      "tags": [
+        "moral",
+        "pecado original",
+        "temperança"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": "Temperança",
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 405, 1264, 2515"
+      ]
+    },
+    {
+      "id": "pecados:pecado-de-omissao",
+      "slug": "pecado-de-omissao",
+      "titulo": "Pecado de Omissão",
+      "categoria": "pecados",
+      "resumo": "O pecado que consiste não em fazer o mal, mas em deixar de fazer o bem que se tinha obrigação de fazer.",
+      "corpo": "O Catecismo lembra que os pecados podem ser classificados, segundo seu objeto, como pecados de pensamento, palavra, ação — ou omissão (CIC 1853). Essa última categoria é lembrada em toda confissão sacramental que segue a antiga fórmula do Confiteor: \"pequei muitas vezes por pensamentos e palavras, atos e omissões\". Não se trata de uma categoria menor: Jesus, na parábola do juízo final, condena explicitamente quem deixou de alimentar o faminto, vestir o nu ou visitar o doente — não por ter feito o mal, mas por não ter feito o bem que podia e devia fazer (Mt 25,41-46).\n\nEssa é precisamente a face invertida das obras de misericórdia: assim como praticá-las é caminho de salvação, negligenciá-las por comodismo, indiferença ou medo constitui pecado real, ainda que nenhum ato positivo de malícia tenha sido cometido.",
+      "tags": [
+        "moral",
+        "obras de misericórdia",
+        "consciência"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": "Diligência",
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 1853",
+        "Mateus 25,41-46"
+      ]
+    },
+    {
+      "id": "pecados:imputabilidade-do-pecado",
+      "slug": "imputabilidade-do-pecado",
+      "titulo": "Imputabilidade e Atenuantes do Pecado",
+      "categoria": "pecados",
+      "resumo": "O princípio moral segundo o qual a responsabilidade pessoal por um pecado pode ser diminuída, ou mesmo anulada, por fatores como ignorância, medo, hábito ou perturbações psicológicas.",
+      "corpo": "O Catecismo ensina que a imputabilidade e a responsabilidade de um ato podem ser diminuídas, e até suprimidas, pela ignorância, a inadvertência, a violência, o medo, os hábitos, as afeições desordenadas e outros fatores psíquicos ou sociais (CIC 1735). Isso significa que a gravidade objetiva de uma matéria não equivale automaticamente ao grau de culpa subjetiva de quem a pratica: uma coisa é o mal cometido, outra é a responsabilidade pessoal de quem o cometeu diante de Deus.\n\nEssa distinção é especialmente relevante para a gravidade do pecado mortal, que exige plena consciência e consentimento deliberado além da matéria grave: a ignorância involuntária pode diminuir, ou mesmo desculpar, a imputabilidade de uma falta grave, embora o Catecismo adverta que ninguém é considerado ignorante dos princípios da lei moral inscritos na consciência de toda pessoa (CIC 1860). É por isso que a tradição pastoral sempre insistiu que só Deus julga com plena justiça o interior de cada consciência.",
+      "tags": [
+        "moral",
+        "consciência",
+        "pecado mortal"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1735, 1859-1860"
+      ]
     }
   ]
 }

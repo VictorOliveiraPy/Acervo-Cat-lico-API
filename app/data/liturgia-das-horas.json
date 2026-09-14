@@ -140,6 +140,174 @@
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Franz_Reichardt_Pater_Prior_in_der_Klosterbibliothek.jpg",
       "imagem_credito": null,
       "ordem": 8
+    },
+    {
+      "id": "liturgia-das-horas:invitatorio",
+      "slug": "invitatorio",
+      "titulo": "O Invitatório",
+      "categoria": "liturgia-das-horas",
+      "resumo": "A abertura de todo o Ofício Divino: um convite diário, centrado no Salmo 94(95), para louvar a Deus e escutar sua voz \"hoje\".",
+      "corpo": "O Invitatório antecede a primeira hora rezada no dia — o Ofício das Leituras ou, quando este não abre a jornada, Laudes — e não se repete depois. Seu núcleo é quase sempre o Salmo 94(95), \"Vinde, exultemos de alegria no Senhor\", já testemunhado como abertura do Ofício pela Regra de São Bento no século VI: um convite renovado todos os dias aos fiéis para celebrarem os louvores de Deus, escutarem sua voz e não endurecerem o coração \"hoje\", como fez Israel no deserto.\n\nEsse \"hoje\" é lido pela tradição cristã, a partir do comentário da Carta aos Hebreus, como o tempo de graça sempre presente que Deus oferece a quem se dispõe a escutá-lo. Cantado com uma antífona própria do dia ou do tempo litúrgico, o Invitatório situa desde o primeiro instante toda a Liturgia das Horas no registro certo: não uma obrigação a cumprir, mas uma resposta de louvor a um convite que parte do próprio Deus.",
+      "tags": [
+        "Invitatório",
+        "Salmo 94",
+        "Regra de São Bento"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 9
+    },
+    {
+      "id": "liturgia-das-horas:antifonas-na-liturgia-das-horas",
+      "slug": "antifonas-na-liturgia-das-horas",
+      "titulo": "As Antífonas na Liturgia das Horas",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Pequenos versos que emolduram cada salmo e cântico, orientando sua leitura à luz do dia, do tempo litúrgico ou do mistério de Cristo.",
+      "corpo": "Cada salmo ou cântico rezado numa hora da Liturgia das Horas vem emoldurado por uma antífona: um breve verso, geralmente tirado da própria Escritura, recitado ou cantado antes e depois dele. Longe de ser um mero refrão decorativo, a antífona cumpre uma função interpretativa — destaca um pensamento do salmo que poderia passar despercebido, confere-lhe um matiz próprio conforme a festa ou o tempo litúrgico do dia, e ajuda a lê-lo de modo tipológico ou cristológico, isto é, como voz que também fala de Cristo e da Igreja.\n\nAssim, o mesmo Salmo 99, por exemplo, pode soar como simples louvor num dia comum e ganhar ressonância mariana ou natalina noutro, apenas pela antífona que o emoldura. Os cânticos evangélicos — o Benedictus em Laudes e o Magnificat em Vésperas — têm igualmente antífonas próprias, ditas antes do cântico e repetidas ao final, depois do \"Glória ao Pai\"; nas maiores solenidades, essas antífonas costumam ser mais desenvolvidas, como acontece nas célebres \"Antífonas do Ó\", rezadas nos últimos dias do Advento antes do Natal.",
+      "tags": [
+        "antífonas",
+        "saltério",
+        "Magnificat",
+        "Benedictus"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 10
+    },
+    {
+      "id": "liturgia-das-horas:te-deum",
+      "slug": "te-deum",
+      "titulo": "O Te Deum",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Antigo hino de ação de graças, cantado no Ofício das Leituras dos domingos e das grandes festas, e também em ocasiões solenes fora da liturgia.",
+      "corpo": "O \"Te Deum laudamus\" (\"A ti, ó Deus, louvamos\") é um dos hinos mais antigos e mais solenes da tradição litúrgica latina, presente na liturgia romana já a partir do século VI como canto do Ofício das Matinas dominicais. Sua autoria é incerta, mas os estudiosos hoje apontam como mais provável Santo Nicetas de Remesiana, bispo do século IV; a antiga lenda que atribuía sua composição espontânea a Santo Ambrósio e Santo Agostinho, no momento do batismo deste último, é hoje considerada apenas piedosa tradição.\n\nNa Liturgia das Horas reformada, o Te Deum é cantado ou recitado ao final do Ofício das Leituras nos domingos fora da Quaresma, nos dias das oitavas do Natal e da Páscoa, e nas solenidades e festas — herdando assim o lugar que ocupava ao final das antigas Matinas, hora que deu origem ao atual Ofício das Leituras e que podia ser rezada a qualquer hora do dia depois da reforma conciliar. Fora da Liturgia das Horas, o hino continua a ser entoado em ocasiões de particular ação de graças, como a passagem de ano ou eventos eclesiais solenes.",
+      "tags": [
+        "Te Deum",
+        "hino",
+        "ofício das leituras",
+        "ação de graças"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 11
+    },
+    {
+      "id": "liturgia-das-horas:hora-prima",
+      "slug": "hora-prima",
+      "titulo": "A Hora de Prima (Suprimida em 1970)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "A antiga hora que abria o dia logo após Laudes no Breviário tradicional foi suprimida pela reforma do Vaticano II por se sobrepor a ela.",
+      "corpo": "No antigo Breviário Romano, anterior à reforma pós-conciliar, o dia litúrgico incluía oito horas: Matinas, Laudes, Prima, Tércia, Sexta, Noa, Vésperas e Completas. A Hora de Prima, rezada logo pela manhã depois de Laudes, tinha origem monástica — ligada ao início do trabalho e das atividades do dia nas comunidades religiosas — e incluía a leitura do Martirológio com o anúncio dos santos do dia seguinte.\n\nA constituição conciliar \"Sacrosanctum Concilium\" determinou expressamente, no número 89, alínea \"d\": \"suprima-se a Hora de Prima\", por considerá-la uma duplicação de Laudes, com a qual se sobrepunha em conteúdo e função. Na Liturgia das Horas reformada de Paulo VI (1970), as antigas horas menores de Tércia, Sexta e Noa foram reagrupadas na chamada \"Hora Média\", da qual normalmente se reza apenas uma, conforme o momento do dia — completando a estrutura mais enxuta que vigora até hoje: Ofício das Leituras, Laudes, Hora Média, Vésperas e Completas.",
+      "tags": [
+        "Hora Prima",
+        "Sacrosanctum Concilium",
+        "Breviário",
+        "reforma litúrgica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 12
+    },
+    {
+      "id": "liturgia-das-horas:oficio-parvo-de-nossa-senhora",
+      "slug": "oficio-parvo-de-nossa-senhora",
+      "titulo": "O Ofício Parvo de Nossa Senhora",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Versão abreviada e mariana do Ofício Divino, com origem medieval, ainda rezada hoje por algumas ordens religiosas, terceiras ordens e associações de leigos.",
+      "corpo": "O Ofício Parvo (ou Pequeno Ofício) de Nossa Senhora é uma forma abreviada do Ofício comum da Virgem Maria, composta por salmos, cânticos, leituras breves e orações organizados segundo a mesma estrutura das horas do Ofício Divino, mas de modo mais simples e voltado especificamente à devoção mariana. Sua origem remonta à Idade Média, associada por alguns estudiosos ao mosteiro beneditino de Montecassino já no século VIII, e sua difusão deve muito à revisão e ao incentivo de São Pedro Damião, Doutor da Igreja do século XI, que o recomendou primeiro a comunidades beneditinas e, depois, a cistercienses e camaldulenses.\n\nAo longo dos séculos, o Ofício Parvo tornou-se também uma das formas mais populares de oração entre o clero secular e, sobretudo, entre os leigos ligados a ordens terceiras, confrarias e associações de piedade mariana, oferecendo-lhes uma participação mais simples na oração contínua da Igreja do que o Ofício Divino completo. Ainda hoje é rezado por algumas comunidades religiosas femininas e por fiéis devotos, sobretudo em ambientes ligados à tradição litúrgica mais antiga.",
+      "tags": [
+        "Ofício Parvo",
+        "Pequeno Ofício de Nossa Senhora",
+        "São Pedro Damião",
+        "devoção mariana"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 13
+    },
+    {
+      "id": "liturgia-das-horas:martirologio-romano",
+      "slug": "martirologio-romano",
+      "titulo": "O Martirológio Romano",
+      "categoria": "liturgia-das-horas",
+      "resumo": "O livro litúrgico que lista, dia a dia, os santos e beatos venerados pela Igreja, tradicionalmente lido na véspera de sua memória.",
+      "corpo": "O Martirológio Romano é o livro litúrgico oficial que reúne, organizado por dia do ano, o elenco dos santos e beatos reconhecidos pela Igreja Católica com uma breve nota biográfica (o \"elogio\") sobre cada um. Apesar do nome, que remete à antiga prática de registrar a memória dos mártires em cada igreja local — anotando o dia de sua morte, chamado \"dies natalis\", seu \"nascimento\" para o Céu —, o livro reformado a partir de Roma no século XVI passou a incluir também confessores, virgens e outros santos não mártires, tornando-se o santoral oficial de toda a Igreja latina.\n\nNo antigo Breviário Romano, o elogio dos santos do dia seguinte era lido ao final da Hora de Prima ou no refeitório das comunidades religiosas — sempre referente ao dia seguinte, e nunca durante a própria Missa. Com a supressão de Prima pela reforma conciliar, essa leitura passou a ser feita, onde se mantém a tradição, em outros momentos do dia comunitário; fiéis leigos que desejam segui-la podem incorporá-la à própria oração da manhã ou da noite, como preparação espiritual para a memória do dia seguinte.",
+      "tags": [
+        "Martirológio Romano",
+        "santoral",
+        "hagiografia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 14
+    },
+    {
+      "id": "liturgia-das-horas:canticos-biblicos-na-liturgia-das-horas",
+      "slug": "canticos-biblicos-na-liturgia-das-horas",
+      "titulo": "Os Cânticos Bíblicos na Liturgia das Horas",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Além dos 150 salmos, a Liturgia das Horas reza cânticos do Antigo e do Novo Testamento que completam a psalmodia de cada hora.",
+      "corpo": "Ao lado dos 150 salmos, a Liturgia das Horas inclui em sua psalmodia diária cânticos bíblicos que não pertencem ao Saltério, mas a outros livros da Escritura. Em Laudes, a estrutura clássica intercala um salmo matutino, um cântico do Antigo Testamento — como os dois Cânticos de Moisés (Êxodo 15 e Deuteronômio 32), o Cântico de Ana (1Samuel 2), o de Habacuc, o de Isaías ou o de Jonas — e um segundo salmo de louvor; em Vésperas, os dois salmos vêm seguidos de um cântico do Novo Testamento, tirado das cartas apostólicas ou do Apocalipse.\n\nMais destacados ainda são os três grandes cânticos evangélicos do livro de Lucas, considerados o ponto alto de suas respectivas horas: o Benedictus, cântico de Zacarias ao nascer seu filho João Batista (Lc 1,68-79), que corresponde a Laudes; o Magnificat, cântico de Maria na Visitação (Lc 1,46-55), que corresponde a Vésperas; e o Nunc Dimittis, cântico de Simeão ao acolher o Menino Jesus no Templo (Lc 2,29-32), que fecha Completas todas as noites. Juntos, esses cânticos alargam o alcance bíblico do Ofício Divino para além do Saltério, situando toda a oração da Igreja dentro do arco maior da história da salvação.",
+      "tags": [
+        "cânticos bíblicos",
+        "Magnificat",
+        "Benedictus",
+        "Nunc Dimittis"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 15
+    },
+    {
+      "id": "liturgia-das-horas:historia-da-liturgia-das-horas",
+      "slug": "historia-da-liturgia-das-horas",
+      "titulo": "Breve História da Liturgia das Horas",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Da reforma do Breviário por São Pio X, em 1911, à promulgação da atual Liturgia das Horas por Paulo VI, em 1970.",
+      "corpo": "O Ofício Divino que a Igreja reza hoje é herdeiro de uma longa sequência de reformas. Em 1911, São Pio X promulgou pela bula \"Divino Afflatu\" uma revisão profunda do Breviário Romano, redistribuindo os salmos ao longo da semana de modo mais equilibrado e anunciando explicitamente que aquela seria apenas a primeira etapa de uma renovação mais ampla do Ofício — trabalho continuado, décadas depois, pela simplificação do calendário de festas decretada em 1955.\n\nA reforma mais radical veio do Concílio Vaticano II: a constituição \"Sacrosanctum Concilium\" (1963) pediu a revisão do Ofício para que ele voltasse a ser rezado de modo mais acessível também pelos leigos, suprimiu a Hora de Prima e reorganizou as horas menores. O trabalho de anos, conduzido pelo grupo de estudos (\"Coetus\") encarregado da reforma, resultou na constituição apostólica \"Laudis Canticum\", de Paulo VI, promulgada em 1º de novembro de 1970, que aprovou o texto latino definitivo da nova \"Liturgia das Horas\" — nome que substituiu oficialmente o antigo \"Breviário\" — com o Saltério distribuído em quatro semanas e um repertório bem mais amplo de leituras bíblicas e patrísticas.",
+      "tags": [
+        "Divino Afflatu",
+        "Laudis Canticum",
+        "Pio X",
+        "reforma litúrgica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 16
+    },
+    {
+      "id": "liturgia-das-horas:preces-na-liturgia-das-horas",
+      "slug": "preces-na-liturgia-das-horas",
+      "titulo": "As Preces em Laudes e Vésperas",
+      "categoria": "liturgia-das-horas",
+      "resumo": "As invocações finais de Laudes e Vésperas, com que a Igreja consagra o dia a Deus pela manhã e intercede pelos outros ao entardecer.",
+      "corpo": "Depois do cântico evangélico e antes da oração final, tanto Laudes quanto Vésperas incluem uma série de invocações breves chamadas \"preces\", em que a assembleia (ou quem reza sozinho) responde a cada intenção com um refrão fixo ou variável. Embora a estrutura seja semelhante nas duas horas, o tom muda conforme o momento do dia: em Laudes, as preces tendem a ser súplicas pela jornada que se abre, consagrando a Deus o trabalho e as escolhas do dia; em Vésperas, assumem antes um caráter de intercessão pelos outros, mais próximo da Oração Universal da Missa, terminando sempre com uma intenção pelos fiéis defuntos.",
+      "tags": [
+        "preces",
+        "Laudes",
+        "Vésperas",
+        "intercessão"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 17
+    },
+    {
+      "id": "liturgia-das-horas:hinos-na-liturgia-das-horas",
+      "slug": "hinos-na-liturgia-das-horas",
+      "titulo": "Os Hinos na Liturgia das Horas",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Composições poéticas que abrem cada hora do Ofício Divino, herdeiras de uma tradição que remonta a Santo Ambrósio de Milão e ao poeta Prudêncio.",
+      "corpo": "Cada hora da Liturgia das Horas começa, depois do versículo introdutório, por um hino: uma composição poética, geralmente estrófica e de origem antiga, dedicada ao louvor de Deus e adaptada ao caráter próprio daquele momento do dia ou daquele tempo litúrgico. A tradição de hinos cristãos ganhou forma sobretudo no Ocidente latino a partir do final do século IV, com Santo Ambrósio de Milão — cujos hinos, de grande eficácia popular, se difundiram amplamente e foram adotados até pelos monges de São Bento no século VI — e, na geração seguinte, com o poeta hispano-romano Prudêncio, cujas odes do \"Cathemerinon\" (\"livro do dia\"), compostas para horas e festas específicas, se tornaram um marco da poesia latina cristã.\n\nPor seu caráter lírico, os hinos são o elemento mais popular e musicalmente livre do Ofício, permitindo maior variedade de melodias e traduções do que os salmos, e frequentemente escolhidos ou compostos para destacar o sentido próprio de uma hora — a alegria da manhã em Laudes, o entardecer em Vésperas, o repouso confiante em Completas — ou de uma festa específica do calendário litúrgico.",
+      "tags": [
+        "hinos",
+        "Santo Ambrósio",
+        "Prudêncio",
+        "poesia litúrgica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 18
     }
   ]
 }

@@ -473,6 +473,243 @@
       "papa_autor": "Francisco",
       "ano": "2019",
       "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:mit-brennender-sorge",
+      "slug": "mit-brennender-sorge",
+      "titulo": "Mit Brennender Sorge",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de Pio XI que denunciou publicamente as violações do regime nazista ao concordata com a Santa Sé e a ideologia racial do nazismo.",
+      "corpo": "Assinada por Pio XI em 14 de março de 1937 e redigida excepcionalmente em alemão, e não em latim como era costume, «Mit Brennender Sorge» («Com viva ansiedade») denunciou as reiteradas violações do regime nazista ao Concordato firmado com a Santa Sé em 1933, bem como os fundamentos ideológicos do nacional-socialismo, condenando a idolatria da raça e da nação como substitutos da fé cristã. Foi o primeiro pronunciamento oficial do Vaticano contra o nazismo enquanto sistema.\n\nO texto, cujo esboço contou com participação decisiva do então secretário de Estado Eugenio Pacelli — futuro Pio XII, que conhecera de perto a ascensão de Hitler como núncio na Alemanha —, foi introduzido clandestinamente no país e lido do púlpito em todas as igrejas católicas alemãs no Domingo de Ramos daquele ano, driblando a vigilância da Gestapo. A dura repreensão ao regime resultou na detenção imediata de centenas de católicos, padres, religiosos e leigos, e permanece um dos documentos mais citados da resistência católica ao totalitarismo do século XX.",
+      "tags": [
+        "Pio XI",
+        "nazismo",
+        "século XX"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Pio XI",
+      "ano": "1937",
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Mit_brennender_Sorge",
+        "https://www.infobae.com/sociedad/2022/03/16/pio-xi-y-su-audaz-y-solitaria-denuncia-contra-el-nazismo/"
+      ]
+    },
+    {
+      "id": "documentos-magisterio:divini-redemptoris",
+      "slug": "divini-redemptoris",
+      "titulo": "Divini Redemptoris",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de Pio XI que condena o comunismo ateu como sistema de erros contrário à dignidade humana e à ordem social cristã.",
+      "corpo": "Publicada em 19 de março de 1937 — apenas cinco dias depois de «Mit Brennender Sorge», contra o nazismo —, «Divini Redemptoris» expõe de forma sistemática os princípios do comunismo ateu, sobretudo em sua manifestação bolchevique, descrevendo-o como “um sistema cheio de erros e sofismas” que subverte a ordem social ao negar a existência de Deus e reduzir o homem a simples engrenagem econômica.\n\nAo mesmo tempo em que condena o materialismo dialético e a luta de classes como método de transformação social, a encíclica renova o apelo à justiça social já presente em «Rerum Novarum» e «Quadragesimo Anno», advertindo que a resposta cristã ao comunismo não pode ser a indiferença diante das injustiças que o alimentam, mas a construção de uma ordem social fundada na dignidade da pessoa humana e na doutrina social da Igreja.",
+      "tags": [
+        "Pio XI",
+        "comunismo",
+        "doutrina social"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Pio XI",
+      "ano": "1937",
+      "fontes": [
+        "https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html",
+        "https://en.wikipedia.org/wiki/Divini_Redemptoris"
+      ]
+    },
+    {
+      "id": "documentos-magisterio:divino-afflante-spiritu",
+      "slug": "divino-afflante-spiritu",
+      "titulo": "Divino Afflante Spiritu",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de Pio XII que autorizou o uso dos métodos histórico-críticos modernos nos estudos bíblicos católicos, marcando nova era na exegese da Igreja.",
+      "corpo": "Publicada em 30 de setembro de 1943 por ocasião do cinquentenário da encíclica «Providentissimus Deus», de Leão XIII, «Divino Afflante Spiritu» é considerada uma verdadeira carta magna dos estudos bíblicos católicos contemporâneos. Nela, Pio XII encoraja os exegetas a estudar as línguas originais das Escrituras — hebraico, aramaico e grego —, a empregar os métodos histórico-críticos então em desenvolvimento e a identificar os gêneros literários próprios de cada livro bíblico para melhor compreender sua mensagem.\n\nAo permitir de forma limitada, mas decisiva, o uso da crítica bíblica moderna, a encíclica desfez décadas de reserva eclesiástica diante desses métodos, associados até então ao racionalismo liberal, e preparou o terreno para a constituição dogmática «Dei Verbum» do Concílio Vaticano II, que consolidaria essa abertura duas décadas depois.",
+      "tags": [
+        "Pio XII",
+        "Sagrada Escritura",
+        "exegese bíblica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Pio XII",
+      "ano": "1943",
+      "fontes": [
+        "https://www.catolicoorante.com.br/docs/enciclicas/pioxii/hf_p-xii_enc_30091943_divino-afflante-spiritu_po.html",
+        "https://en.wikipedia.org/wiki/Divino_afflante_Spiritu"
+      ]
+    },
+    {
+      "id": "documentos-magisterio:mediator-dei",
+      "slug": "mediator-dei",
+      "titulo": "Mediator Dei",
+      "categoria": "documentos-magisterio",
+      "resumo": "Primeira encíclica inteiramente dedicada à liturgia, lançando as bases do movimento de reforma litúrgica que culminaria no Concílio Vaticano II.",
+      "corpo": "Promulgada em 20 de novembro de 1947, «Mediator Dei» foi a primeira encíclica da história da Igreja dedicada integralmente ao tema da sagrada liturgia. Ao longo de um dos textos pontifícios mais extensos até então, Pio XII trata sistematicamente do culto divino, do Ofício Divino, do culto eucarístico e das diretrizes pastorais para a celebração litúrgica, ao mesmo tempo em que condena certos excessos do movimento litúrgico nascente e reafirma a união entre sacrifício, altar e comunhão.\n\nO documento é reconhecido como o ponto de partida do movimento de reforma litúrgica que, ao insistir na participação ativa dos fiéis nas celebrações — e não apenas num papel passivo diante do culto —, prepararia diretamente o caminho para a constituição conciliar «Sacrosanctum Concilium», promulgada quase duas décadas depois.",
+      "tags": [
+        "Pio XII",
+        "liturgia",
+        "movimento litúrgico"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Pio XII",
+      "ano": "1947",
+      "fontes": [
+        "https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_20111947_mediator-dei.html",
+        "https://adoremus.org/2017/11/mediator-dei-70-years-later-groundbreaking-legacy-lives/"
+      ]
+    },
+    {
+      "id": "documentos-magisterio:nostra-aetate",
+      "slug": "nostra-aetate",
+      "titulo": "Nostra Aetate",
+      "categoria": "documentos-magisterio",
+      "resumo": "Declaração do Concílio Vaticano II sobre a relação da Igreja com as religiões não cristãs, marco do diálogo inter-religioso e da rejeição do antissemitismo.",
+      "corpo": "Promulgada por Paulo VI em 28 de outubro de 1965, «Nostra Aetate» («Em nossa época») é a mais breve das dezesseis constituições, decretos e declarações do Concílio Vaticano II, mas uma das de maior impacto histórico. Nela, o Concílio reconhece elementos de verdade e de bem presentes em outras tradições religiosas — hinduísmo, budismo, islamismo e, de modo especial, o judaísmo — e convida os católicos ao diálogo e à colaboração com os fiéis dessas religiões, preservando ao mesmo tempo o testemunho da fé cristã.\n\nO ponto de maior repercussão do documento diz respeito à relação com o povo judeu: a declaração rejeita explicitamente a acusação tradicional de que os judeus, como povo, seriam responsáveis pela morte de Cristo, e condena todas as formas de antissemitismo “em qualquer época e por quem quer que seja”. Nostra Aetate é hoje considerada texto fundacional do diálogo inter-religioso católico contemporâneo, especialmente das relações entre a Igreja e o judaísmo.",
+      "tags": [
+        "Concílio Vaticano II",
+        "diálogo inter-religioso",
+        "judaísmo"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Declaração conciliar",
+      "papa_autor": "Paulo VI (Concílio Vaticano II)",
+      "ano": "1965",
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Nostra_aetate",
+        "https://www.britannica.com/topic/Nostra-aetate"
+      ]
+    },
+    {
+      "id": "documentos-magisterio:dignitatis-humanae",
+      "slug": "dignitatis-humanae",
+      "titulo": "Dignitatis Humanae",
+      "categoria": "documentos-magisterio",
+      "resumo": "Declaração do Concílio Vaticano II sobre a liberdade religiosa, afirmando o direito da pessoa humana a não ser coagida em matéria de fé.",
+      "corpo": "Promulgada na última sessão do Concílio Vaticano II, em 7 de dezembro de 1965, «Dignitatis Humanae» afirma que a pessoa humana tem direito à liberdade religiosa, entendida como imunidade de coação por parte de indivíduos, grupos sociais ou qualquer poder humano, de modo que ninguém seja forçado a agir contra sua consciência em matéria religiosa, nem impedido de professá-la, em privado ou em público, sozinho ou em associação com outros, dentro dos justos limites da ordem pública.\n\nO documento fundamenta esse direito na própria dignidade da pessoa humana, chamada a aderir livremente à verdade, e esclarece que reconhecer a liberdade religiosa civil não equivale a admitir um suposto “direito ao erro” no plano moral ou teológico, mas apenas a proteger a pessoa da coação externa do poder político. Fruto de intenso debate conciliar, no qual teve papel destacado a contribuição do teólogo jesuíta norte-americano John Courtney Murray, o texto representou uma mudança significativa na relação da Igreja com os Estados modernos e com o princípio da liberdade de consciência.",
+      "tags": [
+        "Concílio Vaticano II",
+        "liberdade religiosa",
+        "dignidade humana"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Declaração conciliar",
+      "papa_autor": "Paulo VI (Concílio Vaticano II)",
+      "ano": "1965",
+      "fontes": [
+        "https://www.vaticannews.va/pt/vaticano/news/2020-06/dignitatis-humanae-declaracao-conciliar-historia-igreja.html"
+      ]
+    },
+    {
+      "id": "documentos-magisterio:familiaris-consortio",
+      "slug": "familiaris-consortio",
+      "titulo": "Familiaris Consortio",
+      "categoria": "documentos-magisterio",
+      "resumo": "Exortação apostólica pós-sinodal de João Paulo II sobre a missão da família cristã no mundo contemporâneo.",
+      "corpo": "Promulgada em 22 de novembro de 1981, «Familiaris Consortio» é a exortação apostólica pós-sinodal em que João Paulo II recolhe e desenvolve as conclusões do Sínodo dos Bispos sobre a família, realizado em Roma entre setembro e outubro de 1980. O documento trata da vocação da família cristã como “comunidade de vida e amor”, abordando o matrimônio, a educação dos filhos, os desafios das famílias em situações difíceis e a participação da família na missão evangelizadora da Igreja e na vida social.\n\nDirigido a toda a Igreja e, de modo especial, aos jovens que se preparam para o matrimônio, o texto permanece uma referência central do magistério pontifício sobre a família, retomada e desenvolvida décadas depois pelos sínodos sobre a família convocados pelo papa Francisco, que resultariam na exortação «Amoris Laetitia».",
+      "tags": [
+        "João Paulo II",
+        "família",
+        "matrimônio"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Exortação apostólica",
+      "papa_autor": "João Paulo II",
+      "ano": "1981",
+      "fontes": [
+        "https://www.vatican.va/content/john-paul-ii/pt/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html"
+      ]
+    },
+    {
+      "id": "documentos-magisterio:sollicitudo-rei-socialis",
+      "slug": "sollicitudo-rei-socialis",
+      "titulo": "Sollicitudo Rei Socialis",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica social de João Paulo II que atualiza, vinte anos depois, os ensinamentos de Populorum Progressio sobre o desenvolvimento dos povos.",
+      "corpo": "Publicada em 30 de dezembro de 1987 para comemorar o vigésimo aniversário da encíclica «Populorum Progressio» de Paulo VI, «Sollicitudo Rei Socialis» retoma e atualiza a doutrina social da Igreja sobre o desenvolvimento dos povos à luz do contexto da segunda metade da década de 1980, marcada ainda pela divisão do mundo em blocos ideológicos rivais. Seguindo o método ver-julgar-agir, o documento traça um panorama do mundo contemporâneo, oferece uma leitura ético-teológica dessa realidade e propõe orientações concretas de ação.\n\nO texto tem o mérito de incorporar à doutrina social oficial da Igreja categorias amadurecidas na reflexão teológico-pastoral latino-americana, como as “estruturas de pecado” e a “opção preferencial pelos pobres”, ao mesmo tempo em que João Paulo II insiste que a doutrina social da Igreja pertence “não ao campo da ideologia, mas da teologia, e particularmente da teologia moral”.",
+      "tags": [
+        "João Paulo II",
+        "doutrina social",
+        "desenvolvimento dos povos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "João Paulo II",
+      "ano": "1987",
+      "fontes": [
+        "https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html"
+      ]
+    },
+    {
+      "id": "documentos-magisterio:redemptoris-missio",
+      "slug": "redemptoris-missio",
+      "titulo": "Redemptoris Missio",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de João Paulo II sobre a validade permanente do mandato missionário da Igreja, publicada no 25º aniversário do decreto conciliar Ad Gentes.",
+      "corpo": "Assinada em 7 de dezembro de 1990, no vigésimo quinto aniversário do decreto conciliar «Ad Gentes» sobre a atividade missionária da Igreja, «Redemptoris Missio» reafirma que a missão de Cristo Redentor, confiada à Igreja, está ainda longe de sua plena realização e que, ao final do segundo milênio, a evangelização dos povos permanece “apenas no início”.\n\nEscrita num momento em que se debatia, em certos setores teológicos, se a atividade missionária ad gentes ainda se justificava diante do reconhecimento do valor de outras tradições religiosas, a encíclica reafirma com vigor a urgência e a validade permanente do mandato missionário recebido dos apóstolos, ao mesmo tempo em que valoriza o diálogo inter-religioso como componente — e não substituto — da missão evangelizadora da Igreja.",
+      "tags": [
+        "João Paulo II",
+        "missões",
+        "evangelização"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "João Paulo II",
+      "ano": "1990",
+      "fontes": [
+        "https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html"
+      ]
+    },
+    {
+      "id": "documentos-magisterio:misericordiae-vultus",
+      "slug": "misericordiae-vultus",
+      "titulo": "Misericordiae Vultus",
+      "categoria": "documentos-magisterio",
+      "resumo": "Bula de Francisco que convocou o Jubileu Extraordinário da Misericórdia, celebrado entre dezembro de 2015 e novembro de 2016.",
+      "corpo": "Assinada em 11 de abril de 2015, véspera do Domingo da Divina Misericórdia, «Misericordiae Vultus» («O Rosto da Misericórdia») é a bula pela qual o papa Francisco convocou o Jubileu Extraordinário da Misericórdia. Estruturado em 25 seções, o documento parte da afirmação de que Jesus Cristo é o rosto da misericórdia do Pai, apresentando a misericórdia não como algo abstrato, mas como um rosto a ser reconhecido, contemplado e servido no próximo, sobretudo nos mais pobres e sofredores.\n\nO Ano Jubilar teve início em 8 de dezembro de 2015, data do quinquagésimo aniversário do encerramento do Concílio Vaticano II, com a abertura da Porta Santa da Basílica de São Pedro, e encerrou-se em 20 de novembro de 2016, solenidade de Cristo Rei do Universo. Ao longo do Jubileu, Francisco insistiu nas obras de misericórdia corporais e espirituais como caminho concreto de conversão e de testemunho cristão.",
+      "tags": [
+        "Papa Francisco",
+        "misericórdia",
+        "jubileu"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Bula pontifícia",
+      "papa_autor": "Francisco",
+      "ano": "2015",
+      "fontes": [
+        "https://www.vatican.va/content/francesco/pt/bulls/documents/papa-francesco_bolla_20150411_misericordiae-vultus.html"
+      ]
+    },
+    {
+      "id": "documentos-magisterio:laudate-deum",
+      "slug": "laudate-deum",
+      "titulo": "Laudate Deum",
+      "categoria": "documentos-magisterio",
+      "resumo": "Exortação apostólica de Francisco que retoma e atualiza, oito anos depois, os alertas de Laudato Si' sobre a crise climática.",
+      "corpo": "Publicada em 4 de outubro de 2023, festa de São Francisco de Assis, «Laudate Deum» é dirigida “a todas as pessoas de boa vontade sobre a crise climática” e funciona como continuação e atualização urgente da encíclica «Laudato Si'», publicada oito anos antes. Estruturada em seis capítulos, a exortação foi divulgada poucas semanas antes da Conferência do Clima da ONU (COP28) em Dubai, com o objetivo declarado de pressionar por respostas concretas à emergência climática.\n\nO papa Francisco afirma no documento que “não se pode mais duvidar da origem humana” das mudanças climáticas, lamentando que a atividade humana seja a principal causa do problema e advertindo que, embora alguns danos já sejam irreversíveis, ainda é possível evitar consequências futuras mais graves. O texto renova o apelo à corresponsabilidade internacional diante da crise ambiental, insistindo que a resposta não pode depender apenas de medidas técnicas, mas exige uma conversão ecológica mais profunda.",
+      "tags": [
+        "Papa Francisco",
+        "ecologia",
+        "mudanças climáticas"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Exortação apostólica",
+      "papa_autor": "Francisco",
+      "ano": "2023",
+      "fontes": [
+        "https://www.vatican.va/content/francesco/pt/apost_exhortations/documents/20231004-laudate-deum.html",
+        "https://www.vaticannews.va/pt/papa/news/2023-10/laudate-deum-grito-papa-uma-resposta-crise-climatica.html"
+      ]
     }
   ]
 }

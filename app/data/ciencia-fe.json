@@ -1,0 +1,255 @@
+{
+  "_meta": {
+    "categoria": "ciencia-fe",
+    "nome": "Ciência e Fé",
+    "descricao": "Cientistas católicos, instituições científicas da Igreja, documentos do Magistério sobre ciência e razão, e conceitos do diálogo entre fé e ciência.",
+    "status": "exemplos-iniciais",
+    "aviso": "Este acervo de ciência e fé é expandido continuamente e ainda não é um catálogo definitivo nem exaustivo. Para uso catequético ou editorial, confira sempre a fonte primária citada em cada entrada.",
+    "revisao_editorial": "Datas e atribuições sem consenso histórico aparecem marcadas com 'c.' (circa) ou foram omitidas. Nenhum dado foi estimado ou preenchido por inferência.",
+    "fontes_gerais": [
+      "Pontifícia Academia das Ciências — pas.va",
+      "Observatório Vaticano — vaticanobservatory.org",
+      "Encíclicas e discursos pontifícios sobre fé e razão (ex.: Fides et Ratio)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "ciencia-fe:nicolau-copernico",
+      "slug": "nicolau-copernico",
+      "titulo": "Nicolau Copérnico",
+      "categoria": "ciencia-fe",
+      "resumo": "Astrônomo e cônego polonês que formulou a teoria heliocêntrica, revolucionando a compreensão do cosmos.",
+      "corpo": "Nascido em Toruń, na Polônia, em 1473, Nicolau Copérnico estudou artes liberais, matemática e astronomia na Universidade de Cracóvia antes de aperfeiçoar-se em direito canônico e medicina nas universidades italianas de Bolonha, Pádua e Ferrara. De volta à Polônia em 1503, foi ordenado e nomeado cônego da catedral de Frauenburg (Frombork), cargo eclesiástico que exerceu paralelamente à prática da medicina e a seus estudos astronômicos, realizados a partir de um observatório improvisado numa torre do muro que cercava a catedral.\n\nEm sua obra «De revolutionibus orbium coelestium», publicada apenas no ano de sua morte, em 1543, Copérnico propôs que a Terra e os demais planetas giram em torno do Sol, rompendo com o modelo geocêntrico então dominante desde a Antiguidade. Consciente da controvérsia que a tese poderia suscitar, adiou por décadas sua publicação; ainda assim, o próprio papa Clemente VII manifestara interesse por suas ideias já em 1533, uma década antes de a obra vir a público. O heliocentrismo copernicano tornou-se, com o tempo, um dos pilares da revolução científica moderna.",
+      "tags": [
+        "astronomia",
+        "heliocentrismo",
+        "Polônia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "cientista",
+      "area": "astronomia",
+      "seculo": "XV-XVI",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Nicolau_Cop%C3%A9rnico"
+      ]
+    },
+    {
+      "id": "ciencia-fe:gregor-mendel",
+      "slug": "gregor-mendel",
+      "titulo": "Gregor Mendel",
+      "categoria": "ciencia-fe",
+      "resumo": "Monge agostiniano austríaco cujos experimentos com ervilhas lançaram as bases da genética moderna.",
+      "corpo": "Nascido em 1822 na Morávia, então parte do Império Austríaco, Johann Mendel ingressou em 1843 no mosteiro agostiniano de Santo Tomás, em Brno, adotando o nome religioso de Gregor. Foi como monge, e com o apoio material e intelectual da comunidade, que pôde estudar ciências naturais na Universidade de Viena antes de dedicar-se, no jardim do próprio mosteiro, a uma das experiências mais decisivas da história da biologia.\n\nEntre 1856 e 1863, Mendel cultivou e cruzou sistematicamente mais de 28 mil plantas de ervilha (Pisum sativum), observando como características como a cor da flor e a forma da semente se transmitiam de geração em geração segundo padrões matemáticos regulares. Apresentados em 1865 e publicados no ano seguinte sob o título “Experimentos sobre hibridização de plantas”, seus resultados formulariam o que hoje se conhece como as leis de Mendel — mas passaram praticamente despercebidos da comunidade científica de então, sendo redescobertos e reconhecidos como fundação da genética somente no início do século XX, quase duas décadas após sua morte.",
+      "tags": [
+        "genética",
+        "agostinianos",
+        "século XIX"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "cientista",
+      "area": "genética / biologia",
+      "seculo": "XIX",
+      "fontes": [
+        "https://www.agostinianosleigos.com/single-post/2017/07/09/gregor-mendel-monge-agostiniano-pai-da-gen%C3%A9tica",
+        "https://biologo.com.br/bio/gregor-mendel/"
+      ]
+    },
+    {
+      "id": "ciencia-fe:georges-lemaitre",
+      "slug": "georges-lemaitre",
+      "titulo": "Georges Lemaître",
+      "categoria": "ciencia-fe",
+      "resumo": "Padre e físico belga que formulou pela primeira vez a hipótese do átomo primordial, precursora da teoria do Big Bang.",
+      "corpo": "Georges Lemaître (1894-1966), sacerdote e físico belga ordenado em 1923, foi um dos primeiros e mais rigorosos intérpretes da teoria da relatividade geral de Einstein. Formado também em matemática, trabalhou em Cambridge com o astrônomo Arthur Eddington, que o introduziu à cosmologia moderna, e desde 1925 lecionou na Universidade Católica de Lovaina.\n\nAo aplicar as equações da relatividade geral ao universo como um todo, Lemaître concluiu, já em 1927, que o universo está em expansão, chegando a uma formulação matemática equivalente à lei que Edwin Hubble tornaria célebre dois anos depois. Em 1931 propôs o que chamou de “hipótese do átomo primitivo”: toda a matéria do universo estaria originalmente concentrada num único átomo de densidade extrema, cuja explosão inicial teria dado origem à expansão cósmica observada — a primeira formulação do que hoje se conhece como teoria do Big Bang. Pouco antes de morrer, Lemaître ainda teve notícia da descoberta da radiação cósmica de fundo por Arno Penzias e Robert Wilson, a primeira evidência observacional decisiva a favor de sua hipótese.",
+      "tags": [
+        "cosmologia",
+        "Big Bang",
+        "física"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "cientista",
+      "area": "física / cosmologia",
+      "seculo": "XX",
+      "fontes": [
+        "https://www.unav.edu/web/ciencia-razon-y-fe/georges-lemaitre-el-sacerdote-descubridor-del-big-bang"
+      ]
+    },
+    {
+      "id": "ciencia-fe:angelo-secchi",
+      "slug": "angelo-secchi",
+      "titulo": "Angelo Secchi",
+      "categoria": "ciencia-fe",
+      "resumo": "Padre jesuíta italiano considerado o fundador da espectroscopia estelar, pioneiro na classificação das estrelas por seus espectros de luz.",
+      "corpo": "Nascido em Reggio Emilia, na Itália, em 1818, Angelo Secchi ingressou na Companhia de Jesus aos quinze anos e foi ordenado sacerdote em 1847, dedicando-se ao ensino de física e matemática no Colégio Romano dos jesuítas. Exilado da Itália entre 1848 e 1849 por conta dos distúrbios políticos que levaram à expulsão geral dos jesuítas, lecionou por um período na Universidade de Georgetown, nos Estados Unidos, antes de retornar a Roma em 1852 e fundar um novo observatório astronômico no Colégio Romano.\n\nÉ considerado o fundador da espectroscopia astronômica: ao associar um espectroscópio a um telescópio, tornou-se o primeiro a classificar sistematicamente as estrelas segundo seus espectros luminosos, método que revelava a composição química dos corpos celestes e antecipou os sistemas de classificação estelar usados até hoje. Entre suas outras contribuições estão a descoberta das espículas solares, o estudo da estrutura granular da fotosfera do Sol e o registro fotográfico pioneiro da coroa solar durante um eclipse.",
+      "tags": [
+        "astronomia",
+        "jesuítas",
+        "espectroscopia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "cientista",
+      "area": "astronomia",
+      "seculo": "XIX",
+      "fontes": [
+        "https://revistaecclesia.es/catolicos-y-cientificos-angelo-secchi-sj-por-alfonso-v-carrascosa-cientifico-del-csic/",
+        "https://jesuitasyciencia.csmm.es/angelo-secchi/"
+      ]
+    },
+    {
+      "id": "ciencia-fe:niels-stensen",
+      "slug": "niels-stensen",
+      "titulo": "Niels Stensen (Nicolau Stenon)",
+      "categoria": "ciencia-fe",
+      "resumo": "Cientista dinamarquês convertido ao catolicismo e ordenado bispo, considerado o fundador da estratigrafia moderna.",
+      "corpo": "Niels Stensen — latinizado como Nicolau Stenon — nasceu em Copenhague em 1638 e destacou-se inicialmente como anatomista, antes de se converter do luteranismo ao catolicismo em 1667 e, alguns anos depois, seguir a vida sacerdotal: foi ordenado padre em 1675 e sagrado bispo em 1677, dedicando os últimos anos de vida ao trabalho pastoral no norte da Europa em condições frequentemente adversas para os católicos da região.\n\nÉ, porém, por sua obra científica anterior à ordenação que Stenon é hoje lembrado como o “pai da estratigrafia”: a ele se atribui a formulação da lei da superposição e dos princípios da horizontalidade original e da continuidade lateral das camadas rochosas — os três princípios fundamentais da geologia estratigráfica moderna. Notável por basear suas conclusões na observação direta da natureza, num tempo em que a ciência ainda dependia sobretudo da autoridade de textos antigos, Stenon foi beatificado pelo papa João Paulo II em 1988, sendo hoje também considerado por muitos um símbolo da compatibilidade entre rigor científico e vida de fé.",
+      "tags": [
+        "geologia",
+        "conversão",
+        "século XVII"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "cientista",
+      "area": "geologia / anatomia",
+      "seculo": "XVII",
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Niels_Stensen",
+        "https://www.blogs.unicamp.br/paleoblog/2018/05/04/nicolau-steno-solido-contido-no-solido/"
+      ]
+    },
+    {
+      "id": "ciencia-fe:roger-bacon",
+      "slug": "roger-bacon",
+      "titulo": "Roger Bacon",
+      "categoria": "ciencia-fe",
+      "resumo": "Frade franciscano inglês do século XIII que defendeu a observação e a experimentação como fundamento do conhecimento da natureza, precursor do método científico.",
+      "corpo": "Roger Bacon (c. 1214-1294) foi um frade franciscano, filósofo e teólogo inglês ligado à escola de Oxford, onde recebeu o epíteto de Doctor Mirabilis por sua vasta erudição. Ingressando na Ordem dos Frades Menores por volta de 1240, foi influenciado pelo bispo e cientista Robert Grosseteste a dedicar-se ao estudo da natureza, num período em que o conhecimento científico ainda se apoiava quase exclusivamente na leitura e no comentário de autores antigos.\n\nBacon insistiu que a observação direta e a experimentação, e não apenas a autoridade dos textos, deveriam fundamentar o conhecimento da natureza, defendendo ainda a aplicação da matemática ao estudo dos fenômenos naturais — posições incomuns para seu tempo, que lhe renderam desconfiança e até a proibição de circulação de parte de seus escritos científicos. Embora hoje seja reconhecido por historiadores da ciência como um precursor do método experimental, Bacon permaneceu por séculos ofuscado por pensadores posteriores, como Copérnico, Descartes e o próprio Francis Bacon, mais lembrados pela consolidação daquilo que ele já intuíra dois séculos antes.",
+      "tags": [
+        "franciscanos",
+        "Idade Média",
+        "método científico"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "cientista",
+      "area": "filosofia natural",
+      "seculo": "XIII",
+      "fontes": [
+        "https://www.ebiografia.com/roger_bacon/",
+        "https://filosofiaempreendedora.com/roger-bacon-principais-pensamentos-e-contribuicoes/"
+      ]
+    },
+    {
+      "id": "ciencia-fe:observatorio-vaticano",
+      "slug": "observatorio-vaticano",
+      "titulo": "Observatório Vaticano",
+      "categoria": "ciencia-fe",
+      "resumo": "Instituto científico da Santa Sé dedicado à pesquisa astronômica, hoje sediado em Castel Gandolfo e no Arizona (EUA).",
+      "corpo": "As origens do Observatório Vaticano remontam à reforma do calendário promovida pelo papa Gregório XIII, que em 1578 convocou astrônomos e matemáticos jesuítas do Colégio Romano para os estudos que resultariam, em 1582, no calendário gregoriano hoje universalmente adotado. Um observatório foi então instalado na Torre dos Ventos, dentro do Vaticano. A instituição em sua forma atual, porém, foi refundada pelo papa Leão XIII em 1891, sob direção do padre Francesco Denza, num gesto explícito de resposta à percepção, então difundida, de que a Igreja seria hostil à ciência.\n\nNo início da década de 1930, o crescimento urbano e a poluição luminosa de Roma tornaram inviável a observação de astros menos brilhantes a partir do Vaticano, levando o papa Pio XI a transferir o observatório para a residência pontifícia de verão em Castel Gandolfo. Hoje a Specola Vaticana mantém uma equipe de astrônomos, em sua maioria jesuítas, que também operam um telescópio de última geração no Observatório Internacional do Monte Graham, no Arizona (Estados Unidos), consolidando o observatório como um dos mais antigos institutos de pesquisa astronômica do mundo ainda em atividade.",
+      "tags": [
+        "astronomia",
+        "jesuítas",
+        "Vaticano"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "instituicao",
+      "area": "astronomia",
+      "seculo": "XVI (origem em 1582); refundado em 1891",
+      "fontes": [
+        "https://www.vaticanobservatory.va/en/history",
+        "https://www.vaticannews.va/pt/vaticano/news/2023-05/specola-vaticana-viagem-virtual-cupulas-telescopios-historia.html"
+      ]
+    },
+    {
+      "id": "ciencia-fe:pontificia-academia-das-ciencias",
+      "slug": "pontificia-academia-das-ciencias",
+      "titulo": "Pontifícia Academia das Ciências",
+      "categoria": "ciencia-fe",
+      "resumo": "Academia científica da Santa Sé que reúne cientistas de todo o mundo, católicos e não católicos, para o estudo e a promoção das ciências.",
+      "corpo": "A origem da Pontifícia Academia das Ciências remonta a 1603, quando o nobre romano Federico Cesi fundou em Roma a Accademia dei Lincei (Academia dos Linces), considerada a primeira academia científica do mundo dedicada especificamente às ciências naturais; entre seus primeiros membros esteve Galileu Galilei. Após um período de decadência e refundações sucessivas ao longo dos séculos XIX e XX, a instituição assumiu sua denominação e estrutura atuais em 1936, sob o pontificado de Pio XI.\n\nHoje composta por cerca de oitenta acadêmicos nomeados diretamente pelo papa, sem qualquer exigência de credo religioso, a Academia já reuniu entre seus membros dezenas de ganhadores do Prêmio Nobel, de Niels Bohr a Werner Heisenberg. Seu trabalho abrange áreas que vão da ciência fundamental à bioética, passando pelos grandes desafios científicos e tecnológicos do mundo em desenvolvimento, funcionando como espaço institucional de diálogo entre a Santa Sé e a comunidade científica internacional, independentemente da confissão religiosa de seus membros.",
+      "tags": [
+        "ciência",
+        "Vaticano",
+        "Galileu Galilei"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "instituicao",
+      "area": "ciências naturais",
+      "seculo": "XVII (origem em 1603); atual denominação desde 1936",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Pontif%C3%ADcia_Academia_das_Ci%C3%AAncias"
+      ]
+    },
+    {
+      "id": "ciencia-fe:providentissimus-deus",
+      "slug": "providentissimus-deus",
+      "titulo": "Providentissimus Deus",
+      "categoria": "ciencia-fe",
+      "resumo": "Encíclica de Leão XIII sobre os estudos bíblicos, que buscou conciliar o rigor científico da exegese moderna com a fidelidade à interpretação católica das Escrituras.",
+      "corpo": "Publicada em 18 de novembro de 1893, «Providentissimus Deus» é a primeira grande encíclica pontifícia dedicada especificamente aos estudos bíblicos na era moderna. O papa Leão XIII escreveu-a num contexto de crescente pressão da crítica racionalista sobre a interpretação tradicional das Escrituras, com o duplo objetivo de estimular e orientar os estudos bíblicos católicos e de equipar os exegetas católicos com verdadeira competência científica para dialogar com — e responder a — os métodos e as conclusões da crítica bíblica de origem racionalista.\n\nO documento percorre a história dos estudos bíblicos desde os Padres da Igreja até o século XIX, condena os excessos do racionalismo e da crítica radical, e trata em particular da questão das aparentes contradições entre a Bíblia e as ciências físicas ou entre diferentes passagens da própria Escritura, propondo critérios para sua resolução. Ao exortar os exegetas ao domínio das línguas bíblicas e das disciplinas históricas e arqueológicas auxiliares, Leão XIII lançou as bases que, meio século depois, seriam desenvolvidas pela encíclica «Divino Afflante Spiritu» de Pio XII.",
+      "tags": [
+        "Leão XIII",
+        "Sagrada Escritura",
+        "século XIX"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "documento",
+      "area": "estudos bíblicos",
+      "seculo": "XIX",
+      "fontes": [
+        "https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html"
+      ]
+    },
+    {
+      "id": "ciencia-fe:hipotese-do-atomo-primordial",
+      "slug": "hipotese-do-atomo-primordial",
+      "titulo": "Hipótese do Átomo Primordial",
+      "categoria": "ciencia-fe",
+      "resumo": "Conceito cosmológico formulado em 1931 pelo padre e físico Georges Lemaître, primeira formulação científica do que hoje se conhece como teoria do Big Bang.",
+      "corpo": "Em 1931, o padre e físico belga Georges Lemaître propôs, a partir de suas próprias equações sobre a expansão do universo derivadas da relatividade geral, a hipótese de que toda a matéria hoje observável no cosmos esteve originalmente concentrada num único “átomo primordial” de densidade e temperatura extremas, cuja desintegração inicial teria dado origem à expansão que continua em curso até os dias de hoje. A ideia, inicialmente recebida com ceticismo — inclusive por Albert Einstein, que a considerou fisicamente implausível, embora reconhecesse a correção matemática dos cálculos —, viria a ser confirmada décadas depois com a descoberta da radiação cósmica de fundo em micro-ondas, em 1965.\n\nO conceito é hoje reconhecido como a primeira formulação científica do que se convencionou chamar de teoria do Big Bang — termo cunhado, de forma pejorativa, pelo astrônomo Fred Hoyle, crítico da ideia. O fato de a teoria cosmológica hoje dominante sobre a origem do universo ter sido proposta por um sacerdote católico é frequentemente citado como exemplo da compatibilidade entre investigação científica rigorosa e fé religiosa, tema que o próprio Lemaître, avesso a instrumentalizações apologéticas de sua teoria, preferia tratar com cautela, insistindo na autonomia dos métodos próprios da ciência e da teologia.",
+      "tags": [
+        "Big Bang",
+        "cosmologia",
+        "Georges Lemaître"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "conceito",
+      "area": "cosmologia",
+      "seculo": "XX",
+      "fontes": [
+        "https://www.unav.edu/web/ciencia-razon-y-fe/georges-lemaitre-el-sacerdote-descubridor-del-big-bang",
+        "https://www.nationalgeographic.com.es/ciencia/georges-lemaitre-hombre-que-corrigio-a-albert-einstein_25118"
+      ]
+    },
+    {
+      "id": "ciencia-fe:caso-galileu",
+      "slug": "caso-galileu",
+      "titulo": "Caso Galileu",
+      "categoria": "ciencia-fe",
+      "resumo": "O julgamento de Galileu Galilei pela Inquisição romana em 1633 por defender o heliocentrismo, e sua reabilitação pela Igreja em 1992.",
+      "corpo": "Em 1633, o Santo Ofício condenou Galileu Galilei por defender como verdadeira, e não apenas como hipótese matemática, a tese heliocêntrica de Copérnico segundo a qual a Terra gira em torno do Sol — posição que os inquisidores consideraram contrária a uma leitura literal de certas passagens bíblicas. Considerado “veementemente suspeito de heresia”, Galileu foi forçado a abjurar publicamente suas conclusões para escapar de penas mais graves, e passou o restante da vida sob prisão domiciliar.\n\nO episódio tornou-se, ao longo dos séculos seguintes, o exemplo mais citado de suposto conflito insanável entre ciência e fé católica. Em 1981, o papa João Paulo II constituiu uma comissão de estudo presidida pelo cardeal Paul Poupard para reexaminar o processo; após mais de dez anos de trabalho, a comissão concluiu ter havido uma “trágica incompreensão recíproca” entre os juízes eclesiásticos e o cientista, e em 31 de outubro de 1992 João Paulo II reconheceu publicamente os erros cometidos pelo tribunal que condenou Galileu. O caso é hoje frequentemente invocado, tanto por críticos quanto por defensores da Igreja, como ponto de partida para discussões mais amplas sobre a relação entre autoridade eclesiástica, interpretação bíblica e investigação científica.",
+      "tags": [
+        "Galileu Galilei",
+        "heliocentrismo",
+        "Inquisição"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "conceito",
+      "area": "história da ciência",
+      "seculo": "XVII (reabilitação em 1992)",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Processo_de_Galileu_Galilei",
+        "https://istoedinheiro.com.br/quem-foi-o-brasileiro-que-fez-a-igreja-perdoar-galileu-galilei"
+      ]
+    }
+  ]
+}

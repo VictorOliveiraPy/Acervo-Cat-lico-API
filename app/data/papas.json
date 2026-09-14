@@ -3912,6 +3912,254 @@
       "fontes": [
         "Annuario Pontificio (Santa Sé)"
       ]
+    },
+    {
+      "id": "papas:adriano-ii",
+      "slug": "adriano-ii",
+      "titulo": "Adriano II",
+      "categoria": "papas",
+      "resumo": "Papa romano do século IX que apoiou a convocação do Quarto Concílio de Constantinopla e viu a própria família assassinada em meio às disputas políticas do tempo.",
+      "corpo": "De família nobre romana, já ligada a dois papas anteriores, Adriano tinha cerca de 75 anos e era casado — antes de enviuvar e tornar-se sacerdote — quando foi eleito em dezembro de 867, sucedendo a Nicolau I. Seu pontificado deu continuidade à política do antecessor de afirmação da autoridade romana diante dos poderes seculares, num contexto de graves tensões com a nobreza local: sua esposa e sua filha, ainda vivas, foram assassinadas por partidários de um pretendente rival ao imperador Luís II.\n\nCom o apoio de Adriano II, o imperador bizantino Basílio I convocou em Constantinopla, entre 869 e 870, o concílio que a Igreja Católica reconhece como o oitavo ecumênico. A assembleia depôs o patriarca Fócio e restaurou Inácio no patriarcado de Constantinopla, embora papa e imperador não tenham conseguido um acordo sobre a jurisdição eclesiástica da Bulgária, atrito que continuaria a azedar as relações entre Roma e Constantinopla nas décadas seguintes.",
+      "tags": [
+        "século IX",
+        "Concílio de Constantinopla IV",
+        "cisma de Fócio"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "numero_ordem": 106,
+      "pontificado_inicio": "14 de dezembro de 867",
+      "pontificado_fim": "14 de dezembro de 872",
+      "fontes": [
+        "Liber Pontificalis",
+        "Atas do Quarto Concílio de Constantinopla (869-870)"
+      ]
+    },
+    {
+      "id": "papas:sao-leao-ix",
+      "slug": "sao-leao-ix",
+      "titulo": "São Leão IX",
+      "categoria": "papas",
+      "resumo": "Papa reformador do século XI cujo legado a Constantinopla, em 1054, protagonizou a excomunhão mútua que a tradição situa como o início do Grande Cisma do Oriente.",
+      "corpo": "Bruno de Egisheim-Dagsburg, bispo de Toul na Lorena antes de eleito papa em 1049, dedicou seu pontificado ao combate à simonia — a compra e venda de cargos eclesiásticos — e ao concubinato do clero, viajando pessoalmente por França, Alemanha e Itália para presidir sínodos de reforma, algo incomum para um papa de sua época. Trouxe a Roma clérigos que se tornariam figuras centrais da reforma da Igreja no século seguinte, entre eles Humberto de Silva Cândida e o monge Hildebrando, futuro papa Gregório VII.\n\nEm 1054, já perto do fim de sua vida, enviou a Constantinopla uma legação chefiada pelo cardeal Humberto de Silva Cândida para tratar com o patriarca Miguel Cerulário, que fechara igrejas latinas na cidade e contestava práticas litúrgicas do Ocidente. As negociações fracassaram, e Humberto depositou sobre o altar de Santa Sofia uma bula de excomunhão contra o patriarca — ato de validade jurídica discutível, já que o próprio Leão IX morrera pouco antes, em abril daquele ano. O episódio, seguido de excomunhão recíproca por parte de Cerulário, é tradicionalmente apontado como o marco do Cisma entre as Igrejas de Roma e Constantinopla.",
+      "tags": [
+        "reforma gregoriana",
+        "Cisma do Oriente",
+        "século XI",
+        "simonia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Leon_IX.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 152,
+      "pontificado_inicio": "12 de fevereiro de 1049",
+      "pontificado_fim": "19 de abril de 1054",
+      "fontes": [
+        "Correspondência entre Humberto de Silva Cândida e Miguel Cerulário (1054)",
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:alexandre-iii",
+      "slug": "alexandre-iii",
+      "titulo": "Alexandre III",
+      "categoria": "papas",
+      "resumo": "Papa jurista do século XII que convocou o Terceiro Concílio de Latrão e enfrentou o imperador Frederico Barba-Ruiva e o rei Henrique II da Inglaterra no caso de Thomas Becket.",
+      "corpo": "Rolando Bandinelli, professor de teologia e direito canônico em Bolonha antes de servir como chanceler papal, foi eleito em 1159 em eleição contestada por uma facção favorável ao imperador Frederico Barba-Ruiva, que apoiou uma sucessão de antipapas rivais ao longo de quase todo o pontificado de Alexandre — obrigado, por isso, a passar longos períodos no exílio, fora de Roma.\n\nSeu pontificado também foi marcado pelo conflito entre o rei Henrique II da Inglaterra e o arcebispo de Canterbury, Thomas Becket, assassinado em sua catedral em 1170; Alexandre III o canonizou já em 1173 e, no ano seguinte, recebeu a penitência pública do rei inglês. Reconciliado finalmente com Frederico Barba-Ruiva pela Paz de Veneza (1177), convocou o Terceiro Concílio de Latrão (1179), que estabeleceu a exigência de maioria de dois terços dos cardeais para a eleição válida de um papa — norma que buscava justamente evitar cismas como o que marcara seu próprio pontificado.",
+      "tags": [
+        "Terceiro Concílio de Latrão",
+        "Thomas Becket",
+        "século XII",
+        "cisma"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "numero_ordem": 170,
+      "pontificado_inicio": "7 de setembro de 1159",
+      "pontificado_fim": "30 de agosto de 1181",
+      "fontes": [
+        "Atas do Terceiro Concílio de Latrão (1179)",
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:sao-celestino-v",
+      "slug": "sao-celestino-v",
+      "titulo": "São Celestino V",
+      "categoria": "papas",
+      "resumo": "Eremita bendito eleito papa aos cerca de oitenta anos para encerrar um conclave de dois anos; renunciou cinco meses depois, o primeiro caso claro de renúncia livre ao pontificado.",
+      "corpo": "Pietro Angelerio (ou Pietro da Morrone), monge eremita fundador de uma congregação beneditina que levaria seu nome — os celestinos —, vivia havia décadas em rigorosa penitência nas montanhas dos Abruzos quando, em julho de 1294, foi eleito papa para pôr fim a um conclave paralisado por mais de dois anos após a morte de Nicolau IV. Aceitou a eleição já octogenário, sem qualquer experiência de governo eclesiástico.\n\nIncapaz de lidar com a administração da Cúria e sentindo a vida papal como obstáculo à sua vocação de silêncio e oração, Celestino V promulgou um decreto reconhecendo formalmente a possibilidade de um papa renunciar, e ele mesmo renunciou ao cargo em 13 de dezembro de 1294, depois de pouco mais de cinco meses de pontificado — o caso mais nitidamente documentado de renúncia papal livre antes de Bento XVI, em 2013. Seu sucessor, Bonifácio VIII, temendo que ele se tornasse instrumento de um antipapa, mandou detê-lo; Celestino morreu prisioneiro em 1296. Foi canonizado em 1313 pelo papa Clemente V.",
+      "tags": [
+        "renúncia papal",
+        "eremitas",
+        "século XIII",
+        "celestinos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Celestine_V_Castel_Nuovo_Napoli_n02.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 192,
+      "pontificado_inicio": "5 de julho de 1294",
+      "pontificado_fim": "13 de dezembro de 1294",
+      "fontes": [
+        "Bula de renúncia de Celestino V (13 de dezembro de 1294)",
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "papas:joao-xxii",
+      "slug": "joao-xxii",
+      "titulo": "João XXII",
+      "categoria": "papas",
+      "resumo": "Segundo papa do período de Avinhão, envolvido em controvérsia com os franciscanos espirituais sobre a pobreza de Cristo e, ao fim da vida, em polêmica teológica sobre a visão beatífica.",
+      "corpo": "Jacques Duèse, jurista francês eleito em 1316, consolidou definitivamente a residência papal em Avinhão, na França, reorganizando a administração financeira e burocrática da Igreja de modo a centralizar em Roma — ou melhor, em Avinhão — a nomeação de bispos e a arrecadação de tributos eclesiásticos em toda a cristandade latina. Condenou como heréticos os «espirituais» franciscanos que sustentavam ter Cristo e os apóstolos vivido em absoluta pobreza, entrando em choque com boa parte da Ordem Franciscana.\n\nJá no fim da vida, entre 1331 e 1332, João XXII defendeu em sermões pessoais — não em documento solene de magistério — que as almas dos justos, mesmo depois de purificadas, não gozariam da visão beatífica de Deus antes do Juízo Final. A tese provocou forte reação de teólogos, inclusive da Universidade de Paris, e o próprio papa retratou-se publicamente pouco antes de morrer, em 1334, reconhecendo o ensino tradicional. Seu sucessor, Bento XII, viria a definir formalmente a doutrina da visão beatífica imediata dos justos.",
+      "tags": [
+        "papado de Avinhão",
+        "franciscanos espirituais",
+        "visão beatífica",
+        "século XIV"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Jean_XXII_1316.JPG",
+      "imagem_credito": null,
+      "numero_ordem": 196,
+      "pontificado_inicio": "7 de agosto de 1316",
+      "pontificado_fim": "4 de dezembro de 1334",
+      "fontes": [
+        "João XXII, sermões sobre a visão beatífica (1331-1332)",
+        "Bento XIV, «Benedictus Deus» (1336), retomando a controvérsia"
+      ]
+    },
+    {
+      "id": "papas:pio-ii",
+      "slug": "pio-ii",
+      "titulo": "Pio II",
+      "categoria": "papas",
+      "resumo": "Papa humanista do Renascimento, autor da única autobiografia já escrita por um pontífice reinante; morreu tentando organizar uma cruzada contra os turcos otomanos.",
+      "corpo": "Enea Silvio Piccolomini, escritor e diplomata de renome antes de ordenar-se sacerdote já aos 41 anos, foi eleito papa em 1458. Deixou como principal legado literário os «Commentarii», relato autobiográfico de seu próprio pontificado sem paralelo na história papal — nenhum outro papa reinante escreveu memórias comparáveis.\n\nDiante da queda de Constantinopla para os otomanos em 1453, Pio II fez da organização de uma cruzada europeia contra os turcos a grande causa de seu pontificado, convocando em 1459 um congresso de príncipes europeus em Mântua e proclamando oficialmente a cruzada em 1460, sem obter o apoio efetivo das potências católicas. Determinado a liderar pessoalmente a expedição, morreu em agosto de 1464 na cidade portuária de Ancona, à espera da frota veneziana que deveria levá-lo ao combate.",
+      "tags": [
+        "humanismo renascentista",
+        "cruzada contra os otomanos",
+        "século XV"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Pintoricchio_014.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 210,
+      "pontificado_inicio": "19 de agosto de 1458",
+      "pontificado_fim": "14 de agosto de 1464",
+      "fontes": [
+        "Pio II, «Commentarii rerum memorabilium»",
+        "Bula «Vezerabilis» (1463), convocação da cruzada"
+      ]
+    },
+    {
+      "id": "papas:sisto-iv",
+      "slug": "sisto-iv",
+      "titulo": "Sisto IV",
+      "categoria": "papas",
+      "resumo": "Papa franciscano do Renascimento que mandou reconstruir a capela que hoje leva seu nome — a Capela Sistina — e fundou a Biblioteca Vaticana em moldes modernos.",
+      "corpo": "Francesco della Rovere, franciscano que chegou a ministro geral de sua ordem antes de ser eleito papa em 1471, converteu Roma num dos principais centros artísticos e intelectuais da Europa renascentista. Entre 1473 e 1481 fez reconstruir a capela palatina do Vaticano, rebatizada Capela Sistina em sua homenagem, e entre 1481 e 1483 reuniu pintores como Botticelli, Perugino e Ghirlandaio para decorá-la com afrescos sobre a vida de Moisés e de Cristo — antes de Michelangelo pintar seu teto célebre, já sob Júlio II. Deu também organização estável e sede própria à Biblioteca Apostólica Vaticana.\n\nSeu pontificado teve também um lado sombrio: autorizou, a pedido dos reis católicos da Espanha, a criação da Inquisição espanhola (1478), voltada sobretudo contra cristãos-novos de origem judaica, e envolveu-se na chamada Conjuração dos Pazzi contra os Médici em Florença. A historiografia lhe reconhece igualmente forte nepotismo em benefício de sobrinhos, vários deles elevados ao cardinalato.",
+      "tags": [
+        "Capela Sistina",
+        "Renascimento",
+        "Biblioteca Vaticana",
+        "século XV"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Pedro_Berruguete_-_Portrait_of_Pope_Sixtus_IV_della_Rovere_-_1916.815_-_Cleveland_Museum_of_ArtFXD.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 212,
+      "pontificado_inicio": "9 de agosto de 1471",
+      "pontificado_fim": "12 de agosto de 1484",
+      "fontes": [
+        "Bula «Exigit sincerae devotionis» (1478), criação da Inquisição espanhola",
+        "Liber Pontificalis (tradição historiográfica romana)"
+      ]
+    },
+    {
+      "id": "papas:adriano-vi",
+      "slug": "adriano-vi",
+      "titulo": "Adriano VI",
+      "categoria": "papas",
+      "resumo": "Único papa neerlandês da história e o último não italiano antes de João Paulo II; tentou reformar a Cúria diante do avanço da Reforma protestante, sem conseguir vencer as resistências internas.",
+      "corpo": "Adriaan Florenszoon Boeyens, natural de Utrecht, teólogo formado em Lovaina e depois preceptor do futuro imperador Carlos V, foi eleito papa em 1522 como candidato de compromisso entre facções rivais no conclave — o último não italiano a ocupar a sé de Roma até a eleição de João Paulo II, em 1978.\n\nDiante do avanço de Martinho Lutero na Alemanha, Adriano VI reconheceu publicamente, perante a Dieta de Nuremberg, a responsabilidade da própria Cúria romana pelos abusos que alimentavam a revolta — um gesto de autocrítica raro entre os papas de seu tempo — e tentou impor reformas de disciplina e simplicidade de costumes ao clero romano. Encontrou forte resistência dos cardeais e da corte pontifícia, habituados ao fausto da Roma renascentista, e morreu já em 1523, após pouco mais de um ano e oito meses de pontificado, sem tempo de consolidar qualquer reforma duradoura.",
+      "tags": [
+        "Reforma protestante",
+        "reforma da Cúria",
+        "século XVI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Portrait_of_Pope_Adrian_VI_%28after_Jan_van_Scorel%29.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 218,
+      "pontificado_inicio": "9 de janeiro de 1522",
+      "pontificado_fim": "14 de setembro de 1523",
+      "fontes": [
+        "Instrução de Adriano VI à Dieta de Nuremberg (1522)",
+        "Liber Pontificalis (tradição historiográfica romana)"
+      ]
+    },
+    {
+      "id": "papas:paulo-iv",
+      "slug": "paulo-iv",
+      "titulo": "Paulo IV",
+      "categoria": "papas",
+      "resumo": "Papa da Contrarreforma que, como fundador da Inquisição Romana, promoveu o primeiro Índice de Livros Proibidos e endureceu a repressão à heresia.",
+      "corpo": "Gian Pietro Carafa, napolitano e fundador da ordem dos teatinos, já havia sido o principal impulsionador, junto a Paulo III, da criação do Santo Ofício — a Inquisição Romana — em 1542, antes de ser eleito papa em 1555. Como papa, imprimiu ao tribunal um rigor extremo, perseguindo suspeitos de heresia sem poupar bispos nem cardeais.\n\nEm 1559 promulgou o primeiro Índice de Livros Proibidos («Index Librorum Prohibitorum») de âmbito romano, que baniu por completo a obra de cerca de 550 autores, além de títulos individuais — lista considerada draconiana até por teólogos católicos contemporâneos, como os jesuítas Pedro Canísio e Diego Laínez, e amplamente abandonada logo após sua morte, em 1559. Reformou também a disciplina do clero romano e restringiu os judeus de Roma ao primeiro gueto da cidade, medida de intolerância que marcaria negativamente seu pontificado na memória histórica.",
+      "tags": [
+        "Contrarreforma",
+        "Inquisição Romana",
+        "Índice de Livros Proibidos",
+        "século XVI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Pope_Paul_IV_%E2%80%93_Jacopino_Conte_%28Manner%29%2C_ca._1560.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 223,
+      "pontificado_inicio": "23 de maio de 1555",
+      "pontificado_fim": "18 de agosto de 1559",
+      "fontes": [
+        "Index Librorum Prohibitorum (1559)",
+        "Liber Pontificalis (tradição historiográfica romana)"
+      ]
+    },
+    {
+      "id": "papas:sisto-v",
+      "slug": "sisto-v",
+      "titulo": "Sisto V",
+      "categoria": "papas",
+      "resumo": "Papa reorganizador da Cúria Romana em congregações e responsável pela urbanização das grandes vias de peregrinação de Roma no fim do século XVI.",
+      "corpo": "Felice Peretti, franciscano de origem humilde — o pai trabalhava como agricultor —, foi eleito papa em 1585. Em pouco mais de cinco anos de pontificado, reorganizou de modo duradouro a administração central da Igreja, dividindo a Cúria Romana em quinze congregações permanentes — nove para assuntos espirituais, seis para o governo temporal dos Estados Pontifícios — e fixou em setenta o número máximo de cardeais, estrutura que vigoraria, com ajustes, por séculos.\n\nRestaurou a ordem pública em Roma com mão firme contra o banditismo e promoveu um vasto programa de obras urbanas: abriu novas ruas ligando as sete igrejas de peregrinação da cidade, ergueu obeliscos egípcios em praças centrais — entre eles o de São Pedro — e reorganizou as finanças pontifícias, deixando ao morrer, em 1590, um tesouro papal mais robusto do que em qualquer momento anterior.",
+      "tags": [
+        "reforma da Cúria Romana",
+        "urbanismo",
+        "século XVI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/His_Holiness_Pope_Sixtus_V_Pietro_Fachetti.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 227,
+      "pontificado_inicio": "24 de abril de 1585",
+      "pontificado_fim": "27 de agosto de 1590",
+      "fontes": [
+        "Constituição Apostólica «Immensa Aeterni Dei» (1588)",
+        "Liber Pontificalis (tradição historiográfica romana)"
+      ]
+    },
+    {
+      "id": "papas:inocencio-x",
+      "slug": "inocencio-x",
+      "titulo": "Inocêncio X",
+      "categoria": "papas",
+      "resumo": "Papa que protestou formalmente contra a Paz de Vestfália (1648) na bula «Zelo Domus Dei», sem que sua objeção alterasse o novo equilíbrio religioso europeu.",
+      "corpo": "Giovanni Battista Pamphilj, jurista e diplomata a serviço da Santa Sé em Nápoles, na França e na Espanha antes de eleito papa em 1644, teve seu pontificado marcado pela conclusão da Guerra dos Trinta Anos e pelos tratados de paz que a encerraram na Vestfália, em 1648.\n\nOpondo-se a cláusulas dos tratados que reconheciam a legitimidade do calvinismo em territórios do Império e transferiam definitivamente para mãos protestantes bens eclesiásticos anteriormente católicos, Inocêncio X publicou em novembro de 1648 a bula «Zelo Domus Dei», declarando nulos e sem efeito os dispositivos da Paz de Vestfália contrários à religião católica. O protesto, porém, chegou tarde demais e foi praticamente ignorado pelas potências signatárias, num sinal claro de que os papas haviam deixado de ser árbitros decisivos nas relações entre os Estados europeus.",
+      "tags": [
+        "Paz de Vestfália",
+        "Guerra dos Trinta Anos",
+        "século XVII"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Retrato_del_Papa_Inocencio_X._Roma%2C_by_Diego_Vel%C3%A1zquez.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 236,
+      "pontificado_inicio": "15 de setembro de 1644",
+      "pontificado_fim": "7 de janeiro de 1655",
+      "fontes": [
+        "Inocêncio X, bula «Zelo Domus Dei» (26 de novembro de 1648)",
+        "Liber Pontificalis (tradição historiográfica romana)"
+      ]
     }
   ]
 }

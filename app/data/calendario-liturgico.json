@@ -217,6 +217,224 @@
         "Missal Romano",
         "Catecismo da Igreja Católica"
       ]
+    },
+    {
+      "id": "calendario-liturgico:semana-santa",
+      "slug": "semana-santa",
+      "titulo": "Semana Santa",
+      "categoria": "calendario-liturgico",
+      "resumo": "A última semana da Quaresma, do Domingo de Ramos até a Missa da Ceia do Senhor, que rememora os últimos dias terrenos de Jesus antes da Páscoa.",
+      "corpo": "A Semana Santa estende-se do Domingo de Ramos e da Paixão do Senhor até a manhã da Quinta-feira Santa, quando termina a Quaresma e, à tarde, começa o Tríduo Pascal com a Missa da Ceia do Senhor. Ainda dentro da Quaresma, esses dias intensificam o clima de proximidade com a Paixão: as leituras da Missa nos dias de semana seguem de perto os capítulos finais dos Evangelhos, narrando os últimos confrontos de Jesus em Jerusalém antes de sua prisão.\n\nAté a reforma litúrgica de 1955, o rito romano chamava de \"Domingo de Paixão\" o domingo anterior ao de Ramos, marcando com duas semanas — e não uma só — a aproximação da Semana Santa; a reforma pós-conciliar de 1969 simplificou esse esquema, concentrando numa única Semana Santa a preparação imediata para o Tríduo. Nas paróquias, é comum uma intensificação de celebrações penitenciais e confissões nesses dias, preparando os fiéis para viverem o Tríduo Pascal com maior fruto espiritual.",
+      "tags": [
+        "ano litúrgico",
+        "Semana Santa",
+        "Quaresma"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 11,
+      "cor_liturgica": "Roxo (vermelho no Domingo de Ramos)",
+      "fontes": [
+        "Missal Romano",
+        "Congregação para o Culto Divino, «Normas Universais sobre o Ano Litúrgico e o Calendário»"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:domingo-de-ramos",
+      "slug": "domingo-de-ramos",
+      "titulo": "Domingo de Ramos e da Paixão do Senhor",
+      "categoria": "calendario-liturgico",
+      "resumo": "O domingo que abre a Semana Santa, unindo numa só liturgia a alegria da entrada de Jesus em Jerusalém e o anúncio solene de sua Paixão.",
+      "corpo": "O Domingo de Ramos e da Paixão do Senhor (\"Dominica in Palmis de Passione Domini\") abre solenemente a Semana Santa recordando dois momentos opostos e complementares: a entrada triunfal de Jesus em Jerusalém, aclamado pela multidão com ramos e cantos de \"Hosana\", e a proclamação, na própria Missa, do longo relato da Paixão segundo um dos evangelhos sinóticos (Mateus, Marcos ou Lucas, conforme o ano do ciclo dominical). A celebração costuma incluir a bênção dos ramos — de palma, oliveira ou outra planta local — e uma procissão de entrada que revive simbolicamente aquele cortejo, antes de a liturgia mudar de tom para a gravidade da Paixão.\n\nNo antigo calendário anterior a 1955, o dia era chamado simplesmente \"Domingo de Ramos\", enquanto o domingo anterior recebia o nome de \"Domingo da Paixão\"; entre 1955 e a reforma de 1969, esse domingo anterior passou a se chamar \"Segundo Domingo da Paixão\", até que a reforma pós-conciliar uniu definitivamente os dois temas — ramos e Paixão — numa só celebração, tal como se vive hoje.",
+      "tags": [
+        "ano litúrgico",
+        "Domingo de Ramos",
+        "Semana Santa",
+        "Paixão de Cristo"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 12,
+      "cor_liturgica": "Vermelho",
+      "fontes": [
+        "Missal Romano",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:quarta-feira-de-cinzas",
+      "slug": "quarta-feira-de-cinzas",
+      "titulo": "Quarta-feira de Cinzas",
+      "categoria": "calendario-liturgico",
+      "resumo": "O dia que abre a Quaresma com a imposição das cinzas sobre a cabeça dos fiéis, convite penitencial à conversão que precede a Páscoa em 40 dias.",
+      "corpo": "A Quarta-feira de Cinzas marca o início da Quaresma, quarenta dias antes da Missa da Ceia do Senhor (sem contar os domingos), e é um dos dias de maior participação dos fiéis na vida da Igreja, mesmo entre os que não vão à Missa com regularidade. Seu rito central é a imposição das cinzas sobre a cabeça ou a testa dos fiéis, tradicionalmente obtidas da queima dos ramos bentos no Domingo de Ramos do ano anterior, acompanhada de uma das duas fórmulas previstas pelo Missal: \"Lembra-te de que és pó e ao pó voltarás\" ou \"Converte-te e crê no Evangelho\".\n\nÉ também, ao lado da Sexta-feira Santa, um dos dois dias de jejum e abstinência de carne obrigatórios no calendário do rito romano, conforme a disciplina fixada para adultos entre 18 e 59 anos, salvo exceções por motivo de saúde. Apesar de sua seriedade penitencial, a Quarta-feira de Cinzas não é dia de preceito (obrigação de participar da Missa), o que não impede que costume reunir igrejas particularmente cheias, sinal do apelo espiritual que esse gesto simples — receber as cinzas — ainda exerce.",
+      "tags": [
+        "ano litúrgico",
+        "Quaresma",
+        "Quarta-feira de Cinzas",
+        "penitência"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 13,
+      "cor_liturgica": "Roxo",
+      "fontes": [
+        "Missal Romano",
+        "Código de Direito Canônico, cân. 1251-1252"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:corpus-christi",
+      "slug": "corpus-christi",
+      "titulo": "Solenidade do Santíssimo Corpo e Sangue de Cristo (Corpus Christi)",
+      "categoria": "calendario-liturgico",
+      "resumo": "Solenidade que celebra publicamente a presença real de Cristo na Eucaristia, instituída em 1264 a partir das visões de Santa Juliana de Cornillon.",
+      "corpo": "A Solenidade do Santíssimo Corpo e Sangue de Cristo, popularmente conhecida por seu antigo nome latino \"Corpus Christi\", nasceu das visões místicas de Santa Juliana de Cornillon, religiosa agostiniana de Liège (atual Bélgica), que desde 1246 promovia ali uma festa local dedicada exclusivamente à Eucaristia. Em 11 de agosto de 1264, o Papa Urbano IV — que conhecera de perto a devoção de Juliana quando ainda era arquidiácono em Liège — estendeu a celebração a toda a Igreja pela carta \"Transiturus de hoc mundo\", tornando-a uma das solenidades mais características da religiosidade eucarística católica.\n\nCelebrada na quinta-feira depois do domingo da Santíssima Trindade (ou transferida para o domingo seguinte em muitos países, incluindo o Brasil), a solenidade é marcada por sua tradicional procissão pública com o Santíssimo Sacramento exposto no ostensório, muitas vezes acompanhada de tapetes de rua feitos com pétalas de flores, serragem colorida ou sal — expressão popular da fé na presença real de Cristo levada literalmente às ruas.",
+      "tags": [
+        "Corpus Christi",
+        "eucaristia",
+        "Santa Juliana de Cornillon",
+        "Urbano IV"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 14,
+      "cor_liturgica": "Branco",
+      "fontes": [
+        "Urbano IV, carta «Transiturus de hoc mundo» (1264)",
+        "Missal Romano"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:cristo-rei",
+      "slug": "cristo-rei",
+      "titulo": "Solenidade de Cristo Rei do Universo",
+      "categoria": "calendario-liturgico",
+      "resumo": "Instituída por Pio XI em 1925 para afirmar a realeza de Cristo diante do secularismo entre-guerras, hoje encerra o ano litúrgico antes do Advento.",
+      "corpo": "A Solenidade de Nosso Senhor Jesus Cristo, Rei do Universo, foi instituída pelo Papa Pio XI na encíclica \"Quas Primas\" (11 de dezembro de 1925), num contexto histórico marcado pelo secularismo crescente e pela ascensão de regimes totalitários após a Primeira Guerra Mundial. Para o Papa, reconhecer publicamente a realeza universal de Cristo sobre indivíduos, famílias e nações era o caminho para restaurar a verdadeira paz e justiça no mundo, ameaçadas pela negação prática ou explícita da autoridade de Deus sobre a sociedade.\n\nOriginalmente fixada no último domingo de outubro, a solenidade foi deslocada pela reforma litúrgica de 1969, de Paulo VI, para o último domingo do ano litúrgico, imediatamente antes do início do Advento seguinte — posição simbolicamente mais forte, pois coroa e encerra todo o ciclo anual dos mistérios de Cristo celebrados desde o Advento anterior, apontando para o Reino definitivo que a liturgia proclama no fim dos tempos.",
+      "tags": [
+        "ano litúrgico",
+        "Cristo Rei",
+        "Quas Primas",
+        "Pio XI"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 15,
+      "cor_liturgica": "Branco",
+      "fontes": [
+        "Pio XI, encíclica «Quas Primas» (1925)",
+        "Missal Romano"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:ciclo-ferial-i-ii",
+      "slug": "ciclo-ferial-i-ii",
+      "titulo": "O Ciclo Ferial de Leituras (Anos Ímpar e Par)",
+      "categoria": "calendario-liturgico",
+      "resumo": "Diferente do ciclo dominical trienal ABC, as leituras dos dias de semana seguem um ciclo bienal, alternando entre ano ímpar e ano par.",
+      "corpo": "Enquanto as Missas dominicais seguem o conhecido ciclo trienal de leituras A, B e C, as Missas dos dias de semana (\"feriais\") no Tempo Comum seguem um esquema diferente: um ciclo de apenas dois anos, chamados Ano I (anos ímpares) e Ano II (anos pares), que regula a primeira leitura e o salmo responsorial. O Evangelho ferial, por sua vez, não muda com esse ciclo bienal — é sempre o mesmo a cada ano, lido de forma semicontínua conforme o tempo litúrgico, independentemente do ano ser ímpar ou par.\n\nEsse desenho permite à Igreja ampliar consideravelmente o alcance da Escritura proclamada ao longo da semana, percorrendo em dois anos grande parte das cartas apostólicas, dos livros proféticos e de outros textos do Antigo Testamento que não caberiam num ciclo de um só ano. Fora do Tempo Comum — no Advento, Natal, Quaresma e Tempo Pascal — as leituras feriais têm textos próprios de cada tempo litúrgico, e não seguem esse ciclo bienal.",
+      "tags": [
+        "ano litúrgico",
+        "lecionário",
+        "liturgia da palavra"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 16,
+      "cor_liturgica": null,
+      "fontes": [
+        "Ordo Lectionum Missae (Lecionário Romano)",
+        "Missal Romano"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:tempora-e-rogacoes",
+      "slug": "tempora-e-rogacoes",
+      "titulo": "Têmporas e Rogações",
+      "categoria": "calendario-liturgico",
+      "resumo": "Antigos dias romanos de jejum e procissões ligados às estações do ano e ao trabalho agrícola, hoje conservados apenas como celebrações facultativas.",
+      "corpo": "As \"Quatro Têmporas\" (do latim \"quattuor tempora\", quatro tempos) eram, no calendário romano tradicional, três dias — quarta, sexta e sábado — de jejum, abstinência e oração observados a cada mudança de estação do ano, com origem que o antigo \"Liber Pontificalis\" atribui ao Papa São Calisto I, no início do século III, e que foram fixadas em semanas específicas do ano litúrgico pelo Papa São Gregório VII, no Sínodo de Roma de 1078. As \"Rogações\", por sua vez, eram procissões através dos campos, especialmente ligadas às Têmporas de setembro, com origem em antigos ritos agrícolas pré-cristãos, cristianizados como súplica pelas colheitas e pelo trabalho da terra.\n\nA reforma litúrgica de 1969 suprimiu a obrigatoriedade dessas observâncias do Calendário Geral Romano, deixando a critério das conferências episcopais fixar o tempo e o modo de celebrá-las conforme as necessidades locais — sobretudo agrícolas, mas também vocacionais, missionárias ou de ação de graças. Por isso, hoje as Têmporas e Rogações sobrevivem de forma bastante variada, mais como tradição facultativa de algumas dioceses e comunidades do que como observância universal.",
+      "tags": [
+        "Têmporas",
+        "Rogações",
+        "calendário romano",
+        "jejum"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 17,
+      "cor_liturgica": null,
+      "fontes": [
+        "Missal Romano, «Normas Universais sobre o Ano Litúrgico e o Calendário», n. 45-47",
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:calendario-geral-romano",
+      "slug": "calendario-geral-romano",
+      "titulo": "O Calendário Geral Romano",
+      "categoria": "calendario-liturgico",
+      "resumo": "O calendário oficial do Rito Romano, reformado por Paulo VI em 1969, que fixa os tempos litúrgicos e o santoral comuns a toda a Igreja latina.",
+      "corpo": "O Calendário Geral Romano é o calendário litúrgico de referência para toda a Igreja de Rito Romano, que fixa os tempos fortes do ano litúrgico e as celebrações — solenidades, festas e memórias de santos — comuns a toda a Igreja latina, servindo de base para os calendários particulares de cada diocese, país ou ordem religiosa, que a ele podem acrescentar celebrações próprias. Sua forma atual resulta da reforma promovida pelo Papa Paulo VI, com a carta apostólica \"Mysterii Paschalis\" (14 de fevereiro de 1969), que aprovou tanto as \"Normas Universais sobre o Ano Litúrgico e o Calendário\" quanto o novo elenco de celebrações.\n\nEntre as mudanças mais notadas dessa reforma esteve a revisão crítica do santoral: cerca de 200 santos presentes no calendário anterior foram removidos ou tiveram sua celebração tornada facultativa, sobretudo casos de historicidade duvidosa ou de culto muito localizado, dando lugar a uma lista mais enxuta e historicamente mais sólida, à qual a Igreja continua acrescentando novos santos canonizados ano após ano.",
+      "tags": [
+        "Calendário Geral Romano",
+        "Mysterii Paschalis",
+        "Paulo VI",
+        "reforma litúrgica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 18,
+      "cor_liturgica": null,
+      "fontes": [
+        "Paulo VI, carta apostólica «Mysterii Paschalis» (1969)",
+        "Missal Romano, «Normas Universais sobre o Ano Litúrgico e o Calendário»"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:oitava-liturgica",
+      "slug": "oitava-liturgica",
+      "titulo": "A Oitava Litúrgica",
+      "categoria": "calendario-liturgico",
+      "resumo": "O prolongamento por oito dias consecutivos da celebração do Natal e da Páscoa, tratando toda a semana como um único e contínuo dia de festa.",
+      "corpo": "Uma \"oitava\" é o prolongamento da celebração de uma grande solenidade por oito dias consecutivos, de modo que toda a semana seguinte é vivida liturgicamente como se fosse um único e ininterrupto dia de festa — prática que a Igreja adota há muitos séculos, reconhecendo que um só dia é insuficiente para conter e assimilar o mistério celebrado nas duas maiores solenidades do ano cristão: o nascimento de Cristo e sua Ressurreição.\n\nDo Missal Romano anterior a 1969, que chegou a conhecer oitavas para diversas outras festas, a reforma litúrgica pós-conciliar conservou apenas duas: a Oitava do Natal, que vai de 25 de dezembro a 1º de janeiro (Solenidade de Maria, Mãe de Deus), e a Oitava da Páscoa, que se estende do Domingo de Páscoa ao Domingo seguinte (o \"Domingo da Divina Misericórdia\", na devoção difundida por Santa Faustina Kowalska). Durante toda a Oitava Pascal, por exemplo, cada dia é celebrado liturgicamente como \"Domingo de Páscoa\", com o mesmo grau de solenidade, numa insistência simbólica sobre a alegria que a Ressurreição inaugura.",
+      "tags": [
+        "ano litúrgico",
+        "Oitava",
+        "Natal",
+        "Páscoa"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 19,
+      "cor_liturgica": null,
+      "fontes": [
+        "Missal Romano, «Normas Universais sobre o Ano Litúrgico e o Calendário»",
+        "Catecismo da Igreja Católica"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:primeiras-visperas",
+      "slug": "primeiras-visperas",
+      "titulo": "Primeiras Vésperas: quando o Dia Litúrgico Começa",
+      "categoria": "calendario-liturgico",
+      "resumo": "Domingos e solenidades começam, liturgicamente, na tarde do dia anterior — por isso existem \"Primeiras Vésperas\", rezadas na véspera.",
+      "corpo": "Diferente do dia civil, que começa à meia-noite, o dia litúrgico dos domingos e das solenidades tem início na tarde ou no entardecer do dia anterior, seguindo o antigo cômputo bíblico do livro do Gênesis (\"Houve uma tarde e uma manhã\"). Na prática, isso significa que uma Missa celebrada no sábado ao entardecer já é considerada a Missa \"do domingo\" para efeito do preceito dominical, e que a Liturgia das Horas prevê, para domingos e solenidades, \"Primeiras Vésperas\" — rezadas na tarde anterior — distintas das \"Segundas Vésperas\", rezadas no próprio fim de tarde do dia da celebração.\n\nEssa antecipação explica também por que grandes solenidades como o Natal têm sua liturgia mais solene já na noite anterior (a \"Missa da Vigília\" ou a \"Missa da Noite\"), e por que o Tríduo Pascal, tecnicamente, começa na tarde de Quinta-feira Santa e não à meia-noite. O princípio reflete uma visão teológica mais ampla do tempo litúrgico: mais do que uma sequência neutra de horas, o dia da Igreja é balizado pela luz e pela sombra como sinais do mistério pascal de morte e ressurreição.",
+      "tags": [
+        "ano litúrgico",
+        "dia litúrgico",
+        "vésperas",
+        "preceito dominical"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 20,
+      "cor_liturgica": null,
+      "fontes": [
+        "Missal Romano, «Normas Universais sobre o Ano Litúrgico e o Calendário», n. 3",
+        "Instrução Geral sobre a Liturgia das Horas"
+      ]
     }
   ]
 }

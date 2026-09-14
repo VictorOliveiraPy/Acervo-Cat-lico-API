@@ -69,6 +69,10 @@ class Category(str, Enum):
     VOCACOES = "vocacoes-estados-de-vida"
     PRIMEIRA_COMUNHAO = "primeira-comunhao"
     MUSICA_SACRA = "musica-sacra"
+    CARDEAIS = "cardeais"
+    MISSOES_EVANGELIZACAO = "missoes-evangelizacao"
+    CIENCIA_FE = "ciencia-fe"
+    CATEDRAIS_BASILICAS = "catedrais-basilicas-mundo"
 
 
 class ContentEntry(BaseModel):
@@ -561,6 +565,80 @@ class ObraMusicaSacra(ContentEntry):
     ordem: int | None = Field(default=None, ge=1)
 
 
+class OrdemCardinalicia(str, Enum):
+    BISPO = "bispo"
+    PRESBITERO = "presbitero"
+    DIACONO = "diacono"
+
+
+class Cardeal(ContentEntry):
+    """Cardeal da Igreja Católica ou conceito ligado ao Colégio Cardinalício
+    (conclave, ordens do cardinalato etc.), distinto da categoria Papas."""
+
+    categoria: Literal[Category.CARDEAIS] = Category.CARDEAIS
+    ordem_cardinalicia: OrdemCardinalicia | None = None
+    pais: str | None = None
+    ano_criacao: int | None = None
+    papa_criador: str | None = None
+
+
+class TipoMissao(str, Enum):
+    MISSIONARIO = "missionario"
+    ORDEM_MISSIONARIA = "ordem_missionaria"
+    TERRITORIO = "territorio"
+    MARTIRIO = "martirio"
+    CONCEITO = "conceito"
+
+
+class TemaMissionario(ContentEntry):
+    """Missionário, ordem de vocação missionária, território de missão ou
+    conceito de evangelização na história da Igreja."""
+
+    categoria: Literal[Category.MISSOES_EVANGELIZACAO] = Category.MISSOES_EVANGELIZACAO
+    tipo: TipoMissao
+    regiao: str | None = None
+    seculo: str | None = None
+
+
+class TipoCienciaFe(str, Enum):
+    CIENTISTA = "cientista"
+    INSTITUICAO = "instituicao"
+    DOCUMENTO = "documento"
+    CONCEITO = "conceito"
+
+
+class TemaCienciaFe(ContentEntry):
+    """Cientista católico (frequentemente clérigo), instituição científica da
+    Igreja, documento do Magistério sobre ciência e razão, ou conceito do
+    diálogo entre fé e ciência."""
+
+    categoria: Literal[Category.CIENCIA_FE] = Category.CIENCIA_FE
+    tipo: TipoCienciaFe
+    area: str | None = None
+    seculo: str | None = None
+
+
+class TipoTemploNotavel(str, Enum):
+    CATEDRAL = "catedral"
+    BASILICA_MAIOR = "basilica_maior"
+    BASILICA_MENOR = "basilica_menor"
+    IGREJA_HISTORICA = "igreja_historica"
+
+
+class TemploNotavel(ContentEntry):
+    """Catedral, basílica ou igreja historicamente/arquitetonicamente notável
+    no mundo — recorte curado de templos de referência, não um diretório
+    exaustivo de paróquias (o que a Igreja não mantém como lista fechada).
+    Distinto de Santuários, que reúne locais de peregrinação/devoção."""
+
+    categoria: Literal[Category.CATEDRAIS_BASILICAS] = Category.CATEDRAIS_BASILICAS
+    tipo: TipoTemploNotavel
+    cidade: str | None = None
+    pais: str | None = None
+    ano_conclusao: str | None = None
+    estilo_arquitetonico: str | None = None
+
+
 class Liturgia(ContentEntry):
     """Tema de vida litúrgica e sacramental prática: partes da Missa, adoração
     eucarística, preparação para a Confissão e afins.
@@ -624,6 +702,10 @@ AnyEntry = Annotated[
         EstadoDeVida,
         PrimeiraComunhao,
         ObraMusicaSacra,
+        Cardeal,
+        TemaMissionario,
+        TemaCienciaFe,
+        TemploNotavel,
     ],
     Field(discriminator="categoria"),
 ]
@@ -675,6 +757,10 @@ ENTRY_MODEL_BY_CATEGORY: dict[Category, type[ContentEntry]] = {
     Category.VOCACOES: EstadoDeVida,
     Category.PRIMEIRA_COMUNHAO: PrimeiraComunhao,
     Category.MUSICA_SACRA: ObraMusicaSacra,
+    Category.CARDEAIS: Cardeal,
+    Category.MISSOES_EVANGELIZACAO: TemaMissionario,
+    Category.CIENCIA_FE: TemaCienciaFe,
+    Category.CATEDRAIS_BASILICAS: TemploNotavel,
 }
 
 

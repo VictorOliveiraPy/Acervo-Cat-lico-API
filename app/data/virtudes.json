@@ -759,6 +759,251 @@
       "fontes": [
         "Catecismo da Igreja Católica"
       ]
+    },
+    {
+      "id": "virtudes:fruto-alegria",
+      "slug": "fruto-alegria",
+      "titulo": "Fruto do Espírito Santo: Alegria",
+      "categoria": "virtudes",
+      "resumo": "A alegria espiritual que, segundo Santo Tomás de Aquino, nasce como consequência necessária da caridade — o gozo de estar unido a Deus pelo amor.",
+      "corpo": "Na lista de doze frutos do Espírito Santo transmitida pela tradição latina a partir de Gálatas 5,22-23, a alegria (gaudium) ocupa o segundo lugar, logo depois da caridade. Santo Tomás de Aquino explica, na Suma Teológica (I-II, q. 70), que ela decorre necessariamente da caridade: assim como todo aquele que ama se alegra pela união com quem ama, a alma que ama a Deus experimenta uma alegria que as provações desta vida não conseguem dissolver por completo.\n\nDiferente do simples bem-estar emocional ou do entusiasmo passageiro, a alegria como fruto do Espírito tem raiz não nas circunstâncias externas, mas na certeza da amizade com Deus — a mesma alegria que Jesus promete deixar \"completa\" nos discípulos na véspera da Paixão (Jo 15,11) e que Paulo exorta a viver sempre, mesmo em meio à tribulação (Fl 4,4).",
+      "tags": [
+        "frutos do Espírito Santo",
+        "alegria"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 38,
+      "referencia_biblica": "Gálatas 5,22-23",
+      "fontes": [
+        "Gálatas 5,22-23",
+        "Catecismo da Igreja Católica, n. 1832",
+        "São Tomás de Aquino, Suma Teológica, I-II, q. 70"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-paz",
+      "slug": "fruto-paz",
+      "titulo": "Fruto do Espírito Santo: Paz",
+      "categoria": "virtudes",
+      "resumo": "A tranquilidade da alma que descansa em Deus — fruto que Santo Tomás de Aquino descreve como a \"perfeição da alegria\".",
+      "corpo": "Entre os doze frutos do Espírito Santo elencados a partir de Gálatas 5,22-23, a paz (pax) segue imediatamente a alegria, da qual é, segundo Santo Tomás de Aquino, uma espécie de perfeição: consiste na ausência de perturbação interior e no repouso dos próprios desejos em Deus, único bem capaz de saciar plenamente o coração humano.\n\nEssa paz não se confunde com a simples ausência de conflito externo — tarefa mais associada à bem-aventurança dos pacificadores —, mas designa antes a serenidade interior de quem já não está dividido entre desejos contrários. É a paz que Jesus promete na véspera da Paixão: \"deixo-vos a paz, a minha paz vos dou; não vo-la dou como o mundo a dá\" (Jo 14,27), fruto direto da docilidade ao Espírito Santo.",
+      "tags": [
+        "frutos do Espírito Santo",
+        "paz"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 39,
+      "referencia_biblica": "Gálatas 5,22-23",
+      "fontes": [
+        "Gálatas 5,22-23",
+        "Catecismo da Igreja Católica, n. 1832",
+        "São Tomás de Aquino, Suma Teológica, I-II, q. 70"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-paciencia",
+      "slug": "fruto-paciencia",
+      "titulo": "Fruto do Espírito Santo: Paciência",
+      "categoria": "virtudes",
+      "resumo": "A firmeza interior que não se deixa perturbar pela iminência dos males, permitindo suportar dificuldades presentes sem se abater.",
+      "corpo": "A paciência (patientia), quarto dos doze frutos elencados a partir de Gálatas 5,22-23, é descrita por Santo Tomás de Aquino como a disposição de não se deixar perturbar pela iminência de males que ameaçam no presente. Como fruto do Espírito, distingue-se da paciência enquanto virtude ligada à fortaleza: aqui trata-se antes do efeito visível, na vida concreta de quem é dócil ao Espírito, de uma serenidade que não se deixa vencer pela contrariedade imediata.\n\nSão Paulo a associa diretamente à própria essência da caridade: \"a caridade é paciente\" (1 Cor 13,4), lembrando que a paciência cristã não é resignação passiva, mas fruto de um amor que sustenta a alma mesmo sob pressão — o oposto exato do pecado capital da ira.",
+      "tags": [
+        "frutos do Espírito Santo",
+        "paciência"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 40,
+      "referencia_biblica": "Gálatas 5,22-23",
+      "fontes": [
+        "Gálatas 5,22-23",
+        "Catecismo da Igreja Católica, n. 1832",
+        "São Tomás de Aquino, Suma Teológica, I-II, q. 70"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-longanimidade",
+      "slug": "fruto-longanimidade",
+      "titulo": "Fruto do Espírito Santo: Longanimidade",
+      "categoria": "virtudes",
+      "resumo": "A capacidade de perseverar sem desanimar diante da demora dos bens esperados — a paciência que se prolonga no tempo.",
+      "corpo": "A longanimidade (longanimitas) é descrita por Santo Tomás de Aquino como a capacidade de não se perturbar pela demora dos bens que se espera alcançar — distinguindo-se, assim, da paciência propriamente dita, voltada para o mal que ameaça no presente, enquanto a longanimidade sustenta a alma diante do bem futuro que tarda a chegar.\n\nA imagem bíblica clássica dessa disposição é a do lavrador que \"espera com paciência\" o precioso fruto da terra, aguardando as primeiras e as últimas chuvas (Tg 5,7-8) — figura de quem confia sem desanimar, mesmo quando o tempo de espera se prolonga além do previsto. Como fruto do Espírito, a longanimidade sustenta especialmente a virtude teologal da esperança.",
+      "tags": [
+        "frutos do Espírito Santo",
+        "longanimidade",
+        "esperança"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 41,
+      "referencia_biblica": "Gálatas 5,22-23",
+      "fontes": [
+        "Gálatas 5,22-23",
+        "Catecismo da Igreja Católica, n. 1832",
+        "São Tomás de Aquino, Suma Teológica, I-II, q. 70"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-benignidade",
+      "slug": "fruto-benignidade",
+      "titulo": "Fruto do Espírito Santo: Benignidade",
+      "categoria": "virtudes",
+      "resumo": "A disposição de fazer o bem concretamente ao próximo, inflamada pelo amor — passagem da boa vontade interior para a ação exterior.",
+      "corpo": "Santo Tomás de Aquino distingue a benignidade (benignitas) da bondade, embora ambas digam respeito à relação com o próximo: a bondade é a primeira disposição favorável, a vontade de fazer o bem; a benignidade é já a execução prática desse bem, inflamada pelo amor que não se contenta em desejar o bem alheio, mas o realiza concretamente.\n\nSão Paulo une as duas quando exorta: \"sede uns para com os outros benignos, compassivos, perdoando-vos uns aos outros, como também Deus vos perdoou em Cristo\" (Ef 4,32) — texto que liga diretamente a benignidade ao perdão fraterno, uma das obras de misericórdia espiritual já reconhecidas nesta mesma categoria.",
+      "tags": [
+        "frutos do Espírito Santo",
+        "benignidade"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 42,
+      "referencia_biblica": "Gálatas 5,22-23",
+      "fontes": [
+        "Gálatas 5,22-23",
+        "Catecismo da Igreja Católica, n. 1832",
+        "São Tomás de Aquino, Suma Teológica, I-II, q. 70"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-bondade",
+      "slug": "fruto-bondade",
+      "titulo": "Fruto do Espírito Santo: Bondade",
+      "categoria": "virtudes",
+      "resumo": "A primeira disposição interior favorável ao próximo — o desejo sincero do seu bem, base sobre a qual se constrói a benignidade concreta.",
+      "corpo": "A bondade (bonitas), sexto dos frutos elencados a partir de Gálatas 5,22-23, é definida por Santo Tomás de Aquino como a vontade de fazer o bem ao próximo — a primeira disposição favorável do coração, ainda antes de se traduzir na ação prática que caracteriza especificamente a benignidade. É, por assim dizer, a raiz interior de que a benignidade é o fruto exterior.\n\nSão Paulo elogia os cristãos de Roma precisamente por essa qualidade: \"estou persuadido, meus irmãos, de que vós mesmos estais cheios de bondade\" (Rm 15,14), sinal de que essa disposição, quando genuína, não permanece isolada, mas se manifesta necessariamente em gestos concretos de cuidado com o outro.",
+      "tags": [
+        "frutos do Espírito Santo",
+        "bondade"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 43,
+      "referencia_biblica": "Gálatas 5,22-23",
+      "fontes": [
+        "Gálatas 5,22-23",
+        "Catecismo da Igreja Católica, n. 1832",
+        "São Tomás de Aquino, Suma Teológica, I-II, q. 70"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-mansidao",
+      "slug": "fruto-mansidao",
+      "titulo": "Fruto do Espírito Santo: Mansidão",
+      "categoria": "virtudes",
+      "resumo": "O refreamento da ira diante dos males causados pelo próximo — um dos frutos mais associados à própria figura de Jesus.",
+      "corpo": "A mansidão (mansuetudo) é descrita por Santo Tomás de Aquino como o refreamento da ira diante dos males que o próximo eventualmente causa — disposição que não elimina a capacidade de indignação legítima, mas a mantém sob o governo da razão, evitando que se transforme em ressentimento ou vingança.\n\nÉ o próprio Jesus quem se apresenta como modelo desse fruto: \"aprendei de mim, que sou manso e humilde de coração\" (Mt 11,29). A mansidão liga-se diretamente à segunda bem-aventurança (\"bem-aventurados os mansos\", Mt 5,4) já presente neste acervo, e representa o oposto exato do pecado capital da ira.",
+      "tags": [
+        "frutos do Espírito Santo",
+        "mansidão"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 44,
+      "referencia_biblica": "Gálatas 5,22-23",
+      "fontes": [
+        "Gálatas 5,22-23",
+        "Catecismo da Igreja Católica, n. 1832",
+        "São Tomás de Aquino, Suma Teológica, I-II, q. 70"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-fidelidade",
+      "slug": "fruto-fidelidade",
+      "titulo": "Fruto do Espírito Santo: Fidelidade",
+      "categoria": "virtudes",
+      "resumo": "A retidão constante nas relações com o próximo, que impede prejudicá-lo por fraude, engano ou traição da palavra dada.",
+      "corpo": "A fidelidade (fides, aqui no sentido de lealdade e não da virtude teologal homônima) é descrita por Santo Tomás de Aquino como a retidão nas relações com o próximo, que impede prejudicá-lo por fraude ou engano — a base de toda confiança mútua nas relações humanas, do simples trato cotidiano aos compromissos mais solenes, como o matrimônio.\n\nSão Paulo resume essa exigência ao falar dos que administram bens ou responsabilidades alheias: \"o que se requer dos despenseiros é que cada um se ache fiel\" (1 Cor 4,2). Como fruto do Espírito, a fidelidade sustenta tanto o oitavo mandamento (a verdade devida ao próximo) quanto a fidelidade conjugal exigida pelo sexto.",
+      "tags": [
+        "frutos do Espírito Santo",
+        "fidelidade"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 45,
+      "referencia_biblica": "Gálatas 5,22-23",
+      "fontes": [
+        "Gálatas 5,22-23",
+        "Catecismo da Igreja Católica, n. 1832",
+        "São Tomás de Aquino, Suma Teológica, I-II, q. 70"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-modestia",
+      "slug": "fruto-modestia",
+      "titulo": "Fruto do Espírito Santo: Modéstia",
+      "categoria": "virtudes",
+      "resumo": "A observância do modo justo e equilibrado nas palavras, nos gestos e no comportamento exterior, sem ostentação nem exibicionismo.",
+      "corpo": "A modéstia (modestia) é definida por Santo Tomás de Aquino como a observância do modo apropriado em todas as palavras e ações exteriores — um fruto que não se limita à discrição no vestir, mas abrange todo o comportamento externo da pessoa: o modo de falar, de se portar, de usar os próprios talentos, evitando tanto a ostentação vaidosa quanto a falsa humildade que nega dons recebidos de Deus.\n\nComo fruto do Espírito, a modéstia é considerada parte potencial da virtude cardeal da temperança, aplicando à conduta exterior o mesmo equilíbrio que a temperança busca nos apetites interiores — condição para que a pessoa se apresente ao mundo de modo verdadeiro, sem exageros para mais nem para menos.",
+      "tags": [
+        "frutos do Espírito Santo",
+        "modéstia",
+        "temperança"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 46,
+      "referencia_biblica": "Gálatas 5,22-23",
+      "fontes": [
+        "Gálatas 5,22-23",
+        "Catecismo da Igreja Católica, n. 1832",
+        "São Tomás de Aquino, Suma Teológica, I-II, q. 70"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-continencia",
+      "slug": "fruto-continencia",
+      "titulo": "Fruto do Espírito Santo: Continência",
+      "categoria": "virtudes",
+      "resumo": "O domínio da vontade sobre os próprios desejos, sobretudo os da carne, que permite à razão permanecer senhora de si mesma diante dos impulsos.",
+      "corpo": "A continência (continentia) é descrita por Santo Tomás de Aquino como o domínio exercido sobre os desejos ilícitos e também sobre os lícitos, de modo que a pessoa permaneça sujeitando-os sem se deixar arrastar por eles. Distingue-se da castidade, penúltimo fruto da lista de Gálatas: enquanto a castidade supõe já o afastamento completo do desejo desordenado, a continência designa antes o esforço ativo e constante de manter esse desejo sob o governo da razão.\n\nÉ o que a Escritura, na mesma passagem de Gálatas 5,23, chama também de \"domínio próprio\" — uma disposição que a tradição espiritual considera indispensável a qualquer forma de vida cristã séria, seja no matrimônio, seja na vida consagrada.",
+      "tags": [
+        "frutos do Espírito Santo",
+        "continência",
+        "temperança"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 47,
+      "referencia_biblica": "Gálatas 5,22-23",
+      "fontes": [
+        "Gálatas 5,22-23",
+        "Catecismo da Igreja Católica, n. 1832",
+        "São Tomás de Aquino, Suma Teológica, I-II, q. 70"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-castidade",
+      "slug": "fruto-castidade",
+      "titulo": "Fruto do Espírito Santo: Castidade",
+      "categoria": "virtudes",
+      "resumo": "A integração serena da sexualidade na pessoa — fruto que, entre os doze elencados por São Paulo, corresponde à plena vitória sobre o desejo desordenado.",
+      "corpo": "A castidade (castitas) fecha a lista tradicional dos doze frutos do Espírito Santo. Santo Tomás de Aquino a distingue da continência por um grau a mais de maturidade espiritual: enquanto o continente ainda sente o desejo ilícito e o domina pelo esforço da vontade, o casto já alcançou o afastamento completo desse desejo, sem sofrer nem ser arrastado por ele — não por frieza ou repressão, mas pela integração serena da sexualidade na doação de si mesmo.\n\nComo fruto — e não apenas como virtude ou mandamento —, a castidade indica o ponto de chegada de um caminho de docilidade ao Espírito Santo, sendo o oposto direto do pecado capital da luxúria já tratado nesta mesma categoria de conteúdos.",
+      "tags": [
+        "frutos do Espírito Santo",
+        "castidade"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 48,
+      "referencia_biblica": "Gálatas 5,22-23",
+      "fontes": [
+        "Gálatas 5,22-23",
+        "Catecismo da Igreja Católica, n. 1832",
+        "São Tomás de Aquino, Suma Teológica, I-II, q. 70"
+      ]
     }
   ]
 }

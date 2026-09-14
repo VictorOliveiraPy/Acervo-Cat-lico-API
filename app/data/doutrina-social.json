@@ -176,6 +176,169 @@
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Peter_Paul_Rubens_-_Allegory_on_the_Blessings_of_Peace_-_WGA20333.jpg",
       "imagem_credito": null,
       "ordem": 10
+    },
+    {
+      "id": "doutrina-social:direitos-humanos",
+      "slug": "direitos-humanos",
+      "titulo": "Direitos Humanos",
+      "categoria": "doutrina-social",
+      "resumo": "O reconhecimento, fundado na dignidade da pessoa, de que todo ser humano possui direitos universais, invioláveis e inalienáveis que nenhum poder pode legitimamente suprimir.",
+      "corpo": "Foi João XXIII, na encíclica \"Pacem in Terris\" (1963), quem apresentou pela primeira vez de modo sistemático, no magistério pontifício, uma lista de direitos fundados diretamente na dignidade da pessoa humana: o direito à vida e a um nível de vida digno, à liberdade de buscar a verdade e de se exprimir, à educação, ao trabalho e a condições justas de trabalho, e à participação na vida pública — sempre acompanhados dos deveres correspondentes que lhes dão sentido.\n\nA Doutrina Social insiste que esses direitos são universais, valendo para todo ser humano sem distinção de raça, nação ou condição social, e indivisíveis: os direitos civis e políticos não podem ser separados dos direitos econômicos, sociais e culturais, sob pena de se defender a liberdade de uns esquecendo a subsistência digna de todos.",
+      "tags": [
+        "Pacem in Terris",
+        "João XXIII",
+        "dignidade da pessoa"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 11
+    },
+    {
+      "id": "doutrina-social:justica-social",
+      "slug": "justica-social",
+      "titulo": "Justiça Social",
+      "categoria": "doutrina-social",
+      "resumo": "A exigência de que as estruturas econômicas, jurídicas e políticas de uma sociedade sejam ordenadas de modo a garantir a cada pessoa e a cada grupo o que lhe é devido.",
+      "corpo": "A expressão \"justiça social\" aparece pela primeira vez numa encíclica social com Pio XI, em \"Quadragesimo Anno\" (1931): o Papa ensina que a justiça e a caridade sociais devem penetrar completamente as instituições dos povos e toda a vida da sociedade, citando como aplicação concreta a exigência de um salário justo para o trabalhador.\n\nA justiça social vai além da justiça que rege as trocas entre indivíduos particulares: aplica-se às próprias estruturas e instituições, exigindo que nenhuma classe, grupo ou categoria de pessoas seja sistematicamente prejudicada pelo modo como a sociedade está organizada. É, por isso, um princípio distinto — embora complementar — do bem comum e da virtude cardeal da justiça já tratados nesta mesma categoria de conteúdos.",
+      "tags": [
+        "Quadragesimo Anno",
+        "Pio XI",
+        "justiça",
+        "salário justo"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 12
+    },
+    {
+      "id": "doutrina-social:liberdade-religiosa",
+      "slug": "liberdade-religiosa",
+      "titulo": "Liberdade Religiosa",
+      "categoria": "doutrina-social",
+      "resumo": "O direito de toda pessoa a não ser coagida, em matéria religiosa, nem pelo Estado nem por qualquer outro poder humano, fundado na própria dignidade da pessoa.",
+      "corpo": "O Concílio Vaticano II, na declaração \"Dignitatis Humanae\" (1965), afirma que a pessoa humana tem direito à liberdade religiosa: ninguém deve ser coagido a agir contra a própria consciência em matéria religiosa, nem impedido de agir segundo ela, dentro dos justos limites, seja em público ou em particular, sozinho ou associado a outros. O documento funda esse direito tanto na razão quanto na própria revelação.\n\nA declaração representou um amadurecimento importante do pensamento católico depois de séculos de tensão com o liberalismo em torno do tema, e hoje serve de base doutrinal para a defesa de minorias religiosas perseguidas em diferentes partes do mundo, bem como fundamento para outras liberdades civis fundamentais.",
+      "tags": [
+        "Dignitatis Humanae",
+        "Concílio Vaticano II",
+        "liberdade"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 13
+    },
+    {
+      "id": "doutrina-social:boa-politica-forma-de-caridade",
+      "slug": "boa-politica-forma-de-caridade",
+      "titulo": "A Boa Política como Forma de Caridade",
+      "categoria": "doutrina-social",
+      "resumo": "O princípio de que o empenho político, quando ordenado ao bem comum, é uma das formas mais altas do exercício da caridade cristã.",
+      "corpo": "A ideia de que a política, vivida com retidão, é \"a forma mais elevada da caridade\" remonta a Pio XI e foi retomada por Paulo VI; Francisco a desenvolve extensamente no quinto capítulo da encíclica \"Fratelli Tutti\" (2020), intitulado \"A melhor política\". Nessa perspectiva, o engajamento político não é uma vocação secundária ou moralmente suspeita, mas um caminho genuíno de serviço e até de santidade, quando verdadeiramente orientado ao bem de todos.\n\nEsse princípio contrasta com formas de política reduzidas a interesse de grupo, populismo ou corrupção: a Doutrina Social lembra que toda autoridade legítima existe para servir o bem comum, não para dominar ou se perpetuar no poder.",
+      "tags": [
+        "Fratelli Tutti",
+        "Francisco",
+        "política",
+        "bem comum"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 14
+    },
+    {
+      "id": "doutrina-social:fraternidade-e-amizade-social",
+      "slug": "fraternidade-e-amizade-social",
+      "titulo": "Fraternidade e Amizade Social",
+      "categoria": "doutrina-social",
+      "resumo": "O chamado, desenvolvido por Francisco na encíclica Fratelli Tutti, a construir laços de fraternidade universal que superem fronteiras, nações e interesses particulares.",
+      "corpo": "Inspirada nas palavras de São Francisco de Assis a seus irmãos, a encíclica \"Fratelli Tutti\" (2020) toma como imagem central a parábola do Bom Samaritano (Lc 10,25-37), relida como modelo daquilo que o Papa Francisco chama de \"amizade social\": a capacidade de reconhecer no estranho, no diferente ou até no adversário, alguém a quem se deve amor concreto. Fraternidade universal e amizade social são descritas como \"dois polos inseparáveis\", cuja separação provoca deformação e polarização nociva.\n\nEsse princípio relaciona-se de perto com a solidariedade já presente nesta categoria, mas acrescenta uma dimensão própria: enquanto a solidariedade é sobretudo responsabilidade compartilhada pelo bem comum, a fraternidade acrescenta o reconhecimento afetivo do outro como irmão, independentemente de nacionalidade, raça ou religião.",
+      "tags": [
+        "Fratelli Tutti",
+        "Francisco",
+        "fraternidade",
+        "Bom Samaritano"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Vincent_van_Gogh_-_The_Good_Samaritan%2C_1890_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 15
+    },
+    {
+      "id": "doutrina-social:desenvolvimento-integral-dos-povos",
+      "slug": "desenvolvimento-integral-dos-povos",
+      "titulo": "Desenvolvimento Integral dos Povos",
+      "categoria": "doutrina-social",
+      "resumo": "A doutrina de que o verdadeiro desenvolvimento não se mede apenas pelo crescimento econômico, mas deve promover a pessoa inteira e todas as pessoas.",
+      "corpo": "Na encíclica \"Populorum Progressio\" (1967), Paulo VI cunha a fórmula que se tornou quase proverbial: \"o desenvolvimento é o novo nome da paz\". O documento sustenta que o desenvolvimento autêntico não pode reduzir-se ao crescimento econômico, devendo promover \"todo o homem e todos os homens\" — isto é, as dimensões social, cultural, política e espiritual da pessoa, e não apenas o indicador material do produto nacional.\n\nEssa visão critica diretamente modelos de desenvolvimento que ignoram a justiça distributiva entre nações ricas e pobres, e lançou as bases para reflexões posteriores da Doutrina Social, como as encíclicas \"Caritas in Veritate\" e \"Laudato Si'\", que retomam e aprofundam o tema.",
+      "tags": [
+        "Populorum Progressio",
+        "Paulo VI",
+        "desenvolvimento"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 16
+    },
+    {
+      "id": "doutrina-social:globalizacao-da-solidariedade",
+      "slug": "globalizacao-da-solidariedade",
+      "titulo": "Globalização da Solidariedade",
+      "categoria": "doutrina-social",
+      "resumo": "A proposta de que os laços de interdependência criados pela globalização econômica sejam orientados por critérios éticos de solidariedade, e não apenas pela lógica do mercado.",
+      "corpo": "Na encíclica \"Caritas in Veritate\" (2009), Bento XVI apresenta a \"caridade na verdade\" como princípio dinâmico em torno do qual gira toda a Doutrina Social, aplicando-o ao fenômeno da globalização: esta pode constituir uma oportunidade real de progresso para toda a família humana, mas apenas se acompanhada de uma renovação moral e cultural profunda e de um discernimento responsável sobre as opções tomadas em nome do bem comum.\n\nSem essa orientação ética, adverte o documento, a globalização econômica tende a aprofundar desigualdades em vez de reduzi-las. A encíclica retoma e atualiza, quarenta anos depois, os temas de \"Populorum Progressio\", propondo formas de governança capazes de subordinar a economia global ao bem comum de toda a humanidade.",
+      "tags": [
+        "Caritas in Veritate",
+        "Bento XVI",
+        "globalização"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 17
+    },
+    {
+      "id": "doutrina-social:economia-a-servico-da-pessoa-humana",
+      "slug": "economia-a-servico-da-pessoa-humana",
+      "titulo": "Economia a Serviço da Pessoa Humana",
+      "categoria": "doutrina-social",
+      "resumo": "O princípio de que nenhum sistema econômico pode ser aceito se sacrificar a dignidade da pessoa humana às suas próprias engrenagens.",
+      "corpo": "Escrita em 1991, no centenário da \"Rerum Novarum\" e logo depois da queda dos regimes comunistas do Leste Europeu, a encíclica \"Centesimus Annus\" de João Paulo II submete a uma crítica igualmente severa tanto o coletivismo marxista quanto as formas de capitalismo que ignoram a dimensão ética e social da economia. O Papa é explícito em não propor uma \"terceira via\" institucional entre os dois sistemas: o que defende é que a economia de mercado só é legítima quando emoldurada por um sólido contexto jurídico e ético a serviço da liberdade humana integral.\n\nO documento reafirma a primazia do trabalho sobre o capital e o destino universal dos bens, princípios já tratados nesta categoria, insistindo que toda estrutura econômica é meio, nunca fim em si mesma — e que seu critério último de avaliação deve ser sempre o serviço prestado à pessoa humana.",
+      "tags": [
+        "Centesimus Annus",
+        "João Paulo II",
+        "economia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 18
+    },
+    {
+      "id": "doutrina-social:familia-celula-fundamental-da-sociedade",
+      "slug": "familia-celula-fundamental-da-sociedade",
+      "titulo": "Família, Célula Fundamental da Sociedade",
+      "categoria": "doutrina-social",
+      "resumo": "O reconhecimento da família, fundada no matrimônio, como a primeira e mais fundamental das sociedades humanas, anterior e superior ao próprio Estado.",
+      "corpo": "O Compêndio da Doutrina Social da Igreja dedica todo o seu quinto capítulo à família, apresentada como a \"primeira sociedade natural\", à qual corresponde o direito de ser protegida pelo Estado, e não absorvida ou substituída por ele — aplicação direta do princípio de subsidiariedade já tratado nesta categoria. O Catecismo resume essa convicção afirmando que \"a família é a célula original da vida social\" (CIC 2207).\n\nDessa concepção decorrem direitos específicos que a Doutrina Social defende como próprios da família: o direito dos pais de educar os filhos segundo as próprias convicções morais e religiosas, a autonomia doméstica legítima e o dever do Estado e de outras instituições de apoiá-la em suas necessidades, sem jamais pretender ocupar seu lugar insubstituível.",
+      "tags": [
+        "família",
+        "subsidiariedade",
+        "Compêndio da Doutrina Social"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Christmas_family_by_John_Lewis_Krimmel_c_1812.jpg",
+      "imagem_credito": null,
+      "ordem": 19
+    },
+    {
+      "id": "doutrina-social:cultura-do-descarte",
+      "slug": "cultura-do-descarte",
+      "titulo": "Rejeição da Cultura do Descarte",
+      "categoria": "doutrina-social",
+      "resumo": "A crítica do Papa Francisco a uma mentalidade que trata pessoas e coisas como descartáveis quando deixam de ser úteis ou produtivas, e o chamado a uma cultura do encontro e do cuidado.",
+      "corpo": "Na exortação apostólica \"Evangelii Gaudium\" (2013, n. 53), Francisco denuncia o surgimento de uma \"cultura do descarte\", própria de uma economia que \"mata\" ao excluir sistematicamente quem já \"não serve\": os idosos abandonados, os doentes crônicos, os desempregados de longa data, os não nascidos. Não se trata, adverte o Papa, de uma política específica, mas de uma mentalidade mais ampla e difusa, subjacente a muitas formas concretas de exclusão social e econômica.\n\nO tema é desenvolvido depois em \"Laudato Si'\" e \"Fratelli Tutti\", sempre em contraste com o que Francisco chama de \"cultura do encontro\": o reconhecimento de que toda pessoa possui dignidade inalienável, independentemente de sua capacidade produtiva ou utilidade imediata para os outros.",
+      "tags": [
+        "Evangelii Gaudium",
+        "Francisco",
+        "exclusão social"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 20
     }
   ]
 }

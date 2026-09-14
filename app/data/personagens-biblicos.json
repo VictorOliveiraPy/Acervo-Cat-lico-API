@@ -658,6 +658,256 @@
       "testamento": "novo",
       "referencia_biblica": "João 11,1-44",
       "fontes": []
+    },
+    {
+      "id": "personagens-biblicos:rute",
+      "slug": "rute",
+      "titulo": "Rute",
+      "categoria": "personagens-biblicos",
+      "resumo": "Mulher moabita que, por fidelidade à sogra Noemi e ao Deus de Israel, torna-se bisavó do rei Davi e figura na genealogia de Jesus.",
+      "corpo": "Viúva ainda jovem e estrangeira moabita, Rute recusa abandonar sua sogra Noemi quando esta decide voltar a Belém depois da morte do marido e dos filhos, dizendo-lhe as palavras que se tornariam clássicas: \"Aonde quer que fores, irei, [...] o teu povo será o meu povo, e o teu Deus, o meu Deus\" (Rt 1,16). Já em Belém, Rute colhe espigas atrás dos ceifeiros no campo de Booz, parente de Noemi, que a acolhe com bondade e, seguindo o costume do resgate familiar (levirato), acaba por desposá-la (Rt 2-4).\n\nDo casamento de Rute e Booz nasce Obede, avô de Davi (Rt 4,17), de modo que uma estrangeira moabita entra na linhagem direta do maior rei de Israel — e, através dela, na própria genealogia de Jesus, que Mateus registra expressamente (Mt 1,5). O pequeno Livro de Rute é lido, por isso, como sinal profético da abertura do plano de Deus aos gentios muito antes da pregação apostólica, e como um dos retratos bíblicos mais delicados de lealdade, trabalho honesto e providência divina na vida cotidiana.",
+      "tags": [
+        "Livro de Rute",
+        "genealogia de Jesus",
+        "Moabe",
+        "fidelidade"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Julius_Schnorr_von_Carolsfeld-_Ruth_im_Feld_des_Boaz.jpg",
+      "imagem_credito": null,
+      "tipo": "mulher",
+      "testamento": "antigo",
+      "referencia_biblica": "Livro de Rute",
+      "fontes": [
+        "Livro de Rute",
+        "Mateus 1,5"
+      ]
+    },
+    {
+      "id": "personagens-biblicos:ester",
+      "slug": "ester",
+      "titulo": "Ester",
+      "categoria": "personagens-biblicos",
+      "resumo": "Jovem judia que se torna rainha da Pérsia e arrisca a própria vida para salvar seu povo do extermínio planejado pelo ministro Hamã.",
+      "corpo": "Órfã criada pelo primo Mardoqueu, Ester é escolhida rainha do império persa pelo rei Assuero sem que este soubesse de sua origem judaica (Et 2,7-17). Quando o poderoso ministro Hamã, ofendido por Mardoqueu recusar-se a prostrar-se diante dele, obtém do rei um decreto para exterminar todos os judeus do reino, Mardoqueu pede a Ester que interceda, advertindo-a de que talvez ela tenha chegado à realeza \"para um momento como este\" (Et 4,14).\n\nApós jejuar com seu povo, Ester se apresenta ao rei sem ser chamada — gesto que poderia custar-lhe a vida — e, em dois banquetes cuidadosamente preparados, denuncia o plano de Hamã, que acaba executado na forca que preparara para Mardoqueu (Et 5-7). Como o decreto original não podia ser revogado, um novo édito permite aos judeus se defenderem, e a vitória é celebrada até hoje na festa judaica de Purim (Et 9). O Livro de Ester é o único do Antigo Testamento hebraico que não menciona diretamente o nome de Deus, mas sua providência é lida em cada reviravolta da narrativa.",
+      "tags": [
+        "Livro de Ester",
+        "Pérsia",
+        "Purim",
+        "coragem"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Edwin_Long_-_Queen_Esther_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "tipo": "mulher",
+      "testamento": "antigo",
+      "referencia_biblica": "Livro de Ester",
+      "fontes": [
+        "Livro de Ester"
+      ]
+    },
+    {
+      "id": "personagens-biblicos:jonas",
+      "slug": "jonas",
+      "titulo": "Jonas",
+      "categoria": "personagens-biblicos",
+      "resumo": "Profeta que foge da missão de pregar em Nínive, é engolido por um grande peixe e, depois de arrepender-se, vê a cidade inimiga converter-se.",
+      "corpo": "Enviado por Deus a anunciar a conversão à grande cidade de Nínive, capital do temido Império Assírio, Jonas foge na direção oposta, embarcando para Társis. Durante a viagem, uma tempestade ameaça o navio; lançado ao mar por sorte, é engolido por um \"grande peixe\" (o texto hebraico fala em \"dag gadol\", não especificamente uma baleia), em cujo ventre passa três dias e três noites até se arrepender e ser devolvido em terra seca (Jon 1-2).\n\nDesta vez Jonas obedece e prega em Nínive, que se converte inteira, do rei ao último habitante, com jejum e penitência — para desagrado do próprio profeta, que preferia ver a cidade inimiga castigada e não perdoada (Jon 3-4). O livro termina com uma pergunta de Deus a Jonas sobre sua falta de compaixão, deixando em aberto sua resposta. Jesus cita o \"sinal de Jonas\" — os três dias no ventre do peixe — como figura antecipada de sua própria morte e ressurreição (Mt 12,39-40).",
+      "tags": [
+        "Livro de Jonas",
+        "Nínive",
+        "profecia",
+        "conversão"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Sistine_jonah.jpg",
+      "imagem_credito": null,
+      "tipo": "profeta",
+      "testamento": "antigo",
+      "referencia_biblica": "Livro de Jonas; Mateus 12,39-41",
+      "fontes": [
+        "Livro de Jonas",
+        "Mateus 12,39-41"
+      ]
+    },
+    {
+      "id": "personagens-biblicos:ezequiel",
+      "slug": "ezequiel",
+      "titulo": "Ezequiel",
+      "categoria": "personagens-biblicos",
+      "resumo": "Profeta e sacerdote que exerceu seu ministério entre os judeus exilados na Babilônia, anunciando juízo e, depois, a restauração de Israel.",
+      "corpo": "Sacerdote levado ao exílio junto com outros judeus na primeira deportação para a Babilônia, Ezequiel recebe seu chamado profético por volta de 593 a.C., numa visão impressionante do trono de Deus sobre uma carruagem de seres alados (Ez 1). Antes da queda de Jerusalém em 586 a.C., anuncia com gestos simbólicos dramáticos — como deitar-se longos dias sobre um dos lados ou cortar e queimar os próprios cabelos — o castigo iminente sobre a cidade infiel (Ez 4-5).\n\nDepois da destruição do templo, o tom de sua pregação muda para a esperança: é dele a célebre visão do vale de ossos secos, que se recompõem, recebem carne e são reanimados pelo sopro de Deus, imagem da futura restauração de Israel (Ez 37,1-14). Ezequiel também descreve em detalhe um templo escatológico reconstruído (Ez 40-48) e desenvolve a imagem do \"coração de carne\" que Deus dará ao seu povo em lugar do \"coração de pedra\" (Ez 36,26), texto lido pela tradição cristã como anúncio da renovação interior trazida pela graça.",
+      "tags": [
+        "profecia",
+        "exílio da Babilônia",
+        "vale dos ossos secos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Ezekiel.jpg",
+      "imagem_credito": null,
+      "tipo": "profeta",
+      "testamento": "antigo",
+      "referencia_biblica": "Livro de Ezequiel",
+      "fontes": [
+        "Livro de Ezequiel"
+      ]
+    },
+    {
+      "id": "personagens-biblicos:rebeca",
+      "slug": "rebeca",
+      "titulo": "Rebeca",
+      "categoria": "personagens-biblicos",
+      "resumo": "Esposa de Isaac e mãe dos gêmeos Jacó e Esaú, escolhida por um sinal junto a um poço para continuar a linhagem da aliança.",
+      "corpo": "Sobrinha-neta de Abraão, Rebeca é escolhida como esposa de Isaac depois que o servo de Abraão, enviado à terra natal do patriarca, pede a Deus um sinal: que a jovem que lhe oferecesse água a ele e a seus camelos fosse a destinada. Rebeca cumpre exatamente esse sinal junto ao poço, e aceita partir de imediato para desposar Isaac, que ela nunca vira (Gn 24).\n\nDepois de anos de esterilidade, Rebeca dá à luz gêmeos que já lutam no seu ventre — Esaú e Jacó —, sobre os quais recebe o oráculo de que \"o mais velho servirá o mais novo\" (Gn 25,21-23). É Rebeca quem, mais tarde, orienta e ajuda Jacó, seu filho preferido, a obter por engano a bênção paterna destinada ao primogênito Esaú (Gn 27), episódio decisivo — ainda que moralmente ambíguo — para que a promessa da aliança passasse por Jacó, futuro Israel.",
+      "tags": [
+        "Gênesis",
+        "patriarcas",
+        "Isaac",
+        "Jacó e Esaú"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Giuseppe_Molteni_-_Rebecca_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "tipo": "mulher",
+      "testamento": "antigo",
+      "referencia_biblica": "Gênesis 24-27",
+      "fontes": [
+        "Gênesis 24",
+        "Gênesis 27"
+      ]
+    },
+    {
+      "id": "personagens-biblicos:raquel",
+      "slug": "raquel",
+      "titulo": "Raquel",
+      "categoria": "personagens-biblicos",
+      "resumo": "Esposa mais amada de Jacó e mãe de José e Benjamim, por quem Jacó trabalhou catorze anos ao serviço de seu pai Labão.",
+      "corpo": "Filha caçula de Labão e prima de Jacó, Raquel é descrita como \"formosa de porte e de rosto\" (Gn 29,17), e Jacó se compromete a trabalhar sete anos por seu pai para desposá-la. Na noite das núpcias, porém, Labão substitui a noiva por sua irmã mais velha, Lia, obrigando Jacó a trabalhar outros sete anos para finalmente casar-se também com Raquel (Gn 29,15-30).\n\nEnquanto Lia dá à luz vários filhos, Raquel permanece estéril por muito tempo, até que Deus \"se lembrou dela\" e ela concebe José (Gn 30,22-24), que se tornaria figura central da história de salvação ao preservar seus irmãos no Egito. Anos depois, Raquel morre ao dar à luz seu segundo filho, Benjamim, sendo sepultada perto de Belém (Gn 35,16-20) — um local venerado até hoje como o Túmulo de Raquel. Sua figura é evocada com pungência pelo profeta Jeremias, e o Evangelho de Mateus cita essa mesma passagem a propósito do massacre dos inocentes ordenado por Herodes: \"Ouviu-se em Ramá uma voz [...]: era Raquel chorando por seus filhos\" (Mt 2,18; cf. Jr 31,15).",
+      "tags": [
+        "Gênesis",
+        "Jacó",
+        "José do Egito",
+        "matriarcas"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "mulher",
+      "testamento": "antigo",
+      "referencia_biblica": "Gênesis 29-35",
+      "fontes": [
+        "Gênesis 29-35",
+        "Mateus 2,18"
+      ]
+    },
+    {
+      "id": "personagens-biblicos:betsabe",
+      "slug": "betsabe",
+      "titulo": "Betsabé",
+      "categoria": "personagens-biblicos",
+      "resumo": "Esposa de Urias, o hitita, com quem o rei Davi cometeu adultério; mais tarde tornou-se esposa de Davi e mãe do rei Salomão.",
+      "corpo": "Enquanto seu marido Urias, oficial do exército, estava em campanha, Davi a vê tomando banho, manda chamá-la e comete adultério com ela; ao saber que Betsabé está grávida, o rei tenta encobrir o fato e, não conseguindo, ordena que Urias seja colocado na linha de frente da batalha para morrer (2Sm 11). O profeta Natã confronta Davi com a parábola da ovelha do pobre, levando-o a reconhecer publicamente seu pecado (2Sm 12,1-13).\n\nDepois da morte do primeiro filho nascido dessa união, Betsabé se torna esposa legítima de Davi e mãe de Salomão (2Sm 12,24). Já viúva de Davi, é ela quem intervém decisivamente junto ao rei moribundo para garantir que Salomão, e não seu irmão mais velho Adonias, herdasse o trono (1Rs 1,11-31), tornando-se assim rainha-mãe de um dos maiores reis de Israel. Seu nome aparece também na genealogia de Jesus em Mateus, referida discretamente como \"a mulher de Urias\" (Mt 1,6).",
+      "tags": [
+        "2 Samuel",
+        "Davi",
+        "Salomão",
+        "genealogia de Jesus"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "mulher",
+      "testamento": "antigo",
+      "referencia_biblica": "2 Samuel 11-12; 1 Reis 1",
+      "fontes": [
+        "2 Samuel 11-12",
+        "1 Reis 1",
+        "Mateus 1,6"
+      ]
+    },
+    {
+      "id": "personagens-biblicos:naama-o-sirio",
+      "slug": "naama-o-sirio",
+      "titulo": "Naamã, o Sírio",
+      "categoria": "personagens-biblicos",
+      "resumo": "Comandante do exército da Síria, curado da lepra pelo profeta Eliseu depois de mergulhar sete vezes no rio Jordão.",
+      "corpo": "Naamã era um general respeitado do exército sírio, \"homem grande diante do seu senhor\", mas leproso (2Rs 5,1). Por sugestão de uma jovem israelita, serva de sua esposa, capturada em uma incursão, ele procura o profeta Eliseu em Israel em busca de cura. Eliseu, sem sequer sair de casa para recebê-lo, manda um mensageiro dizer-lhe apenas que se lave sete vezes no rio Jordão (2Rs 5,2-10).\n\nOfendido por não receber um rito mais solene e por ser mandado a um rio que considerava inferior aos rios de seu país, Naamã só obedece depois da insistência de seus próprios servos — e, ao emergir da sétima imersão, sua carne fica \"como a de uma criancinha\", completamente purificada (2Rs 5,11-14). Naamã reconhece então que \"não há Deus em toda a terra, senão em Israel\" (2Rs 5,15), e Eliseu recusa qualquer presente pela cura, sublinhando que a graça de Deus não se compra. Jesus cita este episódio na sinagoga de Nazaré como exemplo de que a misericórdia de Deus se estende também aos estrangeiros (Lc 4,27).",
+      "tags": [
+        "2 Reis",
+        "Eliseu",
+        "lepra",
+        "rio Jordão"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "outro",
+      "testamento": "antigo",
+      "referencia_biblica": "2 Reis 5",
+      "fontes": [
+        "2 Reis 5",
+        "Lucas 4,27"
+      ]
+    },
+    {
+      "id": "personagens-biblicos:gideao",
+      "slug": "gideao",
+      "titulo": "Gideão",
+      "categoria": "personagens-biblicos",
+      "resumo": "Juiz de Israel que, com apenas trezentos homens, derrota o exército midianita, confiando não na força militar, mas no poder de Deus.",
+      "corpo": "Numa época em que os midianitas oprimiam Israel havia sete anos, destruindo colheitas e rebanhos, um anjo aparece a Gideão, um agricultor humilde, chamando-o de \"homem forte e valente\" e enviando-o para libertar seu povo (Jz 6,11-16). Inseguro, Gideão pede a Deus sinais de confirmação, entre eles o célebre teste do velo de lã, ora molhado ora seco, enquanto o solo ao redor permanecia do jeito oposto (Jz 6,36-40).\n\nDeus reduz deliberadamente o exército de Gideão de trinta e dois mil para apenas trezentos homens, \"para que Israel não se glorie contra mim, dizendo: A minha mão me livrou\" (Jz 7,2). Com esses trezentos homens, trombetas e cântaros com tochas escondidas, Gideão desorienta o acampamento midianita durante a noite e provoca sua debandada em pânico (Jz 7,16-22). Sua história, narrada nos capítulos 6 a 8 do Livro dos Juízes, tornou-se exemplo clássico de que a vitória de Israel depende da fé em Deus, e não do tamanho das forças humanas.",
+      "tags": [
+        "Livro dos Juízes",
+        "midianitas",
+        "fé"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Gideon-judge.jpg",
+      "imagem_credito": null,
+      "tipo": "outro",
+      "testamento": "antigo",
+      "referencia_biblica": "Juízes 6-8",
+      "fontes": [
+        "Juízes 6-8"
+      ]
+    },
+    {
+      "id": "personagens-biblicos:ciro-o-grande",
+      "slug": "ciro-o-grande",
+      "titulo": "Ciro, o Grande",
+      "categoria": "personagens-biblicos",
+      "resumo": "Rei da Pérsia que conquistou a Babilônia e, por decreto, permitiu o retorno dos judeus exilados e a reconstrução do templo de Jerusalém.",
+      "corpo": "Ciro II governou o Império Persa entre cerca de 559 e 530 a.C. e, ao conquistar a Babilônia em 539 a.C., pôs fim ao domínio babilônico sobre os povos exilados, entre eles os judeus deportados desde a destruição de Jerusalém em 586 a.C. Logo em seu primeiro ano de governo sobre a Babilônia, emitiu um decreto autorizando os judeus a voltarem à sua terra e a reconstruírem o templo, devolvendo inclusive os objetos sagrados que Nabucodonosor havia levado (Ed 1,1-11).\n\nO que torna Ciro singular entre os personagens bíblicos é ser um rei pagão explicitamente chamado por Deus de \"meu pastor\" e até de \"ungido\" (mashiah) pelo profeta Isaías, cerca de um século antes de seu nascimento: \"Assim diz o Senhor a Ciro, seu ungido, [...] eu te chamei pelo teu nome\" (Is 44,28; 45,1). Para a tradição judaico-cristã, Ciro é assim apresentado como instrumento da providência divina mesmo sem conhecer o Deus de Israel, cumprindo um papel decisivo no fim do exílio babilônico e no início da reconstrução da vida religiosa judaica.",
+      "tags": [
+        "exílio da Babilônia",
+        "Pérsia",
+        "Esdras",
+        "Isaías"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Cyrus_II_%28The_Great%29.jpg",
+      "imagem_credito": null,
+      "tipo": "rei",
+      "testamento": "antigo",
+      "referencia_biblica": "Esdras 1; Isaías 44,28; 45,1",
+      "fontes": [
+        "Esdras 1",
+        "Isaías 44,28",
+        "Isaías 45,1"
+      ]
+    },
+    {
+      "id": "personagens-biblicos:simao-de-cirene",
+      "slug": "simao-de-cirene",
+      "titulo": "Simão de Cirene",
+      "categoria": "personagens-biblicos",
+      "resumo": "Homem forçado pelos soldados romanos a ajudar Jesus a carregar a cruz no caminho do Calvário.",
+      "corpo": "Os três Evangelhos sinóticos registram que, a caminho do Gólgota, os soldados romanos obrigaram um homem que vinha do campo, Simão, natural de Cirene (região do norte da África, atual Líbia), a carregar a cruz de Jesus (Mt 27,32; Mc 15,21; Lc 23,26). Marcos acrescenta um detalhe pessoal incomum para um personagem secundário: identifica-o como \"pai de Alexandre e de Rufo\" (Mc 15,21), nomes que sugerem que os dois filhos de Simão eram conhecidos da comunidade cristã para a qual Marcos escrevia.\n\nA tradição cristã viu nesse gesto obrigatório, imposto pela força, uma imagem viva do chamado de Jesus a \"tomar a cruz\" e segui-lo (Mt 16,24), e por isso Simão de Cirene tornou-se figura central da quinta estação da Via-Sacra. Embora nada mais se saiba com certeza histórica sobre sua vida, alguns estudiosos associam seu filho Rufo ao \"Rufo, eleito no Senhor\", saudado por Paulo em Romanos 16,13, sugerindo que a família de Simão pode ter se tornado parte da primeira comunidade cristã.",
+      "tags": [
+        "Via-Sacra",
+        "Paixão de Cristo",
+        "Cirene"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Limours_Saint-Pierre_303.JPG",
+      "imagem_credito": null,
+      "tipo": "outro",
+      "testamento": "novo",
+      "referencia_biblica": "Mateus 27,32; Marcos 15,21; Lucas 23,26",
+      "fontes": [
+        "Marcos 15,21",
+        "Lucas 23,26",
+        "Romanos 16,13"
+      ]
     }
   ]
 }

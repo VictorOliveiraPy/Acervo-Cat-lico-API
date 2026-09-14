@@ -440,6 +440,194 @@
       "imagem_credito": null,
       "tipo": "cura",
       "referencia_biblica": "Marcos 7,31-37"
+    },
+    {
+      "id": "milagres-de-jesus:exorcismo-sinagoga-cafarnaum",
+      "slug": "exorcismo-sinagoga-cafarnaum",
+      "titulo": "O Exorcismo na Sinagoga de Cafarnaum",
+      "categoria": "milagres-de-jesus",
+      "resumo": "No primeiro sábado de seu ministério em Cafarnaum, Jesus expulsa um espírito imundo que reconhece nele o \"Santo de Deus\".",
+      "corpo": "Logo no início do Evangelho de Marcos, Jesus entra num sábado na sinagoga de Cafarnaum e começa a ensinar, \"como quem tem autoridade, e não como os escribas\" (Mc 1,22). No meio da assembleia grita um homem \"possuído de um espírito imundo\", que reconhece imediatamente a identidade de Jesus: \"Sei quem és: o Santo de Deus!\" (Mc 1,24). Jesus repreende o espírito com uma ordem seca — \"Cala-te, e sai desse homem!\" — e o demônio sai convulsionando o homem, mas sem lhe causar dano (Mc 1,25-26).\n\nÉ o primeiro milagre narrado no Evangelho de Marcos, e a reação da multidão une espanto pelo ensino e pelo poder: \"Que é isto? Uma doutrina nova, dada com autoridade! Ele ordena até aos espíritos imundos, e eles lhe obedecem\" (Mc 1,27). Lucas relata o mesmo episódio (Lc 4,31-37). Marcos observa ainda que os próprios demônios sabiam quem Jesus era, mas ele lhes proibia falar — o chamado \"segredo messiânico\", recorrente nos exorcismos deste Evangelho.",
+      "tags": [
+        "Cafarnaum",
+        "exorcismo",
+        "sábado",
+        "sinagoga"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Christus_heilt_einen_Besessenen.jpg",
+      "imagem_credito": null,
+      "tipo": "exorcismo",
+      "referencia_biblica": "Marcos 1,21-28; Lucas 4,31-37",
+      "fontes": [
+        "Marcos 1,21-28",
+        "Lucas 4,31-37"
+      ]
+    },
+    {
+      "id": "milagres-de-jesus:paralitico-de-betesda",
+      "slug": "paralitico-de-betesda",
+      "titulo": "O Paralítico do Tanque de Betesda",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Junto ao tanque de Betesda, em Jerusalém, Jesus cura um homem enfermo havia trinta e oito anos, apenas com uma palavra, num dia de sábado.",
+      "corpo": "Perto da porta das Ovelhas, em Jerusalém, havia um tanque de cinco pórticos chamado Betesda, onde se reunia \"grande número de enfermos, cegos, coxos e paralíticos\" (Jo 5,3), à espera de um movimento nas águas ao qual a tradição popular atribuía poder curativo para quem entrasse primeiro. Ali Jesus encontra um homem doente havia trinta e oito anos e lhe pergunta: \"Queres ficar são?\" O homem explica que nunca consegue chegar a tempo à água; Jesus então ordena, sem tocar nele nem usar qualquer meio: \"Levanta-te, toma o teu leito e anda\" — e o homem foi imediatamente curado (Jo 5,5-9).\n\nO relato sublinha que aquele dia era sábado, o que gera de imediato conflito com as autoridades judaicas, pois o homem curado carregava sua maca em dia de repouso (Jo 5,9-10). O milagre se torna assim ocasião para Jesus afirmar sua relação única com o Pai — \"Meu Pai trabalha até agora, e eu também trabalho\" (Jo 5,17) —, uma das afirmações que, segundo João, levaram as autoridades a procurar matá-lo.",
+      "tags": [
+        "Betesda",
+        "Jerusalém",
+        "paralisia",
+        "sábado"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Palma_il_Giovane_001.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "João 5,1-9",
+      "fontes": [
+        "João 5,1-9"
+      ]
+    },
+    {
+      "id": "milagres-de-jesus:cura-dos-dois-cegos-de-cafarnaum",
+      "slug": "cura-dos-dois-cegos-de-cafarnaum",
+      "titulo": "A Cura de Dois Cegos em Cafarnaum",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Dois cegos seguem Jesus clamando \"Filho de Davi, tem piedade de nós\" e recebem a vista de volta em recompensa à sua fé.",
+      "corpo": "Depois de ressuscitar a filha de um chefe da sinagoga, Jesus é seguido por dois cegos que gritam repetidamente: \"Filho de Davi, tem piedade de nós!\" (Mt 9,27), invocando-o já com um título messiânico. Ao chegar em casa, Jesus os interpela diretamente sobre sua fé: \"Credes que posso fazer isso?\" Diante da resposta afirmativa, ele lhes toca os olhos dizendo: \"Faça-se convosco segundo a vossa fé\" — e os olhos deles se abrem (Mt 9,28-30).\n\nComo em outras curas semelhantes, Jesus ordena severamente que não contem a ninguém o que aconteceu, mas os dois homens espalham a notícia por toda a região (Mt 9,30-31). O episódio, próprio do Evangelho de Mateus, reforça um padrão que se repete nas curas de cegos nos Evangelhos: a fé pessoal como condição explicitamente associada ao milagre, e não apenas a compaixão de Jesus.",
+      "tags": [
+        "cegueira",
+        "fé",
+        "Filho de Davi",
+        "Cafarnaum"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Mateus 9,27-31",
+      "fontes": [
+        "Mateus 9,27-31"
+      ]
+    },
+    {
+      "id": "milagres-de-jesus:cura-do-mudo-endemoninhado",
+      "slug": "cura-do-mudo-endemoninhado",
+      "titulo": "A Cura do Mudo Endemoninhado",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus liberta um homem mudo por causa de um demônio, que passa a falar diante do espanto da multidão e da acusação hostil dos fariseus.",
+      "corpo": "Logo depois da cura dos dois cegos, trazem a Jesus \"um mudo, endemoninhado. Expulso o demônio, o mudo falou\" (Mt 9,32-33), um milagre narrado de modo muito conciso, mas com reações fortemente contrastantes. A multidão, maravilhada, exclama: \"Nunca se viu coisa semelhante em Israel!\" (Mt 9,33), reconhecendo no episódio um sinal extraordinário.\n\nOs fariseus, ao contrário, não negam o fato, mas atacam sua origem: \"É pelo príncipe dos demônios que ele expulsa os demônios\" (Mt 9,34), acusação que Jesus rebaterá mais adiante de forma mais desenvolvida (Mt 12,22-30) diante de um caso semelhante. O episódio marca assim, já cedo no Evangelho de Mateus, a linha divisória entre os que veem em Jesus a ação de Deus e os que preferem atribuí-la a forças malignas.",
+      "tags": [
+        "exorcismo",
+        "mudez",
+        "fariseus"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "exorcismo",
+      "referencia_biblica": "Mateus 9,32-34",
+      "fontes": [
+        "Mateus 9,32-34"
+      ]
+    },
+    {
+      "id": "milagres-de-jesus:cego-de-betsaida",
+      "slug": "cego-de-betsaida",
+      "titulo": "O Cego de Betsaida",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Único milagre dos Evangelhos realizado em duas etapas: Jesus leva um cego para fora da aldeia, toca-lhe os olhos duas vezes até que ele veja com clareza.",
+      "corpo": "Em Betsaida, trazem a Jesus um cego pedindo que o toque. Jesus o leva pela mão para fora da aldeia, põe saliva em seus olhos, impõe-lhe as mãos e pergunta se vê alguma coisa. O homem responde: \"Vejo homens, pois os vejo como árvores, andando\" (Mc 8,22-24) — uma visão ainda parcial e confusa. Jesus então repete o gesto, pondo de novo as mãos sobre seus olhos, e só então \"ele viu claramente e ficou restabelecido, e via tudo com nitidez\" (Mc 8,25).\n\nÉ o único milagre nos quatro Evangelhos em que a cura de Jesus ocorre gradualmente, em vez de instantaneamente, o que intrigou desde sempre os comentadores: para muitos, o relato ilustra simbolicamente o próprio itinerário da fé dos discípulos naquele momento da narrativa de Marcos — que também enxergam Jesus, mas ainda de forma parcial —, situando-se estrategicamente pouco antes da confissão de Pedro em Cesareia de Filipe (Mc 8,27-30). Como em outros milagres, Jesus manda o homem voltar direto para casa, sem entrar na aldeia (Mc 8,26).",
+      "tags": [
+        "Betsaida",
+        "cegueira",
+        "fé gradual"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Marcos 8,22-26",
+      "fontes": [
+        "Marcos 8,22-26"
+      ]
+    },
+    {
+      "id": "milagres-de-jesus:moeda-na-boca-do-peixe",
+      "slug": "moeda-na-boca-do-peixe",
+      "titulo": "A Moeda na Boca do Peixe",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Para pagar o imposto do templo sem escandalizar ninguém, Jesus manda Pedro pescar um peixe que trará na boca exatamente a moeda necessária.",
+      "corpo": "Em Cafarnaum, cobradores do imposto do templo (o didracma) perguntam a Pedro se seu mestre o paga. Pedro responde que sim, mas Jesus, antecipando-se ao assunto, observa que os filhos dos reis estão isentos de tributos — sugerindo que, sendo Filho de Deus, ele não seria obrigado a pagar o imposto do templo. Ainda assim, \"para não os escandalizarmos\", manda Pedro lançar o anzol no mar: o primeiro peixe que fisgar terá na boca uma moeda — um estáter, valor exato de duas didracmas —, que deverá ser entregue \"por mim e por ti\" (Mt 17,24-27).\n\nÉ um milagre registrado apenas por Mateus, o evangelista que fora publicano (cobrador de impostos), o que talvez explique seu interesse particular pelo episódio. Combina dois elementos característicos dos milagres de natureza de Jesus — o domínio sobre os elementos, aqui a providência que dispõe até o conteúdo da boca de um peixe — com um ensinamento sobre liberdade interior e prudência pastoral diante das instituições religiosas.",
+      "tags": [
+        "Cafarnaum",
+        "imposto do templo",
+        "Pedro",
+        "milagre de natureza"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Peter_Paul_Rubens_-_Peter_Finding_the_Coin_in_the_Mouth_of_the_Fish.jpg",
+      "imagem_credito": null,
+      "tipo": "natureza",
+      "referencia_biblica": "Mateus 17,24-27",
+      "fontes": [
+        "Mateus 17,24-27"
+      ]
+    },
+    {
+      "id": "milagres-de-jesus:cura-do-hidropico",
+      "slug": "cura-do-hidropico",
+      "titulo": "A Cura do Hidrópico no Sábado",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Convidado à casa de um fariseu num sábado, Jesus cura um homem com hidropisia diante do silêncio embaraçado dos doutores da Lei.",
+      "corpo": "Jesus entra, num sábado, na casa de um dos principais fariseus para uma refeição, \"e eles o observavam atentamente\" (Lc 14,1). Diante dele está um homem hidrópico — enfermo com acúmulo anormal de líquidos no corpo, sinal frequente de doença grave nos rins, no fígado ou no coração. Antes de agir, Jesus pergunta diretamente aos doutores da Lei e fariseus presentes: \"É lícito curar no sábado, ou não?\" Como ninguém responde, ele cura o homem e o despede (Lc 14,2-4).\n\nEm seguida, Jesus justifica o gesto com um argumento do dia a dia: \"Qual de vós, caindo um filho ou um boi num poço, não o tira logo, ainda que seja sábado?\" (Lc 14,5), e novamente ninguém consegue lhe responder (Lc 14,6). É mais um dos vários episódios em que uma cura de Jesus em sábado se torna ocasião de confronto sobre o verdadeiro sentido do preceito do descanso sagrado, que ele entende subordinado ao bem concreto da pessoa.",
+      "tags": [
+        "sábado",
+        "hidropisia",
+        "fariseus"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Lucas 14,1-6",
+      "fontes": [
+        "Lucas 14,1-6"
+      ]
+    },
+    {
+      "id": "milagres-de-jesus:cura-da-orelha-de-malco",
+      "slug": "cura-da-orelha-de-malco",
+      "titulo": "A Cura da Orelha de Malco",
+      "categoria": "milagres-de-jesus",
+      "resumo": "No momento de sua prisão no Getsêmani, Jesus cura a orelha de um servo do sumo sacerdote, ferida por um de seus discípulos, e recusa a violência armada.",
+      "corpo": "Quando a guarda enviada pelos sumos sacerdotes vem prender Jesus no horto das Oliveiras, um dos discípulos reage à força e, com uma espada, decepa a orelha direita de Malco, servo do sumo sacerdote — só o Evangelho de João dá o nome do ferido e identifica Pedro como autor do golpe (Jo 18,10). Lucas, único evangelista a registrar também a cura, narra que Jesus interveio de imediato: \"Deixai; basta!\", e, tocando a orelha do homem, curou-o (Lc 22,50-51).\n\nÉ tradicionalmente considerado o último milagre de cura realizado por Jesus antes da Paixão, e ocorre justamente no instante em que ele próprio está sendo agredido e preso — um gesto de misericórdia dirigido a quem participa de sua prisão. O episódio confirma ainda a recusa de Jesus à violência como meio de estabelecer seu Reino, coerente com sua repreensão a Pedro em Mateus: \"Guarda tua espada [...] pois todos os que empunham a espada, pela espada perecerão\" (Mt 26,52).",
+      "tags": [
+        "Getsêmani",
+        "prisão de Jesus",
+        "Malco",
+        "misericórdia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Brooklyn_Museum_-_The_Ear_of_Malchus_%28L%27oreille_de_Malchus%29_-_James_Tissot.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Lucas 22,49-51",
+      "fontes": [
+        "Lucas 22,49-51",
+        "João 18,10"
+      ]
+    },
+    {
+      "id": "milagres-de-jesus:segunda-pesca-milagrosa",
+      "slug": "segunda-pesca-milagrosa",
+      "titulo": "A Segunda Pesca Milagrosa",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Já ressuscitado, Jesus aparece a sete discípulos à beira do mar da Galileia e enche sua rede vazia com cento e cinquenta e três peixes.",
+      "corpo": "Depois da ressurreição, um grupo de discípulos — entre eles Pedro, Tomé, Natanael, Tiago e João — resolve voltar a pescar no mar da Galileia (também chamado de Tiberíades), mas passam a noite inteira sem pegar nada. Ao amanhecer, um homem que eles não reconhecem os chama da praia e manda lançar a rede do lado direito do barco; ao obedecerem, não conseguem mais recolher a rede, de tão cheia de peixes (Jo 21,1-6). É então que o discípulo amado reconhece: \"É o Senhor!\" (Jo 21,7).\n\nAo chegarem à praia, encontram Jesus preparando uma refeição com peixe e pão sobre brasas, e ele os convida a comer do que acabaram de pescar; João registra com precisão que a rede continha \"cento e cinquenta e três grandes peixes\", sem que se rompesse (Jo 21,9-11). É neste mesmo encontro que Jesus interroga Pedro três vezes sobre seu amor, confiando-lhe o cuidado do rebanho (Jo 21,15-17). A cena é geralmente distinguida da pesca milagrosa do início do ministério (Lc 5,1-11) pelo fato de, aqui, ser um Jesus ressuscitado quem chama do alto da praia, e não do interior da barca.",
+      "tags": [
+        "ressurreição",
+        "mar da Galileia",
+        "Pedro",
+        "milagre de natureza"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Anonymous_-_Miraculous_Draught_of_Fish.jpg",
+      "imagem_credito": null,
+      "tipo": "natureza",
+      "referencia_biblica": "João 21,1-14",
+      "fontes": [
+        "João 21,1-14"
+      ]
     }
   ]
 }

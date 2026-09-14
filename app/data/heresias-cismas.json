@@ -292,6 +292,207 @@
       "tipo": "heresia",
       "seculo": "XX",
       "condenacao": "Encíclica Pascendi Dominici Gregis e decreto Lamentabili Sane (1907)"
+    },
+    {
+      "id": "heresias-cismas:donatismo",
+      "slug": "donatismo",
+      "titulo": "Donatismo",
+      "categoria": "heresias-cismas",
+      "resumo": "Cisma e heresia do norte da África que negava a validade dos sacramentos administrados por clérigos considerados \"traditores\" durante as perseguições romanas.",
+      "corpo": "Surgido em Cartago no início do século IV, o donatismo — que deve seu nome ao bispo Donato — nasceu de uma disputa concreta: parte do clero africano recusava reconhecer como válida a eleição do bispo Ceciliano, acusando-o e a outro bispo, Félix de Aptunga, de terem sido \"traditores\" durante a Grande Perseguição de Diocleciano, isto é, de terem entregado às autoridades romanas as Escrituras Sagradas para serem destruídas. Dessa acusação, os donatistas concluíram uma doutrina mais ampla: que um sacerdote ou bispo em pecado grave, ou ordenado por alguém em pecado grave, não poderia administrar validamente os sacramentos.\n\nO principal opositor teológico do donatismo foi Agostinho de Hipona, que desenvolveu em resposta o princípio de que Cristo, e não o ministro humano, é o verdadeiro autor da eficácia dos sacramentos — de modo que a santidade pessoal do padre ou bispo não condiciona sua validade. O movimento foi condenado já pelo Concílio de Arles, em 314, mas persistiu com força até ser suprimido definitivamente após a Conferência de Cartago de 411, convocada sob pressão imperial e com participação decisiva de Agostinho.",
+      "tags": [
+        "Agostinho de Hipona",
+        "Cartago",
+        "traditores",
+        "validade dos sacramentos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "heresia",
+      "seculo": "IV-V",
+      "condenacao": "Concílio de Arles (314) e Conferência de Cartago (411)"
+    },
+    {
+      "id": "heresias-cismas:priscilianismo",
+      "slug": "priscilianismo",
+      "titulo": "Priscilianismo",
+      "categoria": "heresias-cismas",
+      "resumo": "Movimento de origem hispânica e tendência dualista, cujo fundador, Prisciliano de Ávila, foi o primeiro cristão executado como herege pelo poder civil.",
+      "corpo": "Prisciliano, bispo de Ávila, na Hispânia romana, desenvolveu, a partir de influências gnósticas e maniqueístas, uma doutrina que opunha radicalmente a pureza da alma à natureza pecaminosa do corpo material, além de posições consideradas heterodoxas sobre a Trindade. Seu rigorismo ascético e sua pregação atraíram seguidores entre o clero e leigos da região, mas também opositores entre outros bispos hispânicos.\n\nAcusado formalmente de heresia e de práticas de magia perante o usurpador imperial Magno Máximo, Prisciliano foi condenado e decapitado em Tréveris, em 385, junto de vários seguidores — tornando-se o primeiro cristão da história a ser executado pelo poder civil sob acusação de heresia, num episódio que gerou forte protesto de figuras como o papa Sirício, Ambrósio de Milão e Martinho de Tours, para quem o uso da pena capital em matéria de fé era inaceitável. O priscilianismo sobreviveu como movimento por pelo menos dois séculos na Península Ibérica, sendo condenado em sucessivos concílios hispânicos, entre eles o Primeiro Concílio de Braga, em 561.",
+      "tags": [
+        "Prisciliano",
+        "Hispânia",
+        "dualismo",
+        "primeiro herege executado"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "heresia",
+      "seculo": "IV-VI",
+      "condenacao": "Execução de Prisciliano (385); condenação doutrinal reiterada pelo I Concílio de Braga (561)"
+    },
+    {
+      "id": "heresias-cismas:apolinarismo",
+      "slug": "apolinarismo",
+      "titulo": "Apolinarismo",
+      "categoria": "heresias-cismas",
+      "resumo": "Heresia que, ao enfatizar a divindade de Cristo contra o arianismo, acabou por negar-lhe uma alma humana racional plena.",
+      "corpo": "Apolinário, bispo de Laodiceia e ardoroso opositor do arianismo, propôs uma explicação da união entre a divindade e a humanidade em Cristo que, em sua ânsia de afirmar a unidade da pessoa divina, acabou negando que Cristo tivesse uma mente ou alma racional humana plena: em seu esquema, o Logos divino teria substituído essa dimensão racional da alma humana. A consequência teológica dessa posição era grave, pois comprometia a integralidade da natureza humana assumida por Cristo — e, com ela, a própria lógica da salvação, segundo a máxima patrística de que \"o que não foi assumido não foi redimido\".\n\nPadres como Atanásio de Alexandria, Basílio de Cesareia, Gregório de Nissa e Gregório de Nazianzo se opuseram formalmente à doutrina, que foi condenada como heresia pelo Primeiro Concílio de Constantinopla, em 381 — o mesmo concílio que definiu a plena divindade do Espírito Santo. Apesar de condenado, o apolinarismo deixou ecos em controvérsias cristológicas posteriores, sobretudo no debate que levaria ao monofisismo.",
+      "tags": [
+        "Apolinário de Laodiceia",
+        "Constantinopla I",
+        "cristologia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "heresia",
+      "seculo": "IV",
+      "condenacao": "Concílio de Constantinopla I (381)"
+    },
+    {
+      "id": "heresias-cismas:macedonianismo",
+      "slug": "macedonianismo",
+      "titulo": "Macedonianismo",
+      "categoria": "heresias-cismas",
+      "resumo": "Heresia pneumatomaca que negava a plena divindade do Espírito Santo, considerando-o uma criatura subordinada ao Pai e ao Filho.",
+      "corpo": "Associado ao nome de Macedônio, bispo ariano de Constantinopla deposto em 360, o macedonianismo — cujos seguidores também eram chamados \"pneumatômacos\", ou seja, \"combatentes do Espírito\" — não negava propriamente a consubstancialidade entre o Pai e o Filho já definida em Niceia, mas estendia à Terceira Pessoa da Trindade um raciocínio semelhante ao ariano: o Espírito Santo seria uma criatura, subordinada tanto ao Pai quanto ao Filho, e não plenamente divino.\n\nA questão foi resolvida no Primeiro Concílio de Constantinopla (381), que, depois de afastar os bispos macedonianos presentes, condenou formalmente a doutrina e ampliou o Credo niceno com a afirmação de que o Espírito Santo é \"Senhor e doador da vida, que procede do Pai, e com o Pai e o Filho é adorado e glorificado\" — formulação que passou a integrar o Credo niceno-constantinopolitano recitado até hoje na liturgia.",
+      "tags": [
+        "Macedônio de Constantinopla",
+        "Espírito Santo",
+        "Constantinopla I"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "heresia",
+      "seculo": "IV",
+      "condenacao": "Concílio de Constantinopla I (381)"
+    },
+    {
+      "id": "heresias-cismas:semipelagianismo",
+      "slug": "semipelagianismo",
+      "titulo": "Semipelagianismo",
+      "categoria": "heresias-cismas",
+      "resumo": "Tentativa de meio-termo entre o agostinianismo e o pelagianismo, defendendo que o início da fé poderia partir do esforço humano, sem depender antes da iniciativa da graça.",
+      "corpo": "Depois da condenação do pelagianismo, monges do sul da Gália, entre eles João Cassiano, buscaram um caminho intermediário entre a doutrina de Agostinho sobre a graça e a posição de Pelágio: reconheciam, com Agostinho, que o homem não pode alcançar a salvação por si só, mas sustentavam que o primeiro impulso, o início da fé (o chamado \"initium fidei\"), poderia partir da livre iniciativa humana, sendo a graça divina uma resposta e um reforço a esse movimento inicial, e não sua causa primeira.\n\nA controvérsia foi resolvida no Segundo Concílio de Orange, em 529, que reafirmou a posição agostiniana da absoluta prioridade e necessidade da graça divina em todo o processo de salvação — incluindo seu próprio começo —, condenando ao mesmo tempo a ideia de uma predestinação divina para o mal. A decisão de Orange, confirmada pelo papa Bonifácio II, tornou-se referência doutrinal duradoura sobre a relação entre graça e liberdade humana.",
+      "tags": [
+        "João Cassiano",
+        "graça",
+        "Concílio de Orange"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "heresia",
+      "seculo": "V-VI",
+      "condenacao": "Segundo Concílio de Orange (529)"
+    },
+    {
+      "id": "heresias-cismas:monotelismo",
+      "slug": "monotelismo",
+      "titulo": "Monotelismo",
+      "categoria": "heresias-cismas",
+      "resumo": "Heresia que atribuía a Cristo uma só vontade, a divina, numa tentativa de conciliação com os monofisistas que comprometia a integridade de sua natureza humana.",
+      "corpo": "No século VII, num esforço político-teológico para reconciliar os monofisistas orientais com a fé de Calcedônia, o patriarca Sérgio I de Constantinopla propôs que, embora Cristo possuísse de fato duas naturezas, divina e humana, nele haveria uma só vontade (do grego \"monos\", único, e \"thelema\", vontade) — pela identificação perfeita entre a vontade humana e a vontade divina. A proposta, batizada monotelismo, foi inicialmente acolhida com simpatia por alguns papas, entre eles Honório I, o que geraria controvérsia teológica posterior sobre o alcance de seu apoio.\n\nO Terceiro Concílio de Constantinopla (680-681) rejeitou o monotelismo como heresia, definindo que Cristo possui duas vontades e duas operações distintas, correspondentes às suas duas naturezas, com a vontade humana livremente submetida à vontade divina, sem ser por ela absorvida ou anulada. O concílio condenou nominalmente os principais defensores da doutrina, incluindo o falecido papa Honório I.",
+      "tags": [
+        "Sérgio de Constantinopla",
+        "duas vontades",
+        "Constantinopla III"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "heresia",
+      "seculo": "VII",
+      "condenacao": "Terceiro Concílio de Constantinopla (680-681)"
+    },
+    {
+      "id": "heresias-cismas:adopcionismo",
+      "slug": "adopcionismo",
+      "titulo": "Adopcionismo",
+      "categoria": "heresias-cismas",
+      "resumo": "Heresia hispânica do século VIII segundo a qual Cristo seria Filho de Deus por natureza apenas em sua divindade, sendo \"adotado\" como filho em sua humanidade.",
+      "corpo": "No século VIII, os bispos hispânicos Elipando de Toledo e Félix de Urgel reformularam uma antiga questão cristológica ao ensinar que Cristo seria Filho de Deus \"por natureza\" somente enquanto Verbo divino, mas apenas \"por adoção\" enquanto homem — distinção que, para seus críticos, dividia indevidamente a única pessoa de Cristo e comprometia a unidade entre sua divindade e sua humanidade. A doutrina, batizada adopcionismo, espalhou-se por parte da Hispânia sob domínio muçulmano e alcançou também territórios sob influência franca.\n\nTeólogos carolíngios como Alcuíno de York, Paulino de Aquileia e Teodulfo de Orleans lideraram a refutação da doutrina, que foi formalmente condenada pelo Concílio de Frankfurt, convocado pelo próprio Carlos Magno em 794, com aprovação papal. Félix de Urgel acabou deposto de sua diocese e confinado em Lyon, enquanto Elipando de Toledo, protegido pela distância do domínio islâmico, morreu sem retratar-se.",
+      "tags": [
+        "Elipando de Toledo",
+        "Félix de Urgel",
+        "Carlos Magno"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "heresia",
+      "seculo": "VIII",
+      "condenacao": "Concílio de Frankfurt (794)"
+    },
+    {
+      "id": "heresias-cismas:iconoclastia",
+      "slug": "iconoclastia",
+      "titulo": "Iconoclastia",
+      "categoria": "heresias-cismas",
+      "resumo": "Movimento que rejeitava a veneração de imagens sagradas como idolatria, chegando a promover a destruição sistemática de ícones no Império Bizantino.",
+      "corpo": "Entre os séculos VIII e IX, imperadores bizantinos como Leão III e Constantino V promoveram, por decreto, a proibição da produção de imagens religiosas e a destruição de ícones já existentes, sob a justificativa de que sua veneração equivalia a idolatria e violava o preceito bíblico contra imagens esculpidas. A posição, conhecida como iconoclastia (\"quebra de imagens\"), dividiu profundamente o Império Bizantino, opondo-se a ela sobretudo monges e parte do episcopado oriental, que defendiam a legitimidade teológica da veneração das imagens como honra prestada, através delas, ao próprio Cristo e aos santos.\n\nA controvérsia foi resolvida, num primeiro momento, pelo Segundo Concílio de Niceia, convocado pela imperatriz regente Irene em 787, que condenou a iconoclastia e restabeleceu a veneração das imagens sagradas, distinguindo-a claramente da adoração devida somente a Deus. A questão ressurgiria com força no início do século IX, sendo definitivamente encerrada apenas em 843, no episódio conhecido como o \"Triunfo da Ortodoxia\".",
+      "tags": [
+        "ícones",
+        "Império Bizantino",
+        "Niceia II"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "heresia",
+      "seculo": "VIII-IX",
+      "condenacao": "Segundo Concílio de Niceia (787); reafirmado no \"Triunfo da Ortodoxia\" (843)"
+    },
+    {
+      "id": "heresias-cismas:cisma-de-focio",
+      "slug": "cisma-de-focio",
+      "titulo": "Cisma de Fócio (863-867)",
+      "categoria": "heresias-cismas",
+      "resumo": "Ruptura entre o papa Nicolau I e o patriarca Fócio de Constantinopla, envolvendo disputas de jurisdição e o Filioque, e considerada um prenúncio direto do Cisma do Oriente de 1054.",
+      "corpo": "O cisma de Fócio nasceu de uma disputa canônica: em 858, o imperador bizantino Miguel III destituiu o patriarca Inácio de Constantinopla e nomeou em seu lugar o leigo Fócio, elevado ao patriarcado em rápida sucessão de ordens. O papa Nicolau I recusou-se a reconhecer a deposição de Inácio e, num sínodo reunido em Roma em 863, declarou Fócio ilegítimo — decisão vista no Oriente como intromissão inaceitável do bispo de Roma nos assuntos internos da Igreja de Constantinopla.\n\nFócio reagiu convocando, em 867, um concílio em Constantinopla que chegou a declarar deposto o próprio papa Nicolau I, acusando-o de heresia pela aceitação ocidental da cláusula \"Filioque\" no Credo e contestando a jurisdição romana sobre a recém-convertida Bulgária. O rompimento formal durou até a morte de Nicolau I, também em 867, quando a ascensão de um novo imperador bizantino, Basílio I, levou à deposição inicial de Fócio e a um relativo reatamento das relações — embora as tensões subjacentes sobre primado papal, Filioque e jurisdição permanecessem sem solução, antecipando o Cisma do Oriente de 1054.",
+      "tags": [
+        "Fócio",
+        "Nicolau I",
+        "Constantinopla",
+        "Filioque"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "cisma",
+      "seculo": "IX",
+      "condenacao": "Excomunhões mútuas entre Roma e Constantinopla (863-867), com reatamento parcial após a morte de Nicolau I"
+    },
+    {
+      "id": "heresias-cismas:quietismo",
+      "slug": "quietismo",
+      "titulo": "Quietismo",
+      "categoria": "heresias-cismas",
+      "resumo": "Doutrina espiritual do padre Miguel de Molinos que pregava a aniquilação total da vontade própria e o abandono passivo em Deus como via de perfeição cristã.",
+      "corpo": "O padre espanhol Miguel de Molinos, autor do influente \"Guia Espiritual\" (Roma, 1675), propôs uma via de perfeição cristã baseada no abandono passivo total da alma em Deus, chegando a sustentar que, atingido esse estado de \"quietude\" interior, o cristão poderia permanecer indiferente até mesmo diante das próprias tentações e ações, sem necessidade de resistência ativa da vontade — posição que seus críticos viam como um convite à passividade moral perigosa e ao abandono da ascese cristã tradicional.\n\nApós ser preso em Roma em 1685, Molinos abjurou publicamente suas posições em 1687, no mesmo ano em que o papa Inocêncio XI, pela constituição apostólica \"Coelestis Pastor\", condenou como heréticas sessenta e oito proposições extraídas de seus escritos. Molinos foi condenado à prisão perpétua, morrendo encarcerado em Roma em 1696. O episódio marcou o fim do quietismo como movimento organizado, embora ecos de sua espiritualidade tenham reaparecido, sob forma atenuada, em correntes místicas posteriores, como o quase-quietismo de Madame Guyon na França.",
+      "tags": [
+        "Miguel de Molinos",
+        "misticismo",
+        "Inocêncio XI"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "heresia",
+      "seculo": "XVII",
+      "condenacao": "Constituição Apostólica «Coelestis Pastor», de Inocêncio XI (1687)"
+    },
+    {
+      "id": "heresias-cismas:cisma-do-ocidente",
+      "slug": "cisma-do-ocidente",
+      "titulo": "Cisma do Ocidente (1378-1417)",
+      "categoria": "heresias-cismas",
+      "resumo": "Período em que dois, e depois três, pretendentes disputaram simultaneamente o reconhecimento como legítimo papa pela cristandade ocidental.",
+      "corpo": "Após a morte do papa Gregório XI em 1378, um grupo de cardeais franceses, insatisfeito com a eleição de Urbano VI, elegeu em seu lugar Clemente VII, que se instalou em Avinhão, enquanto Urbano permanecia em Roma — dando início a uma ruptura institucional, mais do que doutrinal, na qual reinos e províncias eclesiásticas inteiras se dividiram no reconhecimento de um ou outro pretendente. A situação se agravou em 1409, quando um concílio reunido em Pisa, na tentativa de resolver o impasse, apenas acrescentou um terceiro pretendente, sem conseguir depor os outros dois de fato.\n\nO cisma só foi encerrado pelo Concílio de Constança (1414-1418), que obteve a renúncia ou promoveu a deposição formal dos três pretendentes e elegeu, em 11 de novembro de 1417, um único papa unanimemente reconhecido, Martinho V. Diferentemente das heresias cristológicas dos primeiros séculos, o Cisma do Ocidente não envolveu propriamente um erro doutrinal declarado, mas uma ruptura de ordem jurisdicional e disciplinar sobre a legitimidade do exercício do primado petrino — e deixou como legado duradouro o debate teológico sobre a autoridade relativa do papa e do concílio ecumênico.",
+      "tags": [
+        "Concílio de Constança",
+        "Avinhão",
+        "Martinho V"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "cisma",
+      "seculo": "XIV-XV",
+      "condenacao": "Concílio de Constança (1414-1418), que depôs os três pretendentes e elegeu Martinho V"
     }
   ]
 }

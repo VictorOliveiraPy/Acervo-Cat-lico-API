@@ -145,6 +145,110 @@
       "imagem_credito": null,
       "ordem": 7,
       "fontes": []
+    },
+    {
+      "id": "novissimos:ressurreicao-dos-mortos",
+      "slug": "ressurreicao-dos-mortos",
+      "titulo": "A Ressurreição dos Mortos",
+      "categoria": "novissimos",
+      "resumo": "O artigo do Credo que professa que os corpos dos mortos ressuscitarão ao fim dos tempos, reunidos de novo às suas almas para a vida eterna ou a condenação.",
+      "corpo": "O Credo cristão professa \"a ressurreição da carne\" como artigo distinto de fé, situado logo antes de \"a vida eterna\". A doutrina ensina que, ao fim dos tempos, os corpos de todos os que morreram serão reunidos de novo às suas almas, do mesmo modo — ainda que de forma incomparavelmente superior — como o corpo de Cristo ressuscitou verdadeiramente ao terceiro dia. O Catecismo explica que \"um corpo corruptível é semeado, um corpo incorruptível ressuscita\" (cf. 1Cor 15,42-44): trata-se de um \"corpo espiritual\", transformado, e não de uma simples reanimação da vida biológica anterior.\n\nA fé na ressurreição da carne distingue-se claramente de qualquer doutrina de reencarnação: a Igreja ensina que cada pessoa vive uma única existência terrena, decidindo nela seu destino eterno, e que o mesmo corpo que cada um teve em vida — transfigurado — será reunido à alma no juízo final, seja para a glória, seja para a condenação, conforme a vida que cada um tiver vivido.\n\nEssa esperança fundamenta-se inteiramente na ressurreição de Cristo, \"primícias dos que dormem\" (1Cor 15,20): para São Paulo, se Cristo não ressuscitou, vã é a fé cristã: mas, tendo ressuscitado, garante a ressurreição de todos os que estão unidos a Ele.",
+      "tags": [
+        "ressurreição",
+        "credo",
+        "escatologia",
+        "1 Coríntios 15"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 988-1019",
+        "1 Coríntios 15,12-44"
+      ]
+    },
+    {
+      "id": "novissimos:vida-eterna",
+      "slug": "vida-eterna",
+      "titulo": "A Vida Eterna",
+      "categoria": "novissimos",
+      "resumo": "Último artigo do Credo: a comunhão plena e definitiva com Deus, à qual o homem é chamado depois da morte, do juízo e da ressurreição da carne.",
+      "corpo": "\"Creio na vida eterna\" é o último artigo do Símbolo dos Apóstolos e do Credo Niceno-Constantinopolitano, e resume a esperança para a qual converge toda a fé cristã professada nos artigos anteriores. Trata-se da comunhão plena, definitiva e para sempre com Deus Uno e Trino, prometida aos que morrem em sua graça e amizade — a mesma realidade que a tradição designa também pelos nomes de \"céu\" ou \"visão beatífica\".\n\nO Catecismo ensina que, para o cristão que une sua morte à de Cristo, morrer não é o fim, mas a passagem para o encontro definitivo com o Senhor: por isso a liturgia funerária acompanha o moribundo com palavras de esperança, encomendando sua alma \"ao lugar da paz\" e \"à companhia da Virgem Maria e de todos os anjos e santos\". A vida eterna não é apenas a sobrevivência da alma, mas — depois da ressurreição da carne — a plenitude do ser humano completo, corpo e alma, glorificado em Deus.\n\nA expressão \"vida eterna\" não designa uma simples duração indefinida no tempo, mas outra qualidade de existência: participação, além do tempo, na própria vida de Deus, descrita pela Escritura como visão face a face (1Cor 13,12) e como estado em que \"Deus enxugará toda lágrima dos olhos deles\" (Ap 21,4).",
+      "tags": [
+        "vida eterna",
+        "credo",
+        "escatologia",
+        "visão beatífica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1020-1050",
+        "1 Coríntios 13,12; Apocalipse 21,4"
+      ]
+    },
+    {
+      "id": "novissimos:novos-ceus-e-nova-terra",
+      "slug": "novos-ceus-e-nova-terra",
+      "titulo": "Novos Céus e Nova Terra",
+      "categoria": "novissimos",
+      "resumo": "A esperança escatológica de que, ao fim dos tempos, todo o universo criado será transfigurado e renovado, e não simplesmente destruído.",
+      "corpo": "Além do destino pessoal de cada ser humano, a escatologia católica afirma também um destino para o universo material: citando a Segunda Carta de São Pedro e o Apocalipse, o Catecismo ensina a esperança de \"novos céus e uma nova terra\" (2Pd 3,13; Ap 21,1), nos quais habitará a justiça e Deus será \"tudo em todos\" (1Cor 15,28).\n\nEssa consumação, que a tradição chama também de \"restauração universal\" (cf. At 3,21), não é entendida como aniquilação do mundo presente, mas como sua transfiguração: o próprio universo visível, ensina o Catecismo, está destinado a ser transformado, para que, livre da corruptibilidade introduzida pelo pecado, esteja plenamente a serviço dos justos glorificados em Cristo.\n\nA Igreja rejeita, nesse contexto, o milenarismo — a ideia de um reinado terreno intermediário de Cristo antes do fim definitivo — por considerá-lo uma falsificação do Reino futuro, sobretudo em sua forma politizada de messianismo secularizado. A esperança cristã nos novos céus e na nova terra não é um programa histórico a ser realizado dentro do tempo, mas o horizonte que só se cumprirá além da história, no Juízo Final.",
+      "tags": [
+        "escatologia",
+        "Apocalipse",
+        "consumação do mundo",
+        "milenarismo"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1042-1050",
+        "2 Pedro 3,13; Apocalipse 21,1; 1 Coríntios 15,28"
+      ]
+    },
+    {
+      "id": "novissimos:anticristo",
+      "slug": "anticristo",
+      "titulo": "O Anticristo",
+      "categoria": "novissimos",
+      "resumo": "A suprema decepção religiosa que, segundo o Catecismo, precederá o retorno glorioso de Cristo, sob a forma de um pseudomessianismo em que o homem se glorifica a si mesmo.",
+      "corpo": "O Catecismo ensina que, antes da vinda de Cristo, a Igreja deverá passar por uma última provação que abalará a fé de muitos crentes: a perseguição que acompanha sua peregrinação na terra revelará o \"mistério da iniquidade\" sob a forma de uma impostura religiosa que oferece aos homens uma solução aparente para seus problemas, ao preço da apostasia da verdade. Essa suprema decepção religiosa é a do Anticristo, isto é, de um pseudomessianismo em que o homem glorifica a si mesmo colocando-se no lugar de Deus e do Messias vindo na carne (CIC 675).\n\nO Catecismo esclarece que essa decepção anticristã já se esboça no mundo sempre que se pretende realizar dentro da história a esperança messiânica, que só pode se cumprir para além dela, através do juízo escatológico: a Igreja rejeitou essa falsificação do Reino futuro mesmo em sua forma atenuada, sob o nome de milenarismo, e sobretudo em sua forma política de messianismo secularizado, \"intrinsecamente perverso\" (CIC 676).\n\nApenas através dessa última Páscoa, na qual seguirá o Senhor em sua Morte e Ressurreição, a Igreja entrará na glória do Reino: o triunfo de Deus sobre esse último surto do mal revestirá a forma do Juízo Final, depois do derradeiro abalo cósmico deste mundo que passa (CIC 677).",
+      "tags": [
+        "anticristo",
+        "escatologia",
+        "milenarismo",
+        "juízo final"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 675-677"
+      ]
+    },
+    {
+      "id": "novissimos:limbo",
+      "slug": "limbo",
+      "titulo": "O Limbo",
+      "categoria": "novissimos",
+      "resumo": "Hipótese teológica, nunca definida como dogma, sobre o destino das crianças mortas sem batismo; hoje a Igreja confia sua salvação à misericórdia de Deus.",
+      "corpo": "O \"limbo dos infantes\" foi, ao longo de séculos, uma hipótese teológica elaborada por autores medievais para explicar o destino de crianças que morrem sem o batismo, sem terem cometido pecado pessoal, mas nascidas com o pecado original: um estado de natural felicidade, sem a visão beatífica, mas também sem sofrimento. Essa hipótese nunca foi definida como dogma de fé pela Igreja, permanecendo sempre uma opinião teológica entre outras, ainda que amplamente difundida no ensino comum entre a Idade Média e o século XX.\n\nEm 2007, a Comissão Teológica Internacional publicou, com autorização do papa Bento XVI, o documento \"A esperança da salvação para as crianças que morrem sem batismo\", reconhecendo que a hipótese do limbo refletia uma visão excessivamente restritiva da salvação. O documento concluiu haver \"sérias razões teológicas\" para se ter esperança de que essas crianças se salvem e alcancem a visão de Deus, confiando-as à misericórdia divina, que quer que todos os homens se salvem (1Tm 2,4) e que instituiu o batismo sem, por isso, ficar limitada a ele em seus próprios meios de salvar.\n\nO próprio documento esclarece que não se trata de um pronunciamento do Magistério solene, e que a hipótese do limbo continua sendo uma opinião teologicamente possível, embora hoje pouco proposta; o que a Igreja afirma com clareza é a confiança na misericórdia de Deus e a recomendação urgente aos pais de não retardarem o batismo dos filhos.",
+      "tags": [
+        "limbo",
+        "batismo",
+        "escatologia",
+        "Comissão Teológica Internacional"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "fontes": [
+        "Comissão Teológica Internacional, A esperança da salvação para as crianças que morrem sem batismo (19 de abril de 2007)",
+        "1 Timóteo 2,4"
+      ]
     }
   ]
 }

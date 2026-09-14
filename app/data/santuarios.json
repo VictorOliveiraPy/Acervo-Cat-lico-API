@@ -303,6 +303,224 @@
       "pais": "Itália",
       "ano": "iniciada em 1228",
       "fontes": []
+    },
+    {
+      "id": "santuarios:santuario-de-la-salette",
+      "slug": "santuario-de-la-salette",
+      "titulo": "Santuário de Nossa Senhora de La Salette",
+      "categoria": "santuarios",
+      "resumo": "Santuário nos Alpes franceses erguido no local onde, em 1846, dois pastorinhos afirmaram ter visto a Virgem Maria chorando, com um apelo à conversão do povo.",
+      "corpo": "Em 19 de setembro de 1846, dois pastores de Corps, na região francesa de Isère — Maximin Giraud, de 11 anos, e Mélanie Calvat, de 14 —, relataram ter visto, num alto dos Alpes a mais de 1.800 metros de altitude, uma “bela senhora” sentada e chorando, que lhes confiou um longo apelo à conversão e à penitência, endereçado a “todo o seu povo”.\n\nO papa Pio IX aprovou oficialmente o culto à aparição em 1851, e em 1879 o papa Leão XIII elevou o santuário ao grau de basílica menor, decretando também a coroação canônica de Nossa Senhora de La Salette. O santuário, hoje confiado aos Missionários de Nossa Senhora de La Salette — congregação fundada em razão do próprio acontecimento —, é o segundo destino de peregrinação mariana mais visitado da França, depois de Lourdes.",
+      "tags": [
+        "aparições marianas",
+        "França",
+        "Alpes"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "La Salette-Fallavaux",
+      "pais": "França",
+      "ano": "aparição em 1846; basílica em 1879",
+      "fontes": [
+        "https://www.reinadelcielo.org/la-salette-francia-1846/",
+        "https://turismoreligioso.travel/santuarios-mundo/la-salette/"
+      ]
+    },
+    {
+      "id": "santuarios:santuario-de-walsingham",
+      "slug": "santuario-de-walsingham",
+      "titulo": "Santuário de Nossa Senhora de Walsingham",
+      "categoria": "santuarios",
+      "resumo": "Antigo santuário mariano inglês, tradicionalmente ligado a uma visão de 1061, destruído na Reforma e restabelecido pelos católicos no século XX.",
+      "corpo": "Segundo a tradição, em 1061 a nobre inglesa Richeldis de Faverches teria sido conduzida em espírito à casa de Nazaré e recebido o pedido de erguer, em sua aldeia de Walsingham, uma réplica daquele lar da Sagrada Família, a “Santa Casa”. O local tornou-se, ao longo da Idade Média, um dos maiores destinos de peregrinação da cristandade, ombreando com Jerusalém, Roma e Santiago de Compostela; o próprio rei Henrique VIII visitou-o como peregrino antes de, já como chefe da Igreja separada de Roma, ordenar sua destruição em 1538.\n\nO santuário permaneceu em ruínas por quase quatro séculos. No início do século XX foi restaurado, primeiro pelos anglicanos e, a partir de 1934, também pelos católicos, que ergueram um novo Santuário Nacional com uma réplica da imagem medieval de Nossa Senhora de Walsingham. Hoje recebe dezenas de milhares de peregrinos por ano e é um símbolo da devoção mariana na Inglaterra.",
+      "tags": [
+        "Inglaterra",
+        "Idade Média",
+        "Reforma Protestante"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Walsingham, Norfolk",
+      "pais": "Inglaterra",
+      "ano": "1061 (tradição); santuário católico restabelecido em 1934",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Nossa_Senhora_de_Walsingham"
+      ]
+    },
+    {
+      "id": "santuarios:basilica-de-nossa-senhora-da-caridade-do-cobre",
+      "slug": "basilica-de-nossa-senhora-da-caridade-do-cobre",
+      "titulo": "Basílica de Nossa Senhora da Caridade do Cobre",
+      "categoria": "santuarios",
+      "resumo": "Santuário nacional cubano que guarda a imagem da padroeira do país, encontrada por três pescadores na baía de Nipe em 1612.",
+      "corpo": "Segundo a tradição, em 1612 três pescadores — os irmãos Juan e Rodrigo de Hoyos e o menino escravizado Juan Moreno, conhecidos como “os três Juanes” — encontraram flutuando na baía de Nipe, no oriente de Cuba, uma pequena imagem de madeira de Nossa Senhora com o Menino Jesus, trazendo na base a inscrição “Yo soy la Virgen de la Caridad”. A imagem foi levada à vila mineira de El Cobre, onde permanece venerada até hoje.\n\nEm 1916 o papa Bento XV proclamou Nossa Senhora da Caridade do Cobre padroeira de Cuba, e em 1936 Pio XI presidiu sua coroação canônica. Em 1977 Paulo VI elevou o santuário à dignidade de basílica menor. A devoção, profundamente entranhada na identidade cubana, atravessou décadas de regime comunista e foi visitada por três papas — João Paulo II (1998), Bento XVI (2012) e Francisco (2015).",
+      "tags": [
+        "Cuba",
+        "século XVII",
+        "padroeira"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "El Cobre, Santiago de Cuba",
+      "pais": "Cuba",
+      "ano": "imagem encontrada em 1612; basílica em 1977",
+      "fontes": [
+        "https://es.wikipedia.org/wiki/Bas%C3%ADlica_Santuario_Nacional_de_Nuestra_Se%C3%B1ora_de_la_Caridad_del_Cobre",
+        "https://www.ayudaalaiglesianecesitada.org/oraciones/virgen-caridad-cobre-devocion-cuba"
+      ]
+    },
+    {
+      "id": "santuarios:basilica-de-nossa-senhora-de-lujan",
+      "slug": "basilica-de-nossa-senhora-de-lujan",
+      "titulo": "Basílica de Nossa Senhora de Luján",
+      "categoria": "santuarios",
+      "resumo": "Santuário nacional argentino erguido no local onde, segundo a tradição, uma imagem da Imaculada Conceição se recusou a prosseguir viagem em 1630, tornando-se padroeira do país.",
+      "corpo": "A tradição situa a origem da devoção em 1630, quando uma pequena imagem de terracota da Imaculada Conceição, trazida do Brasil, era transportada de carroça rumo a Santiago del Estero e, ao chegar às margens do rio Luján, a carga simplesmente não pôde ser removida do lugar até que se retirasse justamente a caixa com aquela imagem — sinal interpretado como vontade da Virgem de permanecer ali. Em torno da imagem, hoje conhecida como Nossa Senhora de Luján, formou-se um dos maiores santuários marianos da América do Sul.\n\nEm 8 de maio de 1887 o papa Leão XIII presidiu a coroação canônica da imagem, consolidando-a como padroeira da Argentina — e também, com o tempo, do Uruguai e do Paraguai. A basílica neogótica que hoje abriga a imagem, a cerca de 70 km de Buenos Aires, foi reconhecida oficialmente pela Santa Sé como basílica em 1930 e recebe milhões de peregrinos todos os anos, sobretudo na tradicional Peregrinação Juvenil a pé de Buenos Aires a Luján.",
+      "tags": [
+        "Argentina",
+        "padroeira",
+        "século XVII"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Luján, Província de Buenos Aires",
+      "pais": "Argentina",
+      "ano": "imagem parada em 1630; coroação em 1887",
+      "fontes": [
+        "https://es.wikipedia.org/wiki/Nuestra_Se%C3%B1ora_de_Luj%C3%A1n",
+        "https://www.infobae.com/sociedad/2023/09/30/el-origen-milagroso-de-la-virgen-de-lujan-de-la-carreta-que-se-detuvo-a-la-construccion-de-la-basilica/"
+      ]
+    },
+    {
+      "id": "santuarios:santuario-do-bom-jesus-do-monte",
+      "slug": "santuario-do-bom-jesus-do-monte",
+      "titulo": "Santuário do Bom Jesus do Monte",
+      "categoria": "santuarios",
+      "resumo": "Complexo religioso e paisagístico português dedicado ao Bom Jesus, famoso por sua escadaria barroca com fontes e capelas da Via-Sacra, hoje Patrimônio Mundial da UNESCO.",
+      "corpo": "A devoção no Monte Espinho, nos arredores de Braga, remonta ao século XIV, quando ali se ergueu uma cruz e, pouco depois, uma pequena ermida dedicada à Santa Cruz. Ao longo de mais de 600 anos o local foi ampliado até tornar-se um dos mais notáveis exemplos europeus de “monte sacro” — tradição de santuários que reproduzem em escadarias e capelas os episódios da Via-Sacra, incentivada pela Igreja após o Concílio de Trento como resposta à Reforma Protestante.\n\nO templo atual, um dos primeiros edifícios neoclássicos de Portugal, foi projetado pelo arquiteto Carlos Amarante a pedido do arcebispo de Braga D. Gaspar de Bragança, com obras entre 1784 e 1811. A célebre escadaria monumental, com suas fontes alegóricas aos cinco sentidos e às virtudes, conduz os peregrinos morro acima até a igreja. Elevado à condição de basílica em 2015, o santuário teve todo o seu conjunto arquitetônico-paisagístico reconhecido como Patrimônio Mundial da UNESCO em 2019.",
+      "tags": [
+        "Portugal",
+        "Via-Sacra",
+        "barroco"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Braga",
+      "pais": "Portugal",
+      "ano": "iniciado no século XIV; igreja atual de 1784-1811; basílica em 2015",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Santu%C3%A1rio_do_Bom_Jesus_do_Monte",
+        "https://unescoportugal.mne.gov.pt/pt/temas/proteger-o-nosso-patrimonio-e-promover-a-criatividade/patrimonio-mundial-em-portugal/santuario-do-bom-jesus-do-monte-em-braga"
+      ]
+    },
+    {
+      "id": "santuarios:santuario-de-montserrat",
+      "slug": "santuario-de-montserrat",
+      "titulo": "Santuário de Montserrat",
+      "categoria": "santuarios",
+      "resumo": "Mosteiro beneditino catalão erguido na montanha serrilhada de Montserrat, que guarda a venerada imagem românica da Virgem Moreneta.",
+      "corpo": "Encravado a 720 metros de altitude na peculiar montanha de Montserrat, o mosteiro de Santa Maria foi fundado em 1025 pelo abade Oliba sobre uma ermida anterior doada por Wilfredo, o Peludo, ao mosteiro de Ripoll. Segundo a lenda, a imagem da Virgem já havia sido encontrada por pastores numa gruta da montanha no ano 880, guiados por uma luz e um canto misteriosos.\n\nA imagem venerada, conhecida popularmente como “la Moreneta” por sua coloração escurecida — atribuída, segundo estudos recentes, ao enegrecimento por fumaça de velas ao longo dos séculos —, é uma talha românica em madeira de choupo do século XII, com cerca de 95 cm de altura, representando Maria entronizada com o Menino. Em 1881 o papa Leão XIII declarou-a padroeira das dioceses da Catalunha. Ao longo dos séculos XVII e XVIII, a Escolania de Montserrat, uma das mais antigas escolas de música da Europa, consolidou o mosteiro como importante centro cultural, e hoje o santuário é um dos destinos de peregrinação e turismo religioso mais visitados da Espanha.",
+      "tags": [
+        "Espanha",
+        "Catalunha",
+        "beneditinos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Montanha de Montserrat, Catalunha",
+      "pais": "Espanha",
+      "ano": "mosteiro fundado em 1025",
+      "fontes": [
+        "https://es.wikipedia.org/wiki/Virgen_de_Montserrat",
+        "https://www.infobae.com/espana/viajes/2024/09/09/la-virgen-de-montserrat-y-su-leyenda-una-talla-del-siglo-xii-cobijada-en-un-monasterio-incrustado-en-la-montana/"
+      ]
+    },
+    {
+      "id": "santuarios:basilica-do-senhor-do-bonfim",
+      "slug": "basilica-do-senhor-do-bonfim",
+      "titulo": "Basílica do Senhor do Bonfim",
+      "categoria": "santuarios",
+      "resumo": "Igreja baiana erguida por promessa de um capitão português no século XVIII, tornada símbolo maior da devoção popular e da cultura afro-brasileira em Salvador.",
+      "corpo": "A construção do templo dedicado ao Senhor Bom Jesus do Bonfim resultou de uma promessa do capitão português Theodósio Rodrigues de Faria, que trouxe de Lisboa, em 1745, uma imagem de Cristo crucificado para ser venerada em Salvador. A igreja foi erguida entre 1746 e 1754 no alto da colina de Itapagipe, tendo recebido posteriores acréscimos no frontispício rococó e na decoração interna neoclássica ao longo dos séculos XVIII e XIX.\n\nEm 1927 o papa Pio XI elevou o templo à dignidade de basílica. A Festa do Senhor do Bonfim, celebrada ininterruptamente desde 1745 com a tradicional lavagem das escadarias da igreja por baianas vestidas a caráter, tornou-se um dos maiores símbolos do sincretismo entre o catolicismo popular e as tradições afro-brasileiras, sendo o templo também famoso pela sala dos milagres, onde os fiéis depositam ex-votos em agradecimento a graças alcançadas.",
+      "tags": [
+        "Brasil",
+        "Bahia",
+        "religiosidade popular"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Salvador, Bahia",
+      "pais": "Brasil",
+      "ano": "construída entre 1746 e 1754; basílica em 1927",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Igreja_Nosso_Senhor_do_Bonfim",
+        "https://www.correio24horas.com.br/minha-bahia/basilica-do-bonfim-completa-270-anos-em-2024-conheca-a-historia-0124"
+      ]
+    },
+    {
+      "id": "santuarios:santuario-de-sainte-anne-de-beaupre",
+      "slug": "santuario-de-sainte-anne-de-beaupre",
+      "titulo": "Santuário de Santa Ana de Beaupré",
+      "categoria": "santuarios",
+      "resumo": "Um dos maiores santuários católicos da América do Norte, erguido por marinhos franceses agradecidos a Santa Ana por tê-los salvo de um naufrágio no século XVII.",
+      "corpo": "A devoção nasceu em 1658, quando marinhos franceses, gratos por terem escapado de um naufrágio no rio São Lourenço, ergueram uma primeira capela dedicada a Sant'Ana no chamado Petit Cap, hoje Sainte-Anne-de-Beaupré, próximo à cidade de Quebec. Pouco depois, em 1661, registrou-se ali a primeira cura atribuída à intercessão da santa, em favor do colono Louis Guimond, dando início a séculos de peregrinações.\n\nA atual basílica, de estilo neorromânico, é o quinto templo erguido no local desde o século XVII; sua construção começou em 1923 e foi consagrada pelo cardeal Maurice Roy em 1976. Padroeira civil e eclesiástica de Quebec, Sant'Ana é celebrada com grande peregrinação anual em 26 de julho, quando o santuário recebe o ápice de sua novena e consolida-se como um dos principais destinos de peregrinação católica da América do Norte.",
+      "tags": [
+        "Canadá",
+        "Sant'Ana",
+        "milagres"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Sainte-Anne-de-Beaupré, Quebec",
+      "pais": "Canadá",
+      "ano": "paróquia fundada em 1657; basílica atual consagrada em 1976",
+      "fontes": [
+        "https://fr.wikipedia.org/wiki/Basilique_Sainte-Anne-de-Beaupr%C3%A9"
+      ]
+    },
+    {
+      "id": "santuarios:basilica-do-santo-nino-de-cebu",
+      "slug": "basilica-do-santo-nino-de-cebu",
+      "titulo": "Basílica do Santo Niño de Cebu",
+      "categoria": "santuarios",
+      "resumo": "Igreja mais antiga das Filipinas, erguida no local onde os primeiros colonizadores espanhóis encontraram intacta, em 1565, a imagem do Menino Jesus deixada por Fernão de Magalhães décadas antes.",
+      "corpo": "A imagem do Santo Niño (Menino Jesus), segundo a tradição, foi presenteada em 1521 pelo navegador português Fernão de Magalhães à rainha local de Cebu por ocasião de seu batismo, durante a primeira circum-navegação do globo. Quando a expedição de Miguel López de Legazpi retornou à ilha em 1565, sob o comando espanhol, um soldado encontrou a pequena imagem de madeira intacta em meio às cinzas de um povoado incendiado — episódio interpretado como milagre e que levou à fundação, no mesmo local, da igreja e convento agostinianos que se tornariam a Basílica do Santo Niño, a mais antiga igreja das Filipinas.\n\nPor ocasião do quarto centenário da cristianização do arquipélago, o papa Paulo VI elevou o templo à categoria de basílica menor, em 1965. Em 2013 um terremoto de magnitude 7,2 danificou seriamente parte da estrutura, incluindo seu campanário, mas a basílica foi restaurada e permanece o principal centro do culto ao Santo Niño, cuja festa em janeiro (o Sinulog) reúne milhões de fiéis em Cebu.",
+      "tags": [
+        "Filipinas",
+        "Ásia",
+        "evangelização"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Cebu",
+      "pais": "Filipinas",
+      "ano": "fundada em 1565; basílica menor em 1965",
+      "fontes": [
+        "https://es.wikipedia.org/wiki/Bas%C3%ADlica_del_Santo_Ni%C3%B1o",
+        "https://santoninodecebubasilica.org/basilica-history/"
+      ]
+    },
+    {
+      "id": "santuarios:basilica-de-nossa-senhora-da-boa-saude-vailankanni",
+      "slug": "basilica-de-nossa-senhora-da-boa-saude-vailankanni",
+      "titulo": "Basílica de Nossa Senhora da Boa Saúde de Vailankanni",
+      "categoria": "santuarios",
+      "resumo": "Santuário mariano no sul da Índia, conhecido como “a Lourdes do Oriente”, erguido em torno de aparições marianas relatadas no século XVI.",
+      "corpo": "A tradição situa a origem da devoção em Vailankanni, no litoral de Tamil Nadu, em dois episódios do século XVI: por volta de 1570, uma bela senhora com um menino no colo teria pedido leite a um jovem pastor que entregava leiteria pela região; e, por volta de 1587, um vendedor aleijado de leitelho teria recebido pedido semelhante de uma senhora, que depois lhe recomendou pedir a construção de uma capela em sua honra num local próximo. A essas duas aparições soma-se um terceiro evento fundador, o resgate de marinheiros portugueses de uma tempestade no mar, atribuído à intercessão de Nossa Senhora.\n\nA partir de uma capela de palha erguida em meados do século XVI, o santuário cresceu ao longo dos séculos até tornar-se paróquia em 1771, durante um período de perseguição aos católicos sob domínio holandês na região. Em 1962 o papa João XXIII concedeu-lhe o título de basílica menor. Hoje o templo, de arquitetura gótica, atrai cerca de cinco milhões de peregrinos por ano, entre católicos, hindus e fiéis de outras tradições, num dos maiores fenômenos de devoção mariana popular da Ásia.",
+      "tags": [
+        "Índia",
+        "Ásia",
+        "aparições marianas"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Vailankanni, Tamil Nadu",
+      "pais": "Índia",
+      "ano": "aparições no século XVI; basílica menor em 1962",
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Good_Health",
+        "https://thecatholictravelguide.com/destinations/india-catholic-shrines-places-interest/vailankanni-india-basilica-lady-good-health-lourdes-east/"
+      ]
     }
   ]
 }

@@ -157,6 +157,141 @@
       "fontes": [
         "Código de Direito Canônico (1983), cânones 1403"
       ]
+    },
+    {
+      "id": "beatos-canonizacao:postulador-da-causa",
+      "slug": "postulador-da-causa",
+      "titulo": "Postulador da Causa",
+      "categoria": "beatos-canonizacao",
+      "resumo": "Representante oficial que conduz uma causa de beatificação ou canonização perante o Dicastério para as Causas dos Santos.",
+      "corpo": "O postulador é a pessoa — padre, religioso, religiosa ou leigo — encarregada de conduzir juridicamente uma causa de canonização, desde a fase diocesana até a decisão final da Santa Sé. Cabe a ele reunir a documentação, colher depoimentos de testemunhas, organizar as provas da fama de santidade e, quando alegado, acompanhar a investigação de possíveis milagres atribuídos ao candidato.\n\nO cargo exige formação específica em teologia, direito canônico e história, além de credenciamento junto ao Dicastério para as Causas dos Santos. Na fase romana do processo, o postulador trabalha lado a lado com o relator designado pelo Dicastério na elaboração da «positio», o documento que sintetiza as provas reunidas para o exame dos consultores teológicos e dos cardeais.",
+      "tags": [
+        "canonização",
+        "postulador",
+        "processo de canonização"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 9,
+      "fontes": [
+        "João Paulo II, Constituição Apostólica «Divinus Perfectionis Magister» (1983)",
+        "Dicastério para as Causas dos Santos, normas sobre a função do postulador"
+      ]
+    },
+    {
+      "id": "beatos-canonizacao:positio",
+      "slug": "positio",
+      "titulo": "Positio",
+      "categoria": "beatos-canonizacao",
+      "resumo": "Documento que reúne e sintetiza as provas históricas e testemunhais reunidas sobre a vida de um candidato à santidade.",
+      "corpo": "A «positio» (do latim, \"posição\") é o volume elaborado, sob orientação de um relator do Dicastério para as Causas dos Santos, para demonstrar que o Servo de Deus viveu as virtudes cristãs em grau heroico ou sofreu martírio por ódio à fé. Reúne uma biografia documentada, o \"summarium\" com os depoimentos das testemunhas colhidos na fase diocesana e a análise dos escritos do candidato, quando existentes.\n\nUma vez concluída e impressa, a positio é submetida ao exame de uma comissão de consultores teológicos e, em seguida, à Congregação Plenária de Cardeais e Bispos do Dicastério, cujo parecer favorável é condição para que o Papa autorize a promulgação do decreto sobre as virtudes heroicas ou o martírio.",
+      "tags": [
+        "canonização",
+        "processo de canonização",
+        "virtudes heroicas"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 10,
+      "fontes": [
+        "João Paulo II, Constituição Apostólica «Divinus Perfectionis Magister» (1983)"
+      ]
+    },
+    {
+      "id": "beatos-canonizacao:promotor-da-fe",
+      "slug": "promotor-da-fe",
+      "titulo": "Promotor da Fé (\"Advogado do Diabo\")",
+      "categoria": "beatos-canonizacao",
+      "resumo": "Ofício extinto em 1983 que, por quatro séculos, teve a função de questionar formalmente as provas a favor de uma canonização.",
+      "corpo": "O ofício de Promotor da Fé foi instituído pelo papa Sisto V em 1587, no contexto da reorganização das causas de canonização feita durante a Contrarreforma. Sua função era apresentar, diante da comissão examinadora e do próprio Papa, os argumentos e dúvidas contrários à causa em julgamento: questionava a solidez dos milagres alegados, apontava inconsistências em depoimentos e testava a autenticidade da fama de santidade do candidato — daí o apelido popular de \"advogado do diabo\" (advocatus diaboli).\n\nEm 25 de janeiro de 1983, o papa João Paulo II, pela Constituição Apostólica «Divinus Perfectionis Magister», extinguiu formalmente o ofício, ao reformar todo o processo de canonização: a partir de então, a coleta e a avaliação crítica das provas passaram a ser função de um colégio de relatores do próprio Dicastério, tornando o processo mais simples e, segundo os críticos da reforma, potencialmente menos rigoroso no exame de objeções.",
+      "tags": [
+        "canonização",
+        "história da Igreja",
+        "processo de canonização"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 11,
+      "fontes": [
+        "João Paulo II, Constituição Apostólica «Divinus Perfectionis Magister» (1983)"
+      ]
+    },
+    {
+      "id": "beatos-canonizacao:dicasterio-causas-dos-santos",
+      "slug": "dicasterio-causas-dos-santos",
+      "titulo": "Dicastério para as Causas dos Santos",
+      "categoria": "beatos-canonizacao",
+      "resumo": "Órgão da Cúria Romana responsável por instruir e examinar todas as causas de beatificação e canonização da Igreja Católica.",
+      "corpo": "A origem deste organismo remonta à Sagrada Congregação dos Ritos, fundada pelo papa Sisto V em 1588, que reunia então tanto as causas dos santos quanto as questões de liturgia. Em 1969, o papa Paulo VI separou as duas funções, criando uma congregação própria para as causas de canonização; em 1988, a Constituição Apostólica «Pastor Bonus», de João Paulo II, consolidou seu nome como Congregação para as Causas dos Santos.\n\nEm 2022, com a reforma da Cúria Romana promovida pela Constituição Apostólica «Praedicate Evangelium», o papa Francisco renomeou o organismo como Dicastério para as Causas dos Santos. Cabe a ele examinar toda a documentação das causas — desde o decreto de \"nada obsta\" à abertura até os pareceres sobre virtudes heroicas, martírio e milagres —, preparando o material para a decisão final do Papa.",
+      "tags": [
+        "canonização",
+        "Cúria Romana",
+        "processo de canonização"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 12,
+      "fontes": [
+        "Francisco, Constituição Apostólica «Praedicate Evangelium» (2022)",
+        "João Paulo II, Constituição Apostólica «Pastor Bonus» (1988)"
+      ]
+    },
+    {
+      "id": "beatos-canonizacao:canonizacao-equipolente",
+      "slug": "canonizacao-equipolente",
+      "titulo": "Canonização Equipolente",
+      "categoria": "beatos-canonizacao",
+      "resumo": "Forma extraordinária de canonização, sem processo ordinário nem milagre comprovado, baseada num culto público antigo e ininterrupto.",
+      "corpo": "A canonização equipolente (ou \"por equivalência\") é um procedimento excepcional pelo qual o Papa reconhece o culto de um santo sem exigir o processo ordinário completo, incluindo a comprovação de milagres. Aplica-se a casos em que já existe, comprovadamente, um culto público antigo e ininterrupto prestado à pessoa, um testemunho histórico incontestável de suas virtudes ou martírio, e fama duradoura de intercessão milagrosa — elementos que, juntos, \"equivalem\" às etapas normais do processo.\n\nExemplos históricos incluem Santa Hildegarda de Bingen, canonizada equipolentemente por Bento XVI em 2012, e São José de Anchieta, elevado aos altares por decreto do papa Francisco em 2014. O procedimento é usado com parcimônia, geralmente para figuras de veneração já consolidada havia séculos, cujo processo ordinário seria de difícil instrução por falta de testemunhas ou documentação recente.",
+      "tags": [
+        "canonização",
+        "processo de canonização",
+        "história da Igreja"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 13,
+      "fontes": [
+        "Código de Direito Canônico (1983), cânone 1187",
+        "Bento XVI, decreto de canonização equipolente de Hildegarda de Bingen (2012)"
+      ]
+    },
+    {
+      "id": "beatos-canonizacao:relator-da-causa",
+      "slug": "relator-da-causa",
+      "titulo": "Relator da Causa",
+      "categoria": "beatos-canonizacao",
+      "resumo": "Oficial do Dicastério para as Causas dos Santos que orienta o postulador na elaboração técnica da \"positio\".",
+      "corpo": "O relator é um oficial nomeado pelo próprio Dicastério para as Causas dos Santos, distinto do postulador (que representa o interesse da causa): sua função é orientar tecnicamente a elaboração da \"positio\", assegurando que o documento reúna de forma rigorosa e cientificamente sólida as provas históricas e testemunhais sobre a vida do candidato.\n\nO Colégio de Relatores foi criado como parte da reforma do processo de canonização promovida por João Paulo II em 1983, substituindo o antigo sistema de debate direto entre promotor da fé e postulador por um trabalho mais colaborativo de reconstrução histórica e teológica, revisado depois por consultores independentes antes de seguir à Congregação Plenária de Cardeais e Bispos.",
+      "tags": [
+        "canonização",
+        "processo de canonização"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 14,
+      "fontes": [
+        "João Paulo II, Constituição Apostólica «Divinus Perfectionis Magister» (1983)"
+      ]
+    },
+    {
+      "id": "beatos-canonizacao:congresso-dos-consultores-teologicos",
+      "slug": "congresso-dos-consultores-teologicos",
+      "titulo": "Congresso dos Consultores Teológicos",
+      "categoria": "beatos-canonizacao",
+      "resumo": "Reunião de especialistas em teologia que examina e vota a \"positio\" de uma causa antes do parecer dos cardeais e bispos.",
+      "corpo": "Depois de redigida e impressa, a «positio» de uma causa de canonização é submetida a uma comissão de consultores teológicos nomeados pelo Dicastério para as Causas dos Santos — especialistas, muitas vezes externos à Cúria Romana, que avaliam se as provas apresentadas realmente demonstram a prática heroica das virtudes ou o martírio do candidato.\n\nO voto favorável desse Congresso de Teólogos é condição para que a causa avance à Congregação Plenária de Cardeais e Bispos, última instância de exame antes de o dossiê ser apresentado ao Papa. Quando a causa envolve a alegação de um milagre por cura física, um colégio semelhante de médicos — a \"Consulta Médica\" — examina previamente o caso do ponto de vista científico, antes mesmo de sua avaliação teológica.",
+      "tags": [
+        "canonização",
+        "processo de canonização",
+        "teologia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 15,
+      "fontes": [
+        "João Paulo II, Constituição Apostólica «Divinus Perfectionis Magister» (1983)"
+      ]
     }
   ]
 }

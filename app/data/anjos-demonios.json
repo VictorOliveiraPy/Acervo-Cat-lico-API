@@ -239,6 +239,221 @@
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Barth%C3%A9lemy_Parrocel-J%C3%A9sus_au_d%C3%A9sert.jpg",
       "imagem_credito": null,
       "tipo": "conceito"
+    },
+    {
+      "id": "anjos-demonios:tronos",
+      "slug": "tronos",
+      "titulo": "Tronos",
+      "categoria": "anjos-demonios",
+      "resumo": "Terceiro coro angélico na hierarquia clássica, associado por São Paulo à criação de todas as coisas em Cristo e à contemplação direta da majestade divina.",
+      "corpo": "Os Tronos são mencionados por São Paulo entre as categorias de seres celestes criados em Cristo: \"nele foram criadas todas as coisas nos céus e na terra, [...] sejam tronos, sejam dominações, sejam principados, sejam potestades\" (Cl 1,16). Na sistematização clássica da hierarquia angélica, fixada por Pseudo-Dionísio Areopagita no tratado \"Sobre a Hierarquia Celeste\" (De Coelesti Hierarchia), os Tronos completam, junto com serafins e querubins, a primeira e mais elevada das três tríades angélicas, aquelas voltadas à contemplação imediata de Deus.\n\nO nome deriva da imagem bíblica do trono de Deus (cf. Ez 1; Ap 4), sugerindo que esses espíritos sustentam ou refletem de modo especial a majestade e a justiça divinas, servindo como \"assento\" simbólico da presença de Deus. A tradição teológica, sobretudo a partir de Santo Tomás de Aquino na Suma Teológica, retomou essa hierarquia como quadro de referência para pensar a diversidade dos espíritos angélicos, sem que a Igreja tenha jamais definido dogmaticamente o esquema como doutrina de fé — trata-se de uma síntese teológica tradicional, e não de uma revelação explícita sobre a estrutura exata do mundo angélico.",
+      "tags": [
+        "coros angélicos",
+        "hierarquia celeste",
+        "Colossenses",
+        "Pseudo-Dionísio"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Colossenses 1,16",
+        "Pseudo-Dionísio Areopagita, De Coelesti Hierarchia, cap. VII",
+        "Catecismo da Igreja Católica, n. 328-330"
+      ],
+      "tipo": "coro_angelico"
+    },
+    {
+      "id": "anjos-demonios:dominacoes",
+      "slug": "dominacoes",
+      "titulo": "Dominações",
+      "categoria": "anjos-demonios",
+      "resumo": "Coro angélico da segunda tríade celeste, associado ao governo ordenado do universo e à regulação da ação dos anjos que lhes são inferiores.",
+      "corpo": "As Dominações (do latim dominationes) figuram entre os coros angélicos citados por São Paulo em Colossenses 1,16 e Efésios 1,21. Na hierarquia sistematizada por Pseudo-Dionísio Areopagita, elas abrem a segunda tríade angélica — composta por Dominações, Virtudes e Potestades —, tríade que a tradição associa ao governo ordenado do cosmo, e não mais apenas à contemplação direta de Deus, própria da primeira tríade.\n\nSegundo essa síntese teológica, cabe às Dominações determinar e coordenar as tarefas atribuídas aos coros angélicos inferiores, funcionando como uma espécie de \"governo\" espiritual que assegura a ordem e a harmonia na execução da vontade de Deus sobre a criação. A imagem tradicional as representa com cetro e coroa, símbolos de autoridade subordinada à soberania única de Deus.\n\nComo os demais coros que não os três arcanjos nomeados na Escritura, as Dominações não têm culto público individualizado nem festa própria no calendário litúrgico romano; sua menção serve sobretudo para exprimir a grandeza e a diversidade da criação angélica, tema retomado de modo sóbrio pelo Catecismo, que evita especulações sobre a hierarquia exata dos anjos.",
+      "tags": [
+        "coros angélicos",
+        "hierarquia celeste",
+        "Colossenses",
+        "Pseudo-Dionísio"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Colossenses 1,16; Efésios 1,21",
+        "Pseudo-Dionísio Areopagita, De Coelesti Hierarchia, cap. VIII",
+        "Catecismo da Igreja Católica, n. 328-330"
+      ],
+      "tipo": "coro_angelico"
+    },
+    {
+      "id": "anjos-demonios:principados",
+      "slug": "principados",
+      "titulo": "Principados",
+      "categoria": "anjos-demonios",
+      "resumo": "Coro angélico da terceira tríade celeste, tradicionalmente associado à proteção de nações, povos e instituições humanas.",
+      "corpo": "Os Principados (principatus) aparecem entre os coros angélicos elencados por São Paulo (Cl 1,16; Ef 3,10) e ocupam, na hierarquia de Pseudo-Dionísio Areopagita, o primeiro posto da terceira e última tríade, ao lado dos Arcanjos e dos Anjos — a tríade mais próxima da ação direta sobre o mundo e sobre os homens.\n\nA tradição teológica, retomada por Santo Tomás de Aquino, atribui aos Principados a missão de zelar pelas grandes coletividades humanas — povos, nações, dioceses e instituições —, uma espécie de providência particular exercida sobre realidades coletivas, distinta da proteção do anjo da guarda concedida a cada pessoa individualmente. Essa leitura se apoia sobretudo em Daniel 10, onde um \"príncipe\" angélico atua em favor do povo de Israel diante de um \"príncipe do reino da Pérsia\" que se lhe opõe.\n\nEmbora sem definição dogmática sobre sua natureza exata, essa função de proteção coletiva alimentou devoções como a dos \"anjos guardiões das nações\", e permanece um modo tradicional de a piedade católica exprimir a convicção de que a providência de Deus alcança também as realidades sociais e políticas, e não apenas os indivíduos.",
+      "tags": [
+        "coros angélicos",
+        "hierarquia celeste",
+        "Daniel 10",
+        "Pseudo-Dionísio"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Colossenses 1,16; Efésios 3,10; Daniel 10,13.20-21",
+        "Pseudo-Dionísio Areopagita, De Coelesti Hierarchia, cap. IX",
+        "Suma Teológica, I, q. 113"
+      ],
+      "tipo": "coro_angelico"
+    },
+    {
+      "id": "anjos-demonios:potestades",
+      "slug": "potestades",
+      "titulo": "Potestades",
+      "categoria": "anjos-demonios",
+      "resumo": "Coro angélico da segunda tríade celeste, tradicionalmente associado à contenção do poder das forças demoníacas sobre o mundo.",
+      "corpo": "As Potestades (potestates) integram a lista de seres celestes mencionados por São Paulo (Cl 1,16; Ef 1,21; 1Pd 3,22) e completam, junto com Dominações e Virtudes, a segunda tríade da hierarquia angélica sistematizada por Pseudo-Dionísio Areopagita — a tríade encarregada, segundo essa tradição, do governo e da manutenção da ordem no universo criado.\n\nA reflexão teológica posterior, em particular a de Santo Tomás de Aquino, associou às Potestades de modo especial a tarefa de conter e repelir a ação das potências do mal, funcionando como uma espécie de fronteira espiritual que restringe o alcance do poder demoníaco sobre a criação e sobre a história humana — leitura que dialoga com passagens paulinas sobre o combate \"contra os principados e potestades, contra os dominadores destas trevas\" (Ef 6,12).\n\nComo os demais coros da hierarquia angélica não citados nominalmente na liturgia, as Potestades não possuem festa litúrgica própria; sua menção integra o esforço da tradição de exprimir, com linguagem simbólica, a multiplicidade e a função ordenadora dos espíritos celestes a serviço do plano de Deus.",
+      "tags": [
+        "coros angélicos",
+        "hierarquia celeste",
+        "combate espiritual",
+        "Pseudo-Dionísio"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Efésios 1,21; 6,12; Colossenses 1,16; 1Pedro 3,22",
+        "Pseudo-Dionísio Areopagita, De Coelesti Hierarchia, cap. VIII",
+        "Suma Teológica, I, q. 113"
+      ],
+      "tipo": "coro_angelico"
+    },
+    {
+      "id": "anjos-demonios:virtudes-celestiais",
+      "slug": "virtudes-celestiais",
+      "titulo": "Virtudes Celestiais",
+      "categoria": "anjos-demonios",
+      "resumo": "Coro angélico da segunda tríade celeste, tradicionalmente associado à realização de sinais e milagres e ao fortalecimento da fé dos crentes.",
+      "corpo": "As Virtudes (virtutes) figuram entre os coros angélicos citados por São Paulo (Ef 1,21; 1Pd 3,22) e ocupam, na hierarquia de Pseudo-Dionísio Areopagita, a posição central da segunda tríade celeste, entre Dominações e Potestades — tríade voltada, segundo essa sistematização, ao governo do cosmo criado.\n\nA tradição teológica atribuiu às Virtudes de modo particular a realização de sinais, prodígios e milagres no mundo, bem como o fortalecimento da coragem e da perseverança dos crentes diante das provações — daí, em textos de devoção antiga, sua associação a momentos como a Ascensão de Cristo, quando \"dois homens vestidos de branco\" (tradicionalmente identificados como anjos) anunciam aos apóstolos o retorno do Senhor (At 1,10-11).\n\nAssim como os demais coros da hierarquia dionisiana não nomeados individualmente na Escritura, as Virtudes não têm culto litúrgico próprio; sua menção pertence ao patrimônio da teologia especulativa medieval sobre os anjos, aceito pela tradição católica como quadro de referência útil, mas não como artigo de fé definido.",
+      "tags": [
+        "coros angélicos",
+        "hierarquia celeste",
+        "milagre",
+        "Pseudo-Dionísio"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Efésios 1,21; 1Pedro 3,22; Atos 1,10-11",
+        "Pseudo-Dionísio Areopagita, De Coelesti Hierarchia, cap. VIII",
+        "Suma Teológica, I, q. 113"
+      ],
+      "tipo": "coro_angelico"
+    },
+    {
+      "id": "anjos-demonios:hierarquia-angelica-pseudo-dionisio",
+      "slug": "hierarquia-angelica-pseudo-dionisio",
+      "titulo": "A Hierarquia Angélica de Pseudo-Dionísio",
+      "categoria": "anjos-demonios",
+      "resumo": "Sistematização dos nove coros angélicos em três tríades, proposta no tratado \"Sobre a Hierarquia Celeste\", que se tornou referência clássica da angelologia cristã.",
+      "corpo": "No fim do século V ou início do VI, um autor cristão hoje desconhecido, que escreveu sob o pseudônimo de Dionísio, o Areopagita — tomando o nome do ateniense convertido por São Paulo em Atos 17,34 —, redigiu o tratado \"Sobre a Hierarquia Celeste\" (De Coelesti Hierarchia), sistematizando pela primeira vez de modo abrangente os diferentes seres angélicos mencionados de forma dispersa na Escritura em nove coros, organizados em três tríades de três.\n\nSegundo esse esquema, a primeira tríade — Serafins, Querubins e Tronos — contempla diretamente a glória de Deus; a segunda — Dominações, Virtudes e Potestades — governa a ordem do universo criado; e a terceira — Principados, Arcanjos e Anjos — executa as ordens divinas junto à humanidade, sendo os Anjos o grau mais próximo dos homens.\n\nEmbora de autoria pseudoepígrafa e datação incerta, a obra exerceu enorme influência sobre a teologia medieval, sendo retomada por autores como São Boaventura e, sobretudo, Santo Tomás de Aquino na Suma Teológica. A Igreja nunca elevou esse esquema a dogma de fé — trata-se de uma síntese teológica respeitável e amplamente adotada, não de uma revelação explícita sobre a estrutura exata do mundo angélico.",
+      "tags": [
+        "hierarquia celeste",
+        "Pseudo-Dionísio",
+        "teologia medieval",
+        "Tomás de Aquino"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Pseudo-Dionísio Areopagita, De Coelesti Hierarchia",
+        "Suma Teológica, I, q. 108",
+        "Atos dos Apóstolos 17,34"
+      ],
+      "tipo": "conceito"
+    },
+    {
+      "id": "anjos-demonios:festa-dos-anjos-custodios",
+      "slug": "festa-dos-anjos-custodios",
+      "titulo": "Festa dos Santos Anjos Custódios",
+      "categoria": "anjos-demonios",
+      "resumo": "Memória litúrgica celebrada em 2 de outubro, dedicada aos anjos da guarda, com raízes em devoções medievais e institucionalização papal a partir do século XVII.",
+      "corpo": "A devoção aos anjos da guarda remonta pelo menos ao século XI na piedade popular europeia, com celebrações locais atestadas primeiro na Espanha, depois difundidas por Portugal, Áustria e o restante do continente. Originalmente comemorada junto à festa dos arcanjos, em 29 de setembro, a memória dos Anjos Custódios ganhou data própria em 1608, quando o papa Paulo V a inseriu no calendário litúrgico fixando-a em 2 de outubro.\n\nEm 1670, o papa Clemente X estendeu a celebração à Igreja universal, consolidando a data hoje conhecida. Em 5 de julho de 1883, um decreto da Sagrada Congregação dos Ritos, aprovado pelo papa Leão XIII, elevou o grau litúrgico da festa.\n\nA memória de 2 de outubro celebra a doutrina de que Deus confia a cada pessoa humana um anjo guardião, encarregado de protegê-la e conduzi-la ao longo da vida (cf. Catecismo, n. 336), e é ocasião tradicional para renovar a devoção pessoal ao próprio anjo da guarda.",
+      "tags": [
+        "anjo da guarda",
+        "liturgia",
+        "calendário litúrgico",
+        "Leão XIII"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Vatican News, \"SS. Anjos da Guarda\" — santo do dia, 2 de outubro",
+        "Decreto da Sagrada Congregação dos Ritos sobre a festa dos Anjos Custódios (5 de julho de 1883)",
+        "Catecismo da Igreja Católica, n. 336"
+      ],
+      "tipo": "conceito"
+    },
+    {
+      "id": "anjos-demonios:belzebu",
+      "slug": "belzebu",
+      "titulo": "Belzebu",
+      "categoria": "anjos-demonios",
+      "resumo": "Nome dado no Novo Testamento a Satanás como \"príncipe dos demônios\", derivado de uma antiga divindade filisteia de Ecrom.",
+      "corpo": "O nome Belzebu (Beelzebul, no grego dos Evangelhos) deriva do hebraico Baal-Zebub, \"senhor das moscas\", título de uma divindade filisteia venerada na cidade de Ecrom, mencionada já no Antigo Testamento a propósito do rei Acazias, que consulta esse deus em vez do Deus de Israel e é repreendido pelo profeta Elias (2Rs 1,2-16).\n\nNo Novo Testamento, o nome passa a designar o próprio Satanás enquanto \"príncipe dos demônios\": os fariseus acusam Jesus de expulsar demônios \"pelo poder de Belzebu, príncipe dos demônios\" (Mt 12,24; Mc 3,22; Lc 11,15). Jesus refuta a acusação com o argumento de que \"todo reino dividido contra si mesmo será devastado\" — não faria sentido Satanás expulsar a si mesmo — e afirma que expulsa os demônios \"pelo dedo de Deus\", sinal da chegada do Reino.\n\nA tradição espiritual posterior manteve Belzebu como um dos nomes usados para designar a chefia do mal no mundo, sem que a Escritura ofereça uma \"hierarquia infernal\" detalhada — o que existe em certa literatura demonológica posterior é elaboração teológica e folclórica, não doutrina definida pela Igreja.",
+      "tags": [
+        "demônio",
+        "Novo Testamento",
+        "Satanás",
+        "exorcismo"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Mateus 12,22-28; Marcos 3,22-27; Lucas 11,14-20",
+        "2Reis 1,2-16"
+      ],
+      "tipo": "demonio"
+    },
+    {
+      "id": "anjos-demonios:legiao",
+      "slug": "legiao",
+      "titulo": "Legião",
+      "categoria": "anjos-demonios",
+      "resumo": "Nome dado por um homem possuído pela multidão de espíritos impuros que o dominavam, no episódio evangélico do endemoninhado gerasseno.",
+      "corpo": "Os Evangelhos sinóticos narram o episódio de um homem que vivia entre os túmulos na região de Gerasa (ou Gadara), do outro lado do mar da Galileia, dominado por espíritos impuros a ponto de ninguém conseguir dominá-lo, nem mesmo com correntes (Mt 8,28-34; Mc 5,1-20; Lc 8,26-39). Ao ser interpelado por Jesus sobre seu nome, o homem responde pelos espíritos que o possuíam: \"Legião é o meu nome, porque somos muitos\" — referência ao termo militar romano que designava um grande contingente de soldados, sugerindo a multiplicidade e a força opressora dos espíritos.\n\nOs demônios suplicam a Jesus que, ao serem expulsos, sejam autorizados a entrar numa manada de porcos próxima; Jesus permite, e cerca de dois mil porcos se precipitam de um despenhadeiro para o mar e se afogam — os porcos, animais impuros na tradição judaica, e o mar, tradicionalmente associado ao caos e à morada das forças hostis a Deus, reforçam simbolicamente a derrota do mal diante do poder de Cristo.\n\nO episódio é um dos relatos evangélicos mais citados sobre a autoridade de Jesus sobre os espíritos malignos, e o nome \"Legião\" tornou-se, na linguagem cristã posterior, expressão corrente para designar uma possessão especialmente grave ou múltipla.",
+      "tags": [
+        "demônio",
+        "Evangelhos",
+        "possessão",
+        "milagre de Jesus"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Marcos 5,1-20; Mateus 8,28-34; Lucas 8,26-39"
+      ],
+      "tipo": "demonio"
+    },
+    {
+      "id": "anjos-demonios:asmodeu",
+      "slug": "asmodeu",
+      "titulo": "Asmodeu",
+      "categoria": "anjos-demonios",
+      "resumo": "Demônio do Livro de Tobias que matava os sucessivos maridos de Sara na noite de núpcias, até ser afugentado pelo arcanjo Rafael.",
+      "corpo": "No Livro de Tobias, texto deuterocanônico do Antigo Testamento, Asmodeu é um demônio que mata, um após o outro, sete maridos de Sara, filha de Raguel, sempre na noite de núpcias, antes que o casamento pudesse se consumar (Tb 3,7-8). O nome é geralmente associado a uma raiz que significa \"destruir\" ou \"aniquilar\", e a tradição posterior o interpretou como símbolo da violência que corrompe o matrimônio.\n\nQuando o jovem Tobias, orientado pelo arcanjo Rafael disfarçado de companheiro de viagem, pede Sara em casamento, Rafael o instrui a queimar o coração e o fígado de um peixe capturado durante a jornada: a fumaça resultante afugenta Asmodeu para o \"alto Egito\", onde o próprio Rafael o prende, livrando definitivamente o casal da ameaça (Tb 6,16-18; 8,2-3).\n\nO episódio de Asmodeu ilustra, dentro da narrativa de Tobias, o tema central do livro: a providência de Deus que age através da mediação angélica para proteger a família e restaurar a esperança em meio ao sofrimento, mesmo quando o poder do mal parece momentaneamente vitorioso.",
+      "tags": [
+        "demônio",
+        "Livro de Tobias",
+        "Rafael",
+        "Antigo Testamento"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Tobias 3,7-8; 6,16-18; 8,2-3"
+      ],
+      "tipo": "demonio"
     }
   ]
 }

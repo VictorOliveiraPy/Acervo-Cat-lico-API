@@ -339,6 +339,247 @@
       "local": "Mar Morto",
       "pais": "Israel/Jordânia",
       "tipo_local": "outro"
+    },
+    {
+      "id": "terra-santa:emaus",
+      "slug": "emaus",
+      "titulo": "Emaús",
+      "categoria": "terra-santa",
+      "resumo": "Vila mencionada no Evangelho de Lucas como o destino de dois discípulos aos quais Jesus ressuscitado apareceu no caminho, partindo o pão à mesa.",
+      "corpo": "Emaús é citada uma única vez no Novo Testamento, em Lucas 24,13-35: no dia da Ressurreição, dois discípulos caminhavam de Jerusalém a essa aldeia quando foram alcançados por um viajante que, somente à mesa, ao partir o pão, reconheceram como o próprio Jesus ressuscitado. O local exato de Emaús é, porém, incerto: já no século III, Eusébio de Cesareia identificava a aldeia bíblica com Nicópolis, cidade situada a cerca de 30 km a oeste de Jerusalém, onde arqueólogos encontraram ruínas de um grande complexo de igrejas bizantinas erguido para acolher peregrinos.\n\nUma segunda tradição, mais recente, situa Emaús em El-Qubeibe, cerca de 12 km a noroeste de Jerusalém — distância que se aproxima mais da informação de alguns manuscritos do Evangelho de Lucas (60 estádios) —, onde os franciscanos mantêm hoje um santuário dedicado à aparição. Qualquer que seja o sítio exato, Emaús permanece um símbolo bíblico do reconhecimento de Cristo “ao partir do pão”, motivo eucarístico caro à tradição cristã.",
+      "tags": [
+        "Ressurreição",
+        "Novo Testamento",
+        "Lucas"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Emaús-Nicópolis / El-Qubeibe",
+      "pais": "Israel",
+      "tipo_local": "vila bíblica",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Ema%C3%BAs-Nic%C3%B3polis",
+        "https://www.emmaus-nicopolis.org/emmaus/portugues"
+      ]
+    },
+    {
+      "id": "terra-santa:monte-carmelo",
+      "slug": "monte-carmelo",
+      "titulo": "Monte Carmelo",
+      "categoria": "terra-santa",
+      "resumo": "Cordilheira litorânea de Israel onde o profeta Elias confrontou os profetas de Baal, berço espiritual da Ordem do Carmo.",
+      "corpo": "O Monte Carmelo, cadeia montanhosa que se estende até o litoral mediterrâneo na região da atual Haifa, é palco de um dos episódios mais dramáticos do Antigo Testamento: o confronto entre o profeta Elias e os 450 profetas de Baal, narrado em 1Reis 18, no qual o fogo do céu consumiu o sacrifício de Elias diante de todo o povo de Israel, provando a soberania do Deus único. A montanha, cujo nome hebraico Karmel significa “jardim” ou “vinha de Deus”, é também citada em outros livros bíblicos como símbolo de fertilidade e beleza.\n\nFoi nas grutas e encostas do Monte Carmelo que, a partir do século XII, eremitas latinos inspirados no exemplo austero de Elias se reuniram em vida contemplativa, dando origem à Ordem dos Irmãos da Bem-Aventurada Virgem Maria do Monte Carmelo — os carmelitas. A montanha permanece ponto de peregrinação e é hoje sede do mosteiro de Stella Maris, junto ao qual uma gruta é venerada como local de retiro de Elias.",
+      "tags": [
+        "Elias",
+        "Antigo Testamento",
+        "carmelitas"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Haifa",
+      "pais": "Israel",
+      "tipo_local": "montanha",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Monte_Carmelo",
+        "https://idemais.com.br/noticias/com-quem-deus-falou-no-monte-carmelo-e-o-que-aconteceu-nesse-lugar-citado-na-biblia/"
+      ]
+    },
+    {
+      "id": "terra-santa:ain-karim",
+      "slug": "ain-karim",
+      "titulo": "Ain Karim",
+      "categoria": "terra-santa",
+      "resumo": "Vila nos arredores de Jerusalém venerada como terra natal de São João Batista e cenário do episódio evangélico da Visitação.",
+      "corpo": "Ain Karim (também grafada Ein Kerem), hoje um bairro nos arredores de Jerusalém, é identificada pela tradição cristã desde os primeiros séculos como a cidade natal do sacerdote Zacarias e de sua esposa Isabel, pais de São João Batista. É também o lugar onde, segundo o Evangelho de Lucas (1,39-56), Maria visitou sua prima Isabel, grávida havia seis meses, dando início ao episódio da Visitação, no qual Isabel a saúda como “mãe do meu Senhor” e Maria proclama o cântico do Magnificat.\n\nDois santuários franciscanos marcam esses episódios no vilarejo: a Igreja da Visitação, concluída em 1955 sobre ruínas bizantinas e cruzadas, erguida no local da suposta casa de Isabel; e a Igreja do Nascimento de São João Batista, construída sobre uma gruta que a tradição aponta como o local exato do nascimento do Precursor. Ambas seguem entre os destinos de peregrinação mais visitados da Terra Santa.",
+      "tags": [
+        "Visitação",
+        "João Batista",
+        "Novo Testamento"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Jerusalém (bairro de Ein Kerem)",
+      "pais": "Israel",
+      "tipo_local": "vila",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Igreja_da_Visita%C3%A7%C3%A3o",
+        "https://www.custodia.org/en/sanctuaries/ain-karem-saint-john-the-baptist/"
+      ]
+    },
+    {
+      "id": "terra-santa:monte-siao-cenaculo",
+      "slug": "monte-siao-cenaculo",
+      "titulo": "Monte Sião e o Cenáculo",
+      "categoria": "terra-santa",
+      "resumo": "Colina situada fora dos muros da Cidade Velha de Jerusalém, tradicionalmente associada ao Cenáculo, sala da Última Ceia e da efusão do Espírito Santo em Pentecostes.",
+      "corpo": "O Monte Sião, elevação situada logo fora da muralha sul da Cidade Velha de Jerusalém, guarda desde a Antiguidade cristã a tradição do Cenáculo — o “cenáculo espaçoso e mobiliado” (Mc 14,15) onde, segundo os Evangelhos, Jesus celebrou a Última Ceia com os apóstolos antes de sua Paixão, e onde a comunidade apostólica, reunida em oração com Maria, teria recebido o Espírito Santo no dia de Pentecostes (At 2,1-4).\n\nO edifício hoje apontado como Cenáculo, com seu andar superior de arcos góticos do século XIV, integra um complexo que ao longo dos séculos abrigou sucessivamente uma sinagoga judaico-cristã, uma basílica bizantina, uma igreja cruzada e, por fim, uma mesquita otomana — hoje o piso térreo é venerado por alguns como o túmulo do rei Davi. Embora a identificação exata do local com o cenáculo evangélico seja discutida por historiadores, dada a ausência de indicação geográfica precisa nos textos bíblicos, o Monte Sião permanece desde o período bizantino um dos pontos de peregrinação cristã mais visitados de Jerusalém.",
+      "tags": [
+        "Última Ceia",
+        "Pentecostes",
+        "Jerusalém"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Jerusalém",
+      "pais": "Israel",
+      "tipo_local": "monte",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Cen%C3%A1culo",
+        "https://pt.wikipedia.org/wiki/Monte_Si%C3%A3o"
+      ]
+    },
+    {
+      "id": "terra-santa:cesareia-maritima",
+      "slug": "cesareia-maritima",
+      "titulo": "Cesareia Marítima",
+      "categoria": "terra-santa",
+      "resumo": "Cidade-porto construída por Herodes, o Grande, capital administrativa romana da Judeia, onde o apóstolo Paulo permaneceu preso por dois anos antes de apelar a César.",
+      "corpo": "Erguida por Herodes, o Grande, entre 25 e 13 a.C., com um porto artificial então considerado uma das maiores obras de engenharia marítima do mundo antigo, Cesareia Marítima tornou-se a capital administrativa da província romana da Judeia e sede dos procuradores e governadores romanos, entre eles Pôncio Pilatos, cujo nome foi encontrado inscrito numa pedra descoberta no teatro da cidade.\n\nA cidade tem papel de destaque no livro dos Atos dos Apóstolos: nela residia o centurião Cornélio, primeiro gentio batizado por Pedro (At 10), e foi ali que o apóstolo Paulo, preso após tumultos em Jerusalém, permaneceu detido por dois anos diante dos procuradores Félix e Festo, além do rei Herodes Agripa II, antes de exercer seu direito de cidadão romano e apelar a César, embarcando de Cesareia rumo a Roma (At 23–27). Hoje um parque arqueológico nacional, o sítio preserva ruínas do porto, do teatro romano, do hipódromo e de estruturas bizantinas e cruzadas posteriores.",
+      "tags": [
+        "Paulo de Tarso",
+        "Império Romano",
+        "Atos dos Apóstolos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "costa mediterrânea, entre Haifa e Tel Aviv",
+      "pais": "Israel",
+      "tipo_local": "cidade portuária",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Cesareia_Mar%C3%ADtima",
+        "https://umpouquinhodecadalugar.com/asia/cesareia-maritima-a-capital-romana-da-judeia/"
+      ]
+    },
+    {
+      "id": "terra-santa:jope-jafa",
+      "slug": "jope-jafa",
+      "titulo": "Jope (Jafa)",
+      "categoria": "terra-santa",
+      "resumo": "Antigo porto mediterrâneo onde o apóstolo Pedro ressuscitou Tabita e recebeu, em oração no terraço da casa de Simão, a visão que abriu a pregação do Evangelho aos gentios.",
+      "corpo": "Jope, atual bairro de Jafa em Tel Aviv, é um dos portos mais antigos do Mediterrâneo e cenário de dois episódios centrais do livro dos Atos dos Apóstolos. No primeiro (At 9,36-42), Pedro é chamado à cidade para junto do corpo de Tabita (Dorcas), discípula conhecida por suas boas obras entre viúvas e pobres, e a ressuscita — o primeiro milagre de ressurreição atribuído a um apóstolo no Novo Testamento.\n\nFoi hospedado na casa do curtidor Simão, à beira-mar em Jope, que Pedro teve a visão de um grande lençol descendo do céu com animais puros e impuros, e ouviu por três vezes a ordem “o que Deus purificou, não o consideres impuro” (At 10,9-16) — revelação que o preparou para acolher o centurião gentio Cornélio e abriu caminho para a pregação do Evangelho além do povo judeu. A tradicional “Casa de Simão, o curtidor” ainda hoje é apontada aos peregrinos no bairro antigo de Jafa.",
+      "tags": [
+        "Pedro Apóstolo",
+        "Atos dos Apóstolos",
+        "evangelização dos gentios"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Tel Aviv-Jafa",
+      "pais": "Israel",
+      "tipo_local": "cidade portuária",
+      "fontes": [
+        "https://terrasantaviagens.com.br/destinos/israel/jope-jafa/",
+        "https://www.abiblia.org/ver.php?id=8280"
+      ]
+    },
+    {
+      "id": "terra-santa:poco-de-jaco",
+      "slug": "poco-de-jaco",
+      "titulo": "Poço de Jacó",
+      "categoria": "terra-santa",
+      "resumo": "Poço junto a Siquém onde, segundo o Evangelho de João, Jesus dialogou com a mulher samaritana e se revelou como o Messias.",
+      "corpo": "O Poço de Jacó, situado junto à antiga cidade de Siquém — hoje a atual Nablus, na Cisjordânia —, é identificado pela tradição desde o século IV como o local descrito em João 4: ali, cansado da caminhada, Jesus pediu água a uma mulher samaritana e travou com ela um diálogo que culminou na revelação de sua identidade messiânica e na conversão de muitos samaritanos daquela cidade. Na tradição ortodoxa oriental, essa mulher é venerada como santa sob o nome de Fotina.\n\nJá no ano 384 erguia-se sobre o poço uma igreja de planta cruciforme, reconstruída pelo imperador Justiniano no período bizantino. O poço encontra-se hoje na cripta de uma igreja ortodoxa grega moderna, erguida no local depois que a propriedade foi adquirida pelo Patriarcado de Jerusalém no final do século XIX, e continua sendo visitado por peregrinos que ali recolhem água do mesmo poço mencionado no Evangelho.",
+      "tags": [
+        "samaritana",
+        "Evangelho de João",
+        "Cisjordânia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Nablus (Siquém)",
+      "pais": "Cisjordânia (Palestina)",
+      "tipo_local": "poço bíblico",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Po%C3%A7o_de_Jac%C3%B3"
+      ]
+    },
+    {
+      "id": "terra-santa:monte-nebo",
+      "slug": "monte-nebo",
+      "titulo": "Monte Nebo",
+      "categoria": "terra-santa",
+      "resumo": "Elevação no atual território da Jordânia de onde, segundo o livro do Deuteronômio, Moisés contemplou a Terra Prometida antes de morrer sem nela entrar.",
+      "corpo": "Segundo o relato bíblico de Deuteronômio 34, Deus conduziu Moisés ao cume do Monte Nebo, defronte a Jericó, para que contemplasse toda a extensão da Terra Prometida antes de morrer — sem, contudo, permitir-lhe atravessar o Jordão e nela entrar. Do alto do monte, a cerca de 700 metros de altitude e a 9 km de Madaba, avistam-se em dias claros o vale do Jordão, o Mar Morto, Jericó e, ao longe, as colinas de Jerusalém.\n\nJá nos primeiros séculos do cristianismo o local tornou-se destino de peregrinação, e no cume erguia-se, desde o período bizantino, um mosteiro com igreja memorial dedicada a Moisés, hoje reconstruído sobre as fundações originais e preservando mosaicos dos séculos VI e VII. O papa João Paulo II visitou o Monte Nebo em 2000, durante sua peregrinação jubilar à Terra Santa, e Bento XVI e Francisco fizeram o mesmo em suas respectivas visitas à Jordânia.",
+      "tags": [
+        "Moisés",
+        "Antigo Testamento",
+        "Jordânia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "próximo a Madaba",
+      "pais": "Jordânia",
+      "tipo_local": "monte",
+      "fontes": [
+        "https://madainproject.com/memorial_church_of_moses_(mount_nebo)",
+        "https://www.beinharimtours.com/mount-nebo-jordan/"
+      ]
+    },
+    {
+      "id": "terra-santa:caverna-dos-patriarcas-hebron",
+      "slug": "caverna-dos-patriarcas-hebron",
+      "titulo": "Caverna dos Patriarcas",
+      "categoria": "terra-santa",
+      "resumo": "Recinto sagrado erguido por Herodes, o Grande, sobre a gruta de Macpela, onde a tradição bíblica situa o sepultamento de Abraão, Sara e outros patriarcas.",
+      "corpo": "Segundo Gênesis 23, Abraão comprou dos hititas a Caverna de Macpela, em Hebron, como sepultura para sua esposa Sara, tornando-se ele próprio, e depois Isaque, Rebeca, Jacó e Lia, sepultados no mesmo local — o mais antigo sítio adquirido e reconhecido como propriedade pelo povo de Israel na Bíblia. O recinto monumental que hoje envolve as grutas, erguido em enormes blocos de calcário por Herodes, o Grande, no século I a.C., ecoa em técnica construtiva o Monte do Templo de Jerusalém.\n\nVenerado como lugar sagrado por judeus, cristãos e muçulmanos, o local foi convertido em mesquita após a conquista muçulmana da região, recebendo o nome de Mesquita de Ibrahim (Abraão), e ainda hoje é dividido entre espaços de culto judaico e islâmico. Palco de tensões e episódios de violência ao longo da história recente, o santuário continua sendo, para a tradição cristã, um dos lugares mais diretamente ligados às origens da fé em torno do Deus único professado por Abraão.",
+      "tags": [
+        "Abraão",
+        "Antigo Testamento",
+        "Cisjordânia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Hebron",
+      "pais": "Cisjordânia (Palestina)",
+      "tipo_local": "túmulo / santuário",
+      "fontes": [
+        "https://pt.sacredsites.com/M%C3%A9dio-Oriente/Israel/hebron.html",
+        "https://www.universalidadedabiblia.com.br/as-tumbas-dos-patriarcas/"
+      ]
+    },
+    {
+      "id": "terra-santa:campo-dos-pastores",
+      "slug": "campo-dos-pastores",
+      "titulo": "Campo dos Pastores",
+      "categoria": "terra-santa",
+      "resumo": "Campo próximo a Belém onde, segundo o Evangelho de Lucas, um anjo anunciou aos pastores o nascimento de Jesus.",
+      "corpo": "Nos arredores de Belém, na localidade de Beit Sahour, a tradição situa o campo onde pastores guardavam seus rebanhos durante a noite quando, segundo Lucas 2,8-20, um anjo do Senhor lhes apareceu anunciando o nascimento do Salvador, seguido por uma multidão de anjos que cantava “Glória a Deus nas alturas, e paz na terra aos homens de boa vontade”. Movidos pelo anúncio, os pastores dirigiram-se a Belém e foram os primeiros a adorar o Menino na manjedoura.\n\nA Custódia da Terra Santa ergueu no local, entre 1953 e 1954, o Santuário do “Gloria in Excelsis Deo”, projetado com planta decagonal e paredes inclinadas para evocar uma tenda nômade, sobre as ruínas arqueológicas de estruturas bizantinas anteriores associadas ao episódio. Junto às ruínas de uma gruta pastoril vizinha, franciscanos e ortodoxos mantêm cada um seu próprio espaço de culto, e o Campo dos Pastores segue como parada tradicional de peregrinos que visitam Belém, sobretudo na época do Natal.",
+      "tags": [
+        "Natividade",
+        "Belém",
+        "anjos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Beit Sahour, próximo a Belém",
+      "pais": "Palestina (Cisjordânia)",
+      "tipo_local": "sítio bíblico",
+      "fontes": [
+        "https://www.custodia.org/en/sanctuaries/bethlehem-the-shepherds-field-and-grotto/",
+        "https://www.custodia.org/en/news/beit-sahour-place-angels-annunciation-shepherds/"
+      ]
+    },
+    {
+      "id": "terra-santa:seforis",
+      "slug": "seforis",
+      "titulo": "Séforis",
+      "categoria": "terra-santa",
+      "resumo": "Antiga cidade romana da Galileia próxima a Nazaré, identificada pela tradição cristã como terra natal de Sant'Ana, mãe da Virgem Maria.",
+      "corpo": "Situada cerca de dez quilômetros a noroeste de Nazaré, Séforis (Tzipori, em hebraico) foi, a partir de meados do século I, capital administrativa da Galileia sob domínio romano, conhecida por sua convivência entre populações judaicas, pagãs e, mais tarde, cristãs — o que lhe valeu o apelido de “pérola da Galileia”. Escavações arqueológicas revelaram um extenso traçado urbano romano, com colunatas, um sistema hidráulico sofisticado, um anfiteatro atribuído a Herodes Antipas e ricos mosaicos, entre eles o célebre retrato conhecido como “Mona Lisa da Galileia”.\n\nEmbora não citada nos Evangelhos, Séforis é associada por uma tradição cristã antiga, atestada por vestígios de uma igreja de três naves do período cruzado, ao local de nascimento de Sant'Ana, mãe da Virgem Maria — e, por extensão, à infância de Maria antes de sua vida em Nazaré. Pela proximidade e pelas rotas que ligavam as duas localidades, estudiosos também consideram plausível que Jesus, criado como carpinteiro em Nazaré, tenha trabalhado em obras na então florescente cidade vizinha.",
+      "tags": [
+        "Galileia",
+        "Sant'Ana",
+        "arqueologia bíblica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "próximo a Nazaré, na Galileia",
+      "pais": "Israel",
+      "tipo_local": "cidade histórica",
+      "fontes": [
+        "https://blog.cancaonova.com/terrasanta/2018/09/21/seforis-cidade-da-mae-de-maria/",
+        "http://portal.metodista.br/arqueologia/artigos/2012/israel-seforis"
+      ]
     }
   ]
 }

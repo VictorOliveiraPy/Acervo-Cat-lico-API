@@ -480,6 +480,259 @@
       "ano": null,
       "local": "Loreto, Itália",
       "fontes": []
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-de-laus",
+      "slug": "nossa-senhora-de-laus",
+      "titulo": "Nossa Senhora de Laus (Refúgio dos Pecadores)",
+      "categoria": "nossa-senhora",
+      "resumo": "Aparições marianas ocorridas entre 1664 e 1718 em Saint-Étienne-le-Laus, na França, reconhecidas oficialmente pela Igreja em 2008 — as mais recentes aprovadas pela Santa Sé até aquela data.",
+      "corpo": "Entre 1664 e 1718, a jovem pastora Benoîte Rencurel afirmou receber, na aldeia de Saint-Étienne-le-Laus, nos Altos Alpes franceses, sucessivas aparições da Virgem Maria, que se apresentou como \"Refúgio dos Pecadores\" e pediu a construção de uma igreja no local para acolher pecadores em busca de reconciliação. As mensagens insistiam sobretudo na misericórdia de Deus e no valor da confissão.\n\nApós um longo processo de investigação histórica e teológica, dom Jean-Michel di Falco Léandri, bispo de Gap, anunciou em 4 de maio de 2008, durante celebração no santuário e na presença de vários bispos e cardeais, o reconhecimento oficial do caráter sobrenatural das aparições. Até aquela data, era a mais recente aparição mariana a receber aprovação eclesiástica plena.\n\nO Santuário de Nossa Senhora de Laus continua sendo local de peregrinação, com destaque para a pastoral da reconciliação e da confissão, em continuidade com o pedido atribuído à própria Benoîte Rencurel.",
+      "tags": [
+        "aparição mariana",
+        "França",
+        "século XVII",
+        "reconciliação"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Diocese de Gap e Embrun, decreto de reconhecimento das aparições de Notre-Dame du Laus (4 de maio de 2008)",
+        "Cançao Nova Notícias, \"Igreja reconhece aparição de Nossa Senhora de Laus\""
+      ],
+      "tipo": "aparicao",
+      "ano": "1664-1718 (reconhecimento em 2008)",
+      "local": "Saint-Étienne-le-Laus, Altos Alpes (França)"
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-de-kibeho",
+      "slug": "nossa-senhora-de-kibeho",
+      "titulo": "Nossa Senhora de Kibeho",
+      "categoria": "nossa-senhora",
+      "resumo": "Aparições marianas a três jovens estudantes em Kibeho, Ruanda, entre 1981 e 1989, reconhecidas em 2001 — a primeira aparição mariana aprovada pela Igreja no continente africano.",
+      "corpo": "A partir de 28 de novembro de 1981, três estudantes do colégio de Kibeho — Alphonsine Mumureke, Anathalie Mukamazimpaka e Marie-Claire Mukangango — afirmaram receber aparições da Virgem Maria, que se identificou como \"Mãe do Verbo\" e, em mensagens posteriores, advertiu sobre guerras e derramamento de sangue caso os povos não se convertessem — advertências que muitos associaram, depois, ao genocídio de 1994 em Ruanda.\n\nApós investigação médica, psicológica e teológica conduzida ao longo de duas décadas, dom Augustin Misago, bispo de Gikongoro, declarou em 29 de junho de 2001 que havia \"mais razões para crer do que para negar\" a autenticidade das aparições, reconhecendo-as oficialmente como conformes aos critérios estabelecidos pela Igreja para revelações privadas.\n\nKibeho tornou-se, assim, o primeiro local de aparição mariana no continente africano com reconhecimento eclesiástico pleno, e permanece importante centro de peregrinação e de oração pela paz na região dos Grandes Lagos.",
+      "tags": [
+        "aparição mariana",
+        "África",
+        "Ruanda",
+        "século XX"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Diocese de Gikongoro, declaração de reconhecimento de dom Augustin Misago (29 de junho de 2001)",
+        "Rádio Vaticano, cobertura do reconhecimento oficial (2001)"
+      ],
+      "tipo": "aparicao",
+      "ano": "1981-1989 (reconhecimento em 2001)",
+      "local": "Kibeho, Ruanda"
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-de-siluva",
+      "slug": "nossa-senhora-de-siluva",
+      "titulo": "Nossa Senhora de Šiluva",
+      "categoria": "nossa-senhora",
+      "resumo": "Aparição de 1608 na Lituânia, uma das mais antigas da Europa com aprovação da Santa Sé, confirmada por decreto do papa Pio VI em 1775.",
+      "corpo": "Por volta de 1608, em Šiluva, na Lituânia, um grupo de crianças pastoras afirmou ter visto sobre uma pedra, no local onde antes existira uma igreja católica destruída durante os conflitos religiosos da Reforma, uma Senhora vestida de branco chorando com o Menino Jesus nos braços. Segundo o relato, ela chorava porque ali seu Filho fora antes adorado e o culto havia sido abandonado.\n\nA aparição ocorreu num período de forte perda de fiéis católicos na região para o calvinismo, e é associada ao início da recuperação da fé católica na Lituânia. A pedra do local foi preservada e tornou-se centro de peregrinação.\n\nEm 17 de agosto de 1775, o papa Pio VI, por decreto, autorizou solenemente o culto e reconheceu a autenticidade da tradição de Šiluva. Em 1988, João Paulo II elevou o santuário à dignidade de basílica menor. É considerada uma das aparições marianas mais antigas com reconhecimento formal da Santa Sé.",
+      "tags": [
+        "aparição mariana",
+        "Lituânia",
+        "século XVII",
+        "Reforma"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Decreto do papa Pio VI sobre a autenticidade de Nossa Senhora de Šiluva (17 de agosto de 1775)",
+        "Cançao Nova Notícias, \"História da devoção à Nossa Senhora de Siluva\""
+      ],
+      "tipo": "aparicao",
+      "ano": "1608 (decreto papal em 1775)",
+      "local": "Šiluva, Lituânia"
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-de-cuapa",
+      "slug": "nossa-senhora-de-cuapa",
+      "titulo": "Nossa Senhora de Cuapa",
+      "categoria": "nossa-senhora",
+      "resumo": "Aparições a Bernardo Martínez em 1980, na Nicarágua, durante período de guerra civil, com aprovação eclesiástica dos bispos locais a partir de 1982.",
+      "corpo": "Em 1980, no povoado de Cuapa, no departamento de Chontales, Nicarágua, o catequista Bernardo Martínez afirmou ter recebido, a partir de 15 de abril daquele ano, sucessivas aparições da Virgem Maria, que se identificou como \"Rainha da Paz\" e pediu oração pela conversão, o resgate do terço em família e a paz para o país, então mergulhado em guerra civil.\n\nAs mensagens de Cuapa insistem na simplicidade da vida cristã, na reza do rosário e na reconciliação entre nicaraguenses em conflito. O caso foi acompanhado de perto pela hierarquia local desde o início.\n\nEm 1982, o bispo auxiliar de Manágua, dom César Bosco Vivas Robelo, e o bispo de Juigalpa, dom Pablo Antonio Vega, autorizaram a divulgação do relato das aparições, dando início ao reconhecimento eclesiástico do caso, hoje contando também com o apoio do mariólogo francês René Laurentin. Cuapa tornou-se importante santuário de peregrinação mariana na América Central.",
+      "tags": [
+        "aparição mariana",
+        "América Central",
+        "Nicarágua",
+        "século XX"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Autorizações episcopais de dom César Bosco Vivas Robelo e dom Pablo Antonio Vega (1982)",
+        "Wikipédia, \"Nossa Senhora de Cuapa\""
+      ],
+      "tipo": "aparicao",
+      "ano": "1980 (aprovação a partir de 1982)",
+      "local": "Cuapa, Chontales (Nicarágua)"
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-de-san-nicolas",
+      "slug": "nossa-senhora-de-san-nicolas",
+      "titulo": "Nossa Senhora do Rosário de San Nicolás",
+      "categoria": "nossa-senhora",
+      "resumo": "Aparições a Gladys Quiroga de Motta entre 1983 e 1990, em San Nicolás de los Arroyos, Argentina, com reconhecimento oficial do bispo diocesano em 2016.",
+      "corpo": "A partir de 25 de setembro de 1983, Gladys Quiroga de Motta, moradora de San Nicolás de los Arroyos, na província de Buenos Aires, Argentina, relatou a primeira de uma longa série de aparições marianas, que se estenderam até 1990. Nas mensagens, Maria se apresentou vinculada ao título do Rosário e insistiu na oração, na penitência e na conversão.\n\nO caso foi acompanhado por décadas de investigação diocesana, incluindo exames teológicos e médicos sobre a vidente. Em 22 de maio de 2016, dom Héctor Cardelli, bispo de San Nicolás, declarou reconhecer \"o caráter sobrenatural dos fatos ocorridos em San Nicolás relativos às aparições da Santíssima Virgem Maria\" a Gladys Quiroga de Motta.\n\nO santuário de San Nicolás, erguido no local, tornou-se um dos principais destinos de peregrinação mariana da Argentina, recebendo milhões de visitantes ao longo dos anos.",
+      "tags": [
+        "aparição mariana",
+        "Argentina",
+        "rosário",
+        "século XX"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Diocese de San Nicolás, declaração de dom Héctor Cardelli sobre o caráter sobrenatural das aparições (22 de maio de 2016)",
+        "ACI Digital, \"A Igreja reconhece oficialmente as aparições de Nossa Senhora em San Nicolás, Argentina\""
+      ],
+      "tipo": "aparicao",
+      "ano": "1983-1990 (reconhecimento em 2016)",
+      "local": "San Nicolás de los Arroyos (Argentina)"
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-de-betania",
+      "slug": "nossa-senhora-de-betania",
+      "titulo": "Nossa Senhora Reconciliadora dos Povos (Betania)",
+      "categoria": "nossa-senhora",
+      "resumo": "Aparições a María Esperanza de Bianchini na Finca Betania, Venezuela, entre 1976 e 1989, reconhecidas pelo bispo local em 1987.",
+      "corpo": "Na Finca Betania, próxima da cidade de Cúa, Venezuela, a mística María Esperanza de Bianchini relatou sucessivas aparições da Virgem Maria entre 1976 e 1989, presenciadas em diversas ocasiões por dezenas de outras pessoas presentes no local. Nas mensagens, Maria se apresentou como \"Reconciliadora dos Povos e das Nações\", convidando à reconciliação familiar e social e à conversão do coração.\n\nDom Pío Bello Ricardo, bispo da diocese de Los Teques, à qual pertence Betania, conduziu processo de averiguação e, em 21 de novembro de 1987, declarou o caráter sobrenatural dos acontecimentos, autorizando o culto público e a construção de uma capela dedicada a Maria Reconciliadora no local.\n\nEm 2009, a Conferência Episcopal Venezuelana concedeu ao santuário o título de santuário diocesano. Betania permanece como importante centro de peregrinação mariana na Venezuela e um dos poucos locais de aparição reconhecidos pela Igreja nas Américas.",
+      "tags": [
+        "aparição mariana",
+        "Venezuela",
+        "reconciliação",
+        "século XX"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Diocese de Los Teques, declaração de dom Pío Bello Ricardo sobre Finca Betania (21 de novembro de 1987)",
+        "The Eastern Church, \"Our Lady of Reconciliation at Finca Betania\""
+      ],
+      "tipo": "aparicao",
+      "ano": "1976-1989 (reconhecimento em 1987)",
+      "local": "Betania, Cúa (Venezuela)"
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-auxiliadora",
+      "slug": "nossa-senhora-auxiliadora",
+      "titulo": "Nossa Senhora Auxiliadora",
+      "categoria": "nossa-senhora",
+      "resumo": "Título de \"Auxílio dos Cristãos\", ligado à vitória de Lepanto (1571) e à libertação do papa Pio VII do cativeiro napoleônico, tornado célebre pela devoção de São João Bosco.",
+      "corpo": "A invocação de Maria como \"Auxílio dos Cristãos\" (Auxilium Christianorum) remonta ao século XVI, quando o papa São Pio V a incluiu na Ladainha de Loreto em ação de graças pela vitória naval de Lepanto (1571), atribuída à intercessão mariana. O título voltou a ganhar destaque no início do século XIX: preso por Napoleão Bonaparte e levado para o exílio em Savona e depois Fontainebleau, o papa Pio VII invocou insistentemente Nossa Senhora sob esse título e, ao ser libertado e retornar a Roma em 1814, instituiu a festa de Maria Auxiliadora em ação de graças, fixada em 24 de maio.\n\nO título foi definitivamente popularizado por São João Bosco (1815-1888), fundador da Congregação Salesiana, que atribuía à intercessão de Maria Auxiliadora a proteção de sua obra educativa junto à juventude pobre de Turim e construiu, em sua homenagem, a Basílica de Maria Auxiliadora naquela cidade italiana.\n\nHoje Nossa Senhora Auxiliadora é padroeira de diversas dioceses e nações — entre elas partes expressivas do Brasil — e sua festa, em 24 de maio, é amplamente celebrada em paróquias e escolas salesianas ao redor do mundo.",
+      "tags": [
+        "título mariano",
+        "Dom Bosco",
+        "salesianos",
+        "Lepanto"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Vatican News, \"Nossa Senhora Auxiliadora\"",
+        "Salesianos.br, \"Conheça a história de devoção a Nossa Senhora Auxiliadora\""
+      ],
+      "tipo": "titulo",
+      "ano": "1814-1815 (instituição da festa)",
+      "local": "Roma; Turim (Itália)"
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-desatadora-dos-nos",
+      "slug": "nossa-senhora-desatadora-dos-nos",
+      "titulo": "Nossa Senhora Desatadora dos Nós",
+      "categoria": "nossa-senhora",
+      "resumo": "Título devocional originado de uma pintura barroca de Augsburgo (c. 1700), que representa Maria desatando os nós de uma fita — símbolo das dificuldades humanas —, popularizado no mundo de língua espanhola e portuguesa pelo papa Francisco.",
+      "corpo": "A devoção tem origem numa tradição familiar da nobreza de Augsburgo, na Baviera, ligada a Wolfgang Langenmantel e sua esposa Sophia, do início do século XVII, e ganhou forma artística por volta de 1700, quando o pintor Johann Georg Melchior Schmidtner produziu, para a igreja de São Pedro am Perlach naquela cidade alemã, o quadro que representa Nossa Senhora desatando pacientemente os nós de uma longa fita segurada por anjos — os nós simbolizando os problemas, pecados e dificuldades que atam a vida humana.\n\nA devoção permaneceu circunscrita à Alemanha por séculos, até ser conhecida, no fim do século XX, pelo então padre Jorge Mario Bergoglio, futuro papa Francisco, durante uma viagem a Augsburgo. De volta à Argentina, ele trouxe uma reprodução do quadro e contribuiu decisivamente para difundir a devoção na América Latina e depois em todo o mundo católico de língua espanhola e portuguesa.\n\nA novena a Nossa Senhora Desatadora dos Nós, muito praticada hoje em paróquias brasileiras, tem sua memória litúrgica popular fixada em 28 de setembro.",
+      "tags": [
+        "título mariano",
+        "Alemanha",
+        "papa Francisco",
+        "novena"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Wikipedia, \"Mary, Untier of Knots\"",
+        "Devotos.ia.br, \"Our Lady Undoer of Knots\""
+      ],
+      "tipo": "titulo",
+      "ano": "c. 1700",
+      "local": "Augsburgo (Alemanha)"
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-do-rosario",
+      "slug": "nossa-senhora-do-rosario",
+      "titulo": "Nossa Senhora do Rosário",
+      "categoria": "nossa-senhora",
+      "resumo": "Título instituído pelo papa São Pio V após a vitória naval de Lepanto (1571), atribuída à intercessão de Maria obtida pela reza do terço; festa celebrada em 7 de outubro.",
+      "corpo": "Em 7 de outubro de 1571, a frota da Liga Santa — coalizão de forças cristãs europeias — enfrentou e derrotou a esquadra otomana na Batalha de Lepanto, um dos confrontos navais mais decisivos da história europeia. Antes do combate, o papa São Pio V, dominicano de formação, havia convocado toda a cristandade a rezar o rosário pedindo a intercessão de Nossa Senhora pela vitória.\n\nAo saber do resultado, Pio V atribuiu a vitória à intercessão mariana obtida pela oração do terço e instituiu, para aquele mesmo dia, a festa de Santa Maria da Vitória, posteriormente renomeada por seu sucessor Gregório XIII como festa de Nossa Senhora do Rosário, fixada em 7 de outubro.\n\nO título e a devoção ao rosário — meditação dos mistérios da vida de Cristo através de dezenas de Ave-Marias — tornaram-se, desde então, uma das formas de piedade mariana mais difundidas em todo o mundo católico, reafirmada por sucessivos papas, entre eles João Paulo II, que em 2002 acrescentou os mistérios luminosos à devoção tradicional.",
+      "tags": [
+        "título mariano",
+        "rosário",
+        "Lepanto",
+        "Pio V"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Virgen_del_Rosario%2C_de_Domingo_Mart%C3%ADnez_%28Museo_de_Bellas_Artes_de_Sevilla%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Gaudium Press, \"História de Nossa Senhora do Rosário\"",
+        "Padre Paulo Ricardo, \"A Batalha de Lepanto e o Santo Rosário\""
+      ],
+      "tipo": "titulo",
+      "ano": "1571",
+      "local": null
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-de-czestochowa",
+      "slug": "nossa-senhora-de-czestochowa",
+      "titulo": "Nossa Senhora de Częstochowa",
+      "categoria": "nossa-senhora",
+      "resumo": "Ícone venerado no Santuário de Jasna Góra, na Polônia, coroado canonicamente em 1717 pelo papa Clemente XI; padroeira do país.",
+      "corpo": "O ícone de Nossa Senhora de Częstochowa, do tipo bizantino Hodegetria — em que Maria aponta com a mão para o Menino Jesus como fonte de salvação —, é venerado desde o século XIV no Mosteiro de Jasna Góra (\"Monte Claro\"), na cidade polonesa de Częstochowa, sob a guarda dos monges paulinos. A imagem, de rosto marcado por cicatrizes atribuídas a uma profanação histórica, é popularmente chamada de \"Madona Negra\".\n\nEm 1655, durante a invasão sueca da Polônia, a defesa bem-sucedida do mosteiro foi atribuída à proteção de Nossa Senhora, levando o rei João II Casimiro a consagrar solenemente o país à Virgem, proclamando-a Rainha e Padroeira da Polônia. Em 8 de setembro de 1717, o papa Clemente XI concedeu ao ícone a coroação canônica, reconhecimento litúrgico reservado a imagens de devoção comprovada.\n\nAo longo dos séculos, Częstochowa consolidou-se como o principal santuário mariano e local de peregrinação nacional da Polônia, visitado por papas como João Paulo II — ele próprio polonês — e por milhões de fiéis todos os anos.",
+      "tags": [
+        "título mariano",
+        "Polônia",
+        "ícone",
+        "padroeira"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Wikipédia, \"Nossa Senhora de Częstochowa\"",
+        "Gaudium Press, \"Nossa Senhora de Częstochowa: Padroeira da Polônia\""
+      ],
+      "tipo": "titulo",
+      "ano": "1717 (coroação canônica)",
+      "local": "Częstochowa (Polônia)"
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-de-walsingham",
+      "slug": "nossa-senhora-de-walsingham",
+      "titulo": "Nossa Senhora de Walsingham",
+      "categoria": "nossa-senhora",
+      "resumo": "Título e santuário ingleses ligados à tradição medieval de uma visão a Richeldis de Faverches em 1061; a devoção foi restaurada e a imagem abençoada para veneração pública pelo papa Leão XIII em 1897.",
+      "corpo": "Segundo antiga tradição inglesa, em 1061 a nobre Richeldis de Faverches, na aldeia de Walsingham, no condado de Norfolk, teria recebido em visão o pedido de Nossa Senhora para construir uma réplica da \"Santa Casa\" de Nazaré, onde ocorrera a Anunciação. Erguida a construção, Walsingham tornou-se um dos maiores centros de peregrinação mariana da Europa medieval, até ser destruída em 1538 durante a dissolução dos mosteiros sob Henrique VIII.\n\nA devoção permaneceu praticamente extinta por mais de três séculos, até ser retomada no fim do século XIX: em 1897, o papa Leão XIII emitiu decreto abençoando uma nova imagem de Nossa Senhora de Walsingham para veneração pública, autorizando a retomada oficial das peregrinações católicas ao local. Em 1934, o santuário reconstruído foi reconhecido como Santuário Nacional Católico de Nossa Senhora na Inglaterra.\n\nWalsingham é hoje ponto de peregrinação tanto para católicos quanto para anglicanos, que mantêm ali um santuário próprio, sendo um dos poucos lugares de devoção mariana com raízes medievais reconhecidos oficialmente pela Igreja após a Reforma inglesa.",
+      "tags": [
+        "título mariano",
+        "Inglaterra",
+        "Idade Média",
+        "Leão XIII"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Decreto do papa Leão XIII sobre a imagem de Nossa Senhora de Walsingham (6 de fevereiro de 1897)",
+        "Wikipédia, \"Nossa Senhora de Walsingham\""
+      ],
+      "tipo": "titulo",
+      "ano": "1061 (tradição); 1897 (restauração aprovada)",
+      "local": "Walsingham, Norfolk (Inglaterra)"
     }
   ]
 }
