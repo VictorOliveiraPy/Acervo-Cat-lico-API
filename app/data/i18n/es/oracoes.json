@@ -1,0 +1,857 @@
+{
+  "_meta": {
+    "categoria": "oracoes",
+    "nome": "Oraciones",
+    "descricao": "Oraciones tradicionales católicas — texto para rezar y una nota sobre el origen y el uso de cada una.",
+    "status": "exemplos-iniciais",
+    "aviso": "No es un catálogo exhaustivo de oraciones católicas — existen cientos. Cada texto fue verificado contra una fuente confiable; donde no hay un texto único fijado por la liturgia, esto se indica explícitamente en el cuerpo de la entrada.",
+    "revisao_editorial": "Los textos litúrgicos fijos (Padre Nuestro, Ave María, Gloria al Padre, Credo, Salve Regina) siguen la versión en español ampliamente usada en las parroquias de habla hispana. Donde existen variantes populares sin texto oficial único (Santo Ángel, Acto de Contrición, oraciones a San Benito), esto se indica en el cuerpo, y el texto elegido se identifica como una versión entre otras.",
+    "fontes_gerais": [
+      "Catecismo de la Iglesia Católica, Cuarta Parte (\"La oración cristiana\")",
+      "Liturgia de las Horas (Oficio Divino)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "oracoes:pai-nosso",
+      "slug": "pai-nosso",
+      "titulo": "Padre Nuestro",
+      "categoria": "oracoes",
+      "resumo": "La oración enseñada por el propio Jesús a los discípulos, modelo de toda oración cristiana.",
+      "corpo": "El Padre Nuestro es la única oración que, según los evangelios, el propio Jesús enseñó a sus discípulos, en respuesta al pedido «Señor, enséñanos a orar» (Lc 11,1). Aparece en dos versiones en el Nuevo Testamento —más breve en Lucas (11,2-4) y más desarrollada en Mateo (6,9-13), dentro del Sermón de la Montaña—, siendo la versión de Mateo la que dio origen al texto litúrgico tradicional.\n\nEl Catecismo de la Iglesia Católica llama al Padre Nuestro «resumen de todo el Evangelio» y le dedica toda la cuarta parte de la exposición de la fe, una petición a la vez. Se reza en prácticamente toda celebración litúrgica católica —en la Misa, en el rosario, en el oficio divino— y es, por ello, la oración más repetida por un católico a lo largo de su vida.\n\nLa doxología final usada en la Misa («Tuyo es el reino, tuyo el poder y la gloria, por siempre, Señor») no está en el texto bíblico original: fue añadida por la tradición litúrgica antigua y se mantiene, hoy, como respuesta del pueblo después de la oración del sacerdote —por eso no forma parte del texto de la oración privada en sí.",
+      "tags": [
+        "oración",
+        "evangelio",
+        "liturgia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Brooklyn_Museum_-_The_Lord%27s_Prayer_%28Le_Pater_Noster%29_-_James_Tissot.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Evangelio según Mateo 6,9-13",
+        "Evangelio según Lucas 11,2-4",
+        "Catecismo de la Iglesia Católica, nn. 2759-2865"
+      ],
+      "texto": "Padre nuestro, que estás en el cielo,\nsantificado sea tu Nombre;\nvenga a nosotros tu reino;\nhágase tu voluntad\nen la tierra como en el cielo.\nDanos hoy nuestro pan de cada día;\nperdona nuestras ofensas,\ncomo también nosotros perdonamos\na los que nos ofenden;\nno nos dejes caer en la tentación,\ny líbranos del mal.\nAmén.",
+      "uso": "Oración diaria, Santa Misa, rosario (en cada decena), oficio divino",
+      "origem": "Evangelio según Mateo 6,9-13; Evangelio según Lucas 11,2-4"
+    },
+    {
+      "id": "oracoes:ave-maria",
+      "slug": "ave-maria",
+      "titulo": "Ave María",
+      "categoria": "oracoes",
+      "resumo": "Saludo a María que une las palabras del ángel Gabriel y de Isabel en el Evangelio a un pedido de intercesión.",
+      "corpo": "La primera mitad del Ave María une dos saludos bíblicos: el del ángel Gabriel a María en la Anunciación —«Alégrate, llena de gracia, el Señor está contigo» (Lc 1,28)— y el de Isabel, en el encuentro de la Visitación —«Bendita tú eres entre las mujeres, y bendito es el fruto de tu vientre» (Lc 1,42). Esta parte bíblica ya se usaba en oraciones desde los primeros siglos del cristianismo.\n\nLa segunda mitad —«Santa María, Madre de Dios, ruega por nosotros pecadores, ahora y en la hora de nuestra muerte»— es un añadido posterior, de origen medieval, consolidado sobre todo a partir del siglo XV y fijado oficialmente en la reforma del Breviario Romano de 1568, bajo Pío V.\n\nEs la oración más repetida del rosario —cada decena tiene diez avemarías— y una de las primeras que aprende un niño católico, junto con el Padre Nuestro y la Señal de la Cruz.",
+      "tags": [
+        "oración",
+        "María",
+        "evangelio",
+        "rosario"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/La_Anunciaci%C3%B3n_%28Fra_Angelico-Prado%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Evangelio según Lucas 1,26-45",
+        "Catecismo de la Iglesia Católica, nn. 2676-2677"
+      ],
+      "texto": "Dios te salve, María, llena eres de gracia,\nel Señor es contigo;\nbendita tú eres entre todas las mujeres,\ny bendito es el fruto de tu vientre, Jesús.\nSanta María, Madre de Dios,\nruega por nosotros, pecadores,\nahora y en la hora de nuestra muerte.\nAmén.",
+      "uso": "Rosario (diez por decena), Ángelus, oración diaria",
+      "origem": "Evangelio según Lucas 1,28 y 1,42 (primera parte); añadido medieval fijado en el Breviario Romano de 1568 (segunda parte)"
+    },
+    {
+      "id": "oracoes:gloria-ao-pai",
+      "slug": "gloria-ao-pai",
+      "titulo": "Gloria al Padre",
+      "categoria": "oracoes",
+      "resumo": "Breve doxología trinitaria rezada al final de los salmos, del rosario y de varias oraciones litúrgicas.",
+      "corpo": "El «Gloria al Padre» (en latín, «Gloria Patri») es una doxología —fórmula breve de alabanza a la Santísima Trinidad— de uso muy antiguo en la liturgia cristiana, con testimonios ya en el siglo IV. Su función es cerrar oraciones más largas devolviéndolas a su finalidad última: toda oración cristiana termina en alabanza a Dios Padre, Hijo y Espíritu Santo.\n\nSe reza al final de cada salmo en el oficio divino, al final de cada decena del rosario y en muchos otros momentos litúrgicos. La segunda parte («como era en el principio, ahora y siempre») afirma la eternidad de la Trinidad contra las herejías arrianas de los primeros siglos, que negaban la plena divinidad del Hijo y del Espíritu Santo.",
+      "tags": [
+        "oración",
+        "Trinidad",
+        "liturgia",
+        "rosario"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Andrey_Rublev_-_%D0%A1%D0%B2._%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B0_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, n. 2641 (alabanza trinitaria)"
+      ],
+      "texto": "Gloria al Padre, y al Hijo,\ny al Espíritu Santo.\nComo era en el principio, ahora y siempre,\npor los siglos de los siglos.\nAmén.",
+      "uso": "Final de los salmos, rosario (en cada decena), oficio divino",
+      "origem": "Uso litúrgico atestiguado desde el siglo IV"
+    },
+    {
+      "id": "oracoes:credo-dos-apostolos",
+      "slug": "credo-dos-apostolos",
+      "titulo": "Credo de los Apóstoles",
+      "categoria": "oracoes",
+      "resumo": "La profesión de fe más antigua de la Iglesia latina, que resume en doce artículos lo que el cristiano cree.",
+      "corpo": "El Credo de los Apóstoles (o Símbolo de los Apóstoles) es la profesión de fe bautismal más antigua de la Iglesia de Roma, con raíces en un antiguo formulario bautismal del siglo II, aunque no fue escrito literalmente por los doce apóstoles —la tradición que atribuye un artículo a cada uno de ellos, atestiguada ya por San Ambrosio en el siglo IV, es simbólica, no histórica en sentido literal.\n\nEstá dividido, desde la Antigüedad, en doce artículos, cada uno enunciando un punto central de la fe cristiana: Dios Padre creador, Jesucristo —concepción, nacimiento, pasión, muerte, resurrección, ascensión, juicio final—, el Espíritu Santo, y las realidades de la Iglesia, de los sacramentos y de la vida eterna.\n\nSe recita en el Bautismo y es una de las dos fórmulas de credo aceptadas en la Misa dominical, junto con el Credo Niceno-Constantinopolitano —más extenso, el mismo definido en los concilios de Nicea (325) y Constantinopla (381); ver categoría «Concilios».",
+      "tags": [
+        "oración",
+        "credo",
+        "fe",
+        "bautismo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nicaea_icon.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 194-195",
+        "San Ambrosio, «Explanatio Symboli» (siglo IV)"
+      ],
+      "texto": "Creo en Dios, Padre todopoderoso,\nCreador del cielo y de la tierra.\nCreo en Jesucristo, su único Hijo, Nuestro Señor,\nque fue concebido por obra y gracia del Espíritu Santo,\nnació de Santa María Virgen,\npadeció bajo el poder de Poncio Pilato,\nfue crucificado, muerto y sepultado,\ndescendió a los infiernos,\nal tercer día resucitó de entre los muertos,\nsubió a los cielos\ny está sentado a la derecha de Dios, Padre todopoderoso.\nDesde allí ha de venir a juzgar a vivos y muertos.\nCreo en el Espíritu Santo,\nla santa Iglesia católica,\nla comunión de los santos,\nel perdón de los pecados,\nla resurrección de la carne\ny la vida eterna.\nAmén.",
+      "uso": "Bautismo, inicio del rosario, Misa dominical (alternativa al Credo Niceno)",
+      "origem": "Formulario bautismal romano antiguo (c. siglo II), fijado hacia el siglo VIII"
+    },
+    {
+      "id": "oracoes:santo-anjo",
+      "slug": "santo-anjo",
+      "titulo": "Santo Ángel (Oración al Ángel de la Guarda)",
+      "categoria": "oracoes",
+      "resumo": "Pedido de protección al ángel que, según la fe católica, Dios designa para acompañar a cada persona.",
+      "corpo": "La creencia en un ángel de la guarda personal, designado por Dios para acompañar y proteger a cada ser humano a lo largo de la vida, tiene raíces bíblicas (Sal 91,11; Mt 18,10) y se celebra en la memoria litúrgica de los Santos Ángeles Custodios, el 2 de octubre.\n\nLa oración «Ángel de Dios» es la versión en español de una fórmula latina medieval conocida como «Angele Dei», de autoría incierta —tradicionalmente asociada a Reginaldo de Canterbury, monje de los siglos XI-XII. Existen otras versiones y traducciones populares en uso —más largas o en lenguaje infantil («Ángel de mi guarda, dulce compañía...»)—, sin que haya un texto único fijado oficialmente por la liturgia: a diferencia del Padre Nuestro o del Ave María, esta es una oración de devoción popular, no una fórmula litúrgica fija.\n\nSe reza tradicionalmente al despertar y antes de dormir, como pedido de protección para el día o la noche que comienza.",
+      "tags": [
+        "oración",
+        "ángeles",
+        "protección"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bernhard_Plockhorst_-_Schutzengel.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Salmo 91,11",
+        "Evangelio según Mateo 18,10",
+        "Martirologio Romano, 2 de octubre (Santos Ángeles Custodios)"
+      ],
+      "texto": "Ángel de Dios,\nmi fiel custodio,\nya que la piedad divina\nme ha encomendado a ti,\nilumíname,\nguárdame,\nrígeme\ny gobiérname.\nAmén.",
+      "uso": "Al despertar, antes de dormir, oración diaria",
+      "origem": "Fórmula latina medieval «Angele Dei», tradicionalmente atribuida a Reginaldo de Canterbury (siglos XI-XII)"
+    },
+    {
+      "id": "oracoes:salve-rainha",
+      "slug": "salve-rainha",
+      "titulo": "Salve Regina (Dios te Salve, Reina)",
+      "categoria": "oracoes",
+      "resumo": "Antífona mariana medieval que cierra el rosario, invocando a María como abogada y madre de misericordia.",
+      "corpo": "La «Salve Regina» es una de las cuatro grandes antífonas marianas del oficio divino, de origen medieval —atribuida, sin certeza documental definitiva, a monjes del siglo XI, entre ellos Hermano Contracto. Se convirtió en una de las oraciones marianas más difundidas de Occidente cristiano.\n\nSu tono es marcadamente distinto al de otras oraciones marianas: describe la condición humana como destierro («valle de lágrimas», «desterrados hijos de Eva») y pide a María que interceda ante Jesús por quienes aún peregrinan en esta vida —de ahí el título de «abogada nuestra».\n\nSe reza tradicionalmente al final del rosario y, en la liturgia de las horas, como antífona final de Completas —la última oración del día— en el período entre la Solemnidad de la Santísima Trinidad y el Adviento.",
+      "tags": [
+        "oración",
+        "María",
+        "rosario",
+        "liturgia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Coronation_of_Virgin_Jacopo_di_mino_Montepulciano.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Liturgia de las Horas, Completas",
+        "Catecismo de la Iglesia Católica, n. 2677 (títulos marianos de intercesión)"
+      ],
+      "texto": "Dios te salve, Reina y Madre de misericordia,\nvida, dulzura y esperanza nuestra, ¡Dios te salve!\nA ti clamamos los desterrados hijos de Eva;\na ti suspiramos, gimiendo y llorando\nen este valle de lágrimas.\nEa, pues, Señora, abogada nuestra,\nvuelve a nosotros esos tus ojos misericordiosos;\ny después de este destierro,\nmuéstranos a Jesús, fruto bendito de tu vientre.\n¡Oh clementísima, oh piadosa, oh dulce Virgen María!\nRuega por nosotros, Santa Madre de Dios,\npara que seamos dignos de alcanzar las promesas de Cristo.\nAmén.",
+      "uso": "Final del rosario, antífona final de Completas (de la Trinidad al Adviento)",
+      "origem": "Composición medieval (c. siglo XI), autoría tradicionalmente discutida entre monjes benedictinos"
+    },
+    {
+      "id": "oracoes:ato-de-contricao",
+      "slug": "ato-de-contricao",
+      "titulo": "Acto de Contrición",
+      "categoria": "oracoes",
+      "resumo": "Oración de arrepentimiento de los pecados, parte central del sacramento de la Confesión.",
+      "corpo": "El Acto de Contrición es la oración en la que el penitente expresa, con sus propias palabras o con una fórmula ya establecida, el dolor por haber pecado y el propósito de no volver a pecar —elemento que el Catecismo sitúa entre los actos esenciales del penitente en el sacramento de la Reconciliación, junto al examen de conciencia, la confesión en sí y la satisfacción (penitencia).\n\nLa teología moral distingue la «contrición perfecta» —motivada por el amor a Dios, como en esta fórmula («porque eres infinitamente bueno y te amo»)— de la «contrición imperfecta» o «atrición», motivada por ejemplo por el temor a la condenación; ambas son aceptadas para la absolución sacramental, aunque la perfecta se considera el motivo más elevado.\n\nExisten varias versiones tradicionales en español, algunas más largas que esta; la Iglesia no impone un texto único y fijo, y el penitente puede expresar la contrición con palabras propias, siempre que el contenido —arrepentimiento y propósito de enmienda— esté presente.",
+      "tags": [
+        "oración",
+        "confesión",
+        "penitencia",
+        "sacramentos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Return_of_the_Prodigal_Son_1667-1670_Murillo.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1450-1460 (los actos del penitente)"
+      ],
+      "texto": "Dios mío, porque eres infinitamente bueno\ny te amo de todo mi corazón,\nme pesa haberte ofendido;\ny, con el auxilio de tu divina gracia,\npropongo firmemente\nno volver jamás a ofenderte.\nPido y espero el perdón de mis culpas\npor tu infinita misericordia.\nAmén.",
+      "uso": "Sacramento de la Confesión (Reconciliación)",
+      "origem": "Fórmula catequética tradicional, de uso consolidado desde al menos el siglo XVI"
+    },
+    {
+      "id": "oracoes:cruz-de-sao-bento",
+      "slug": "cruz-de-sao-bento",
+      "titulo": "Cruz de San Benito",
+      "categoria": "oracoes",
+      "resumo": "Fórmula latina grabada en la medalla de San Benito, tradicionalmente usada como protección contra el mal.",
+      "corpo": "La medalla de San Benito lleva, en el frente de la cruz, dos series de iniciales latinas que resumen una fórmula de protección espiritual: «C S S M L — N D S M D» (que la Cruz Sagrada sea mi luz, que el dragón no sea mi guía) alrededor de la cruz, y «C S P B» (Cruz del Santo Padre Benito) en sus brazos.\n\nEn el reverso, las iniciales «V R S — N S M V — S M Q L — I V B» resumen el «Vade Retro Satana» («Apártate, Satanás»), fórmula de rechazo al mal cuyo origen devocional se remonta al menos al siglo XVII, cuando la medalla comenzó a acuñarse con ese diseño en la abadía de Metten, en Baviera; la forma hoy más difundida se fijó en 1880, para el 14.º centenario del nacimiento de San Benito.\n\nLa medalla no es un amuleto: la Iglesia la trata como un sacramental —un signo que dispone a la persona a recibir la gracia por la fe y la oración, no un objeto con poder mágico propio. Se asocia tradicionalmente a la protección contra las tentaciones y al patronato de San Benito sobre una buena muerte, y suele ser bendecida por un sacerdote antes de su uso. Además de esta fórmula de la medalla, circulan oraciones devocionales populares a San Benito —más largas y sin un texto único fijado, distintas de la fórmula reproducida aquí.",
+      "tags": [
+        "oración",
+        "San Benito",
+        "sacramentales",
+        "protección"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Saint_Benedict_Medal.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Bendición de la medalla de San Benito, Ritual Romano",
+        "Orden de San Benito — tradición monástica benedictina"
+      ],
+      "texto": "C S S M L — Crux Sacra Sit Mihi Lux\n(La Cruz Sagrada sea mi luz)\nN D S M D — Non Draco Sit Mihi Dux\n(Que el dragón no sea mi guía)\n\nV R S — Vade Retro Satana\n(Apártate, Satanás)\nN S M V — Numquam Suade Mihi Vana\n(Nunca me induzcas a vanidades)\nS M Q L — Sunt Mala Quae Libas\n(Es malo lo que me ofreces)\nI V B — Ipse Venena Bibas\n(Bebe tú mismo tu veneno)\n\nC S P B — Crux Sancti Patris Benedicti\n(Cruz del Santo Padre Benito)",
+      "uso": "Devoción personal; medalla usada o fijada en ambientes",
+      "origem": "Fórmula documentada desde el siglo XVII; forma actual de la medalla fijada en 1880"
+    },
+    {
+      "id": "oracoes:angelus",
+      "slug": "angelus",
+      "titulo": "Ángelus",
+      "categoria": "oracoes",
+      "resumo": "Oración tradicional en tres versículos y avemarías, rezada al amanecer, al mediodía y al atardecer, en memoria de la Encarnación.",
+      "corpo": "El Ángelus (del latín «angelus», ángel) recuerda el saludo del ángel Gabriel a María en la Anunciación. Su estructura —tres versículos bíblicos, cada uno seguido de un Ave María, y una oración final— se consolidó hacia el siglo XVI, aunque la costumbre de rezar al toque de campanas a determinadas horas del día es más antigua. Se reza tradicionalmente al salir el sol, al mediodía y al atardecer, al son de la campana de la iglesia; entre Pascua y Pentecostés es sustituido por el «Regina Coeli».",
+      "tags": [
+        "oración",
+        "Encarnación",
+        "María"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Botticelli%2C_annunciazione_del_Metropolitan.jpg",
+      "imagem_credito": null,
+      "texto": "V. El ángel del Señor anunció a María.\nR. Y concibió del Espíritu Santo.\nAve María...\n\nV. He aquí la esclava del Señor.\nR. Hágase en mí según tu palabra.\nAve María...\n\nV. Y el Verbo se hizo carne.\nR. Y habitó entre nosotros.\nAve María...\n\nRuega por nosotros, Santa Madre de Dios.\nPara que seamos dignos de alcanzar las promesas de Cristo.\n\nOremos: Infunde, Señor, tu gracia en nuestras almas, para que, los que por el anuncio del ángel hemos conocido la encarnación de tu Hijo, por su pasión y muerte seamos llevados a la gloria de la resurrección. Por Cristo, nuestro Señor. Amén.",
+      "uso": "Al amanecer, al mediodía y al atardecer",
+      "origem": "Uso devocional consolidado hacia el siglo XVI",
+      "fontes": [
+        "Catecismo de la Iglesia Católica",
+        "Vatican News, «Ángelus»"
+      ]
+    },
+    {
+      "id": "oracoes:regina-coeli",
+      "slug": "regina-coeli",
+      "titulo": "Regina Coeli (Reina del Cielo)",
+      "categoria": "oracoes",
+      "resumo": "Antífona mariana pascual que sustituye al Ángelus en el Tiempo Pascual, celebrando la Resurrección de Cristo.",
+      "corpo": "El «Regina Coeli» es una de las cuatro grandes antífonas marianas del oficio divino, de origen medieval, cantada tradicionalmente al final de Completas durante el Tiempo Pascual —del Domingo de Pascua a Pentecostés. Sustituye, en ese período, al Ángelus, adaptando la invitación a la alegría de la Resurrección, ya que aquí se invita a María a alegrarse porque «aquel que mereciste llevar en tu seno... ha resucitado, como dijo».",
+      "tags": [
+        "oración",
+        "Pascua",
+        "María"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Pietro_Perugino_cat53.jpg",
+      "imagem_credito": null,
+      "texto": "Reina del cielo, alégrate, aleluya,\nporque el Señor, a quien mereciste llevar en tu seno, aleluya,\nha resucitado, como dijo, aleluya.\nRuega por nosotros a Dios, aleluya.\n\nV. Goza y alégrate, Virgen María, aleluya.\nR. Porque verdaderamente ha resucitado el Señor, aleluya.\n\nOremos: Oh Dios, que por la resurrección de tu Hijo, nuestro Señor Jesucristo, te dignaste alegrar al mundo, concédenos, te lo pedimos, que por su Madre, la Virgen María, alcancemos los gozos de la vida eterna. Por Cristo, nuestro Señor. Amén.",
+      "uso": "Tiempo Pascual, sustituye al Ángelus",
+      "origem": "Antífona medieval del oficio divino",
+      "fontes": [
+        "Catecismo de la Iglesia Católica",
+        "Vatican News, «Regina Caeli»"
+      ]
+    },
+    {
+      "id": "oracoes:memorare",
+      "slug": "memorare",
+      "titulo": "Memorare (Acordaos)",
+      "categoria": "oracoes",
+      "resumo": "Oración de súplica a María, tradicionalmente atribuida a San Bernardo de Claraval, invocando su intercesión maternal.",
+      "corpo": "El «Memorare» —nombre que viene de la primera palabra en latín, «acordaos»— es una de las oraciones marianas más difundidas, tradicionalmente asociada a San Bernardo de Claraval, aunque su forma actual solo aparece documentada con claridad a partir del siglo XVII, por difusión de un sacerdote francés, Claude Bernard. Apela a la confianza de que María nunca ha dejado de socorrer a quien ha acudido a ella.",
+      "tags": [
+        "oración",
+        "María",
+        "confianza"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Madonna_Advocata.png",
+      "imagem_credito": null,
+      "texto": "Acordaos, oh piadosísima Virgen María,\nque jamás se ha oído decir\nque ninguno de los que han acudido a tu protección,\nque han implorado tu asistencia\ny reclamado tu socorro,\nhaya sido abandonado.\nAnimado con esta confianza,\na ti también acudo, oh Madre, Virgen de las vírgenes;\ny, gimiendo bajo el peso de mis pecados,\nme atrevo a comparecer ante tu presencia soberana.\nOh Madre del Verbo Encarnado,\nno desprecies mis súplicas,\nantes bien, escúchalas y acógelas benignamente.\nAmén.",
+      "uso": null,
+      "origem": "Atribuida tradicionalmente a San Bernardo de Claraval; forma difundida a partir del siglo XVII",
+      "fontes": [
+        "Catecismo de la Iglesia Católica",
+        "Vatican News, «Acordaos»"
+      ]
+    },
+    {
+      "id": "oracoes:anima-christi",
+      "slug": "anima-christi",
+      "titulo": "Alma de Cristo (Anima Christi)",
+      "categoria": "oracoes",
+      "resumo": "Oración devocional a la Eucaristía, de origen medieval, popularizada por San Ignacio de Loyola en los Ejercicios Espirituales.",
+      "corpo": "Aunque no fue compuesta por San Ignacio de Loyola, la oración «Alma de Cristo» —cuyo texto latino se remonta al siglo XIV— se hizo ampliamente conocida por haberla incluido él entre las oraciones recomendadas en los «Ejercicios Espirituales». Se reza tradicionalmente después de la comunión, como súplica de unión íntima con Cristo eucarístico.",
+      "tags": [
+        "oración",
+        "eucaristía",
+        "San Ignacio de Loyola"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/43/BentoXVI-51-11052007_%28frag%29.jpg",
+      "imagem_credito": "Foto: Fabio Pozzebom/ABr(Agência Brasil) — Wikimedia Commons, CC BY 3.0 br",
+      "texto": "Alma de Cristo, santifícame.\nCuerpo de Cristo, sálvame.\nSangre de Cristo, embriágame.\nAgua del costado de Cristo, lávame.\nPasión de Cristo, confórtame.\nOh buen Jesús, óyeme.\nDentro de tus llagas, escóndeme.\nNo permitas que me aparte de ti.\nDel maligno enemigo, defiéndeme.\nEn la hora de mi muerte, llámame,\ny mándame ir a ti,\npara que con tus santos te alabe\npor todos los siglos de los siglos. Amén.",
+      "uso": "Después de la comunión eucarística",
+      "origem": "Texto latino medieval (c. siglo XIV), difundido por San Ignacio de Loyola",
+      "fontes": [
+        "Catecismo de la Iglesia Católica",
+        "Vatican News, «Alma de Cristo»"
+      ]
+    },
+    {
+      "id": "oracoes:litania-de-loreto",
+      "slug": "litania-de-loreto",
+      "titulo": "Letanía de Nuestra Señora (Letanía Lauretana)",
+      "categoria": "oracoes",
+      "resumo": "Larga serie de invocaciones y títulos marianos, originada en el santuario italiano de Loreto, rezada tradicionalmente al final del rosario.",
+      "corpo": "La Letanía de Loreto recibe su nombre del santuario italiano donde su forma se consolidó, a partir del siglo XVI, aunque reúne invocaciones marianas de tradiciones mucho más antiguas —bíblicas, patrísticas y litúrgicas. Cada invocación va seguida de la respuesta «ruega por nosotros», y la lista de títulos se fue ampliando gradualmente a lo largo de los siglos por distintos papas, siendo el añadido más reciente el de «Madre de la Esperanza», por Francisco en 2020.",
+      "tags": [
+        "oración",
+        "María",
+        "letanía",
+        "Loreto"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Gentile_da_Fabriano_-_Coronation_of_the_Virgin.jpg",
+      "imagem_credito": null,
+      "texto": "Señor, ten piedad de nosotros.\nCristo, ten piedad de nosotros.\nSeñor, ten piedad de nosotros.\n\nSanta María, ruega por nosotros.\nSanta Madre de Dios, ruega por nosotros.\nMadre de Cristo, ruega por nosotros.\nMadre de la Iglesia, ruega por nosotros.\n[...]\nReina de los Ángeles, ruega por nosotros.\nReina de los Patriarcas, ruega por nosotros.\nReina de los Profetas, ruega por nosotros.\nReina de los Apóstoles, ruega por nosotros.\nReina de los Mártires, ruega por nosotros.\nReina de la Paz, ruega por nosotros.\n\nCordero de Dios, que quitas el pecado del mundo, perdónanos, Señor.\nCordero de Dios, que quitas el pecado del mundo, escúchanos, Señor.\nCordero de Dios, que quitas el pecado del mundo, ten piedad de nosotros.",
+      "uso": "Al final del rosario, procesiones marianas",
+      "origem": "Consolidada en el santuario de Loreto (Italia), a partir del siglo XVI",
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "oracoes:litania-dos-santos",
+      "slug": "litania-dos-santos",
+      "titulo": "Letanía de los Santos",
+      "categoria": "oracoes",
+      "resumo": "Invocación secuencial de santos y beatos, usada en la liturgia del Bautismo, de las Ordenaciones y de la Vigilia Pascual.",
+      "corpo": "La Letanía de los Santos es una de las oraciones litúrgicas más antiguas todavía en uso, con formas documentadas desde los primeros siglos de la Edad Media. Se reza o canta en momentos solemnes de la liturgia —la Vigilia Pascual, el Bautismo de adultos, las ordenaciones sacerdotales y episcopales, la profesión religiosa y la dedicación de iglesias—, invocando la intercesión de toda la «nube de testigos» que ya ha alcanzado la gloria celeste.",
+      "tags": [
+        "oración",
+        "letanía",
+        "santos",
+        "liturgia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Albrecht_D%C3%BCrer_-_Adoration_of_the_Trinity_%28Landauer_Altar%29_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "texto": "Señor, ten piedad de nosotros.\nCristo, ten piedad de nosotros.\n\nSanta María, Madre de Dios, ruega por nosotros.\nSan Miguel, ruega por nosotros.\nSan José, ruega por nosotros.\nSan Pedro y San Pablo, rogad por nosotros.\nSan Andrés, ruega por nosotros.\nSan Juan, ruega por nosotros.\n[demás invocaciones, según la celebración]\n\nMuéstrate propicio, líbranos, Señor.\nDe todo mal, líbranos, Señor.\nPor tu muerte y resurrección, líbranos, Señor.\n\nNosotros, pecadores, te rogamos, óyenos.",
+      "uso": "Vigilia Pascual, Bautismo, ordenaciones, profesiones religiosas",
+      "origem": "Formulario litúrgico atestiguado desde el inicio de la Edad Media",
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "oracoes:ato-de-fe-esperanca-caridade",
+      "slug": "ato-de-fe-esperanca-caridade",
+      "titulo": "Actos de Fe, Esperanza y Caridad",
+      "categoria": "oracoes",
+      "resumo": "Tres breves oraciones que profesan, respectivamente, la fe, la esperanza y el amor a Dios, tradicionalmente rezadas juntas.",
+      "corpo": "Los «actos» de fe, esperanza y caridad son fórmulas breves de profesión explícita de las tres virtudes teologales —fe, esperanza y caridad— descritas por el Catecismo como dones infusos que unen directamente al cristiano con Dios. Se enseñan tradicionalmente en la catequesis junto con el Padre Nuestro, el Ave María y el Acto de Contrición, aunque, como este último, no tienen un texto único impuesto por la liturgia.",
+      "tags": [
+        "oración",
+        "virtudes teologales",
+        "catequesis"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/La_Fe_%28L.S._Carmona%2C_MRABASF_E-108%29_01.jpg",
+      "imagem_credito": "Foto: Luis Salvador Carmona — Wikimedia Commons, CC BY-SA 3.0",
+      "texto": "Acto de Fe:\nDios mío, creo firmemente cuanto tú, verdad infalible,\nhas revelado y la Santa Iglesia Católica nos propone para creer,\nporque así lo revelaste tú, que eres la verdad infalible.\n\nActo de Esperanza:\nDios mío, espero de tu bondad y omnipotencia,\npor los méritos de Jesucristo,\nla vida eterna y las gracias necesarias para merecerla,\nmediante las buenas obras que debo y quiero hacer.\n\nActo de Caridad:\nDios mío, te amo con todo el corazón y sobre todas las cosas,\nporque eres infinitamente bueno y digno de ser amado,\ny amo a mi prójimo como a mí mismo, por amor de ti.",
+      "uso": "Catequesis; oración diaria",
+      "origem": "Fórmulas catequéticas tradicionales",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1812-1829 (las virtudes teologales)",
+        "El Testigo Fiel, «Acto de Fe, Esperanza y Caridad»"
+      ]
+    },
+    {
+      "id": "oracoes:oracao-a-sao-miguel-arcanjo",
+      "slug": "oracao-a-sao-miguel-arcanjo",
+      "titulo": "Oración a San Miguel Arcángel",
+      "categoria": "oracoes",
+      "resumo": "Oración de protección espiritual compuesta por León XIII en 1886 y recitada, en algunos lugares, al final de la Misa hasta la reforma litúrgica de 1964.",
+      "corpo": "Según un relato tradicional, el papa León XIII habría tenido una experiencia espiritual perturbadora que lo llevó a componer esta oración de protección contra el mal, en 1886, ordenando su recitación al final de toda Misa rezada —práctica suspendida tras la reforma litúrgica de 1964, pero mantenida por devoción en muchas parroquias y retomada, como recomendación, por Juan Pablo II en 1994 ante el avance del secularismo.",
+      "tags": [
+        "oración",
+        "San Miguel",
+        "protección espiritual"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/GuidoReni_MichaelDefeatsSatan.jpg",
+      "imagem_credito": null,
+      "texto": "San Miguel Arcángel, defiéndenos en el combate;\nsé nuestro amparo contra la maldad y las asechanzas del demonio.\nReprímalo Dios, humildemente lo suplicamos;\ny tú, príncipe de la milicia celestial,\ncon el poder que Dios te ha conferido,\narroja al infierno a Satanás\ny a todos los espíritus malignos\nque andan por el mundo para la perdición de las almas. Amén.",
+      "uso": "Al final de la Misa (uso tradicional); oración de protección",
+      "origem": "Compuesta por León XIII en 1886",
+      "fontes": [
+        "León XIII, decreto de institución (1886)",
+        "ACI Prensa, «Oración a San Miguel Arcángel»"
+      ]
+    },
+    {
+      "id": "oracoes:coroazinha-da-divina-misericordia",
+      "slug": "coroazinha-da-divina-misericordia",
+      "titulo": "Coronilla de la Divina Misericordia",
+      "categoria": "oracoes",
+      "resumo": "Devoción rezada con las cuentas del rosario, revelada según la tradición a Santa Faustina Kowalska, que apela a la misericordia divina por la Pasión de Cristo.",
+      "corpo": "Según el diario de Santa Faustina Kowalska, Jesús le habría enseñado, en 1935, esta oración como forma de apelar a la misericordia divina «en favor del mundo entero», especialmente en la hora de la muerte. Se reza con las cuentas del rosario, sustituyendo el Padre Nuestro y el Ave María por fórmulas propias, y se recita tradicionalmente a las 15 h, hora que la devoción identifica con el momento de la muerte de Cristo en la cruz —la «Hora de la Misericordia».",
+      "tags": [
+        "oración",
+        "misericordia divina",
+        "Santa Faustina"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kazimirowski_Eugeniusz%2C_Divine_Mercy%2C_1934.jpg",
+      "imagem_credito": null,
+      "texto": "(En las cuentas del Padre Nuestro:)\nPadre Eterno, te ofrezco el Cuerpo y la Sangre, el Alma y la Divinidad de tu amadísimo Hijo, Nuestro Señor Jesucristo, en expiación de nuestros pecados y de los del mundo entero.\n\n(En las diez cuentas del Ave María, diez veces:)\nPor su dolorosa Pasión, ten misericordia de nosotros y del mundo entero.\n\n(Al final, tres veces:)\nDios Santo, Dios Fuerte, Dios Inmortal, ten piedad de nosotros y del mundo entero.",
+      "uso": "Rosario, tradicionalmente a las 15 h («Hora de la Misericordia»)",
+      "origem": "Según la tradición, revelada a Santa Faustina Kowalska en 1935",
+      "fontes": [
+        "Santa Faustina Kowalska, «Diario»",
+        "Vatican News, «Coronilla de la Divina Misericordia»"
+      ]
+    },
+    {
+      "id": "oracoes:misterios-do-rosario",
+      "slug": "misterios-do-rosario",
+      "titulo": "Los Misterios del Rosario",
+      "categoria": "oracoes",
+      "resumo": "Las cuatro series de meditaciones —gozosos, dolorosos, gloriosos y luminosos— que estructuran la recitación del rosario.",
+      "corpo": "El Rosario combina la recitación vocal de avemarías con la meditación de episodios de la vida de Cristo y de María, organizados tradicionalmente en tres series de cinco «misterios» —gozosos, dolorosos y gloriosos—, cada uno asociado a un día de la semana. En 2002, Juan Pablo II, mediante la carta apostólica «Rosarium Virginis Mariae», añadió una cuarta serie, los «misterios luminosos», dedicados a la vida pública de Jesús, completando la contemplación de todo el misterio de Cristo.",
+      "tags": [
+        "oración",
+        "rosario",
+        "María",
+        "meditación"
+      ],
+      "imagem": "/img-acervo/misterios-do-rosario.jpg",
+      "imagem_credito": "Foto: James Coleman / Unsplash",
+      "texto": "Misterios Gozosos (lunes y sábados): la Anunciación; la Visitación; el Nacimiento de Jesús; la Presentación en el Templo; el Niño Jesús perdido y hallado en el Templo.\n\nMisterios Luminosos (jueves): el Bautismo de Jesús; las Bodas de Caná; el anuncio del Reino de Dios; la Transfiguración; la institución de la Eucaristía.\n\nMisterios Dolorosos (martes y viernes): la Agonía en el Huerto; la Flagelación; la Coronación de Espinas; Jesús con la Cruz a cuestas; la Crucifixión y Muerte.\n\nMisterios Gloriosos (miércoles y domingos): la Resurrección; la Ascensión; la Venida del Espíritu Santo; la Asunción de María; la Coronación de María como Reina.",
+      "uso": "Rosario diario",
+      "origem": "Estructura tradicional (siglos XV-XVI); misterios luminosos añadidos en 2002",
+      "fontes": [
+        "Juan Pablo II, Carta Apostólica «Rosarium Virginis Mariae» (2002)"
+      ]
+    },
+    {
+      "id": "oracoes:veni-creator-spiritus",
+      "slug": "veni-creator-spiritus",
+      "titulo": "Veni Creator Spiritus (Ven, Espíritu Creador)",
+      "categoria": "oracoes",
+      "resumo": "Himno medieval al Espíritu Santo, cantado tradicionalmente en Pentecostés, ordenaciones, sínodos y cónclaves.",
+      "corpo": "Atribuido tradicionalmente a Rábano Mauro, monje y arzobispo del siglo IX, aunque la autoría no es unánime entre los historiadores, el «Veni Creator Spiritus» es uno de los himnos más solemnes de la tradición latina, que invoca la acción del Espíritu Santo. Se entona en momentos institucionales importantes de la Iglesia —la apertura de cónclaves papales, ordenaciones episcopales y sacerdotales, sínodos y concilios, además de la propia solemnidad de Pentecostés.",
+      "tags": [
+        "oración",
+        "Espíritu Santo",
+        "Pentecostés",
+        "himno"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "texto": "Ven, Espíritu Creador,\nvisita las almas de tus fieles,\ny llena con la gracia celestial\nlos corazones que creaste.\n\nTú, a quien llamamos Paráclito,\ndon del Dios Altísimo,\nfuente viva, fuego, caridad\ny espiritual unción.\n\n[demás estrofas del himno litúrgico latino]\n\nGloria a Dios Padre,\ny al Hijo que resucitó de entre los muertos,\ny al Espíritu Consolador,\npor todos los siglos. Amén.",
+      "uso": "Pentecostés, ordenaciones, cónclaves, sínodos",
+      "origem": "Atribuido tradicionalmente a Rábano Mauro (siglo IX)",
+      "fontes": [
+        "Catecismo de la Iglesia Católica",
+        "ACI Prensa, «Ven, Espíritu Creador»"
+      ]
+    },
+    {
+      "id": "oracoes:te-deum",
+      "slug": "te-deum",
+      "titulo": "Te Deum",
+      "categoria": "oracoes",
+      "resumo": "Antiguo himno latino de alabanza y acción de gracias, cantado en ocasiones solemnes de celebración eclesial o cívica.",
+      "corpo": "De autoría incierta —la tradición lo ha asociado a San Ambrosio y San Agustín, sin confirmación documental—, el «Te Deum» es un himno de alabanza a la Trinidad cantado desde la Antigüedad tardía en ocasiones de particular solemnidad y acción de gracias: la canonización de santos, la elección de un papa, el cambio de año civil en la noche del 31 de diciembre, y celebraciones cívicas de gran trascendencia histórica.",
+      "tags": [
+        "oración",
+        "alabanza",
+        "acción de gracias",
+        "himno"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Masaccio%2C_Holy_Trinity%2C_1425-28%2C_Santa_Maria_Novella%2C_Florence.jpg",
+      "imagem_credito": null,
+      "texto": "A ti, oh Dios, te alabamos; a ti, Señor, te reconocemos.\nA ti, eterno Padre, te venera toda la tierra.\nA ti todos los ángeles, a ti los cielos y todas las potestades,\na ti los querubines y serafines te cantan sin cesar:\n¡Santo, Santo, Santo es el Señor, Dios del universo!\nLos cielos y la tierra están llenos de la majestad de tu gloria.\n\n[demás estrofas del himno litúrgico latino, en las que se alaba a la Trinidad y se pide la protección divina]",
+      "uso": "Canonizaciones, elección papal, cambio de año, acciones de gracias solemnes",
+      "origem": "Himno de autoría incierta, atestiguado desde la Antigüedad tardía",
+      "fontes": [
+        "Catecismo de la Iglesia Católica",
+        "Vatican News, «Te Deum»"
+      ]
+    },
+    {
+      "id": "oracoes:magnificat",
+      "slug": "magnificat",
+      "titulo": "Magnificat (Cántico de María)",
+      "categoria": "oracoes",
+      "resumo": "Cántico de alabanza de María en la Visitación, integrado a la liturgia diaria de las Vísperas.",
+      "corpo": "El «Magnificat» es el himno que el Evangelio de Lucas (1,46-55) pone en boca de María durante la visita a su prima Isabel, poco después de la Anunciación. Estructurado como una alabanza profética que celebra la acción de Dios en favor de los humildes y contra los poderosos y ricos, haciendo eco del cántico de Ana en el Primer Libro de Samuel, se convirtió en parte fija de la liturgia diaria de las Vísperas en la tradición latina.",
+      "tags": [
+        "oración",
+        "María",
+        "liturgia de las horas"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/The_Visitation_of_Mary_to_Elizabeth._Watercolour_painting._Wellcome_V0034594.jpg",
+      "imagem_credito": "Foto: Wellcome Collection — Wikimedia Commons, CC BY 4.0",
+      "texto": "Proclama mi alma la grandeza del Señor\ny se alegra mi espíritu en Dios, mi salvador,\nporque ha mirado la humillación de su esclava.\nDesde ahora me llamarán bienaventurada todas las generaciones,\npues el Poderoso ha hecho en mí maravillas,\ny santo es su nombre.\nSu misericordia se extiende de generación en generación\nsobre los que lo temen.\nDesplegó la fuerza de su brazo\ny dispersó a los soberbios de corazón.\nDerribó del trono a los poderosos\ny enalteció a los humildes.\nA los hambrientos los colmó de bienes\ny a los ricos los despidió vacíos.\nAuxilió a Israel, su siervo,\nacordándose de su misericordia,\ncomo lo había prometido a nuestros padres,\nen favor de Abrahán y su descendencia para siempre.",
+      "uso": "Vísperas (oficio divino diario)",
+      "origem": "Evangelio según Lucas 1,46-55",
+      "fontes": [
+        "Evangelio según Lucas 1,46-55"
+      ]
+    },
+    {
+      "id": "oracoes:bendito-e-louvado-seja",
+      "slug": "bendito-e-louvado-seja",
+      "titulo": "Bendito, Alabado y Por Siempre Sea",
+      "categoria": "oracoes",
+      "resumo": "Letanía breve de bendición al Santísimo Sacramento, rezada tradicionalmente al final de la bendición eucarística o en desagravio por blasfemias.",
+      "corpo": "Esta serie de invocaciones, también llamada «Acto de Reparación» o «Alabanzas Divinas», tiene origen devocional italiano en el siglo XVIII, ligado a prácticas de desagravio por blasfemias contra el nombre de Dios, y se difundió ampliamente asociada a la bendición con el Santísimo Sacramento. Cada invocación bendice sucesivamente a Dios, a Jesús, a su nombre, a su Sangre, a su Corazón, a la Eucaristía, a María y a los santos.",
+      "tags": [
+        "oración",
+        "eucaristía",
+        "reparación",
+        "letanía"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Genaro_P%C3%A9rez_Villaamil_-_The_Corpus_Christi_Procession_inside_Seville_Catedral_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "texto": "Bendito sea Dios.\nBendito sea su Santo Nombre.\nBendito sea Jesucristo, verdadero Dios y verdadero Hombre.\nBendito sea el Nombre de Jesús.\nBendito sea su Sacratísimo Corazón.\nBendita sea su Preciosísima Sangre.\nBendito sea Jesús en el Santísimo Sacramento del Altar.\nBendito sea el Espíritu Santo Paráclito.\nBendita sea la excelsa Madre de Dios, la Santísima Virgen María.\nBendita sea su Santa e Inmaculada Concepción.\nBendito sea el Nombre de María, Virgen y Madre.\nBendito sea San José, su castísimo esposo.\nBendito sea Dios en sus ángeles y en sus santos.",
+      "uso": "Bendición del Santísimo Sacramento",
+      "origem": "Devoción italiana del siglo XVIII, ligada a prácticas de desagravio",
+      "fontes": [
+        "Catecismo de la Iglesia Católica",
+        "ACI Prensa, «Bendito sea Dios»"
+      ]
+    },
+    {
+      "id": "oracoes:consagracao-a-nossa-senhora-breve",
+      "slug": "consagracao-a-nossa-senhora-breve",
+      "titulo": "Consagración a Nuestra Señora (fórmula breve)",
+      "categoria": "oracoes",
+      "resumo": "Fórmula breve de entrega personal a María, expresión de la espiritualidad de «consagración total» difundida por San Luis de Montfort.",
+      "corpo": "La práctica de «consagrarse» a María —entregarse a ella para que oriente la vida del fiel hacia Cristo— tiene raíces en la espiritualidad mariana medieval y fue sistematizada sobre todo por San Luis María Grignion de Montfort en el «Tratado de la Verdadera Devoción». Existen varias fórmulas, largas y breves; esta es una de las versiones cortas más usadas en la devoción personal diaria.",
+      "tags": [
+        "oración",
+        "consagración mariana",
+        "devoción personal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Louis_de_Montfort.jpg",
+      "imagem_credito": null,
+      "texto": "Oh Señora mía, oh Madre mía,\nyo me ofrezco todo entero a Vos.\nY, en prueba de mi filial afecto,\nos consagro en este día mis ojos, mis oídos, mi boca, mi corazón,\ntodo mi ser sin reserva.\nYa que así soy vuestro, oh buena Madre,\nguardadme y defendedme como cosa y propiedad vuestra. Amén.",
+      "uso": null,
+      "origem": "Tradición de espiritualidad mariana sistematizada por San Luis de Montfort (siglos XVII-XVIII)",
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "oracoes:oracao-antes-e-depois-das-refeicoes",
+      "slug": "oracao-antes-e-depois-das-refeicoes",
+      "titulo": "Oración antes y después de las Comidas",
+      "categoria": "oracoes",
+      "resumo": "Breves fórmulas de bendición de la mesa y de acción de gracias, practicadas en la tradición cristiana desde los primeros siglos.",
+      "corpo": "La práctica de bendecir los alimentos antes de comer y agradecer después se basa en el propio ejemplo de Jesús, que «tomó el pan, dio gracias» antes de partirlo (Lc 22,19), y está atestiguada en la vida cristiana doméstica desde la Antigüedad. No existe una fórmula litúrgica única y obligatoria para el uso familiar; las reproducidas aquí son las más corrientes en la tradición de lengua española.",
+      "tags": [
+        "oración",
+        "bendición de la mesa",
+        "vida diaria"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Eric_Enstrom_-_Grace_-_bw.jpg",
+      "imagem_credito": null,
+      "texto": "Antes de la comida:\nBendícenos, Señor, a nosotros y a estos dones\nque, por tu bondad, vamos a recibir.\nPor Cristo, nuestro Señor. Amén.\n\nDespués de la comida:\nTe damos gracias, Dios todopoderoso,\npor todos tus beneficios,\ntú que vives y reinas\npor todos los siglos de los siglos. Amén.",
+      "uso": "Antes y después de las comidas",
+      "origem": "Práctica cristiana doméstica atestiguada desde la Antigüedad",
+      "fontes": [
+        "Evangelio según Lucas 22,19"
+      ]
+    },
+    {
+      "id": "oracoes:coroa-franciscana",
+      "slug": "coroa-franciscana",
+      "titulo": "Corona Franciscana (Rosario de los Siete Gozos de María)",
+      "categoria": "oracoes",
+      "resumo": "Devoción franciscana de siete decenas de avemarías, que medita siete alegrías marianas ligadas a la vida de Cristo.",
+      "corpo": "De origen franciscano, que se remonta al siglo XV, la Corona Franciscana —también llamada «Rosario de los Siete Gozos de Nuestra Señora»— se organiza en siete decenas, en vez de las cinco del Rosario tradicional, meditando cada una un episodio de alegría en la vida de María: desde la Anunciación hasta su Coronación en el Cielo. Está especialmente extendida entre los franciscanos y las asociaciones vinculadas a ellos.",
+      "tags": [
+        "oración",
+        "franciscanos",
+        "María",
+        "rosario"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/af/0000_Franciscan_Crown.JPG",
+      "imagem_credito": "Foto: Eugenio Hansen, OFS — Wikimedia Commons, CC BY-SA 3.0",
+      "texto": "(Siete decenas de avemarías, cada una meditando uno de los «siete gozos»:)\n1. La Anunciación\n2. La Visitación\n3. El Nacimiento de Jesús\n4. La Adoración de los Magos\n5. El reencuentro del Niño Jesús en el Templo\n6. La aparición del Resucitado a María\n7. La Asunción y Coronación de María como Reina del Cielo\n\n(Al final, se añaden dos avemarías, totalizando el número tradicional de setenta y dos, en referencia a los años de vida de María según la tradición.)",
+      "uso": "Devoción franciscana, equivalente al rosario",
+      "origem": "Tradición franciscana, que se remonta al siglo XV",
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "oracoes:prece-de-sao-francisco-pela-paz",
+      "slug": "prece-de-sao-francisco-pela-paz",
+      "titulo": "Oración por la Paz (\"Oración de San Francisco\")",
+      "categoria": "oracoes",
+      "resumo": "Oración de pedido de instrumentalidad al servicio de la paz, popularmente atribuida a San Francisco de Asís, aunque de origen documental mucho más reciente.",
+      "corpo": "A pesar de ser ampliamente conocida como «Oración de San Francisco», esta oración no aparece en ningún escrito del santo de Asís ni en fuentes anteriores a comienzos del siglo XX: su primera publicación documentada es de 1912, en una revista espiritual francesa, de autoría anónima. La atribución a Francisco, aunque históricamente incorrecta, se difundió ampliamente por afinidad con el espíritu de pobreza, sencillez y paz de la tradición franciscana —y este acervo registra ese origen incierto, como hace en otros casos de devoción popular sin texto litúrgico fijado.",
+      "tags": [
+        "oración",
+        "paz",
+        "devoción popular"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Saint_Francis_statue_in_garden.jpg",
+      "imagem_credito": null,
+      "texto": "Señor, hazme un instrumento de tu paz.\nDonde haya odio, que yo lleve el amor;\ndonde haya ofensa, que yo lleve el perdón;\ndonde haya discordia, que yo lleve la unión;\ndonde haya duda, que yo lleve la fe;\ndonde haya error, que yo lleve la verdad;\ndonde haya desesperación, que yo lleve la esperanza;\ndonde haya tristeza, que yo lleve la alegría;\ndonde haya tinieblas, que yo lleve la luz.\n\nOh Maestro, que yo no busque tanto\nser consolado, cuanto consolar;\nser comprendido, cuanto comprender;\nser amado, cuanto amar.\nPorque dando se recibe,\nperdonando se es perdonado,\ny muriendo se resucita a la vida eterna.",
+      "uso": null,
+      "origem": "Publicación anónima francesa de 1912; la atribución a San Francisco de Asís es tradicional, no documental",
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "oracoes:credo-niceno-constantinopolitano",
+      "slug": "credo-niceno-constantinopolitano",
+      "titulo": "Credo Niceno-Constantinopolitano",
+      "categoria": "oracoes",
+      "resumo": "Profesión de fe más extensa y detallada que el Credo de los Apóstoles, definida por los concilios de Nicea (325) y Constantinopla I (381), usada en la Misa dominical.",
+      "corpo": "A diferencia del Credo de los Apóstoles, de formación gradual y uso bautismal, el Credo Niceno-Constantinopolitano tiene un origen conciliar preciso: fue formulado en el Concilio de Nicea (325) contra el arrianismo y ampliado en el I Concilio de Constantinopla (381), sobre todo en el artículo sobre el Espíritu Santo. Es el credo normalmente proclamado en la Misa dominical y festiva en toda la cristiandad —católica, ortodoxa y en muchas tradiciones protestantes—, aunque las Iglesias latina y orientales difieren sobre la cláusula del «Filioque» (la procedencia del Espíritu Santo «del Padre y del Hijo»), añadida más tarde en Occidente.",
+      "tags": [
+        "oración",
+        "credo",
+        "Concilio de Nicea",
+        "liturgia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nicaea_icon.jpg",
+      "imagem_credito": null,
+      "texto": "Creo en un solo Dios, Padre todopoderoso,\nCreador del cielo y de la tierra, de todo lo visible y lo invisible.\nCreo en un solo Señor, Jesucristo,\nHijo único de Dios,\nnacido del Padre antes de todos los siglos:\nDios de Dios, Luz de Luz, Dios verdadero de Dios verdadero,\nengendrado, no creado, de la misma naturaleza que el Padre,\npor quien todo fue hecho;\nque por nosotros, los hombres, y por nuestra salvación bajó del cielo,\ny por obra del Espíritu Santo se encarnó de María, la Virgen,\ny se hizo hombre.\n[demás artículos del Credo, incluyendo la Pasión, Resurrección, la Iglesia «una, santa, católica y apostólica», el Bautismo y la vida del mundo futuro]\nAmén.",
+      "uso": "Misa dominical y festiva",
+      "origem": "Concilio de Nicea I (325); ampliado en el Concilio de Constantinopla I (381)",
+      "fontes": [
+        "Concilio de Nicea I (325)",
+        "Concilio de Constantinopla I (381)",
+        "Catecismo de la Iglesia Católica, n. 195"
+      ]
+    },
+    {
+      "id": "oracoes:confiteor",
+      "slug": "confiteor",
+      "titulo": "Confiteor (Yo Confieso)",
+      "categoria": "oracoes",
+      "resumo": "Oración penitencial del inicio de la Misa, en la que los fieles reconocen su condición pecadora antes de celebrar los misterios sagrados.",
+      "corpo": "El «Confiteor» es la oración de confesión de los pecados que abre el acto penitencial de la Misa, con raíces que se remontan en parte al siglo VIII, siendo insertada formalmente en la liturgia de la Misa hacia el siglo XI. Ya San Agustín observaba la costumbre de recitarla golpeándose el pecho como señal de humildad —gesto conservado hasta hoy, sobre todo en las palabras «por mi culpa, por mi gran culpa».\n\nLa versión usada en el Misal Romano de Pablo VI, reproducida a continuación, es una forma abreviada respecto al texto más largo del Misal anterior a la reforma litúrgica, que incluía también la invocación de San Miguel Arcángel, de Juan el Bautista y de los apóstoles Pedro y Pablo. Es solo una de las fórmulas previstas por el Misal para el acto penitencial, pudiendo ser sustituida por otras al inicio de la Misa. (En España, el Misal usa el trato «vosotros»; en Hispanoamérica, «ustedes» —ambas son la misma fórmula oficial, adaptada regionalmente.)",
+      "tags": [
+        "acto penitencial",
+        "Misa",
+        "confesión de los pecados"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Misal Romano, Acto Penitencial (fórmula I)",
+        "Wikipedia, «Confíteor»"
+      ],
+      "texto": "Yo confieso ante Dios todopoderoso\ny ante ustedes, hermanos,\nque he pecado mucho\nde pensamiento, palabra, obra y omisión.\nPor mi culpa, por mi culpa, por mi gran culpa.\nPor eso ruego a Santa María, siempre Virgen,\na los ángeles, a los santos,\ny a ustedes, hermanos,\nque intercedan por mí ante Dios, nuestro Señor.",
+      "uso": "Acto penitencial al inicio de la Misa (una de las fórmulas previstas por el Misal Romano)",
+      "origem": "Compuesta en parte en el siglo VIII; insertada en la Misa hacia el siglo XI"
+    },
+    {
+      "id": "oracoes:sub-tuum-praesidium",
+      "slug": "sub-tuum-praesidium",
+      "titulo": "Sub Tuum Praesidium (Bajo tu Protección)",
+      "categoria": "oracoes",
+      "resumo": "La oración mariana más antigua conocida, conservada en un fragmento de papiro egipcio del siglo III.",
+      "corpo": "El «Sub Tuum Praesidium» se considera la oración dirigida a María más antigua de la que se tiene registro: su texto fue identificado en un fragmento de papiro descubierto en Egipto en 1927 y fechado en el siglo III. Tiene particular importancia histórica por hacer eco del contexto de persecución vivido por los primeros cristianos, e importancia teológica por invocar a María ya con el título de «Madre de Dios» (Theotókos), siglos antes de que ese título fuera definido dogmáticamente en el Concilio de Éfeso (431).\n\nSe usa como antífona mariana en diversos ritos litúrgicos, sobre todo en Completas, y sigue siendo una de las oraciones marianas más rezadas en la devoción personal hasta hoy, casi dieciocho siglos después de haber sido compuesta.",
+      "tags": [
+        "Theotókos",
+        "cristianismo primitivo",
+        "Egipto"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "A12, «La oración mariana más antigua»",
+        "Locus Mariologicus, «Antífona mariana: Sub tuum praesidium»",
+        "Verbum Gloriae, «Sub tuum praesidium»"
+      ],
+      "texto": "Bajo tu amparo nos acogemos,\nsanta Madre de Dios;\nno desprecies las súplicas\nque te dirigimos en nuestras necesidades,\nsino líbranos siempre\nde todos los peligros,\noh Virgen gloriosa y bendita.",
+      "uso": "Antífona mariana; devoción personal en diversos ritos litúrgicos",
+      "origem": "Papiro egipcio del siglo III, descubierto en 1927; la oración mariana más antigua conocida"
+    },
+    {
+      "id": "oracoes:de-profundis",
+      "slug": "de-profundis",
+      "titulo": "De Profundis (Salmo 130)",
+      "categoria": "oracoes",
+      "resumo": "Salmo penitencial que clama la misericordia divina desde el abismo de la angustia, tradicionalmente rezado en sufragio por los fieles difuntos.",
+      "corpo": "El «De Profundis» es el Salmo 130 (129 en la numeración de la Vulgata), uno de los siete salmos penitenciales de la tradición bíblica, que recibe ese nombre latino de sus primeras palabras, «desde lo profundo clamo a ti». Expresa la confianza en la misericordia de Dios a partir del reconocimiento sincero del propio pecado y de la propia pequeñez.\n\nA lo largo de la historia cristiana, se convirtió sobre todo en la oración de sufragio por los difuntos más usada en la tradición católica, recitada en funerales y en memoria de los fallecidos, además de ser recomendada en el examen de conciencia antes de la confesión y en momentos personales de aflicción.",
+      "tags": [
+        "salmo penitencial",
+        "sufragio por los difuntos",
+        "misericordia divina"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Salmo 130",
+        "Tenda do Senhor, «Salmo De Profundis (Sl 129/130): texto e significado»"
+      ],
+      "texto": "Desde lo hondo a ti grito, Señor;\nSeñor, escucha mi voz;\nestén atentos tus oídos\na la voz de mi súplica.\n\nSi llevas cuenta de los delitos, Señor,\n¿quién podrá resistir?\nPero de ti procede el perdón,\ny así infundes temor.\n\nMi alma espera en el Señor,\nespera en su palabra;\nmi alma aguarda al Señor\nmás que el centinela la aurora.\n\nMás que el centinela la aurora,\nespere Israel en el Señor,\nporque del Señor viene la misericordia\ny la abundancia de la redención;\nél redimirá a Israel\nde todos sus delitos.",
+      "uso": "Sufragio por los difuntos, examen de conciencia, momentos de aflicción",
+      "origem": "Salmo 130 (129 en la Vulgata)"
+    },
+    {
+      "id": "oracoes:oferecimento-do-dia",
+      "slug": "oferecimento-do-dia",
+      "titulo": "Ofrecimiento del Día (Oración de la Mañana)",
+      "categoria": "oracoes",
+      "resumo": "Oración matutina del Apostolado de la Oración que consagra a Dios todo el día que comienza, en unión con la ofrenda eucarística de Cristo.",
+      "corpo": "El «Ofrecimiento del Día», u Ofrecimiento Diario, es el corazón de la espiritualidad del Apostolado de la Oración —hoy conocido como Red Mundial de Oración del Papa—, movimiento fundado en el siglo XIX. Consiste en presentar a Dios, a primera hora de la mañana, todo lo que se es y se va a vivir ese día: oraciones, trabajos, alegrías y sufrimientos, unidos a la ofrenda que Cristo hace de sí mismo en la Eucaristía.\n\nSe reza tradicionalmente al despertar, incluyendo la intención de oración del papa para ese mes, y busca dar sentido espiritual a las tareas más comunes de la vida cotidiana, uniéndolas conscientemente al sacrificio eucarístico celebrado en algún lugar del mundo en cada momento.",
+      "tags": [
+        "Apostolado de la Oración",
+        "Sagrado Corazón",
+        "oración diaria"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Apostolado de la Oración (Red Mundial de Oración del Papa), «Ofrecimiento diario»"
+      ],
+      "texto": "Dios, Padre nuestro,\nyo te ofrezco todo el día de hoy:\nmis oraciones y obras,\nmis pensamientos y palabras,\nmis alegrías y sufrimientos,\nen reparación de nuestras ofensas,\nen unión con el Corazón de tu Hijo, Jesús,\nque sigue ofreciéndose a ti, en la Eucaristía,\npor la salvación del mundo.\nQue el Espíritu Santo, que guio a Jesús,\nsea mi guía y mi amparo en este día,\npara que pueda ser testigo de tu amor.\nCon María, Madre de Jesús y de la Iglesia,\nrezo especialmente por la intención del Santo Padre para este mes.",
+      "uso": "Oración diaria, al despertar",
+      "origem": "Apostolado de la Oración (Red Mundial de Oración del Papa), fundado en el siglo XIX"
+    },
+    {
+      "id": "oracoes:oracao-a-sao-jose-leao-xiii",
+      "slug": "oracao-a-sao-jose-leao-xiii",
+      "titulo": "Oración a San José (León XIII)",
+      "categoria": "oracoes",
+      "resumo": "Oración compuesta por el papa León XIII en 1889, tradicionalmente recomendada para rezarse al final del rosario en el mes de octubre.",
+      "corpo": "Esta oración —en latín, «Ad te, beate Ioseph»— fue compuesta por el papa León XIII y publicada como anexo a la encíclica «Quamquam Pluries», del 15 de agosto de 1889, en un contexto en que el papa buscaba reforzar la confianza de los católicos en la intercesión de San José ante las dificultades que enfrentaba la Iglesia en su época.\n\nInvoca a José como guardián providente de la Sagrada Familia y protector de la Iglesia, pidiéndole que aleje «la peste del error y del vicio» y defienda a la Iglesia «de las asechanzas del Enemigo y de toda adversidad». Se convirtió en costumbre rezarla al final del rosario, sobre todo durante el mes de octubre, tradicionalmente dedicado al Rosario.",
+      "tags": [
+        "San José",
+        "León XIII",
+        "rosario"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "León XIII, Encíclica «Quamquam Pluries» (1889)",
+        "ACI Prensa, «Oración a San José del Papa León XIII»"
+      ],
+      "texto": "A ti, bienaventurado San José, acudimos en nuestra tribulación,\ny después de invocar el auxilio de tu santísima Esposa,\ncon confianza imploramos también tu patrocinio.\nPor aquella caridad que te unió con la Inmaculada Virgen María, Madre de Dios,\ny por el amor paternal con que abrazaste al Niño Jesús,\nte suplicamos humildemente\nque mires con ojos propicios la herencia que Jesucristo adquirió con su sangre,\ny que nos socorras en nuestras necesidades con tu poder y auxilio.\nProtege, oh providentísimo custodio de la Sagrada Familia,\na la escogida descendencia de Jesucristo;\naparta de nosotros, oh Padre amantísimo,\ntoda mancha de error y de corrupción;\nasístenos benigno desde el cielo, oh fortísimo defensor nuestro,\nen esta lucha contra el poder de las tinieblas;\ny así como en otro tiempo libraste de la muerte al Niño Jesús,\ndefiende ahora a la Santa Iglesia de Dios\nde las asechanzas del enemigo y de toda adversidad;\ny a cada uno de nosotros ampáranos con tu patrocinio constante,\npara que, a tu ejemplo y sostenidos por tu auxilio,\npodamos vivir santamente, morir piadosamente\ny alcanzar en el cielo la eterna bienaventuranza.\nAmén.",
+      "uso": "Al final del rosario, especialmente en el mes de octubre",
+      "origem": "Compuesta por el papa León XIII, publicada como anexo a la encíclica «Quamquam Pluries» (15 de agosto de 1889)"
+    },
+    {
+      "id": "oracoes:oracao-a-sao-judas-tadeu",
+      "slug": "oracao-a-sao-judas-tadeu",
+      "titulo": "Oración a San Judas Tadeo",
+      "categoria": "oracoes",
+      "resumo": "Oración de súplica al apóstol Judas Tadeo, invocado tradicionalmente como patrono de las causas difíciles y desesperadas.",
+      "corpo": "San Judas Tadeo, apóstol de Jesús, es venerado como patrono de los «casos desesperados» y de los «asuntos sin remedio» —según la piedad popular, precisamente por compartir el nombre del apóstol traidor, Judas Iscariote, habría sido menos invocado a lo largo de la historia que otros apóstoles, lo que la tradición interpreta como razón para que se muestre especialmente dispuesto a socorrer a quien ya no tiene a quién recurrir.\n\nNo existe un texto único fijado oficialmente por la liturgia para esta oración devocional: circulan diversas versiones tradicionales, siendo la reproducida a continuación una de las más difundidas en lengua española. Es costumbre rezarla también en forma de novena de nueve días ante una necesidad específica, con celebración litúrgica de su fiesta el 28 de octubre, junto con el apóstol Simón.",
+      "tags": [
+        "San Judas Tadeo",
+        "causas difíciles",
+        "apóstoles"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "O Liberal, «Oração do São Judas Tadeu para causas impossíveis»",
+        "webcatolicodejavier.org, «Oraciones a San Judas Tadeo»"
+      ],
+      "texto": "Glorioso Apóstol San Judas Tadeo,\nsiervo fiel y amigo de Jesús,\nel nombre del traidor ha sido causa\nde que fueses olvidado por muchos,\npero la Iglesia te honra e invoca universalmente\ncomo patrón de las causas difíciles y desesperadas.\nIntercede por mí, que soy tan miserable,\nponiendo en práctica, te lo ruego,\nel privilegio particular que se te ha concedido,\na fin de traer ayuda pronta y visible\ndonde eso es casi imposible.\nVen en mi auxilio en esta gran necesidad\npara que pueda recibir\nlas consolaciones y el socorro del Cielo\nen todas mis aflicciones, necesidades y sufrimientos,\nparticularmente (aquí se expone la gracia que se desea obtener),\ny para que pueda bendecir a Dios\ncontigo y con todos los elegidos, por toda la eternidad.\nAmén.",
+      "uso": "Súplica personal; novena de nueve días en causas difíciles",
+      "origem": "Devoción popular sin texto litúrgico único fijado; varias versiones tradicionales en circulación"
+    },
+    {
+      "id": "oracoes:bendita-seja-tua-pureza",
+      "slug": "bendita-seja-tua-pureza",
+      "titulo": "Bendita Sea Tu Pureza",
+      "categoria": "oracoes",
+      "resumo": "Breve jaculatoria mariana de tradición hispánica, rezada como saludo de alabanza a la pureza de María.",
+      "corpo": "«Bendita sea tu pureza» es una jaculatoria mariana de origen popular hispánico, sin autoría documentada con certeza ni un momento litúrgico fijo de uso —a diferencia de las grandes antífonas marianas del oficio divino, es una oración de devoción libre, rezada por iniciativa personal.\n\nMuy difundida en España, Hispanoamérica y otros países de lengua portuguesa, suele abrir novenas y momentos de oración mariana como breve saludo de alabanza, uniendo la contemplación de la pureza de María a un sencillo pedido de compasión maternal.",
+      "tags": [
+        "pureza de María",
+        "devoción popular",
+        "jaculatoria"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Vera Fidei, «Bendita seja a tua pureza»",
+        "Wikipedia en español, «Bendita sea tu pureza»"
+      ],
+      "texto": "Bendita sea tu pureza\ny eternamente lo sea,\npues todo un Dios se recrea\nen tan graciosa belleza.\nA ti, celestial Princesa,\nVirgen Sagrada María,\nyo te ofrezco en este día\nalma, vida y corazón.\nMírame con compasión,\nno me dejes, Madre mía.\nAmén.",
+      "uso": "Jaculatoria devocional; inicio de novenas y oraciones marianas",
+      "origem": "Devoción popular de tradición hispánica, sin autoría documentada con certeza"
+    },
+    {
+      "id": "oracoes:oracoes-do-anjo-de-fatima",
+      "slug": "oracoes-do-anjo-de-fatima",
+      "titulo": "Oraciones del Ángel de Fátima",
+      "categoria": "oracoes",
+      "resumo": "Dos oraciones enseñadas, según el relato de los pastorcitos, por el Ángel de la Paz en 1916, un año antes de las apariciones de Nuestra Señora de Fátima.",
+      "corpo": "Según el relato de Lucía, Francisco y Jacinta, un ángel que se identificó como «Ángel de la Paz» se les apareció tres veces en 1916, un año antes de las apariciones marianas de Fátima, enseñándoles dos oraciones que debían repetir tres veces cada una.\n\nLa primera, más breve, profesa fe, adoración, esperanza y amor a Dios; la segunda, enseñada meses después, es una oración trinitaria y eucarística de reparación, ofreciendo el Cuerpo, Sangre, Alma y Divinidad de Jesucristo presentes en todos los sagrarios de la tierra. Ambas son consideradas por la tradición devocional de Fátima una preparación directa para las apariciones marianas del año siguiente, 1917.",
+      "tags": [
+        "Fátima",
+        "Ángel de la Paz",
+        "pastorcitos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Wikipédia, «Orações do Anjo»",
+        "ChurchPOP en español, «5 oraciones reveladas en Fátima que todo católico debería conocer»"
+      ],
+      "texto": "Primera oración (enseñada en la primavera de 1916):\n¡Dios mío, yo creo, adoro, espero y te amo!\nTe pido perdón por los que no creen,\nno adoran, no esperan y no te aman.\n\nSegunda oración (enseñada en el otoño de 1916):\nSantísima Trinidad, Padre, Hijo, Espíritu Santo,\nos adoro profundamente\ny os ofrezco el preciosísimo Cuerpo, Sangre,\nAlma y Divinidad de Jesucristo,\npresente en todos los sagrarios de la tierra,\nen reparación de los ultrajes, sacrilegios e indiferencias\ncon que Él mismo es ofendido.\nY, por los méritos infinitos de su Santísimo Corazón\ny del Corazón Inmaculado de María,\nos pido la conversión de los pobres pecadores.",
+      "uso": "Repetidas tres veces, según el relato del gesto del Ángel",
+      "origem": "Según el relato de los pastorcitos, enseñadas por el Ángel de la Paz en 1916"
+    },
+    {
+      "id": "oracoes:ladainha-do-sagrado-coracao-de-jesus",
+      "slug": "ladainha-do-sagrado-coracao-de-jesus",
+      "titulo": "Letanía del Sagrado Corazón de Jesús",
+      "categoria": "oracoes",
+      "resumo": "Serie de invocaciones al Corazón de Jesús, una por cada año de su vida terrena, aprobada para toda la Iglesia por León XIII en 1899.",
+      "corpo": "La Letanía del Sagrado Corazón de Jesús tiene un origen devocional ligado a las visiones de Santa Margarita María de Alacoque (1647-1690), en las que Jesús le mostraba su propio corazón herido, coronado de espinas e inflamado de amor por la humanidad. Su estructura sintetiza diversas letanías más antiguas, que se remontan al siglo XVII.\n\nLa versión final, aprobada por la Sagrada Congregación de Ritos, reúne treinta y tres invocaciones al Corazón de Jesús —una por cada año de su vida terrena—, y fue extendida al uso público de toda la Iglesia por decreto del papa León XIII, del 2 de abril de 1899.",
+      "tags": [
+        "Sagrado Corazón",
+        "letanía",
+        "León XIII"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Padre Paulo Ricardo, «Letanía del Sagrado Corazón de Jesús»",
+        "ACI Prensa, «Letanías del Sagrado Corazón de Jesús»"
+      ],
+      "texto": "Señor, ten piedad de nosotros.\nCristo, ten piedad de nosotros.\nSeñor, ten piedad de nosotros.\n\nCorazón de Jesús, Hijo del Padre Eterno, ten piedad de nosotros.\nCorazón de Jesús, formado por el Espíritu Santo en el seno de la Virgen Madre, ten piedad de nosotros.\nCorazón de Jesús, unido sustancialmente al Verbo de Dios, ten piedad de nosotros.\nCorazón de Jesús, de majestad infinita, ten piedad de nosotros.\nCorazón de Jesús, templo santo de Dios, ten piedad de nosotros.\nCorazón de Jesús, tabernáculo del Altísimo, ten piedad de nosotros.\n[demás invocaciones, una por cada año de la vida terrena de Cristo]\n\nCordero de Dios, que quitas el pecado del mundo, perdónanos, Señor.\nCordero de Dios, que quitas el pecado del mundo, escúchanos, Señor.\nCordero de Dios, que quitas el pecado del mundo, ten piedad de nosotros.",
+      "uso": "Devoción al Sagrado Corazón; especialmente en el mes de junio",
+      "origem": "Ligada a las revelaciones a Santa Margarita María de Alacoque; versión final aprobada por León XIII el 2 de abril de 1899"
+    },
+    {
+      "id": "oracoes:oracao-antes-da-comunhao-sao-tomas-de-aquino",
+      "slug": "oracao-antes-da-comunhao-sao-tomas-de-aquino",
+      "titulo": "Oración de Santo Tomás de Aquino antes de la Comunión",
+      "categoria": "oracoes",
+      "resumo": "Súplica de preparación interior para recibir dignamente la Eucaristía, tradicionalmente atribuida a Tomás de Aquino.",
+      "corpo": "Esta oración, atribuida por la tradición a Santo Tomás de Aquino, es una de las que componen un conjunto de preces de preparación antes y de acción de gracias después de la comunión asociadas a su nombre. En ella, quien reza reconoce su propia pobreza e indignidad ante la grandeza del sacramento —«inmundo, vengo a la fuente de la misericordia»— y pide la purificación necesaria para acoger dignamente «el pan de los Ángeles».\n\nSigue impresa en muchos misales y devocionarios como sugerencia de preparación personal antes de la comunión eucarística, junto a otras oraciones de Tomás de Aquino ya presentes en este acervo, como el «Adoro Te Devote» y el «Pange Lingua» (ver Música Sacra).",
+      "tags": [
+        "Tomás de Aquino",
+        "eucaristía",
+        "preparación para la comunión"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "A12, «Oración de Santo Tomás de Aquino para antes de la Comunión»"
+      ],
+      "texto": "Oh Dios omnipotente y eterno,\nhe aquí que me acerco al sacramento\nde tu Hijo unigénito, nuestro Señor Jesucristo.\nInmundo, vengo a la fuente de la misericordia;\nciego, a la luz de la eterna claridad;\npobre e indigente, al Señor del cielo y de la tierra.\nImploro, pues, la abundancia de tu inmensa liberalidad\npara que te dignes curar mi flaqueza,\nlavar mis manchas,\niluminar mi ceguera,\nenriquecer mi pobreza\ny vestir mi desnudez.\nQue reciba el pan de los Ángeles,\nel Rey de reyes y Señor de señores,\ncon el respeto y la humildad,\ncon la contrición y la devoción,\nla pureza y la fe,\nel propósito y la intención que convienen\na la salvación de mi alma.\nDame recibir no solo el sacramento\ndel Cuerpo y la Sangre del Señor,\nsino también su efecto y su fuerza.\nOh Dios de mansedumbre,\nhaz que acoja con tales disposiciones\nel Cuerpo que tu Hijo unigénito,\nNuestro Señor Jesucristo, recibió de la Virgen María,\nde modo que sea incorporado a su Cuerpo Místico\ny contado entre sus miembros.\nAmén.",
+      "uso": "Preparación personal antes de recibir la comunión eucarística",
+      "origem": "Atribuida a Santo Tomás de Aquino"
+    },
+    {
+      "id": "oracoes:ato-de-consagracao-pessoal-ao-sagrado-coracao-de-jesus",
+      "slug": "ato-de-consagracao-pessoal-ao-sagrado-coracao-de-jesus",
+      "titulo": "Acto de Consagración Personal al Sagrado Corazón de Jesús",
+      "categoria": "oracoes",
+      "resumo": "Fórmula de entrega total de la propia vida al Sagrado Corazón de Jesús, expresión personal de la devoción reparadora difundida a partir de Santa Margarita María de Alacoque.",
+      "corpo": "Distinta del acto solemne con que el papa León XIII consagró a toda la humanidad al Sagrado Corazón de Jesús en 1899 (ver Devociones), esta es una fórmula de consagración personal, rezada por un fiel en nombre propio, ofreciendo a Cristo pensamientos, palabras, acciones y sufrimientos en respuesta al amor revelado en las apariciones a Santa Margarita María de Alacoque.\n\nCirculan diversas versiones tradicionales de esta consagración personal, sin un texto único fijado por la liturgia, todas ellas expresando el mismo núcleo de entrega: pertenecer enteramente al Sagrado Corazón como fuente de protección, de perseverancia y de amparo en la hora de la muerte.",
+      "tags": [
+        "Sagrado Corazón",
+        "consagración personal",
+        "devoción reparadora"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "El Fiel Católico, «Actos de Consagración al Sagrado Corazón de Jesús»"
+      ],
+      "texto": "Yo, N., te doy y consagro,\noh Sagrado Corazón de Jesucristo,\nmi vida, mis acciones,\nmis penas y sufrimientos,\npara no querer servirme más\nde ninguna parte de mi ser\nsino para honrarte, amarte y glorificarte.\nEsta es mi voluntad irrevocable:\nser todo tuyo\ny hacerlo todo por tu amor,\nrenunciando de todo corazón\na todo lo que pueda desagradarte.\nTe tomo, pues, oh Sagrado Corazón,\ncomo único bien de mi amor,\nprotector de mi vida,\nseguridad de mi salvación,\nremedio de mi fragilidad y de mi inconstancia,\nreparador de todas las imperfecciones de mi vida\ny mi amparo seguro en la hora de la muerte.\nAmén.",
+      "uso": "Devoción personal al Sagrado Corazón; renovación de consagración",
+      "origem": "Fórmula devocional tradicional, ligada a la espiritualidad reparadora de Santa Margarita María de Alacoque"
+    }
+  ]
+}
