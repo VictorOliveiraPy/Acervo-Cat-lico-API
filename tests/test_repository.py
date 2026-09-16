@@ -210,3 +210,72 @@ def test_should_fail_loading_when_json_has_unknown_field(tmp_path: Path) -> None
     # When / Then
     with pytest.raises(ValueError, match="santos.json"):
         Repository(data_dir=data_dir).load()
+
+
+def _write_minimal_santos(data_dir: Path) -> None:
+    """Um único arquivo de categoria válido, para os testes de `strict=False`."""
+    dataset = {
+        "_meta": {
+            "categoria": "santos",
+            "nome": "Santos",
+            "descricao": "x",
+            "status": "exemplos-iniciais",
+            "aviso": "x",
+        },
+        "itens": [
+            {
+                "id": "santos:teste",
+                "slug": "teste",
+                "titulo": "Teste",
+                "resumo": "x",
+                "corpo": "x",
+                "categoria": "santos",
+            }
+        ],
+    }
+    (data_dir / "santos.json").write_text(json.dumps(dataset), encoding="utf-8")
+
+
+def test_should_skip_missing_category_files_when_not_strict(tmp_path: Path) -> None:
+    """Repositório de tradução (`strict=False`): sem arquivo, categoria some
+    do acervo em vez de derrubar o boot — tradução é incremental."""
+    # Given
+    data_dir = tmp_path / "data"
+    data_dir.mkdir()
+    _write_minimal_santos(data_dir)
+
+    # When
+    repo = Repository(data_dir=data_dir, strict=False)
+    repo.load()
+
+    # Then
+    categories = repo.list_categories()
+    assert {info.categoria for info in categories} == {Category.SANTOS}
+    assert len(categories) < len(Category)
+
+
+def test_should_still_fail_loading_when_strict_and_file_missing(tmp_path: Path) -> None:
+    """O idioma canônico (português) continua exigindo todas as categorias."""
+    # Given
+    data_dir = tmp_path / "data"
+    data_dir.mkdir()
+    _write_minimal_santos(data_dir)
+
+    # When / Then
+    with pytest.raises(ValueError, match="ausente"):
+        Repository(data_dir=data_dir, strict=True).load()
+
+
+def test_should_404_on_category_not_loaded_in_this_repository(tmp_path: Path) -> None:
+    """Categoria válida no enum, mas ainda não traduzida neste repositório:
+    mesmo 404 de uma categoria inexistente — não um KeyError cru."""
+    # Given
+    data_dir = tmp_path / "data"
+    data_dir.mkdir()
+    _write_minimal_santos(data_dir)
+    repo = Repository(data_dir=data_dir, strict=False)
+    repo.load()
+
+    # When / Then
+    with pytest.raises(CategoryNotFoundException):
+        repo.list_entries(Category.PAPAS)

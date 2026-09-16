@@ -56,6 +56,17 @@ class CategoryNotFoundException(NotFoundException):
         )
 
 
+class LanguageNotFoundException(NotFoundException):
+    """Idioma de tradução fora do conjunto suportado (`app.i18n`)."""
+
+    def __init__(self, lang: str) -> None:
+        super().__init__(
+            message=f"Idioma '{lang}' não é suportado neste acervo.",
+            code="LANGUAGE_NOT_FOUND",
+            details={"lang": lang},
+        )
+
+
 class EntryNotFoundException(NotFoundException):
     """Entrada inexistente dentro de uma categoria existente."""
 

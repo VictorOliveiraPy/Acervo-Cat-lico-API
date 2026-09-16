@@ -27,11 +27,13 @@ from fastapi.middleware.cors import CORSMiddleware
 from app.chat_router import router as chat_router
 from app.config import settings
 from app.exceptions import register_exception_handlers
+from app.i18n import load_translations
 from app.liturgia_repository import PostgresLiturgiaDiariaRepository
 from app.liturgia_router import router as liturgia_router
 from app.rag.repository import PostgresRagRepository
 from app.repository import repository
 from app.routers import router
+from app.routers_i18n import router as i18n_router
 from app.velas_repository import PostgresVelasRepository
 from app.velas_router import router as velas_router
 
@@ -46,6 +48,7 @@ logger = logging.getLogger(__name__)
 async def lifespan(app: FastAPI) -> AsyncIterator[None]:
     """Carrega o acervo e, se configurado, abre o pool do mural de velas."""
     repository.load()
+    load_translations()
 
     pool: asyncpg.Pool | None = None
     if settings.database_url:
@@ -106,11 +109,11 @@ app = FastAPI(
     title=settings.app_name,
     version=settings.app_version,
     description=(
-        "API de conteúdo católico curado em 45 categorias (somente leitura, "
+        "API de conteúdo católico curado em 49 categorias (somente leitura, "
         "com um único recurso de escrita: o mural de velas em /api/velas): "
-        "santos, papas, concílios, milagres eucarísticos, doutores da "
-        "Igreja, catecismo, crisma, história, Nossa Senhora, livros, "
-        "orações, pecados, vida litúrgica, sacramentos, virtudes, "
+        "santos, papas, cardeais, concílios, milagres eucarísticos, "
+        "doutores da Igreja, catecismo, crisma, história, Nossa Senhora, "
+        "livros, orações, pecados, vida litúrgica, sacramentos, virtudes, "
         "mandamentos, a Bíblia (73 livros do cânon católico), devoções, "
         "glossário, calendário litúrgico, novíssimos, ordens religiosas, "
         "estrutura da Igreja, santuários, documentos do magistério, beatos "
@@ -119,11 +122,14 @@ app = FastAPI(
         "Terra Santa, Padres da Igreja, heresias e cismas, anjos e "
         "demônios, doutrina social da Igreja, Liturgia das Horas, ritos e "
         "Igrejas orientais católicas, arte sacra e símbolos, direito "
-        "canônico, vocações e estados de vida, primeira comunhão e música "
-        "sacra. "
+        "canônico, vocações e estados de vida, primeira comunhão, música "
+        "sacra, missões e evangelização, ciência e fé, e catedrais e "
+        "basílicas do mundo. "
         "O acervo cobre o essencial da fé, da moral e da prática católica — "
         "não se restringe a um recorte estreito de temas — e segue sendo "
-        "expandido; não é ainda um catálogo definitivo."
+        "expandido; não é ainda um catálogo definitivo. Traduções "
+        "incrementais para outros idiomas (começando pelo espanhol) ficam "
+        "em /api/i18n/{lang}/..., aditivas às rotas em português."
     ),
     lifespan=lifespan,
 )
@@ -147,3 +153,4 @@ app.include_router(velas_router)
 app.include_router(liturgia_router)
 app.include_router(chat_router)
 app.include_router(router)
+app.include_router(i18n_router)

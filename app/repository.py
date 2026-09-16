@@ -142,10 +142,20 @@ def _sort_key(indexed: tuple[int, AnyEntry]) -> tuple[int, int, int]:
 
 
 class Repository:
-    """Acervo carregado em memória, com listagem, detalhe e busca."""
+    """Acervo carregado em memória, com listagem, detalhe e busca.
 
-    def __init__(self, data_dir: Path | None = None) -> None:
+    `strict=True` (padrão, usado pelo idioma canônico — português) exige um
+    arquivo por categoria do enum `Category`: lacuna aí é erro de integridade
+    dos dados, não estado válido. `strict=False` é o modo usado pelos
+    repositórios de tradução (`app/data/i18n/<lang>/`): a tradução é
+    incremental por natureza — a categoria cujo arquivo ainda não existe é
+    simplesmente omitida (a API responde 404 pra ela nesse idioma), em vez de
+    derrubar o boot inteiro por uma categoria que ainda não foi traduzida.
+    """
+
+    def __init__(self, data_dir: Path | None = None, *, strict: bool = True) -> None:
         self._data_dir = data_dir or settings.data_dir or DEFAULT_DATA_DIR
+        self._strict = strict
         self._datasets: dict[Category, Dataset] = {}
         self._entries: dict[Category, list[AnyEntry]] = {}
         self._by_slug: dict[Category, dict[str, AnyEntry]] = {}
@@ -154,7 +164,7 @@ class Repository:
     # ------------------------------------------------------------------ carga
 
     def load(self) -> None:
-        """Carrega e valida todos os arquivos de dados.
+        """Carrega e valida os arquivos de dados disponíveis.
 
         Monta as estruturas em variáveis locais e só então as publica: se um
         arquivo falhar, o repositório continua com o estado anterior em vez de
@@ -167,6 +177,8 @@ class Repository:
 
         for category in Category:
             path = self._data_dir / f"{category.value}.json"
+            if not self._strict and not path.exists():
+                continue
             dataset = self._load_dataset(category, path)
 
             ordered = [
@@ -271,15 +283,23 @@ class Repository:
         """
         return [entry for items in self._entries.values() for entry in items]
 
-    @staticmethod
-    def resolve_category(categoria: str | Category) -> Category:
-        """Converte o segmento de URL em `Category` ou levanta 404."""
-        if isinstance(categoria, Category):
-            return categoria
+    def resolve_category(self, categoria: str | Category) -> Category:
+        """Converte o segmento de URL em `Category` carregada neste
+        repositório, ou levanta 404.
+
+        Não é `@staticmethod` de propósito: um repositório de tradução
+        (`strict=False`) pode ter uma `Category` válida no enum mas ainda sem
+        arquivo carregado (categoria não traduzida ainda nesse idioma) — o
+        segmento de URL é válido, mas não existe *neste* acervo, o mesmo 404
+        de uma categoria que não existe em lugar nenhum.
+        """
         try:
-            return Category(categoria)
+            category = categoria if isinstance(categoria, Category) else Category(categoria)
         except ValueError as exc:
-            raise CategoryNotFoundException(categoria) from exc
+            raise CategoryNotFoundException(str(categoria)) from exc
+        if category not in self._datasets:
+            raise CategoryNotFoundException(category.value)
+        return category
 
     def list_categories(self) -> list[CategoryInfo]:
         """Lista as categorias com total de entradas e aviso editorial."""
