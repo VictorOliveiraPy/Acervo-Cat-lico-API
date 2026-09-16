@@ -435,6 +435,222 @@
         "Missal Romano, «Normas Universais sobre o Ano Litúrgico e o Calendário», n. 3",
         "Instrução Geral sobre a Liturgia das Horas"
       ]
+    },
+    {
+      "id": "calendario-liturgico:santissima-trindade-solenidade",
+      "slug": "santissima-trindade-solenidade",
+      "titulo": "Solenidade da Santíssima Trindade",
+      "categoria": "calendario-liturgico",
+      "resumo": "Celebrada no domingo seguinte a Pentecostes, marca a entrada no Tempo Comum e celebra o mistério central da fé cristã: um só Deus em três pessoas.",
+      "corpo": "A devoção litúrgica à Santíssima Trindade cresceu a partir da condenação do arianismo pelos concílios de Niceia (325) e Constantinopla (381), que afirmaram solenemente a divindade de Cristo e sua relação com o Pai e o Espírito Santo; já no século VIII, prefácios litúrgicos próprios sobre a Trindade começaram a circular. A festa nasceu, porém, de baixo para cima, de práticas de piedade popular e monástica, e não de uma instituição imediata das autoridades centrais da Igreja.\n\nO papa São Gregório VII havia fixado as Têmporas de verão na oitava de Pentecostes, deixando o domingo seguinte \"vago\", sem celebração própria; monges passaram então a dedicá-lo à Trindade, já que a efusão do Espírito Santo em Pentecostes completa a revelação trinitária. Somente com o papa João XXII, entre 1316 e 1334, a festa foi estendida a toda a Igreja latina para esse mesmo domingo, posição que mantém até hoje, abrindo a parte mais longa do Tempo Comum no calendário atual.",
+      "tags": [
+        "ano litúrgico",
+        "Santíssima Trindade",
+        "Pentecostes"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 21,
+      "cor_liturgica": "Branco",
+      "fontes": [
+        "Wikipédia, \"Domingo da Trindade\"",
+        "Pílulas Litúrgicas, \"A história da Solenidade da Santíssima Trindade\""
+      ]
+    },
+    {
+      "id": "calendario-liturgico:domingo-da-divina-misericordia",
+      "slug": "domingo-da-divina-misericordia",
+      "titulo": "Domingo da Divina Misericórdia",
+      "categoria": "calendario-liturgico",
+      "resumo": "O segundo domingo de Páscoa, dentro da Oitava Pascal, foi dedicado por João Paulo II, em 2000, à Divina Misericórdia, atendendo a um pedido revelado a Santa Faustina Kowalska.",
+      "corpo": "Segundo o \"Diário\" da religiosa polonesa Santa Faustina Kowalska, Cristo lhe manifestou em 1931 o desejo de que o domingo seguinte à Páscoa fosse dedicado de modo especial à Divina Misericórdia. Ao canonizá-la, em 30 de abril de 2000 — também um Ano Jubilar —, o papa João Paulo II proclamou oficialmente esse dia, o segundo domingo de Páscoa, como \"Domingo da Divina Misericórdia\" para toda a Igreja, formalizando a devoção por decreto no ano seguinte.\n\nEmbora já esteja compreendido dentro da Oitava Pascal, celebrada com o mesmo grau solene de \"Domingo de Páscoa\" durante toda a semana, o Domingo da Divina Misericórdia ganhou textos próprios de Missa e alimentou uma devoção popular extensa, centrada na imagem de Jesus Misericordioso e na coroazinha da Divina Misericórdia, tornando-se uma das celebrações marianas e cristológicas mais vivas do calendário contemporâneo.",
+      "tags": [
+        "Divina Misericórdia",
+        "Páscoa",
+        "Santa Faustina Kowalska",
+        "João Paulo II"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 22,
+      "cor_liturgica": "Branco",
+      "fontes": [
+        "Via Crucis, \"Neste dia, em 2000, o Papa João Paulo II instituía o Domingo da Misericórdia Divina\"",
+        "YOUCAT, \"Domingo da Divina Misericórdia\""
+      ]
+    },
+    {
+      "id": "calendario-liturgico:sagrado-coracao-de-jesus-solenidade",
+      "slug": "sagrado-coracao-de-jesus-solenidade",
+      "titulo": "Solenidade do Sagrado Coração de Jesus",
+      "categoria": "calendario-liturgico",
+      "resumo": "Celebrada na sexta-feira seguinte à oitava de Corpus Christi, foi estendida a toda a Igreja pelo papa Pio IX em 1856, a partir das revelações a Santa Margarida Maria Alacoque.",
+      "corpo": "A devoção ao Sagrado Coração de Jesus tem raízes nas aparições vividas por Santa Margarida Maria Alacoque, religiosa da Visitação, entre 1673 e 1675, na França: Cristo lhe teria mostrado seu Coração, cercado de chamas de amor e coroado de espinhos, pedindo maior reparação e confiança de seus devotos. Em 1856, o papa Pio IX tornou obrigatória para toda a Igreja a festa do Sagrado Coração, elevando-a ao calendário universal.\n\nA solenidade é celebrada na sexta-feira seguinte à oitava de Corpus Christi — ou seja, a terceira sexta-feira depois de Pentecostes —, uma data móvel que pode cair entre o final de maio e o início de julho, conforme o ano da Páscoa. É seguida, no sábado imediato, pela memória do Imaculado Coração de Maria, unindo liturgicamente as duas devoções ao amor de Cristo e à cooperação de Maria na obra da salvação.",
+      "tags": [
+        "Sagrado Coração de Jesus",
+        "Pio IX",
+        "Santa Margarida Maria Alacoque"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 23,
+      "cor_liturgica": "Branco",
+      "fontes": [
+        "CNBB, \"A Solenidade do Sagrado Coração de Jesus\"",
+        "Vatican News, \"Sagrado Coração de Jesus\""
+      ]
+    },
+    {
+      "id": "calendario-liturgico:dias-santos-de-preceito",
+      "slug": "dias-santos-de-preceito",
+      "titulo": "Dias Santos de Preceito",
+      "categoria": "calendario-liturgico",
+      "resumo": "Além dos domingos, o direito canônico determina certas solenidades em que os fiéis têm a obrigação de participar da Missa — uma lista que cada conferência episcopal pode ajustar à sua realidade local.",
+      "corpo": "O cânon 1246 do Código de Direito Canônico enumera os dias santos de preceito da Igreja universal, além de todos os domingos: o Natal, a Epifania, a Ascensão, o Santíssimo Corpo e Sangue de Cristo, Santa Maria Mãe de Deus (1º de janeiro), a Imaculada Conceição, a Assunção, São José, os Santos Apóstolos Pedro e Paulo, e Todos os Santos. O mesmo cânon, em seu §2, permite que as conferências episcopais, com aprovação prévia da Santa Sé, suprimam alguns desses dias ou os transfiram para o domingo mais próximo.\n\nNo Brasil, a CNBB manteve como dias de preceito a Solenidade de Santa Maria, Mãe de Deus (1º de janeiro), o Natal (25 de dezembro), a Epifania (geralmente transferida para o domingo mais próximo), a Ascensão e Corpus Christi (mantidos na quinta-feira própria em algumas dioceses ou transferidos ao domingo seguinte, conforme a região) e a Imaculada Conceição (8 de dezembro); a obrigação referente à solenidade de São José, em 19 de março, foi retirada pela conferência episcopal brasileira.",
+      "tags": [
+        "dias de preceito",
+        "direito canônico",
+        "calendário litúrgico"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 24,
+      "cor_liturgica": null,
+      "fontes": [
+        "Código de Direito Canônico (1983), cân. 1246",
+        "Biblioteca Católica MBC, \"Dias de preceito na Igreja Católica: quais são eles?\""
+      ]
+    },
+    {
+      "id": "calendario-liturgico:ano-jubilar-ano-santo",
+      "slug": "ano-jubilar-ano-santo",
+      "titulo": "Ano Santo (Jubileu)",
+      "categoria": "calendario-liturgico",
+      "resumo": "Ano de graça especial, com indulgência plenária ligada à peregrinação e à Porta Santa, instituído pela primeira vez em 1300 pelo papa Bonifácio VIII e hoje celebrado ordinariamente a cada 25 anos.",
+      "corpo": "O primeiro Ano Santo da história foi proclamado pelo papa Bonifácio VIII, pela bula \"Antiquorum habet\" de 22 de fevereiro de 1300, concedendo indulgência plenária aos peregrinos que visitassem as basílicas de São Pedro e São Paulo em Roma — trinta vezes para os romanos, quinze para os que vinham de fora. O intervalo entre jubileus, fixado inicialmente em cem anos, foi reduzido para cinquenta pelo papa Clemente VI e, em 1475, para vinte e cinco anos pelo papa Paulo II, periodicidade que se mantém até hoje para os jubileus ordinários.\n\nA tradição de abrir uma Porta Santa remonta ao papa Martinho V, no Jubileu extraordinário de 1423, na Basílica de São João de Latrão, sendo depois adotada também na Basílica de São Pedro. Além dos jubileus ordinários a cada 25 anos, o Papa pode convocar jubileus extraordinários em ocasiões especiais — como o Jubileu da Misericórdia de 2015-2016 — e o mais recente Ano Santo, o Jubileu da Esperança de 2025, foi encerrado pelo papa Leão XIV.",
+      "tags": [
+        "Ano Santo",
+        "Jubileu",
+        "Porta Santa",
+        "indulgência plenária"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 25,
+      "cor_liturgica": null,
+      "fontes": [
+        "Instituto Humanitas Unisinos, \"Os 30 jubileus ou Anos Santos na História da Igreja de 1300 ao ano 2025\"",
+        "Agência Ecclesia, \"Vaticano: Papa Leão XIV fecha Porta Santa, concluindo Jubileu da Esperança\""
+      ]
+    },
+    {
+      "id": "calendario-liturgico:calendario-ambrosiano",
+      "slug": "calendario-ambrosiano",
+      "titulo": "O Calendário Ambrosiano",
+      "categoria": "calendario-liturgico",
+      "resumo": "A Arquidiocese de Milão segue, com aprovação da Igreja, um calendário e um rito litúrgico próprios, distintos do Rito Romano, entre outras diferenças, com um Advento de seis semanas.",
+      "corpo": "O Rito Ambrosiano, chamado assim em honra a Santo Ambrósio de Milão, é um rito litúrgico latino particular, próprio da Arquidiocese de Milão e de algumas áreas vizinhas, expressamente reconhecido e protegido pelo Concílio Vaticano II, que pediu que os ritos legitimamente diferentes do romano fossem respeitados, conservados e fomentados. Seu calendário próprio difere do romano em vários pontos, sendo o mais notado a duração do Advento: seis domingos, em vez de quatro, começando no domingo mais próximo de 12 de novembro — cerca de duas semanas antes do início do Advento romano.\n\nO sexto e último domingo do Advento ambrosiano é dedicado à solenidade da Maternidade Divina de Maria. A Semana Santa ambrosiana também segue uma sequência própria de dias e leituras, distinta da do Missal Romano, preservando uma das mais antigas tradições litúrgicas particulares ainda vivas dentro da Igreja latina.",
+      "tags": [
+        "rito ambrosiano",
+        "Milão",
+        "Advento",
+        "ritos litúrgicos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 26,
+      "cor_liturgica": null,
+      "fontes": [
+        "Secretariado Nacional de Liturgia (Portugal), Dicionário Litúrgico",
+        "Enciclopédia Católica Digital, \"Liturgia e Rito Ambrosiano\""
+      ]
+    },
+    {
+      "id": "calendario-liturgico:semana-de-oracao-pela-unidade-dos-cristaos",
+      "slug": "semana-de-oracao-pela-unidade-dos-cristaos",
+      "titulo": "Semana de Oração pela Unidade dos Cristãos",
+      "categoria": "calendario-liturgico",
+      "resumo": "Observância ecumênica anual, de 18 a 25 de janeiro, entre as festas da Cátedra de São Pedro e da Conversão de São Paulo, dedicada à oração comum pela unidade dos cristãos.",
+      "corpo": "As datas de 18 a 25 de janeiro foram propostas em 1908 pelo padre Paul (Lewis Thomas) Wattson, um episcopaliano convertido ao catolicismo, situando a semana entre a festa da Cátedra de São Pedro (18 de janeiro) e a da Conversão de São Paulo (25 de janeiro). Paralelamente, a partir de 1921, o movimento ecumênico Fé e Constituição promovia uma oitava de oração pela unidade em outra época do ano, ligada a Pentecostes; as duas tradições convergiram em 1941, quando essa comissão ecumênica adotou as datas de janeiro já usadas pelos católicos.\n\nDesde 1968, a Semana passou a ser preparada em conjunto pelo Pontifício Conselho para a Promoção da Unidade dos Cristãos e pela Comissão Fé e Constituição do Conselho Mundial de Igrejas. Embora não seja um grau litúrgico do calendário romano, é amplamente observada em paróquias e dioceses católicas por meio de celebrações ecumênicas ao lado de outras comunidades cristãs.",
+      "tags": [
+        "ecumenismo",
+        "unidade dos cristãos",
+        "São Pedro",
+        "São Paulo"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 27,
+      "cor_liturgica": null,
+      "fontes": [
+        "Conselho Mundial de Igrejas / Pontifício Conselho para a Unidade dos Cristãos, Subsídios para a Semana de Oração pela Unidade dos Cristãos",
+        "Arquidiocese de Fortaleza, \"Você conhece a história da Semana de Oração pela Unidade dos Cristãos?\""
+      ]
+    },
+    {
+      "id": "calendario-liturgico:domund-dia-mundial-das-missoes",
+      "slug": "domund-dia-mundial-das-missoes",
+      "titulo": "DOMUND — Dia Mundial das Missões",
+      "categoria": "calendario-liturgico",
+      "resumo": "Celebrado no penúltimo domingo de outubro desde 1926, é um dia de oração e coleta em favor da evangelização dos povos, instituído pelo papa Pio XI.",
+      "corpo": "Em fevereiro de 1926, o papa Pio XI publicou a encíclica \"Rerum Ecclesiae\", reafirmando a urgência dos objetivos missionários de seu pontificado; poucos meses depois, em 14 de abril de 1926, um decreto da Sagrada Congregação dos Ritos instituiu oficialmente o penúltimo domingo de outubro como Jornada Mundial das Missões, dia dedicado à oração e às ofertas em favor da evangelização dos povos.\n\nPopularmente conhecido pela sigla de origem espanhola DOMUND (\"Domingo Mundial de las Misiones\"), o dia se insere no chamado \"Mês Missionário\", em outubro, e suas coletas são redistribuídas em todo o mundo pelas Pontifícias Obras Missionárias para sustentar a atividade evangelizadora em territórios que ainda dependem de ajuda externa — uma expressão concreta da corresponsabilidade de toda a Igreja pela missão universal.",
+      "tags": [
+        "DOMUND",
+        "missões",
+        "Pio XI",
+        "evangelização"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 28,
+      "cor_liturgica": null,
+      "fontes": [
+        "Wikipédia, \"Dia Mundial das Missões\"",
+        "Pontifícias Obras Missionárias, \"Artigo: centenário do decreto que deu vida ao Dia Mundial das Missões\""
+      ]
+    },
+    {
+      "id": "calendario-liturgico:natividade-de-sao-joao-batista",
+      "slug": "natividade-de-sao-joao-batista",
+      "titulo": "Natividade de São João Batista",
+      "categoria": "calendario-liturgico",
+      "resumo": "O calendário romano celebra apenas três nascimentos como solenidades — o de Jesus, o de Maria e o de João Batista —, este último em 24 de junho, seis meses antes do Natal.",
+      "corpo": "O calendário litúrgico costuma comemorar os santos na data de sua morte, seu verdadeiro \"nascimento\" para o Céu, mas abre uma exceção rara para apenas três nascimentos terrenos: o de Jesus (Natal), o de Maria (8 de setembro) e o de João Batista, celebrado como solenidade em 24 de junho desde a reforma do calendário romano de 1970. A data curiosa — 24, e não 25 de junho — vem do antigo sistema romano de contagem regressiva de dias a partir das calendas do mês seguinte: como junho tem apenas 30 dias, o oitavo dia antes das calendas de julho cai em 24, e não em 25.\n\nA data foi escolhida porque cai exatamente seis meses antes do Natal e três meses depois da Anunciação (25 de março), refletindo o relato do Evangelho de Lucas segundo o qual João Batista foi concebido seis meses antes de Jesus — um arranjo do calendário que espelha, no tempo, a relação entre o Precursor e o Messias que ele viria a anunciar.",
+      "tags": [
+        "São João Batista",
+        "solenidade",
+        "calendário litúrgico"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 29,
+      "cor_liturgica": "Branco",
+      "fontes": [
+        "Wikipédia, \"Natividade de São João Baptista\"",
+        "Padre Paulo Ricardo, \"São João, uma das festas mais antigas da Igreja\""
+      ]
+    },
+    {
+      "id": "calendario-liturgico:todos-os-santos-e-fieis-defuntos",
+      "slug": "todos-os-santos-e-fieis-defuntos",
+      "titulo": "Todos os Santos e a Comemoração dos Fiéis Defuntos (1 e 2 de novembro)",
+      "categoria": "calendario-liturgico",
+      "resumo": "Dois dias consecutivos que fecham o círculo da comunhão dos santos: a solenidade de Todos os Santos, dia de preceito, seguida da comemoração de todos os fiéis que já morreram.",
+      "corpo": "Em 1º de novembro, a solenidade de Todos os Santos — dia de preceito segundo o cânon 1246 — celebra a totalidade dos redimidos que já gozam da visão de Deus, conhecidos ou não pelo calendário oficial, canonizados ou não. A festa tem origem numa antiga celebração romana de \"Todos os Mártires\" do século IV, ampliada e fixada em 1º de novembro no Ocidente pelo papa Gregório IV, no século IX.\n\nNo dia seguinte, 2 de novembro, a Igreja celebra a Comemoração de Todos os Fiéis Defuntos — o \"Dia de Finados\" —, rezando pelas almas que ainda purificam sua união com Deus no Purgatório, prática popularizada a partir do século XI por Santo Odilão de Cluny para os mosteiros beneditinos e depois adotada por toda a Igreja latina. Juntos, os dois dias expressam a doutrina da comunhão dos santos entre a Igreja triunfante, a purgante e a peregrina; no Brasil, 2 de novembro é também feriado nacional.",
+      "tags": [
+        "Todos os Santos",
+        "Fiéis Defuntos",
+        "comunhão dos santos",
+        "novembro"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 30,
+      "cor_liturgica": "Branco (1º de novembro); roxo ou preto facultativo (2 de novembro)",
+      "fontes": [
+        "Missal Romano",
+        "Catecismo da Igreja Católica, n. 954-959"
+      ]
     }
   ]
 }

@@ -308,6 +308,207 @@
       "imagem": null,
       "imagem_credito": null,
       "ordem": 18
+    },
+    {
+      "id": "liturgia-das-horas:tenebrae-oficio-das-trevas",
+      "slug": "tenebrae-oficio-das-trevas",
+      "titulo": "Ofício de Trevas (Tenebrae)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Antiga celebração que combinava Matinas e Laudes nos três últimos dias da Semana Santa, marcada pelo apagar progressivo de velas até a igreja ficar às escuras.",
+      "corpo": "O Ofício de Trevas, ou Tenebrae, era a celebração conjunta e antecipada de Matinas e Laudes nas vésperas de Quinta, Sexta e Sábado Santo, com registros de sua prática em mosteiros europeus já a partir do século IX. Sua estrutura reunia nove salmos e nove leituras em Matinas, seguidos de cinco salmos, o cântico Benedictus, uma antífona e o Salmo 50 em Laudes, tudo cantado enquanto a igreja escurecia progressivamente e quinze velas dispostas num candelabro triangular — o \"tenebrário\" — eram apagadas uma a uma.\n\nO simbolismo da escuridão crescente era intencional: expressava o abandono de Cristo, a fuga dos discípulos e o silêncio do Pai diante da Paixão do Filho. A reforma litúrgica pós-conciliar reorganizou o Ofício das Leituras e Laudes do Tríduo Pascal sem esse aparato ritual específico, mas o Tenebrae continua sendo celebrado, como tradição facultativa e muito apreciada, em diversas comunidades religiosas, catedrais e paróquias ligadas à liturgia mais antiga.",
+      "tags": [
+        "Tenebrae",
+        "Semana Santa",
+        "Matinas",
+        "tradição litúrgica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 19,
+      "fontes": [
+        "Wikipédia, \"Ofício de Trevas\"",
+        "Biblioteca Católica MBC, \"Ofício das Trevas: o que é e como viver essa tradição na Semana Santa\""
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:breviario-de-quinones",
+      "slug": "breviario-de-quinones",
+      "titulo": "O Breviário de Quiñones (1535)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Reforma radical e efêmera do Ofício Divino, encomendada pelo papa Clemente VII ao cardeal franciscano Francisco de Quiñones, que simplificou o Breviário mas foi suprimida décadas depois pela reação pós-tridentina.",
+      "corpo": "Em 1528, o papa Clemente VII encarregou o cardeal franciscano espanhol Francisco de Quiñones de preparar um breviário mais simples e historicamente mais fiel. O resultado, publicado em 1535 e aprovado por Paulo III, reorganizava por completo o Ofício Divino: os 150 salmos passavam a ser recitados integralmente em apenas uma semana, o esquema de leitura bíblica era renovado, e leituras de autenticidade duvidosa ou puramente legendárias eram abandonadas em favor de textos bíblicos e patrísticos mais sólidos.\n\nApesar do sucesso inicial entre o clero, a proposta era radical demais para seu tempo e logo foi atacada por teólogos de Paris, Roma e da Península Ibérica. Já sob o clima da Contrarreforma, o Breviário de Quiñones foi condenado no rastro do Concílio de Trento, suprimido pelo papa Paulo IV em 1558 e definitivamente proibido por Pio V em 1568, quando este promulgou o Breviário Romano tridentino que vigoraria, com poucas mudanças, até o século XX.",
+      "tags": [
+        "Breviário",
+        "Francisco de Quiñones",
+        "Concílio de Trento",
+        "história da liturgia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 20,
+      "fontes": [
+        "Franciscanos.org, \"Francisco de Quiñones\"",
+        "Mercaba, \"Transformaciones, Desarrollos, Reformas\" (litúrgicas)"
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:vigilia-prolongada",
+      "slug": "vigilia-prolongada",
+      "titulo": "A Vigília Prolongada",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Em algumas solenidades, sobretudo Natal e Pentecostes, a Instrução Geral da Liturgia das Horas prevê a possibilidade de prolongar o Ofício das Leituras numa vigília noturna mais extensa.",
+      "corpo": "A Instrução Geral sobre a Liturgia das Horas (n. 71) reconhece que, à semelhança da Vigília Pascal, tornou-se costume em diversas Igrejas iniciar certas solenidades com uma vigília — destacando-se, entre elas, o Natal e Pentecostes — e recomenda que esse costume seja mantido e promovido conforme o uso próprio de cada Igreja particular. Onde for oportuno celebrar outras solenidades ou romarias com uma vigília semelhante, devem-se seguir as normas próprias das celebrações da Palavra de Deus.\n\nEssa possibilidade recupera, de forma moderada, uma prática antiga da vida monástica, na qual comunidades se reuniam durante a noite para uma oração mais longa e mais rica em leituras antes da aurora de uma grande festa — distinta do Ofício das Leituras ordinário do dia a dia, tanto pela duração quanto pelo caráter festivo e comunitário que a vigília assume.",
+      "tags": [
+        "vigília",
+        "ofício das leituras",
+        "Natal",
+        "Pentecostes"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 21,
+      "fontes": [
+        "Instrução Geral sobre a Liturgia das Horas, n. 71"
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:obrigacao-canonica-do-oficio-divino",
+      "slug": "obrigacao-canonica-do-oficio-divino",
+      "titulo": "A Obrigação Canônica de Rezar o Ofício Divino",
+      "categoria": "liturgia-das-horas",
+      "resumo": "O Código de Direito Canônico obriga padres e diáconos a rezar diariamente a Liturgia das Horas, conforme os livros litúrgicos aprovados, como parte de sua busca pela santidade própria do estado clerical.",
+      "corpo": "O cânon 276, §2, 3º, do Código de Direito Canônico de 1983 estabelece que \"os sacerdotes e os diáconos que aspiram ao presbiterado estão obrigados a cumprir cada dia com a Liturgia das Horas, usando os seus próprios livros litúrgicos, devidamente aprovados\"; já os diáconos permanentes têm essa obrigação nos termos que a respectiva Conferência Episcopal estabelecer. A norma se insere num cânon mais amplo que lembra aos clérigos sua obrigação peculiar de buscar a santidade, já que, consagrados a Deus por novo título na recepção da ordem, tornam-se dispensadores dos mistérios divinos a serviço do povo.\n\nEssa obrigação pode ser cumprida tanto individualmente quanto em comunidade, embora a celebração comunitária seja sempre preferível quando possível; religiosos vinculados a votos podem ter a extensão exata dessa obrigação regulada, em vez disso, pelo próprio direito particular de seu instituto.",
+      "tags": [
+        "direito canônico",
+        "clero",
+        "obrigação"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 22,
+      "fontes": [
+        "Código de Direito Canônico (1983), cân. 276 §2, 3º"
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:ordo-liturgico-anual",
+      "slug": "ordo-liturgico-anual",
+      "titulo": "O \"Ordo\" Litúrgico Anual",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Livrinho publicado a cada ano por cada conferência episcopal ou diocese, que indica dia a dia qual celebração, cor litúrgica e textos próprios da Missa e do Ofício Divino devem ser usados.",
+      "corpo": "Como o calendário litúrgico combina, para cada dia do ano, o Próprio do Tempo, o Próprio dos Santos e eventuais calendários particulares de diocese, país ou ordem religiosa, nem sempre é simples deduzir sozinho qual celebração prevalece e quais textos usar na Missa e no Ofício Divino num dia específico. Por isso, cada conferência episcopal publica anualmente um \"Ordo\" — no Brasil, o Diretório Litúrgico da CNBB, distribuído a todas as dioceses — que traz, dia a dia, a classe da celebração, as partes próprias, eventuais rubricas específicas e a indicação de quando um santo do dia é suprimido por uma celebração de grau superior.\n\nEssa espécie de calendário detalhado existe, em formas mais rudimentares, há séculos, mas se tornou muito mais padronizada depois da reforma litúrgica de 1969-1970, que unificou a estrutura de graus de celebração (solenidade, festa, memória) em todo o Rito Romano.",
+      "tags": [
+        "Ordo",
+        "calendário litúrgico",
+        "Diretório Litúrgico",
+        "CNBB"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 23,
+      "fontes": [
+        "Apologética Católica, \"Ordo Litúrgico 2021 com próprio do Brasil\""
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:liturgia-das-horas-em-lingua-vernacula",
+      "slug": "liturgia-das-horas-em-lingua-vernacula",
+      "titulo": "A Liturgia das Horas em Língua Vernácula",
+      "categoria": "liturgia-das-horas",
+      "resumo": "A permissão para rezar o Ofício Divino também nas línguas vivas dos povos, e não apenas em latim, foi um dos primeiros frutos práticos da reforma litúrgica do Concílio Vaticano II.",
+      "corpo": "A constituição \"Sacrosanctum Concilium\" (1963) abriu caminho para um uso mais amplo da língua vernácula na liturgia, \"sobretudo nas leituras e admoestações, nalgumas orações e cânticos\", superando a exclusividade quase total do latim que vigorava até então. A primeira aplicação prática veio com a instrução \"Inter Oecumenici\", publicada em 26 de setembro de 1964 pela Sagrada Congregação dos Ritos e pelo \"Consilium\" encarregado da reforma, que fixou os princípios gerais para a implementação ordenada da renovação litúrgica.\n\nNos anos seguintes, a permissão foi sendo progressivamente ampliada, até que a promulgação da \"Liturgia Horarum\" reformada (1970-1971) permitiu às conferências episcopais de todo o mundo autorizar edições integralmente vernáculas do Ofício Divino — dando origem a traduções como a \"Liturgia das Horas\" em português, que tornaram a oração oficial da Igreja verdadeiramente acessível também aos leigos em larga escala, um dos objetivos explícitos da reforma conciliar.",
+      "tags": [
+        "Sacrosanctum Concilium",
+        "língua vernácula",
+        "reforma litúrgica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 24,
+      "fontes": [
+        "Concílio Vaticano II, Constituição «Sacrosanctum Concilium», n. 36 e 101",
+        "Vatican News, \"SC: As Instruções da Sagrada Congregação dos Ritos\""
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:edicao-abreviada-popular",
+      "slug": "edicao-abreviada-popular",
+      "titulo": "A Edição Abreviada e Popular do Ofício",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Ao lado da edição completa em quatro volumes, existem edições reduzidas de um só volume da Liturgia das Horas, pensadas para leigos, diáconos permanentes e comunidades que não rezam o Ofício por inteiro.",
+      "corpo": "Além da edição típica em quatro volumes, organizada pelos tempos do ano litúrgico e destinada sobretudo a clérigos e comunidades religiosas que rezam o Ofício completo, editoras católicas publicam também versões reduzidas de um único volume — como a \"Liturgia das Horas – edição abreviada com Hora Intermédia\", já em sua oitava edição em língua portuguesa —, contendo geralmente Laudes, uma Hora Intermédia, Vésperas e Completas, com um ciclo de salmos simplificado.\n\nEssas edições populares tornam a oração oficial da Igreja praticamente acessível fora dos ambientes clericais e religiosos, atendendo sobretudo a leigos e diáconos permanentes; edições semelhantes existem em outras línguas, como o \"Christian Prayer\" e o \"Shorter Christian Prayer\" do mundo anglófono, todas elas expressão do desejo, já manifestado pelo Concílio Vaticano II, de uma participação leiga mais ampla na Liturgia das Horas.",
+      "tags": [
+        "Breviário",
+        "edição abreviada",
+        "leigos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 25,
+      "fontes": [
+        "Secretariado Nacional de Liturgia (Portugal), «Liturgia das Horas – Edição Abreviada»"
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:horologion-rito-bizantino",
+      "slug": "horologion-rito-bizantino",
+      "titulo": "O Horologion: o Equivalente Bizantino da Liturgia das Horas",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Nas Igrejas de rito bizantino, ortodoxas e católicas orientais, o livro correspondente ao Ofício Divino romano chama-se Horologion, com uma estrutura própria de oito horas.",
+      "corpo": "O Horologion — literalmente \"livro das horas\" — é o livro litúrgico que reúne, no rito bizantino, o ordinário e um repertório limitado de textos próprios para os oito ofícios do ciclo diário, tanto nas Igrejas ortodoxas quanto nas Igrejas católicas orientais em plena comunhão com Roma: Meia-Noite (Mesonyktikon), Matinas (Órthros), Prima, Tércia, Sexta, Noa, Vésperas (Esperinón) e Completas (Apódeipnon). É, primariamente, um livro para uso do leitor e do cantor, distinto do Eucológio, que reúne os textos próprios do sacerdote e do diácono.\n\nEmbora sua estrutura seja bem diferente da Liturgia das Horas do Rito Romano, o Horologion cumpre um papel análogo ao santificar as horas do dia por meio de salmodia, hinografia e leituras bíblicas — um lembrete de que a oração contínua ao longo do dia é uma raiz apostólica comum a toda a tradição cristã, oriental e ocidental.",
+      "tags": [
+        "Horologion",
+        "rito bizantino",
+        "ritos orientais"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 26,
+      "fontes": [
+        "OrthodoxWiki, \"Horologion\"",
+        "Enciclopédia Wikitólica, \"Rito Bizantino\""
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:antifonas-do-o",
+      "slug": "antifonas-do-o",
+      "titulo": "As Antífonas do \"Ó\"",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Sete antífonas cantadas antes e depois do Magnificat, em Vésperas, entre 17 e 23 de dezembro, cada uma invocando Cristo por um título messiânico diferente do Antigo Testamento.",
+      "corpo": "Compostas entre os séculos VII e VIII, as Antífonas do \"Ó\" formam um pequeno compêndio da cristologia da Igreja antiga, resumindo o desejo de salvação tanto do Israel do Antigo Testamento quanto da Igreja do Novo. São sete invocações a Cristo, cada uma centrada num título messiânico diferente: Ó Sapiência, Ó Adonai (Senhor), Ó Raiz de Jessé, Ó Chave de Davi, Ó Oriente, Ó Rei das Nações e Ó Emanuel, cantadas antes e depois do Magnificat em Vésperas nos últimos sete dias antes da véspera de Natal.\n\nUm detalhe curioso confirma que as sete foram deliberadamente compostas como um conjunto único: lidas em ordem inversa, as iniciais latinas dos títulos (Sapientia, Adonai, Radix, Clavis, Oriens, Rex, Emmanuel) formam o acróstico \"ERO CRAS\", que significa \"amanhã estarei\" ou \"amanhã virei\" — uma assinatura poética que intensifica a expectativa messiânica do Advento em sua semana final, e que inspirou diretamente o hino \"Veni, veni Emmanuel\".",
+      "tags": [
+        "Antífonas do Ó",
+        "Advento",
+        "Magnificat",
+        "Vésperas"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 27,
+      "fontes": [
+        "Wikipédia, \"Antífonas do Ó\"",
+        "ACI Digital, \"As sete antífonas de Advento que são rezadas na semana antes do Natal\""
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:leitura-breve-e-responsorio-breve",
+      "slug": "leitura-breve-e-responsorio-breve",
+      "titulo": "A Leitura Breve e o Responsório Breve",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Em todas as horas menos no Ofício das Leituras e no Invitatório, um curto trecho da Escritura seguido de um responsório breve ocupa o lugar que, em Laudes e Vésperas, cabe à leitura mais longa.",
+      "corpo": "A estrutura geral de cada hora da Liturgia das Horas inclui, depois do hino e da salmodia, uma leitura da Sagrada Escritura — longa ou breve — seguida de um responsório. Em Laudes e Vésperas, prevalece normalmente a \"leitura breve\", substituível por uma leitura mais longa em ocasiões especiais, seguida do \"responsório breve\": um canto responsorial curto que pode ser omitido ou substituído por outro canto de função equivalente, desde que devidamente aprovado pela Conferência Episcopal.\n\nNa Hora Média, essa mesma estrutura de leitura breve seguida de responsório breve se repete em cada uma das horas menores, mudando de texto conforme o dia, a semana ou o tempo litúrgico, sempre destacando algum pensamento bíblico adequado àquele momento específico do dia. Por mais compactas que sejam, essas leituras breves cumprem a mesma função de toda proclamação da Palavra de Deus na liturgia: não são um mero ornamento, mas o centro em torno do qual gira cada hora do Ofício.",
+      "tags": [
+        "leitura breve",
+        "responsório breve",
+        "Hora Média",
+        "estrutura litúrgica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 28,
+      "fontes": [
+        "Instrução Geral sobre a Liturgia das Horas, cap. III"
+      ]
     }
   ]
 }
