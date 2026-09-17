@@ -126,6 +126,15 @@ Nenhum fato deve ser preenchido por memoria. Cada lote precisa manter um registr
 - [x] Diagnóstico do VS Code: nenhum erro nos três arquivos.
 - [ ] Suíte `pytest -q`: não executada porque `pytest` não está disponível no ambiente atual.
 
+### Lote 3 — Santos, Virtudes e Papas
+
+- [x] `santos/luis-gonzaga`: corpo ampliado para 1.160 caracteres e três referências.
+- [x] `virtudes/dar-de-comer-a-quem-tem-fome`: corpo ampliado para 1.140 caracteres e três referências.
+- [x] `papas/lando`: corpo ampliado para 1.124 caracteres, datas tratadas como aproximadas e três referências.
+- [x] JSONs válidos e compilação da aplicação concluída.
+- [x] Diagnóstico do VS Code: nenhum erro nos três arquivos.
+- [ ] Suíte `pytest -q`: não executada porque `pytest` não está disponível no ambiente atual.
+
 ### Lote 2 — Santos, Virtudes e Papas
 
 - [x] `santos/paschoal-baylon`: corpo ampliado para 1.208 caracteres e três referências.
