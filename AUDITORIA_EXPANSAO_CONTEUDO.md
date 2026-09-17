@@ -126,4 +126,14 @@ Nenhum fato deve ser preenchido por memoria. Cada lote precisa manter um registr
 - [x] Diagnóstico do VS Code: nenhum erro nos três arquivos.
 - [ ] Suíte `pytest -q`: não executada porque `pytest` não está disponível no ambiente atual.
 
+### Lote 2 — Santos, Virtudes e Papas
+
+- [x] `santos/paschoal-baylon`: corpo ampliado para 1.208 caracteres e três referências.
+- [x] `virtudes/ensinar-os-ignorantes`: corpo ampliado para 1.324 caracteres e três referências.
+- [x] `papas/valentino`: corpo ampliado para 1.076 caracteres e três referências.
+- [x] As informações foram baseadas em pesquisa web real; nenhum slug foi alterado.
+- [x] Diagnóstico do VS Code: nenhum erro nos três arquivos.
+- [x] `python -m json.tool` e `python -m compileall -q app` preparados para validação do lote; o comando combinado não executou por indisponibilidade temporária do cmdlet `Set-Location` nesta sessão.
+- [ ] Suíte `pytest -q`: não executada porque `pytest` não está disponível no ambiente atual.
+
 A ferramenta `submit_entries` mencionada no briefing não está disponível nesta sessão; o lote foi aplicado diretamente aos JSONs versionados, após pesquisa web real. O próximo lote deve continuar com entradas curtas de Santos, Virtudes e Papas, mantendo o mesmo registro de fontes e validação.
