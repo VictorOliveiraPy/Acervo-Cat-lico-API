@@ -17,18 +17,25 @@
       "titulo": "Adão e Eva",
       "categoria": "personagens-biblicos",
       "resumo": "O primeiro homem e a primeira mulher, segundo o relato bíblico da criação, cuja desobediência introduz o pecado original na humanidade.",
-      "corpo": "Criados por Deus \"à sua imagem e semelhança\" (Gn 1,27), Adão e Eva vivem no Jardim do Éden até desobedecerem ao mandamento divino de não comer do fruto da árvore do conhecimento do bem e do mal, instigados pela serpente. Essa desobediência — o \"pecado original\" na teologia católica — introduz na humanidade a ruptura com Deus da qual Cristo, o \"novo Adão\", viria a redimir.",
+      "corpo": "O livro do Gênesis narra a criação do ser humano em dois relatos complementares. No primeiro (Gn 1,26-28), Deus cria «o ser humano à sua imagem» — «homem e mulher os criou» — e lhes confia o domínio sobre a terra. No segundo, mais antigo do ponto de vista literário (Gn 2,4-25), o Senhor forma o homem (adam, «terroso», de adamah, «terra») do pó do solo e sopra nele o «fôlego de vida»; depois, vendo que «não é bom que o homem esteja só», forma a mulher a partir de uma de suas costelas, e Adão a reconhece com as primeiras palavras humanas registradas na Bíblia: «esta, sim, é osso dos meus ossos e carne da minha carne» (Gn 2,23). Ambos vivem nus e sem vergonha no Jardim do Éden, num estado de amizade original com Deus que a tradição católica chama de «justiça original».\n\nA ruptura vem no capítulo 3: a serpente — lida pela tradição como figura do demônio (cf. Sb 2,24; Ap 12,9) — insinua a Eva a dúvida sobre a bondade do mandamento divino de não comer do fruto da árvore do conhecimento do bem e do mal. Eva come e dá também a Adão, e «os olhos de ambos se abriram», mas não para a divinização prometida pela serpente, e sim para a vergonha, o medo e o esconder-se de Deus. Segue-se a sentença: a serpente é amaldiçoada e recebe o anúncio do «protoevangelho» — a inimizade entre sua descendência e a da mulher, cuja descendência lhe esmagará a cabeça (Gn 3,15), lido pela tradição cristã, desde os primeiros Padres, como a primeira promessa messiânica, apontando para Cristo e para Maria, a «nova Eva»; a mulher recebe a dor do parto e a subordinação ao marido; o homem, o trabalho penoso da terra e a mortalidade («pó és, e ao pó tornarás»). Ambos são expulsos do Éden, e querubins com espada flamejante guardam o caminho da árvore da vida.\n\nA teologia católica, sistematizada sobretudo por Santo Agostinho em sua polêmica contra Pelágio nos séculos IV-V, lê nesse episódio a origem do «pecado original»: uma falta histórica dos primeiros pais que fere a natureza humana na sua origem e se transmite, não por imitação, mas por geração, a toda a humanidade, privando-a da graça original sem, contudo, corromper totalmente a natureza. O Concílio de Trento definiu esse ensinamento como dogma de fé em 1546, e o Catecismo da Igreja Católica (n. 396-412) o retoma explicando que o relato do Gênesis usa «linguagem figurada», mas afirma «um acontecimento primordial, um fato que teve lugar no início da história do homem» (CIC 390). São Paulo já havia lançado as bases dessa leitura ao contrapor Adão e Cristo: «assim como por um só homem entrou o pecado no mundo, e pelo pecado a morte, [...] assim também pela obediência de um só, muitos se tornarão justos» (Rm 5,12-19); por isso a liturgia e os Padres chamam Cristo de «novo Adão», que repara por sua obediência a desobediência do primeiro. O hino pascal do Exsultet chega a cantar a «feliz culpa» (felix culpa) de Adão, que mereceu «tal e tão grande Redentor».\n\nNa iconografia e na piedade populares, Adão e Eva aparecem com frequência ladeando cenas da crucificação — o crânio aos pés da cruz, segundo antiga tradição, seria o do próprio Adão, sepultado no Gólgota, de modo que o sangue de Cristo escorreria simbolicamente sobre os restos do primeiro homem. Judaísmo e Islã também reverenciam Adão como o primeiro profeta e pai da humanidade, embora sem a doutrina cristã do pecado original, que Ortodoxia e Judaísmo tampouco compartilham do mesmo modo que o Ocidente latino.",
       "tags": [
         "Gênesis",
         "pecado original",
-        "criação"
+        "criação",
+        "protoevangelho",
+        "novo Adão"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Expulsion_of_Adam_and_Eve_%28Alexandre_Cabanel%29.jpg",
       "imagem_credito": null,
       "tipo": "outro",
       "testamento": "antigo",
       "referencia_biblica": "Gênesis 1-3",
-      "fontes": []
+      "fontes": [
+        "Gênesis 1-3",
+        "Romanos 5,12-19",
+        "Catecismo da Igreja Católica, 385-412",
+        "Vatican News, «A influência de Eva e de Maria na mulher na doutrina patrística»"
+      ]
     },
     {
       "id": "personagens-biblicos:noe",
@@ -36,18 +43,24 @@
       "titulo": "Noé",
       "categoria": "personagens-biblicos",
       "resumo": "Patriarca justo que, por mandado divino, constrói uma arca para salvar sua família e pares de animais do Dilúvio.",
-      "corpo": "Descrito como \"justo e íntegro entre seus contemporâneos\" (Gn 6,9), Noé recebe de Deus a missão de construir uma arca para sobreviver ao Dilúvio enviado como julgamento sobre a corrupção da humanidade. Depois das águas baixarem, Deus estabelece com Noé uma aliança, simbolizada pelo arco-íris, prometendo nunca mais destruir a terra por um dilúvio.",
+      "corpo": "Descendente de Adão pela linhagem de Sete (Gn 5), Noé é apresentado como «um homem justo, íntegro entre seus contemporâneos, e que caminhava com Deus» (Gn 6,9) — o único merecedor de salvação numa humanidade que Deus vê corrompida pela violência (Gn 6,11-13). Recebe então a ordem de construir uma arca de madeira de gôfer, com três andares, revestida de betume por dentro e por fora, para abrigar sua família — a esposa, os três filhos Sem, Cam e Jafé, e as respectivas esposas — e pares (sete de cada espécie pura, segundo Gn 7,2) de todos os animais, enquanto um dilúvio de quarenta dias e quarenta noites cobriria a terra como castigo pela maldade humana.\n\nO relato bíblico do Dilúvio ecoa e ao mesmo tempo transforma tradições muito mais antigas da Mesopotâmia, como o mito sumério-acádico de Utnapishtim, narrado na Epopeia de Gilgamesh, e o Poema de Atrahasis: em ambos, um herói é avisado por um deus para construir um barco e escapar de uma inundação universal. A diferença teológica é decisiva — enquanto nos mitos mesopotâmicos os deuses destroem por capricho ou irritação com o barulho dos homens, no Gênesis o dilúvio é resposta moral à corrupção e à violência, e Deus age com justiça, poupando o justo Noé e renovando, por meio dele, toda a criação. Depois de a arca repousar sobre os montes de Ararate e as águas baixarem — confirmadas pelo voo do corvo e, sobretudo, da pomba que retorna com um ramo de oliveira (Gn 8,11), imagem depois incorporada à iconografia cristã da paz e do Espírito Santo —, Noé oferece um sacrifício de ação de graças.\n\nDeus então estabelece com Noé, seus descendentes e «toda criatura viva» uma aliança universal — a primeira aliança explícita da Bíblia —, prometendo nunca mais destruir toda carne pelas águas de um dilúvio, e dá o arco-íris como sinal perpétuo dessa promessa (Gn 9,8-17). É também a Noé que são dados os preceitos que a tradição judaica chamaria mais tarde de «leis noéticas» — proibição de derramar sangue humano e de comer carne com sangue —, entendidas como o mínimo moral exigido de toda a humanidade, e não apenas do povo eleito. A tradição rabínica dos séculos seguintes, refletida no Talmude e no Midrash, amplia a figura de Noé como «pregador de justiça» que, durante os 120 anos de construção da arca, teria advertido em vão seus contemporâneos para que se arrependessem.\n\nA tradição cristã, já em textos do Novo Testamento (1Pd 3,20-21), leu a água do Dilúvio como prefiguração do Batismo, que salva «não removendo a sujeira do corpo, mas pedindo a Deus uma consciência reta»; a arca, por sua vez, tornou-se símbolo patrístico da Igreja, único lugar de salvação em meio ao naufrágio do pecado. Episódio final e menos edificante da vida de Noé é sua embriaguez após plantar uma vinha e a maldição lançada sobre Canaã, filho de Cam, por este ter zombado da nudez do pai (Gn 9,20-27) — narrativa usada, de modo trágico e distorcido, séculos depois para justificar a escravidão de povos africanos, leitura hoje unanimemente rejeitada pela exegese católica.",
       "tags": [
         "Gênesis",
         "Dilúvio",
-        "aliança"
+        "aliança",
+        "leis noéticas",
+        "tipologia do batismo"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/92/NoahsSacrifice.JPG",
       "imagem_credito": null,
       "tipo": "patriarca",
       "testamento": "antigo",
       "referencia_biblica": "Gênesis 6-9",
-      "fontes": []
+      "fontes": [
+        "Gênesis 6-9",
+        "1 Pedro 3,20-21",
+        "Epopeia de Gilgamesh (Tábua XI)"
+      ]
     },
     {
       "id": "personagens-biblicos:abraao",
@@ -55,19 +68,26 @@
       "titulo": "Abraão",
       "categoria": "personagens-biblicos",
       "resumo": "O primeiro patriarca, pai da fé para judeus, cristãos e muçulmanos, chamado por Deus a deixar sua terra e receber a promessa de uma grande descendência.",
-      "corpo": "Chamado por Deus a deixar Ur, na Mesopotâmia, e partir para uma terra que lhe seria mostrada, Abraão (originalmente Abrão) torna-se o \"pai na fé\" por excelência, celebrado por sua confiança nas promessas divinas — inclusive quando chamado a sacrificar seu filho Isaac, episódio interrompido por um anjo antes de ser consumado. É reverenciado como patriarca comum ao judaísmo, ao cristianismo e ao islamismo.",
+      "corpo": "Originário de Ur dos Caldeus, na Baixa Mesopotâmia, Abrão migra com seu pai Taré até Harã, no norte, de onde recebe o chamado que a tradição judaico-cristã considera o ato fundador da história da salvação: «Sai da tua terra, da tua parentela e da casa de teu pai, para a terra que eu te mostrarei» (Gn 12,1). Com essa ordem vem uma promessa tripla — uma grande descendência, uma terra e a bênção que, através dele, alcançaria «todas as famílias da terra» (Gn 12,2-3). Já idoso e sem filhos com Sara, Abrão obedece, atravessa Canaã, desce ao Egito em tempo de fome e regressa mais rico, separando-se amigavelmente do sobrinho Ló, que escolhe a região de Sodoma.\n\nAo longo de Gênesis 12-25, sua vida é marcada por episódios que a tradição lê como sucessivas provas de fé: o resgate armado de Ló capturado por reis inimigos, seguido do encontro enigmático com Melquisedeque, «rei de Salém e sacerdote do Deus Altíssimo», que lhe oferece pão e vinho e o abençoa — episódio que o Novo Testamento (Hb 7) e a liturgia eucarística católica leem como prefiguração do sacerdócio de Cristo; a aliança selada em visão noturna, quando Deus promete a Abrão uma descendência «numerosa como as estrelas do céu» (Gn 15,5-6), e o texto acrescenta o versículo central de toda a teologia paulina da justificação: «ele creu no Senhor, e isso lhe foi imputado como justiça»; e, mais tarde, a instituição da circuncisão como «sinal da aliança» na carne de todo varão de sua descendência (Gn 17), momento em que Deus muda seu nome de Abrão («pai excelso») para Abraão («pai de multidões»), e o de Sarai para Sara.\n\nDa impaciência do casal diante da esterilidade nasce o episódio de Agar, serva egípcia de Sara, de quem Abraão tem Ismael — reconhecido pela tradição islâmica como ancestral dos árabes e do próprio profeta Maomé, o que faz de Abraão patriarca comum às três religiões abraâmicas. Só depois, já com cem anos, Abraão vê nascer de Sara o filho da promessa, Isaac. O ápice narrativo e teológico de sua vida, porém, é a chamada Akedah («ligadura»): Deus ordena que sacrifique o próprio Isaac no monte Moriá, e Abraão obedece até o último instante, quando um anjo detém sua mão e um cordeiro é providenciado para o holocausto em lugar do filho (Gn 22). São Paulo (Rm 4) e a Carta aos Hebreus (Hb 11,17-19) veem nesse episódio o modelo supremo da fé que se apoia inteiramente em Deus «mesmo contra toda esperança», e os Padres da Igreja associaram o filho único carregando a lenha do próprio sacrifício à figura de Cristo carregando a cruz.\n\nAbraão morre aos 175 anos e é sepultado por Isaac e Ismael na caverna de Macpela, comprada de Efron, o hitita — o único pedaço de terra que possuiria em vida na terra prometida (Gn 23; 25,7-10). É invocado no Cânon Romano da Missa como pai dos que creem, chamado «nosso pai na fé» pela liturgia católica, e Jesus refere-se a si mesmo como anterior a ele («antes que Abraão existisse, Eu Sou», Jo 8,58) — afirmação que os evangelistas registram como motivo de escândalo para seus ouvintes judeus. Sua figura permanece, até hoje, o ponto de encontro simbólico entre judeus, cristãos e muçulmanos, todos reivindicando-se «filhos de Abraão» pela fé ou pela carne.",
       "tags": [
         "Gênesis",
         "patriarcas",
         "aliança",
-        "fé"
+        "fé",
+        "Melquisedeque",
+        "religiões abraâmicas"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Guercino_Abramo_ripudia_Agar_%28cropped_2%29.jpg",
       "imagem_credito": null,
       "tipo": "patriarca",
       "testamento": "antigo",
       "referencia_biblica": "Gênesis 12-25",
-      "fontes": []
+      "fontes": [
+        "Gênesis 12-25",
+        "Romanos 4",
+        "Hebreus 7; 11,17-19",
+        "Catecismo da Igreja Católica, 59-61; 145-146"
+      ]
     },
     {
       "id": "personagens-biblicos:sara",
@@ -75,17 +95,23 @@
       "titulo": "Sara",
       "categoria": "personagens-biblicos",
       "resumo": "Esposa de Abraão, que dá à luz Isaac já em idade avançada, cumprindo a promessa divina de descendência.",
-      "corpo": "Esposa de Abraão, Sara é estéril durante décadas até que, já idosa, concebe e dá à luz Isaac, cumprindo a promessa que ela mesma, ao ouvi-la, recebera com risos de incredulidade — daí o nome do filho, \"Isaac\", que significa \"ele ri\". É reverenciada como matriarca do povo de Israel.",
+      "corpo": "Meia-irmã e esposa de Abraão, Sarai — nome depois mudado por Deus para Sara, «princesa» (Gn 17,15) — acompanha o marido desde Ur dos Caldeus até Canaã, partilhando as incertezas de toda a peregrinação: por duas vezes é apresentada por Abraão como «irmã», e não esposa, diante de governantes estrangeiros (o faraó do Egito e Abimeleque de Gerar), episódio em que sua beleza a expõe ao risco de ser tomada para o harém alheio, e da qual Deus a livra por intervenção direta (Gn 12,10-20; 20,1-18).\n\nA marca central de sua vida bíblica é a esterilidade prolongada por décadas — «Sarai era estéril; não tinha filhos» (Gn 11,30) —, que a leva, seguindo um costume jurídico do Antigo Oriente Próximo bem documentado em textos de Nuzi e Mari, a entregar sua serva egípcia Agar a Abraão para que desta nascesse um herdeiro; do filho resultante, Ismael, nasceriam tensões domésticas que a acompanhariam pelo resto da vida. A promessa divina de que a própria Sara teria um filho é recebida por ela, já com noventa anos, com riso de incredulidade escondido atrás da porta da tenda — «terei ainda prazer, sendo já velha e sendo meu senhor também velho?» (Gn 18,12) —, riso que Deus não deixa passar despercebido e que dá nome ao filho que nasceria, Isaac (Yitzchak, «ele ri» ou «Deus ri/sorri»), sinal de que o impossível humano se torna possível pela fidelidade divina.\n\nApós o nascimento de Isaac, Sara exige que Abraão expulse Agar e Ismael para que o filho da escrava não divida a herança com o filho da promessa (Gn 21,9-14) — episódio que São Paulo retoma alegoricamente em Gálatas 4,21-31, opondo Agar, figura da antiga aliança e da escravidão da Lei, a Sara, figura da aliança da promessa e da liberdade dos filhos de Deus pela fé, «filhos da promessa, à semelhança de Isaac». Sara morre aos 127 anos em Hebron e é a primeira a ser sepultada na caverna de Macpela, comprada por Abraão como primeira propriedade da família na terra prometida (Gn 23) — sepultura que se tornaria também a de Abraão, Isaac, Rebeca, Jacó e Lia. A Carta aos Hebreus a inclui explicitamente na galeria dos heróis da fé: «pela fé, também a própria Sara [...] recebeu a força de conceber, [...] porque julgou fiel aquele que lhe tinha feito a promessa» (Hb 11,11), e é reverenciada até hoje como a primeira das matriarcas de Israel.",
       "tags": [
         "Gênesis",
-        "matriarcas"
+        "matriarcas",
+        "Agar",
+        "aliança"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Sarah_Abraham.jpg",
       "imagem_credito": null,
       "tipo": "mulher",
       "testamento": "antigo",
       "referencia_biblica": "Gênesis 17-21",
-      "fontes": []
+      "fontes": [
+        "Gênesis 11-23",
+        "Gálatas 4,21-31",
+        "Hebreus 11,11"
+      ]
     },
     {
       "id": "personagens-biblicos:isaac",
@@ -93,17 +119,23 @@
       "titulo": "Isaac",
       "categoria": "personagens-biblicos",
       "resumo": "Filho de Abraão e Sara, poupado do sacrifício por intervenção divina, pai de Esaú e Jacó.",
-      "corpo": "Filho da promessa, nascido da idade avançada de seus pais, Isaac é levado por Abraão ao Monte Moriá para ser sacrificado em obediência a um mandamento divino, interrompido no último instante por um anjo, que revela um cordeiro para o sacrifício em seu lugar — episódio lido pela tradição cristã como prefiguração do sacrifício de Cristo. Torna-se pai dos gêmeos Esaú e Jacó.",
+      "corpo": "Segundo patriarca de Israel, Isaac é o filho único que Deus prometera a Abraão e Sara quando ambos já estavam «avançados em dias», nascido em Berseba depois de vinte e cinco anos de espera desde a primeira promessa (Gn 15). Seu nome, Yitzchak («ele ri»), guarda a memória do riso incrédulo de seus pais ao ouvirem o anúncio de seu nascimento e transforma-se, com o cumprimento da promessa, em riso de alegria: «Deus me deu motivo de rir; todo aquele que o souber há de rir comigo», diz Sara (Gn 21,6).\n\nAinda menino ou jovem, é o protagonista, ao lado do pai, do episódio mais dramático de sua vida: levado ao Monte Moriá para ser oferecido em holocausto por ordem divina, carrega ele mesmo a lenha do próprio sacrifício e pergunta ingenuamente onde está o cordeiro — pergunta respondida apenas no último instante, quando um anjo detém a mão de Abraão e um carneiro preso pelos chifres num arbusto é oferecido em seu lugar (Gn 22,1-19). A tradição cristã, já a partir dos primeiros Padres, viu nesse episódio (a Akedah, «ligadura», na tradição judaica) uma antecipação figurativa da Paixão: o filho único e amado que carrega a lenha da própria morte, poupado por um cordeiro substituto, prefigurando o «Cordeiro de Deus» que de fato seria imolado no Calvário.\n\nAdulto, Isaac não escolhe pessoalmente sua esposa: Abraão envia seu servo de confiança à Mesopotâmia, e este, guiado por um sinal pedido em oração junto a um poço, reconhece em Rebeca, sobrinha-neta de Abraão, a destinada — narrativa longa e detalhada (Gn 24) que os comentadores apontam como um dos relatos mais completos da Bíblia sobre a providência divina agindo por meio de circunstâncias aparentemente comuns. Depois de vinte anos de esterilidade do casal, nascem os gêmeos Esaú e Jacó, que já lutam no ventre materno, anunciando a rivalidade que marcaria toda sua descendência (Gn 25,19-26). Isaac repete, com Rebeca, o mesmo estratagema do pai diante de um governante estrangeiro — apresentando-a como irmã por medo (Gn 26,6-11) —, e prospera como agricultor e criador de rebanhos na região de Gerar, reabrindo os poços que os filisteus haviam entupido após a morte de Abraão, gesto lido como fidelidade à herança paterna.\n\nJá velho e cego, Isaac é enganado por Rebeca e Jacó, que se disfarça de Esaú para receber a bênção paterna destinada ao primogênito (Gn 27) — bênção que, uma vez dada, era juridicamente irrevogável, e que a narrativa apresenta com ambiguidade moral, sem esconder o engano, mas reconhecendo nele o instrumento por meio do qual se cumpre o plano de Deus anunciado antes do nascimento dos gêmeos. Isaac morre aos 180 anos, «velho e farto de dias», e é sepultado por Esaú e Jacó, reconciliados, na caverna de Macpela, junto a seus pais (Gn 35,27-29). É a figura de transição discreta entre os dois grandes patriarcas Abraão e Jacó, e sua vida — marcada mais pela obediência silenciosa e pela continuidade da aliança do que por grandes empreendimentos próprios — foi lida pela tradição patrística, por seu temperamento pacífico e por sua quase-imolação, como «tipo» de Cristo, o Príncipe da Paz.",
       "tags": [
         "Gênesis",
-        "patriarcas"
+        "patriarcas",
+        "Akedah",
+        "tipologia de Cristo"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Isaac_a_Lover_of_Peace.jpg",
       "imagem_credito": null,
       "tipo": "patriarca",
       "testamento": "antigo",
       "referencia_biblica": "Gênesis 22; 25-27",
-      "fontes": []
+      "fontes": [
+        "Gênesis 21-27; 35",
+        "Catholic Encyclopedia, «Isaac»",
+        "Hebreus 11,17-20"
+      ]
     },
     {
       "id": "personagens-biblicos:jaco-israel",
@@ -111,18 +143,23 @@
       "titulo": "Jacó (Israel)",
       "categoria": "personagens-biblicos",
       "resumo": "Patriarca que, após lutar com um anjo, recebe o nome \"Israel\" e se torna pai das doze tribos.",
-      "corpo": "Filho de Isaac, Jacó obtém por astúcia a bênção paterna destinada a seu irmão gêmeo Esaú, foge da ira deste, e trabalha por anos na casa de seu tio Labão, casando-se com Lia e Raquel. Após uma misteriosa luta noturna com um \"homem\" (interpretado como anjo ou o próprio Deus), recebe o novo nome \"Israel\" (\"aquele que luta com Deus\"), tornando-se pai das doze tribos que levam esse nome.",
+      "corpo": "Filho mais novo de Isaac e Rebeca, Jacó nasce agarrado ao calcanhar do irmão gêmeo Esaú — daí seu nome, tradicionalmente associado a «aquele que segura o calcanhar» ou «suplantador» (Gn 25,26). Ainda jovem, compra de Esaú o direito de primogenitura por um prato de lentilhas, e mais tarde, orientado pela mãe, disfarça-se de Esaú para obter do pai cego, Isaac, a bênção solene destinada ao primogênito (Gn 25,29-34; 27,1-40). Descoberto o engano, foge da ira fraterna para Harã, na casa do tio Labão, e no caminho tem em Betel a célebre visão de uma escada que liga a terra ao céu, com anjos subindo e descendo e o próprio Deus no alto, renovando-lhe a promessa feita a Abraão e Isaac (Gn 28,10-22) — episódio que dá nome ao lugar («Betel», «casa de Deus») e que a tradição cristã associa, a partir de João 1,51, à figura de Cristo como o verdadeiro elo entre o céu e a terra.\n\nEm Harã, Jacó trabalha catorze anos por suas duas esposas, Lia e Raquel, filhas de Labão, que o engana na noite de núpcias substituindo a noiva prometida pela irmã mais velha — golpe que espelha, quase como justiça poética, o próprio engano que Jacó infligira a Esaú. Do casamento com Lia, Raquel e as servas destas, Bila e Zilpa, nascem os doze filhos e a filha Diná que dariam origem às doze tribos de Israel. Após vinte anos de serviço, Jacó parte secretamente com família, rebanhos e bens de volta a Canaã, reconciliando-se pelo caminho com Labão, que o persegue, e preparando-se com apreensão para reencontrar Esaú.\n\nNa véspera desse reencontro, na margem do rio Jaboc, ocorre o episódio mais enigmático de sua vida: sozinho, Jacó luta a noite inteira com um «homem» que o texto deixa deliberadamente ambíguo — interpretado pela tradição como um anjo ou teofania do próprio Deus —, e, apesar de ferido no quadril, recusa-se a soltá-lo sem receber uma bênção. Recebe então o novo nome «Israel», explicado no próprio texto como «aquele que lutou com Deus e com os homens e venceu» (Gn 32,23-33), nome que passaria a designar não só o patriarca, mas todo o povo de sua descendência. O reencontro com Esaú, temido como vingança, resolve-se em abraço e lágrimas (Gn 33).\n\nOs anos finais da vida de Jacó em Canaã são marcados por tragédias familiares — o estupro de Diná e a vingança sangrenta de seus irmãos em Siquém (Gn 34), a morte de Raquel ao dar à luz Benjamim, e sobretudo a rivalidade entre os filhos que leva à venda de José, seu predileto, como escravo para o Egito. É esse mesmo José quem, anos depois, já governador egípcio, providencia a vinda de todo o clã para a região de Gósen durante a grande fome, onde Jacó passa os últimos dezessete anos de vida. Antes de morrer, aos 147 anos, pronuncia sobre cada um dos doze filhos um oráculo profético (Gn 49) que antecipa o destino de suas respectivas tribos — reservando a Judá a promessa de um cetro que não se apartaria «até que venha aquele a quem pertence», texto lido pela tradição messiânica judaica e cristã como anúncio distante do Messias. É sepultado, por desejo próprio, na caverna de Macpela, junto aos demais patriarcas (Gn 49,29-33; 50,1-14).",
       "tags": [
         "Gênesis",
         "patriarcas",
-        "doze tribos"
+        "doze tribos",
+        "escada de Jacó",
+        "aliança"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Jacob_and_Rebekah.jpg",
       "imagem_credito": null,
       "tipo": "patriarca",
       "testamento": "antigo",
       "referencia_biblica": "Gênesis 25-35",
-      "fontes": []
+      "fontes": [
+        "Gênesis 25; 27-35; 49-50",
+        "João 1,51"
+      ]
     },
     {
       "id": "personagens-biblicos:jose-do-egito",
@@ -130,18 +167,24 @@
       "titulo": "José do Egito",
       "categoria": "personagens-biblicos",
       "resumo": "Filho de Jacó, vendido pelos irmãos como escravo, que se torna governador do Egito e salva sua família da fome.",
-      "corpo": "Filho predileto de Jacó, José é vendido pelos próprios irmãos, invejosos, a mercadores que o levam ao Egito como escravo. Ali, após interpretar sonhos do faraó prevendo sete anos de fartura seguidos de sete de fome, é elevado a governador, e mais tarde perdoa os irmãos que o haviam traído, salvando toda a família da fome — episódio lido como um dos relatos bíblicos mais completos sobre a providência divina agindo através de circunstâncias humanas adversas.",
+      "corpo": "Filho de Jacó com Raquel, e portanto o preferido do pai já em idade avançada, José recebe do pai uma túnica especial — tradicionalmente traduzida como «de várias cores» — que se torna símbolo do favoritismo que desperta o ódio dos dez irmãos mais velhos, agravado por dois sonhos em que José se vê reverenciado por toda a família (Gn 37,1-11). Os irmãos primeiro planejam matá-lo, mas, por sugestão de Judá, acabam por vendê-lo a mercadores ismaelitas/midianitas que o levam ao Egito, enquanto mancham sua túnica com sangue de cabrito para fazer Jacó crer que uma fera o havia devorado.\n\nNo Egito, José é comprado por Potifar, oficial do faraó, e prospera a ponto de administrar toda a casa de seu senhor, até ser falsamente acusado de assédio pela esposa de Potifar, que ele havia recusado por fidelidade a Deus e ao próprio senhor — episódio que o leva à prisão (Gn 39). Na cadeia, interpreta corretamente os sonhos de dois oficiais reais presos com ele, e essa fama chega ao faraó quando este tem sonhos perturbadores — sete vacas gordas devoradas por sete magras, sete espigas cheias devoradas por sete mirradas — que ninguém no Egito sabe decifrar. José os interpreta como anúncio de sete anos de grande fartura seguidos de sete anos de fome severa, e propõe um plano de armazenamento que convence o faraó a elevá-lo, da noite para o dia, a governador de todo o Egito, segundo apenas ao próprio soberano (Gn 41).\n\nQuando a fome atinge também Canaã, os irmãos de José descem ao Egito para comprar grãos e se apresentam, sem reconhecê-lo, diante do próprio irmão que haviam vendido. José os testa antes de se revelar, num dos momentos mais emocionalmente densos do Antigo Testamento, chorando alto e tranquilizando-os: «não fostes vós que me enviastes para cá, mas Deus [...] para preservar-vos a vida por meio de uma grande libertação» (Gn 45,4-8) — formulação que se tornaria clássica na teologia bíblica da providência, mostrando como Deus tece o bem a partir de intenções humanas más («vós planejastes o mal contra mim, mas Deus o tornou em bem», Gn 50,20). Jacó e toda a família se instalam então na região de Gósen, dando início à presença hebraica no Egito que, gerações depois, desembocaria na escravidão narrada no Êxodo.\n\nA tradição patrística viu em José um dos «tipos» mais completos de Cristo no Antigo Testamento: filho amado do pai, rejeitado e vendido pelos próprios irmãos, tido como morto, exaltado depois de humilhações injustas e tornado, por fim, salvador daqueles mesmos que o haviam traído. Autores como São João Crisóstomo, Santo Ambrósio e Santo Efrém, o Sírio, desenvolveram extensamente esse paralelo — Efrém chega a contrapor José, que «alimenta o Egito com pão material», a Jesus, que «nutre o mundo com o pão vivo descido do céu». José morre no Egito aos 110 anos, mas antes pede que seus ossos sejam levados de volta à terra prometida quando Deus visitasse seu povo (Gn 50,24-25) — promessa cumprida séculos depois, durante o Êxodo (Ex 13,19), e citada pela Carta aos Hebreus como último e discreto ato de fé do patriarca (Hb 11,22).",
       "tags": [
         "Gênesis",
         "patriarcas",
-        "Egito"
+        "Egito",
+        "tipologia de Cristo",
+        "providência divina"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Peter_von_Cornelius_002.jpg",
       "imagem_credito": null,
       "tipo": "patriarca",
       "testamento": "antigo",
       "referencia_biblica": "Gênesis 37-50",
-      "fontes": []
+      "fontes": [
+        "Gênesis 37-50",
+        "Hebreus 11,22",
+        "A Mensagem, «José tipificou a Jesus Cristo?»"
+      ]
     },
     {
       "id": "personagens-biblicos:moises",
@@ -149,18 +192,26 @@
       "titulo": "Moisés",
       "categoria": "personagens-biblicos",
       "resumo": "O maior líder e legislador do Antigo Testamento, que liberta Israel da escravidão no Egito e recebe a Lei no Sinai.",
-      "corpo": "Salvo ainda bebê das águas do Nilo e criado na corte egípcia, Moisés é chamado por Deus, na visão da sarça ardente, para libertar os hebreus escravizados no Egito. Após as dez pragas e a travessia do Mar Vermelho, conduz o povo por quarenta anos no deserto, recebendo no Monte Sinai os Dez Mandamentos e a Lei que organizaria a vida de Israel. Morre à vista, mas sem entrar, na Terra Prometida.",
+      "corpo": "Nascido numa família levita em tempos em que o faraó ordenara matar todo menino hebreu recém-nascido, Moisés é salvo ainda bebê por sua mãe, que o coloca num cesto de junco sobre as águas do Nilo; recolhido pela própria filha do faraó, é criado na corte egípcia, mas amamentado, por arranjo providencial, pela própria mãe (Ex 2,1-10). Já adulto, mata um capataz egípcio que espancava um hebreu e foge para Madiã, onde se casa com Zípora, filha do sacerdote Jetro, e vive como pastor até o episódio decisivo de sua vida: a visão da sarça que arde sem se consumir, no Monte Horeb, onde Deus lhe revela o nome próprio «Eu Sou o que Sou» (YHWH) e o envia de volta ao Egito para libertar os hebreus escravizados (Ex 3).\n\nDiante da recusa do faraó, Deus envia por meio de Moisés e de seu irmão Arão as dez pragas — do sangue do Nilo à morte dos primogênitos —, que culminam na instituição da Páscoa judaica, celebrada na última noite antes da saída, quando o sangue do cordeiro nas ombreiras das portas preserva os hebreus do «anjo exterminador» (Ex 12). Segue-se o Êxodo propriamente dito: a travessia do Mar dos Juncos (tradicionalmente «Mar Vermelho»), com as águas que se abrem e depois engolem o exército egípcio em perseguição, celebrada no antigo «Cântico do Mar» (Ex 15), um dos textos poéticos mais arcaicos da Bíblia hebraica.\n\nNo deserto, ao longo de quarenta anos de peregrinação, Moisés exerce papel de legislador, juiz e intercessor: sobe ao Monte Sinai e recebe de Deus as tábuas da Lei com os Dez Mandamentos (Ex 20; Dt 5), além de um extenso corpo de preceitos rituais, morais e sociais que organizariam toda a vida religiosa e civil de Israel — o núcleo do que a tradição chamaria «Lei de Moisés» ou Torá, os cinco primeiros livros da Bíblia, cuja autoria mosaica direta é hoje relativizada pela exegese histórico-crítica, que reconhece nela camadas redacionais posteriores, sem negar a Moisés o papel fundador de mediador da aliança. Intercede repetidamente por um povo rebelde — mais notoriamente após o episódio do bezerro de ouro, quando quebra as tábuas em ira e depois as reesculpe — e enfrenta murmurações constantes por fome, sede e medo dos habitantes de Canaã.\n\nSua própria falta — golpear a rocha em Meriba em vez de apenas falar a ela, num gesto de desconfiança diante da ordem divina (Nm 20,1-13) — lhe custa o direito de entrar na terra prometida. Aos 120 anos, do alto do Monte Nebo, contempla Canaã à distância antes de morrer, sepultado por Deus mesmo «em lugar que ninguém conhece até hoje» (Dt 34,1-6). É reverenciado como o maior profeta do Antigo Testamento — «não se levantou mais em Israel profeta como Moisés, a quem o Senhor conhecia face a face» (Dt 34,10) — e aparece ao lado de Elias na Transfiguração de Jesus (Mt 17,1-8), episódio lido como reconhecimento de que Cristo cumpre e supera tanto a Lei (representada por Moisés) quanto os Profetas (representados por Elias). A tradição cristã viu ainda em Moisés um «tipo» de Cristo como legislador e libertador, e em episódios como a serpente de bronze levantada no deserto (Nm 21,4-9) uma prefiguração explícita da cruz, conforme o próprio Jesus afirma em João 3,14.",
       "tags": [
         "Êxodo",
         "profetas",
-        "Dez Mandamentos"
+        "Dez Mandamentos",
+        "Páscoa judaica",
+        "Sinai"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Rembrandt_Harmensz._van_Rijn_079.jpg",
       "imagem_credito": null,
       "tipo": "profeta",
       "testamento": "antigo",
       "referencia_biblica": "Livro do Êxodo",
-      "fontes": []
+      "fontes": [
+        "Êxodo 2-20; 32",
+        "Números 20-21",
+        "Deuteronômio 34",
+        "Mateus 17,1-8",
+        "João 3,14"
+      ]
     },
     {
       "id": "personagens-biblicos:arao",
@@ -168,17 +219,23 @@
       "titulo": "Arão",
       "categoria": "personagens-biblicos",
       "resumo": "Irmão de Moisés e primeiro sumo sacerdote de Israel, fundador da linhagem sacerdotal levítica.",
-      "corpo": "Irmão mais velho de Moisés, Arão atua como seu porta-voz diante do faraó e é consagrado o primeiro sumo sacerdote de Israel, dando origem à linhagem sacerdotal levítica que oficiaria o culto israelita por séculos. É também lembrado, negativamente, por ter cedido à pressão do povo para fabricar o bezerro de ouro enquanto Moisés recebia a Lei no Sinai.",
+      "corpo": "Filho de Anrão e Joquebede, da tribo de Levi, e irmão mais velho de Moisés e de Miriã, Arão é designado por Deus para acompanhar Moisés diante do faraó justamente por sua fluência de fala, suprindo a dificuldade que o próprio Moisés alega ter («eu sou de fala pesada e língua tarda», Ex 4,10) — por isso o texto o chama de «boca» de Moisés (Ex 4,16). É ele quem empunha o cajado que se transforma em serpente diante da corte egípcia e que desencadeia várias das dez pragas, atuando lado a lado com o irmão ao longo de todo o confronto com o faraó e da saída do Egito.\n\nNo Sinai, Arão e seus filhos são consagrados por Moisés, mediante um rito elaborado de unção, sacrifícios e vestes litúrgicas específicas (Ex 28-29; Lv 8), como os primeiros sacerdotes de Israel, dando origem à linhagem sacerdotal levítica — o «sacerdócio aarônico» — que exerceria com exclusividade as funções de culto no Templo de Jerusalém por mais de um milênio, até a destruição de 70 d.C. Coube a Arão também a fórmula da bênção sacerdotal que os sacerdotes de Israel pronunciariam sobre o povo: «o Senhor te abençoe e te guarde [...]» (Nm 6,24-26), ainda hoje usada na liturgia judaica e ecoada em bênçãos cristãs.\n\nSua biografia bíblica não é isenta de faltas graves: enquanto Moisés permanece no monte recebendo a Lei, Arão cede à pressão do povo impaciente e fabrica o bezerro de ouro, proclamando-o diante do altar como o deus que os havia tirado do Egito (Ex 32) — episódio que expõe a fragilidade da liderança aarônica diante da idolatria e que a tradição rabínica posterior tentou, com algum esforço, atenuar. Arão também se associa a Miriã numa contestação da autoridade exclusiva de Moisés, alegando que Deus falava por meio de ambos igualmente (Nm 12), episódio resolvido com a reafirmação divina do lugar único de Moisés como profeta que vê Deus «face a face». Mais tarde, quando a legitimidade do sacerdócio aarônico é desafiada pela revolta de Corá, Datã e Abirão, Deus confirma Arão fazendo florescer milagrosamente sua vara diante das dos demais chefes de tribo, sinal guardado na Arca da Aliança (Nm 17). Como Moisés, também Arão não entra na terra prometida por causa da desobediência em Meriba, morrendo no Monte Hor, onde suas vestes sacerdotais são transferidas ritualmente a seu filho Eleazar antes de sua morte (Nm 20,22-29). A Carta aos Hebreus contrapõe o sacerdócio «segundo a ordem de Arão», limitado e hereditário, ao sacerdócio eterno de Cristo «segundo a ordem de Melquisedeque» (Hb 7,11-17), lendo em Arão uma figura imperfeita e provisória do verdadeiro Sumo Sacerdote.",
       "tags": [
         "Êxodo",
-        "sacerdócio levítico"
+        "sacerdócio levítico",
+        "bezerro de ouro",
+        "bênção sacerdotal"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e2/El_sumo_sacerdote_Aar%C3%B3n_%28Museo_del_Prado%29_%28cropped%29.jpg",
       "imagem_credito": null,
       "tipo": "outro",
       "testamento": "antigo",
       "referencia_biblica": "Êxodo 4; 32",
-      "fontes": []
+      "fontes": [
+        "Êxodo 4; 28-29; 32",
+        "Números 6; 12; 17; 20",
+        "Hebreus 7,11-17"
+      ]
     },
     {
       "id": "personagens-biblicos:josue-personagem",
@@ -186,17 +243,23 @@
       "titulo": "Josué",
       "categoria": "personagens-biblicos",
       "resumo": "Sucessor de Moisés, que conduz Israel na conquista da Terra Prometida.",
-      "corpo": "Auxiliar direto de Moisés durante a travessia do deserto, Josué é escolhido para sucedê-lo à frente do povo, conduzindo a travessia do rio Jordão e a conquista militar de Canaã, incluindo o célebre episódio da queda das muralhas de Jericó ao som das trombetas.",
+      "corpo": "Da tribo de Efraim, originalmente chamado Oséias, Josué recebe de Moisés o novo nome que significa «o Senhor salva» (Nm 13,16) — a mesma raiz hebraica do nome «Jesus» em sua forma grega. Aparece pela primeira vez como comandante militar de Israel na vitória contra os amalecitas no deserto, enquanto Moisés, com os braços erguidos, intercede no alto de uma colina (Ex 17,8-13), e desde então se torna auxiliar direto e constante do legislador, acompanhando-o inclusive na subida ao Sinai. É um dos doze espias enviados a reconhecer Canaã e, ao lado de Calebe, o único a trazer um relatório de confiança na promessa divina, contra o desânimo generalizado dos outros dez — fidelidade pela qual ambos são poupados da punição que condena toda aquela geração a morrer no deserto sem entrar na terra prometida (Nm 13-14).\n\nDesignado por Deus, ainda em vida de Moisés, como seu sucessor à frente do povo (Nm 27,18-23; Dt 31,7-8), Josué assume a liderança após a morte do legislador e conduz a travessia miraculosa do rio Jordão, cujas águas se detêm assim que os sacerdotes que carregam a Arca da Aliança pisam nele — eco deliberado, no texto bíblico, da travessia do Mar Vermelho sob Moisés (Js 3-4). Segue-se a conquista militar de Canaã, narrada em episódios que se tornaram os mais conhecidos do livro que leva seu nome: a queda das muralhas de Jericó, que desabam depois de sete dias de marcha silenciosa dos israelitas em torno da cidade e do toque final das trombetas de chifre de carneiro (Js 6); o revés inicial e depois a vitória em Ai; a aliança com os habitantes de Gibeão, obtida por engano destes; e a batalha em que, segundo o relato, o sol e a lua se detêm no céu a pedido de Josué para que Israel completasse a vitória à luz do dia (Js 10,12-14), episódio poético citado do «Livro do Justo», hoje perdido.\n\nCompletada a conquista das principais regiões, Josué preside a divisão da terra entre as doze tribos por sorteio (Js 13-21) e, já idoso, reúne o povo em Siquém para uma última exortação solene, na qual renova a aliança e pronuncia a frase que se tornaria emblemática da fé de Israel: «quanto a mim e à minha casa, serviremos ao Senhor» (Js 24,15). Morre aos 110 anos e é sepultado em sua herança tribal, em Timnat-Séraque, nas montanhas de Efraim (Js 24,29-30). A tradição cristã, notando a coincidência de nome com Jesus e o papel de conduzir o povo à terra prometida, viu em Josué um «tipo» daquele que conduziria a humanidade ao verdadeiro descanso definitivo, leitura explorada já pela Carta aos Hebreus (Hb 4,8-9).",
       "tags": [
         "Livro de Josué",
-        "conquista de Canaã"
+        "conquista de Canaã",
+        "Jericó",
+        "aliança"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collection_Motais_de_Narbonne_-_Josu%C3%A9_arr%C3%A8te_la_course_du_soleil_-_Carlo_Maratta.jpg",
       "imagem_credito": null,
       "tipo": "outro",
       "testamento": "antigo",
       "referencia_biblica": "Livro de Josué",
-      "fontes": []
+      "fontes": [
+        "Números 13-14; 27",
+        "Livro de Josué",
+        "Hebreus 4,8-9"
+      ]
     },
     {
       "id": "personagens-biblicos:debora",
@@ -204,17 +267,21 @@
       "titulo": "Débora",
       "categoria": "personagens-biblicos",
       "resumo": "Profetisa e juíza de Israel, única mulher entre os \"juízes\" bíblicos, que lidera a libertação contra a opressão cananeia.",
-      "corpo": "Débora é a única mulher listada entre os \"juízes\" de Israel — líderes carismáticos do período entre a conquista e a monarquia —, atuando também como profetisa. Comanda, ao lado do general Baraque, a resistência militar contra a opressão do rei cananeu Jabin, celebrada no antigo \"Cântico de Débora\" (Jz 5), um dos textos poéticos mais antigos da Bíblia hebraica.",
+      "corpo": "No período dos Juízes — cerca de duzentos anos, entre a conquista de Canaã e o início da monarquia, em que Israel era governado por líderes carismáticos locais sem coroa nem dinastia —, Débora é a única mulher listada entre esses «juízes», e a única também descrita explicitamente como profetisa. O texto a apresenta «julgando» Israel sentada sob uma palmeira, entre Ramá e Betel, na região montanhosa de Efraim, aonde o povo subia para consultá-la em disputas (Jz 4,4-5).\n\nQuando o rei cananeu Jabin, de Hazor, e seu general Sísera oprimem Israel havia vinte anos com novecentos carros de ferro — tecnologia militar muito superior à israelita —, Débora convoca Baraque, de Neftali, e lhe ordena, em nome de Deus, reunir dez mil homens de Neftali e Zebulon no Monte Tabor para enfrentar o exército cananeu junto ao ribeiro de Quisom. Baraque hesita e só aceita ir se Débora o acompanhar; ela concorda, mas anuncia que, por essa hesitação, a honra da vitória final não seria dele, «pois nas mãos de uma mulher o Senhor entregará Sísera» (Jz 4,8-9). A batalha termina em debandada cananeia, e Sísera foge a pé, buscando refúgio na tenda de Jael, mulher do queneu Héber; esta o acolhe, oferece-lhe leite, e, quando ele adormece exausto, mata-o cravando-lhe uma estaca de tenda na têmpora — cumprindo literalmente a palavra de Débora (Jz 4,17-22).\n\nA vitória é celebrada no chamado «Cântico de Débora» (Jz 5), atribuído à própria profetisa e a Baraque, considerado por muitos exegetas um dos textos poéticos mais antigos preservados na Bíblia hebraica, talvez contemporâneo dos próprios eventos que descreve (século XII a.C.). O cântico exalta o «braço do Senhor» na vitória, celebra com admiração o gesto de Jael — «bendita entre as mulheres seja Jael» — e contrasta a alegria em Israel com a imagem, de rara delicadeza narrativa, da mãe de Sísera espreitando pela janela, à espera de um filho que nunca voltaria. A tradição judaica posterior enumerou Débora entre as sete profetisas de Israel, e sua figura é lembrada como exemplo bíblico de liderança feminina legítima, tanto política e militar quanto espiritual, num contexto social e religioso predominantemente patriarcal.",
       "tags": [
         "Juízes",
-        "profetisas"
+        "profetisas",
+        "cântico de Débora",
+        "liderança feminina"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Salomon_de_Bray_-_Jael%2C_Deborah_and_Barak_-_WGA03141.jpg",
       "imagem_credito": null,
       "tipo": "mulher",
       "testamento": "antigo",
       "referencia_biblica": "Juízes 4-5",
-      "fontes": []
+      "fontes": [
+        "Juízes 4-5"
+      ]
     },
     {
       "id": "personagens-biblicos:sansao",
@@ -222,17 +289,21 @@
       "titulo": "Sansão",
       "categoria": "personagens-biblicos",
       "resumo": "Juiz de Israel de força sobre-humana ligada a um voto nazireu, traído por Dalila.",
-      "corpo": "Consagrado desde o nascimento como nazireu — voto que incluía nunca cortar os cabelos —, Sansão realiza feitos de força extraordinária contra os filisteus, inimigos de Israel. Traído pela amante Dalila, que descobre e revela o segredo de sua força, é capturado e cegado, mas recupera a força numa última vez para destruir o templo filisteu onde estava exposto, morrendo junto com seus captores.",
+      "corpo": "Filho de Manoá, da tribo de Dã, Sansão tem seu nascimento anunciado por um anjo à mãe, até então estéril, que recebe instruções específicas: o filho seria nazireu «desde o ventre», consagrado a Deus por um voto que incluía nunca beber vinho ou bebida fermentada, não tocar em cadáveres e, sobretudo, jamais cortar os cabelos, sinal visível dessa consagração (Jz 13). Juiz de Israel por vinte anos no período de dominação filisteia — o povo do litoral, tecnologicamente superior por dominar o trabalho do ferro, que oprimia as tribos israelitas do interior —, Sansão é apresentado não como líder militar convencional, mas como uma espécie de herói solitário de força sobre-humana, movido tanto pelo «Espírito do Senhor» quanto por impulsos pessoais e paixões desregradas.\n\nSuas façanhas incluem despedaçar um leão com as próprias mãos a caminho de Timna, onde cortejava uma mulher filisteia; matar trinta homens de Ascalom para pagar uma aposta de enigma perdida durante o próprio banquete de casamento; incendiar as plantações filisteias amarrando tochas a raposas; e, sozinho e desarmado, matar mil homens usando apenas uma queixada de jumento (Jz 14-15). Preso certa vez em Gaza, arranca as portas da cidade fortificada e as carrega até o alto de um monte, gesto que a tradição lê como demonstração simbólica de que nenhuma muralha filisteia poderia contê-lo (Jz 16,1-3).\n\nSua queda vem pela paixão por Dalila, mulher do vale de Soreque subornada pelos chefes filisteus para descobrir o segredo de sua força. Por três vezes Sansão a engana com respostas falsas, até que, pressionado por sua insistência, revela a verdade sobre o voto nazireu — e Dalila, aproveitando seu sono, manda cortar-lhe os sete cabelos das tranças, fazendo sua força esvair-se junto com o sinal da consagração violada (Jz 16,4-20). Capturado, cegado e humilhado, é posto a girar a mó de um moinho na prisão filisteia, enquanto seus cabelos voltam lentamente a crescer. No templo do deus Dagon, exibido como troféu diante de milhares de filisteus reunidos para uma festa, Sansão pede a Deus, numa última oração, que lhe devolva a força «uma vez mais», e, apoiando-se nas duas colunas centrais do edifício, derruba-o sobre si mesmo e sobre a multidão, matando no momento de sua morte mais inimigos do que em toda a vida (Jz 16,21-31).\n\nA tradição judaica e cristã lê Sansão como figura ambígua e trágica: dotado de uma vocação e uma força que vêm inteiramente de Deus, mas repetidamente comprometido por sua própria fraqueza moral e falta de domínio sobre os apetites pessoais — um símbolo de como o dom divino pode ser desperdiçado pela infidelidade humana, e ainda assim redimido, no fim, por um último gesto de fé e entrega.",
       "tags": [
         "Juízes",
-        "nazireus"
+        "nazireus",
+        "filisteus",
+        "força"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lucas_Cranach_d.%C3%84._-_Simson_bezwingt_den_L%C3%B6wen.jpg",
       "imagem_credito": null,
       "tipo": "outro",
       "testamento": "antigo",
       "referencia_biblica": "Juízes 13-16",
-      "fontes": []
+      "fontes": [
+        "Juízes 13-16"
+      ]
     },
     {
       "id": "personagens-biblicos:davi-personagem",
@@ -240,18 +311,25 @@
       "titulo": "Davi",
       "categoria": "personagens-biblicos",
       "resumo": "Segundo rei de Israel, autor tradicional de muitos Salmos, ancestral messiânico de Jesus Cristo.",
-      "corpo": "Pastor de ovelhas ungido ainda jovem pelo profeta Samuel, Davi torna-se célebre pela vitória sobre o gigante filisteu Golias antes de suceder Saul como rei de Israel, unificando o reino e conquistando Jerusalém como capital. Apesar de faltas graves — o adultério com Bat-Seba e a morte indireta de seu marido Urias —, recebe a promessa divina de uma dinastia eterna, e os Evangelhos traçam a genealogia messiânica de Jesus até ele (\"filho de Davi\").",
+      "corpo": "Caçula entre os filhos de Jessé, de Belém, na tribo de Judá, Davi é escolhido e ungido em segredo pelo profeta Samuel — que, contrariando a expectativa humana pela aparência dos irmãos mais velhos, é advertido por Deus: «o Senhor não olha o que o homem olha [...]; o Senhor olha o coração» (1Sm 16,7). Ainda jovem pastor de ovelhas, torna-se célebre ao aceitar o desafio do gigante filisteu Golias, que por quarenta dias escarnecia do exército israelita, e o derruba com uma pedra de estilingue, decapitando-o em seguida com a própria espada do gigante (1Sm 17) — episódio que se tornaria símbolo universal da vitória da fé e da coragem sobre a força bruta.\n\nSua amizade com Jônatas, filho do rei Saul, e o crescente favor popular despertam o ciúme obsessivo de Saul, que passa a persegui-lo por anos; Davi vive como fugitivo, chegando por duas vezes a poupar deliberadamente a vida do rei quando o tem à mercê, recusando-se a «estender a mão contra o ungido do Senhor» (1Sm 24; 26). Após as mortes de Saul e Jônatas em combate contra os filisteus no Monte Gilboa — que Davi lamenta em uma das elegias mais comovidas do Antigo Testamento (2Sm 1,19-27) —, é aclamado rei, primeiro sobre Judá e, sete anos depois, sobre todo Israel unificado. Conquista Jerusalém dos jebuseus e a torna capital política e religiosa do reino, trazendo para lá a Arca da Aliança em procissão festiva (2Sm 5-6).\n\nÉ nesse contexto que o profeta Natã lhe transmite a promessa que a tradição chamaria «Aliança Davídica»: Deus recusa que Davi construa o Templo, reservando essa tarefa a seu filho, mas promete estabelecer para sempre a casa e o trono de sua descendência (2Sm 7,12-16) — fundamento de toda a esperança messiânica posterior de Israel, que esperaria um «filho de Davi» que reinaria eternamente. A fragilidade humana do rei, porém, aparece com crueza no episódio com Betsabé, esposa de seu oficial Urias, o hitita: Davi comete adultério com ela e, para encobrir a gravidez resultante, manda colocar Urias na linha de frente da batalha, garantindo sua morte (2Sm 11). Confrontado por Natã com a parábola da ovelha do pobre, Davi reconhece publicamente o pecado — «pequei contra o Senhor» —, arrependimento que a tradição associa ao Salmo 51 (Miserere), um dos textos penitenciais mais influentes de toda a espiritualidade judaico-cristã.\n\nOs últimos anos de seu reinado são marcados por tragédias domésticas — o estupro de Tamar por Amnon, a vingança e revolta de Absalão, que quase lhe custam o trono — antes de assegurar a sucessão de Salomão, filho de Betsabé, com a ajuda decisiva desta e do profeta Natã (1Rs 1). A tradição atribui a Davi a autoria de boa parte do Saltério — os «Salmos de Davi» —, e Atos dos Apóstolos o chama explicitamente de profeta (At 2,29-31), reconhecendo em seus escritos antecipações messiânicas (Sl 2; 16; 22; 110). Os quatro Evangelhos traçam deliberadamente a genealogia de Jesus até Davi, chamando-o repetidas vezes de «Filho de Davi» (Mt 1,1; 21,9), e a tradição cristã, desde os Padres, lê em toda a vida de Davi — pastor, ungido, guerreiro, rei e pecador perdoado — uma figura antecipada do próprio Cristo, o verdadeiro rei messiânico da linhagem davídica.",
       "tags": [
         "1 e 2 Samuel",
         "reis de Israel",
-        "messianismo"
+        "messianismo",
+        "aliança davídica",
+        "Salmos"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/59/David_SM_Maggiore.jpg",
       "imagem_credito": null,
       "tipo": "rei",
       "testamento": "antigo",
       "referencia_biblica": "1 e 2 Samuel",
-      "fontes": []
+      "fontes": [
+        "1 Samuel 16-31",
+        "2 Samuel 1-12",
+        "Salmo 51",
+        "Atos 2,29-31"
+      ]
     },
     {
       "id": "personagens-biblicos:salomao",
@@ -259,19 +337,23 @@
       "titulo": "Salomão",
       "categoria": "personagens-biblicos",
       "resumo": "Filho e sucessor de Davi, rei célebre por sua sabedoria, construtor do primeiro Templo de Jerusalém.",
-      "corpo": "Filho de Davi e Bat-Seba, Salomão pede a Deus sabedoria para governar, tornando-se proverbial por seu discernimento — o \"Julgamento de Salomão\" entre duas mulheres disputando um bebê é o episódio mais citado (1 Rs 3,16-28). Constrói o primeiro Templo de Jerusalém, mas seu reinado tardio é marcado por excessos e idolatria, ligados por tradição, embora com autoria discutida pelos exegetas modernos, aos livros de Provérbios, Eclesiastes e Cântico dos Cânticos.",
+      "corpo": "Segundo filho de Davi com Betsabé, Salomão chega ao trono em meio a uma disputa sucessória contra o irmão mais velho Adonias, resolvida a favor dele graças à intervenção da mãe e do profeta Natã (1Rs 1). Logo no início do reinado, numa visita noturna ao santuário de Gibeão, recebe de Deus, em sonho, a oferta de pedir o que quisesse; em vez de riqueza, longa vida ou vitória sobre inimigos, Salomão pede «um coração que saiba escutar, para julgar o teu povo e discernir entre o bem e o mal» — pedido que agrada tanto a Deus que este lhe concede, além da sabedoria, também riqueza e glória sem igual entre os reis (1Rs 3,5-14). A prova mais célebre desse discernimento é o «Julgamento de Salomão», em que ele desmascara a verdadeira mãe de uma criança disputada por duas mulheres propondo dividir o bebê ao meio, certo de que só a mãe genuína recuaria para salvar a vida do filho (1Rs 3,16-28).\n\nSeu reinado de quarenta anos, no século X a.C., é lembrado como o auge político e econômico do Reino Unido de Israel: organiza a administração em doze distritos fiscais, desenvolve o comércio internacional — inclusive a célebre visita da rainha de Sabá, atraída pela fama de sua sabedoria e maravilhada com sua corte (1Rs 10,1-13) — e empreende a maior obra arquitetônica de toda a história de Israel, o primeiro Templo de Jerusalém, erguido com a ajuda de artesãos e material fornecidos pelo rei Hirão de Tiro e consagrado com uma extensa oração de dedicação (1Rs 5-8). A tradição atribui a Salomão também a autoria de milhares de provérbios e cânticos (1Rs 4,32), refletida nos livros bíblicos de Provérbios, Eclesiastes (Qohélet) e Cântico dos Cânticos, embora a exegese histórico-crítica moderna considere que boa parte desses textos foi composta ou compilada em épocas posteriores, sob o patrocínio simbólico de seu nome como padroeiro da tradição sapiencial de Israel.\n\nO texto bíblico, porém, não esconde a queda progressiva do rei: mantendo, segundo o relato, setecentas esposas e trezentas concubinas por alianças políticas, Salomão «no tempo da velhice» se deixa arrastar por suas mulheres estrangeiras a erguer altares para divindades como Astarte, Milcom e Camos, provocando a ira divina (1Rs 11,1-13). Como castigo, é anunciado que o reino se dividiria após sua morte — o que de fato ocorre sob seu filho Roboão, dando origem aos reinos separados de Judá e Israel. Apesar dessa queda, a figura de Salomão permaneceu na memória bíblica e na tradição posterior como arquétipo máximo da sabedoria concedida por Deus, e Jesus o cita nos Evangelhos ao afirmar que «algo maior do que Salomão está aqui» (Mt 12,42), reconhecendo sua fama, mas apontando para algo — e Alguém — ainda maior.",
       "tags": [
         "1 Reis",
         "reis de Israel",
         "sabedoria",
-        "Templo de Jerusalém"
+        "Templo de Jerusalém",
+        "rainha de Sabá"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/The_Bible_panorama%2C_or_The_Holy_Scriptures_in_picture_and_story_%281891%29_%2814804804673%29.jpg",
       "imagem_credito": "Foto: Foster, William A. [from old catalog] — Wikimedia Commons, No restrictions",
       "tipo": "rei",
       "testamento": "antigo",
       "referencia_biblica": "1 Reis 1-11",
-      "fontes": []
+      "fontes": [
+        "1 Reis 1-11",
+        "Mateus 12,42"
+      ]
     },
     {
       "id": "personagens-biblicos:saul-rei",
@@ -279,17 +361,22 @@
       "titulo": "Saul",
       "categoria": "personagens-biblicos",
       "resumo": "Primeiro rei de Israel, cuja desobediência e ciúme de Davi marcam seu reinado e sua queda trágica.",
-      "corpo": "Escolhido e ungido por Samuel como primeiro rei de Israel, atendendo ao pedido do povo por uma monarquia como as nações vizinhas, Saul perde progressivamente o favor divino por atos de desobediência, e é dominado por ciúme obsessivo do jovem Davi, cuja popularidade crescente ameaça seu trono. Morre em batalha contra os filisteus, no Monte Gilboa.",
+      "corpo": "Filho de Quis, da tribo de Benjamim, descrito como jovem de estatura notável — «da espádua para cima, sobressaía a todo o povo» (1Sm 9,2) —, Saul é ungido em segredo pelo profeta e último juiz Samuel, atendendo à exigência do povo de Israel por um rei «como todas as nações», pedido que o próprio Samuel interpreta como rejeição não a ele, mas ao próprio Deus como rei direto de Israel (1Sm 8,4-9). A unção pública ocorre pouco depois, por sorteio diante de todo o povo reunido em Mispá, e Saul, apesar da estatura, é encontrado escondido entre a bagagem por timidez (1Sm 10,20-24) — detalhe que os comentadores leem como sinal precoce da fragilidade interior que marcaria todo o seu reinado.\n\nSeus primeiros anos como rei são de sucesso militar, sobretudo na libertação da cidade de Jabes-Gileade do cerco amonita, vitória que consolida seu reconhecimento popular (1Sm 11). A ruptura com Deus, contudo, vem por duas desobediências decisivas: oferece pessoalmente um sacrifício antes de uma batalha, usurpando função reservada ao sacerdote, por impaciência em esperar Samuel (1Sm 13,8-14); e, na guerra contra os amalecitas, poupa o rei Agague e o melhor do gado, contrariando a ordem explícita de extermínio total, e depois tenta justificar-se alegando querer sacrificar os animais a Deus — resposta a que Samuel responde com a sentença que se tornaria clássica: «obedecer vale mais que sacrifício» (1Sm 15,22). Por essas faltas, Samuel anuncia que o reino lhe seria tirado e dado «a um seu próximo, melhor do que ele» — antecipação da unção secreta de Davi que se segue no capítulo seguinte.\n\nA partir de então, o texto bíblico descreve Saul como atormentado por um «espírito mau da parte do Senhor» (1Sm 16,14), aliviado apenas quando o jovem Davi tocava harpa para ele — o mesmo Davi cuja crescente popularidade militar e popular, após a vitória sobre Golias, desperta no rei um ciúme obsessivo que o leva a tentar matá-lo pessoalmente com uma lança e depois a persegui-lo por anos pelo deserto, apesar de Davi, por duas vezes, poupar deliberadamente sua vida (1Sm 18-26). Nos capítulos finais, isolado e à véspera de uma batalha decisiva contra os filisteus, um Saul desesperado e já abandonado por Deus busca, disfarçado, a médium de En-Dor para invocar o espírito de Samuel, já morto — episódio ambíguo que recebe apenas o anúncio de sua derrota e morte iminentes (1Sm 28). No dia seguinte, ferido em combate no Monte Gilboa e vendo seus filhos, entre eles Jônatas, mortos ao seu lado, Saul se lança sobre a própria espada para não cair vivo nas mãos dos filisteus (1Sm 31). Davi, ao saber da notícia, não celebra, mas compõe uma das mais belas elegias do Antigo Testamento em honra de Saul e Jônatas (2Sm 1,17-27) — gesto que a tradição lê como sinal do respeito devido, apesar de tudo, «ao ungido do Senhor».",
       "tags": [
         "1 Samuel",
-        "reis de Israel"
+        "reis de Israel",
+        "Samuel",
+        "monarquia de Israel"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Saul_Throws_Spear_at_David_by_George_Tinworth.png",
       "imagem_credito": null,
       "tipo": "rei",
       "testamento": "antigo",
       "referencia_biblica": "1 Samuel 9-31",
-      "fontes": []
+      "fontes": [
+        "1 Samuel 8-31",
+        "2 Samuel 1,17-27"
+      ]
     },
     {
       "id": "personagens-biblicos:elias",
@@ -297,18 +384,26 @@
       "titulo": "Elias",
       "categoria": "personagens-biblicos",
       "resumo": "Um dos maiores profetas de Israel, que confronta os profetas de Baal no Monte Carmelo e é arrebatado ao céu num carro de fogo.",
-      "corpo": "Profeta do Reino do Norte durante o reinado idólatra de Acabe e Jezabel, Elias é célebre pelo confronto no Monte Carmelo contra os profetas de Baal, demonstrando publicamente o poder do único Deus verdadeiro (1 Rs 18). É levado ao céu vivo, num redemoinho e carro de fogo, sem experimentar a morte (2 Rs 2,11) — por isso a tradição judaica esperava seu retorno antes do Messias, expectativa que os Evangelhos associam a João Batista, e que aparece também na Transfiguração de Jesus.",
+      "corpo": "Originário de Tisbe, em Gileade, e apresentado sem qualquer genealogia ou infância narrada — surge abruptamente diante do rei Acabe anunciando uma seca como castigo divino (1Rs 17,1) —, Elias exerce seu ministério no Reino do Norte durante o século IX a.C., no auge do sincretismo religioso promovido por Acabe e sobretudo por sua esposa fenícia Jezabel, que introduzira à força o culto ao deus Baal e perseguira os profetas do Senhor. Antes do grande confronto público, Elias é sustentado milagrosamente junto ao ribeiro de Querite, alimentado por corvos, e depois na casa de uma viúva de Sarepta, cuja farinha e azeite não se esgotam durante toda a seca, e cujo filho ele ressuscita (1Rs 17).\n\nO episódio central de sua vida é o confronto no Monte Carmelo: diante de todo o povo de Israel reunido, Elias desafia os 450 profetas de Baal a um teste decisivo — dois altares preparados, cada um clamando ao seu deus para que fizesse descer fogo sobre o sacrifício. Depois de os profetas de Baal gritarem e se ferirem em vão o dia todo, Elias, sozinho, reconstrói o altar do Senhor, encharca-o de água três vezes e ora brevemente; o fogo do céu consome imediatamente a oferta, a lenha, as pedras e até a água ao redor, levando o povo a prostrar-se clamando «o Senhor é Deus!» — e os profetas de Baal são então executados junto ao ribeiro de Quisom (1Rs 18,20-40). Segue-se de imediato o fim sobrenatural da seca, com Elias correndo à frente da carruagem real até Jezreel.\n\nApesar dessa vitória retumbante, Elias cai em profundo desânimo diante da ameaça de morte proferida por Jezabel, foge para o deserto e chega a pedir a Deus a própria morte antes de ser fortalecido por um anjo e caminhar quarenta dias e quarenta noites até o Monte Horeb (o Sinai), onde repete a experiência de Moisés: não no vento forte, no terremoto ou no fogo, mas num «murmúrio de brisa suave» ele reconhece a presença de Deus (1Rs 19,11-13), que o reenvia à missão e lhe designa Eliseu como sucessor e discípulo. Outro episódio marcante é sua denúncia corajosa do rei Acabe pelo assassinato indireto de Nabot, dono de uma vinha cobiçada pelo rei, anunciando a queda de toda a dinastia (1Rs 21).\n\nAo final de sua vida terrena, Elias é arrebatado vivo aos céus num redemoinho, num carro e cavalos de fogo, diante de Eliseu, sem experimentar a morte (2Rs 2,1-12) — único caso bíblico comparável apenas ao de Enoque (Gn 5,24). Por não ter morrido, a tradição judaica desenvolveu a expectativa de seu retorno antes da vinda do Messias, baseada em Malaquias 3,23-24 («eis que eu vos enviarei o profeta Elias, antes que venha o grande e temível Dia do Senhor»); daí o costume judaico de reservar um lugar para Elias na mesa da Páscoa. Os Evangelhos retomam essa expectativa identificando João Batista como quem viria «com o espírito e o poder de Elias» (Lc 1,17; Mt 11,14), e Elias aparece pessoalmente, ao lado de Moisés, na Transfiguração de Jesus no Monte Tabor, conversando com ele sobre sua partida iminente em Jerusalém (Mt 17,1-8) — cena em que a Lei (Moisés) e os Profetas (Elias) reconhecem em Cristo seu cumprimento.",
       "tags": [
         "1 e 2 Reis",
         "profetas",
-        "Monte Carmelo"
+        "Monte Carmelo",
+        "arrebatamento",
+        "Transfiguração"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Dieric_Bouts_-_Prophet_Elijah_in_the_Desert_-_WGA03015.jpg",
       "imagem_credito": null,
       "tipo": "profeta",
       "testamento": "antigo",
       "referencia_biblica": "1 Reis 17-19; 2 Reis 2",
-      "fontes": []
+      "fontes": [
+        "1 Reis 17-19; 21",
+        "2 Reis 2",
+        "Malaquias 3,23-24",
+        "Mateus 17,1-8",
+        "Lucas 1,17"
+      ]
     },
     {
       "id": "personagens-biblicos:eliseu",
@@ -316,18 +411,23 @@
       "titulo": "Eliseu",
       "categoria": "personagens-biblicos",
       "resumo": "Discípulo e sucessor de Elias, a quem são atribuídos numerosos milagres de cura e providência.",
-      "corpo": "Escolhido por Elias como seu sucessor e discípulo, Eliseu recebe uma \"porção dobrada\" do espírito profético de seu mestre ao vê-lo ser arrebatado ao céu, e realiza numerosos milagres registrados no Segundo Livro dos Reis — multiplicação de óleo e de pães, cura da lepra do general sírio Naamã, e a ressurreição do filho de uma mulher sunamita.",
+      "corpo": "Filho de Safate, um lavrador de Abel-Meolá, Eliseu é chamado por Elias que, seguindo ordem divina recebida no Horeb, o encontra arando com doze juntas de bois e lança sobre ele o próprio manto — gesto que sela sua vocação profética. Eliseu sacrifica de imediato os bois e queima o arado como lenha para o banquete de despedida, rompendo definitivamente com a vida anterior para «seguir Elias e servi-lo» (1Rs 19,19-21). Por anos, atua como discípulo e assistente do mestre, até o momento em que este é arrebatado ao céu: pedindo uma «porção dobrada» do espírito profético de Elias — linguagem que evoca o direito de herança do filho primogênito —, Eliseu vê o mestre partir num carro de fogo e recolhe o manto que cai, com o qual, golpeando as águas do Jordão exatamente como Elias fizera, comprova ter recebido a sucessão (2Rs 2,1-15).\n\nSeu ministério, que se estende por cerca de sessenta anos sob vários reis do Reino do Norte, é caracterizado por um número de milagres superior ao de qualquer outro profeta bíblico, muitos deles voltados a necessidades cotidianas e domésticas: purifica as águas nocivas de Jericó lançando sal numa fonte (2Rs 2,19-22); multiplica o pouco azeite de uma viúva endividada, permitindo-lhe pagar as dívidas e sustentar os filhos (2Rs 4,1-7); é hospedado regularmente por uma mulher rica de Suném, para quem obtém, apesar da idade avançada do marido, o nascimento de um filho — que mais tarde morre subitamente e é por ele ressuscitado, deitando-se sobre o corpo da criança até que esta espirra sete vezes e reabre os olhos (2Rs 4,8-37); multiplica vinte pães de cevada para alimentar cem homens, com sobras (2Rs 4,42-44), episódio lido como prefiguração da multiplicação dos pães por Jesus; e faz flutuar um machado de ferro emprestado que caíra no rio Jordão, lançando um pedaço de madeira na água (2Rs 6,1-7).\n\nO milagre mais conhecido e teologicamente carregado é a cura do general sírio Naamã, leproso e comandante de um exército inimigo de Israel, a quem Eliseu, sem sequer recebê-lo pessoalmente, manda lavar-se sete vezes no Jordão — ordem que Naamã só obedece após vencer o orgulho ferido, sendo purificado e reconhecendo publicamente que «não há Deus em toda a terra, senão em Israel» (2Rs 5). Eliseu recusa qualquer recompensa pela cura, mas seu próprio servo Geazi, cobiçoso, mente para obter presentes de Naamã às escondidas e é castigado com a lepra que este havia deixado (2Rs 5,20-27). Eliseu também tem papel político relevante, ungindo Hazael como rei da Síria e Jeú como rei de Israel (2Rs 8-9), e morre de doença já idoso — mas ainda depois de morto seu poder profético se manifesta: um cadáver lançado apressadamente em seu túmulo revive ao tocar seus ossos (2Rs 13,20-21), episódio final que sela sua reputação como o profeta dos milagres por excelência no Antigo Testamento.",
       "tags": [
         "2 Reis",
         "profetas",
-        "milagres"
+        "milagres",
+        "Naamã",
+        "sucessão profética"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Elisha-Eliseus.jpg",
       "imagem_credito": null,
       "tipo": "profeta",
       "testamento": "antigo",
       "referencia_biblica": "2 Reis 2-13",
-      "fontes": []
+      "fontes": [
+        "1 Reis 19,19-21",
+        "2 Reis 2-13"
+      ]
     },
     {
       "id": "personagens-biblicos:isaias-personagem",
@@ -335,18 +435,25 @@
       "titulo": "Isaías (o profeta)",
       "categoria": "personagens-biblicos",
       "resumo": "Um dos maiores profetas de Israel, cuja pregação inclui alguns dos textos messiânicos mais citados pelo cristianismo.",
-      "corpo": "Ativo em Jerusalém durante o século VIII a.C., Isaías profetizou em meio a crises políticas e à ameaça assíria, combinando denúncia da injustiça social com anúncios messiânicos amplamente retomados pelo Novo Testamento — o \"Emanuel\" (Is 7,14), o \"Príncipe da Paz\" (Is 9,5) e os \"cânticos do Servo sofredor\" (Is 52-53), lidos pela tradição cristã como profecias sobre Cristo (ver a categoria Bíblia para o livro que leva seu nome).",
+      "corpo": "Filho de Amoz, Isaías inicia seu ministério profético em Jerusalém «no ano em que morreu o rei Ozias» (Is 6,1), por volta de 740 a.C., numa visão de vocação em que contempla o Senhor entroado no Templo, cercado de serafins que clamam «santo, santo, santo», e responde ao chamado divino com as palavras que se tornariam emblemáticas de toda vocação profética: «eis-me aqui, envia-me» (Is 6,8). Sua atividade se estende por cerca de quatro décadas, atravessando os reinados de Acaz e Ezequias, num período de sucessivas crises políticas — a ameaça da coalizão sírio-efraimita, a expansão do Império Assírio sobre o Reino do Norte (que cai em 722 a.C.) e o cerco assírio a Jerusalém sob Senaquerib, do qual a cidade escapa quase milagrosamente (Is 36-37; cf. 2Rs 18-19).\n\nA figura de Isaías combina denúncia profética da injustiça social e da hipocrisia cúltica — «de que me serve a multidão de vossos sacrifícios? [...] lavai-vos, purificai-vos [...] fazei justiça ao órfão, defendei a causa da viúva» (Is 1,11-17) — com uma das mais ricas tradições messiânicas de todo o Antigo Testamento. É a ele que se atribuem o oráculo do «Emanuel» («a virgem conceberá e dará à luz um filho», Is 7,14), o anúncio do menino a quem se chamará «Conselheiro admirável, Deus forte, Pai da eternidade, Príncipe da Paz» (Is 9,5), e a visão de um reino de paz universal em que «o lobo habitará com o cordeiro» (Is 11,6) — textos que o cristianismo, desde os Evangelhos, leu como profecias diretamente cumpridas em Jesus (Mt 1,23; Lc 1,32-33).\n\nA crítica histórico-literária moderna reconhece no livro de Isaías, tal como chegou até nós, ao menos três grandes blocos de composição distinta, ainda que reunidos sob o mesmo nome e numa unidade teológica reconhecida pela tradição: o «Proto-Isaías» (capítulos 1-39), essencialmente ligado ao profeta do século VIII; o «Dêutero-Isaías» ou «Livro da Consolação» (capítulos 40-55), dirigido aos exilados na Babilônia por volta de 540 a.C., de onde vêm os célebres «Cânticos do Servo de Javé» — quatro poemas sobre uma figura misteriosa que sofre e morre pelos pecados alheios, culminando no quarto e mais extenso deles (Is 52,13–53,12), que descreve o Servo «traspassado por causa das nossas transgressões [...] pelas suas chagas fomos curados»; e o «Trito-Isaías» (capítulos 56-66), do período pós-exílico. O Novo Testamento identifica explicitamente esse Servo Sofredor com Jesus Cristo (At 8,32-35; Mt 8,17; 1Pd 2,24), e por isso Isaías é chamado, desde a Antiguidade cristã, de «quinto evangelista» — tal a densidade de suas profecias messiânicas. É também o profeta mais citado no Novo Testamento depois dos Salmos, e sua figura, segundo tradição judaica tardia não atestada na Bíblia, teria morrido serrado ao meio por ordem do rei Manassés, tradição ecoada em Hebreus 11,37.",
       "tags": [
         "Isaías",
         "profetas",
-        "messianismo"
+        "messianismo",
+        "Servo Sofredor",
+        "Emanuel"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Melozzo_da_forl%C3%AC%2C_angeli_coi_simboli_della_passione_e_profeti%2C_1477_ca.%2C_profeta_isaia_00.jpg",
       "imagem_credito": "Foto: Sailko — Wikimedia Commons, CC BY 3.0",
       "tipo": "profeta",
       "testamento": "antigo",
       "referencia_biblica": "Livro de Isaías",
-      "fontes": []
+      "fontes": [
+        "Livro de Isaías",
+        "Mateus 1,23; 8,17",
+        "Atos 8,32-35",
+        "Hebreus 11,37"
+      ]
     },
     {
       "id": "personagens-biblicos:jeremias-personagem",
@@ -354,18 +461,24 @@
       "titulo": "Jeremias (o profeta)",
       "categoria": "personagens-biblicos",
       "resumo": "Profeta que anuncia, com grande sofrimento pessoal, a destruição de Jerusalém e a esperança de uma \"nova aliança\".",
-      "corpo": "Chamado por Deus ainda jovem (\"antes de te formar no ventre, eu te conheci\", Jr 1,5), Jeremias profetizou em Jerusalém nos últimos anos antes da destruição da cidade pelos babilônios em 587 a.C., enfrentando perseguição e prisão por anunciar um julgamento que a maioria se recusava a aceitar. É também autor da promessa de uma \"nova aliança\" escrita no coração (Jr 31,31-34), central para a teologia cristã posterior.",
+      "corpo": "Filho do sacerdote Hilquias, de Anatote, perto de Jerusalém, Jeremias é chamado por Deus ainda jovem — «antes de te formar no ventre, eu te conheci [...] profeta às nações te constituí» (Jr 1,5) — e reage com a mesma relutância de outros profetas bíblicos, alegando não saber falar por ser «apenas um jovem»; Deus responde tocando-lhe a boca e assegurando-lhe: «não temas diante deles, pois estou contigo para te livrar» (Jr 1,6-8). Sua atividade profética se estende por mais de quarenta anos, dos últimos reis de Judá até a queda de Jerusalém em 587 a.C., um dos períodos mais dramáticos da história bíblica.\n\nAo longo desse período, Jeremias anuncia insistentemente, contra a opinião de profetas rivais que prometiam paz e segurança, que Jerusalém e o Templo seriam destruídos por causa da infidelidade do povo, e que a submissão à Babilônia — e não a resistência armada — era a única saída sensata diante do castigo divino já decretado. Essa pregação lhe rende perseguição sistemática: é açoitado e colocado no tronco pelo sacerdote Pasur (Jr 20,1-2), jogado numa cisterna lamacenta de onde quase morre soterrado (Jr 38,1-13), acusado de traição por aconselhar a rendição, e seu próprio rolo de profecias é cortado em pedaços e queimado pelo rei Joaquim (Jr 36). Ainda assim, num gesto simbólico de esperança em pleno cerco final da cidade, compra por ordem divina um campo em Anatote, sinalizando que «ainda se comprarão casas, campos e vinhas nesta terra» depois do exílio (Jr 32).\n\nJeremias é também autor de um conjunto único no Antigo Testamento — as chamadas «Confissões» (Jr 11-20), passagens autobiográficas de lamento pessoal em que o profeta expõe a Deus sua angústia, seu isolamento e até sua raiva por ter sido chamado a uma missão de sofrimento, chegando a amaldiçoar o dia de seu nascimento (Jr 20,14-18) — o que lhe valeu o epíteto tradicional de «profeta chorão». A tradição também lhe atribui o livro das Lamentações, cinco poemas fúnebres sobre a destruição de Jerusalém, embora a autoria jeremiana desse livro seja hoje discutida pela exegese moderna; e seu fiel escriba, Baruc, filho de Nerias, registra e preserva seus oráculos, tornando-se personagem com livro próprio na tradição bíblica mais ampla (o Livro de Baruc, presente no cânon católico).\n\nApesar do tom predominantemente sombrio, é justamente Jeremias quem transmite uma das promessas mais decisivas de toda a Escritura para a teologia cristã posterior: o anúncio de uma «nova aliança» que Deus faria com a casa de Israel, não como a antiga, escrita em tábuas de pedra, mas gravada diretamente no coração humano, com perdão definitivo dos pecados e conhecimento direto de Deus, «do menor ao maior» (Jr 31,31-34). O Novo Testamento retoma essa promessa como cumprida na pessoa e na obra de Cristo — as palavras da instituição da Eucaristia, «este é o cálice da nova aliança no meu sangue» (Lc 22,20), ecoam diretamente o oráculo de Jeremias — e a Carta aos Hebreus a cita por extenso como fundamento da superioridade do sacerdócio e da aliança cristã (Hb 8,8-12). Depois da queda de Jerusalém, Jeremias é levado à força para o Egito por um grupo de judeus fugitivos, e ali, segundo a tradição, encerra seus dias.",
       "tags": [
         "Jeremias",
         "profetas",
-        "exílio babilônico"
+        "exílio babilônico",
+        "nova aliança",
+        "confissões"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Michelangelo_Buonarroti_027.jpg",
       "imagem_credito": null,
       "tipo": "profeta",
       "testamento": "antigo",
       "referencia_biblica": "Livro de Jeremias",
-      "fontes": []
+      "fontes": [
+        "Livro de Jeremias",
+        "Lucas 22,20",
+        "Hebreus 8,8-12"
+      ]
     },
     {
       "id": "personagens-biblicos:daniel-personagem",
@@ -373,18 +486,23 @@
       "titulo": "Daniel (o profeta)",
       "categoria": "personagens-biblicos",
       "resumo": "Jovem judeu exilado na Babilônia, célebre por sua fidelidade e pelas visões apocalípticas que levam seu nome.",
-      "corpo": "Levado ainda jovem para a corte babilônica após a conquista de Jerusalém, Daniel mantém fidelidade às práticas judaicas mesmo sob pressão da corte pagã, interpreta sonhos reais e sobrevive milagrosamente à cova dos leões por se recusar a interromper sua oração diária a Deus. É também o vidente das visões apocalípticas que dão nome ao livro que leva seu nome (ver a categoria Bíblia).",
+      "corpo": "De linhagem nobre ou real de Judá, Daniel é levado ainda jovem para a Babilônia entre os primeiros exilados, por volta de 605 a.C., quando Nabucodonosor II subjuga Jerusalém, e é escolhido, junto com outros jovens judeus, para servir na corte real após treinamento em língua e literatura caldeias. Ali recebe o nome babilônico Beltessazar, mas recusa-se, junto com seus três companheiros Ananias, Misael e Azarias (mais conhecidos por seus nomes babilônicos, Sadrac, Mesac e Abed-Nego), a contaminar-se com os manjares e o vinho da mesa real, pedindo autorização para alimentar-se apenas de legumes e água — episódio de fidelidade às leis alimentares judaicas com o qual se abre o livro (Dn 1).\n\nA primeira metade do livro (capítulos 1-6) narra episódios de corte que se tornaram os mais conhecidos da tradição bíblica: Daniel interpreta o sonho perturbador de Nabucodonosor sobre uma estátua composta de metais decrescentes em nobreza — ouro, prata, bronze, ferro e barro —, destruída por uma pedra «não cortada por mão humana», anúncio simbólico da sucessão dos grandes impérios mundiais (tradicionalmente identificados como Babilônia, Média-Pérsia, Grécia e Roma) até o estabelecimento definitivo do reino de Deus (Dn 2); seus três companheiros são lançados numa fornalha ardente por se recusarem a adorar uma estátua de ouro erguida pelo rei, e saem ilesos, acompanhados por uma quarta figura «semelhante a um filho dos deuses» (Dn 3); Daniel decifra a misteriosa inscrição «Mene, Mene, Tequel, Parsin» que aparece na parede durante o banquete de Baltasar, anunciando a queda iminente do império babilônico (Dn 5); e, já sob o domínio medo-persa, é lançado na cova dos leões por continuar orando publicamente a Deus três vezes ao dia, desafiando um decreto real que proibia qualquer oração dirigida a outro que não o próprio rei — e é encontrado ileso na manhã seguinte, protegido por um anjo que «fechou a boca dos leões» (Dn 6).\n\nA segunda metade do livro (capítulos 7-12) muda de gênero literário, tornando-se um dos textos apocalípticos mais influentes do Antigo Testamento: Daniel tem visões noturnas de quatro bestas simbolizando os mesmos impérios sucessivos da estátua de Nabucodonosor, culminando na visão do «Filho do Homem» que recebe do «Ancião de Dias» um domínio eterno e universal (Dn 7,13-14) — imagem que Jesus retoma repetidamente para si mesmo nos Evangelhos como título messiânico preferido. O livro contém ainda, nas seções em grego preservadas na tradição católica (Septuaginta e Vulgata), os episódios de Susana (a mulher injustamente acusada, salva pela sagacidade do jovem Daniel) e de Bel e o Dragão, que expõem a fraude dos cultos idólatras babilônicos. Escrito em sua forma final provavelmente no século II a.C., durante a perseguição do rei selêucida Antíoco IV Epifânio, o livro de Daniel funcionou como literatura de resistência e esperança para judeus fiéis sob opressão, e sua figura tornou-se, tanto na tradição judaica quanto na cristã, símbolo maior da fidelidade inabalável a Deus diante do poder político hostil.",
       "tags": [
         "Daniel",
         "profetas",
-        "exílio babilônico"
+        "exílio babilônico",
+        "apocalíptica",
+        "Filho do Homem"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Daniel%27s_Answer_to_the_King%2C_by_Briton_Riviere%2C_GMIII_MCAG_1937_123-001.jpg",
       "imagem_credito": null,
       "tipo": "profeta",
       "testamento": "antigo",
       "referencia_biblica": "Livro de Daniel",
-      "fontes": []
+      "fontes": [
+        "Livro de Daniel",
+        "Mateus 24,30; 26,64"
+      ]
     },
     {
       "id": "personagens-biblicos:jo-personagem",
@@ -392,17 +510,21 @@
       "titulo": "Jó",
       "categoria": "personagens-biblicos",
       "resumo": "Homem justo que sofre perdas terríveis e questiona o sentido do sofrimento imerecido, sem perder a fé em Deus.",
-      "corpo": "Descrito como \"íntegro e reto, temente a Deus\", Jó perde bens, filhos e saúde numa série de provações permitidas por Deus para testar sua fidelidade, segundo o quadro narrativo do livro que leva seu nome. Seu longo debate poético com amigos sobre a causa do sofrimento culmina não numa resposta filosófica, mas no encontro direto com o próprio Deus (ver a categoria Bíblia).",
+      "corpo": "Situado na terra de Uz, fora de Israel, e apresentado desde a primeira frase como «íntegro e reto, temente a Deus e que se afastava do mal» (Jó 1,1), Jó é descrito como homem rico e abençoado — dez filhos, milhares de animais, «o maior de todos os filhos do Oriente». O livro abre com um prólogo em prosa de tom quase teatral: numa assembleia celestial, «o satã» (o «acusador», figura ainda não plenamente identificada com o diabo da tradição posterior) desafia Deus a permitir que a fidelidade de Jó seja testada por meio da perda de tudo o que possui — bens, filhos e, por fim, a própria saúde, com uma lepra ou úlcera maligna «da planta dos pés ao alto da cabeça» (Jó 1-2). Mesmo assim, Jó não amaldiçoa a Deus, embora tampouco esconda sua dor: «o Senhor deu, o Senhor tirou; bendito seja o nome do Senhor» (Jó 1,21).\n\nO corpo central do livro — um extenso poema que ocupa a maior parte de seus 42 capítulos — narra a visita de três amigos, Elifaz, Bildade e Sofar, que a princípio se sentam em silêncio com Jó por sete dias, mas depois travam com ele três ciclos de discursos poéticos sobre a causa de seu sofrimento. Os amigos defendem, com variações, a chamada teologia da retribuição então dominante: se Jó sofre tanto, deve ter pecado gravemente, pois Deus recompensa o justo e castiga o ímpio — posição sustentada com particular insistência por Elifaz, que apela até a uma visão noturna para fundamentar sua certeza de que «ninguém que seja inocente jamais pereceu» (Jó 4,7). Jó rejeita firmemente essa explicação, proclama sua própria inocência e desafia Deus a se explicar diretamente, chegando a expressar, em meio à angústia, também lampejos de esperança extraordinária, como a célebre confissão «eu sei que o meu Redentor vive» (Jó 19,25). Um quarto interlocutor, o jovem Eliú, intervém depois com um discurso próprio antes da resposta final de Deus.\n\nO clímax teológico do livro vem nos capítulos 38-41, quando Deus finalmente responde a Jó — não com uma explicação racional do sofrimento, mas «do meio de um redemoinho», com uma série de perguntas retóricas sobre a criação («onde estavas tu quando eu lançava os fundamentos da terra?») que revelam a Jó a desproporção entre a sabedoria humana e o mistério insondável do governo divino sobre o universo. Jó se rende, não convencido por argumentos, mas transformado pelo encontro direto: «eu te conhecia só de ouvir falar, mas agora os meus olhos te veem» (Jó 42,5), e reconhece ter falado «do que não entendia». No epílogo em prosa, Deus repreende os três amigos por não terem falado corretamente sobre Ele — ao contrário de Jó — e restaura sua sorte, dando-lhe o dobro do que possuía antes (Jó 42,7-17).\n\nO livro de Jó ocupa lugar único na literatura sapiencial bíblica por recusar a equação simples entre sofrimento e pecado pessoal, antecipando um questionamento que atravessaria toda a tradição judaico-cristã sobre o sentido do sofrimento inocente. A tradição católica, sem oferecer uma resposta filosófica fechada ao problema do mal, leu na entrega confiante de Jó um antecipo da fé cristã, e sua paciência tornou-se proverbial — daí a expressão «paciência de Jó» — sendo o livro lido liturgicamente sobretudo em contextos de luto e na liturgia das exéquias.",
       "tags": [
         "Jó",
-        "sofrimento"
+        "sofrimento",
+        "literatura sapiencial",
+        "teodiceia"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/L%C3%A9on_Bonnat_-_Job.jpg",
       "imagem_credito": null,
       "tipo": "outro",
       "testamento": "antigo",
       "referencia_biblica": "Livro de Jó",
-      "fontes": []
+      "fontes": [
+        "Livro de Jó"
+      ]
     },
     {
       "id": "personagens-biblicos:joao-batista-personagem",
@@ -410,17 +532,23 @@
       "titulo": "João Batista",
       "categoria": "personagens-biblicos",
       "resumo": "Precursor de Jesus, filho de Isabel e Zacarias, que prega a conversão e batiza no Jordão (ver também a categoria Santos).",
-      "corpo": "Já biografado com mais detalhe na categoria Santos, João Batista aparece aqui como personagem-chave da história bíblica: filho de Isabel e Zacarias, concebido milagrosamente na velhice dos pais, dedica-se a uma pregação austera de conversão às margens do Jordão, identifica Jesus como o \"Cordeiro de Deus\" e é decapitado por ordem de Herodes Antipas.",
+      "corpo": "Já biografado com mais detalhe na categoria Santos, João Batista merece aqui um registro específico como personagem-chave da narrativa bíblica que liga os dois Testamentos. Filho do sacerdote Zacarias e de Isabel, ambos já idosos e até então estéreis, seu nascimento é anunciado ao pai pelo anjo Gabriel no santuário do Templo; a incredulidade de Zacarias diante da notícia lhe custa a mudez até o dia da circuncisão do filho, quando confirma por escrito o nome dado pelo anjo — «João», «Deus é misericordioso» — e recupera a fala entoando o cântico do Benedictus (Lc 1,5-25.57-80). Ainda no ventre materno, João já reconhece a presença de Jesus, também concebido, «saltando de alegria» quando Maria visita Isabel no episódio da Visitação (Lc 1,39-45).\n\nAdulto, retira-se ao deserto da Judeia, onde vive de gafanhotos e mel silvestre, vestido de pelo de camelo — figura que os Evangelhos associam deliberadamente ao profeta Elias e à voz que «clama no deserto: preparai o caminho do Senhor» anunciada por Isaías (Is 40,3; Mc 1,2-3). Sua pregação é de conversão radical, batismo de penitência no rio Jordão e denúncia sem meias palavras da hipocrisia religiosa e da injustiça social, atraindo multidões de toda a Judeia. Quando Jesus se apresenta para ser batizado por ele, João a princípio resiste, reconhecendo sua própria pequenez diante dele («eu é que preciso ser batizado por ti»), e no momento do batismo os céus se abrem, o Espírito desce como pomba e uma voz do céu proclama Jesus como Filho amado (Mt 3,13-17). É também João quem, ao vê-lo passar, o identifica publicamente como «o Cordeiro de Deus, que tira o pecado do mundo» (Jo 1,29.36), título que a liturgia católica repete em cada celebração eucarística antes da comunhão.\n\nSua franqueza profética o leva à prisão: denuncia publicamente a união entre o tetrarca Herodes Antipas e Herodíades, esposa de seu meio-irmão Filipe, por contrariar a Lei judaica, e Herodíades, ferida, planeja sua morte. É durante um banquete de aniversário de Herodes que a filha de Herodíades (tradicionalmente chamada Salomé, embora o nome não apareça nos Evangelhos) dança e agrada tanto ao tetrarca que este lhe promete, sob juramento, qualquer coisa que pedisse; instruída pela mãe, ela pede a cabeça de João Batista numa bandeja, e Herodes, constrangido diante dos convidados, ordena a decapitação (Mt 14,1-12; Mc 6,14-29). A tradição patrística viu em João não apenas o «último profeta» da antiga aliança, mas o «precursor mesmo na morte», antecipando pelo martírio o destino que aguardava o próprio Cristo. É venerado como o maior entre os nascidos de mulher, segundo as próprias palavras de Jesus (Mt 11,11).",
       "tags": [
         "Novo Testamento",
-        "precursor"
+        "precursor",
+        "Cordeiro de Deus",
+        "batismo"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Anton_Raphael_Mengs_-_St._John_the_Baptist_Preaching_in_the_Wilderness_-_Google_Art_Project.jpg",
       "imagem_credito": null,
       "tipo": "outro",
       "testamento": "novo",
       "referencia_biblica": "Lucas 1; 3",
-      "fontes": []
+      "fontes": [
+        "Lucas 1; 3",
+        "Mateus 3; 11; 14",
+        "João 1"
+      ]
     },
     {
       "id": "personagens-biblicos:herodes-o-grande",
@@ -428,10 +556,12 @@
       "titulo": "Herodes, o Grande",
       "categoria": "personagens-biblicos",
       "resumo": "Rei da Judeia sob domínio romano no tempo do nascimento de Jesus, responsável, segundo Mateus, pelo massacre dos Santos Inocentes.",
-      "corpo": "Rei cliente de Roma na Judeia entre 37 e 4 a.C., Herodes, o Grande, é lembrado historicamente por grandes obras arquitetônicas — a reconstrução do Templo de Jerusalém entre elas — e, no relato evangélico, pela ordem de matar todos os meninos de Belém com dois anos ou menos, temendo o \"rei dos judeus\" recém-nascido anunciado pelos magos (Mt 2,16).",
+      "corpo": "Filho de Antípatro, um nobre idumeu convertido ao judaísmo, Herodes ascende ao trono da Judeia por nomeação do Senado romano em 40 a.C. e consolida o poder de fato apenas alguns anos depois, governando como rei cliente de Roma até sua morte em 4 a.C. — provavelmente pouco depois do nascimento de Jesus, o que situa esse evento historicamente antes da data convencional do calendário cristão. É documentado extensamente pelo historiador judeu Flávio Josefo (Antiguidades Judaicas e Guerra dos Judeus), que o retrata como governante hábil e eficiente, mas também extremamente cruel e paranoico com relação a qualquer ameaça a seu poder — chegou a mandar executar três de seus próprios filhos e uma de suas esposas, Mariamne, por suspeita de conspiração, levando o imperador Augusto a comentar, segundo a tradição, que era «mais seguro ser porco de Herodes do que seu filho» (trocadilho entre as palavras gregas hys, porco, e hyios, filho, alusivo também à sua observância judaica de não comer carne suína).\n\nSeu reinado é lembrado historicamente por um extraordinário programa de obras públicas: reconstruiu em grande escala o Segundo Templo de Jerusalém, ampliando o Monte do Templo com a plataforma monumental cujos muros de contenção — entre eles o atual Muro das Lamentações — subsistem até hoje; ergueu o porto artificial e a cidade de Cesareia Marítima; fortificou a fortaleza-palácio de Massada, no deserto da Judeia, como refúgio pessoal; e construiu o Herodium, onde foi sepultado. Essas obras fizeram dele uma das figuras mais visivelmente marcantes da paisagem da Terra Santa até os dias de hoje.\n\nNo relato evangélico, Herodes aparece no episódio da visita dos magos do Oriente, que chegam a Jerusalém perguntando pelo «rei dos judeus» recém-nascido, guiados por uma estrela; perturbado com a notícia e temendo um rival ao trono, Herodes finge querer também adorar o menino, mas, avisado em sonho, os magos não retornam a ele, e o rei, «tomado de grande ira», ordena a morte de todos os meninos de Belém e arredores com até dois anos de idade — episódio que Mateus lê como cumprimento de uma profecia de Jeremias sobre o pranto de Raquel (Mt 2,1-18). Não há registro independente desse massacre em Josefo ou em outras fontes contemporâneas, o que leva parte dos historiadores a tratá-lo com cautela quanto à sua historicidade estrita; ainda assim, o episódio é plenamente coerente com o caráter violento e paranoico de Herodes amplamente documentado por outras fontes, e a Igreja celebra as vítimas como os Santos Inocentes, os primeiros mártires da era cristã, ainda que involuntários.",
       "tags": [
         "Novo Testamento",
-        "Herodes"
+        "Herodes",
+        "Santos Inocentes",
+        "Templo de Jerusalém"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/HerodtheGreat2.jpg",
       "imagem_credito": null,

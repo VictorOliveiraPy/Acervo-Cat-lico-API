@@ -1,0 +1,960 @@
+{
+  "_meta": {
+    "categoria": "jesus-cristo",
+    "nome": "Jesucristo",
+    "descricao": "Los misterios de la vida de Cristo, sus títulos bíblicos y los dogmas sobre su persona y naturaleza, definidos sobre todo en Nicea, Éfeso y Calcedonia.",
+    "status": "exemplos-iniciais",
+    "aviso": "Exposición catequética introductoria sobre la persona de Cristo; para un estudio cristológico más profundo, ver también las categorías Concilios y Doctores de la Iglesia.",
+    "revisao_editorial": "Las fechas históricas de los acontecimientos de la vida terrena de Jesús (nacimiento, duración del ministerio) son discutidas entre los historiadores y no son el foco doctrinal de estas entradas.",
+    "fontes_gerais": [
+      "Catecismo de la Iglesia Católica, Segunda Parte, artículos 2-4 (Jesucristo)",
+      "Concilio de Calcedonia (451)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "jesus-cristo:anunciacao-e-encarnacao",
+      "slug": "anunciacao-e-encarnacao",
+      "titulo": "La Anunciación y la Encarnación",
+      "categoria": "jesus-cristo",
+      "resumo": "El Verbo eterno de Dios asume la naturaleza humana en el seno de María, por obra del Espíritu Santo, haciéndose verdaderamente hombre sin dejar de ser Dios.",
+      "corpo": "La Encarnación —\"y la Palabra se hizo carne, y puso su Morada entre nosotros\" (Jn 1,14)— es el misterio central de la fe cristiana: el Hijo eterno de Dios asume verdadera naturaleza humana, concebido por el Espíritu Santo en el seno de la Virgen María, sin dejar de ser plenamente Dios. No es una apariencia ni un disfraz (postura condenada como la herejía del docetismo), sino la unión real y permanente de las dos naturalezas en una sola Persona divina.",
+      "tags": [
+        "misterios de la vida",
+        "Encarnación"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Botticelli%2C_annunciazione_del_Metropolitan.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 1,
+      "referencia_biblica": "Lucas 1,26-38; Juan 1,1-14",
+      "paragrafos_ccc": [
+        "456-478"
+      ],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:natividade",
+      "slug": "natividade",
+      "titulo": "La Navidad (Nacimiento de Jesús)",
+      "categoria": "jesus-cristo",
+      "resumo": "El nacimiento de Jesús en Belén, celebrado por la Iglesia como manifestación visible de Dios hecho hombre.",
+      "corpo": "Según los relatos de Mateo y Lucas, Jesús nació en Belén de Judea, durante el reinado de Herodes el Grande y un censo romano —episodios cuyas fechas precisas discute la exégesis histórica, sin que ello afecte al núcleo teológico del hecho: Dios se hace visible y vulnerable en la condición humana más sencilla, nacido \"en un pesebre, porque no había lugar para ellos en el mesón\" (Lc 2,7).",
+      "tags": [
+        "misterios de la vida",
+        "Navidad"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Correggio_-_The_Holy_Night_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 2,
+      "referencia_biblica": "Lucas 2,1-20; Mateo 1,18-25",
+      "paragrafos_ccc": [
+        "437",
+        "525-526"
+      ],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:apresentacao-no-templo",
+      "slug": "apresentacao-no-templo",
+      "titulo": "La Presentación en el Templo",
+      "categoria": "jesus-cristo",
+      "resumo": "María y José llevan al niño Jesús al Templo de Jerusalén, cumpliendo la Ley mosaica, donde es reconocido por Simeón y Ana.",
+      "corpo": "Cuarenta días después del nacimiento, conforme a la Ley de Moisés para la purificación de la madre y la consagración del primogénito, María y José presentan a Jesús en el Templo de Jerusalén. Allí el anciano Simeón, guiado por el Espíritu Santo, reconoce en él al Mesías esperado (\"ahora, Señor, puedes, según tu palabra, dejar que tu siervo se vaya en paz\", el \"Nunc dimittis\"), y la profetisa Ana también da testimonio público del niño.",
+      "tags": [
+        "misterios de la vida"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Symeon_i_Nikolai_kyrka.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 3,
+      "referencia_biblica": "Lucas 2,22-38",
+      "paragrafos_ccc": [
+        "527-529"
+      ],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:fuga-para-o-egito",
+      "slug": "fuga-para-o-egito",
+      "titulo": "La Huida a Egipto",
+      "categoria": "jesus-cristo",
+      "resumo": "José lleva a María y al niño Jesús a Egipto, escapando de la persecución de Herodes contra los niños de Belén.",
+      "corpo": "Avisado en sueños, José huye con María y el niño Jesús a Egipto, escapando de la matanza ordenada por Herodes contra los niños de Belén de dos años o menos (\"la Matanza de los Inocentes\"). Mateo lee este episodio, y el posterior regreso tras la muerte de Herodes, como cumplimiento de la profecía \"de Egipto llamé a mi hijo\" (Os 11,1; Mt 2,15).",
+      "tags": [
+        "misterios de la vida"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Fra_Angelico_-_Flight_into_Egypt%2C_1450.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 4,
+      "referencia_biblica": "Mateo 2,13-23",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:vida-oculta-em-nazare",
+      "slug": "vida-oculta-em-nazare",
+      "titulo": "La Vida Oculta en Nazaret",
+      "categoria": "jesus-cristo",
+      "resumo": "Los cerca de treinta años de vida silenciosa de Jesús en Nazaret, antes del inicio de su ministerio público.",
+      "corpo": "Los Evangelios dicen muy poco sobre la infancia y la juventud de Jesús tras el regreso de Egipto: crecía en Nazaret \"en sabiduría, en estatura y en gracia para con Dios y los hombres\" (Lc 2,52), sumiso a María y José, trabajando probablemente como carpintero. Ese largo silencio bíblico —unos treinta años— es leído por la tradición espiritual como una valoración de la vida común y del trabajo ordinario como camino de santidad.",
+      "tags": [
+        "misterios de la vida",
+        "Nazaret"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sagrada_Familia_del_pajarito_%28Murillo%29.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 5,
+      "referencia_biblica": "Lucas 2,39-52",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:batismo-de-jesus-mv",
+      "slug": "batismo-de-jesus-mv",
+      "titulo": "El Bautismo de Jesús en el Jordán",
+      "categoria": "jesus-cristo",
+      "resumo": "Jesús es bautizado por Juan el Bautista en el río Jordán, momento en que la Trinidad se manifiesta públicamente por primera vez.",
+      "corpo": "Al ser bautizado por Juan en el Jordán —no por necesitar purificación, sino para \"cumplir toda justicia\" (Mt 3,15) y solidarizarse con los pecadores a quienes buscaba salvar—, Jesús recibe sobre sí la manifestación pública más clara de la Trinidad en los Evangelios: el Espíritu Santo desciende como paloma, y la voz del Padre declara \"Este es mi Hijo amado, en quien me complazco\" (Mt 3,17). Marca el inicio público de su ministerio.",
+      "tags": [
+        "misterios de la vida",
+        "Bautismo",
+        "Trinidad"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Pietro_Perugino_-_Baptism_of_Christ_-_Sistine_Chapel_-_cat13a.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 6,
+      "referencia_biblica": "Mateo 3,13-17",
+      "paragrafos_ccc": [
+        "535-537"
+      ],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:tentacoes-no-deserto-mv",
+      "slug": "tentacoes-no-deserto-mv",
+      "titulo": "Las Tentaciones en el Desierto",
+      "categoria": "jesus-cristo",
+      "resumo": "Jesús ayuna cuarenta días en el desierto y resiste las tres tentaciones de Satanás antes de iniciar el ministerio público.",
+      "corpo": "Después del Bautismo, Jesús se retira cuarenta días al desierto, en ayuno, donde es tentado por Satanás a convertir piedras en pan, a poner a prueba presuntuosamente la protección divina, y a obtener poder mundano a cambio de adoración —todo ello resistido con citas de la propia Escritura (Deuteronomio). La escena refleja y revierte simbólicamente los cuarenta años de Israel en el desierto y sus repetidas caídas.",
+      "tags": [
+        "misterios de la vida"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/05_Tentaciones_de_Cristo_%28Botticelli%29.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 7,
+      "referencia_biblica": "Mateo 4,1-11",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:transfiguracao-mv",
+      "slug": "transfiguracao-mv",
+      "titulo": "La Transfiguración",
+      "categoria": "jesus-cristo",
+      "resumo": "En el Monte Tabor, Jesús revela por un instante su gloria divina a tres apóstoles, en presencia de Moisés y Elías.",
+      "corpo": "Llevando consigo a Pedro, Santiago y Juan a un monte alto —la tradición sitúa el Tabor—, Jesús se transfigura ante ellos: su rostro brilla como el sol, sus vestiduras se vuelven blancas como la luz, y aparecen Moisés (representando la Ley) y Elías (los profetas) conversando con él. La voz del Padre repite la declaración del Bautismo: \"Este es mi Hijo amado\". Es un anticipo de la gloria de la Resurrección, dado para fortalecer a los apóstoles ante la Pasión que se aproximaba.",
+      "tags": [
+        "misterios de la vida",
+        "Transfiguración"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 8,
+      "referencia_biblica": "Mateo 17,1-8",
+      "paragrafos_ccc": [
+        "554-556"
+      ],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:entrada-triunfal-em-jerusalem",
+      "slug": "entrada-triunfal-em-jerusalem",
+      "titulo": "La Entrada Triunfal en Jerusalén",
+      "categoria": "jesus-cristo",
+      "resumo": "Jesús entra en Jerusalén montado en un borriquillo, aclamado por la multitud con ramos, días antes de su Pasión.",
+      "corpo": "En lo que la liturgia celebra como Domingo de Ramos, Jesús entra en Jerusalén montado en un borriquillo —cumpliendo la profecía de Zacarías sobre un rey humilde (Zc 9,9)—, aclamado por multitudes que extienden sus mantos y ramos de palmera en el camino, gritando \"¡Hosanna al Hijo de David!\". El mismo pueblo que lo aclama en ese momento pediría su crucifixión pocos días después.",
+      "tags": [
+        "misterios de la vida",
+        "Semana Santa"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Giotto_-_Scrovegni_-_-26-_-_Entry_into_Jerusalem2.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 9,
+      "referencia_biblica": "Mateo 21,1-11",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:ultima-ceia-mv",
+      "slug": "ultima-ceia-mv",
+      "titulo": "La Última Cena",
+      "categoria": "jesus-cristo",
+      "resumo": "En la víspera de su muerte, Jesús instituye la Eucaristía y el sacerdocio ministerial durante una cena pascual con los apóstoles.",
+      "corpo": "En la noche anterior a la Pasión, durante una cena de carácter pascual con los Doce, Jesús toma el pan y el vino y los declara su Cuerpo y su Sangre, mandando a los apóstoles repetir ese gesto \"en memoria mía\" —instituyendo, según la fe católica, tanto la Eucaristía como el sacerdocio ministerial que la celebra. Lava también los pies de los discípulos, gesto de servicio humilde que interpreta el sentido de toda su misión.",
+      "tags": [
+        "misterios de la vida",
+        "eucaristía",
+        "sacerdocio"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 10,
+      "referencia_biblica": "Lucas 22,14-20; Juan 13,1-17",
+      "paragrafos_ccc": [
+        "1337-1340"
+      ],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:agonia-e-prisao",
+      "slug": "agonia-e-prisao",
+      "titulo": "La Agonía en el Huerto y la Prisión",
+      "categoria": "jesus-cristo",
+      "resumo": "Jesús ora angustiado en Getsemaní, aceptando libremente la voluntad del Padre, antes de ser traicionado por Judas y apresado.",
+      "corpo": "Después de la Última Cena, Jesús se retira al Huerto de Getsemaní a orar, viviendo una angustia intensa (\"mi alma está triste hasta la muerte\") ante la Pasión inminente, pero concluyendo en libre obediencia: \"no sea como yo quiero, sino como quieres tú\". Allí es traicionado con un beso por Judas Iscariote, uno de los Doce, y apresado por los soldados enviados por las autoridades.",
+      "tags": [
+        "misterios de la vida",
+        "Getsemaní",
+        "Pasión"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Andrea_Mantegna_036.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 11,
+      "referencia_biblica": "Mateo 26,36-56",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:paixao-e-crucificacao-mv",
+      "slug": "paixao-e-crucificacao-mv",
+      "titulo": "La Pasión y la Crucifixión",
+      "categoria": "jesus-cristo",
+      "resumo": "Juzgado, flagelado y condenado, Jesús es crucificado en el Calvario, muriendo por la salvación de la humanidad.",
+      "corpo": "Sometido a juicios ante el Sanedrín y el gobernador romano Poncio Pilato, Jesús es condenado a muerte por crucifixión —pena romana reservada normalmente a esclavos y rebeldes—, tras ser flagelado y coronado de espinas por escarnio. Muere en el Calvario (Gólgota), fuera de los muros de Jerusalén, entre dos criminales, habiendo perdonado a quienes lo crucificaban.",
+      "tags": [
+        "misterios de la vida",
+        "Pasión",
+        "Viernes Santo"
+      ],
+      "imagem": "/img-acervo/paixao-e-crucificacao.jpg",
+      "imagem_credito": "Foto: Christina Victoria Craft / Unsplash",
+      "tipo": "misterio_vida",
+      "ordem": 12,
+      "referencia_biblica": "Mateo 27,11-56",
+      "paragrafos_ccc": [
+        "571-630"
+      ],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:descida-aos-infernos",
+      "slug": "descida-aos-infernos",
+      "titulo": "El Descenso a los Infiernos",
+      "categoria": "jesus-cristo",
+      "resumo": "Entre la muerte y la Resurrección, Cristo desciende al \"reino de los muertos\" para anunciar la salvación a los justos que aguardaban su venida.",
+      "corpo": "Profesada en el Credo (\"descendió a los infiernos\"), la \"descensión a los infiernos\" no se refiere al infierno de la condenación eterna, sino al \"Seol\"/\"Hades\" —el estado general de los muertos antes de la redención—, donde, según la fe católica, Cristo anuncia la salvación ya consumada a los justos que habían muerto antes que él, como Abraham y los patriarcas, en espera de la apertura del Cielo.",
+      "tags": [
+        "misterios de la vida",
+        "Sábado Santo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Anastasis_at_Chora.jpg",
+      "imagem_credito": "Wikimedia Commons, CC BY-SA 3.0",
+      "tipo": "misterio_vida",
+      "ordem": 13,
+      "referencia_biblica": "1 Pedro 3,18-20",
+      "paragrafos_ccc": [
+        "631-635"
+      ],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:ressurreicao-mv",
+      "slug": "ressurreicao-mv",
+      "titulo": "La Resurrección",
+      "categoria": "jesus-cristo",
+      "resumo": "Al tercer día, Jesús resucita de entre los muertos, corporal y verdaderamente, fundamento central de toda la fe cristiana.",
+      "corpo": "La Resurrección de Jesús \"al tercer día\" es, según san Pablo, el fundamento mismo sin el cual \"vacía es nuestra predicación, vacía también nuestra fe\" (1 Cor 15,14): no una supervivencia meramente espiritual o simbólica, sino la resurrección corporal e histórica atestiguada por el sepulcro vacío y por numerosas apariciones a testigos —María Magdalena, los discípulos de Emaús, los apóstoles reunidos, y a más de quinientas personas a la vez, según 1 Corintios 15,6.",
+      "tags": [
+        "misterios de la vida",
+        "Pascua",
+        "Resurrección"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Pietro_Perugino_cat53.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 14,
+      "referencia_biblica": "1 Corintios 15,3-8",
+      "paragrafos_ccc": [
+        "638-658"
+      ],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:ascensao-mv",
+      "slug": "ascensao-mv",
+      "titulo": "La Ascensión",
+      "categoria": "jesus-cristo",
+      "resumo": "Cuarenta días después de resucitar, Jesús sube al Cielo en presencia de los apóstoles, entrando definitivamente en la gloria del Padre.",
+      "corpo": "Cuarenta días después de la Resurrección, Jesús es elevado al Cielo ante los apóstoles reunidos en el Monte de los Olivos, cerrando visiblemente sus apariciones terrenas y entrando de modo definitivo en la gloria junto al Padre —sin dejar de estar presente en la Iglesia de otros modos, sobre todo en la Eucaristía y en el envío del Espíritu Santo, prometido para diez días después, en Pentecostés.",
+      "tags": [
+        "misterios de la vida",
+        "Ascensión"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Jesus_ascending_to_heaven.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 15,
+      "referencia_biblica": "Hechos de los Apóstoles 1,6-11",
+      "paragrafos_ccc": [
+        "659-667"
+      ],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:segunda-vinda-parusia",
+      "slug": "segunda-vinda-parusia",
+      "titulo": "La Segunda Venida (Parusía)",
+      "categoria": "jesus-cristo",
+      "resumo": "La venida gloriosa y definitiva de Cristo al final de los tiempos, para juzgar a los vivos y a los muertos y consumar el Reino de Dios.",
+      "corpo": "Profesada en todo credo cristiano (\"y de nuevo vendrá con gloria para juzgar a vivos y muertos\"), la Parusía —palabra griega para \"venida\" o \"presencia\"— es la esperanza cristiana en el retorno glorioso y definitivo de Cristo al final de los tiempos, coincidiendo con el Juicio Final y la resurrección de la carne (ver la categoría Novísimos). La Escritura rehúsa deliberadamente cualquier predicción de fecha (\"mas de aquel día y hora, nadie sabe nada\", Mt 24,36).",
+      "tags": [
+        "misterios de la vida",
+        "Parusía",
+        "escatología"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Last_Judgement_%28Michelangelo%29.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 16,
+      "referencia_biblica": "Mateo 24,36; Hechos 1,11",
+      "paragrafos_ccc": [
+        "668-682"
+      ],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-cristo-messias",
+      "slug": "titulo-cristo-messias",
+      "titulo": "Cristo (Mesías, el Ungido)",
+      "categoria": "jesus-cristo",
+      "resumo": "El título más usado para Jesús en el Nuevo Testamento, del griego \"Christós\", traducción de \"Mesías\", el Ungido esperado por Israel.",
+      "corpo": "\"Cristo\" (del griego \"Christós\") traduce el hebreo \"Mesías\", \"el Ungido\" —título que designaba a reyes, sacerdotes y profetas ungidos con óleo en Israel, y que pasó a designar al libertador definitivo esperado por el pueblo judío. Aplicado a Jesús, el título afirma que él cumple y supera esa expectativa, uniendo en su única persona las tres funciones ungidas: profeta, sacerdote y rey.",
+      "tags": [
+        "títulos de Cristo",
+        "Mesías"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Spas_vsederzhitel_sinay.jpg",
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": 17,
+      "referencia_biblica": "Mateo 16,16",
+      "paragrafos_ccc": [
+        "436-440"
+      ],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-filho-de-deus",
+      "slug": "titulo-filho-de-deus",
+      "titulo": "Hijo de Dios",
+      "categoria": "jesus-cristo",
+      "resumo": "Título que afirma la relación única y eterna de Jesús con el Padre, no solo en sentido adoptivo o metafórico, sino de igualdad de naturaleza divina.",
+      "corpo": "Mientras que \"hijo de Dios\" podía designar, en el Antiguo Testamento, a ángeles, al pueblo de Israel o al rey en sentido adoptivo, aplicado a Jesús el título \"Hijo de Dios\" afirma, en la fe cristiana, una relación única, eterna y de igualdad de naturaleza con el Padre —no una adopción, sino generación eterna (\"engendrado, no creado, de la misma naturaleza que el Padre\", en el Credo Niceno).",
+      "tags": [
+        "títulos de Cristo",
+        "Trinidad"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/73/God2-Sistine_Chapel.png",
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": 18,
+      "referencia_biblica": "Mateo 16,16; Juan 1,14.18",
+      "paragrafos_ccc": [
+        "441-445"
+      ],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-filho-do-homem",
+      "slug": "titulo-filho-do-homem",
+      "titulo": "Hijo del Hombre",
+      "categoria": "jesus-cristo",
+      "resumo": "Título preferido por el propio Jesús para referirse a sí mismo, con raíces en la visión apocalíptica de Daniel 7.",
+      "corpo": "\"Hijo del Hombre\" es el título que los Evangelios registran con más frecuencia en boca del propio Jesús para autodesignarse —más de ochenta veces. Tiene su raíz en la visión de Daniel 7,13-14, sobre una figura \"como un Hijo de hombre\" que recibe del \"Anciano\" un poder y un reino eternos, uniendo así humildad (\"hijo de hombre\" como simple \"ser humano\", en el hebreo bíblico) y majestad escatológica.",
+      "tags": [
+        "títulos de Cristo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Spas_vsederzhitel_sinay.jpg",
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": 19,
+      "referencia_biblica": "Daniel 7,13-14; Marcos 14,61-62",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-senhor-kyrios",
+      "slug": "titulo-senhor-kyrios",
+      "titulo": "Señor (Kyrios)",
+      "categoria": "jesus-cristo",
+      "resumo": "Título que, en la traducción griega del Antiguo Testamento, traducía el propio nombre de Dios, aplicado por san Pablo y la comunidad primitiva a Jesús.",
+      "corpo": "\"Señor\" (griego \"Kyrios\") era, en la Septuaginta —la traducción griega del Antiguo Testamento—, la palabra usada para sustituir el nombre divino impronunciable de Dios (YHWH). Aplicar este título a Jesús, como hacen repetidamente san Pablo y la comunidad cristiana más antigua (\"Jesús es Señor\", una de las confesiones de fe más primitivas, Rm 10,9), es una afirmación directa y audaz de su divinidad.",
+      "tags": [
+        "títulos de Cristo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Spas_vsederzhitel_sinay.jpg",
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": 20,
+      "referencia_biblica": "Romanos 10,9; Filipenses 2,11",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-cordeiro-de-deus",
+      "slug": "titulo-cordeiro-de-deus",
+      "titulo": "Cordero de Dios",
+      "categoria": "jesus-cristo",
+      "resumo": "Título que vincula a Jesús con el cordero pascual judío y con el \"siervo sufriente\" de Isaías, sacrificado para quitar el pecado del mundo.",
+      "corpo": "Proclamado por Juan el Bautista al ver a Jesús (\"He aquí el Cordero de Dios, que quita el pecado del mundo\", Jn 1,29) y retomado en la liturgia de la Misa antes de la comunión, el título \"Cordero\" vincula a Jesús tanto con el cordero pascual sacrificado en la liberación de Egipto (Éx 12) como con el \"siervo sufriente\" de Isaías, \"llevado como un cordero al matadero\" (Is 53,7). En el Apocalipsis, el \"Cordero degollado\" es la imagen central de Cristo glorificado en el Cielo.",
+      "tags": [
+        "títulos de Cristo",
+        "eucaristía"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ghent_Altarpiece_-_Adoration_of_the_Mystic_Lamb.jpg",
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": 21,
+      "referencia_biblica": "Juan 1,29; Apocalipsis 5,6",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-verbo-logos",
+      "slug": "titulo-verbo-logos",
+      "titulo": "El Verbo (Logos)",
+      "categoria": "jesus-cristo",
+      "resumo": "Título usado por el Evangelio de Juan para designar al Hijo eterno de Dios antes y más allá de su encarnación como Palabra del Padre.",
+      "corpo": "\"En el principio existía la Palabra, y la Palabra estaba con Dios, y la Palabra era Dios\" (Jn 1,1): el Evangelio de Juan se abre con este título griego, \"Logos\" (Palabra/Razón), para designar al Hijo en su existencia eterna junto al Padre, antes y más allá de la Encarnación —\"por medio de ella se hizo todo\" (Jn 1,3). Es el título que más directamente afirma la preexistencia eterna y la plena divinidad del Hijo.",
+      "tags": [
+        "títulos de Cristo",
+        "Trinidad"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg",
+      "imagem_credito": "Foto: NYC Wanderer (Kevin Eng) — Wikimedia Commons, CC BY-SA 2.0",
+      "tipo": "titulo",
+      "ordem": 22,
+      "referencia_biblica": "Juan 1,1-3.14",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-rei-do-universo",
+      "slug": "titulo-rei-do-universo",
+      "titulo": "Cristo Rey",
+      "categoria": "jesus-cristo",
+      "resumo": "Título que afirma la soberanía universal de Cristo sobre toda la creación y la historia, celebrado en fiesta litúrgica propia.",
+      "corpo": "El título \"Cristo Rey\" afirma su soberanía sobre toda la creación, la historia y cada conciencia humana —no un reino político que compita con los poderes terrenos (\"mi Reino no es de este mundo\", Jn 18,36), sino de verdad, justicia, amor y paz. La fiesta litúrgica de Cristo Rey fue instituida por Pío XI en 1925 y hoy cierra el año litúrgico, el último domingo antes del Adviento.",
+      "tags": [
+        "títulos de Cristo",
+        "Cristo Rey"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Spas_vsederzhitel_sinay.jpg",
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": 23,
+      "referencia_biblica": "Juan 18,36-37",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-bom-pastor",
+      "slug": "titulo-bom-pastor",
+      "titulo": "El Buen Pastor",
+      "categoria": "jesus-cristo",
+      "resumo": "Título que Jesús se aplica a sí mismo, describiéndose como el pastor que da la propia vida por sus ovejas.",
+      "corpo": "\"Yo soy el buen pastor. El buen pastor da su vida por las ovejas\" (Jn 10,11): la imagen, con raíces en el Antiguo Testamento (Sal 23; Ez 34), describe la relación de Jesús con los fieles como cuidado personal, conocimiento mutuo (\"conozco mis ovejas y las mías me conocen\") y entrega total, distinta de la indiferencia del \"mercenario\" que huye ante el peligro.",
+      "tags": [
+        "títulos de Cristo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Good_shepherd_01_small.jpg",
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": 24,
+      "referencia_biblica": "Juan 10,1-18",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:uniao-hipostatica",
+      "slug": "uniao-hipostatica",
+      "titulo": "La Unión Hipostática",
+      "categoria": "jesus-cristo",
+      "resumo": "La doctrina de que, en Cristo, una sola Persona divina subsiste en dos naturalezas completas, la divina y la humana, sin confusión ni separación.",
+      "corpo": "Definida sobre todo en el Concilio de Calcedonia (451), la \"unión hipostática\" es el término técnico para la unidad de la persona de Cristo: en él existen dos naturalezas completas y distintas —divina y humana— unidas, sin embargo, en una sola Persona (hipóstasis), la del Verbo eterno. La fórmula conciliar las describe unidas \"sin confusión, sin cambio, sin división, sin separación\", contra los errores que o bien mezclaban las naturalezas (monofisismo) o las separaban en exceso (nestorianismo).",
+      "tags": [
+        "dogmas cristológicos",
+        "Concilio de Calcedonia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nicaea_icon.jpg",
+      "imagem_credito": null,
+      "tipo": "dogma_cristologico",
+      "ordem": 25,
+      "referencia_biblica": null,
+      "paragrafos_ccc": [
+        "464-469"
+      ],
+      "fontes": [
+        "Concilio de Calcedonia (451)",
+        "Catecismo de la Iglesia Católica, nn. 464-469"
+      ]
+    },
+    {
+      "id": "jesus-cristo:verdadeiro-deus-e-verdadeiro-homem",
+      "slug": "verdadeiro-deus-e-verdadeiro-homem",
+      "titulo": "Verdadero Dios y Verdadero Hombre",
+      "categoria": "jesus-cristo",
+      "resumo": "La afirmación central de la fe cristiana de que Jesucristo es plena y simultáneamente Dios y hombre, no una mezcla intermedia entre ambos.",
+      "corpo": "Contra tendencias antiguas de reducir a Cristo a \"solo\" Dios con apariencia humana (docetismo) o a \"solo\" un hombre especialmente inspirado (adopcionismo), la fe definida en Nicea (325) y Calcedonia (451) afirma que Jesucristo es plena y verdaderamente Dios y plena y verdaderamente hombre —con cuerpo, alma y voluntad humanas reales, incluida la capacidad real de sufrir, tener hambre, cansarse y morir, sin que ello disminuya en nada su plena divinidad.",
+      "tags": [
+        "dogmas cristológicos",
+        "Concilio de Nicea"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Spas_vsederzhitel_sinay.jpg",
+      "imagem_credito": null,
+      "tipo": "dogma_cristologico",
+      "ordem": 26,
+      "referencia_biblica": null,
+      "paragrafos_ccc": [
+        "464-469"
+      ],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:maternidade-divina-de-maria-cristologia",
+      "slug": "maternidade-divina-de-maria-cristologia",
+      "titulo": "Theotokos: fundamento cristológico de la maternidad divina",
+      "categoria": "jesus-cristo",
+      "resumo": "El título \"Madre de Dios\", definido en Éfeso (431), es ante todo una afirmación sobre la identidad de Cristo, no solo sobre María.",
+      "corpo": "Ya tratado desde el punto de vista mariano en la categoría Nuestra Señora, el título \"Theotokos\" (Madre de Dios), definido en el Concilio de Éfeso (431), tiene su peso teológico principal en la cristología: al afirmar que María puede ser llamada Madre de Dios, el concilio protege la unidad de la persona de Cristo frente a Nestorio, quien separaba excesivamente la humanidad y la divinidad en Cristo, como si fueran \"dos personas\" distintas que coexistieran.",
+      "tags": [
+        "dogmas cristológicos",
+        "Concilio de Éfeso"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kazan_moscow.jpg",
+      "imagem_credito": null,
+      "tipo": "dogma_cristologico",
+      "ordem": 27,
+      "referencia_biblica": null,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Concilio de Éfeso (431)"
+      ]
+    },
+    {
+      "id": "jesus-cristo:cristo-e-a-trindade",
+      "slug": "cristo-e-a-trindade",
+      "titulo": "Cristo y la Santísima Trinidad",
+      "categoria": "jesus-cristo",
+      "resumo": "La segunda Persona de la Trinidad, consustancial al Padre, distinta del Padre y del Espíritu Santo, pero un solo Dios con ellos.",
+      "corpo": "La fe en Cristo encarnado es inseparable de la fe trinitaria: el Hijo es la segunda Persona de la Santísima Trinidad, \"de la misma naturaleza que el Padre\" (Credo Niceno) —de la misma sustancia divina, y no una criatura superior ni un \"modo\" transitorio de Dios (error llamado modalismo)—, eternamente engendrado por el Padre y unido al Padre y al Espíritu Santo en una sola naturaleza divina, aun permaneciendo personalmente distinto de ambos.",
+      "tags": [
+        "dogmas cristológicos",
+        "Trinidad",
+        "Concilio de Nicea"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Masaccio%2C_Holy_Trinity%2C_1425-28%2C_Santa_Maria_Novella%2C_Florence.jpg",
+      "imagem_credito": null,
+      "tipo": "dogma_cristologico",
+      "ordem": 28,
+      "referencia_biblica": null,
+      "paragrafos_ccc": [
+        "464",
+        "253-256"
+      ],
+      "fontes": [
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "jesus-cristo:circuncisao-de-jesus",
+      "slug": "circuncisao-de-jesus",
+      "titulo": "La Circuncisión de Jesús",
+      "categoria": "jesus-cristo",
+      "resumo": "Ocho días después de nacer, Jesús es circuncidado según la Ley de Moisés y recibe el nombre indicado por el ángel antes de su concepción.",
+      "corpo": "Lucas registra, en una sola frase, que \"cuando se cumplieron los ocho días para circuncidarle, se le dio el nombre de Jesús\" (Lc 2,21), el mismo nombre que el ángel había indicado a María en la Anunciación. La circuncisión era el rito por el cual todo niño judío entraba en la alianza de Abraham (Gn 17,10-12); al someterse a él, Jesús asume plenamente la condición de israelita y la obediencia a la Ley, \"nacido de mujer, nacido bajo la ley\" (Gl 4,4).\n\nLa tradición litúrgica occidental celebró durante siglos este episodio el 1 de enero, octavo día después de la Navidad; hoy la fecha está dedicada sobre todo a María, Madre de Dios, pero el misterio permanece como signo de que el Verbo encarnado no prescinde de la historia y las instituciones concretas del pueblo de Israel, cumpliéndolas desde dentro. Es también el momento en que Jesús recibe públicamente el nombre que \"significa que el Nombre mismo de Dios está presente en la persona de su Hijo\" (CIC 432), el nombre que más tarde los apóstoles invocarán para curar y liberar.",
+      "tags": [
+        "misterios de la vida",
+        "circuncisión",
+        "nombre de Jesús"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/St._Jakob_%28Rothenburg_ob_der_Tauber%29%2C_Circoncision.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": null,
+      "referencia_biblica": "Lucas 2,21",
+      "paragrafos_ccc": [
+        "527",
+        "432"
+      ],
+      "fontes": [
+        "Lucas 2,21",
+        "Catecismo de la Iglesia Católica, nn. 527, 432"
+      ]
+    },
+    {
+      "id": "jesus-cristo:jesus-entre-os-doutores",
+      "slug": "jesus-entre-os-doutores",
+      "titulo": "Jesús entre los Doctores en el Templo",
+      "categoria": "jesus-cristo",
+      "resumo": "A los doce años, Jesús se queda en Jerusalén y es encontrado en el templo, sentado entre los maestros, escuchándolos y preguntándoles.",
+      "corpo": "Es el único episodio de la infancia de Jesús entre el nacimiento y el inicio de la vida pública que registran los Evangelios: durante la peregrinación anual de la familia a Jerusalén para la Pascua, el niño de doce años permanece en la ciudad sin que sus padres se den cuenta. Tres días después, José y María lo encuentran \"en el templo, sentado en medio de los doctores, escuchándolos y preguntándoles\", dejando a todos admirados \"de su inteligencia y de sus respuestas\" (Lc 2,46-47).\n\nA la observación afligida de María, Jesús responde con la primera palabra suya registrada en los Evangelios: \"¿No sabíais que yo debía estar en las cosas de mi Padre?\" (Lc 2,49) —una afirmación discreta, pero ya reveladora, de su filiación divina, que sus padres \"no comprendieron\" (Lc 2,50). El episodio termina con Jesús volviendo a Nazaret y viviendo sumiso a José y María, creciendo \"en sabiduría, en estatura y en gracia para con Dios y los hombres\" (Lc 2,52). En la tradición del Rosario, es el quinto misterio gozoso.",
+      "tags": [
+        "misterios de la vida",
+        "misterios gozosos",
+        "infancia de Jesús"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Disputa_con_los_doctores_%28El_Veron%C3%A9s%29_grande.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": null,
+      "referencia_biblica": "Lucas 2,41-52",
+      "paragrafos_ccc": [
+        "534",
+        "583"
+      ],
+      "fontes": [
+        "Lucas 2,41-52",
+        "Catecismo de la Iglesia Católica, nn. 534, 583"
+      ]
+    },
+    {
+      "id": "jesus-cristo:lava-pes",
+      "slug": "lava-pes",
+      "titulo": "El Lavatorio de los Pies en la Última Cena",
+      "categoria": "jesus-cristo",
+      "resumo": "Antes de la Cena pascual, Jesús lava los pies de los discípulos, gesto de siervo que resume el sentido de toda su vida y de su mandamiento nuevo.",
+      "corpo": "Solo el Evangelio de Juan narra este episodio, colocándolo en la apertura del relato de la Última Cena: \"Jesús, sabiendo que había llegado su hora de pasar de este mundo al Padre, [...] se levantó de la cena, se quitó el manto y, tomando una toalla, se la ciñó. Luego echó agua en un lebrillo y comenzó a lavar los pies de los discípulos\" (Jn 13,1.4-5) —tarea reservada, en la época, a los esclavos. Ante la resistencia de Pedro, Jesús explica que quien no se deje lavar no tiene parte con él, y concluye dando a los discípulos un ejemplo para repetir: \"os he lavado los pies, [...] para que, como yo he hecho con vosotros, vosotros también lo hagáis\" (Jn 13,14-15).\n\nEl gesto anticipa sacramentalmente la donación total de la cruz, que se consumará horas después, y funda el \"mandamiento nuevo\" del amor mutuo (Jn 13,34). Por eso la Iglesia lo repropone ritualmente en la Misa de la Cena del Señor, el Jueves Santo, cuando el celebrante lava los pies de algunos fieles, haciendo visible que la autoridad en la Iglesia es esencialmente servicio.",
+      "tags": [
+        "misterios de la vida",
+        "Última Cena",
+        "servicio",
+        "humildad"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Meister_des_Hausbuches_003.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": null,
+      "referencia_biblica": "Juan 13,1-17",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Juan 13,1-17"
+      ]
+    },
+    {
+      "id": "jesus-cristo:flagelacao-e-coroacao-de-espinhos",
+      "slug": "flagelacao-e-coroacao-de-espinhos",
+      "titulo": "La Flagelación y la Coronación de Espinas",
+      "categoria": "jesus-cristo",
+      "resumo": "Antes de ser crucificado, Jesús es azotado por orden de Pilato y escarnecido por los soldados romanos, que lo coronan de espinas como falso \"rey de los judíos\".",
+      "corpo": "Después de ceder a la presión de la multitud, Pilato \"mandó azotar a Jesús\" (Mt 27,26) —la flagelación romana, aplicada con un látigo de tiras de cuero con puntas de metal o hueso, era un suplicio severo, usado a menudo como preámbulo de la crucifixión. A continuación, los soldados llevan a Jesús al pretorio, lo visten con un manto de púrpura, trenzan una corona de espinas y se la colocan en la cabeza, arrodillándose ante él en son de burla y saludándolo: \"¡Salve, rey de los judíos!\" (Mt 27,27-29; Mc 15,16-19; Jn 19,1-3).\n\nLo que los soldados pretendían como humillación, la Iglesia lo lee, desde los primeros siglos, como una revelación involuntaria: aquel escarnecido como rey es de hecho el Rey, y la corona de espinas anuncia, al revés, la realeza que se manifestará plenamente en la cruz. Son la segunda y la tercera estaciones de los Misterios Dolorosos del Rosario, y alimentan devociones como la Hora Santa y las meditaciones sobre la Santa Faz.",
+      "tags": [
+        "misterios dolorosos",
+        "Pasión",
+        "sufrimiento redentor"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gotland-Dalhem-Kyrka_Glasmalerei_07.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": null,
+      "referencia_biblica": "Mateo 27,26-30; Marcos 15,15-19; Juan 19,1-3",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Mateo 27,26-30",
+        "Juan 19,1-3"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-emanuel",
+      "slug": "titulo-emanuel",
+      "titulo": "Emanuel (Dios con Nosotros)",
+      "categoria": "jesus-cristo",
+      "resumo": "Título profético que anuncia, siglos antes, el nacimiento de un hijo cuyo nombre traducirá la presencia de Dios en persona entre los hombres.",
+      "corpo": "El nombre aparece por primera vez en el oráculo del profeta Isaías al rey Ajaz: \"He aquí que una doncella está encinta y va a dar a luz un hijo, y le pondrá por nombre Emanuel\" (Is 7,14), promesa de una señal de que Dios no abandonaría la casa de David. El Evangelio de Mateo retoma explícitamente el texto para interpretar el nacimiento virginal de Jesús como su cumplimiento definitivo: \"todo esto sucedió para que se cumpliese lo que había dicho el Señor por medio del profeta: [...] le pondrán por nombre Emanuel, que traducido significa: Dios con nosotros\" (Mt 1,22-23).\n\nA diferencia de \"Jesús\" —nombre propio que significa \"el Señor salva\" y que el niño efectivamente recibe—, \"Emanuel\" funciona como título teológico: no describe solo una misión, sino una presencia. En él se resume el núcleo de la Encarnación, que la liturgia del Adviento y de la Navidad celebra repetidamente, sobre todo en las antífonas \"O\" que preceden a la Navidad, una de las cuales está dedicada precisamente a este título.",
+      "tags": [
+        "títulos de Cristo",
+        "Encarnación",
+        "Navidad",
+        "Adviento"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": null,
+      "referencia_biblica": "Isaías 7,14; Mateo 1,22-23",
+      "paragrafos_ccc": [
+        "497"
+      ],
+      "fontes": [
+        "Isaías 7,14",
+        "Mateo 1,22-23",
+        "Catecismo de la Iglesia Católica, n. 497"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-filho-de-davi",
+      "slug": "titulo-filho-de-davi",
+      "titulo": "Hijo de David",
+      "categoria": "jesus-cristo",
+      "resumo": "Título mesiánico que vincula a Jesús con la promesa hecha al rey David de un descendiente cuyo trono duraría para siempre.",
+      "corpo": "El evangelio de Mateo abre la genealogía de Jesús presentándolo ya como \"hijo de David, hijo de Abraham\" (Mt 1,1), retomando la antigua promesa profética de que un vástago de la casa de David reinaría para siempre (2 Sm 7,12-16). \"Hijo de David\" no indica aquí parentesco inmediato —más de mil años separan a ambos—, sino identidad mesiánica: así era como la esperanza judía designaba al libertador esperado, y así registran los Evangelios que el pueblo se dirigía a Jesús, sobre todo en peticiones de curación, como en el caso de los dos ciegos que gritaban \"¡Hijo de David, ten piedad de nosotros!\" (Mt 9,27) o el de Bartimeo (Mc 10,47-48).\n\nEl título alcanza su punto más alto en la entrada de Jesús en Jerusalén, cuando las multitudes lo aclaman con el grito \"¡Hosanna al Hijo de David!\" (Mt 21,9), reconociendo en él al rey mesiánico que viene en nombre del Señor. Al mismo tiempo, el propio Jesús cuestiona una lectura puramente política del título al preguntar a los fariseos cómo el Mesías puede ser al mismo tiempo \"hijo\" y \"señor\" de David, citando el Salmo 110 (Mt 22,41-45) —señal de que su realeza mesiánica trasciende la mera descendencia davídica.",
+      "tags": [
+        "títulos de Cristo",
+        "Mesías",
+        "realeza"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": null,
+      "referencia_biblica": "Mateo 1,1; Mateo 9,27; Mateo 21,9",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Mateo 1,1",
+        "Mateo 21,9",
+        "2 Samuel 7,12-16"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-luz-do-mundo",
+      "slug": "titulo-luz-do-mundo",
+      "titulo": "Luz del Mundo",
+      "categoria": "jesus-cristo",
+      "resumo": "Título con que Jesús se presenta en el Evangelio de Juan, afirmando ser la luz que aparta las tinieblas y guía a quien lo sigue hacia la vida.",
+      "corpo": "En el contexto de la fiesta judía de los Tabernáculos, marcada por grandes candelabros encendidos en el atrio del templo, Jesús proclama: \"Yo soy la luz del mundo; el que me sigue no andará en tinieblas, sino que tendrá la luz de la vida\" (Jn 8,12). La afirmación retoma el lenguaje de Isaías sobre el \"pueblo que caminaba en las tinieblas\" y vio \"una gran luz\" (Is 9,1) y el prólogo joánico, que ya había llamado al Verbo \"la luz verdadera que ilumina a todo hombre\" (Jn 1,9).\n\nEl título es también ético: Jesús extiende a los discípulos la misma imagen (\"vosotros sois la luz del mundo\", Mt 5,14), pero como reflejo derivado de su propia luz. En el episodio del ciego de nacimiento, ligado inmediatamente a este título en el Evangelio de Juan, Jesús reafirma \"mientras estoy en el mundo, soy la luz del mundo\" (Jn 9,5) antes de devolver la vista al ciego —señal de que la luz que él es se manifiesta concretamente venciendo la ceguera física y espiritual.",
+      "tags": [
+        "títulos de Cristo",
+        "Evangelio de Juan"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": null,
+      "referencia_biblica": "Juan 8,12; Juan 9,5",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Juan 8,12",
+        "Juan 9,5",
+        "Isaías 9,1"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-pao-da-vida",
+      "slug": "titulo-pao-da-vida",
+      "titulo": "Pan de Vida",
+      "categoria": "jesus-cristo",
+      "resumo": "Título eucarístico con que Jesús se define en el discurso de Cafarnaún, justo después de la multiplicación de los panes, prometiendo saciar para siempre a quien se alimenta de él.",
+      "corpo": "Al día siguiente de la multiplicación de los panes, cuando las multitudes lo buscan en Cafarnaún en pos de nuevo alimento, Jesús desplaza el deseo de ellas hacia un pan que no perece: \"Yo soy el pan de la vida. El que venga a mí, no tendrá hambre, y el que crea en mí, no tendrá nunca sed\" (Jn 6,35). El discurso avanza hasta una afirmación aún más radical y realista: \"el pan que yo le voy a dar es mi carne por la vida del mundo\" (Jn 6,51), palabras que escandalizan a parte de los oyentes y anticipan la institución de la Eucaristía en la Última Cena.\n\nLa tradición católica lee este título como fundamento bíblico directo de la doctrina eucarística: Jesús no solo enseña sobre el pan de vida, sino que se entrega, en la Misa, como ese mismo pan, bajo las especies consagradas. Por eso el capítulo 6 de Juan se lee en las liturgias que celebran el Cuerpo y la Sangre de Cristo, y el título sigue siendo uno de los más invocados en la piedad eucarística.",
+      "tags": [
+        "títulos de Cristo",
+        "Eucaristía"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": null,
+      "referencia_biblica": "Juan 6,35.48-51",
+      "paragrafos_ccc": [
+        "1338"
+      ],
+      "fontes": [
+        "Juan 6,35-51",
+        "Catecismo de la Iglesia Católica, n. 1338"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-caminho-verdade-e-vida",
+      "slug": "titulo-caminho-verdade-e-vida",
+      "titulo": "Camino, Verdad y Vida",
+      "categoria": "jesus-cristo",
+      "resumo": "Respuesta de Jesús a Tomás en la Última Cena, afirmando ser él mismo, en persona, el acceso único al Padre.",
+      "corpo": "Durante el largo discurso de despedida en la Última Cena, ante la pregunta angustiada de Tomás sobre cómo podrían los discípulos conocer el camino adonde Jesús iba, él responde con una de las frases más citadas de los Evangelios: \"Yo soy el Camino, la Verdad y la Vida; nadie va al Padre sino por mí\" (Jn 14,6). Las tres palabras no describen funciones separadas, sino un único misterio: Jesús no solo indica un camino ni enseña una verdad, él ES el camino, y por eso puede conducir con seguridad absoluta a la vida del Padre.\n\nEl título tiene implicaciones centrales para la comprensión católica de la unicidad de Cristo como mediador de la salvación: no hay acceso al Padre que no pase por él. Al mismo tiempo, la Iglesia entiende esa afirmación no como una exclusión arbitraria, sino como una invitación universal, ya que el propio Cristo murió por todos; por eso el versículo se lee tanto en contextos de consuelo (es la lectura típica de las exequias) como de misión evangelizadora.",
+      "tags": [
+        "títulos de Cristo",
+        "Última Cena"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": null,
+      "referencia_biblica": "Juan 14,6",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Juan 14,6"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-alfa-e-omega",
+      "slug": "titulo-alfa-e-omega",
+      "titulo": "Alfa y Omega",
+      "categoria": "jesus-cristo",
+      "resumo": "Título del Apocalipsis que proclama a Cristo como principio y fin de toda la creación y de la historia, usando la primera y la última letra del alfabeto griego.",
+      "corpo": "En el libro del Apocalipsis, tanto Dios como el Cristo resucitado se autodesignan con esta fórmula: \"Yo soy el Alfa y la Omega, dice el Señor Dios, «Aquel que es, que era y que va a venir», el Todopoderoso\" (Ap 1,8) y, al final del libro, en voz de Cristo: \"Yo soy el Alfa y la Omega, el Primero y el Último, el Principio y el Fin\" (Ap 22,13). Alfa y omega son, respectivamente, la primera y la última letras del alfabeto griego; decirse \"el Alfa y la Omega\" equivale a abarcarlo todo, del principio al fin, en una afirmación de soberanía absoluta sobre el tiempo y la historia.\n\nAplicado a Cristo, el título lo sitúa en el mismo plano de la eternidad divina, coherente con la fe profesada en el Credo en un \"Hijo único de Dios, [...] engendrado, no creado\". La imagen entró con fuerza en la iconografía y la liturgia cristianas —está entre los símbolos que se trazan en el cirio pascual durante la Vigilia Pascual, cuando el celebrante inscribe las letras alfa y omega junto a la cruz, proclamando que a Cristo pertenecen \"el tiempo y los siglos\".",
+      "tags": [
+        "títulos de Cristo",
+        "Apocalipsis",
+        "escatología",
+        "Pascua"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": null,
+      "referencia_biblica": "Apocalipsis 1,8; 22,13",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Apocalipsis 1,8",
+        "Apocalipsis 22,13"
+      ]
+    },
+    {
+      "id": "jesus-cristo:kenose-de-cristo",
+      "slug": "kenose-de-cristo",
+      "titulo": "La Kénosis (el Vaciamiento de Cristo)",
+      "categoria": "jesus-cristo",
+      "resumo": "Doctrina, fundada en el himno de Filipenses, según la cual el Hijo de Dios, sin dejar de ser Dios, \"se despojó de sí mismo\" al asumir la condición humana y la obediencia hasta la muerte de cruz.",
+      "corpo": "El término viene del griego \"ekénōsen\" (se vació, se despojó), verbo usado en el himno cristológico citado por Pablo: Cristo Jesús, \"a pesar de su condición divina, no hizo alarde de su categoría de Dios; al contrario, se despojó de sí mismo, tomando la condición de esclavo, haciéndose semejante a los hombres\" y humillándose \"obedeciendo hasta la muerte y muerte de cruz\" (Flp 2,6-8). La kénosis no significa que el Verbo haya dejado de ser Dios al encarnarse —lo cual sería contrario al dogma de la unión hipostática—, sino que la divinidad, en Cristo, elige manifestarse a través del abajamiento, el servicio y la debilidad aparente, y no por el poder que los hombres esperarían.\n\nLa doctrina evita dos extremos: negar la verdadera humanidad de Cristo (docetismo) o imaginar que la Encarnación disminuye de algún modo la naturaleza divina, que permanece plena e inmutable. Por el contrario, el himno de Filipenses concluye exactamente lo opuesto del abajamiento: \"por lo cual Dios le exaltó y le otorgó el Nombre que está sobre todo nombre\" (Flp 2,9), de modo que la kénosis se revela camino, no pérdida, hacia la glorificación. Por eso es la base bíblica clásica de la espiritualidad de la humildad y del servicio en la tradición cristiana.",
+      "tags": [
+        "cristología",
+        "Encarnación",
+        "humildad"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "dogma_cristologico",
+      "ordem": null,
+      "referencia_biblica": "Filipenses 2,6-11",
+      "paragrafos_ccc": [
+        "461",
+        "472"
+      ],
+      "fontes": [
+        "Filipenses 2,6-11",
+        "Catecismo de la Iglesia Católica, nn. 461, 472"
+      ]
+    },
+    {
+      "id": "jesus-cristo:duas-vontades-em-cristo",
+      "slug": "duas-vontades-em-cristo",
+      "titulo": "Las Dos Voluntades de Cristo (Diotelismo)",
+      "categoria": "jesus-cristo",
+      "resumo": "Dogma definido en el III Concilio de Constantinopla (681) según el cual Cristo, por tener dos naturalezas, posee también dos voluntades —divina y humana—, unidas sin confusión ni oposición.",
+      "corpo": "Después de que Calcedonia (451) definiera las dos naturalezas de Cristo unidas en una sola Persona, surgió en el siglo VII la controversia del monotelismo, que, buscando una vía de conciliación con los monofisitas, sostenía que en Cristo había una única voluntad y operación. El III Concilio de Constantinopla, sexto concilio ecuménico, reunido en 680-681, condenó el monotelismo y definió el diotelismo (del griego \"dýo thelḗmata\", dos voluntades): Cristo tiene una voluntad divina, que comparte con el Padre y el Espíritu Santo, y una voluntad humana verdadera, creada y libre —\"no opuestas, sino que la voluntad humana sigue, sin resistencia ni reluctancia, [...] a la voluntad divina y omnipotente\", según la fórmula conciliar.\n\nLa base escriturística más citada para el dogma es la oración de Jesús en Getsemaní: \"Padre mío, si es posible, que pase de mí esta copa; pero no sea como yo quiero, sino como quieras tú\" (Lc 22,42) —texto en el que se distinguen claramente dos voluntades reales, y no una mera figura retórica, bajo el mando final de la voluntad divina. Negar la voluntad humana de Cristo vaciaría su humanidad concreta, dejando incompleta la redención, ya que —como decían los Padres— \"lo que no ha sido asumido no ha sido sanado\".",
+      "tags": [
+        "cristología",
+        "Constantinopla III",
+        "concilios"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "dogma_cristologico",
+      "ordem": null,
+      "referencia_biblica": "Lucas 22,42",
+      "paragrafos_ccc": [
+        "475"
+      ],
+      "fontes": [
+        "III Concilio de Constantinopla (680-681)",
+        "Catecismo de la Iglesia Católica, n. 475",
+        "Lucas 22,42"
+      ]
+    },
+    {
+      "id": "jesus-cristo:cristo-unico-mediador",
+      "slug": "cristo-unico-mediador",
+      "titulo": "Cristo, Único Mediador",
+      "categoria": "jesus-cristo",
+      "resumo": "Dogma según el cual solo Cristo, verdadero Dios y verdadero hombre, puede reconciliar plenamente a la humanidad con el Padre, fundamento de toda otra mediación en la Iglesia.",
+      "corpo": "San Pablo formula el principio de modo directo: \"hay un solo Dios, y también un solo mediador entre Dios y los hombres, Cristo Jesús, hombre también, que se entregó a sí mismo como rescate por todos\" (1 Tm 2,5-6). La unicidad de la mediación de Cristo se deriva precisamente de su doble condición: solo puede representar verdaderamente a Dios ante los hombres y a los hombres ante Dios quien sea, al mismo tiempo, plenamente Dios y plenamente hombre —lo cual remite a la unión hipostática definida en Calcedonia.\n\nEste dogma no excluye otras formas de intercesión en la vida de la Iglesia —la oración de los santos, la intercesión de María, la mediación sacramental de los ministros—, pero las sitúa como participaciones subordinadas y derivadas de la única mediación de Cristo, jamás paralelas ni concurrentes con ella. Es lo que el Catecismo resume al afirmar que \"la función maternal de María para con los hombres [...] de ninguna manera oscurece ni disminuye esta mediación única de Cristo, sino que muestra su eficacia\" (CIC 970), principio válido, por extensión, para toda mediación eclesial.",
+      "tags": [
+        "cristología",
+        "mediación",
+        "salvación"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "dogma_cristologico",
+      "ordem": null,
+      "referencia_biblica": "1 Timoteo 2,5-6",
+      "paragrafos_ccc": [
+        "480",
+        "618",
+        "970"
+      ],
+      "fontes": [
+        "1 Timoteo 2,5-6",
+        "Catecismo de la Iglesia Católica, nn. 480, 618, 970"
+      ]
+    }
+  ]
+}
