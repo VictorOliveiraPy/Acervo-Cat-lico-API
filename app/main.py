@@ -23,6 +23,7 @@ from contextlib import asynccontextmanager
 import asyncpg
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 
 from app.chat_router import router as chat_router
 from app.config import settings
@@ -145,6 +146,9 @@ app.add_middleware(
 )
 
 register_exception_handlers(app)
+# Útil em desenvolvimento/homologação. Em produção, IMAGE_CDN_BASE_URL aponta
+# para o bucket/CDN que recebe o mesmo conteúdo antes do deploy.
+app.mount("/img-acervo", StaticFiles(directory="app/static/img-acervo", check_dir=False), name="imagens")
 # `velas_router`/`liturgia_router` primeiro: `/api/velas` e
 # `/api/liturgia-diaria` e `/api/chat` precisam ser resolvidos antes da rota
 # coringa `/api/{categoria}` do acervo, senão virariam slug de categoria

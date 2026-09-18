@@ -36,6 +36,11 @@ class Settings(BaseSettings):
     # Permite apontar para outro diretório de conteúdo (usado em testes).
     data_dir: Path | None = None
 
+    # Imagens são sincronizadas antes do deploy. Enquanto a URL do CDN não é
+    # configurada, a API preserva a URL editorial original — rollout seguro.
+    image_manifest_path: Path = Path(__file__).parent / "data" / "image-manifest.json"
+    image_cdn_base_url: str | None = None
+
     # String de conexão Postgres para o mural de velas (feature opcional):
     # sem ela, os endpoints de /api/velas respondem 503 em vez de derrubar
     # a API inteira — o acervo de leitura não pode depender de um banco à

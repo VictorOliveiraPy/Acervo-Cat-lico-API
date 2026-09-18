@@ -26,6 +26,7 @@ from app.exceptions import (
     DataIntegrityError,
     EntryNotFoundException,
 )
+from app.image_assets import ImageAssetResolver
 from app.models import (
     AnyEntry,
     Category,
@@ -174,6 +175,9 @@ class Repository:
         entries: dict[Category, list[AnyEntry]] = {}
         by_slug: dict[Category, dict[str, AnyEntry]] = {}
         search_index: list[_SearchDoc] = []
+        image_resolver = ImageAssetResolver(
+            settings.image_manifest_path, settings.image_cdn_base_url
+        )
 
         for category in Category:
             path = self._data_dir / f"{category.value}.json"
@@ -191,6 +195,7 @@ class Repository:
                     raise DataIntegrityError(
                         f"{path.name}: slug duplicado '{entry.slug}'."
                     )
+                entry.imagem = image_resolver.resolve(entry.imagem)
                 index[entry.slug] = entry
                 search_index.append(self._index_entry(entry))
 

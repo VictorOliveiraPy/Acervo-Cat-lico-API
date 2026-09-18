@@ -17,6 +17,3 @@ addopts = "--cov=app --cov-report=term-missing"
 
 [tool.coverage.report]
 fail_under = 70
-
-
-exportei o arquivos para voce ver esta em csv na rayz

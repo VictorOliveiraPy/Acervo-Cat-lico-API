@@ -9,6 +9,7 @@ asyncpg==0.30.0
 # do FastAPI, por isso já estava listado abaixo antes de virar dependência
 # de runtime de verdade.
 httpx==0.28.1
+Pillow==11.1.0
 # Chatbot do acervo (RAG, app/rag/) — geração de resposta, embeddings e o
 # tipo `vector` do Postgres pro asyncpg, respectivamente.
 anthropic==1.4.0

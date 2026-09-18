@@ -30,3 +30,10 @@ services:
         # Neon). Sem ela, a API sobe normalmente e só /api/velas responde
         # 503. Ver DEPLOY.md, "Mural de velas".
         sync: false
+      - key: IMAGE_CDN_BASE_URL
+        # Opcional — URL pública do bucket/CDN que publica os assets em
+        # app/static/img-acervo/ (ver docs/imagens/04-operacao-e-publicacao.md).
+        # Sem ela, a API serve a URL editorial original (Wikimedia). O
+        # manifesto (app/data/image-manifest.json) é versionado no Git —
+        # só os arquivos .webp em si vivem no bucket.
+        sync: false

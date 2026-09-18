@@ -9,4 +9,8 @@ htmlcov/
 *.log
 .env
 /img-catolicas/
+# Os assets .webp em si ficam só no bucket/CDN (não no Git). O manifesto que
+# mapeia URL original -> caminho publicado É versionado — é só um JSON de
+# metadados, e a API precisa dele presente no deploy pra resolver as URLs.
+/app/static/img-acervo/
 *.mp4
