@@ -23,7 +23,7 @@ import sys
 
 import asyncpg
 
-from app.config import settings
+from app.core.config import settings
 from app.rag.chunking import ChunkInput, chunk_entry
 from app.rag.embeddings import embed_documents
 from app.rag.repository import PostgresRagRepository
