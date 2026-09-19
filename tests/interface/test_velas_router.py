@@ -8,9 +8,9 @@ from collections.abc import Iterator
 import pytest
 from fastapi.testclient import TestClient
 
+from app.infrastructure.velas.in_memory_repository import InMemoryVelasRepository
+from app.interface.velas.router import _rate_limiter
 from app.main import app
-from app.velas_repository import InMemoryVelasRepository
-from app.velas_router import _rate_limiter
 
 
 @pytest.fixture()
@@ -201,10 +201,10 @@ def test_should_paginate_velas_newest_first(client: TestClient) -> None:
     client.app.state.velas_repository = repo
     import asyncio
 
-    from app.velas_models import TipoVela, VelaCreate
+    from app.domain.velas.entities import NovaVela, TipoVela
 
     for nome in ["Primeira", "Segunda", "Terceira"]:
-        asyncio.run(repo.create(VelaCreate(nome=nome, tipo=TipoVela.SAO_JUDAS_TADEU)))
+        asyncio.run(repo.create(NovaVela(nome=nome, tipo=TipoVela.SAO_JUDAS_TADEU)))
 
     # When
     response = client.get("/api/velas", params={"limit": 2, "offset": 0})

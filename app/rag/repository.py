@@ -19,7 +19,7 @@ from dataclasses import dataclass, field
 import asyncpg
 from pgvector.asyncpg import register_vector
 
-from app.exceptions import ServiceUnavailableException
+from app.core.exceptions import ServiceUnavailableException
 from app.rag.chunking import ChunkInput
 from app.rag.models import ChunkResult
 

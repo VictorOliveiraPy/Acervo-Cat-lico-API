@@ -20,8 +20,8 @@ from pathlib import Path
 
 from pydantic import ValidationError
 
-from app.config import settings
-from app.exceptions import (
+from app.core.config import settings
+from app.core.exceptions import (
     CategoryNotFoundException,
     DataIntegrityError,
     EntryNotFoundException,

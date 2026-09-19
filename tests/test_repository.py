@@ -7,7 +7,7 @@ from pathlib import Path
 
 import pytest
 
-from app.exceptions import CategoryNotFoundException, EntryNotFoundException
+from app.core.exceptions import CategoryNotFoundException, EntryNotFoundException
 from app.models import Category
 from app.repository import Repository, build_excerpt, normalize
 

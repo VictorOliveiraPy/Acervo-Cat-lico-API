@@ -7,7 +7,7 @@ from pathlib import Path
 
 import pytest
 
-from app.exceptions import DataIntegrityError
+from app.core.exceptions import DataIntegrityError
 from app.image_assets import ImageAssetResolver
 from scripts.sincronizar_imagens import asset_filename, collect_image_urls
 

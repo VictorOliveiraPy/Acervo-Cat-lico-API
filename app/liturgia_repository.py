@@ -20,7 +20,7 @@ from collections.abc import Awaitable, Callable
 from datetime import date
 from typing import Protocol
 
-from app.exceptions import ServiceUnavailableException
+from app.core.exceptions import ServiceUnavailableException
 from app.liturgia_client import fetch_liturgia
 from app.liturgia_models import LiturgiaDiaria
 

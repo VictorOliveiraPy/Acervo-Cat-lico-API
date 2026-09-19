@@ -11,8 +11,8 @@ import logging
 
 import anthropic
 
-from app.config import settings
-from app.exceptions import ServiceUnavailableException
+from app.core.config import settings
+from app.core.exceptions import ServiceUnavailableException
 from app.rag.models import ChunkResult
 
 logger = logging.getLogger(__name__)

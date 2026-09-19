@@ -4,9 +4,9 @@ Registrado em `main.py` antes do router coringa do acervo, pelo mesmo
 motivo de `velas_router`/`liturgia_router`: `/api/chat` teria que competir
 com `/api/{categoria}` se viesse depois.
 
-`RateLimiter`/`client_ip` vêm de `velas_repository` — não são específicos de
-vela, é só onde o primeiro limitador por IP deste projeto foi escrito;
-reaproveitar evita duas implementações da mesma checagem em memória.
+`RateLimiter`/`client_ip` vêm de `app.core.rate_limiting` — cross-cutting,
+não específico de nenhum domínio; cada endpoint cria sua própria instância
+com a janela que fizer sentido.
 """
 
 from __future__ import annotations
@@ -15,13 +15,13 @@ import logging
 
 from fastapi import APIRouter, Depends, Request
 
-from app.config import settings
-from app.exceptions import ServiceUnavailableException
+from app.core.config import settings
+from app.core.exceptions import ServiceUnavailableException
+from app.core.rate_limiting import RateLimiter, client_ip
 from app.rag.embeddings import embed_query
 from app.rag.generation import generate_answer, select_relevant
 from app.rag.models import ChatRequest, ChatResponse, FonteCitada
 from app.rag.repository import RagRepository, require_repository
-from app.velas_repository import RateLimiter, client_ip
 
 logger = logging.getLogger(__name__)
 

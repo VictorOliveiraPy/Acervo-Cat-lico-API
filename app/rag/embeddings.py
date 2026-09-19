@@ -11,8 +11,8 @@ from __future__ import annotations
 
 import voyageai
 
-from app.config import settings
-from app.exceptions import ServiceUnavailableException
+from app.core.config import settings
+from app.core.exceptions import ServiceUnavailableException
 
 
 def _client() -> voyageai.AsyncClient:

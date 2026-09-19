@@ -14,6 +14,11 @@ from typing import Any
 from pydantic import field_validator, model_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
+# `app/core/config.py` -> sobe dois níveis pra chegar em `app/`, onde
+# `data/` mora — movido de `app/config.py` (Clean Architecture, 2026-09-19),
+# um nível de diretório a mais do que antes.
+_APP_DIR = Path(__file__).resolve().parent.parent
+
 
 class Settings(BaseSettings):
     """Configuração da API do acervo."""
@@ -38,7 +43,7 @@ class Settings(BaseSettings):
 
     # Imagens são sincronizadas antes do deploy. Enquanto a URL do CDN não é
     # configurada, a API preserva a URL editorial original — rollout seguro.
-    image_manifest_path: Path = Path(__file__).parent / "data" / "image-manifest.json"
+    image_manifest_path: Path = _APP_DIR / "data" / "image-manifest.json"
     image_cdn_base_url: str | None = None
 
     # String de conexão Postgres para o mural de velas (feature opcional):

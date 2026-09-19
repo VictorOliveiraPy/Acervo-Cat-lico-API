@@ -5,7 +5,7 @@ from __future__ import annotations
 import pytest
 
 import app.rag.generation as generation_module
-from app.exceptions import ServiceUnavailableException
+from app.core.exceptions import ServiceUnavailableException
 from app.rag.generation import (
     NO_MATCH_MESSAGE,
     SIMILARITY_THRESHOLD,

@@ -1,19 +1,13 @@
-"""Exceções de domínio e seus handlers HTTP.
+"""Exceções de domínio — puro Python, sem FastAPI.
 
-O repositório levanta exceção de domínio; quem traduz para HTTP é o handler
-registrado no `main`. Assim a regra de negócio não conhece FastAPI, e o `code`
-(string estável) fica sendo o contrato com o frontend — a `message` é UX e pode
-mudar; o `code` não muda sem aviso.
+`domain`/`application`/`infrastructure` importam daqui livremente: nenhuma
+classe aqui depende de framework. Quem traduz para resposta HTTP é
+`app.interface.exception_handlers` — assim a regra de negócio não conhece
+FastAPI, e o `code` (string estável) fica sendo o contrato com o frontend;
+a `message` é UX e pode mudar, o `code` não muda sem aviso.
 """
 
 from __future__ import annotations
-
-import logging
-
-from fastapi import FastAPI, Request
-from fastapi.responses import JSONResponse
-
-logger = logging.getLogger(__name__)
 
 
 class AppException(Exception):
@@ -108,47 +102,3 @@ class DataIntegrityError(ValueError):
     Herda de `ValueError` porque é, de fato, dado malformado: mantém a
     semântica da `ValidationError` do Pydantic que costuma originá-la.
     """
-
-
-def register_exception_handlers(app: FastAPI) -> None:
-    """Registra os handlers que convertem exceção de domínio em resposta HTTP."""
-
-    @app.exception_handler(AppException)
-    async def handle_app_exception(
-        request: Request, exc: AppException
-    ) -> JSONResponse:
-        """Erro esperado de negócio: responde com o código de contrato."""
-        logger.info(
-            "Requisição rejeitada por regra de domínio",
-            extra={
-                "code": exc.code,
-                "status_code": exc.status_code,
-                "path": request.url.path,
-            },
-        )
-        return JSONResponse(
-            status_code=exc.status_code,
-            content={
-                "code": exc.code,
-                "message": exc.message,
-                "details": exc.details,
-            },
-        )
-
-    @app.exception_handler(Exception)
-    async def handle_unexpected_exception(
-        request: Request, exc: Exception
-    ) -> JSONResponse:
-        """Falha inesperada: loga com contexto e responde sem vazar detalhes."""
-        logger.exception(
-            "Erro inesperado ao processar requisição",
-            extra={"path": request.url.path, "error_type": type(exc).__name__},
-        )
-        return JSONResponse(
-            status_code=500,
-            content={
-                "code": "INTERNAL_ERROR",
-                "message": "Erro interno ao processar a requisição.",
-                "details": {},
-            },
-        )

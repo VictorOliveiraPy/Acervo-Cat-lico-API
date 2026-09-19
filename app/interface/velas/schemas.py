@@ -1,41 +1,15 @@
-"""Modelos do mural de velas: acender uma vela virtual com nome e intenção.
-
-Separado de `models.py` de propósito — aquele arquivo é o contrato do acervo
-somente-leitura (carregado de JSON); este é o único canto da API com escrita
-persistida, e mora à parte para que a diferença fique óbvia ao ler o código.
+"""DTOs Pydantic do mural de velas — a validação de entrada HTTP mora aqui,
+não na entidade de domínio (`app.domain.velas.entities`).
 """
 
 from __future__ import annotations
 
 import re
 from datetime import datetime
-from enum import Enum
 
 from pydantic import BaseModel, ConfigDict, Field, field_validator
 
-
-class TipoVela(str, Enum):
-    """As poucas "skins" de vela que a pessoa pode escolher ao acender —
-    devoção (Jesus, um santo), não cor.
-
-    Lista curta e fechada de propósito: a imagem de cada tipo mora no
-    frontend (mesmo padrão de `CATEGORY_LABELS` no lado do site), então
-    adicionar um tipo aqui sem adicionar a imagem lá quebra a tela.
-    """
-
-    JESUS = "jesus"
-    NOSSA_SENHORA = "nossa_senhora"
-    APARECIDA = "aparecida"
-    SAO_JOSE = "sao_jose"
-    ESPIRITO_SANTO = "espirito_santo"
-    SAO_JUDAS_TADEU = "sao_judas_tadeu"
-    CARLO_ACUTIS = "carlo_acutis"
-    SANTO_AGOSTINHO = "santo_agostinho"
-    SAO_BENTO = "sao_bento"
-    SANTA_TEREZINHA = "santa_terezinha"
-    SANTO_ANTONIO = "santo_antonio"
-    SAO_JOAO_BATISTA = "sao_joao_batista"
-
+from app.domain.velas.entities import NovaVela, TipoVela, Vela
 
 _EMAIL_RE = re.compile(r"^[^@\s]+@[^@\s]+\.[^@\s]+$")
 
@@ -47,13 +21,13 @@ def _clean_text(value: str | None) -> str | None:
     return cleaned or None
 
 
-class VelaCreate(BaseModel):
+class VelaCreateRequest(BaseModel):
     """O que a pessoa envia para acender uma vela.
 
     `email` é só para o contato do próprio site com quem acendeu (nunca é
-    devolvido pela API nem aparece no mural — ver `Vela`, que não tem esse
-    campo); `cidade`/`estado` são públicos, como no mural do Padre Marcelo
-    Rossi que inspirou esta tela.
+    devolvido pela API nem aparece no mural — ver `VelaResponse`, que não
+    tem esse campo); `cidade`/`estado` são públicos, como no mural do Padre
+    Marcelo Rossi que inspirou esta tela.
     """
 
     model_config = ConfigDict(extra="forbid")
@@ -91,8 +65,19 @@ class VelaCreate(BaseModel):
             raise ValueError("E-mail em formato inválido.")
         return cleaned
 
+    def to_entity(self) -> NovaVela:
+        """Converte o DTO já validado na entidade que os use cases esperam."""
+        return NovaVela(
+            nome=self.nome,
+            intencao=self.intencao,
+            tipo=self.tipo,
+            cidade=self.cidade,
+            estado=self.estado,
+            email=self.email,
+        )
 
-class Vela(BaseModel):
+
+class VelaResponse(BaseModel):
     """Uma vela já acesa, como aparece no mural público.
 
     De propósito sem `email`: é dado de contato privado, não devolvido pela
@@ -109,8 +94,20 @@ class Vela(BaseModel):
     estado: str | None
     criado_em: datetime
 
+    @classmethod
+    def from_entity(cls, vela: Vela) -> VelaResponse:
+        return cls(
+            id=vela.id,
+            nome=vela.nome,
+            intencao=vela.intencao,
+            tipo=vela.tipo,
+            cidade=vela.cidade,
+            estado=vela.estado,
+            criado_em=vela.criado_em,
+        )
 
-class VelaPage(BaseModel):
+
+class VelaPageResponse(BaseModel):
     """Página do mural, mais recentes primeiro."""
 
     model_config = ConfigDict(extra="forbid")
@@ -118,4 +115,4 @@ class VelaPage(BaseModel):
     total: int
     limit: int
     offset: int
-    itens: list[Vela]
+    itens: list[VelaResponse]

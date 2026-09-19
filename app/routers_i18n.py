@@ -16,8 +16,8 @@ from __future__ import annotations
 
 from fastapi import APIRouter, Path, Query
 
-from app.config import settings
-from app.exceptions import LanguageNotFoundException
+from app.core.config import settings
+from app.core.exceptions import LanguageNotFoundException
 from app.i18n import translation_repositories
 from app.models import AnyEntry, CategoryInfo, EntryPage, SearchResult
 from app.repository import Repository
