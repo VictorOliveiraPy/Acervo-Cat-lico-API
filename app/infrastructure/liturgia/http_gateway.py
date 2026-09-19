@@ -1,11 +1,12 @@
-"""Busca a liturgia de um dia numa fonte externa.
+"""Busca a liturgia de um dia numa fonte externa via HTTP.
 
 A fonte (`api-liturgia-diaria.vercel.app`, um agregador de terceiros que lê
 de sagradaliturgia.com.br) NÃO é um serviço oficial da CNBB nem do
 Vaticano — é o serviço aberto mais completo e estável em português que
 encontramos; a CNBB não expõe uma API pública própria. Isolado neste módulo
-de propósito: trocar de fonte no futuro (se surgir uma oficial) é mudar só
-este arquivo — o repositório e a rota não sabem de onde os dados vêm.
+de propósito: trocar de fonte no futuro (se surgir uma oficial) é escrever
+outra implementação de `LiturgiaExternalGateway` — o use case e o
+repositório de cache não sabem de onde os dados vêm.
 """
 
 from __future__ import annotations
@@ -17,7 +18,8 @@ from typing import Any
 
 import httpx
 
-from app.liturgia_models import LeituraLiturgica, LiturgiaDiaria
+from app.domain.liturgia.entities import LeituraLiturgica, LiturgiaDiaria
+from app.domain.liturgia.gateway import LiturgiaExternalGateway
 
 _API_URL = "https://api-liturgia-diaria.vercel.app/"
 _TIMEOUT_SECONDS = 10.0
@@ -75,11 +77,13 @@ def parse_liturgia(dia: date, payload: dict[str, Any]) -> LiturgiaDiaria:
     )
 
 
-async def fetch_liturgia(dia: date) -> LiturgiaDiaria:
-    """Busca e converte a liturgia de `dia` na fonte externa."""
-    async with httpx.AsyncClient(timeout=_TIMEOUT_SECONDS) as client:
-        response = await client.get(_API_URL, params={"date": dia.isoformat()})
-        response.raise_for_status()
-        payload = response.json()
+class HttpLiturgiaGateway(LiturgiaExternalGateway):
+    """Implementação real do gateway, via `httpx`."""
 
-    return parse_liturgia(dia, payload)
+    async def fetch(self, dia: date) -> LiturgiaDiaria:
+        async with httpx.AsyncClient(timeout=_TIMEOUT_SECONDS) as client:
+            response = await client.get(_API_URL, params={"date": dia.isoformat()})
+            response.raise_for_status()
+            payload = response.json()
+
+        return parse_liturgia(dia, payload)

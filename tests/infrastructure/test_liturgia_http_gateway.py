@@ -1,19 +1,14 @@
-"""Testes da liturgia diária: parsing do payload externo, cache e 503 sem
-banco configurado. Nenhum teste toca a rede — `fetch_liturgia` de verdade
-nunca é chamado, só `parse_liturgia` (função pura) e fakes injetados."""
+"""Testes do parsing do payload da fonte externa — função pura, sem rede.
+
+`fetch_liturgia`/`HttpLiturgiaGateway.fetch` de verdade nunca são chamados
+aqui, só `parse_liturgia`.
+"""
 
 from __future__ import annotations
 
-from collections.abc import Iterator
 from datetime import date
 
-import pytest
-from fastapi.testclient import TestClient
-
-from app.liturgia_client import parse_liturgia
-from app.liturgia_models import LiturgiaDiaria
-from app.liturgia_repository import InMemoryLiturgiaDiariaRepository
-from app.main import app
+from app.infrastructure.liturgia.http_gateway import parse_liturgia
 
 # Trecho real da resposta da fonte externa para um dia de semana (sem
 # segunda leitura), aparado para o que o parser lê.
@@ -116,96 +111,3 @@ def test_parse_should_strip_html_tags_from_celebracao() -> None:
     # Then
     assert "<b>" not in (liturgia.celebracao or "")
     assert "<br/>" not in (liturgia.celebracao or "")
-
-
-@pytest.fixture()
-def client() -> Iterator[TestClient]:
-    """TestClient próprio (não o `module`-scoped de test_routers): cada
-    teste aqui manipula `app.state.liturgia_repository`, então precisa de
-    isolamento por teste, não compartilhado."""
-    with TestClient(app) as test_client:
-        yield test_client
-
-
-def test_should_return_503_when_database_not_configured(client: TestClient) -> None:
-    """Sem `DATABASE_URL`, o lifespan real deixa `liturgia_repository` em `None`."""
-    # Given
-    client.app.state.liturgia_repository = None
-
-    # When
-    response = client.get("/api/liturgia-diaria")
-
-    # Then
-    assert response.status_code == 503
-    assert response.json()["code"] == "LITURGIA_INDISPONIVEL"
-
-
-def test_should_return_liturgia_for_a_specific_date(client: TestClient) -> None:
-    # Given
-    async def fake_fetch(dia: date) -> LiturgiaDiaria:
-        return parse_liturgia(dia, PAYLOAD_DIA_DE_SEMANA)
-
-    client.app.state.liturgia_repository = InMemoryLiturgiaDiariaRepository(fake_fetch)
-
-    # When
-    response = client.get("/api/liturgia-diaria", params={"data": "2026-09-08"})
-
-    # Then
-    assert response.status_code == 200
-    body = response.json()
-    assert body["data"] == "2026-09-08"
-    assert body["evangelho"]["referencia"] == "Evangelho de Jesus Cristo segundo São Mateus 1, 1-16.18-23"
-
-
-def test_should_cache_and_call_fetcher_only_once_per_date(client: TestClient) -> None:
-    # Given
-    chamadas = 0
-
-    async def fake_fetch(dia: date) -> LiturgiaDiaria:
-        nonlocal chamadas
-        chamadas += 1
-        return parse_liturgia(dia, PAYLOAD_DIA_DE_SEMANA)
-
-    client.app.state.liturgia_repository = InMemoryLiturgiaDiariaRepository(fake_fetch)
-
-    # When
-    first = client.get("/api/liturgia-diaria", params={"data": "2026-09-08"})
-    second = client.get("/api/liturgia-diaria", params={"data": "2026-09-08"})
-
-    # Then
-    assert first.status_code == second.status_code == 200
-    assert chamadas == 1
-
-
-def test_should_return_503_when_external_source_fails(client: TestClient) -> None:
-    # Given
-    async def failing_fetch(dia: date) -> LiturgiaDiaria:
-        raise RuntimeError("fonte externa fora do ar")
-
-    client.app.state.liturgia_repository = InMemoryLiturgiaDiariaRepository(failing_fetch)
-
-    # When
-    response = client.get("/api/liturgia-diaria", params={"data": "2026-09-08"})
-
-    # Then
-    assert response.status_code == 503
-    assert response.json()["code"] == "LITURGIA_INDISPONIVEL"
-
-
-def test_should_default_to_todays_date_when_no_date_given(client: TestClient) -> None:
-    # Given
-    recebido: list[date] = []
-
-    async def fake_fetch(dia: date) -> LiturgiaDiaria:
-        recebido.append(dia)
-        return parse_liturgia(dia, PAYLOAD_DIA_DE_SEMANA)
-
-    client.app.state.liturgia_repository = InMemoryLiturgiaDiariaRepository(fake_fetch)
-
-    # When
-    response = client.get("/api/liturgia-diaria")
-
-    # Then
-    assert response.status_code == 200
-    assert len(recebido) == 1
-    assert recebido[0] == date.fromisoformat(response.json()["data"])
