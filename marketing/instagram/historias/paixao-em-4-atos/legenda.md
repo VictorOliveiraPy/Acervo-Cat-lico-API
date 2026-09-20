@@ -1,6 +1,7 @@
-# A Paixão em 4 atos — carrossel (6 slides)
+# A Paixão em 4 atos — carrossel (7 slides)
 
-Poste as 6 imagens em ordem (`1-capa.jpg` → `6-cta.jpg`) como carrossel.
+Poste as 7 imagens em ordem (`1-capa.jpg` → `7-cta.jpg`) como carrossel —
+termina com um slide de lição antes do CTA, não só o relato dos 4 atos.
 Ótimo pra Semana Santa (Quinta e Sexta-feira Santa), mas funciona o ano todo.
 
 **Legenda:**

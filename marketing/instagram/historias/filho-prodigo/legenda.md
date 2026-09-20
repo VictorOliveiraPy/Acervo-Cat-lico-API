@@ -1,6 +1,7 @@
-# O Filho Pródigo — carrossel (5 slides)
+# O Filho Pródigo — carrossel (6 slides)
 
-Poste as 5 imagens em ordem (`1-capa.jpg` → `5-cta.jpg`) como carrossel.
+Poste as 6 imagens em ordem (`1-capa.jpg` → `6-cta.jpg`) como carrossel —
+termina com um slide de lição, não só o relato.
 
 **Legenda:**
 Essa é uma das parábolas mais bonitas que Jesus contou — e também uma das
