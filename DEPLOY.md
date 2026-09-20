@@ -156,4 +156,4 @@ normalmente.
 - [ ] CORS do backend está travado na URL real do Vercel — **não** em
       `*` nem esquecido em `localhost`.
 - [ ] `ENVIRONMENT=production` e `DEBUG=false` no Render — conferido
-      automaticamente no boot (`app/config.py` recusa subir errado).
+      automaticamente no boot (`app/core/config.py` recusa subir errado).

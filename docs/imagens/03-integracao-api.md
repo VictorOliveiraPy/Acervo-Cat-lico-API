@@ -16,4 +16,4 @@ Fazer a API servir URLs do CDN ap?s a sincroniza??o, mas manter o comportamento 
 
 ## Entrega
 
-`app/image_assets.py`, configura??o em `app/config.py` e testes unit?rios de resolu??o e de integra??o com o reposit?rio.
+`app/image_assets.py`, configura??o em `app/core/config.py` e testes unit?rios de resolu??o e de integra??o com o reposit?rio.

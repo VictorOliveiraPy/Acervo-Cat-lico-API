@@ -191,11 +191,13 @@ Erro de parâmetro (ex.: `q` com 1 caractere) usa o `422` padrão do FastAPI.
   ele, `/api/liturgia-diaria` responde `503`, igual ao mural.
 - **Chatbot nunca responde do que o modelo "sabe" — só do acervo (RAG).**
   Toda pergunta busca primeiro nos embeddings do próprio conteúdo
-  (`app/rag/`, indexado por `scripts/indexar_acervo.py`); o Claude só vê os
-  trechos recuperados e é instruído a recusar em vez de completar com
-  conhecimento próprio. Abaixo de `SIMILARITY_THRESHOLD`
-  (`app/rag/generation.py`), nem chama a API — devolve a recusa direto, sem
-  gastar uma chamada paga que já se sabe que não tem como responder bem.
+  (`app/domain/chat/`, `app/application/chat/` e `app/infrastructure/chat/`,
+  indexado por `scripts/indexar_acervo.py`); o Claude só vê os trechos
+  recuperados e é instruído a recusar em vez de completar com conhecimento
+  próprio. Abaixo de `SIMILARITY_THRESHOLD`
+  (`app/domain/chat/relevance.py`), nem chama a API — devolve a recusa
+  direto, sem gastar uma chamada paga que já se sabe que não tem como
+  responder bem.
   Fase 1 (atual): só os 1.043 verbetes do acervo. Livros em PDF ficam para
   uma fase seguinte, com um script de ingestão próprio.
 
@@ -231,7 +233,7 @@ Conteúdo atual: 485 entradas nas 13 categorias.
 ## Configuração
 
 Todas as variáveis são opcionais em desenvolvimento (há defaults em
-`app/config.py`) e podem ir num `.env` na raiz do repositório:
+`app/core/config.py`) e podem ir num `.env` na raiz do repositório:
 
 | Variável | Default | Descrição |
 |---|---|---|

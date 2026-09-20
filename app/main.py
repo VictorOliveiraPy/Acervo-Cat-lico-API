@@ -9,7 +9,8 @@ num Postgres à parte (`DATABASE_URL`), opcional: sem ele configurado, o
 acervo de leitura sobe normalmente e só o mural responde 503. A liturgia
 diária (`/api/liturgia-diaria`) usa o mesmo Postgres como cache — sem
 `DATABASE_URL`, esse endpoint também responde 503, pelo mesmo motivo. O
-chatbot do acervo (`/api/chat`, RAG — ver `app/rag/`) precisa do mesmo
+chatbot do acervo (`/api/chat`, RAG — ver `app/domain/chat/`,
+`app/application/chat/` e `app/infrastructure/chat/`) precisa do mesmo
 Postgres mais duas chaves de API (`ANTHROPIC_API_KEY`, `VOYAGE_API_KEY`);
 sem qualquer uma das três, responde 503 e o resto da API segue normal.
 """
