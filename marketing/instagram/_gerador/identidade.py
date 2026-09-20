@@ -58,6 +58,22 @@ def _draw_frame(d: ImageDraw.ImageDraw) -> None:
     d.rectangle([margin, margin, W - margin, H - margin], outline=GOLD_SOFT, width=2 * SCALE)
 
 
+def draw_logo_mark(d: ImageDraw.ImageDraw, cx: float, cy: float, r: float = 46) -> None:
+    """O selo da marca: anel duplo dourado com um "C" serifado no centro —
+    mesmo logo já usado nos posts de citação do Compêndio Católico. Chamado
+    em todo gerador (posts, memes, histórias, reels, stories) pra manter a
+    marca consistente em qualquer imagem publicada."""
+    r = r * SCALE
+    d.ellipse([cx - r, cy - r, cx + r, cy + r], outline=GOLD, width=max(2, int(r * 0.12)))
+    r2 = r * 0.86
+    d.ellipse([cx - r2, cy - r2, cx + r2, cy + r2], outline=GOLD_SOFT, width=max(1, int(r * 0.035)))
+    f_c = font("PlayfairDisplay.ttf", int(r / SCALE * 1.15), 800)
+    tw = d.textlength("C", font=f_c)
+    bbox = d.textbbox((0, 0), "C", font=f_c)
+    th = bbox[3] - bbox[1]
+    d.text((cx - tw / 2, cy - th / 2 - bbox[1]), "C", font=f_c, fill=CREAM)
+
+
 def _rays(d: ImageDraw.ImageDraw, cx: float, cy: float, r0: float, r1: float, count: int, width: int, color) -> None:
     for i in range(count):
         ang = math.radians(360 / count * i - 90)
@@ -223,21 +239,24 @@ def make_post(
     y += 50 * SCALE
 
     body_lines = _wrap(d, body, f_body, W - 300 * SCALE)
-    max_body_lines = 8
+    max_body_lines = 7
     if len(body_lines) > max_body_lines:
         body_lines = body_lines[:max_body_lines]
         body_lines[-1] = body_lines[-1].rstrip(".") + "…"
     for line in body_lines:
         tw = d.textlength(line, font=f_body)
         d.text(((W - tw) / 2, y), line, font=f_body, fill=CREAM)
-        y += 48 * SCALE
+        y += 46 * SCALE
 
-    y += 24 * SCALE
+    y += 18 * SCALE
     d.line([(W - line_w) / 2, y, (W + line_w) / 2, y], fill=GOLD_SOFT, width=2 * SCALE)
-    y += 54 * SCALE
+    y += 46 * SCALE
 
     tw = d.textlength(url, font=f_url)
     d.text(((W - tw) / 2, y), url, font=f_url, fill=GOLD)
+    y += 48 * SCALE
+
+    draw_logo_mark(d, W / 2, y + 28 * SCALE, r=26)
 
     final = img.resize((1080, 1350), Image.LANCZOS)
     out_path.parent.mkdir(parents=True, exist_ok=True)

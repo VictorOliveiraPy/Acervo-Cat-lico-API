@@ -6,18 +6,28 @@ formatos de Stories, organizados por categoria/formato.
 
 ## Identidade visual
 
-A imagem de cada post replica o mesmo estilo já usado no mural de velas
-(`post-velas.png`, na raiz do repo): fundo bordô com vinheta, moldura fina
-dourada, título em **Playfair Display** (serifada, bold) e corpo em
-**EB Garamond**, sempre com `compendio-catolico.com` no rodapé. Cada categoria
-tem um ícone dourado próprio (cálice, auréola, cruz, livro, lamparina, globo).
+A imagem de cada peça replica o mesmo estilo já usado nos posts de citação
+do Compêndio Católico (referência em `_gerador/arte/referencia-identidade.png`
+e em `post-velas.png`, na raiz do repo):
+fundo bordô com vinheta, moldura fina dourada, título em **Playfair
+Display** (serifada, bold) e corpo em **EB Garamond** — e, em toda imagem,
+**o selo da marca**: o círculo duplo dourado com o "C" no centro. Cada
+categoria de post também tem um ícone dourado próprio (cálice, auréola,
+cruz, livro, lamparina, globo).
 
-As imagens já vêm prontas em `posts/<categoria>/NN-titulo.png` (1080×1350,
-formato de post do Instagram). Os **memes** usam o mesmo texto bold/contorno
-já popular no gênero, só que sobre arte sacra clássica de domínio público em
-vez de fotos de terceiros com direitos reservados; as **histórias** são
-carrosséis (capa com a pintura + slides de texto + CTA) na mesma moldura
-bordô/dourada dos posts.
+Nenhum formato fica só em texto — todos têm imagem pronta:
+
+- **Posts** (`posts/<categoria>/NN-titulo.png`): card completo com ícone,
+  título e texto.
+- **Memes** (`memes/`): texto bold sobre arte sacra clássica de domínio
+  público, em vez de fotos de terceiros com direitos reservados.
+- **Histórias** (`historias/`): carrossel (capa com a pintura + slides de
+  texto + CTA), na mesma moldura bordô/dourada.
+- **Reels** (`reels/<NN-slug>/cena-N.jpg`): um card por cena do roteiro,
+  pra usar direto ou como base pra editar no CapCut/InShot.
+- **Stories** (`stories/<NN-slug>/slide-N.jpg`): um card por slide, com uma
+  caixa indicando onde colar o sticker nativo do Instagram (quiz, enquete,
+  contagem regressiva...).
 
 Pra gerar tudo de novo (depois de editar os textos):
 
@@ -25,6 +35,7 @@ Pra gerar tudo de novo (depois de editar os textos):
 python marketing/instagram/_gerador/gerar_tudo.py       # os 38 posts
 python marketing/instagram/_gerador/gerar_memes.py       # os 8 memes
 python marketing/instagram/_gerador/gerar_historias.py   # os 2 carrosséis
+python marketing/instagram/_gerador/gerar_cards.py       # cenas de Reels + slides de Stories
 ```
 
 Não precisa de internet pra rodar — as fontes (Playfair Display e EB Garamond,
@@ -46,15 +57,18 @@ marketing/instagram/
 ├── historias/
 │   ├── filho-prodigo/        (carrossel de 5 slides + legenda.md)
 │   └── paixao-em-4-atos/     (carrossel de 6 slides + legenda.md)
-├── reels/           (10 roteiros, .md)
-├── stories/         (6 formatos, .md)
+├── reels/
+│   └── NN-slug/               (roteiro.md + cena-1.jpg ... cena-4.jpg)
+├── stories/
+│   └── NN-slug/               (roteiro.md + slide-1.jpg ... slide-N.jpg)
 └── _gerador/        (scripts + fontes + pinturas — gera tudo acima)
 ```
 
 Cada post de curiosidade tem dois arquivos com o mesmo nome: `NN-titulo.png`
 (a imagem pronta) e `NN-titulo.md` (legenda pronta pra copiar, hashtags e uma
 sugestão de foto/arte alternativa). Memes e histórias têm a legenda/hashtags
-num `legendas.md`/`legenda.md` só na pasta.
+num `legendas.md`/`legenda.md` só na pasta. Cada Reel/Story tem sua própria
+pasta com o `roteiro.md` e as imagens de cada cena/slide juntas.
 
 ## Direitos autorais — leia antes de postar sobre The Chosen ou pessoas reais
 

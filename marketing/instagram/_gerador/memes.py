@@ -14,7 +14,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from identidade import GOLD, SCALE, font  # reaproveita fontes e escala já usadas nos posts
+from identidade import GOLD, SCALE, draw_logo_mark, font  # reaproveita fontes/escala/marca já usadas nos posts
 
 ARTE_DIR = Path(__file__).resolve().parent / "arte"
 
@@ -100,11 +100,14 @@ def make_meme(
         _outlined_text(d, ((W - tw) / 2, y), line, f_caption, (255, 255, 255), (10, 6, 8), 6 * SCALE)
         y += line_h
 
-    f_brand = font("EBGaramond.ttf", 22, 600)
-    brand = "COMPÊNDIO CATÓLICO"
-    tw = d.textlength(brand, font=f_brand)
-    brand_y = H - 34 * SCALE if position == "top" else 18 * SCALE
-    _outlined_text(d, ((W - tw) / 2, brand_y), brand, f_brand, GOLD, (10, 6, 8), 3 * SCALE)
+    logo_r = 24
+    logo_cy = H - 56 * SCALE if position == "top" else 56 * SCALE
+    backing_r = logo_r * SCALE * 1.25
+    d.ellipse(
+        [W / 2 - backing_r, logo_cy - backing_r, W / 2 + backing_r, logo_cy + backing_r],
+        fill=(10, 6, 8, 255),
+    )
+    draw_logo_mark(d, W / 2, logo_cy, r=logo_r)
 
     final = img.resize((1080, 1350), Image.LANCZOS)
     out_path.parent.mkdir(parents=True, exist_ok=True)

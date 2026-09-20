@@ -20,6 +20,7 @@ from identidade import (
     SCALE,
     _radial_bg,
     _wrap,
+    draw_logo_mark,
     font,
 )
 
@@ -92,10 +93,21 @@ def make_cover_slide(
     d.text(((W - tw) / 2, H - 130 * SCALE), swipe_hint, font=f_hint, fill=CREAM)
 
     _dots(d, index, total)
+    _corner_logo(d)
 
     final = img.resize((1080, 1350), Image.LANCZOS)
     out_path.parent.mkdir(parents=True, exist_ok=True)
     final.save(out_path, quality=92)
+
+
+def _corner_logo(d: ImageDraw.ImageDraw) -> None:
+    """Selo discreto no canto superior direito — presente em todo slide do
+    carrossel, não só na capa/CTA, pra marca aparecer mesmo se alguém parar
+    de arrastar no meio da história."""
+    cx, cy, r = W - 90 * SCALE, 90 * SCALE, 22
+    backing_r = r * SCALE * 1.3
+    d.ellipse([cx - backing_r, cy - backing_r, cx + backing_r, cy + backing_r], fill=(14, 8, 10))
+    draw_logo_mark(d, cx, cy, r=r)
 
 
 def make_text_slide(
@@ -155,6 +167,7 @@ def make_text_slide(
         y += line_h
 
     _dots(d, index, total)
+    _corner_logo(d)
 
     final = img.resize((1080, 1350), Image.LANCZOS)
     out_path.parent.mkdir(parents=True, exist_ok=True)
@@ -186,7 +199,9 @@ def make_cta_slide(closing: str, url: str, out_path: Path, index: int, total: in
 
     tw = d.textlength(url, font=f_url)
     d.text(((W - tw) / 2, y), url, font=f_url, fill=GOLD)
+    y += 60 * SCALE
 
+    draw_logo_mark(d, W / 2, y + 26 * SCALE, r=26)
     _dots(d, index, total)
 
     final = img.resize((1080, 1350), Image.LANCZOS)
