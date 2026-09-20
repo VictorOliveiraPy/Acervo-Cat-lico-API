@@ -23,10 +23,11 @@ import sys
 
 import asyncpg
 
+from app.application.chat.chunking import chunk_entry
 from app.core.config import settings
-from app.rag.chunking import ChunkInput, chunk_entry
-from app.rag.embeddings import embed_documents
-from app.rag.repository import PostgresRagRepository
+from app.domain.chat.entities import ChunkInput
+from app.infrastructure.chat.postgres_repository import PostgresRagRepository
+from app.infrastructure.chat.voyage_embedding_gateway import VoyageEmbeddingGateway
 from app.repository import repository
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
@@ -38,7 +39,9 @@ BATCH_SIZE = 64
 
 
 async def _indexar_entrada(
-    repo: PostgresRagRepository, chunks: list[ChunkInput]
+    repo: PostgresRagRepository,
+    gateway: VoyageEmbeddingGateway,
+    chunks: list[ChunkInput],
 ) -> None:
     if not chunks:
         return
@@ -46,7 +49,7 @@ async def _indexar_entrada(
     embeddings: list[list[float]] = []
     for inicio in range(0, len(textos), BATCH_SIZE):
         lote = textos[inicio : inicio + BATCH_SIZE]
-        embeddings.extend(await embed_documents(lote))
+        embeddings.extend(await gateway.embed_documents(lote))
     fonte_tipo = chunks[0].fonte_tipo
     fonte_ref = chunks[0].fonte_ref
     await repo.replace_source(fonte_tipo, fonte_ref, chunks, embeddings)
@@ -71,11 +74,12 @@ async def main(categoria_filtro: str | None) -> None:
     try:
         await PostgresRagRepository.create_schema(pool)
         repo = PostgresRagRepository(pool)
+        gateway = VoyageEmbeddingGateway()
 
         total_chunks = 0
         for i, entry in enumerate(entradas, start=1):
             chunks = chunk_entry(entry)
-            await _indexar_entrada(repo, chunks)
+            await _indexar_entrada(repo, gateway, chunks)
             total_chunks += len(chunks)
             if i % 25 == 0 or i == len(entradas):
                 logger.info("  %d/%d verbetes (%d chunks até aqui)", i, len(entradas), total_chunks)

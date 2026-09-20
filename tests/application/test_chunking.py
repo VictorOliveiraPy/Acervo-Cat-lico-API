@@ -1,10 +1,10 @@
-"""Testes de `app/rag/chunking.py` — sem rede, sem banco."""
+"""Testes de `app/application/chat/chunking.py` — sem rede, sem banco."""
 
 from __future__ import annotations
 
 import pytest
 
-from app.rag.chunking import chunk_entry, split_paragraphs
+from app.application.chat.chunking import chunk_entry, split_paragraphs
 from app.repository import Repository
 
 

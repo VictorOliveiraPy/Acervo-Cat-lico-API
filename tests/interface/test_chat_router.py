@@ -1,8 +1,7 @@
-"""Testes do chatbot (`POST /api/chat`): 503 sem configuração, rate limit,
-recusa quando nada bate no acervo, e resposta com fontes quando bate.
-
-`embed_query`/`generate_answer` são sempre mockados — nenhum teste chama
-Voyage ou Claude de verdade (sem chave, sem custo, sem rede)."""
+"""Testes do chatbot (`POST /api/chat`): 503 sem configuração, validação,
+rate limit, recusa quando nada bate no acervo, e resposta com fontes
+quando bate. Nenhum teste chama Voyage ou Claude de verdade — os gateways
+reais nunca são usados, só fakes injetados em `app.state`."""
 
 from __future__ import annotations
 
@@ -11,10 +10,28 @@ from collections.abc import Iterator
 import pytest
 from fastapi.testclient import TestClient
 
-import app.chat_router as chat_router_module
+from app.domain.chat.entities import ChunkInput, ChunkResult
+from app.infrastructure.chat.in_memory_repository import InMemoryRagRepository
+from app.interface.chat.router import _rate_limiter
 from app.main import app
-from app.rag.chunking import ChunkInput
-from app.rag.repository import InMemoryRagRepository
+
+
+class _FakeEmbeddingGateway:
+    async def embed_documents(self, textos: list[str]) -> list[list[float]]:
+        return [[1.0, 0.0, 0.0] for _ in textos]
+
+    async def embed_query(self, pergunta: str) -> list[float]:
+        return [1.0, 0.0, 0.0]
+
+
+class _FakeAnswerGenerator:
+    def __init__(self, resposta: str = "resposta") -> None:
+        self._resposta = resposta
+        self.trechos_recebidos: list[ChunkResult] = []
+
+    async def generate(self, pergunta: str, trechos: list[ChunkResult]) -> str:
+        self.trechos_recebidos = trechos
+        return self._resposta
 
 
 @pytest.fixture()
@@ -25,9 +42,9 @@ def client() -> Iterator[TestClient]:
 
 @pytest.fixture(autouse=True)
 def reset_rate_limiter() -> Iterator[None]:
-    chat_router_module._rate_limiter._last_seen.clear()
+    _rate_limiter._last_seen.clear()
     yield
-    chat_router_module._rate_limiter._last_seen.clear()
+    _rate_limiter._last_seen.clear()
 
 
 def test_should_return_503_when_chatbot_not_configured(client: TestClient) -> None:
@@ -64,22 +81,11 @@ def test_should_reject_question_over_max_length(client: TestClient) -> None:
     assert response.status_code == 422
 
 
-async def _fake_embed_query(pergunta: str) -> list[float]:
-    return [1.0, 0.0, 0.0]
-
-
-def test_should_refuse_when_nothing_in_the_index_is_relevant(
-    client: TestClient, monkeypatch: pytest.MonkeyPatch
-) -> None:
-    """Índice vazio → recusa, sem fontes na resposta.
-
-    `generate_answer` real roda aqui (não mockado): com trechos vazios ela
-    mesma recusa sem tocar rede nem exigir `ANTHROPIC_API_KEY` (ver
-    `tests/test_rag_generation.py` pra essa garantia isolada) — então
-    exercitar o fluxo completo até `chat()` continua seguro em CI."""
-    # Given
+def test_should_refuse_when_nothing_in_the_index_is_relevant(client: TestClient) -> None:
+    # Given — índice vazio, nenhum trecho bate
     client.app.state.rag_repository = InMemoryRagRepository()
-    monkeypatch.setattr(chat_router_module, "embed_query", _fake_embed_query)
+    client.app.state.embedding_gateway = _FakeEmbeddingGateway()
+    client.app.state.answer_generator = _FakeAnswerGenerator()
 
     # When
     response = client.post("/api/chat", json={"pergunta": "Qual a capital da França?"})
@@ -91,11 +97,10 @@ def test_should_refuse_when_nothing_in_the_index_is_relevant(
     assert "não encontrei" in body["resposta"].lower()
 
 
-def test_should_answer_with_sources_when_a_relevant_chunk_exists(
-    client: TestClient, monkeypatch: pytest.MonkeyPatch
-) -> None:
+def test_should_answer_with_sources_when_a_relevant_chunk_exists(client: TestClient) -> None:
     # Given
     repo = InMemoryRagRepository()
+    import asyncio
 
     async def _seed() -> None:
         chunk = ChunkInput(
@@ -106,18 +111,12 @@ def test_should_answer_with_sources_when_a_relevant_chunk_exists(
         )
         await repo.replace_source("acervo", "santos/francisco-de-assis", [chunk], [[1.0, 0.0, 0.0]])
 
-    import asyncio
-
     asyncio.run(_seed())
     client.app.state.rag_repository = repo
-
-    monkeypatch.setattr(chat_router_module, "embed_query", _fake_embed_query)
-
-    async def _fake_generate(pergunta: str, trechos: list) -> str:
-        assert len(trechos) == 1
-        return "São Francisco de Assis fundou a Ordem dos Frades Menores."
-
-    monkeypatch.setattr(chat_router_module, "generate_answer", _fake_generate)
+    client.app.state.embedding_gateway = _FakeEmbeddingGateway()
+    client.app.state.answer_generator = _FakeAnswerGenerator(
+        resposta="São Francisco de Assis fundou a Ordem dos Frades Menores."
+    )
 
     # When
     response = client.post("/api/chat", json={"pergunta": "Quem fundou os franciscanos?"})
@@ -131,17 +130,11 @@ def test_should_answer_with_sources_when_a_relevant_chunk_exists(
     ]
 
 
-def test_should_rate_limit_rapid_consecutive_questions(
-    client: TestClient, monkeypatch: pytest.MonkeyPatch
-) -> None:
+def test_should_rate_limit_rapid_consecutive_questions(client: TestClient) -> None:
     # Given
     client.app.state.rag_repository = InMemoryRagRepository()
-    monkeypatch.setattr(chat_router_module, "embed_query", _fake_embed_query)
-
-    async def _fake_generate(pergunta: str, trechos: list) -> str:
-        return "resposta"
-
-    monkeypatch.setattr(chat_router_module, "generate_answer", _fake_generate)
+    client.app.state.embedding_gateway = _FakeEmbeddingGateway()
+    client.app.state.answer_generator = _FakeAnswerGenerator()
 
     # When
     first = client.post("/api/chat", json={"pergunta": "Primeira pergunta?"})

@@ -1,5 +1,11 @@
 """Quebra uma entrada do acervo em pedaços indexáveis (chunks).
 
+Mora em `application`, não em `domain/chat`, porque orquestra entre dois
+domínios: lê `AnyEntry` (o conteúdo do acervo) e produz `ChunkInput` (o
+domínio do chat) — cruzar domínios é papel da camada de aplicação, não de
+um domínio conhecer o outro diretamente. Usado só pelo script de indexação
+(`scripts/indexar_acervo.py`), não pelo fluxo de pergunta/resposta.
+
 Granularidade por parágrafo, não por verbete inteiro: um verbete grande
 (alguns têm corpo de 10+ parágrafos) misturado num vetor só perde precisão —
 a pergunta "quando nasceu Santo Agostinho" bate melhor contra um parágrafo
@@ -14,8 +20,8 @@ verbete efetivamente mostra.
 from __future__ import annotations
 
 import re
-from dataclasses import dataclass
 
+from app.domain.chat.entities import ChunkInput
 from app.models import AnyEntry
 
 _PARAGRAPH_SPLIT = re.compile(r"\n\s*\n")
@@ -27,20 +33,6 @@ def split_paragraphs(corpo: str) -> list[str]:
     blocks = _PARAGRAPH_SPLIT.split(corpo)
     cleaned = (_INNER_WHITESPACE.sub(" ", block).strip() for block in blocks)
     return [block for block in cleaned if block]
-
-
-@dataclass(frozen=True)
-class ChunkInput:
-    """Um pedaço de texto pronto pra virar embedding e ser indexado."""
-
-    fonte_tipo: str
-    """`"acervo"` nesta fase — `"livro"` quando a ingestão de PDF existir."""
-    fonte_ref: str
-    """Identifica a origem: `"{categoria}/{slug}"` pro acervo."""
-    titulo: str
-    """Título do verbete — vai na citação mostrada ao visitante."""
-    texto: str
-    """O conteúdo do pedaço em si — o que vira embedding."""
 
 
 def chunk_entry(entry: AnyEntry) -> list[ChunkInput]:
