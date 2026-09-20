@@ -5,6 +5,11 @@ no nível do pool (via `init=`) exigiria que a extensão `vector` já existisse
 no banco no instante em que a primeira conexão fosse aberta — em um banco
 novo, `create_schema` é quem cria a extensão, e isso só acontece depois que
 o pool já existe. Registrar por conexão evita essa dependência de ordem.
+
+As colunas da tabela (`fonte_tipo`, `fonte_ref`, `titulo`, `texto`) e o
+alias `similaridade` continuam em português de propósito: é o schema já
+gravado em produção — o mapeamento pros nomes em inglês da entidade
+acontece só aqui.
 """
 
 from __future__ import annotations
@@ -54,8 +59,8 @@ class PostgresRagRepository(RagRepository):
 
     async def replace_source(
         self,
-        fonte_tipo: str,
-        fonte_ref: str,
+        source_type: str,
+        source_ref: str,
         chunks: list[ChunkInput],
         embeddings: list[list[float]],
     ) -> None:
@@ -67,8 +72,8 @@ class PostgresRagRepository(RagRepository):
             async with conn.transaction():
                 await conn.execute(
                     "DELETE FROM rag_chunks WHERE fonte_tipo = $1 AND fonte_ref = $2",
-                    fonte_tipo,
-                    fonte_ref,
+                    source_type,
+                    source_ref,
                 )
                 await conn.executemany(
                     """
@@ -76,7 +81,7 @@ class PostgresRagRepository(RagRepository):
                     VALUES ($1, $2, $3, $4, $5)
                     """,
                     [
-                        (chunk.fonte_tipo, chunk.fonte_ref, chunk.titulo, chunk.texto, emb)
+                        (chunk.source_type, chunk.source_ref, chunk.title, chunk.text, emb)
                         for chunk, emb in zip(chunks, embeddings, strict=True)
                     ],
                 )
@@ -97,11 +102,11 @@ class PostgresRagRepository(RagRepository):
             )
         return [
             ChunkResult(
-                fonte_tipo=row["fonte_tipo"],
-                fonte_ref=row["fonte_ref"],
-                titulo=row["titulo"],
-                texto=row["texto"],
-                similaridade=row["similaridade"],
+                source_type=row["fonte_tipo"],
+                source_ref=row["fonte_ref"],
+                title=row["titulo"],
+                text=row["texto"],
+                similarity=row["similaridade"],
             )
             for row in rows
         ]

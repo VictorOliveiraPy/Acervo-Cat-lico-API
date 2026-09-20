@@ -18,20 +18,20 @@ class InMemoryRagRepository(RagRepository):
 
     async def replace_source(
         self,
-        fonte_tipo: str,
-        fonte_ref: str,
+        source_type: str,
+        source_ref: str,
         chunks: list[ChunkInput],
         embeddings: list[list[float]],
     ) -> None:
         self._rows = [
             (row_chunk, row_emb)
             for row_chunk, row_emb in self._rows
-            if not (row_chunk.fonte_tipo == fonte_tipo and row_chunk.fonte_ref == fonte_ref)
+            if not (row_chunk.source_type == source_type and row_chunk.source_ref == source_ref)
         ]
         self._rows.extend(zip(chunks, embeddings, strict=True))
 
     async def search(self, embedding: list[float], limit: int) -> list[ChunkResult]:
-        def cosseno(a: list[float], b: list[float]) -> float:
+        def cosine(a: list[float], b: list[float]) -> float:
             dot = sum(x * y for x, y in zip(a, b, strict=True))
             norm_a = sum(x * x for x in a) ** 0.5
             norm_b = sum(y * y for y in b) ** 0.5
@@ -42,15 +42,15 @@ class InMemoryRagRepository(RagRepository):
         scored = sorted(
             (
                 ChunkResult(
-                    fonte_tipo=chunk.fonte_tipo,
-                    fonte_ref=chunk.fonte_ref,
-                    titulo=chunk.titulo,
-                    texto=chunk.texto,
-                    similaridade=cosseno(embedding, emb),
+                    source_type=chunk.source_type,
+                    source_ref=chunk.source_ref,
+                    title=chunk.title,
+                    text=chunk.text,
+                    similarity=cosine(embedding, emb),
                 )
                 for chunk, emb in self._rows
             ),
-            key=lambda r: r.similaridade,
+            key=lambda r: r.similarity,
             reverse=True,
         )
         return scored[:limit]

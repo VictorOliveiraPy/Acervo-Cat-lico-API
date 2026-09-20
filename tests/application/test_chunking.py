@@ -63,10 +63,10 @@ def test_should_chunk_a_real_entry_into_resumo_plus_one_chunk_per_paragraph(
     # Then
     esperado = 1 + len(split_paragraphs(entry.corpo))
     assert len(chunks) == esperado
-    assert chunks[0].texto == entry.resumo
-    assert all(chunk.fonte_tipo == "acervo" for chunk in chunks)
-    assert all(chunk.fonte_ref == "santos/francisco-de-assis" for chunk in chunks)
-    assert all(chunk.titulo == entry.titulo for chunk in chunks)
+    assert chunks[0].text == entry.resumo
+    assert all(chunk.source_type == "acervo" for chunk in chunks)
+    assert all(chunk.source_ref == "santos/francisco-de-assis" for chunk in chunks)
+    assert all(chunk.title == entry.titulo for chunk in chunks)
 
 
 def test_should_never_produce_empty_chunk_text(repository: Repository) -> None:
@@ -74,6 +74,6 @@ def test_should_never_produce_empty_chunk_text(repository: Repository) -> None:
     um chunk vazio vira embedding sem sentido e polui a busca."""
     for entry in repository.all_entries():
         for chunk in chunk_entry(entry):
-            assert chunk.texto.strip() != "", (
-                f"chunk vazio em {chunk.fonte_ref}"
+            assert chunk.text.strip() != "", (
+                f"chunk vazio em {chunk.source_ref}"
             )

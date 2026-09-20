@@ -17,21 +17,21 @@ from app.main import app
 
 
 class _FakeEmbeddingGateway:
-    async def embed_documents(self, textos: list[str]) -> list[list[float]]:
-        return [[1.0, 0.0, 0.0] for _ in textos]
+    async def embed_documents(self, texts: list[str]) -> list[list[float]]:
+        return [[1.0, 0.0, 0.0] for _ in texts]
 
-    async def embed_query(self, pergunta: str) -> list[float]:
+    async def embed_query(self, question: str) -> list[float]:
         return [1.0, 0.0, 0.0]
 
 
 class _FakeAnswerGenerator:
-    def __init__(self, resposta: str = "resposta") -> None:
-        self._resposta = resposta
-        self.trechos_recebidos: list[ChunkResult] = []
+    def __init__(self, answer: str = "resposta") -> None:
+        self._answer = answer
+        self.chunks_received: list[ChunkResult] = []
 
-    async def generate(self, pergunta: str, trechos: list[ChunkResult]) -> str:
-        self.trechos_recebidos = trechos
-        return self._resposta
+    async def generate(self, question: str, chunks: list[ChunkResult]) -> str:
+        self.chunks_received = chunks
+        return self._answer
 
 
 @pytest.fixture()
@@ -104,10 +104,10 @@ def test_should_answer_with_sources_when_a_relevant_chunk_exists(client: TestCli
 
     async def _seed() -> None:
         chunk = ChunkInput(
-            fonte_tipo="acervo",
-            fonte_ref="santos/francisco-de-assis",
-            titulo="São Francisco de Assis",
-            texto="Fundador da Ordem dos Frades Menores.",
+            source_type="acervo",
+            source_ref="santos/francisco-de-assis",
+            title="São Francisco de Assis",
+            text="Fundador da Ordem dos Frades Menores.",
         )
         await repo.replace_source("acervo", "santos/francisco-de-assis", [chunk], [[1.0, 0.0, 0.0]])
 
@@ -115,7 +115,7 @@ def test_should_answer_with_sources_when_a_relevant_chunk_exists(client: TestCli
     client.app.state.rag_repository = repo
     client.app.state.embedding_gateway = _FakeEmbeddingGateway()
     client.app.state.answer_generator = _FakeAnswerGenerator(
-        resposta="São Francisco de Assis fundou a Ordem dos Frades Menores."
+        answer="São Francisco de Assis fundou a Ordem dos Frades Menores."
     )
 
     # When

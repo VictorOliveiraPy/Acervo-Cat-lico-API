@@ -45,13 +45,13 @@ async def _indexar_entrada(
 ) -> None:
     if not chunks:
         return
-    textos = [chunk.texto for chunk in chunks]
+    textos = [chunk.text for chunk in chunks]
     embeddings: list[list[float]] = []
     for inicio in range(0, len(textos), BATCH_SIZE):
         lote = textos[inicio : inicio + BATCH_SIZE]
         embeddings.extend(await gateway.embed_documents(lote))
-    fonte_tipo = chunks[0].fonte_tipo
-    fonte_ref = chunks[0].fonte_ref
+    fonte_tipo = chunks[0].source_type
+    fonte_ref = chunks[0].source_ref
     await repo.replace_source(fonte_tipo, fonte_ref, chunks, embeddings)
 
 

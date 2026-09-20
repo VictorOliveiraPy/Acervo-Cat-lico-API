@@ -28,9 +28,9 @@ _PARAGRAPH_SPLIT = re.compile(r"\n\s*\n")
 _INNER_WHITESPACE = re.compile(r"\s*\n\s*")
 
 
-def split_paragraphs(corpo: str) -> list[str]:
+def split_paragraphs(body: str) -> list[str]:
     """Espelha `paragraphs()` do frontend: mesmos parágrafos, mesma ordem."""
-    blocks = _PARAGRAPH_SPLIT.split(corpo)
+    blocks = _PARAGRAPH_SPLIT.split(body)
     cleaned = (_INNER_WHITESPACE.sub(" ", block).strip() for block in blocks)
     return [block for block in cleaned if block]
 
@@ -43,22 +43,22 @@ def chunk_entry(entry: AnyEntry) -> list[ChunkInput]:
     frase-resumo, feita pra isso, do que contra o primeiro parágrafo da
     explicação longa.
     """
-    fonte_ref = f"{entry.categoria.value}/{entry.slug}"
+    source_ref = f"{entry.categoria.value}/{entry.slug}"
     chunks = [
         ChunkInput(
-            fonte_tipo="acervo",
-            fonte_ref=fonte_ref,
-            titulo=entry.titulo,
-            texto=entry.resumo,
+            source_type="acervo",
+            source_ref=source_ref,
+            title=entry.titulo,
+            text=entry.resumo,
         )
     ]
     chunks.extend(
         ChunkInput(
-            fonte_tipo="acervo",
-            fonte_ref=fonte_ref,
-            titulo=entry.titulo,
-            texto=paragrafo,
+            source_type="acervo",
+            source_ref=source_ref,
+            title=entry.titulo,
+            text=paragraph,
         )
-        for paragrafo in split_paragraphs(entry.corpo)
+        for paragraph in split_paragraphs(entry.corpo)
     )
     return chunks

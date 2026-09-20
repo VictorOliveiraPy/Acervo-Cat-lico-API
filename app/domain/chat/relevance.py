@@ -19,6 +19,6 @@ NO_MATCH_MESSAGE = (
 )
 
 
-def select_relevant(trechos: list[ChunkResult]) -> list[ChunkResult]:
+def select_relevant(chunks: list[ChunkResult]) -> list[ChunkResult]:
     """Filtra os trechos recuperados pelos que são parecidos o bastante pra usar."""
-    return [t for t in trechos if t.similaridade >= SIMILARITY_THRESHOLD]
+    return [chunk for chunk in chunks if chunk.similarity >= SIMILARITY_THRESHOLD]

@@ -13,8 +13,8 @@ class RagRepository(ABC):
     @abstractmethod
     async def replace_source(
         self,
-        fonte_tipo: str,
-        fonte_ref: str,
+        source_type: str,
+        source_ref: str,
         chunks: list[ChunkInput],
         embeddings: list[list[float]],
     ) -> None:

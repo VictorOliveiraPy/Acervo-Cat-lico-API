@@ -14,9 +14,9 @@ class EmbeddingGateway(ABC):
     """Interface que use cases dependem — implementação é um detalhe."""
 
     @abstractmethod
-    async def embed_documents(self, textos: list[str]) -> list[list[float]]:
+    async def embed_documents(self, texts: list[str]) -> list[list[float]]:
         """Embeddings para indexação, em lote — usado pelo script de indexação."""
 
     @abstractmethod
-    async def embed_query(self, pergunta: str) -> list[float]:
+    async def embed_query(self, question: str) -> list[float]:
         """Embedding de uma pergunta de visitante — usado a cada mensagem do chat."""

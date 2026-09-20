@@ -1,7 +1,7 @@
 """Rota HTTP do chatbot do acervo (`POST /api/chat`).
 
 Registrado em `main.py` antes do router coringa do acervo, pelo mesmo
-motivo de `interface.velas.router`/`interface.liturgia.router`: `/api/chat`
+motivo de `interface.candles.router`/`interface.liturgy.router`: `/api/chat`
 teria que competir com `/api/{categoria}` se viesse depois.
 """
 
@@ -9,7 +9,7 @@ from __future__ import annotations
 
 from fastapi import APIRouter, Depends, Request
 
-from app.application.chat.responder_pergunta_use_case import ResponderPerguntaUseCase
+from app.application.chat.answer_question_use_case import AnswerQuestionUseCase
 from app.core.exceptions import ServiceUnavailableException
 from app.core.rate_limiting import RateLimiter, client_ip
 from app.domain.chat.answer_generator import AnswerGenerator
@@ -29,8 +29,8 @@ _rate_limiter = RateLimiter(window_seconds=6.0)
 
 # Sem estado próprio (não fala rede na criação) — uma instância por
 # requisição não tem custo real.
-_embedding_gateway_padrao = VoyageEmbeddingGateway()
-_answer_generator_padrao = AnthropicAnswerGenerator()
+_default_embedding_gateway = VoyageEmbeddingGateway()
+_default_answer_generator = AnthropicAnswerGenerator()
 
 
 def get_rag_repository(request: Request) -> RagRepository:
@@ -47,13 +47,13 @@ def get_rag_repository(request: Request) -> RagRepository:
 def get_embedding_gateway(request: Request) -> EmbeddingGateway:
     """Gateway real por padrão; testes sobrescrevem via
     `app.state.embedding_gateway` com um fake."""
-    return getattr(request.app.state, "embedding_gateway", None) or _embedding_gateway_padrao
+    return getattr(request.app.state, "embedding_gateway", None) or _default_embedding_gateway
 
 
 def get_answer_generator(request: Request) -> AnswerGenerator:
     """Gateway real por padrão; testes sobrescrevem via
     `app.state.answer_generator` com um fake."""
-    return getattr(request.app.state, "answer_generator", None) or _answer_generator_padrao
+    return getattr(request.app.state, "answer_generator", None) or _default_answer_generator
 
 
 @router.post("", response_model=ChatResponse, summary="Pergunta ao chatbot do acervo")
@@ -67,6 +67,6 @@ async def chat(
     """Responde só com base em trechos recuperados do acervo — nunca do
     conhecimento próprio do modelo."""
     _rate_limiter.check(client_ip(request))
-    use_case = ResponderPerguntaUseCase(repo, embedding_gateway, answer_generator)
-    resposta = await use_case.execute(payload.pergunta)
-    return ChatResponse.from_entity(resposta)
+    use_case = AnswerQuestionUseCase(repo, embedding_gateway, answer_generator)
+    answer = await use_case.execute(payload.pergunta)
+    return ChatResponse.from_entity(answer)

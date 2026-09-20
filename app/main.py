@@ -29,17 +29,17 @@ from fastapi.staticfiles import StaticFiles
 from app.core.config import settings
 from app.infrastructure.acervo.json_repository import repository
 from app.infrastructure.acervo.translations import load_translations
+from app.infrastructure.candles.postgres_repository import PostgresCandleRepository
 from app.infrastructure.chat.postgres_repository import PostgresRagRepository
-from app.infrastructure.liturgia.postgres_repository import (
-    PostgresLiturgiaDiariaRepository,
+from app.infrastructure.liturgy.postgres_repository import (
+    PostgresDailyLiturgyRepository,
 )
-from app.infrastructure.velas.postgres_repository import PostgresVelasRepository
 from app.interface.acervo.i18n_router import router as i18n_router
 from app.interface.acervo.router import router
+from app.interface.candles.router import router as candles_router
 from app.interface.chat.router import router as chat_router
 from app.interface.exception_handlers import register_exception_handlers
-from app.interface.liturgia.router import router as liturgia_router
-from app.interface.velas.router import router as velas_router
+from app.interface.liturgy.router import router as liturgy_router
 
 logging.basicConfig(
     level=logging.DEBUG if settings.debug else logging.INFO,
@@ -58,25 +58,25 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
     if settings.database_url:
         try:
             pool = await asyncpg.create_pool(settings.database_url, min_size=1, max_size=5)
-            await PostgresVelasRepository.create_schema(pool)
-            app.state.velas_repository = PostgresVelasRepository(pool)
+            await PostgresCandleRepository.create_schema(pool)
+            app.state.candle_repository = PostgresCandleRepository(pool)
             logger.info("Mural de velas conectado")
         except Exception:
             logger.exception("Falha ao conectar o banco do mural de velas")
-            app.state.velas_repository = None
+            app.state.candle_repository = None
 
         try:
             # Mesmo pool do mural de velas — é só cache de leitura, não
             # precisa de conexão dedicada.
             if pool is not None:
-                await PostgresLiturgiaDiariaRepository.create_schema(pool)
-                app.state.liturgia_repository = PostgresLiturgiaDiariaRepository(pool)
+                await PostgresDailyLiturgyRepository.create_schema(pool)
+                app.state.liturgy_repository = PostgresDailyLiturgyRepository(pool)
                 logger.info("Liturgia diária conectada")
             else:
-                app.state.liturgia_repository = None
+                app.state.liturgy_repository = None
         except Exception:
             logger.exception("Falha ao preparar o cache da liturgia diária")
-            app.state.liturgia_repository = None
+            app.state.liturgy_repository = None
 
         # Chatbot (RAG): além do banco, precisa das duas chaves de API — sem
         # qualquer uma das três, fica desativado (503), não derruba a API.
@@ -91,8 +91,8 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
         else:
             app.state.rag_repository = None
     else:
-        app.state.velas_repository = None
-        app.state.liturgia_repository = None
+        app.state.candle_repository = None
+        app.state.liturgy_repository = None
         app.state.rag_repository = None
         logger.info("DATABASE_URL não configurada — mural de velas, liturgia diária e chatbot desativados")
 
@@ -152,12 +152,12 @@ register_exception_handlers(app)
 # Útil em desenvolvimento/homologação. Em produção, IMAGE_CDN_BASE_URL aponta
 # para o bucket/CDN que recebe o mesmo conteúdo antes do deploy.
 app.mount("/img-acervo", StaticFiles(directory="app/static/img-acervo", check_dir=False), name="imagens")
-# `velas_router`/`liturgia_router` primeiro: `/api/velas` e
+# `candles_router`/`liturgy_router` primeiro: `/api/velas` e
 # `/api/liturgia-diaria` e `/api/chat` precisam ser resolvidos antes da rota
 # coringa `/api/{categoria}` do acervo, senão virariam slug de categoria
 # inexistente.
-app.include_router(velas_router)
-app.include_router(liturgia_router)
+app.include_router(candles_router)
+app.include_router(liturgy_router)
 app.include_router(chat_router)
 app.include_router(router)
 app.include_router(i18n_router)
