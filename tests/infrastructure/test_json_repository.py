@@ -8,8 +8,12 @@ from pathlib import Path
 import pytest
 
 from app.core.exceptions import CategoryNotFoundException, EntryNotFoundException
+from app.infrastructure.acervo.json_repository import (
+    Repository,
+    build_excerpt,
+    normalize,
+)
 from app.models import Category
-from app.repository import Repository, build_excerpt, normalize
 
 
 @pytest.fixture(scope="module")

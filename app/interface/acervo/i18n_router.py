@@ -1,5 +1,5 @@
-"""Rotas HTTP das traduções do acervo — mesmo contrato de `app/routers.py`,
-sob o prefixo `/api/i18n/{lang}/...`.
+"""Rotas HTTP das traduções do acervo — mesmo contrato de
+`app.interface.acervo.router`, sob o prefixo `/api/i18n/{lang}/...`.
 
 Prefixo `i18n` (não só `/api/{lang}/...`) de propósito: sem ele, o formato
 de URL `/api/{lang}/{categoria}` (lista) seria idêntico a
@@ -9,7 +9,7 @@ colidem, não importa a ordem em que os routers são registrados no app.
 
 Rotas aditivas: não mudam nem substituem as rotas em português (sem
 prefixo), que continuam sendo a fonte canônica servida por
-`app.repository.repository`.
+`app.infrastructure.acervo.json_repository.repository`.
 """
 
 from __future__ import annotations
@@ -18,9 +18,9 @@ from fastapi import APIRouter, Path, Query
 
 from app.core.config import settings
 from app.core.exceptions import LanguageNotFoundException
-from app.i18n import translation_repositories
+from app.infrastructure.acervo.json_repository import Repository
+from app.infrastructure.acervo.translations import translation_repositories
 from app.models import AnyEntry, CategoryInfo, EntryPage, SearchResult
-from app.repository import Repository
 
 router = APIRouter(prefix="/api/i18n/{lang}", tags=["acervo (traduções)"])
 

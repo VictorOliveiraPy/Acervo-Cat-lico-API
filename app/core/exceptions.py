@@ -51,7 +51,8 @@ class CategoryNotFoundException(NotFoundException):
 
 
 class LanguageNotFoundException(NotFoundException):
-    """Idioma de tradução fora do conjunto suportado (`app.i18n`)."""
+    """Idioma de tradução fora do conjunto suportado
+    (`app.infrastructure.acervo.translations`)."""
 
     def __init__(self, lang: str) -> None:
         super().__init__(

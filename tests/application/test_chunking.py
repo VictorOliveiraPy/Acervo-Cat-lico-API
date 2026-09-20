@@ -5,7 +5,7 @@ from __future__ import annotations
 import pytest
 
 from app.application.chat.chunking import chunk_entry, split_paragraphs
-from app.repository import Repository
+from app.infrastructure.acervo.json_repository import Repository
 
 
 def test_should_split_on_blank_lines_and_collapse_internal_breaks() -> None:

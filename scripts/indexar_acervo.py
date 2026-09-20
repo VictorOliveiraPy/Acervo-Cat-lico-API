@@ -26,9 +26,9 @@ import asyncpg
 from app.application.chat.chunking import chunk_entry
 from app.core.config import settings
 from app.domain.chat.entities import ChunkInput
+from app.infrastructure.acervo.json_repository import repository
 from app.infrastructure.chat.postgres_repository import PostgresRagRepository
 from app.infrastructure.chat.voyage_embedding_gateway import VoyageEmbeddingGateway
-from app.repository import repository
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 logger = logging.getLogger("indexar_acervo")

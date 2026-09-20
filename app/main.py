@@ -26,19 +26,19 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 
 from app.core.config import settings
-from app.i18n import load_translations
+from app.infrastructure.acervo.json_repository import repository
+from app.infrastructure.acervo.translations import load_translations
 from app.infrastructure.chat.postgres_repository import PostgresRagRepository
 from app.infrastructure.liturgia.postgres_repository import (
     PostgresLiturgiaDiariaRepository,
 )
 from app.infrastructure.velas.postgres_repository import PostgresVelasRepository
+from app.interface.acervo.i18n_router import router as i18n_router
+from app.interface.acervo.router import router
 from app.interface.chat.router import router as chat_router
 from app.interface.exception_handlers import register_exception_handlers
 from app.interface.liturgia.router import router as liturgia_router
 from app.interface.velas.router import router as velas_router
-from app.repository import repository
-from app.routers import router
-from app.routers_i18n import router as i18n_router
 
 logging.basicConfig(
     level=logging.DEBUG if settings.debug else logging.INFO,

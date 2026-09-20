@@ -9,8 +9,8 @@ from __future__ import annotations
 from fastapi import APIRouter, Depends, Path, Query
 
 from app.core.config import settings
+from app.infrastructure.acervo.json_repository import Repository, get_repository
 from app.models import AnyEntry, CategoryInfo, EntryPage, HealthStatus, SearchResult
-from app.repository import Repository, get_repository
 
 router = APIRouter(prefix="/api", tags=["acervo"])
 

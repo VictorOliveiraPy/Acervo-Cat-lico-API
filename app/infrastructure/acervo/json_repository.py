@@ -8,6 +8,16 @@ no startup e servir tudo de estruturas prontas. Consequências assumidas:
   produção — falhar cedo é mais barato que falhar em runtime;
 * a busca usa um índice pré-normalizado (sem acento, sem caixa) construído na
   carga, para não pagar `unicodedata` a cada requisição.
+
+Sem `domain/acervo/repository.py` (uma interface abstrata) de propósito,
+diferente de velas/liturgia/chat: aqui existe uma única implementação real
+(sempre foi, e não há Postgres nem fake alternativo à vista), então uma
+interface só documentaria um contrato que nunca tem uma segunda classe do
+outro lado — ver `standards/backend.md` no repositório `dev-agent`, seção
+"DRY over ceremony". `app/models.py` (entidades) também fica fora do padrão
+`domain/`/`interface` por decisão explícita: aqui não há transformação
+entre o dado de domínio e o schema de resposta HTTP (é uma API só de
+leitura, sem lógica própria) — duplicar a classe seria ritual, não proteção.
 """
 
 from __future__ import annotations
@@ -38,7 +48,11 @@ from app.models import (
 
 logger = logging.getLogger(__name__)
 
-DEFAULT_DATA_DIR = Path(__file__).parent / "data"
+# `app/infrastructure/acervo/json_repository.py` -> sobe três níveis pra
+# chegar em `app/`, onde `data/` mora — movido de `app/repository.py`
+# (Clean Architecture, 2026-09-19), dois níveis de diretório a mais do que
+# antes (mesma pegadinha já corrigida em `app/core/config.py` na Fase 1).
+DEFAULT_DATA_DIR = Path(__file__).resolve().parents[2] / "data"
 
 # Prioridade de relevância dos campos varridos pela busca (menor = melhor).
 _FIELD_TITULO = 0
