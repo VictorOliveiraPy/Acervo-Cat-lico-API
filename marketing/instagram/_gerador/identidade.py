@@ -13,6 +13,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
 FONTS_DIR = Path(__file__).resolve().parent / "fonts"
+ARTE_DIR = Path(__file__).resolve().parent / "arte"
 
 SCALE = 2
 W, H = 1080 * SCALE, 1350 * SCALE
@@ -56,6 +57,42 @@ def _radial_bg() -> Image.Image:
 def _draw_frame(d: ImageDraw.ImageDraw) -> None:
     margin = 58 * SCALE
     d.rectangle([margin, margin, W - margin, H - margin], outline=GOLD_SOFT, width=2 * SCALE)
+
+
+def _photo_top_bg(art_key: str, crop_box: tuple[float, float, float, float] | None = None) -> Image.Image:
+    """Fundo com uma foto/pintura real preenchendo o topo do post, esmaecendo
+    pro bordô da marca a partir de onde o texto começa (~42% da altura) —
+    pra todo post ter uma imagem de verdade, não só o ícone abstrato."""
+    photo = Image.open(ARTE_DIR / f"{art_key}.jpg").convert("RGB")
+    if crop_box:
+        w, h = photo.size
+        l, t, r, b = crop_box
+        photo = photo.crop((int(w * l), int(h * t), int(w * r), int(h * b)))
+
+    target_ratio = W / H
+    w, h = photo.size
+    cur_ratio = w / h
+    if cur_ratio > target_ratio:
+        new_w = int(h * target_ratio)
+        x0 = (w - new_w) // 2
+        photo = photo.crop((x0, 0, x0 + new_w, h))
+    else:
+        new_h = int(w / target_ratio)
+        y0 = int((h - new_h) * 0.25)
+        photo = photo.crop((0, y0, w, y0 + new_h))
+    photo = photo.resize((W, H), Image.LANCZOS)
+
+    fade_start = int(H * 0.24)
+    fade_end = int(H * 0.43)
+    mask = Image.new("L", (W, H), 255)
+    md = ImageDraw.Draw(mask)
+    md.rectangle([0, fade_end, W, H], fill=0)
+    for y in range(fade_start, fade_end):
+        alpha = int(255 * (1 - (y - fade_start) / (fade_end - fade_start)))
+        md.line([(0, y), (W, y)], fill=alpha)
+
+    base = _radial_bg()
+    return Image.composite(photo, base, mask)
 
 
 def draw_logo_mark(d: ImageDraw.ImageDraw, cx: float, cy: float, r: float = 46) -> None:
@@ -162,6 +199,19 @@ def _icon_globe(d: ImageDraw.ImageDraw, cx: int, top: int) -> None:
     _rays(d, cx, cy, r + 14 * SCALE, r + 38 * SCALE, 8, 3 * SCALE, GOLD_SOFT)
 
 
+def _icon_bell(d: ImageDraw.ImageDraw, cx: int, top: int) -> None:
+    y0 = top + 70 * SCALE
+    d.pieslice([cx - 46 * SCALE, y0, cx + 46 * SCALE, y0 + 92 * SCALE], 180, 360, fill=GOLD)
+    d.rectangle([cx - 46 * SCALE, y0 + 46 * SCALE, cx + 46 * SCALE, y0 + 92 * SCALE], fill=GOLD)
+    d.polygon(
+        [(cx - 54 * SCALE, y0 + 92 * SCALE), (cx + 54 * SCALE, y0 + 92 * SCALE), (cx + 40 * SCALE, y0 + 108 * SCALE), (cx - 40 * SCALE, y0 + 108 * SCALE)],
+        fill=GOLD,
+    )
+    d.ellipse([cx - 9 * SCALE, y0 + 108 * SCALE, cx + 9 * SCALE, y0 + 124 * SCALE], fill=GOLD)
+    d.ellipse([cx - 6 * SCALE, y0 - 16 * SCALE, cx + 6 * SCALE, y0 - 4 * SCALE], fill=GOLD)
+    _rays(d, cx, y0 - 20 * SCALE, 14 * SCALE, 40 * SCALE, 5, 3 * SCALE, GOLD_SOFT)
+
+
 ICONS = {
     "missa": _icon_chalice,
     "santos": _icon_halo,
@@ -169,6 +219,7 @@ ICONS = {
     "historia": _icon_book,
     "chosen": _icon_lamp,
     "mundo": _icon_globe,
+    "noticias": _icon_bell,
     "velas": _icon_candle,
 }
 
@@ -198,13 +249,19 @@ def make_post(
     body: str,
     url: str,
     out_path: Path,
+    background_art: str | None = None,
+    background_crop: tuple[float, float, float, float] | None = None,
 ) -> None:
-    img = _radial_bg()
+    if background_art:
+        img = _photo_top_bg(background_art, background_crop)
+    else:
+        img = _radial_bg()
     d = ImageDraw.Draw(img)
     _draw_frame(d)
 
-    icon_fn = ICONS.get(category_key, _icon_candle)
-    icon_fn(d, W // 2, int(H * 0.075))
+    if not background_art:
+        icon_fn = ICONS.get(category_key, _icon_candle)
+        icon_fn(d, W // 2, int(H * 0.075))
 
     f_eyebrow = font("EBGaramond.ttf", 22, 600)
     f_title = font("PlayfairDisplay.ttf", 58, 800)

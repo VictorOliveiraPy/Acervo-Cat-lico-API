@@ -1,8 +1,8 @@
 # Conteúdo do Instagram — Compêndio Católico
 
-Calendário de conteúdo pronto pra postar: 38 posts de curiosidade (imagem +
-legenda), 8 memes, 2 carrosséis de "história", 10 roteiros de Reels e 6
-formatos de Stories, organizados por categoria/formato.
+Calendário de conteúdo pronto pra postar: 44 posts de curiosidade/notícia
+(imagem + legenda), 9 memes, 2 carrosséis de "história", 10 roteiros de
+Reels e 6 formatos de Stories, organizados por categoria/formato.
 
 ## Identidade visual
 
@@ -15,10 +15,15 @@ Display** (serifada, bold) e corpo em **EB Garamond** — e, em toda imagem,
 categoria de post também tem um ícone dourado próprio (cálice, auréola,
 cruz, livro, lamparina, globo).
 
-Nenhum formato fica só em texto — todos têm imagem pronta:
+Nenhum formato fica só em texto — todos têm imagem pronta, e todo post usa
+uma foto/pintura real de fundo (não só o ícone abstrato da categoria):
 
-- **Posts** (`posts/<categoria>/NN-titulo.png`): card completo com ícone,
-  título e texto.
+- **Posts** (`posts/<categoria>/NN-titulo.png`): foto/pintura real no topo,
+  esmaecendo pro bordô da marca, com título e texto por cima. A categoria
+  **Notícias do Vaticano** (`posts/noticias/`) resume, com nossas próprias
+  palavras, manchetes reais do Vatican News — sempre com crédito à fonte na
+  legenda; são posts com data de validade, revise periodicamente contra
+  vaticannews.va/pt/vaticano.html em vez de deixar acumular datado.
 - **Memes** (`memes/`): texto bold sobre arte sacra clássica de domínio
   público, em vez de fotos de terceiros com direitos reservados.
 - **Histórias** (`historias/`): carrossel (capa com a pintura + slides de
@@ -78,12 +83,16 @@ falam de produções e pessoas que não são do Compêndio Católico:
 - **Nunca** baixe/reposte frames da série, fotos de imprensa de atletas/artistas
   ou logos de clubes como se fossem seus — é risco real de denúncia e
   derrubada de conteúdo, não só uma formalidade.
-- As imagens já geradas (`posts/chosen/*.png`, `posts/mundo/*.png`) são cards
-  de texto autorais — não usam nenhuma foto de terceiros — exatamente por
-  esse motivo, e podem ser postadas como estão.
-- Se quiser usar uma foto real da pessoa/produção em vez do card, prefira:
-  repost oficial marcando a fonte, imagem de kit de imprensa liberado, ou uma
-  foto de banco licenciado para uso editorial.
+- Por isso essas duas categorias usam, de propósito, fotos **temáticas e
+  seguras** em vez da pessoa/produção em si: manuscrito antigo pro post sobre
+  hebraico/aramaico de The Chosen, bola de futebol genérica pro post do
+  Messi, foto histórica de 1917 (domínio público) pros pastorinhos de
+  Fátima no post do Cristiano Ronaldo, retrato histórico do Irmão Walfrid
+  pro Celtic FC — ver `_gerador/arte/SOURCES.md` pra credito de cada uma.
+- **Exceção registrada**: `posts/historia/20-...` (renúncia de Bento XVI) usa
+  uma foto de imprensa de uma pessoa real e recente — incluída por decisão
+  explícita do Victor, que assumiu a responsabilidade por essa checagem de
+  direitos especificamente. Ver aviso em `_gerador/arte/SOURCES.md`.
 - Fé de pessoas vivas é informação sensível: só entraram no calendário nomes
   com fé católica amplamente documentada e pública (declarações próprias,
   reportagens consistentes) — evite adicionar novos nomes sem essa mesma

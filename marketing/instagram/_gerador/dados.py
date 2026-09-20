@@ -6,6 +6,7 @@ CATS = {
     "historia": {"label": "História da Igreja", "kicker": "uma curiosidade da história da Igreja"},
     "chosen": {"label": "The Chosen", "kicker": "uma curiosidade sobre a série"},
     "mundo": {"label": "Mundo Católico", "kicker": "uma curiosidade do mundo católico"},
+    "noticias": {"label": "Notícias do Vaticano", "kicker": "direto do noticiário do Vaticano"},
 }
 
 POSTS = [
@@ -204,4 +205,39 @@ POSTS = [
          caption="Existe uma universidade nos EUA onde “Jesus” literalmente assiste aos jogos de futebol americano. ⛪\U0001F3C8\n\nA Universidade de Notre Dame, católica, fundada em 1842 por padres da Congregação da Santa Cruz, tem um mural enorme de Jesus de braços abertos virado pro estádio — apelidado carinhosamente de “Touchdown Jesus”.\n\nFé e tradição esportiva, lado a lado.",
          tags="#notredame #touchdownjesus #universidadecatolica #catolico #fecatolica #curiosidades",
          photo="Mural “Touchdown Jesus” na biblioteca Hesburgh da Universidade de Notre Dame, visto do estádio — busque “Touchdown Jesus Notre Dame” no Wikimedia Commons."),
+
+    # Notícias: ao contrário das curiosidades acima (evergreen), estas têm
+    # data de validade — escritas com base nas manchetes do Vatican News em
+    # 19-20/09/2026. Revise/substitua por manchetes atuais periodicamente
+    # (vaticannews.va/pt/vaticano.html) em vez de deixar acumular datado.
+    dict(n=39, cat="noticias", hook="O padre que batia à porta de todos os últimos",
+         fact="A Diocese de Roma celebra a beatificação do Padre Luigi Di Liegro, fundador da Caritas diocesana de Roma, lembrado por décadas de trabalho direto com moradores de rua, doentes e imigrantes na cidade.",
+         caption="Uma beatificação que celebra décadas de trabalho invisível. \U0001F54A️\n\nO Padre Luigi Di Liegro, fundador da Caritas de Roma, passou a vida batendo à porta de quem a cidade preferia não ver — moradores de rua, doentes, imigrantes.\n\nFonte: Vatican News, 19/09/2026.",
+         tags="#vaticannews #igrejacatolica #caritas #catolico #fecatolica #compendiocatolico #noticias",
+         photo="Prefira este card ou o link direto da matéria no Vatican News — evite reproduzir fotos do Vatican Media sem autorização."),
+    dict(n=40, cat="noticias", hook="A cúpula da Basílica de São Pedro tem restauração concluída",
+         fact="Terminaram os trabalhos de restauração da cúpula da Capela Clementina, dentro da Basílica de São Pedro, devolvendo os afrescos ao estado mais próximo possível do projeto original.",
+         caption="Mais uma peça da Basílica de São Pedro recupera sua cor original. \U0001F3DB️\n\nTerminou a restauração da cúpula da Capela Clementina — trabalho minucioso pra devolver os afrescos ao que eram antes do tempo cobrar seu preço.\n\nFonte: Vatican News, 19/09/2026.",
+         tags="#vaticannews #basilicadesaopedro #artesacra #catolico #fecatolica #compendiocatolico #noticias",
+         photo="Prefira este card ou o link direto da matéria no Vatican News — evite reproduzir fotos do Vatican Media sem autorização."),
+    dict(n=41, cat="noticias", hook="A Santa Sé volta a cobrar o fim das munições de fragmentação",
+         fact="Em pronunciamento na ONU, um representante da Santa Sé reafirmou que ainda existem muitas vítimas civis de munições de fragmentação ao redor do mundo, pedindo adesão mais ampla aos tratados que proíbem essas armas.",
+         caption="A Santa Sé usou a tribuna da ONU pra lembrar de um problema que muita gente esqueceu. \U0001F54A️\n\nAinda há muitas vítimas civis de munições de fragmentação pelo mundo — e o Vaticano voltou a pedir mais países aderindo ao tratado que as proíbe.\n\nFonte: Vatican News, 16/09/2026.",
+         tags="#vaticannews #santase #paz #catolico #fecatolica #compendiocatolico #noticias",
+         photo="Prefira este card ou o link direto da matéria no Vatican News — evite reproduzir fotos do Vatican Media sem autorização."),
+    dict(n=42, cat="noticias", hook="60 anos do documento que mudou o diálogo entre religiões",
+         fact="A declaração conciliar Nostra Aetate completa 60 anos — o documento do Concílio Vaticano II que abriu caminho para o diálogo da Igreja Católica com o judaísmo e outras tradições religiosas.",
+         caption="Um documento de 60 anos que ainda molda como a Igreja se relaciona com outras religiões. \U0001F54A️\n\nA Nostra Aetate, do Concílio Vaticano II, foi o marco que abriu o diálogo oficial da Igreja Católica com o judaísmo e outras tradições religiosas — e segue sendo citada até hoje.\n\nFonte: Vatican News, 16/09/2026.",
+         tags="#vaticannews #nostraaetate #concilio #catolico #fecatolica #compendiocatolico #noticias",
+         photo="Prefira este card ou o link direto da matéria no Vatican News — evite reproduzir fotos do Vatican Media sem autorização."),
+    dict(n=43, cat="noticias", hook="“Impossível ser discípulo de Cristo e antissemita”, diz cardeal",
+         fact="Em entrevista à Vatican News, o cardeal Kurt Koch reforçou que antissemitismo é incompatível com a fé cristã, no contexto das celebrações dos 60 anos da Nostra Aetate.",
+         caption="Uma frase direta, num momento em que precisava ser dita. \U0001F5E3️\n\nO cardeal Kurt Koch reforçou: antissemitismo e fé cristã não cabem na mesma pessoa — declaração feita durante as celebrações dos 60 anos da Nostra Aetate.\n\nFonte: Vatican News, 16/09/2026.",
+         tags="#vaticannews #dialogointerreligioso #catolico #fecatolica #compendiocatolico #noticias",
+         photo="Prefira este card ou o link direto da matéria no Vatican News — evite reproduzir fotos do Vatican Media sem autorização."),
+    dict(n=44, cat="noticias", hook="Pra o Vaticano, cuidar da criação é questão de fé — não só de ecologia",
+         fact="Novo documento papal reafirma que o cuidado com o meio ambiente é uma dimensão teológica da fé cristã, não apenas uma pauta política ou científica.",
+         caption="O Vaticano publicou mais um documento ligando fé e cuidado com o planeta. \U0001F30D\n\nA mensagem central: cuidar da criação não é só pauta ambiental ou política — é parte da própria fé cristã.\n\nFonte: Vatican News, 02/09/2026.",
+         tags="#vaticannews #ecologiaintegral #catolico #fecatolica #compendiocatolico #noticias",
+         photo="Prefira este card ou o link direto da matéria no Vatican News — evite reproduzir fotos do Vatican Media sem autorização."),
 ]
