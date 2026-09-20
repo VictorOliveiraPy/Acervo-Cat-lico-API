@@ -7,7 +7,9 @@
 
 A Santa Sé usou a tribuna da ONU pra lembrar de um problema que muita gente esqueceu. 🕊️
 
-Ainda há muitas vítimas civis de munições de fragmentação pelo mundo — e o Vaticano voltou a pedir mais países aderindo ao tratado que as proíbe.
+Munições de fragmentação (cluster bombs) são projéteis que se abrem no ar e espalham dezenas ou centenas de submunições menores numa área ampla — muitas delas não explodem no impacto e continuam ativas no solo por anos, às vezes décadas, matando e mutilando civis, com frequência crianças, muito depois do fim de um conflito. A Convenção sobre Munições Cluster, de 2008, proíbe seu uso, produção e estoque — mas nem todos os países relevantes assinaram.
+
+A Santa Sé mantém uma missão permanente de observação na ONU (não é membro pleno, mas participa ativamente de fóruns como esse) e usa regularmente esse espaço pra defender causas de desarmamento e proteção de civis — parte do que a Igreja chama de Doutrina Social, a aplicação da fé a questões de justiça e paz no mundo, não só a temas internos de culto.
 
 Fonte: Vatican News, 16/09/2026.
 

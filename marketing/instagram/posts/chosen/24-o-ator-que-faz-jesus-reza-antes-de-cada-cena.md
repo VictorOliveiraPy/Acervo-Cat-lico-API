@@ -7,9 +7,11 @@
 
 Jonathan Roumie, o ator por trás do Jesus de “The Chosen”, trata o papel com um cuidado espiritual raro em Hollywood. 🙏
 
-Ele já contou que reza antes das cenas — e que, em alguns momentos mais fortes, chega a se emocionar de verdade, sem ensaiar.
+Antes de ser escalado, Roumie vivia um momento difícil de carreira — em entrevistas, já contou que estava praticamente sem trabalho como ator e chegou a considerar desistir, período em que se aproximou mais intensamente da própria fé católica, incluindo a prática de ir à missa diariamente.
 
-Interpretar Jesus, pra ele, virou também uma jornada de fé pessoal.
+Desde que assumiu o papel, tem sido consistente em dizer publicamente que encara a personagem como uma forma de ministério, não só um trabalho — reza antes de cada cena com o elenco e a equipe, e já relatou em entrevistas se emocionar genuinamente durante gravações de cenas mais fortes, como as da Paixão, sem que isso estivesse no roteiro ou na direção da cena.
+
+Interpretar Jesus, pra ele, virou também uma jornada de fé pessoal — algo que ele mesmo descreve como maior do que a carreira.
 
 ## Hashtags
 

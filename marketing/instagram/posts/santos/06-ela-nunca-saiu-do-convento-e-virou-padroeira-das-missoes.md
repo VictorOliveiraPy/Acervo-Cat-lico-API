@@ -7,9 +7,11 @@
 
 Como alguém que nunca saiu de um convento virou padroeira das missões do mundo inteiro? 🌍
 
-Santa Teresinha de Lisieux viveu de portas fechadas — mas dizia que se pudesse, seria missionária em todos os continentes ao mesmo tempo, só de oferecer suas orações.
+Teresa Martin nasceu em 1873, na França, e entrou no Carmelo de Lisieux aos 15 anos — tão jovem que precisou de uma autorização especial do Papa Leão XIII, concedida durante uma audiência em Roma. Viveu ali, sem nunca sair, até morrer de tuberculose em 1897, aos 24 anos, praticamente desconhecida fora do convento.
 
-A missão dela era o “pequeno caminho”: amar em cada gesto simples do dia a dia.
+Antes de morrer, por obediência às superioras, escreveu suas memórias espirituais — publicadas depois como “História de uma Alma”. O livro se espalhou rápido pelo mundo e revelou sua espiritualidade: o “pequeno caminho”, a ideia de que não é preciso feito heroico nenhum pra alcançar santidade, só amar a Deus e ao próximo nos gestos mais comuns do dia a dia, com totalidade.
+
+Em 1927 foi declarada padroeira das missões, ao lado de São Francisco Xavier — que percorreu a Ásia inteira — justamente porque, segundo a Igreja, o valor de uma vida oferecida em oração vale tanto quanto anos de viagens missionárias. Em 1997, tornou-se Doutora da Igreja, uma das únicas quatro mulheres com esse título.
 
 ## Hashtags
 

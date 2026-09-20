@@ -5,11 +5,13 @@
 
 ## Legenda (pronta pra copiar)
 
-Um dos maiores tetos da história da arte foi pintado por um homem só, praticamente sozinho, durante 4 anos. 🎨
+Um dos maiores tetos da história da arte foi pintado por um homem que nem queria o trabalho. 🎨
 
-Michelangelo pintou o teto da Capela Sistina entre 1508 e 1512, em posições extremamente desconfortáveis, no alto de andaimes.
+Michelangelo se via, antes de tudo, como escultor — e tentou recusar quando o Papa Júlio II o convocou, em 1508, pra pintar o teto da Capela Sistina. Acabou aceitando, e passou os 4 anos seguintes (1508–1512) praticamente sozinho, com poucos assistentes, cobrindo mais de 500 m² numa técnica exigente: afresco, que precisa ser pintado direto sobre o reboco ainda úmido, em poucas horas, antes que seque — sem espaço pra erro ou retoque depois.
 
-Cada vez que você vê essas imagens, está vendo o resultado de anos de esforço físico e espiritual.
+Trabalhou em pé, no alto de andaimes que ele mesmo ajudou a projetar, com o pescoço curvado pra trás por horas seguidas — um esforço que, segundo suas próprias cartas, deixou sequelas na visão e na coluna. O resultado são mais de 300 figuras, incluindo a Criação de Adão, cenas do Gênesis e profetas do Antigo Testamento.
+
+Décadas depois, já com mais de 60 anos, Michelangelo voltou à Capela Sistina — dessa vez pra pintar sozinho o Juízo Final na parede do altar (1536–1541). O mesmo homem, a mesma capela, quase 30 anos depois.
 
 ## Hashtags
 

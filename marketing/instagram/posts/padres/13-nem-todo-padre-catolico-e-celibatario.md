@@ -7,9 +7,11 @@
 
 Plot twist: existem padres católicos casados. 💍
 
-Nos ritos orientais católicos (bizantino, siro-malabar, entre outros), homens casados podem ser ordenados padres — desde que o casamento tenha vindo antes da ordenação.
+Nos ritos orientais católicos, a regra é diferente da do rito latino: um homem pode se casar e, depois, ser ordenado diácono e padre — desde que o casamento aconteça antes da ordenação, nunca depois (um padre viúvo, por exemplo, não pode se casar de novo). A regra vem direto da Igreja indivisa dos primeiros séculos, antes da separação entre Oriente e Ocidente.
 
-A Igreja Católica é uma família bem mais diversa do que a gente costuma aprender.
+Uma curiosidade a mais: mesmo nos ritos orientais, bispos são sempre celibatários — geralmente escolhidos entre o clero monástico, que já vive de forma célibe por vocação própria. A restrição ao casamento vale só pra o grau de padre e diácono.
+
+Há também uma pegada histórica curiosa: quando fiéis de ritos orientais emigraram em massa pros Estados Unidos no fim do século XIX, bispos latinos locais pressionaram Roma a restringir a ordenação de padres casados por lá — o que gerou até cismas (parte dessa comunidade migrou pra Igreja Ortodoxa em protesto). Hoje essa restrição específica nos EUA já foi revista, mas o episódio mostra como convivência entre ritos diferentes numa mesma Igreja nem sempre foi simples.
 
 ## Hashtags
 

@@ -7,7 +7,9 @@
 
 Um dos clubes de futebol mais tradicionais da Europa nasceu de uma obra de caridade católica. ⚽🍀
 
-O Celtic FC foi fundado em 1887 pelo Irmão Walfrid, religioso marista, com um objetivo bem direto: arrecadar dinheiro para alimentar crianças pobres de famílias católicas imigrantes em Glasgow.
+Andrew Kerins, conhecido como Irmão Walfrid, era um religioso marista irlandês que trabalhava nas paróquias católicas do East End de Glasgow no fim do século XIX — bairro que recebia milhares de imigrantes irlandeses fugindo da pobreza e da fome, muitos vivendo em condições precárias. Ele já dirigia iniciativas de caridade, como as “sopas” (refeições distribuídas a crianças pobres), mas precisava de mais recursos.
+
+A ideia de criar um time de futebol, em 1887, foi justamente uma estratégia de arrecadação: a renda dos jogos financiaria a distribuição de comida para crianças católicas pobres da região. O nome escolhido, “Celtic”, era uma forma de unir as comunidades irlandesa e escocesa da cidade sob uma identidade comum. O clube cresceu rápido, tornou-se um dos mais vitoriosos da Escócia — e até hoje mantém, na sua identidade, essa origem ligada à caridade e à comunidade imigrante católica que o fundou.
 
 Futebol e caridade, juntos desde o primeiro apito.
 

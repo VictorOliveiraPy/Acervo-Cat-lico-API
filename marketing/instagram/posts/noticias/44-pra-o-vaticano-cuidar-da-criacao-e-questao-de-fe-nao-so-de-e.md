@@ -7,7 +7,9 @@
 
 O Vaticano publicou mais um documento ligando fé e cuidado com o planeta. 🌍
 
-A mensagem central: cuidar da criação não é só pauta ambiental ou política — é parte da própria fé cristã.
+A ideia não é nova: em 2015, o Papa Francisco já havia publicado a encíclica “Laudato Si’”, dedicada inteiramente ao que ele chamou de “ecologia integral” — a tese de que a crise ambiental e a crise social (pobreza, desigualdade, exploração) são, na raiz, o mesmo problema: um jeito de tratar a criação e as pessoas como recursos descartáveis, em vez de dons a cuidar. O documento atual reforça e atualiza essa mesma linha teológica.
+
+A base bíblica remonta ao próprio livro do Gênesis, onde Deus entrega ao ser humano a tarefa de “cultivar e guardar” o jardim (Gênesis 2, 15) — um mandato de cuidado responsável, não de exploração ilimitada. Pra teologia católica, isso significa que decisões sobre desmatamento, poluição ou mudança climática não são só questões técnicas de política pública: são também, e sobretudo, questões morais e espirituais.
 
 Fonte: Vatican News, 02/09/2026.
 

@@ -7,9 +7,11 @@
 
 Esse gesto que você vê toda missa — o padre erguendo a hóstia bem alto — nasceu de um motivo bem humano. 👆
 
-Na Idade Média, muita gente comungava só uma vez por ano. A elevação surgiu pra que todos pudessem, ao menos, contemplar o momento da consagração.
+Na Idade Média, era comum o padre celebrar de costas para o povo, em latim baixo, numa igreja grande e mal iluminada — e a maioria dos fiéis comungava raramente, às vezes uma única vez por ano, na Páscoa. Teólogos da época, como Pedro Cantor em Paris, discutiam um problema concreto: se a pessoa quase não comunga, como participar de verdade daquele momento?
 
-Hoje, mesmo comungando toda semana, vale reaprender a olhar com os mesmos olhos de quem só tinha aquele instante.
+A resposta que se popularizou a partir do século XII foi a “comunhão ocular” — erguer a hóstia bem alto logo após a consagração, pra que todos pudessem ao menos vê-la e adorá-la com os olhos, já que não a recebiam com frequência na boca. A prática pegou tanto que, em algumas cidades medievais, sinos tocavam nesse instante e as pessoas corriam entre igrejas só pra ver várias elevações no mesmo dia — um costume que a Igreja chegou a desencorajar por parecer supersticioso.
+
+Hoje, mesmo comungando toda semana, o gesto ficou — um convite a reaprender a olhar com os mesmos olhos de quem só tinha aquele instante.
 
 ## Hashtags
 

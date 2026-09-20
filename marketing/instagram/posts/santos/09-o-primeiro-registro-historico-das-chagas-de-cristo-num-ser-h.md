@@ -7,9 +7,11 @@
 
 São Francisco de Assis é lembrado como o santo dos bichinhos — mas a história dele guarda algo ainda mais impressionante. 🕊️
 
-Em 1224, ele foi a primeira pessoa na história registrada a receber os estigmas: as marcas das cinco chagas de Cristo, em seu próprio corpo.
+Filho de um rico comerciante de tecidos em Assis, Francisco levou uma juventude despreocupada até uma crise de saúde e um período como prisioneiro de guerra o fazerem repensar tudo. Numa cena famosa de 1206, devolveu publicamente as roupas ao pai e renunciou à herança na praça da cidade, na frente do bispo — o início de uma vida de pobreza radical que viraria a Ordem Franciscana.
 
-Uma vida de simplicidade radical, marcada literalmente pela paixão de Jesus.
+Em setembro de 1224, durante um retiro de 40 dias de jejum no Monte Alverne, Francisco teve uma visão mística — e, segundo os relatos de seus companheiros mais próximos, seu corpo passou a apresentar marcas correspondentes às cinco chagas de Cristo crucificado: mãos, pés e o lado direito. É o primeiro caso de estigmas documentado na história da Igreja; muitos outros foram relatados depois (como Padre Pio, no século XX), mas Francisco abriu essa página.
+
+Morreu dois anos depois, em 1226, e foi canonizado já em 1228 — uma das canonizações mais rápidas da história, só dois anos após a morte.
 
 ## Hashtags
 

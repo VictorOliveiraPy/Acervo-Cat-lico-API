@@ -7,9 +7,11 @@
 
 Você sabia que a palavra “missa” é, literalmente, um convite pra sair e viver o que você acabou de celebrar? 🙏
 
-A expressão “Ite, missa est”, dito no fim da celebração, é de onde vem o nome — e tem a mesma raiz de “missão”.
+Na liturgia antiga em latim, o diácono encerrava a celebração dizendo “Ite, missa est” — algo como “ide, [a assembleia] está enviada/dispensada”. O povo respondia “Deo gratias” (graças a Deus) e saía. Ao longo dos séculos, essa palavra de despedida, missa, passou a nomear a celebração inteira — e viajou pra outras línguas quase sem mudar: Messe em alemão, Misa em espanhol, Mass em inglês.
 
-A missa não termina na porta da igreja. Comenta aqui embaixo se você sabia dessa! 👇
+A raiz é a mesma de “missão” (mittere, enviar, em latim). Não é coincidência: o verbo que hoje o Papa Francisco reforça sempre — “ide e evangelizai” — já estava embutido no próprio nome da celebração desde o latim medieval. A missa nunca foi pensada como um evento fechado em si mesmo; a saída da igreja já era, desde o início, parte do rito.
+
+Comenta aqui embaixo se você sabia dessa! 👇
 
 ## Hashtags
 

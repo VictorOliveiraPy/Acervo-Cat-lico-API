@@ -30,6 +30,29 @@ Wikimedia Commons usa).
 | `niceia.jpg` | Ícone do 1º Concílio de Niceia | Michael Damaskinos (c. 1530/35–1592/93) | séc. XVI |
 | `walfrid.jpg` | Retrato do Irmão Walfrid (fundador do Celtic FC) | fotografia histórica, autor não identificado | c. fim do séc. XIX |
 
+## 1b. Fotos de pessoas reais — Creative Commons, atribuição obrigatória
+
+Diferente das pinturas acima (domínio público, sem obrigação), estas exigem
+**crédito ao fotógrafo** sempre que publicadas — inclua o crédito na legenda
+do post ou na descrição da imagem no Instagram, não só aqui internamente.
+
+| Arquivo | Pessoa/cena | Fotógrafo | Licença |
+|---|---|---|---|
+| `messi.jpg` | Messi, Copa do Mundo 2018 (Argentina x Islândia) | Voltmetro (Wikimedia Commons) | CC BY-SA 4.0 |
+| `ronaldo.jpg` | Cristiano Ronaldo, seleção portuguesa | Ludovic Péron (Ludo29) | CC BY-SA 3.0 |
+| `kobe_bryant.jpg` | Kobe Bryant, Lakers x Cavaliers (2016) | Erik Drost (Flickr) | CC BY 2.0 |
+| `bocelli.jpg` | Andrea Bocelli em concerto (2019) | Jakub Janecki | CC BY-SA 4.0 |
+| `scorsese.jpg` | Martin Scorsese, TIFF 2019 (cortada pra remover marca d'água) | John Bauld (Flickr) | CC BY 2.0 |
+| `jonathan_roumie.jpg` | Jonathan Roumie, Movieguide Awards | Movieguide (Wikimedia Commons) | CC BY-SA 2.0 |
+
+Post #25 (Dallas Jenkins) segue com imagem simbólica (`cinema.jpg`) de
+propósito: a única foto de Dallas Jenkins encontrada com licença livre vem
+do próprio kit de imprensa oficial de The Chosen (press.thechosen.tv) — está
+marcada como CC no Commons, mas por vir direto do material promocional da
+produção, prefiro confirmar com o Victor antes de usar (mesma cautela do
+caso Bento XVI). Post #29 (Shahar Isaac) também ficou com imagem simbólica
+(`galileia.jpg`) — nenhuma foto dele com licença livre foi encontrada.
+
 ## 2. Fotos fornecidas pelo Victor (`img_insta/img-acervo/`, fora do Git)
 
 Copiadas pra cá com nomes descritivos. A maioria é fotografia de objeto/

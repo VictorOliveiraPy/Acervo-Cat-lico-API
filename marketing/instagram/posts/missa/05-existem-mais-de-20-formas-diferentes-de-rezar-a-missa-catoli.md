@@ -7,9 +7,11 @@
 
 “Católico” não é sinônimo de “rito romano” — a Igreja é bem mais diversa do que parece. ⛪
 
-Existem ritos orientais católicos como o bizantino, o maronita e o siro-malabar, com liturgias, cantos e vestes diferentes — mas todos em plena comunhão com Roma.
+Além do rito latino (o mais comum no Brasil e no Ocidente), existem 23 Igrejas orientais católicas “sui iuris” — com direito próprio —, cada uma com sua liturgia, calendário, vestes e até direito canônico específicos. Entre elas: a maronita (Líbano, com raízes no século V), a siro-malabar e a siro-malankara (Índia, tradicionalmente ligadas ao apóstolo Tomé), a ucraniana greco-católica, a melquita, a caldeia e a armênia católica.
 
-Qual desses você já ouviu falar? Comenta aí.
+Muitas dessas Igrejas usam liturgias quase idênticas às de Igrejas ortodoxas irmãs (a divina liturgia bizantina, por exemplo, é praticamente a mesma na versão ortodoxa e na ucraniana católica) — a diferença central não é o rito, é a comunhão: as católicas orientais reconhecem o Papa como sucessor de Pedro, as ortodoxas não.
+
+Ou seja: um cristão pode nascer, viver e morrer plenamente católico sem nunca ter assistido a uma missa no rito romano. Qual desses ritos você já tinha ouvido falar? Comenta aí.
 
 ## Hashtags
 

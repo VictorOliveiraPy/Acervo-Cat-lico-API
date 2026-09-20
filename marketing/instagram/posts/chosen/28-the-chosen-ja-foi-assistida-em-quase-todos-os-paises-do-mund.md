@@ -7,9 +7,11 @@
 
 “The Chosen” ultrapassou fronteiras que poucas séries religiosas já cruzaram. 🌎
 
-Já foi dublada e legendada em mais de 50 idiomas, chegando a espectadores em quase todos os países do mundo.
+Além do inglês original, a série já foi dublada e legendada em mais de 50 idiomas — incluindo línguas faladas por comunidades cristãs minoritárias em regiões onde produções desse porte quase nunca chegam traduzidas. Isso é possível, em parte, graças ao próprio modelo de financiamento: como o público banca diretamente a produção e a tradução via doações e o esquema “pague adiante”, a série pode ser distribuída de graça em países onde o acesso a plataformas de streaming pagas é limitado.
 
-A vida de Jesus contada em série, falando literalmente todas as línguas.
+O resultado é uma audiência que já passa a marca de centenas de milhões de visualizações somadas em todas as temporadas — números que colocam “The Chosen” entre as produções cristãs mais assistidas da história, ao lado de fenômenos como “A Paixão de Cristo” (2004) no cinema.
+
+A vida de Jesus contada em série, chegando a espectadores em praticamente todos os continentes.
 
 ## Hashtags
 

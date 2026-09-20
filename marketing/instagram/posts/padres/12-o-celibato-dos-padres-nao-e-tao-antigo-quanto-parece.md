@@ -7,9 +7,11 @@
 
 O celibato sacerdotal como regra formal tem “só” quase 900 anos — bem menos do que muita gente imagina. 📜
 
-Ele foi oficializado no Segundo Concílio de Latrão, em 1139, embora já fosse um costume valorizado bem antes disso.
+Nos primeiros séculos do cristianismo, era comum ordenar homens casados — inclusive alguns bispos. Mas já existia, desde cedo, uma prática paralela e valorizada: a continência, ou seja, mesmo casados, os clérigos ordenados deveriam se abster de relações conjugais a partir da ordenação. Um concílio regional em Elvira, na Espanha, por volta do ano 305, já defendia essa exigência.
 
-História da Igreja tem sempre uma camada a mais do que parece à primeira vista.
+O celibato propriamente dito (não apenas continência, mas a proibição total de casar-se) foi ganhando força ao longo da Idade Média, por razões teológicas (disponibilidade total pro ministério) e também práticas (evitar que bens da Igreja passassem por herança a filhos de clérigos). O ponto de virada formal veio no Segundo Concílio de Latrão, em 1139: pela primeira vez, o concílio declarou que casamentos contraídos por clérigos já ordenados eram não apenas proibidos, mas inválidos — sem efeito nenhum diante da Igreja.
+
+Desde então, celibato virou regra universal no rito latino — enquanto os ritos orientais católicos, como você viu no post sobre liturgia, seguiram outro caminho.
 
 ## Hashtags
 

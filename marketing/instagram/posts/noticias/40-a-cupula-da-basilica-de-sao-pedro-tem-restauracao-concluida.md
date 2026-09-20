@@ -7,7 +7,9 @@
 
 Mais uma peça da Basílica de São Pedro recupera sua cor original. 🏛️
 
-Terminou a restauração da cúpula da Capela Clementina — trabalho minucioso pra devolver os afrescos ao que eram antes do tempo cobrar seu preço.
+A Capela Clementina fica dentro das Grutas Vaticanas, na área que abriga tumbas de papas, sob a Basílica de São Pedro — um espaço menos visitado pelo turista comum do que a nave principal, mas de grande valor artístico e histórico. Como qualquer afresco antigo, séculos de fumaça de velas, umidade e poluição vão escurecendo as cores originais e fragilizando o reboco.
+
+Restaurações desse tipo, feitas pelos laboratórios especializados dos Museus Vaticanos, são trabalhos lentos e minuciosos: limpeza milímetro a milímetro, remoção de camadas de sujeira sem danificar a pintura original, e por vezes a descoberta de detalhes que estavam invisíveis havia gerações. É o mesmo tipo de cuidado técnico que, décadas atrás, devolveu ao mundo as cores vívidas do teto da Capela Sistina, depois de séculos escurecido pela fumaça de velas.
 
 Fonte: Vatican News, 19/09/2026.
 
