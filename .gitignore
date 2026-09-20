@@ -14,3 +14,8 @@ htmlcov/
 # metadados, e a API precisa dele presente no deploy pra resolver as URLs.
 /app/static/img-acervo/
 *.mp4
+
+# Referências baixadas de terceiros pra inspiração de social media — nunca
+# commitadas: são screenshots/memes de produções com direitos autorais
+# (The Chosen etc.), não conteúdo nosso. Ver marketing/instagram/README.md.
+/img_insta/
