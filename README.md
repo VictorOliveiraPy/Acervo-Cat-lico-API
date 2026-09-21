@@ -247,5 +247,5 @@ Todas as variáveis são opcionais em desenvolvimento (há defaults em
 | `VOYAGE_API_KEY` | *(nenhum)* | Chave da Voyage AI (embeddings) — sem ela, `/api/chat` responde `503` |
 | `DEEPSEEK_MODEL` | `deepseek-chat` | Modelo da DeepSeek que gera a resposta do chat |
 | `DEEPSEEK_BASE_URL` | `https://api.deepseek.com` | Endpoint da DeepSeek (API compatível com OpenAI) |
-| `VOYAGE_EMBEDDING_MODEL` / `VOYAGE_EMBEDDING_DIMENSIONS` | `voyage-3-lite` / `512` | Mudam juntos — a dimensão é fixa na coluna `vector(N)` do Postgres; trocar o modelo sem migrar a coluna quebra a indexação |
+| `VOYAGE_EMBEDDING_MODEL` / `VOYAGE_EMBEDDING_DIMENSIONS` | `voyage-3.5-lite` / `512` | Mudam juntos — a dimensão é fixa na coluna `vector(N)` do Postgres; trocar o modelo sem migrar a coluna quebra a indexação. Trocar o modelo (mesmo mantendo a dimensão) exige rodar `python -m scripts.indexar_acervo` de novo — vetores antigos não são comparáveis com os do modelo novo |
 | `CHAT_MAX_CONTEXT_CHUNKS` | `6` | Quantos trechos do acervo entram no prompt de cada pergunta |

@@ -14,7 +14,7 @@ precisão que a fonte histórica não tem. Onde a data é certa e numérica
 from __future__ import annotations
 
 from enum import Enum
-from typing import Annotated, Literal, Union
+from typing import Annotated, Literal
 
 from pydantic import BaseModel, ConfigDict, Field
 
@@ -656,57 +656,7 @@ class Liturgia(ContentEntry):
 # União discriminada por `categoria`: garante que a resposta serializada
 # carregue os campos próprios da subclasse (e não só os da base).
 AnyEntry = Annotated[
-    Union[
-        Santo,
-        Papa,
-        Concilio,
-        MilagreEucaristico,
-        Catecismo,
-        Crisma,
-        DoutorIgreja,
-        PeriodoHistorico,
-        NossaSenhora,
-        Livro,
-        Oracao,
-        Pecado,
-        Liturgia,
-        Sacramento,
-        Virtude,
-        Mandamento,
-        LivroBiblia,
-        Devocao,
-        TermoGlossario,
-        TempoLiturgico,
-        Novissimo,
-        OrdemReligiosa,
-        ElementoEstrutural,
-        Santuario,
-        DocumentoMagisterio,
-        ProcessoCanonizacao,
-        IgrejaBrasil,
-        Sacramental,
-        QuestaoApologetica,
-        Jesus,
-        PersonagemBiblico,
-        Parabola,
-        MilagreDeJesus,
-        LocalSagrado,
-        PadreDaIgreja,
-        HeresiaCisma,
-        AnjoDemonio,
-        PrincipioDoutrinaSocial,
-        HoraLiturgica,
-        RitoOriental,
-        SimboloSacro,
-        TopicoCanonico,
-        EstadoDeVida,
-        PrimeiraComunhao,
-        ObraMusicaSacra,
-        Cardeal,
-        TemaMissionario,
-        TemaCienciaFe,
-        TemploNotavel,
-    ],
+    Santo | Papa | Concilio | MilagreEucaristico | Catecismo | Crisma | DoutorIgreja | PeriodoHistorico | NossaSenhora | Livro | Oracao | Pecado | Liturgia | Sacramento | Virtude | Mandamento | LivroBiblia | Devocao | TermoGlossario | TempoLiturgico | Novissimo | OrdemReligiosa | ElementoEstrutural | Santuario | DocumentoMagisterio | ProcessoCanonizacao | IgrejaBrasil | Sacramental | QuestaoApologetica | Jesus | PersonagemBiblico | Parabola | MilagreDeJesus | LocalSagrado | PadreDaIgreja | HeresiaCisma | AnjoDemonio | PrincipioDoutrinaSocial | HoraLiturgica | RitoOriental | SimboloSacro | TopicoCanonico | EstadoDeVida | PrimeiraComunhao | ObraMusicaSacra | Cardeal | TemaMissionario | TemaCienciaFe | TemploNotavel,
     Field(discriminator="categoria"),
 ]
 

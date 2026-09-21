@@ -60,6 +60,18 @@ class Settings(BaseSettings):
     # (`CREATE TABLE ... vector(N)`), trocar o modelo sem migrar a coluna
     # quebra a indexação.
     #
+    # `voyage-3-lite` foi APOSENTADO pela Voyage (incidente real de produção:
+    # /api/chat respondendo 503, `InvalidRequestError: Model voyage-3-lite is
+    # not supported`) — sucessor é `voyage-3.5-lite`, que ainda aceita
+    # `output_dimension=512` (matryoshka embedding, ver
+    # voyage_embedding_gateway.py), então a dimensão não precisa mudar. O que
+    # MUDA de verdade: os vetores já indexados foram gerados pelo modelo
+    # antigo — buscar com o modelo novo contra eles dá similaridade sem
+    # sentido (espaços vetoriais diferentes, mesmo com a mesma dimensão
+    # numérica). É obrigatório rodar `python -m scripts.indexar_acervo` de
+    # novo em produção depois de trocar o modelo, senão o chat volta a
+    # funcionar mas com busca degradada silenciosamente.
+    #
     # LLM (geração da resposta): DeepSeek via SDK `openai` (API compatível) —
     # `DEEPSEEK_API_KEY` é a chave, `DEEPSEEK_MODEL` o modelo (default
     # `deepseek-chat`) e `DEEPSEEK_BASE_URL` o endpoint (default
@@ -68,7 +80,7 @@ class Settings(BaseSettings):
     deepseek_base_url: str = "https://api.deepseek.com"
     deepseek_model: str = "deepseek-chat"
     voyage_api_key: str | None = None
-    voyage_embedding_model: str = "voyage-3-lite"
+    voyage_embedding_model: str = "voyage-3.5-lite"
     voyage_embedding_dimensions: int = 512
     chat_max_context_chunks: int = 6
 
