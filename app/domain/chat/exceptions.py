@@ -1,7 +1,7 @@
 """Exceções do domínio do chatbot — puro Python, sem FastAPI.
 
 Levantadas pelos gateways (`app.infrastructure.chat.voyage_embedding_gateway`,
-`app.infrastructure.chat.anthropic_answer_generator`) quando o provedor
+`app.infrastructure.chat.deepseek_answer_generator`) quando o provedor
 externo falha — já são `AppException`, então `AnswerQuestionUseCase` não
 precisa de `try/except`: a exceção sobe sozinha até o handler global
 (`app.interface.exception_handlers`).
@@ -24,8 +24,7 @@ class EmbeddingGenerationError(ServiceUnavailableException):
 
 
 class AnswerGenerationError(ServiceUnavailableException):
-    """Falha ao gerar a resposta (sem chave configurada, rede, HTTP 5xx da
-    Anthropic)."""
+    """Falha ao gerar a resposta (sem chave configurada, rede, HTTP 5xx da DeepSeek)."""
 
     def __init__(self) -> None:
         super().__init__(

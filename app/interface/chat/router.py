@@ -15,7 +15,7 @@ from app.core.rate_limiting import RateLimiter, client_ip
 from app.domain.chat.answer_generator import AnswerGenerator
 from app.domain.chat.embedding_gateway import EmbeddingGateway
 from app.domain.chat.repository import RagRepository
-from app.infrastructure.chat.anthropic_answer_generator import AnthropicAnswerGenerator
+from app.infrastructure.chat.deepseek_answer_generator import DeepSeekAnswerGenerator
 from app.infrastructure.chat.voyage_embedding_gateway import VoyageEmbeddingGateway
 from app.interface.chat.schemas import ChatRequest, ChatResponse
 
@@ -23,14 +23,14 @@ router = APIRouter(prefix="/api/chat", tags=["chat"])
 
 # Janela mais generosa que a do mural de velas (20s): uma conversa de
 # verdade troca várias mensagens seguidas. Ainda assim conta, porque cada
-# pergunta custa uma chamada de embedding + uma chamada ao Claude — dinheiro
+# pergunta custa uma chamada de embedding + uma chamada ao DeepSeek — dinheiro
 # de verdade, ao contrário de listar o acervo.
 _rate_limiter = RateLimiter(window_seconds=6.0)
 
 # Sem estado próprio (não fala rede na criação) — uma instância por
 # requisição não tem custo real.
 _default_embedding_gateway = VoyageEmbeddingGateway()
-_default_answer_generator = AnthropicAnswerGenerator()
+_default_answer_generator = DeepSeekAnswerGenerator()
 
 
 def get_rag_repository(request: Request) -> RagRepository:

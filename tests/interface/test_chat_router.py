@@ -1,6 +1,6 @@
 """Testes do chatbot (`POST /api/chat`): 503 sem configuração, validação,
 rate limit, recusa quando nada bate no acervo, e resposta com fontes
-quando bate. Nenhum teste chama Voyage ou Claude de verdade — os gateways
+quando bate. Nenhum teste chama Voyage ou DeepSeek de verdade — os gateways
 reais nunca são usados, só fakes injetados em `app.state`."""
 
 from __future__ import annotations

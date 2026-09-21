@@ -1,5 +1,5 @@
 """Testes do use case do chatbot isolados da camada HTTP — nenhum destes
-sobe um `TestClient` nem chama Voyage/Claude de verdade, só fakes."""
+sobe um `TestClient` nem chama Voyage/DeepSeek de verdade, só fakes."""
 
 from __future__ import annotations
 

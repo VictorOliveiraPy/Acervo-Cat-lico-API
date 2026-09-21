@@ -11,7 +11,7 @@ diária (`/api/liturgia-diaria`) usa o mesmo Postgres como cache — sem
 `DATABASE_URL`, esse endpoint também responde 503, pelo mesmo motivo. O
 chatbot do acervo (`/api/chat`, RAG — ver `app/domain/chat/`,
 `app/application/chat/` e `app/infrastructure/chat/`) precisa do mesmo
-Postgres mais duas chaves de API (`ANTHROPIC_API_KEY`, `VOYAGE_API_KEY`);
+Postgres mais duas chaves de API (`DEEPSEEK_API_KEY`, `VOYAGE_API_KEY`);
 sem qualquer uma das três, responde 503 e o resto da API segue normal.
 """
 
@@ -80,7 +80,7 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
 
         # Chatbot (RAG): além do banco, precisa das duas chaves de API — sem
         # qualquer uma das três, fica desativado (503), não derruba a API.
-        if pool is not None and settings.anthropic_api_key and settings.voyage_api_key:
+        if pool is not None and settings.deepseek_api_key and settings.voyage_api_key:
             try:
                 await PostgresRagRepository.create_schema(pool)
                 app.state.rag_repository = PostgresRagRepository(pool)

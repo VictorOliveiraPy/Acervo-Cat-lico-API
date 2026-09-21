@@ -1,5 +1,5 @@
 """Contrato de geração de resposta a partir de trechos recuperados — sem
-implementação aqui (ver `app.infrastructure.chat.anthropic_answer_generator`).
+implementação aqui (ver `app.infrastructure.chat.deepseek_answer_generator`).
 """
 
 from __future__ import annotations

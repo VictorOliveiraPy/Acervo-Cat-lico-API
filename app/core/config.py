@@ -59,11 +59,17 @@ class Settings(BaseSettings):
     # juntos — a dimensão do vetor é fixa na coluna do Postgres
     # (`CREATE TABLE ... vector(N)`), trocar o modelo sem migrar a coluna
     # quebra a indexação.
-    anthropic_api_key: str | None = None
+    #
+    # LLM (geração da resposta): DeepSeek via SDK `openai` (API compatível) —
+    # `DEEPSEEK_API_KEY` é a chave, `DEEPSEEK_MODEL` o modelo (default
+    # `deepseek-chat`) e `DEEPSEEK_BASE_URL` o endpoint (default
+    # `https://api.deepseek.com`). Ver `app/infrastructure/chat/llm_client.py`.
+    deepseek_api_key: str | None = None
+    deepseek_base_url: str = "https://api.deepseek.com"
+    deepseek_model: str = "deepseek-chat"
     voyage_api_key: str | None = None
     voyage_embedding_model: str = "voyage-3-lite"
     voyage_embedding_dimensions: int = 512
-    chat_model: str = "claude-sonnet-5"
     chat_max_context_chunks: int = 6
 
     # Teto de itens por página, para uma requisição não puxar o acervo inteiro.

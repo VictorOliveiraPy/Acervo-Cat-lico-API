@@ -121,10 +121,10 @@ só `/api/velas` fica em 503 até a variável existir.
 `/api/chat` (RAG — ver README, "Decisões que valem explicação") precisa do
 mesmo Postgres do mural de velas, mais duas chaves de API pagas.
 
-1. Chave da Anthropic: crie em [console.anthropic.com](https://console.anthropic.com).
+1. Chave da DeepSeek: crie em [platform.deepseek.com](https://platform.deepseek.com).
 2. Chave da Voyage AI (embeddings): crie em [voyageai.com](https://www.voyageai.com) —
    o plano grátis cobre a indexação inicial dos 1.043 verbetes com sobra.
-3. No Render, adicione `ANTHROPIC_API_KEY` e `VOYAGE_API_KEY` (Settings →
+3. No Render, adicione `DEEPSEEK_API_KEY` e `VOYAGE_API_KEY` (Settings →
    Environment) — `DATABASE_URL` já deve existir (passo anterior).
 4. Redeploy. O lifespan cria a tabela `rag_chunks` sozinho na primeira
    subida (`CREATE EXTENSION IF NOT EXISTS vector` + `CREATE TABLE IF NOT
@@ -143,7 +143,7 @@ mesmo Postgres do mural de velas, mais duas chaves de API pagas.
    mesma pergunta responde com a recusa ("não encontrei isso no acervo"),
    porque o índice está vazio.
 
-Sem as três variáveis (`DATABASE_URL`, `ANTHROPIC_API_KEY`,
+Sem as três variáveis (`DATABASE_URL`, `DEEPSEEK_API_KEY`,
 `VOYAGE_API_KEY`), `/api/chat` responde `503` e o resto da API funciona
 normalmente.
 

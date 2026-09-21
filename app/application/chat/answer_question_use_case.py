@@ -1,7 +1,7 @@
 """Caso de uso: responder uma pergunta só com base no que o acervo tem.
 
 Regra de ouro do módulo: o modelo só vê os trechos recuperados do acervo —
-ver `AnthropicAnswerGenerator`/`SYSTEM_PROMPT` pra onde isso é de fato
+ver `DeepSeekAnswerGenerator`/`SYSTEM_PROMPT` pra onde isso é de fato
 imposto ao LLM.
 """
 

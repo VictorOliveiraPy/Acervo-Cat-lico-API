@@ -5,14 +5,17 @@ pydantic==2.10.4
 pydantic-settings==2.7.0
 asyncpg==0.30.0
 # Cliente HTTP pra buscar a liturgia diária numa fonte externa
-# (app/liturgia_client.py) — também usado nos testes como cliente de teste
+# (app/infrastructure/liturgy/http_gateway.py) — também usado nos testes como cliente de teste
 # do FastAPI, por isso já estava listado abaixo antes de virar dependência
 # de runtime de verdade.
 httpx==0.28.1
 Pillow==11.1.0
-# Chatbot do acervo (RAG, app/rag/) — geração de resposta, embeddings e o
+# Chatbot do acervo (RAG, app/domain/chat + app/application/chat +
+# app/infrastructure/chat) — geração de resposta, embeddings e o
 # tipo `vector` do Postgres pro asyncpg, respectivamente.
-anthropic==1.4.0
+# O SDK `openai` é usado apontado para a base_url da DeepSeek (API compatível
+# com o formato OpenAI) — ver app/infrastructure/chat/llm_client.py.
+openai==1.59.6
 voyageai==0.5.0
 pgvector==0.5.0
 
@@ -20,7 +23,7 @@ pgvector==0.5.0
 pytest==8.4.2
 pytest-cov==6.0.0
 # `asyncio_mode = "auto"` já estava configurado em pyproject.toml (sem
-# nenhum teste async pra usar ainda) — os testes de app/rag/generation.py
+# nenhum teste async pra usar ainda) — os testes de app/infrastructure/chat/deepseek_answer_generator.py
 # são os primeiros `async def test_...` do projeto, e precisam do plugin de
 # verdade instalado, não só da configuração.
 pytest-asyncio==1.4.0

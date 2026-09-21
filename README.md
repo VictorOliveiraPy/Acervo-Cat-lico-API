@@ -5,10 +5,11 @@ API somente-leitura que serve conteúdo católico curado em 13 categorias:
 catecismo, crisma, história, Nossa Senhora, livros, orações, pecados e
 vida litúrgica**.
 
-> **Nota sobre a arquitetura:** o repositório não contém `docs/ARCHITECTURE.md`.
-> Este backend foi implementado a partir da especificação funcional acordada
-> (modelos, dados, repositório, rotas) e as decisões de contrato estão
-> documentadas aqui e nas docstrings dos módulos.
+> **Arquitetura:** Clean Architecture por domínio (domain / application /
+> infrastructure / interface). Camadas, regra de dependência e fluxo de uma
+> requisição estão em [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md); como
+> adicionar um endpoint novo, em
+> [`docs/ADDING_ENDPOINT.md`](docs/ADDING_ENDPOINT.md).
 
 ---
 
@@ -109,46 +110,44 @@ Erro de parâmetro (ex.: `q` com 1 caractere) usa o `422` padrão do FastAPI.
 
 ## Estrutura
 
+Clean Architecture por domínio (ver [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md)):
+
 ```
 .
 ├── app/
-│   ├── config.py          # Settings (pydantic-settings), CORS, limites de página
-│   ├── exceptions.py      # exceções de domínio + handlers HTTP
-│   ├── models.py          # Pydantic v2: ContentEntry + subclasses, união discriminada
-│   ├── repository.py      # carga/validação no startup, listagem, detalhe e busca
-│   ├── routers.py         # rotas finas /api/* do acervo (somente leitura)
-│   ├── velas_models.py    # Pydantic do mural de velas (a única escrita da API)
-│   ├── velas_repository.py# Postgres (produção) e in-memory (testes), mesma interface
-│   ├── velas_router.py    # rotas /api/velas (GET público, POST com rate limit)
-│   ├── liturgia_models.py     # Pydantic da liturgia diária (leituras da Missa)
-│   ├── liturgia_client.py     # busca e parseia a fonte externa (função pura, sem I/O)
-│   ├── liturgia_repository.py # cache em Postgres (1 busca/dia) e in-memory (testes)
-│   ├── liturgia_router.py     # rota /api/liturgia-diaria
-│   ├── rag/                   # chatbot do acervo (RAG) — fase 1: só o acervo, sem PDF
-│   │   ├── chunking.py         # quebra verbete em pedaços indexáveis (função pura)
-│   │   ├── embeddings.py       # cliente Voyage AI (embedding de documento e de consulta)
-│   │   ├── repository.py       # índice em Postgres/pgvector, e em memória (testes)
-│   │   ├── generation.py       # prompt + chamada ao Claude, com o guard-rail central
-│   │   └── models.py           # contrato HTTP (ChatRequest/ChatResponse) e ChunkResult
-│   ├── chat_router.py     # rota /api/chat (rate limit próprio, mais folgado que o mural)
-│   ├── main.py            # app, lifespan (acervo + pool do mural), CORS, handlers
-│   └── data/*.json        # conteúdo curado, um arquivo por categoria
+│   ├── main.py                  # app, lifespan (acervo + pool do mural), CORS, routers
+│   ├── core/                    # config.py (Settings), exceptions.py, rate_limiting.py
+│   ├── domain/                  # regras de negócio — Python puro, sem framework
+│   │   ├── candles/             # entities.py, repository.py (contrato)
+│   │   ├── chat/                # entities, repository, gateways, relevance, exceptions
+│   │   └── liturgy/             # entities, repository, gateway, exceptions
+│   ├── application/             # casos de uso (orquestram entidade + contrato)
+│   │   ├── candles/             # light_candle_use_case.py, list_candles_use_case.py
+│   │   ├── chat/                # answer_question_use_case.py, chunking.py
+│   │   └── liturgy/             # get_daily_liturgy_use_case.py
+│   ├── infrastructure/          # implementações concretas dos contratos
+│   │   ├── acervo/              # json_repository.py, translations.py
+│   │   ├── candles/             # postgres_repository.py, in_memory_repository.py
+│   │   ├── chat/                # postgres/in_memory repos, deepseek_*, llm_client, voyage_*
+│   │   └── liturgy/             # http_gateway.py, postgres/in_memory repos
+│   └── interface/               # adaptadores HTTP (única camada que conhece FastAPI)
+│       ├── exception_handlers.py
+│       ├── acervo/              # router.py, i18n_router.py
+│       ├── candles/             # router.py, schemas.py
+│       ├── chat/                # router.py, schemas.py
+│       └── liturgy/             # router.py, schemas.py
 ├── scripts/
-│   └── indexar_acervo.py  # popula/reindexa app/rag — `python -m scripts.indexar_acervo`
+│   ├── indexar_acervo.py        # popula/reindexa o índice do chatbot — `python -m scripts.indexar_acervo`
+│   └── sincronizar_imagens.py   # sincroniza assets de imagem pro CDN
 └── tests/
-    ├── test_repository.py     # unitários (sem HTTP)
-    ├── test_routers.py        # integração via TestClient (acervo)
-    ├── test_velas.py          # integração do mural (repositório em memória)
-    ├── test_liturgia.py       # parsing + integração da liturgia diária (fetcher fake)
-    ├── test_rag_chunking.py   # chunking, com verbetes reais do acervo
-    ├── test_rag_generation.py # guard-rail contra alucinação, isolado (sem rede)
-    └── test_chat.py           # integração do chatbot (Voyage/Claude sempre mockados)
+    ├── domain/                  # entidades, sem I/O
+    ├── application/             # um caso de uso por vez, com repositório fake
+    ├── infrastructure/          # repositório real contra banco de teste
+    └── interface/               # TestClient ponta a ponta (wiring)
 ```
 
-> Este repositório é o irmão de
-> [`Compendio-Catolico-Web`](https://github.com/VictorOliveiraPy/Compendio-Catolico-Web)
-> (frontend Next.js) — mesma convenção usada em `melhorperfil-api`/`melhorperfil-web`
-> e `santo-guardiao-api`/`santo-guardiao-web`. Deploy: ver `DEPLOY.md`.
+> O **entrypoint real** é `app.main:app` (é o que o `render.yaml` e o
+> `DEPLOY.md` usam como start command).
 
 ### Decisões que valem explicação
 
@@ -192,7 +191,7 @@ Erro de parâmetro (ex.: `q` com 1 caractere) usa o `422` padrão do FastAPI.
 - **Chatbot nunca responde do que o modelo "sabe" — só do acervo (RAG).**
   Toda pergunta busca primeiro nos embeddings do próprio conteúdo
   (`app/domain/chat/`, `app/application/chat/` e `app/infrastructure/chat/`,
-  indexado por `scripts/indexar_acervo.py`); o Claude só vê os trechos
+  indexado por `scripts/indexar_acervo.py`); o DeepSeek só vê os trechos
   recuperados e é instruído a recusar em vez de completar com conhecimento
   próprio. Abaixo de `SIMILARITY_THRESHOLD`
   (`app/domain/chat/relevance.py`), nem chama a API — devolve a recusa
@@ -244,8 +243,9 @@ Todas as variáveis são opcionais em desenvolvimento (há defaults em
 | `DEFAULT_PAGE_SIZE` / `MAX_PAGE_SIZE` | `20` / `100` | Paginação |
 | `MAX_SEARCH_RESULTS` | `50` | Teto de resultados da busca |
 | `DATABASE_URL` | *(nenhum)* | Postgres do mural de velas, do cache da liturgia diária e do índice do chatbot — sem ela, `/api/velas`, `/api/liturgia-diaria` e `/api/chat` respondem `503` e o resto da API funciona normalmente |
-| `ANTHROPIC_API_KEY` | *(nenhum)* | Chave da Anthropic — sem ela, `/api/chat` responde `503` |
+| `DEEPSEEK_API_KEY` | *(nenhum)* | Chave da DeepSeek — sem ela, `/api/chat` responde `503` |
 | `VOYAGE_API_KEY` | *(nenhum)* | Chave da Voyage AI (embeddings) — sem ela, `/api/chat` responde `503` |
-| `CHAT_MODEL` | `claude-sonnet-5` | Modelo do Claude que gera a resposta do chat |
+| `DEEPSEEK_MODEL` | `deepseek-chat` | Modelo da DeepSeek que gera a resposta do chat |
+| `DEEPSEEK_BASE_URL` | `https://api.deepseek.com` | Endpoint da DeepSeek (API compatível com OpenAI) |
 | `VOYAGE_EMBEDDING_MODEL` / `VOYAGE_EMBEDDING_DIMENSIONS` | `voyage-3-lite` / `512` | Mudam juntos — a dimensão é fixa na coluna `vector(N)` do Postgres; trocar o modelo sem migrar a coluna quebra a indexação |
 | `CHAT_MAX_CONTEXT_CHUNKS` | `6` | Quantos trechos do acervo entram no prompt de cada pergunta |
