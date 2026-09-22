@@ -21,5 +21,10 @@ class RagRepository(ABC):
         """Substitui todos os chunks de uma fonte (usado ao reindexar)."""
 
     @abstractmethod
-    async def search(self, embedding: list[float], limit: int) -> list[ChunkResult]:
-        """Os `limit` chunks mais parecidos com `embedding`, mais parecido primeiro."""
+    async def search(self, embedding: list[float], question: str, limit: int) -> list[ChunkResult]:
+        """Os `limit` chunks mais relevantes pra `question`, mais relevante primeiro.
+
+        `question` (texto puro, não o embedding) entra pra busca também casar
+        por palavra literal — só embedding erra feio em nome próprio e termo
+        raro (ver `app/domain/chat/relevance.py` pro porquê disso importa).
+        """

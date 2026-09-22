@@ -56,6 +56,13 @@ class PostgresRagRepository(RagRepository):
             ON rag_chunks (fonte_tipo, fonte_ref)
             """
         )
+        # Índice de texto (GIN) pra busca híbrida — ver docstring de `search`.
+        await pool.execute(
+            """
+            CREATE INDEX IF NOT EXISTS rag_chunks_texto_fts_idx
+            ON rag_chunks USING GIN (to_tsvector('portuguese', titulo || ' ' || texto))
+            """
+        )
 
     async def replace_source(
         self,
@@ -86,18 +93,82 @@ class PostgresRagRepository(RagRepository):
                     ],
                 )
 
-    async def search(self, embedding: list[float], limit: int) -> list[ChunkResult]:
+    async def search(self, embedding: list[float], question: str, limit: int) -> list[ChunkResult]:
+        """Busca híbrida por fusão de ranking (RRF — Reciprocal Rank Fusion):
+        combina a *posição* de cada chunk no ranking vetorial com a posição
+        no ranking por texto (`plainto_tsquery`), não o score bruto — um
+        cosseno de 0.57 nunca venceria um de 0.64 numa soma direta de score,
+        mas pode vencer se estiver em 1º no ranking textual contra um 5º
+        lugar no vetorial. `similaridade` no resultado continua sendo o
+        cosseno real (não a pontuação RRF), porque é isso que
+        `SIMILARITY_THRESHOLD` em `relevance.py` espera comparar.
+
+        Motivação (achado real, não teórico): pra perguntas curtas com nome
+        próprio ou termo doutrinário ("Padre", "Ordem"), o embedding sozinho
+        enterra o verbete certo atrás de biografias de santos que só citam a
+        palavra de passagem — o texto literal bate onde o embedding erra.
+        Sem `question` casando nada (ou vazia), a fusão vira só a busca
+        vetorial de sempre (RRF de uma via só preserva a ordem original).
+
+        Candidatos por via = `max(limit * 3, 15)`: dá margem pra um bom match
+        textual entrar mesmo se não estivesse no top vetorial, sem inflar
+        demais a query. `60` na fórmula RRF é a constante usual da técnica
+        (achata a diferença entre 1º e 2º lugar; não é sensível a ajuste
+        fino).
+
+        `ts_rank` empata muito pra termo único (a maioria das perguntas
+        curtas) — o desempate por distância de embedding evita que a ordem
+        vire loteria entre documentos igualmente "1 menção da palavra", e
+        deixa o que é mais parecido de verdade na frente dentro do empate.
+        """
+        candidatos_por_via = max(limit * 3, 15)
         async with self._pool.acquire() as conn:
             await register_vector(conn)
             rows = await conn.fetch(
                 """
+                WITH vetor AS (
+                    SELECT fonte_tipo, fonte_ref, titulo, texto,
+                           1 - (embedding <=> $1) AS similaridade,
+                           row_number() OVER (ORDER BY embedding <=> $1) AS posicao
+                    FROM rag_chunks
+                    ORDER BY embedding <=> $1
+                    LIMIT $3
+                ),
+                texto_livre AS (
+                    SELECT fonte_tipo, fonte_ref, titulo, texto,
+                           1 - (embedding <=> $1) AS similaridade,
+                           row_number() OVER (ORDER BY ts_rank(
+                               to_tsvector('portuguese', titulo || ' ' || texto),
+                               plainto_tsquery('portuguese', $2)
+                           ) DESC, embedding <=> $1) AS posicao
+                    FROM rag_chunks
+                    WHERE to_tsvector('portuguese', titulo || ' ' || texto)
+                          @@ plainto_tsquery('portuguese', $2)
+                    ORDER BY ts_rank(
+                        to_tsvector('portuguese', titulo || ' ' || texto),
+                        plainto_tsquery('portuguese', $2)
+                    ) DESC, embedding <=> $1
+                    LIMIT $3
+                ),
+                combinado AS (
+                    SELECT fonte_tipo, fonte_ref, titulo, texto, similaridade,
+                           1.0 / (60 + posicao) AS pontuacao_rrf
+                    FROM vetor
+                    UNION ALL
+                    SELECT fonte_tipo, fonte_ref, titulo, texto, similaridade,
+                           1.0 / (60 + posicao) AS pontuacao_rrf
+                    FROM texto_livre
+                )
                 SELECT fonte_tipo, fonte_ref, titulo, texto,
-                       1 - (embedding <=> $1) AS similaridade
-                FROM rag_chunks
-                ORDER BY embedding <=> $1
-                LIMIT $2
+                       max(similaridade) AS similaridade
+                FROM combinado
+                GROUP BY fonte_tipo, fonte_ref, titulo, texto
+                ORDER BY sum(pontuacao_rrf) DESC
+                LIMIT $4
                 """,
                 embedding,
+                question,
+                candidatos_por_via,
                 limit,
             )
         return [
