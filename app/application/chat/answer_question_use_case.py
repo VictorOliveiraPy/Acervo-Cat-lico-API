@@ -11,7 +11,11 @@ from app.core.config import settings
 from app.domain.chat.answer_generator import AnswerGenerator
 from app.domain.chat.embedding_gateway import EmbeddingGateway
 from app.domain.chat.entities import ChatAnswer, ChunkResult, CitedSource
-from app.domain.chat.relevance import NO_MATCH_MESSAGE, select_relevant
+from app.domain.chat.relevance import (
+    INSUFFICIENT_CONTEXT_MARKER,
+    NO_MATCH_MESSAGE,
+    select_relevant,
+)
 from app.domain.chat.repository import RagRepository
 
 
@@ -49,7 +53,7 @@ class AnswerQuestionUseCase:
     async def execute(self, question: str) -> ChatAnswer:
         embedding = await self._embedding_gateway.embed_query(question)
         chunks = await self._repository.search(
-            embedding, limit=settings.chat_max_context_chunks
+            embedding, question, limit=settings.chat_max_context_chunks
         )
         relevant = select_relevant(chunks)
 
@@ -59,4 +63,19 @@ class AnswerQuestionUseCase:
             return ChatAnswer(answer=NO_MATCH_MESSAGE, sources=[])
 
         answer = await self._answer_generator.generate(question, relevant)
+
+        # O modelo devolve este marcador (ver SYSTEM_PROMPT) quando os
+        # trechos passaram no filtro de similaridade mas nenhum responde de
+        # verdade à pergunta — troca por NO_MATCH_MESSAGE e some com as
+        # fontes, pro visitante nunca ver um verbete citado como "fonte" de
+        # uma resposta que o próprio texto (ou, antes desta troca, o texto
+        # improvisado pelo modelo) admitia não responder à pergunta.
+        # `in`, não `==`: o prompt pede o marcador sozinho, mas um LLM não
+        # segue formatação à risca 100% das vezes (pontuação extra, aspas) —
+        # checar containment é robusto a esse ruído sem custar precisão (o
+        # marcador é uma palavra deliberadamente distinta, sem chance real
+        # de aparecer por acaso numa resposta legítima).
+        if INSUFFICIENT_CONTEXT_MARKER in answer:
+            return ChatAnswer(answer=NO_MATCH_MESSAGE, sources=[])
+
         return ChatAnswer(answer=answer, sources=_unique_sources(relevant))

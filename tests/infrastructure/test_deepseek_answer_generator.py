@@ -87,6 +87,27 @@ def test_should_include_scope_and_anti_injection_rules_in_system_prompt() -> Non
     assert "só existe para o mundo católico" in SYSTEM_PROMPT.lower() or "fora desse escopo" in SYSTEM_PROMPT.lower()
 
 
+def test_should_require_the_insufficient_context_marker_verbatim() -> None:
+    """Bug real corrigido: antes, o modelo improvisava a recusa em texto
+    livre ("a palavra parece incompleta...") — às vezes incoerente — e
+    listava os títulos dos trechos não usados como se fossem fonte da
+    resposta. `AnswerQuestionUseCase` só sabe trocar isso por uma recusa
+    coerente e sumir com as fontes se o modelo devolver este marcador
+    exato, então o prompt precisa exigi-lo — ver
+    app/domain/chat/relevance.py::INSUFFICIENT_CONTEXT_MARKER."""
+    from app.domain.chat.relevance import INSUFFICIENT_CONTEXT_MARKER
+
+    assert INSUFFICIENT_CONTEXT_MARKER in SYSTEM_PROMPT
+    assert "não liste os títulos" in SYSTEM_PROMPT.lower()
+
+
+def test_should_instruct_readable_structure_and_forbid_citing_titles_inline() -> None:
+    """Bug real corrigido: resposta completa listando os títulos dos
+    trechos dentro do próprio texto, sem estrutura, difícil de ler."""
+    assert "parágrafos curtos" in SYSTEM_PROMPT.lower()
+    assert "nunca cite os títulos dos trechos" in SYSTEM_PROMPT.lower()
+
+
 async def test_should_send_system_as_first_message_with_role_system(
     monkeypatch: pytest.MonkeyPatch,
 ) -> None:
