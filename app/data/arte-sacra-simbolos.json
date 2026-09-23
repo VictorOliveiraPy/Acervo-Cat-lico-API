@@ -16,81 +16,138 @@
       "id": "arte-sacra-simbolos:crucifixo",
       "slug": "crucifixo",
       "titulo": "O Crucifixo",
+      "resumo": "A cruz com o corpo de Cristo, símbolo central da fé católica, exigida pela norma litúrgica junto a cada altar de celebração.",
+      "corpo": "O crucifixo — a cruz com a imagem do corpo de Cristo crucificado — condensa visualmente o núcleo da fé cristã: a Paixão e a Morte de Jesus como ato supremo de amor redentor. Distingue-se da cruz nua (mais frequente em contextos protestantes, que tendem a enfatizar a Ressurreição) por manter visível o Crucificado. Sua legitimidade doutrinal remonta ao Segundo Concílio de Niceia (787), o sétimo concílio ecumênico, que, encerrando a crise iconoclasta, reafirmou a veneração das imagens sagradas e distinguiu a adoração (latria), devida somente a Deus, da veneração (dulia) prestada às imagens — cuja honra passa a quem nelas é representado. O argumento decisivo era cristológico: porque o Verbo se fez homem e teve um rosto visível, é lícito representá-lo.\n\nNa disciplina litúrgica católica, o crucifixo é exigido junto ao altar. A Instrução Geral do Missal Romano (edição típica terceira, 2002), no n. 308, determina: \"Haja também sobre o altar ou perto dele uma cruz com a imagem de Cristo crucificado, que seja claramente visível ao povo reunido. Convém que essa cruz [...] permaneça junto ao altar também fora das celebrações litúrgicas\". A norma, portanto, não pede meramente uma cruz, mas uma cruz com a effigie Christi crucifixi — o corpo do Crucificado — bem visível à assembleia.\n\nA presença do crucifixo em espaços públicos foi objeto de disputa jurídica recente. No caso Lautsi contra a Itália, a Segunda Câmara do Tribunal Europeu dos Direitos Humanos decidiu em 3 de novembro de 2009, por unanimidade, que a exposição obrigatória do crucifixo nas salas de aula estatais italianas violava a liberdade religiosa e o direito à educação. A decisão provocou reação inédita: dez Estados-membros do Conselho da Europa ingressaram na causa em apoio à Itália, e o governo italiano recorreu à Grande Chambre, que em 18 de março de 2011 reverteu o julgado por 15 votos a 2, entendendo que a decisão de perpetuar uma tradição cabe à margem de apreciação nacional e que \"um crucifixo na parede é um símbolo essencialmente passivo\", cuja influência sobre os alunos não se compara à do discurso didático.\n\nComo obra de arte, um dos crucifixos mais célebres é o de Cimabue para a Basílica de Santa Croce, em Florença, pintado em têmpera sobre madeira por volta de 1265 (cerca de 4,5 metros de altura), encomendado pelos frades franciscanos e uma das primeiras obras italianas a romper com o estilo bizantino tardio pela representação mais corpórea de Cristo. Sobreviveu à inundação do rio Arno em 4 de novembro de 1966, que lhe arrancou boa parte da superfície pintada — estima-se a perda de cerca de 60% da pintura original — e foi submetido a uma restauração de dez anos conduzida por Umberto Baldini e Ornella Casazza, com método que optou por não disfarçar as lacunas. Sua fotografia submersa tornou-se uma das imagens-símbolo da catástrofe artística de Florença.\n\nO crucifixo permanece, além do uso litúrgico, um dos sinais identitários mais imediatos da presença católica em lares, escolas e espaço público, e objeto recorrente de debates sobre laicidade do Estado e liberdade religiosa.",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "A cruz com o corpo de Cristo, símbolo central de toda a fé católica e presença obrigatória em cada altar.",
-      "corpo": "O crucifixo — a cruz representando o corpo de Cristo crucificado — condensa visualmente o núcleo da fé cristã: a Paixão e Morte de Jesus como ato supremo de amor redentor. Distingue-se da cruz nua (mais comum em contextos protestantes, que enfatizam a Ressurreição) por manter visível o sofrimento redentor de Cristo. A norma litúrgica católica exige um crucifixo visível próximo ao altar em toda celebração da Missa, e sua presença em lares, salas de aula e espaços públicos tem sido, ao longo da história, um dos sinais identitários mais imediatos da presença católica numa cultura.",
       "tags": [
         "cruz",
         "Paixão",
         "altar",
-        "Missa"
+        "Missa",
+        "Cristo crucificado",
+        "Instrução Geral do Missal Romano",
+        "Concilio de Niceia II",
+        "iconoclastia",
+        "Cimabue",
+        "Lautsi contra Itália"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Cimabue%2C_crocifisso_di_santa_croce.JPG",
       "imagem_credito": "sailko — Wikimedia Commons, CC BY-SA 3.0",
+      "fontes": [
+        "Instrução Geral do Missal Romano, edição típica terceira (2002), n. 308 (texto latino e traduções oficiais)",
+        "Segundo Concílio de Niceia (787), decreto sobre a veneração das imagens sagradas",
+        "Lautsi e outros contra Itália, Tribunal Europeu dos Direitos Humanos, Câmara (3/11/2009) e Grande Chambre (18/3/2011), req. 30814/06",
+        "Crucifix (Cimabue, Santa Croce), Wikipedia em inglês, e Museo dell'Opera di Santa Croce (ficha da obra e restauração de 1966)",
+        "Umberto Baldini e Ornella Casazza, 'El Crucifijo de Cimabue' (restauração do Cristo de Cimabue)"
+      ],
       "ordem": 1
     },
     {
       "id": "arte-sacra-simbolos:ihs",
       "slug": "ihs",
       "titulo": "IHS",
+      "resumo": "O trigrama formado pelas três primeiras letras do nome de Jesus em grego, difundido por São Bernardino de Sena e adotado como emblema da Companhia de Jesus.",
+      "corpo": "IHS deriva das três primeiras letras do nome \"Jesus\" em grego (ΙΗΣΟΥΣ — Iota, Eta, Sigma), transliteradas para o alfabeto latino (IHS ou JHS). É uma das formas do cristograma ocidental, o monograma que abrevia o nome de Cristo. A devoção ao Santíssimo Nome desenvolveu-se sobretudo a partir dos séculos XII e XIII, com raízes em autores como Santo Anselmo de Cantuária († 1109) e São Bernardo de Claraval († 1153); São Francisco de Assis, em seu Testamento, já recomendava recolher e guardar em lugar digno os nomes do Senhor escritos em lugares inconvenientes.\n\nO grande propagador do trigrama foi o franciscano São Bernardino de Sena (1380–1444), um dos pregadores mais famosos da Itália do século XV, que percorreu a península pregando o Nome de Jesus como instrumento de reconciliação entre famílias e facções rivais. Bernardino costumava pregar segurando uma tábua com o monograma, que enriquecia com uma cruz sobre a letra H, em alusão à Paixão, e raios de sol em torno das letras, remetendo à Ressurreição. A prática causou controvérsia: por volta de 1427 foi acusado de heresia, sob suspeita de idolatria na veneração do Nome, e convocado a Roma. O papa Martinho V acabou reconhecendo a ortodoxia da devoção, e a defesa teria sido reforçada por seu discípulo São João de Capistrano, que compareceu à Cidade Eterna com um estandarte exibindo o Nome de Jesus.\n\nA difusão do IHS não se limitou ao uso devocional: o monograma, sobre fundo de sol resplandecente, foi usado na Itália do século XV para substituir em espaços públicos tanto símbolos pagãos quanto os emblemas das facções políticas dos guelfos e gibelinos. A festa do Santíssimo Nome de Jesus, celebrada inicialmente a nível local, foi estendida a toda a Igreja Católica Romana pelo papa Inocêncio XIII em 20 de dezembro de 1721; em 1530 Clemente VII havia ordenado aos franciscanos o ofício do Santíssimo Nome, com o hino \"Iesu decus angelicum\".\n\nPosteriormente, o IHS foi adotado como emblema oficial da Companhia de Jesus, segundo a tradição introduzido por Santo Inácio de Loyola em 1541; sua forma jesuíta traz o H coroado por uma cruz, sobre três cravos e rodeado de sol. A leitura popular — não etimológica — do trigrama como sigla da frase latina \"Iesus Hominum Salvator\" (\"Jesus, Salvador dos homens\") consagrou-se pelo uso, ainda que sua origem seja as letras gregas do próprio nome. O motivo aparece esculpido em fachadas de igrejas (como na do Gesù, em Roma), bordado em paramentos e gravado em vasos sagrados, lápides e objetos de devoção.",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "O trigrama que abrevia o nome de Jesus em grego, um dos monogramas cristãos mais difundidos na arte sacra ocidental.",
-      "corpo": "IHS deriva das três primeiras letras do nome \"Jesus\" em grego (ΙΗΣΟΥΣ – Iota, Eta, Sigma), transliteradas para o alfabeto latino. Popularizado sobretudo por São Bernardino de Sena no século XV e depois adotado como emblema oficial da Companhia de Jesus, o monograma passou a ser lido popularmente, por interpretação posterior (não etimológica), como sigla de frases latinas como \"Iesus Hominum Salvator\" (\"Jesus, Salvador dos homens\"). Aparece esculpido em fachadas de igrejas, bordado em paramentos e estampado em hóstias e vasos sagrados como abreviação venerável do nome de Jesus.",
       "tags": [
         "monograma",
+        "cristograma",
         "Companhia de Jesus",
-        "Bernardino de Sena"
+        "Bernardino de Sena",
+        "Santo Nome de Jesus",
+        "Inácio de Loyola",
+        "João de Capistrano",
+        "Inocêncio XIII",
+        "século XV"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/IHS_%28Piazza_del_Ges%C3%B9%29.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "Christogram, Wikipedia em inglês, seção sobre o IHS/JHS",
+        "Festa do Santíssimo Nome de Jesus, Wikipédia em português (Inocêncio XIII, 1721; Clemente VII, 1530)",
+        "São Bernardino de Siena: acusação de heresia e defesa diante de Martinho V (Revista Arautos do Evangelho; Província Franciscana do Santíssimo Nome de Jesus)",
+        "Wikimedia Commons: Categoria IHS (Christian emblem); File:IHS monogram Gesu.jpg",
+        "Filipenses 2,9-10 e Catecismo da Igreja Católica, n. 432 (sobre o Nome de Jesus)"
+      ],
       "ordem": 2
     },
     {
       "id": "arte-sacra-simbolos:crismon",
       "slug": "crismon",
       "titulo": "Crismon (Chi-Rho)",
+      "resumo": "As duas primeiras letras gregas da palavra \"Cristo\" sobrepostas, um dos símbolos cristãos mais antigos, associado à vitória de Constantino na Ponte Mílvia.",
+      "corpo": "O Crismon, ou Chi-Rho, sobrepõe as letras gregas Chi (Χ) e Ro (Ρ), as duas primeiras da palavra ΧΡΙΣΤΟΣ (Christos, \"Cristo\"), de tal modo que a haste vertical do rô cruza o centro do chi. É uma das formas mais antigas do cristograma, atestada desde a Antiguidade tardia. No século IV, segundo relato de Lactâncio em De Mortibus Persecutorum (c. 315), Constantino teria visto um sinal de luz em forma de cruz antes de enfrentar Maxêncio; o bispo Eusébio de Cesareia, na Vida de Constantino (composta após 337), descreve uma cruz de luz sobre o sol acompanhada das palavras gregas \"(ἐν) τούτῳ νίκα\" — \"com isto, vence\" —, que a tradição latina verteu pela frase \"in hoc signo vinces\". Os dois relatos não são inteiramente coincidentes, mas a tradição os uniu à Batalha da Ponte Mílvia, travada em 28 de outubro de 312, e à subsequente adoção do estandarte militar com o monograma, o labarum.\n\nConvém precisar um ponto frequentemente deturpado: a frase \"in hoc signo vinces\" é uma fórmula latina posterior, e não a citação literal de Eusébio, que registra as palavras gregas. O sinal descrito por Eusébio é, além disso, um cristograma (Chi-Rho, por vezes com Alfa e Ômega), enquanto Lactâncio fala de um tropaion em forma de cruz. A partir de Constantino, o Chi-Rho difundiu-se por escudos, moedas, sarcófagos, catacumbas e edifícios cristãos, e a partir de então aparece com frequência ladeado pelo Alfa e pelo Ômega, primeira e última letras do alfabeto grego, aludindo a Cristo como princípio e fim (Ap 1,8).\n\nO próprio nome \"crismon\" liga-se a uma tradição milanesa: segundo Landulfo de Milão (século XII), Santo Ambrósio teria usado o símbolo para introduzir os catecúmenos nos mistérios da fé, e o termo \"crismon\" (do grego chresmos, \"oráculo\") teria daí derivado, dando origem ao nome latino do símbolo. O Chi-Rho aparece ainda cercado por uma coroa de louros no sarcófago do século IV atribuído à família Domitila, em Roma, onde a grinalda simboliza a vitória da Ressurreição sobre a morte.\n\nNas artes do livro, o Chi-Rho foi amplamente empregado: a página do famoso Livro de Kells (fólio 34r) abre o relato da Natividade com uma inicial Chi-Rho ricamente ornamentada. O símbolo mantém-se vivo na arte sacra contemporânea, gravado em cálices, alfaias, frontões e mosaicos, e serve de emblema a instituições eclesiásticas e educacionais.",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "As duas primeiras letras gregas da palavra \"Cristo\" sobrepostas, um dos símbolos cristãos mais antigos, usado desde Constantino.",
-      "corpo": "O Crismon, ou Chi-Rho, sobrepõe as letras gregas Chi (X) e Ro (P), as duas primeiras da palavra \"Christos\". Segundo a tradição relatada por Eusébio de Cesareia, o imperador Constantino teria visto esse sinal no céu antes da batalha da Ponte Mílvia (312), acompanhado das palavras \"in hoc signo vinces\" (\"com este sinal vencerás\"), e ordenou que fosse pintado nos escudos de suas tropas. A partir daí, tornou-se um dos símbolos cristãos mais difundidos da Antiguidade tardia, gravado em sarcófagos, moedas, catacumbas e edifícios cristãos primitivos, muitas vezes acompanhado das letras gregas Alfa e Ômega.",
       "tags": [
         "Constantino",
         "Ponte Mílvia",
-        "catacumbas"
+        "catacumbas",
+        "Chi-Rho",
+        "cristograma",
+        "Eusébio de Cesareia",
+        "labarum",
+        "Alfa e Ômega",
+        "Santo Ambrósio"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/10/As-Constantine-XR_RIC_vII_019.jpg",
       "imagem_credito": "CNG.[1] — Wikimedia Commons, CC BY-SA 3.0",
+      "fontes": [
+        "Eusébio de Cesareia, Vida de Constantino, livro I (relato da visão e do labarum)",
+        "Lactâncio, De Mortibus Persecutorum (c. 315)",
+        "Chi Rho, Wikipédia em inglês (sarcófago de Domitila, crismon de Santo Ambrósio, Livro de Kells)",
+        "In hoc signo vinces, Wikipédia em inglês (registro das palavras gregas 'τούτῳ νίκα')",
+        "Wikimedia Commons: Categoria Chi Rho (File:Chirho.svg, File:Chrismon Sancti Ambrosii.jpg)"
+      ],
       "ordem": 3
     },
     {
       "id": "arte-sacra-simbolos:alfa-e-omega",
       "slug": "alfa-e-omega",
       "titulo": "Alfa e Ômega",
-      "categoria": "arte-sacra-simbolos",
       "resumo": "As duas letras extremas do alfabeto grego, símbolo de Cristo como princípio e fim de toda a criação.",
-      "corpo": "\"Eu sou o Alfa e o Ômega, o princípio e o fim, diz o Senhor Deus\" (Ap 1,8; 22,13) — as duas letras extremas do alfabeto grego, colocadas lado a lado, tornaram-se símbolo direto dessa autoafirmação divina de Cristo como origem e destino de toda a história e de toda a criação. Frequentemente combinadas com o Crismon ou com a cruz em arte funerária, batistérios e o próprio Círio Pascal — no qual o sacerdote as inscreve solenemente durante a Vigília Pascal, junto com o ano corrente, proclamando que \"a Ele pertencem o tempo e a eternidade\".",
+      "corpo": "\"Eu sou o Alfa e o Ômega, o princípio e o fim, diz o Senhor Deus\" (Ap 1,8; cf. 21,6 e 22,13) — as duas letras extremas do alfabeto grego, colocadas lado a lado, tornaram-se símbolo direto dessa autoafirmação de Cristo como origem e destino de toda a história e de toda a criação. O título aparece três vezes no Apocalipse: no capítulo 1 aplica-se a Deus (\"o que é, que era e que vem, o Todo-Poderoso\"); nos dois últimos capítulos, a Cristo — o que, para os exegetas, é um dos indícios de que o autor atribui a Cristo a própria divindade de Deus. A fórmula grega substitui o hebraico \"primeiro e último\" já usado em Isaías (Is 41,4; 44,6; 48,12) e reiterado no próprio Apocalipse (Ap 1,17-18; 2,8).",
+      "categoria": "arte-sacra-simbolos",
       "tags": [
         "Apocalipse",
         "Círio Pascal",
-        "eternidade"
+        "eternidade",
+        "Crismon",
+        "símbolo cristológico"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Alpha_and_Omega_%2849643228228%29.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "Bíblia de Jerusalém / Bíblia Ave-Maria, Ap 1,8; 21,6; 22,13",
+        "Prudêncio, Cathemerinon, hino IX (\"Alpha et Omega cognominatus, ipse fons et clausula omnium…\")",
+        "The Catholic Encyclopedia, verbete \"Alpha and Omega\"",
+        "Missal Romano, Vigília Pascal — bênção do fogo novo e inscrição do Círio Pascal"
+      ],
       "ordem": 4
     },
     {
       "id": "arte-sacra-simbolos:peixe-ictus",
       "slug": "peixe-ictus",
       "titulo": "O Peixe (Ichthys)",
+      "resumo": "Um dos símbolos mais antigos do cristianismo, acróstico grego que professa a fé em Cristo Filho de Deus e Salvador.",
+      "corpo": "A palavra grega \"ichthys\" (ἰχθύς, peixe) funciona como acróstico: cada uma de suas cinco letras inicia uma palavra da confissão de fé \"Iesous Christos Theou Yios Soter\" (Ἰησοῦς Χριστός, Θεοῦ Υἱός, Σωτήρ) — \"Jesus Cristo, Filho de Deus, Salvador\". O símbolo é atestado desde o século II em evidências tanto textuais quanto arqueológicas: Tertuliano, no início do século III, escreve que os cristãos são \"peixinhos\" (\"nos, pisciculi, secundum ἰχθύν nostrum Iesum Christum, in aqua nascimur\", De baptismo, 1), e Santo Agostinho, na Cidade de Deus, explica que as letras iniciais das cinco palavras gregas formam a palavra \"peixe\", sob a qual Cristo é misticamente entendido.",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "Um dos símbolos mais discretos e engenhosos do cristianismo primitivo, acróstico grego que professa a fé em Cristo Salvador.",
-      "corpo": "A palavra grega \"ichthys\" (peixe) funciona como acróstico: cada uma de suas letras inicia uma palavra da confissão de fé \"Iesous CHristos THeou Yios Soter\" — \"Jesus Cristo, Filho de Deus, Salvador\". Usado pelos primeiros cristãos como sinal discreto de reconhecimento mútuo em tempos de perseguição — bastava desenhar um simples arco no chão, que o outro completava formando o peixe, se também fosse cristão —, sobreviveu como símbolo popular até hoje, inclusive fora de contextos estritamente litúrgicos, como adesivo em veículos e joias.",
       "tags": [
         "acróstico grego",
-        "perseguição",
-        "cristianismo primitivo"
+        "cristianismo primitivo",
+        "catacumbas",
+        "Eucaristia",
+        "Tertuliano",
+        "Agostinho"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Pectorios_Inscription.jpg",
       "imagem_credito": "Wikimedia Commons, CC BY-SA 4.0",
+      "fontes": [
+        "Tertuliano, De baptismo, c. 1 (\"nos, pisciculi, secundum ἰχθύν nostrum Iesum Christum, in aqua nascimur\")",
+        "Santo Agostinho, De Civitate Dei, XVIII (sobre o acróstico ΙΧΘΥΣ na profecia da Sibila Eritreia)",
+        "Inscrição de Pectorius (Autun, descoberta em 24 de junho de 1839, sete fragmentos de mármore; textos de Pitra, 1852; De Rossi sugere fim do séc. II/início do III)",
+        "Inscrição de Abercius de Hierópolis (c. 216; De Rossi, Lightfoot, Ramsay e Tixeront — o testamento espiritual em versos, o \"peixe grandíssimo\" e a Eucaristia)",
+        "The Catholic Encyclopedia, verbetes \"Pectorius of Autun\", \"Inscription of Abercius\" e \"Symbolism of the Fish\""
+      ],
       "ordem": 5
     },
     {
@@ -114,164 +171,271 @@
       "id": "arte-sacra-simbolos:pelicano-eucaristico",
       "slug": "pelicano-eucaristico",
       "titulo": "O Pelicano Eucarístico",
+      "resumo": "Uma lenda naturalista falsa, difundida pelo Physiologus, sobre a ave que alimentaria os filhotes com o próprio sangue tornou-se símbolo tradicional do sacrifício eucarístico de Cristo.",
+      "corpo": "O pelicano que fere o próprio peito para alimentar os filhotes com sangue é, na arte sacra, uma das mais duradouras metáforas visuais de Cristo que se entrega na Eucaristia. A crença não tem base zoológica: deriva de observação equivocada. Para alimentar a ninhada, o pelicano curva o bico longo contra o peito a fim de regurgitar o peixe capturado, e o sangue das presas mancha-lhe as penas de vermelho — dando a impressão de que rasga a própria carne. A lenda foi fixada por escrito no Physiologus, texto naturalista-teológico composto em Alexandria, no Egito, entre os séculos II e IV, antepassado dos bestiários medievais, que alegorizavam os animais com sentido moral e espiritual. Numa versão, a mãe alimenta os filhotes com seu sangue em tempo de fome; noutra, encontra-os mortos e os revive com o sangue, perdendo a própria vida.",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "Uma lenda medieval sobre a ave que alimentaria os filhotes com o próprio sangue tornou-se símbolo tradicional da Eucaristia.",
-      "corpo": "Segundo uma crença zoológica medieval sem base real, o pelicano feriria o próprio peito para alimentar os filhotes com seu sangue em tempos de escassez — ou os ressuscitaria assim após matá-los acidentalmente. Essa lenda tornou-se, na arte sacra medieval e barroca, poderosa metáfora eucarística de Cristo que se entrega e derrama seu sangue para dar vida aos fiéis, tema retomado explicitamente pelo hino \"Adoro Te Devote\", atribuído a Tomás de Aquino, que invoca Jesus como \"pelicano piedoso\". Aparece esculpido com frequência em sacrários, púlpitos e ostensórios.",
       "tags": [
         "Eucaristia",
         "Tomás de Aquino",
-        "Adoro Te Devote"
+        "Adoro Te Devote",
+        "Physiologus",
+        "bestiários medievais",
+        "Corpus Christi",
+        "Dante Alighieri",
+        "símbolos de Cristo"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Denver_Cathedral%2C_window_16a%2C_sanctuary%2C_The_Crucifixion_%28with_Pelican%29.jpg",
       "imagem_credito": "Workman — Wikimedia Commons, CC BY-SA 4.0",
+      "fontes": [
+        "Physiologus (texto grego, séc. II–IV, Alexandria)",
+        "Tomás de Aquino, hino Adoro Te Devote (composto a pedido do papa Urbano IV, bula Transiturus hoc mundo, 1264): \"Pie pellicane, Iesu Domine, me immundum munda tuo sanguine\"",
+        "Dante Alighieri, Divina Comédia, Paraíso, canto XXV (Cristo chamado \"nostro Pelicano\")",
+        "Catholic Encyclopedia (1913), verbete \"Pelican\"",
+        "A12.com — \"O significado do pelicano na tradição da Igreja Católica\"",
+        "artandtheology.org — \"The Vulning Pelican as an Allegory of Christ\" (2025)",
+        "Próclamaí — \"O Pelicano como Símbolo Eucarístico na Tradição Católica\""
+      ],
       "ordem": 7
     },
     {
       "id": "arte-sacra-simbolos:trindade-triangulo",
       "slug": "trindade-triangulo",
       "titulo": "O Triângulo Trinitário",
+      "resumo": "A figura geométrica de três lados iguais e um só contorno, símbolo visual recorrente da unidade e igualdade das três Pessoas divinas, às vezes associada ao Olho da Providência.",
+      "corpo": "O triângulo equilátero — três lados e três ângulos idênticos formando uma única figura fechada — tornou-se símbolo visual conveniente, ainda que necessariamente limitado, da doutrina trinitária: três Pessoas realmente distintas (Pai, Filho e Espírito Santo) e, ao mesmo tempo, um único e mesmo Deus, sem subordinação de uma Pessoa às outras. Por sua própria geometria, expressa a igualdade das Pessoas e a unidade da essência divina, e por isso aparece em retábulos, vitrais, frontões e forros de igrejas dedicadas à Santíssima Trindade. Trata-se, como toda imagem aplicada ao mistério, de uma analogia imperfeita: nenhuma figura pode exaurir a vida íntima de Deus.",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "A figura geométrica de três lados iguais e um só contorno, símbolo visual recorrente da unidade e igualdade das três Pessoas divinas.",
-      "corpo": "O triângulo equilátero — três lados e três ângulos idênticos formando uma única figura fechada — tornou-se símbolo visual conveniente, ainda que necessariamente limitado, da doutrina trinitária: três Pessoas realmente distintas (Pai, Filho e Espírito Santo) e, ao mesmo tempo, um único e mesmo Deus, sem subordinação de uma pessoa às outras. Aparece com frequência com um olho no centro (o \"Olho da Providência\"), irradiando luz, ou entrelaçado com o Crismon, especialmente em retábulos, vitrais e frontispícios barrocos dedicados à Santíssima Trindade.",
       "tags": [
         "Trindade",
         "Olho da Providência",
-        "barroco"
+        "barroco",
+        "escudo da Trindade",
+        "Scutum Fidei",
+        "Credo Atanasiano",
+        "símbolos de Deus"
       ],
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Robert_Campin_-_The_Holy_Trinity_%28detail%29_-_WGA14433.jpg",
-      "imagem_credito": null,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/43/Saint_Joseph_Catholic_Church_%28Wapakoneta%2C_Ohio%29_-_stained_glass%2C_Trinitarian_Eye_of_Providence.jpg",
+      "imagem_credito": "Nheyob — Wikimedia Commons, CC BY-SA 4.0 (2016)",
+      "fontes": [
+        "Wikipédia (pt), verbete \"Olho da Providência\"",
+        "Wikipédia (en), verbete \"Shield of the Trinity (Scutum Fidei)\"",
+        "Simbologia.wiki — \"Shield of the Trinity\"; British Library, John of Wallingford (c. 1247–1258) e Sherborne Missal",
+        "Catecismo da Igreja Católica, nn. 232–267 (doutrina trinitária e limites das imagens de Deus)"
+      ],
       "ordem": 8
     },
     {
       "id": "arte-sacra-simbolos:pomba-espirito-santo",
       "slug": "pomba-espirito-santo",
       "titulo": "A Pomba do Espírito Santo",
+      "resumo": "A imagem bíblica que representa a terceira Pessoa da Trindade descendo sobre Jesus no Batismo e sobre a Igreja em Pentecostes, presente na Cathedra Petri de Bernini.",
+      "corpo": "A pomba branca em voo, geralmente irradiando raios de luz, é a representação visual mais universal do Espírito Santo na arte cristã, com base direta nos relatos evangélicos do Batismo de Jesus: \"o Espírito Santo desceu sobre ele em forma corpórea, como pomba\" (Lc 3,22; cf. Mt 3,16 e Jo 1,32). O episódio é o modelo iconográfico que a arte cristã desenvolveu em cenas de Anunciação, Batismo, Transfiguração e Pentecostes (At 2), onde a pomba por vezes encabeça línguas de fogo. Os Padres viram na pomba símbolos de pureza, mansidão e paz, associando-a à ave enviada por Noé que retornou com o ramo de oliveira (Gn 8,11), sinal de reconciliação, e relacionando-a com o amor criador que paira sobre as águas em Gn 1,2.",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "A imagem bíblica que representa a terceira Pessoa da Trindade descendo sobre Jesus no Batismo e sobre a Igreja em Pentecostes.",
-      "corpo": "A pomba branca em voo, geralmente irradiando raios de luz, é a representação visual mais universal do Espírito Santo na arte cristã, com base direta nos relatos evangélicos do Batismo de Jesus, quando \"o Espírito Santo desceu sobre ele em forma corpórea, como pomba\" (Lc 3,22). Aparece de modo recorrente em cenas de Anunciação, Batismo, Pentecostes e no célebre vitral da abside da Basílica de São Pedro, esculpido por Bernini, onde a pomba domina toda a composição como fonte luminosa da glória celeste.",
       "tags": [
         "Espírito Santo",
         "Batismo de Jesus",
         "Bernini",
-        "Pentecostes"
+        "Pentecostes",
+        "Cathedra Petri",
+        "basílica de São Pedro",
+        "Lucas 3,22",
+        "símbolos da Trindade"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Rom%2C_Vatikan%2C_Basilika_St._Peter%2C_Die_Taube_des_Heiligen_Geistes_%28Cathedra_Petri%2C_Bernini%29.jpg",
       "imagem_credito": "Dnalor 01 — Wikimedia Commons, CC BY-SA 3.0 at",
+      "fontes": [
+        "Lucas 3,22; Mateus 3,16; João 1,32; Gênesis 1,2; Gênesis 8,11; Atos 2 (Pentecostes)",
+        "Catedral de São Pedro, Cathedra Petri (Cátedra de Pedro), obra de Gian Lorenzo Bernini concluída em 1666 sob o papa Alexandre VII — guia oficial da Basílica (stpetersbasilica.info)",
+        "Wikipédia (en) — verbetes \"Cathedra Petri\" e \"Holy Spirit in Christian art\""
+      ],
       "ordem": 9
     },
     {
       "id": "arte-sacra-simbolos:coracao-sagrado-de-jesus",
       "slug": "coracao-sagrado-de-jesus",
       "titulo": "O Sagrado Coração de Jesus",
+      "resumo": "A imagem do coração de Cristo, coroado de espinhos, ferido e chamejante de amor, símbolo central da devoção reparadora difundida a partir das revelações a Santa Margarida Maria Alacoque em Paray-le-Monial.",
+      "corpo": "A representação do Sagrado Coração de Jesus — coração visível, coroado de espinhos, ferido por uma lança, envolto em chamas e frequentemente encimado por uma cruz — consolidou-se a partir das revelações privadas que Santa Margarida Maria Alacoque (1647–1690), religiosa da Visitação, afirmou ter recebido em Paray-le-Monial, na Borgonha, entre 1673 e 1675. Segundo sua Autobiografia, na primeira dessas experiências, em 27 de dezembro de 1673, Jesus a fez repousar sobre o seu peito e lhe mostrou o coração abrasado de amor; em junho de 1675 teria vindo o pedido explícito de uma festa em honra do seu Coração, a ser celebrada na sexta-feira depois da oitava de Corpus Christi, acompanhada da consagração reparadora. Dessa mensagem derivam as chamadas \"doze promessas\" atribuídas à devoção.\n\nA difusão da devoção deve muito ao jesuíta São Cláudio de la Colombière (1641–1682), superior da casa da Companhia de Jesus em Paray-le-Monial e confessor da religiosa, que acolheu e defendeu a autenticidade de suas experiências num contexto de desconfiança dentro do próprio convento. As anotações e o testemunho de La Colombière ajudaram a firmar a devoção, e a comunidade da Visitação celebrou ali a primeira festa do Sagrado Coração. Margarida Maria foi canonizada por Bento XV em 13 de maio de 1920; La Colombière foi beatificado por Pio XI em 1929 e canonizado por João Paulo II em 31 de maio de 1992.\n\nA recepção eclesiástica foi gradual e cautelosa. O culto litúrgico ao Coração de Cristo deriva, em parte, de festas medievais que o englobavam no mistério da Paixão e das Santas Chagas, e teve em São João Eudes um precursor no século XVII. A festa própria foi aprovada por Clemente XIII em 1765, inicialmente concedida à Polônia e à Arquiconfraria romana do Sagrado Coração (fundada em 1729); Pio IX a estendeu à Igreja universal em 1856. Em 1899, na encíclica Annum Sacrum, Leão XIII consagrou solenemente todo o gênero humano ao Sagrado Coração.\n\nDo ponto de vista da arte sacra, o tipo iconográfico do coração isolado — fora do peito, flamejante, cingido de espinhos e coroado pela cruz — difundiu-se largamente a partir do século XIX, quando a devoção reparadora se espalhou pela Europa e pelas missões. É uma das imagens devocionais mais reproduzidas em lares católicos, presente em pinturas, gravuras, estampas, vitrais e a própria arquitetura das igrejas.",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "A imagem do coração de Cristo, coroado de espinhos e chamejante de amor, símbolo central da devoção reparadora difundida a partir de Santa Margarida Maria.",
-      "corpo": "A representação do Sagrado Coração de Jesus — coroado de espinhos, ferido, envolto em chamas de amor e frequentemente encimado por uma cruz — consolidou-se a partir das aparições de Jesus a Santa Margarida Maria Alacoque no século XVII, que deram origem à devoção reparadora ao Sagrado Coração. Visualmente, condensa numa só imagem o amor infinito de Cristo pela humanidade, o sofrimento aceito por amor e o convite à reparação pelos pecados do mundo, tornando-se um dos ícones devocionais mais reproduzidos em lares católicos, sobretudo desde o século XIX.",
       "tags": [
+        "Sagrado Coração",
         "Margarida Maria Alacoque",
+        "Paray-le-Monial",
         "devoção reparadora",
-        "amor de Cristo"
+        "Cláudio de la Colombière",
+        "amor de Cristo",
+        "século XVII"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/SacredHeartBatoni.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "Autobiografia de Santa Margarida Maria Alacoque (Edições Loyola)",
+        "Bula de Clemente XIII (1765) e extensão da festa por Pio IX (1856)",
+        "Leão XIII, encíclica Annum Sacrum (1899)",
+        "Wikipedia (en): 'Claude La Colombière'; ACI Digital, 'São Cláudio de la Colombière' (15/02)"
+      ],
       "ordem": 10
     },
     {
       "id": "arte-sacra-simbolos:estola",
       "slug": "estola",
       "titulo": "A Estola",
-      "categoria": "arte-sacra-simbolos",
       "resumo": "A faixa de tecido que envolve o pescoço do sacerdote ou diácono, sinal distintivo por excelência da autoridade e do ofício sacramental ordenado.",
-      "corpo": "A estola é uma longa faixa de tecido usada pelo clero ordenado ao redor do pescoço — cruzada sobre o peito pelo sacerdote na tradição mais antiga, pendente reto nas celebrações atuais mais comuns, e apenas sobre o ombro esquerdo pelo diácono. É, entre todas as vestes litúrgicas, o sinal mais imediato do ofício de quem a usa: nenhum sacramento é ministrado sem ela, mesmo quando as demais vestimentas litúrgicas são dispensadas em circunstâncias excepcionais, como na confissão fora do confessionário ou na unção dos enfermos em emergência.",
+      "corpo": "A estola é uma longa faixa de tecido usada pelo clero ordenado ao redor do pescoço — cruzada sobre o peito pelo sacerdote na tradição mais antiga, pendente reta nas celebrações atuais mais comuns, e apenas sobre o ombro esquerdo, transversalmente, pelo diácono. Entre todas as vestes litúrgicas, é o sinal mais imediato do ofício de quem a usa: o sacerdote não celebra a Missa nem ministra os sacramentos sem ela.\n\nSeu nome original era orarium, termo ligado ao verbo latino orare (falar, pregar), o que fazia da faixa uma insígnia dos pregadores. A hipótese hoje abandonada de que derivasse da vestimenta civil romana chamada stola foi substituída por explicações ligadas a um pano litúrgico ou a um lenço de pescoço clerical, com introdução situada, no mais tardar, no século IV. No Oriente aparece primeiro como distintivo do serviço dos diáconos, já mencionada nos cânones do Sínodo de Laodiceia (c. 364). No Ocidente é atestada ao menos desde o século VI, e o Sínodo de Toledo (633) a apresenta como paramento de sacerdotes e bispos, entregue no próprio rito de ordenação. O nome stola, de origem gaulesa, penetrou na França e na Espanha por volta do século IX, chegou à Itália no século X e, a partir do século XIII, praticamente suplantou o termo orarium.\n\nNa Igreja Oriental a mesma veste recebe o nome de epitrachilion e é revestida pela cabeça, estendendo-se pela frente; na Igreja Latina, a estola deve ter a cor do dia e traz habitualmente uma cruz que o ministro beija antes de colocá-la. O Messal Romano prescreve seu uso obrigatório tanto para sacerdotes quanto para diáconos na Missa. Desde cedo os liturgistas sublinharam sua importância: São Bruno de Segni (1045–1123) observava que, para administrar o batismo, a confirmação ou outras funções, o sacerdote pode renunciar a todos os paramentos, exceto à estola. Por isso mesmo ela é usada — ainda que sem as demais vestes — em circunstâncias excepcionais, como a confissão fora do confessionário ou a unção dos enfermos em emergência.",
+      "categoria": "arte-sacra-simbolos",
       "tags": [
         "vestes litúrgicas",
+        "estola",
+        "orarium",
         "clero",
-        "sacramentos"
+        "sacramentos",
+        "diácono",
+        "liturgia"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Franc_Cardinal_Rode_ordination_of_priests_2_20100325.jpg",
       "imagem_credito": "James Bradley — Wikimedia Commons, CC BY 2.0",
+      "fontes": [
+        "Messal Romano (uso obrigatório da estola na Missa)",
+        "Cânones do Sínodo de Laodiceia (c. 364) e do Sínodo de Toledo (633)",
+        "Arte Ricami Liturgico, 'La stola sacerdotale e la stola diaconale: storia e significato'",
+        "The Catholic Encyclopedia, verbete 'Stole' (J. Braun, Die liturgische Gewandung)"
+      ],
       "ordem": 11
     },
     {
       "id": "arte-sacra-simbolos:casula",
       "slug": "casula",
       "titulo": "A Casula",
+      "resumo": "A veste externa e mais visível do sacerdote na celebração da Missa, herdeira do manto romano, cuja cor muda conforme o tempo litúrgico.",
+      "corpo": "A casula é a veste litúrgica externa usada pelo sacerdote durante a celebração da Missa, envolvendo todo o corpo como um manto sem mangas, colocada sobre a alva e a estola. Seu nome vem do latim casula, \"pequena casa\", porque envolvia quase inteiramente quem a vestia.\n\nAntes de ser paramento litúrgico, a casula foi uma sobreveste comum no mundo greco-latino: a paenula (em grego, phainólē), manto de forma circular com abertura ao centro para passar a cabeça, por vezes com capuz, que cobria o corpo até os tornozelos e resguardava do frio e da chuva; dela deriva também o nome planeta. A partir dos séculos IV–V, a paenula saiu de moda no uso civil, mas a Igreja a conservou como veste dos seus pastores, talvez por sua gravidade e dignidade. No século VI já aparece nos mosaicos de Ravena e em documentos das áreas franca e hispânica, com uso cada vez mais restrito ao clero, até se tornar veste sacerdotal distintiva.\n\nEntre os séculos IX e XVII a peça sofreu modificações significativas. Para libertar os braços, recebeu cortes laterais progressivos, passando da forma circular à ovoide; depois se encurtou na frente, assumindo feição ligeiramente pontuda. Após o Concílio de Trento, São Carlos Borromeu tentou conter esses cortes, fixando no seu Diretório para as Fábricas das Igrejas dimensões ainda generosas, mas o processo de redução continuou até transformar a antiga casula num quase escapulário em forma de viola — a chamada casula romana —, com os dois painéis por vezes profusamente bordados. Nessa evolução há um paradoxo notável: quanto mais a veste se atrofiava, mais a ornamentação se hipertrofiava. No século XIX a tendência se inverteu, com a redescoberta das formas antigas — a casula gótica, ampla e fluida —, movimento assumido pelo movimento litúrgico e consolidado no período pós-conciliar.\n\nA casula segue rigorosamente as cores do calendário litúrgico. A Instrução Geral do Missal Romano (§§ 345–346) explica que a diversidade de cores tem por finalidade exprimir o caráter peculiar dos mistérios celebrados e o sentido progressivo do ano litúrgico: branco ou dourado nas solenidades do Senhor e dos santos não mártires e nos tempos pascal e natalino; vermelho no Domingo de Ramos, na Sexta-feira Santa, em Pentecostes, nas festas dos apóstolos e evangelistas e dos mártires; verde no Tempo Comum; roxo no Advento e na Quaresma; preto, onde for costume, nas Missas de defuntos; e rosa, onde for costume, nos domingos Gaudete (III do Advento) e Laetare (IV da Quaresma).",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "A veste externa e mais visível do sacerdote na celebração da Missa, cuja cor muda conforme o tempo litúrgico.",
-      "corpo": "A casula é a veste litúrgica externa usada pelo sacerdote durante a celebração da Missa, envolvendo todo o corpo como um manto sem mangas. Sua cor segue rigorosamente o calendário litúrgico — verde no tempo comum, roxo no Advento e na Quaresma, branco ou dourado nas solenidades e tempos pascal e natalino, vermelho em festas de mártires, Pentecostes e Sexta-feira Santa, e ocasionalmente rosa em dois domingos específicos (Gaudete e Laetare) — comunicando visualmente, mesmo antes de qualquer palavra, o caráter espiritual de cada celebração ao longo do ano.",
       "tags": [
+        "casula",
+        "vestes litúrgicas",
         "cores litúrgicas",
         "Missa",
-        "calendário litúrgico"
+        "calendário litúrgico",
+        "paenula",
+        "Carlos Borromeu"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/28/Escudo_Arzobispado_de_Toledo_-_Imposicion_de_la_casulla_a_San_Ildefonso_%28Catedral_de_Toledo%29_%2821865919828%29.jpg",
       "imagem_credito": "jacilluch — Wikimedia Commons, CC BY-SA 2.0",
+      "fontes": [
+        "Instrução Geral do Missal Romano (IGMR), nn. 345–346",
+        "Voz Portucalense, 'Casula: arte, história e sentido de uma veste' (2025)",
+        "Centro de Estudos de História Religiosa (UCP), verbete 'Vestes litúrgicas'"
+      ],
       "ordem": 12
     },
     {
       "id": "arte-sacra-simbolos:ostensorio",
       "slug": "ostensorio",
       "titulo": "O Ostensório",
+      "resumo": "A peça de ourivesaria, também chamada custódia, usada para expor a Hóstia consagrada à adoração dos fiéis, geralmente em forma radiante de sol.",
+      "corpo": "O ostensório — conhecido também como custódia — é um objeto litúrgico de ourivesaria, geralmente de ouro, prata ou metal dourado, destinado a expor solenemente a Hóstia consagrada à adoração dos fiéis, sobre o altar ou em procissão. A etimologia é direta: a palavra vem do latim ostendere, \"mostrar\"; o termo equivalente monstrância (monstrance) vem de monstrare, com o mesmo sentido. Nos primeiros séculos, ambos os nomes designavam qualquer vaso de metais nobres provido de vidro ou cristal que permitisse ver o conteúdo — fosse a Hóstia ou a relíquia de um santo. Só mais tarde a palavra se fixou, no uso latino e nas línguas modernas, para o vaso destinado especificamente ao Santíssimo Sacramento. A grande Hóstia consagrada é fixada no centro da peça por uma pequena pinça de metal chamada lúnula (do latim lunula, \"pequena lua\", pela forma de meia-lua), encaixada atrás do cristal transparente.\n\nO objeto nasce historicamente do desenvolvimento da festa e da procissão de Corpus Christi. A solenidade foi promovida por Santa Juliana de Cornillon, religiosa da diocese de Liège, e instituída para toda a Igreja latina pelo papa Urbano IV pela bula Transiturus de hoc mundo, de 11 de agosto de 1264 — no contexto do chamado Milagre Eucarístico de Bolsena, ocorrido pouco antes. A necessidade de transportar e exibir publicamente a Hóstia numa procissão pública solene criou a demanda por um recipiente específico para essa função. Segundo a Catholic Encyclopedia, os inventários do século XIII raramente mencionam tais peças; em São Paulo de Londres não há qualquer referência a um ostensório em 1245 e 1298, mas em 1402 já se registra uma \"cruz de cristal para pôr o Corpo de Cristo e levá-lo na festa de Corpus Christi\". Um dos primeiros exemplos datados que se costuma citar é o de Reims, França, de 1324.\n\nAs formas variaram muito ao longo dos séculos. As peças mais antigas conservavam o formato cilíndrico de cristal do cibório, montado sobre base e coroado por trabalho arquitetônico, nichos e estatuetas; mais tarde adotou-se a chamada custódia-torre, em forma de templete ou torre poligonal com pináculos, comum a partir de meados do século XV. Da segunda metade do século XVI em diante generalizou-se o modelo que hoje predomina: a forma de sol radiante, com raios partindo do centro, frequentemente ornamentada, desde o século XVIII, com coroas de cabeças de anjos em torno do cristal central. Certos exemplares monumentalizaram-se: o arca-ostensório da Catedral de Gênova (1553) exigia oito sacerdotes para ser conduzido, e as grandes custódias espanholas podiam ultrapassar três metros de altura, como as da Catedral de Toledo, encomendadas a Enrique de Arfe em 1515-1523. Na falta da custódia, admite-se o uso do cibório para o mesmo fim.\n\nA forma solar é uma afirmação teológica antes de ser ornamento: os raios evocam Cristo como \"sol da justiça\" (Malaquias 3,20) e \"luz do mundo\", e o cristal que preserva a Hóstia simboliza a pureza e a presença real. O Catecismo da Igreja Católica, no parágrafo 1374, ensina que Cristo está presente na Eucaristia de maneira \"verdadeira, real e substancial\". A instrução Redemptionis Sacramentum (Congregação para o Culto Divino e a Disciplina dos Sacramentos, 2004) regula o uso: convém que na Missa que precede imediatamente a adoração se consagre a Hóstia a ser exposta e se coloque na custódia (ostensório) sobre o altar após a Comunhão, e que a exposição se interrompa enquanto se celebra a Missa. A devoção popular conservou ainda a memória de Santa Clara de Assis, que segundo a tradição teria repelido invasores erguendo a custódia com o Santíssimo Sacramento.",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "A peça de ouro ou prata, geralmente em forma de sol, usada para expor a Hóstia consagrada à adoração dos fiéis.",
-      "corpo": "O ostensório — também chamado custódia — é um objeto litúrgico precioso, geralmente de ouro ou prata dourada, desenhado com frequência em forma radiante de sol, no qual se encaixa a lúnula que sustenta a Hóstia consagrada para exposição pública à adoração eucarística, sobretudo na Adoração do Santíssimo Sacramento e nas procissões de Corpus Christi. Sua forma solar radiante reforça visualmente a fé de que ali está verdadeiramente presente Cristo, \"luz do mundo\", exposto à contemplação e à adoração dos fiéis reunidos.",
       "tags": [
+        "ostensório",
+        "custódia",
         "adoração eucarística",
         "Corpus Christi",
-        "Santíssimo Sacramento"
+        "Santíssimo Sacramento",
+        "lúnula",
+        "ourivesaria sacra",
+        "Urbano IV"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/17/Corpus_Christi_-_Toledo%2C_Spain_-_2010_-.jpg",
       "imagem_credito": "Francisco Javier Martín Fernández — Wikimedia Commons, CC BY 2.0",
+      "fontes": [
+        "Catholic Encyclopedia, verbete \"Ostensorium\" (newadvent.org/cathen/11344a.htm)",
+        "Bula Transiturus de hoc mundo, papa Urbano IV, 11 de agosto de 1264",
+        "Instrução Redemptionis Sacramentum, Congregação para o Culto Divino e a Disciplina dos Sacramentos, 2004 (vatican.va)",
+        "Catecismo da Igreja Católica, §1374",
+        "Verbete \"Ostensório\" da Wikipédia em português"
+      ],
       "ordem": 13
     },
     {
       "id": "arte-sacra-simbolos:cruz-de-santo-andre",
       "slug": "cruz-de-santo-andre",
       "titulo": "A Cruz de Santo André",
+      "resumo": "A cruz em forma de X (crux decussata), atributo iconográfico do apóstolo André e símbolo nacional da Escócia sob o nome de Saltire.",
+      "corpo": "A cruz de Santo André é uma cruz em forma de X, tecnicamente chamada crux decussata (do latim decussare, \"cortar em forma de X\", referência à décima letra romana). Ela é o atributo iconográfico tradicional do apóstolo André, irmão de Pedro, e fundador, segundo a tradição, da Igreja de Bizâncio — donde sua veneração como patriarca e padroeiro do Oriente cristão e do Patriarcado de Constantinopla.\n\nHá aqui uma controvérsia histórica que convém registrar com clareza. Os textos mais antigos sobre o martírio de André — os Atos de André, texto apócrifo do século II, conhecido por nós sobretudo através da compilação de Gregório de Tours — descrevem que ele teria sido atado, e não pregado, a uma cruz latina comum, e não a uma cruz em X. A tradição da cruz em forma de X desenvolveu-se posteriormente: conta-se que André teria pedido esse formato por se julgar indigno de morrer numa cruz idêntica à de Cristo. A iconografia familiar que hoje o mostra atado à cruz em X não parece ter sido padronizada antes do fim da Idade Média. A tradição situa seu martírio em Patras, na Acaia (Grécia), por volta do ano 60.\n\nA associação da cruz em X à Escócia tem origem lendária, ligada à Batalha de Athelstaneford, tradicionalmente datada de 832, no atual East Lothian. Segundo o relato, Óengus (Angus) II, rei dos pictos, à frente de forças de pictos e escoceses, teria visto no céu azul a formação de uma nuvem em forma de sautor branco — o X do martírio de André — e, prometendo ao santo o patronato da Escócia em caso de vitória, venceu os anglos comandados por Æthelstan. A narrativa chega-nos por cronistas tardios, como Walter Bower e George Buchanan, e deve ser tratada como lenda. Historicamente, a iconografia do martírio em X aparece pela primeira vez na Escócia por volta de 1180, no reinado de Guilherme I, e reaparece em selos do fim do século XIII, inclusive um dos Guardiões da Escócia, de 1286. A Declaração de Arbroath (1320) invoca a conversão da Escócia por Santo André, \"o primeiro a ser apóstolo\".\n\nComo símbolo, o sautor branco sobre fundo azul é, segundo a tradição, uma das bandeiras mais antigas da Europa. A referência textual mais antiga à Cruz de Santo André como bandeira encontra-se no Livro de Horas de Viena, de c. 1503, onde ela aparece como sautor branco sobre fundo vermelho; o uso do fundo azul na Escócia remonta ao menos ao século XV, com a primeira ilustração de uma bandeira nesse formato no Register of Scottish Arms, de Sir David Lyndsay of the Mount, c. 1542. A Cruz de Santo André é uma das três cruzes que compõem a bandeira do Reino Unido. A mesma figura, sob a forma da Cruz de Borgonha, difundiu-se ainda na heráldica do Império Espanhol. Fora do âmbito nacional, a cruz em X também é chamada de cruz de Santa Tecla e, por associação à sua forma em T aparentada, às vezes confundida na devoção popular com a cruz de Santo Antônio.",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "A cruz em forma de X, associada ao apóstolo André, que segundo a tradição pediu ser crucificado numa cruz diferente da de Cristo.",
-      "corpo": "Segundo a tradição, o apóstolo André, irmão de Pedro, foi crucificado numa cruz em forma de X, tendo pedido esse formato distinto por considerar-se indigno de morrer numa cruz idêntica à de Cristo. Essa forma de cruz — também chamada \"cruz decussata\" — tornou-se seu atributo iconográfico característico e símbolo nacional de países e regiões sob seu patrocínio, como a Escócia, cuja bandeira (a \"Cruz de São André\" ou \"Saltire\") a incorpora diretamente sobre fundo azul.",
       "tags": [
-        "apóstolo André",
+        "André Apóstolo",
+        "cruz decussata",
+        "sautor",
+        "Saltire",
+        "Escócia",
         "martírio",
-        "Escócia"
+        "Patras",
+        "heráldica"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Saint_Andrew_led_to_the_cross_of_martyrdom.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "Atos de André (texto apócrifo do século II, transmitido por Gregório de Tours)",
+        "Verbete \"André, o Apóstolo\" da Wikipédia em português",
+        "Verbete \"Bandeira da Escócia\" da Wikipédia em português",
+        "The Scottish Flag Trust, \"The Legend of the Saltire\" (scottishflagtrust.com)",
+        "Declaração de Arbroath, 1320"
+      ],
       "ordem": 14
     },
     {
       "id": "arte-sacra-simbolos:tau",
       "slug": "tau",
       "titulo": "O Tau",
+      "resumo": "A letra em forma de T adotada por São Francisco de Assis como assinatura e símbolo pessoal, hoje distintivo da espiritualidade franciscana.",
+      "corpo": "A cruz tau — também chamada cruz de Santo Antônio, cruz de São Francisco ou cruz egípcia — é uma cruz cristã em forma de T, modelada sobre a letra grega tau (τ) e a última letra do alfabeto hebraico. Seu significado bíblico mais difundido vem do livro de Ezequiel: Deus manda um enviado marcar com um \"T\" na fronte os que gemem e suspiram pelas abominações de Jerusalém, para que sejam poupados do castigo (Ez 9,3-6). Na Antiguidade cristã, a forma já era interpretada como símbolo da cruz: o chamado estaurograma — ligadura das letras tau e rho, do grego ΣΤΑΥΡΟΣ (\"cruz\") — abreviava a palavra \"cruz\" nos mais antigos manuscritos do Novo Testamento, como os papiros P66, P45 e P75. O tau também foi associado à salvação, quer pela identificação com o sinal de Ezequiel, quer pela semelhança com Moisés de braços abertos em Êxodo 17,11; Santo Antônio do Egito já o levava em seu manto.\n\nO uso franciscano do tau remonta ao próprio Francisco de Assis, que o adotava como assinatura e selo pessoal, desenhando-o à mão em suas cartas e escritos. Duas influências diretas costumam ser apontadas. A primeira foram os antonianos — comunidade religiosa fundada em 1095, dedicada a cuidar de leprosos, que trazia uma grande cruz tau pintada no hábito; Francisco tinha relações estreitas com eles, por trabalharem no leprosário de Assis e no Hospital de São Brás, em Roma. A segunda, e mais forte, foi o IV Concílio de Latrão, inaugurado pelo papa Inocêncio III em 11 de novembro de 1215. Segundo os primeiros biógrafos e a tradição franciscana, Inocêncio III abriu o concílio com uma homilia construída sobre Ezequiel 9,4, exortando os ouvintes a serem marcados com o tau; historiadores geralmente admitem que Francisco estava presente à assembleia. Circulou a tradição de que o papa teria encerrado exortando os presentes a serem \"campeões do Tau\".\n\nOs primeiros biógrafos relatam que Francisco amava e venerava o tau \"porque representa a cruz e significa uma verdadeira penitência\"; santiguava-se com esse sinal, preferia-o a qualquer outro, pintava-o nas paredes das celas, recomendava-o na pregação e o desenhava como firma em todas as suas cartas, \"como se toda a sua preocupação fosse gravar o sinal do tau, segundo o dito profético, sobre as frentes dos homens\". O tema da penitência e da conversão contínua perpassa seus escritos, como a Carta aos Fiéis (c. 1209-1215), exortação sobre os que fazem e os que não fazem penitência. Como sinal, o tau assumiu para Francisco o sentido de certeza de salvação, de universalidade da salvação e de conversão permanente. Na tradição iconográfica, os três nós por vezes representados no tau ou no cordão franciscano lembram os três votos religiosos: pobreza, obediência e castidade.\n\nDepois de Francisco, o tau consolidou-se como símbolo distintivo dos franciscanos, em hábitos, colares, capelas e brasões, e permanece em uso pela Ordem dos Frades Menores e pela Ordem Franciscana Secular, cujos membros o trazem como pino ou medalha. A liturgia e a piedade preservaram-no igualmente como sinal de bênção — o papa Inocêncio III teria usado o gesto do tau para abençoar — e a sua associação a Ezequiel o tornou, em contextos escatológicos, sinal de eleição e de proteção dos justos, ecoado no Apocalipse (7,2-4), onde os servos de Deus são assinalados na fronte.",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "A letra grega em forma de T, adotada por São Francisco de Assis como símbolo pessoal e hoje amplamente associado à espiritualidade franciscana.",
-      "corpo": "O Tau, última letra do alfabeto hebraico e forma correspondente no grego, ganhou peso simbólico bíblico no livro de Ezequiel, onde Deus manda marcar com um sinal na testa (interpretado por alguns Padres como um tau) os fiéis a serem poupados do castigo (Ez 9,4). São Francisco de Assis adotou o Tau como assinatura pessoal e símbolo de penitência e conversão, inspirado também por sua menção no Concílio de Latrão IV, presidido pelo papa Inocêncio III. Hoje é usado amplamente como símbolo distintivo da espiritualidade franciscana, em colares, hábitos e capelas.",
       "tags": [
+        "Tau",
+        "cruz tau",
         "Francisco de Assis",
         "franciscanos",
-        "Ezequiel"
+        "Ezequiel",
+        "penitência",
+        "conversão",
+        "Inocêncio III",
+        "Quarto Concílio de Latrão"
       ],
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Accademia_-_Saint_Francis_Receiving_the_Stigmata_by_Veronese_Cat_833.jpg",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Franciscan_Tau.JPG",
       "imagem_credito": null,
+      "fontes": [
+        "Livro de Ezequiel 9,3-6 (Bíblia)",
+        "Carta 1ª aos Fiéis de São Francisco de Assis (c. 1209-1215), em fontecolombo.org.br",
+        "Verbete \"Cruz tau\" da Wikipédia em português",
+        "Comunidade Católica Shalom, \"Tau\" (comshalom.org)",
+        "Primeiros biógrafos de São Francisco (Tomás de Celano e Boaventura)",
+        "Quarto Concílio de Latrão (1215), verbete da Wikipédia em português"
+      ],
       "ordem": 15
     },
     {
       "id": "arte-sacra-simbolos:cruz-de-jerusalem",
       "slug": "cruz-de-jerusalem",
       "titulo": "A Cruz de Jerusalém",
+      "resumo": "Uma cruz potente central cercada por quatro cruzes gregas menores, ligada ao Reino Latino de Jerusalém, à Ordem do Santo Sepulcro e à devoção às cinco chagas.",
+      "corpo": "A Cruz de Jerusalém — também chamada cruz das cinco cruzes, cruz dos cruzados ou, na heráldica, cruz-e-cruzetas (cross-and-crosslets) — é formada por uma cruz potente central, cujas extremidades terminam em pequenas barras transversais, ladeada nos quatro espaços de seus braços por cruzes gregas menores. Sua versão heráldica mais difundida traz as cinco cruzes em ouro sobre campo de prata (às vezes sobre vermelho), sendo o ouro-sobre-prata uma das raras exceções admitidas à regra clássica da heráldica que proíbe metal sobre metal; presume-se que a violação tenha sido deliberada, em razão da santidade especial atribuída a essas armas.\n\nA origem do desenho é objeto de debate entre os estudiosos. Uma tradição historiográfica associa-o a Godofredo de Bulhão, principal chefe da Primeira Cruzada, que teria recusado o título de rei para governar Jerusalém como \"Defensor do Santo Sepúlcro\"; essa atribuição, porém, não deve ser apresentada como fato comprovado. A documentação heráldica indica que o emblema se consolidou apenas nos séculos XIII e XIV: os selos dos governantes de Jerusalém do século XII não mostram o desenho atual, mas uma representação simplificada da cidade, com a Torre de Davi entre a Cúpula da Rocha e o Santo Sepulcro. O frade franciscano David Grenier, da Custódia da Terra Santa, sustenta que a cruz se originou no cristianismo oriental, entre os séculos V e VI, tendo sido depois adotada pelos cruzados e pelo Reino de Jerusalém (1099–1291). Em armoriais medievais como o Rolo de Camden ela figura como as armas do Reino de Jerusalém em ouro sobre campo de prata. Filipe de Courtenay, que manteve o título de Imperador Latino de Constantinopla entre 1273 e 1283, usou uma forma ampliada em que cada uma das quatro cruzetas era, por sua vez, cercada por outras quatro cruzes menores.\n\nExistem várias leituras simbólicas tradicionais para as cinco cruzes, e elas não se excluem. A mais difundida associa-as às cinco chagas de Cristo: a cruz central representa a ferida do lado aberta pela lança, e as quatro cruzetas, as feridas das mãos e dos pés. Outra vê nas quatro cruzes pequenas os quatro evangelistas em torno de Cristo, indicando a difusão do Evangelho aos quatro cantos da terra; uma terceira lê o conjunto como o Antigo Testamento unido aos quatro Evangelhos.\n\nA cruz tornou-se a insígnia do Patriarcado Latino de Jerusalém e da Ordem Equestre do Santo Sepulcro de Jerusalém, instituição de cavalaria católica cujas origens remontam à Primeira Cruzada e que hoje mantém obras na Terra Santa sob proteção direta da Santa Sé. Também é o emblema usado pela Custódia Franciscana da Terra Santa e figura na bandeira nacional da Geórgia. Peregrinos medievais tatuavam-na no corpo ao visitar os Lugares Santos, costume ainda preservado por algumas famílias cristãs de Jerusalém.\n\nDesde o início do século XXI, o símbolo passou a ser apropriado por grupos de extrema-direita, supremacistas brancos e nacionalistas cristãos, frequentemente associado ao lema \"Deus vult\". Variantes da cruz foram exibidas, junto à frase, em bandeiras durante o comício neonazista \"Unite the Right\", em Charlottesville, em 2017. Em novembro de 2024, uma tatuagem da Cruz de Jerusalém no peito de Pete Hegseth, então indicado a secretário de Defesa dos Estados Unidos, gerou polêmica; a Ordem do Santo Sepulcro veio a público esclarecer que, para a imensa maioria dos cristãos, a cruz é sinal da Paixão de Cristo e inspiração de peregrinos, e não um chamado nacionalista.",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "Uma cruz maior cercada por quatro cruzes menores, símbolo ligado às cruzadas e ao Reino de Jerusalém.",
-      "corpo": "A Cruz de Jerusalém — também chamada cruz das cinco cruzes ou cruz dos cruzados — é formada por uma cruz potente central, cujas extremidades terminam em pequenas barras transversais, ladeada nos quatro espaços de seus braços por cruzes gregas menores. O desenho quíntuplo parece ter surgido já no século XI, mas sua associação ao Reino de Jerusalém, fundado pelos cruzados, consolidou-se apenas na segunda metade do século XIII.\n\nExistem duas leituras simbólicas tradicionais para as cinco cruzes: uma as associa às cinco chagas de Cristo — a cruz central representando a ferida da lança, e as quatro menores, as feridas das mãos e dos pés —, e outra vê nas quatro cruzes pequenas os quatro evangelistas em torno de Cristo, representado pela cruz maior. É hoje símbolo usado sobretudo pela Custódia Franciscana da Terra Santa, guardiã dos Lugares Santos.",
       "tags": [
         "cruzadas",
         "Terra Santa",
-        "cinco chagas"
+        "cinco chagas",
+        "Reino de Jerusalém",
+        "heráldica",
+        "Ordem do Santo Sepulcro",
+        "peregrinação"
       ],
-      "imagem": null,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Cross-Jerusalem-Potent-Heraldry.svg",
       "imagem_credito": null,
       "fontes": [
-        "Wikipédia, «Cruz de Jerusalém»",
-        "Aleteia, «O significado da Cruz de Jerusalém»"
+        "Wikipédia (en), «Jerusalem cross»",
+        "Enciclopédia Britannica, verbete «Jerusalem cross»",
+        "ACI Digital, «O que é a cruz de Jerusalém?»",
+        "Aleteia (en), «Catholic order clarifies meaning of Jerusalem Cross», 22/11/2024",
+        "Simbologia, «Cruz de Jerusalém»"
       ],
       "ordem": 16
     },
@@ -279,19 +443,24 @@
       "id": "arte-sacra-simbolos:baculo-pastoral",
       "slug": "baculo-pastoral",
       "titulo": "O Báculo Pastoral",
+      "resumo": "O cajado de metal com a ponta recurvada que o bispo carrega como sinal de sua missão de pastor do rebanho confiado aos seus cuidados.",
+      "corpo": "O báculo (em latim baculus, do qual também o termo crosier/crosse) é a insígnia episcopal que representa o ofício do bispo como pastor da porção do povo de Deus confiada a seus cuidados, à semelhança do cajado com que os pastores conduzem as ovelhas. Embora seu uso seja frequentemente associado ao cajado do pastor, alguns autores traçam antes uma afinidade com o lituus, a vara curva dos áugures romanos, ou o consideram adaptação dos bastões de apoio em viagem e, nas igrejas, antes da introdução dos assentos. Desde data muito antiga tornou-se uma das principais insígnias do ofício episcopal.\n\nNão é fácil determinar quão cedo ele passou ao uso litúrgico, pois nos primeiros textos dos Padres a palavra pode ser tomada literal ou metaforicamente (como em 1 Cor 4,21). Há báculos encontrados nas catacumbas, datados do século IV, mas não se estabeleceu seu caráter cerimonial; o uso litúrgico provavelmente remonta ao século V, sendo mencionado numa carta do Papa Celestino I (morto em 432) aos bispos de Vienne e Narbona. A primeira referência inequívoca a ele como instrumento litúrgico aparece no vigésimo sétimo cânon do Concílio de Toledo, em 633.\n\nOs estudiosos distinguem três formas antigas de báculo. A mais remota era uma vara de madeira dobrada ou curvada na parte superior e pontiaguda na extremidade inferior, conhecida como pedum. A segunda trazia, em lugar da curvatura, um pomo frequentemente encimado por uma cruz, e chamava-se ferula ou cambuta, às vezes usada pelos papas. A terceira tinha no topo uma crux decussata, ou T grego, com os braços da cruz por vezes tão torcidos que representavam duas serpentes opostas; era a crocia, levada por abades e bispos no rito oriental e de que deriva a forma ocidental atual.\n\nO material original era em regra madeira de cipreste, muitas vezes revestida ou incrustada de ouro e prata; posteriormente fizeram-se báculos de marfim maciço, ouro, prata e metal esmaltado. Os séculos XI e XII testemunham ornamentação elaboradíssima na cabeça do báculo: a empunhadura amiúde terminava em um dragão traspassado por uma cruz ou em outra figura alegórica, enquanto rica decoração floral preenchia a curva. No século XIII, os espaços entre as espirais recebiam temas religiosos e estatuetas de santos; nas peças góticas, o pomo era engastado em pedras preciosas.\n\nLiturgicamente o bispo porta o báculo nas celebrações pontificais solenes, por direito em sua própria diocese e por privilégio fora dela; prelados inferiores também o usam quando têm o privilégio de exercer funções pontificais. Ele o recebe no rito de ordenação episcopal, e a tradição interpreta simbolicamente cada parte: a ponta inferior, aguçada, para estimular os indolentes; a haste reta do meio, para significar o governo justo; e a extremidade superior, recurvada, para atrair e reconduzir as almas. A orientação da voluta também distinguia a autoridade: o bispo voltava-a para o povo sobre o qual se estendia sua jurisdição, enquanto o abade a voltava para trás, indicando que seu governo alcançava apenas sua comunidade.",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "O cajado de metal com a ponta curva que o bispo carrega como sinal de sua missão de pastor do rebanho.",
-      "corpo": "O báculo é a insígnia episcopal que representa o ofício do bispo como pastor da porção do povo de Deus confiada a seus cuidados, à semelhança do cajado usado pelos pastores de ovelhas. Seu uso remonta pelo menos ao século IV, e a primeira referência inequívoca a ele como instrumento litúrgico aparece no vigésimo sétimo cânon do Concílio de Toledo, em 633.\n\nA tradição interpreta simbolicamente cada parte do báculo: a ponta inferior, aguçada, para picar e estimular os indolentes; a haste reta do meio, para significar o governo justo; e a extremidade superior, recurvada, para atrair e conduzir as almas aos caminhos de Deus. O bispo o recebe no dia de sua ordenação, com a fórmula \"recebe o báculo, símbolo do serviço pastoral, e cuida de todo o rebanho\", e o porta nas celebrações solenes de sua diocese, na procissão de entrada, na proclamação do Evangelho e na bênção final.",
       "tags": [
         "bispo",
         "pastoreio",
-        "ordenação episcopal"
+        "ordenação episcopal",
+        "insígnias episcopais",
+        "Concílio de Toledo",
+        "liturgia"
       ],
-      "imagem": null,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/41/French_-_Crozier_with_the_Annunciation_-_Walters_44121_-_Profile.jpg",
       "imagem_credito": null,
       "fontes": [
-        "A12, «O báculo: um sinal do bispo pastor»",
-        "Concílio de Toledo (633), cânone 27"
+        "Enciclopédia Católica (ACI Prensa), verbete «Báculo»",
+        "Concílio de Toledo (633), cânone 27",
+        "Carta do Papa Celestino I aos bispos de Vienne e Narbona (c. 432)",
+        "A12, «O báculo: um sinal do bispo pastor»"
       ],
       "ordem": 17
     },
@@ -299,19 +468,25 @@
       "id": "arte-sacra-simbolos:mitra",
       "slug": "mitra",
       "titulo": "A Mitra Episcopal",
+      "resumo": "A cobertura de cabeça fendida em duas pontas, com duas faixas pendentes, usada por bispos e abades como sinal de sua dignidade e autoridade de ensino.",
+      "corpo": "A mitra (do grego μίτρα, \"faixa\" ou \"turbante\", passando ao latim mitra) é o adorno litúrgico de cabeça formado por duas peças rígidas terminadas em ponta — chamadas cornua — com um galão ou círculo sobre a fronte e duas faixas franjadas, as ínfulas ou vittae, que descem sobre as costas. É usada nas celebrações pontificais solenes e, no Ocidente, tornou-se insígnia não só de bispos, mas também de abades mitrados, de cardeais e de quem é canonicamente equiparado a bispo diocesano.\n\nSua origem é romana: deriva de uma cobertura de cabeça não litúrgica, distintiva do papa, o camelaucum, do qual também se origina a tiara. O camelaucum era usado já no início do século VIII, como atesta a biografia do Papa Constantino I (708–715) no \"Liber Pontificalis\"; é mencionado ainda na chamada \"Doação de Constantino\". O Nono Ordo o descreve como feito de material branco e moldado como um capacete, e as moedas dos papas Sérgio III (904–911) e Bento VII (974–983), nas quais São Pedro aparece usando o camelaucum, dão-lhe a forma cônica que é a forma original da mitra. O papa o usava sobretudo nas procissões solenes; no decorrer do século X passou a usá-lo também durante o serviço litúrgico, e daí se desenvolveu a mitra.\n\nA primeira referência escrita à mitra é a bula de 1049 do Papa Leão IX — ele próprio antes bispo de Toul — que, confirmando a primazia da Igreja de Tréveris a seu antigo metropolita Eberardo, concedeu-lhe a \"mitra romana\" para usá-la segundo o costume de Roma ao exercer os ofícios da igreja. Estima-se que a mitra tenha sido usada primeiro em Roma por volta da metade do século X e fora de Roma pelo ano 1000; as primeiras descrições são de duas miniaturas do início do século XI (uma num registro batismal e outra num pergaminho do Exultet, da catedral de Bari). Entre 1100 e 1150, seu uso já se havia generalizado entre os bispos. Durante o século XI a mitra era um barrete cônico com uma fita em torno da fronte; ao longo do século XII a ponta arredondou-se e depois se fendeu ao centro, formando as duas pontas laterais, até que no fim do século XII as pontas passaram a ser colocadas à frente e atrás, ornadas por um galão vertical, o títulus.\n\nNa Igreja latina desenvolveram-se três classes de mitra. A mitra pretiosa é ricamente decorada, por vezes com pedrarias e bordados em fio de ouro, e se usava nas grandes solenidades. A mitra auriphrygiata, em tecido dourado ou em seda branca com fios de ouro e prata, era própria do Advento e da Quaresma e de certas partes da missa pontifical. A mitra simplex, de damasco de seda branco ou linho, sem ornamento, era usada nos funerais, nos ofícios da Sexta-feira Santa e quando quem a portava não era o celebrante principal; nas pontificais costumavam empregar-se duas mitras, alternadas conforme o momento.\n\nEntre os significados atribuídos às suas partes, as duas pontas simbolizam o conhecimento que o prelado deve ter do Antigo e do Novo Testamento, e as duas ínfulas que pendem às costas representam igualmente os dois Testamentos. O próprio formato pontudo, erguido para o alto, recorda que a autoridade do bispo vem de Deus. A mitra é retirada nos momentos de oração mais direta, como a Oração Eucarística, e, na heráldica eclesiástica católica, desde 1969 seu uso sobre o escudo pessoal do clero foi suprimido, aparecendo hoje apenas em armas corporativas, como as de algumas dioceses.",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "A cobertura de cabeça fendida em duas pontas, usada por bispos e abades como sinal de sua dignidade e autoridade de ensino.",
-      "corpo": "A mitra é um adorno litúrgico de cabeça, dividido em duas peças rígidas terminadas em ponta — chamadas cornua — com duas faixas franjadas (ínfulas) que descem sobre as costas. Foi usada pela primeira vez em Roma por volta da metade do século X, reservada inicialmente ao papa, e só depois, a partir dos séculos X-XI, estendida a bispos e abades.\n\nA tradição atribui às duas pontas o significado do conhecimento que o prelado deve ter do Antigo e do Novo Testamento, e ao próprio formato pontiagudo, voltado para o alto, a lembrança de que a autoridade do bispo vem de Deus. É usada nas celebrações solenes presididas pelo bispo, sendo retirada nos momentos de oração mais direta, como a Oração Eucarística.",
       "tags": [
         "bispo",
         "vestes litúrgicas",
-        "insígnias episcopais"
+        "insígnias episcopais",
+        "camelaucum",
+        "Leão IX",
+        "liturgia",
+        "heráldica eclesiástica"
       ],
-      "imagem": null,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/MitreOfBishopSztojkovics.jpg",
       "imagem_credito": null,
       "fontes": [
-        "Aleteia, «Mitra: você sabe por que os bispos a usam?»",
-        "Wikipédia, «Mitra (insígnia)»"
+        "Wikipédia (pt), «Mitra (insígnia)»",
+        "Enciclopédia Católica (Lírio Católico), verbete «Mitra»",
+        "Bula do Papa Leão IX (1049) a Eberardo de Tréveris",
+        "Wikipédia (de), «Mitra» (classes de mitra no rito latino)"
       ],
       "ordem": 18
     },
@@ -319,19 +494,25 @@
       "id": "arte-sacra-simbolos:palio",
       "slug": "palio",
       "titulo": "O Pálio",
+      "resumo": "Faixa de lã branca em forma de \"Y\", usada pelo papa e por arcebispos metropolitanos como sinal do ministério pastoral e da comunhão com a Sé de Roma.",
+      "corpo": "O pálio — do latim pallium, \"manto de lã\" — é uma estreita faixa de lã branca colocada sobre os ombros, por cima da casula. Hoje tem a forma de \"Y\", com duas tiras pendentes à frente e atrás, decorada com seis cruzes de seda preta — uma em cada extremidade que desce sobre o peito e sobre as costas, e quatro no anel que repousa sobre os ombros — e guarnecida, à frente e atrás, com três alfinetes (acicula) que recordam os três cravos da cruz de Cristo. As pontas são rematadas com seda preta, para lembrar as patas escuras do cordeiro que o pastor carrega sobre os ombros.\n\nOriginalmente, o pálio era a tira de pano enrolada nos ombros usada por todos os bispos, como se vê na iconografia de santos como Santo Ambrósio, Santo Atanásio e São João Crisóstomo; na arte paleocristã, Cristo e os apóstolos eram representados com esse manto. Foi somente a partir do século IX que ele assumiu o formato atual de \"Y\" e se tornou prerrogativa dos arcebispos metropolitanos, como símbolo da jurisdição que exercem em comunhão com a Santa Sé. O primeiro registro conhecido de sua concessão formal data de 6 de novembro de 513, quando o papa Símaco o entregou a São Cesário de Arles — o qual, em 11 de junho de 514, seria também nomeado vigário pontifício para a Gália e a Espanha.\n\nA confecção do pálio conserva um ritual que atravessa os séculos. Dois cordeiros brancos, criados pelos monges trapistas da Abadia das Tre Fontane, em Roma, são apresentados e abençoados na memória de Santa Inês, em 21 de janeiro — a escolha do dia não é casual: Agnus, \"cordeiro\", ecoa o nome da mártir romana, traspassada na garganta como se matavam os cordeiros. Desde 1644 os animais são abençoados na Basílica de Santa Inês Fora dos Muros, na Via Nomentana, e depois levados ao papa; um leva flores brancas, símbolo da virgindade da santa, e outro flores vermelhas, símbolo de seu martírio. A lã é então tecida e costurada pelas monjas de clausura do Mosteiro de Santa Cecília, em Trastevere, e os pálios ficam depositados junto ao túmulo de São Pedro, sob o altar da Confissão, antes de serem entregues.\n\nO rito de entrega passou por mudanças recentes. Em 1983, São João Paulo II instituiu a prática de impor pessoalmente o pálio aos novos arcebispos metropolitanos na solenidade de São Pedro e São Paulo, em 29 de junho. Em 2015, o papa Francisco alterou o costume: passou a abençoar os pálios em Roma, mas confiou a imposição ao núncio apostólico na própria arquidiocese, como sinal do vínculo do arcebispo com a Igreja local. Em junho de 2025, porém, o Escritório das Celebrações Litúrgicas do Sumo Pontífice anunciou que o papa Leão XIV voltaria a impor pessoalmente os pálios na festa dos apóstolos, em Roma — restauração que ocorreu na celebração de 29 de junho daquele ano, diante dos novos metropolitanos.\n\nO Código de Direito Canônico determina que todo arcebispo metropolitano solicite o pálio ao papa no prazo de três meses após a nomeação ou consagração, pois \"o pálio significa o poder que o metropolita, em comunhão com a Igreja romana, exerce por direito em sua própria província\". O sinal, portanto, é ao mesmo tempo jurídico e pastoral: na missa de início de seu pontificado, em 24 de abril de 2005, Bento XVI explicou que a lã do cordeiro representa \"a ovelha perdida, a doente, a fraca, que o pastor põe sobre os ombros para conduzi-la às águas da vida\".",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "Faixa de lã branca em forma de \"Y\", usada pelo papa e por arcebispos metropolitanos como sinal do ministério pastoral.",
-      "corpo": "O pálio é uma estreita faixa de lã branca, hoje em forma de \"Y\", com seis cruzes de seda preta costuradas e três alfinetes que recordam as chagas de Cristo, colocada sobre os ombros do papa e dos arcebispos metropolitanos. Seu simbolismo remete à ovelha que o bom pastor carrega sobre os próprios ombros, como Cristo fez com a ovelha perdida.\n\nÉ confeccionado com a lã de cordeiros brancos, criados por monges trapistas e oferecidos numa missa solene no dia 21 de janeiro, festa de Santa Inês (Agnes, do latim, remete a \"cordeiro\"), sendo depois tecido por freiras beneditinas do Mosteiro de Santa Cecília, em Roma. Historicamente, a primeira concessão conhecida de um pálio a um bispo remonta a 513, quando o papa Símaco o outorgou a São Cesário de Arles; desde o século IX, os pálios ficam depositados sobre o túmulo de São Pedro antes de serem impostos aos novos arcebispos, em 29 de junho.",
       "tags": [
-        "arcebispo",
+        "pálio",
+        "arcebispo metropolitano",
         "Santa Inês",
-        "São Pedro"
+        "São Pedro",
+        "São Cesário de Arles",
+        "liturgia"
       ],
-      "imagem": null,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Imposition_of_pallium_to_Pope_John_Paul_II.jpg",
       "imagem_credito": null,
       "fontes": [
-        "Vatican News, «Pálio: o que é, como é feito e para que serve»",
-        "Arquidiocese de Natal, «O pálio arquiepiscopal»"
+        "Vatican News, «São Pedro com as chaves e a rede no Anel do Pescador de Leão XIV» (descrição oficial do pálio pela Sala de Imprensa da Santa Sé)",
+        "Sala de Imprensa da Santa Sé / Office for the Liturgical Celebrations of the Supreme Pontiff, notificação de 11 de junho de 2025 sobre a imposição do pálio por Leão XIV",
+        "CNS/Catholic Review, «Pope Leo to return to practice of 'imposing' pallium on new archbishops», de Cindy Wooden (12/06/2025)",
+        "Notícias Canção Nova e Arquidiocese de Belém, sobre a primeira concessão a São Cesário de Arles (513)",
+        "A12, «O que é um Pálio?» (história e forma em \"Y\" desde o século IX)"
       ],
       "ordem": 19
     },
@@ -339,20 +520,25 @@
       "id": "arte-sacra-simbolos:turibulo",
       "slug": "turibulo",
       "titulo": "O Turíbulo (Incensário)",
+      "resumo": "O recipiente metálico suspenso por correntes em que se queima incenso durante celebrações solenes, sinal da oração que sobe a Deus.",
+      "corpo": "O turíbulo — do latim turibulum, de thus ou tus, \"incenso\" — é o recipiente em que se queima o incenso nas celebrações solenes. Costuma ter a forma de uma esfera cortada ao meio, onde se depositam o carvão incandescente e as pedras de incenso; essa base é fechada por uma tampa móvel, suspensa por correntes que se prendem a um anel superior. O manuseio cabe ao turiferário, auxiliado pelo naveteiro, que leva a naveta com o incenso a ser acrescentado durante o rito. Da etimologia vem também o nome do ministro: turiferário, \"o que leva o turíbulo\".\n\nO gesto de incensar tem raiz bíblica explícita. O Salmo 141,2 pede que a oração suba como incenso à presença de Deus, e o Apocalipse descreve um anjo junto ao altar com um turíbulo de ouro, recebendo incenso para oferecê-lo com as orações de todos os santos (Ap 8,3). O incenso figura, ainda, entre os presentes dos magos ao Menino (Mt 2,11) e nos ritos do Templo de Jerusalém. O Cerimonial dos Bispos cita justamente esses dois textos — o Salmo 141 e o Apocalipse — para fundamentar o uso do incenso como sinal de reverência e de oração.\n\nA Igreja distingue, com precisão técnica, os movimentos da incensação. O icto é o impulso único dado ao turíbulo para a frente; o ducto é a oscilação mais ampla, para diante e para trás. Segundo a Instrução Geral sobre o Missal Romano (n. 277) e o próprio Cerimonial dos Bispos, incensam-se com três ductos o Santíssimo Sacramento, as relíquias da santa Cruz e as imagens do Senhor expostas à veneração, as oblatas para o sacrifício, a cruz do altar, o Evangeliário, o círio pascal, o sacerdote celebrante e o povo. Com dois ductos — e apenas uma vez, depois da incensação do altar — incensam-se as relíquias e imagens dos santos expostas à veneração pública. A incensação do altar, por sua vez, faz-se com simples ictos: em toda a volta, quando o altar está separado da parede, ou alternadamente pelos lados direito e esquerdo, quando é encostado.\n\nA Missa prevê o turíbulo em vários momentos: antes da procissão de entrada, antes da proclamação do Evangelho, no ofertório e, nas celebrações mais solenes, na consagração, quando um diácono deita incenso no turíbulo e incensa a hóstia e o cálice a cada elevação. O número três carrega o simbolismo trinitário, sinal de honra máxima; a distinção entre três e dois ductos serve, na prática, para graduar a solenidade conforme o que é incensado. Vale notar que os livros litúrgicos pós-conciliares simplificaram as normas minuciosas do Missal de São Pio V quanto ao número de golpes para cada autoridade ou objeto, de modo que certos usos difundidos — como o triplo sucessivo de três movimentos — não constam do rito ordinário.",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "O recipiente metálico suspenso por correntes em que se queima incenso durante celebrações solenes, sinal de oração que sobe a Deus.",
-      "corpo": "O turíbulo — do latim \"turibulum\", de \"tus\" (incenso) — é composto por uma base em forma de esfera cortada ao meio, onde se coloca o carvão incandescente e as pedras de incenso, suspensa por três correntes presas a uma cápsula móvel. É manuseado pelo turiferário, acompanhado do naveteiro, que carrega a naveta com as pedras de incenso a serem acrescentadas durante a celebração.\n\nO gesto de incensar tem raiz bíblica direta: \"suba a minha prece como incenso à tua presença\" (Sl 141,2), e o incenso foi um dos presentes ofertados pelos magos ao Menino Jesus (Mt 2,11), além de aparecer no Apocalipse como oferenda que sobe ao altar celeste junto com as orações dos santos (Ap 8,3). Na Missa, o turíbulo é usado antes da procissão de entrada, antes do Evangelho, no ofertório e na consagração, com dois movimentos rituais próprios — o \"ducto\", de elevar o turíbulo à altura dos olhos, e o \"hicto\", de oscilá-lo em direção a quem ou ao que se incensa.",
       "tags": [
+        "turíbulo",
         "incenso",
         "liturgia",
-        "adoração"
+        "turiferário",
+        "ducto",
+        "icto",
+        "Cerimonial dos Bispos"
       ],
-      "imagem": null,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Thurible.jpg",
       "imagem_credito": null,
       "fontes": [
-        "Arquidiocese de Vitória, «Turíbulo»",
-        "Salmo 141,2",
-        "Apocalipse 8,3"
+        "Instrução Geral sobre o Missal Romano, n. 277 (ductos e ictos na incensação)",
+        "Cerimonial dos Bispos (uso do incenso como sinal de reverência e oração)",
+        "Secretariado Nacional de Liturgia (Portugal), «Ductos e ictos na incensação»",
+        "Salmo 141,2; Apocalipse 8,3; Mateus 2,11"
       ],
       "ordem": 20
     },
@@ -360,20 +546,26 @@
       "id": "arte-sacra-simbolos:coroa-de-espinhos",
       "slug": "coroa-de-espinhos",
       "titulo": "A Coroa de Espinhos",
-      "categoria": "arte-sacra-simbolos",
       "resumo": "O sinal de zombaria imposto a Jesus antes da crucificação, transformado pela tradição cristã em símbolo de sua realeza paradoxal.",
-      "corpo": "Segundo os relatos evangélicos, os soldados romanos teceram uma coroa de espinhos e a colocaram sobre a cabeça de Jesus no pretório, aclamando-o ironicamente \"Rei dos judeus\" antes de o conduzirem ao Calvário (Mt 27,29; Jo 19,2). O que nasceu como instrumento de escárnio e de sofrimento físico tornou-se, na piedade e na arte cristãs, um dos símbolos mais eloquentes da Paixão: a realeza de Cristo manifestada precisamente através da entrega e do sofrimento aceitos por amor.\n\nJá no início do século V, segundo o testemunho de São Paulino de Nola, os cristãos veneravam relíquias associadas à coroa de espinhos numa basílica no Monte Sião, em Jerusalém. Ao longo dos séculos, pintores e escultores repetidamente representaram Cristo coroado de espinhos, fazendo da imagem um dos temas mais constantes da iconografia da Paixão, ainda hoje central em devoções como a Via-Sacra.",
+      "corpo": "Segundo os relatos evangélicos, os soldados romanos teceram uma coroa de espinhos e a colocaram sobre a cabeça de Jesus no pretório, aclamando-o ironicamente \"Rei dos judeus\" antes de o conduzirem ao Calvário (Mt 27,29; Mc 15,17; Jo 19,2). O que nasceu como instrumento de escárnio e de sofrimento físico tornou-se, na piedade e na arte cristãs, um dos símbolos mais eloquentes da Paixão: a realeza de Cristo manifestada precisamente através da entrega e do sofrimento aceitos por amor.\n\nA mais antiga menção conhecida da coroa como relíquia venerada foi feita por São Paulino de Nola, que escreve após 409 referindo-se a ela como objeto de adoração dos fiéis (Epístola a Macário, Patrologia Latina LXI, 407). Cassiodoro, por volta de 570, conta-a entre as relíquias que eram \"a glória\" de Jerusalém, e São Gregório de Tours afirmava que os espinhos ainda pareciam verdes, frescor miraculosamente renovado a cada dia. O Breviário de Jerusalém (c. 530) e o itinerário de Antonino de Piacenza (século VI) indicam que a coroa era então mostrada na Basílica do Monte Sião; a peregrinação do monge Bernardo mostra que ali permanecia em 870. Entre os séculos VII e X, porém, as relíquias de Jerusalém foram sendo gradualmente transferidas para Constantinopla.\n\nFoi de Constantinopla que a coroa passou ao Ocidente. Em crise financeira, o imperador latino Balduíno II de Courtenay penhorou a relíquia a credores venezianos; em 1239, após negociações, o rei Luís IX da França pagou 135.000 livres tournois — cerca de metade do rendimento anual do reino — para resgatá-la e trazê-la a Paris. A chegada foi celebrada com uma procissão em 19 de agosto de 1239, na qual o próprio rei caminhou descalço, sem sua coroa, carregando a relíquia até Notre-Dame. Para guardá-la, Luís IX mandou erguer a Sainte-Chapelle, consagrada em 1248, obra-prima do gótico radiante concebida como relicário monumental. Em 1241 chegaram outras relíquias da Paixão, entre elas um fragmento da Verdadeira Cruz.\n\nCom a Revolução Francesa, o relicário foi fundido e a coroa transferida por alguns anos à Biblioteca Nacional; restituída à Igreja após a Concordata de 1801, foi depositada na Catedral de Notre-Dame em 1806. Em 1896 recebeu um novo relicário circular de cristal de rocha, com aro de prata trabalhada e pedras preciosas. Em 15 de abril de 2019, durante o incêndio que devastou Notre-Dame, a relíquia foi retirada em segurança e guardada no Louvre, voltando a Notre-Dame em cerimônia de dezembro de 2024.\n\nUm detalhe material importante: o que hoje se conserva é um anel de juncos entrelaçados, sem qualquer espinho. Os estudiosos entendem que os soldados tenham tecido uma espécie de capacete de espinhos, mantido unido por essa faixa de juncos; os cerca de sessenta ou setenta espinhos já haviam sido separados do aro quando a relíquia chegou a Paris, sendo depois distribuídos por São Luís e seus sucessores como presentes diplomáticos — nenhum deles permanece hoje em Paris. A descrição mais antiga desse objeto vem do cronista Roberto de Clari, participante da Quarta Cruzada, que o descreve como a \"coroa bendita com que ele foi coroado, feita de juncos do mar, afiados como lâminas de punhal\". A partir do século XIII, difundiu-se na arte ocidental a representação de Cristo coroado de espinhos, que se tornou tema central da iconografia da Paixão.",
+      "categoria": "arte-sacra-simbolos",
       "tags": [
+        "coroa de espinhos",
         "Paixão de Cristo",
         "realeza de Cristo",
-        "arte sacra"
+        "relíquia",
+        "Sainte-Chapelle",
+        "Notre-Dame",
+        "Luís IX"
       ],
-      "imagem": null,
-      "imagem_credito": null,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Couronne_d%27epines_-_Crown_of_Thorns_Notre_Dame_Paris.jpg",
+      "imagem_credito": "Foto de Gavigan (2007), CC BY-SA — via Wikimedia Commons",
       "fontes": [
-        "Evangelho segundo Mateus 27,29",
-        "Evangelho segundo João 19,2",
-        "Megacurioso, «Como a coroa de espinhos de Jesus Cristo sobreviveu até hoje?»"
+        "Evangelho segundo Mateus 27,29; Marcos 15,17; João 19,2",
+        "São Paulino de Nola, Epístola a Macário (Patrologia Latina LXI, 407), após 409",
+        "Catholic Answers Encyclopedia, «Crown of Thorns» (concessão por Balduíno II, compra por Luís IX, relicário atual sem espinhos)",
+        "CMN — Sainte-Chapelle, «História da Sainte-Chapelle» (valor de 135.000 livres tournois; chegada em 1239; Notre-Dame em 1806)",
+        "Crônica de Roberto de Clari sobre a Quarta Cruzada (descrição da coroa \"de juncos do mar\")"
       ],
       "ordem": 21
     },
@@ -381,19 +573,27 @@
       "id": "arte-sacra-simbolos:cruz-celta",
       "slug": "cruz-celta",
       "titulo": "A Cruz Celta",
+      "resumo": "A cruz latina envolvida por um anel — o nimbo — no ponto de cruzamento dos braços, típica dos grandes cruzeiros de pedra da Irlanda e da Grã-Bretanha a partir do século VIII.",
+      "corpo": "A cruz celta — também chamada cruz anilhada ou, nos países de língua inglesa, ringed cross — caracteriza-se por um anel, o nimbo, que envolve o ponto em que os braços horizontais cruzam o eixo vertical. Sua forma consagrada é a dos grandes cruzeiros monumentais de pedra (high crosses) erguidos em mosteiros da Irlanda e das regiões de influência irlandesa, sobretudo entre os séculos VIII e XII. Esses cruzeiros não eram lápides, mas monumentos e marcos: assinalavam o recinto sagrado, serviam de ponto de pregação e de oração e ostentavam painéis esculpidos com cenas do Antigo e do Novo Testamento, destinados à instrução dos fiéis.\n\nA lenda popular atribui a invenção da cruz celta a São Patrício, que a teria concebido unindo a cruz cristã ao símbolo pagão do sol para facilitar a catequese dos celtas recém-convertidos. Essa narrativa não resiste à cronologia: as cruzes anilhadas mais antigas conhecidas datam de cerca de 750-800, quase três séculos após a morte do santo (c. 461). Os exemplares do mosteiro de Ahenny, no condado de Tipperary, feitos em arenito no século VIII ou IX, estão entre os mais antigos conservados e chamam a atenção por quase não terem figuras bíblicas: suas faces e o anel são cobertos de espirais, entrelaçados (interface), bossas e geometrismos, no auge da tradição decorativa celta antes da virada para a escultura figurativa.\n\nSobre a origem do anel, uma hipótese técnica ganhou força nas últimas décadas. O estudo da Cruz de São João, em Iona (a ilha do mosteiro fundado por São Columba, na costa da Escócia), sugere que o anel não nasceu como elemento simbólico, e sim como solução de engenharia: a cabeça da cruz, de vão excepcionalmente largo, teria caído e se partido ainda no século VIII, e os quatro quadrantes do anel foram acrescentados, em pedra local, para escorar e reforçar os braços na reparação. Um acidente teria, assim, dado origem a uma moda — e a Cruz de São João é hoje considerada a progenitora dos cruzeiros anilhados, inclusive dos exemplares irlandeses dos séculos IX e X. Coexistem, ainda, leituras simbólicas do anel: a supremacia de Cristo sobre o sol venerado pelos povos pagãos, a ideia céltica de eternidade sem princípio nem fim, ou a união entre a cruz (a Paixão) e o círculo (a Ressurreição e a promessa da vida eterna).\n\nEntre os cruzeiros mais célebres está a Cruz de Muiredach, em Monasterboice, no condado de Louth, datada de cerca de 900-925 e considerada por muitos estudiosos a mais bela high cross da Irlanda. Mede quase seis metros de altura, foi talhada em arenito e traz, na base, uma inscrição que geralmente se traduz como uma oração por Muiredach, o abade para quem a cruz foi feita — Muiredach mac Domhnaill, falecido em 923 —, ladeada por dois gatos em relevo, num dos detalhes mais citados da escultura irlandesa medieval. No mesmo sítio ergue-se a Cruz Ocidental, mais esguia e mais alta, também do início do século X, mas muito mais erodida.\n\nCom o tempo, o modelo anilhado tornou-se símbolo identitário do cristianismo irlandês e das comunidades de origem céltica em todo o mundo — reaparecendo com sentido distinto nos cruzeiros comemorativos de cemitérios e na ourivesaria moderna, muitas vezes como emblema de herança cultural antes que de devoção.",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "A cruz latina envolvida por um anel no cruzamento dos braços, símbolo cristão irlandês difundido a partir da Idade Média.",
-      "corpo": "A cruz celta surgiu em monumentos de pedra esculpida na Irlanda e na Grã-Bretanha por volta do século VIII, caracterizando-se por um anel — o nimbo — que envolve o ponto em que os braços da cruz se cruzam com o eixo vertical. A lenda popular atribui sua criação a São Patrício, que a teria concebido unindo a cruz cristã ao símbolo pagão do sol para facilitar a catequese dos celtas recém-convertidos, mas essa narrativa não resiste à cronologia: as cruzes anilhadas mais antigas conhecidas datam de cerca de 750-800, quase trezentos anos após a morte do santo.\n\nSobre o significado do anel circundante, coexistem várias interpretações — a supremacia de Cristo sobre o sol venerado pelos povos pagãos, a ideia céltica de eternidade sem princípio nem fim, ou, mais prosaicamente, um reforço estrutural que evitava a quebra dos braços de pedra. Tornou-se, com o tempo, símbolo identitário do cristianismo irlandês e de comunidades de origem céltica em todo o mundo.",
       "tags": [
         "Irlanda",
         "São Patrício",
-        "Idade Média"
+        "Idade Média",
+        "high cross",
+        "Iona",
+        "São Columba",
+        "Monasterboice",
+        "arte insular"
       ],
-      "imagem": null,
-      "imagem_credito": null,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Mainistir_Bhuithe_cross_Muiredach.jpg",
+      "imagem_credito": "Foto: Adriao, 2008, via Wikimedia Commons (CC BY-SA 4.0)",
       "fontes": [
-        "GotQuestions, «Qual é a origem e o significado da cruz celta?»",
-        "Edublin, «Cruz celta: símbolo de arte, cultura e religiosidade»"
+        "The Past / Current Archaeology, «Iona’s archetype? A concrete replica of the Cross of St John speaks» (teoria do anel como reparo estrutural, Cruz de São João, séc. VIII)",
+        "Wikipedia (en), «Muiredach's High Cross» (dimensões, inscrição de Muiredach mac Domhnaill, morto em 923)",
+        "Basil-Ltd, «Celtic Crosses» e xyuandbeyond, «Celtic Crosses in Ireland» (cruzes de Ahenny, séc. VIII-IX)",
+        "The Irish Place, «History of the Celtic High Cross and Memorial Cross» (high cross como monumento, distinção da cruz comemorativa moderna)",
+        "Wikimedia Commons, File:Mainistir Bhuithe cross Muiredach.jpg"
       ],
       "ordem": 22
     },
@@ -401,19 +601,25 @@
       "id": "arte-sacra-simbolos:calice-e-patena",
       "slug": "calice-e-patena",
       "titulo": "Cálice e Patena",
+      "resumo": "Os dois vasos sagrados centrais da Missa, que servem para oferecer, consagrar e comungar o pão e o vinho eucarísticos.",
+      "corpo": "O cálice é o copo no qual se põem o vinho e um pouco de água do sacrifício eucarístico e, depois da consagração, o Sangue de Cristo; a patena é o pequeno prato, geralmente dourado e levemente côncavo, sobre o qual se coloca o pão a ser consagrado. A Instrução Geral do Missal Romano os distingue expressamente entre os vasos sagrados: são aqueles «que servem para oferecer, consagrar e comungar o Pão e o vinho» (IGMR 327), o que faz deles os vasos mais centrais de toda celebração da Missa.\n\nA matéria e a forma seguem normas precisas. Os vasos sagrados «devem ser fabricados de metal nobre»; se forem de metal oxidável ou menos nobre que o ouro, «normalmente devem ser dourados por dentro» (IGMR 328), e «a copa deve ser de material que não absorva os líquidos» (IGMR 330). Com a confirmação da Sé Apostólica, a juízo das Conferências Episcopais admite-se também o marfim e «certas madeiras muito duras» (IGMR 329). Quanto à forma, compete ao artista dar-lhe a que melhor se adapte aos costumes de cada região, desde que seja adequada ao uso litúrgico (IGMR 295); e, antes de destinados exclusivamente à Eucaristia, os vasos recebem um rito próprio de bênção ou consagração (IGMR 296; Cerimonial das Bênçãos, 1068-1073). Esse caráter reservado expressa diante da comunidade a distinção entre os objetos do culto divino e qualquer uso profano.\n\nA legislação também regula o que vai sobre o altar. A IGMR 293 recomenda que, «para a consagração das hóstias, será conveniente utilizar uma patena única, maior, na qual se colocará o pão quer para o celebrante, quer para os ministros e fiéis». Essa indicação recupera, em parte, um uso antigo: nos primeiros séculos a patena era um prato amplo, usado para recolher o pão oferecido pelos fiéis e para distribuir os fragmentos consagrados na comunhão. Quando, por volta do século IX, arrefeceu a comunhão frequente, «o uso das grandes e proporcionalmente profundas patinae ministeriales caiu em desuso», e generalizou-se uma patena muito menor, de uso exclusivo do sacerdote no altar, para conter a Hóstia e evitar a dispersão de partículas. Depois da comunhão, o sacerdote ou o ministro purifica a patena ou a píxide sobre o cálice, enquanto diz em silêncio a oração «O que em nossa boca recebemos» (Quod ore sumpsimus), e limpa o cálice com o sanguinho (IGMR, Ritos de conclusão).\n\nNo ofertório, a celebração do cálice é acompanhada de um gesto de sentido teológico: derrama-se no vinho uma gota de água. A tradição explica esse mistério como a união da natureza divina e da natureza humana em Cristo, e da Igreja com o seu Senhor — tema que ecoa na oração que acompanha o gesto, «Deus, que criastes a natureza humana...» (Deus, qui humanae substantiae). A água, que também representa a humanidade, é unida ao vinho que representa Cristo, para significar a íntima participação do povo na oblação do sacrifício eucarístico.\n\nO conjunto — cálice e patena — remonta ao próprio gesto de Cristo na Última Ceia, que «tomou o pão e o cálice»; por isso a tradição litúrgica os trata com o maior cuidado material e simbólico entre os vasos do altar.",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "Os dois vasos sagrados centrais da Missa, usados para consagrar respectivamente o vinho e o pão eucarísticos.",
-      "corpo": "O cálice é o copo no qual o vinho e a água do sacrifício eucarístico são contidos e, depois da consagração, o Sangue de Cristo; a patena é o pequeno prato, geralmente dourado e levemente côncavo, sobre o qual se coloca o pão a ser consagrado. Juntos, são os vasos sagrados mais centrais de toda celebração da Missa, aqueles que a tradição litúrgica trata com maior cuidado material e simbólico.\n\nAs normas litúrgicas exigem que sejam feitos de metal nobre — e, quando o metal for oxidável, dourados por dentro, na parte que entra em contato com as espécies consagradas — e que recebam uma bênção especial antes de serem destinados exclusivamente à celebração eucarística. Esse caráter \"sagrado\", reservado só a esse uso, expressa diante de toda a comunidade a distinção entre os objetos do culto divino e qualquer uso profano.",
       "tags": [
         "vasos sagrados",
         "Eucaristia",
-        "Missa"
+        "Missa",
+        "cálice",
+        "patena",
+        "ofertório"
       ],
-      "imagem": null,
-      "imagem_credito": null,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Chalice_and_paten_of_Charles_de_Foucauld.jpg",
+      "imagem_credito": "Foto: Photo-Monique, 2014, via Wikimedia Commons (CC BY-SA 4.0)",
       "fontes": [
-        "Lírio Católico, «Vasos Sagrados»",
-        "Instrução Geral do Missal Romano"
+        "Instrução Geral do Missal Romano, nn. 289-296 e 327-334 (matéria, forma, bênção dos vasos; patena única maior no n. 293)",
+        "Lírio Católico, Dicionário Litúrgico, verbete «vasos sagrados», citando IGMR e Sacrosanctum Concilium 122",
+        "Enciclopédia Católica (via Lírio Católico), verbete «Patena» (origem e queda em desuso das patenae ministeriales por volta do séc. IX)",
+        "Instrução Geral do Missal Romano, ritos da comunhão e purificação dos vasos (oração Quod ore sumpsimus)",
+        "Wikimedia Commons, File:Chalice and paten of Charles de Foucauld.jpg"
       ],
       "ordem": 23
     },
@@ -421,18 +627,25 @@
       "id": "arte-sacra-simbolos:ambula-ciborio",
       "slug": "ambula-ciborio",
       "titulo": "A Âmbula (Cibório)",
+      "resumo": "O vaso sagrado com tampa — chamado âmbula, cibório ou píxide — usado para guardar as hóstias consagradas no sacrário e distribuí-las na comunhão dos fiéis.",
+      "corpo": "A âmbula, também chamada cibório ou píxide, é o vaso sagrado em forma de cálice com tampa, destinado a conter as hóstias consagradas, tanto para a comunhão da assembleia quanto para a reserva eucarística no sacrário. Os três nomes são corretos, mas predominaram em épocas diferentes: cibório (do latim medieval ciborium, por sua vez do grego κιβώριον, kibórion, «copo para beber») foi o termo mais comum em séculos passados; píxide vem do grego pyxís, «caixa de madeira de buxo», designando a caixinha redonda com tampa; âmbula, do latim ampulla, liga-se à ideia de «transportar». Ao lado da âmbula grande de sacrário, é corrente a distinção de uma píxide menor (ou teca), usada para levar a comunhão aos doentes e acamados.\n\nO nome «cibório» tem, porém, um segundo emprego que convém não confundir. Em arquitetura cristã, cibório — em português também «baldaquino» — designa o dossel de pedra ou madeira sustentado por colunas e erguido sobre o altar, comum nas basílicas paleocristãs e românicas; o célebre baldaquino de bronze de Bernini em São Pedro do Vaticano pertence a essa família. Os dois sentidos, o do vaso e o do dossel, derivam do mesmo vocábulo grego e coexistem, razão pela qual as fontes costumam distingui-los explicitamente.\n\nHistoricamente, os primeiros cibórios não se destinavam à igreja: nas comunidades antigas, a Eucaristia não era habitualmente conservada nos templos, por temor de sacrilégio ou profanação, e os primeiros recipientes ficavam em casas particulares, à mão para a comunhão dos enfermos e o viático. Quando o culto eucarístico se intensificou — sobretudo a partir do século XIII, com a instituição da festa de Corpus Christi (1246/1264) —, consolidou-se o uso do cibório/tampa para a reserva no sacrário.\n\nO uso deste vaso está enquadrado por normas canônicas precisas. O Código de Direito Canônico determina que a Santíssima Eucaristia seja conservada habitualmente em um só sacrário da igreja ou oratório (cân. 938 §1), situado em lugar destacado, bem decorado e próprio para a oração (cân. 938 §2), imóvel, de material sólido e opaco e fechado de modo a evitar o perigo de profanação (cân. 938 §3). Prescreve ainda que as hóstias consagradas sejam guardadas «numa píxide ou pequeno vaso» em quantidade suficiente para as necessidades dos fiéis, renovadas com frequência e as mais antigas consumidas devidamente (cân. 939), e que uma lâmpada especial brilhe continuamente diante do sacrário que indica e honra a presença de Cristo (cân. 940).\n\nDiferentemente do ostensório — peça semelhante, também presente neste acervo, mas destinada a expor a Hóstia à adoração pública —, a âmbula tem função de guarda e de transporte discretos das espécies eucarísticas, e por isso é munida de tampa e, com frequência, coberta por um véu. Em relação aos materiais, vale para ela o mesmo critério exigido de todos os vasos que recebem as hóstias: no caso de a hóstia ser colocada diretamente no vaso, este deve ser de metal nobre ou, ao menos, dourado por dentro (cf. IGMR 328-329).",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "O vaso sagrado com tampa usado para guardar as hóstias consagradas no sacrário e distribuí-las na comunhão dos fiéis.",
-      "corpo": "A âmbula — também chamada cibório ou píxide, três nomes igualmente corretos, cada um mais comum em determinada época — é o vaso sagrado destinado a conter as hóstias consagradas, tanto para a comunhão da assembleia quanto para a reserva eucarística no sacrário. Diferencia-se do cálice sobretudo por possuir tampa, o que lhe permite conservar as espécies consagradas por um tempo mais longo.\n\nSeu uso desenvolveu-se sobretudo a partir do século XIII, com o crescimento do culto eucarístico em torno da instituição da festa de Corpus Christi. Ao contrário do ostensório — peça semelhante, também presente neste acervo, mas destinada a expor a Hóstia à adoração pública —, a âmbula tem função de guarda e transporte discretos das espécies eucarísticas.",
       "tags": [
         "sacrário",
         "Eucaristia",
-        "vasos sagrados"
+        "vasos sagrados",
+        "cibório",
+        "píxide",
+        "Corpus Christi"
       ],
-      "imagem": null,
-      "imagem_credito": null,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Ciborie2.jpg",
+      "imagem_credito": "Foto: Broederhugo, via Wikimedia Commons (CC BY-SA 3.0)",
       "fontes": [
-        "Pílulas Litúrgicas, «O cibório ou âmbula»"
+        "Código de Direito Canônico, cânones 934-941 (reserva e veneração da Santíssima Eucaristia; cân. 938-940 sobre o sacrário e a píxide)",
+        "Wikipedia (pt), «Cibório (recipiente)» (etimologias de cibório, píxide e âmbula)",
+        "Secretariado Nacional de Liturgia (Portugal), Dicionário elementar de liturgia, verbete «píxide/cibório»",
+        "Wikipedia (en), «Ciborium (container)» e Wikimedia Commons, página «Ciborium» (distinção entre cibório-vaso e cibório-baldaquino)",
+        "Instrução Geral do Missal Romano, nn. 328-329 (materiais dos vasos que recebem as hóstias)"
       ],
       "ordem": 24
     },
@@ -440,18 +653,27 @@
       "id": "arte-sacra-simbolos:cruz-patriarcal",
       "slug": "cruz-patriarcal",
       "titulo": "A Cruz Patriarcal",
+      "resumo": "A cruz latina com um segundo braço curto acima do maior, usada como insígnia de patriarcas e arcebispos e indistinguível, na forma, da cruz de Lorena.",
+      "corpo": "A cruz patriarcal, também chamada cruz dobrada ou cruz arquiepiscopal, é uma variante da cruz latina que acrescenta, acima do braço principal, um segundo braço menor mais próximo do topo. A leitura tradicional associa esse braço adicional ao titulus crucis, a placa que os soldados romanos fixaram sobre a cabeça de Jesus com a inscrição \"INRI\" (Iesus Nazarenus Rex Iudaeorum), de modo que os dois braços juntos lembrariam tanto a cruz de Cristo quanto o título que a acompanhava.\n\nO registro material mais antigo e datável da cruz de dois braços é numismático: ela aparece regularmente na moeda do Império Bizantino a partir do segundo reinado do imperador Justiniano II (705–711), que é representado no sólido segurando um globus cruciger encimado por uma cruz patriarcal. O exemplo é conservado, entre outros acervos, na coleção de moedas bizantinas do Dumbarton Oaks. Também se registra na numária e na heráldica do Ocidente medieval: o bispo Béla III da Hungria (1148–1196), que vivera em Constantinopla, teria levado a cruz de dois braços para o seu escudo, e ela figura entre os elementos principais das armas da Hungria ao menos desde cerca de 1190, passando depois às armas da Lituânia (no escudo do cavaleiro Vytis, na Pahonia) e, entre 1577 e 1625, às da Rússia, entre as cabeças da águia bicéfala. Em livros medievais de peregrinação, a cruz patriarcal já servia para assinalar os locais onde se podia obter indulgência plenária, enquanto a cruz latina simples indicava a indulgência parcial.\n\nSua adoção como insígnia de dignidade eclesiástica é o que lhe dá o nome: distingue patriarcas e arcebispos, em contraste com a cruz peitoral de um só braço usada pelos bispos. Na heráldica eclesiástica, a cruz arquiepiscopal de dois braços aparece no brasão dos arcebispos, ao lado do chapéu verde de dez borlas de cada lado; o papa, por sua vez, usa uma cruz de três braços. Ao mesmo tempo, a cruz patriarcal é iconograficamente muito frequente na arte greco-bizantina e nas Igrejas ortodoxas orientais; na versão russa e eslava acrescenta-se por vezes um terceiro travessão curto e inclinado junto ao pé, o que a aproxima da chamada cruz ortodoxa russa.\n\nA forma da cruz patriarcal é praticamente idêntica à da cruz de Lorena, e as duas designações são frequentemente usadas de modo intercambiável. A cruz de Lorena (Croix de Lorraine), também chamada cruz de Anjou, figurava na simbologia dos duques de Anjou, que se tornaram duques de Lorena a partir de 1431; na versão mais antiga, os dois braços eram do mesmo tamanho. Renato II da Lorena (1451–1508) foi o primeiro a incorporá-la como símbolo do ducado, em oposição à cruz de Borgonha, e a tradição a liga à Batalha de Nancy (5 de janeiro de 1477), na qual venceu Carlos, o Temerário, duque da Borgonha. Já no século XX, a cruz de Lorena foi escolhida por Émile Muselier, vice-almirante e lorenês de origem, e adotada pela França Livre em 1º de julho de 1940 como emblema de resistência em oposição à cruz gamada nazista, tornando-se símbolo do gaullismo. Essa dupla vida — insígnia eclesiástica e símbolo político e nacional — explica por que a mesma cruz de dois braços aparece tanto no brasão de um arcebispo quanto nas armas da Hungria, da Lituânia ou da antiga Eslováquia.",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "A cruz latina com um segundo braço curto acima do maior, tradicionalmente associada à inscrição \"INRI\" e usada como distinção hierárquica.",
-      "corpo": "A cruz patriarcal, ou cruz dobrada, é uma variante da cruz latina que acrescenta, acima do braço principal, um segundo braço menor mais próximo do topo. A leitura tradicional associa esse braço adicional à placa que os soldados romanos fixaram sobre a cabeça de Jesus com a inscrição \"INRI\" (Iesus Nazarenus Rex Iudaeorum), de modo que os dois braços juntos lembrariam tanto a cruz de Cristo quanto o título que a acompanhava.\n\nGanhou popularidade no Império Bizantino a partir do século X e é hoje muito usada na iconografia greco-bizantina e nas Igrejas ortodoxas orientais, além de ter sido adotada no Ocidente como símbolo de distinção hierárquica de cardeais, patriarcas e arcebispos, em contraste com a cruz simples usada pelos demais bispos.",
       "tags": [
+        "cruz patriarcal",
+        "cruz de Lorena",
         "INRI",
         "hierarquia eclesiástica",
-        "iconografia bizantina"
+        "iconografia bizantina",
+        "heráldica",
+        "Justiniano II"
       ],
-      "imagem": null,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/30/PatriarchsCross.svg",
       "imagem_credito": null,
       "fontes": [
-        "Wikipédia, «Cruz patriarcal»"
+        "Wikipédia (inglês), «Patriarchal cross»",
+        "Wikipédia (espanhol), «Cruz patriarcal» e «Cruz de Lorena»",
+        "Wikipédia (inglês), «Archiepiscopal cross» e «Battle of Nancy»",
+        "Dumbarton Oaks, coleção de moedas bizantinas, «Solidus of Justinian II (705–711)», acessão BZC.1948.17.2391",
+        "Liberation Route Europe, «Croix de Lorraine»",
+        "Escobar, dissertação «Brasões Episcopais: Registro e Memória Visual da Bahia», UEFS"
       ],
       "ordem": 25
     },
@@ -459,19 +681,26 @@
       "id": "arte-sacra-simbolos:lirio-de-sao-jose",
       "slug": "lirio-de-sao-jose",
       "titulo": "O Lírio de São José",
+      "resumo": "A flor branca que acompanha as imagens de São José na iconografia católica, símbolo de sua pureza e castidade, ligada por tradição piedosa ao relato apócrifo da vara que floresceu.",
+      "corpo": "Nas representações artísticas de São José, quase sempre aparece em suas mãos um lírio branco — símbolo, na tradição cristã, da pureza do coração, da castidade e também da vitória da vida sobre a morte. O lírio está tão fixado como atributo do santo que aparece igualmente nas mãos do Menino Jesus, quando este é representado no colo do pai adotivo, e serve de emblema em brasões cujo titular tem São José por padroeiro.\n\nA origem da flor não está nos evangelhos canônicos, mas num conjunto de textos apócrifos que a piedade popular reuniu. No Protoevangelho de Tiago (século II), quando Maria completa doze anos o sacerdote Zacarias convoca os viúvos da cidade para que cada um traga uma vara, e sobre a vara de José desce uma pomba, sinal de que fora escolhido para tomar a Virgem sob sua proteção. Num apócrifo mais tardio, o Evangelho da Natividade de Maria (século V), a narrativa muda: os candidatos deixam um galho seco no altar, e o de José floresce imediatamente, indicando a escolha divina. A História de José, o Carpinteiro, provavelmente do século IX, retoma o episódio: do bastão de José não sai uma pomba, mas uma flor, e sobre ele desce o Espírito Santo. Foi a piedade popular posterior que identificou essa flor como um lírio. O conjunto desses relatos — sete apócrifos ao todo mencionam José — contribuiu, entre outras coisas, para representá-lo como homem idoso e viúvo, defesa da virgindade perpétua de Maria diante dos grupos que a negavam.\n\nEste acervo registra a origem da flor como tradição legendária, e não como fato histórico, do mesmo modo como distingue lenda de narrativa evangélica em outros símbolos aqui reunidos, como o pelicano eucarístico. Independentemente da lenda, o lírio consolidou-se como atributo iconográfico fixo de São José, e a Escritura fornece bases simbólicas para a imagem: o próprio Cristo, no Sermão da Montanha, convida a \"considerar os lírios do campo\". A associação com a pureza explica ainda o uso do lírio em buquês de noiva e em cerimônias de casamento.\n\nO culto de São José ganhou impulso doutrinal no século XIX. Em 8 de dezembro de 1870, por meio do decreto Quemadmodum Deus da Sagrada Congregação dos Ritos, o Papa Pio IX proclamou solenemente São José Padroeiro e Protetor da Igreja universal, elevando a festa de 19 de março ao rito duplo de primeira classe. Em 1955, o Papa Pio XII instituiu a festa de São José Operário em 1º de maio. A tradição também o invoca como patrono de uma boa morte, segundo a piedade de que teria falecido na presença de Jesus e de Maria.",
       "categoria": "arte-sacra-simbolos",
-      "resumo": "A flor branca que acompanha as imagens de São José na iconografia católica, símbolo de sua pureza e castidade virginal.",
-      "corpo": "Nas representações artísticas de São José, quase sempre aparece em suas mãos um lírio branco — símbolo, na tradição cristã, da pureza do coração, da castidade e também da vitória da vida sobre a morte. Uma antiga tradição piedosa, sem base em nenhum relato bíblico e sem pretensão de historicidade, conta que o sumo sacerdote teria reunido os pretendentes à mão de Maria dando a cada um um bastão seco, do qual brotaria uma flor apenas no bastão do escolhido por Deus — José, cujo bastão teria florescido em forma de lírio.\n\nEste acervo registra essa origem como tradição legendária, e não como fato histórico, do mesmo modo como distingue lenda de narrativa evangélica em outros símbolos aqui reunidos, como o pelicano eucarístico. Independentemente da lenda, o lírio consolidou-se como atributo iconográfico fixo de São José, associado também, mais amplamente, à pureza e à promessa de renovação em cerimônias religiosas.",
       "tags": [
         "São José",
+        "lírio",
         "pureza",
-        "iconografia"
+        "castidade",
+        "iconografia",
+        "evangelhos apócrifos",
+        "Pio IX"
       ],
-      "imagem": null,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Agust%C3%ADn_Rodr%C3%ADguez_-_San_Jos%C3%A9_y_el_Ni%C3%B1o.jpg",
       "imagem_credito": null,
       "fontes": [
-        "A12, «O lírio de São José e seus significados»",
-        "Comunidade Católica Shalom, «Por que São José carrega um lírio?»"
+        "Província Franciscana da Imaculada Conceição (OFM), «A história de São José na tradição dos Evangelhos apócrifos»",
+        "Instituto Humanitas Unisinos (IHU), «A história de São José na tradição dos evangelhos apócrifos»",
+        "Comunidade Católica Shalom, «Por que São José carrega um lírio?»",
+        "Decreto Quemadmodum Deus (1870), Sagrada Congregação dos Ritos, que proclamou São José Padroeiro da Igreja",
+        "Wikipédia, «São José»"
       ],
       "ordem": 26
     }
