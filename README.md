@@ -229,6 +229,17 @@ Ao adicionar entradas, siga as mesmas regras que valem para o que já está lá:
 
 Conteúdo atual: 485 entradas nas 13 categorias.
 
+### Datas de atualização (`atualizado_em`)
+
+Cada entrada devolve `atualizado_em` (`AAAA-MM-DD`): a data em que o conteúdo dela nasceu ou mudou pela última vez.
+O site a usa como `lastmod` no sitemap, e o Google só confia nesse campo quando ele é verdadeiro. A data **não** está
+nos arquivos de conteúdo: vem de `app/data/atualizacoes.json`, gerado do histórico do git por
+`scripts/gerar_atualizacoes.py` (`make atualizacoes`) e injetado na carga. Formatação do JSON que não muda o
+conteúdo não conta como alteração, e entradas editadas e ainda não commitadas ganham a data de hoje.
+
+**Depois de alterar qualquer entrada, rode `make atualizacoes` e commite o manifesto junto.**
+`python scripts/gerar_atualizacoes.py --check` confere se ele está em dia.
+
 ## Configuração
 
 Todas as variáveis são opcionais em desenvolvimento (há defaults em

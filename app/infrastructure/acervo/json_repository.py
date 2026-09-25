@@ -48,6 +48,9 @@ from app.models import (
 
 logger = logging.getLogger(__name__)
 
+# Manifesto de datas de atualização, ao lado dos arquivos de dados (ver scripts/gerar_atualizacoes.py).
+UPDATES_FILENAME = "atualizacoes.json"
+
 # `app/infrastructure/acervo/json_repository.py` -> sobe três níveis pra
 # chegar em `app/`, onde `data/` mora — movido de `app/repository.py`
 # (Clean Architecture, 2026-09-19), dois níveis de diretório a mais do que
@@ -175,8 +178,22 @@ class Repository:
         self._entries: dict[Category, list[AnyEntry]] = {}
         self._by_slug: dict[Category, dict[str, AnyEntry]] = {}
         self._search_index: list[_SearchDoc] = []
+        self._updates: dict[str, dict[str, str]] = {}
 
     # ------------------------------------------------------------------ carga
+
+    def _load_updates(self) -> dict[str, dict[str, str]]:
+        """Manifesto `atualizacoes.json` (`categoria -> slug -> data`); ausente = sem datas."""
+        path = self._data_dir / UPDATES_FILENAME
+        if not path.exists():
+            return {}
+        try:
+            raw = json.loads(path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError as exc:
+            raise DataIntegrityError(f"{path.name}: JSON inválido — {exc}") from exc
+        if not isinstance(raw, dict):
+            raise DataIntegrityError(f"{path.name}: esperado um objeto categoria -> slug -> data.")
+        return raw
 
     def load(self) -> None:
         """Carrega e valida os arquivos de dados disponíveis.
@@ -189,6 +206,7 @@ class Repository:
         entries: dict[Category, list[AnyEntry]] = {}
         by_slug: dict[Category, dict[str, AnyEntry]] = {}
         search_index: list[_SearchDoc] = []
+        self._updates = self._load_updates()
         image_resolver = ImageAssetResolver(
             settings.image_manifest_path, settings.image_cdn_base_url
         )
@@ -242,6 +260,15 @@ class Repository:
             ) from exc
         except json.JSONDecodeError as exc:
             raise DataIntegrityError(f"{path.name}: JSON inválido — {exc}") from exc
+
+        # Injeta a data de atualização do manifesto (quando a entrada não traz a sua).
+        dates = self._updates.get(category.value, {})
+        if isinstance(raw, dict):
+            for item in raw.get("itens", []):
+                if isinstance(item, dict) and "atualizado_em" not in item:
+                    date_value = dates.get(item.get("slug", ""))
+                    if date_value:
+                        item["atualizado_em"] = date_value
 
         try:
             dataset = Dataset.model_validate(raw)

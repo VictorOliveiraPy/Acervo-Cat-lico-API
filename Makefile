@@ -4,7 +4,7 @@
 
 PYTHON := .venv/Scripts/python.exe
 
-.PHONY: help venv install run lint typecheck test indexar sincronizar-imagens clean
+.PHONY: help venv install run lint typecheck test indexar sincronizar-imagens atualizacoes clean
 
 help:
 	@echo "Setup"
@@ -22,6 +22,7 @@ help:
 	@echo "Scripts utilitários (precisam de DATABASE_URL/VOYAGE_API_KEY etc no .env)"
 	@echo "  make indexar               scripts/indexar_acervo.py - popula o índice do chatbot"
 	@echo "  make sincronizar-imagens   scripts/sincronizar_imagens.py --dry-run"
+	@echo "  make atualizacoes          regera app/data/atualizacoes.json (lastmod do sitemap)"
 	@echo ""
 	@echo "make clean                 limpa __pycache__, .pytest_cache, .mypy_cache, .ruff_cache"
 
@@ -48,6 +49,9 @@ indexar:
 
 sincronizar-imagens:
 	$(PYTHON) -m scripts.sincronizar_imagens --dry-run
+
+atualizacoes:
+	$(PYTHON) scripts/gerar_atualizacoes.py
 
 clean:
 	rm -rf __pycache__ .pytest_cache .mypy_cache .ruff_cache

@@ -13,6 +13,7 @@ precisão que a fonte histórica não tem. Onde a data é certa e numérica
 
 from __future__ import annotations
 
+from datetime import date
 from enum import Enum
 from typing import Annotated, Literal
 
@@ -98,6 +99,13 @@ class ContentEntry(BaseModel):
     não é obrigatório (ainda que seja boa prática). Nunca preenchido sem
     `imagem` também estar preenchida."""
     fontes: list[str] = Field(default_factory=list)
+    atualizado_em: date | None = None
+    """Data da última alteração do CONTEÚDO desta entrada (ISO, `AAAA-MM-DD`).
+
+    Não vem do arquivo de dados: é injetada na carga a partir de
+    `app/data/atualizacoes.json`, que `scripts/gerar_atualizacoes.py` gera do
+    histórico do git. Alimenta o `lastmod` do sitemap do site; `None` quando o
+    manifesto ainda não conhece a entrada."""
 
 
 class Santo(ContentEntry):
