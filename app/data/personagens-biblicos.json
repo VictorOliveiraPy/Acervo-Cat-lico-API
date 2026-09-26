@@ -574,19 +574,32 @@
       "id": "personagens-biblicos:herodes-antipas",
       "slug": "herodes-antipas",
       "titulo": "Herodes Antipas",
+      "resumo": "Filho de Herodes, o Grande, tetrarca da Galileia e da Pereia entre 4 a.C. e 39 d.C.; ordenou a morte de João Batista e interrogou Jesus durante a Paixão.",
+      "corpo": "Herodes Antipas foi filho de Herodes, o Grande, e de sua esposa Maltace, e irmão inteiro de Arquelau. Educado em Roma junto aos irmãos, recebeu por testamento do pai e com confirmação do imperador Augusto a tetrarquia da Galileia e da Pereia — \"tetrarca\" significa literalmente \"governante da quarta parte\" —, cargo que exerceu de cerca de 4 a.C. até 39 d.C. Governou, portanto, durante todo o ministério público de Jesus, e o Novo Testamento o chama tanto \"Herodes, o Tetrarca\" quanto \"rei Herodes\".\n\nSua memória histórica está sobretudo ligada à morte de João Batista. Os evangelhos sinóticos narram que o Batista censurou publicamente sua união ilícita com Herodíades, mulher de seu meio-irmão Filipe, e que o tetrarca o mandou prender. Marcos 6,14-29 relata a versão segundo a qual, durante um banquete, a filha de Herodíades — Salomé, na tradição — dançou e agradou a Herodes, que lhe prometeu sob juramento o que ela pedisse; instigada pela mãe, ela pediu a cabeça do Batista, e o tetrarca, constrangido pela promessa feita diante dos convivas, mandou decapitá-lo na prisão. O historiador judeu Flávio Josefo, em Antiguidades Judaicas 18.116-119, confirma a execução de João por ordem de Antipas, situando o cárcere e a morte na fortaleza de Maquerontes (Machaerus), junto ao Mar Morto, e explicando o fato pela popularidade do Batista junto ao povo.\n\nAlém do conflito com João, seu casamento com Herodíades acrescentou um agravo pessoal às antigas disputas territoriais com Aretas IV, rei nabateu e pai de sua primeira esposa, repudiada. Esse conflito desembocou numa guerra que se revelou desastrosa para Antipas, com vitórias árabes por volta de 36 d.C. — episódio que, segundo Josefo, o povo encarou como castigo divino pela morte do Batista. Antipas foi também o fundador de Tiberíades, cidade construída nas margens do lago da Galileia e batizada em honra do imperador Tibério.\n\nNos evangelhos, aparece ainda no julgamento de Jesus. Lucas 23,6-12 conta que Pilatos, ao saber que Jesus era galileu e estava, portanto, sob jurisdição de Antipas, o enviou ao tetrarca, que se achava em Jerusalém para a festa. Herodes, que há muito desejava vê-lo e esperava vê-lo operar algum milagre, o interrogou longamente, mas Jesus nada lhe respondeu; ridicularizado e vestido com uma túnica esplêndida, foi devolvido a Pilatos, e os dois governantes, antes inimigos, tornaram-se amigos naquele dia. Em Lucas 13,32, Jesus refere-se a ele com desprezo como \"essa raposa\".\n\nSeu fim foi a deposição. Em 39 d.C., instigado por Herodíades, denunciou seu sobrinho Agripa I por conspiração contra o imperador Calígula; Agripa, porém, amigo pessoal de Calígula, inverteu a acusação. O imperador confiscou os territórios e o tesouro de Antipas e o exilou na Gália — Josefo menciona Lugdunum, e há duas cidades francesas que disputam ter sido o local, Lyon e Saint-Bertrand-de-Comminges. Herodíades o acompanhou no exílio, onde ele morreu. O historiador Cassio Dio (59.8) sugere que Calígula o teria mandado matar. Seus domínios foram anexados à tetrarquia de Agripa I.",
       "categoria": "personagens-biblicos",
-      "resumo": "Filho de Herodes, o Grande, tetrarca da Galileia responsável pela morte de João Batista e presente no julgamento de Jesus.",
-      "corpo": "Filho de Herodes, o Grande, e tetrarca da Galileia durante todo o ministério público de Jesus, Herodes Antipas manda decapitar João Batista após uma promessa imprudente feita à filha de Herodíades, e mais tarde interroga Jesus, por curiosidade, durante o julgamento que antecede a crucificação (Lc 23,6-12), sem proferir sentença.",
       "tags": [
         "Novo Testamento",
-        "Herodes"
+        "Herodes Antipas",
+        "Galileia",
+        "João Batista",
+        "Paixão de Cristo",
+        "Flávio Josefo",
+        "Herodíades",
+        "século I"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Lucas_Cranach_d.%C3%84._-_Gastmahl_des_Herodes_%28Wadsworth_Atheneum%29.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "Bíblia Sagrada — Marcos 6,14-29; Lucas 13,31-33; Lucas 23,6-12",
+        "Flávio Josefo, Antiguidades Judaicas, livro 18 (caps. 116-119, sobre João Batista; relato do exílio)",
+        "Flávio Josefo, A Guerra dos Judeus (local de exílio dado como Hispânia)",
+        "Cassio Dio, História Romana 59.8",
+        "Encyclopaedia Britannica, verbete 'Herod Antipas'"
+      ],
+      "atualizado_em": null,
       "tipo": "rei",
       "testamento": "novo",
-      "referencia_biblica": "Marcos 6,14-29; Lucas 23,6-12",
-      "fontes": []
+      "referencia_biblica": "Marcos 6,14-29; Lucas 23,6-12"
     },
     {
       "id": "personagens-biblicos:poncio-pilatos",
@@ -647,19 +660,29 @@
       "id": "personagens-biblicos:jose-de-arimateia",
       "slug": "jose-de-arimateia",
       "titulo": "José de Arimateia",
+      "resumo": "Membro rico e influente do Sinédrio que, sendo discípulo oculto de Jesus, reclama a Pilatos o corpo do Crucificado e o sepulta em seu próprio túmulo novo, escavado na rocha.",
+      "corpo": "José de Arimateia aparece nos quatro Evangelhos como um homem rico e de posição, membro do Sinédrio — o conselho supremo de Jerusalém — que, segundo Lucas 23,51, não concordara com a decisão e a conduta dos demais conselheiros contra Jesus. Marcos 15,43 e Lucas 23,50-51 o descrevem como \"membro ilustre do conselho\" que esperava o Reino de Deus; Mateus 27,57 acrescenta que era rico. Seu nome deriva de Arimateia, localidade que muitos estudiosos identificam com a atual Rantis, na Cisjordânia, ou com a Ramá de Efraim mencionada no Antigo Testamento.\n\nO episódio central de sua vida é o sepultamento de Jesus. João 19,38 o apresenta como discípulo de Jesus, \"mas oculto, por medo dos judeus\": é ele quem, após a crucificação, tem a coragem de pedir a Pilatos o corpo do Mestre. Pilatos concede o pedido, o que só era possível a alguém de reconhecido prestígio social — o direito de sepultar um executado dependia da autorização do governador. Junto a ele vem Nicodemos, fariseu e \"príncipe dos judeus\", que traz cerca de cem arráteis (cerca de trinta quilos) de uma mistura de mirra e aloés (Jo 19,39). Os dois envolvem o corpo em lençóis com especiarias, conforme o costume judaico de preparação para o sepultamento, e o depositam num túmulo novo, escavado na rocha, que José possuía perto do Gólgota (Mt 27,57-60; Mc 15,42-46; Lc 23,50-53; Jo 19,38-42). Como o corpo devia ser enterrado na própria terra natal, alguns autores estranham que José tivesse um sepulcro em Jerusalém — indício de que ali também residia ou mantinha propriedades.\n\nA tradição cristã posterior desenvolveu largamente sua figura. Os Atos de Pilatos, também chamados Evangelho de Nicodemos (texto apócrifo cujo núcleo remonta ao século II, mencionado já por São Justino), fazem de José o protagonista dos acontecimentos posteriores à crucifixão, narrando os conflitos entre ele e as autoridades do Templo por ter sepultado Jesus. Homilias e relatos medievais, por sua vez, associaram-no ao comércio do estanho e à chegada do cristianismo à Britânia, ligando-o ao ciclo arturiano de Glastonbury e ao tema do Santo Graal. Tais tradições, embora amplamente difundidas na literatura e na arte, não têm base nos textos canônicos e são tratadas pela crítica histórica como lendárias.\n\nA Igreja Católica celebra sua memória em conjunto com a de São Nicodemos em 31 de agosto, conforme o Martirológio Romano, honrando precisamente os dois \"discípulos ocultos\" que, no momento mais sombrio da Paixão, tornaram pública sua adesão a Cristo ao darem sepultura digna ao seu corpo. Na arte, o episódio do sepultamento, com José e Nicodemos sustentando o corpo de Jesus, tornou-se tema frequente, do qual é exemplo notável a cena da Lamentação atribuída a Giotto na Capela dos Scrovegni, em Pádua.",
       "categoria": "personagens-biblicos",
-      "resumo": "Membro rico e piedoso do Sinédrio que doa seu próprio túmulo novo para o sepultamento de Jesus.",
-      "corpo": "Descrito como discípulo secreto de Jesus e membro do Sinédrio que não concordara com a condenação, José de Arimateia pede a Pilatos o corpo de Jesus após a crucificação e o sepulta em seu próprio túmulo novo, escavado na rocha — o mesmo de onde, segundo os quatro Evangelhos, Jesus ressuscitaria.",
       "tags": [
         "Novo Testamento",
-        "Paixão de Cristo"
+        "Sinédrio",
+        "Paixão de Cristo",
+        "sepultamento de Jesus",
+        "Nicodemos",
+        "discípulo oculto"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Josedearimatea.jpg",
       "imagem_credito": "Foto: jovenescofradescabra.blogspot.com — Wikimedia Commons, CC BY 3.0",
+      "fontes": [
+        "Bíblia Sagrada — Mateus 27,57-60; Marcos 15,42-46; Lucas 23,50-53; João 19,38-42",
+        "Vatican News, 'SS. José de Arimateia e Nicodemos, discípulos do Senhor' (Santo do dia, 31 de agosto)",
+        "Martirológio Romano, memória de 31 de agosto",
+        "Evangelho de Nicodemos (Atos de Pilatos), texto apócrifo do Novo Testamento"
+      ],
+      "atualizado_em": null,
       "tipo": "outro",
       "testamento": "novo",
-      "referencia_biblica": "Mateus 27,57-60",
-      "fontes": []
+      "referencia_biblica": "Mateus 27,57-60"
     },
     {
       "id": "personagens-biblicos:zaqueu",
@@ -756,19 +779,31 @@
       "id": "personagens-biblicos:maria-e-marta-de-betania-personagens",
       "slug": "maria-e-marta-de-betania-personagens",
       "titulo": "Maria e Marta de Betânia",
+      "resumo": "Irmãs de Lázaro e hospedeiras de Jesus em Betânia, aldeia próxima de Jerusalém; cada uma representa um modo distinto e complementar de acolher e seguir o Mestre.",
+      "corpo": "Maria e Marta de Betânia são apresentadas nos Evangelhos como irmãs de Lázaro e habitantes da aldeia de Betânia, situada no sopé oriental do Monte das Oliveiras, a poucos quilômetros de Jerusalém, na estrada que desce para Jericó (Mc 11,1; Lc 19,29). A casa das duas irmãs funciona nos relatos evangélicos como lugar de repouso e acolhida de Jesus nos dias que antecedem a Paixão, e o Quarto Evangelho registra explicitamente que \"Jesus amava Marta, sua irmã e Lázaro\" (Jo 11,5).\n\nOs evangelhos atribuem ao círculo de Betânia três cenas distintas. A primeira é o episódio doméstico narrado por Lucas 10,38-42: enquanto Marta se ocupa atarefada com o serviço da mesa, Maria senta-se aos pés do Senhor para escutá-lo. À queixa de Marta — \"Senhor, não te importas que minha irmã me deixe sozinha no serviço?\" — Jesus responde que Maria escolheu \"a melhor parte, que não lhe será tirada\". A passagem tornou-se, na tradição espiritual, o contraste clássico entre a vida ativa e a vida contemplativa. A segunda é o relato da ressurreição de Lázaro (Jo 11), no qual as duas irmãs, em momentos distintos, saem ao encontro de Jesus e expressam a mesma dor e a mesma confissão de fé: Marta formula a grande declaração \"Sim, Senhor, eu creio que tu és o Cristo, o Filho de Deus\" (Jo 11,27). A terceira cena é a unção em Betânia, pouco antes da Paixão, quando Maria unge os pés de Jesus com perfume precioso e os enxuga com os cabelos (Jo 12,1-11); o Quarto Evangelho interpreta o gesto como antecipação do sepultamento, enquanto nos sinóticos a mesma cena aparece em ambiente diferente. A crítica exegética observa que João reelabora a tradição sinótica da unção, atribuindo-lhe sentido marcadamente cristológico.\n\nA figura de Marta está ligada a uma tradição hagiográfica posterior bem definida. O nome \"Marta\" translitera o grego Μαρθα, por sua vez derivado do aramaico מַרְתָּא, que significa \"senhora\" ou \"mestra\". Segundo a Legenda Aurea e antigas tradições do sul da França, após a dispersão dos primeiros discípulos os três irmãos de Betânia teriam ido pregar na Gália, e Marta é venerada como evangelizadora de Tarascon, onde a tradição situa seu túmulo; no Oriente, outra tradição a faz morrer em Lárnaca, no Chipre. Ela é invocada como padroeira dos cozinheiros, hoteleiros, empregados domésticos e das donas de casa.\n\nNo calendário litúrgico, a memória de Santa Marta era celebrada isoladamente em 29 de julho. Em 2 de fevereiro de 2021, o Papa Francisco determinou, por meio da Congregação para o Culto Divino e a Disciplina dos Sacramentos, que na mesma data fossem lembrados conjuntamente os três irmãos de Betânia — Marta, Maria e Lázaro —, reconhecendo neles o testemunho da hospitalidade e da amizade com Cristo. No Oriente, Santa Marta é recordada em 4 de junho.",
       "categoria": "personagens-biblicos",
-      "resumo": "Irmãs de Lázaro, amigas próximas de Jesus, cada uma representando um modo distinto e complementar de acolher o Mestre.",
-      "corpo": "Já tratadas na categoria Santos, Maria e Marta aparecem aqui no conjunto da narrativa bíblica: hospedeiras de Jesus em Betânia, protagonizam o episódio em que Marta se ocupa do serviço enquanto Maria escuta aos pés do Mestre (Lc 10,38-42), e mais tarde suplicam por seu irmão Lázaro, que Jesus ressuscita.",
       "tags": [
+        "Novo Testamento",
         "Evangelho de Lucas",
-        "Betânia"
+        "Evangelho de João",
+        "Betânia",
+        "Marta de Betânia",
+        "Lázaro",
+        "hospitalidade",
+        "vida ativa e contemplativa"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Harold_Copping_Jesus_at_the_home_of_Martha_and_Mary_400.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "Bíblia Sagrada — Lucas 10,38-42; João 11,1-44; João 12,1-11",
+        "Vatican News, 'S. Marta — Santo do dia' (29 de julho)",
+        "Decreto da Congregação para o Culto Divino e a Disciplina dos Sacramentos, que em 2 de fevereiro de 2021 estendeu a memória a Marta, Maria e Lázaro (29 de julho)",
+        "Legenda Aurea, de Jacopo de Varazze (tradição de Marta em Tarascon, na Gália)"
+      ],
+      "atualizado_em": null,
       "tipo": "mulher",
       "testamento": "novo",
-      "referencia_biblica": "Lucas 10,38-42; João 11",
-      "fontes": []
+      "referencia_biblica": "Lucas 10,38-42; João 11"
     },
     {
       "id": "personagens-biblicos:lazaro-de-betania",
