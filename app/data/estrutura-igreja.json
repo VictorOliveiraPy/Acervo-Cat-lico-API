@@ -71,57 +71,79 @@
       "id": "estrutura-igreja:bispo-diocesano",
       "slug": "bispo-diocesano",
       "titulo": "O Bispo Diocesano",
+      "resumo": "Pastor próprio de uma Igreja particular (diocese), sucessor dos apóstolos, com poder ordinário, próprio e imediato de ensinar, governar e santificar seu território.",
+      "corpo": "O bispo diocesano é o pastor próprio de uma Igreja particular. O cânone 369 define a diocese como uma porção do povo de Deus confiada ao pastoreio do bispo com a cooperação do presbitério, de modo que, unida a seu pastor e reunida por ele no Espírito Santo mediante o Evangelho e a Eucaristia, constitua uma Igreja particular na qual está verdadeiramente presente e operante a Igreja de Cristo, una, santa, católica e apostólica. À diocese equiparam-se, salvo disposição em contrário, a prelazia territorial, a abadia territorial, o vicariato e a prefeitura apostólicos e a administração apostólica erigida de modo estável; e é exclusivo da autoridade suprema erigir Igrejas particulares (cân. 368, 373).\n\nA teologia católica vê no bispo um sucessor dos apóstolos. O cânone 375 § 1 afirma que os bispos, por instituição divina, sucedem os apóstolos em virtude do Espírito Santo que lhes é dado e são constituídos pastores na Igreja para serem mestres da doutrina, sacerdotes do culto sagrado e ministros de governo. A Constituição dogmática Lumen Gentium, do Concílio Vaticano II, promulgada por Paulo VI em 21 de novembro de 1964 e aprovada por 2.151 votos a favor e 5 contra, explicita no n. 27 que os bispos governam as Igrejas particulares que lhes foram confiadas como vigários e legados de Cristo, com poder próprio, ordinário e imediato, embora exercido em comunhão com o Papa e o colégio episcopal.\n\nNão é, portanto, mero delegado administrativo do Romano Pontífice: recebe pela ordenação episcopal o poder pleno de ensinar, governar e santificar. Ao bispo diocesano compete, na diocese que lhe foi confiada, todo o poder ordinário, próprio e imediato requerido para o exercício de seu múnus pastoral, exceto as causas reservadas por direito ou por decreto do Sumo Pontífice à autoridade suprema ou a outra autoridade eclesiástica (cf. cân. 381). Distinguem-se dele os bispos coadjutores, dotados do direito de sucessão, e os bispos auxiliares, que o assistem sem direito de sucessão (cân. 403). O bispo diocesano representa a diocese em todos os seus negócios jurídicos (cân. 393) e é a ele que cabe, entre outras atribuições, regulamentar a celebração legítima da Eucaristia para o seu povo.",
       "categoria": "estrutura-igreja",
-      "resumo": "Pastor próprio de uma Igreja particular (diocese), sucessor dos apóstolos, com poder de governo, ensino e santificação sobre seu território.",
-      "corpo": "Cada diocese — divisão territorial básica da Igreja Católica — é governada por um bispo, considerado, na teologia católica, sucessor dos apóstolos e não mero delegado administrativo do Papa: recebe pela ordenação episcopal o poder pleno de ensinar, governar e santificar sua Igreja particular, em comunhão com o Papa e o colégio episcopal universal.",
       "tags": [
-        "hierarquia",
+        "bispo diocesano",
         "episcopado",
-        "diocese"
+        "diocese",
+        "sucessão apostólica",
+        "hierarquia",
+        "Concílio Vaticano II"
       ],
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Nicolas_Poussin_-_The_Sacrament_of_Ordination_%28Christ_Presenting_the_Keys_to_Saint_Peter%29_-_Google_Art_Project.jpg",
+      "imagem": null,
       "imagem_credito": null,
-      "ordem": 4,
       "fontes": [
-        "Código de Direito Canônico (1983)"
-      ]
+        "Código de Direito Canônico (1983), cânones 368, 369, 373, 375, 381, 393, 403",
+        "Concílio Vaticano II, Constituição dogmática Lumen Gentium (21 de novembro de 1964), nn. 21-27",
+        "Wikipedia (en), 'Lumen gentium'"
+      ],
+      "atualizado_em": null,
+      "ordem": 4
     },
     {
       "id": "estrutura-igreja:paroquia",
       "slug": "paroquia",
       "titulo": "A Paróquia",
+      "resumo": "Comunidade de fiéis constituída de modo estável na Igreja particular, confiada ao cuidado pastoral de um pároco sob a autoridade do bispo diocesano.",
+      "corpo": "A paróquia é definida pelo Código de Direito Canônico de 1983 como uma determinada comunidade de fiéis, constituída estavelmente na Igreja particular, cujo cuidado pastoral é confiado a um pároco como a seu pastor próprio, sob a autoridade do bispo diocesano (cân. 515 § 1). Erigi-la, suprimi-la ou modificá-la de modo notável compete exclusivamente ao bispo diocesano, que deve antes ouvir o conselho presbiteral; uma vez legitimamente erigida, a paróquia goza, pelo próprio direito, de personalidade jurídica (cân. 515 §§ 2-3).\n\nA regra geral é a paróquia territorial, mas o cânone 518 prevê que, onde for conveniente, se constituam também paróquias pessoais, determinadas em razão do rito, da língua ou da nacionalidade dos fiéis de um território, ou ainda por outra razão específica. A lei equipara à paróquia a quase-paróquia: uma comunidade de fiéis confiada a um sacerdote como pastor próprio que, por circunstâncias peculiares, ainda não foi erigida em paróquia (cân. 516 § 1).\n\nO pároco é o pastor próprio da comunidade que lhe foi confiada e exerce a cura pastoral sob a autoridade do bispo diocesano, do qual é chamado a partilhar o ministério de Cristo, a fim de desempenhar em favor dessa comunidade o múnus de ensinar, santificar e governar, com a cooperação de outros presbíteros ou diáconos (cân. 519). Entre suas atribuições reservadas, o cânone 530 enumera funções como a administração do batismo e da confirmação em certos casos, o Viático aos doentes e as exéquias; o pároco representa juridicamente a paróquia (cân. 532) e deve residir na paróquia (cân. 533). Ao completar 75 anos, é convidado a apresentar a renúncia ao cargo (cân. 538 § 3).\n\nA paróquia é a célula pastoral com que a maioria dos católicos convive diretamente — o lugar ordinário da administração dos sacramentos, da catequese, da vida litúrgica e comunitária. Nos termos do cânone 374 § 1, toda diocese é dividida em partes distintas, as paróquias, que podem ser agrupadas em vicariatos forâneos para fomentar a ação pastoral comum. Junto ao pároco preveem-se ainda, no governo paroquial, o conselho pastoral (cân. 536) e o conselho para os assuntos econômicos (cân. 537).",
       "categoria": "estrutura-igreja",
-      "resumo": "A comunidade de fiéis, dentro de uma diocese, confiada de modo estável a um pároco sob a autoridade do bispo diocesano.",
-      "corpo": "A paróquia é a célula pastoral básica com que a maioria dos católicos convive diretamente: uma comunidade de fiéis, delimitada normalmente por território, confiada de modo estável a um pároco, sob a autoridade do bispo diocesano — responsável por administrar sacramentos, catequese e vida comunitária local.",
       "tags": [
+        "paróquia",
+        "pároco",
+        "diocese",
         "hierarquia",
-        "paróquia"
+        "Igreja particular",
+        "quase-paróquia"
       ],
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg",
-      "imagem_credito": null,
-      "ordem": 5,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Interior_da_par%C3%B3quia_Nossa_Senhora_do_Ros%C3%A1rio_%28Porto_Alegre%29.jpg",
+      "imagem_credito": "Wikimedia Commons, licença CC BY-SA 4.0",
       "fontes": [
-        "Código de Direito Canônico (1983)"
-      ]
+        "Código de Direito Canônico (1983), cânones 515-537, especialmente 515, 516, 518, 519, 530, 532, 538",
+        "Wikipedia (pt), 'Paróquia'"
+      ],
+      "atualizado_em": null,
+      "ordem": 5
     },
     {
       "id": "estrutura-igreja:conferencia-episcopal",
       "slug": "conferencia-episcopal",
       "titulo": "Conferência Episcopal",
+      "resumo": "Instituição permanente que reúne os bispos de uma nação ou território para exercer em conjunto certas funções pastorais, sem substituir a autoridade própria de cada bispo sobre sua diocese.",
+      "corpo": "A conferência episcopal é, segundo o Código de Direito Canônico de 1983, uma instituição permanente que reúne os bispos de uma nação ou de determinado território para exercer em conjunto certas funções pastorais em favor dos fiéis, com o fim de promover o maior bem que a Igreja oferece aos homens, ajustando formas e métodos de apostolado às circunstâncias de tempo e lugar (cân. 447). Fazem parte dela todos os bispos diocesanos do território e os a eles equipados no direito, bem como os bispos coadjutores, auxiliares e titulares que ali desempenham função peculiar (cf. cân. 450 e Apostolos Suos, n. 7). A conferência tem estatutos próprios, um presidente, um conselho permanente e um secretariado geral (cân. 451-458).\n\nSua autoridade é, porém, delimitada: a conferência só pode emitir decretos gerais com caráter vinculante quando o direito universal o prescrever ou quando um mandato especial da Santa Sé o autorizar; nestes casos, para obrigar, os decretos precisam ser aprovados por dois terços dos membros e receber a confirmação da Sé Apostólica (cf. cân. 455). Em matéria de ensino, os bispos reunidos em conferência, embora não gozem do carisma da infalibilidade, são autênticos doutores e mestres da fé, e os fiéis devem aderir ao seu magistério com religioso obséquio de espírito (cf. Apostolos Suos, n. 7, citando Lumen Gentium, n. 25).\n\nO fundamento teológico foi fixado pelo Concílio Vaticano II, cujo decreto Christus Dominus, sobre o múnus pastoral dos bispos, promulgado por Paulo VI em 28 de outubro de 1965, reconheceu a utilidade e mesmo a necessidade desses organismos para tornar concreta a colegialidade episcopal. Em 1966, Paulo VI, pelo motu proprio Ecclesiae Sanctae, determinou que se constituíssem conferências onde ainda não existissem, que as já formadas redigissem estatutos próprios e que se pudessem erigir conferências de várias nações. A questão da extensão e dos limites da autoridade das conferências suscitou um debate teológico duradouro, especialmente em torno da responsabilidade inalienável de cada bispo para com a Igreja universal e a sua Igreja particular, advertência já formulada pela Assembleia Extraordinária do Sínodo dos Bispos de 1985. Esse debate foi sistematizado por João Paulo II na carta apostólica em forma de motu proprio Apostolos Suos, de 21 de maio de 1998, sobre a natureza teológica e jurídica das conferências episcopais, que reafirmou que nenhum bispo pode renunciar ao seu poder sagrado em favor da conferência ou de parte dela.\n\nO caso brasileiro é um dos mais antigos. A Conferência Nacional dos Bispos do Brasil (CNBB) foi fundada em 14 de outubro de 1952, no Rio de Janeiro, então capital federal, entre as primeiras conferências episcopais nacionais do mundo e a primeira da América Latina. Teve como um de seus idealizadores dom Hélder Câmara, então bispo auxiliar do Rio de Janeiro, eleito primeiro secretário-geral (1952-1958); o primeiro presidente foi o cardeal Carlos Carmelo de Vasconcelos Motta, arcebispo de São Paulo. Em 11 de abril de 1967, a CNBB foi declarada de utilidade pública por decreto federal, e em 1977 sua sede foi transferida do Rio de Janeiro para Brasília. Atualmente reúne cerca de 370 bispos e organiza-se em assembleias gerais, regionais e comissões pastorais.",
       "categoria": "estrutura-igreja",
-      "resumo": "Assembleia dos bispos de um país ou região, que coordena a ação pastoral comum sem substituir a autoridade própria de cada bispo diocesano.",
-      "corpo": "As conferências episcopais — no Brasil, a CNBB (Conferência Nacional dos Bispos do Brasil) — reúnem os bispos de um país ou território para coordenar orientações pastorais comuns, sem prejudicar a autoridade própria de cada bispo em sua diocese, que permanece plena e não delegada pela conferência.",
       "tags": [
+        "conferência episcopal",
+        "colegialidade",
         "hierarquia",
         "CNBB",
-        "conferência episcopal"
+        "Hélder Câmara",
+        "Concílio Vaticano II",
+        "bispado"
       ],
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/St._Peter%27s_Basilica_Rome_-_20140808_2350.jpg",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/H%C3%A9lder_C%C3%A2mara_%281974%29.jpg",
       "imagem_credito": null,
-      "ordem": 6,
       "fontes": [
-        "Código de Direito Canônico (1983)"
-      ]
+        "Código de Direito Canônico (1983), cânones 447-459",
+        "João Paulo II, Carta Apostólica Apostolos Suos (21 de maio de 1998)",
+        "Concílio Vaticano II, Decreto Christus Dominus (28 de outubro de 1965)",
+        "Paulo VI, Motu Proprio Ecclesiae Sanctae (1966)",
+        "Concílio Vaticano II, Constituição Lumen Gentium, n. 25",
+        "Wikipedia (pt), 'Conferência Nacional dos Bispos do Brasil'"
+      ],
+      "atualizado_em": null,
+      "ordem": 6
     },
     {
       "id": "estrutura-igreja:sinodo-dos-bispos",
