@@ -16,21 +16,31 @@
       "id": "calendario-liturgico:advento",
       "slug": "advento",
       "titulo": "Advento",
+      "resumo": "Tempo de quatro semanas que abre o ano litúrgico, preparando o Natal com dupla ênfase: a vinda histórica e a vinda final de Cristo.",
+      "corpo": "O Advento (do latim adventus, \"vinda, chegada\") abre o ano litúrgico e compreende os quatro domingos que antecedem o Natal, começando pelo domingo mais próximo da festa de Santo André (30 de novembro). A palavra tinha uso profano no Império Romano, designando a visita oficial de um personagem importante (o adventus augusti, atestado em moedas) e a \"vinda\" da divindade ao templo; a Vulgata a adotou como termo clássico para a vinda de Cristo à terra e, depois, para sua vinda gloriosa no fim dos tempos (a parusia).\n\nO Advento tem duplo sentido. Nas primeiras semanas, orienta o olhar para a segunda vinda de Cristo no fim dos tempos; a partir de 17 de dezembro, volta-se mais diretamente para a preparação imediata do Natal, a primeira vinda na história. O tempo divide-se, portanto, em duas partes: até 16 de dezembro, com ênfase escatológica; de 17 a 24 de dezembro, quando as leituras se concentram nas profecias messiânicas de Isaías e aparecem as antigas Antífonas do Ó. A liturgia romana suprime nesse tempo alguns elementos festivos (o Glória, o órgão e as flores), mas, diferentemente da Quaresma, não é tempo de penitência austera.\n\nA origem do período remonta ao século V: São Perpétuo, bispo de Tours, teria estabelecido um jejum de três dias antes do Natal, e dessa época data também a \"Quaresma de São Martinho\", jejum de quarenta dias iniciado no dia seguinte à festa de São Martinho (11 de novembro), por isso chamada \"Quaresma de São Martinho\". São Gregório Magno (590-604) foi o primeiro papa a redigir um ofício para o Advento, e o Sacramentário Gregoriano é o mais antigo a prover missas próprias para os domingos desse tempo. No século IX, a duração do Advento foi reduzida a quatro semanas, como se lê numa carta do papa São Nicolau I (858-867) aos búlgaros; no século XII, o jejum já havia sido substituído por simples abstinência.\n\nO terceiro domingo é chamado Gaudete (\"Alegrai-vos\"), nome tirado do introito da Missa, que começa com as palavras de São Paulo: \"Gaudete in Domino semper: iterum dico, gaudete\" — \"Alegrai-vos sempre no Senhor; repito, alegrai-vos\" (Fl 4,4). Nesse domingo é permitido usar paramentos de cor rosa (como no Laetare, quarto domingo da Quaresma), como sinal de alegria no meio de um tempo de expectativa. A cor litúrgica habitual do Advento é o roxo.\n\nComo devoção popular, a coroa do Advento — o anel de ramos verdes com quatro velas — nasceu apenas em 1839, no ambiente protestante alemão: foi criada pelo teólogo luterano Johann Hinrich Wichern (1808-1881) na Rauhes Haus, em Hamburgo, instituição por ele fundada para acolher crianças pobres. A coroa, com velas acesas uma a cada domingo, representa a luz crescente que culmina na Luz do Mundo, Cristo.",
       "categoria": "calendario-liturgico",
-      "resumo": "Tempo de quatro semanas de preparação e expectativa para o Natal, com dupla ênfase: a vinda histórica e a vinda final de Cristo.",
-      "corpo": "O Advento (do latim \"adventus\", vinda) abre o ano litúrgico e se estende por quatro domingos antes do Natal. Tem um duplo sentido: nas duas primeiras semanas, orienta o olhar para a segunda vinda de Cristo no fim dos tempos; a partir de 17 de dezembro, volta-se mais diretamente para a preparação imediata do Natal, a primeira vinda de Cristo na história. É tempo de expectativa vigilante, não de penitência austera como a Quaresma, embora compartilhe a cor roxa.",
       "tags": [
         "ano litúrgico",
-        "Advento"
+        "Advento",
+        "Gaudete",
+        "Adventus",
+        "coroa do Advento",
+        "Isaías",
+        "Antífonas do Ó"
       ],
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Advent_wreath_and_candles_at_St._Pega%27s_church%2C_Peakirk_-_geograph.org.uk_-_8208229.jpg",
-      "imagem_credito": "Foto: Paul Bryan — Wikimedia Commons, CC BY-SA 2.0",
-      "ordem": 1,
-      "cor_liturgica": "Roxo (rosa na Gaudete, terceiro domingo)",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Wichern_Adventskranz_originated_from_Germany.jpg",
+      "imagem_credito": null,
       "fontes": [
         "Missal Romano",
+        "Normas Universais sobre o Ano Litúrgico e o Calendário (NALC)",
+        "Sacramentário Gregoriano",
+        "Carta do papa São Nicolau I aos búlgaros (séc. IX)",
+        "Catholic Encyclopedia, verbete 'Gaudete Sunday'",
         "Catecismo da Igreja Católica"
-      ]
+      ],
+      "atualizado_em": null,
+      "ordem": 1,
+      "cor_liturgica": "Roxo (rosa na Gaudete, terceiro domingo)"
     },
     {
       "id": "calendario-liturgico:tempo-do-natal",
@@ -64,21 +74,29 @@
       "id": "calendario-liturgico:tempo-comum",
       "slug": "tempo-comum",
       "titulo": "Tempo Comum",
+      "resumo": "O período mais longo do ano litúrgico, dividido em duas partes e em 33 ou 34 semanas, no qual se celebra o mistério de Cristo em sua plenitude, sobretudo aos domingos.",
+      "corpo": "O Tempo Comum (também chamado \"Tempo Ordinário\") é aquele em que a Igreja não celebra um aspecto particular do mistério de Cristo, mas o próprio mistério de Cristo em sua plenitude, principalmente nos domingos. As Normas Universais sobre o Ano Litúrgico e o Calendário (NALC, n. 43), promulgadas por Paulo VI em 1969, falam de \"trinta e três ou trinta e quatro semanas\" ao longo do ano que não se prendem a um mistério específico. É o maior e mais extenso dos tempos litúrgicos, distribuído em dois blocos.\n\nA primeira parte vai da segunda-feira seguinte à festa do Batismo do Senhor (que encerra o Tempo do Natal) até a véspera da Quarta-feira de Cinzas, quando começa a Quaresma. A segunda parte recomeça na segunda-feira após a Solenidade de Pentecostes (fim do Tempo Pascal) e se estende até as primeiras vésperas do Primeiro Domingo do Advento, que abre o ano litúrgico seguinte. Como a Páscoa é móvel, o número de semanas de cada bloco varia de ano para ano; a numeração das semanas é contínua, de modo que a sequência é retomada na segunda parte exatamente onde foi interrompida pela Quaresma e pela Páscoa.\n\nO nome \"Comum\" (do latim ordinarius, \"ordenado\", e não \"medíocre\" ou \"sem importância\") deve-se ao fato de que suas semanas são simplesmente numeradas e ordenadas. Alguns liturgistas chamam os domingos desse tempo de \"domingos em estado puro\", pois seu núcleo é o próprio domingo — a \"Páscoa semanal\", o dia do Senhor em que a comunidade se reúne desde o tempo do Novo Testamento para ouvir a Palavra e partir o Pão (cf. At 2,42). Nesse sentido, o Tempo Comum é o tempo primordial, anterior aos ciclos festivos do Natal e da Páscoa.\n\nA partir do século XX, e sobretudo com a reforma do Missal Romano promulgada por Paulo VI na Constituição apostólica Missale Romanum, de 3 de abril de 1969, as leituras dominicais passaram a seguir um ciclo trienal: no Ano A lê-se Mateus; no Ano B, Marcos; no Ano C, Lucas. A leitura semicontínua dos Evangelhos sinóticos começa no III Domingo e vai até o XXXIII, pois o último domingo desse tempo é a Solenidade de Cristo Rei. Como o Evangelho de Marcos é o mais curto, no Ano B intercalam-se, nos domingos XVII a XXI, cinco domingos com o capítulo 6 de João (o discurso do Pão da Vida); João também é lido nas festas e solenidades de todos os anos. A cor litúrgica predominante é o verde, cor da esperança e do crescimento na vida cristã.",
       "categoria": "calendario-liturgico",
-      "resumo": "O período mais longo do ano litúrgico, dividido em duas partes, sem um mistério específico de Cristo em destaque como tema único.",
-      "corpo": "O Tempo Comum (também chamado \"Tempo Ordinário\") ocupa a maior parte do calendário litúrgico, dividido em duas partes — entre o Batismo do Senhor e a Quarta-feira de Cinzas, e entre Pentecostes e o início do Advento seguinte —, num total de até 34 semanas. \"Comum\" não significa \"sem importância\": é o tempo de celebrar o conjunto do mistério de Cristo e seu ensinamento na vida cotidiana da Igreja, fora dos grandes tempos fortes.",
       "tags": [
         "ano litúrgico",
-        "Tempo Comum"
+        "Tempo Comum",
+        "Tempo Ordinário",
+        "verde",
+        "lecionário",
+        "domingo"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Seven_Sacraments_Rogier.jpg",
       "imagem_credito": null,
-      "ordem": 3,
-      "cor_liturgica": "Verde",
       "fontes": [
+        "Normas Universais sobre o Ano Litúrgico e o Calendário (NALC), n. 43",
+        "Paulo VI, Constituição apostólica Missale Romanum (3 de abril de 1969)",
         "Missal Romano",
-        "Catecismo da Igreja Católica"
-      ]
+        "Catecismo da Igreja Católica",
+        "CNBB, 'O ano litúrgico'"
+      ],
+      "atualizado_em": null,
+      "ordem": 3,
+      "cor_liturgica": "Verde"
     },
     {
       "id": "calendario-liturgico:quaresma",
@@ -175,21 +193,29 @@
       "id": "calendario-liturgico:solenidade-festa-memoria",
       "slug": "solenidade-festa-memoria",
       "titulo": "Solenidade, Festa e Memória",
+      "resumo": "Os três graus de importância litúrgica de uma celebração no calendário católico, do mais ao menos solene, com regras próprias de vigília, precedência e transferência.",
+      "corpo": "O calendário litúrgico classifica cada celebração de um santo, beato ou mistério num de três graus decrescentes de importância: solenidade, festa e memória. A distinção foi fixada pelas Normas Universais sobre o Ano Litúrgico e o Calendário (NALC), promulgadas por Paulo VI em 1969, que no n. 10 dispõem: \"As celebrações, que se distinguem segundo sua importância, são denominadas: solenidade, festa e memória\". O critério é a relevância universal ou local do santo ou do mistério celebrado.\n\nAs solenidades constituem o grau máximo, composto pelos dias mais importantes: a celebração começa já na véspera, com as Primeiras Vésperas (NALC, n. 11). Algumas solenidades têm ainda uma Missa própria para a Vigília, usada na véspera quando há Missa vespertina. É o caso do Natal, da Páscoa, de Pentecostes, do Corpus Christi e das solenidades dos Apóstolos, entre outras. As solenidades têm orações, leituras e cantos próprios ou tomados do Comum. Um ponto importante: as solenidades nunca se omitem — quando não podem ser celebradas em determinado dia, são transferidas para o dia livre mais próximo.\n\nAs festas ocupam o grau intermediário. Celebram-se dentro dos limites do dia natural e, por isso, não têm Primeiras Vésperas — salvo as festas do Senhor que caem em domingo do Tempo Comum ou do Tempo do Natal, cujo Ofício substituem (NALC, n. 13). Aplicam-se a elas, na Missa, orações e leituras próprias ou do Comum; no Ofício das Leituras, nas Laudes e Vésperas, faz-se tudo como nas solenidades (IGLH, n. 231). Diferentemente das solenidades, as festas não se transferem: se não puderem ser celebradas por causa de outra celebração mais importante, são simplesmente omitidas naquele ano.\n\nAs memórias recordam, em dia de semana, um ou vários santos. Podem ser obrigatórias ou facultativas (NALC, n. 11, 14). Quando, no mesmo dia, ocorrem várias memórias facultativas, celebra-se apenas uma, omitindo-se as demais. As memórias obrigatórias que caem em dias da Quaresma ou nos dias 17 a 24 de dezembro — que têm precedência — podem ser celebradas apenas como memórias facultativas, chamadas então \"comemorações\".\n\nA precedência entre as celebrações é regida pelo n. 16 das NALC: a Quarta-feira de Cinzas e os dias de semana da Semana Santa (de segunda a quinta-feira) têm preferência sobre todas as outras celebrações; os dias de semana do Advento (de 17 a 24 de dezembro) e todos os dias de semana da Quaresma têm preferência sobre as memórias obrigatórias; todos os demais dias de semana cedem lugar às solenidades e festas e se combinam com as memórias. A celebração de todos os fiéis defuntos, em 2 de novembro, não tem caráter de solenidade, festa ou memória, mas é chamada pela Igreja \"Comemoração\" — e é celebrada mesmo quando cai em domingo.",
       "categoria": "calendario-liturgico",
-      "resumo": "Os três graus de importância litúrgica de uma celebração no calendário católico, do mais ao menos solene.",
-      "corpo": "O calendário litúrgico classifica cada celebração num de três graus decrescentes de importância: solenidade (o grau máximo, como o Natal, a Páscoa ou o Corpus Christi, com Missa e ofício próprios e, muitas vezes, véspera antecipada); festa (grau intermediário, como as festas dos Apóstolos); e memória, que pode ser obrigatória ou facultativa (a maioria dos santos no calendário, deixando ao celebrante certa liberdade de escolha quando facultativa).",
       "tags": [
         "ano litúrgico",
-        "calendário litúrgico"
+        "calendário litúrgico",
+        "solenidade",
+        "festa",
+        "memória",
+        "memória obrigatória",
+        "memória facultativa"
       ],
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ghent_Altarpiece_-_Adoration_of_the_Mystic_Lamb.jpg",
-      "imagem_credito": null,
-      "ordem": 8,
-      "cor_liturgica": null,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Canonization_2014-The_Canonization_of_Saint_John_XXIII_and_Saint_John_Paul_II_%2814037015405%29.jpg",
+      "imagem_credito": "Foto: Jeffrey Bruno (Aleteia) — Wikimedia Commons, CC BY-SA 2.0, 2014",
       "fontes": [
+        "Normas Universais sobre o Ano Litúrgico e o Calendário (NALC), nn. 10-16",
+        "Instrução Geral sobre a Liturgia das Horas (IGLH), n. 231",
         "Missal Romano",
         "Catecismo da Igreja Católica"
-      ]
+      ],
+      "atualizado_em": null,
+      "ordem": 8,
+      "cor_liturgica": null
     },
     {
       "id": "calendario-liturgico:datas-moveis",
