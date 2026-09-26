@@ -124,21 +124,28 @@
       "id": "parabolas:fermento-na-massa",
       "slug": "fermento-na-massa",
       "titulo": "O Fermento na Massa",
+      "resumo": "Breve parábola do Reino comparado ao fermento que uma mulher esconde em três medidas de farinha, mostrando a ação silenciosa, escondida e irresistivelmente transformadora do Reino de Deus.",
+      "corpo": "\"O Reino dos Céus é como o fermento que uma mulher tomou e escondeu em três medidas de farinha, até que tudo ficasse levedado\" (Mt 13,33; cf. Lc 13,20-21). A parábola pertence ao conjunto das parábolas do Reino em Mateus 13, depois da semente de mostarda (Mt 13,31-32), e é uma das poucas em que Jesus compara explicitamente o Reino dos Céus a uma realidade caseira e cotidiana. O verbo \"esconder\" (enékrypsen) sugere ação discreta: o fermento desaparece aos olhos, mas seu efeito é irreversível e atinge toda a massa.",
       "categoria": "parabolas",
-      "resumo": "Breve parábola sobre a ação silenciosa e transformadora do Reino de Deus no mundo.",
-      "corpo": "Comparado a um pouco de fermento que uma mulher mistura numa grande quantidade de farinha até toda a massa crescer, o Reino de Deus age de modo silencioso, gradual, mas profundamente transformador na realidade em que é introduzido.",
       "tags": [
-        "Reino de Deus"
+        "Reino de Deus",
+        "parábolas do Reino",
+        "graça",
+        "fermento",
+        "Mateus 13"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Teachings_of_Jesus_6_of_40._parable_of_the_leaven._Jan_Luyken_etching._Bowyer_Bible.gif",
-      "imagem_credito": "Jan Luyken — Wikimedia Commons, FAL",
+      "imagem_credito": "Jan Luyken — gravura da Bowyer Bible; Wikimedia Commons, Free Art License (FAL)",
+      "fontes": [
+        "Mateus 13,33; Lucas 13,20-21",
+        "Catecismo da Igreja Católica, nn. 546",
+        "Jan Luyken, gravura \"Parable of the Leaven\", Bowyer Bible (1791-1795), Bolton Museum — Wikimedia Commons"
+      ],
+      "atualizado_em": null,
       "referencia_biblica": "Mateus 13,33",
       "evangelistas": [
         "Mateus",
         "Lucas"
-      ],
-      "fontes": [
-        "Catecismo da Igreja Católica, nn. 546"
       ]
     },
     {
@@ -530,43 +537,58 @@
       "id": "parabolas:boas-arvores-e-frutos",
       "slug": "boas-arvores-e-frutos",
       "titulo": "A Árvore e seus Frutos",
+      "resumo": "Ensinamento parabólico de que a árvore boa não pode dar maus frutos nem a árvore má, bons frutos — critério dado por Jesus para discernir os falsos profetas.",
+      "corpo": "\"Toda árvore boa dá bons frutos, e toda árvore má dá maus frutos\" (Mt 7,17). O ensinamento encerra a seção do Sermão da Montanha dedicada à advertência contra os falsos profetas, que \"vêm a vós com vestes de ovelhas, mas por dentro são lobos ferozes\" (Mt 7,15); o critério de discernimento é o fruto: \"pelos seus frutos os conhecereis\" (Mt 7,16).",
       "categoria": "parabolas",
-      "resumo": "Ensinamento parabólico de que uma árvore boa não pode dar maus frutos, nem uma árvore má, bons frutos — critério para discernir profetas falsos.",
-      "corpo": "\"Toda árvore boa dá bons frutos, e toda árvore má dá maus frutos\" (Mt 7,17): imagem usada por Jesus, no Sermão da Montanha, como critério prático para discernir falsos profetas e falsos mestres — não pelas palavras que professam, mas pelos frutos concretos de sua vida e ação.",
       "tags": [
         "discernimento",
-        "falsos profetas"
+        "falsos profetas",
+        "Sermão da Montanha",
+        "frutos",
+        "obras"
       ],
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Abraham_Bloemaert_-_Landschap_met_groenten_en_vruchten_op_de_voorgrond.jpg",
-      "imagem_credito": "Wikimedia Commons, Public domain",
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Mateus 7,15-20; Lucas 6,43-45",
+        "Catecismo da Igreja Católica, nn. 546",
+        "Rabano Mauro, Comentário a Mateus (cit. na análise de Mt 7,17-18)"
+      ],
+      "atualizado_em": null,
       "referencia_biblica": "Mateus 7,15-20",
       "evangelistas": [
         "Mateus",
         "Lucas"
-      ],
-      "fontes": [
-        "Catecismo da Igreja Católica, nn. 546"
       ]
     },
     {
       "id": "parabolas:cego-guiando-cego",
       "slug": "cego-guiando-cego",
       "titulo": "O Cego Guiando o Cego",
+      "resumo": "Breve provérbio-parábola de Jesus sobre o perigo de seguir guias espirituais tão despreparados quanto os próprios discípulos, com que adverte contra o falso ensinamento.",
+      "corpo": "\"Pode um cego guiar outro cego? Não cairão ambos na vala?\" (Lc 6,39). Imagem breve e direta, com que Jesus adverte contra seguir mestres ou guias espirituais tão despreparados quanto aqueles que pretendem guiar. Lucas situa a sentença no chamado Sermão da Planície (Lc 6,20-49), logo após o ensinamento sobre o amor aos inimigos e a proibição de julgar (Lc 6,37-38); na versão de Mateus, a mesma imagem aparece como palavra dirigida aos fariseus: \"Deixai-os: são cegos, guias de cegos\" (Mt 15,14), num episódio em que escribas e fariseus, vindos de Jerusalém, confrontam Jesus a respeito das tradições de pureza.",
       "categoria": "parabolas",
-      "resumo": "Breve provérbio-parábola de Jesus sobre o perigo de seguir mestres tão despreparados quanto seus discípulos.",
-      "corpo": "\"Pode um cego guiar outro cego? Não cairão ambos na vala?\" (Lc 6,39): imagem breve e direta usada por Jesus para advertir contra seguir mestres ou guias espirituais tão despreparados ou cegos quanto aqueles que pretendem guiar.",
       "tags": [
-        "discernimento"
+        "discernimento",
+        "falsos mestres",
+        "cegueira espiritual",
+        "falsos profetas",
+        "Sermão da Planície",
+        "fariseus"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Pieter_Bruegel_the_Elder_-_The_Parable_of_the_Blind_Leading_the_Blind_-_WGA3511.jpg",
-      "imagem_credito": "Pieter Bruegel, o Velho — Wikimedia Commons, domínio público",
+      "imagem_credito": null,
+      "fontes": [
+        "Lucas 6,39-42; Mateus 15,14",
+        "Catecismo da Igreja Católica, nn. 1783-1785 (formação da consciência)",
+        "São Cirilo de Alexandria, Comentário ao Evangelho de Lucas, homilia sobre Lc 6,39-42",
+        "Catena Áurea de São Tomás de Aquino sobre Lc 6,39"
+      ],
+      "atualizado_em": null,
       "referencia_biblica": "Lucas 6,39-40",
       "evangelistas": [
         "Mateus",
         "Lucas"
-      ],
-      "fontes": [
-        "Catecismo da Igreja Católica, nn. 546"
       ]
     },
     {
