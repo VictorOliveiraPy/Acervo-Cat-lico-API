@@ -35,59 +35,85 @@
       "id": "novissimos:juizo-particular",
       "slug": "juizo-particular",
       "titulo": "O Juízo Particular",
+      "resumo": "Julgamento imediato de cada alma no momento da morte, que refere sua vida a Cristo e decide sua sorte eterna antes mesmo da ressurreição final e do Juízo Final.",
+      "corpo": "Segundo a doutrina católica, cada pessoa é submetida, imediatamente após a morte, a um juízo particular diante de Cristo, no qual sua alma imortal recebe a retribuição eterna correspondente à sua fé e às suas obras — a entrada imediata na bem-aventurança do Céu (talvez após a purificação no Purgatório) ou a condenação eterna. O Catecismo da Igreja Católica (nn. 1021-1022) ensina que a morte põe fim à vida do homem como tempo aberto à aceitação ou rejeição da graça divina manifestada em Cristo, e que cada um recebe \"em sua alma imortal a retribuição eterna em um juízo particular que refere sua vida a Cristo\". Distingue-se do Juízo Final, que ocorrerá no fim dos tempos e envolverá também a ressurreição dos corpos.\n\nA base bíblica dessa doutrina está na epístola aos Hebreus — \"está estabelecido que os homens morram uma só vez, e depois disso vem o juízo\" (Hb 9,27) — e em outras passagens que afirmam um destino imediato e distinto para cada alma após a morte. O Catecismo cita a parábola do pobre Lázaro (Lc 16,22), a palavra de Cristo ao bom ladrão na cruz — \"hoje estarás comigo no Paraíso\" (Lc 23,43) — e textos como 2 Cor 5,8, Flp 1,23 e Hb 12,23. O mesmo Catecismo observa que, embora o Novo Testamento fale do juízo principalmente na perspectiva do encontro final com Cristo em sua segunda vinda, ele também assegura repetidas vezes a existência de uma retribuição imediata após a morte de cada um. O resumo doutrinal (n. 1051) formula-o de modo sucinto: ao morrer, cada homem recebe em sua alma imortal sua retribuição eterna em um juízo particular por Cristo, juiz dos vivos e dos mortos.\n\nHistoricamente, a clareza sobre o juízo particular esteve ligada à definição do estado das almas antes da ressurreição. A constituição *Benedictus Deus*, do papa Bento XII (1336), ao definir que as almas dos justos já gozam da visão beatífica e que as dos condenados descem imediatamente à perdição, pressupõe e consolida a doutrina de um juízo e de um destino fixados logo após a morte — antes do juízo geral. A controvérsia com o papa João XXII (1316-1334), que parecia postergar a visão de Deus para o fim dos tempos, foi justamente o contexto em que essa verdade foi solenemente afirmada.\n\nO juízo particular não é, contudo, um segundo critério independente do Juízo Final: ambos revelam a mesma relação pessoal com Cristo. O que distingue o juízo particular é sua imediatez e seu caráter individual, que fixam definitivamente a sorte da alma no momento da morte, enquanto o Juízo Final, na segunda vinda, manifestará publicamente diante de toda a humanidade a verdade de cada vida. A oração litúrgica pela alma do defunto — \"que possas contemplar face a face o teu Redentor\" — expressa a fé de que essa contemplação se decide já na passagem desta vida.",
       "categoria": "novissimos",
-      "resumo": "Julgamento imediato de cada alma no momento da morte, que decide sua sorte eterna antes mesmo da ressurreição final.",
-      "corpo": "Segundo a doutrina católica, cada pessoa é submetida, imediatamente após a morte, a um juízo particular diante de Cristo, no qual sua alma recebe a retribuição eterna correspondente à fé e às obras de sua vida — a entrada imediata na bem-aventurança do Céu (talvez após purificação no Purgatório) ou a condenação eterna. Distingue-se do Juízo Final, que ocorrerá no fim dos tempos e envolverá também a ressurreição dos corpos.",
       "tags": [
         "novíssimos",
-        "juízo"
+        "juízo",
+        "juízo particular",
+        "morte",
+        "escatologia",
+        "Hebreus 9,27",
+        "Bento XII"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Last_Judgement_%28Michelangelo%29.jpg",
       "imagem_credito": null,
-      "ordem": 2,
       "fontes": [
-        "Catecismo da Igreja Católica, nn. 1021-1022"
-      ]
+        "Hebreus 9,27",
+        "Lucas 16,22; Lucas 23,43",
+        "2 Coríntios 5,8; Filipenses 1,23; Hebreus 12,23",
+        "Catecismo da Igreja Católica, nn. 1021-1022 (e n. 1051)",
+        "Bento XII, Constituição apostólica Benedictus Deus, 1336"
+      ],
+      "atualizado_em": null,
+      "ordem": 2
     },
     {
       "id": "novissimos:juizo-final",
       "slug": "juizo-final",
       "titulo": "O Juízo Final",
+      "resumo": "Julgamento universal e definitivo de toda a humanidade, no fim dos tempos, coincidindo com a ressurreição dos mortos e a segunda vinda gloriosa de Cristo.",
+      "corpo": "Diferente do juízo particular de cada alma, o Juízo Final é o julgamento universal de toda a história humana, que ocorrerá na segunda vinda gloriosa de Cristo — a \"Parusia\" —, quando os mortos ressuscitarão em seus corpos e cada pessoa verá manifestada publicamente a verdade de sua relação com Deus. O Catecismo da Igreja Católica (nn. 1038-1041) ensina que \"a ressurreição de todos os mortos, justos e pecadores\" (cf. At 24,15) há de preceder o Juízo Final, na \"hora em que todos os que estão nos túmulos hão de ouvir a sua voz e sairão: os que tiverem praticado o bem, para uma ressurreição de vida, e os que tiverem praticado o mal, para uma ressurreição de condenação\" (Jo 5,28-29).\n\nA mais célebre descrição bíblica desse julgamento é a cena de Mateus 25,31-46: o Filho do Homem vem na sua glória com todos os anjos, senta-se em seu trono e separa as nações \"como o pastor separa as ovelhas dos cabritos\", pronunciando o critério decisivo nas obras de misericórdia — dar de comer ao faminto, vestir o nu, visitar o doente e o encarcerado —, identificando-se Ele mesmo com os pequenos: \"cada vez que o fizestes a um destes meus irmãos mais pequeninos, a mim o fizestes\". Santo Agostinho, citado na liturgia e na tradição exegética, comenta que então se manifestará que os pobres foram postos na terra como portadores das boas obras ao tesouro de Cristo, de modo que o que não foi dado a eles não se encontra depositado nele.\n\nO Catecismo frisa duas notas essenciais. Primeiro, o Juízo Final terá lugar quando ocorrer a vinda gloriosa de Cristo, mas \"só o Pai sabe o dia e a hora, só Ele decide sobre a sua vinda\"; nele se pronunciará a palavra definitiva sobre toda a história, e os homens compreenderão o sentido último de toda a criação e de toda a economia da salvação, vendo como a justiça de Deus triunfa sobre todas as injustiças e como seu amor é mais forte do que a morte. Segundo, a mensagem do Juízo Final não é primariamente de terror, mas um apelo à conversão enquanto ainda há \"o tempo favorável, o tempo da salvação\" (2 Cor 6,2); ela inspira o santo temor de Deus, empenha na justiça do Reino e anuncia a \"feliz esperança\" (Tt 2,13) do retorno do Senhor, que virá \"para ser glorificado nos seus santos\" (2 Ts 1,10).\n\nEssa verdade está inscrita na profissão de fé da Igreja, que confessa que Cristo \"há de vir de novo, em glória, para julgar os vivos e os mortos, e o seu Reino não terá fim\". A tradição litúrgica deu-lhe expressão no hino *Dies irae*, atribuído à tradição franciscana medieval e incorporado à Missa de Réquiem, com seu versos sobre o \"dia da ira\" em que o mundo se dissolverá em cinzas. Na arte, a cena foi representada inúmeras vezes — do *Juízo Final* de Fra Angelico ao afresco de Michelangelo na Capela Sistina (1536-1541), que cobre a parede do altar do Vaticano e reúne mais de trezentas figuras em torno de Cristo juiz. O Catecismo observa ainda que, no fim dos tempos, o Reino de Deus chegará à sua plenitude com a promessa de \"novos céus e nova terra\" (cf. Ap 21,1), quando Deus será \"tudo em todos\" (1 Cor 15,28).",
       "categoria": "novissimos",
-      "resumo": "Julgamento universal e definitivo de toda a humanidade, no fim dos tempos, coincidindo com a ressurreição dos mortos e a segunda vinda de Cristo.",
-      "corpo": "Diferente do juízo particular de cada alma, o Juízo Final é o julgamento universal de toda a história humana, que ocorrerá na segunda vinda gloriosa de Cristo (a \"Parusia\"), quando os mortos ressuscitarão em seus corpos e cada pessoa verá manifestada publicamente a verdade de sua relação com Deus. A célebre cena de Mateus 25,31-46 — as ovelhas e os cabritos, o critério das obras de misericórdia — é a mais citada descrição bíblica desse julgamento.",
       "tags": [
         "novíssimos",
         "juízo",
-        "ressurreição"
+        "juízo final",
+        "ressurreição",
+        "parusia",
+        "Mateus 25",
+        "escatologia"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Last_Judgement_%28Michelangelo%29.jpg",
       "imagem_credito": null,
-      "ordem": 3,
       "fontes": [
         "Mateus 25,31-46",
-        "Catecismo da Igreja Católica, nn. 1038-1041"
-      ]
+        "João 5,28-29; Atos 24,15",
+        "2 Coríntios 6,2; Tito 2,13; 2 Tessalonicenses 1,10",
+        "Catecismo da Igreja Católica, nn. 1038-1041",
+        "Hino Dies irae (tradição litúrgica da Missa de Réquiem)"
+      ],
+      "atualizado_em": null,
+      "ordem": 3
     },
     {
       "id": "novissimos:ceu",
       "slug": "ceu",
       "titulo": "O Céu",
+      "resumo": "A comunhão de vida e amor plena e definitiva com a Santíssima Trindade, com Maria, os anjos e todos os santos — a visão beatífica, felicidade suprema e fim último do homem.",
+      "corpo": "O Céu não é descrito pela doutrina católica como um lugar físico no sentido comum, mas como o estado supremo e definitivo de felicidade: a comunhão de vida e de amor com a Trindade, com a Virgem Maria, os anjos e todos os bem-aventurados. O Catecismo da Igreja Católica (nn. 1023-1029) define essa condição como a \"visão beatífica\": os que morrem na graça e na amizade de Deus e estão totalmente purificados vivem para sempre com Cristo e veem a Deus \"tal como Ele é\" (1 Jo 3,2), \"face a face\" (1 Cor 13,12). Trata-se do conhecimento intuitivo e imediato da própria essência divina, que nenhuma criatura pode servir de intermediária, e que ultrapassa toda capacidade de compreensão ou imaginação humana nesta vida.\n\nEssa formulação foi fixada sobretudo pela constituição apostólica *Benedictus Deus*, do papa Bento XII, promulgada em 29 de janeiro de 1336. Nela o papa define, com autoridade apostólica, que as almas dos justos — as que morreram sem nada a purificar, ou que já foram purificadas após a morte — \"têm visto e veem a essência divina com visão intuitiva e mesmo face a face, sem que criatura alguma intervenha como objeto de visão\", e que essa visão e gozo \"continuam sem interrupção e sem fim até o último Juízo e, depois, para sempre\". O documento também esclarece que, uma vez iniciada essa visão imediata, cessam nas almas os atos de fé e de esperança, pois estas virtudes teologais cedem lugar à contemplação direta.\n\nO *Benedictus Deus* foi resposta a uma controvérsia concreta. O papa João XXII (1316-1334), antes de ser eleito e depois em suas pregações — mais como teólogo particular que como mestre do magistério —, sustentara que as almas dos salvos só alcançariam a visão de Deus após o Juízo Final, posição próxima da ideia de um \"sono da alma\". Isso provocou forte reação de teólogos, sobretudo na Universidade de Paris, que a acusavam de herética. Em um consistório de 3 de janeiro de 1334, João XXII declarou que nunca tivera a intenção de definir a questão, e, antes de morrer, retratou-se e professou a crença de que as almas separadas dos corpos já gozam da visão beatífica no Céu. A definição de Bento XII encerrou a disputa e permanece o texto de referência sobre o estado das almas antes da ressurreição.\n\nA doutrina católica liga o Céu à esperança da ressurreição: a bem-aventurança da alma se completará, no fim dos tempos, com a glorificação do corpo, dotado então de impassibilidade, brilho, agilidade e sutileza. Ao mesmo tempo, sublinha o caráter relacional do Céu: segundo o Catecismo (nn. 954-956), os bem-aventurados não se afastam dos que ainda peregrinam na terra, mas intercedem por eles — a chamada comunhão dos santos. E acrescenta que os que estão na glória continuam a cumprir com alegria a vontade de Deus em relação aos outros homens e a toda a criação, reinando com Cristo (cf. Ap 22,5). A liturgia, por sua vez, expressa essa esperança na oração pelos defuntos, pedindo que a alma do fiel \"possa contemplar face a face o seu Redentor\", como reza o Rito da Unção dos Enfermos e da encomendação dos moribundos.",
       "categoria": "novissimos",
-      "resumo": "A comunhão de vida e amor plena e definitiva com a Santíssima Trindade, com Maria, os anjos e todos os santos — a felicidade suprema e o fim último do homem.",
-      "corpo": "O Céu não é descrito pela doutrina católica como um lugar físico no sentido comum, mas como o estado supremo e definitivo de felicidade: a comunhão de vida e de amor com a Trindade, com a Virgem Maria, os anjos e todos os bem-aventurados — a \"visão beatífica\", ver a Deus \"face a face\" (1 Cor 13,12), que ultrapassa toda capacidade de compreensão ou imaginação humana nesta vida.",
       "tags": [
         "novíssimos",
         "céu",
-        "vida eterna"
+        "vida eterna",
+        "visão beatífica",
+        "Bento XII",
+        "escatologia",
+        "comunhão dos santos"
       ],
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ghent_Altarpiece_-_Adoration_of_the_Mystic_Lamb.jpg",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Paradiso_Canto_31.jpg",
       "imagem_credito": null,
-      "ordem": 4,
       "fontes": [
         "1 Coríntios 13,12",
-        "Catecismo da Igreja Católica, nn. 1023-1029"
-      ]
+        "1 João 3,2",
+        "Catecismo da Igreja Católica, nn. 1023-1029 (e nn. 954-956)",
+        "Bento XII, Constituição apostólica Benedictus Deus, 29 de janeiro de 1336",
+        "Rito da Unção dos Enfermos e do cuidado pastoral, Ordem de recomendação dos moribundos, 146-147"
+      ],
+      "atualizado_em": null,
+      "ordem": 4
     },
     {
       "id": "novissimos:inferno",
