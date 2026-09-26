@@ -165,17 +165,25 @@
       "id": "padres-da-igreja:cirilo-de-jerusalem",
       "slug": "cirilo-de-jerusalem",
       "titulo": "Cirilo de Jerusalém",
+      "resumo": "Bispo de Jerusalém (c. 350-386) cujas 24 Catequeses são o testemunho mais detalhado da iniciação cristã no século IV; Doutor da Igreja.",
+      "corpo": "Cirilo nasceu por volta de 315, provavelmente em Jerusalém ou nas proximidades, em família cristã. Ordenado sacerdote por volta de 345 e sagrado bispo de Jerusalém cerca de 350, governou a sede jerosolimitana em tempos de aguda controvérsia ariana. Foi consagrado por influência de Acácio, bispo de Cesareia, em parte metropolita e simpatizante do arianismo, que esperava tê-lo como aliado — mas Cirilo manteve-se fiel à fé nicena e bem depressa se chocou com Acácio não só em matéria doutrinal, mas também jurisdicional, ao reivindicar a autonomia da própria sede em relação à de Cesareia. Desse conflito resultaram-lhe três exílios: o primeiro em 357, por disposição de um sínodo em Jerusalém; o segundo em 360, por obra de Acácio; e o terceiro, o mais longo, em 367, por ordem do imperador filo-ariano Valente, que durou onze anos. Só em 378, com a morte de Valente, pôde retomar definitivamente a sua sede, reinstaurando entre os fiéis a unidade e a paz.",
       "categoria": "padres-da-igreja",
-      "resumo": "Bispo de Jerusalém cujas catequeses batismais são a fonte mais rica sobre a iniciação cristã no século IV, e Doutor da Igreja.",
-      "corpo": "Cirilo, bispo de Jerusalém em tempos de controvérsia ariana, é conhecido sobretudo por suas \"Catequeses\", pronunciadas aos candidatos ao Batismo durante a Quaresma e aos recém-batizados na Semana de Páscoa. Constituem o testemunho mais detalhado que existe sobre como a Igreja do século IV preparava e explicava os sacramentos da iniciação cristã — Batismo, Crisma e Eucaristia — a partir da própria experiência litúrgica de Jerusalém, cidade dos lugares santos. Foi proclamado Doutor da Igreja em 1883.",
       "tags": [
         "catequese",
         "Jerusalém",
         "iniciação cristã",
-        "Doutor da Igreja"
+        "Doutor da Igreja",
+        "arianismo",
+        "século IV"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Saint_Cyril_of_Jerusalem.jpg",
-      "imagem_credito": "Wikimedia Commons, Public domain",
+      "imagem_credito": null,
+      "fontes": [
+        "Audiência Geral de Bento XVI sobre São Cirilo de Jerusalém, 27 de junho de 2007 (vatican.va)",
+        "Cirilo de Jerusalém, Catequeses (Procatequese, 18 pré-batismais e 5 mistagógicas)",
+        "Wikipedia (pt): \"João II de Jerusalém\""
+      ],
+      "atualizado_em": null,
       "regiao": "Palestina",
       "seculo": "IV",
       "e_doutor": true
@@ -184,17 +192,26 @@
       "id": "padres-da-igreja:cirilo-de-alexandria",
       "slug": "cirilo-de-alexandria",
       "titulo": "Cirilo de Alexandria",
+      "resumo": "Patriarca de Alexandria (412-444), artífice da condenação de Nestório no Concílio de Éfeso (431) e da defesa do título \"Theotokos\"; Doutor da Igreja.",
+      "corpo": "Cirilo nasceu provavelmente entre 370 e 380, segundo fontes antigas na vila egípcia de Didusja (a atual El-Mahalla El-Kubra), embora a tradição grega o faça natural de Alexandria. Sobrinho de Teófilo, patriarca de Alexandria desde 385, foi por ele tonsurado e ordenado leitor, recebendo sólida formação cultural e teológica. Em 403 acompanhou o tio a Constantinopla e participou do chamado Sínodo do Carvalho (julho de 403), que depôs João Crisóstomo do trono patriarcal — episódio que marcou o triunfo da sede alexandrina sobre sua tradicional rival, Constantinopla, e que Cirilo mais tarde procurou reparar, restabelecendo a comunhão com Constantinopla por volta de 417-418 e reintegrando a memória de Crisóstomo nos dípticos. Com a morte de Teófilo em 412, Cirilo foi eleito bispo de Alexandria, governando a Igreja do Egito com grande energia por 32 anos. Nos primeiros anos de episcopado agiu com firmeza contra Novacianos e judeus de Alexandria, o que o colocou em conflito aberto com o prefeito imperial Orestes; nesse contexto turbulento ocorreu, em 415, o assassinato da filósofa neoplatônica Hipátia, episódio cuja eventual responsabilidade de Cirilo é objeto de debate entre os historiadores, sem prova documental direta.",
       "categoria": "padres-da-igreja",
-      "resumo": "Bispo de Alexandria e principal artífice da condenação do nestorianismo no Concílio de Éfeso, Doutor da Igreja.",
-      "corpo": "Cirilo, patriarca de Alexandria, liderou a defesa do título \"Theotokos\" (Mãe de Deus) para Maria contra Nestório no Concílio de Éfeso (431), argumentando com precisão teológica que, sendo Cristo uma só Pessoa divina em duas naturezas, quem Maria gerou é verdadeiramente Deus feito homem, não apenas um homem unido a Deus. Sua vitória em Éfeso consolidou a cristologia que seria refinada em Calcedônia vinte anos depois. Foi proclamado Doutor da Igreja em 1882.",
       "tags": [
+        "Alexandria",
         "Éfeso",
         "Theotokos",
         "nestorianismo",
-        "Doutor da Igreja"
+        "Cristologia",
+        "Doutor da Igreja",
+        "século V"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Saint_Cyril_of_Alexandria_at_Chora.jpg",
-      "imagem_credito": "Foto: José Luiz — Wikimedia Commons, CC BY-SA 3.0",
+      "imagem_credito": null,
+      "fontes": [
+        "Audiência Geral de Bento XVI sobre São Cirilo de Alexandria, 3 de outubro de 2007 (vatican.va)",
+        "Concílio de Éfeso (431) — atos e carta Laetentur coeli / Fórmula de União de 433",
+        "Wikipedia (pt): \"Cirilo de Alexandria\" e \"Sínodo do Carvalho\""
+      ],
+      "atualizado_em": null,
       "regiao": "Egito",
       "seculo": "IV-V",
       "e_doutor": true
@@ -241,17 +258,25 @@
       "id": "padres-da-igreja:gregorio-nazianzeno",
       "slug": "gregorio-nazianzeno",
       "titulo": "Gregório Nazianzeno",
+      "resumo": "Bispo capadócio e teólogo da Trindade, chamado \"o Teólogo\" na tradição oriental; presidiu o Concílio de Constantinopla (381) e é Doutor da Igreja.",
+      "corpo": "Gregório nasceu por volta de 329 na região da Capadócia, filho de Gregório o Velho, bispo de Nazianzo, e de Nonna. Estudou retórica e filosofia em Cesareia, Alexandria e sobretudo em Atenas, onde travou profunda amizade com Basílio Magno — amizade que marcou sua vida e sua teologia, e que o levou, já bispo, a trocar correspondência célebre com o amigo. A pedido de Basílio foi consagrado bispo de Sasima, cidade que jamais governou de fato, permanecendo ligado à comunidade de Nazianzo. Após a morte de Basílio em 379, foi a Constantinopla pregar em defesa da fé nicena numa cidade dominada pelos arianos, reunindo sua comunidade na igreja da Anastásia e escapando por pouco de um atentado tramado por adversários.",
       "categoria": "padres-da-igreja",
-      "resumo": "Bispo e teólogo capadócio conhecido como \"o Teólogo\" pela precisão de sua doutrina trinitária, Doutor da Igreja.",
-      "corpo": "Gregório Nazianzeno, amigo de Basílio Magno desde os estudos em Atenas, é chamado simplesmente \"o Teólogo\" na tradição oriental — título partilhado apenas com o apóstolo João e Simeão o Novo Teólogo — pela clareza com que expôs a doutrina trinitária em seus \"Discursos Teológicos\", pronunciados em Constantinopla. Foi brevemente patriarca de Constantinopla durante o Concílio de 381, mas renunciou por humildade em meio a disputas eclesiásticas, retirando-se para uma vida de oração e poesia teológica.",
       "tags": [
         "Capadócia",
         "Trindade",
         "Constantinopla",
-        "Doutor da Igreja"
+        "Doutor da Igreja",
+        "Basílio Magno",
+        "século IV"
       ],
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Icon_02036_Svyatiteli_Ioann_Zlatoust_i_Grigorij_Bogoslov._Ikona_XVIII_v._Rossiya.jpg",
-      "imagem_credito": "Wikimedia Commons, Public domain",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Saint_Gregory_of_Nazianzus_at_Chora.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Concílio de Constantinopla I (381) — Credo Niceno-Constantinopolitano e cânones",
+        "Gregório Nazianzeno, Discursos Teológicos (Orationes 27-31) e Oração 42 (de despedida)",
+        "Audiência de Bento XVI sobre Gregório Nazianzeno (vatican.va)"
+      ],
+      "atualizado_em": null,
       "regiao": "Ásia Menor",
       "seculo": "IV",
       "e_doutor": true
