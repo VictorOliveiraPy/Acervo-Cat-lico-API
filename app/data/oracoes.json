@@ -261,22 +261,29 @@
       "id": "oracoes:anima-christi",
       "slug": "anima-christi",
       "titulo": "Alma de Cristo (Anima Christi)",
+      "resumo": "Oração eucarística e cristocêntrica de origem medieval (século XIV), muitas vezes atribuída — erroneamente — a Santo Inácio de Loyola, que a difundiu nos Exercícios Espirituais.",
+      "corpo": "A \"Anima Christi\" (\"Alma de Cristo\") é uma das mais conhecidas orações latinas da tradição católica, voltada à contemplação da Paixão de Cristo e rezada tradicionalmente depois da comunhão. Cada invocação percorre um aspecto do corpo de Cristo — a alma, o corpo, o sangue, a água do lado, a Paixão — e pede a graça da purificação, da união e da perseverança final; particularmente célebre é o pedido «Dentro de vossas chagas, escondei-me», que faz das chagas do Crucificado um refúgio. A referência à água que brota do lado (cf. Jo 19,34) remete aos sacramentos do Batismo e da Eucaristia, o que explica sua inserção natural entre as orações de ação de graças após a comunhão.\n\nQuanto à origem, é consenso entre os estudiosos que o texto data da primeira metade do século XIV. A edição clássica da \"Catholic Encyclopedia\" (1907) registra dois fatos em que praticamente todos os manuscritos concordam: a oração provém do século XIV e foi enriquecida com indulgências pelo Papa João XXII em 1330. Os testemunhos materiais são anteriores a Santo Inácio de Loyola (1491-1556): o hinólogo inglês James Mearns encontrou o texto num manuscrito do Museu Britânico datado de cerca de 1370; na biblioteca de Avignon conserva-se um livro de orações do cardeal Pierre de Luxembourg (morto em 1387) que já a contém em forma praticamente idêntica à atual; e o texto foi gravado numa das portas do Alcázar de Sevilha, o que remonta ao tempo de Pedro, o Cruel (1350-1369).\n\nA autoria permanece desconhecida e incerta. Durante muito tempo popularizou-se a ideia de que teria sido composta por Santo Inácio de Loyola, mas isso é um erro: a oração encontra-se em livros de orações impressos na juventude do santo e em manuscritos escritos cerca de cem anos antes de seu nascimento. Tampouco é seguro atribuí-la ao próprio João XXII — o pontífice foi falsamente associado a outras composições piedosas, e é fácil confundir quem concedeu a indulgência com o autor real. É por isso que o texto às vezes aparece sob o título \"Aspirações de Santo Inácio\".\n\nO vínculo histórico com Inácio, no entanto, é real e explicável. Ele a incluiu nos \"Exercícios Espirituais\", mas não a compôs, e sim a pressupôs conhecida pelos leitores de seu tempo — tanto que a menção inicial apenas a indica, sem transcrever o texto completo. Vale notar que essa oração não figurava no autógrafo dos Exercícios nem nas primeiras versões latinas: passou a ser impressa no início do livro somente a partir de uma edição publicada em Vilna em 1583, e desde então tornou-se costume universal colocá-la nas primeiras páginas. A suposição, feita pelos leitores, de que tudo no livro fora escrito por Inácio é o que consolidou a atribuição equivocada.\n\nAo longo dos séculos a oração foi também acolhida na liturgia: aparece no breviário e no missal entre as orações de ação de graças após a Missa. A devoção popular atribui a recitação depois da comunhão diversas indulgências, embora a exatidão desses números varie conforme a fonte. A \"Anima Christi\" permanece assim um testemunho da espiritualidade eucarística e da piedade cristocêntrica do fim da Idade Média, anterior aos grandes catecismos modernos.",
       "categoria": "oracoes",
-      "resumo": "Oração devocional à Eucaristia, de origem medieval, tornada popular por Santo Inácio de Loyola nos Exercícios Espirituais.",
-      "corpo": "Embora não tenha sido composta por Santo Inácio de Loyola, a oração \"Alma de Cristo\" — cujo texto latino remonta ao século XIV — tornou-se amplamente conhecida por ele tê-la incluído entre as orações recomendadas nos \"Exercícios Espirituais\". É rezada tradicionalmente depois da comunhão, como súplica de união íntima com Cristo eucarístico.",
       "tags": [
         "oração",
         "eucaristia",
-        "Santo Inácio de Loyola"
+        "século XIV",
+        "Santo Inácio de Loyola",
+        "Exercícios Espirituais",
+        "paixão de Cristo",
+        "ação de graças"
       ],
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/43/BentoXVI-51-11052007_%28frag%29.jpg",
-      "imagem_credito": "Foto: Fabio Pozzebom/ABr(Agência Brasil) — Wikimedia Commons, CC BY 3.0 br",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Anima_Christi_%28Antidotarium_animae_1490%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "\"Anima Christi\", verbete da Catholic Encyclopedia (1907), Nova York: Robert Appleton Company, por Samuel Frisbee",
+        "Hugo Rahner e a tradução anotada dos Exercícios Espirituais (nota sobre a oração \"Soul of Christ\", encontrada já em manuscrito de c. 1370)",
+        "Wikipedia, verbete \"Anima Christi\" (referências ao manuscrito do Museu Britânico, ao livro do cardeal Pierre de Luxembourg e à inscrição no Alcázar de Sevilha)"
+      ],
+      "atualizado_em": null,
       "texto": "Alma de Cristo, santificai-me.\nCorpo de Cristo, salvai-me.\nSangue de Cristo, inebriai-me.\nÁgua do lado de Cristo, lavai-me.\nPaixão de Cristo, confortai-me.\nÓ bom Jesus, ouvi-me.\nDentro de vossas chagas, escondei-me.\nNão permitais que me separe de vós.\nDo espírito maligno, defendei-me.\nNa hora da minha morte, chamai-me,\ne mandai-me ir para vós,\npara que com os vossos santos vos louve\npor todos os séculos dos séculos. Amém.",
       "uso": "Após a comunhão eucarística",
-      "origem": "Texto latino medieval (c. século XIV), difundido por Santo Inácio de Loyola",
-      "fontes": [
-        "Catecismo da Igreja Católica"
-      ]
+      "origem": "Texto latino medieval (c. século XIV), difundido por Santo Inácio de Loyola"
     },
     {
       "id": "oracoes:litania-de-loreto",
@@ -498,22 +505,29 @@
       "id": "oracoes:consagracao-a-nossa-senhora-breve",
       "slug": "consagracao-a-nossa-senhora-breve",
       "titulo": "Consagração a Nossa Senhora (fórmula breve)",
+      "resumo": "Fórmula breve de entrega pessoal a Maria, expressão da espiritualidade de \"total consagração\" sistematizada por São Luís Maria Grignion de Montfort no \"Tratado da Verdadeira Devoção\".",
+      "corpo": "A \\\"Consagração a Nossa Senhora\\\" aqui apresentada é uma fórmula breve de entrega pessoal a Maria — o fiel oferece a ela «os olhos, os ouvidos, a boca, o coração, todo o ser sem reserva». A prática remonta a uma corrente espiritual de longa duração: a ideia de se fazer «servo» ou «escravo» de Maria já aparece em casos documentados ao longo da Idade Média, e a forma pública e sistemática da \\\"total consagração\\\" cristalizou-se no século XVII, ligada sobretudo à figura de São Luís Maria Grignion de Montfort.\n\nLuís Maria Grignion nasceu a 31 de janeiro de 1673 em Montfort-sur-Meu, na Bretanha, em família profundamente cristã, e foi ordenado sacerdote por volta dos 27 anos. Missionário popular, pregou em meio à crise religiosa da França marcada pela controvérsia jansenista, e em 1706 peregrinou a pé até Roma, onde recebeu do Papa Clemente XI o título de \\\"Missionário Apostólico\\\". Morreu a 28 de abril de 1716, com cerca de 43 anos. Sua obra central sobre a matéria — o «Tratado da Verdadeira Devoção à Santíssima Virgem» (em francês, «Traité de la vraie dévotion à la Sainte Vierge») — foi redigida nos últimos anos de sua vida, provavelmente por volta de 1712. Nela Montfort afirma que «a mais perfeita consagração a Jesus Cristo não é outra coisa senão uma perfeita e inteira consagração de si mesmo à Bem-aventurada Virgem».\n\nA história do próprio manuscrito é notável e acrescenta um dado pouco conhecido: o Tratado permaneceu oculto por cerca de 130 anos. Supõe-se que Montfort o tenha confiado aos cuidados do bispo de La Rochelle; a obra só foi encontrada nos arquivos dos padres monfortinos em 1842 e publicada pela primeira vez em 1843. O autor previra, no próprio texto, a hostilidade e o esquecimento que cercariam o escrito. A devoção difundiu-se amplamente a partir do século XIX, servindo de inspiração a numerosas comunidades.\n\nA fórmula breve aqui recolhida é uma das versões curtas mais usadas em devoção pessoal diária, distinta de outras fórmulas longas e de preparações de vários dias que costumam anteceder a consagração. O itinerário espiritual de Montfort teve eco duradouro no magistério e na piedade recentes: o Papa João Paulo II, que inscreveu o santo no Calendário geral da Igreja em 1996, adotou como lema pontifício o «Totus tuus» («Todo teu»), extraído justamente dessa espiritualidade de consagração total a Maria. São Luís Maria Grignion de Montfort foi beatificado por Leão XIII em 1888 e canonizado por Pio XII em 1947.",
       "categoria": "oracoes",
-      "resumo": "Fórmula breve de entrega pessoal a Maria, expressão da espiritualidade de \"total consagração\" difundida por São Luís de Montfort.",
-      "corpo": "A prática de \"consagrar-se\" a Maria — entregar-se a ela para que oriente a vida do fiel rumo a Cristo — tem raízes na espiritualidade mariana medieval e foi sistematizada sobretudo por São Luís Maria Grignion de Montfort no «Tratado da Verdadeira Devoção». Existem várias fórmulas, longas e breves; esta é uma das versões curtas mais usadas em devoção pessoal diária.",
       "tags": [
         "oração",
         "consagração mariana",
-        "devoção pessoal"
+        "devoção pessoal",
+        "Maria",
+        "São Luís Maria Grignion de Montfort",
+        "Totus tuus"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Louis_de_Montfort.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "Luís Maria Grignion de Montfort, \"Tratado da Verdadeira Devoção à Santíssima Virgem\" (redigido c. 1712; encontrado em 1842 e publicado em 1843)",
+        "Wikipedia, \"Tratado da verdadeira devoção à Santíssima Virgem\" (contexto de composição e divulgação do manuscrito)",
+        "Vatican News, perfil de \"S. Luís Maria Grignion de Montfort\" (nascimento, ordenação, título de Missionário Apostólico em 1706, beatificação em 1888 e canonização em 1947)",
+        "Wikipedia, \"Luís Maria Grignion de Montfort\" (lema \"Totus tuus\" de João Paulo II inspirado na consagração montfortiana)"
+      ],
+      "atualizado_em": null,
       "texto": "Ó Senhora minha, ó Mãe minha,\neu me ofereço todo a vós.\nE, em prova de minha filial afeição,\nvos consagro neste dia meus olhos, meus ouvidos, minha boca, meu coração,\ntodo o meu ser sem reserva.\nJá que assim sou vosso, ó boa Mãe,\nguardai-me e defendei-me como coisa e propriedade vossa. Amém.",
       "uso": null,
-      "origem": "Tradição de espiritualidade mariana sistematizada por São Luís de Montfort (século XVII-XVIII)",
-      "fontes": [
-        "Catecismo da Igreja Católica"
-      ]
+      "origem": "Tradição de espiritualidade mariana sistematizada por São Luís de Montfort (século XVII-XVIII)"
     },
     {
       "id": "oracoes:oracao-antes-e-depois-das-refeicoes",
@@ -540,23 +554,29 @@
       "id": "oracoes:coroa-franciscana",
       "slug": "coroa-franciscana",
       "titulo": "Coroa Franciscana (Terço dos Sete Gozos de Maria)",
+      "resumo": "Devoção franciscana de sete dezenas de Ave-Marias, meditando sete alegrias marianas ligadas à vida de Cristo, com 72 Ave-Marias ao todo.",
+      "corpo": "A Coroa Franciscana — também chamada Terço Seráfico, Rosário Franciscano ou Terço dos Sete Gozos de Nossa Senhora — organiza-se em sete dezenas de Ave-Marias, em vez das cinco do Rosário tradicional. A cada dezena medita-se um dos \\\"sete gozos\\\" da Virgem Maria: a Anunciação, a Visitação, o Nascimento de Jesus, a Adoração dos Magos, o reencontro do Menino no Templo, a Ressurreição de Cristo e a Assunção e Coroação de Maria. A devoção desenvolveu-se no início do século XV, na Itália, entre os franciscanos; seus temas guardam semelhança com os «Gaudes» latinos do século XII, louvores que convidavam Maria a alegrar-se pelos favores recebidos de Deus.\n\nA origem está vinculada a uma tradição relatada pelo historiador franciscano irlandês frei Lucas Wadding (1588-1657), que data o fato no ano de 1422. Segundo essa narrativa, em Assis, a Virgem apareceu a um noviço franciscano chamado Jaime. Quando criança, ele tinha o costume de oferecer diariamente a Maria uma coroa de rosas; ao entrar na Ordem dos Frades Menores, afligiu-se por não poder mais fazê-lo. Maria teria vindo consolá-lo e lhe mostrou outra oferta diária: rezar sete dezenas de Ave-Marias, meditando em cada uma as sete alegrias de sua vida. Conta ainda a tradição que o diretor dos noviços o viu orando acompanhado de um anjo, que tecia uma coroa de rosas intercalando um lírio de ouro a cada dezena; ao término da oração, o anjo depôs a coroa sobre Jaime. Ouvida a explicação, a devoção difundiu-se por toda a família franciscana.\n\nA estrutura numérica é significativa: às sete dezenas (70 Ave-Marias) acrescentam-se duas Ave-Marias finais, totalizando 72, número que comemora os 72 anos que, segundo a tradição, Maria teria vivido na terra. As sete dezenas não precisam ser rezadas de uma só vez. Em tempos penitenciais, como a Quaresma, os sete gozos podem ser substituídos pelos sete dolores de Maria. A devoção é especialmente popular entre franciscanos, cistercienses e as Anunciadas de Santa Joana de França.\n\nUm dado frequentemente citado é o de que a Coroa Franciscana recebeu grande número de indulgências concedidas por vários pontífices ao longo dos séculos, chegando a ser considerada uma das devoções mais indulgenciadas da Igreja Católica. Importante notar que, para receber as indulgências associadas, não era exigido que se usasse um rosário especificamente franciscano. A coroa difundiu-se ainda como devoção de grupos, irmandades e famílias ligadas à espiritualidade ser áfica, permanecendo até hoje entre as formas tradicionais de piedade mariana.",
       "categoria": "oracoes",
-      "resumo": "Devoção franciscana de sete dezenas de Ave-Marias, meditando sete alegrias marianas ligadas à vida de Cristo.",
-      "corpo": "De origem franciscana, remontando ao século XV, a Coroa Franciscana — também chamada \"Terço dos Sete Gozos de Nossa Senhora\" — organiza-se em sete dezenas, em vez das cinco do Rosário tradicional, cada uma meditando um episódio de alegria na vida de Maria: da Anunciação até sua Coroação no Céu. É especialmente difundida entre franciscanos e associações a eles ligadas.",
       "tags": [
         "oração",
         "franciscanos",
         "Maria",
-        "terço"
+        "terço",
+        "sete gozos",
+        "século XV",
+        "Assis"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/af/0000_Franciscan_Crown.JPG",
       "imagem_credito": "Foto: Eugenio Hansen, OFS — Wikimedia Commons, CC BY-SA 3.0",
+      "fontes": [
+        "Wikipedia, verbete \"Franciscan Crown\" (origem no início do século XV italiano, sete gozos, referência a frei Lucas Wadding e às indulgências concedidas por vários papas)",
+        "Sacred Heart Catholic Church, \"Franciscan Crown\" (relato da tradição do noviço Jaime de Assis, do anjo que tece a coroa de rosas e lírios)",
+        "Raymond (rosaryandchaplets), \"Franciscan Crown Rosary, 7 Joys of Mary\" (as 72 Ave-Marias em memória dos 72 anos de vida de Maria)"
+      ],
+      "atualizado_em": null,
       "texto": "(Sete dezenas de Ave-Marias, cada uma meditando um dos \"sete gozos\":)\n1. A Anunciação\n2. A Visitação\n3. O Nascimento de Jesus\n4. A Adoração dos Magos\n5. O reencontro do Menino Jesus no Templo\n6. A aparição do Ressuscitado a Maria\n7. A Assunção e Coroação de Maria como Rainha do Céu\n\n(Ao final, acrescentam-se duas Ave-Marias, totalizando o número tradicional de setenta e duas, em referência aos anos de vida de Maria segundo a tradição.)",
       "uso": "Devoção franciscana, equivalente ao terço",
-      "origem": "Tradição franciscana, remontando ao século XV",
-      "fontes": [
-        "Catecismo da Igreja Católica"
-      ]
+      "origem": "Tradição franciscana, remontando ao século XV"
     },
     {
       "id": "oracoes:prece-de-sao-francisco-pela-paz",
