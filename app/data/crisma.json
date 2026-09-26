@@ -16,73 +16,95 @@
       "id": "crisma:o-sacramento-da-confirmacao",
       "slug": "o-sacramento-da-confirmacao",
       "titulo": "O sacramento da Confirmação",
-      "categoria": "crisma",
       "resumo": "O que é a Crisma: sacramento da iniciação cristã que confere o dom do Espírito Santo e imprime caráter indelével.",
-      "corpo": "A Confirmação é, com o Batismo e a Eucaristia, um dos três sacramentos da iniciação cristã. O Catecismo ensina que ela é necessária para a plenitude da graça batismal: os confirmados são enriquecidos com uma força especial do Espírito Santo e mais perfeitamente vinculados à Igreja.\n\nO rito essencial consiste na unção com o santo crisma na fronte, imposta com a imposição da mão, acompanhada das palavras «Recebe por este sinal o dom do Espírito Santo». O ministro originário é o Bispo; em determinados casos, o presbítero pode conferi-lo conforme as normas da Igreja.\n\nComo o Batismo e a Ordem, a Confirmação imprime na alma um caráter espiritual indelével e, por isso, é recebida uma só vez.",
+      "corpo": "A Confirmação é, com o Batismo e a Eucaristia, um dos três sacramentos da iniciação cristã. O Catecismo ensina que ela é necessária para a plenitude da graça batismal: os confirmados são enriquecidos com uma força especial do Espírito Santo e mais perfeitamente vinculados à Igreja, para darem testemunho de Cristo.\n\nA origem do sacramento está na imposição das mãos dos Apóstolos. Depois de Pentecostes, Pedro e João foram enviados a Samaria para impor as mãos sobre os batizados, que assim recebiam o Espírito Santo (At 8,14-17), e Paulo fez o mesmo em Éfeso (At 19,6). O CIC (n. 1288) chama a imposição das mãos de «origem do sacramento da Confirmação, que de certo modo perpetua na Igreja a graça de Pentecostes». Muito cedo, para significar melhor o dom do Espírito, acrescentou-se à imposição das mãos uma unção com óleo perfumado, o crisma — termo que remete a Cristo, «aquele que Deus ungiu com o Espírito Santo» (At 10,38). É daí que o sacramento se chama, no Oriente, crismação ou myron.\n\nPor razões históricas, a unidade primitiva entre Batismo e Confirmação rompeu-se no Ocidente. Como se multiplicavam os batismos de crianças e as paróquias rurais, tornou-se impossível a presença do bispo em cada celebração. Querendo reservar ao bispo a conclusão do Batismo, o Ocidente separou os dois sacramentos no tempo (CIC 1290); o Oriente conservou-os unidos, de modo que a Confirmação é dada pelo próprio presbítero que batiza, mas só com o myron consagrado por um bispo (CIC 1291). Foi essa separação que originou o rito romano atual, no qual, quando a Confirmação é celebrada separadamente do Batismo, a liturgia começa pela renovação das promessas batismais (CIC 1298).\n\nDo ponto de vista ritual, os textos ocidentais só fixaram com clareza a forma da Confirmação nos séculos XII e XIII. O Pontifical Romano do século XII traz pela primeira vez a fórmula que depois se generalizou: «Eu te assinalo com o sinal da cruz e te confirmo com o crisma da salvação. Em nome do Pai e do Filho e do Espírito Santo». Vários concílios ecumênicos entraram no debate sobre a matéria e a forma: a Profissão de Fé do imperador Miguel Paleólogo, lida no II Concílio de Lião, refere a Confirmação conferida pelos bispos pela imposição das mãos ao ungirem com o crisma; o Decreto para os Armênios, do Concílio de Florença, define que a matéria do sacramento é o crisma feito de óleo e bálsamo, e lembra que «em lugar daquela imposição da mão, dá-se na Igreja a Confirmação»; e o Concílio de Trento, sem definir o rito essencial, designou-o como «sagrado Crisma da Confirmação». A consagração do crisma, aliás, faz parte de certo modo do próprio sacramento: é o bispo quem o consagra na Missa do Crisma, na manhã da Quinta-feira Santa, para toda a sua diocese (CIC 1297).\n\nO rito essencial, no rito latino, foi reafirmado por Paulo VI na Constituição Apostólica Divinae consortium naturae (15 de agosto de 1971): «o sacramento da Confirmação é conferido pela unção do santo crisma na testa, feita com a imposição da mão, e por estas palavras: Recebe por este sinal o dom do Espírito Santo». A imposição das mãos sobre os confirmandos, que precede a unção, embora não pertença à essência do sacramento, é tida em grande conta por assegurar a integridade do rito. O ministro originário é o Bispo, sucessor dos Apóstolos e detentor da plenitude do sacramento da Ordem; por isso a administração da Confirmação por ele realça o vínculo dos confirmados com a Igreja e sua origem apostólica. Em determinados casos e conforme as normas da Igreja, o presbítero pode conferi-la. Como o Batismo e a Ordem, a Confirmação imprime na alma um caráter espiritual indelével e, por isso, é recebida uma só vez.",
+      "categoria": "crisma",
       "tags": [
         "confirmação",
         "iniciação cristã",
         "espírito santo",
-        "crisma"
+        "crisma",
+        "bispo",
+        "imposição das mãos",
+        "Pentecostes",
+        "myron"
       ],
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pietro_Longhi%2C_Confirmationis_Sacramentum.png",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Seven_Sacraments_-_Confirmation_I_%281637-1640%29_Nicolas_Poussin.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1288-1291, 1293-1301, 1304-1305, 1320-1321",
+        "Paulo VI, Constituição Apostólica «Divinae consortium naturae» (15 de agosto de 1971)",
+        "At 8,14-17; At 10,38; At 19,6",
+        "Concílio de Florença, Decreto para os Armênios; Concílio de Trento; II Concílio de Lião (Profissão de Fé de Miguel Paleólogo)",
+        "Nicolas Poussin, «Seven Sacraments - Confirmation I» (c. 1637-1640), Fitzwilliam Museum"
+      ],
+      "atualizado_em": null,
       "ordem": 1,
       "paragrafos_ccc": [
         "1285-1321"
-      ],
-      "fontes": [
-        "Catecismo da Igreja Católica, nn. 1285, 1293-1301, 1304-1305",
-        "Paulo VI, Constituição Apostólica «Divinae consortium naturae» (1971)"
-      ],
-      "imagem_credito": null
+      ]
     },
     {
       "id": "crisma:os-sete-dons-do-espirito-santo",
       "slug": "os-sete-dons-do-espirito-santo",
       "titulo": "Os sete dons do Espírito Santo",
+      "resumo": "Sabedoria, entendimento, conselho, fortaleza, ciência, piedade e temor de Deus: os dons que completam e aperfeiçoam as virtudes, enumerados a partir de Isaías 11.",
+      "corpo": "A tradição da Igreja enumera sete dons do Espírito Santo: sabedoria, entendimento (ou inteligência), conselho, fortaleza, ciência, piedade e temor de Deus. A enumeração tem por base a profecia de Isaías 11,1-2, descrição do renovo de Jessé sobre o qual repousa o Espírito do Senhor. O número sete não decorre do texto hebraico original: no Texto Massorético figuram seis características (sabedoria, entendimento, conselho, fortaleza, ciência e temor do Senhor), com o temor do Senhor mencionado duas vezes. A tradução grega dos Setenta verteu a primeira ocorrência do temor (a raiz hebraica yir'at) também como piedade (εὐσεβείας), e sobre ela se apoiou a Vulgata de São Jerônimo, que fixou o versículo: «Spiritus sapientiae et intellectus, spiritus consilii et fortitudinis, spiritus scientiae et pietatis, et replebit eum spiritus timoris Domini» (Is 11,2-3). Santo Ambrósio e Santo Agostinho viam no número sete o sinal de plenitude, e não de um cômputo aritmético: todos os dons desejáveis habitam no Messias.\n\nFoi Santo Tomás de Aquino quem deu à lista sua forma escolástica definitiva, no tratado dos dons da Primeira Secção da Segunda Parte da Suma Teológica (I-II, q. 68). Ali distingue os dons das virtudes — os dons são hábitos pelos quais o homem se torna dócil ao impulso do Espírito Santo, acima do que a razão por si só alcançaria — e sustenta, no artigo 4, que são convenientemente enumerados em sete, e, no artigo 7, que sua dignidade se funda na enumeração de Isaías 11. Assim os dons foram associados às virtudes e às bem-aventuranças (a sabedoria aos pacíficos, o entendimento aos que choram, o conselho aos misericordiosos, a fortaleza aos que têm fome de justiça, a ciência aos que sofrem perseguição, a piedade aos mansos, o temor aos pobres de espírito).\n\nO Catecismo da Igreja Católica recolhe essa tradição nos nn. 1830-1831: os dons «completam e levam à perfeição as virtudes de quem os recebe» e «tornam os fiéis dóceis, na obediência pronta, às inspirações divinas». Cita a esse propósito o Salmo 143 («Que o vosso espírito de bondade me conduza pelo caminho recto») e a Carta aos Romanos («Todos aqueles que são conduzidos pelo Espírito de Deus são filhos de Deus... herdeiros de Deus, co-herdeiros de Cristo», Rm 8,14.17). O CIC recorda ainda que os dons «pertencem em plenitude a Cristo, filho de David» — isto é, são primeiramente do Messias e, por participação, dos batizados.\n\nNão são, portanto, poderes extraordinários nem talentos naturais, mas disposições estáveis infundidas com a graça santificante, aprofundadas no Batismo e especialmente fortalecidas na Confirmação. Na catequese de Crisma, os dons são apresentados junto à vida de oração e aos sacramentos, meio ordinário pelo qual a graça é alimentada.",
       "categoria": "crisma",
-      "resumo": "Sabedoria, entendimento, conselho, fortaleza, ciência, piedade e temor de Deus: os dons que completam e aperfeiçoam as virtudes.",
-      "corpo": "A tradição da Igreja enumera sete dons do Espírito Santo: sabedoria, entendimento, conselho, fortaleza, ciência, piedade e temor de Deus. A enumeração tem por base a profecia de Isaías 11,1-2, aplicada pela tradição ao Messias e, nele, aos cristãos.\n\nO Catecismo ensina que os dons «completam e aperfeiçoam as virtudes daqueles que os recebem», tornando-os dóceis à ação do Espírito Santo. Não são poderes extraordinários, mas disposições estáveis que dispõem a pessoa a seguir os impulsos da graça na vida ordinária.\n\nNa catequese de Confirmação, os dons costumam ser apresentados junto à vida de oração e aos sacramentos, que são o meio ordinário pelo qual a graça é alimentada.",
       "tags": [
         "dons",
         "espírito santo",
         "virtudes",
-        "Isaías"
+        "Isaías",
+        "Tomás de Aquino",
+        "Suma Teológica",
+        "sabedoria",
+        "temor de Deus",
+        "século XIII"
       ],
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Dirc_van_Delft_-_Seven_Gifts_of_the_Holy_Spirit_-_Walters_W17153R_-_Full_Page.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, nn. 1830-1831",
+        "Is 11,1-3 (Vulgata; cf. Texto Massorético e Septuaginta)",
+        "Tomás de Aquino, Suma Teológica, I-II, q. 68, arts. 1-8",
+        "Dirc van Delft, «Seven Gifts of the Holy Spirit», Walters Manuscript W.171, c. 1400-1404 (Walters Art Museum)"
+      ],
+      "atualizado_em": null,
       "ordem": 2,
       "paragrafos_ccc": [
         "1830-1831"
-      ],
-      "fontes": [
-        "Catecismo da Igreja Católica, nn. 1830-1831",
-        "Is 11,1-2"
-      ],
-      "imagem_credito": null
+      ]
     },
     {
       "id": "crisma:os-frutos-do-espirito-santo",
       "slug": "os-frutos-do-espirito-santo",
       "titulo": "Os frutos do Espírito Santo",
+      "resumo": "Os doze frutos que a tradição enumera a partir de Gálatas 5,22-23 segundo a Vulgata, como sinais da ação do Espírito na vida cristã.",
+      "corpo": "Os frutos do Espírito Santo são, segundo o Catecismo (n. 1832), «perfeições que o Espírito Santo forma em nós, como primícias da glória eterna». A tradição da Igreja enumera doze: caridade, alegria, paz, paciência, longanimidade, bondade, benignidade, mansidão, fidelidade, modéstia, continência e castidade — lista que o CIC apresenta como a de Gl 5,22-23 «segundo a Vulgata».\n\nA diferença de número em relação ao texto grego é notável e costuma passar despercebida. Na Carta aos Gálatas, São Paulo opõe as «obras da carne» (fornicação, impureza, idolatria, inimizades, ciúmes, iras, divisões, invejas, embriaguezes e coisas semelhantes) ao «fruto do Espírito». O texto grego enumera nove: amor, alegria, paz, longanimidade, benignidade, bondade, fidelidade, mansidão e temperança. A Vulgata de São Jerônimo, ao traduzir, desdobrou alguns termos, chegando aos doze que a tradição latina consagrou. É por isso que biblistas e confissões que seguem o cotejo grego contam nove frutos, enquanto o catecismo católico e numerosos catecismos tradicionais (o Catecismo de Baltimore, por exemplo) mantêm os doze.\n\nSanto Tomás de Aquino dedicou aos frutos a Questão 70 da Primeira Secção da Segunda Parte da Suma Teológica. Explica que «fruto» tem dois sentidos: aquilo que o ser humano produz e aquilo que ele saboreia, ou seja, o termo designa ao mesmo tempo a obra boa e a alegria que dela decorre. Compara os frutos às bem-aventuranças: estas apontam para a perfeição dos santos, enquanto os frutos são mais quotidianos e acessíveis a quem, mesmo em meio às lutas, se deixa conduzir pela graça. Organiza-os pedagogicamente conforme sua ordem ao próximo e a si mesmo.\n\nEnquanto os dons dispõem a pessoa à ação do Espírito, os frutos são o efeito visível dessa ação na conduta: são o critério concreto para verificar se a vida cristã está crescendo. Por isso a preparação para a Confirmação não termina no dia da celebração: ela desemboca na vida sacramental, na oração e na caridade praticada, onde esses frutos amadurecem.",
       "categoria": "crisma",
-      "resumo": "Os frutos que a tradição enumera a partir de Gálatas 5,22-23 como sinais da ação do Espírito na vida cristã.",
-      "corpo": "Os frutos do Espírito Santo são, segundo o Catecismo, «perfeições que o Espírito Santo forma em nós como primícias da glória eterna». A tradição da Igreja os enumera a partir de Gálatas 5,22-23: caridade, alegria, paz, paciência, longanimidade, bondade, benignidade, mansidão, fidelidade, modéstia, continência e castidade.\n\nEnquanto os dons dispõem a pessoa à ação do Espírito, os frutos são o efeito visível dessa ação na conduta: são o critério concreto para verificar se a vida cristã está crescendo.\n\nPor isso a preparação para a Confirmação não termina no dia da celebração: ela desemboca na vida sacramental, na oração e na caridade praticada, onde esses frutos amadurecem.",
       "tags": [
         "frutos",
         "espírito santo",
         "caridade",
-        "vida cristã"
+        "vida cristã",
+        "Gálatas",
+        "Vulgata",
+        "Tomás de Aquino"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/46/Dublin_Christ_Church_Cathedral_Passage_to_Synod_Hall_Window_Fruit_of_the_Spirit_2012_09_26.jpg",
+      "imagem_credito": "Foto: Andreas F. Borchert (2012) — Wikimedia Commons, CC BY-SA 4.0",
+      "fontes": [
+        "Catecismo da Igreja Católica, n. 1832",
+        "Gl 5,22-23 (texto grego e Vulgata)",
+        "Tomás de Aquino, Suma Teológica, I-II, q. 70",
+        "Vitral «Fruit of the Spirit», Catedral de Cristo (Dublin), foto de Andreas F. Borchert, 2012"
+      ],
+      "atualizado_em": null,
       "ordem": 3,
       "paragrafos_ccc": [
         "1832"
-      ],
-      "fontes": [
-        "Catecismo da Igreja Católica, n. 1832",
-        "Gl 5,22-23"
-      ],
-      "imagem_credito": "Foto: Andreas F. Borchert (2012) — Wikimedia Commons, CC BY-SA 4.0"
+      ]
     },
     {
       "id": "crisma:santissima-trindade",
