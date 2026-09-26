@@ -85,21 +85,30 @@
       "id": "jesus-cristo:fuga-para-o-egito",
       "slug": "fuga-para-o-egito",
       "titulo": "A Fuga para o Egito",
+      "resumo": "Avisado em sonho, José foge com Maria e o menino Jesus para o Egito, escapando do massacre que Herodes ordenou contra os meninos de Belém; Mateus lê o episódio como cumprimento da profecia \"do Egito chamei o meu filho\".",
+      "corpo": "O único evangelho que narra a fuga é o de Mateus (2,13-23). Depois da partida dos Magos, um anjo do Senhor aparece a José em sonho e ordena: \"Levanta-te, toma o menino e sua mãe, foge para o Egito e fica lá até que eu te avise, porque Herodes vai procurar o menino para matá-lo\". José parte de noite; a família permanece no Egito até a morte do rei, e só então, avisada de novo em sonho, regressa — mas, temendo Arquelau, filho de Herodes, que reinava na Judeia, retira-se para a Galileia e fixa-se em Nazaré.",
       "categoria": "jesus-cristo",
-      "resumo": "José leva Maria e o menino Jesus para o Egito, escapando da perseguição de Herodes contra as crianças de Belém.",
-      "corpo": "Avisado em sonho, José foge com Maria e o menino Jesus para o Egito, escapando do massacre ordenado por Herodes contra os meninos de Belém com dois anos ou menos (\"o massacre dos Inocentes\"). Mateus lê o episódio, e o posterior retorno após a morte de Herodes, como cumprimento da profecia \"do Egito chamei o meu filho\" (Os 11,1; Mt 2,15).",
       "tags": [
-        "mistérios da vida"
+        "mistérios da vida",
+        "Mateus",
+        "Herodes o Grande",
+        "Santos Inocentes",
+        "Egito",
+        "século I"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Fra_Angelico_-_Flight_into_Egypt%2C_1450.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "Evangelho segundo Mateus 2,13-23",
+        "Antigo Testamento: Oseias 11,1; Jeremias 31,15; Êxodo 1,22; 2,15; 4,19; Gênesis 46,1-7",
+        "Catecismo da Igreja Católica, sobre a infância de Jesus",
+        "Custódia da Terra Santa / Diretório Romano sobre Piedade Popular e Liturgia (festa dos Santos Inocentes, 28 de dezembro)"
+      ],
+      "atualizado_em": null,
       "tipo": "misterio_vida",
       "ordem": 4,
       "referencia_biblica": "Mateus 2,13-23",
-      "paragrafos_ccc": [],
-      "fontes": [
-        "Catecismo da Igreja Católica"
-      ]
+      "paragrafos_ccc": []
     },
     {
       "id": "jesus-cristo:vida-oculta-em-nazare",
@@ -401,23 +410,33 @@
       "id": "jesus-cristo:titulo-filho-de-deus",
       "slug": "titulo-filho-de-deus",
       "titulo": "Filho de Deus",
+      "resumo": "Título que, aplicado a Jesus, afirma sua relação única e eterna com o Pai — de igualdade de natureza divina, e não de filiação adotiva ou metafórica, como nos usos veterotestamentários.",
+      "corpo": "No Antigo Testamento, \"filho de Deus\" designa os anjos, o povo eleito, os filhos de Israel e, sobretudo, os reis (Sl 2,7; 2Sm 7,14), sempre em sentido de filiação adotiva, que cria entre Deus e a criatura uma intimidade particular. Aplicado ao Rei-Messias, o título não implicava necessariamente, no sentido literal, mais que um simples ser humano; os que chamavam Jesus \"Messias de Israel\" talvez não quisessem dizer mais do que isso (cf. Catecismo, 441). É na boca de Pedro — \"Tu és o Cristo, o Filho do Deus vivo\" (Mt 16,16) — e no reconhecimento do centurião aos pés da cruz — \"verdadeiramente este homem era o Filho de Deus\" (Mc 15,39) — que o título adquire seu pleno sentido cristão.",
       "categoria": "jesus-cristo",
-      "resumo": "Título que afirma a relação única e eterna de Jesus com o Pai, não apenas em sentido adotivo ou metafórico, mas de igualdade de natureza divina.",
-      "corpo": "Enquanto \"filho de Deus\" podia designar, no Antigo Testamento, anjos, o povo de Israel ou o rei em sentido adotivo, aplicado a Jesus o título \"Filho de Deus\" afirma, na fé cristã, uma relação única, eterna e de igualdade de natureza com o Pai — não uma adoção, mas geração eterna (\"gerado, não criado, consubstancial ao Pai\", no Credo Niceno).",
       "tags": [
         "títulos de Cristo",
-        "Trindade"
+        "Trindade",
+        "Concílio de Niceia",
+        "homoousios",
+        "geração eterna",
+        "cristologia"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/73/God2-Sistine_Chapel.png",
       "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, §441-445",
+        "Evangelho segundo João 1,14.18; 3,16-18; 20,17",
+        "Salmo 2,7; 2 Samuel 7,14",
+        "Credo Niceno-Constantinopolitano (325/381): \"gerado, não criado, consubstancial ao Pai\"",
+        "Santo Atanásio de Alexandria, Discursos contra os Arianos, I, 13-14",
+        "Santo Hilário de Poitiers, De Trinitate"
+      ],
+      "atualizado_em": null,
       "tipo": "titulo",
       "ordem": 18,
       "referencia_biblica": "Mateus 16,16; João 1,14.18",
       "paragrafos_ccc": [
         "441-445"
-      ],
-      "fontes": [
-        "Catecismo da Igreja Católica"
       ]
     },
     {
@@ -527,21 +546,31 @@
       "id": "jesus-cristo:titulo-bom-pastor",
       "slug": "titulo-bom-pastor",
       "titulo": "O Bom Pastor",
+      "resumo": "Título que Jesus aplica a si mesmo — aquele que conhece suas ovelhas pelo nome, anda à frente delas e dá a própria vida por elas, em contraste com o mercenário que foge.",
+      "corpo": "\"Eu sou o Bom Pastor. O bom pastor dá a vida por suas ovelhas\" (Jo 10,11). A imagem tem raízes profundas no Antigo Testamento: o Salmo 23 apresenta o Senhor como pastor que conduz às águas tranquilas; Ezequiel 34, escrito no exílio da Babilônia, denuncia os governantes de Judá que apascentavam a si mesmos — comendo a coalhada, vestindo-se da lã e não cuidando das ovelhas fracas nem buscando as desgarradas — e anuncia que o próprio Deus virá buscar e reunir seu rebanho, suscitando \"um só pastor, meu servo Davi\" (Ez 34,23). Jesus assume esse vocabulário e o aplica a si mesmo, reivindicando para si a função que teria sido de Deus.",
       "categoria": "jesus-cristo",
-      "resumo": "Título que Jesus aplica a si mesmo, descrevendo-se como o pastor que dá a própria vida por suas ovelhas.",
-      "corpo": "\"Eu sou o Bom Pastor. O bom pastor dá a vida por suas ovelhas\" (Jo 10,11): a imagem, com raízes no Antigo Testamento (Sl 23; Ez 34), descreve a relação de Jesus com os fiéis como cuidado pessoal, conhecimento mútuo (\"conheço as minhas ovelhas, e elas me conhecem\") e entrega total, distinta da indiferença do \"mercenário\" que foge diante do perigo.",
       "tags": [
-        "títulos de Cristo"
+        "títulos de Cristo",
+        "Bom Pastor",
+        "Ezequiel",
+        "catacumbas",
+        "arte cristã primitiva",
+        "Domingo do Bom Pastor"
       ],
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Good_shepherd_01_small.jpg",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/The_Good_Shepherd%2C_Catacomb_of_Domitilla_%28200_CE%29.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "Evangelho segundo João 10,1-18",
+        "Ezequiel 34,1-31; 37,24; Salmo 23; Isaías 40,11; Jeremias 23,1-4",
+        "Catecismo da Igreja Católica, §754 (\"a Igreja é o redil, cuja única e necessária porta é Cristo\")",
+        "Concílio Vaticano II, Lumen Gentium, 6",
+        "Catacumbas de Domitila (século II) e de Priscila (século III), frescos do Bom Pastor"
+      ],
+      "atualizado_em": null,
       "tipo": "titulo",
       "ordem": 24,
       "referencia_biblica": "João 10,1-18",
-      "paragrafos_ccc": [],
-      "fontes": [
-        "Catecismo da Igreja Católica"
-      ]
+      "paragrafos_ccc": []
     },
     {
       "id": "jesus-cristo:uniao-hipostatica",
