@@ -102,43 +102,60 @@
       "id": "calendario-liturgico:quaresma",
       "slug": "quaresma",
       "titulo": "Quaresma",
+      "resumo": "Quarenta dias de penitência, jejum e oração, da Quarta-feira de Cinzas à Missa da Ceia do Senhor, em preparação para a Páscoa.",
+      "corpo": "A Quaresma é o tempo litúrgico de preparação para a Páscoa que, no Rito Romano, se estende da Quarta-feira de Cinzas até a Missa da Ceia do Senhor, na Quinta-feira Santa, quando tem início o Tríduo Pascal. O nome deriva do latim quadragesima (\"quadragésima\" ou \"quarenta dias\"), referindo-se ao período de quarenta dias que evoca tanto os quarenta dias de Jesus no deserto (Mt 4,1-11) quanto os quarenta anos de Israel no deserto. A liturgia quaresmal marca esse caminho de conversão com maior austeridade: na Missa, o \"Glória\" é omitido (exceto em solenidades e festas) e o \"Aleluia\" cede lugar ao versículo antes do Evangelho, sinais do caráter penitencial do tempo.\n\nO Concílio Vaticano II reafirmou o sentido duplo da Quaresma na constituição Sacrosanctum Concilium (nn. 109-110): ela é, ao mesmo tempo, o tempo da preparação dos catecúmenos para o Batismo e o tempo em que os fiéis são chamados a recordar o próprio Batismo e a fazer penitência. O mesmo documento pede que se conserve e santifique o \"jejum pascal\", celebrado sobretudo na Sexta-feira Santa e, se possível, prolongado até o Sábado Santo, \"para que se chegue às alegrias do Domingo da Ressurreição com o espírito elevado e límpido\".\n\nA contagem dos \"quarenta dias\" comporta uma sutileza frequentemente mal compreendida: entre a Quarta-feira de Cinzas e o Sábado Santo contam-se 46 dias; como os domingos — vistos como \"pequenas Páscoas\", nos quais a Igreja nunca obrigou ao jejum — não entram na conta, sobram exatamente os quarenta dias de jejum. O fiel católico costuma, por isso, dizer que a Quaresma tem quarenta dias \"sem contar os domingos\".\n\nAs obrigações concretas de jejum e abstinência foram reorganizadas pelo Papa Paulo VI na constituição apostólica Paenitemini, de 17 de fevereiro de 1966. A partir dela, os dias de penitência vinculantes em toda a Igreja passaram a ser a Quarta-feira de Cinzas e a Sexta-feira da Paixão (jejum e abstinência), além de todas as sextas-feiras do ano que não caiam em dia de solenidade (abstinência de carne). A lei do jejum permite uma única refeição completa ao dia, com pequenas colações à manhã e à tarde segundo o costume local. O jejum, porém, só obriga a partir dos 18 até os 59 anos completos; a abstinência, a partir dos 14 anos.\n\nAo longo da Quaresma destacam-se ainda marcas litúrgicas próprias: o quarto domingo (Laetare) pode usar paramentos rosa como pausa de alegria antecipada, e, conforme o costume, as cruzes e imagens podem ser veladas a partir do Sábado anterior ao quinto domingo, permanecendo as cruzes cobertas até o fim da Celebração da Paixão na Sexta-feira Santa. A imagem que acompanha esta entrada é o detalhe central de O Combate entre o Carnaval e a Quaresma, de Pieter Bruegel o Velho (1559), um panorama satírico que põe frente a frente a figura do Carnaval e a \"Dona Quaresma\", personificação austera do tempo penitencial.",
       "categoria": "calendario-liturgico",
-      "resumo": "Quarenta dias de penitência, jejum e oração intensificada, em preparação para a Páscoa.",
-      "corpo": "A Quaresma estende-se da Quarta-feira de Cinzas até a Missa da Ceia do Senhor na Quinta-feira Santa, num período simbólico de quarenta dias — em referência aos quarenta dias de Jesus no deserto (Mt 4,1-11) e aos quarenta anos de Israel no deserto. É tempo litúrgico de conversão, marcado por maior austeridade (o \"Glória\" e o \"Aleluia\" são omitidos na Missa), intensificação da oração, do jejum e da esmola, e preparação direta dos catecúmenos para o Batismo na Vigília Pascal.",
       "tags": [
         "ano litúrgico",
         "Quaresma",
-        "penitência"
+        "penitência",
+        "jejum",
+        "Quarta-feira de Cinzas",
+        "Paulo VI",
+        "Concílio Vaticano II"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/05_Tentaciones_de_Cristo_%28Botticelli%29.jpg",
       "imagem_credito": null,
-      "ordem": 4,
-      "cor_liturgica": "Roxo (rosa no quarto domingo, Laetare)",
       "fontes": [
-        "Missal Romano",
-        "Catecismo da Igreja Católica"
-      ]
+        "Concílio Vaticano II, Sacrosanctum Concilium, nn. 109-110",
+        "Paulo VI, Constituição Apostólica Paenitemini, 17 de fevereiro de 1966",
+        "Missal Romano, Instrução Geral e rubricas do Tempo da Quaresma",
+        "Catecismo da Igreja Católica, n. 540",
+        "Normas Universais sobre o Ano Litúrgico e o Calendário"
+      ],
+      "atualizado_em": null,
+      "ordem": 4,
+      "cor_liturgica": "Roxo (rosa no quarto domingo, Laetare)"
     },
     {
       "id": "calendario-liturgico:triduo-pascal",
       "slug": "triduo-pascal",
       "titulo": "Tríduo Pascal",
+      "resumo": "Os três dias centrais do ano litúrgico: da Missa da Ceia do Senhor, na Quinta-feira Santa, à Vigília Pascal, celebrando a Paixão, morte e ressurreição de Cristo.",
+      "corpo": "O Tríduo Pascal — o \"cume de todo o ano litúrgico\" — compreende os três dias mais solenes do calendário cristão e celebra, como um único mistério, a Paixão, a morte e a Ressurreição do Senhor. As Normas Universais sobre o Ano Litúrgico e o Calendário (nn. 18-21) definem-no com precisão técnica: começa com a Missa da Ceia do Senhor, celebrada na tarde da Quinta-feira Santa, tem o seu centro na Vigília Pascal e encerra-se com as Vésperas do Domingo da Ressurreição. Por isso a centralidade do Tríduo é análoga, no ano, à centralidade que o domingo tem na semana.\n\nCada um dos três dias tem fisionomia litúrgica própria. Na Quinta-feira Santa, a Missa da Ceia do Senhor comemora a instituição da Eucaristia e do sacerdócio ministerial, e inclui o rito do Lava-pés; ao final, as espécies consagradas são levadas em procissão para um lugar de reserva (a \"capela da reposição\"), de onde se prolonga a adoração até a noite. Sexta-feira Santa é o único dia do ano em que não se celebra a Missa: a liturgia própria é a Celebração da Paixão do Senhor — com a Liturgia da Palavra, a solene oração universal, a Adoração da Cruz e a comunhão com hóstias consagradas na véspera —, que se realiza à tarde, com indicação tradicional das três horas da tarde. O Sábado Santo é dia de silêncio, de \"sepultura\" do Senhor: a Igreja espera junto do túmulo, sem celebração eucarística própria, até a Vigília.\n\nA Vigília Pascal, celebrada na noite do Sábado Santo, é chamada pela tradição litúrgica a \"mãe de todas as vigílias santas\": nela a Igreja, mantendo vigília, aguarda a Ressurreição e a celebra nos sacramentos. A norma é explícita em exigir que toda a celebração ocorra de fato à noite, começando depois do cair da noite e terminando antes do amanhecer do domingo. A Vigília articula-se em quatro partes — a Liturgia da Luz (bênção do fogo novo e do círio pascal), a Liturgia da Palavra, a Liturgia Batismal e a Liturgia Eucarística —, sendo o momento privilegiado da administração do Batismo e da renovação das promessas batismais. É também o único dia em que se pode conservar a comunhão não apenas dos sacerdotes.\n\nA forma atual do Tríduo é, em boa medida, fruto de uma reforma relativamente recente. Durante a Idade Média, os horários originais haviam-se deslocado: a Missa da Ceia do Senhor e a Celebração da Paixão passaram a ser realizadas pela manhã, e a Vigília Pascal chegou a ser antecipada para a manhã do Sábado Santo, o que esvaziava o seu simbolismo noturno. O Papa Pio XII iniciou a restauração em 1951, devolvendo a Vigília à noite em caráter experimental, e a concluiu com o decreto Maxima Redemptionis, de 19 de novembro de 1955, que reorganizou toda a Semana Santa e tornou permanentes os horários restaurados. A reforma não foi recebida sem resistência: alguns prelados, como o cardeal Francis Spellman, de Nova York, chegaram a considerar pedir dispensa do novo rito da Vigília, mas acabaram por acatar. O Concílio Vaticano II confirmou e aprofundou essa estrutura, que passou ao Missal de Paulo VI (1970).",
       "categoria": "calendario-liturgico",
-      "resumo": "Os três dias centrais de todo o ano litúrgico: da Missa da Ceia do Senhor à Vigília Pascal, celebrando a Paixão, morte e ressurreição de Cristo.",
-      "corpo": "O Tríduo Pascal — \"o coração de todo o ano litúrgico\", nas palavras da própria Igreja — começa com a Missa da Ceia do Senhor na Quinta-feira Santa (institução da Eucaristia e do sacerdócio), passa pela Celebração da Paixão do Senhor na Sexta-feira Santa (única \"missa\" do ano que não é propriamente Missa, sem consagração), pelo silêncio contemplativo do Sábado Santo, e culmina na Vigília Pascal na noite de sábado para domingo, a mais solene celebração litúrgica de todo o calendário cristão.",
       "tags": [
         "ano litúrgico",
         "Tríduo Pascal",
-        "Páscoa"
+        "Páscoa",
+        "Semana Santa",
+        "Quinta-feira Santa",
+        "Sexta-feira Santa",
+        "Vigília Pascal",
+        "Pio XII"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Peter_Paul_Rubens%2C_Crucifixion%2C_c.1618-1620.jpg",
       "imagem_credito": null,
-      "ordem": 5,
-      "cor_liturgica": "Branco (vermelho na Sexta-feira Santa)",
       "fontes": [
-        "Missal Romano",
-        "Catecismo da Igreja Católica"
-      ]
+        "Normas Universais sobre o Ano Litúrgico e o Calendário, nn. 18-21",
+        "Missal Romano, tríduo do Sagrado Tríduo Pascal",
+        "Sacrosanctum Concilium, nn. 5 e 109-110",
+        "Pio XII, Decreto Maxima Redemptionis, 19 de novembro de 1955",
+        "Catecismo da Igreja Católica, nn. 1168-1171"
+      ],
+      "atualizado_em": null,
+      "ordem": 5,
+      "cor_liturgica": "Branco (vermelho na Sexta-feira Santa)"
     },
     {
       "id": "calendario-liturgico:tempo-pascal",
@@ -172,22 +189,27 @@
       "id": "calendario-liturgico:cores-liturgicas",
       "slug": "cores-liturgicas",
       "titulo": "As Cores Litúrgicas",
+      "resumo": "O código de cores dos paramentos que sinaliza visualmente o tempo ou a celebração do dia: branco, vermelho, verde, roxo, rosa e, onde for costume, preto.",
+      "corpo": "As cores dos paramentos sagrados constituem um dos sinais visuais mais imediatos do ano litúrgico: elas exprimem, como diz a Instrução Geral do Missal Romano (IGMR, n. 345), o \"caráter peculiar dos mistérios da fé\" que se celebram e o sentido progressivo da vida cristã ao longo do ano.\n\nA norma que regula o uso das cores está na IGMR, nn. 345-347, que determina manter-se o uso tradicional do Rito Romano. Segundo o n. 346, usa-se a cor branca nos Ofícios e Missas do Tempo Pascal e do Natal, e ainda nas celebrações do Senhor (exceto as da Paixão), da Bem-aventurada Virgem Maria, dos Anjos, dos santos não mártires, e nas solenidades de Todos os Santos, São João Batista, São João Evangelista, Cátedra de São Pedro e Conversão de São Paulo. A cor vermelha usa-se no Domingo da Paixão (Ramos) e na Sexta-feira Santa, no Domingo de Pentecostes, nas celebrações da Paixão do Senhor, nas festas natalícias dos Apóstolos e Evangelistas e nas celebrações dos mártires. A cor verde usa-se nos Ofícios e Missas do Tempo Comum. A cor roxa, no Advento e na Quaresma, podendo usar-se também nos Ofícios e Missas de defuntos. Onde for costume, admite-se ainda a cor preta nas Missas de defuntos e a cor rosa nos domingos Gaudete (terceiro do Advento) e Laetare (quarto da Quaresma).\n\nAo conjunto das cores \"canônicas\" acrescentam-se usos facultativos ou por privilégio: o dourado (ou prateado), que pode substituir o branco ou outra cor em dias mais solenes, conforme o costume; e o azul para festas marianas em alguns países, como no Brasil. O n. 346 observa expressamente a possibilidade de, nos dias mais solenes, recorrer-se a paramentos festivos ou mais nobres, \"ainda que não sejam da cor do dia\". A mesma norma deixa às Conferências Episcopais a faculdade de propor à Sé Apostólica adaptações conforme as necessidades e a mentalidade dos povos.\n\nO rosa merece nota especial, por ser a cor mais rara da liturgia — a tradição a denomina \"rosácea\". Usada de forma meramente facultativa e apenas duas vezes por ano, ela funciona como uma pausa de alegria antecipada no meio de um tempo penitencial: o roxo \"atravessado\" pela luz que se aproxima. Por isso o terceiro domingo do Advento chama-se Gaudete e o quarto da Quaresma, Laetare, ambos tomados do introito da Missa. Vale lembrar que nem todos os paramentos mudam de cor: a alva e o amito são sempre brancos, em memória da veste batismal; quem varia com o calendário são a casula, a estola, a dalmática e a capa pluvial.\n\nA imagem que acompanha esta entrada é um painel que reúne casulas (casullas) nas diversas cores litúrgicas, ilustrando visualmente o código que distingue os tempos do ano.",
       "categoria": "calendario-liturgico",
-      "resumo": "O código de cores dos paramentos que sinaliza visualmente o tempo ou a celebração do dia: branco, vermelho, verde, roxo e, ocasionalmente, rosa.",
-      "corpo": "Cada cor litúrgica carrega um significado: o branco (ou dourado) expressa alegria e glória, usado no Natal, na Páscoa e em festas do Senhor, de Maria e de santos não mártires; o vermelho, sangue e fogo, usado na Paixão, em Pentecostes e nas festas de mártires e apóstolos; o verde, esperança e vida, no Tempo Comum; o roxo, penitência e expectativa, no Advento e na Quaresma; e o rosa, uso raro e facultativo, sinaliza uma pausa de alegria antecipada nos domingos Gaudete (Advento) e Laetare (Quaresma).",
       "tags": [
         "ano litúrgico",
         "cores litúrgicas",
-        "paramentos"
+        "paramentos",
+        "Instrução Geral do Missal Romano",
+        "Gaudete",
+        "Laetare"
       ],
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Catholic_priest_vesting_%28La_Ravoire_Morrow_-_My_Catholic_Faith%2C_1949%29.png",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Casullas_de_los_colores_lit%C3%BArgicos.svg",
       "imagem_credito": null,
-      "ordem": 7,
-      "cor_liturgica": null,
       "fontes": [
-        "Missal Romano",
-        "Catecismo da Igreja Católica"
-      ]
+        "Missal Romano, Instrução Geral, nn. 345-347",
+        "Missal Romano, n. 346 (uso tradicional das cores)",
+        "Catecismo da Igreja Católica, nn. 1077 e seguintes (sinais e símbolos litúrgicos)"
+      ],
+      "atualizado_em": null,
+      "ordem": 7,
+      "cor_liturgica": null
     },
     {
       "id": "calendario-liturgico:solenidade-festa-memoria",
@@ -221,22 +243,28 @@
       "id": "calendario-liturgico:datas-moveis",
       "slug": "datas-moveis",
       "titulo": "Datas Móveis do Calendário Litúrgico",
+      "resumo": "Por que a Páscoa e as festas que dela dependem — Cinzas, Ascensão, Pentecostes e Corpus Christi — mudam de data a cada ano, e como o Computus eclesiástico as calcula.",
+      "corpo": "Ao contrário do Natal, fixado em 25 de dezembro, a data da Páscoa varia a cada ano porque segue um cálculo lunissolar. A regra fundamental remonta ao Primeiro Concílio Ecumênico de Niceia (325), que decidiu que a Páscoa seria celebrada no domingo seguinte à primeira lua cheia depois do equinócio de primavera do hemisfério norte, rompendo deliberadamente com a data da Páscoa judaica (o 14 de Nisan, que pode cair em qualquer dia da semana). A Comissão Teológica Internacional, num documento de 2025 pelos 1700 anos de Niceia, lembra que, no Concílio, a Igreja \"optou decisivamente por se separar da data da Páscoa judaica\", para que a festa cristã fosse celebrada \"no primeiro domingo após a lua cheia que se segue ou coincide com o equinócio da primavera\".\n\nPara uso eclesiástico, o equinócio não é observado astronomicamente, mas fixado por convenção em 21 de março; a primeira lua cheia a partir dessa data é chamada \"lua cheia pascal\". Se essa lua cheia cair num domingo, a Páscoa é transferida para o domingo seguinte. Desse modo, a Páscoa nunca ocorre antes de 22 de março nem depois de 25 de abril — um intervalo de 35 dias. O sistema matemático que prevê essas datas ao longo dos anos é o Computus, que se apoia em instrumentos como o Número Áureo (a posição do ano no ciclo lunar de 19 anos) e a Epacta (a idade da Lua no início do ano). A regra do equinócio fixo em 21 de março e sua formalização consolidaram-se sobretudo nos séculos seguintes, com o trabalho de Dionísio, o Exíguo, e não como fórmula completa já em Niceia.\n\nComo todas as festas do ciclo pascal são contadas a partir da Páscoa, elas também se movem. A Quarta-feira de Cinzas, início da Quaresma, cai 46 dias antes da Páscoa; o Domingo de Ramos, sete dias antes; a Sexta-feira Santa, dois dias antes. A Ascensão do Senhor é celebrada 40 dias depois da Páscoa (em algumas regiões, transferida para o domingo seguinte, o 43º dia); Pentecostes, 50 dias depois; e a solenidade de Corpus Christi, 60 dias depois, sempre numa quinta-feira.\n\nA diferença entre o calendário juliano e o gregoriano faz ainda com que católicos e cristãos ortodoxos celebrem a Páscoa em datas distintas na maioria dos anos, ainda que a fórmula de fundo seja a mesma. A busca de uma data comum, capaz de reunir todas as confissões cristãs num mesmo domingo pascal, permanece um dos temas ecumênicos levantados por ocasião do aniversário de Niceia.",
       "categoria": "calendario-liturgico",
-      "resumo": "Por que a Páscoa e as festas que dela dependem — Cinzas, Ascensão, Pentecostes — mudam de data a cada ano.",
-      "corpo": "Ao contrário do Natal, fixado em 25 de dezembro, a data da Páscoa varia a cada ano porque segue um cálculo lunissolar antigo, fixado pelo Concílio de Niceia (325): é celebrada no domingo seguinte à primeira lua cheia depois do equinócio de primavera do hemisfério norte (por volta de 21 de março), podendo cair entre 22 de março e 25 de abril. Como consequência, todas as datas calculadas a partir da Páscoa também se movem: a Quarta-feira de Cinzas (46 dias antes), a Ascensão (tradicionalmente 40 dias depois) e Pentecostes (50 dias depois).",
       "tags": [
         "ano litúrgico",
         "Páscoa",
-        "Concílio de Niceia"
+        "Concílio de Niceia",
+        "Computus",
+        "Quaresma",
+        "Pentecostes"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nicaea_icon.jpg",
       "imagem_credito": null,
-      "ordem": 9,
-      "cor_liturgica": null,
       "fontes": [
+        "Comissão Teológica Internacional, \"Jesus Cristo, Filho de Deus, Salvador — 1700º aniversário do Concílio Ecumênico de Niceia (325-2025)\", 2025",
         "Concílio de Niceia I (325)",
-        "Missal Romano"
-      ]
+        "Missal Romano",
+        "Metropolita Tarásios, \"Breve reflexão acerca do cálculo da data da celebração da Páscoa\" (ecclesia.org.br)"
+      ],
+      "atualizado_em": null,
+      "ordem": 9,
+      "cor_liturgica": null
     },
     {
       "id": "calendario-liturgico:ciclo-dominical-abc",
@@ -510,44 +538,55 @@
       "id": "calendario-liturgico:domingo-da-divina-misericordia",
       "slug": "domingo-da-divina-misericordia",
       "titulo": "Domingo da Divina Misericórdia",
+      "resumo": "O segundo domingo de Páscoa, dentro da Oitava Pascal, foi dedicado por João Paulo II à Divina Misericórdia pelo decreto Misericors et miserator (5 de maio de 2000), em resposta ao pedido registrado por Santa Faustina Kowalska; o dia recebeu depois uma indulgência plenária.",
+      "corpo": "Segundo o \"Diário\" da religiosa polonesa Santa Faustina Kowalska, na noite de 22 de fevereiro de 1931, em sua cela no convento de Płock, Cristo lhe apareceu vestido de branco, com dois raios — um vermelho e um pálido — saindo de seu peito, e lhe pediu que pintasse uma imagem com a inscrição \"Jesus, eu confio em Vós\", acrescentando que essa imagem deveria ser solenemente abençoada no primeiro domingo após a Páscoa, que seria a \"Festa da Misericórdia\" (Diário, nn. 47-49). A primeira Missa durante a qual a imagem foi exposta ocorreu em 28 de abril de 1935, o segundo domingo de Páscoa, coincidindo com o encerramento do Jubileu da Redenção proclamado por Pio XI.\n\nO pedido só se concretizou décadas depois. Em 1993, João Paulo II beatificou Faustina e, ao canonizá-la em 30 de abril de 2000 — segundo domingo de Páscoa daquele Ano Jubilar —, anunciou que o segundo domingo de Páscoa passaria a ser dedicado de modo especial à Divina Misericórdia. Poucos dias depois, em 5 de maio de 2000, a Congregação para o Culto Divino e a Disciplina dos Sacramentos publicou o decreto Misericors et miserator, assinado pelo prefeito cardeal Jorge Medina Estévez e pelo secretário dom Francesco Pio Tamburrino, dando ao dia o nome oficial de \"Domingo da Divina Misericórdia\" e determinando sua observância em toda a Igreja.\n\nEm 29 de junho de 2002, a Penitenciária Apostólica publicou novo decreto anexando ao dia uma indulgência plenária, sob as condições habituais (confissão, comunhão e oração nas intenções do papa), pedindo além disso que o fiel, diante de uma imagem devota de Cristo Misericordioso, recite o Pai-Nosso e o Credo e faça uma invocação à misericórdia, como \"Jesus, eu confio em Vós\". O mesmo documento prevê, para os enfermos e para quem não pode ir à igreja, a possibilidade de obter a indulgência unindo-se espiritualmente à celebração.\n\nO dia já está compreendido dentro da Oitava Pascal, celebrada com o mesmo grau solene de \"Domingo de Páscoa\" durante toda a semana, mas ganhou textos próprios de Missa e alimentou uma devoção popular extensa, centrada na imagem de Jesus Misericordioso e na coroa (ou terço) da Divina Misericórdia, cujas orações Faustina registrou a partir de setembro de 1935, precedida de uma novena que começa na Sexta-feira Santa. Tornou-se uma das celebrações mais vivas do calendário contemporâneo.",
       "categoria": "calendario-liturgico",
-      "resumo": "O segundo domingo de Páscoa, dentro da Oitava Pascal, foi dedicado por João Paulo II, em 2000, à Divina Misericórdia, atendendo a um pedido revelado a Santa Faustina Kowalska.",
-      "corpo": "Segundo o \"Diário\" da religiosa polonesa Santa Faustina Kowalska, Cristo lhe manifestou em 1931 o desejo de que o domingo seguinte à Páscoa fosse dedicado de modo especial à Divina Misericórdia. Ao canonizá-la, em 30 de abril de 2000 — também um Ano Jubilar —, o papa João Paulo II proclamou oficialmente esse dia, o segundo domingo de Páscoa, como \"Domingo da Divina Misericórdia\" para toda a Igreja, formalizando a devoção por decreto no ano seguinte.\n\nEmbora já esteja compreendido dentro da Oitava Pascal, celebrada com o mesmo grau solene de \"Domingo de Páscoa\" durante toda a semana, o Domingo da Divina Misericórdia ganhou textos próprios de Missa e alimentou uma devoção popular extensa, centrada na imagem de Jesus Misericordioso e na coroazinha da Divina Misericórdia, tornando-se uma das celebrações marianas e cristológicas mais vivas do calendário contemporâneo.",
       "tags": [
         "Divina Misericórdia",
         "Páscoa",
+        "Oitava Pascal",
         "Santa Faustina Kowalska",
-        "João Paulo II"
+        "João Paulo II",
+        "indulgência plenária"
       ],
-      "imagem": null,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kazimirowski_Eugeniusz%2C_Divine_Mercy%2C_1934.jpg",
       "imagem_credito": null,
-      "ordem": 22,
-      "cor_liturgica": "Branco",
       "fontes": [
-        "Via Crucis, \"Neste dia, em 2000, o Papa João Paulo II instituía o Domingo da Misericórdia Divina\"",
-        "YOUCAT, \"Domingo da Divina Misericórdia\""
-      ]
+        "Congregação para o Culto Divino e a Disciplina dos Sacramentos, decreto Misericors et miserator, 5 de maio de 2000",
+        "Penitenciária Apostólica, Decreto sobre as indulgências ligadas às devoções em honra da Divina Misericórdia, 29 de junho de 2002 (vatican.va)",
+        "Santa Faustina Kowalska, Diário, nn. 47-49 e 474-476",
+        "Santa Sé, homilia da canonização de Santa Faustina Kowalska, 30 de abril de 2000"
+      ],
+      "atualizado_em": null,
+      "ordem": 22,
+      "cor_liturgica": "Branco"
     },
     {
       "id": "calendario-liturgico:sagrado-coracao-de-jesus-solenidade",
       "slug": "sagrado-coracao-de-jesus-solenidade",
       "titulo": "Solenidade do Sagrado Coração de Jesus",
-      "categoria": "calendario-liturgico",
       "resumo": "Celebrada na sexta-feira seguinte à oitava de Corpus Christi, foi estendida a toda a Igreja pelo papa Pio IX em 1856, a partir das revelações a Santa Margarida Maria Alacoque.",
-      "corpo": "A devoção ao Sagrado Coração de Jesus tem raízes nas aparições vividas por Santa Margarida Maria Alacoque, religiosa da Visitação, entre 1673 e 1675, na França: Cristo lhe teria mostrado seu Coração, cercado de chamas de amor e coroado de espinhos, pedindo maior reparação e confiança de seus devotos. Em 1856, o papa Pio IX tornou obrigatória para toda a Igreja a festa do Sagrado Coração, elevando-a ao calendário universal.\n\nA solenidade é celebrada na sexta-feira seguinte à oitava de Corpus Christi — ou seja, a terceira sexta-feira depois de Pentecostes —, uma data móvel que pode cair entre o final de maio e o início de julho, conforme o ano da Páscoa. É seguida, no sábado imediato, pela memória do Imaculado Coração de Maria, unindo liturgicamente as duas devoções ao amor de Cristo e à cooperação de Maria na obra da salvação.",
+      "corpo": "A devoção ao Sagrado Coração de Jesus tem raízes nas experiências místicas vividas por Santa Margarida Maria Alacoque (1647-1690), religiosa da Visitação em Paray-le-Monial, na França, entre 1673 e 1675. A primeira grande revelação ocorreu em 27 de dezembro de 1673, festa de São João Evangelista, quando Cristo lhe fez repousar a cabeça sobre o peito e lhe mostrou o Coração abrasado de amor; em 1674, mostrou-se com o Coração radiante como sol, cercado de espinhos e encimado por uma cruz, pedindo reparação; e a mais célebre data de 16 de junho de 1675, durante a oitava de Corpus Christi, quando pediu que se instituísse uma festa dedicada ao seu Coração na sexta-feira seguinte à oitava do Santíssimo Sacramento. O confessor da religiosa, o jesuíta São Cláudio de la Colombière, reconheceu e validou a autenticidade dessas graças, e a devoção difundiu-se primeiro entre os mosteiros visitandinos e as dioceses francesas.\n\nEm 23 de agosto de 1856, por decreto da Sagrada Congregação dos Ritos, o papa Pio IX estendeu a festa do Sagrado Coração a toda a Igreja, inscrevendo-a no calendário universal. A solenidade é celebrada na sexta-feira seguinte à oitava de Corpus Christi — ou seja, a terceira sexta-feira depois de Pentecostes —, uma data móvel que pode cair entre o final de maio e o início de julho, conforme o ano da Páscoa.\n\nA festa foi precedida por um longo processo de reconhecimento: Margarida Maria foi beatificada por Pio IX em 1864 e canonizada por Bento XV em 13 de maio de 1920, a \"discípula do Sagrado Coração\". Práticas ligadas à devoção, como as Primeiras Sextas-Feiras e a Hora Santa, também remontam às revelações de Paray-le-Monial.\n\nNo sábado imediato à solenidade, a Igreja celebra a memória do Imaculado Coração de Maria, instituída pelo papa Pio XII em 4 de maio de 1944, em resposta aos pedidos atribuídos às aparições de Fátima (1917), unindo liturgicamente as duas devoções ao amor de Cristo e à cooperação de Maria na obra da salvação. No antigo calendário tridentino, essa memória era fixada em 22 de agosto, oitava da Assunção.",
+      "categoria": "calendario-liturgico",
       "tags": [
         "Sagrado Coração de Jesus",
         "Pio IX",
-        "Santa Margarida Maria Alacoque"
+        "Santa Margarida Maria Alacoque",
+        "Paray-le-Monial",
+        "Imaculado Coração de Maria",
+        "Corpus Christi"
       ],
-      "imagem": null,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Margareta_maria_alacoque.jpg",
       "imagem_credito": null,
-      "ordem": 23,
-      "cor_liturgica": "Branco",
       "fontes": [
+        "Aleteia, \"5 things to know about the Sacred Heart feast\" (decreto da Sagrada Congregação dos Ritos, 23 de agosto de 1856)",
+        "Vatican News, \"Sagrado Coração de Jesus\"",
         "CNBB, \"A Solenidade do Sagrado Coração de Jesus\"",
-        "Vatican News, \"Sagrado Coração de Jesus\""
-      ]
+        "Wikipédia, \"Imaculado Coração de Maria\" (instituição por Pio XII em 4 de maio de 1944)"
+      ],
+      "atualizado_em": null,
+      "ordem": 23,
+      "cor_liturgica": "Branco"
     },
     {
       "id": "calendario-liturgico:dias-santos-de-preceito",
@@ -596,23 +635,28 @@
       "id": "calendario-liturgico:calendario-ambrosiano",
       "slug": "calendario-ambrosiano",
       "titulo": "O Calendário Ambrosiano",
-      "categoria": "calendario-liturgico",
       "resumo": "A Arquidiocese de Milão segue, com aprovação da Igreja, um calendário e um rito litúrgico próprios, distintos do Rito Romano, entre outras diferenças, com um Advento de seis semanas.",
-      "corpo": "O Rito Ambrosiano, chamado assim em honra a Santo Ambrósio de Milão, é um rito litúrgico latino particular, próprio da Arquidiocese de Milão e de algumas áreas vizinhas, expressamente reconhecido e protegido pelo Concílio Vaticano II, que pediu que os ritos legitimamente diferentes do romano fossem respeitados, conservados e fomentados. Seu calendário próprio difere do romano em vários pontos, sendo o mais notado a duração do Advento: seis domingos, em vez de quatro, começando no domingo mais próximo de 12 de novembro — cerca de duas semanas antes do início do Advento romano.\n\nO sexto e último domingo do Advento ambrosiano é dedicado à solenidade da Maternidade Divina de Maria. A Semana Santa ambrosiana também segue uma sequência própria de dias e leituras, distinta da do Missal Romano, preservando uma das mais antigas tradições litúrgicas particulares ainda vivas dentro da Igreja latina.",
+      "corpo": "O Rito Ambrosiano, chamado assim em honra a Santo Ambrósio de Milão, é um rito litúrgico latino particular, próprio da Arquidiocese de Milão e de algumas áreas vizinhas, expressamente reconhecido e protegido pelo Concílio Vaticano II. Embora o nome remeta a Santo Ambrósio, bispo de Milão entre 374 e 397, o primeiro desenvolvimento do rito remonta ao episcopado de Santo Eusébio (449-462). Quando o papa Gregório I, no fim do século VI, reordenou e estendeu a liturgia romana a toda a Igreja latina, o rito ambrosiano conseguiu sobreviver à romanização, ao lado do rito mozarábico espanhol.\n\nSua legitimação definitiva veio com a bula Quo primum de Pio V (1570), que, ao impor o Missal Romano tridentino, abriu exceção às Igrejas que pudessem comprovar mais de duzentos anos de uso ininterrupto de um rito próprio — condição que Milão invocou com sucesso. Das antigas liturgias latinas não romanas, o ambrosiano é hoje a única empregada de modo comum e diário em seu território histórico e a única que foi reformada segundo as prescrições do Concílio Vaticano II. O arcebispo de Milão tem o título de \"chefe do rito\".\n\nSeu calendário próprio difere do romano em vários pontos, sendo o mais notado a duração do Advento: seis domingos, em vez de quatro, começando no domingo mais próximo de 12 de novembro — cerca de duas semanas antes do início do Advento romano. O sexto domingo é dedicado à solenidade da Divina Maternidade da Bem-aventurada Virgem Maria. Quando a Vigília de Natal cai num domingo, ela perde o caráter vigiliar e é celebrada com rito dominical, sob a designação de \"domingo prenatalício\".\n\nA Quaresma e a Semana Santa ambrosianas também seguem sequência própria de dias e leituras: o rito começa na chamada \"Quaresma autêntica\" apenas no primeiro domingo, precedida pelas férias \"após as cinzas\"; e a Semana Santa tem um ordenamento distinto do Missal Romano. Preserva assim uma das mais antigas tradições litúrgicas particulares ainda vivas dentro da Igreja latina.",
+      "categoria": "calendario-liturgico",
       "tags": [
         "rito ambrosiano",
         "Milão",
+        "Santo Ambrósio",
         "Advento",
-        "ritos litúrgicos"
+        "ritos litúrgicos",
+        "Concílio Vaticano II"
       ],
-      "imagem": null,
-      "imagem_credito": null,
-      "ordem": 26,
-      "cor_liturgica": null,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Milano_Basilica_di_Sant%27Ambrogio_Fassade_1.jpg",
+      "imagem_credito": "Fotografia de Zairon, CC BY-SA 4.0, via Wikimedia Commons",
       "fontes": [
-        "Secretariado Nacional de Liturgia (Portugal), Dicionário Litúrgico",
-        "Enciclopédia Católica Digital, \"Liturgia e Rito Ambrosiano\""
-      ]
+        "Secretariado Nacional de Liturgia (Portugal), Dicionário Litúrgico, verbete \"Ambrosiana (Liturgia)\"",
+        "Rito ambrosiano, Wikipedia (it), sobre Santo Eusébio, a bula Quo primum (1570) e a reforma pós-conciliar",
+        "Constituição Sacrosanctum Concilium do Concílio Vaticano II, n. 4",
+        "Cathopedia, Rito Ambrosiano, sobre o Advento e o Lezionário"
+      ],
+      "atualizado_em": null,
+      "ordem": 26,
+      "cor_liturgica": null
     },
     {
       "id": "calendario-liturgico:semana-de-oracao-pela-unidade-dos-cristaos",
@@ -640,66 +684,86 @@
       "id": "calendario-liturgico:domund-dia-mundial-das-missoes",
       "slug": "domund-dia-mundial-das-missoes",
       "titulo": "DOMUND — Dia Mundial das Missões",
-      "categoria": "calendario-liturgico",
       "resumo": "Celebrado no penúltimo domingo de outubro desde 1926, é um dia de oração e coleta em favor da evangelização dos povos, instituído pelo papa Pio XI.",
-      "corpo": "Em fevereiro de 1926, o papa Pio XI publicou a encíclica \"Rerum Ecclesiae\", reafirmando a urgência dos objetivos missionários de seu pontificado; poucos meses depois, em 14 de abril de 1926, um decreto da Sagrada Congregação dos Ritos instituiu oficialmente o penúltimo domingo de outubro como Jornada Mundial das Missões, dia dedicado à oração e às ofertas em favor da evangelização dos povos.\n\nPopularmente conhecido pela sigla de origem espanhola DOMUND (\"Domingo Mundial de las Misiones\"), o dia se insere no chamado \"Mês Missionário\", em outubro, e suas coletas são redistribuídas em todo o mundo pelas Pontifícias Obras Missionárias para sustentar a atividade evangelizadora em territórios que ainda dependem de ajuda externa — uma expressão concreta da corresponsabilidade de toda a Igreja pela missão universal.",
+      "corpo": "Em 28 de fevereiro de 1926, o papa Pio XI publicou a encíclica \"Rerum Ecclesiae\", reafirmando o dever missionário de todos os fiéis e dando continuidade à carta apostólica \"Maximum illud\" (1919) de Bento XV, que busca purificar a missão de influências colonialistas. Pouco depois, em 14 de abril de 1926, um decreto da Sagrada Congregação dos Ritos instituiu oficialmente o penúltimo domingo de outubro como Jornada Mundial das Missões, dia dedicado à oração e às ofertas em favor da evangelização dos povos. O decreto foi publicado no Acta Apostolicae Sedis (AAS 19, 1927, p. 23s).\n\nPopularmente conhecido pela sigla de origem espanhola DOMUND (\"Domingo Mundial de las Misiones\"), o dia se insere no chamado \"Mês Missionário\", em outubro, e suas coletas são redistribuídas em todo o mundo pelas Pontifícias Obras Missionárias para sustentar a atividade evangelizadora em territórios que ainda dependem de ajuda externa.\n\nAs coletas alimentam o Fundo Mundial de Solidariedade, que apoia cerca de um milhar de dioceses pobres nos territórios de missão, distribuindo recursos para projetos na África, Ásia, Oceania e América Latina. A coleta expressa a corresponsabilidade de toda a Igreja pela missão universal, conforme o princípio de que a missão pertence à própria natureza da Igreja.\n\nO Dia Mundial das Missões vincula-se historicamente à Obra da Propagação da Fé, fundada em Lyon, em 3 de maio de 1822, pela leiga francesa Pauline-Marie Jaricot (1799-1862), reconhecida por Pio VII e depois reunida, com outras três obras, na família das Pontifícias Obras Missionárias. Uma das marcas do Dia é a mensagem anual que o Papa dirige à Igreja, normalmente assinada e divulgada no início do ano: a de 2025, por exemplo, teve como tema \"Missionários da esperança entre os povos\", em sintonia com o Ano Jubilar.",
+      "categoria": "calendario-liturgico",
       "tags": [
         "DOMUND",
         "missões",
         "Pio XI",
-        "evangelização"
+        "evangelização",
+        "Pontifícias Obras Missionárias",
+        "Pauline Jaricot"
       ],
       "imagem": null,
       "imagem_credito": null,
-      "ordem": 28,
-      "cor_liturgica": null,
       "fontes": [
-        "Wikipédia, \"Dia Mundial das Missões\"",
-        "Pontifícias Obras Missionárias, \"Artigo: centenário do decreto que deu vida ao Dia Mundial das Missões\""
-      ]
+        "Pio XI, encíclica Rerum Ecclesiae, 28 de fevereiro de 1926 (vatican.va)",
+        "Decreto da Sagrada Congregação dos Ritos, 14 de abril de 1926, in AAS 19 (1927), p. 23s",
+        "Pontifícias Obras Missionárias, \"Artigo: centenário do decreto que deu vida ao Dia Mundial das Missões\"",
+        "Vatican News, \"Papa ao Dia Mundial das Missões: mensageiros e construtores da esperança\", 2025"
+      ],
+      "atualizado_em": null,
+      "ordem": 28,
+      "cor_liturgica": null
     },
     {
       "id": "calendario-liturgico:natividade-de-sao-joao-batista",
       "slug": "natividade-de-sao-joao-batista",
       "titulo": "Natividade de São João Batista",
+      "resumo": "Solenidade celebrada em 24 de junho, é uma das únicas três natividades do calendário romano — ao lado do Natal e do nascimento de Maria (8 de setembro) —, fixada seis meses antes do Natal a partir do relato de Lucas 1,36.",
+      "corpo": "O calendário litúrgico costuma comemorar os santos na data de sua morte, seu verdadeiro \"nascimento\" para o Céu, mas abre uma exceção rara para apenas três nascimentos terrenos: o de Jesus (Natal), o de Maria (8 de setembro) e o de João Batista, celebrado como solenidade em 24 de junho. No caso de João há ainda outra distinção: além do nascimento, a Igreja celebra também o seu martírio, em 29 de agosto — privilégio que, entre os santos, só compartilha com a Virgem Maria (Natividade e Assunção). O próprio Cristo sublinha a grandeza do Precursor: \"Em verdade vos digo que entre os nascidos de mulher não há ninguém maior do que João Batista\" (Mt 11,11).\n\nA festa é uma das mais antigas da Igreja: já no século IV havia celebrações litúrgicas de João Batista em datas diversas, e o Concílio de Agde, na Gália, em 506, listou a Natividade entre as principais festividades da região — dia de repouso, em que se devia assistir à Missa e abster-se de trabalhos servis. Tamanha era sua categoria que, à semelhança do Natal, celebravam-se três Missas: uma na vigília, outra ao amanhecer e uma terceira pela manhã, associadas respectivamente ao título de Precursor, ao batismo que ele conferiu e à sua santidade. Há notícia ainda de que um sínodo em Seligenstadt, na Alemanha, em 1022, prescreveu um jejum e abstinência de catorze dias em preparação à festa — prática que, no entanto, nunca foi acolhida pelo uso universal romano. Em 1642, ao reorganizar os dias de preceito, o Papa Urbano VIII manteve a Natividade de São João Batista entre as festas de obrigação. A vigília da festa é atestada desde o século VI.\n\nA data curiosa — 24, e não 25 de junho — vem do antigo sistema romano de contagem regressiva de dias a partir das calendas do mês seguinte: como junho tem apenas 30 dias, o oitavo dia antes das calendas de julho (\"octavo Kalendas Iulii\") cai em 24, e não em 25. O dia foi escolhido por cair exatamente seis meses antes do Natal e três meses depois da Anunciação (25 de março), refletindo o relato do Evangelho de Lucas segundo o qual Isabel, prima de Maria, já estava \"no sexto mês\" quando o anjo Gabriel anunciou a concepção de Jesus (Lc 1,36). É frequente a leitura de que a Igreja teria cristianizado a festa pagã do solstício de verão no hemisfério norte, deslocando para o Precursor as celebrações do solstício — embora a explicação litúrgica se apoie primariamente na cronologia de Lucas. Em todo caso, o simbolismo do solstício foi assumido pelos Padres: Santo Agostinho, em seu sermão para o nascimento de João Batista, observa que \"João nasce quando o dia começa a diminuir; Cristo, quando o dia começa a crescer\", aplicando ao Precursor as próprias palavras de João: \"É necessário que ele cresça e que eu diminua\" (Jo 3,30).\n\nA solenidade tem precedência muito alta no calendário. Quando o 24 de junho coincide com a solenidade do Sagrado Coração de Jesus, a Natividade de João cede lugar e é transferida: na forma ordinária do rito romano, para o dia 23 de junho (caso em que a vigília se antecipa ao dia 22); na forma extraordinária (Missal de 1962), para o dia 25. O branco é a cor própria da celebração. A festa é mantida também pela Igreja Ortodoxa e demais Igrejas orientais, onde João é invocado sob o título de \"Forerunner\" (Pródomos, o Precursor) e a natividade é celebrada com uma vigília de toda a noite e um dia de oitava subsequente (Afterfeast).",
       "categoria": "calendario-liturgico",
-      "resumo": "O calendário romano celebra apenas três nascimentos como solenidades — o de Jesus, o de Maria e o de João Batista —, este último em 24 de junho, seis meses antes do Natal.",
-      "corpo": "O calendário litúrgico costuma comemorar os santos na data de sua morte, seu verdadeiro \"nascimento\" para o Céu, mas abre uma exceção rara para apenas três nascimentos terrenos: o de Jesus (Natal), o de Maria (8 de setembro) e o de João Batista, celebrado como solenidade em 24 de junho desde a reforma do calendário romano de 1970. A data curiosa — 24, e não 25 de junho — vem do antigo sistema romano de contagem regressiva de dias a partir das calendas do mês seguinte: como junho tem apenas 30 dias, o oitavo dia antes das calendas de julho cai em 24, e não em 25.\n\nA data foi escolhida porque cai exatamente seis meses antes do Natal e três meses depois da Anunciação (25 de março), refletindo o relato do Evangelho de Lucas segundo o qual João Batista foi concebido seis meses antes de Jesus — um arranjo do calendário que espelha, no tempo, a relação entre o Precursor e o Messias que ele viria a anunciar.",
       "tags": [
         "São João Batista",
         "solenidade",
-        "calendário litúrgico"
+        "calendário litúrgico",
+        "24 de junho",
+        "Natal",
+        "Precursor",
+        "solstício",
+        "Concílio de Agde"
       ],
-      "imagem": null,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Stjohn-nativity.jpg",
       "imagem_credito": null,
-      "ordem": 29,
-      "cor_liturgica": "Branco",
       "fontes": [
-        "Wikipédia, \"Natividade de São João Baptista\"",
-        "Padre Paulo Ricardo, \"São João, uma das festas mais antigas da Igreja\""
-      ]
+        "Concílio de Agde (506), citado em Wikipédia, \"Nativity of John the Baptist\"",
+        "Vatican News, \"Natividade de São João Batista\" (feriados litúrgicos)",
+        "Santo Agostinho, Sermão para o nascimento de João Batista (comentário de Jo 3,30)",
+        "The Fatima Center, \"The Feast and Fast in Honor of St. John the Baptist\" (Concílio de Agde, 506; Sínodo de Seligenstadt, 1022; Urbano VIII, 1642)",
+        "Cardeal Orani Tempesta, \"Natividade de São João Batista\", Vatican News",
+        "Aleteia, \"Por que a Igreja celebra a Natividade de São João em 23 de junho\" (transferência por causa do Sagrado Coração)"
+      ],
+      "atualizado_em": null,
+      "ordem": 29,
+      "cor_liturgica": "Branco"
     },
     {
       "id": "calendario-liturgico:todos-os-santos-e-fieis-defuntos",
       "slug": "todos-os-santos-e-fieis-defuntos",
       "titulo": "Todos os Santos e a Comemoração dos Fiéis Defuntos (1 e 2 de novembro)",
-      "categoria": "calendario-liturgico",
       "resumo": "Dois dias consecutivos que fecham o círculo da comunhão dos santos: a solenidade de Todos os Santos, dia de preceito, seguida da comemoração de todos os fiéis que já morreram.",
-      "corpo": "Em 1º de novembro, a solenidade de Todos os Santos — dia de preceito segundo o cânon 1246 — celebra a totalidade dos redimidos que já gozam da visão de Deus, conhecidos ou não pelo calendário oficial, canonizados ou não. A festa tem origem numa antiga celebração romana de \"Todos os Mártires\" do século IV, ampliada e fixada em 1º de novembro no Ocidente pelo papa Gregório IV, no século IX.\n\nNo dia seguinte, 2 de novembro, a Igreja celebra a Comemoração de Todos os Fiéis Defuntos — o \"Dia de Finados\" —, rezando pelas almas que ainda purificam sua união com Deus no Purgatório, prática popularizada a partir do século XI por Santo Odilão de Cluny para os mosteiros beneditinos e depois adotada por toda a Igreja latina. Juntos, os dois dias expressam a doutrina da comunhão dos santos entre a Igreja triunfante, a purgante e a peregrina; no Brasil, 2 de novembro é também feriado nacional.",
+      "corpo": "Em 1º de novembro, a solenidade de Todos os Santos — dia de preceito segundo o cânon 1246 do Código de Direito Canônico — celebra a totalidade dos redimidos que já gozam da visão de Deus, conhecidos ou não pelo calendário oficial, canonizados ou não. A festa tem raiz antiga: no século IV havia em Roma uma celebração de \"Todos os Mártires\", e no século VIII o papa Gregório III dedicou à memória de todos os santos uma capela da Basílica de São Pedro, fixando a data de 1º de novembro. Foi o papa Gregório IV quem, em 835, estendeu a festa a toda a Igreja universal. As Igrejas do Oriente, católicas e ortodoxas, celebram Todos os Santos no primeiro domingo após o Pentecostes, encerrando simbolicamente o tempo pascal.\n\nNo dia seguinte, 2 de novembro, a Igreja celebra a Comemoração de Todos os Fiéis Defuntos — o \"Dia de Finados\" —, rezando pelas almas que ainda purificam sua união com Deus no Purgatório. A data resultou de uma iniciativa monástica: em 998, Santo Odilão (c. 962-1048/49), quinto abade de Cluny, instituiu em todos os mosteiros dependentes de sua abadia um dia anual de oração, jejum e Missa pelos defuntos, fixado em 2 de novembro, imediatamente após a festa dos bem-aventurados, para unir o triunfo dos santos à purificação dos que ainda esperam a visão de Deus. O costume espalhou-se rapidamente pela Europa cristã e acabou adotado por toda a Igreja latina.\n\nJuntos, os dois dias expressam a doutrina da comunhão dos santos entre a Igreja triunfante (no céu), a purgante (em purificação) e a peregrina (na terra), definida no Catecismo da Igreja Católica (nn. 954-959). A proximidade das datas reforça essa unidade: a véspera celebra quem já chegou à glória; o dia seguinte, quem ainda caminha para ela. No Brasil, 2 de novembro é feriado nacional e é costumeiro visitar cemitérios, levar flores e acender velas; a piedade popular mantém também práticas próprias, como a celebração de Todos os Santos em Monte Santo (Bahia).",
+      "categoria": "calendario-liturgico",
       "tags": [
         "Todos os Santos",
         "Fiéis Defuntos",
+        "Dia de Finados",
         "comunhão dos santos",
+        "Purgatório",
         "novembro"
       ],
-      "imagem": null,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/All-Saints.jpg",
       "imagem_credito": null,
-      "ordem": 30,
-      "cor_liturgica": "Branco (1º de novembro); roxo ou preto facultativo (2 de novembro)",
       "fontes": [
-        "Missal Romano",
-        "Catecismo da Igreja Católica, n. 954-959"
-      ]
+        "Missal Romano, Comemoração de Todos os Fiéis Defuntos (2 de novembro)",
+        "Catecismo da Igreja Católica, nn. 954-959",
+        "Código de Direito Canônico, cânon 1246 §1",
+        "Dia de Todos os Santos, Wikipédia (pt), sobre Gregório III, Gregório IV (835) e a fixação de 2 de novembro"
+      ],
+      "atualizado_em": null,
+      "ordem": 30,
+      "cor_liturgica": "Branco (1º de novembro); roxo ou preto facultativo (2 de novembro)"
     }
   ]
 }
