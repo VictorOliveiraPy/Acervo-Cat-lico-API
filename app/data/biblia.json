@@ -329,25 +329,38 @@
       "id": "biblia:1-cronicas",
       "slug": "1-cronicas",
       "titulo": "1 Crônicas",
+      "resumo": "Genealogias de Adão ao pós-exílio e uma releitura litúrgica do reinado de Davi, centrada no Templo e no culto — obra do Cronista escrita na era persa, final do Antigo Testamento hebraico.",
+      "corpo": "1 Crônicas integra, com 2 Crônicas, uma única obra hebraica intitulada דִּבְרֵי הַיָּמִים (dibre hayyamim, \"palavras/atos dos dias\"), dividida em dois livros pelos tradutores da Septuaginta, que a chamaram de Paraleipomena (\"coisas omitidas\"), por julgar que reunia o que faltava nos livros de Samuel e Reis. Jerônimo, ao verter a obra para o latim, preferiu o título \"Chronicon\" — a \"crônica de toda a história sagrada\" —, e é daí que vem o nome usado nas Bíblias cristãs. Na Bíblia hebraica, Crônicas é o livro que encerra o cânon, fechando a terceira seção, os Ketuvim (\"Escritos\"). O primeiro livro abrange 29 capítulos, divididos entre uma vasta seção genealógica (capítulos 1 a 9) e o relato do reinado de Davi (capítulos 10 a 29).\n\nA primeira parte percorre, em mais de seiscentos nomes, uma genealogia que vai de Adão, passa pelas nações e pelos patriarcas e chega às doze tribos, detendo-se com particular atenção em Judá (linhagem davídica) e em Levi (sacerdotes e levitas). Essa genealogia não é mero arrolamento: para a comunidade que voltara do exílio babilônico, ela reconstituía a identidade e comprovava a continuidade das promessas feitas a Abraão e a Davi, além de legitimar a distribuição das terras e a organização do serviço do Templo — pois só os levitas e seus descendentes tinham direito aos dízimos e primícias.\n\nA segunda parte relê o reinado de Davi a partir de 1 Samuel e 2 Samuel, mas com acentuada mudança de perspectiva. O Cronista idealiza o rei: omite os episódios mais sombrios de 2 Samuel — o adultério com Betsabé e o assassinato de Urias (2 Sm 11–12) e a rebelião de Absalão — e também o luto de Davi por Saul, substituído pela explicação teológica da queda do primeiro rei (1 Cr 10). Em troca, dedica amplo espaço aos preparativos de Davi para a construção do Templo, à organização dos sacerdotes, levitas e cantores (capítulos 23 a 26) e à solene trasladação da Arca a Jerusalém (capítulos 13 a 16). Detalhe exclusivo e de grande peso teológico é a narrativa do censo: em 2 Samuel 24 é a ira do Senhor que incita Davi a numerar o povo, mas no Cronista é Satanás quem o provoca (1 Cr 21,1) — o primeiro emprego do termo como nome próprio no Antigo Testamento.\n\nA obra não substitui Samuel e Reis; oferece uma \"segunda epopeia nacional\" que atualiza a história para os judeus da era persa. Sua teologia difere da do deuteronomista: em lugar da retribuição coletiva, cada geração responde pela própria justiça ou pelo próprio pecado, doutrina da responsabilidade individual que o Cronista partilha com os profetas do exílio, sobretudo Ezequiel. Por isso, os estudiosos modernos — sem desprezar a antiga atribuição a Esdras — designam o autor anônimo simplesmente como \"o Cronista\". A datação não é certa: a maioria situa a composição entre os dias de Zorobabel e depois dos ministérios de Esdras e Neemias (c. 515–400 a.C.); alguns propõem o período entre 400 e 250 a.C., tomando por base a genealogia de 1 Cr 3,17-24, que se estende por várias gerações após Zorobabel. O livro é reconhecido como canônico pela Igreja e figura no cânon católico como livro histórico do Antigo Testamento; convém notar que nunca é citado diretamente no Novo Testamento.",
       "categoria": "biblia",
-      "resumo": "Extensas genealogias de Israel e uma releitura teológica do reinado de Davi, com ênfase no culto e no Templo.",
-      "corpo": "Abre com longas listas genealógicas desde Adão até o retorno do exílio, e depois releem o reinado de Davi sob uma perspectiva marcadamente litúrgica e sacerdotal, valorizando sobretudo seus preparativos para a construção do Templo — perspectiva teológica diferente, mas complementar, à de 2 Samuel.",
       "tags": [
         "Bíblia",
-        "Antigo Testamento"
+        "Antigo Testamento",
+        "Crônicas",
+        "Cronista",
+        "Davi",
+        "Templo de Jerusalém",
+        "pós-exílio",
+        "genealogias",
+        "era persa"
       ],
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Codex_Sinaiticus_Paralipomenon_9%2C27-10%2C11.JPG",
       "imagem_credito": null,
+      "fontes": [
+        "Bíblia de Jerusalém, introdução a 1–2 Crônicas",
+        "Catecismo da Igreja Católica, nn. 101-141 (a Sagrada Escritura)",
+        "Wikipedia (en), \"Books of Chronicles\"",
+        "Society for Old Testament Study (SOTS), verbete \"Chronicles\"",
+        "1 Crônicas 3,17-24; 10; 21,1",
+        "2 Samuel 11–12; 24",
+        "Codex Sinaiticus, fac-símile de Tischendorf (1862)"
+      ],
+      "atualizado_em": null,
       "ordem": 13,
       "testamento": "antigo",
       "genero_literario": "Narrativa histórica/genealógica",
       "autor_tradicional": "Tradição do Cronista",
       "data_composicao": "século IV a.C.",
-      "deuterocanonico": false,
-      "fontes": [
-        "Bíblia de Jerusalém",
-        "Catecismo da Igreja Católica, nn. 101-141 (a Sagrada Escritura)"
-      ]
+      "deuterocanonico": false
     },
     {
       "id": "biblia:2-cronicas",
@@ -401,25 +414,34 @@
       "id": "biblia:neemias",
       "slug": "neemias",
       "titulo": "Neemias",
+      "resumo": "As memórias do copeiro de Artaxerxes que se torna governador de Jerusalém, reconstrói os muros em 52 dias e promove a reforma religiosa e social da comunidade pós-exílica.",
+      "corpo": "Neemias pertence ao conjunto dos livros históricos do Antigo Testamento e se situa no período do domínio persa aquemênida sobre a Judeia, após o retorno do exílio babilônico. Neemias era copeiro (ou taçoeiro) do rei persa Artaxerxes I, cargo de confiança na corte de Susa; ao saber da miséria dos judeus repatriados e do estado arruinado de Jerusalém, jejua e ora. No vigésimo ano do rei — situado pelos estudiosos em 445/444 a.C. — obtém autorização real, cartas para os governadores a oeste do Eufrates e madeira para as portas da cidade e para a fortaleza vizinha do Templo (Ne 1–2).\n\nA obra é narrada em grande parte na primeira pessoa, no gênero dos \"memoriais\" ou memórias de Neemias (Ne 1,1–7,5; 12,27–43; 13,4–31). Chegando a Jerusalém, Neemias inspeciona os muros à noite e convoca o povo à reconstrução, que é descrita trecho por trecho no capítulo 3, com a lista das famílias e grupos responsáveis por cada segmento. Enfrenta a oposição de vizinhos hostis — Sambalate, o horonita, governador de Samaria; Tobias, o amonita; e Gesém, o árabe —, que zombam, conspiram e tentam intimidá-lo, enquanto os construtores trabalham com a espada à cinta. Segundo Ne 6,15, os muros ficam prontos em cinquenta e dois dias.\n\nAlém da reconstrução material, Neemias atua como reformador. No capítulo 5 enfrenta a crise social dos judeus endividados: nobres e magistrados cobravam juros (usura) dos próprios irmãos, levando muitos à escravidão por dívidas; Neemias os repreende publicamente, convoca uma assembleia e exige a restituição dos campos, das vinhas e do dinheiro. No capítulo 8, ao lado do sacerdote e escriba Esdras, preside a leitura pública da Lei de Moisés na praça diante da Porta das Águas, com os levitas explicando o sentido do texto ao povo — cena frequentemente apontada como raiz da liturgia da Palavra.\n\nQuestões históricas permanecem debatidas. A cronologia tradicional faz Esdras chegar ao sétimo ano de Artaxerxes I (458 a.C.) e Neemias treze anos depois, em 445; alguns intérpretes, porém, situam Esdras sob Artaxerxes II (c. 398 a.C.), invertendo a ordem, enquanto outro grupo defende que os dois foram contemporâneos. Por isso, a datação do livro é apresentada de modo aproximado, em torno do século V a.C.",
       "categoria": "biblia",
-      "resumo": "As memórias de Neemias, governador judeu que reconstrói os muros de Jerusalém e reorganiza a comunidade pós-exílica.",
-      "corpo": "Escrito em boa parte na primeira pessoa, narra a missão de Neemias, copeiro do rei persa que se torna governador de Jerusalém, reconstrói os muros da cidade apesar da oposição de vizinhos hostis, e trabalha ao lado de Esdras na reorganização religiosa e social da comunidade judaica restaurada.",
       "tags": [
         "Bíblia",
-        "Antigo Testamento"
+        "Antigo Testamento",
+        "Neemias",
+        "Esdras",
+        "pós-exílio",
+        "Artaxerxes",
+        "muros de Jerusalém",
+        "século V a.C."
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Prophet_nehemiah.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "Bíblia de Jerusalém",
+        "Bíblia Sagrada — Livro de Neemias, caps. 1–2; 5; 6,15; 8",
+        "B. S. Childs / introduções ao Antigo Testamento sobre Esdras e Neemias",
+        "Catecismo da Igreja Católica, nn. 101–141 (a Sagrada Escritura)"
+      ],
+      "atualizado_em": null,
       "ordem": 16,
       "testamento": "antigo",
       "genero_literario": "Narrativa histórica (memórias)",
       "autor_tradicional": "Atribuído a Neemias",
       "data_composicao": "século V a.C.",
-      "deuterocanonico": false,
-      "fontes": [
-        "Bíblia de Jerusalém",
-        "Catecismo da Igreja Católica, nn. 101-141 (a Sagrada Escritura)"
-      ]
+      "deuterocanonico": false
     },
     {
       "id": "biblia:tobias",
@@ -791,26 +813,38 @@
       "id": "biblia:baruc",
       "slug": "baruc",
       "titulo": "Baruc",
+      "resumo": "Coletânea deuterocanônica de oração penitencial, poema sapiencial e palavras de consolação a Jerusalém, atribuída ao secretário do profeta Jeremias, e que traz como capítulo final a Carta de Jeremias contra a idolatria.",
+      "corpo": "O Livro de Baruc é um dos livros deuterocanônicos do Antigo Testamento, ausente do cânon hebraico mas presente na Septuaginta grega e na Vulgata latina, e aceito como inspirado pela Igreja Católica. Seu nome deriva de Baruc, filho de Nerias, o escriba e secretário do profeta Jeremias, que aparece cerca de vinte e três vezes no Livro de Jeremias (cf. Jr 32; 36; 43; 45). O prólogo (1,1-14) situa a obra \"no quinto ano, aos sete do mês, quando os caldeus tomaram e incendiaram Jerusalém\", apresentando Baruc a ler o livro aos exilados na Babilônia, junto ao rio Sud, e a enviar o texto e uma coleta de dinheiro a Jerusalém para que fosse lido no Templo nas festas.\n\nQuanto à estrutura, os estudiosos costumam distinguir quatro partes: a introdução narrativa (1,1-14); uma oração de confissão e penitência em nome do povo exilado (1,15-3,8); um poema sapiencial que identifica a Sabedoria com a Lei de Deus (3,9-4,4); e um poema de consolação e encorajamento dirigido a Jerusalém (4,5-5,9). A crítica moderna é praticamente unânime em rejeitar tanto Baruc quanto Jeremias como autores do conjunto e em datar a redação final fora do período do exílio babilônico, propondo o século II a.C. (por volta de 200-100 a.C.), com paralelos temáticos e linguísticos no Livro de Daniel e no Eclesiástico. A obra chegou-nos em grego, provavelmente traduzida de um original hebraico perdido, embora parte do texto possa ter sido composta diretamente em grego.\n\nA chamada \"Carta de Jeremias\" figura como capítulo 6 do livro: trata-se de um discurso apologético contra a idolatria, que retoma e desenvolve temas de Isaías 44 e Jeremias 10. Na Septuaginta e nas Bíblias ortodoxas, a Carta costuma aparecer como obra separada; foi a Vulgata latina que a reuniu ao Livro de Baruc, recebendo a numeração de capítulo 6 a partir do século XIII. São Jerônimo, embora tivesse reservas — por não dispor de texto hebraico, relutava em contar o livro entre os canônicos —, acabou por incluí-lo na Vulgata. Padres como Atanásio de Alexandria e Cirilo de Jerusalém já o listavam como canônico, unido a Jeremias e Lamentações, e o Sínodo de Laodiceia (século IV) o menciona no mesmo conjunto. A canonicidade foi solenemente confirmada pelo Concílio de Trento (1546), que fixou o elenco dos livros deuterocanônicos.\n\nNa liturgia católica, o livro tem presença marcante: Baruc 3,9-15.32-4,4 é a Sexta Leitura da Vigília Pascal, e Baruc 5,1-9 serve de primeira leitura no Segundo Domingo do Advento do Ano C, quando Jerusalém é convidada a depor o luto e revestir-se da glória de Deus. O livro não é citado explicitamente no Novo Testamento, mas a ele se atribuem ressonâncias em passagens como a encarnação da Sabedoria e a exortação a andar nos caminhos da vida.",
       "categoria": "biblia",
-      "resumo": "Coletânea de orações, poemas sapienciais e uma carta contra a idolatria, atribuída ao secretário do profeta Jeremias.",
-      "corpo": "Atribuído a Baruc, o escriba e secretário de Jeremias, reúne uma oração penitencial em nome dos exilados, um poema em louvor à Sabedoria identificada com a Lei, e palavras de consolação a Jerusalém; inclui como capítulo final a \"Carta de Jeremias\", advertência satírica contra a idolatria.",
       "tags": [
         "Bíblia",
         "Antigo Testamento",
-        "deuterocanônico"
+        "deuterocanônico",
+        "Baruc",
+        "profetas",
+        "Carta de Jeremias",
+        "exílio babilônico",
+        "Septuaginta",
+        "Vulgata",
+        "Vigília Pascal"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/BarucProfeta.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "Bíblia de Jerusalém, introdução ao Livro de Baruc",
+        "Concílio de Trento (1546), Decretum de libris sacris et de traditionibus recipiendis",
+        "Concílio Vaticano II, Constituição Dogmática Dei Verbum, cap. IV (1965)",
+        "Society for Old Testament Study, verbete \"Baruch\"",
+        "International Standard Bible Encyclopedia, verbete \"Baruch, Book of\"",
+        "Missal Romano, Sexta Leitura da Vigília Pascal (Bar 3,9-15.32-4,4)"
+      ],
+      "atualizado_em": null,
       "ordem": 32,
       "testamento": "antigo",
       "genero_literario": "Profético/sapiencial",
       "autor_tradicional": "Atribuído a Baruc, secretário de Jeremias",
       "data_composicao": "século II a.C. (composição final)",
-      "deuterocanonico": true,
-      "fontes": [
-        "Bíblia de Jerusalém",
-        "Catecismo da Igreja Católica, nn. 101-141 (a Sagrada Escritura)"
-      ]
+      "deuterocanonico": true
     },
     {
       "id": "biblia:ezequiel",
@@ -936,25 +970,36 @@
       "id": "biblia:abdias",
       "slug": "abdias",
       "titulo": "Abdias",
+      "resumo": "O mais curto livro do Antigo Testamento (21 versículos): o oráculo contra Edom por sua hostilidade a Judá na queda de Jerusalém, e o anúncio do Dia do Senhor.",
+      "corpo": "O Livro de Abdias é o mais breve do Antigo Testamento: um único capítulo de 21 versículos, com cerca de 440 palavras no original hebraico. Seu nome é teofórico e significa \"servo do Senhor\" (em hebraico, ʿOvadyah); a forma latina \"Abdias\" vem da Vulgata, e a Septuaginta o chama Obdios. Na ordem do cânon hebraico e da Vulgata, figura entre os Doze Profetas Menores. Nada se sabe com segurança sobre a pessoa do profeta: as Escrituras não dão o nome de seu pai nem qualquer dado biográfico, e as identificações propostas com outros personagens de nome Abdias (como o mordomo do rei Acabe em 1 Rs 18,3) são conjecturas.\n\nO tema central é o julgamento de Edom, povo vizinho e aparentado de Israel, descendente de Esaú, irmão de Jacó. O oráculo condena os edomitas por sua atitude hostil ou indiferente durante a queda de Jerusalém: por terem assistido à desgraça do \"irmão\" Judá, saqueado a cidade e cortado a fuga dos sobreviventes, o castigo divino os atingirá apesar de sua confiança no terreno montanhoso e de seu orgulho (Ob 1–14). A segunda parte anuncia o \"Dia do Senhor\" sobre todas as nações, a restauração de Israel e o juízo de Deus sobre os orgulhosos (Ob 15–21). O oráculo de Abdias tem paralelos evidentes com o de Jeremias contra Edom (Jr 49).\n\nA datação é disputada. A maioria dos estudiosos situa o livro logo após a destruição de Jerusalém por Nabucodonosor, em 587/586 a.C., contexto que melhor explica a acusação de cumplicidade edomita. Outros, porém, defendem que o texto descreve o ataque anterior a Jerusalém no reinado de Jeorão (c. 848–841 a.C.), narrado em 2 Reis 8,20-22 e 2 Crônicas 21, o que faria de Abdias um dos primeiros profetas; há ainda quem veja no escrito uma redação posterior, elaborada nos conflitos entre a província de Judá e os edomitas nos séculos V e IV a.C. Antônio Salmerón e outros comentaristas antigos notavam a brevidade do texto; são Jerônimo resumiu a dificuldade dizendo que, \"quanto mais breve, mais difícil\".\n\nA profecia teve, para a tradição, cumprimento histórico notável. Segundo Josefo (Antiguidades 13,256), o sumo sacerdote e príncipe hasmoneu João Hircano subjugou os idumeus no fim do século II a.C. e os obrigou à circuncisão, integrando-os à Judeia. Mais tarde, os idumeus foram absorvidos pelo povo judeu; muitos comentaristas veem na perda de sua identidade nacional a realização do anúncio de que Edom desapareceria como povo, \"sem deixar vestígio\" (Ob 10.18). O Novo Testamento não cita Abdias diretamente.",
       "categoria": "biblia",
-      "resumo": "O mais curto livro do Antigo Testamento: um oráculo contra Edom por sua hostilidade a Judá na queda de Jerusalém.",
-      "corpo": "Com apenas 21 versículos, é o livro mais breve do Antigo Testamento. Consiste num único oráculo de condenação contra Edom, povo vizinho e aparentado de Israel, por sua atitude hostil ou indiferente durante a queda de Jerusalém, anunciando que o \"Dia do Senhor\" trará justiça sobre todas as nações.",
       "tags": [
         "Bíblia",
-        "Antigo Testamento"
+        "Antigo Testamento",
+        "Abdias",
+        "profetas menores",
+        "Edom",
+        "Esaú",
+        "Dia do Senhor",
+        "Jerusalém",
+        "século VI a.C."
       ],
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg",
-      "imagem_credito": "Foto: NYC Wanderer (Kevin Eng) — Wikimedia Commons, CC BY-SA 2.0",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/47/AbadiasProfeta.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Bíblia de Jerusalém",
+        "Livro de Abdias (Ob 1–21)",
+        "Josefo, Antiguidades Judaicas 13,256",
+        "Paulus Editora, \"42. Livro de Abdias\"",
+        "Catecismo da Igreja Católica, nn. 101–141 (a Sagrada Escritura)"
+      ],
+      "atualizado_em": null,
       "ordem": 38,
       "testamento": "antigo",
       "genero_literario": "Profético",
       "autor_tradicional": "Abdias",
       "data_composicao": "século VI a.C. (datação incerta)",
-      "deuterocanonico": false,
-      "fontes": [
-        "Bíblia de Jerusalém",
-        "Catecismo da Igreja Católica, nn. 101-141 (a Sagrada Escritura)"
-      ]
+      "deuterocanonico": false
     },
     {
       "id": "biblia:jonas",
@@ -1008,25 +1053,35 @@
       "id": "biblia:naum",
       "slug": "naum",
       "titulo": "Naum",
+      "resumo": "Oráculo poético de júbilo pela queda anunciada de Nínive, a capital do Império Assírio que havia destruído o Reino do Norte de Israel.",
+      "corpo": "O Livro de Naum é o sétimo dos doze Profetas Menores e pertence à coleção do \"Livro dos Doze\". Seu autor, Naum, cujo nome hebraico significa \"consolado\" ou \"confortado\", é apresentado como originário de Elcós — localidade de identificação incerta, situada por tradições diversas na Galileia ou em Judá. Naum é uma figura obscura: seu nome não aparece em nenhum outro livro da Bíblia nem em fonte histórica externa, e não se registram dados sobre sua linhagem ou vida.\n\nA obra anuncia e celebra a ruína de Nínive, capital do Império Assírio, o poder que dominara o Oriente Próximo por meio do terror, de pesados tributos, de tratados impiedosos e de deportações massivas de populações — entre elas a do Reino do Norte de Israel. A datação pode ser fixada com razoável segurança entre dois marcos históricos que o próprio livro pressupõe: a queda de Tebas (No-Amom) no Egito, em 663 a.C., tomada pelos assírios e mencionada em Naum 3,8-10 como exemplo de cidade poderosa que caiu; e a destruição de Nínive em 612 a.C., quando a cidade foi arrasada por uma coalizão de medos e caldeus (babilônios). A atividade de Naum costuma ser situada, por isso, no final do século VII a.C., provavelmente sob o reinado de Josias (640-609 a.C.).\n\nO livro divide-se em três capítulos: um hino inicial sobre a ira e a bondade de Deus (1,2-14), onde alguns estudiosos identificam vestígios de um poema acróstico — em que os versos começariam por letras consecutivas do alfabeto hebraico —, hoje incompleto no texto massorético; a descrição do assalto e da tomada de Nínive (2,1-13), apresentada como toca de leões que será despojada; e o oráculo final sobre os crimes da cidade e sua ruína inevitável (3,1-19), com o famoso dito \"Ai da cidade sanguinária, toda cheia de mentiras\" (3,1).\n\nUm contraste teológico notável distingue Naum do Livro de Jonas: enquanto Jonas é enviado a pregar o arrependimento em Nínive, que se converte, Naum não oferece à cidade nenhuma possibilidade de emenda — sua profecia é de juízo irreversível, reflexo da paciência esgotada diante de uma cidade que voltara à iniquidade. Trata-se de um canto de consolo para o oprimido, que percebia próxima a libertação, mas também de uma obra em que a imagem de Deus ainda aparece ligada a um forte nacionalismo, compreensão que a pregação posterior, sobretudo a dos capítulos 40 a 55 de Isaías e dos Evangelhos, viria a superar. O livro, escrito em hebraico com alguns aramaísmos, é notável pela força e pelo colorido de sua poesia, frequentemente considerada entre as mais vivas do Antigo Testamento.",
       "categoria": "biblia",
-      "resumo": "Oráculo de júbilo pela queda anunciada de Nínive, capital do opressor Império Assírio.",
-      "corpo": "Ao contrário de Jonas, que anuncia a conversão de Nínive, Naum celebra antecipadamente a queda dessa mesma cidade, capital do Império Assírio que havia destruído o Reino do Norte de Israel — poema de grande força literária sobre a justiça de Deus que finalmente alcança um império opressor.",
       "tags": [
         "Bíblia",
-        "Antigo Testamento"
+        "Antigo Testamento",
+        "Naum",
+        "profetas menores",
+        "Nínive",
+        "Assíria",
+        "juízo divino",
+        "Livro dos Doze",
+        "século VII a.C."
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/02/NahumProfeta.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "Bíblia de Jerusalém, introdução ao Livro de Naum",
+        "Paulus Editora, comentário ao Livro de Naum",
+        "Catecismo da Igreja Católica, nn. 101-141 (a Sagrada Escritura)",
+        "Concílio Vaticano II, Constituição Dogmática Dei Verbum, cap. IV (1965)"
+      ],
+      "atualizado_em": null,
       "ordem": 41,
       "testamento": "antigo",
       "genero_literario": "Profético",
       "autor_tradicional": "Naum",
       "data_composicao": "final do século VII a.C.",
-      "deuterocanonico": false,
-      "fontes": [
-        "Bíblia de Jerusalém",
-        "Catecismo da Igreja Católica, nn. 101-141 (a Sagrada Escritura)"
-      ]
+      "deuterocanonico": false
     },
     {
       "id": "biblia:habacuc",
@@ -1368,25 +1423,39 @@
       "id": "biblia:efesios",
       "slug": "efesios",
       "titulo": "Carta aos Efésios",
+      "resumo": "Reflexão elevada sobre o plano eterno de Deus de reunir tudo em Cristo e sobre a Igreja como seu Corpo; possivelmente uma carta circular dirigida às comunidades da Ásia Menor.",
+      "corpo": "A Carta aos Efésios tem um tom mais contemplativo e menos circunstancial que as demais cartas paulinas: quase não há saudações pessoais nem referências a problemas concretos de uma comunidade, o que levou muitos estudiosos a considerá-la uma carta circular, destinada a várias igrejas da Ásia Menor. A base dessa hipótese está no v. 1,1: as palavras \"em Éfeso\" faltam nos manuscritos mais antigos e importantes, entre eles o Papiro 46 e os textos usados por Tertuliano e Orígenes, o que a maioria dos críticos textuais lê como uma interpolação posterior. Sem esse endereço local, o texto se dirige genericamente \"aos santos que são fiéis em Cristo Jesus\", e a menção de que o autor está preso (Ef 3,1; 4,1; 6,20) é vaga demais para fixar local e data.\n\nO tema de fundo é o desígnio eterno de Deus de \"reunir todas as coisas em Cristo, as do céu e as da terra\" (Ef 1,10), e o \"mistério\" escondido em Deus por séculos e agora revelado: que os gentios são coerdeiros, membros do mesmo Corpo e participantes da promessa (Ef 3,4-6). A Igreja é apresentada como Corpo de Cristo, \"a plenitude daquele que a tudo enche em todas as coisas\" (Ef 1,22-23), e como edificação \"sobre o fundamento dos apóstolos e dos profetas, tendo Cristo Jesus por pedra angular\" (Ef 2,20), na qual judeus e gentios formam um só povo, derrubada a \"parede de separação\" da inimizade (Ef 2,14).\n\nA estrutura da carta se divide nitidamente em duas partes, ligadas pela palavra \"portanto\". Os capítulos 1-3 expõem o mistério e a nova humanidade em Cristo, culminando em orações; os capítulos 4-6 tiram as consequências morais: unidade na diversidade dos dons, a imagem do \"homem novo\", e as exortações domésticas (Ef 5,21-6,9). O trecho sobre o matrimônio — \"maridos, amai vossas mulheres, como Cristo amou a Igreja e se entregou por ela\" (Ef 5,25), até o \"mistério grande\" referido a Cristo e à Igreja (Ef 5,32) — tornou-se central na teologia católica do casamento como sacramento. O catálogo final (Ef 6,10-17) descreve a \"armadura de Deus\" na luta espiritual.\n\nA autoria é objeto de debate. A tradição atribui a carta a Paulo, escrita durante um cativeiro (Roma, c. 62 d.C., na leitura tradicional). A crítica moderna, porém, aponta diferenças de estilo, vocabulário e teologia, e a forte semelhança linguística com a Carta aos Colossenses — cerca de um terço do texto é paralelo —, sugerindo dependência literária. Por isso, numerosos estudiosos datam Efésios entre os anos 70 e 100 d.C. e a atribuem a um discípulo de Paulo, enquanto outros mantêm a autoria direta. Mesmo entre os que admitem a pseudonímia, o escrito é considerado profundamente paulino em doutrina.\n\nTextualmente, Efésios é atestada pelo Papiro 46 (c. 200 d.C.), o mais antigo testemunho paulino extenso, pelo Papiro 92 e pelos grandes códices do século IV, como o Sinaítico e o Vaticano. Entrou no cânon sem grande controvérsia e é citada por Irineu. O Catecismo da Igreja Católica recorre a Efésios em pontos-chave da eclesiologia e da moral, sobretudo na doutrina do Corpo místico e do sacramento do matrimônio.",
       "categoria": "biblia",
-      "resumo": "Reflexão elevada sobre o plano eterno de Deus de reunir tudo em Cristo, e sobre a Igreja como seu Corpo.",
-      "corpo": "De tom mais contemplativo que as demais cartas paulinas, medita sobre o desígnio eterno de Deus de reunir todas as coisas em Cristo e sobre o mistério da Igreja como Corpo de Cristo, unindo judeus e gentios num só povo; a segunda parte trata da vida moral e familiar cristã (Ef 5-6).",
       "tags": [
         "Bíblia",
-        "Novo Testamento"
+        "Novo Testamento",
+        "epístolas paulinas",
+        "Paulo",
+        "Efésios",
+        "Igreja",
+        "Corpo de Cristo",
+        "mistério",
+        "Colossenses",
+        "Papiro 46",
+        "matrimônio",
+        "Ásia Menor"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/31/P092-Eph-1_11-13-III-IV.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "Efésios 1,1-6,24 (Bíblia de Jerusalém)",
+        "Papiro 46 (P46), Papiro 92, Códice Sinaítico e Códice Vaticano",
+        "Wikipédia (es): 'Epístola a los efesios'",
+        "Catecismo da Igreja Católica (doutrina do Corpo místico e do matrimônio)",
+        "Irineu de Lião, Contra as Heresias"
+      ],
+      "atualizado_em": null,
       "ordem": 56,
       "testamento": "novo",
       "genero_literario": "Epístola paulina",
       "autor_tradicional": "Tradicionalmente atribuída a Paulo (autoria discutida pela crítica moderna)",
       "data_composicao": "cerca de 60-63 d.C. ou posterior",
-      "deuterocanonico": false,
-      "fontes": [
-        "Bíblia de Jerusalém",
-        "Catecismo da Igreja Católica, nn. 101-141 (a Sagrada Escritura)"
-      ]
+      "deuterocanonico": false
     },
     {
       "id": "biblia:filipenses",
@@ -1464,25 +1533,39 @@
       "id": "biblia:2-tessalonicenses",
       "slug": "2-tessalonicenses",
       "titulo": "2 Tessalonicenses",
+      "resumo": "Carta de correção: esclarece o equívoco de que o «Dia do Senhor» já havia chegado, descreve o «homem da iniquidade» e insiste no trabalho e na vida ordenada enquanto se espera.",
+      "corpo": "A Segunda Carta aos Tessalonicenses foi escrita pouco tempo depois da primeira, provavelmente a partir de Corinto, por volta do ano 51 d.C., quando Paulo, Silvano (Silas) e Timóteo estavam juntos naquela cidade (cf. At 18,5). Isso a tornaria um dos escritos mais antigos do Novo Testamento. A comunidade de Tessalônica — hoje cidade da Grécia, na Macedônia — havia sido fundada por Paulo durante a segunda viagem missionária (At 17,1-9) e era alvo de perseguição, o que motiva o elogio inicial à constância dos fiéis (2 Ts 1,3-4).\n\nO objetivo principal é corrigir um mal-entendido escatológico. Alguns tessalonicenses, perturbados por uma \"inspiração, por uma palavra, ou por uma carta como se fosse nossa, como se o Dia do Senhor estivesse iminente\" (2 Ts 2,2), passaram a crer que esse dia já havia chegado. Paulo responde descrevendo sinais que o precederiam: a apostasia e a manifestação do \"homem da iniquidade\", também chamado \"filho da perdição\", \"o adversário, que se levanta contra tudo o que se chama Deus\" e chega a sentar-se no templo proclamando-se deus (2 Ts 2,3-4). Esse personagem personifica a iniquidade e antecipa o Senhor, \"que o destruirá com o sopro de sua boca\" (2 Ts 2,8).\n\nUm elemento notório é o \"obstáculo\" que detém essa manifestação: \"E agora sabeis o que o detém, para que ele só se revele no seu tempo\" (2 Ts 2,6). O texto emprega o neutro katéchon (\"o que detém\") no v. 6 e o masculino ho katéchon (\"aquele que detém\") no v. 7 — uma ambiguidade que, na exegese católica, foi frequentemente associada ao Império Romano e à autoridade legítima que assegura a ordem, e que gerou vasta literatura patrística e posterior. A identidade precisa do obstáculo permanece aberta nas interpretações.\n\nO lado prático da correção está no capítulo 3: diante da falsa expectativa da volta iminente, alguns haviam abandonado o trabalho. Paulo reage com a frase tantas vezes citada: \"Se alguém não quiser trabalhar, que não coma\" (2 Ts 3,10), e ordena que se afastem de quem vive \"de modo desordenado, não segundo a tradição que recebestes\" (2 Ts 3,6). O autor exorta a \"estarmos firmes e conservar as tradições que aprendestes, por nossas palavras ou por nossa carta\" (2 Ts 2,15) — tradição aqui entendida como doutrina transmitida oralmente e por escrito.\n\nA autoria paulina é atestada desde cedo: a carta foi incluída no cânon de Márcion, consta do Fragmento Muratoriano e é mencionada nominalmente por Irineu de Lião. Ainda assim, parte da crítica moderna questiona a autoria direta, invocando diferenças de estilo, o tom apocalíptico mais elaborado e a menção a uma \"carta como se fosse nossa\" (2 Ts 2,2), que alguns interpretam como sinal de um pseudônimo posterior. A maioria dos estudiosos, contudo, continua a defender a autoria paulina, e a evidência externa a favor dela é considerada até mais forte do que a de 1 Tessalonicenses. O testemunho textual inclui o Papiro 30, o Códice Vaticano (séc. IV) e o Códice Sinaítico.",
       "categoria": "biblia",
-      "resumo": "Carta que corrige um entusiasmo excessivo sobre a iminência do fim do mundo, insistindo no trabalho e na vida ordenada enquanto se espera.",
-      "corpo": "Escrita para corrigir um mal-entendido — a crença de que o \"Dia do Senhor\" já havia chegado —, insiste em sinais que precederiam esse dia e repreende os que, por causa dessa expectativa exagerada, haviam abandonado o trabalho: \"quem não quiser trabalhar, que não coma\" (2 Ts 3,10).",
       "tags": [
         "Bíblia",
-        "Novo Testamento"
+        "Novo Testamento",
+        "epístolas paulinas",
+        "Paulo",
+        "Tessalônica",
+        "escatologia",
+        "Dia do Senhor",
+        "homem da iniquidade",
+        "katechon",
+        "século I",
+        "Códice Vaticano"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Codex_Vaticanus_B%2C_2Thess._3%2C11-18%2C_Hebr._1%2C1-2%2C2.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "2 Tessalonicenses 1,1-3,18 (Bíblia de Jerusalém)",
+        "Atos 18,5",
+        "Códice Vaticano B (2 Ts 3,11-18), séc. IV, Wikimedia Commons",
+        "Fragmento Muratoriano; Cânon de Márcion; Irineu de Lião",
+        "Wikipédia: 'Autoria das Epístolas Paulinas'",
+        "Catecismo da Igreja Católica, n. 633 (cf. 2 Ts 2,3-12)"
+      ],
+      "atualizado_em": null,
       "ordem": 60,
       "testamento": "novo",
       "genero_literario": "Epístola paulina",
       "autor_tradicional": "Tradicionalmente atribuída a Paulo (autoria discutida)",
       "data_composicao": "cerca de 51-52 d.C. ou posterior",
-      "deuterocanonico": false,
-      "fontes": [
-        "Bíblia de Jerusalém",
-        "Catecismo da Igreja Católica, nn. 101-141 (a Sagrada Escritura)"
-      ]
+      "deuterocanonico": false
     },
     {
       "id": "biblia:1-timoteo",
@@ -1655,49 +1738,73 @@
       "id": "biblia:1-pedro",
       "slug": "1-pedro",
       "titulo": "1 Pedro",
+      "resumo": "Primeira das epístolas católicas: carta de encorajamento a cristãos da Ásia Menor hostilizados por sua fé, chamados a viver com esperança e integridade, seguindo o Cristo sofredor.",
+      "corpo": "A carta abre com a saudação \"Pedro, apóstolo de Jesus Cristo, aos eleitos que vivem como estrangeiros na Dispersão, no Ponto, na Galácia, na Capadócia, na Ásia e na Bitínia\" (1 Pe 1,1). São cinco províncias romanas do norte e do centro da Ásia Menor — território da atual Turquia —, o que indica um público amplo, composto sobretudo de cristãos oriundos do paganismo, disperso por uma vasta região. O autor os chama \"estrangeiros e peregrinos\" (1 Pe 2,11) e \"raça eleita, sacerdócio régio, nação santa, povo adquirido\" (1 Pe 2,9), aplicando à comunidade cristã títulos antes reservados a Israel.\n\nO tema central é o sofrimento suportado com paciência, à imagem de Cristo. Os destinatários não enfrentavam ainda uma perseguição sistemática do Império, mas a hostilidade social, a calúnia e o escárnio dos vizinhos pagãos; a carta exorta a responder com boa conduta, para que \"aqueles que difamam vosso bom procedimento em Cristo sejam confundidos\" (1 Pe 3,16). Em 1 Pe 4,12-16 o autor adverte: \"não estranheis o fogo ardente que surge no meio de vós\", e observa que sofrer \"como cristão\" não deve envergonhar ninguém — um dos primeiros usos do termo \"cristão\" como designação identitária em contexto de acusação. Essa ambientação costuma ser ligada ao clima criado após o incêndio de Roma sob Nero (64 d.C.) e à propagação do nome cristão como suspeito nos anos seguintes.\n\nA origem da carta reúne elementos preciosos. No fecho, o autor escreve: \"Por meio de Silvano, a quem considero irmão fiel, enviei-vos uma breve carta\" (1 Pe 5,12), o que a tradição entende como Silvano atuando de secretário ou portador — possivelmente o mesmo Silas companheiro de Paulo. Segue-se a saudação: \"A igreja que está em Babilônia, eleita como vós, e também Marcos, meu filho, vos saúdam\" (1 Pe 5,13). \"Babilônia\" é amplamente lida como cifra para Roma, a capital imperial, e \"Marcos\" como o evangelista, discípulo e intérprete de Pedro, o que confere à carta um ancoramento na tradição petrina romana.\n\nA autoria é discutida. A atribuição ao apóstolo Pedro é tradicional e apoiada no próprio texto; a crítica moderna, porém, observa que o grego da carta é elegante e culto, com sólido conhecimento da Escritura, o que contrastaria com um pescador galileu de língua aramaica. Estudiosos como Bart Ehrman consideram a autoria direta improvável, enquanto outros explicam o bom grego pela intermediação de Silvano e por uma secretaria culta. Datações oscilam entre os anos 60-64 d.C. (defendida por uma leitura tradicional, ligada a Roma) e o final do século I, já sob a sombra de perseguições mais estruturadas. A epístola foi desde cedo reconhecida como canônica no Oriente e no Ocidente; o testemunho mais antigo de texto quase completo é o Papiro 72 (Papyrus Bodmer VIII), do século III-IV, conservado na Biblioteca Apostólica Vaticana, que transmite 1 Pedro, 2 Pedro e Judas.\n\nA segunda parte da carta (1 Pe 2,11-5,11) desdobra as consequências morais da fé: submissão às autoridades, deveres domésticos, humildade e vigilância contra o diabo, \"que ruge, rondando, buscando a quem devorar\" (1 Pe 5,8). A esperança que a sustenta é escatológica — a herança \"incorruptível\" reservada nos céus (1 Pe 1,4) —, mas traduzida em vida concreta no presente.",
       "categoria": "biblia",
-      "resumo": "Carta de encorajamento a cristãos que sofriam perseguição e hostilidade social, chamados a viver com esperança e integridade.",
-      "corpo": "Escrita a comunidades cristãs da Ásia Menor que enfrentavam hostilidade e perseguição por sua fé, encoraja os leitores a suportar o sofrimento com paciência, seguindo o exemplo de Cristo, e a viver de modo que sua boa conduta silencie as acusações injustas dos que os hostilizam.",
       "tags": [
         "Bíblia",
-        "Novo Testamento"
+        "Novo Testamento",
+        "epístolas católicas",
+        "Pedro",
+        "Silvano",
+        "Marcos",
+        "Ásia Menor",
+        "perseguição",
+        "sofrimento",
+        "Roma antiga",
+        "século I",
+        "Papiro 72"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/POxy_v0073_n4934_a_01_hires125.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "1 Pedro 1,1-5,14 (Bíblia de Jerusalém)",
+        "Papirus 72 (Papyrus Bodmer VIII), Biblioteca Apostólica Vaticana, séc. III-IV",
+        "Wikipédia: 'Papiro 72' e 'Autoria das Epístolas Paulinas'",
+        "Bart D. Ehrman, Pedro, Paulo e Maria Madalena (2006)",
+        "Catecismo da Igreja Católica, nn. 101-141 (a Sagrada Escritura)"
+      ],
+      "atualizado_em": null,
       "ordem": 67,
       "testamento": "novo",
       "genero_literario": "Epístola católica",
       "autor_tradicional": "Tradicionalmente atribuída ao apóstolo Pedro",
       "data_composicao": "cerca de 60-64 d.C., ou final do século I",
-      "deuterocanonico": false,
-      "fontes": [
-        "Bíblia de Jerusalém",
-        "Catecismo da Igreja Católica, nn. 101-141 (a Sagrada Escritura)"
-      ]
+      "deuterocanonico": false
     },
     {
       "id": "biblia:2-pedro",
       "slug": "2-pedro",
       "titulo": "2 Pedro",
+      "resumo": "Advertência contra falsos mestres e céticos que zombavam da demora da volta de Cristo, afirmando que \"para o Senhor um dia é como mil anos\" e que a paciência divina visa à conversão.",
+      "corpo": "A Segunda Epístola de Pedro é apresentada como o segundo escrito do apóstolo Pedro (2 Pd 3,1) e ocupa o penúltimo lugar entre as epístolas católicas (universais) do Novo Testamento. Combate falsos mestres infiltrados na comunidade, que negavam a vinda do Senhor e zombavam da demora da promessa, e responde a essas objeções com uma série de argumentos: a certeza da palavra profética, a lembrança de que Deus já julgou o mundo pelo dilúvio e destruiu Sodoma e Gomorra, e o princípio de que \"para o Senhor um dia é como mil anos, e mil anos como um dia\" (2 Pd 3,8, eco do Salmo 90,4). A aparente demora não é negligência, mas longanimidade: Deus \"não quer que ninguém pereça, mas que todos cheguem ao arrependimento\" (2 Pd 3,9).\n\nA epístola tem estreita relação literária com a Epístola de Judas: a descrição dos falsos mestres e o uso de exemplos do Antigo Testamento se assemelham de perto, e a maioria dos críticos pensa que um dos dois textos depende do outro. Um ponto notável é a referência às cartas de Paulo, equiparadas às \"demais Escrituras\" (2 Pd 3,15-16), um dos indícios que os críticos invocam para datar a obra mais tarde, já que pressupõe um corpus paulino reunido e reconhecido como autoridade.\n\nA autoria é, entre todos os livros do Novo Testamento, a mais discutida. A tradição atribui a carta a Pedro; muitos estudiosos modernos, porém, consideram-na pseudepígrafe, redigida por um discípulo já no início do século II, com base em diferenças de estilo em relação à Primeira Pedro, no uso de Judas e na referência a Paulo. Reflexo dessas dúvidas é o próprio processo de recepção: no século III, Orígenes a aceitou, mas reconheceu que muitos a punham em dúvida, e sua entrada no cânon só se firmou com os concílios de Laodiceia (c. 372) e de Cartago (397). A inclusão definitiva entre os livros inspirados repousa, na doutrina católica, na autoridade da Igreja e não na solução das questões de autoria humana.\n\nO testemunho material mais antigo é o Papiro 72 (Papirus Bodmer VIII, séculos III–IV), que reúne, num mesmo códice, a Primeira e a Segunda Epístola de Pedro e a Epístola de Judas, e se conserva na Biblioteca Apostólica Vaticana. Esse papiro, tanto quanto a menção de Orígenes, atesta que a carta circulava nos ambientes eclesiásticos antigos apesar das hesitações sobre sua canonicidade.",
       "categoria": "biblia",
-      "resumo": "Advertência contra falsos mestres e céticos que negavam a volta de Cristo, afirmando a certeza dessa promessa apesar da demora aparente.",
-      "corpo": "Considerada por muitos críticos o escrito mais tardio do Novo Testamento, combate falsos mestres e céticos que zombavam da promessa da volta de Cristo por sua demora, respondendo que \"para o Senhor um dia é como mil anos\" (2 Pd 3,8) e que a paciência divina visa dar tempo à conversão de todos.",
       "tags": [
         "Bíblia",
-        "Novo Testamento"
+        "Novo Testamento",
+        "2 Pedro",
+        "epístolas católicas",
+        "falsos mestres",
+        "parusia",
+        "Papiro 72",
+        "canonicidade",
+        "século II"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Papyrus_Bodmer_VIII.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "Bíblia de Jerusalém",
+        "Segunda Epístola de Pedro, caps. 2 e 3 (em especial 3,8-16)",
+        "Papiro 72 (Papirus Bodmer VIII), Biblioteca Apostólica Vaticana, séculos III–IV",
+        "Catecismo da Igreja Católica, nn. 101–141 (a Sagrada Escritura)"
+      ],
+      "atualizado_em": null,
       "ordem": 68,
       "testamento": "novo",
       "genero_literario": "Epístola católica",
       "autor_tradicional": "Tradicionalmente atribuída ao apóstolo Pedro (autoria muito discutida)",
       "data_composicao": "provavelmente início do século II (a mais tardia do NT, na crítica)",
-      "deuterocanonico": false,
-      "fontes": [
-        "Bíblia de Jerusalém",
-        "Catecismo da Igreja Católica, nn. 101-141 (a Sagrada Escritura)"
-      ]
+      "deuterocanonico": false
     },
     {
       "id": "biblia:1-joao",
@@ -1739,25 +1846,35 @@
       "id": "biblia:2-joao",
       "slug": "2-joao",
       "titulo": "2 João",
+      "resumo": "Breve carta do \"Presbítero\" que exorta a permanecer na verdade e no amor do Evangelho e adverte contra os enganadores que negavam a vinda de Cristo na carne.",
+      "corpo": "A Segunda Carta de João é uma das obras mais breves do Novo Testamento, com apenas treze versículos, e integra o conjunto das três epístolas joaninas. O autor apresenta-se apenas como \"o Presbítero\" (em grego presbýteros, \"ancião\"), e a tradição cristã o identifica com o apóstolo João. O texto é dirigido \"à Senhora eleita e a seus filhos\" — expressão sobre a qual os estudiosos divergem: alguns a leem como uma mulher real, líder de uma igreja doméstica; outros, como uma personificação de uma comunidade cristã. Entre as hipóteses menos prováveis está a de que se trate da própria Virgem Maria, já que, se o autor é João, a carta teria sido escrita cerca de 90-100 d.C., quando ela provavelmente já havia falecido.\n\nQuanto à autoria, a igreja antiga conheceu uma questão delicada: Pápias de Hierápolis, citado por Eusébio de Cesareia em sua História Eclesiástica, distinguia dois personagens chamados João — João, o Apóstolo, e João, o Presbítero —, o que alimentou a discussão sobre qual deles seria o autor. As semelhanças de vocabulário e de temas com o Evangelho e a Primeira Carta de João sustentam, para a maioria dos estudiosos, uma autoria comum dentro da tradição joanina. A canonicidade da carta foi discutida na Antiguidade: Eusébio a inclui entre os livros \"antilegomena\" (contestados), ela está ausente do antigo cânon siríaco (Peshitta) e recebeu opinião negativa de Teodoro de Mopsuéstia; fora do mundo siríaco, porém, o livro teve ampla aceitação e acabou recebido no cânon.\n\nO conteúdo articula os grandes temas joaninos da verdade e do amor (vv. 1-6) e desemboca numa advertência contra os falsos mestres: \"Muitos enganadores têm saído pelo mundo fora, os quais não confessam Jesus Cristo vindo em carne; assim é o enganador e o anticristo\" (v. 7). O alvo é a heresia que a tradição chama de docetismo — do grego dokeîn, \"parecer\" —, doutrina segundo a qual Cristo teria apenas a aparência de homem e não um corpo humano real, tendência ligada também ao cerintismo, que ensinava a separação entre o homem Jesus e o Cristo divino descido no batismo. Negando a verdadeira encarnação, tais doutrinas punham em risco a fé na cruz e na ressurreição.\n\nPor isso a carta encerra uma instrução severa e muito debatida: \"Se alguém vem ter convosco e não traz esta doutrina, não o recebais em casa, nem lhe deis as boas-vindas\" (v. 10). O preceito visa negar hospitalidade e apoio público a esses mestres, para não se tornar cúmplice de sua obra, e não proibir simplesmente o diálogo ou a discussão. A Segunda Carta de João está intimamente ligada à Terceira, que trata da hospitalidade devida aos missionários legítimos, formando com ela e com a Primeira Carta um pequeno corpus que defende a fé apostólica contra as distorções que ameaçavam as comunidades cristãs no fim do primeiro século.",
       "categoria": "biblia",
-      "resumo": "Breve carta que exorta a permanecer na verdade do Evangelho e adverte contra falsos mestres que negavam a encarnação de Cristo.",
-      "corpo": "Uma das cartas mais breves do Novo Testamento, dirigida a \"a Senhora eleita e a seus filhos\" — possivelmente uma comunidade cristã personificada —, insiste em permanecer fiel ao mandamento do amor e à verdadeira doutrina sobre Cristo vindo em carne, contra doutrinas heréticas em circulação.",
       "tags": [
         "Bíblia",
-        "Novo Testamento"
+        "Novo Testamento",
+        "2 João",
+        "epístolas católicas",
+        "cartas joaninas",
+        "docetismo",
+        "encarnação",
+        "Presbítero",
+        "cânon"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/End_of_1_John_and_beginning_of_2_John_in_Sinaiticus.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "Bíblia de Jerusalém, introdução à Segunda Carta de João",
+        "Eusébio de Cesareia, História Eclesiástica, III (sobre João, o Presbítero, e os antilegomena)",
+        "Catecismo da Igreja Católica, nn. 101-141 (a Sagrada Escritura)",
+        "Concílio Vaticano II, Constituição Dogmática Dei Verbum, cap. V (1965)"
+      ],
+      "atualizado_em": null,
       "ordem": 70,
       "testamento": "novo",
       "genero_literario": "Epístola católica",
       "autor_tradicional": "Tradicionalmente atribuída ao apóstolo João (\"o Ancião\")",
       "data_composicao": "final do século I d.C.",
-      "deuterocanonico": false,
-      "fontes": [
-        "Bíblia de Jerusalém",
-        "Catecismo da Igreja Católica, nn. 101-141 (a Sagrada Escritura)"
-      ]
+      "deuterocanonico": false
     },
     {
       "id": "biblia:3-joao",
