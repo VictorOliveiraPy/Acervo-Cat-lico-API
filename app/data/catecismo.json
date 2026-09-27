@@ -16,25 +16,32 @@
       "id": "catecismo:profissao-da-fe",
       "slug": "profissao-da-fe",
       "titulo": "Primeira parte: A profissão da fé",
+      "resumo": "A parte do Catecismo dedicada ao que a Igreja crê: da busca de Deus e da Revelação à resposta da fé, e a exposição dos Símbolos dos Apóstolos e niceno-constantinopolitano, artigo por artigo.",
+      "corpo": "A Primeira Parte do Catecismo da Igreja Católica é intitulada «A profissão da fé» e ocupa os parágrafos 26 a 1065. Ela responde à pergunta «em quem e em que cremos» e, segundo a própria obra, expõe a fé «professada» — a primeira das quatro dimensões pelas quais o Catecismo se organiza (a fé professada, celebrada, vivida e rezada). Divide-se em duas Secções. A primeira, «Eu creio» – «Nós cremos» (nn. 26-184), considera o homem como «capaz» de Deus, isto é, o desejo de Deus inscrito no coração humano, seguido da Revelação com que Deus vem ao seu encontro e da resposta da fé, pessoal e eclesial. A segunda Secção, «A profissão da fé cristã» (nn. 185-1065), percorre o Símbolo artigo por artigo.\n\nO Catecismo fixa, em primeiro lugar, os dois Símbolos que estruturam a exposição. O Símbolo dos Apóstolos é apresentado como «o antigo símbolo baptismal da Igreja de Roma», cuja autoridade vem de ter sido «o símbolo que guarda a Igreja romana, aquela em que Pedro, o primeiro dos Apóstolos, teve a sua cátedra» (nn. 194, citando Santo Ambrósio, *Explanatio Symboli*). A ele se soma o Símbolo niceno-constantinopolitano, que «deve a sua grande autoridade ao facto de ser proveniente desses dois primeiros concílios ecuménicos (dos anos de 325 e 381)» e continua a ser comum a todas as grandes Igrejas do Oriente e do Ocidente (n. 195). A exposição segue o Símbolo dos Apóstolos — «por assim dizer, o mais antigo catecismo romano» — completado por referências constantes ao niceno-constantinopolitano, em geral mais explícito (n. 196).\n\nA segunda Secção organiza-se em três capítulos, distribuídos segundo as três Pessoas divinas: «Creio em Deus Pai» (nn. 198-421), sobre a criação e a queda; «Creio em Jesus Cristo, o Filho Unigênito de Deus» (nn. 422-682), sobre a encarnação, a paixão, a morte, a ressurreição e a ascensão; e «Creio no Espírito Santo» (nn. 683-1065), que reúne a fé na Igreja, na comunhão dos santos, na remissão dos pecados, na ressurreição da carne e na vida eterna.\n\nVale situar a obra no seu contexto histórico. Em outubro de 1985, a Assembleia Extraordinária do Sínodo dos Bispos, celebrada vinte anos após o encerramento do Concílio Vaticano II, pediu a composição de um catecismo de toda a doutrina católica. Em 1986, João Paulo II confiou a tarefa a uma comissão de doze cardeais e bispos presidida pelo então cardeal Joseph Ratzinger, coadjuvada por uma comissão de redação de sete bispos diocesanos e peritos em teologia e catequese. O texto foi promulgado pela Constituição Apostólica *Fidei depositum*, de 11 de outubro de 1992 — trigésimo aniversário da abertura do Concílio —, e a edição típica latina, revista e definitiva, foi aprovada pela Carta Apostólica *Laetamur magnopere*, de 15 de agosto de 1997.\n\nEsta Primeira Parte é, portanto, a base doutrinal sobre a qual se assentam as três seguintes: o que a fé confessa, diz o Catecismo, os sacramentos comunicam-no (cf. n. 1692), e é a partir do Símbolo que se entende tanto a liturgia como a vida moral e a oração.",
       "categoria": "catecismo",
-      "resumo": "O que a Igreja crê: a Revelação de Deus, a resposta da fé e a exposição do Símbolo dos Apóstolos.",
-      "corpo": "A primeira parte do Catecismo trata da fé: Deus vem ao encontro do homem e se revela; o homem responde pela fé, na Igreja, que a transmite e professa.\n\nA seção seguinte percorre o Símbolo dos Apóstolos, artigo por artigo, com o Símbolo niceno-constantinopolitano em paralelo: a fé em Deus Pai criador, em Jesus Cristo — encarnação, paixão, morte, ressurreição e ascensão —, no Espírito Santo, na Igreja, na comunhão dos santos, na remissão dos pecados, na ressurreição da carne e na vida eterna.\n\nÉ a parte que responde à pergunta «em quem e no que cremos», base sobre a qual se assentam as três seguintes.",
       "tags": [
         "fé",
         "credo",
         "revelação",
-        "trindade"
+        "trindade",
+        "Símbolo dos Apóstolos",
+        "Símbolo niceno-constantinopolitano",
+        "Concílio de Niceia"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nicaea_icon.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, Primeira Parte, nn. 26-1065",
+        "Catecismo da Igreja Católica, nn. 185-197 (os Símbolos da fé)",
+        "Constituição Apostólica Fidei depositum, João Paulo II, 11 de outubro de 1992",
+        "Carta Apostólica Laetamur magnopere, João Paulo II, 15 de agosto de 1997 (edição típica latina)",
+        "Índice oficial do Catecismo em vatican.va (prima-pagina-cic_po.html)"
+      ],
+      "atualizado_em": null,
       "ordem": 1,
       "paragrafos_ccc": [
         "26-1065"
-      ],
-      "fontes": [
-        "Catecismo da Igreja Católica, Primeira Parte, nn. 26-1065",
-        "Catecismo da Igreja Católica, Prólogo, nn. 1-25"
-      ],
-      "imagem_credito": null
+      ]
     },
     {
       "id": "catecismo:a-revelacao-de-deus",
@@ -331,25 +338,31 @@
       "id": "catecismo:celebracao-do-misterio-cristao",
       "slug": "celebracao-do-misterio-cristao",
       "titulo": "Segunda parte: A celebração do mistério cristão",
+      "resumo": "A economia sacramental e os sete sacramentos: como a salvação celebrada na liturgia é comunicada, com as outras celebrações litúrgicas (sacramentais e exéquias).",
+      "corpo": "A segunda parte do Catecismo da Igreja Católica, intitulada «A celebração do mistério cristão» e correspondente aos parágrafos 1066-1690, apresenta a fé «celebrada»: expõe a liturgia como obra da Santíssima Trindade e ação de Cristo e da Igreja. Segundo a constituição apostólica «Fidei depositum», com que João Paulo II promulgou o Catecismo em 11 de outubro de 1992, esta parte existe porque «o mistério cristão é celebrado e comunicado nos atos litúrgicos». Aí se explica a economia sacramental: os sacramentos são sinais eficazes da graça, instituídos por Cristo e confiados à Igreja, pelos quais «se opera o fruto da nossa Redenção».\n\nA parte está organizada em duas seções. A primeira, «A economia sacramental» (nn. 1076-1209), compreende dois capítulos: o primeiro, «O mistério pascal no tempo da Igreja» (nn. 1077-1134), trata a liturgia como obra da Trindade, o agir de Cristo e a presença do Espírito Santo e da Igreja; o segundo, «A celebração sacramental do mistério pascal» (nn. 1135-1209), responde a quem celebra, como, quando e onde se celebra, e trata da diversidade litúrgica e da unidade do mistério. A segunda seção, «Os sete sacramentos da Igreja» (nn. 1210-1690), distribui os sacramentos em três grupos: os da iniciação cristã — Batismo (n. 1213), Confirmação (n. 1285) e Eucaristia —, os da cura — Penitência e Unção dos enfermos — e os do serviço da comunhão — Ordem (n. 1536) e Matrimônio (n. 1601).\n\nA parte encerra-se com um capítulo sobre «as outras celebrações litúrgicas» (nn. 1667-1690), dedicado aos sacramentais (n. 1667) e às exéquias cristãs (n. 1680), que compreendem «a última Páscoa do cristão» e a celebração das exéquias. Assim, a segunda parte responde à pergunta «como celebramos e recebemos o que cremos».\n\nO tratamento sistemático da liturgia nesta parte é tributário da renovação conciliar. A constituição «Sacrosanctum Concilium» sobre a Sagrada Liturgia, aprovada em 4 de dezembro de 1963 no encerramento da segunda sessão do Concílio Vaticano II, presidida pelo Papa Paulo VI, com 2.147 votos a favor e apenas 4 contrários, foi o primeiro documento promulgado pelo Concílio — e a primeira vez na história da Igreja que um concílio ecumênico dedicou à liturgia um documento próprio e integral. A estrutura do Catecismo retoma, ademais, a «antiga ordem» já seguida pelo Catecismo de São Pio V: o Credo, a liturgia com os sacramentos, os mandamentos e a oração. A redação da obra, coordenada então pelo Cardeal Joseph Ratzinger, futuro Bento XVI, foi decidida a partir do Sínodo Extraordinário dos Bispos de 1985 e levou seis anos de trabalho.",
       "categoria": "catecismo",
-      "resumo": "A economia sacramental e os sete sacramentos: como a salvação celebrada na liturgia é comunicada.",
-      "corpo": "A segunda parte expõe a liturgia como obra da Santíssima Trindade e ação de Cristo e da Igreja. Explica a economia sacramental: os sacramentos são sinais eficazes da graça, instituídos por Cristo e confiados à Igreja.\n\nEm seguida, trata dos sete sacramentos, agrupados em sacramentos da iniciação cristã (Batismo, Confirmação e Eucaristia), sacramentos de cura (Penitência e Unção dos enfermos) e sacramentos ao serviço da comunhão e da missão (Ordem e Matrimônio). Aborda também os sacramentais e as exéquias cristãs.\n\nÉ a parte que responde à pergunta «como celebramos e recebemos o que cremos».",
       "tags": [
         "liturgia",
         "sacramentos",
         "eucaristia",
-        "batismo"
+        "batismo",
+        "economia sacramental",
+        "Sacrosanctum Concilium",
+        "Vaticano II",
+        "exéquias"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, Segunda Parte, nn. 1066-1690 (índice oficial, vatican.va)",
+        "João Paulo II, Constituição apostólica «Fidei depositum», 11 de outubro de 1992",
+        "Concílio Vaticano II, Constituição «Sacrosanctum Concilium» sobre a Sagrada Liturgia, 4 de dezembro de 1963 (nn. 1-2)"
+      ],
+      "atualizado_em": null,
       "ordem": 14,
       "paragrafos_ccc": [
         "1066-1690"
-      ],
-      "fontes": [
-        "Catecismo da Igreja Católica, Segunda Parte, nn. 1066-1690",
-        "Concílio Vaticano II, Constituição «Sacrosanctum Concilium» (1963)"
-      ],
-      "imagem_credito": null
+      ]
     },
     {
       "id": "catecismo:a-economia-sacramental",
@@ -625,24 +638,32 @@
       "id": "catecismo:a-dignidade-da-pessoa-humana-e-a-vocacao-a-bem-aventuranca",
       "slug": "a-dignidade-da-pessoa-humana-e-a-vocacao-a-bem-aventuranca",
       "titulo": "Terceira parte: A dignidade da pessoa humana e a vocação à bem-aventurança",
-      "categoria": "catecismo",
       "resumo": "A abertura da moral católica no Catecismo: o homem criado à imagem de Deus e chamado, pelas Bem-Aventuranças, à felicidade que só Deus pode dar.",
-      "corpo": "Abrindo a terceira parte, o Catecismo trata da dignidade da pessoa humana a partir de sua condição de imagem de Deus, dotada de razão e vontade livre, capaz de conhecer e amar seu Criador. É nessa base antropológica que assenta toda a exposição moral que se segue.\n\nO capítulo trata em seguida da vocação do homem à bem-aventurança, comentando as Bem-Aventuranças do Sermão da Montanha como o retrato de Cristo e o caminho para a felicidade verdadeira, distinguindo-a das falsas felicidades — riqueza, poder, prazer — e situando o desejo humano de felicidade como algo que só encontra plena resposta na visão de Deus.",
+      "corpo": "Esta entrada corresponde ao Capítulo Primeiro da Terceira Parte do Catecismo. Convém precisar os limites: a Terceira Parte como um todo intitula-se «A vida em Cristo» (nn. 1691-2557) e abre com a Secção «A vocação do homem: a vida no Espírito» (n. 1699). Dentro dela, o Capítulo Primeiro é «A dignidade da pessoa humana» (nn. 1700-1876), cujos dois primeiros artigos — «O homem, imagem de Deus» (n. 1700) e «A nossa vocação à bem-aventurança» (n. 1716) — são o objeto desta exposição; é nessa base antropológica que assenta toda a moral que se segue.\n\nA Terceira Parte retoma o que a fé confessou na Primeira. O n. 1691 abre-a com uma citação de São Leão Magno: «Reconhece, ó cristão, a tua dignidade. Uma vez constituído participante da natureza divina, não penses em voltar às antigas misérias da tua vida passada.» O n. 1692 explica a passagem: o que o Símbolo da fé professa, os sacramentos comunicam-no; pelos sacramentos os cristãos se tornaram «filhos de Deus» (1 Jo 3,1) e «participantes da natureza divina» (2 Pe 1,4), e por isso são chamados a levar uma vida digna do Evangelho. A moral cristã é, assim, apresentada como consequência da dignidade recebida, não como código exterior.\n\nO n. 1700 sintetiza o programa do Capítulo: «A dignidade da pessoa humana radica na sua criação à imagem e semelhança de Deus (Artigo 1) e realiza-se na sua vocação à bem-aventurança divina (Artigo 2).» No Artigo 1, o Catecismo afirma que foi em Cristo, «imagem do Deus invisível» (Cl 1,15), que o homem foi criado à imagem do Criador, e que foi também em Cristo Redentor que essa imagem, «deformada no homem pelo primeiro pecado, foi restaurada na sua beleza original e enobrecida pela graça». A pessoa humana é definida como «a única criatura sobre a terra querida por Deus por si mesma», dotada de «uma alma espiritual e imortal» (n. 1703), desde a conceção destinada à bem-aventurança eterna. Pela razão é capaz de compreender a ordem estabelecida pelo Criador; pela vontade, de se orientar para o bem verdadeiro — e nessa liberdade, «sinal privilegiado da imagem divina», encontra-se a sua dignidade e, ao mesmo tempo, a sua responsabilidade diante do pecado, que feriu a natureza humana (n. 1714).\n\nO Artigo 2 (n. 1716) trata da vocação à bem-aventurança. As Bem-Aventuranças, diz o texto, «estão no coração da pregação de Jesus»; retomam as promessas feitas ao povo eleito desde Abraão e completam-nas, mas ordenando-as não já à posse de uma terra, e sim ao Reino dos céus. O n. 1717 afirma que elas «retratam o rosto de Jesus Cristo e descrevem a sua caridade», exprimem a vocação dos fiéis «associados à glória da sua paixão e ressurreição» e são «promessas paradoxais que sustentam a esperança no meio das tribulações», já inauguradas na vida da Virgem Maria e de todos os santos.\n\nVem depois o desejo de felicidade. O n. 1718 afirma que as Bem-Aventuranças «respondem ao desejo natural de felicidade», desejo de origem divina que Deus colocou no coração do homem «para o atrair a Si, o único que o pode satisfazer». Aqui o Catecismo apoia-se explicitamente em Santo Agostinho, citando as *Confissões*: «Como é então, Senhor, que eu Te procuro? De facto, quando Te procuro, ó meu Deus, é a vida feliz que eu procuro», concluindo com o resumo «Só Deus sacia». O n. 1723 enuncia, então, a doutrina das falsas felicidades: a verdadeira felicidade «não reside nem na riqueza ou no bem-estar, nem na glória humana ou no poder, nem em qualquer obra humana... nem em qualquer criatura, mas só em Deus». O texto recorre ainda a uma citação sobre os ídolos modernos, em que «a riqueza é a grande divindade deste tempo» e a notoriedade se tornou «um bem em si mesma, um bem soberano, objeto de verdadeira veneração».\n\nOs nn. 1724-1727 fecham o artigo mostrando os caminhos concretos para o Reino — «o Decálogo, o Sermão da Montanha e a catequese apostólica» — e resumindo o fim último ao qual Deus chama o homem: «o Reino, a visão de Deus, a participação na natureza divina, a vida eterna, a filiação divina, o repouso em Deus». A bem-aventurança da vida eterna é apresentada como dom gratuito e sobrenatural, não como conquista humana.",
+      "categoria": "catecismo",
       "tags": [
         "dignidade humana",
         "bem-aventuranças",
         "moral",
-        "felicidade"
+        "felicidade",
+        "imagem de Deus",
+        "Sermão da Montanha",
+        "Santo Agostinho"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, Terceira Parte, Seção I, Capítulo I, Artigos 1-2, nn. 1700-1729",
+        "Catecismo da Igreja Católica, Introdução à Terceira Parte, nn. 1691-1698",
+        "Mt 5,1-12 (o Sermão da Montanha e as Bem-Aventuranças)",
+        "Cl 1,15; 1 Jo 3,1; 2 Pe 1,4 (passagens citadas pelo Catecismo)",
+        "Santo Agostinho, Confissões (citado no n. 1718); São Leão Magno (citado no n. 1691)",
+        "Texto português em vatican.va, p3s1cap1_1699-1876_po.html"
+      ],
+      "atualizado_em": null,
       "ordem": 26,
       "paragrafos_ccc": [
         "1701-1729"
-      ],
-      "fontes": [
-        "Catecismo da Igreja Católica, Terceira Parte, Seção I, Capítulo I, Artigos 1-2, nn. 1701-1729",
-        "Mt 5,1-12"
       ]
     },
     {
@@ -793,24 +814,33 @@
       "id": "catecismo:segundo-mandamento",
       "slug": "segundo-mandamento",
       "titulo": "Os Dez Mandamentos: o segundo mandamento",
+      "resumo": "O comentário do Catecismo ao mandamento sobre o nome de Deus (nn. 2142-2167): o respeito ao nome santo, o juramento reto e o voto, e a proibição da blasfêmia, do perjúrio e do uso mágico do nome divino.",
+      "corpo": "O segundo mandamento — «Não pronunciarás o nome do Senhor, teu Deus, em vão» (Ex 20,7; Dt 5,11) — pertence, como o primeiro, ao âmbito da virtude da religião e regula de modo particular o uso que fazemos da palavra nas coisas santas (n. 2142). O Catecismo abre o comentário lembrando que, entre todas as palavras da Revelação, existe uma singular: o próprio nome de Deus, que Ele confia aos que nele creem e revela no seu mistério pessoal. O dom do nome pertence à ordem da confiança e da intimidade; por isso o homem não pode abusar dele, mas deve guardá-lo na memória «num silêncio de adoração amorosa» e usá-lo somente para bendizer, louvar e glorificar (n. 2143).\n\nO texto recorda que, na Antiga Aliança, o nome divino era cercado de temor: revelado a Moisés como o tetragrama impronunciável, era substituído na leitura pelo termo hebraico Adonai («meu Senhor») e, na versão grega dos Setenta, traduzido por Kyrios («Senhor»). Esse mesmo título passa ao Novo Testamento aplicado a Jesus, cujo nome significa que o próprio Deus está presente na pessoa do Filho feito homem: «não existe debaixo do céu outro nome, dado aos homens, pelo qual possamos ser salvos» (At 4,12). O fiel deve, por isso, dar testemunho do nome do Senhor, confessando a sua fé sem ceder ao medo, e a pregação e a catequese devem estar compenetradas de adoração e respeito pelo nome de nosso Senhor Jesus Cristo (n. 2145).\n\nO Catecismo distingue, então, os usos retos dos abusos. Proíbe-se todo uso inconveniente do nome de Deus, de Jesus Cristo, da Virgem Maria e dos santos (n. 2146). As promessas feitas em nome de Deus empenham a honra, a fidelidade e a veracidade divinas, e devem, em justiça, ser cumpridas: ser-lhes infiel é fazer, de certo modo, de Deus um mentiroso (n. 2147). O juramento — invocar Deus como testemunha da verdade (Dt 6,13) — é lícito quando prestado com verdade, discernimento e justiça, seguindo o exemplo de São Paulo, mas a santidade do nome divino exige que não se recorra a ele por questões fúteis (nn. 2150, 2154-2155). O voto, promessa deliberada e livre feita a Deus, obriga igualmente em virtude da fidelidade divina.\n\nA parte final trata dos pecados contra este mandamento. A blasfêmia — usar de modo injurioso o nome de Deus, de Cristo, da Virgem e dos santos, ou falar mal de Deus interior ou exteriormente — «é contrária ao respeito devido a Deus e ao seu santo nome» e é, em si mesma, pecado grave (nn. 2148, 2162). Estende-se às palavras contra a Igreja e as coisas sagradas e, de modo particular, ao uso do nome de Deus para encobrir crimes, reduzir povos à servidão, torturar ou matar. O juramento falso invoca Deus como testemunha de uma mentira, e o perjúrio é falta grave contra o Senhor, sempre fiel às suas promessas (n. 2163). São também condenadas as «juras» que invocam o nome de Deus sem intenção de blasfêmia e o uso mágico do nome divino (n. 2149).\n\nPor fim, o Catecismo articula o mandamento com o nome cristão: o Batismo é conferido «em nome do Pai e do Filho e do Espírito Santo» (Mt 28,19), e o cristão recebe na Igreja o seu nome, de preferência o de um santo, que lhe oferece um modelo de caridade e um intercessor (n. 2156). O nome de cada homem é sagrado, porque é a imagem da pessoa (n. 2158), e o sinal da cruz, «em nome do Pai e do Filho e do Espírito Santo», consagra o dia à glória de Deus (n. 2157). O resumo do Catecismo sintetiza tudo na aclamação do Salmo 8: «Senhor, nosso Deus, como é admirável o vosso nome em toda a terra!» (n. 2160).",
       "categoria": "catecismo",
-      "resumo": "O comentário do Catecismo ao mandamento sobre o nome de Deus: o respeito ao nome divino, o juramento, o voto e a proibição da blasfêmia.",
-      "corpo": "Este artigo trata do segundo mandamento, que ordena respeitar o nome do Senhor. Explica que o nome de Deus é santo e deve ser invocado com respeito, adoração e amor, sobretudo pelos batizados que consagram nele a sua vida, e trata do nome cristão recebido no Batismo.\n\nO Catecismo comenta em seguida o uso reto do juramento — invocar o nome de Deus como testemunha da verdade — e do voto, promessa deliberada e livre feita a Deus, distinguindo-os de seu uso ilícito. Por fim, trata dos pecados contra este mandamento: a blasfêmia, o juramento falso ou desnecessário e a violação de votos ou promessas feitas em nome de Deus.",
       "tags": [
         "dez mandamentos",
         "nome de deus",
         "blasfêmia",
-        "juramento"
+        "juramento",
+        "voto",
+        "tetragrama",
+        "segundo mandamento",
+        "nome de jesus"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Decalogue_parchment_by_Jekuthiel_Sofer_1768.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, Terceira Parte, Seção II, Capítulo I, Artigo 2, nn. 2142-2167 (texto oficial em vatican.va)",
+        "Ex 20,7; Dt 5,11; Dt 6,13; At 4,12; Tg 2,7",
+        "Catecismo da Igreja Católica nn. 432-435 (o nome de Jesus)",
+        "Concílio Vaticano II, Gaudium et Spes 22 (citado no n. 2799 e na tradição dos comentários ao nome)",
+        "João Henrique Newman, Parochial and Plain Sermons, v. 5, Sermão 2 (citado no n. 2144)",
+        "Santo Inácio de Loyola, Exercícios Espirituais, 38 (citado no n. 2164)"
+      ],
+      "atualizado_em": null,
       "ordem": 33,
       "paragrafos_ccc": [
         "2142-2167"
-      ],
-      "fontes": [
-        "Catecismo da Igreja Católica, Terceira Parte, Seção II, Capítulo I, Artigo 2, nn. 2142-2167",
-        "Ex 20,7; Dt 5,11"
       ]
     },
     {
@@ -1112,96 +1142,121 @@
       "id": "catecismo:o-pai-nosso-resumo-do-evangelho",
       "slug": "o-pai-nosso-resumo-do-evangelho",
       "titulo": "O Pai-Nosso: «o resumo de todo o Evangelho»",
+      "resumo": "A abertura do comentário do Catecismo ao Pai-Nosso (nn. 2761-2776): a tradição patrística que o chama «resumo de todo o Evangelho», sua centralidade na Escritura e seu lugar na liturgia da Igreja.",
+      "corpo": "O Catecismo inicia o comentário à oração dominical sob o título «O resumo de todo o Evangelho». A fórmula é tomada de Tertuliano, que no *De Oratione* (1,6) escreve que «a oração dominical é verdadeiramente o resumo de todo o Evangelho»; no mesmo passo, o autor africano acrescenta que, depois de nos legar essa fórmula, o Senhor nos mandou «pedir e receber» (Jo 16,24), de modo que cada um pode dirigir ao céu outras orações segundo as suas necessidades, «mas começando sempre pela oração do Senhor, que continua a ser a oração fundamental» (n. 2761).\n\nO texto situa o Pai-Nosso «no centro da Sagrada Escritura» (n. 2762). Retomando a reflexão de Santo Agostinho — que, depois de mostrar como os Salmos convergem para as petições da oração dominical, conclui que não há nas Escrituras oração que não esteja nela contida —, o Catecismo mostra que a oração ensinada por Jesus recolhe e resume toda a oração cristã. São Tomás de Aquino, na *Summa theologiae* (II-II, q. 83, a. 9), chama-a «a mais perfeita das orações»; e o Catecismo observa que a versão transmitida por Mateus (6,9-13), mais ampla que a de Lucas (11,2-4), foi a adotada desde os primeiros séculos na liturgia e na catequese.\n\nDiversas fontes antigas atestam o uso da oração desde a Igreja primitiva. A *Didaché* ou «Ensino dos Doze Apóstolos» (séc. I-II), no capítulo 8, ordena rezá-la «três vezes ao dia», explicitando a sua função catequética antes do Batismo; já as *Constituições Apostólicas* (7,24,1) e as homilias de São João Crisóstomo confirmam a sua presença constante na vida da comunidade. O Catecismo observa que a maior parte dos comentários patrísticos ao Pai-Nosso foi dirigida aos catecúmenos e aos neófitos, porque é o povo dos «recém-nascidos» no Batismo que ora e alcança misericórdia (n. 2769).\n\nÉ chamada «Oração Dominical» porque nos vem do Senhor Jesus, mestre e modelo da nossa oração (n. 2775). O Catecismo sublinha a sua centralidade litúrgica: é a oração da Igreja por excelência, faz parte integrante das «horas» principais do Ofício Divino e dos sacramentos da iniciação cristã — Batismo, Confirmação e Eucaristia (n. 2776). Inserida na liturgia eucarística, entre a anáfora e a liturgia da comunhão, recapitula todas as petições da celebração e, ao mesmo tempo, «bate à porta do festim do Reino» que a Comunhão antecipa (n. 2770). Nessa posição manifesta também o caráter escatológico das suas petições: é a oração própria dos «últimos tempos», iniciados com a efusão do Espírito e destinados a terminar com o regresso do Senhor (n. 2771). A tradição litúrgica romana, como narram fontes devocionais, atribui a São Gregório Magno (papa de 590 a 604) a fixação do Pai-Nosso imediatamente antes da fração do pão, posição que a Missa conserva até hoje — embora o dado seja transmitido como tradição, sem documentação contemporânea inequívoca.\n\nA Igreja reza, assim, «até que Ele venha» (1 Cor 11,26): a Eucaristia e o Pai-Nosso tendem juntos para a vinda do Senhor, e as sete petições exprimem os gemidos do tempo presente, durante o qual «ainda não se manifestou o que havemos de ser» (1 Jo 3,2).",
       "categoria": "catecismo",
-      "resumo": "A abertura do comentário do Catecismo ao Pai-Nosso, explicando por que a Tradição a chama de «resumo de todo o Evangelho» e oração modelo de toda oração cristã.",
-      "corpo": "Este artigo introduz o comentário do Catecismo à oração que Jesus ensinou aos discípulos, retomando a tradição — de Tertuliano a Santo Tomás de Aquino — que chama o Pai-Nosso de «o resumo de todo o Evangelho», por conter em suas poucas palavras toda a riqueza do Evangelho.\n\nO texto explica por que essa é «verdadeiramente a oração do Senhor», ensinada por Cristo aos seus discípulos e transmitida por Ele à sua Igreja, e por que ocupa lugar central na vida litúrgica e pessoal do cristão — rezada nos sacramentos da iniciação, na Eucaristia e na Liturgia das Horas —, preparando o leitor para o comentário, frase por frase, que se segue.",
       "tags": [
         "pai-nosso",
         "oração",
         "evangelho",
-        "liturgia"
+        "liturgia",
+        "oração dominical",
+        "tertuliano",
+        "didaché"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Jerusalem_Pater_Noster_Chapel_-_Carmelite_sisters_-_Mount_of_Olives_%286036441316%29.jpg",
       "imagem_credito": "Foto: brionv from San Francisco, United States — Wikimedia Commons, CC BY-SA 2.0",
+      "fontes": [
+        "Catecismo da Igreja Católica, Quarta Parte, Seção II, Artigo 1, nn. 2761-2776 (texto oficial em vatican.va)",
+        "Mt 6,9-13; Lc 11,2-4; 1 Cor 11,26; Jo 16,24; 1 Jo 3,2",
+        "Tertuliano, De Oratione, 1,6 e 10 (citado nos nn. 2761 e 2774)",
+        "Santo Agostinho, Epistula 130, 12, 22 (citado no n. 2762)",
+        "São Tomás de Aquino, Summa theologiae, II-II, q. 83, a. 9 (citado no n. 2774)",
+        "Didaché 8, 2-3; Constitutiones Apostolicae 7, 24, 1 (citadas nas notas ao texto)",
+        "São João Crisóstomo, In Matthaeum, homilia 19, 4 (nota ao texto)"
+      ],
+      "atualizado_em": null,
       "ordem": 46,
       "paragrafos_ccc": [
         "2761-2776"
-      ],
-      "fontes": [
-        "Catecismo da Igreja Católica, Quarta Parte, Seção II, Artigo 1, nn. 2761-2776",
-        "Mt 6,9-13; Lc 11,2-4"
       ]
     },
     {
       "id": "catecismo:pai-nosso-que-estais-nos-ceus",
       "slug": "pai-nosso-que-estais-nos-ceus",
       "titulo": "O Pai-Nosso: «Pai nosso que estais nos Céus»",
+      "resumo": "O comentário do Catecismo à invocação inicial do Pai-Nosso (nn. 2777-2802): a ousadia filial de chamar Deus de Pai, o sentido de «nosso» e da expressão «que estais nos Céus».",
+      "corpo": "Antes de comentar as sete petições, o Catecismo detém-se na invocação que abre a oração dominical, sob o título «Pai nosso, que estais nos céus» (nn. 2777-2802). O texto começa pela confiança com que a Igreja se dirige a Deus: na liturgia romana, a assembleia eucarística é convidada a rezar ao Pai «com ousadia filial», e as liturgias orientais usam expressões análogas — «atrever-nos com toda a confiança», «fazei-nos dignos». Diante da sarça ardente foi dito a Moisés: «Não te aproximes. Descalça as sandálias» (Ex 3,5); esse umbral da santidade divina só Jesus podia franquear, e é Ele que, tendo realizado a purificação dos pecados (Hb 1,3), nos introduz na presença do Pai (n. 2777).\n\nO Catecismo dá a esse impulso filial o nome grego que as liturgias do Oriente e do Ocidente consagraram: *parrhesía*, isto é, «simplicidade sem desvio, confiança filial, segurança alegre, ousadia humilde, certeza de ser amado» (n. 2778). São Pedro Crisólogo, no Sermão 71, exprime esse paradoxo: «a consciência que temos da nossa situação de escravos far-nos-ia sumir sob o chão, a nossa condição terrena dissolver-se-ia em pó, se a autoridade do próprio Pai e o Espírito do seu Filho não nos levasse a soltar este grito: \"Abba, ó Pai!\"» (Rm 8,15). Antes de fazer sua essa primeira palavra, o Catecismo pede que se purifique o coração de falsas imagens paternas ou maternas, pois Deus «transcende as categorias do mundo criado» e transpor para Ele as nossas ideias seria «fabricar ídolos, a adorar ou a derrubar» (n. 2779).\n\nPassando à palavra «Pai», o texto explica que podemos invocar Deus assim porque Ele nos foi revelado pelo seu Filho feito homem e porque o Espírito no-Lo faz conhecer. A relação pessoal do Filho com o Pai — que o homem não pode conceber nem os anjos entrever — é participada pelo Espírito do Filho aos que creem em Jesus (n. 2780). A tradução «Pai» corresponde ao termo aramaico *abbâ*, que exprime a intimidade e a confiança de uma relação filial vivida por Jesus e comunicada aos discípulos.\n\nA primeira palavra da oração é, antes de súplica, uma bênção de adoração: «a glória de Deus é que nós O reconheçamos como Pai, Deus verdadeiro» (n. 2781). O pronome «nosso» exclui toda apropriação individualista da oração: ao dizermos «Pai nosso», invocamos a Nova Aliança em Cristo, a comunhão com a Santíssima Trindade e a caridade divina que, através da Igreja, se estende às dimensões do mundo (n. 2801). Chamar Deus de Pai supõe a filiação adotiva recebida no Batismo, pelo qual somos incorporados a Cristo e feitos filhos no Filho único (n. 2798). A oração do Senhor põe-nos em comunhão com o Pai e com o Filho e, ao mesmo tempo, revela-nos a nós mesmos (n. 2799).\n\nQuanto à expressão «que estais nos céus», o Catecismo sublinha que ela «não designa um lugar, mas a majestade de Deus e sua presença no coração dos justos». O céu, a Casa do Pai, é a verdadeira pátria para onde caminhamos e à qual já pertencemos (n. 2802): os cristãos «estão na carne, mas não vivem segundo a carne; passam a vida na terra, mas são cidadãos do céu». A oração dominical aparece, assim, integrada na Eucaristia, manifestando o caráter escatológico das suas petições, na esperança do Senhor, «até que Ele venha!» (1 Cor 11,26).",
       "categoria": "catecismo",
-      "resumo": "O comentário do Catecismo à invocação inicial do Pai-Nosso: a ousadia filial de chamar Deus de Pai e o sentido da expressão «que estais nos Céus».",
-      "corpo": "Antes de comentar as sete petições, o Catecismo detém-se na invocação que abre a oração dominical. Explica por que só é possível chamar Deus de «Pai» com toda simplicidade e confiança porque o Filho de Deus feito homem nos revelou esse mistério e nos deu, pelo seu Espírito, o Espírito de adoção que nos faz clamar «Aba, Pai».\n\nO texto comenta também o pronome «nosso», que exclui toda apropriação individualista da oração e a torna sempre eclesial e fraterna, e a expressão «que estais nos Céus», que não indica um lugar, mas a majestade de Deus e sua presença no coração dos justos, situando ali, desde já, a Pátria para a qual caminhamos.",
       "tags": [
         "pai-nosso",
         "oração",
         "filiação divina",
-        "trindade"
+        "trindade",
+        "batismo",
+        "abbá",
+        "oração dominical"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Jerusalem_Pater_Noster_Chapel_-_Carmelite_sisters_-_Mount_of_Olives_%286036441316%29.jpg",
       "imagem_credito": "Foto: brionv from San Francisco, United States — Wikimedia Commons, CC BY-SA 2.0",
+      "fontes": [
+        "Catecismo da Igreja Católica, Quarta Parte, Seção II, Artigo 2, nn. 2777-2802 (texto oficial em vatican.va)",
+        "Rm 8,15; Gl 4,6; Hb 1,3; Hb 2,13; Ex 3,5; Mt 11,25-27; 1 Jo 1,3; Ef 3,12; 1 Cor 11,26",
+        "São Pedro Crisólogo, Sermão 71, 3 (citado no n. 2777)",
+        "Concílio Vaticano II, Gaudium et Spes 22 (citado no n. 2799)"
+      ],
+      "atualizado_em": null,
       "ordem": 47,
       "paragrafos_ccc": [
         "2777-2802"
-      ],
-      "fontes": [
-        "Catecismo da Igreja Católica, Quarta Parte, Seção II, Artigo 2, nn. 2777-2802",
-        "Rm 8,15; Gl 4,6"
       ]
     },
     {
       "id": "catecismo:santificado-seja-o-vosso-nome",
       "slug": "santificado-seja-o-vosso-nome",
       "titulo": "O Pai-Nosso: primeira petição — «Santificado seja o vosso nome»",
+      "resumo": "O comentário do Catecismo à primeira petição do Pai-Nosso: o pedido de que o nome de Deus seja reconhecido como santo em nós e em todo o mundo, e a ligação dessa santificação ao Batismo.",
+      "corpo": "O Catecismo comenta a primeira das sete petições do Pai-Nosso nos parágrafos 2807-2815, na Quarta Parte, Seção II, Artigo 3. Antes de tudo observa que, embora o nome de Deus seja santo em si mesmo, «A palavra “santificar” deve ser entendida, aqui, antes de mais, não no seu sentido causativo (só Deus santifica, torna santo), mas sobretudo num sentido estimativo: reconhecer como santo, tratar de um modo santo». Esta invocação é, por isso, também entendida na adoração como louvor e ação de graças. Rezando-a, o crente entra no desígnio de Deus de santificar o seu nome — revelado a Moisés e depois em Jesus — «por nós e em nós, bem como em todas as nações e em cada homem» (n. 2858; cf. Ez 36,23).\n\nO texto apoia-se na tradição patrística. Cita São Cipriano de Cartago (c. 200-258), bispo e mártir, em seu tratado sobre a oração do Senhor: «Por quem poderia Deus ser santificado se é Ele próprio quem santifica? Mas porque Ele mesmo disse: “sede santos, porque Eu sou santo”, nós que fomos santificados no Batismo, pedimos e rogamos para perseverar no que começámos a ser. E isso nós o pedimos todos os dias. Precisamos de uma santificação quotidiana para que, incorrendo em faltas todos os dias, todos os dias sejamos delas purificados por uma santificação assídua. Portanto, oramos para que esta santificação permaneça em nós». O Catecismo sublinha ainda que não dizemos «santificado seja o vosso nome em nós», mas simplesmente «o vosso nome», porque pedimos que seja santificado em todos os homens — como rezava Santo Agostinho, para quem a petição inclui os que ainda hão de crer.\n\nA petição é inseparavelmente ligada à vida e à oração do crente: dela depende que o nome de Deus seja santificado entre as nações. É a primeira das três petições «mais teologais», que têm por objeto a glória do Pai (nn. 2803-2806). O Catecismo recorda que a oração que fazemos ao Pai é nossa se for rezada «em nome» de Jesus, e cita a oração sacerdotal de Cristo: «Pai santo, guarda em teu nome aqueles que Me deste» (Jo 17,11). O Batismo, que nos incorporou a Cristo e nos fez santos, é o fundamento dessa santificação a perseverar; o Catecismo conecta o pedido ao desejo de que a consagração batismal vivifique toda a nossa vida (cf. 1Ts 4,7).\n\nO contexto mais amplo da Quarta Parte explica que São Lucas conservou um texto breve do Pai-Nosso (cinco petições) e São Mateus uma versão mais desenvolvida (sete petições), e que a tradição litúrgica da Igreja reteve o texto de Mateus (Mt 6,9-13; n. 2759). Santo Tomás de Aquino, citado pelo Catecismo (n. 2763), ensina que a Oração Dominical «é a mais perfeita das orações», pois nela «não só pedimos tudo quanto podemos retamente desejar, mas também segundo a ordem em que convém desejá-lo».",
       "categoria": "catecismo",
-      "resumo": "O comentário do Catecismo à primeira petição do Pai-Nosso: o pedido de que o nome de Deus seja santificado em nós e em todo o mundo.",
-      "corpo": "O Catecismo explica que, embora o nome de Deus seja santo em si mesmo, esta primeira petição pede que ele seja reconhecido e tratado como santo entre os homens, e que nossa vida contribua para essa santificação e não a contrarie por meio do pecado. É a primeira das três petições «mais teológicas», que voltam diretamente a glória do Pai.\n\nO texto liga essa petição ao Batismo, pelo qual fomos incorporados a Cristo e «feitos santos», e explica que rezá-la é pedir tanto o crescimento da vida divina em nós quanto a manifestação da santidade de Deus através de toda a humanidade e de toda a criação.",
       "tags": [
         "pai-nosso",
         "oração",
         "santidade",
-        "batismo"
+        "batismo",
+        "São Cipriano",
+        "Santo Agostinho",
+        "Santo Tomás de Aquino"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Jerusalem_Pater_Noster_Chapel_-_Carmelite_sisters_-_Mount_of_Olives_%286036441316%29.jpg",
       "imagem_credito": "Foto: brionv from San Francisco, United States — Wikimedia Commons, CC BY-SA 2.0",
+      "fontes": [
+        "Catecismo da Igreja Católica, Quarta Parte, Seção II, Artigo 3, nn. 2807-2815 (texto oficial, vatican.va)",
+        "São Cipriano de Cartago, «De dominica oratione» (Tratado sobre a oração do Pai-Nosso), citado no n. 2813",
+        "Ez 36,23; Ef 1,4.9; Jo 17,11; 1Ts 4,7"
+      ],
+      "atualizado_em": null,
       "ordem": 48,
       "paragrafos_ccc": [
         "2807-2815"
-      ],
-      "fontes": [
-        "Catecismo da Igreja Católica, Quarta Parte, Seção II, Artigo 3, nn. 2807-2815",
-        "Ez 36,23"
       ]
     },
     {
       "id": "catecismo:venha-a-nos-o-vosso-reino",
       "slug": "venha-a-nos-o-vosso-reino",
       "titulo": "O Pai-Nosso: segunda petição — «Venha a nós o vosso Reino»",
+      "resumo": "O comentário do Catecismo à segunda petição do Pai-Nosso: o pedido pela vinda definitiva do Reino de Deus, já presente mas ainda por consumar, e o «Maranathá» da Igreja.",
+      "corpo": "O Catecismo comenta a segunda petição do Pai-Nosso nos parágrafos 2816-2821, na Quarta Parte, Seção II, Artigo 3. Começa por notar que, no Novo Testamento, o mesmo termo grego «basileia» pode traduzir-se por realeza (nome abstrato), reino (nome concreto) ou reinado (nome de ação), o que já indica a riqueza e a ambiguidade da expressão «Reino de Deus». O Reino está diante de nós: aproximou-se no Verbo encarnado, foi anunciado ao longo de todo o Evangelho e veio na morte e ressurreição de Cristo; vem desde a santa Ceia e, na Eucaristia, está no meio de nós. Virá, porém, na glória, quando Cristo o entregar a seu Pai. O Catecismo acolhe aqui a interpretação de que o próprio Reino pode significar o Cristo em pessoa, «a Quem todos os dias desejamos que venha e cuja Vinda queremos que aconteça depressa», pois, como Ele é a nossa ressurreição, assim «pode ser Ele próprio o Reino de Deus, porque n'Ele reinaremos».\n\nEsta petição é identificada com o «Maranathá», o clamor do Espírito e da Esposa: «Vem, Senhor Jesus!» (1Cor 16,22; Ap 22,20). O Catecismo observa que, mesmo sem o dever imposto por esta oração, teríamos espontaneamente soltado este grito, com pressa de abraçar o objeto da nossa esperança. Aí reside a tensão escatológica central: o Reino já está presente na graça e na Eucaristia, mas ainda não chegou à plenitude — o «já» e o «ainda não» da teologia do Reino.\n\nO texto acentua também a dimensão moral e o discernimento. Cita Rm 14,17 — «O Reino de Deus é justiça, paz e alegria no Espírito Santo» — e observa que só um coração puro pode dizer com confiança «Venha a nós o vosso Reino»; é preciso ter aprendido com Paulo a dizer: «Que o pecado não impere mais em vosso corpo mortal» (Rm 6,12). Os cristãos devem, por discernimento no Espírito, distinguir entre o crescimento do Reino de Deus e o progresso da cultura e da sociedade, sem separar uma coisa da outra: a vocação do homem à vida eterna não suprime, antes reforça, o dever de aplicar as energias e os meios recebidos do Criador ao serviço da justiça e da paz neste mundo (n. 2820).\n\nO Catecismo lembra que esta petição é feita e atendida na oração de Jesus, presente e eficaz na Eucaristia, e que, entre as sete petições, esta — como as demais — é sustentada pela oração de Cristo. O Compêndio do Catecismo (n. 590) resume: a Igreja pede a vinda final do Reino pelo regresso de Cristo na glória, mas reza também para que o Reino cresça «já hoje», graças à santificação dos homens no Espírito e ao empenho pela justiça e pela paz. No fundo, o comentário recolhe uma controvérsia da teologia moderna sobre a natureza do Reino — entre as leituras que sublinham a sua dimensão futura e as que a acentuam presente — e resolve-a na doutrina de que o Reino veio com Cristo, permanece no mistério da Igreja e se consumará na glória.",
       "categoria": "catecismo",
-      "resumo": "O comentário do Catecismo à segunda petição do Pai-Nosso: o pedido pela vinda definitiva do Reino de Deus, já presente mas ainda por consumar.",
-      "corpo": "O Catecismo explica que a Igreja, ao rezar esta petição, tem em mira principalmente o retorno de Cristo e a vinda definitiva do Reino de Deus, sem por isso desviar-se da sua missão neste mundo, pois cada oração pelo Reino é também um pedido pelo crescimento do Reino de Deus «hoje», na vida de cada crente.\n\nO texto explica a tensão própria dessa petição: o Reino já está presente na Eucaristia e na graça, mas ainda não chegou à sua plenitude, e a Igreja o pede na expressão aramaica «Maranathá!» — «Vem, Senhor Jesus!» —, mantendo viva a esperança escatológica que atravessa toda a oração cristã.",
       "tags": [
         "pai-nosso",
         "oração",
         "reino de deus",
-        "escatologia"
+        "escatologia",
+        "Maranathá",
+        "basileia",
+        "eucaristia"
       ],
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Sky_with_puffy_clouds.JPG",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Christus_Ravenna_Mosaic.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, Quarta Parte, Seção II, Artigo 3, nn. 2816-2821 (texto oficial, vatican.va)",
+        "Compêndio do Catecismo da Igreja Católica, n. 590",
+        "1Cor 16,22; Ap 22,20; Rm 14,17; Rm 6,12"
+      ],
+      "atualizado_em": null,
       "ordem": 49,
       "paragrafos_ccc": [
         "2816-2821"
-      ],
-      "fontes": [
-        "Catecismo da Igreja Católica, Quarta Parte, Seção II, Artigo 3, nn. 2816-2821",
-        "1Cor 16,22; Ap 22,20"
       ]
     },
     {
@@ -1260,48 +1315,66 @@
       "id": "catecismo:perdoai-nos-as-nossas-ofensas",
       "slug": "perdoai-nos-as-nossas-ofensas",
       "titulo": "O Pai-Nosso: quinta petição — «Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido»",
+      "resumo": "O comentário do Catecismo (nn. 2838-2845) à quinta petição do Pai-Nosso, que liga o perdão recebido de Deus à disposição de perdoar quem nos ofendeu, sem limite nem medida.",
+      "corpo": "No comentário à quinta petição do Pai-Nosso (nn. 2838-2845), o Catecismo começa por chamar esta petição «surpreendente» (n. 2838). Se comportasse apenas o seu primeiro membro — «Perdoai-nos as nossas ofensas» —, poderia estar contida nas três primeiras petições, pois o sacrifício de Cristo é «para a remissão dos pecados». Mas o segundo membro, «assim como nós perdoamos», introduz uma exigência: a nossa petição não será atendida sem que primeiro tenhamos satisfeito essa condição. A expressão «assim como», observa o texto, liga uma resposta que deve preceder a oração.\n\nO n. 2839 descreve a petição como um recomeço: apesar de revestidos da veste baptismal, os fiéis continuam a pecar e a desviar-se de Deus. Nesta petição voltam para Ele «como o filho pródigo» e reconhecem-se pecadores «como o publicano». A oração começa por uma confissão em que «confessamos a nossa miséria e a sua misericórdia»; a esperança firme apoia-se em Cristo, «em quem temos a redenção, a remissão dos nossos pecados» (Cl 1,14), e nos sacramentos da Igreja, «sinal eficaz e indubitável do seu perdão». O Catecismo recorda ainda que o perdão é «uma força que ressuscita para uma nova vida e infunde a coragem para olhar o futuro com esperança».\n\nA segunda parte da petição é comentada a partir do n. 2842. O «como» de Jesus não é uma injunção para imitar Deus «do exterior», mas um convite a uma participação vital, «vinda do fundo do coração», na santidade, na misericórdia e no amor de Deus. É o Espírito Santo — «que é nossa vida» (Ga 5,25) — que pode fazer nossos «os mesmos sentimentos que existiram em Cristo Jesus». A unidade do perdão torna-se então possível, «perdoando-nos mutuamente como Deus nos perdoou em Cristo» (cf. Ef 4,32). Daí o n. 2843: a oração não pode chegar ao Pai sem a disposição de perdoar; a recusa endurece o coração e o fecha ao amor misericordioso. É o Espírito que «muda a ferida em compaixão e purifica a memória, transformando a ofensa em intercessão».\n\nOs dois parágrafos finais elevam o tema ao seu cume. O n. 2844 afirma: «O perdão é o cume da oração cristã»; vai até ao perdão dos inimigos, «transfigura o discípulo, configurando-o com o seu Mestre», e testemunha que «no nosso mundo o amor é mais forte que o pecado» — testemunho que, nota o Catecismo, os mártires dão «de ontem e de hoje». É também «condição fundamental da reconciliação» dos filhos com o Pai e dos homens entre si. O n. 2845 conclui que «não há limite nem medida para este perdão essencialmente divino», recordando que somos sempre devedores: «Não devais a ninguém coisa alguma, a não ser o amor de uns para com os outros» (Rm 13,8).\n\nA referência ao «setenta vezes sete» de Mt 18,21-22 — a resposta de Jesus a Pedro, que perguntara quantas vezes devia perdoar — confirma que a medida do perdão cristão não é o cálculo humano, mas a própria misericórdia de Deus. O Catecismo apoia-se assim em textos primários do Novo Testamento: o Pai-Nosso de Mateus (6,12, onde se diz «dívidas») e de Lucas (11,4, onde se diz «pecados»), a parábola do servo impiedoso (Mt 18,23-35) e a exortação paulina ao perdão mútuo.",
       "categoria": "catecismo",
-      "resumo": "O comentário do Catecismo à petição do perdão, que liga o perdão de Deus à disposição do próprio coração de perdoar quem nos ofendeu.",
-      "corpo": "O Catecismo chama esta petição de «espantosa»: ela condiciona a resposta do Pai, expressa também na parábola do servo impiedoso, à disposição de cada pessoa de perdoar quem a ofendeu. Explica que, sem essa disposição do coração, a oração ao Pai perde sua verdade e se torna impossível de ser sinceramente pronunciada.\n\nO texto trata da dificuldade real desse perdão — que não é um sentimento espontâneo, mas ato da vontade movido pela graça — e mostra como, pela força do Espírito Santo, o cristão pode transformar até a ferida em compaixão e a ofensa em intercessão pelo ofensor, à imagem de Cristo na cruz.",
       "tags": [
         "pai-nosso",
         "oração",
         "perdão",
-        "misericórdia"
+        "misericórdia",
+        "filho pródigo",
+        "setenta vezes sete",
+        "reconciliação"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, Quarta Parte, Segunda Secção, Artigo 3, nn. 2838-2845",
+        "Mt 6,12; Lc 11,4 (a petição do perdão)",
+        "Mt 18,21-22 e Mt 18,23-35 (o perdão «setenta vezes sete» e a parábola do servo impiedoso)",
+        "Cl 1,14; Ef 4,32; Rm 13,8 (passagens citadas pelo Catecismo)",
+        "Texto português em vatican.va, p4s2_2759-2865_po.html"
+      ],
+      "atualizado_em": null,
       "ordem": 52,
       "paragrafos_ccc": [
         "2838-2845"
-      ],
-      "fontes": [
-        "Catecismo da Igreja Católica, Quarta Parte, Seção II, Artigo 3, nn. 2838-2845",
-        "Mt 18,23-35"
       ]
     },
     {
       "id": "catecismo:nao-nos-deixeis-cair-em-tentacao",
       "slug": "nao-nos-deixeis-cair-em-tentacao",
       "titulo": "O Pai-Nosso: sexta petição — «Não nos deixeis cair em tentação»",
+      "resumo": "O comentário do Catecismo à sexta petição do Pai-Nosso (nn. 2846-2849), que esclarece que Deus não tenta ninguém para o mal, distingue a provação da tentação e pede o Espírito de discernimento, a vigilância do coração e a perseverança final.",
+      "corpo": "A sexta petição do Pai-Nosso, comentada nos nn. 2846-2849 do Catecismo, «atinge a raiz» da petição anterior, pois os pecados são fruto do consentimento na tentação. O Catecismo observa que traduzir com uma só palavra o termo grego do original — «me eisenénkes» — é difícil: significa «não permitas que entremos em», «não nos deixes sucumbir à tentação». O ponto teológico central é a distinção entre ser tentado e ser causa da tentação: «Deus não é tentado pelo mal, nem tenta ninguém» (Tg 1,13). O que se pede ao Pai não é que nos livre de toda prova, mas que «não nos deixe seguir pelo caminho que conduz ao pecado», no combate entre «a carne e o Espírito».\n\nO n. 2847 desdobra esse pedido em três discernimentos. O Espírito Santo permite distinguir, primeiro, «a provação, necessária ao crescimento do homem interior» — ligada à «virtude comprovada» de que falam Lc 8,13-15, At 14,22, 2Tm 3,12 e Rm 5,3-5 — «e a tentação que conduz ao pecado e à morte» (cf. Tg 1,14-15). Segundo, entre «ser tentado» e «consentir» na tentação. Terceiro, o discernimento «desmascara a mentira da tentação»: o seu objeto parece «bom, agradável à vista, desejável» (Gn 3,6), quando na realidade o seu fruto é a morte. Aqui o Catecismo cita uma página de Orígenes, do tratado De oratione (29,15 e 17): «Deus não quer impor o bem, quer seres livres […]. Para alguma coisa serve a tentação. Ninguém, senão Deus, sabe o que a nossa alma recebeu de Deus, nem nós próprios. Mas a tentação manifesta-o para nos ensinar a conhecermo-nos e desse modo descobrir a nossa miséria e obrigar-nos a dar graças pelos bens que a tentação nos manifestou».\n\nO n. 2848 mostra que «não entrar em tentação» implica «uma decisão do coração»: «onde estiver o teu tesouro, aí estará também o teu coração […] ninguém pode servir a dois senhores» (Mt 6,21.24). É nesse «consentimento» ao Espírito Santo que o Pai nos dá a força, conforme a promessa de São Paulo: «Deus é fiel e não permitirá que sejais tentados acima das vossas forças, mas, com a tentação, vos dará os meios de sair dela e a força para a suportar» (1Cor 10,13). O n. 2849 conclui que «tal combate e tal vitória» só são possíveis pela oração: «foi por sua oração que Jesus venceu o Tentador, desde o começo» — nas tentações do deserto (Mt 4,1-11; Mc 1,12-13) — «e no último combate da sua agonia», no Getsêmani. É a esse combate de Cristo que o fiel é unido nesta petição. O Catecismo associa então a petição à «vigilância do coração», que é a «guarda do coração»: Jesus pede ao Pai que «nos guarde em seu nome», e o Espírito Santo procura despertar-nos para ela.\n\nA petição «adquire todo o seu sentido dramático» quando relacionada com «a tentação final do nosso combate na terra»: ela pede a perseverança final, sob a advertência do Apocalipse, «Olhai que vou chegar como um ladrão: feliz de quem estiver vigilante!» (Ap 16,15). O Compêndio do Catecismo (§ 596) sintetiza: ao pedir «não nos deixes cair em tentação», o fiel pede a Deus Pai que «não nos deixe sós e à mercê da tentação», e implora ao Espírito «a graça da vigilância e da perseverança final».\n\nA tradução desta petição tornou-se objeto de debate público no pontificado de Francisco. Em entrevista de 2017 ao programa Padre Nostro (TV2000), o Papa afirmou que «Deus que nos induz em tentação não é uma boa tradução» e explicou: «Sou eu quem cai em tentação; não é Deus que me joga nela». A Conferência Episcopal Italiana aprovou em novembro de 2018 nova versão, «non abbandonarci alla tentazione» («não nos abandoneis à tentação»), confirmada pela Santa Sé e em uso no Missal Romano italiano desde o primeiro Domingo do Advento de 2019. A fórmula brasileira «não nos deixeis cair em tentação» já expressava proximidade com esse sentido, e a versão francesa havia passado, anos antes, de «não nos submetais à tentação» para «não nos deixeis entrar em tentação». A imagem que acompanha a entrada é o afresco Tentações de Cristo, de Sandro Botticelli (1480-1482), na Capela Sistina, no qual as três tentações do deserto figuram no registro superior da composição.",
       "categoria": "catecismo",
-      "resumo": "O comentário do Catecismo à sexta petição do Pai-Nosso, esclarecendo que Deus não tenta ninguém para o mal e o pedido de força diante da provação.",
-      "corpo": "O Catecismo esclarece um ponto frequentemente mal compreendido: Deus não conduz ninguém ao pecado, pois «Deus não tenta ninguém» para o mal, conforme a Carta de Tiago; a tentação nasce do coração humano já inclinado ao mal pelo pecado, e da ação do tentador. A petição pede, portanto, discernimento para reconhecer a tentação e força para não sucumbir a ela.\n\nO texto distingue entre a provação, necessária ao crescimento do homem interior, e a tentação que conduz ao pecado e à morte, e ensina que essa petição implica também um pedido de perseverança, unindo-se ao combate de Cristo e à sua vitória nas próprias tentações que sofreu no deserto.",
       "tags": [
         "pai-nosso",
         "oração",
         "tentação",
-        "combate espiritual"
+        "provação",
+        "combate espiritual",
+        "vigilância",
+        "perseverança final",
+        "Orígenes",
+        "Capela Sistina"
       ],
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/05_Tentaciones_de_Cristo_%28Botticelli%29.jpg",
       "imagem_credito": null,
+      "fontes": [
+        "Catecismo da Igreja Católica, Quarta Parte, Segunda Seção, Artigo 3, VI, nn. 2846-2849 (edição oficial, vatican.va)",
+        "Compêndio do Catecismo da Igreja Católica, § 596 (vatican.va, 2005)",
+        "Tg 1,13-15; 1Cor 10,13; Mt 6,21.24; Gn 3,6; Lc 8,13-15; At 14,22; 2Tm 3,12; Rm 5,3-5; Ap 16,15",
+        "Orígenes, De oratione, 29, 15 e 17 (citado no n. 2847)",
+        "Notas 133-142 do Catecismo (referências do n. 2846-2849)",
+        "BBC Brasil, «Por que o papa Francisco decidiu mudar um trecho do Pai Nosso em italiano» (2020)",
+        "Avvenire, «Non abbandonarci alla tentazione: il nuovo Padre Nostro arriva in Avvento» (2019)"
+      ],
+      "atualizado_em": null,
       "ordem": 53,
       "paragrafos_ccc": [
         "2846-2849"
-      ],
-      "fontes": [
-        "Catecismo da Igreja Católica, Quarta Parte, Seção II, Artigo 3, nn. 2846-2849",
-        "Tg 1,13"
       ]
     },
     {
