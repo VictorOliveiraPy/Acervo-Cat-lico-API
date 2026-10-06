@@ -46,6 +46,13 @@ class Settings(BaseSettings):
     image_manifest_path: Path = _APP_DIR / "data" / "image-manifest.json"
     image_cdn_base_url: str | None = None
 
+    # Limite de escrita por IP (mural de velas e chat). O contador é em
+    # memória do processo, então NÃO vale multi-worker nem multi-instância —
+    # ver o docstring de `app/core/rate_limiting.py`. Desligar aqui é para
+    # ambiente controlado (testes de carga, homologação), nunca para
+    # "resolver" produção: sem backend compartilhado não há limite global.
+    rate_limit_enabled: bool = True
+
     # String de conexão Postgres para o mural de velas (feature opcional):
     # sem ela, os endpoints de /api/velas respondem 503 em vez de derrubar
     # a API inteira — o acervo de leitura não pode depender de um banco à

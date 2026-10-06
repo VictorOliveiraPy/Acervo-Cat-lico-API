@@ -16,7 +16,7 @@ from app.application.candles.light_candle_use_case import LightCandleUseCase
 from app.application.candles.list_candles_use_case import ListCandlesUseCase
 from app.core.config import settings
 from app.core.exceptions import ServiceUnavailableException
-from app.core.rate_limiting import RateLimiter, client_ip
+from app.core.rate_limiting import build_rate_limiter, client_ip
 from app.domain.candles.repository import CandleRepository
 from app.interface.candles.schemas import (
     CandleCreateRequest,
@@ -26,7 +26,8 @@ from app.interface.candles.schemas import (
 
 router = APIRouter(prefix="/api/velas", tags=["velas"])
 
-_rate_limiter = RateLimiter(window_seconds=20.0)
+# Limite por processo (memória), não global — ver `app/core/rate_limiting.py`.
+_rate_limiter = build_rate_limiter(window_seconds=20.0)
 
 
 def get_candle_repository(request: Request) -> CandleRepository:

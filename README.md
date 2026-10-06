@@ -13,6 +13,25 @@ vida litúrgica**.
 
 ---
 
+## ⚠️ Segredos — ação pendente do dono do projeto
+
+O arquivo `.env` local contém credenciais reais (a senha do Postgres Neon e a
+`VOYAGE_API_KEY`). Ele **não** está versionado (só `.env.example` está, e
+`.env` está no `.gitignore`), mas as chaves circularam fora do cofre e devem
+ser tratadas como comprometidas:
+
+1. Rotacione a senha do banco Neon (painel do Neon → projeto → Roles →
+   redefinir senha) e atualize `DATABASE_URL` no dashboard do Render e no
+   `.env` local.
+2. Rotacione a `VOYAGE_API_KEY` em <https://dashboard.voyageai.com> e
+   atualize a variável no Render e no `.env`.
+3. Se a `DEEPSEEK_API_KEY` também estava nesse `.env`, rotacione-a na mesma
+   leva.
+
+Rotação não é feita por código — depende do dono dos provedores.
+
+---
+
 ## Como executar
 
 Requer Python 3.11+.
@@ -27,6 +46,10 @@ uvicorn app.main:app --reload
 - Docs interativas (Swagger): <http://localhost:8000/docs>
 - CORS liberado para `http://localhost:3000` e `http://127.0.0.1:3000`
   (somente `GET`/`OPTIONS`, sem credenciais).
+
+Em produção (`ENVIRONMENT=production`), `/docs`, `/redoc` e `/openapi.json`
+ficam desligados — a superfície da API não precisa ser publicada para quem
+estiver sondando. Localmente e em homologação continuam no ar.
 
 ## Comandos de desenvolvimento
 
@@ -97,14 +120,23 @@ o `code` **não** muda sem aviso):
   "details": { "categoria": "santos", "slug": "x" } }
 ```
 
+**Todo** erro segue esse contrato, inclusive os que o próprio FastAPI/Starlette
+levantaria sozinho:
+
+- falha de validação de entrada → `422` com `code: "validation_error"` e a
+  lista de erros do Pydantic em `details.errors` (sem o valor recebido no
+  corpo, que pode conter dado sensível);
+- `404` de rota inexistente e `405` de método errado → `code` `NOT_FOUND` /
+  `METHOD_NOT_ALLOWED`, no mesmo formato.
+
 Códigos usados: `CATEGORY_NOT_FOUND` (404), `ENTRY_NOT_FOUND` (404),
+`LANGUAGE_NOT_FOUND` (404), `validation_error` (422),
 `VELAS_INDISPONIVEL` (503, sem `DATABASE_URL` configurada),
 `RATE_LIMITED` (429, uma vela por IP a cada ~20s no mural; ~6s por IP no chat),
 `LITURGIA_INDISPONIVEL` (503, sem `DATABASE_URL` ou fonte externa fora do ar),
-`CHAT_INDISPONIVEL` (503, sem `DATABASE_URL`/`ANTHROPIC_API_KEY`/`VOYAGE_API_KEY`
+`CHAT_INDISPONIVEL` (503, sem `DATABASE_URL`/`DEEPSEEK_API_KEY`/`VOYAGE_API_KEY`
 configuradas, ou falha ao chamar alguma das duas APIs),
 `INTERNAL_ERROR` (500).
-Erro de parâmetro (ex.: `q` com 1 caractere) usa o `422` padrão do FastAPI.
 
 ---
 
@@ -115,8 +147,8 @@ Clean Architecture por domínio (ver [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.
 ```
 .
 ├── app/
-│   ├── main.py                  # app, lifespan (acervo + pool do mural), CORS, routers
-│   ├── core/                    # config.py (Settings), exceptions.py, rate_limiting.py
+│   ├── main.py                  # app, lifespan (acervo + pool do mural), CORS, headers, routers
+│   ├── core/                    # config.py (Settings), exceptions.py, rate_limiting.py, security_headers.py
 │   ├── domain/                  # regras de negócio — Python puro, sem framework
 │   │   ├── candles/             # entities.py, repository.py (contrato)
 │   │   ├── chat/                # entities, repository, gateways, relevance, exceptions
@@ -199,6 +231,18 @@ Clean Architecture por domínio (ver [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.
   responder bem.
   Fase 1 (atual): só os 1.043 verbetes do acervo. Livros em PDF ficam para
   uma fase seguinte, com um script de ingestão próprio.
+- **Rate limit é por processo, não global.** O contador de `/api/velas` e
+  `/api/chat` vive num `dict` em memória do processo (`app/core/rate_limiting.py`).
+  Com mais de um worker, o limite efetivo é `janela × número de processos` —
+  serve contra flood grosseiro de um bot, não contra abuso coordenado. Para um
+  limite de verdade multi-worker seria preciso um backend compartilhado (Redis).
+  `RATE_LIMIT_ENABLED=false` desliga o limite (ambiente controlado); não use
+  isso como solução em produção.
+- **Cabeçalhos de segurança em toda resposta.** `X-Content-Type-Options:
+  nosniff`, `X-Frame-Options: DENY`, `Referrer-Policy: no-referrer`, e
+  `Strict-Transport-Security` só quando `ENVIRONMENT=production` (em
+  desenvolvimento o servidor é HTTP puro, e HSTS local forçaria HTTPS em
+  `localhost`). Ver `app/core/security_headers.py`.
 
 ---
 
@@ -243,14 +287,16 @@ conteúdo não conta como alteração, e entradas editadas e ainda não commitad
 ## Configuração
 
 Todas as variáveis são opcionais em desenvolvimento (há defaults em
-`app/core/config.py`) e podem ir num `.env` na raiz do repositório:
+`app/core/config.py`) e podem ir num `.env` na raiz do repositório
+(`.env.example` lista todas com valores de exemplo — nunca comita segredo):
 
 | Variável | Default | Descrição |
 |---|---|---|
-| `ENVIRONMENT` | `development` | Em `production`, o boot falha se `DEBUG=true` ou se `CORS_ORIGINS` tiver `*` |
+| `ENVIRONMENT` | `development` | Em `production`, o boot falha se `DEBUG=true` ou se `CORS_ORIGINS` tiver `*`; também desliga `/docs`, `/redoc` e `/openapi.json` |
 | `DEBUG` | `true` | Nível de log |
 | `CORS_ORIGINS` | `["http://localhost:3000","http://127.0.0.1:3000"]` | Origens permitidas |
 | `DATA_DIR` | `app/data` | Diretório alternativo de conteúdo |
+| `RATE_LIMIT_ENABLED` | `true` | Ligado por padrão; desligue só em ambiente controlado (ver "Rate limit é por processo") |
 | `DEFAULT_PAGE_SIZE` / `MAX_PAGE_SIZE` | `20` / `100` | Paginação |
 | `MAX_SEARCH_RESULTS` | `50` | Teto de resultados da busca |
 | `DATABASE_URL` | *(nenhum)* | Postgres do mural de velas, do cache da liturgia diária e do índice do chatbot — sem ela, `/api/velas`, `/api/liturgia-diaria` e `/api/chat` respondem `503` e o resto da API funciona normalmente |

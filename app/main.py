@@ -20,6 +20,7 @@ from __future__ import annotations
 import logging
 from collections.abc import AsyncIterator
 from contextlib import asynccontextmanager
+from typing import Any
 
 import asyncpg
 from fastapi import FastAPI
@@ -27,6 +28,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 
 from app.core.config import settings
+from app.core.security_headers import SecurityHeadersMiddleware
 from app.infrastructure.acervo.json_repository import repository
 from app.infrastructure.acervo.translations import load_translations
 from app.infrastructure.candles.postgres_repository import PostgresCandleRepository
@@ -109,6 +111,19 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
     logger.info("API encerrada")
 
 
+def _docs_kwargs() -> dict[str, Any]:
+    """Argumentos de docs do `FastAPI`, desligados em produção.
+
+    Em produção, `/docs`, `/redoc` e `/openapi.json` expõem a superfície
+    inteira da API para quem estiver sondando, sem servir a nenhum cliente
+    real. Em desenvolvimento/homologação continuam no ar, que é onde são
+    úteis.
+    """
+    if settings.is_production:
+        return {"docs_url": None, "redoc_url": None, "openapi_url": None}
+    return {}
+
+
 app = FastAPI(
     title=settings.app_name,
     version=settings.app_version,
@@ -136,6 +151,7 @@ app = FastAPI(
         "em /api/i18n/{lang}/..., aditivas às rotas em português."
     ),
     lifespan=lifespan,
+    **_docs_kwargs(),
 )
 
 # Sem credenciais e sem curinga: POST só existe para acender uma vela, sem
@@ -147,6 +163,10 @@ app.add_middleware(
     allow_methods=["GET", "POST", "OPTIONS"],
     allow_headers=["*"],
 )
+
+# HSTS só em produção: em desenvolvimento o `uvicorn --reload` serve HTTP
+# puro, e enviar HSTS ali faria o navegador forçar HTTPS em localhost.
+app.add_middleware(SecurityHeadersMiddleware, enable_hsts=settings.is_production)
 
 register_exception_handlers(app)
 # Útil em desenvolvimento/homologação. Em produção, IMAGE_CDN_BASE_URL aponta

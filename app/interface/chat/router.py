@@ -11,7 +11,7 @@ from fastapi import APIRouter, Depends, Request
 
 from app.application.chat.answer_question_use_case import AnswerQuestionUseCase
 from app.core.exceptions import ServiceUnavailableException
-from app.core.rate_limiting import RateLimiter, client_ip
+from app.core.rate_limiting import build_rate_limiter, client_ip
 from app.domain.chat.answer_generator import AnswerGenerator
 from app.domain.chat.embedding_gateway import EmbeddingGateway
 from app.domain.chat.repository import RagRepository
@@ -24,8 +24,9 @@ router = APIRouter(prefix="/api/chat", tags=["chat"])
 # Janela mais generosa que a do mural de velas (20s): uma conversa de
 # verdade troca várias mensagens seguidas. Ainda assim conta, porque cada
 # pergunta custa uma chamada de embedding + uma chamada ao DeepSeek — dinheiro
-# de verdade, ao contrário de listar o acervo.
-_rate_limiter = RateLimiter(window_seconds=6.0)
+# de verdade, ao contrário de listar o acervo. O limite é por processo
+# (memória), não global — ver `app/core/rate_limiting.py`.
+_rate_limiter = build_rate_limiter(window_seconds=6.0)
 
 # Sem estado próprio (não fala rede na criação) — uma instância por
 # requisição não tem custo real.
