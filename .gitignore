@@ -8,6 +8,7 @@ __pycache__/
 htmlcov/
 *.log
 .env
+deploy/.env
 /img-catolicas/
 # Os assets .webp em si ficam só no bucket/CDN (não no Git). O manifesto que
 # mapeia URL original -> caminho publicado É versionado — é só um JSON de
