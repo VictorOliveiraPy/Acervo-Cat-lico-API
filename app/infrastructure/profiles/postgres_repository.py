@@ -8,7 +8,14 @@ from __future__ import annotations
 
 from typing import Any, Protocol
 
-from app.domain.profiles.entities import POINTS_PER_LESSON, Profile, RankingRow
+from app.domain.profiles.entities import (
+    MAX_ITEMS_PER_USER,
+    POINTS_PER_LESSON,
+    Favorite,
+    Note,
+    Profile,
+    RankingRow,
+)
 from app.domain.profiles.repository import ProfileRepository
 
 
@@ -18,6 +25,28 @@ class AsyncPool(Protocol):
     async def execute(self, query: str, *args: object) -> str: ...
     async def fetchrow(self, query: str, *args: object) -> Any: ...
     async def fetch(self, query: str, *args: object) -> list[Any]: ...
+
+
+def _favorite(row: Any) -> Favorite:
+    return Favorite(
+        row["id"],
+        row["tipo"],
+        row["texto"],
+        row["referencia"],
+        row["url_origem"],
+        row["criado_em"],
+    )
+
+
+def _note(row: Any) -> Note:
+    return Note(
+        row["id"],
+        row["categoria"],
+        row["texto"],
+        row["licao"],
+        row["criado_em"],
+        row["atualizado_em"],
+    )
 
 
 class PostgresProfileRepository(ProfileRepository):
@@ -41,12 +70,39 @@ class PostgresProfileRepository(ProfileRepository):
                 concluida_em TIMESTAMPTZ NOT NULL DEFAULT now(),
                 PRIMARY KEY (google_sub, licao)
             );
+            ALTER TABLE perfis
+                ADD COLUMN IF NOT EXISTS padroeiro_id TEXT NOT NULL DEFAULT 'francisco';
+            CREATE TABLE IF NOT EXISTS favoritos (
+                id BIGSERIAL PRIMARY KEY,
+                google_sub TEXT NOT NULL REFERENCES perfis (google_sub) ON DELETE CASCADE,
+                tipo TEXT NOT NULL,
+                texto TEXT NOT NULL,
+                referencia TEXT NOT NULL DEFAULT '',
+                url_origem TEXT,
+                criado_em TIMESTAMPTZ NOT NULL DEFAULT now()
+            );
+            CREATE INDEX IF NOT EXISTS favoritos_google_sub_idx
+                ON favoritos (google_sub, criado_em DESC);
+            CREATE TABLE IF NOT EXISTS anotacoes (
+                id BIGSERIAL PRIMARY KEY,
+                google_sub TEXT NOT NULL REFERENCES perfis (google_sub) ON DELETE CASCADE,
+                categoria TEXT NOT NULL,
+                texto TEXT NOT NULL,
+                licao TEXT,
+                criado_em TIMESTAMPTZ NOT NULL DEFAULT now(),
+                atualizado_em TIMESTAMPTZ NOT NULL DEFAULT now()
+            );
+            CREATE INDEX IF NOT EXISTS anotacoes_google_sub_idx
+                ON anotacoes (google_sub, criado_em DESC);
             """
         )
 
     async def _load(self, subject: str) -> Profile | None:
         row = await self._pool.fetchrow(
-            "SELECT nome_exibicao, preferencias, no_ranking FROM perfis WHERE google_sub = $1",
+            """
+            SELECT nome_exibicao, preferencias, no_ranking, padroeiro_id
+            FROM perfis WHERE google_sub = $1
+            """,
             subject,
         )
         if row is None:
@@ -62,6 +118,7 @@ class PostgresProfileRepository(ProfileRepository):
             show_in_ranking=row["no_ranking"],
             points=len(slugs) * POINTS_PER_LESSON,
             completed_lessons=slugs,
+            patron_saint=row["padroeiro_id"],
         )
 
     async def ensure(self, subject: str, display_name: str) -> Profile:
@@ -76,6 +133,18 @@ class PostgresProfileRepository(ProfileRepository):
         profile = await self._load(subject)
         assert profile is not None  # noqa: S101 — acabou de ser garantido acima
         return profile
+
+    async def exists(self, subject: str) -> bool:
+        row = await self._pool.fetchrow("SELECT 1 FROM perfis WHERE google_sub = $1", subject)
+        return row is not None
+
+    async def set_patron(self, subject: str, patron_saint: str) -> Profile | None:
+        await self._pool.execute(
+            "UPDATE perfis SET padroeiro_id = $2 WHERE google_sub = $1",
+            subject,
+            patron_saint,
+        )
+        return await self._load(subject)
 
     async def update(
         self,
@@ -128,3 +197,86 @@ class PostgresProfileRepository(ProfileRepository):
             POINTS_PER_LESSON,
         )
         return [RankingRow(row["nome_exibicao"], row["pontos"]) for row in rows]
+
+    # Toda consulta abaixo filtra por `google_sub`: é o que impede uma pessoa de ler
+    # ou apagar o que é de outra, mesmo informando um `id` válido.
+
+    async def list_favorites(self, subject: str) -> list[Favorite]:
+        rows = await self._pool.fetch(
+            """
+            SELECT id, tipo, texto, referencia, url_origem, criado_em
+            FROM favoritos WHERE google_sub = $1
+            ORDER BY criado_em DESC, id DESC
+            """,
+            subject,
+        )
+        return [_favorite(row) for row in rows]
+
+    async def add_favorite(
+        self,
+        subject: str,
+        kind: str,
+        text: str,
+        reference: str,
+        source_url: str | None,
+    ) -> Favorite | None:
+        row = await self._pool.fetchrow(
+            """
+            INSERT INTO favoritos (google_sub, tipo, texto, referencia, url_origem)
+            SELECT $1, $2, $3, $4, $5
+            WHERE (SELECT count(*) FROM favoritos WHERE google_sub = $1) < $6
+            RETURNING id, tipo, texto, referencia, url_origem, criado_em
+            """,
+            subject,
+            kind,
+            text,
+            reference,
+            source_url,
+            MAX_ITEMS_PER_USER,
+        )
+        return _favorite(row) if row else None
+
+    async def delete_favorite(self, subject: str, favorite_id: int) -> bool:
+        result = await self._pool.execute(
+            "DELETE FROM favoritos WHERE id = $1 AND google_sub = $2", favorite_id, subject
+        )
+        return result == "DELETE 1"
+
+    async def list_notes(self, subject: str) -> list[Note]:
+        rows = await self._pool.fetch(
+            """
+            SELECT id, categoria, texto, licao, criado_em, atualizado_em
+            FROM anotacoes WHERE google_sub = $1
+            ORDER BY criado_em DESC, id DESC
+            """,
+            subject,
+        )
+        return [_note(row) for row in rows]
+
+    async def add_note(
+        self,
+        subject: str,
+        tag: str,
+        body: str,
+        lesson: str | None,
+    ) -> Note | None:
+        row = await self._pool.fetchrow(
+            """
+            INSERT INTO anotacoes (google_sub, categoria, texto, licao)
+            SELECT $1, $2, $3, $4
+            WHERE (SELECT count(*) FROM anotacoes WHERE google_sub = $1) < $5
+            RETURNING id, categoria, texto, licao, criado_em, atualizado_em
+            """,
+            subject,
+            tag,
+            body,
+            lesson,
+            MAX_ITEMS_PER_USER,
+        )
+        return _note(row) if row else None
+
+    async def delete_note(self, subject: str, note_id: int) -> bool:
+        result = await self._pool.execute(
+            "DELETE FROM anotacoes WHERE id = $1 AND google_sub = $2", note_id, subject
+        )
+        return result == "DELETE 1"
