@@ -107,6 +107,8 @@ class ContentEntry(BaseModel):
     4.0"). `None` quando a imagem é de domínio público ou CC0, onde crédito
     não é obrigatório (ainda que seja boa prática). Nunca preenchido sem
     `imagem` também estar preenchida."""
+    imagem_foco: str | None = Field(default=None, pattern=r"^\d{1,3}% \d{1,3}%$")
+    """Ponto da imagem que fica visível ao recortar (`object-position`, ex.: "50% 20%")."""
     fontes: list[str] = Field(default_factory=list)
     publicado_em: date | None = None
     """Primeira vez que a entrada apareceu no histórico do Git (`publicacoes.json`)."""
