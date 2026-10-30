@@ -83,6 +83,18 @@ class ThemeRef(BaseModel):
     nome: str
 
 
+class BiographySection(BaseModel):
+    """Subseção da biografia, com título próprio na página."""
+
+    titulo: str = Field(min_length=1)
+    texto: str = Field(min_length=1)
+
+
+class FaqItem(BaseModel):
+    pergunta: str = Field(min_length=1)
+    resposta: str = Field(min_length=1)
+
+
 class ContentEntry(BaseModel):
     """Campos comuns a toda entrada do acervo.
 
@@ -110,6 +122,12 @@ class ContentEntry(BaseModel):
     imagem_foco: str | None = Field(default=None, pattern=r"^\d{1,3}% \d{1,3}%$")
     """Ponto da imagem que fica visível ao recortar (`object-position`, ex.: "50% 20%")."""
     fontes: list[str] = Field(default_factory=list)
+    biografia: list[BiographySection] = Field(default_factory=list)
+    oracao: str | None = None
+    frases: list[str] = Field(default_factory=list)
+    iconografia: str | None = None
+    curiosidades: list[str] = Field(default_factory=list)
+    faq: list[FaqItem] = Field(default_factory=list)
     publicado_em: date | None = None
     """Primeira vez que a entrada apareceu no histórico do Git (`publicacoes.json`)."""
     atualizado_em: date | None = None
