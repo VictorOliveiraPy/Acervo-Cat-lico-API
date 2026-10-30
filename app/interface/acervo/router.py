@@ -10,7 +10,15 @@ from fastapi import APIRouter, Depends, Path, Query
 
 from app.core.config import settings
 from app.infrastructure.acervo.json_repository import Repository, get_repository
-from app.models import AnyEntry, CategoryInfo, EntryPage, HealthStatus, SearchResult
+from app.models import (
+    AnyEntry,
+    CategoryInfo,
+    EntryPage,
+    HealthStatus,
+    SearchResult,
+    ThemePage,
+    ThemeSummary,
+)
 
 router = APIRouter(prefix="/api", tags=["acervo"])
 
@@ -57,6 +65,35 @@ def search(
     """Varre título, tags, resumo e corpo e devolve o trecho com o termo."""
     limit = min(limit, settings.max_search_results)
     return repo.search(q=q, categoria=categoria, limit=limit)
+
+
+@router.get(
+    "/temas",
+    response_model=list[ThemeSummary],
+    summary="Lista os temas do acervo",
+)
+def list_themes(
+    min_total: int = Query(default=1, ge=1, description="Mínimo de entradas do tema."),
+    repo: Repository = Depends(get_repository),
+) -> list[ThemeSummary]:
+    """Temas com o total de entradas. Declarada antes de `/{categoria}`, que a capturaria."""
+    return repo.list_themes(min_total=min_total)
+
+
+@router.get(
+    "/temas/{slug}",
+    response_model=ThemePage,
+    summary="Entradas de um tema (paginado)",
+)
+def get_theme(
+    slug: str = Path(description="Slug do tema, ex.: 'franciscanos'."),
+    limit: int = Query(default=settings.default_page_size, ge=1),
+    offset: int = Query(default=0, ge=0),
+    repo: Repository = Depends(get_repository),
+) -> ThemePage:
+    """Entradas do tema, com as de cada categoria em sequência."""
+    limit = min(limit, settings.max_page_size)
+    return repo.get_theme(slug=slug, limit=limit, offset=offset)
 
 
 @router.get(

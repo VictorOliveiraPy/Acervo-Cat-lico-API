@@ -25,6 +25,7 @@ from __future__ import annotations
 import json
 import logging
 import unicodedata
+from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -35,8 +36,10 @@ from app.core.exceptions import (
     CategoryNotFoundException,
     DataIntegrityError,
     EntryNotFoundException,
+    ThemeNotFoundException,
 )
 from app.image_assets import ImageAssetResolver
+from app.infrastructure.acervo.themes import theme_name, theme_slug
 from app.models import (
     AnyEntry,
     Category,
@@ -44,6 +47,9 @@ from app.models import (
     Dataset,
     EntryPage,
     SearchResult,
+    ThemePage,
+    ThemeRef,
+    ThemeSummary,
 )
 
 logger = logging.getLogger(__name__)
@@ -179,6 +185,8 @@ class Repository:
         self._entries: dict[Category, list[AnyEntry]] = {}
         self._by_slug: dict[Category, dict[str, AnyEntry]] = {}
         self._search_index: list[_SearchDoc] = []
+        self._themes: dict[str, ThemeSummary] = {}
+        self._theme_entries: dict[str, list[AnyEntry]] = {}
         self._updates: dict[str, dict[str, str]] = {}
         self._publications: dict[str, dict[str, str]] = {}
 
@@ -242,6 +250,7 @@ class Repository:
         self._entries = entries
         self._by_slug = by_slug
         self._search_index = search_index
+        self._build_themes()
 
         logger.info(
             "Acervo carregado",
@@ -251,6 +260,32 @@ class Repository:
                 "data_dir": str(self._data_dir),
             },
         )
+
+    def _build_themes(self) -> None:
+        """Reúne as tags em temas e registra em cada entrada os temas dela."""
+        variants: dict[str, Counter[str]] = {}
+        theme_entries: dict[str, list[AnyEntry]] = {}
+        for entry in self.all_entries():
+            seen: set[str] = set()
+            for tag in entry.tags:
+                slug = theme_slug(tag)
+                if not slug:
+                    continue
+                variants.setdefault(slug, Counter())[tag] += 1
+                if slug not in seen:
+                    seen.add(slug)
+                    theme_entries.setdefault(slug, []).append(entry)
+
+        names = {slug: theme_name(counter, slug) for slug, counter in variants.items()}
+        for entry in self.all_entries():
+            slugs = dict.fromkeys(theme_slug(tag) for tag in entry.tags)
+            entry.temas = [ThemeRef(slug=slug, nome=names[slug]) for slug in slugs if slug]
+
+        self._theme_entries = theme_entries
+        self._themes = {
+            slug: ThemeSummary(slug=slug, nome=names[slug], total=len(theme_entries[slug]))
+            for slug in sorted(theme_entries)
+        }
 
     def _load_dataset(self, category: Category, path: Path) -> Dataset:
         """Lê um arquivo de categoria, convertendo qualquer falha em erro claro."""
@@ -394,6 +429,24 @@ class Repository:
         if entry is None:
             raise EntryNotFoundException(category.value, slug)
         return entry
+
+    def list_themes(self, min_total: int = 1) -> list[ThemeSummary]:
+        """Temas com pelo menos `min_total` entradas, em ordem de slug."""
+        return [theme for theme in self._themes.values() if theme.total >= min_total]
+
+    def get_theme(self, slug: str, limit: int, offset: int) -> ThemePage:
+        """Página de entradas de um tema; 404 se nenhuma entrada o citar."""
+        theme = self._themes.get(slug)
+        if theme is None:
+            raise ThemeNotFoundException(slug)
+        return ThemePage(
+            slug=theme.slug,
+            nome=theme.nome,
+            total=theme.total,
+            limit=limit,
+            offset=offset,
+            itens=self._theme_entries[slug][offset : offset + limit],
+        )
 
     def search(
         self,

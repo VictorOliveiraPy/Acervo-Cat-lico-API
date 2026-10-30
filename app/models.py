@@ -76,6 +76,13 @@ class Category(str, Enum):
     CATEDRAIS_BASILICAS = "catedrais-basilicas-mundo"
 
 
+class ThemeRef(BaseModel):
+    """Tema de uma entrada: uma ou mais tags reunidas sob um mesmo slug."""
+
+    slug: str
+    nome: str
+
+
 class ContentEntry(BaseModel):
     """Campos comuns a toda entrada do acervo.
 
@@ -92,6 +99,8 @@ class ContentEntry(BaseModel):
     corpo: str = Field(min_length=1)
     categoria: Category
     tags: list[str] = Field(default_factory=list)
+    temas: list[ThemeRef] = Field(default_factory=list)
+    """Calculado na carga a partir de `tags`; não vem do arquivo de dados."""
     imagem: str | None = None
     imagem_credito: str | None = None
     """Crédito exigido pela licença da imagem (ex.: "Foto: Fulano — CC BY-SA
@@ -775,6 +784,20 @@ class EntryPage(BaseModel):
 
     categoria: Category
     total: int
+    limit: int
+    offset: int
+    itens: list[AnyEntry]
+
+
+class ThemeSummary(ThemeRef):
+    """Tema com o total de entradas que o citam."""
+
+    total: int
+
+
+class ThemePage(ThemeSummary):
+    """Página de entradas de um tema, com as de cada categoria em sequência."""
+
     limit: int
     offset: int
     itens: list[AnyEntry]

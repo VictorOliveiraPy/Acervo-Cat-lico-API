@@ -62,6 +62,17 @@ class LanguageNotFoundException(NotFoundException):
         )
 
 
+class ThemeNotFoundException(NotFoundException):
+    """Nenhuma entrada do acervo tem o tema pedido."""
+
+    def __init__(self, slug: str) -> None:
+        super().__init__(
+            message=f"Tema '{slug}' não existe no acervo.",
+            code="THEME_NOT_FOUND",
+            details={"slug": slug},
+        )
+
+
 class EntryNotFoundException(NotFoundException):
     """Entrada inexistente dentro de uma categoria existente."""
 
