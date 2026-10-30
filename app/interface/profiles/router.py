@@ -11,7 +11,7 @@ from __future__ import annotations
 
 import hmac
 
-from fastapi import APIRouter, Depends, Header, Query, Request, Response
+from fastapi import APIRouter, Depends, Header, Path, Query, Request, Response
 
 from app.core.config import settings
 from app.core.exceptions import (
@@ -19,9 +19,15 @@ from app.core.exceptions import (
     NotFoundException,
     ServiceUnavailableException,
 )
+from app.core.rate_limiting import build_rate_limiter
 from app.domain.profiles.repository import ProfileRepository
 from app.interface.profiles.schemas import (
+    FavoriteRequest,
+    FavoriteResponse,
     LessonsRequest,
+    NoteRequest,
+    NoteResponse,
+    PatronRequest,
     ProfileResponse,
     ProfileSyncRequest,
     ProfileUpdateRequest,
@@ -31,6 +37,10 @@ from app.interface.profiles.schemas import (
 router = APIRouter(prefix="/api", tags=["perfil"])
 
 RANKING_MAX = 100
+
+# Por pessoa, não por IP: estas rotas só recebem chamadas do servidor do site, então
+# contar por IP faria uma pessoa bloquear todas as outras.
+_write_limiter = build_rate_limiter(window_seconds=1.0)
 
 
 def get_profile_repository(request: Request) -> ProfileRepository:
@@ -101,8 +111,107 @@ async def delete_profile(
     subject: str = Depends(authenticated_subject),
     repo: ProfileRepository = Depends(get_profile_repository),
 ) -> None:
-    """Apaga o perfil e o progresso, a pedido da própria pessoa."""
+    """Apaga o perfil, o progresso, os favoritos e as anotações, a pedido da própria pessoa."""
     await repo.delete(subject)
+
+
+@router.put("/perfil/padroeiro", response_model=ProfileResponse)
+async def set_patron(
+    payload: PatronRequest,
+    subject: str = Depends(authenticated_subject),
+    repo: ProfileRepository = Depends(get_profile_repository),
+) -> ProfileResponse:
+    profile = await repo.set_patron(subject, payload.padroeiro_id)
+    return ProfileResponse.from_entity(_found(profile))  # type: ignore[arg-type]
+
+
+async def _before_adding(subject: str, repo: ProfileRepository) -> None:
+    _write_limiter.check(subject)
+    if not await repo.exists(subject):
+        _found(None)
+
+
+def _added(item: object) -> object:
+    if item is None:
+        raise AppException(
+            "Você chegou ao limite desta lista. Apague um item para guardar outro.",
+            status_code=409,
+            code="LIMITE_ATINGIDO",
+        )
+    return item
+
+
+def _deleted(found: bool) -> None:
+    if not found:
+        raise NotFoundException(message="Item não encontrado.", code="ITEM_NAO_ENCONTRADO")
+
+
+@router.get("/perfil/favoritos", response_model=list[FavoriteResponse])
+async def list_favorites(
+    subject: str = Depends(authenticated_subject),
+    repo: ProfileRepository = Depends(get_profile_repository),
+) -> list[FavoriteResponse]:
+    return [FavoriteResponse.from_entity(item) for item in await repo.list_favorites(subject)]
+
+
+@router.post("/perfil/favoritos", response_model=FavoriteResponse, status_code=201)
+async def add_favorite(
+    payload: FavoriteRequest,
+    subject: str = Depends(authenticated_subject),
+    repo: ProfileRepository = Depends(get_profile_repository),
+) -> FavoriteResponse:
+    await _before_adding(subject, repo)
+    favorite = await repo.add_favorite(
+        subject, payload.tipo, payload.texto, payload.referencia, payload.url_origem
+    )
+    return FavoriteResponse.from_entity(_added(favorite))  # type: ignore[arg-type]
+
+
+@router.delete(
+    "/perfil/favoritos/{favorite_id}",
+    status_code=204,
+    response_class=Response,
+    response_model=None,
+)
+async def delete_favorite(
+    favorite_id: int = Path(ge=1),
+    subject: str = Depends(authenticated_subject),
+    repo: ProfileRepository = Depends(get_profile_repository),
+) -> None:
+    _deleted(await repo.delete_favorite(subject, favorite_id))
+
+
+@router.get("/perfil/anotacoes", response_model=list[NoteResponse])
+async def list_notes(
+    subject: str = Depends(authenticated_subject),
+    repo: ProfileRepository = Depends(get_profile_repository),
+) -> list[NoteResponse]:
+    return [NoteResponse.from_entity(item) for item in await repo.list_notes(subject)]
+
+
+@router.post("/perfil/anotacoes", response_model=NoteResponse, status_code=201)
+async def add_note(
+    payload: NoteRequest,
+    subject: str = Depends(authenticated_subject),
+    repo: ProfileRepository = Depends(get_profile_repository),
+) -> NoteResponse:
+    await _before_adding(subject, repo)
+    note = await repo.add_note(subject, payload.categoria, payload.texto, payload.licao)
+    return NoteResponse.from_entity(_added(note))  # type: ignore[arg-type]
+
+
+@router.delete(
+    "/perfil/anotacoes/{note_id}",
+    status_code=204,
+    response_class=Response,
+    response_model=None,
+)
+async def delete_note(
+    note_id: int = Path(ge=1),
+    subject: str = Depends(authenticated_subject),
+    repo: ProfileRepository = Depends(get_profile_repository),
+) -> None:
+    _deleted(await repo.delete_note(subject, note_id))
 
 
 @router.get("/ranking", response_model=list[RankingRowResponse])
