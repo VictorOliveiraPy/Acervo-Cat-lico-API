@@ -17,6 +17,10 @@ from app.core.exceptions import ServiceUnavailableException
 from app.domain.liturgy.gateway import LiturgyExternalGateway
 from app.domain.liturgy.repository import DailyLiturgyRepository
 from app.infrastructure.liturgy.http_gateway import HttpLiturgyGateway
+from app.infrastructure.liturgy.railway_gateway import (
+    FallbackLiturgyGateway,
+    RailwayLiturgyGateway,
+)
 from app.interface.liturgy.schemas import DailyLiturgyResponse
 
 router = APIRouter(prefix="/api/liturgia-diaria", tags=["liturgia-diaria"])
@@ -28,7 +32,9 @@ _BRAZIL = timezone(timedelta(hours=-3))
 
 # Sem estado próprio (não fala rede na criação) — uma instância por
 # requisição não tem custo real, e evita compartilhar estado entre elas.
-_default_gateway = HttpLiturgyGateway()
+default_liturgy_gateway = FallbackLiturgyGateway(
+    [RailwayLiturgyGateway(), HttpLiturgyGateway()]
+)
 
 
 def _today_in_brazil() -> date:
@@ -51,7 +57,7 @@ def get_liturgy_repository(request: Request) -> DailyLiturgyRepository:
 def get_liturgy_gateway(request: Request) -> LiturgyExternalGateway:
     """Gateway real por padrão; testes sobrescrevem via
     `app.state.liturgy_gateway` com um fake, sem precisar mexer aqui."""
-    return getattr(request.app.state, "liturgy_gateway", None) or _default_gateway
+    return getattr(request.app.state, "liturgy_gateway", None) or default_liturgy_gateway
 
 
 @router.get("", response_model=DailyLiturgyResponse, summary="Liturgia do dia (leituras da Missa)")
@@ -66,5 +72,5 @@ async def get_daily_liturgy(
     """Cor litúrgica, celebração do dia e as leituras da Missa (1ª leitura,
     salmo, 2ª leitura quando houver, e evangelho)."""
     day = data or _today_in_brazil()
-    liturgy = await GetDailyLiturgyUseCase(repo, gateway).execute(day)
-    return DailyLiturgyResponse.from_entity(liturgy)
+    liturgy = await GetDailyLiturgyUseCase(repo, gateway).execute(day, allow_stale=data is None)
+    return DailyLiturgyResponse.from_entity(liturgy, requested=day)

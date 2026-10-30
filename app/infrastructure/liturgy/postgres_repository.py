@@ -93,6 +93,15 @@ class PostgresDailyLiturgyRepository(DailyLiturgyRepository):
             return None
         return _liturgy_from_payload(json.loads(row["payload"]))  # type: ignore[index]
 
+    async def get_latest(self, on_or_before: date) -> DailyLiturgy | None:
+        row = await self._pool.fetchrow(
+            "SELECT payload FROM liturgia_diaria WHERE data <= $1 ORDER BY data DESC LIMIT 1",
+            on_or_before,
+        )
+        if row is None:
+            return None
+        return _liturgy_from_payload(json.loads(row["payload"]))  # type: ignore[index]
+
     async def save(self, day: date, liturgy: DailyLiturgy) -> None:
         # `ON CONFLICT DO NOTHING`: se duas requisições baterem no mesmo
         # segundo num cache-miss (raro, mas possível), a segunda não quebra

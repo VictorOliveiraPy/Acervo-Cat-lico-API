@@ -7,6 +7,7 @@ from __future__ import annotations
 from datetime import date
 
 from app.domain.liturgy.entities import DailyLiturgy
+from app.domain.liturgy.exceptions import LiturgyFetchError
 from app.domain.liturgy.gateway import LiturgyExternalGateway
 from app.domain.liturgy.repository import DailyLiturgyRepository
 
@@ -26,12 +27,23 @@ class GetDailyLiturgyUseCase:
         self._repository = repository
         self._gateway = gateway
 
-    async def execute(self, day: date) -> DailyLiturgy:
+    async def execute(self, day: date, *, allow_stale: bool = False) -> DailyLiturgy:
+        """`allow_stale` devolve a última liturgia salva se as fontes falharem.
+
+        Só serve para "a liturgia de hoje": quem pede uma data específica não
+        pode receber as leituras de outro dia.
+        """
         cached = await self._repository.get_cached(day)
         if cached is not None:
             return cached
 
-        liturgy = await self._gateway.fetch(day)
+        try:
+            liturgy = await self._gateway.fetch(day)
+        except LiturgyFetchError:
+            latest = await self._repository.get_latest(day) if allow_stale else None
+            if latest is None:
+                raise
+            return latest
 
         # `save` não impede que duas requisições no mesmo cache-miss façam a
         # mesma gravação (ver `PostgresDailyLiturgyRepository.save`,

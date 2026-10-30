@@ -17,3 +17,7 @@ class InMemoryDailyLiturgyRepository(DailyLiturgyRepository):
 
     async def save(self, day: date, liturgy: DailyLiturgy) -> None:
         self._cache[day] = liturgy
+
+    async def get_latest(self, on_or_before: date) -> DailyLiturgy | None:
+        days = [day for day in self._cache if day <= on_or_before]
+        return self._cache[max(days)] if days else None

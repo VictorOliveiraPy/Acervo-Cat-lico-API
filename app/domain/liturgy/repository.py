@@ -19,6 +19,10 @@ class DailyLiturgyRepository(ABC):
     """Interface que o use case depende — implementação é um detalhe."""
 
     @abstractmethod
+    async def get_latest(self, on_or_before: date) -> DailyLiturgy | None:
+        """A liturgia salva mais recente até a data dada."""
+
+    @abstractmethod
     async def get_cached(self, day: date) -> DailyLiturgy | None: ...
 
     @abstractmethod

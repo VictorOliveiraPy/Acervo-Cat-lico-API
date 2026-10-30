@@ -36,10 +36,15 @@ class DailyLiturgyResponse(BaseModel):
     segunda_leitura: LiturgicalReadingResponse | None = None
     evangelho: LiturgicalReadingResponse
     fonte: str
+    # Verdadeiro quando as fontes falharam e esta é a última liturgia salva.
+    desatualizada: bool = False
 
     @classmethod
-    def from_entity(cls, liturgy: DailyLiturgy) -> DailyLiturgyResponse:
+    def from_entity(
+        cls, liturgy: DailyLiturgy, requested: date | None = None
+    ) -> DailyLiturgyResponse:
         return cls(
+            desatualizada=requested is not None and liturgy.date != requested,
             data=liturgy.date,
             cor_liturgica=liturgy.liturgical_color,
             celebracao=liturgy.celebration,

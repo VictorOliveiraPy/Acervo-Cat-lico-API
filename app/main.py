@@ -17,6 +17,7 @@ sem qualquer uma das três, responde 503 e o resto da API segue normal.
 
 from __future__ import annotations
 
+import asyncio
 import logging
 from collections.abc import AsyncIterator
 from contextlib import asynccontextmanager
@@ -27,6 +28,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 
+from app.application.liturgy.prefetch_liturgy import prefetch_forever
 from app.core.config import settings
 from app.core.security_headers import SecurityHeadersMiddleware
 from app.infrastructure.acervo.json_repository import repository
@@ -42,6 +44,7 @@ from app.interface.acervo.router import router
 from app.interface.candles.router import router as candles_router
 from app.interface.chat.router import router as chat_router
 from app.interface.exception_handlers import register_exception_handlers
+from app.interface.liturgy.router import default_liturgy_gateway
 from app.interface.liturgy.router import router as liturgy_router
 from app.interface.profiles.router import router as profiles_router
 
@@ -119,7 +122,14 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
             "total_entradas": repository.total_entries,
         },
     )
+    prefetch_task: asyncio.Task[None] | None = None
+    if app.state.liturgy_repository is not None:
+        prefetch_task = asyncio.create_task(
+            prefetch_forever(app.state.liturgy_repository, default_liturgy_gateway)
+        )
     yield
+    if prefetch_task is not None:
+        prefetch_task.cancel()
     if pool is not None:
         await pool.close()
     logger.info("API encerrada")
