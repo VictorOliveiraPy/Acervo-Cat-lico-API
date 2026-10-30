@@ -59,6 +59,10 @@ class Settings(BaseSettings):
     # parte. Formato: postgresql://usuario:senha@host/banco?sslmode=require
     database_url: str | None = None
 
+    # Segredo compartilhado com o servidor do site para as rotas de perfil: é ele
+    # que atesta quem está logado. Sem ele, /api/perfil responde 503.
+    internal_api_secret: str | None = None
+
     # Chatbot do acervo (RAG, `/api/chat`) — feature opcional como o mural de
     # velas: sem as duas chaves de API abaixo (ou sem `DATABASE_URL`, que
     # guarda os embeddings), o endpoint responde 503 em vez de derrubar a
