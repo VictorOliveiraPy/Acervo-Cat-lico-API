@@ -50,6 +50,7 @@ logger = logging.getLogger(__name__)
 
 # Manifesto de datas de atualização, ao lado dos arquivos de dados (ver scripts/gerar_atualizacoes.py).
 UPDATES_FILENAME = "atualizacoes.json"
+PUBLICATIONS_FILENAME = "publicacoes.json"
 
 # `app/infrastructure/acervo/json_repository.py` -> sobe três níveis pra
 # chegar em `app/`, onde `data/` mora — movido de `app/repository.py`
@@ -179,12 +180,13 @@ class Repository:
         self._by_slug: dict[Category, dict[str, AnyEntry]] = {}
         self._search_index: list[_SearchDoc] = []
         self._updates: dict[str, dict[str, str]] = {}
+        self._publications: dict[str, dict[str, str]] = {}
 
     # ------------------------------------------------------------------ carga
 
-    def _load_updates(self) -> dict[str, dict[str, str]]:
-        """Manifesto `atualizacoes.json` (`categoria -> slug -> data`); ausente = sem datas."""
-        path = self._data_dir / UPDATES_FILENAME
+    def _load_dates(self, filename: str) -> dict[str, dict[str, str]]:
+        """Manifesto de datas (`categoria -> slug -> data`); ausente = sem datas."""
+        path = self._data_dir / filename
         if not path.exists():
             return {}
         try:
@@ -206,7 +208,8 @@ class Repository:
         entries: dict[Category, list[AnyEntry]] = {}
         by_slug: dict[Category, dict[str, AnyEntry]] = {}
         search_index: list[_SearchDoc] = []
-        self._updates = self._load_updates()
+        self._updates = self._load_dates(UPDATES_FILENAME)
+        self._publications = self._load_dates(PUBLICATIONS_FILENAME)
         image_resolver = ImageAssetResolver(
             settings.image_manifest_path, settings.image_cdn_base_url
         )
@@ -262,13 +265,18 @@ class Repository:
             raise DataIntegrityError(f"{path.name}: JSON inválido — {exc}") from exc
 
         # Injeta a data de atualização do manifesto (quando a entrada não traz a sua).
+        # `atualizado_em: null` no arquivo também recebe a data: só o valor preenchido vale.
         dates = self._updates.get(category.value, {})
+        published = self._publications.get(category.value, {})
         if isinstance(raw, dict):
             for item in raw.get("itens", []):
-                if isinstance(item, dict) and "atualizado_em" not in item:
-                    date_value = dates.get(item.get("slug", ""))
-                    if date_value:
-                        item["atualizado_em"] = date_value
+                if not isinstance(item, dict):
+                    continue
+                slug = item.get("slug", "")
+                if item.get("atualizado_em") is None and dates.get(slug):
+                    item["atualizado_em"] = dates[slug]
+                if published.get(slug):
+                    item["publicado_em"] = published[slug]
 
         try:
             dataset = Dataset.model_validate(raw)

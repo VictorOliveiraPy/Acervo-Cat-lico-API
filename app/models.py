@@ -99,6 +99,8 @@ class ContentEntry(BaseModel):
     não é obrigatório (ainda que seja boa prática). Nunca preenchido sem
     `imagem` também estar preenchida."""
     fontes: list[str] = Field(default_factory=list)
+    publicado_em: date | None = None
+    """Primeira vez que a entrada apareceu no histórico do Git (`publicacoes.json`)."""
     atualizado_em: date | None = None
     """Data da última alteração do CONTEÚDO desta entrada (ISO, `AAAA-MM-DD`).
 

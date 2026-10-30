@@ -26,6 +26,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DATA_REL = "app/data"
 MANIFEST_NAME = "atualizacoes.json"
+PUBLICATIONS_NAME = "publicacoes.json"
 
 Versao = tuple[str, dict[str, dict]]  # (data ISO, slug -> item)
 
@@ -52,6 +53,16 @@ def ultimas_alteracoes(versoes: list[Versao]) -> dict[str, str]:
             if anterior.get(slug) != sig:
                 datas[slug] = data
         anterior = atual
+    ultimos = versoes[-1][1] if versoes else {}
+    return {slug: data for slug, data in datas.items() if slug in ultimos}
+
+
+def primeiras_publicacoes(versoes: list[Versao]) -> dict[str, str]:
+    """`slug -> data` da primeira versão em que a entrada existe, se ainda existir."""
+    datas: dict[str, str] = {}
+    for data, itens in versoes:
+        for slug in itens:
+            datas.setdefault(slug, data)
     ultimos = versoes[-1][1] if versoes else {}
     return {slug: data for slug, data in datas.items() if slug in ultimos}
 
@@ -99,7 +110,7 @@ def gerar(root: Path, hoje: date, categorias: list[str] | None = None) -> dict[s
     todas = sorted(
         p.stem
         for p in data_dir.glob("*.json")
-        if p.name != MANIFEST_NAME and isinstance(json.loads(p.read_text(encoding="utf-8")), dict)
+        if p.name not in (MANIFEST_NAME, PUBLICATIONS_NAME) and isinstance(json.loads(p.read_text(encoding="utf-8")), dict)
         and "_meta" in json.loads(p.read_text(encoding="utf-8"))
     )
     manifesto_atual = data_dir / MANIFEST_NAME
@@ -109,6 +120,20 @@ def gerar(root: Path, hoje: date, categorias: list[str] | None = None) -> dict[s
     for categoria in categorias or todas:
         resultado[categoria] = dict(sorted(ultimas_alteracoes(versoes_do_arquivo(root, categoria, hoje)).items()))
     return dict(sorted(resultado.items()))
+
+
+def gerar_publicacoes(root: Path, hoje: date) -> dict[str, dict[str, str]]:
+    """Manifesto `categoria -> slug -> primeira data`, sempre de todas as categorias."""
+    data_dir = root / DATA_REL
+    resultado: dict[str, dict[str, str]] = {}
+    for caminho in sorted(data_dir.glob("*.json")):
+        if caminho.name in (MANIFEST_NAME, PUBLICATIONS_NAME):
+            continue
+        bruto = json.loads(caminho.read_text(encoding="utf-8"))
+        if isinstance(bruto, dict) and "_meta" in bruto:
+            versoes = versoes_do_arquivo(root, caminho.stem, hoje)
+            resultado[caminho.stem] = dict(sorted(primeiras_publicacoes(versoes).items()))
+    return resultado
 
 
 def _serializar(manifesto: dict) -> str:
@@ -133,6 +158,9 @@ def main() -> int:
         return 0
 
     destino.write_text(novo, encoding="utf-8")
+    (ROOT / DATA_REL / PUBLICATIONS_NAME).write_text(
+        _serializar(gerar_publicacoes(ROOT, date.today())), encoding="utf-8"
+    )
     total = sum(len(v) for v in manifesto.values())
     print(f"{destino.relative_to(ROOT)}: {total} entradas em {len(manifesto)} categorias")
     return 0
