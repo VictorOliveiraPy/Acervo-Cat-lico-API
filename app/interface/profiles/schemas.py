@@ -7,12 +7,17 @@ from typing import Annotated, Literal
 
 from pydantic import BaseModel, Field, StringConstraints
 
-from app.domain.profiles.entities import Favorite, Note, Profile, RankingRow
+from app.domain.profiles.entities import (
+    Favorite,
+    Note,
+    PatronSaint,
+    Profile,
+    RankingRow,
+)
 
 DisplayName = Annotated[str, StringConstraints(strip_whitespace=True, min_length=2, max_length=40)]
 Slug = Annotated[str, StringConstraints(pattern=r"^[a-z0-9-]{1,80}$")]
 
-PatronSaint = Literal["francisco", "maria", "jose", "teresinha"]
 FavoriteKind = Literal["Bíblia", "Catecismo", "Oração", "Santos"]
 NoteTag = Literal["Lição", "Leitura do dia", "Homilia", "Oração", "Dúvida para o padre"]
 LongText = Annotated[str, StringConstraints(strip_whitespace=True, min_length=1, max_length=2000)]
@@ -59,7 +64,7 @@ class ProfileResponse(BaseModel):
     no_ranking: bool
     pontos: int
     licoes: list[str]
-    padroeiro_id: str
+    padroeiro_id: PatronSaint | None
 
     @classmethod
     def from_entity(cls, profile: Profile) -> ProfileResponse:

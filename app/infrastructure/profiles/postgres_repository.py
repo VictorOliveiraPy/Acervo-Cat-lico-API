@@ -13,6 +13,7 @@ from app.domain.profiles.entities import (
     POINTS_PER_LESSON,
     Favorite,
     Note,
+    PatronSaint,
     Profile,
     RankingRow,
 )
@@ -71,7 +72,10 @@ class PostgresProfileRepository(ProfileRepository):
                 PRIMARY KEY (google_sub, licao)
             );
             ALTER TABLE perfis
-                ADD COLUMN IF NOT EXISTS padroeiro_id TEXT NOT NULL DEFAULT 'francisco';
+                ADD COLUMN IF NOT EXISTS padroeiro_id TEXT;
+            -- Perfil novo fica sem padroeiro até a pessoa escolher; os antigos mantêm o seu.
+            ALTER TABLE perfis ALTER COLUMN padroeiro_id DROP NOT NULL;
+            ALTER TABLE perfis ALTER COLUMN padroeiro_id DROP DEFAULT;
             CREATE TABLE IF NOT EXISTS favoritos (
                 id BIGSERIAL PRIMARY KEY,
                 google_sub TEXT NOT NULL REFERENCES perfis (google_sub) ON DELETE CASCADE,
@@ -138,7 +142,7 @@ class PostgresProfileRepository(ProfileRepository):
         row = await self._pool.fetchrow("SELECT 1 FROM perfis WHERE google_sub = $1", subject)
         return row is not None
 
-    async def set_patron(self, subject: str, patron_saint: str) -> Profile | None:
+    async def set_patron(self, subject: str, patron_saint: PatronSaint) -> Profile | None:
         await self._pool.execute(
             "UPDATE perfis SET padroeiro_id = $2 WHERE google_sub = $1",
             subject,

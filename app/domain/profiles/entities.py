@@ -9,13 +9,26 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from datetime import datetime
+from typing import Literal
 
 # Pontos por lição concluída. Só exercícios pontuam: oração, velas e santos não,
 # regra aprovada para não gamificar a vida espiritual.
 POINTS_PER_LESSON = 10
 
-PATRON_SAINTS = ("francisco", "maria", "jose", "teresinha")
-DEFAULT_PATRON = "francisco"
+# Mesmos ids de `lib/padroeiros.ts` no site. Perfil novo começa sem padroeiro: a
+# escolha é o primeiro passo depois de criar a conta.
+PatronSaint = Literal[
+    "francisco",
+    "maria",
+    "jose",
+    "teresinha",
+    "antonio",
+    "pedro",
+    "bento",
+    "miguel",
+    "carlo",
+    "cecilia",
+]
 
 # Teto por pessoa em cada lista: sem ele, uma conta só poderia encher o banco.
 MAX_ITEMS_PER_USER = 500
@@ -28,7 +41,7 @@ class Profile:
     show_in_ranking: bool
     points: int
     completed_lessons: list[str]
-    patron_saint: str = DEFAULT_PATRON
+    patron_saint: PatronSaint | None = None
 
 
 @dataclass(frozen=True)

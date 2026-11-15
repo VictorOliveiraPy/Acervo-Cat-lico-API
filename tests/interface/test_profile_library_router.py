@@ -165,16 +165,19 @@ def test_should_delete_favorites_and_notes_with_the_account(client: TestClient) 
         assert client.get(path, headers=ANA).json() == []
 
 
-def test_should_default_and_change_the_patron(client: TestClient) -> None:
+def test_should_start_without_a_patron_until_one_is_chosen(client: TestClient) -> None:
     profile = client.post("/api/perfil", json={"nome": "Ana"}, headers=ANA).json()
-    assert profile["padroeiro_id"] == "francisco"
+    assert profile["padroeiro_id"] is None
 
-    changed = client.put("/api/perfil/padroeiro", json={"padroeiro_id": "jose"}, headers=ANA)
+    changed = client.put("/api/perfil/padroeiro", json={"padroeiro_id": "cecilia"}, headers=ANA)
 
-    assert changed.json()["padroeiro_id"] == "jose"
+    assert changed.json()["padroeiro_id"] == "cecilia"
+    assert client.post("/api/perfil", json={"nome": "Ana"}, headers=ANA).json()[
+        "padroeiro_id"
+    ] == "cecilia"
     assert client.post("/api/perfil", json={"nome": "Bia"}, headers=BIA).json()[
         "padroeiro_id"
-    ] == "francisco"
+    ] is None
 
 
 def test_should_refuse_an_unknown_patron(client: TestClient) -> None:

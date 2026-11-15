@@ -6,11 +6,11 @@ from dataclasses import dataclass, field
 from datetime import UTC, datetime
 
 from app.domain.profiles.entities import (
-    DEFAULT_PATRON,
     MAX_ITEMS_PER_USER,
     POINTS_PER_LESSON,
     Favorite,
     Note,
+    PatronSaint,
     Profile,
     RankingRow,
 )
@@ -23,7 +23,7 @@ class _Row:
     preferences: list[str] = field(default_factory=list)
     show_in_ranking: bool = False
     lessons: list[str] = field(default_factory=list)
-    patron_saint: str = DEFAULT_PATRON
+    patron_saint: PatronSaint | None = None
     favorites: list[Favorite] = field(default_factory=list)
     notes: list[Note] = field(default_factory=list)
 
@@ -51,7 +51,7 @@ class InMemoryProfileRepository(ProfileRepository):
     async def exists(self, subject: str) -> bool:
         return subject in self._rows
 
-    async def set_patron(self, subject: str, patron_saint: str) -> Profile | None:
+    async def set_patron(self, subject: str, patron_saint: PatronSaint) -> Profile | None:
         row = self._rows.get(subject)
         if row is None:
             return None

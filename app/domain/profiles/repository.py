@@ -8,7 +8,13 @@ from __future__ import annotations
 
 from abc import ABC, abstractmethod
 
-from app.domain.profiles.entities import Favorite, Note, Profile, RankingRow
+from app.domain.profiles.entities import (
+    Favorite,
+    Note,
+    PatronSaint,
+    Profile,
+    RankingRow,
+)
 
 
 class ProfileRepository(ABC):
@@ -20,7 +26,7 @@ class ProfileRepository(ABC):
     async def exists(self, subject: str) -> bool: ...
 
     @abstractmethod
-    async def set_patron(self, subject: str, patron_saint: str) -> Profile | None: ...
+    async def set_patron(self, subject: str, patron_saint: PatronSaint) -> Profile | None: ...
 
     @abstractmethod
     async def update(
