@@ -2,12 +2,14 @@
 
 from __future__ import annotations
 
-from datetime import datetime
+from datetime import date, datetime
 from typing import Annotated, Literal
 
 from pydantic import BaseModel, Field, StringConstraints
 
 from app.domain.profiles.entities import (
+    ACTIVITIES,
+    ActivityId,
     Favorite,
     Note,
     PatronSaint,
@@ -45,6 +47,18 @@ class PatronRequest(BaseModel):
     padroeiro_id: PatronSaint
 
 
+class ActivityRequest(BaseModel):
+    atividade: ActivityId
+
+
+class ActivityResponse(BaseModel):
+    id: str
+    nome: str
+    descricao: str
+    pontos: int
+    feita_hoje: bool
+
+
 class FavoriteRequest(BaseModel):
     tipo: FavoriteKind
     texto: LongText
@@ -65,9 +79,10 @@ class ProfileResponse(BaseModel):
     pontos: int
     licoes: list[str]
     padroeiro_id: PatronSaint | None
+    atividades: list[ActivityResponse]
 
     @classmethod
-    def from_entity(cls, profile: Profile) -> ProfileResponse:
+    def from_entity(cls, profile: Profile, today: date) -> ProfileResponse:
         return cls(
             nome=profile.display_name,
             preferencias=profile.preferences,
@@ -75,6 +90,16 @@ class ProfileResponse(BaseModel):
             pontos=profile.points,
             licoes=profile.completed_lessons,
             padroeiro_id=profile.patron_saint,
+            atividades=[
+                ActivityResponse(
+                    id=activity.id,
+                    nome=activity.name,
+                    descricao=activity.description,
+                    pontos=activity.points,
+                    feita_hoje=profile.last_activity_days.get(activity.id) == today,
+                )
+                for activity in ACTIVITIES
+            ],
         )
 
 

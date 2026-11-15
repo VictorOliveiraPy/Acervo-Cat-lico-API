@@ -1,19 +1,54 @@
 """Entidades do perfil de quem estuda na Academia da Fé.
 
 Quem identifica a pessoa é o `sub` do Google, recebido do site. A API não guarda
-e-mail nem foto: nome de exibição, padroeiro, preferências, lições concluídas, textos
-favoritos e anotações. O exame de consciência nunca chega aqui: fica só no navegador.
+e-mail nem foto: nome de exibição, padroeiro, preferências, lições concluídas, práticas
+marcadas por dia, textos favoritos e anotações. O exame de consciência nunca chega aqui: fica só no navegador.
 """
 
 from __future__ import annotations
 
-from dataclasses import dataclass
-from datetime import datetime
+from dataclasses import dataclass, field
+from datetime import date, datetime
 from typing import Literal
 
-# Pontos por lição concluída. Só exercícios pontuam: oração, velas e santos não,
-# regra aprovada para não gamificar a vida espiritual.
+# Pontos por lição concluída.
 POINTS_PER_LESSON = 10
+
+# Práticas do dia, vindas do Santo Guardião: cada uma pontua uma vez por dia. A antiga
+# regra de não pontuar a vida espiritual foi revogada na fusão com o Santo Guardião.
+ActivityId = Literal[
+    "terco",
+    "leitura_biblica",
+    "missa",
+    "caridade",
+    "adoracao",
+    "novena",
+    "confissao",
+    "jejum",
+    "oracao_livre",
+]
+
+
+@dataclass(frozen=True)
+class Activity:
+    id: ActivityId
+    name: str
+    description: str
+    points: int
+
+
+ACTIVITIES: tuple[Activity, ...] = (
+    Activity("terco", "Rezar o Terço", "Complete as 5 dezenas do terço", 15),
+    Activity("leitura_biblica", "Leitura Bíblica", "Leia um capítulo da Bíblia", 20),
+    Activity("missa", "Participar da Missa", "Participe da Santa Missa", 50),
+    Activity("caridade", "Obra de Caridade", "Pratique uma obra de misericórdia", 40),
+    Activity("adoracao", "Adoração ao Santíssimo", "Faça adoração eucarística", 35),
+    Activity("novena", "Novena do Santo", "Complete um dia da novena", 25),
+    Activity("confissao", "Confissão", "Receba o sacramento da reconciliação", 45),
+    Activity("jejum", "Jejum", "Pratique o jejum como sacrifício", 30),
+    Activity("oracao_livre", "Oração Livre", "Dedique tempo à oração pessoal", 10),
+)
+ACTIVITY_POINTS: dict[str, int] = {activity.id: activity.points for activity in ACTIVITIES}
 
 # Mesmos ids de `lib/padroeiros.ts` no site. Perfil novo começa sem padroeiro: a
 # escolha é o primeiro passo depois de criar a conta.
@@ -42,6 +77,8 @@ class Profile:
     points: int
     completed_lessons: list[str]
     patron_saint: PatronSaint | None = None
+    # Último dia em que cada prática foi marcada; quem decide o que é "hoje" é a rota.
+    last_activity_days: dict[str, date] = field(default_factory=dict)
 
 
 @dataclass(frozen=True)

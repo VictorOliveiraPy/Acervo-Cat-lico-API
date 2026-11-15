@@ -10,6 +10,7 @@ informando um `sub`. Registrado antes do router do acervo em `main.py`, porque
 from __future__ import annotations
 
 import hmac
+from datetime import date, datetime, timedelta, timezone
 
 from fastapi import APIRouter, Depends, Header, Path, Query, Request, Response
 
@@ -22,6 +23,7 @@ from app.core.exceptions import (
 from app.core.rate_limiting import build_rate_limiter
 from app.domain.profiles.repository import ProfileRepository
 from app.interface.profiles.schemas import (
+    ActivityRequest,
     FavoriteRequest,
     FavoriteResponse,
     LessonsRequest,
@@ -37,6 +39,13 @@ from app.interface.profiles.schemas import (
 router = APIRouter(prefix="/api", tags=["perfil"])
 
 RANKING_MAX = 100
+
+_BRAZIL = timezone(timedelta(hours=-3))
+
+
+def brazil_today() -> date:
+    """O "dia" das práticas é o de Brasília, não o do servidor nem o do navegador."""
+    return datetime.now(_BRAZIL).date()
 
 # Por pessoa, não por IP: estas rotas só recebem chamadas do servidor do site, então
 # contar por IP faria uma pessoa bloquear todas as outras.
@@ -80,9 +89,10 @@ async def sync_profile(
     payload: ProfileSyncRequest,
     subject: str = Depends(authenticated_subject),
     repo: ProfileRepository = Depends(get_profile_repository),
+    today: date = Depends(brazil_today),
 ) -> ProfileResponse:
     """Devolve o perfil, criando-o no primeiro acesso."""
-    return ProfileResponse.from_entity(await repo.ensure(subject, payload.nome))
+    return ProfileResponse.from_entity(await repo.ensure(subject, payload.nome), today)
 
 
 @router.put("/perfil", response_model=ProfileResponse)
@@ -90,9 +100,10 @@ async def update_profile(
     payload: ProfileUpdateRequest,
     subject: str = Depends(authenticated_subject),
     repo: ProfileRepository = Depends(get_profile_repository),
+    today: date = Depends(brazil_today),
 ) -> ProfileResponse:
     profile = await repo.update(subject, payload.nome, payload.preferencias, payload.no_ranking)
-    return ProfileResponse.from_entity(_found(profile))  # type: ignore[arg-type]
+    return ProfileResponse.from_entity(_found(profile), today)  # type: ignore[arg-type]
 
 
 @router.post("/perfil/licoes", response_model=ProfileResponse)
@@ -100,10 +111,26 @@ async def complete_lessons(
     payload: LessonsRequest,
     subject: str = Depends(authenticated_subject),
     repo: ProfileRepository = Depends(get_profile_repository),
+    today: date = Depends(brazil_today),
 ) -> ProfileResponse:
     """Conclui lições; repetir uma lição não soma pontos de novo."""
     profile = await repo.complete_lessons(subject, payload.licoes)
-    return ProfileResponse.from_entity(_found(profile))  # type: ignore[arg-type]
+    return ProfileResponse.from_entity(_found(profile), today)  # type: ignore[arg-type]
+
+
+@router.post("/perfil/atividades", response_model=ProfileResponse)
+async def complete_activity(
+    payload: ActivityRequest,
+    subject: str = Depends(authenticated_subject),
+    repo: ProfileRepository = Depends(get_profile_repository),
+    today: date = Depends(brazil_today),
+) -> ProfileResponse:
+    """Marca a prática de hoje; marcar de novo no mesmo dia não soma pontos.
+
+    Sem limitador: a chave (pessoa, prática, dia) já limita a 9 linhas por dia.
+    """
+    profile = await repo.complete_activity(subject, payload.atividade, today)
+    return ProfileResponse.from_entity(_found(profile), today)  # type: ignore[arg-type]
 
 
 @router.delete("/perfil", status_code=204, response_class=Response, response_model=None)
@@ -120,9 +147,10 @@ async def set_patron(
     payload: PatronRequest,
     subject: str = Depends(authenticated_subject),
     repo: ProfileRepository = Depends(get_profile_repository),
+    today: date = Depends(brazil_today),
 ) -> ProfileResponse:
     profile = await repo.set_patron(subject, payload.padroeiro_id)
-    return ProfileResponse.from_entity(_found(profile))  # type: ignore[arg-type]
+    return ProfileResponse.from_entity(_found(profile), today)  # type: ignore[arg-type]
 
 
 async def _before_adding(subject: str, repo: ProfileRepository) -> None:

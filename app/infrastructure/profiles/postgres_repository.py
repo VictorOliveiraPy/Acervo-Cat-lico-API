@@ -6,11 +6,14 @@ divergirem delas. Colunas em português, como as demais tabelas do projeto.
 
 from __future__ import annotations
 
+from datetime import date
 from typing import Any, Protocol
 
 from app.domain.profiles.entities import (
+    ACTIVITY_POINTS,
     MAX_ITEMS_PER_USER,
     POINTS_PER_LESSON,
+    ActivityId,
     Favorite,
     Note,
     PatronSaint,
@@ -76,6 +79,15 @@ class PostgresProfileRepository(ProfileRepository):
             -- Perfil novo fica sem padroeiro até a pessoa escolher; os antigos mantêm o seu.
             ALTER TABLE perfis ALTER COLUMN padroeiro_id DROP NOT NULL;
             ALTER TABLE perfis ALTER COLUMN padroeiro_id DROP DEFAULT;
+            -- Uma linha por prática e dia: marcar de novo no mesmo dia não duplica.
+            -- `pontos` guarda o que valia na hora, para mudar a tabela sem mexer no passado.
+            CREATE TABLE IF NOT EXISTS perfil_atividades (
+                google_sub TEXT NOT NULL REFERENCES perfis (google_sub) ON DELETE CASCADE,
+                atividade TEXT NOT NULL,
+                dia DATE NOT NULL,
+                pontos INT NOT NULL,
+                PRIMARY KEY (google_sub, atividade, dia)
+            );
             CREATE TABLE IF NOT EXISTS favoritos (
                 id BIGSERIAL PRIMARY KEY,
                 google_sub TEXT NOT NULL REFERENCES perfis (google_sub) ON DELETE CASCADE,
@@ -116,13 +128,22 @@ class PostgresProfileRepository(ProfileRepository):
             subject,
         )
         slugs = [lesson["licao"] for lesson in lessons]
+        activities = await self._pool.fetch(
+            """
+            SELECT atividade, max(dia) AS ultimo_dia, sum(pontos)::int AS pontos
+            FROM perfil_atividades WHERE google_sub = $1
+            GROUP BY atividade
+            """,
+            subject,
+        )
         return Profile(
             display_name=row["nome_exibicao"],
             preferences=list(row["preferencias"]),
             show_in_ranking=row["no_ranking"],
-            points=len(slugs) * POINTS_PER_LESSON,
+            points=len(slugs) * POINTS_PER_LESSON + sum(a["pontos"] for a in activities),
             completed_lessons=slugs,
             patron_saint=row["padroeiro_id"],
+            last_activity_days={a["atividade"]: a["ultimo_dia"] for a in activities},
         )
 
     async def ensure(self, subject: str, display_name: str) -> Profile:
@@ -183,18 +204,42 @@ class PostgresProfileRepository(ProfileRepository):
         )
         return await self._load(subject)
 
+    async def complete_activity(
+        self, subject: str, activity: ActivityId, day: date
+    ) -> Profile | None:
+        if not await self.exists(subject):
+            return None
+        await self._pool.execute(
+            """
+            INSERT INTO perfil_atividades (google_sub, atividade, dia, pontos)
+            VALUES ($1, $2, $3, $4)
+            ON CONFLICT (google_sub, atividade, dia) DO NOTHING
+            """,
+            subject,
+            activity,
+            day,
+            ACTIVITY_POINTS[activity],
+        )
+        return await self._load(subject)
+
     async def delete(self, subject: str) -> None:
         await self._pool.execute("DELETE FROM perfis WHERE google_sub = $1", subject)
 
     async def ranking(self, limit: int) -> list[RankingRow]:
         rows = await self._pool.fetch(
             """
-            SELECT p.nome_exibicao, count(l.licao) * $2::int AS pontos
-            FROM perfis p
-            JOIN perfil_licoes l ON l.google_sub = p.google_sub
-            WHERE p.no_ranking
-            GROUP BY p.google_sub, p.nome_exibicao
-            ORDER BY pontos DESC, p.nome_exibicao
+            SELECT nome_exibicao, pontos FROM (
+                SELECT
+                    p.nome_exibicao,
+                    (SELECT count(*) FROM perfil_licoes l WHERE l.google_sub = p.google_sub)
+                        * $2::int
+                    + (SELECT coalesce(sum(a.pontos), 0) FROM perfil_atividades a
+                       WHERE a.google_sub = p.google_sub)::int AS pontos
+                FROM perfis p
+                WHERE p.no_ranking
+            ) pontuados
+            WHERE pontos > 0
+            ORDER BY pontos DESC, nome_exibicao
             LIMIT $1
             """,
             limit,

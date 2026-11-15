@@ -7,8 +7,10 @@ testes, ambos em `app.infrastructure.profiles`.
 from __future__ import annotations
 
 from abc import ABC, abstractmethod
+from datetime import date
 
 from app.domain.profiles.entities import (
+    ActivityId,
     Favorite,
     Note,
     PatronSaint,
@@ -42,12 +44,18 @@ class ProfileRepository(ABC):
         """Conclui as lições; repetir uma lição não soma pontos de novo."""
 
     @abstractmethod
+    async def complete_activity(
+        self, subject: str, activity: ActivityId, day: date
+    ) -> Profile | None:
+        """Marca a prática no dia; marcar de novo no mesmo dia não soma pontos."""
+
+    @abstractmethod
     async def delete(self, subject: str) -> None:
         """Apaga o perfil e, com ele, lições, favoritos e anotações."""
 
     @abstractmethod
     async def ranking(self, limit: int) -> list[RankingRow]:
-        """Só quem optou por aparecer, com pelo menos uma lição concluída."""
+        """Só quem optou por aparecer e tem algum ponto, de lição ou de prática."""
 
     @abstractmethod
     async def list_favorites(self, subject: str) -> list[Favorite]:

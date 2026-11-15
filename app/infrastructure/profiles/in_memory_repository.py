@@ -3,11 +3,13 @@
 from __future__ import annotations
 
 from dataclasses import dataclass, field
-from datetime import UTC, datetime
+from datetime import UTC, date, datetime
 
 from app.domain.profiles.entities import (
+    ACTIVITY_POINTS,
     MAX_ITEMS_PER_USER,
     POINTS_PER_LESSON,
+    ActivityId,
     Favorite,
     Note,
     PatronSaint,
@@ -24,6 +26,8 @@ class _Row:
     show_in_ranking: bool = False
     lessons: list[str] = field(default_factory=list)
     patron_saint: PatronSaint | None = None
+    # (prática, dia) -> pontos ganhos naquele dia.
+    activities: dict[tuple[str, date], int] = field(default_factory=dict)
     favorites: list[Favorite] = field(default_factory=list)
     notes: list[Note] = field(default_factory=list)
 
@@ -34,14 +38,22 @@ class InMemoryProfileRepository(ProfileRepository):
         self._next_id = 0
 
     @staticmethod
+    def _points(row: _Row) -> int:
+        return len(row.lessons) * POINTS_PER_LESSON + sum(row.activities.values())
+
+    @staticmethod
     def _to_profile(row: _Row) -> Profile:
+        last_days: dict[str, date] = {}
+        for activity, day in sorted(row.activities, key=lambda key: key[1]):
+            last_days[activity] = day
         return Profile(
             display_name=row.display_name,
             preferences=list(row.preferences),
             show_in_ranking=row.show_in_ranking,
-            points=len(row.lessons) * POINTS_PER_LESSON,
+            points=InMemoryProfileRepository._points(row),
             completed_lessons=list(row.lessons),
             patron_saint=row.patron_saint,
+            last_activity_days=last_days,
         )
 
     async def ensure(self, subject: str, display_name: str) -> Profile:
@@ -82,14 +94,23 @@ class InMemoryProfileRepository(ProfileRepository):
                 row.lessons.append(lesson)
         return self._to_profile(row)
 
+    async def complete_activity(
+        self, subject: str, activity: ActivityId, day: date
+    ) -> Profile | None:
+        row = self._rows.get(subject)
+        if row is None:
+            return None
+        row.activities.setdefault((activity, day), ACTIVITY_POINTS[activity])
+        return self._to_profile(row)
+
     async def delete(self, subject: str) -> None:
         self._rows.pop(subject, None)
 
     async def ranking(self, limit: int) -> list[RankingRow]:
         rows = [
-            RankingRow(row.display_name, len(row.lessons) * POINTS_PER_LESSON)
+            RankingRow(row.display_name, self._points(row))
             for row in self._rows.values()
-            if row.show_in_ranking and row.lessons
+            if row.show_in_ranking and self._points(row) > 0
         ]
         rows.sort(key=lambda row: (-row.points, row.display_name))
         return rows[:limit]
