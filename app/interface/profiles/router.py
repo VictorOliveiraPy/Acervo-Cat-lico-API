@@ -21,6 +21,8 @@ from app.core.exceptions import (
     ServiceUnavailableException,
 )
 from app.core.rate_limiting import build_rate_limiter
+from app.domain.profiles.entities import ACTIVITY_POINTS
+from app.domain.profiles.progression import points_with_bonus, todays_multiplier
 from app.domain.profiles.repository import ProfileRepository
 from app.interface.profiles.schemas import (
     ActivityRequest,
@@ -114,7 +116,7 @@ async def complete_lessons(
     today: date = Depends(brazil_today),
 ) -> ProfileResponse:
     """Conclui lições; repetir uma lição não soma pontos de novo."""
-    profile = await repo.complete_lessons(subject, payload.licoes)
+    profile = await repo.complete_lessons(subject, payload.licoes, today)
     return ProfileResponse.from_entity(_found(profile), today)  # type: ignore[arg-type]
 
 
@@ -127,9 +129,15 @@ async def complete_activity(
 ) -> ProfileResponse:
     """Marca a prática de hoje; marcar de novo no mesmo dia não soma pontos.
 
-    Sem limitador: a chave (pessoa, prática, dia) já limita a 9 linhas por dia.
+    Sem limitador: a chave (pessoa, prática, dia) já limita a 9 linhas por dia. Os
+    pontos levam o bônus da sequência de dias, contando hoje.
     """
-    profile = await repo.complete_activity(subject, payload.atividade, today)
+    current = await repo.get(subject)
+    if current is None:
+        raise NotFoundException(message="Perfil não encontrado.", code="PERFIL_NAO_ENCONTRADO")
+    multiplier = todays_multiplier(current.active_days, today)
+    points = points_with_bonus(ACTIVITY_POINTS[payload.atividade], multiplier)
+    profile = await repo.complete_activity(subject, payload.atividade, today, points)
     return ProfileResponse.from_entity(_found(profile), today)  # type: ignore[arg-type]
 
 

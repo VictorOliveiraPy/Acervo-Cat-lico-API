@@ -10,7 +10,6 @@ from datetime import date
 from typing import Any, Protocol
 
 from app.domain.profiles.entities import (
-    ACTIVITY_POINTS,
     MAX_ITEMS_PER_USER,
     POINTS_PER_LESSON,
     ActivityId,
@@ -81,6 +80,12 @@ class PostgresProfileRepository(ProfileRepository):
             ALTER TABLE perfis ALTER COLUMN padroeiro_id DROP DEFAULT;
             -- Uma linha por prática e dia: marcar de novo no mesmo dia não duplica.
             -- `pontos` guarda o que valia na hora, para mudar a tabela sem mexer no passado.
+            -- Dia de Brasília da conclusão, para a sequência de dias; as antigas
+            -- herdam o dia de `concluida_em`.
+            ALTER TABLE perfil_licoes ADD COLUMN IF NOT EXISTS dia DATE;
+            UPDATE perfil_licoes
+                SET dia = (concluida_em AT TIME ZONE 'America/Sao_Paulo')::date
+                WHERE dia IS NULL;
             CREATE TABLE IF NOT EXISTS perfil_atividades (
                 google_sub TEXT NOT NULL REFERENCES perfis (google_sub) ON DELETE CASCADE,
                 atividade TEXT NOT NULL,
@@ -124,7 +129,11 @@ class PostgresProfileRepository(ProfileRepository):
         if row is None:
             return None
         lessons = await self._pool.fetch(
-            "SELECT licao FROM perfil_licoes WHERE google_sub = $1 ORDER BY concluida_em",
+            "SELECT licao, dia FROM perfil_licoes WHERE google_sub = $1 ORDER BY concluida_em",
+            subject,
+        )
+        activity_days = await self._pool.fetch(
+            "SELECT DISTINCT dia FROM perfil_atividades WHERE google_sub = $1",
             subject,
         )
         slugs = [lesson["licao"] for lesson in lessons]
@@ -144,6 +153,8 @@ class PostgresProfileRepository(ProfileRepository):
             completed_lessons=slugs,
             patron_saint=row["padroeiro_id"],
             last_activity_days={a["atividade"]: a["ultimo_dia"] for a in activities},
+            active_days=frozenset(lesson["dia"] for lesson in lessons if lesson["dia"])
+            | frozenset(a["dia"] for a in activity_days),
         )
 
     async def ensure(self, subject: str, display_name: str) -> Profile:
@@ -162,6 +173,9 @@ class PostgresProfileRepository(ProfileRepository):
     async def exists(self, subject: str) -> bool:
         row = await self._pool.fetchrow("SELECT 1 FROM perfis WHERE google_sub = $1", subject)
         return row is not None
+
+    async def get(self, subject: str) -> Profile | None:
+        return await self._load(subject)
 
     async def set_patron(self, subject: str, patron_saint: PatronSaint) -> Profile | None:
         await self._pool.execute(
@@ -190,22 +204,25 @@ class PostgresProfileRepository(ProfileRepository):
         )
         return await self._load(subject)
 
-    async def complete_lessons(self, subject: str, lessons: list[str]) -> Profile | None:
-        if await self._load(subject) is None:
+    async def complete_lessons(
+        self, subject: str, lessons: list[str], day: date
+    ) -> Profile | None:
+        if not await self.exists(subject):
             return None
         await self._pool.execute(
             """
-            INSERT INTO perfil_licoes (google_sub, licao)
-            SELECT $1, unnest($2::text[])
+            INSERT INTO perfil_licoes (google_sub, licao, dia)
+            SELECT $1, unnest($2::text[]), $3
             ON CONFLICT (google_sub, licao) DO NOTHING
             """,
             subject,
             lessons,
+            day,
         )
         return await self._load(subject)
 
     async def complete_activity(
-        self, subject: str, activity: ActivityId, day: date
+        self, subject: str, activity: ActivityId, day: date, points: int
     ) -> Profile | None:
         if not await self.exists(subject):
             return None
@@ -218,7 +235,7 @@ class PostgresProfileRepository(ProfileRepository):
             subject,
             activity,
             day,
-            ACTIVITY_POINTS[activity],
+            points,
         )
         return await self._load(subject)
 

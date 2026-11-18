@@ -99,6 +99,7 @@ def test_should_list_the_activities_with_their_points(client: TestClient) -> Non
         "nome": "Rezar o Terço",
         "descricao": "Complete as 5 dezenas do terço",
         "pontos": 15,
+        "pontos_hoje": 15,
         "feita_hoje": False,
     }
     assert len(profile["atividades"]) == 9
@@ -145,3 +146,72 @@ def test_should_rank_activity_points(client: TestClient) -> None:
     client.post("/api/perfil/atividades", json={"atividade": "caridade"}, headers=ANA)
 
     assert client.get("/api/ranking").json() == [{"nome": "Ana", "pontos": 40}]
+
+
+def _on(day: date) -> None:
+    app.dependency_overrides[brazil_today] = lambda: day
+
+
+def test_should_start_at_level_one_without_a_streak(client: TestClient) -> None:
+    profile = client.post("/api/perfil", json={"nome": "Ana"}, headers=ANA).json()
+    assert profile["nivel"] == {
+        "numero": 1,
+        "titulo": "Peregrino Iniciante",
+        "estagio": 1,
+        "xp_no_nivel": 0,
+        "xp_proximo_nivel": 114,
+    }
+    assert profile["sequencia"] == {"atual": 0, "recorde": 0, "multiplicador": 1.0}
+
+
+def test_should_level_up_from_the_points(client: TestClient) -> None:
+    client.post("/api/perfil", json={"nome": "Ana"}, headers=ANA)
+    lessons = [f"licao-{n}" for n in range(12)]
+    profile = client.post("/api/perfil/licoes", json={"licoes": lessons}, headers=ANA).json()
+    assert profile["pontos"] == 120
+    assert profile["nivel"]["numero"] == 2
+    assert profile["nivel"]["xp_no_nivel"] == 6
+    assert profile["nivel"]["xp_proximo_nivel"] == 132
+
+
+def test_should_keep_the_streak_with_a_lesson_or_a_practice(client: TestClient) -> None:
+    client.post("/api/perfil", json={"nome": "Ana"}, headers=ANA)
+    client.post("/api/perfil/licoes", json={"licoes": ["a-criacao"]}, headers=ANA)
+    _on(date(2026, 11, 16))
+    profile = client.post(
+        "/api/perfil/atividades", json={"atividade": "terco"}, headers=ANA
+    ).json()
+    assert profile["sequencia"]["atual"] == 2
+
+
+def test_should_reset_the_streak_after_a_missed_day_but_keep_the_record(
+    client: TestClient,
+) -> None:
+    client.post("/api/perfil", json={"nome": "Ana"}, headers=ANA)
+    for day in (15, 16, 18):
+        _on(date(2026, 11, day))
+        profile = client.post(
+            "/api/perfil/atividades", json={"atividade": "terco"}, headers=ANA
+        ).json()
+    assert profile["sequencia"] == {"atual": 1, "recorde": 2, "multiplicador": 1.0}
+
+
+def test_should_multiply_practice_points_from_the_seventh_day(client: TestClient) -> None:
+    client.post("/api/perfil", json={"nome": "Ana"}, headers=ANA)
+    for day in range(15, 21):  # 6 dias seguidos, sem bônus
+        _on(date(2026, 11, day))
+        client.post("/api/perfil/atividades", json={"atividade": "terco"}, headers=ANA)
+
+    _on(date(2026, 11, 21))
+    before = client.post("/api/perfil", json={"nome": "Ana"}, headers=ANA).json()
+    # Ontem ativo: marcar hoje faz o sétimo dia, então o bônus já vale hoje.
+    assert before["sequencia"]["atual"] == 6
+    assert before["sequencia"]["multiplicador"] == 1.5
+    terco = next(a for a in before["atividades"] if a["id"] == "terco")
+    assert terco["pontos_hoje"] == 22
+
+    after = client.post(
+        "/api/perfil/atividades", json={"atividade": "terco"}, headers=ANA
+    ).json()
+    assert after["pontos"] == 6 * 15 + 22
+    assert after["sequencia"]["atual"] == 7

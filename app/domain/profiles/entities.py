@@ -79,6 +79,8 @@ class Profile:
     patron_saint: PatronSaint | None = None
     # Último dia em que cada prática foi marcada; quem decide o que é "hoje" é a rota.
     last_activity_days: dict[str, date] = field(default_factory=dict)
+    # Dias (de Brasília) com lição concluída ou prática marcada: base da sequência.
+    active_days: frozenset[date] = frozenset()
 
 
 @dataclass(frozen=True)

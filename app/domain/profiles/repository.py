@@ -28,6 +28,9 @@ class ProfileRepository(ABC):
     async def exists(self, subject: str) -> bool: ...
 
     @abstractmethod
+    async def get(self, subject: str) -> Profile | None: ...
+
+    @abstractmethod
     async def set_patron(self, subject: str, patron_saint: PatronSaint) -> Profile | None: ...
 
     @abstractmethod
@@ -40,14 +43,17 @@ class ProfileRepository(ABC):
     ) -> Profile | None: ...
 
     @abstractmethod
-    async def complete_lessons(self, subject: str, lessons: list[str]) -> Profile | None:
-        """Conclui as lições; repetir uma lição não soma pontos de novo."""
+    async def complete_lessons(
+        self, subject: str, lessons: list[str], day: date
+    ) -> Profile | None:
+        """Conclui as lições no dia; repetir uma lição não soma pontos de novo."""
 
     @abstractmethod
     async def complete_activity(
-        self, subject: str, activity: ActivityId, day: date
+        self, subject: str, activity: ActivityId, day: date, points: int
     ) -> Profile | None:
-        """Marca a prática no dia; marcar de novo no mesmo dia não soma pontos."""
+        """Marca a prática no dia valendo `points` (já com o bônus da sequência);
+        marcar de novo no mesmo dia não soma pontos."""
 
     @abstractmethod
     async def delete(self, subject: str) -> None:

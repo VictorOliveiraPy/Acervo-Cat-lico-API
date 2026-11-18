@@ -6,7 +6,6 @@ from dataclasses import dataclass, field
 from datetime import UTC, date, datetime
 
 from app.domain.profiles.entities import (
-    ACTIVITY_POINTS,
     MAX_ITEMS_PER_USER,
     POINTS_PER_LESSON,
     ActivityId,
@@ -25,6 +24,7 @@ class _Row:
     preferences: list[str] = field(default_factory=list)
     show_in_ranking: bool = False
     lessons: list[str] = field(default_factory=list)
+    lesson_days: list[date] = field(default_factory=list)
     patron_saint: PatronSaint | None = None
     # (prática, dia) -> pontos ganhos naquele dia.
     activities: dict[tuple[str, date], int] = field(default_factory=dict)
@@ -54,6 +54,8 @@ class InMemoryProfileRepository(ProfileRepository):
             completed_lessons=list(row.lessons),
             patron_saint=row.patron_saint,
             last_activity_days=last_days,
+            active_days=frozenset(row.lesson_days)
+            | frozenset(day for _, day in row.activities),
         )
 
     async def ensure(self, subject: str, display_name: str) -> Profile:
@@ -62,6 +64,10 @@ class InMemoryProfileRepository(ProfileRepository):
 
     async def exists(self, subject: str) -> bool:
         return subject in self._rows
+
+    async def get(self, subject: str) -> Profile | None:
+        row = self._rows.get(subject)
+        return self._to_profile(row) if row else None
 
     async def set_patron(self, subject: str, patron_saint: PatronSaint) -> Profile | None:
         row = self._rows.get(subject)
@@ -85,22 +91,25 @@ class InMemoryProfileRepository(ProfileRepository):
         row.show_in_ranking = show_in_ranking
         return self._to_profile(row)
 
-    async def complete_lessons(self, subject: str, lessons: list[str]) -> Profile | None:
+    async def complete_lessons(
+        self, subject: str, lessons: list[str], day: date
+    ) -> Profile | None:
         row = self._rows.get(subject)
         if row is None:
             return None
         for lesson in lessons:
             if lesson not in row.lessons:
                 row.lessons.append(lesson)
+                row.lesson_days.append(day)
         return self._to_profile(row)
 
     async def complete_activity(
-        self, subject: str, activity: ActivityId, day: date
+        self, subject: str, activity: ActivityId, day: date, points: int
     ) -> Profile | None:
         row = self._rows.get(subject)
         if row is None:
             return None
-        row.activities.setdefault((activity, day), ACTIVITY_POINTS[activity])
+        row.activities.setdefault((activity, day), points)
         return self._to_profile(row)
 
     async def delete(self, subject: str) -> None:
