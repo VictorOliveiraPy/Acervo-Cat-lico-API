@@ -1,0 +1,653 @@
+{
+  "_meta": {
+    "categoria": "devocoes",
+    "nome": "Devotions",
+    "descricao": "Popular Catholic devotional practices — Stations of the Cross, novenas, the Sacred Heart, the scapular, perpetual adoration and more — distinct from the isolated text of a prayer.",
+    "status": "exemplos-iniciais",
+    "aviso": "Describes approved and widely practiced forms of popular devotion; the exact form of each practice (number of days, specific prayers) may vary from parish to parish and from country to country.",
+    "revisao_editorial": "None of the devotions listed here is obligatory for Catholics — they are distinct from the sacraments and the precepts of the Church, and are always optional ways of deepening one's spiritual life.",
+    "fontes_gerais": [
+      "Catechism of the Catholic Church, nos. 2676-2679 (forms of Christian prayer)",
+      "Directory on Popular Piety and the Liturgy (Congregation for Divine Worship, 2001)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "devocoes:via-sacra",
+      "slug": "via-sacra",
+      "titulo": "Stations of the Cross (Via Crucis)",
+      "resumo": "A devotion that traces, in fourteen stations, the principal moments of Christ's Passion, from his condemnation to his burial, fixed at that number in 1731 under Clement XII.",
+      "corpo": "The Stations of the Cross symbolically reproduce the path Jesus walked to Calvary, in fourteen stations that run from the condemnation by Pilate to the laying in the tomb — in many churches today a fifteenth station, devotional in character, on the Resurrection is added. It is practiced especially on Fridays, above all during Lent and on Good Friday, both individually and in communal procession before pictures or crosses fixed to the walls of the church.\n\nThe practice of physically walking the places of the Passion in Jerusalem is attested as early as the fourth century: the pilgrim Egeria, on a journey made between 381 and 384 and described in her \"Itinerarium Egeriae,\" reports in detail the stational liturgy of Jerusalem, in which Christians, throughout Holy Week, walked from one place to another through the final episodes of the life of Jesus — from Palm Sunday to Easter. This local custom was consolidated throughout the Middle Ages, reinforced by the Crusades of the eleventh and twelfth centuries and by the preaching of the Passion. In 1342, the Holy See entrusted the Franciscans with the custody of the Holy Places — including the Holy Sepulchre and the Via Dolorosa — and they began to promote the devotion of the way of the cross outside the Holy Land as well.\n\nFor Christians who could not travel to Jerusalem, the practice developed of reproducing this route in churches and shrines of Europe, as a pilgrimage \"by substitution.\" The spread outside the Holy Land is commonly associated with Spain, through the initiative of the Dominican Blessed Álvaro of Córdoba in the fifteenth century, and later extended to Sardinia and the rest of the continent. During the fifteenth and sixteenth centuries, the Franciscans erected sets of open-air chapels that duplicated the holy places; the number of stations, however, varied greatly from place to place — there were series with seven stops (the most common), others with nine, and even sets with more than thirty.\n\nInstitutionalization came in stages. In 1686, at the request of the Franciscans themselves, Pope Innocent XI granted them the right to erect the stations in their churches. In 1731, Pope Clement XII extended this right to all churches, provided that the stations were erected by a Franciscan religious with the consent of the local bishop, and definitively fixed the number at fourteen; he also attached the granting of indulgences to the practice. In this same period Saint Leonard of Port Maurice (1676-1751) stood out, a Franciscan missionary called by Saint Alphonsus Liguori \"the greatest missionary of the century\": between 1731 and 1751 he is said to have erected about 571 sets of stations throughout Italy and, in the Holy Year of 1750 proclaimed by Benedict XIV, he planted a large cross in the Colosseum in Rome and celebrated the Stations of the Cross there. In 1857 and 1862, the faculty to erect the stations was extended to bishops without Franciscan intermediation, consolidating the universal form of the devotion.\n\nThe fourteen traditional stations are:\n\n1st — Jesus is condemned to death\n2nd — Jesus carries his cross\n3rd — Jesus falls the first time\n4th — Jesus meets his Mother\n5th — Simon of Cyrene helps Jesus carry the cross\n6th — Veronica wipes the face of Jesus\n7th — Jesus falls the second time\n8th — Jesus consoles the women of Jerusalem\n9th — Jesus falls the third time\n10th — Jesus is stripped of his garments\n11th — Jesus is nailed to the cross\n12th — Jesus dies on the cross\n13th — Jesus is taken down from the cross\n14th — Jesus is laid in the tomb\n\nSome of these stations — such as the three falls, the meeting with Veronica and the meeting with the women of Jerusalem — come from devotional tradition, and not from an explicit account in the four Gospels, which this collection records as such, without confusing pious tradition with the biblical narrative.",
+      "categoria": "devocoes",
+      "tags": [
+        "Stations of the Cross",
+        "Lent",
+        "Passion of Christ",
+        "Franciscans",
+        "Clement XII",
+        "Jerusalem",
+        "Good Friday"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Chapel_in_4th_Station_%28Via_Dolorosa%29.JPG",
+      "imagem_credito": "Anton 17, 2008 (CC BY-SA 3.0)",
+      "fontes": [
+        "\"Itinerarium Egeriae\" (Pilgrimage of Egeria), 4th-5th centuries",
+        "W. H. Grattan-Flood, \"Stations of the Cross,\" Catholic Encyclopedia (1912)",
+        "Loci Theologici / Franciscan Friars, \"Stations of the Cross: A Franciscan Tradition\" (2024)",
+        "Vatican News, \"Via-Sacra: the slow birth of a path of the Passion\""
+      ],
+      "atualizado_em": null,
+      "ordem": 1,
+      "origem": "Medieval pilgrimages to the Holy Land, spread by the Franciscans from the fourteenth century onward"
+    },
+    {
+      "id": "devocoes:novenas",
+      "slug": "novenas",
+      "titulo": "Novenas",
+      "resumo": "Nine consecutive days of prayer for a specific intention or in preparation for a feast, inspired by the nine days between the Ascension and Pentecost.",
+      "corpo": "The practice of the novena — nine days in a row, or nine periodic dates, of prayer with the same intention — goes back to the interval between the Ascension of Jesus and the descent of the Holy Spirit at Pentecost: the Acts of the Apostles reports that, during this period, the disciples \"with one accord devoted themselves to prayer, together with Mary the mother of Jesus\" (Acts 1:14). This prayerful vigil of the first disciples is regarded, in the Christian tradition, as the symbolic matrix of every later novena, although the term and the formal practice only developed centuries afterward.\n\nThe number nine as a measure of time devoted to prayer or mourning, however, was already familiar to the ancient world before Christianity: the Romans observed a period of nine days of funeral rites after someone's death (the «novendiale») and held the «parentalia novendialia» each year in memory of deceased relatives. The pagan practice of nine days of mourning, followed by a banquet, was so widespread that ancient Christian writers — among them Augustine of Hippo, Pseudo-Alcuin and John Beleth — went so far as to warn the faithful not to imitate it. At the same time, the Fathers of the Church attributed to the number nine a meaning of its own: because it is the square of three, the number of the Trinity, they saw in it the symbol of imperfect man turning to God, in contrast with ten, the symbol of perfection; they also associated it with the nine months of Christ's gestation, with the ninth hour at which Jesus gave up his spirit on the cross, and with the nine days between the Ascension and Pentecost.\n\nAs a practice explicitly called a \"novena\" and directed to God, to Mary or to the saints, the custom developed in a more defined way from the Middle Ages onward and gained great momentum in the Baroque period, especially in the 17th and 18th centuries, when religious orders — Jesuits, Franciscans, Redemptorists, among others — began to publish booklets with specific novenas to prepare the faithful for liturgical feasts (Christmas, for example, gained its traditional \"Christmas novena\") or to ask for concrete graces through the intercession of a saint of popular devotion. A moment of official recognition came in 1897, when Pope Leo XIII, in the encyclical «Divinum illud munus», ordered that in all parish churches the novena to the Holy Spirit be prayed in preparation for the solemnity of Pentecost — the very \"novena of origins\" turned into a practice prescribed for the whole Church.\n\nThere are today two main types of novena. Novenas of preparation, prayed in the nine days leading up to a feast (such as the Immaculate Conception or Christmas), have a more liturgical and communal character, often led publicly in the parish. Novenas of supplication or urgency — prayed in the face of a grave and specific need — can be made at any time of the year, individually or in a group, repeating the same prayer or formula for nine consecutive days, in the confidence that perseverance in supplication, in imitation of the apostles gathered with Mary, disposes the heart to receive the grace requested.\n\nThe Church has always taken care to distinguish the novena, as a legitimate form of popular piety, from any superstitious use of the number nine or of formulas repeated mechanically: the value of the novena lies in the interior disposition of perseverance and trust, and not in a magical count of days or repetitions. For this reason, although extremely popular — and linked today to practically every saint and every Marian title of significant devotion in the Catholic world — novenas continue to be classified as an optional devotion, and not as a required part of Catholic sacramental life.",
+      "categoria": "devocoes",
+      "tags": [
+        "novena",
+        "prayer",
+        "popular piety",
+        "Pentecost",
+        "Leo XIII",
+        "Holy Spirit"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Acts of the Apostles 1:14",
+        "Leo XIII, Encyclical «Divinum illud munus» (May 9, 1897)",
+        "«Novena», Catholic Encyclopedia (1911)",
+        "Catechism of the Catholic Church, on popular piety"
+      ],
+      "atualizado_em": null,
+      "ordem": 2,
+      "origem": "Acts of the Apostles 1:12-14 (the nine days between the Ascension and Pentecost)"
+    },
+    {
+      "id": "devocoes:sagrado-coracao-de-jesus",
+      "slug": "sagrado-coracao-de-jesus",
+      "titulo": "Devotion to the Sacred Heart of Jesus",
+      "categoria": "devocoes",
+      "resumo": "Devotion to the human and divine love of Christ, symbolized in his heart, spread from the revelations to Saint Margaret Mary Alacoque.",
+      "corpo": "Devotion to the Sacred Heart of Jesus has spiritual roots that go back to the Middle Ages — in the meditation of mystics such as Saint Gertrude and Saint Mechtilde of Hackeborn on the wounded side of Christ opened by the lance, and in the French spirituality of the seventeenth century, above all in Saint John Eudes, who was already composing liturgical offices in honor of the Sacred Hearts of Jesus and Mary even before the revelations that would give the devotion its definitive form and its mass diffusion.\n\nThis definitive form came from the apparitions reported by Saint Margaret Mary Alacoque, a religious of the Order of the Visitation at the monastery of Paray-le-Monial, in French Burgundy. Between 1673 and 1675, she is said to have received from Jesus a series of private revelations in which he showed her his heart, \"burning with love for men\" and, at the same time, wounded by the indifference, ingratitude, and sacrileges that this love receives in return. The most decisive of these experiences — known as the \"great apparition\" — took place around June 1675, during the octave of Corpus Christi, when Jesus is said to have explicitly asked her for the institution of a feast in honor of his Heart, to be celebrated on the Friday following that octave.\n\nIn these revelations, Jesus is also said to have formulated a series of twelve promises to those who faithfully cultivate devotion to his Heart: among them, peace in families, consolation in afflictions, blessing upon undertakings, refuge in life and at the hour of death, and the so-called \"great promise\" — associated with the practice of the First Fridays, also recorded in this collection — to grant the grace of final perseverance to whoever received Communion in a spirit of reparation on nine consecutive first Fridays.\n\nMargaret Mary initially met with great resistance, including within her own convent, regarding the authenticity of these mystical experiences. Decisive support came from the Jesuit priest Claude La Colombière, then confessor of the community of Paray-le-Monial, who recognized the spiritual value of the revelations and himself became one of the first and most active promoters of the devotion — and was later canonized, as Margaret Mary would also be, in the twentieth century.\n\nInstitutional approval was slow and gradual. Only in 1765 did the Sacred Congregation of Rites authorize the liturgical celebration of the Sacred Heart for France, and the feast was extended to the whole Church only in 1856, by Pope Pius IX, and was later raised by Leo XIII, in 1889, to the most solemn liturgical rank. Leo XIII himself would give the devotion its moment of greatest public reach in 1899, by formally consecrating the whole human race to the Sacred Heart of Jesus in the encyclical \"Annum Sacrum\" — an episode treated separately in this collection. Decades later, in 1956, Pope Pius XII would dedicate an entire encyclical to the devotion, \"Haurietis Aquas,\" systematizing its biblical and theological foundation and reaffirming its central place in Catholic spirituality.\n\nIn the symbol of the Sacred Heart — generally depicted encircled with thorns, wounded, and emitting flames and light — the Church sees a visual synthesis of two natures united in one person: the human love of Christ, sensible and capable of suffering, and his divine, infinite love. The devotion gave rise not only to its own liturgical feast (movable in the Roman calendar, nineteen days after Pentecost) and to the First Fridays, but also to complementary practices such as the enthronement of the image of the Sacred Heart in homes and the Holy Hour, also present in this collection.",
+      "tags": [
+        "Sacred Heart",
+        "reparation",
+        "Margaret Mary Alacoque"
+      ],
+      "imagem": "/img-acervo/sagrado-coracao-de-jesus.jpg",
+      "imagem_credito": "Photo: Matea Gregg / Unsplash",
+      "ordem": 3,
+      "origem": "Apparitions to Saint Margaret Mary Alacoque at Paray-le-Monial (1670s)",
+      "fontes": [
+        "Catechism of the Catholic Church",
+        "Archdiocese of Vitória da Conquista, \"The 12 Promises of the Sacred Heart of Jesus to Saint Margaret Mary Alacoque\"",
+        "Pius XII, Encyclical \"Haurietis Aquas\" (1956)"
+      ]
+    },
+    {
+      "id": "devocoes:primeiras-sextas-feiras",
+      "slug": "primeiras-sextas-feiras",
+      "titulo": "The First Fridays",
+      "categoria": "devocoes",
+      "resumo": "The practice of receiving Communion on the first Friday of nine consecutive months, in reparation and devotion to the Sacred Heart of Jesus.",
+      "corpo": "Directly linked to devotion to the Sacred Heart of Jesus (see the separate entry in this collection), the practice of the \"First Fridays\" consists of receiving Holy Communion on the first Friday of each month for nine consecutive months, in a spirit of reparation for the indifference and sacrileges that, according to the devotion, the love of Christ receives from men. The practice usually also includes confession in the days beforehand — not necessarily on the same day as Communion — and a brief moment of prayer or adoration before the Blessed Sacrament.\n\nIts origin goes back to the revelations that Saint Margaret Mary Alacoque, a religious of the Visitation, reported having received from Jesus at Paray-le-Monial between 1673 and 1675. In the so-called \"great apparition,\" which took place during the octave of Corpus Christi in 1675, Jesus explicitly asked that the Friday following that octave be dedicated to a special feast in honor of his Heart, with Communion and an act of reparation for the indignities received when exposed on the altars — a request that, over time, popular piety extended from a single annual Friday to the first Friday of every month of the year.\n\nAmong the twelve promises attributed to Christ in these revelations, the last — traditionally called the \"great promise\" — is the direct foundation of this devotion: the assurance that whoever received Communion on the first Friday of nine consecutive months, with this reparatory intention, would receive the grace of final repentance, not dying in disgrace nor without the sacraments, and finding in the Heart of Jesus a \"safe refuge\" in the last hour. The other eleven promises — peace in families, consolation in afflictions, blessing upon undertakings, among others — together with this last one, make up the set of graces that popular piety associates with fidelity to the Sacred Heart.\n\nTheologians and catechists have always taken care to clarify that this promise must not be understood as a kind of automatic pass to salvation, obtained by the mere mechanical fulfillment of a calendar of nine Communions — which would be a superstitious reading incompatible with Catholic doctrine on grace and freedom. The promise presupposes, rather, a real interior disposition of conversion and reparatory love, of which the practice of the nine Fridays is a sign and support, not a substitute: whoever receives Communion only to \"secure\" final grace, without living the faith consistently in the following months and years, empties the practice of its spiritual meaning.\n\nThe devotion spread widely from the nineteenth century onward, in the wake of the general expansion of the cult of the Sacred Heart — an expansion that had one of its culminating points in the consecration of the whole human race to the Sacred Heart, made by Pope Leo XIII in 1899 (see the separate entry) — and it remains alive today in parishes of the Latin tradition and, in Brazil, especially linked to movements and communities of Eucharistic spirituality, many of which organize specific monthly celebrations on the first Friday, with exposition of the Blessed Sacrament and moments of communal reparation.\n\nIt is practiced in parallel with and as a complement to the \"Five First Saturdays\" requested decades later in the apparitions at Fatima in devotion to the Immaculate Heart of Mary — this collection records both devotions in separate entries, given the difference in origin, recipient (Jesus and Mary, respectively) and number of months required (nine in the case of the Sacred Heart, five in the case of the Immaculate Heart).",
+      "tags": [
+        "Sacred Heart",
+        "Eucharist",
+        "reparation"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/SacredHeartBatoni.jpg",
+      "imagem_credito": null,
+      "ordem": 4,
+      "origem": "Tradition linked to the revelations to Saint Margaret Mary Alacoque",
+      "fontes": [
+        "Catechism of the Catholic Church",
+        "Revista Arautos do Evangelho, \"The Devotion of the First Fridays of the Month — Promise of a Heart Aflame with Love\"",
+        "Gaudium Press, \"The Devotion of the First Fridays of the Month\"",
+        "Archdiocese of Vitória, \"First Friday: Devotion to the Sacred Heart of Jesus\""
+      ]
+    },
+    {
+      "id": "devocoes:escapulario-do-carmo",
+      "slug": "escapulario-do-carmo",
+      "titulo": "Scapular of Mount Carmel",
+      "categoria": "devocoes",
+      "resumo": "A small, reduced religious habit worn as a sign of consecration and Marian protection, linked to the Carmelite Order.",
+      "corpo": "The brown scapular of Our Lady of Mount Carmel is a reduced version of the religious habit of the Carmelites — two small rectangles of woolen cloth joined by cords, worn over the shoulders and hanging down over the chest and back —, adopted by lay people as a sign of consecration to Mary and of spiritual belonging to the Carmelite family, whose origin goes back to hermits who lived on Mount Carmel, in Palestine, from the twelfth century, formally organized as a religious order at the beginning of the thirteenth century.\n\nAccording to the tradition of the order, in the early hours of July 16, 1251, in Cambridge, England, Our Lady is said to have appeared to Saint Simon Stock — then prior general of the Carmelites, at a time of great difficulty for the young order, newly arrived in Europe and under pressure to justify its existence before the Holy See — giving him the scapular with the words: \"Receive, beloved son, this scapular [...]. It is a sign of salvation, a protection in danger, a pledge of peace and an everlasting covenant.\" The traditional account places in this episode the origin both of the reduced form of the scapular and of the date of its liturgical feast, celebrated to this day on July 16.\n\nDecades later, according to another tradition of the order, Pope John XXII is said to have received a similar revelation and, in a bull known as the \"Sabbatine Bull,\" to have declared that whoever wore the scapular faithfully would be quickly freed from the pains of purgatory on the first Saturday after death — the so-called \"Sabbatine Privilege.\" The historical authenticity of this bull is debated by historians, but the Sabbatine Privilege, understood not as automatic but as a special Marian intercession conditioned on the real practice of Christian virtues, has been reaffirmed by successive papal documents, among them a decree of the Sacred Congregation of Indulgences of 1908.\n\nThe Church has always insisted on this point: the scapular is not a magical amulet and does not dispense with a consistent Christian life — it is rather an outward sign and a constant reminder of the baptismal commitment and of the consecration to Mary, which must be expressed in prayer, participation in the sacraments, and imitation of the Marian virtues. For this reason, its use presupposes the formal \"investiture\" by an authorized priest (or enrollment in the Confraternity of Mount Carmel), which spiritually incorporates the faithful into the Carmelite family, even though they remain lay people without religious vows.\n\nSince the twentieth century, the Holy See has permitted replacing the cloth with the so-called \"scapular medal\" — a medal with the image of Our Lady of Mount Carmel on one side and the Sacred Heart of Jesus on the other —, a pastoral option designed for hot climates and everyday use, although the cloth scapular remains the most traditional form and the one preferred by the Carmelite order. Modern popes, such as Pius XII and John Paul II — the latter a faithful wearer of the scapular since his youth —, repeatedly recommended the devotion as a simple and accessible path of Marian life for lay people.",
+      "tags": [
+        "scapular",
+        "Our Lady of Mount Carmel",
+        "Carmelites"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Stetner_-_Madonna_with_the_Scapular%2C_1740.jpg",
+      "imagem_credito": null,
+      "ordem": 5,
+      "origem": "Carmelite tradition, going back to the thirteenth century (Saint Simon Stock)",
+      "fontes": [
+        "Catechism of the Catholic Church",
+        "Canção Nova Formation, «History of the Scapular of Mount Carmel»",
+        "Aleteia, «The scapular: what it is, how it arose and how it helps us toward eternal salvation»"
+      ]
+    },
+    {
+      "id": "devocoes:santo-terco-devocao",
+      "slug": "santo-terco-devocao",
+      "titulo": "The Holy Rosary as a Daily Devotion",
+      "resumo": "The practice, spread especially after the apparitions of Fatima, of praying the complete Rosary every day as a path of conversion and peace.",
+      "corpo": "Although the Rosary as a prayer had already existed for centuries (see the entry \"The Mysteries of the Rosary\" in Prayers), its daily practice gained renewed momentum especially after the apparitions of Fatima, in Portugal, in 1917. At the Cova da Iria, three shepherd children — Lúcia dos Santos, then ten years old, and her cousins Francisco (nine years old) and Jacinta Marto (seven years old) — reported six encounters with Our Lady, always on the 13th, from May to October of that year, preceded in 1916 by three apparitions of an angel. In practically all of the apparitions, Our Lady is said to have insistently asked the faithful to pray the Rosary \"every day\" as a concrete means of obtaining peace for the world, the end of the First World War then under way, and the conversion of sinners.\n\nThe last apparition, on October 13, 1917, is said to have been accompanied by the event that popular devotion called the \"Miracle of the Sun,\" witnessed, according to the accounts, by about seventy thousand people gathered in torrential rain. After a period of canonical investigation, the Bishop of Leiria, Dom José Alves Correia da Silva, published on October 13, 1930 a pastoral letter declaring the children's visions at the Cova da Iria \"worthy of belief,\" authorizing the cult. Francisco and Jacinta died while still children, in the influenza pandemic of 1918-1920, and were canonized by Pope Francis in 2017; Lúcia became a religious sister and lived until 2005, leaving the «Memoirs» in which she recounted the events.\n\nThis request for daily, and not merely occasional, recitation marked a change of emphasis in the Marian spirituality of the twentieth century: the Rosary ceased to be just one prayer among others and came to be proposed as a daily practice giving structure to the spiritual life of the ordinary faithful, comparable in regularity to morning or evening prayer. From then on it came to be recommended both individually and as a family — the custom of the \"family Rosary,\" gathering parents and children at the end of the day, became particularly strong in countries of Latin Catholic tradition, including Brazil.\n\nPopes of the twentieth and twenty-first centuries continued and reinforced this request. Pius XII and Paul VI had already widely encouraged the practice; but it was John Paul II who gave it a more complete doctrinal treatment, in the apostolic letter «Rosarium Virginis Mariae», of October 16, 2002, with which he also opened a \"Year of the Rosary\" that would extend until October 2003. In this document, published at the beginning of the twenty-fifth year of his pontificate, the Pope identified a gap in the traditional structure of the Rosary — which, with its joyful, sorrowful and glorious mysteries, passed directly from the childhood of Jesus to His Passion, without dwelling on the adult public life of Christ — and proposed a fourth series, the \"luminous mysteries\": the Baptism in the Jordan, His self-revelation at the wedding at Cana, the proclamation of the Kingdom with the call to conversion, the Transfiguration, and the institution of the Eucharist, \"sacramental expression of the Paschal Mystery.\" With this addition, the complete Rosary came to have twenty mysteries, traditionally distributed over the different days of the week.\n\nThe insistence on praying the Rosary daily is also linked, in the spirituality proposed by John Paul II, to the idea of contemplation: more than the repetition of vocal formulas, the daily Rosary is presented as a method of meditating, day after day and progressively, on the whole life of Christ through the eyes of Mary, joining the simplicity of a prayer accessible to any of the faithful, even without theological training, to a true school of Christian contemplation. During this same pontificate, John Paul II also associated the Rosary with peace, taking up again the tradition of Marian supplications for world peace. It is this twofold character — of a simple prayer and, at the same time, of a complete spiritual itinerary — that to this day sustains the recommendation, made by practically all recent popes, to make the Rosary not merely an occasional prayer, but a daily habit of Christian life.",
+      "categoria": "devocoes",
+      "tags": [
+        "Rosary",
+        "Rosary",
+        "Fatima",
+        "Mary",
+        "John Paul II",
+        "luminous mysteries",
+        "shepherd children"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Michelangelo_Merisi%2C_called_Caravaggio_-_Madonna_of_the_Rosary_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "John Paul II, Apostolic Letter «Rosarium Virginis Mariae» (October 16, 2002)",
+        "Memoirs of Sister Lúcia (Sanctuary of Fatima)",
+        "Pastoral letter of the Bishop of Leiria, Dom José Alves Correia da Silva (October 13, 1930)",
+        "Catechism of the Catholic Church, on Mary and the Rosary"
+      ],
+      "atualizado_em": null,
+      "ordem": 6,
+      "origem": "A practice of medieval origin, with renewed momentum after the apparitions of Fatima (1917)"
+    },
+    {
+      "id": "devocoes:divina-misericordia-devocao",
+      "slug": "divina-misericordia-devocao",
+      "titulo": "Devotion to the Divine Mercy",
+      "categoria": "devocoes",
+      "resumo": "A devotional set — the image, the chaplet, its own feast, and the Hour of Mercy — centered on trust in God's infinite mercy.",
+      "corpo": "The devotion to the Divine Mercy brings together several elements around a single theme — unconditional trust in God's mercy toward every sinner — as reported by Saint Faustina Kowalska, a Polish religious of the Congregation of the Sisters of Our Lady of Mercy, in a spiritual diary she began writing in 1934, out of obedience to her confessor. On February 22, 1931, she is said to have had the first of a series of visions of Jesus, who asked her to have an image of him painted as he appeared — dressed in white, with red and white rays coming from his breast, symbolizing the blood and water poured out on the cross — with the inscription \"Jesus, I trust in You.\"\n\nFather Michał Sopoćko, chaplain of the convent in Vilnius and later her confessor and spiritual director, was decisive in having these experiences taken seriously: he had Faustina undergo a psychiatric evaluation, obtained a favorable medical opinion, and began to support the spread of the devotion, commissioning the painter Eugeniusz Kazimirowski in 1934 to paint the first image of the Divine Mercy. It was also Sopoćko who asked Faustina to put her experiences in writing, giving rise to the \"Diary,\" published posthumously under the title \"Divine Mercy in My Soul\" and today considered one of the most widely read mystical works of contemporary Catholicism.\n\nFrom this set of revelations, the devotion brings together four main elements: the image of \"Jesus, I trust in You\"; the Chaplet of Divine Mercy (see Prayers), a short prayer recited on the beads of the rosary; the practice of making, whenever possible, a brief pause for prayer at 3 p.m. — the \"Hour of Mercy,\" traditionally associated with the moment of Christ's death on the cross —; and the Feast of the Divine Mercy, celebrated on the Second Sunday of Easter.\n\nThe path of this devotion to official recognition was not straightforward. On March 6, 1959, the Holy Office, relying on a faulty and incomplete translation of Faustina's diary, formally prohibited the spread of images and writings linked to the devotion in the forms she proposed. The prohibition was lifted only on April 15, 1978, after a new translation more faithful to the Polish original and the personal efforts of the then Archbishop of Kraków, Cardinal Karol Wojtyła, who had also promoted Faustina's cause for beatification. Six months after this reversal was obtained, Wojtyła himself would be elected pope, taking the name John Paul II.\n\nAs pope, John Paul II canonized Faustina Kowalska on April 30, 2000 — a date that coincided, that year, with the Second Sunday of Easter — and used the same ceremony to officially establish the Feast of the Divine Mercy in the universal liturgical calendar, on that same Sunday. Not by chance: John Paul II himself would die on the eve of this feast, on April 2, 2005, reinforcing in the eyes of many faithful the bond between his pontificate and this devotion, which he himself had helped rescue from decades of ecclesiastical suspicion.",
+      "tags": [
+        "divine mercy",
+        "Saint Faustina"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kazimirowski_Eugeniusz%2C_Divine_Mercy%2C_1934.jpg",
+      "imagem_credito": null,
+      "ordem": 7,
+      "origem": "Diary of Saint Faustina Kowalska (1930s); feast established by John Paul II in 2000",
+      "fontes": [
+        "Catechism of the Catholic Church",
+        "Miles Christi Resistens, «La devoción a la Divina Misericordia: ¿por qué el Santo Oficio la prohibió?»",
+        "ChurchPOP, «Cómo la devoción a la Divina Misericordia fue salvada por San Juan Pablo II»"
+      ]
+    },
+    {
+      "id": "devocoes:adoracao-perpetua",
+      "slug": "adoracao-perpetua",
+      "titulo": "Perpetual Eucharistic Adoration",
+      "resumo": "The practice of keeping the Blessed Sacrament exposed without interruption, day and night, through a continuous rotation of adorers.",
+      "corpo": "Distinct from occasional Eucharistic adoration (see the Liturgical Life category), \"perpetual adoration\" designates the practice of keeping the Blessed Sacrament exposed continuously — 24 hours a day, every day of the year —, with the faithful taking turns in shifts of prayer so that there is never a moment without someone adoring. The expression is used both in a strict sense, indicating physically uninterrupted adoration, and in a broad sense, when the interruption occurs only for brief periods or for compelling reasons, with the exposition resumed afterward.\n\nOne of the oldest episodes customarily pointed to as the origin of the practice took place in Avignon, France, on September 11, 1226. In thanksgiving for the victory over the Albigensians — a sect that rejected the sacraments and, in particular, the real presence in the Eucharist —, the king asked that the Blessed Sacrament be solemnly exposed in the Chapel of the Holy Cross. In view of the great number of the faithful who flocked to adore, the local bishop, Pierre de Corbie, judged it fitting to prolong the exposition during the night as well; the initiative was later ratified by the Holy See. The sources differ regarding the monarch: part of the literature (including the Catholic Encyclopedia) names Louis VII, while another names Louis VIII, father of Saint Louis IX. This Avignon adoration was maintained until 1792, when the French Revolution interrupted it, and it was resumed in 1829 by the Penitents Gris. Many scholars, however, associate the spread of extra-liturgical adoration with the establishment of the feast of Corpus Christi (1246-1247), which was earlier in organization than these initial experiences.\n\nThroughout the Middle Ages and the Modern Age, the maintenance of adoration for long periods remained largely restricted to monasteries and convents of contemplative life, from which it gradually permeated the life of the dioceses. A decisive step for its spread beyond monastic life came in the nineteenth century, when the French priest Peter Julian Eymard, after leaving the Marist Congregation, founded in Paris, on May 22, 1856, the Congregation of the Priests of the Blessed Sacrament, dedicated specifically to the promotion of Eucharistic worship and perpetual adoration; he also founded the Servants of the Blessed Sacrament, the female branch, and a lay third order. He was canonized by John XXIII in 1962 and is remembered as the \"apostle of the Eucharist.\"\n\nIn the twentieth century and, above all, in recent decades, the practice has ceased to be the exclusive domain of religious institutes and has spread widely to ordinary parishes, with the creation of perpetual adoration chapels maintained by teams of lay volunteers organized in shifts, often hour by hour, ensuring constant presence before the Blessed Sacrament exposed in a monstrance. Estimates vary considerably according to the source and the criterion: today a few thousand such spaces are believed to exist in various countries — figures cited range from about 2,500 to about 5,000 chapels worldwide, with notable growth in Spain and Brazil —, a figure that this collection records as an estimate, not as exact data.\n\nTheologically, perpetual adoration rests on the Catholic faith in the real presence of Christ in the Eucharist even outside the celebration of Mass, and it is understood as a way of prolonging in time Jesus' invitation to the apostles in the Garden of Olives — \"So, could you not watch with me one hour?\" (Mt 26:40) —, the same biblical episode that is at the devotional origin of the Holy Hour, present in this collection.",
+      "categoria": "devocoes",
+      "tags": [
+        "Eucharistic adoration",
+        "Eucharist",
+        "Blessed Sacrament",
+        "real presence",
+        "Peter Julian Eymard",
+        "Avignon"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Genaro_P%C3%A9rez_Villaamil_-_The_Corpus_Christi_Procession_inside_Seville_Catedral_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catholic Encyclopedia (1913), \"Perpetual Adoration\"",
+        "Catechism of the Catholic Church",
+        "EWTN News/ACI Prensa, \"On this day almost 800 years ago, the practice of perpetual adoration of the Blessed Sacrament began\"",
+        "Gaudium Press, \"The Number of Perpetual Eucharistic Adoration Chapels Is Growing in Spain\"",
+        "IPCO, \"Saint Peter Julian Eymard, Confessor\"",
+        "Archdiocese of Belo Horizonte, \"Saint Peter Julian Eymard\""
+      ],
+      "atualizado_em": null,
+      "ordem": 8,
+      "origem": "A practice consolidated from medieval monastic foundations, now widespread in parishes and dedicated chapels"
+    },
+    {
+      "id": "devocoes:consagracao-a-maria",
+      "slug": "consagracao-a-maria",
+      "titulo": "Consecration to Jesus through Mary",
+      "categoria": "devocoes",
+      "resumo": "A spiritual practice of giving oneself totally to Christ through Mary, systematized by Saint Louis de Montfort.",
+      "corpo": "Distinct from a simple prayer to Mary, \"consecration\" is a formal and deliberate act of total surrender of one's own life to Jesus Christ through the maternal mediation of Mary — not one devotion among others but, in the formulation of its advocates, a complete spiritual path and a privileged means of living out one's own baptism. It was systematized chiefly by Saint Louis Marie Grignion de Montfort (1673-1716), a French popular missionary, in the «Treatise on True Devotion to the Blessed Virgin» (see Books).\n\nCuriously, the manuscript of the Treatise remained practically unknown for more than a century: written in the last years of Montfort's life and kept among his belongings, it was only rediscovered by chance in 1842, in a trunk at the motherhouse of the Company of Mary in Saint-Laurent-sur-Sèvre, France, and published for the first time in 1843. This late rediscovery gave the work a diffusion and an influence that it did not have during the author's lifetime, making it one of the most frequently cited references of Marian spirituality of the nineteenth and twentieth centuries.\n\nThe Montfortian method of consecration is classically structured around a period of preparation of 33 days, divided into thematic blocks: the first twelve days devoted to emptying oneself of the \"spirit of the world,\" understood as everything that is opposed to the Spirit of Christ; a second block of days devoted to knowledge of oneself and of one's own sinful condition; a third, to knowledge of Mary; and a last one, devoted to knowledge of Jesus Christ, toward whom the whole consecration is ultimately directed — surrender to Mary always being understood as a means, never as an end in itself. At the end of this journey, the faithful person makes, generally at a Mass and on the date of a significant Marian feast (such as the Annunciation, on March 25, or the Immaculate Conception, on December 8), the solemn formula of consecration of \"all their being\" to Jesus through Mary.\n\nMontfort's spirituality deeply marked several later saints and popes. Saint Maximilian Kolbe, founder of the Militia of the Immaculata in the early twentieth century, drew directly on it to formulate his own doctrine of \"total consecration\" to the Virgin. But it was above all John Paul II who made it known worldwide: the episcopal and later papal motto he adopted, \"Totus Tuus\" (\"Entirely Yours,\" in Latin), is a direct quotation of a formula from Montfort's own Treatise, and the pope stated repeatedly that reading this work, even as a young worker in occupied Poland, was decisive for his understanding of Mary's maternal mediation on the way to Christ.\n\nToday, Montfort's method remains the most widespread for this type of Marian consecration, having served as a model, with adaptations, for later consecrations to other figures — including, more recently, the consecration to Saint Joseph also present in this collection, which replicates the same logic of 33 days of preparation.",
+      "tags": [
+        "Marian consecration",
+        "Mary",
+        "Louis de Montfort"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Louis_de_Montfort.jpg",
+      "imagem_credito": null,
+      "ordem": 9,
+      "origem": "Systematized by Saint Louis de Montfort in the early eighteenth century",
+      "fontes": [
+        "Catechism of the Catholic Church",
+        "Aliança de Misericórdia, «Saint Louis Grignion de Montfort and True Devotion to Our Lady»",
+        "Portal Éfeso, «Learn How to Consecrate Yourself to the Virgin Mary: The Step-by-Step Guide to the 33 Days of Preparation»"
+      ]
+    },
+    {
+      "id": "devocoes:angelus-devocao",
+      "slug": "angelus-devocao",
+      "titulo": "The Practice of the Angelus (Three Times a Day)",
+      "resumo": "The habit of pausing one's activities three times a day — morning, noon and evening — to pray the Angelus at the ringing of the bell, recalling the Incarnation; during the Easter Season it is replaced by the antiphon Regina Caeli.",
+      "corpo": "Besides the text of the prayer itself (see Prayers), the Angelus is also a devotional practice with a daily rhythm: traditionally marked by the ringing of the parish church bells three times a day — in the morning, at noon and at dusk — it invites the faithful to pause for a moment from their everyday occupations to recall the mystery of the Incarnation. The name derives from the first words of the Latin text, «Angelus Domini nuntiavit Mariae» («The Angel of the Lord declared unto Mary»), and the prayer was formerly called the «prayer of peace,» because it celebrates the Son of God who, becoming incarnate in the womb of the Virgin, established peace between God and men.\n\nThe roots of the custom are medieval and developed in layers. The first reliable record goes back to 1269, when Saint Bonaventure of Bagnoregio, then Minister General of the Franciscan Order, at the General Chapter of the Friars Minor held in Pisa, prescribed that the religious greet the Mother of God at dusk, at the sound of the bells, with the recitation of the Hail Mary, recalling the Incarnation. The habit spread through later juridical steps: a decree of the Synod of Esztergom (Hungary) in 1307 granted an indulgence to the faithful who recited three Hail Marys at the ringing of the evening bells; and a synod held in Cologne in the early fifteenth century determined that in all churches the bell should be rung three times at sunrise, in the same manner as at dusk. The composition of the text of the Angelus is, by tradition, attributed to Blessed Pope Urban II (pontiff from 1088 to 1099) — a pious attribution which the sources present as such, without contemporary documentation.\n\nThe consolidation of the Angelus as a threefold prayer came in distinct stages. On June 29, 1456, Pope Callixtus III, by means of the bull known as the «Bulla Turcorum,» ordered that the bells of all the churches of Christendom be rung at noon, summoning the faithful to pray for the defense of those resisting the Ottoman advance. The concrete context was the siege of Belgrade: on July 22 of that year, John Hunyadi, aided by the preaching of the Franciscan Saint John of Capistrano, defeated the army of Mehmed II, a victory that halted the Ottoman advance on Central Europe for about seventy years. It must be noted, as the historical sources do, that the «noon bell» ordered by Callixtus III was not originally identical to the Angelus — it was a bell of supplication for Christian victory — and the fusion of the two customs was consolidated only later. It was King Louis XI of France who, around 1472, systematically decreed that the bell be rung three times a day — in the morning, at noon and at dusk — establishing the structure that would become universal in the following centuries, with the recitation of three Hail Marys at each ringing.\n\nIn the modern era, the devotion became the object of spiritual grants: Pope Benedict XIII, on September 14, 1724, attached to the Angelus an indulgence of one hundred days for each recitation, with a plenary indulgence once a month, for those who prayed it under the usual conditions. The traditional structure of the prayer alternates three versicles and responses, each followed by a Hail Mary, recalling the announcement of the angel Gabriel to Mary, her response of faith («Be it done unto me according to thy word») and the Incarnation of the Word («And the Word was made flesh, and dwelt among us»), concluding with a collect and the Glory Be. The ringing of the bells that accompanies it usually follows three groups of three strokes, followed by nine continuous strokes. Throughout the Easter Season — from Easter to Pentecost — the Church replaces the Angelus with the Marian antiphon «Regina Caeli» («Queen of Heaven»), attested in liturgical manuscripts since the twelfth century and one of the four Marian antiphons of the Office; it celebrates the Resurrection rather than the Incarnation, and is the only one of the Marian antiphons that is an invitation to joy rather than a supplication.\n\nThe public and weekly dimension of the devotion is relatively recent. The first radio broadcast of the Angelus took place on August 15, 1954, the feast of the Assumption, when Pope Pius XII led the prayer from Castel Gandolfo; in the autumn of that same year, Pius XII began the tradition of praying the Angelus from the window of his study in the Apostolic Palace, facing Saint Peter's Square. Since then, popes have recited the Angelus (or, in the Easter Season, the Regina Caeli) publicly on Sundays and holy days at noon, addressing a brief reflection to the faithful before the prayer. This practice became linked in a particular way to the Marian memory of the Church: on May 13, 1981, during the weekly audience in Saint Peter's Square — on the day of Our Lady of Fátima — John Paul II was struck by shots fired by Mehmet Ali Ağca and survived; years later he attributed his protection to the Virgin and placed in the crown of the statue of Our Lady of Fátima the bullet that wounded him. The combination of bell and prayer, still alive in many parishes and rural communities, remains one of the most recognizable gestures of everyday Catholic piety.",
+      "categoria": "devocoes",
+      "tags": [
+        "Angelus",
+        "Regina Caeli",
+        "Marian prayer",
+        "daily life",
+        "bells",
+        "Incarnation",
+        "Pius XII",
+        "Callixtus III"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Jean-Fran%C3%A7ois_Millet_-_The_Angelus_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Vatican News, «The Origin of the Angelus», by Laura Lo Monaco (2022)",
+        "Catholic Encyclopedia (1913), entry «Angelus» (indulgence of Benedict XIII, Sept. 14, 1724)",
+        "Wikipedia (en), «Angelus» and «Siege of Belgrade (1456)» — note on the distinction between the noon bell of Callixtus III and the Angelus",
+        "Aleteia (pt), «The Angelus Prayer: Its History, Its Meaning and How to Pray It»"
+      ],
+      "atualizado_em": null,
+      "ordem": 10,
+      "origem": "Devotional use established around the sixteenth century"
+    },
+    {
+      "id": "devocoes:primeiros-sabados",
+      "slug": "primeiros-sabados",
+      "titulo": "The Five First Saturdays",
+      "categoria": "devocoes",
+      "resumo": "A Marian devotion linked to the apparitions of Fátima: confession, Communion, the Rosary, and meditation in reparation, on the first Saturday of five consecutive months.",
+      "corpo": "Distinct from, though related to, the First Fridays devotion to the Sacred Heart, the devotion of the \"Five First Saturdays\" originates in the account of the apparitions of Fátima: on the first Saturday of five consecutive months, the faithful go to confession, receive Communion, pray a five-decade Rosary, and meditate for fifteen minutes on the mysteries of the Rosary, accompanying these acts with the specific intention of making reparation for the offenses against the Immaculate Heart of Mary.\n\nThe root of the request lies in the apparition of July 13, 1917, when, according to the account of the seer Lúcia dos Santos, Our Lady announced that God wished to establish in the world devotion to her Immaculate Heart as a path to peace. But the concrete form and the exact number (five Saturdays, with the four specific acts of confession, Communion, the Rosary, and meditation) would only come years later, in a subsequent apparition, without the presence of the other two shepherd children, Francisco and Jacinta, who died in 1919 and 1920.\n\nThis apparition took place on December 10, 1925, in the convent of the Sisters of Saint Dorothy in Pontevedra, Spain, where Lúcia, then eighteen years old and the only survivor of the three seers, was living as a postulant. According to her account, Our Lady appeared to her with the Child Jesus in her arms, surrounded by a luminous cloud; in one hand, she showed Lúcia a heart encircled with thorns. It was the Child Jesus himself who first addressed her, saying: \"Have pity on the Heart of your most holy Mother, covered with thorns, with which ungrateful men pierce It at every moment, and there is no one to make an act of reparation to remove them.\" Then Our Lady explained the concrete request: to all those who, for five months, on the first Saturday, confess, receive Communion, pray a Rosary, and keep her company for fifteen minutes meditating on the mysteries of the Rosary, with the purpose of making reparation to her, she promised to assist at the hour of death with the graces necessary for salvation.\n\nA second apparition, on February 15, 1926, clarified practical doubts about how to fulfill the devotion. Lúcia, by then a novice, reported seeing a child whom she seemed to recognize; when she began a conversation, the child revealed himself to be the Child Jesus himself, who reproached her for not having done more to spread the devotion of the five first Saturdays. In response to Lúcia's objection (that there were souls who, for lack of an available confessor on that exact day, would have difficulty fulfilling the requirement), Jesus clarified that confession could be made on another day close to the Saturday, provided that Communion was received in a state of grace and with the intention of reparation, a flexibility that remains to this day as the practical norm of the devotion.\n\nThe devotion of the Five First Saturdays thus functions as the practical devotional complement to the broader request for the consecration of the world, and especially of Russia, to the Immaculate Heart of Mary, made already in the apparition of July 1917 and treated in more detail in the entry on devotion to the Immaculate Heart in this collection. Spread above all from the mid-twentieth century onward, when the apparitions of Fátima gained recognition and worldwide diffusion, and reinforced by the beatification of Francisco and Jacinta Marto in 2000 and their canonization in 2017, on the centenary of the apparitions, the practice remains alive today in Marian shrines and parishes devoted to Our Lady of Fátima throughout the world.",
+      "tags": [
+        "Fátima",
+        "Mary",
+        "reparation"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/First_Sculpture_of_Our_Lady_of_Fatima.jpg",
+      "imagem_credito": null,
+      "ordem": 11,
+      "origem": "Account of the apparitions of Our Lady of Fátima (1917) and of Pontevedra (1925)",
+      "fontes": [
+        "Catechism of the Catholic Church",
+        "MBC, \"Five First Saturdays: the reparatory devotion requested by Our Lady\"",
+        "Wikipedia, \"Pontevedra Apparitions\"",
+        "Via Crucis (Portugal), \"On this day in 1926, Jesus appeared to Sister Lúcia and asked about the Five First Saturdays\""
+      ]
+    },
+    {
+      "id": "devocoes:imaculado-coracao-de-maria",
+      "slug": "imaculado-coracao-de-maria",
+      "titulo": "Devotion to the Immaculate Heart of Mary",
+      "resumo": "A Marian devotion that honors the heart of Mary as a symbol of her maternal love and her total surrender to God, systematized by Saint John Eudes in the seventeenth century and spread worldwide after the apparitions of Fatima in 1917.",
+      "corpo": "Parallel and complementary to the devotion to the Sacred Heart of Jesus, the devotion to the Immaculate Heart of Mary honors the heart of the Virgin as a symbol of her maternal love, her faith, and her total surrender to the will of God. Its scriptural root is in the Gospel of Luke, which twice records that Mary \"kept all these things, pondering them in her heart\" (Lk 2:19, 51); the Fathers of the Church and the medieval theologians, among them Saint Bernard, Saint Gertrude, and Saint Bridget, developed this reading. As an organically structured devotion, however, it owes much to the French priest Saint John Eudes: in 1648 he obtained from the Bishop of Autun, in France, approval for the celebration of a feast in honor of the Heart of Mary, being the first to officially promote, in unity, the worship of the two Hearts — so much so that Leo XIII called him the \"author of the liturgical worship of the Sacred Hearts of Jesus and Mary,\" and Saint Pius X, upon beatifying him, hailed him as the \"father, doctor, and apostle\" of this devotion.\n\nIt was, however, the account of the apparitions of Fatima, in 1917, that gave the devotion worldwide reach. According to the testimonies of the three shepherd children — Lúcia dos Santos, then ten years old, Francisco Marto, nine, and Jacinta Marto, seven —, in the apparition of July 13, 1917, at the Cova da Iria, Our Lady announced: \"God wishes to establish in the world devotion to my Immaculate Heart,\" and added the promise that, \"to prevent war, I shall come to ask for the consecration of Russia to my Immaculate Heart and the Communion of reparation on the First Saturdays.\" The visionary Lúcia, later a Discalced Carmelite, also reported having seen the Heart of Mary surrounded by thorns, offended by the sins of men and in need of reparation. This request for reparation was detailed years later, in the apparition of December 10, 1925, in Pontevedra, Spain, when the Virgin and the Child Jesus appeared to the young postulant Lúcia and asked for the Communion of reparation on the first Saturdays of five consecutive months — the so-called devotion of the Five First Saturdays, with the promise of assistance at the hour of death to whoever practiced it.\n\nThe institutional response to this appeal came in stages. On October 31, 1942, in the midst of the Second World War, Pope Pius XII consecrated the whole human race to the Immaculate Heart of Mary, first by a radio message addressed to Portugal and then solemnly repeating the act in Saint Peter's Basilica on December 8 of the same year; in the following years, Catholic historians related the gesture to the turn in favor of the Allies, with the victories of El Alamein (November 1942) and Stalingrad (February 1943). On July 7, 1952, by the apostolic letter \"Sacro Vergente Anno,\" Pius XII specifically consecrated the peoples of Russia, then under an atheistic communist regime. Paul VI renewed the gesture in 1964, at the close of the third session of the Second Vatican Council, and in 1967 published the apostolic exhortation \"Signum Magnum,\" in which he asked that the Immaculate Heart of Mary shine \"before the eyes of all Christians as the model of perfect love for God and for neighbor.\" John Paul II, deeply marked by the spirituality of Fatima after surviving the assassination attempt of May 13, 1981 — the anniversary of the first apparition —, would again consecrate the world and Russia to the Immaculate Heart in 1981, 1982, and, in a manner considered more complete by the faithful devoted to Fatima, on March 25, 1984.\n\nMore recently, on March 25, 2022, Pope Francis presided in Saint Peter's Basilica over a new consecration, during a penitential celebration, explicitly naming, for the first time in an act of this kind, both Russia and Ukraine, in the context of the Russian invasion begun that year. The same act was performed simultaneously at Fatima by the prefect of the Dicastery for Evangelization, joining the traditional Fatima gesture to a direct plea for peace between the two countries at war.\n\nThe proper liturgical feast of the Immaculate Heart of Mary was instituted for the whole Church by the decree \"Cultus liturgicus\" of May 4, 1944, of the Congregation of Rites, initially fixed on August 22, the octave of the Assumption, with its own Mass and Office. In the post-conciliar liturgical reform, the celebration was moved to the Saturday following the solemnity of the Sacred Heart of Jesus, becoming a memorial (first optional, then obligatory) and reaffirming, in the calendar itself, the bond between the two Hearts united in the same mission of salvation; the old date of August 22 became the memorial of Our Lady Queen.",
+      "categoria": "devocoes",
+      "tags": [
+        "Marian devotion",
+        "Fatima",
+        "Immaculate Heart",
+        "consecration of Russia",
+        "Saint John Eudes",
+        "first Saturdays",
+        "Pius XII"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Imaculado-coracao-de-maria.jpg",
+      "imagem_credito": "Photo: Francisco SC — Wikimedia Commons, CC BY 3.0",
+      "fontes": [
+        "Luke 2:19, 51",
+        "Memórias da Irmã Lúcia I (Memoirs of Sister Lúcia I), Sanctuary of Fatima (edition of the original sources)",
+        "Pius XII, radio message of consecration of the world to the Immaculate Heart (October 31, 1942; repeated on December 8, 1942), EWTN",
+        "Pius XII, Apostolic Letter \"Sacro Vergente Anno\" (1952)",
+        "Congregation of Rites, decree \"Cultus liturgicus,\" May 4, 1944",
+        "Paul VI, Apostolic Exhortation \"Signum Magnum\" (1967), no. 14",
+        "Osservatore Romano, \"The Pope will consecrate Russia and Ukraine to the Immaculate Heart of Mary\" (2022)"
+      ],
+      "atualizado_em": null,
+      "ordem": 12,
+      "origem": "Ancient in the Marian tradition, consolidated devotionally after the apparitions of Fatima (1917)"
+    },
+    {
+      "id": "devocoes:bencao-do-santissimo",
+      "slug": "bencao-do-santissimo",
+      "titulo": "Benediction of the Most Blessed Sacrament",
+      "resumo": "Rite of Eucharistic adoration in which the bishop, priest or deacon blesses the faithful with the consecrated host exposed in the monstrance, using the humeral veil.",
+      "corpo": "Benediction of the Most Blessed Sacrament is a devotional rite, distinct from the Mass, in which the consecrated host is exposed in the monstrance for adoration — usually at the end of a period of Eucharistic adoration — and the minister (bishop, priest or deacon, never a layperson) traces the sign of the cross over the assembly with it, blessing it with the real presence of Christ himself, and not by his own personal authority. It is, therefore, a blessing that proceeds from Christ-Eucharist, the minister being only an instrument.\n\nThe historical development of this rite is linked to the institution of the feast of Corpus Christi by Pope Urban IV in 1264, motivated in large part by the visions of the Augustinian religious Juliana of Cornillon, in Belgium, who asked for a specific feast in honor of the Body of Christ. For this same feast, Saint Thomas Aquinas composed, at the request of Urban IV himself, the complete liturgical office, including the hymn \"Pange Lingua Gloriosi,\" whose last two stanzas — which begin with the words \"Tantum Ergo Sacramentum\" — became established over time as the proper hymn for the moment of Eucharistic benediction, sung to this day in Latin or in vernacular translations in practically the whole Catholic world. The practice of solemnly exposing the Blessed Sacrament in a transparent receptacle — the monstrance, whose characteristic form with a central glass or crystal \"lunette\" developed over the 14th and 15th centuries — grew precisely out of the devotion generated by Corpus Christi and the Eucharistic processions that the feast consolidated.\n\nFor centuries the rite of benediction with the Blessed Sacrament had no official, uniform liturgical codification: its form was gradually fixed through practical guidelines, among which the norms drawn up in the 18th century by the Cardinal Vicar of Rome Prospero Lambertini — who would be elected pope shortly afterward, taking the name Benedict XIV — had great influence and were widely followed until the 20th century. An official, universal codification would come only with the publication of the \"Rite of Eucharistic Exposition and Benediction,\" promulgated by the Holy See in 1973, which unified the practice throughout the Latin Church.\n\nA characteristic element of the rite is the humeral veil — from the Latin \"humerus,\" shoulder —, a long rectangular cloth that the minister places over his shoulders and uses to cover his hands when holding the monstrance at the moment of blessing. The gesture visually expresses that the blessing does not proceed from the person of the minister, but from Christ present in the Sacrament, of whom he is only an instrument; in solemn expositions, the veil is worn over the cope, and the acolyte places it on the minister before the blessing. The complete celebration usually follows a fixed structure: exposition of the Blessed Sacrament, a period of silent or sung adoration, the incensation of the Sacrament, the singing of the \"Tantum Ergo,\" a versicle with its respective prayer (in Brazil, it is customary to pray the \"Blessed Be God\"), and, finally, the silent blessing with the monstrance, concluded with the reposition of the host in the tabernacle.",
+      "categoria": "devocoes",
+      "tags": [
+        "Eucharistic adoration",
+        "Eucharist",
+        "Corpus Christi",
+        "monstrance",
+        "humeral veil",
+        "Thomas Aquinas"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Roman Ritual, Rite of Eucharistic Exposition and Benediction (1973)",
+        "Wikipedia, \"Bênção do Santíssimo Sacramento\"",
+        "Santa Inês Paramentos, \"O Simbolismo do Véu Umeral nas Bênçãos do Santíssimo Sacramento\"",
+        "Salvem a Liturgia, \"Exposição e Bênção do Santíssimo Sacramento\" (rubrics)"
+      ],
+      "atualizado_em": null,
+      "ordem": 13,
+      "origem": "Developed from the institution of the feast of Corpus Christi (13th century)"
+    },
+    {
+      "id": "devocoes:ladainha-lauretana",
+      "slug": "ladainha-lauretana",
+      "titulo": "Litany of Our Lady (Litany of Loreto)",
+      "resumo": "A sequence of Marian invocations and titles prayed in the form of a litany, traditionally associated with the shrine of Loreto and the only Marian litany approved for universal public use.",
+      "corpo": "The Litany of Loreto is a sequence of invocations to Our Lady, each followed by the response \"pray for us,\" which runs through dozens of Marian titles — biblical, dogmatic and symbolic, such as \"Virgin most prudent,\" \"Morning Star,\" \"Tower of Ivory\" and \"Queen of Angels\" —, preceded by an invocation to the Most Holy Trinity and concluded with the invocations to Christ as \"Lamb of God.\" The invocations are arranged in groups: those that honor the divine motherhood, those concerning Mary's virginity, the symbolic figures, those that invoke her mercy, and those that acclaim her as Queen. In many communities it is customary to conclude the recitation of the Rosary with it, and its current structure comprises about fifty Marian invocations.\n\nIt received this name because of its historical association with the Shrine of the Holy House of Loreto, in the Italian region of the Marches. According to the oldest known records, the litany was solemnly sung on December 10, 1531, a date associated with the laying of the first stone of the marble casing of the Holy House; there is also the testimony of a bequest in 1547, by the Loreto canon John of Albona, in favor of the Augustinians of Recanati, so that Mass would be celebrated with the singing of the Marian litany, and the report of pilgrims who, around 1565, arrived at the shrine already singing it. Historians consider it probable that the litany, in similar versions, had been circulating for some time among the many Marian litanies then existing in Europe.\n\nIn the sixteenth century dozens of different litanies dedicated to Mary circulated, with titles and structures that varied according to the region and local devotion. To bring order to this diversity, Pope Sixtus V issued, on July 11, 1587, the bull \"Reditum,\" which granted formal and universal approval to the Loreto version for public use in the Church and, at the same time, suppressed and prohibited the public use of the other Marian litanies then existing, leaving them permitted only in private devotion. The measure aimed to ensure liturgical uniformity and doctrinal purity, making the Litany of Loreto the only Marian litany officially sanctioned for universal use.\n\nSince then, the Holy See has maintained the prerogative of adding new titles to the litany, which has occurred only a few times over the centuries. Among the documented additions are \"Queen conceived without original sin\" (1854, under Pius IX, in the context of the definition of the dogma of the Immaculate Conception), \"Mother of Good Counsel\" (by decree of Leo XIII of April 22, 1903), \"Queen of Peace\" (1917), \"Queen assumed into heaven\" (1950) and \"Mother of the Church\" — proclaimed by Paul VI on November 21, 1964, at the close of the third session of the Second Vatican Council, and formally incorporated into the text of the litany in 1980, already under John Paul II, who in 1995 would further add \"Queen of the Family.\"\n\nMore recently, on June 20, 2020 — the memorial of the Immaculate Heart of Mary — Pope Francis ordered the inclusion of three more invocations: \"Mater misericordiae\" (Mother of Mercy), inserted after \"Mother of the Church\"; \"Mater spei\" (Mother of Hope), after \"Mother of divine grace\"; and \"Solacium migrantium\" (Solace of Migrants), after \"Refuge of sinners.\" The decision was communicated by a letter from the prefect of the Congregation for Divine Worship, Cardinal Robert Sarah, and the secretary of the dicastery, Archbishop Arthur Roche, to the presidents of the episcopal conferences. With these additions, the number of Marian titles in the litany went from 51 to 54.\n\nBecause of its antiquity, its universal approval and its relatively stable structure over the centuries, the Litany of Loreto remains today the official and most widespread Marian litany of the Catholic Church, used both in public celebrations and in private devotion, above all as the traditional conclusion of the Rosary.",
+      "categoria": "devocoes",
+      "tags": [
+        "Marian devotion",
+        "litany",
+        "Loreto",
+        "Sixtus V",
+        "Paul VI",
+        "Pope Francis",
+        "rosary"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/26/The-Litany-of-The-Blessed-Virgin-Mary.jpg",
+      "imagem_credito": "Photo by NoslivRage, 2013, via Wikimedia Commons (CC BY-SA 3.0)",
+      "fontes": [
+        "Sixtus V, Bull \"Reditum\" (July 11, 1587)",
+        "Congregation for Divine Worship and the Discipline of the Sacraments, letter from Cardinal Robert Sarah and Archbishop Arthur Roche on the inclusion of the three new invocations (June 20, 2020)",
+        "Diocese of São João del Rei, \"The Litany of Our Lady,\" with chronology of the papal additions and reference to Basadonna; Santarelli, 2000",
+        "Jornal O São Paulo, \"Pope adds three new invocations to the Litany of Our Lady\" (2020)",
+        "Vatican News / arquidiocesedebelem.com.br, \"Pope Francis adds three invocations to the Litany of Our Lady\" (2020)"
+      ],
+      "atualizado_em": null,
+      "ordem": 14,
+      "origem": "Attested at Loreto since the sixteenth century; officially approved by Sixtus V in 1587"
+    },
+    {
+      "id": "devocoes:exercicios-espirituais-inacianos",
+      "slug": "exercicios-espirituais-inacianos",
+      "titulo": "Spiritual Exercises of Saint Ignatius of Loyola",
+      "categoria": "devocoes",
+      "resumo": "A structured method of retreat and spiritual discernment, organized by Saint Ignatius of Loyola into four thematic \"weeks.\"",
+      "corpo": "The Spiritual Exercises are a method of prayer and discernment organized by Saint Ignatius of Loyola, founder of the Jesuits, out of his own experience of conversion, and published in book form in 1548. Their origin goes back to a well-dated episode: on May 20, 1521, while defending the city of Pamplona from the siege of French troops, the Basque knight Íñigo López de Loyola was struck by a cannonball that fractured his right leg and wounded his left. During the long and painful convalescence in his family's castle, without the chivalric romances he used to read, he had at hand only religious books — a life of Christ and a collection of lives of the saints — whose reading awakened in him a growing desire to imitate the lives of those saints rather than the military and worldly life he had led until then.\n\nAfter his recovery, Ignatius withdrew to the city of Manresa, in Catalonia, where he lived for almost a year, between 1522 and 1523, in intense prayer, penance and mystical experiences that would progressively mature the method of discernment and meditation that he was recording, little by little, in a notebook of personal notes. It was in Manresa, on the banks of the Cardoner River, that Ignatius reported having experienced, in September 1522, a particularly intense mystical illumination, in which he understood in a new and unified way truths of faith and knowledge that would come to structure all of his future spirituality — an episode that the Jesuits consider, alongside the conversion at Loyola, one of the two founding pillars of his vocation.\n\nFrom this Manresa material, over years of reworking and practical use in accompanying other people, the Spiritual Exercises properly speaking would be born, finally approved by Pope Paul III in 1548 through the bull \"Pastoralis Officii,\" and published in book form that same year. The text is not a work for continuous reading, but a technical manual addressed to the one who spiritually accompanies another person — the \"director\" of the Exercises — containing precise instructions (the \"annotations\") on how to conduct each stage of the retreat according to the disposition of the one making it.\n\nThey are classically structured in four thematic \"weeks,\" not necessarily of seven days each: the first, on sin, God's mercy and one's own condition as a sinner; the second, on the public life of Christ and the call to follow him, including the celebrated meditation on the \"Two Standards\" and the moment of the \"election\" (the making of a decision about one's life or state); the third, on the Passion; and the fourth, on the Resurrection, culminating in the \"Contemplation to Attain Love.\" In their full form, the Exercises are made in silence and with daily individual spiritual accompaniment, over a closed retreat of about thirty days — a practice now reserved above all for the formation of Jesuits and a few laypeople — but since the twentieth century adapted versions have also spread, lasting a few days or even spread over months in everyday life (the so-called \"Exercises in Daily Life\"), making the method accessible to a much wider public.\n\nAlthough linked to the Society of Jesus, the Exercises have become a reference for spiritual retreats far beyond it, and are used today, with adaptations, by dioceses, lay movements and other religious congregations throughout the world, profoundly influencing modern Catholic spirituality around themes such as vocational discernment, the daily examination of conscience and interior availability to the will of God.",
+      "tags": [
+        "spiritual retreat",
+        "Jesuits",
+        "discernment"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Exercitia_Spiritualia_1ed2.jpg",
+      "imagem_credito": null,
+      "ordem": 15,
+      "origem": "Written by Saint Ignatius of Loyola between 1522 and 1524; published in 1548",
+      "fontes": [
+        "Ignatius of Loyola, \"Spiritual Exercises\" (1548)",
+        "Vatican News, \"Saint Ignatius of Loyola, the story of a conversion\"",
+        "Paul III, Bull \"Pastoralis Officii\" (1548)"
+      ]
+    },
+    {
+      "id": "devocoes:via-matris",
+      "slug": "via-matris",
+      "titulo": "Via Matris (Rosary of the Seven Sorrows)",
+      "resumo": "A devotional exercise that traces, in seven stations, the principal sorrows of Mary — from Simeon's prophecy to the burial of Jesus — modeled on the Way of the Cross.",
+      "corpo": "The Via Matris (Latin: \"the way of the Mother\"; the full form is Via Matris Dolorosae, \"the way of the Sorrowful Mother\") is the devotional exercise that traces in seven stations the principal sufferings experienced by the Virgin Mary, modeled on the Way of the Cross. Its theological foundation is the indissoluble union of Mary with Christ and her participation in the redemptive work of her Son, presenting her sorrows not merely as episodes at the foot of the Cross, but as a path of faith and suffering that extends throughout her whole life, from the angel's announcement and Simeon's prophecy to the death and burial of Jesus (cf. Lk 1:26-38; Lk 2:34-35; Jn 19:25-30).\n\nThe underlying devotion that sustains it is that of the Seven Sorrows of Mary, promoted by the Order of the Servants of Mary (Servites), founded in Florence in 1233 by seven prosperous cloth and wool merchants: Bonfilius Monaldi, Bonajuncta Manetti, Manettus dell'Antella, Amadeus Amidei, Sostene Sostegni, Hugh Uguccioni and Alexis Falconieri. According to the tradition of the order, gathered on August 15, 1233, in the lay confraternity of the Laudesi, the seven are said to have had a vision of the Virgin dressed in mourning, weeping over the civil war that had been tearing Florence apart for eighteen years; they then withdrew to a life of penance and service to Mary, first at Villa Camarzia and later on Monte Senario. The order received the Rule of Saint Augustine around 1239 and was definitively approved by apostolic letter in 1256; the seven founders were canonized in a single cause — a rare case in the history of the Church — by Pope Leo XIII on January 15, 1888.\n\nThe Via Matris exercise properly speaking, distinct from the devotion to the Seven Sorrows that preceded it, developed out of the preaching and practices of the Servites, already existing in embryonic form since the sixteenth century and settling into its current form of seven stations over the course of the nineteenth century; it was subsequently approved by the Apostolic See and later accepted as a recommended exercise for Lent. The seven sorrows traditionally meditated upon are: the prophecy of Simeon (Lk 2:34-35); the flight of the Holy Family into Egypt (Mt 2:13-14); the disappearance of the Child Jesus for three days in Jerusalem (Lk 2:43-45); Mary's meeting with Jesus on the way to Calvary (cf. Lk 23:27-31); Mary's standing at the foot of the Cross (Jn 19:25-27); the receiving of the body of Jesus taken down from the Cross; and the burial (Jn 19:40-42). Not all of these stations have an explicit Gospel account — some come from established devotional tradition — a distinction that this collection records so as not to confuse popular piety with biblical narrative. The Pietà is considered its greatest artistic expression.\n\nFrom the same devotion to the Seven Sorrows sprang sister practices spread by the Servites: the Rosary (or Chaplet) of the Seven Sorrows, prayed in seven sets of seven Hail Marys separated by an Our Father, whose meditations are said to have been composed by Pope Pius VII, who in 1817-1818 granted indulgences to this recitation; and the Black Scapular of the Seven Sorrows, the sign of the Confraternity of Our Lady of Sorrows linked to the order and which, unlike other scapulars, requires only black woolen cloth. The liturgical memorial of Our Lady of Sorrows goes back to medieval celebrations (in 1668 the Servites obtained permission for the votive Mass of the Seven Sorrows); it was inscribed in the Roman calendar in 1814 by Pius VII and, by decision of Pius X, fixed on September 15, the day after the Exaltation of the Holy Cross. The Via Matris continues to be practiced above all during Lent and Holy Week, often in parallel with or alternating with the Way of the Cross, offering the faithful a complementary perspective on the Passion: that of the silent and sorrowful participation of His Mother.",
+      "categoria": "devocoes",
+      "tags": [
+        "Via Matris",
+        "Our Lady of Sorrows",
+        "Seven Sorrows of Mary",
+        "Servites",
+        "Passion of Christ",
+        "Lent",
+        "Rosary of the Seven Sorrows"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Seven_Sorrows_S_Stefano_Rotondo_Roma.JPG",
+      "imagem_credito": null,
+      "fontes": [
+        "Directory on Popular Piety and the Liturgy, \"Via Matris\" (Congregation for Divine Worship)",
+        "Locus Mariologicus, \"Via Matris: the Mother's Way and the Seven Sorrows of Mary\"",
+        "Vatican News, \"Our Lady of Sorrows\" (liturgical feasts)",
+        "Vatican News, \"The Seven Holy Founders of the Order of the Servants of Mary\"",
+        "Wikipedia, \"Rosary of the Seven Sorrows\" and \"Our Lady of Sorrows\"",
+        "Aleteia, \"Via Matris: the version of the Way of the Cross based on the 7 Sorrows of Our Lady\""
+      ],
+      "atualizado_em": null,
+      "ordem": 16,
+      "origem": "Tradition of the Order of the Servites, developed from the thirteenth century, settled in its current form in the nineteenth century"
+    },
+    {
+      "id": "devocoes:via-lucis",
+      "slug": "via-lucis",
+      "titulo": "Via Lucis (Way of Light)",
+      "resumo": "A popular devotion born in 1988 that follows fourteen stations from the Resurrection of Christ to Pentecost, as a paschal complement to the Way of the Cross.",
+      "corpo": "The Via Lucis, or Way of Light, deliberately mirrors the structure of the Way of the Cross — the same number of stations, the same format of biblical reading, brief meditation, prayer and hymn — but reverses its focus: instead of meditating on the Passion, it follows fourteen moments in the life of the risen Christ, from the empty tomb on Easter morning to the descent of the Holy Spirit upon the apostles at Pentecost. Among the stations usually included are the encounter with Mary Magdalene, the road to Emmaus and the breaking of the bread, the appearance to the disciples in the Upper Room, the institution of the power to forgive sins, the faith of Thomas, the miraculous catch of fish at the Sea of Tiberias, the confirmation of Peter in love, the missionary sending, the Ascension, and the prayerful waiting for the Spirit. It is important to note that the Church has never fixed an official, universal list of the stations — as happened historically with the Way of the Cross itself, the list was consolidated through practice, and the formulations vary according to region and author; the consensus rests above all on the number fourteen, chosen to mirror the Stations of the Cross.\n\nThe devotion was born in the summer of 1988 from a proposal by the Salesian priest Sabino Palumbieri, then professor of Theological Anthropology at the Salesian Pontifical University in Rome, in the context of the movement \"Witnesses of the Risen One\" (Testimoni del Risorto), which he founded on December 8, 1984 and which was recognized as a group of the Salesian Family. Palumbieri's motivation was pastoral: he noticed that popular Catholic spirituality, strongly centered on the Way of the Cross and the meditation on the suffering of Christ, lacked an equivalent devotional exercise dedicated to the joy and hope of the Resurrection — the other pole, equally central, of the paschal mystery. In 1989, the successor of Don Bosco, Rector Major Fr. Egidio Viganò, learned of the proposal, became involved in it, and appointed a theological commission to study criteria and formularies.\n\nThe first solemn celebration of the Via Lucis took place in April 1990, on the grounds of the Catacombs of Saint Callixtus in Rome, presided over by Fr. Viganò himself, on the occasion of the General Chapter of the Salesians. In the following years the devotion spread through parishes and movements linked to the Salesian family and received growing recognition. In the Jubilee Holy Year of 2000, the Holy See included it in the official prayer book for pilgrims, \"Pellegrini in preghiera\", recommending it alongside the Way of the Cross and the Rosary.\n\nWider official recognition came on December 17, 2001, when the then Congregation for Divine Worship and the Discipline of the Sacraments published the \"Directory on Popular Piety and the Liturgy\". In no. 153 of that document, expressly dedicated to the Via Lucis, the Holy See observes that \"a pious exercise called the Via Lucis has developed and spread in many regions in recent years\" and that, \"following the model of the Via Crucis, the faithful, while walking, meditate on the various appearances of Jesus — from the Resurrection to the Ascension — in which he showed his glory to the disciples.\" The recommendation, however, does not give the devotion the same degree of universal codification that the Way of the Cross received centuries earlier.\n\nIt is especially recommended during the Easter Season — the fifty days between Easter and Pentecost — and on Sundays, the day of the week traditionally associated in a particular way with the Resurrection since the first centuries of Christianity. Although still much less widespread than the Way of the Cross, the Via Lucis has gained growing ground in shrines, communities of paschal spirituality and large ecclesial gatherings, including outside its original Salesian setting — as in the prayer presided over by Archbishop Rino Fisichella during the Jubilee of Teenagers in Rome, in April 2025.",
+      "categoria": "devocoes",
+      "tags": [
+        "Resurrection",
+        "Easter Season",
+        "popular piety",
+        "Easter",
+        "Salesians",
+        "Pentecost"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Via_Lucis_Mariano_2013_Jerez-MIN-DSC04085.jpg",
+      "imagem_credito": "Photo by El Pantera, 2013, via Wikimedia Commons (CC BY-SA 4.0)",
+      "fontes": [
+        "Congregation for Divine Worship and the Discipline of the Sacraments, \"Directory on Popular Piety and the Liturgy\", no. 153 (December 17, 2001)",
+        "Vatican News (Italian ed.), \"A Roma la Via Lucis, giovani dal mondo in preghiera con i testimoni della Resurrezione\" (April 2025)",
+        "Congregation of the Daughters of Mary Help of Christians / cgfmanet.org, \"In cammino con il Risorto\", on the founding of the Testimoni del Risorto movement (December 8, 1984) and the origin of the Via Lucis in 1988",
+        "InfoANS (Salesian News Agency), \"Una nuova edizione della Via Lucis itinerante\" (2024)",
+        "Spanish Wikipedia, \"Via Lucis\", with reference to the 2001 Directory"
+      ],
+      "atualizado_em": null,
+      "ordem": 17,
+      "origem": "Proposed by the Salesian priest Sabino Palumbieri in 1988; officially recognized in 2001"
+    },
+    {
+      "id": "devocoes:quarenta-horas",
+      "slug": "quarenta-horas",
+      "titulo": "Forty Hours' Devotion",
+      "resumo": "Solemn and continuous exposition of the Blessed Sacrament for forty hours, in memory of the time that the body of Christ remained in the tomb.",
+      "corpo": "The Forty Hours' Devotion (in Italian, Quarant'Ore) consists of the solemn and continuous exposition of the Blessed Sacrament for the adoration of the faithful for forty consecutive hours, a number that traditionally evokes the time the body of Christ remained in the tomb between His death on the Cross and the Resurrection. In its classical form, it is kept up in succession among churches, so that the exposition ends in one church at the same hour it begins in the next. It opens with a solemn Mass of Exposition and closes with the Mass of Deposition, both accompanied by a procession with the Blessed Sacrament and the chanting of the litanies of the saints.\n\nThe origins of the practice go back to Milan, in 1527, on the initiative of Father Antonio Bellotto, connected with the church of the Holy Sepulchre, who organized the prolonged exposition in connection with a local confraternity. Before that, there already existed the custom of exposing the Blessed Sacrament for forty hours on four great feasts of the year (Christmas, Easter, the Ascension and Pentecost), but in a restricted way and without much public organization. In 1537, Pope Paul III approved the Milanese form of the devotion. The question of who first organized the system of rotating exposition \"from church to church\" — kept uninterrupted throughout the entire year in Milan — has been debated among historians; the evidence seems to favor the Capuchin Joseph Piantanida of Fermo (whom the current text, with free spelling, calls \"Giuseppe da Ferno\"), who is said to have given this transfer its stable form. Saint Anthony Mary Zaccaria, founder of the Clerics Regular of Saint Paul (the Barnabites), incorporated the practice into the spirituality of his congregation, and Saint Charles Borromeo gave it a disciplined form in Milan, with documents proper to the Quarant'Ore and to the \"Oratio sine intermissione\" (uninterrupted prayer).\n\nThe practice reached Rome around 1550, brought by a young Florentine priest newly arrived in the city, Philip Neri — who decades later would found the Oratory and become one of the central figures of the Roman spiritual renewal of the Counter-Reformation. The original motivations of the devotion were above all prayer for the unity of Christians, then threatened by the Protestant Reformation, and for peace among the Catholic nations of Europe, to which was later added a growing emphasis on reparation for sins and offenses against the Blessed Sacrament.\n\nA decisive step toward its universalization came with the constitution \"Graves et diuturnae,\" of November 25, 1592, of Pope Clement VIII (a document also referred to as the Clementine Instruction). In view of the threats to the peace of Christendom and the convulsed situation of France, the pontiff determined to establish publicly \"in this mother city of Rome\" an uninterrupted course of prayer, distributing the churches and the times in such a way that, at every hour of the day and night, throughout the entire year, the incense of prayer would rise without interruption before the Lord. The document expressly asks for prayers for the concord of Christian princes, for France, and for the defeat of the Ottoman Turks, who were then threatening to devastate Christendom — the same geopolitical context as the papacy of Clement VIII, who worked for the reconciliation of Henry IV and for the formation of a Christian alliance against the Ottoman Empire.\n\nIn 1628, the Congregation of Rites determined that no exposition of this kind, even in churches of religious orders, could take place without the prior authorization of the local bishop — a norm that preserves the solemn and supervised character of this form of prolonged Eucharistic adoration. In 1705, Clement XI published a new instruction on the Forty Hours, consecrating the Roman usage. The devotion remains practiced today in many dioceses, especially as a preparation for Lent or as part of local Eucharistic feasts, and is at the historical root of related forms, such as Nocturnal Adoration.",
+      "categoria": "devocoes",
+      "tags": [
+        "Eucharistic adoration",
+        "Forty Hours",
+        "Milan",
+        "Philip Neri",
+        "Clement VIII",
+        "Charles Borromeo",
+        "Barnabites"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catholic Encyclopedia (1913), \"Forty Hours' Devotion\"",
+        "Clement VIII, Constitution \"Graves et diuturnae\" (November 25, 1592)",
+        "Encyclopedia.com, \"Forty Hours Devotion\"",
+        "Gratis Date, \"Historia de la devoción: las Cuarenta Horas\"",
+        "Wikipedia, \"Pope Clement VIII\""
+      ],
+      "atualizado_em": null,
+      "ordem": 18,
+      "origem": "Milan, 1527, on the initiative of Father Gian Antonio Bellotti"
+    },
+    {
+      "id": "devocoes:medalha-milagrosa",
+      "slug": "medalha-milagrosa",
+      "titulo": "Miraculous Medal",
+      "resumo": "Marian medal originating from the apparitions of Our Lady to Saint Catherine Labouré in Paris in 1830.",
+      "corpo": "The devotion to the Miraculous Medal was born from the apparitions of Our Lady to Catherine Labouré, a young French novice of the Daughters of Charity of Saint Vincent de Paul, in the chapel of the convent on the Rue du Bac (140 rue du Bac) in Paris. Catherine, born on May 2, 1806, into a farming family in Fain-lès-Moutiers, in Burgundy, reported that on the night of July 18-19, 1830 — the eve of the feast of Saint Vincent de Paul — she had a first apparition in which the Virgin spoke to her at length about difficult times that would come for France and for the Church. Shortly before, still in 1830 and in the same chapel, Catherine had reported visions of Saint Vincent de Paul and of Christ present in the Host.\n\nThe most decisive apparition took place on November 27 of that same year: Catherine saw Mary standing on a globe, with her feet on a serpent and her outstretched hands radiating rays of light which, as was explained to her in the vision, symbolized the graces granted to those who asked for them. Around the image an oval frame formed with an inscription in golden letters — \"O Mary, conceived without sin, pray for us who have recourse to thee\" — and, on the reverse, an M surmounted by a cross, beneath which appeared two hearts, that of Jesus surrounded by thorns and that of Mary pierced by a sword, encircled by twelve stars. According to the account, the Virgin herself asked: \"Have a medal struck according to this model; all who wear it will receive great graces.\"\n\nCatherine reported these experiences to her confessor, the Lazarist priest Jean-Marie Aladel, who at first hesitated and even forbade her to think about the matter, but, in time convinced of the authenticity of the account, sought from the Archbishop of Paris, Hyacinthe-Louis de Quelen, authorization to strike the medal according to the model described. Sources differ on the exact number of the first printing: the official chapel mentions about two thousand medals distributed beginning in June 1832, while surveys based on the records of the goldsmith responsible, Adrien Vachette, indicate about 1,500 units still in 1832. The episode coincided, strikingly for the nascent devotion, with a violent cholera epidemic that had been ravaging Paris since February 1832 — more than 18,000 dead in a few weeks, with peaks of more than 800 deaths in a single day — which helped to quickly spread accounts of healings and protection attributed to its use.\n\nInitially registered under the name \"Medal of the Immaculate Conception,\" the piece was soon renamed by the people the \"Miraculous Medal,\" because of the growing number of graces reported by the faithful. The figures of its spread are impressive: according to Vachette's data cited by the Catholic press, about 850 thousand medals were struck in 1834, 15 million in 1836 and more than 100 million in 1842, making it one of the most reproduced devotional objects in the history of the Church. On February 6, 1836, a canonical tribunal of the Archdiocese of Paris officially recognized the origin and the fruits of the apparitions. A famous episode was the conversion, in 1842, in Rome, of the Jewish banker Alphonse Ratisbonne, who wore the medal as a challenge and reported having had a vision of Our Lady, later becoming a priest.\n\nCatherine's identity as the religious sister who had had the visions remained secret for about 46 years; she worked quietly caring for the elderly and the sick, and her status as a visionary was only revealed in the last months before her death, on December 31, 1876. She was canonized in 1947 by Pope Pius XII. The medal, whose liturgical feast of Our Lady of Graces is celebrated on November 27, continues to be understood by the Church as a sacramental — a sign that disposes the faithful to receive grace — and not as an amulet.",
+      "categoria": "devocoes",
+      "tags": [
+        "Our Lady of Graces",
+        "Catherine Labouré",
+        "Paris",
+        "medal",
+        "19th century",
+        "Marian apparitions"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Miraculous_medal.jpg",
+      "imagem_credito": "Photo by Xhienne, 2007, via Wikimedia Commons (CC BY-SA 2.5)",
+      "fontes": [
+        "Chapel of Our Lady of the Miraculous Medal, Paris, official page \"The Apparitions – The Medal\"",
+        "Aleteia, \"More than 700 healings and conversions were officially attributed to the Miraculous Medal at the beginning of the devotion\" (2023), with data from the goldsmith Adrien Vachette",
+        "Portuguese Wikipedia, \"Medalha Milagrosa\" and \"Catarina Labouré\"",
+        "Segredos de Paris, \"The complete history of the Miraculous Medal of Paris\""
+      ],
+      "atualizado_em": null,
+      "ordem": 19,
+      "origem": "Marian apparitions to Saint Catherine Labouré in Paris in 1830"
+    },
+    {
+      "id": "devocoes:escapulario-vermelho-da-paixao",
+      "slug": "escapulario-vermelho-da-paixao",
+      "titulo": "Red Scapular of the Passion",
+      "categoria": "devocoes",
+      "resumo": "A sacramental of devotion to the Passion of Christ, originating from apparitions reported by a French religious sister in 1846.",
+      "corpo": "The Red Scapular of the Passion originates from apparitions reported by Sister Louise-Apolline Andriveau (1810-1895), a Daughter of Charity born into a peasant family in Pourçain, in central France. Assigned to the house of Montolieu in Troyes, where she devoted herself to the care of the sick and the elderly and was known for her intense piety in meditating on the Passion, Apolline reported a series of apparitions of Jesus and Mary between July 26 and September 14, 1846, in the convent of Troyes.\n\nThe first and most decisive of these experiences took place on July 26, 1846, in the octave of the feast of Saint Vincent de Paul: Jesus is said to have appeared to her holding in his right hand a scarlet scapular hanging from two woolen cords of the same color, depicted crucified and, at the foot of the cross, surrounded by the most painful instruments of his Passion — the whip, the hammer, the tunic that covered his wounded body —, asking that the scapular be spread among the faithful as a sign of devotion to his Passion.\n\nThe resulting scapular consists of two pieces of red woolen cloth joined by ribbons of the same color: on one side, the image of Jesus crucified with the instruments of the Passion and the inscription \"Holy Passion of Our Lord Jesus Christ, save us\"; on the other, a small cross with the Sacred Hearts of Jesus and Mary united. According to the account of the apparitions, Christ promised a special increase of faith, hope, and charity, and particular protection in dangers, especially on Fridays, to whoever wore it with true devotion to his Passion and spread it among others.\n\nEcclesiastical approval followed a relatively swift path by the standards of the time. As early as the spring of 1847, Father Jean-Baptiste Étienne, then Superior General of the Congregation of the Mission (the Lazarist fathers, historically linked to the Daughters of Charity through the common work of Saint Vincent de Paul), was received in audience by Pope Pius IX to discuss the matter, and the pontiff raised no difficulty regarding the devotion. The formal written approval, however, would come only a decade later: on June 25, 1857, Pius IX sanctioned and officially approved the use of the sacramental, granting the Lazarist fathers the specific faculty to bless and impose the scapular on the faithful. The same pope extended the indulgences attached to the devotion to all the faithful in 1861, and new indulgences were approved by the Holy See in 1877, further broadening the spiritual reach of the practice.\n\nAlongside the Miraculous Medal and the green scapular of the Immaculate Heart of Mary — the latter also originating from revelations to a Daughter of Charity —, the Red Scapular forms part of a small group of Marian and Christological sacramentals historically linked to that same congregation founded by Saint Vincent de Paul and Saint Louise de Marillac, all approved by the Holy See over the course of the nineteenth century as legitimate, though optional, forms of popular piety centered on the Passion of Christ and Marian intercession. It is counted, together with other scapulars of different colors and devotions — the brown scapular of Carmel, already present in this collection, among them —, in the set that popular piety informally calls \"the five scapulars.\"",
+      "tags": [
+        "Passion of Christ",
+        "scapular",
+        "Daughters of Charity"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 20,
+      "origem": "Apparitions reported by Sister Apolline Andriveau, in France, in 1846",
+      "fontes": [
+        "Vocação Vicentina, \"Medalha Milagrosa, Escapulário Verde e Escapulário Vermelho: História e Significado\"",
+        "Zahn Info Portal, \"Escapulário Vermelho da Paixão\"",
+        "Ateliê Piedoso, \"Escapulário Vermelho da Paixão de Cristo\""
+      ]
+    },
+    {
+      "id": "devocoes:consagracao-a-sao-jose",
+      "slug": "consagracao-a-sao-jose",
+      "titulo": "Consecration to Saint Joseph",
+      "categoria": "devocoes",
+      "resumo": "A contemporary devotional practice of personal self-offering to the intercession and example of Saint Joseph, popularized by a 33-day method.",
+      "corpo": "The consecration to Saint Joseph consists of a period of preparation — most often 33 days — followed by a solemn act of personal self-offering to the intercession and example of the spouse of Mary. The method most widespread today was popularized by the American priest Donald H. Calloway, a religious of the Congregation of Marian Fathers of the Immaculate Conception, in the book «Consecration to St. Joseph: The Wonders of Our Spiritual Father», originally published in English in 2020 and soon afterward in Portuguese, adapting to Saint Joseph the 33-day Marian consecration structure created by Saint Louis de Montfort (see Books).\n\nAccording to Calloway himself in interviews, the decision to write the book arose from his reflection on the challenges of fatherhood and family life in the contemporary world, and from the conviction that Saint Joseph — historically less studied and less invoked than Mary in Catholic popular piety — deserved a method of consecration as structured and accessible as the one Montfort had offered for the Virgin centuries earlier. The priest, already a longtime devotee of both Mary and Joseph, presents the work as the fruit of years of study of the figure of the saint.\n\nEach of the 33 days of preparation proposes between 20 and 30 minutes of reading and meditation: a reflection on one of the titles of the Litany of Saint Joseph, followed by a more in-depth spiritual text on the life or virtues of the saint, and concluded with the recitation of the litany itself. The journey culminates, generally at a Mass celebrated on a feast day connected with Joseph — such as March 19, the solemnity of Saint Joseph, or May 1, the memorial of Saint Joseph the Worker — in the recitation of the solemn formula of consecration of one's whole life to his intercession and fatherly protection.\n\nThis practice is part of a renewed interest in devotion to Saint Joseph in the contemporary Church, reinforced by the «Year of Saint Joseph» declared by Pope Francis in the apostolic letter «Patris Corde», of December 8, 2020, on the occasion of the 150th anniversary of the proclamation of Joseph as Patron of the Universal Church, made by Blessed Pius IX on the same date in 1870. The Year of Saint Joseph extended until December 8, 2021, and Francis' letter — which describes the saint in seven facets («beloved father», «father in tenderness», «father in obedience», «father in acceptance», «father with creative courage», «working father» and «father in the shadows») — became, alongside Calloway's book, one of the most cited references in this period of rediscovery of the figure of Joseph, historically eclipsed by Marian and Christological devotion in popular piety.\n\nCalloway's book, released precisely on the eve of this jubilee Year, became one of the best sellers of the American Catholic publisher Marian Press and is today cited as one of the works most associated with the recent wave of consecrations to Saint Joseph in parishes, lay movements and Catholic families around the world — a devotional phenomenon that, decades earlier, had already received other papal impulses, such as the proclamation of Joseph as «Patron of Workers» by Pius XII in 1955 and the title «Guardian of the Redeemer» given by John Paul II in the exhortation «Redemptoris Custos», in 1989.",
+      "tags": [
+        "Saint Joseph",
+        "consecration",
+        "contemporary spirituality"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 21,
+      "origem": "Method popularized by Father Donald Calloway from 2020, inspired by Montfort's Marian consecration",
+      "fontes": [
+        "Locus Mariologicus, «Consecration to Saint Joseph: what it is and how to do it»",
+        "Father Paulo Ricardo, «It's time for the “Consecration to Saint Joseph”!»",
+        "Editora Salve Maria Salve José, «Consecration to Saint Joseph — Fr. Donald Calloway»",
+        "Francis, Apostolic Letter «Patris Corde» (2020)"
+      ]
+    },
+    {
+      "id": "devocoes:hora-santa",
+      "slug": "hora-santa",
+      "titulo": "Holy Hour",
+      "categoria": "devocoes",
+      "resumo": "An hour of adoration and vigil before the Blessed Sacrament, linked to the revelations of the Sacred Heart to Saint Margaret Mary Alacoque.",
+      "corpo": "The Holy Hour originates in the apparitions of Jesus to Saint Margaret Mary Alacoque, a religious of the Order of the Visitation at the monastery of Paray-le-Monial, in French Burgundy, between 1673 and 1675. According to the saint's own account, Christ asked her to unite herself in prayer to his agony in the Garden of Olives on the night from Thursday to Friday, between eleven o'clock and midnight — the moment when, according to the Gospels, he asked the apostles Peter, James and John to keep watch with him and found them asleep three times (Mt 26:36-46). By prostrating himself during this hour, the faithful person is invited to keep Jesus company in his mortal sorrow, in a spirit of reparation for the indifference of men and, in a particular way, for the abandonment by his own disciples that night.\n\nThe devotion is classically structured around three elements linked to the memoirs of Margaret Mary: the prayer of reparation itself, meditation united to the sufferings of Jesus in Gethsemane, and some gestures of physical humiliation, such as prostrating oneself or remaining on one's knees throughout the hour. It is traditionally practiced on the night before the First Friday of the month, thus linking it with the devotion of the First Fridays (already present in this collection), although it is also offered weekly, every Thursday, in many parishes and communities of Eucharistic spirituality.\n\nThe institutional spread of the practice came in the nineteenth century: in 1829, the Jesuit priest Debrosse founded the Confraternity of the Holy Hour at Paray-le-Monial, approved that same year by Pope Pius VIII, who granted the members a plenary indulgence for each Holy Hour practiced. In 1834, Pope Gregory XVI extended this indulgence to all the faithful who enrolled in the confraternity's registers, and on April 6, 1886, Pope Leo XIII raised the association to the rank of Archconfraternity, recognizing its already worldwide reach. Then in the twentieth century, on April 6, 1933, a new confraternity of the Holy Hour was founded in Gethsemane itself, in Jerusalem — in the very place where, according to Christian tradition, Jesus lived through that hour of agony two millennia earlier.\n\nToday the Holy Hour is usually prayed before the exposed Blessed Sacrament, joining the spirituality of reparation that also gave rise to the devotion to the Sacred Heart and the practice of Perpetual Adoration, both present in this collection, and it is particularly common in parishes, seminaries and religious communities as a weekly or monthly preparation for the Eucharist.\n\nIt is a devotion distinct from, though similar in spirit to, the \"Hour of Mercy\" at 3 p.m. in the devotion to the Divine Mercy (also present in this collection): while the latter recalls the moment of Christ's death on the cross, the Holy Hour is directed to the agony before the Passion, in Gethsemane, and retains the distinctive feature of being prayed, in its classical form, during the night — a gesture of vigil that literally takes up Jesus' request to the drowsy apostles: \"So, could you not watch with me one hour?\" (Mt 26:40).",
+      "tags": [
+        "Sacred Heart",
+        "Eucharistic adoration",
+        "Margaret Mary Alacoque"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 22,
+      "origem": "Linked to the revelations of the Sacred Heart to Saint Margaret Mary Alacoque (1673-1675)",
+      "fontes": [
+        "Qualita Turismo, \"Santa Margarida Maria Alacoque\"",
+        "Wikipedia (en), \"Paray-le-Monial\"",
+        "Montfort.org.br, \"Hora Santa\""
+      ]
+    },
+    {
+      "id": "devocoes:consagracao-do-genero-humano-ao-sagrado-coracao",
+      "slug": "consagracao-do-genero-humano-ao-sagrado-coracao",
+      "titulo": "Consecration of the Human Race to the Sacred Heart of Jesus",
+      "categoria": "devocoes",
+      "resumo": "The solemn act by which Pope Leo XIII consecrated all humanity to the Sacred Heart of Jesus in 1899.",
+      "corpo": "In the encyclical «Annum Sacrum», of May 25, 1899, Pope Leo XIII announced the consecration of the whole human race to the Sacred Heart of Jesus, presenting it as a symbol of divine love and a remedy for the social and spiritual evils of an age marked by growing secularization, in preparation for the great Jubilee of the Holy Year of 1900. In the encyclical, the pope developed the theological foundation of the gesture: if Christ is King of all men, even of those who ignore or reject him, it is fitting that all humanity — not only Catholic faithful — be formally consecrated to his Heart as a visible sign of this universal kingship.\n\nLeo XIII's decision, according to accounts of the time, was also motivated by the spiritual insistence of a woman religious: Blessed Mary of the Divine Heart (Maria Droste zu Vischering, 1863-1899), superior of the Good Shepherd convent in Porto, Portugal, who reported having received, between 1897 and 1899, private revelations in which Jesus asked her to convey to the pope his desire to consecrate all humanity — and not only Catholic countries — to his Sacred Heart. Mary of the Divine Heart sent letters to Leo XIII himself relaying this request; in a way that was particularly striking for the faithful who followed the episode, she died on June 8, 1899, just three days before the pope solemnly carried out the consecration she had asked of him. She was beatified by John Paul II in 1975.\n\nThe solemn act of consecration was carried out on June 11, 1899, the feast of the Sacred Heart that year, with the recitation of a specific formula in Rome and the instruction, given by Leo XIII to all the bishops of the world, that the same act be repeated in the cathedrals and parish churches of their dioceses on the same date — making the consecration of 1899 one of the gestures of greatest simultaneous and universal reach ever carried out by the Holy See up to that time.\n\nIt is distinguished, by its character as a unique historical act carried out by a pope on behalf of the whole Church and all humanity, from the daily and personal devotion to the Sacred Heart already present in this collection, although both share the same theological basis: the recognition of the Heart of Christ as a concrete symbol of his human and divine love for men. The consecration of 1899 is remembered today, alongside the consecrations of the world and of Russia to the Immaculate Heart of Mary made by Pius XII in 1942 and by later popes (see the corresponding entry), as one of the great moments of the papal magisterium in which the Church turned solemnly toward all of humanity.\n\nLeo XIII himself determined that the consecration formula of 1899 be recited annually, on the feast day of the Sacred Heart, in all the churches of the world — a practice that was maintained for decades and helped keep the memory of the act alive among the faithful long after the pope's death in 1903. Years later, in 1956, Pope Pius XII would take up and deepen the same theme in his encyclical «Haurietis Aquas», already mentioned in the entry on the devotion to the Sacred Heart in this collection, placing the consecration of 1899 within a continuous line of papal magisterium on the theological meaning of the Heart of Christ.",
+      "tags": [
+        "Leo XIII",
+        "Sacred Heart",
+        "Annum Sacrum"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 23,
+      "origem": "Encyclical «Annum Sacrum» of Leo XIII, May 25, 1899; solemn consecration on June 11, 1899",
+      "fontes": [
+        "Leo XIII, Encyclical «Annum Sacrum» (1899)",
+        "Via Crucis (Portugal), «On this day in 1899, Pope Leo XIII consecrated the world to the Sacred Heart of Jesus»",
+        "O Imaculado Coração Triunfará, «Blessed Mary of the Divine Heart and the consecration of the human race to the Sacred Heart of Jesus in 1899»"
+      ]
+    },
+    {
+      "id": "devocoes:menino-jesus-de-praga",
+      "slug": "menino-jesus-de-praga",
+      "titulo": "Devotion to the Infant Jesus of Prague",
+      "resumo": "Devotion centered on a small wax-covered wooden statue of the Child Jesus, of Spanish origin, donated in 1628 to a Carmelite convent in Prague and today venerated in the Church of Our Lady of Victory.",
+      "corpo": "The statue of the Infant Jesus of Prague is, according to historical sources, a wooden image covered in wax, about 48 centimeters tall, representing the Child Jesus dressed as a prince, with his right hand raised in blessing and his left holding a globe surmounted by the cross (\"globus cruciger\"). Of Spanish origin and uncertain date — attributed by different traditions to the 14th century or, more commonly, to the 16th century — it first appeared in Bohemia in 1556, brought by María Manrique de Lara y Mendoza, a lady of the Spanish nobility, when she married the Bohemian nobleman Vratislav II of Pernštejn. An old legend of the Lobkowicz family claims that the piece belonged to Saint Teresa of Ávila — a pious hypothesis that has not been proven, but is consistent with the fact that the statue resembles those of the Child Jesus venerated by Saint Teresa and Saint John of the Cross. The image then passed by inheritance to Polyxena of Lobkowicz (1566-1642), who received it from her mother as a wedding gift.\n\nIn 1628, already a widow and without numerous direct heirs, Polyxena donated the image to the Discalced Carmelite friars of Prague, newly established in the Church of Our Lady of Victory, in the Malá Strana district. According to the tradition of the order, when handing it over, the princess is said to have told the religious: \"Venerable Fathers, I bring you my most precious possession. Honor this image and you will never lack anything.\" The Carmelites placed it in the novitiate chapel, where the young religious made their vows before it, offering it devotion twice a day. Emperor Ferdinand II of the House of Habsburg is said to have contributed the equivalent of 2,000 florins and a monthly allowance for the support of the cult.\n\nThe image's history suffered a serious blow during the Thirty Years' War. On November 15, 1631, Protestant Saxon troops took Prague; the Carmelites were expelled and the convent was plundered, and the statue was thrown, damaged, among the rubble behind the altar, with both hands broken. Only in 1637 were the Carmelites able to return to the city; among them was Father Cyril of the Mother of God, a native of Luxembourg (died 1675), who, remembering the devotion of his novitiate days, found the image among the debris. According to the traditional account of the order, while praying before the mutilated statue, Father Cyril heard the words: \"Have pity on me and I will have pity on you. Give me hands and I will give you peace. The more you honor me, the more I will bless you.\" He himself arranged for the restoration of the image's hands and returned it to public veneration. In April 1639, when a Swedish army began a new siege of Prague, the inhabitants ran to the shrine of the Child Jesus; when the besiegers withdrew, which was attributed to the intercession of the image, the devotion gained new momentum.\n\nCount Bernard Ignatius of Martinic, Grand Marshal of Bohemia, offered the statue a gold crown studded with precious stones, presented on January 14, 1651, during a procession that carried the image to the Church of Our Lady of Victory. Years later, on April 4, 1655, the image was solemnly crowned by Monsignor Joseph Corti (Josef Corta), auxiliary bishop of Prague, who represented Cardinal Harrach, then ill. This episode is remembered annually at a festive Mass, celebrated in the Ascensiontide season, on the occasion of the feast of the Infant Jesus of Prague.\n\nReports of graces and healings attributed to his intercession spread the devotion throughout Europe and then throughout the world, above all through the work of the Discalced Carmelites, making it one of the most widely reproduced representations of the Child Jesus in Catholic homes and churches. The original statue, kept to this day in the Church of Our Lady of Victory, is ritually cared for, cleaned and dressed by the Carmelite sisters in one of the roughly one hundred mantles donated by the faithful; in September 2009, during an apostolic journey to the Czech Republic, Pope Benedict XVI visited that church and presented the image with a gold crown. Copies and replicas of the image are venerated today in shrines in several countries, including Brazil.",
+      "categoria": "devocoes",
+      "tags": [
+        "Child Jesus",
+        "Carmelites",
+        "Prague",
+        "Childhood of Jesus",
+        "17th century",
+        "Thirty Years' War"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Child_Jesus_of_Prague_%28original_statue%29_%28crop%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Wikipedia (en/pt), \"Infant Jesus of Prague\" / \"Menino Jesus de Praga\"",
+        "Wikipedia (en), \"Polyxena of Lobkowicz\"",
+        "Carmelo Cristo Redentor, \"The History of the Child Jesus\" (Discalced Carmelite order)",
+        "Guia em Praga, \"Church of the Infant Jesus of Prague\"",
+        "MaryPages, \"Infant Jesus of Prague\" (coronation of 1651 and 1655)"
+      ],
+      "atualizado_em": null,
+      "ordem": 24,
+      "origem": "Carmelite tradition of Prague, from the early 17th century"
+    },
+    {
+      "id": "devocoes:mes-de-maria",
+      "slug": "mes-de-maria",
+      "titulo": "The Month of Mary (Marian May)",
+      "categoria": "devocoes",
+      "resumo": "A tradition of dedicating the whole month of May to special tributes to the Virgin Mary, with the daily Rosary and the crowning of images.",
+      "corpo": "The first references to an entire month dedicated to the Mother of Jesus go back to the twelfth century, in the Eastern Church, where this month was originally August. In the West, the association of May with Mary drew on older cultural associations with the arrival of spring in the Northern Hemisphere — in ancient Rome, the month was already linked to deities of fertility and flowering —, but it was consolidated as an organized Christian devotional practice only at the end of the sixteenth century and throughout the seventeenth, in the context of the general strengthening of Marian devotion promoted by the Catholic Counter-Reformation.\n\nIn Rome, the role of Saint Philip Neri (1515-1595), founder of the Congregation of the Oratory, was decisive in giving the practice a concrete and pedagogical form: he encouraged young people to adorn images of Mary with flowers, sing praises to the Mother of God, and practice acts of virtue in imitation of her during the month, even composing a small program with hymns and the recitation of litanies before an image of the Virgin on each of the days — the seed of the practice that, centuries later, would become common in parishes throughout the world.\n\nThe more systematic theological and devotional consolidation came in the eighteenth century, with the publication, in Verona, in 1725, of the book «Il mese di Maria» («The Month of Mary»), by a Jesuit author, which proposed a structured outline of daily meditations for the thirty-one days of May. The work had wide circulation and was decisive in spreading the practice as an organized popular devotion, and not merely as a local custom restricted to a few confraternities or oratories. From the year 1800 onward, the custom of the Marian month of May became established more broadly in Europe and the Americas, gradually spreading to mission countries as well.\n\nIn the twentieth century, the devotion received a significant institutional boost from Pope Paul VI, who, in the midst of the Second Vatican Council, published on April 29, 1965 the encyclical «Mense Maio», devoted to asking the faithful throughout the world to intensify, during the month of May — above all through the recitation of the Rosary —, prayer for world peace, for the needs of the Church, and for the success of the Council then underway, at a time marked by the Cold War. The gesture reinforced, at a moment of particular ecclesial significance, the character of collective intercession that the Marian month had already carried for centuries.\n\nToday, many parishes pray the Rosary daily in May before an altar prepared with an image of Our Lady, and it is customary to hold the «Crowning of Mary», in which a crown of flowers is placed on her image as a sign of her spiritual queenship among the saints — a celebration that usually brings together catechism children in a special way and takes place, according to local custom, on the first Sunday of the month or on another festive day in May.\n\nThe choice of May, rather than another month, is also read by some spiritual authors as a happy natural symbol: just as spring in the Northern Hemisphere is the time of nature's flowering after winter, May became the month in which the Church celebrates Mary as the most beautiful «flower» of creation and the one who, by bearing Christ, caused salvation itself to flower for the world — a symbolic reading which, although it is not the historical basis for the choice of the month, helped to root the devotion in popular sensibility over the centuries.",
+      "tags": [
+        "Marian month",
+        "May",
+        "Philip Neri",
+        "crowning of Mary"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 25,
+      "origem": "Consolidated as a devotion from the sixteenth century onward, with the impetus of Saint Philip Neri in Rome",
+      "fontes": [
+        "ACI Digital, «Why is May the Month of Mary?»",
+        "Franciscan Theological Institute, «May, Month of Mary: History and Spirituality»",
+        "Paul VI, Encyclical Letter «Mense Maio» (1965)"
+      ]
+    }
+  ]
+}

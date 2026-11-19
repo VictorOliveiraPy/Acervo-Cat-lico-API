@@ -1,0 +1,554 @@
+{
+  "_meta": {
+    "categoria": "pecados",
+    "nome": "Sins",
+    "descricao": "The seven capital sins and other classical categories of sin in Catholic moral teaching, each with its opposing virtue.",
+    "status": "exemplos-iniciais",
+    "aviso": "It does not replace the guidance of a spiritual director or confessor for personal moral discernment; it is introductory catechetical material.",
+    "revisao_editorial": "The traditional order of the seven capital sins follows the list consolidated by Saint Gregory the Great; the numbering of 'ordem' reflects this historical sequence, not a fixed scale of moral gravity among them.",
+    "fontes_gerais": [
+      "Catechism of the Catholic Church, nos. 1846-1876 (sin) and nos. 1852-1864",
+      "Saint Thomas Aquinas, «Summa Theologiae», II-II"
+    ]
+  },
+  "itens": [
+    {
+      "id": "pecados:soberba",
+      "slug": "soberba",
+      "titulo": "Pride",
+      "categoria": "pecados",
+      "resumo": "The first and, for the spiritual tradition, the gravest of the capital sins: the disordered love of one's own excellence.",
+      "corpo": "Pride is the disordered desire to be superior to others, the refusal to acknowledge one's own dependence on God and on others. The spiritual tradition — from Saint Augustine and Saint Gregory the Great to Saint Thomas Aquinas — considers it the root of all the other capital sins, because it is, in its most radical form, the creature's attempt to take the place of the Creator. It is called a \"capital sin\" because it gives rise to other vices (vanity, inordinate ambition, contempt for others), not because it is necessarily the gravest in every concrete case — a distinction that Catholic moral teaching has always made.",
+      "tags": [
+        "capital sins",
+        "morality",
+        "virtues"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Jheronimus_Bosch_Table_of_the_Mortal_Sins_%28Superbia%29.jpg",
+      "imagem_credito": null,
+      "ordem": 1,
+      "virtude_oposta": "Humility",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1846-1876 (sin)"
+      ]
+    },
+    {
+      "id": "pecados:avareza",
+      "slug": "avareza",
+      "titulo": "Avarice",
+      "categoria": "pecados",
+      "resumo": "Disordered attachment to material goods and wealth, which closes the heart to sharing and to trust in God's providence.",
+      "corpo": "Avarice is the disordered desire to possess riches and material goods, and excessive attachment to them even at the expense of the justice and charity owed to one's neighbor. It is distinguished from simple prudence or household economy by the fact that it makes possession an end in itself, rather than a means at the service of life and charity. The Gospel often associates it with the difficulty of trusting in God (\"You cannot serve God and mammon\", Mt 6:24), and the virtue opposed to it, generosity, is part of the list of the works of mercy.",
+      "tags": [
+        "capital sins",
+        "morality",
+        "material goods"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Jheronimus_Bosch_Table_of_the_Mortal_Sins_%28Avaricia%29.jpg",
+      "imagem_credito": null,
+      "ordem": 2,
+      "virtude_oposta": "Generosity",
+      "fontes": [
+        "Gospel of Matthew 6:24",
+        "Catechism of the Catholic Church, nos. 1846-1876"
+      ]
+    },
+    {
+      "id": "pecados:luxuria",
+      "slug": "luxuria",
+      "titulo": "Lust",
+      "categoria": "pecados",
+      "resumo": "A disordered pursuit of sexual pleasure, detached from the unitive and procreative meaning that the Church recognizes in human sexuality.",
+      "corpo": "Lust is a disordered desire for, or immoderate enjoyment of, sexual pleasure, sought for its own sake and detached from the context of total and fruitful self-giving that Catholic moral teaching recognizes as proper to sexuality within marriage. The Catechism distinguishes several concrete ways in which this disorder manifests itself — masturbation, fornication, pornography, prostitution — without reducing Catholic sexual morality to a list of prohibitions: the background is always the integration of sexuality into the gift of oneself in the service of love.",
+      "tags": [
+        "capital sins",
+        "morality",
+        "chastity"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Jheronimus_Bosch_Table_of_the_Mortal_Sins_%28Luxuria%29.jpg",
+      "imagem_credito": null,
+      "ordem": 3,
+      "virtude_oposta": "Chastity",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 2351-2359"
+      ]
+    },
+    {
+      "id": "pecados:ira",
+      "slug": "ira",
+      "titulo": "Wrath",
+      "categoria": "pecados",
+      "resumo": "A disordered desire for vengeance or hatred toward one's neighbor, distinct from legitimate indignation in the face of a real injustice.",
+      "corpo": "Wrath, as a capital sin, is the disordered desire for vengeance or the persistent hatred toward someone who is believed to have caused harm. Catholic moral tradition distinguishes this sinful anger from an initial reaction of indignation in the face of a real injustice — a human feeling that is in itself neutral, and sometimes even virtuous when it is ordered and proportionate — and from hatred that takes root and seeks the harm of the other. It is a grave sin above all when it fosters a real desire to harm one's neighbor.",
+      "tags": [
+        "capital sins",
+        "morality",
+        "patience"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Jheronimus_Bosch_Table_of_the_Mortal_Sins_%28Ira%29.jpg",
+      "imagem_credito": null,
+      "ordem": 4,
+      "virtude_oposta": "Patience",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1846-1876 (sin)"
+      ]
+    },
+    {
+      "id": "pecados:gula",
+      "slug": "gula",
+      "titulo": "Gluttony",
+      "resumo": "Disordered love of the pleasures of food and drink, which subordinates reason to appetite; a capital vice opposed to temperance and sobriety.",
+      "corpo": "Gluttony is the disordered love of the pleasures of the table — eating or drinking beyond real need, or with excessive concern and refinement — so that appetite comes to command reason instead of being governed by it. The Catechism of the Catholic Church lists it among the capital sins (no. 1866: pride, avarice, envy, wrath, lust, gluttony, and sloth or acedia), understood as roots that generate other sins and vices.\n\nThe first systematic classification of its forms is by Saint Gregory the Great, in book XXX of the \"Moralia in Iob\": \"the vice of gluttony tempts us in five ways\" — by anticipating the hour of meals; by seeking more refined foods; by desiring that food be prepared with excessive care; by exceeding in the very quantity; and by sinning through the eagerness of an immense desire. Saint Thomas Aquinas takes up this division (Summa Theologiae, II-II, q. 148, a. 4) and sums it up in the mnemonic verse praepropere (too soon), laute (too sumptuously), nimis (too much), ardenter (too eagerly) and studiose (too daintily). Since gluttony also endangers reason, Thomas discusses in which cases it constitutes mortal sin, distinguishing grave and deliberate disorder from simple venial fault.\n\nFollowing Gregory further (Moralia XXXI), Thomas enumerates the \"daughters\" or effects of gluttony (II-II, q. 148, a. 6): unseemly or undisciplined joy (inepta laetitia), buffoonery or scurrility (scurrilitas), uncleanness or impurity (immundicia), excessive talkativeness (multiloquium) and dullness of mind as regards understanding (hebetudo mentis circa intelligentiam). The dullness is attributed to the \"fumes\" of food and drink, which disturb the intellect; by contrast, abstinence favors the sharpness of spiritual perception. Lust is the most frequent and harmful effect that Thomas associates with gluttony.\n\nBecause it is a vice opposed to the virtue of temperance — and to the sobriety and abstinence that flow from it — the traditional remedies are moderation in eating and drinking, fasting and discipline. In the ascetic tradition, gluttony is considered the first gateway of the other vices: in the teaching of the Fathers, mastery of the appetite for food is a condition for governing the other passions — a formulation summed up in the saying that \"it is not the food, but the desire, that is at fault.\"",
+      "categoria": "pecados",
+      "tags": [
+        "capital sins",
+        "moral theology",
+        "temperance",
+        "Thomas Aquinas",
+        "Gregory the Great",
+        "daughters of gluttony",
+        "gluttony"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/da/Jheronimus_Bosch_Table_of_the_Mortal_Sins_%28Gula%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, no. 1866 (list of the capital sins)",
+        "Saint Gregory the Great, Moralia in Iob, XXX (the five kinds of gluttony) and XXXI (the daughters of gluttony)",
+        "Saint Thomas Aquinas, Summa Theologiae, II-II, q. 148, a. 4 (the kinds of gluttony: praepropere, laute, nimis, ardenter, studiose)",
+        "Saint Thomas Aquinas, Summa Theologiae, II-II, q. 148, a. 6 (the daughters of gluttony)",
+        "Saint Thomas Aquinas, Summa Theologiae, II-II, q. 141-170 (temperance and the opposed vices)"
+      ],
+      "atualizado_em": null,
+      "ordem": 5,
+      "virtude_oposta": "Temperance"
+    },
+    {
+      "id": "pecados:inveja",
+      "slug": "inveja",
+      "titulo": "Envy",
+      "resumo": "Sadness at another's good and an immoderate desire to possess it, opposed to fraternal joy; a capital vice identified by Scripture as the door through which death entered the world.",
+      "corpo": "Envy is the sadness felt at the good — material, moral, or spiritual — that another person possesses, often accompanied by the more or less conscious desire that he lose it. The Catechism of the Catholic Church (no. 2539) defines it as a \"capital sin\" that \"refers to the sadness at the sight of another's goods and the immoderate desire to acquire them for oneself,\" and distinguishes it from the legitimate aspiration to possess a good that one sees in another (a desire which, when ordered, can spur one to growth): what is sinful is specifically sadness at another's good as such.\n\nThe gravity of envy rests on biblical and patristic sources. The Book of Wisdom (2:24) states that \"through the devil's envy death entered the world,\" a text that grounds the tradition of seeing in it the primordial sin par excellence: Saint Augustine calls it a \"diabolical sin.\" Therefore, if the envious person desires a grave evil for his neighbor, his act becomes a mortal sin, since it destroys charity, the virtue to which envy is directly opposed. In the Epistle to the Galatians (5:19-21), \"envy\" appears among the works of the flesh that exclude one from the Kingdom of God.\n\nThe most systematic analysis is found in Saint Thomas Aquinas, who treats envy as a capital vice (Summa Theologiae, II-II, q. 36). Thomas defines it as sadness at the neighbor's good, setting it in order to charity as its opposite; and, following Saint Gregory the Great, he enumerates its \"daughters,\" that is, the vices that derive from it. He distinguishes them by stages: at the beginning, the envious person strives to diminish the other's glory — secretly, through murmuring; openly, through defamation (detraction). In the middle, he pursues that end: if he succeeds, there is joy at another's misfortune; if not, affliction at the neighbor's prosperity. At the end, there is hatred, for just as good is the cause of love, sadness is the cause of hatred (II-II, q. 36, a. 4).\n\nThe Catechism includes envy in the list of capital sins (no. 1866: pride, avarice, envy, wrath, lust, gluttony, and sloth or acedia), understood as roots that engender other sins and vices. The antidote pointed out by tradition is fraternal charity — rejoicing at the neighbor's good — accompanied by humility and gratitude, which recognize one's own gifts as received from grace.",
+      "categoria": "pecados",
+      "tags": [
+        "capital sins",
+        "morality",
+        "charity",
+        "Saint Augustine",
+        "Thomas Aquinas",
+        "daughters of envy",
+        "Wisdom"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Jheronimus_Bosch_Table_of_the_Mortal_Sins_%28Invidia%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, no. 2539",
+        "Catechism of the Catholic Church, no. 1866 (list of the capital sins)",
+        "Saint Augustine, on envy as a \"diabolical sin\" (cf. Wis 2:24: \"through the devil's envy death entered the world\")",
+        "Saint Thomas Aquinas, Summa Theologiae, II-II, q. 36 (envy and its daughters)",
+        "Saint Gregory the Great, Moralia in Job (the daughters of envy)",
+        "Epistle to the Galatians 5:19-21"
+      ],
+      "atualizado_em": null,
+      "ordem": 6,
+      "virtude_oposta": "Fraternal charity"
+    },
+    {
+      "id": "pecados:preguica",
+      "slug": "preguica",
+      "titulo": "Sloth (Acedia)",
+      "resumo": "Spiritual negligence or discouragement — the acedia of the Desert Fathers, the 'noonday demon' — which leads one to abandon one's duties and to resist the effort of growth in the Christian life.",
+      "corpo": "In the ancient monastic tradition, the capital sin now called \"sloth\" was designated by the Greek word \"acedia\" (akēdía), which indicates not merely ordinary physical laziness, but a profound spiritual weariness or discouragement, a diffuse sadness before spiritual goods that leads the monk to neglect his own duties — including prayer — and to resist the effort necessary to persevere. It is the opposite of \"fervor\" or \"diligence\" in the pursuit of what truly matters.\n\nThe original formulation is found in the Desert Fathers. Evagrius Ponticus (c. 346-399), in works such as the \"Praktikos\" (Treatise on the Practical Life) and \"Eight Thoughts\", describes eight \"thoughts\" or demons that besiege the ascetic: gluttony, fornication, avarice, sadness, anger, acedia, vainglory and pride. Acedia receives special treatment there — Evagrius calls it \"the most oppressive of all demons\" and the \"noonday demon\", in allusion to Psalm 90 (91 in the Hebrew numbering): \"you will not fear... the destruction that wastes at noonday\" (Vulgate: ab incursu et daemonio meridiano). For Evagrius, acedia is a \"composite\" thought, which arises at the same time from the concupiscible and irascible parts of the soul and \"embraces almost all the other thoughts\", threatening to suffocate the mind like the sun at its zenith scorching the fields.\n\nJohn Cassian (c. 360-c. 435), in the \"De institutis coenobiorum\" and the \"Collationes\", transmitted this doctrine of the eight vices to the West, Latinizing them (gastrimargia, fornicatio, philargyria, ira, tristitia, acedia, cenodoxia, superbia) and fixing the expression \"meridianum daemonem\". It was Saint Gregory the Great, however, in the \"Moralia in Iob\" (6th century), who reduced the list to seven heads, the origin of the later enumeration of the capital sins. In the Gregorian list \"tristitia\" appears in place of acedia, and the fusion of the two — with the shift of meaning toward negligence — consolidated what the Catechism of the Catholic Church calls \"sloth or acedia\" (no. 1866, which expressly cites Saint John Cassian and Saint Gregory the Great and distinguishes the vices as pride, covetousness, envy, wrath, lust, gluttony and sloth or acedia).\n\nIn the Scholastic synthesis, Saint Thomas Aquinas defines acedia as sadness in the face of the divine spiritual good, treating it as a capital vice because of its power to generate other evils (Summa Theologiae). It is in this key that the Catechism (nos. 1846-1876) situates the doctrine of sin and of the capital vices: they are called \"capital\" because they engender other sins and vices, even though they are not necessarily and always mortal sins.",
+      "categoria": "pecados",
+      "tags": [
+        "capital sins",
+        "morality",
+        "spiritual diligence",
+        "acedia",
+        "Desert Fathers",
+        "Evagrius Ponticus",
+        "John Cassian",
+        "Gregory the Great",
+        "Thomas Aquinas"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Jheronimus_Bosch_Table_of_the_Mortal_Sins_%28Accidia%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, no. 1866 (list of the capital sins; cites Saint John Cassian and Saint Gregory the Great)",
+        "Catechism of the Catholic Church, nos. 1846-1876 (sin and the vices)",
+        "Evagrius Ponticus, Praktikos (Treatise on the Practical Life), 12 and 28, and Eight Thoughts",
+        "John Cassian, De institutis coenobiorum and Collationes (Conf. VII)",
+        "Psalm 90 (91), v. 6 (Vulgate: ab incursu et daemonio meridiano)",
+        "Saint Gregory the Great, Moralia in Iob",
+        "Saint Thomas Aquinas, Summa Theologiae, on acedia (the capital vice as sadness over spiritual good)"
+      ],
+      "atualizado_em": null,
+      "ordem": 7,
+      "virtude_oposta": "Diligence (spiritual fervor)"
+    },
+    {
+      "id": "pecados:pecado-mortal",
+      "slug": "pecado-mortal",
+      "titulo": "Mortal Sin",
+      "categoria": "pecados",
+      "resumo": "A category of Catholic moral teaching for a grave transgression that breaks the communion of charity with God and requires repentance and confession in order to be forgiven.",
+      "corpo": "According to the Catechism, a sin is mortal when it meets simultaneously three conditions: grave matter, full knowledge of its gravity, and deliberate consent of the will. Unlike venial sin, which weakens the life of grace without destroying it, mortal sin destroys charity in the heart of man and deprives him of the supernatural life of grace — hence the need for it to be reconciled through the sacrament of Penance before one can receive Communion again.",
+      "tags": [
+        "morality",
+        "sin",
+        "confession"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Cole_Thomas_Expulsion_from_the_Garden_of_Eden_1828.jpg",
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1854-1861"
+      ]
+    },
+    {
+      "id": "pecados:pecado-venial",
+      "slug": "pecado-venial",
+      "titulo": "Venial Sin",
+      "categoria": "pecados",
+      "resumo": "A transgression that weakens charity without destroying it, distinguished from mortal sin by light matter or by the lack of full knowledge.",
+      "corpo": "Venial sin occurs when one of the three conditions of mortal sin is lacking — grave matter, full knowledge, or deliberate consent — or when the matter itself is light. It weakens charity, manifests a disordered affection for created goods, and merits temporal punishment, but it does not break the covenant with God or deprive one of sanctifying grace. Nevertheless, the Catechism warns that deliberate and unrepented venial sin disposes us little by little to commit mortal sin.",
+      "tags": [
+        "moral",
+        "sin",
+        "confession"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/79/The_Denial_of_Saint_Peter-Caravaggio_%281610%29.jpg",
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1862-1864"
+      ]
+    },
+    {
+      "id": "pecados:pecado-original",
+      "slug": "pecado-original",
+      "titulo": "Original Sin",
+      "categoria": "pecados",
+      "resumo": "The state of rupture with God inherited by all humanity from the disobedience of our first parents, transmitted—not committed—by each person at birth.",
+      "corpo": "The account of Genesis 3 tells how the first man, tempted by the devil, let trust in his Creator die in his heart and, abusing his freedom, disobeyed God's command, preferring himself to God and, in that act, despising him. From this first sin resulted the loss of the original holiness and justice in which man had been established, wounding human nature in its very powers, subjecting it to ignorance, suffering, and the dominion of death, and inclining it to sin—an inclination that tradition calls concupiscence.\n\nThe Church teaches that this sin is transmitted to all humanity \"by propagation,\" not by imitation: each person is born into a human condition that is already wounded, and not because of having personally committed a fault. For this reason original sin is called \"sin\" only by analogy—it is a sin \"contracted,\" not \"committed\"—and is clearly distinguished from personal sin, the free act of each individual. The remedy is Baptism, which, although it does not remove the consequences of the wounded nature (such as concupiscence itself), erases original sin and restores the person to friendship with God.",
+      "tags": [
+        "original sin",
+        "morality",
+        "Adam and Eve",
+        "baptism"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Cole_Thomas_Expulsion_from_the_Garden_of_Eden_1828.jpg",
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 396-412",
+        "Genesis 3"
+      ]
+    },
+    {
+      "id": "pecados:pecados-que-clamam-ao-ceu",
+      "slug": "pecados-que-clamam-ao-ceu",
+      "titulo": "Sins That Cry Out to Heaven",
+      "categoria": "pecados",
+      "resumo": "A traditional category of especially grave sins, which Scripture describes as a \"cry\" that rises to God asking for justice.",
+      "corpo": "The catechetical tradition, gathered in the Catechism of the Catholic Church (no. 1867), recalls the existence of sins that \"cry out to heaven\": the blood of Abel, shed by his brother Cain (Gen 4:10); the sin of the inhabitants of Sodom (Gen 18:20; 19:13); the cry of the oppressed people in Egypt (Ex 3:7-10); the lament of the foreigner, the widow, and the orphan, whom the Law commands to be protected in a special way; and the injustice done to the wage earner who is denied a just wage (Deut 24:14-15; Jas 5:4).\n\nWhat unites these examples, drawn above all from the Old Testament, is the gravity of offenses that directly strike the life, dignity, and livelihood of particularly defenseless persons — the victim of a murder, the stranger without legal protection, the worker without the power to claim what is owed to him. The biblical expression of the \"cry\" suggests that, when human justice fails or remains silent before these injustices, it is God himself who, in Scripture, presents himself as the ultimate defender of those who have no one to defend them.",
+      "tags": [
+        "morality",
+        "justice",
+        "Old Testament",
+        "the poor"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Cain_leadeth_abel_to_death_tissot.jpg",
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": null,
+      "fontes": [
+        "Catechism of the Catholic Church, no. 1867",
+        "Genesis 4:10; 18:20; Exodus 3:7-10; James 5:4"
+      ]
+    },
+    {
+      "id": "pecados:pecado-contra-o-espirito-santo",
+      "slug": "pecado-contra-o-espirito-santo",
+      "titulo": "Sin against the Holy Spirit",
+      "categoria": "pecados",
+      "resumo": "The deliberate and obstinate refusal to accept God's mercy — considered \"unforgivable\" not because of any limit in divine mercy, but because of the sinner's free resistance to it.",
+      "corpo": "Jesus states in the Gospel that \"all sins will be forgiven the sons of men, and whatever blasphemies they utter; but whoever blasphemes against the Holy Spirit never has forgiveness\" (Mk 3:28-29; cf. Mt 12:31-32). The Catechism explains that this does not mean that there is a sin greater than God's mercy, whose limits are infinite: whoever blasphemes against the Holy Spirit is the one who deliberately and obstinately refuses to receive that same mercy through repentance, thus rejecting the forgiveness of sins and the salvation offered by the Holy Spirit (CCC 1864).\n\nThe spiritual tradition, following Saint Thomas Aquinas, usually distinguishes six concrete forms in which this hardening of the heart is manifested: despair of salvation, presumption of being saved without merit, resisting the truth known as such, envying the grace obtained by another, deliberate obstinacy in sin, and final impenitence. In all cases, what is at stake is not a limit in God, but human freedom closing itself, to the very end, to the grace that is offered to it.",
+      "tags": [
+        "Holy Spirit",
+        "morality",
+        "mercy",
+        "hope"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": "Hope",
+      "fontes": [
+        "Catechism of the Catholic Church, no. 1864",
+        "Mark 3:28-29; Matthew 12:31-32"
+      ]
+    },
+    {
+      "id": "pecados:estruturas-de-pecado",
+      "slug": "estruturas-de-pecado",
+      "titulo": "Structures of Sin",
+      "categoria": "pecados",
+      "resumo": "An expression made well known by John Paul II to designate social, economic and political mechanisms that, born of accumulated personal sins, take on a life of their own and lead to new sins.",
+      "corpo": "In the encyclical \"Sollicitudo Rei Socialis\" (1987), John Paul II observes that \"the interdependence of social, economic and political systems creates, in today's world, multiple structures of sin\" (no. 36) — mechanisms such as institutionalized corruption, systematic economic exploitation or organized indifference in the face of misery, which go beyond the sum of individual acts and come to condition behavior, making good more difficult and favoring evil in an almost automatic way. The Catechism takes up this reflection in no. 1869, when speaking of \"social sin.\"",
+      "tags": [
+        "Sollicitudo Rei Socialis",
+        "John Paul II",
+        "morality",
+        "social doctrine"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": "Solidarity",
+      "fontes": [
+        "John Paul II, Sollicitudo Rei Socialis, no. 36 (1987)",
+        "Catechism of the Catholic Church, no. 1869"
+      ]
+    },
+    {
+      "id": "pecados:escandalo",
+      "slug": "escandalo",
+      "titulo": "Scandal",
+      "categoria": "pecados",
+      "resumo": "The attitude or behavior that leads another person to do evil, making the one who commits it a \"tempter of his neighbor.\"",
+      "corpo": "The Catechism defines scandal as an attitude or behavior which leads another to do evil: the person who gives scandal becomes a tempter of his neighbor, damages virtue and integrity, and can draw his brother into spiritual death (CCC 2284). Jesus himself warns severely: \"Temptations to sin are sure to come; but woe to him by whom they come!\" (Lk 17:1), and it is particularly grave when directed against the little ones or those weakest in faith (Mt 18:6).\n\nThe Catechism also observes that scandal takes on particular gravity according to the authority of those who cause it or the weakness of those who are its victims, and that anyone who establishes laws or social structures that lead to the decline of morals and the corruption of religious practice becomes guilty of scandal, as does anyone who uses the power at his disposal in conditions that directly or indirectly favor evil (CCC 2286-2287).",
+      "tags": [
+        "morality",
+        "example",
+        "moral responsibility"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": "Good example",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 2284-2287",
+        "Luke 17:1; Matthew 18:6"
+      ]
+    },
+    {
+      "id": "pecados:cooperacao-no-pecado-alheio",
+      "slug": "cooperacao-no-pecado-alheio",
+      "titulo": "Cooperation in the Sins of Others",
+      "categoria": "pecados",
+      "resumo": "The moral responsibility of one who participates in, commands, advises, praises, or fails to prevent another person's sin, when he had an obligation to act.",
+      "corpo": "Sin, the Catechism teaches, is a personal act; but responsibility for it can be shared when we cooperate voluntarily in its commission (CCC 1868). Complicity is understood as help given in carrying out an evil that another person has already decided to commit; so-called formal complicity — when someone wants another's sin or offers a collaboration that, by its very nature, signifies approval of that sin — is always sinful.\n\nThe moral tradition usually distinguishes several concrete ways of this cooperation: commanding, advising, praising or approving the evil committed by another, participating directly in it, remaining silent or failing to report when there was an obligation to do so, protecting the one who does evil, or not preventing another's sin when able and obliged to do so. This category is closely linked to scandal and to structures of sin, recalling that Catholic morality has never completely isolated individual responsibility from the fabric of relationships in which each person is placed.",
+      "tags": [
+        "moral",
+        "moral responsibility",
+        "complicity"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": null,
+      "fontes": [
+        "Catechism of the Catholic Church, no. 1868"
+      ]
+    },
+    {
+      "id": "pecados:vicio",
+      "slug": "vicio",
+      "titulo": "Vice",
+      "categoria": "pecados",
+      "resumo": "The stable disposition toward evil formed in the soul by the repetition of sins, which darkens conscience and corrupts concrete judgment about good and evil.",
+      "corpo": "According to the Catechism, sin generates sin: its repetition—even when it involves venial faults—engenders vice, a perverse inclination that darkens the conscience and corrupts the concrete appraisal of good and evil (CCC 1865, 1876). Vice is thus the exact opposite of virtue: whereas virtue is a habitual and firm disposition to do good, acquired or infused by grace and strengthened by the repetition of good acts, vice is the same logic of habit working in the opposite direction, like a \"second nature\" that inclines toward evil almost without conscious deliberation.\n\nVices can be classified by relating them to the virtues they oppose, or by tracing them back to the capital sins that Christian experience, following Saint John Cassian and Saint Gregory the Great, has distinguished over the centuries: pride, avarice, envy, anger, lust, gluttony, and sloth (acedia), each of which is capable in turn of generating other vices and other sins.",
+      "tags": [
+        "morality",
+        "vices",
+        "capital sins",
+        "virtues"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": "Virtue",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1865-1876"
+      ]
+    },
+    {
+      "id": "pecados:concupiscencia",
+      "slug": "concupiscencia",
+      "titulo": "Concupiscence",
+      "categoria": "pecados",
+      "resumo": "The disordered inclination to sin that remains in human nature even after Baptism, a wound left by original sin.",
+      "corpo": "In its etymological sense, \"concupiscence\" designates any intense form of human desire; Christian theology has given it a more precise meaning: the movement of the sensitive appetite contrary to the operation of the human reason (CCC 2515). The Catechism teaches that it stems from the disobedience of the first sin, which upset man's moral faculties: without being in itself an offense against God, concupiscence inclines man to commit sin (CCC 405, 1264).\n\nAlthough Baptism wipes away original sin and reconciles the person with God, it does not remove this inclination, which remains as a field of spiritual combat throughout the whole of the Christian life — hence the ninth and tenth commandments explicitly ask for the purification of desire itself, and not only of outward conduct. Overcoming concupiscence is not a task for one's own isolated effort, but for the constant exercise of temperance sustained by grace.",
+      "tags": [
+        "morality",
+        "original sin",
+        "temperance"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": "Temperance",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 405, 1264, 2515"
+      ]
+    },
+    {
+      "id": "pecados:pecado-de-omissao",
+      "slug": "pecado-de-omissao",
+      "titulo": "Sin of Omission",
+      "categoria": "pecados",
+      "resumo": "The sin that consists not in doing evil, but in failing to do the good that one was obliged to do.",
+      "corpo": "The Catechism recalls that sins can be classified, according to their object, as sins of thought, word, deed — or omission (CCC 1853). This last category is recalled in every sacramental confession that follows the ancient formula of the Confiteor: \"I have greatly sinned, in my thoughts and in my words, in what I have done and in what I have failed to do.\" It is not a minor category: Jesus, in the parable of the last judgment, explicitly condemns those who failed to feed the hungry, clothe the naked, or visit the sick — not for having done evil, but for not having done the good they could and should have done (Mt 25:41-46).\n\nThis is precisely the inverted face of the works of mercy: just as practicing them is a path to salvation, neglecting them out of comfort, indifference, or fear constitutes a real sin, even if no positive act of malice has been committed.",
+      "tags": [
+        "morality",
+        "works of mercy",
+        "conscience"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": "Diligence",
+      "fontes": [
+        "Catechism of the Catholic Church, no. 1853",
+        "Matthew 25:41-46"
+      ]
+    },
+    {
+      "id": "pecados:imputabilidade-do-pecado",
+      "slug": "imputabilidade-do-pecado",
+      "titulo": "Imputability and Mitigating Factors in Sin",
+      "categoria": "pecados",
+      "resumo": "The moral principle according to which personal responsibility for a sin can be diminished, or even removed, by factors such as ignorance, fear, habit, or psychological disturbances.",
+      "corpo": "The Catechism teaches that imputability and responsibility for an action can be diminished or even nullified by ignorance, inadvertence, duress, fear, habit, inordinate attachments, and other psychological or social factors (CCC 1735). This means that the objective gravity of a matter does not automatically equal the degree of subjective guilt of the one who commits it: the evil committed is one thing, the personal responsibility of the one who committed it before God is another.\n\nThis distinction is especially relevant to the gravity of mortal sin, which requires full knowledge and deliberate consent in addition to grave matter: involuntary ignorance can diminish, or even excuse, the imputability of a grave offense, although the Catechism warns that no one is presumed to be ignorant of the principles of the moral law, which are written in the conscience of every man (CCC 1860). This is why the pastoral tradition has always insisted that only God judges with full justice the interior of each conscience.",
+      "tags": [
+        "morality",
+        "conscience",
+        "mortal sin"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1735, 1859-1860"
+      ]
+    },
+    {
+      "id": "pecados:presuncao",
+      "slug": "presuncao",
+      "titulo": "Presumption",
+      "resumo": "A sin against the theological virtue of hope by which man counts on salvation without merits or on forgiveness without conversion, presuming upon his own strength or upon the divine mercy. Saint Thomas treats it in the Summa Theologiae II-II, q. 21, and the Catechism warns against it in nos. 2091-2092.",
+      "corpo": "Presumption (in Latin praesumptio) is one of the two vices directly opposed to the theological virtue of hope, together with despair. Saint Thomas Aquinas devotes Question 21 of the Second Part of the Second Part of the Summa Theologiae to it, after treating despair in Question 20. While despair consists in ceasing to hope for salvation, presumption consists in hoping from God for something that it is not fitting for God to grant: forgiveness without repentance and glory without merits.\n\nThe Catechism of the Catholic Church, in nos. 2091 and 2092, places presumption among the sins against the first commandment, alongside despair. It expressly distinguishes two kinds: either man presumes upon his own capacities, hoping to be able to save himself without help from on high, or he presumes upon God's almighty power or his mercy, hoping to obtain his forgiveness without conversion and glory without merit (cf. CCC 2092). In this second form, the more subtle one, the sinner invokes divine mercy to justify his own sin.\n\nSaint Thomas observes that presumption implies a disordered act of the appetite and proceeds from a false concept: just as it is false that God does not forgive those who repent, so it is also false that he grants forgiveness to those who persevere in sin or glory to those who fail to do good (cf. II-II, q. 21, a. 2). The disorder, therefore, does not lie in hoping too much, but in hoping from God what is not fitting to his holiness.\n\nIn the moral tradition, presumption frequently appears associated with pride, since the man who presumes upon himself holds an exaggerated esteem of himself, coming to think that, even while sinning, he will not be punished. The Aquinate compares its gravity to that of despair and notes that presumption is the lesser sin, inasmuch as it is more proper to God to have mercy and to show compassion, because of his infinite goodness, than to punish.\n\nThe opposite virtue is hope: the filial trust that desires and expects from God eternal life and the means of attaining it, founded not on one's own strength, but on the divine fidelity and mercy, and which does not dispense with conversion or merit.",
+      "categoria": "pecados",
+      "tags": [
+        "presumption",
+        "hope",
+        "sins against hope",
+        "pride",
+        "Summa Theologiae",
+        "Thomas Aquinas",
+        "sin"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 2091-2092",
+        "Saint Thomas Aquinas, Summa Theologiae, II-II, q. 20-21",
+        "Homilias (homilias.com.br), \"Os pecados contra a esperança\""
+      ],
+      "atualizado_em": null,
+      "ordem": null,
+      "virtude_oposta": "Hope"
+    },
+    {
+      "id": "pecados:desespero",
+      "slug": "desespero",
+      "titulo": "Despair",
+      "resumo": "A sin against the virtue of hope by which man ceases to hope for salvation from God, judging his own sin greater than divine mercy. Saint Thomas treats it in the Summa Theologiae II-II, q. 20, and the Catechism warns against it in no. 2091.",
+      "corpo": "Despair (in Latin desperatio) is the vice opposed to the theological virtue of hope by defect. Saint Thomas Aquinas opens with it his treatise on the vices opposed to the theological virtues and devotes to it the whole of Question 20 of the Second Part of the Second Part of the Summa Theologiae, in four articles, before treating presumption. It consists in man ceasing to hope for beatitude, considering it unattainable by himself.\n\nThe Catechism of the Catholic Church, in number 2091, defines it in the terms of Tradition: by despair, man ceases to hope for his personal salvation from God, for help in attaining it or for the forgiveness of his sins. While presumption minimizes sin, despair magnifies it until it is greater than the mercy of God, placing sin above the Cross. The spiritual tradition therefore observes that despair also has a root in pride, since the sinner judges his own misery stronger than divine goodness.\n\nSaint Thomas teaches that despair is a sin because it implies a disordered hope and a false judgment about God, and that it is more grave than presumption, because it turns away from what is most proper to God, which is mercy. Christian iconography found in the suicide of Judas Iscariot the classic image of despair: the apostle who, after the betrayal, does not return to Christ as Peter did, but gives himself over to hopelessness, hanging himself. Medieval miniatures frequently depict this scene, for example on folio 147v of the Très Riches Heures du duc de Berry.\n\nThe opposite virtue is hope, which trusts in the promise of salvation and in God's fidelity even when the sinner acknowledges his own unworthiness. Hope does not deny the gravity of sin, but refuses to measure divine mercy by the measure of one's own guilt.",
+      "categoria": "pecados",
+      "tags": [
+        "despair",
+        "hope",
+        "sins against hope",
+        "Judas Iscariot",
+        "Summa Theologiae",
+        "Thomas Aquinas",
+        "sin"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Folio_147v_-_Judas_Hangs_Himself.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, no. 2091",
+        "Saint Thomas Aquinas, Summa Theologiae, II-II, q. 20 (On Despair)",
+        "Homilias (homilias.com.br), \"Os pecados contra a esperança\"",
+        "Wikimedia Commons, Très Riches Heures du duc de Berry, Folio 147v"
+      ],
+      "atualizado_em": null,
+      "ordem": null,
+      "virtude_oposta": "Hope"
+    },
+    {
+      "id": "pecados:tibieza",
+      "slug": "tibieza",
+      "titulo": "Lukewarmness (Tepidity)",
+      "resumo": "Sin of spiritual negligence by which the faithful hesitate or neglect to respond to divine love, refusing to surrender to the impulse of charity. The Catechism describes it in number 2094, linking it to acedia, and the Book of Revelation warns against the lukewarmness of the church of Laodicea (Rev 3:15-16).",
+      "corpo": "Lukewarmness, also called tepidity, is the state of spiritual negligence by which the Christian hesitates or fails to respond to the love of God. The Catechism of the Catholic Church, in number 2094, describes it precisely in these terms: \"Lukewarmness is hesitation or negligence in responding to divine love; it can imply refusal to give oneself over to the prompting of charity.\" In the same number, the Catechism relates it to acedia or sloth, placing it among the sins against the first commandment.\n\nThe Gospel warning that underlies the tradition on lukewarmness is found in the Book of Revelation: the letter to the church of Laodicea says that the faithful are \"neither cold nor hot\" and threatens to spew them out of Christ's mouth (Rev 3:15-16). Christian exegesis has read in it the image of the \"lukewarm\" person — one who has not surrendered entirely to God nor withdrawn from him completely, remaining in a dangerous indecision.\n\nSpiritual authors have seen in lukewarmness a sickness of the soul that weakens the life of God in the faithful, a relaxation of the fervor and of the pious practices that were once lived. Ascetical theology, such as that of Adolphe Tanquerey in his Compendium of Ascetical and Mystical Theology, describes it as a most dangerous state, because it predisposes to a fall: whoever acts with lukewarmness is close to falling, as Saint John of the Cross recalls. It is distinguished from deliberate grave sin because the lukewarm person has not yet surrendered himself again entirely to a life of sin, but walks along the edge of the precipice.\n\nThe opposite virtue is fervor, that is, the readiness of charity to respond to the love of God with resolve and constancy. The tradition exhorts us to rekindle this fire, so that the Christian may not be lukewarm, but hot in the service and love of the Lord.",
+      "categoria": "pecados",
+      "tags": [
+        "lukewarmness",
+        "tepidity",
+        "fervor",
+        "acedia",
+        "Revelation",
+        "Laodicea",
+        "Catechism",
+        "spiritual life",
+        "sin"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/BibleSPaoloFol331vFrontRev.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, no. 2094",
+        "Revelation 3:15-16",
+        "Adolphe Tanquerey, Compendium of Ascetical and Mystical Theology (apud santuario.cancaonova.com)",
+        "Saint John of the Cross (apud santuario.cancaonova.com)"
+      ],
+      "atualizado_em": null,
+      "ordem": null,
+      "virtude_oposta": "Fervor"
+    },
+    {
+      "id": "pecados:ingratidao",
+      "slug": "ingratidao",
+      "titulo": "Ingratitude",
+      "resumo": "A special sin, opposed to the virtue of gratitude, by which a man fails to acknowledge, give thanks for, or repay the benefits he has received, thus sinning against the justice owed to his benefactor. Saint Thomas treats it in the Summa Theologiae II-II, q. 106-107, and the parable of the ten lepers (Lk 17:11-19) illustrates it in the Gospel.",
+      "corpo": "Ingratitude (in Latin, ingratitudo) is the vice opposed to gratitude, to which Saint Thomas Aquinas devotes Questions 106 and 107 of the Second Part of the Second Part of the Summa Theologiae. Gratitude is, for the Aquinate, a special virtue annexed to justice: to acknowledge and repay a benefit received is a moral debt. For this reason, he defines ingratitude as the sin that, more properly than any other vice, fails in gratitude, and concludes that, just as gratitude is a special virtue, so too ingratitude is a special sin.\n\nSaint Thomas distinguishes degrees in gratitude, and ingratitude is measured by the inverse order of these degrees: the first consists in acknowledging the benefit received; the second, in praising and giving thanks for it; the third, in repaying it at the opportune place and time, according to one's own means. Since what is last in generation is first in dissolution, the first degree of ingratitude is the failure to repay; the second is dissimulation, that is, not showing that one has received the benefit; and the third, the gravest, is not acknowledging the benefit, whether through forgetfulness or in any other way (cf. II-II, q. 107, a. 2). He adds that the ungrateful man sins against justice, since he denies what is owed to the benefactor.\n\nIn Scripture, ingratitude appears as the mark of a hardened heart. The classic Gospel example is the healing of the ten lepers (Lk 17:11-19): of the ten who were healed, only one, and a foreigner, a Samaritan, returned to give thanks, and Jesus noted the absence of the other nine. The Church has read in this passage the living image of ingratitude, set in contrast with the gratitude that acknowledges and gives thanks for the divine gift.\n\nThe opposite virtue is gratitude, which is not a mere feeling, but a moral virtue rooted in justice and charity, by which one acknowledges the debt owed to the benefactor and repays it with thanksgiving. It applies first of all to God, the source of all good, and extends to one's neighbor.",
+      "categoria": "pecados",
+      "tags": [
+        "ingratitude",
+        "gratitude",
+        "justice",
+        "Summa Theologiae",
+        "Thomas Aquinas",
+        "ten lepers",
+        "Gospel of Luke",
+        "sin"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/CodexAureus_Cleansing_of_the_ten_lepers.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Saint Thomas Aquinas, Summa Theologiae, II-II, q. 106-107 (On Gratitude and Ingratitude)",
+        "Luke 17:11-19",
+        "Permanencia (permanencia.org.br), \"Art. 2 – Whether ingratitude is a special sin\"",
+        "Wikimedia Commons, Codex Aureus, Cleansing of the ten lepers"
+      ],
+      "atualizado_em": null,
+      "ordem": null,
+      "virtude_oposta": "Gratitude"
+    }
+  ]
+}

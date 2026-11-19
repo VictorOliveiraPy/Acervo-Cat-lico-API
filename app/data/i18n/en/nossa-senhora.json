@@ -1,0 +1,771 @@
+{
+  "_meta": {
+    "categoria": "nossa-senhora",
+    "nome": "Our Lady",
+    "descricao": "Marian dogmas, apparitions with ecclesiastical recognition, and titles of devotion to the Virgin Mary.",
+    "status": "exemplos-iniciais",
+    "aviso": "Only apparitions with formal ecclesiastical recognition are included. This is not yet a definitive or exhaustive catalog of Marian titles and dogmas; for catechetical use, always check the primary source cited in each entry.",
+    "revisao_editorial": "Dates without consensus or details of oral tradition (non-dogmatic) are marked as such in the body of the text. No apparition without ecclesiastical approval has been included.",
+    "fontes_gerais": [
+      "Catechism of the Catholic Church, nos. 484-511 (faith in God the Father) and nos. 963-975 (Mary, Mother of Christ and of the Church)",
+      "Denzinger-Hünermann, Marian dogmatic definitions"
+    ]
+  },
+  "itens": [
+    {
+      "id": "nossa-senhora:maternidade-divina",
+      "slug": "maternidade-divina",
+      "titulo": "Divine Motherhood of Mary (Theotokos)",
+      "categoria": "nossa-senhora",
+      "resumo": "Dogma defined at the Council of Ephesus (431): Mary is truly the Mother of God, because she bore the incarnate Word.",
+      "corpo": "In 431, the Council of Ephesus, the third ecumenical council, defined against Nestorius, Patriarch of Constantinople, that Mary can and must be called «Theotokos» (Mother of God), and not merely «Christotokos» (Mother of Christ). The question was not primarily about Mary, but about the identity of Jesus Christ: to affirm that Mary is the Mother of God is to affirm that the one she bore is a single person — true God and true man — and not two separate persons, as Nestorius taught.\n\nIt is considered the oldest of the Marian dogmas and the foundation of the others: the titles and privileges attributed to Mary in later definitions — Immaculate Conception, perpetual virginity, Assumption — flow from this divine motherhood, and not from merits of her own independent of Christ.\n\nThe title «Theotokos» is used to this day in the liturgy and iconography of the Eastern Churches, Catholic and Orthodox, as one of the oldest and most central names given to Mary.",
+      "tags": [
+        "Council of Ephesus",
+        "dogma",
+        "Christology",
+        "5th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kazan_moscow.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Council of Ephesus, Third Letter of Cyril of Alexandria to Nestorius (431)",
+        "Catechism of the Catholic Church, no. 495"
+      ],
+      "tipo": "dogma",
+      "ano": "431",
+      "local": "Council of Ephesus"
+    },
+    {
+      "id": "nossa-senhora:virgindade-perpetua",
+      "slug": "virgindade-perpetua",
+      "titulo": "Perpetual Virginity of Mary",
+      "categoria": "nossa-senhora",
+      "resumo": "The doctrine that Mary conceived, gave birth, and remained a virgin forever — hence the title «Ever-Virgin».",
+      "corpo": "The Church has professed, since the earliest centuries, that Mary conceived Jesus while remaining a virgin («virginity before birth»), that she gave birth to him without detriment to her virginal integrity («virginity in birth»), and that she remained a virgin forever afterward («virginity after birth»). Hence the title «Ever-Virgin» (in Greek, «Aeiparthenos»), already used by Fathers of the Church such as Saint Athanasius in the fourth century and confirmed by a council at Constantinople II, in 553.\n\nThe Gospel reference to the «brothers of Jesus» (for example, Mk 6:3) is read by the Catholic tradition, supported by Semitic linguistic usage of the term «brother» — which also designated broader relatives, such as cousins —, as not contradicting this doctrine.\n\nTogether with the divine motherhood, the perpetual virginity is professed as a sign that the generation of Jesus was the work of the Holy Spirit, and not ordinary human generation.",
+      "tags": [
+        "dogma",
+        "mariology",
+        "Council of Constantinople II"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Vladimirskaya.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Second Council of Constantinople (553)",
+        "Catechism of the Catholic Church, nos. 499-501"
+      ],
+      "tipo": "dogma",
+      "ano": "553",
+      "local": null
+    },
+    {
+      "id": "nossa-senhora:imaculada-conceicao",
+      "slug": "imaculada-conceicao",
+      "titulo": "Immaculate Conception",
+      "categoria": "nossa-senhora",
+      "resumo": "Dogma proclaimed by Pius IX in 1854: Mary was preserved, from the first instant of her conception, from every stain of original sin.",
+      "corpo": "On December 8, 1854, by the bull «Ineffabilis Deus», Pope Pius IX defined as a dogma of faith that the Blessed Virgin Mary, «in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin».\n\nThe doctrine does not assert anything different about Mary's biological conception by her parents — tradition identifies them as Joachim and Anne, although these names come from apocryphal writings, not from Scripture —, but that, by a unique privilege granted in advance in view of the future merits of Christ, Mary's soul was never under original sin, unlike the rest of humanity.\n\nIn 1858, according to the traditional account of the apparitions at Lourdes, Mary is said to have confirmed the recent dogmatic definition by identifying herself to Bernadette Soubirous as «the Immaculate Conception» — an expression that the young girl, with no theological education, would not have been able to formulate on her own.",
+      "tags": [
+        "dogma",
+        "Pius IX",
+        "19th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Juan_Antonio_de_Fr%C3%ADas_y_Escalante._Inmaculada_Concepci%C3%B3n.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Pius IX, Bull «Ineffabilis Deus» (December 8, 1854)",
+        "Catechism of the Catholic Church, nos. 490-492"
+      ],
+      "tipo": "dogma",
+      "ano": "1854",
+      "local": null
+    },
+    {
+      "id": "nossa-senhora:assuncao",
+      "slug": "assuncao",
+      "titulo": "Assumption of Our Lady",
+      "categoria": "nossa-senhora",
+      "resumo": "Dogma proclaimed by Pius XII in 1950: Mary, having completed the course of her earthly life, was assumed body and soul into heavenly glory.",
+      "corpo": "On November 1, 1950, by the apostolic constitution «Munificentissimus Deus», Pope Pius XII defined as a dogma that «the Immaculate Mother of God, the ever Virgin Mary, having completed the course of her earthly life, was assumed body and soul into heavenly glory».\n\nThe definition deliberately leaves open whether Mary died before being assumed — the majority position in the tradition, including the Eastern liturgical tradition, which speaks of her «dormition» — or was assumed without experiencing death: the dogma affirms the fact of the assumption, not the details of how it occurred.\n\nThe doctrine had already been celebrated liturgically for centuries — the feast goes back at least to the sixth century in the East — before its formal dogmatic definition in 1950. In Brazil and in several countries of Catholic tradition, August 15 is a public holiday or a day of religious observance associated with this solemnity.",
+      "tags": [
+        "dogma",
+        "Pius XII",
+        "20th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tizian_041.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Pius XII, Apostolic Constitution «Munificentissimus Deus» (November 1, 1950)",
+        "Catechism of the Catholic Church, no. 966"
+      ],
+      "tipo": "dogma",
+      "ano": "1950",
+      "local": null
+    },
+    {
+      "id": "nossa-senhora:guadalupe",
+      "slug": "guadalupe",
+      "titulo": "Our Lady of Guadalupe",
+      "categoria": "nossa-senhora",
+      "resumo": "Marian apparition to the indigenous Saint Juan Diego in 1531, in Mexico, with the image imprinted on the tilma now venerated in the Basilica of Guadalupe.",
+      "corpo": "According to the traditional account, in December 1531 the Virgin Mary appeared to the Nahua indigenous man Juan Diego Cuauhtlatoatzin on the hill of Tepeyac, near Mexico City, asking that a temple be built there. Faced with the bishop's incredulity, tradition relates that Mary caused out-of-season flowers to bloom and that, when Juan Diego opened his tilma (cloak) to show them before the bishop, the image of the Virgin appeared imprinted on it — now venerated in the Basilica of Our Lady of Guadalupe, one of the most visited Marian shrines in the world.\n\nThe devotion played a central role in the evangelization and Catholic identity of Mexico and of much of Latin America. Saint John Paul II canonized Juan Diego in 2002. Our Lady of Guadalupe is the patroness of the Americas.",
+      "tags": [
+        "apparition",
+        "Mexico",
+        "16th century",
+        "Juan Diego"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Guadalupe_Tilma.gif",
+      "imagem_credito": null,
+      "fontes": [
+        "John Paul II, Homily for the Canonization of Juan Diego (July 31, 2002)",
+        "Nican Mopohua, traditional account in Nahuatl (16th century)"
+      ],
+      "tipo": "aparicao",
+      "ano": "1531",
+      "local": "Tepeyac, Mexico"
+    },
+    {
+      "id": "nossa-senhora:lourdes",
+      "slug": "lourdes",
+      "titulo": "Our Lady of Lourdes",
+      "categoria": "nossa-senhora",
+      "resumo": "A series of Marian apparitions to Saint Bernadette Soubirous in 1858, at the grotto of Massabielle, today one of the largest Catholic pilgrimage shrines.",
+      "corpo": "Between February and July 1858, the 14-year-old peasant girl Bernadette Soubirous reported eighteen apparitions of \"a Lady\" at the grotto of Massabielle, in Lourdes, in southern France. At the apparition of March 25, the Lady is said to have identified herself, in the Occitan dialect, by saying, \"I am the Immaculate Conception\"—an expression that Bernadette, with no theological training, could hardly have come up with on her own, and which strengthened the Church's recognition of the apparitions, which took place only four years after the dogmatic definition of the Immaculate Conception (1854).\n\nA spring of water that gushed forth during the apparitions became a center of pilgrimage, associated with numerous reports of healing; the Church maintains an independent medical bureau that evaluates these cases according to scientific criteria before any formal recognition as a miracle. Bernadette became a religious sister and was canonized in 1933.\n\nLourdes is today one of the largest Marian shrines in the world, and February 11—the date of the first apparition—is the World Day of the Sick, instituted by John Paul II.",
+      "tags": [
+        "apparition",
+        "France",
+        "19th century",
+        "Bernadette Soubirous"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/France-002009_-_Our_Lady_of_Lourdes_%2815774765182%29.jpg",
+      "imagem_credito": "Photo: Dennis G. Jarvis (2014) — Wikimedia Commons, CC BY-SA 2.0",
+      "fontes": [
+        "Pius XI, Homily for the Canonization of Saint Bernadette Soubirous (1933)",
+        "Bureau des Constatations Médicales de Lourdes"
+      ],
+      "tipo": "aparicao",
+      "ano": "1858",
+      "local": "Lourdes, France"
+    },
+    {
+      "id": "nossa-senhora:aparecida",
+      "slug": "aparecida",
+      "titulo": "Our Lady of Aparecida",
+      "categoria": "nossa-senhora",
+      "resumo": "Image of Our Lady of the Immaculate Conception found by fishermen in 1717 in the waters of the Paraíba do Sul River; patroness of Brazil.",
+      "corpo": "According to tradition, in October 1717 a group of fishermen cast their nets into the Paraíba do Sul River, near Guaratinguetá, and found first the body and then the head of a small terracotta image of Our Lady of the Immaculate Conception — darkened by time, which gave it the popular name \"Aparecida\" (she who appeared). Tradition holds that, after the complete image was found, the fishing in that place became extraordinarily abundant.\n\nThe devotion grew throughout the 18th and 19th centuries, and Pius XI proclaimed Our Lady Aparecida principal patroness of Brazil in 1930. The National Shrine of Aparecida, in the municipality of Aparecida (SP), is today one of the largest Marian shrines in the world in number of pilgrims.\n\nThe date of the discovery, October 12, is a national holiday in Brazil and coincides with Children's Day.",
+      "tags": [
+        "Marian title",
+        "Brazil",
+        "patroness",
+        "18th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/NS_Aparecida.png",
+      "imagem_credito": null,
+      "fontes": [
+        "Pius XI, Brief \"Sat cognitum est\" (1930)",
+        "National Conference of Bishops of Brazil — National Shrine of Aparecida"
+      ],
+      "tipo": "titulo",
+      "ano": "1717",
+      "local": "Paraíba do Sul River, Guaratinguetá (Brazil)"
+    },
+    {
+      "id": "nossa-senhora:fatima",
+      "slug": "fatima",
+      "titulo": "Our Lady of Fátima",
+      "categoria": "nossa-senhora",
+      "resumo": "A series of Marian apparitions to three shepherd children in Portugal in 1917, including the episode known as the \"Miracle of the Sun.\"",
+      "corpo": "Between May and October 1917, the shepherd children Lúcia dos Santos, Francisco Marto and Jacinta Marto reported six apparitions of Our Lady at the Cova da Iria, near Fátima, Portugal, asking for prayer of the Rosary and penance for world peace, in the midst of the First World War. At the last apparition, on October 13, 1917, a crowd of tens of thousands of people — including journalists and skeptics — witnessed an extraordinary solar phenomenon, known as the \"Miracle of the Sun.\" The Bishop of Leiria approved the devotion in 1930. Francisco and Jacinta were canonized by Pope Francis in 2017, on the centenary of the apparitions; Lúcia, who became a Carmelite nun, died in 2005.",
+      "tags": [
+        "apparition",
+        "Portugal",
+        "20th century",
+        "shepherd children"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/First_Sculpture_of_Our_Lady_of_Fatima.jpg",
+      "imagem_credito": null,
+      "tipo": "aparicao",
+      "ano": "1917",
+      "local": "Fátima, Portugal",
+      "fontes": [
+        "Congregation for the Doctrine of the Faith, Theological Commentary on the \"third secret\" of Fátima (2000)"
+      ]
+    },
+    {
+      "id": "nossa-senhora:la-salette",
+      "slug": "la-salette",
+      "titulo": "Our Lady of La Salette",
+      "categoria": "nossa-senhora",
+      "resumo": "Apparition in 1846 to two young shepherds in the French Alps, with a message of penance recognized by the Church in 1851.",
+      "corpo": "In September 1846, the young shepherds Maximin Giraud and Mélanie Calvat reported, in the mountainous region of La Salette, in southeastern France, an apparition of a \"Beautiful Lady\" weeping, who gave them a message calling for conversion and penance, criticizing the abandonment of Sunday religious practice among the local population. The Bishop of Grenoble formally approved the cult in 1851, after an investigation.",
+      "tags": [
+        "apparition",
+        "France",
+        "19th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Corps_-_%C3%89glise_03.jpg",
+      "imagem_credito": "Photo: Tylwyth Eldar — Wikimedia Commons, CC BY-SA 4.0",
+      "tipo": "aparicao",
+      "ano": "1846",
+      "local": "La Salette, France",
+      "fontes": []
+    },
+    {
+      "id": "nossa-senhora:medalha-milagrosa",
+      "slug": "medalha-milagrosa",
+      "titulo": "Our Lady of the Miraculous Medal",
+      "categoria": "nossa-senhora",
+      "resumo": "Marian title linked to the 1830 apparitions to Saint Catherine Labouré in Paris, the origin of one of the most widespread Marian devotions in the world.",
+      "corpo": "In 1830, the novice Catherine Labouré reported, in the chapel of the Daughters of Charity in Paris, apparitions of Our Lady who is said to have shown her the design of a medal — Mary standing on the globe, with rays of light streaming from her hands and the invocation \"O Mary, conceived without sin, pray for us who have recourse to thee\". The medal, struck beginning in 1832, spread so widely and was associated with so many accounts of graces that it came to be popularly called the \"Miraculous Medal\".",
+      "tags": [
+        "apparition",
+        "miraculous medal",
+        "France",
+        "19th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/de/VirgenMedallaMilagrosa-IglesiaSagradaEucarisita-CABA.jpg",
+      "imagem_credito": "Photo: Ezarate — Wikimedia Commons, CC BY-SA 4.0",
+      "tipo": "titulo",
+      "ano": "1830",
+      "local": "Paris, France",
+      "fontes": []
+    },
+    {
+      "id": "nossa-senhora:banneux",
+      "slug": "banneux",
+      "titulo": "Our Lady of Banneux (Virgin of the Poor)",
+      "resumo": "Eight apparitions in 1933 to the young Mariette Beco in Belgium, recognized by the Church in 1949, with the message of the 'Virgin of the Poor' directed to the relief of the sick and suffering of all nations.",
+      "corpo": "Our Lady of Banneux, invoked above all as the Virgin of the Poor (Notre-Dame des Pauvres), designates the eight apparitions that Mariette Beco, a girl of about eleven and a half, born on March 25, 1921, reported in Banneux, a small village in the Belgian Ardennes, about fifteen kilometers from Liège, between January 15 and March 2, 1933. Mariette was the eldest of seven children of a poor and barely practicing family; the apparitions occurred a few weeks after those of Beauraing, in the same climate of economic crisis that was affecting Belgium, and were accompanied, according to ecclesiastical sources of the time, by many other claims of apparitions in the country. On the afternoon of Sunday, January 15, while looking out of the kitchen window, Mariette saw in the garden a Lady dressed in white who beckoned to her with a gesture of her hand.",
+      "categoria": "nossa-senhora",
+      "tags": [
+        "apparition",
+        "Belgium",
+        "20th century",
+        "Virgin of the Poor",
+        "Mariette Beco",
+        "Liège",
+        "the sick",
+        "1933"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/59/Banneux_Maagd_der_armen.jpg",
+      "imagem_credito": "Photo: Johfrael — Wikimedia Commons, CC BY-SA 3.0",
+      "fontes": [
+        "Wikipedia (en), \"Our Lady of Banneux\" (dates, approval of August 22, 1949 by Bishop Louis-Joseph Kerkhofs, titles)",
+        "Pierced Hearts of Jesus and Mary, \"Our Lady of the Poor; Banneux, Belgium\" (family members, Mariette's age, context)",
+        "Catholic Preacher, \"Shrines of Belgium: Banneux\" (verbatim quotations from the apparitions)",
+        "Saint John Paul II, address at the shrine of Banneux, May 21, 1985 (pilgrimage to Belgium)",
+        "Miracle Hunter — Approved Apparitions: Banneux / Wikimedia Commons (image)"
+      ],
+      "atualizado_em": null,
+      "tipo": "aparicao",
+      "ano": "1933",
+      "local": "Banneux, Belgium"
+    },
+    {
+      "id": "nossa-senhora:beauraing",
+      "slug": "beauraing",
+      "titulo": "Our Lady of Beauraing",
+      "resumo": "Thirty-three apparitions of the Virgin of the Golden Heart to five children in Beauraing, Belgium, between 1932 and 1933, with requests for prayer, sacrifice and the conversion of sinners; recognized in 1949 by the Bishop of Namur.",
+      "corpo": "Our Lady of Beauraing — also invoked as the Virgin of the Golden Heart (Notre-Dame au Cœur d'Or) — designates the set of thirty-three apparitions reported by five children in the small Belgian town of Beauraing, province of Namur, in Wallonia, between November 29, 1932, and January 3, 1933. The children belonged to two families of modest means, who were in large part distant from religious practice: the sisters Fernande (15 years old) and Gilberte (13) and their brother Albert (11) Voisin, children of a railway employee, and the sisters Andrée (14) and Gilberte (9) Degeimbre, daughters of a widow. The episode began in the late afternoon of November 29, 1932, when Albert, while waiting at the door of the school run by the Sisters of Christian Doctrine, saw the figure of a Lady dressed in white who seemed to walk in the air above the nearby railway viaduct; the other children saw her as well. From the third apparition onward, the Lady began to appear beside a hawthorn tree (aubépine) in a garden below the viaduct, at the spot now marked by a plaque.",
+      "categoria": "nossa-senhora",
+      "tags": [
+        "apparition",
+        "Belgium",
+        "20th century",
+        "Virgin of the Golden Heart",
+        "Namur",
+        "conversion of sinners",
+        "1932"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Our_Lady_of_Beauraing_02.jpg",
+      "imagem_credito": "Photo: Donarreiskoffer — Wikimedia Commons, CC BY-SA 4.0",
+      "fontes": [
+        "Wikipedia (en), \"Our Lady of Beauraing\"",
+        "Diocese of Namur / Sanctuary of Beauraing — account of the apparitions (hozana.org)",
+        "National Catholic Register, \"The 'Golden Heart' Apparition of Our Lady of Beauraing\"",
+        "Miracle Hunter — Approved Apparitions: Beauraing (biographical data on the visionaries)",
+        "Pierced Hearts of Jesus and Mary, \"Our Lady of the Golden Heart\" (historical context and number of pilgrims)"
+      ],
+      "atualizado_em": null,
+      "tipo": "aparicao",
+      "ano": "1932-1933",
+      "local": "Beauraing, Belgium"
+    },
+    {
+      "id": "nossa-senhora:knock",
+      "slug": "knock",
+      "titulo": "Our Lady of Knock",
+      "categoria": "nossa-senhora",
+      "resumo": "A silent apparition in 1879 in a small Irish village, witnessed by about twenty people, with no words and no spoken message conveyed.",
+      "corpo": "In August 1879, about twenty residents of the village of Knock, in western Ireland, reported seeing, on the outer wall of the local church, a silent apparition of Mary, Joseph and John the Evangelist beside an altar with a lamb — without any spoken message being conveyed. It is unusual among Marian apparitions in that it includes no words, and it was visited by John Paul II in 1979, on the centenary of the event.",
+      "tags": [
+        "apparition",
+        "Ireland",
+        "19th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Statue_of_Our_Lady_Knock_Shrine.jpg",
+      "imagem_credito": "Photo: Michael McLaughlin Photography — Wikimedia Commons, CC BY-SA 4.0",
+      "tipo": "aparicao",
+      "ano": "1879",
+      "local": "Knock, Ireland",
+      "fontes": []
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-do-carmo",
+      "slug": "nossa-senhora-do-carmo",
+      "titulo": "Our Lady of Mount Carmel",
+      "categoria": "nossa-senhora",
+      "resumo": "Marian title linked to the Order of Carmel, associated with the giving of the brown scapular to Saint Simon Stock, according to Carmelite tradition.",
+      "corpo": "The title goes back to Mount Carmel, in present-day Israel, the cradle of the Carmelite Order. According to the order's tradition, Our Lady appeared to the Englishman Simon Stock, prior general of the Carmelites in the thirteenth century, giving him the brown scapular as a sign of special protection for those who wear it with devotion and a consistent Christian life. The feast of Our Lady of Mount Carmel, on July 16, is one of the most popular in the Marian calendar, especially among devotees of the scapular.",
+      "tags": [
+        "Marian title",
+        "Carmelites",
+        "scapular"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Pietro_Novelli_Our_Lady_of_Carmel_and_Saints.JPG",
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ano": "13th-century tradition",
+      "local": "Mount Carmel",
+      "fontes": []
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-das-dores",
+      "slug": "nossa-senhora-das-dores",
+      "titulo": "Our Lady of Sorrows",
+      "categoria": "nossa-senhora",
+      "resumo": "A title and liturgical feast that contemplate Mary's suffering in association with the Passion of Christ, traditionally summarized as the \"seven sorrows.\"",
+      "corpo": "Devotion to Our Lady of Sorrows contemplates Mary's suffering throughout the life of Jesus, traditionally summarized as the \"seven sorrows\" — from Simeon's prophecy to the burial of Christ. The liturgical feast, celebrated on September 15, the day after the Exaltation of the Holy Cross, was extended to the universal Church by Pius X in 1913. It is a title of particular devotion among the Servites, a religious order dedicated specifically to this contemplation.",
+      "tags": [
+        "Marian title",
+        "Passion of Christ",
+        "Servites"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Getaria_-_Iglesia_del_Salvador_26.jpg",
+      "imagem_credito": "Photo: Zarateman — Wikimedia Commons, CC BY 3.0",
+      "tipo": "titulo",
+      "ano": null,
+      "local": null,
+      "fontes": []
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-do-perpetuo-socorro",
+      "slug": "nossa-senhora-do-perpetuo-socorro",
+      "titulo": "Our Lady of Perpetual Help",
+      "categoria": "nossa-senhora",
+      "resumo": "A Marian title linked to a Byzantine icon greatly venerated in Rome, entrusted to the Redemptorists in 1866.",
+      "corpo": "The title is associated with an ancient icon in the Byzantine tradition, depicting Mary with the Child Jesus and two angels displaying the instruments of the Passion, venerated in Rome since at least the fifteenth century. In 1866, Pope Pius IX entrusted the image and its devotion to the Congregation of the Most Holy Redeemer (Redemptorists), who spread it widely throughout the world, including Brazil, where it is one of the most popular Marian devotions.",
+      "tags": [
+        "Marian title",
+        "icon",
+        "Redemptorists",
+        "Brazil"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Our_Holy_Mother_Of_Perpetual_Succour.jpg",
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ano": null,
+      "local": "Rome, Italy",
+      "fontes": []
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-das-gracas",
+      "slug": "nossa-senhora-das-gracas",
+      "titulo": "Our Lady of Graces (Rue du Bac)",
+      "categoria": "nossa-senhora",
+      "resumo": "Another name by which the 1830 apparition to Saint Catherine Labouré is known, focusing on the call to trust in Mary's intercession.",
+      "corpo": "Associated with the same series of apparitions in 1830 on the Rue du Bac in Paris that gave rise to the Miraculous Medal, this title emphasizes the aspect of intercession and the distribution of graces that tradition attributes to the image revealed to Catherine Labouré — Mary with open hands, from which rays of light stream forth, representing the graces granted to those who ask for them.",
+      "tags": [
+        "apparition",
+        "miraculous medal",
+        "France",
+        "19th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/de/VirgenMedallaMilagrosa-IglesiaSagradaEucarisita-CABA.jpg",
+      "imagem_credito": "Photo: Ezarate — Wikimedia Commons, CC BY-SA 4.0",
+      "tipo": "titulo",
+      "ano": "1830",
+      "local": "Paris, France",
+      "fontes": []
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-de-akita",
+      "slug": "nossa-senhora-de-akita",
+      "titulo": "Our Lady of Akita",
+      "categoria": "nossa-senhora",
+      "resumo": "Apparitions reported by a deaf religious sister in Japan between 1973 and 1981, involving an image that is said to have wept tears of blood.",
+      "corpo": "Sister Agnes Sasagawa, of a small religious community in Akita, Japan, reported between 1973 and 1981 Marian messages associated with a wooden statue that is said to have manifested the phenomenon of tears, before numerous witnesses and under documented medical observation. The local bishop approved the cult in 1984, after an investigation; the Holy See has not, to this day, issued a formal and definitive pronouncement at the universal level, although there were favorable statements from Roman dicasteries consulted at the time.",
+      "tags": [
+        "apparition",
+        "Japan",
+        "20th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Virgin_Mary_of_Akita_Japan.jpg",
+      "imagem_credito": "Photo: SICDAMNOME — Wikimedia Commons, CC BY-SA 4.0",
+      "tipo": "aparicao",
+      "ano": "1973-1981",
+      "local": "Akita, Japan",
+      "fontes": []
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-de-champion",
+      "slug": "nossa-senhora-de-champion",
+      "titulo": "Our Lady of Champion (Notre Dame de Bon Secours)",
+      "categoria": "nossa-senhora",
+      "resumo": "The first Marian apparition to receive formal ecclesiastical recognition on United States soil, which occurred in 1859 and was approved only in 2010.",
+      "corpo": "In 1859, the Belgian immigrant Adele Brise reported three apparitions of Our Lady near present-day Green Bay, Wisconsin, who urged her to catechize the children of the frontier region. Formal ecclesiastical recognition, unusual for having taken so long, came only in 2010, making this the first case of a Marian apparition approved in the territory of the present-day United States.",
+      "tags": [
+        "apparition",
+        "United States",
+        "19th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/The_National_Shrine_of_Our_Lady_of_Champion.jpg",
+      "imagem_credito": "Photo: Jpbri4444 — Wikimedia Commons, CC BY 4.0",
+      "tipo": "aparicao",
+      "ano": "1859",
+      "local": "Champion, Wisconsin, United States",
+      "fontes": []
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-de-pontmain",
+      "slug": "nossa-senhora-de-pontmain",
+      "titulo": "Our Lady of Pontmain",
+      "categoria": "nossa-senhora",
+      "resumo": "1871 apparition in France, in the midst of the Franco-Prussian War, witnessed by children and associated with the unexpected end of the threat of invasion to the region.",
+      "corpo": "In January 1871, in the midst of the Franco-Prussian War, children of the village of Pontmain, in western France, reported a silent apparition of Our Lady smiling in the night sky, while the adults present saw nothing. A few days later, Prussian troops that were threatening the region unexpectedly withdrew, which local popular devotion associated with the event. It was approved by the Bishop of Laval as early as 1871.",
+      "tags": [
+        "apparition",
+        "France",
+        "19th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Pontmain_%2853%29_Statue_de_la_Vierge_sur_le_parvis_de_la_basilique.jpg",
+      "imagem_credito": null,
+      "tipo": "aparicao",
+      "ano": "1871",
+      "local": "Pontmain, France",
+      "fontes": []
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-do-bom-parto",
+      "slug": "nossa-senhora-do-bom-parto",
+      "titulo": "Our Lady of Good Delivery",
+      "resumo": "A Marian title of traditional devotion on behalf of expectant mothers and safe childbirth, originating in France and spread throughout the Iberian Peninsula and the Portuguese-speaking world, celebrated on October 8.",
+      "corpo": "Our Lady of Good Delivery — also invoked as Our Lady of Good Success or of Divine Childbirth — is a Marian devotional title that invokes the motherhood of Mary as intercession on behalf of expectant mothers, the safety of childbirth, and newborns. It does not correspond to a specific apparition, but to an ancient tradition of popular piety. Its most frequently cited historical reference is the image of the so-called Black Virgin of Paris, venerated in the church of Saint-Étienne-des-Grès in Paris: the dark color of the ancient images was associated with the symbolism of fertility, hence the names 'of Good Delivery' and similar ones. The devotion spread widely throughout France, Spain and Portugal, especially through Masses celebrated before dawn during the octave of Christmas, which expectant mothers attended to honor the Motherhood of Our Lady and to ask for a blessing.",
+      "categoria": "nossa-senhora",
+      "tags": [
+        "Marian title",
+        "expectant mothers",
+        "childbirth",
+        "Portugal",
+        "Brazil",
+        "France",
+        "Black Virgin of Paris",
+        "11th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Igreja_Nossa_Senhora_do_Bom_Parto%2C_Florian%C3%B3polis%2C_Brasil.JPG",
+      "imagem_credito": null,
+      "fontes": [
+        "Cruz Terra Santa, \"História de Nossa Senhora do Bom Parto\" (origin in the Black Virgin of Paris / Saint-Étienne-des-Grès; congregations and devout saints; spread in Brazil)",
+        "A12 / National Shrine of Aparecida, \"Rezando com Maria: Nossa Senhora do Bom Parto\" (devotion spread since the 11th century in France, Spain and Portugal)",
+        "Wikipedia (pt), \"Igreja de Nossa Senhora do Parto\" (origin of the church in Rio de Janeiro, 1649, and the Recolhimento do Parto)",
+        "Wikimedia Commons, \"File:Igreja Nossa Senhora do Bom Parto, Florianópolis, Brasil.JPG\" (documentation of the church)"
+      ],
+      "atualizado_em": null,
+      "tipo": "titulo",
+      "ano": null,
+      "local": null
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-rainha-da-paz",
+      "slug": "nossa-senhora-rainha-da-paz",
+      "titulo": "Our Lady Queen of Peace",
+      "categoria": "nossa-senhora",
+      "resumo": "A liturgical title that celebrates Mary's intercession for peace among peoples, with established use especially in the twentieth century.",
+      "corpo": "Although invocations of Mary as \"Queen of Peace\" appear sporadically throughout Christian history, the title gained more consistent liturgical and devotional use in the twentieth century, a period marked by two world wars, and many of the faithful also associate it with accounts of contemporary Marian apparitions that have not been officially recognized by the Church in all their details. This collection records here only the liturgical title of devotion to peace, without taking a position on specific apparition accounts that have not yet been definitively judged by ecclesiastical authority.",
+      "tags": [
+        "Marian title",
+        "peace",
+        "20th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Diego_Vel%C3%A1zquez_-_Coronation_of_the_Virgin_-_Prado.jpg",
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ano": null,
+      "local": null,
+      "fontes": []
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-de-loreto",
+      "slug": "nossa-senhora-de-loreto",
+      "titulo": "Our Lady of Loreto",
+      "categoria": "nossa-senhora",
+      "resumo": "A title linked to the Italian shrine that, according to an ancient tradition, received the house of Nazareth miraculously transported there; patroness of aviation.",
+      "corpo": "The Shrine of Loreto, in Italy, preserves a small stone house that tradition, since the Middle Ages, identifies as the very house of Nazareth where the Holy Family lived, transported, according to the popular account, by angelic intervention. Modern historians dispute this tradition, some proposing that the stones were brought by crusaders or pilgrims by human means — a debate that the Church leaves open, without requiring belief in the miraculous transport as an article of faith. Our Lady of Loreto has been, since 1920, the patroness of aviators.",
+      "tags": [
+        "Marian title",
+        "Italy",
+        "shrine"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Accademia_-_Trasporto_della_Santa_Casa_di_Loreto_by_Giambattista_Tiepolo.jpg",
+      "imagem_credito": "Photo: Didier Descouens — Wikimedia Commons, CC BY-SA 4.0",
+      "tipo": "titulo",
+      "ano": null,
+      "local": "Loreto, Italy",
+      "fontes": []
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-de-laus",
+      "slug": "nossa-senhora-de-laus",
+      "titulo": "Our Lady of Laus (Refuge of Sinners)",
+      "categoria": "nossa-senhora",
+      "resumo": "Marian apparitions that took place between 1664 and 1718 in Saint-Étienne-le-Laus, France, officially recognized by the Church in 2008 — the most recent approved by the Holy See up to that date.",
+      "corpo": "Between 1664 and 1718, the young shepherdess Benoîte Rencurel claimed to receive, in the village of Saint-Étienne-le-Laus, in the French Hautes-Alpes, successive apparitions of the Virgin Mary, who presented herself as \"Refuge of Sinners\" and asked for a church to be built at the site to welcome sinners seeking reconciliation. The messages insisted above all on God's mercy and the value of confession.\n\nAfter a long process of historical and theological investigation, Bishop Jean-Michel di Falco Léandri of Gap announced on May 4, 2008, during a celebration at the shrine and in the presence of several bishops and cardinals, the official recognition of the supernatural character of the apparitions. Up to that date, it was the most recent Marian apparition to receive full ecclesiastical approval.\n\nThe Shrine of Our Lady of Laus continues to be a place of pilgrimage, with an emphasis on the pastoral care of reconciliation and confession, in continuity with the request attributed to Benoîte Rencurel herself.",
+      "tags": [
+        "Marian apparition",
+        "France",
+        "17th century",
+        "reconciliation"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Diocese of Gap and Embrun, decree recognizing the apparitions of Notre-Dame du Laus (May 4, 2008)",
+        "Canção Nova Notícias, \"Igreja reconhece aparição de Nossa Senhora de Laus\""
+      ],
+      "tipo": "aparicao",
+      "ano": "1664-1718 (recognition in 2008)",
+      "local": "Saint-Étienne-le-Laus, Hautes-Alpes (France)"
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-de-kibeho",
+      "slug": "nossa-senhora-de-kibeho",
+      "titulo": "Our Lady of Kibeho",
+      "categoria": "nossa-senhora",
+      "resumo": "Marian apparitions to three young female students in Kibeho, Rwanda, between 1981 and 1989, recognized in 2001 — the first Marian apparition approved by the Church on the African continent.",
+      "corpo": "Beginning on November 28, 1981, three students of the Kibeho school — Alphonsine Mumureke, Anathalie Mukamazimpaka, and Marie-Claire Mukangango — claimed to receive apparitions of the Virgin Mary, who identified herself as \"Mother of the Word\" and, in later messages, warned of wars and bloodshed if the peoples did not convert — warnings that many later associated with the 1994 genocide in Rwanda.\n\nAfter medical, psychological, and theological investigation conducted over two decades, Bishop Augustin Misago of Gikongoro declared on June 29, 2001 that there were \"more reasons to believe than to deny\" the authenticity of the apparitions, officially recognizing them as conforming to the criteria established by the Church for private revelations.\n\nKibeho thus became the first site of a Marian apparition on the African continent with full ecclesiastical recognition, and it remains an important center of pilgrimage and of prayer for peace in the Great Lakes region.",
+      "tags": [
+        "Marian apparition",
+        "Africa",
+        "Rwanda",
+        "20th century"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Diocese of Gikongoro, declaration of recognition by Bishop Augustin Misago (June 29, 2001)",
+        "Vatican Radio, coverage of the official recognition (2001)"
+      ],
+      "tipo": "aparicao",
+      "ano": "1981-1989 (recognition in 2001)",
+      "local": "Kibeho, Rwanda"
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-de-siluva",
+      "slug": "nossa-senhora-de-siluva",
+      "titulo": "Our Lady of Šiluva",
+      "categoria": "nossa-senhora",
+      "resumo": "Apparition of 1608 in Lithuania, one of the oldest in Europe approved by the Holy See, confirmed by a decree of Pope Pius VI in 1775.",
+      "corpo": "Around 1608, in Šiluva, Lithuania, a group of shepherd children claimed to have seen, upon a stone, at the site where a Catholic church had once stood before being destroyed during the religious conflicts of the Reformation, a Lady dressed in white weeping, with the Child Jesus in her arms. According to the account, she wept because her Son had once been worshiped there and the worship had been abandoned.\n\nThe apparition took place during a period of heavy loss of Catholic faithful in the region to Calvinism, and it is associated with the beginning of the recovery of the Catholic faith in Lithuania. The stone at the site was preserved and became a center of pilgrimage.\n\nOn August 17, 1775, Pope Pius VI, by decree, solemnly authorized the cult and recognized the authenticity of the tradition of Šiluva. In 1988, John Paul II raised the shrine to the dignity of a minor basilica. It is considered one of the oldest Marian apparitions with formal recognition by the Holy See.",
+      "tags": [
+        "Marian apparition",
+        "Lithuania",
+        "17th century",
+        "Reformation"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Decree of Pope Pius VI on the authenticity of Our Lady of Šiluva (August 17, 1775)",
+        "Canção Nova Notícias, \"History of the devotion to Our Lady of Šiluva\""
+      ],
+      "tipo": "aparicao",
+      "ano": "1608 (papal decree in 1775)",
+      "local": "Šiluva, Lithuania"
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-de-cuapa",
+      "slug": "nossa-senhora-de-cuapa",
+      "titulo": "Our Lady of Cuapa",
+      "categoria": "nossa-senhora",
+      "resumo": "Apparitions to Bernardo Martínez in 1980, in Nicaragua, during a time of civil war, with ecclesiastical approval from the local bishops beginning in 1982.",
+      "corpo": "In 1980, in the village of Cuapa, in the department of Chontales, Nicaragua, the catechist Bernardo Martínez claimed to have received, beginning on April 15 of that year, a series of apparitions of the Virgin Mary, who identified herself as the \"Queen of Peace\" and asked for prayer for conversion, the recovery of the family Rosary, and peace for the country, then plunged into civil war.\n\nThe messages of Cuapa insist on the simplicity of Christian life, on praying the Rosary, and on reconciliation among Nicaraguans in conflict. The case was followed closely by the local hierarchy from the beginning.\n\nIn 1982, the auxiliary bishop of Managua, Bishop César Bosco Vivas Robelo, and the bishop of Juigalpa, Bishop Pablo Antonio Vega, authorized the publication of the account of the apparitions, beginning the ecclesiastical recognition of the case, which today also counts on the support of the French Mariologist René Laurentin. Cuapa has become an important Marian pilgrimage shrine in Central America.",
+      "tags": [
+        "Marian apparition",
+        "Central America",
+        "Nicaragua",
+        "20th century"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Episcopal authorizations of Bishop César Bosco Vivas Robelo and Bishop Pablo Antonio Vega (1982)",
+        "Wikipedia, \"Nossa Senhora de Cuapa\""
+      ],
+      "tipo": "aparicao",
+      "ano": "1980 (approval from 1982)",
+      "local": "Cuapa, Chontales (Nicaragua)"
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-de-san-nicolas",
+      "slug": "nossa-senhora-de-san-nicolas",
+      "titulo": "Our Lady of the Rosary of San Nicolás",
+      "categoria": "nossa-senhora",
+      "resumo": "Apparitions to Gladys Quiroga de Motta between 1983 and 1990, in San Nicolás de los Arroyos, Argentina, officially recognized by the diocesan bishop in 2016.",
+      "corpo": "Beginning on September 25, 1983, Gladys Quiroga de Motta, a resident of San Nicolás de los Arroyos, in the province of Buenos Aires, Argentina, reported the first of a long series of Marian apparitions, which continued until 1990. In the messages, Mary presented herself in connection with the title of the Rosary and insisted on prayer, penance, and conversion.\n\nThe case was followed by decades of diocesan investigation, including theological and medical examinations of the visionary. On May 22, 2016, Bishop Héctor Cardelli of San Nicolás declared that he recognized \"the supernatural character of the events that took place in San Nicolás concerning the apparitions of the Most Holy Virgin Mary\" to Gladys Quiroga de Motta.\n\nThe shrine of San Nicolás, built on the site, became one of the main destinations for Marian pilgrimage in Argentina, receiving millions of visitors over the years.",
+      "tags": [
+        "Marian apparition",
+        "Argentina",
+        "rosary",
+        "20th century"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Diocese of San Nicolás, declaration of Bishop Héctor Cardelli on the supernatural character of the apparitions (May 22, 2016)",
+        "ACI Digital, \"The Church officially recognizes the apparitions of Our Lady in San Nicolás, Argentina\""
+      ],
+      "tipo": "aparicao",
+      "ano": "1983-1990 (recognition in 2016)",
+      "local": "San Nicolás de los Arroyos (Argentina)"
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-de-betania",
+      "slug": "nossa-senhora-de-betania",
+      "titulo": "Our Lady Reconciler of Peoples (Betania)",
+      "categoria": "nossa-senhora",
+      "resumo": "Apparitions to María Esperanza de Bianchini at Finca Betania, Venezuela, between 1976 and 1989, recognized by the local bishop in 1987.",
+      "corpo": "At Finca Betania, near the city of Cúa, Venezuela, the mystic María Esperanza de Bianchini reported successive apparitions of the Virgin Mary between 1976 and 1989, witnessed on several occasions by dozens of other people present at the site. In the messages, Mary presented herself as \"Reconciler of Peoples and Nations,\" calling for family and social reconciliation and for conversion of heart.\n\nBishop Pío Bello Ricardo of the Diocese of Los Teques, to which Betania belongs, conducted an investigation and, on November 21, 1987, declared the supernatural character of the events, authorizing public worship and the construction of a chapel dedicated to Mary Reconciler at the site.\n\nIn 2009, the Venezuelan Episcopal Conference granted the shrine the title of diocesan shrine. Betania remains an important center of Marian pilgrimage in Venezuela and one of the few apparition sites recognized by the Church in the Americas.",
+      "tags": [
+        "Marian apparition",
+        "Venezuela",
+        "reconciliation",
+        "20th century"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Diocese of Los Teques, declaration of Bishop Pío Bello Ricardo on Finca Betania (November 21, 1987)",
+        "The Eastern Church, \"Our Lady of Reconciliation at Finca Betania\""
+      ],
+      "tipo": "aparicao",
+      "ano": "1976-1989 (recognition in 1987)",
+      "local": "Betania, Cúa (Venezuela)"
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-auxiliadora",
+      "slug": "nossa-senhora-auxiliadora",
+      "titulo": "Our Lady Help of Christians",
+      "categoria": "nossa-senhora",
+      "resumo": "Title of \"Help of Christians,\" linked to the victory of Lepanto (1571) and to the liberation of Pope Pius VII from Napoleonic captivity, made famous by the devotion of Saint John Bosco.",
+      "corpo": "The invocation of Mary as \"Help of Christians\" (Auxilium Christianorum) dates back to the sixteenth century, when Pope Saint Pius V included it in the Litany of Loreto in thanksgiving for the naval victory of Lepanto (1571), attributed to Marian intercession. The title regained prominence in the early nineteenth century: imprisoned by Napoleon Bonaparte and taken into exile in Savona and then Fontainebleau, Pope Pius VII insistently invoked Our Lady under this title and, when he was freed and returned to Rome in 1814, he instituted the feast of Mary Help of Christians in thanksgiving, set for May 24.\n\nThe title was definitively popularized by Saint John Bosco (1815-1888), founder of the Salesian Congregation, who attributed to the intercession of Mary Help of Christians the protection of his educational work among the poor youth of Turin and who built in her honor the Basilica of Mary Help of Christians in that Italian city.\n\nToday Our Lady Help of Christians is patroness of various dioceses and nations — among them significant parts of Brazil — and her feast, on May 24, is widely celebrated in Salesian parishes and schools around the world.",
+      "tags": [
+        "Marian title",
+        "Don Bosco",
+        "Salesians",
+        "Lepanto"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Vatican News, \"Our Lady Help of Christians\"",
+        "Salesianos.br, \"Learn the history of the devotion to Our Lady Help of Christians\""
+      ],
+      "tipo": "titulo",
+      "ano": "1814-1815 (instituição da festa)",
+      "local": "Rome; Turin (Italy)"
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-desatadora-dos-nos",
+      "slug": "nossa-senhora-desatadora-dos-nos",
+      "titulo": "Our Lady, Untier of Knots",
+      "categoria": "nossa-senhora",
+      "resumo": "A devotional title originating from a Baroque painting from Augsburg (c. 1700), which depicts Mary untying the knots of a ribbon — a symbol of human difficulties — popularized in the Spanish- and Portuguese-speaking world by Pope Francis.",
+      "corpo": "The devotion originates in a family tradition of the Augsburg nobility, in Bavaria, linked to Wolfgang Langenmantel and his wife Sophia, from the early seventeenth century, and took artistic form around 1700, when the painter Johann Georg Melchior Schmidtner produced, for the church of St. Peter am Perlach in that German city, the painting that depicts Our Lady patiently untying the knots of a long ribbon held by angels — the knots symbolizing the problems, sins and difficulties that bind human life.\n\nThe devotion remained confined to Germany for centuries, until it became known, at the end of the twentieth century, by the then Father Jorge Mario Bergoglio, future Pope Francis, during a trip to Augsburg. Back in Argentina, he brought a reproduction of the painting and contributed decisively to spreading the devotion in Latin America and then throughout the Spanish- and Portuguese-speaking Catholic world.\n\nThe novena to Our Lady, Untier of Knots, widely practiced today in Brazilian parishes, has its popular liturgical memorial fixed on September 28.",
+      "tags": [
+        "Marian title",
+        "Germany",
+        "Pope Francis",
+        "novena"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Wikipedia, \"Mary, Untier of Knots\"",
+        "Devotos.ia.br, \"Our Lady Undoer of Knots\""
+      ],
+      "tipo": "titulo",
+      "ano": "c. 1700",
+      "local": "Augsburg (Germany)"
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-do-rosario",
+      "slug": "nossa-senhora-do-rosario",
+      "titulo": "Our Lady of the Rosary",
+      "categoria": "nossa-senhora",
+      "resumo": "Title established by Pope Saint Pius V after the naval victory of Lepanto (1571), attributed to Mary's intercession obtained through the praying of the Rosary; feast celebrated on October 7.",
+      "corpo": "On October 7, 1571, the fleet of the Holy League — a coalition of European Christian forces — faced and defeated the Ottoman fleet at the Battle of Lepanto, one of the most decisive naval confrontations in European history. Before the battle, Pope Saint Pius V, a Dominican by formation, had called all of Christendom to pray the Rosary, asking for Our Lady's intercession for victory.\n\nUpon learning of the outcome, Pius V attributed the victory to Marian intercession obtained through the prayer of the Rosary and instituted, for that same day, the feast of Our Lady of Victory, later renamed by his successor Gregory XIII as the feast of Our Lady of the Rosary, fixed on October 7.\n\nThe title and the devotion to the Rosary — meditation on the mysteries of the life of Christ through decades of Hail Marys — have since become one of the most widespread forms of Marian piety throughout the Catholic world, reaffirmed by successive popes, among them John Paul II, who in 2002 added the luminous mysteries to the traditional devotion.",
+      "tags": [
+        "Marian title",
+        "Rosary",
+        "Lepanto",
+        "Pius V"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Virgen_del_Rosario%2C_de_Domingo_Mart%C3%ADnez_%28Museo_de_Bellas_Artes_de_Sevilla%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Gaudium Press, \"The History of Our Lady of the Rosary\"",
+        "Father Paulo Ricardo, \"The Battle of Lepanto and the Holy Rosary\""
+      ],
+      "tipo": "titulo",
+      "ano": "1571",
+      "local": null
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-de-czestochowa",
+      "slug": "nossa-senhora-de-czestochowa",
+      "titulo": "Our Lady of Częstochowa",
+      "categoria": "nossa-senhora",
+      "resumo": "Icon venerated at the Shrine of Jasna Góra in Poland, canonically crowned in 1717 by Pope Clement XI; patroness of the country.",
+      "corpo": "The icon of Our Lady of Częstochowa, of the Byzantine Hodegetria type — in which Mary points with her hand to the Child Jesus as the source of salvation —, has been venerated since the 14th century at the Monastery of Jasna Góra (\"Bright Mountain\"), in the Polish city of Częstochowa, under the care of the Pauline monks. The image, whose face is marked by scars attributed to a historical desecration, is popularly called the \"Black Madonna\".\n\nIn 1655, during the Swedish invasion of Poland, the successful defense of the monastery was attributed to the protection of Our Lady, leading King John II Casimir to solemnly consecrate the country to the Virgin, proclaiming her Queen and Patroness of Poland. On September 8, 1717, Pope Clement XI granted the icon a canonical coronation, a liturgical recognition reserved for images of proven devotion.\n\nOver the centuries, Częstochowa has established itself as Poland's principal Marian shrine and national pilgrimage site, visited by popes such as John Paul II — himself a Pole — and by millions of the faithful every year.",
+      "tags": [
+        "Marian title",
+        "Poland",
+        "icon",
+        "patroness"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Wikipedia, \"Our Lady of Częstochowa\"",
+        "Gaudium Press, \"Our Lady of Częstochowa: Patroness of Poland\""
+      ],
+      "tipo": "titulo",
+      "ano": "1717 (canonical coronation)",
+      "local": "Częstochowa (Poland)"
+    },
+    {
+      "id": "nossa-senhora:nossa-senhora-de-walsingham",
+      "slug": "nossa-senhora-de-walsingham",
+      "titulo": "Our Lady of Walsingham",
+      "categoria": "nossa-senhora",
+      "resumo": "English title and shrine linked to the medieval tradition of a vision granted to Richeldis de Faverches in 1061; the devotion was restored and the image blessed for public veneration by Pope Leo XIII in 1897.",
+      "corpo": "According to an ancient English tradition, in 1061 the noblewoman Richeldis de Faverches, in the village of Walsingham, in the county of Norfolk, received in a vision the request of Our Lady to build a replica of the \"Holy House\" of Nazareth, where the Annunciation had taken place. Once the building was erected, Walsingham became one of the greatest centers of Marian pilgrimage in medieval Europe, until it was destroyed in 1538 during the dissolution of the monasteries under Henry VIII.\n\nThe devotion remained practically extinct for more than three centuries, until it was revived at the end of the nineteenth century: in 1897, Pope Leo XIII issued a decree blessing a new image of Our Lady of Walsingham for public veneration, authorizing the official resumption of Catholic pilgrimages to the site. In 1934, the rebuilt shrine was recognized as the National Catholic Shrine of Our Lady in England.\n\nWalsingham is today a place of pilgrimage for both Catholics and Anglicans, who maintain their own shrine there, and it is one of the few places of Marian devotion with medieval roots officially recognized by the Church after the English Reformation.",
+      "tags": [
+        "Marian title",
+        "England",
+        "Middle Ages",
+        "Leo XIII"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Decree of Pope Leo XIII on the image of Our Lady of Walsingham (February 6, 1897)",
+        "Wikipedia, \"Our Lady of Walsingham\""
+      ],
+      "tipo": "titulo",
+      "ano": "1061 (tradition); 1897 (restoration approved)",
+      "local": "Walsingham, Norfolk (England)"
+    }
+  ]
+}

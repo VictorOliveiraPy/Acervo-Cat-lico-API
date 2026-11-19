@@ -1,0 +1,1964 @@
+{
+  "_meta": {
+    "categoria": "biblia",
+    "nome": "Biblia",
+    "descricao": "Los 73 libros del canon bíblico católico, uno por uno: autor tradicional, época de composición, género literario y resumen del contenido.",
+    "status": "exemplos-iniciais",
+    "aviso": "Resumen introductorio de cada libro; no sustituye la lectura del texto bíblico completo ni un curso de introducción a las Escrituras. Las fechas de composición de los libros antiguos son aproximadas y discutidas entre los exegetas: reflejan la datación más aceptada, no una certeza documental.",
+    "revisao_editorial": "Los siete libros deuterocanónicos (Tobías, Judit, Sabiduría, Eclesiástico, Baruc, 1 y 2 Macabeos), aceptados en el canon católico y ortodoxo, pero no en el canon hebreo ni en las Biblias protestantes, están señalados en el campo 'deuterocanonico' y en la etiqueta correspondiente. Ester y Daniel tienen, en las ediciones católicas, secciones deuterocanónicas adicionales que no se tratan por separado aquí.",
+    "fontes_gerais": [
+      "Concilio de Trento, Decreto sobre los libros canónicos (1546)",
+      "Concilio Vaticano II, Constitución «Dei Verbum» (1965)",
+      "Catecismo de la Iglesia Católica, nn. 101-141"
+    ]
+  },
+  "itens": [
+    {
+      "id": "biblia:genesis",
+      "slug": "genesis",
+      "titulo": "Génesis",
+      "categoria": "biblia",
+      "resumo": "El libro de los orígenes: la creación del mundo, la caída, el diluvio y las historias de los patriarcas Abrahán, Isaac, Jacob y José.",
+      "corpo": "Primer libro de la Biblia y de la Torá, el Génesis narra los orígenes del mundo y de la humanidad (capítulos 1-11: creación, caída, diluvio, Torre de Babel) y después la historia de los patriarcas de Israel — Abrahán, llamado a dejar su tierra y a recibir la promesa; Isaac; Jacob, renombrado Israel; y José, vendido por sus hermanos y después salvador de su familia en Egipto. Establece temas centrales de toda la Escritura: la alianza, la promesa y la fe.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Genesis_1_Dead_Sea_Scroll_%28Cropped%29.jpg",
+      "imagem_credito": null,
+      "ordem": 1,
+      "testamento": "antigo",
+      "genero_literario": "Narrativa/ley",
+      "autor_tradicional": "Tradición mosaica (composición a partir de varias fuentes)",
+      "data_composicao": "siglos X-VI a. C. (forma final)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:exodo",
+      "slug": "exodo",
+      "titulo": "Éxodo",
+      "categoria": "biblia",
+      "resumo": "La liberación de Israel de la esclavitud en Egipto, el paso del Mar Rojo y la alianza en el Sinaí, con los Diez Mandamientos.",
+      "corpo": "Éxodo narra la liberación del pueblo de Israel de la esclavitud en Egipto bajo el liderazgo de Moisés, marcada por las diez plagas y por la Pascua judía, el milagroso paso del Mar Rojo y la peregrinación por el desierto hasta el monte Sinaí, donde Dios establece la Alianza con Israel y entrega los Diez Mandamientos y las demás leyes que organizarán la vida del pueblo elegido.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/David_Roberts-IsraelitesLeavingEgypt_1828.jpg",
+      "imagem_credito": null,
+      "ordem": 2,
+      "testamento": "antigo",
+      "genero_literario": "Narrativa/ley",
+      "autor_tradicional": "Tradición mosaica",
+      "data_composicao": "siglos X-VI a. C. (forma final)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:levitico",
+      "slug": "levitico",
+      "titulo": "Levítico",
+      "categoria": "biblia",
+      "resumo": "Código de leyes rituales y morales dado a Israel en el Sinaí, centrado en el culto, la pureza y la santidad.",
+      "corpo": "Levítico reúne prescripciones legales y rituales para el culto israelita —sacrificios, consagración de los sacerdotes, leyes de pureza ritual y el calendario de las fiestas—, organizadas en torno al principio central: \"Seréis santos, porque yo, el Señor, vuestro Dios, soy santo\" (Lv 19,2). Incluye el capítulo 16, sobre el Día de la Expiación (Yom Kipur), y el \"Código de Santidad\" (Lv 17-26).",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 3,
+      "testamento": "antigo",
+      "genero_literario": "Ley",
+      "autor_tradicional": "Tradición sacerdotal",
+      "data_composicao": "siglos VI-V a. C. (forma final)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:numeros",
+      "slug": "numeros",
+      "titulo": "Números",
+      "categoria": "biblia",
+      "resumo": "Los cuarenta años de peregrinación de Israel por el desierto entre el Sinaí y la Tierra Prometida, intercalados de censos y leyes.",
+      "corpo": "Recibe su nombre de los dos censos del pueblo (recuentos) narrados en el libro. Abarca la larga peregrinación de Israel por el desierto —marcada por murmuraciones, rebeliones y el castigo de una generación que no entraría en la Tierra Prometida—, intercalada de leyes adicionales y de episodios como el del profeta pagano Balaán, que bendice a Israel contra su propia voluntad.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Inverted_nun_in_Leningrad_Codex1.jpg",
+      "imagem_credito": null,
+      "ordem": 4,
+      "testamento": "antigo",
+      "genero_literario": "Narrativa/ley",
+      "autor_tradicional": "Tradición mosaica",
+      "data_composicao": "siglos VI-V a. C. (forma final)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:deuteronomio",
+      "slug": "deuteronomio",
+      "titulo": "Deuteronomio",
+      "categoria": "biblia",
+      "resumo": "Últimos discursos de Moisés a Israel antes de la entrada en la Tierra Prometida, en los que renueva la Alianza y la Ley del Sinaí.",
+      "corpo": "Estructurado como una serie de discursos de despedida de Moisés a orillas del Jordán, el Deuteronomio (\"segunda ley\", en griego) relee y renueva la Alianza y la Ley dadas en el Sinaí, insistiendo en el amor exclusivo a Dios; contiene el \"Shemá\", oración central del judaísmo (\"Escucha, Israel...\", Dt 6,4-5), citada por Jesús como el mayor mandamiento.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 5,
+      "testamento": "antigo",
+      "genero_literario": "Ley/discurso",
+      "autor_tradicional": "Tradición deuteronomista",
+      "data_composicao": "siglo VII a. C. (núcleo)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:josue",
+      "slug": "josue",
+      "titulo": "Josué",
+      "resumo": "El libro de la conquista y reparto de la Tierra Prometida bajo Josué, sucesor de Moisés, y de la renovación de la Alianza en Siquén.",
+      "corpo": "El Libro de Josué es el primer título de la llamada «historia deuteronomista» (Josué, Jueces, 1–2 Samuel y 1–2 Reyes), el gran conjunto que narra la historia de Israel desde la entrada en Canaán hasta el exilio en Babilonia. El texto está enmarcado por dos discursos: al principio, Dios ordena la conquista de la tierra y exhorta a Josué a observar fielmente la Ley revelada a Moisés (Jos 1); al final, Josué advierte al pueblo que permanezca fiel a la Alianza (Jos 23–24). La obra narra el paso del Jordán (Jos 3–4), la caída de Jericó (Jos 6), la campaña del sur con el episodio solar de Gabaón (Jos 10), el reparto del territorio entre las doce tribus (Jos 13–21) y, en el clímax, la asamblea de Siquén, donde Josué convoca al pueblo a la decisión: «Elegid hoy a quién queréis servir» (Jos 24,15).\n\nLa tradición rabínica atribuía el libro al propio Josué, pero esa posición fue rechazada ya por Juan Calvino y, después, por Thomas Hobbes. Actualmente casi todos los estudiosos ven la obra como el producto de múltiples autores y editores, muy distantes en el tiempo de los acontecimientos descritos. En 1943, el biblista alemán Martin Noth propuso que la historia deuteronomista habría sido compuesta por un único autor (o editor) en el período del exilio; hoy se reconoce un proceso más complejo. Las partes más antiguas suelen situarse en los capítulos 2 a 11 (la tradición de la conquista), incorporadas a una primera redacción en el reinado de Josías (r. 640–609 a. C.) y completadas después de la caída de Jerusalén en 586 a. C., posiblemente solo tras el regreso del exilio en 539 a. C. La intención teológica central de los redactores era afirmar al Señor como el único y poderoso Dios de Israel, que combate por su pueblo y exige fidelidad exclusiva a la Alianza.\n\nSi la lectura creyente recibe el libro como Palabra de Dios, el examen histórico y arqueológico de sus relatos sigue siendo objeto de intenso debate. La mayoría de los estudiosos considera que la narración de la conquista tiene poco valor para la reconstrucción de los orígenes de Israel y refleja, en buena parte, circunstancias muy posteriores. El caso de Jericó es el más discutido: las excavaciones realizadas por John Garstang en los años 1930 y, más tarde, por Kathleen Kenyon mostraron que la ciudad antigua ya estaba destruida y deshabitada en el período en que la cronología bíblica suele situar la conquista, lo que debilita la hipótesis de una toma militar directa. No faltan, sin embargo, autores que proponen cronologías alternativas (por ejemplo, una destrucción hacia el 1400 a. C.) para rehabilitar la historicidad del relato, de modo que la cuestión sigue abierta.\n\nEntre los episodios más destacados está el de la batalla de Gabaón (Jos 10). Los gabaonitas habían obtenido de Josué, por astucia, un tratado de paz; atacados por cinco reyes amorreos, piden socorro a Israel, que marcha de noche desde Guilgal. El texto relata que Josué ordenó al sol que se detuviera sobre Gabaón y a la luna sobre el valle de Ayalón (Jos 10,12-13), cita que el propio libro atribuye al «Libro del Justo» (Sefer ha-Yashar), una colección poética israelita hoy perdida y mencionada también en 2 Samuel 1,18. La asamblea de Siquén, por su parte, tiene lugar en un sitio de gran peso simbólico: entre el monte Ebal y el monte Garizín, lugar donde Abrahán había recibido la promesa de la tierra (Gn 12,6-7) y donde Jacob había erigido un altar (Gn 33,18-20). En ese mismo contexto se sitúa la orden de erigir un altar de piedras sin labrar en el monte Ebal (Jos 8,30-32), en cumplimiento de Deuteronomio 27. La arqueología moderna asoció a este pasaje el altar descubierto por Adam Zertal en el monte Ebal, aunque la identificación sigue siendo discutida.",
+      "categoria": "biblia",
+      "tags": [
+        "Josué",
+        "Antiguo Testamento",
+        "Tierra Prometida",
+        "conquista de Canaán",
+        "historia deuteronomista",
+        "Siquén",
+        "Jericó",
+        "Gabaón",
+        "Martin Noth",
+        "libros históricos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Joshua_Commanding_the_Sun_to_Stand_Still_upon_Gibeon_%281816%29_John_Martin_-_NGA_2004.64.1.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Biblia de Jerusalén, Libro de Josué (introducción y notas)",
+        "Catecismo de la Iglesia Católica, nn. 101-108 (inspiración y verdad de la Sagrada Escritura)",
+        "Concilio Vaticano II, Constitución dogmática Dei Verbum, nn. 11-15",
+        "Martin Noth, Überlieferungsgeschichtliche Studien (1943), sobre la historia deuteronomista"
+      ],
+      "atualizado_em": null,
+      "ordem": 6,
+      "testamento": "antigo",
+      "genero_literario": "Narrativa histórica",
+      "autor_tradicional": "Tradición deuteronomista",
+      "data_composicao": "siglo VII-VI a. C. (forma final)",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:juizes",
+      "slug": "juizes",
+      "titulo": "Jueces",
+      "categoria": "biblia",
+      "resumo": "Ciclos de infidelidad, opresión y liberación de Israel por medio de los \"jueces\", líderes carismáticos como Débora, Gedeón y Sansón.",
+      "corpo": "Abarca el período entre la conquista de Canaán y la monarquía, narrado como una serie de ciclos repetidos: Israel se aparta de Dios, es oprimido por pueblos vecinos, clama pidiendo auxilio y Dios suscita un \"juez\" —líder militar y carismático, no un magistrado en el sentido moderno— para liberarlo. Entre los jueces más conocidos están Débora, Gedeón y Sansón.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Samson_meurt_en_faisant_mourir_ses_ennemis_%285753424%29.jpg",
+      "imagem_credito": null,
+      "ordem": 7,
+      "testamento": "antigo",
+      "genero_literario": "Narrativa histórica",
+      "autor_tradicional": "Tradición deuteronomista",
+      "data_composicao": "siglo VII-VI a.C. (forma final)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:rute",
+      "slug": "rute",
+      "titulo": "Rut",
+      "categoria": "biblia",
+      "resumo": "La fidelidad de Rut, la moabita, a su suegra israelita Noemí; se convierte en bisabuela del rey David.",
+      "corpo": "Pequeña novela ambientada en el tiempo de los Jueces, narra la lealtad de Rut, viuda moabita, que sigue a su suegra israelita Noemí de vuelta a Belén y allí se casa con Booz, convirtiéndose en bisabuela del rey David — y, en la genealogía de Mateo, antepasada de Jesús. Es uno de los dos únicos libros bíblicos que llevan nombre de mujer.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 8,
+      "testamento": "antigo",
+      "genero_literario": "Narrativa",
+      "autor_tradicional": "Anónimo",
+      "data_composicao": "siglo V o X a. C. (datación incierta)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:1-samuel",
+      "slug": "1-samuel",
+      "titulo": "1 Samuel",
+      "resumo": "El profeta Samuel, la pérdida y el regreso del Arca, la institución de la monarquía en Israel y el ascenso de David frente a la caída de Saúl.",
+      "corpo": "En la Biblia hebrea, Samuel es un único libro; las traducciones modernas lo dividen en 1 y 2 Samuel, y en la Vulgata latina y en la Septuaginta griega los dos forman parte del conjunto de los \"Reinos\" (1–4 Reyes). El libro pertenece a la historia deuteronomista, la serie Josué, Jueces, Samuel y Reyes, que constituye una historia teológica de Israel bajo la guía de los profetas e interpreta los acontecimientos a la luz de la fidelidad a la Ley. En 1943, Martin Noth agrupó esta obra como un conjunto con unidad propia, tesis hoy ampliamente aceptada en sus líneas generales, aunque debatida en los detalles.\n\nLa narración puede leerse en bloques: primero la infancia y la vocación de Samuel, precedidas por la historia de su madre, Ana, que era estéril y lo consagró al Señor en Silo, donde servía el sacerdote Elí (1 Sam 1–3); a continuación, la narración del Arca de la Alianza, capturada por los filisteos en Ebenezer y en Afec, con la muerte de los hijos de Elí, Ofni y Pinjás, y el posterior regreso del Arca (1 Sam 4,1b–7,1); después, el ciclo de la institución de la monarquía, con la petición del pueblo de un rey, la unción y el rechazo de Saúl (1 Sam 8–15); y, por último, la historia del ascenso de David, desde la unción secreta por Samuel y el duelo con el filisteo Goliat hasta la persecución emprendida por Saúl, que culmina con la muerte de este (1 Sam 16–31). Buena parte de los estudiosos reconoce en estos bloques fuentes literarias preexistentes, reunidas y editadas posteriormente por la redacción deuteronomista. En 2 Samuel, el relato continúa con el reinado de David y la llamada \"historia de la sucesión\" (2 Sam 9–20 y 1 Re 1–2), considerada muchas veces una de las narraciones más antiguas y vivas de la Biblia.\n\nLa historicidad de los acontecimientos es objeto de debate. Hay consenso en que los libros de Samuel mezclan material histórico y legendario y contienen anacronismos incompatibles con una composición en el siglo XI a. C. La figura de David, sin embargo, obtuvo un respaldo extrabíblico decisivo: en 1993, un equipo dirigido por el arqueólogo israelí Avraham Biran descubrió en Tel Dan, en el norte de Israel, fragmentos de una estela en arameo antiguo que menciona la \"Casa de David\" (bytdwd), el testimonio externo a la Biblia más antiguo de la dinastía davídica, hoy fechado en el siglo IX a. C. y expuesto en el Museo de Israel. Una minoría de estudiosos cuestionó la lectura, pero la estela es generalmente aceptada como auténtica. En cambio, el relato del combate entre David y Goliat sigue sin confirmación arqueológica y es tratado ampliamente como una narración de finalidad teológica y literaria.\n\nEl libro contiene además episodios que moldearon la tradición posterior, como el cántico de Ana (1 Sam 2,1-10), cuyo tema del poder de Dios que enaltece a los humildes resuena en el Magníficat de María (Lc 1,46-55), y el enfrentamiento entre Samuel y Saúl, en el que el profeta declara que \"obedecer es mejor que sacrificar\" (1 Sam 15,22). La tensión entre el poder real y la autoridad profética, que recorre todo el libro y sitúa la monarquía israelita bajo el juicio de Dios, es una de las contribuciones teológicas más duraderas de la obra.",
+      "categoria": "biblia",
+      "tags": [
+        "1 Samuel",
+        "Antiguo Testamento",
+        "Samuel",
+        "David",
+        "Saúl",
+        "Arca de la Alianza",
+        "filisteos",
+        "historia deuteronomista",
+        "Goliat",
+        "Tel Dan",
+        "libros históricos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Hannah_and_Samuel_in_the_temple%2C_Rembrandt_or_his_studio%2C_c._1650%2C_Scottish_National_Gallery%2C_Edinburgh.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Biblia de Jerusalén, Primer Libro de Samuel (introducción y notas)",
+        "Catecismo de la Iglesia Católica, nn. 101-108 (inspiración y verdad de la Sagrada Escritura)",
+        "Concilio Vaticano II, Constitución dogmática Dei Verbum, nn. 11-15",
+        "Martin Noth, Überlieferungsgeschichtliche Studien (1943), sobre la historia deuteronomista",
+        "Inscripción de Tel Dan, siglo IX a. C., Museo de Israel (referencia extrabíblica a la 'Casa de David')"
+      ],
+      "atualizado_em": null,
+      "ordem": 9,
+      "testamento": "antigo",
+      "genero_literario": "Narración histórica",
+      "autor_tradicional": "Tradición deuteronomista",
+      "data_composicao": "siglos VII-VI a. C. (forma final)",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:2-samuel",
+      "slug": "2-samuel",
+      "titulo": "2 Samuel",
+      "categoria": "biblia",
+      "resumo": "El reinado de David como rey de Israel: sus victorias, la promesa de una dinastía eterna y sus pecados y caídas personales.",
+      "corpo": "Continúa la narración a partir de la muerte de Saúl, abarcando todo el reinado de David: la conquista de Jerusalén, la promesa profética de una dinastía davídica eterna (2 S 7, fundamento de la esperanza mesiánica), y también sus faltas graves —el adulterio con Betsabé y el asesinato de Urías— y las consecuencias familiares y políticas que se siguen.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 10,
+      "testamento": "antigo",
+      "genero_literario": "Narrativa histórica",
+      "autor_tradicional": "Tradición deuteronomista",
+      "data_composicao": "siglos VII-VI a. C. (forma final)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:1-reis",
+      "slug": "1-reis",
+      "titulo": "1 Reyes",
+      "categoria": "biblia",
+      "resumo": "El reinado de Salomón, la construcción del Templo de Jerusalén y la división del reino en Israel (norte) y Judá (sur).",
+      "corpo": "Narra la sucesión de David por Salomón, famoso por su sabiduría, la construcción del primer Templo de Jerusalén, y después el cisma que dividió el reino unido en Reino de Israel (norte) y Reino de Judá (sur) tras la muerte de Salomón, siguiendo los primeros reinados de ambos reinos y el ministerio del profeta Elías.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 11,
+      "testamento": "antigo",
+      "genero_literario": "Narrativa histórica",
+      "autor_tradicional": "Tradición deuteronomista",
+      "data_composicao": "siglos VII-VI a.C. (forma final)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:2-reis",
+      "slug": "2-reis",
+      "titulo": "2 Reyes",
+      "categoria": "biblia",
+      "resumo": "La historia de los reinos de Israel y Judá hasta sus respectivas caídas: la de Israel ante Asiria, la de Judá ante Babilonia.",
+      "corpo": "Continúa la historia de los dos reinos hebreos divididos, incluido el ministerio del profeta Eliseo, hasta la caída del Reino de Israel (norte) ante Asiria en el 722 a.C. y, más tarde, la caída de Jerusalén y del Reino de Judá ante Babilonia en el 587 a.C., con la destrucción del Templo y el comienzo del exilio babilónico.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 12,
+      "testamento": "antigo",
+      "genero_literario": "Narrativa histórica",
+      "autor_tradicional": "Tradición deuteronomista",
+      "data_composicao": "siglos VII-VI a.C. (forma final)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:1-cronicas",
+      "slug": "1-cronicas",
+      "titulo": "1 Crónicas",
+      "resumo": "Genealogías desde Adán hasta el postexilio y una relectura litúrgica del reinado de David, centrada en el Templo y en el culto — obra del Cronista escrita en la era persa, final del Antiguo Testamento hebreo.",
+      "corpo": "1 Crónicas forma, junto con 2 Crónicas, una única obra hebrea titulada דִּבְרֵי הַיָּמִים (dibre hayyamim, \"palabras/hechos de los días\"), dividida en dos libros por los traductores de la Septuaginta, que la llamaron Paralipómenos (\"cosas omitidas\"), por juzgar que reunía lo que faltaba en los libros de Samuel y Reyes. Jerónimo, al verter la obra al latín, prefirió el título \"Chronicon\" — la \"crónica de toda la historia sagrada\" —, y de ahí viene el nombre usado en las Biblias cristianas. En la Biblia hebrea, Crónicas es el libro que cierra el canon, concluyendo la tercera sección, los Ketuvim (\"Escritos\"). El primer libro abarca 29 capítulos, divididos entre una vasta sección genealógica (capítulos 1 a 9) y el relato del reinado de David (capítulos 10 a 29).\n\nLa primera parte recorre, en más de seiscientos nombres, una genealogía que va de Adán, pasa por las naciones y los patriarcas y llega a las doce tribus, deteniéndose con particular atención en Judá (linaje davídico) y en Leví (sacerdotes y levitas). Esta genealogía no es una mera enumeración: para la comunidad que había vuelto del exilio babilónico, reconstituía la identidad y comprobaba la continuidad de las promesas hechas a Abrahán y a David, además de legitimar la distribución de las tierras y la organización del servicio del Templo — pues solo los levitas y sus descendientes tenían derecho a los diezmos y las primicias.\n\nLa segunda parte relee el reinado de David a partir de 1 Samuel y 2 Samuel, pero con un acentuado cambio de perspectiva. El Cronista idealiza al rey: omite los episodios más sombríos de 2 Samuel — el adulterio con Betsabé y el asesinato de Urías (2 Sm 11–12) y la rebelión de Absalón — y también el luto de David por Saúl, sustituido por la explicación teológica de la caída del primer rey (1 Cr 10). En cambio, dedica amplio espacio a los preparativos de David para la construcción del Templo, a la organización de los sacerdotes, levitas y cantores (capítulos 23 a 26) y al solemne traslado del Arca a Jerusalén (capítulos 13 a 16). Un detalle exclusivo y de gran peso teológico es la narración del censo: en 2 Samuel 24 es la ira del Señor la que incita a David a contar al pueblo, pero en el Cronista es Satanás quien lo provoca (1 Cr 21,1) — el primer empleo del término como nombre propio en el Antiguo Testamento.\n\nLa obra no sustituye a Samuel y Reyes; ofrece una \"segunda epopeya nacional\" que actualiza la historia para los judíos de la era persa. Su teología difiere de la del deuteronomista: en lugar de la retribución colectiva, cada generación responde por su propia justicia o por su propio pecado, doctrina de la responsabilidad individual que el Cronista comparte con los profetas del exilio, sobre todo Ezequiel. Por eso, los estudiosos modernos — sin desestimar la antigua atribución a Esdras — designan al autor anónimo simplemente como \"el Cronista\". La datación no es segura: la mayoría sitúa la composición entre los días de Zorobabel y después de los ministerios de Esdras y Nehemías (c. 515–400 a. C.); algunos proponen el período entre 400 y 250 a. C., tomando como base la genealogía de 1 Cr 3,17-24, que se extiende por varias generaciones después de Zorobabel. El libro es reconocido como canónico por la Iglesia y figura en el canon católico como libro histórico del Antiguo Testamento; conviene notar que nunca es citado directamente en el Nuevo Testamento.",
+      "categoria": "biblia",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento",
+        "Crónicas",
+        "Cronista",
+        "David",
+        "Templo de Jerusalén",
+        "postexilio",
+        "genealogías",
+        "era persa"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Codex_Sinaiticus_Paralipomenon_9%2C27-10%2C11.JPG",
+      "imagem_credito": null,
+      "fontes": [
+        "Biblia de Jerusalén, introducción a 1–2 Crónicas",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)",
+        "Wikipedia (en), \"Books of Chronicles\"",
+        "Society for Old Testament Study (SOTS), entrada \"Chronicles\"",
+        "1 Crónicas 3,17-24; 10; 21,1",
+        "2 Samuel 11–12; 24",
+        "Codex Sinaiticus, facsímil de Tischendorf (1862)"
+      ],
+      "atualizado_em": null,
+      "ordem": 13,
+      "testamento": "antigo",
+      "genero_literario": "Narrativa histórica/genealógica",
+      "autor_tradicional": "Tradición del Cronista",
+      "data_composicao": "siglo IV a. C.",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:2-cronicas",
+      "slug": "2-cronicas",
+      "titulo": "2 Crónicas",
+      "categoria": "biblia",
+      "resumo": "Relectura teológica del reinado de Salomón y de la historia del Reino de Judá hasta el edicto de Ciro que permite el regreso del exilio.",
+      "corpo": "Continúa la obra del Cronista, detallando el reinado de Salomón y la construcción del Templo, y después la historia del Reino de Judá —omitiendo en gran parte el Reino del Norte—, y termina con el decreto del rey persa Ciro que autoriza el regreso de los desterrados y la reconstrucción del Templo, puente hacia los libros de Esdras y Nehemías.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 14,
+      "testamento": "antigo",
+      "genero_literario": "Narrativa histórica",
+      "autor_tradicional": "Tradición del Cronista",
+      "data_composicao": "siglo IV a. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:esdras",
+      "slug": "esdras",
+      "titulo": "Esdras",
+      "categoria": "biblia",
+      "resumo": "El regreso de los judíos del destierro babilónico, la reconstrucción del Templo y la reforma religiosa dirigida por el escriba Esdras.",
+      "corpo": "Narra el regreso de los desterrados judíos de Babilonia, autorizado por Ciro de Persia, la reconstrucción del Templo de Jerusalén y la llegada posterior del escriba y sacerdote Esdras, que promueve una reforma religiosa centrada en la fidelidad a la Ley mosaica y en la separación de los matrimonios mixtos considerados contrarios a la Alianza.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Esdras-Ezra.jpg",
+      "imagem_credito": null,
+      "ordem": 15,
+      "testamento": "antigo",
+      "genero_literario": "Narrativa histórica",
+      "autor_tradicional": "Tradición del Cronista (atribución)",
+      "data_composicao": "siglo V-IV a. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:neemias",
+      "slug": "neemias",
+      "titulo": "Nehemías",
+      "resumo": "Las memorias del copero de Artajerjes que se convierte en gobernador de Jerusalén, reconstruye las murallas en 52 días y promueve la reforma religiosa y social de la comunidad postexílica.",
+      "corpo": "Nehemías pertenece al conjunto de los libros históricos del Antiguo Testamento y se sitúa en el período del dominio persa aqueménida sobre Judea, después del regreso del exilio babilónico. Nehemías era copero del rey persa Artajerjes I, cargo de confianza en la corte de Susa; al enterarse de la miseria de los judíos repatriados y del estado ruinoso de Jerusalén, ayuna y reza. En el año veinte del rey —situado por los estudiosos en 445/444 a. C.— obtiene autorización real, cartas para los gobernadores al oeste del Éufrates y madera para las puertas de la ciudad y para la fortaleza vecina al Templo (Ne 1–2).\n\nLa obra está narrada en gran parte en primera persona, en el género de las «memorias» de Nehemías (Ne 1,1–7,5; 12,27–43; 13,4–31). Al llegar a Jerusalén, Nehemías inspecciona las murallas de noche y convoca al pueblo a la reconstrucción, que se describe tramo por tramo en el capítulo 3, con la lista de las familias y grupos responsables de cada segmento. Enfrenta la oposición de vecinos hostiles —Sanbalat, el joronita, gobernador de Samaria; Tobías, el amonita; y Guésem, el árabe—, que se burlan, conspiran e intentan intimidarlo, mientras los constructores trabajan con la espada al cinto. Según Ne 6,15, las murallas quedan terminadas en cincuenta y dos días.\n\nAdemás de la reconstrucción material, Nehemías actúa como reformador. En el capítulo 5 enfrenta la crisis social de los judíos endeudados: nobles y magistrados cobraban intereses (usura) a sus propios hermanos, llevando a muchos a la esclavitud por deudas; Nehemías los reprende públicamente, convoca una asamblea y exige la restitución de los campos, las viñas y el dinero. En el capítulo 8, junto con el sacerdote y escriba Esdras, preside la lectura pública de la Ley de Moisés en la plaza ante la Puerta del Agua, mientras los levitas explican el sentido del texto al pueblo —escena frecuentemente señalada como raíz de la liturgia de la Palabra.\n\nLas cuestiones históricas siguen debatidas. La cronología tradicional hace llegar a Esdras en el séptimo año de Artajerjes I (458 a. C.) y a Nehemías trece años después, en 445; algunos intérpretes, sin embargo, sitúan a Esdras bajo Artajerjes II (c. 398 a. C.), invirtiendo el orden, mientras que otro grupo defiende que ambos fueron contemporáneos. Por ello, la datación del libro se presenta de modo aproximado, en torno al siglo V a. C.",
+      "categoria": "biblia",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento",
+        "Nehemías",
+        "Esdras",
+        "postexilio",
+        "Artajerjes",
+        "murallas de Jerusalén",
+        "siglo V a. C."
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Prophet_nehemiah.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Sagrada Biblia — Libro de Nehemías, caps. 1–2; 5; 6,15; 8",
+        "B. S. Childs / introducciones al Antiguo Testamento sobre Esdras y Nehemías",
+        "Catecismo de la Iglesia Católica, nn. 101–141 (la Sagrada Escritura)"
+      ],
+      "atualizado_em": null,
+      "ordem": 16,
+      "testamento": "antigo",
+      "genero_literario": "Narrativa histórica (memorias)",
+      "autor_tradicional": "Atribuido a Nehemías",
+      "data_composicao": "siglo V a. C.",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:tobias",
+      "slug": "tobias",
+      "titulo": "Tobías",
+      "categoria": "biblia",
+      "resumo": "Novela edificante sobre la fidelidad, la limosna y la providencia de Dios, con el ángel Rafael guiando al joven Tobías.",
+      "corpo": "Narra la historia de Tobit, judío piadoso y ciego, y de su hijo Tobías, quien, guiado sin saberlo por el ángel Rafael disfrazado de compañero de viaje, cura la ceguera de su padre y libera a Sara, su futura esposa, de un demonio. Se lee como novela edificante sobre la providencia divina, la fidelidad conyugal y la práctica de la limosna.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento",
+        "deuterocanónico"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Recto_of_leaf_from_the_Book_of_Tobit_%2812906401985%29.jpg",
+      "imagem_credito": "Foto: Miami U. Libraries - Digital Collections — Wikimedia Commons",
+      "ordem": 17,
+      "testamento": "antigo",
+      "genero_literario": "Narrativa sapiencial",
+      "autor_tradicional": "Anónimo",
+      "data_composicao": "siglo III-II a. C.",
+      "deuterocanonico": true,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:judite",
+      "slug": "judite",
+      "titulo": "Judit",
+      "categoria": "biblia",
+      "resumo": "La viuda Judit salva a su ciudad sitiada decapitando al general enemigo Holofernes.",
+      "corpo": "Narra cómo Judit, viuda judía hermosa y piadosa, salva a su ciudad, Betulia, del asedio del ejército asirio dirigido por el general Holofernes, seduciéndolo estratégicamente y luego decapitándolo mientras él duerme embriagado — narración leída como celebración del valor y de la fe confiada ante una amenaza abrumadora.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento",
+        "deuterocanónico"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Judith_with_the_Head_of_Holofernes_by_Cristofano_Allori.jpg",
+      "imagem_credito": null,
+      "ordem": 18,
+      "testamento": "antigo",
+      "genero_literario": "Narración",
+      "autor_tradicional": "Anónimo",
+      "data_composicao": "siglo II a. C.",
+      "deuterocanonico": true,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:ester",
+      "slug": "ester",
+      "titulo": "Ester",
+      "categoria": "biblia",
+      "resumo": "La reina judía Ester salva a su pueblo de la destrucción planeada por Amán en el imperio persa; origen de la fiesta judía del Purim.",
+      "corpo": "Narra cómo Ester, joven judía que llega a ser reina de Persia, intercede valientemente ante el rey Asuero para salvar a su pueblo del exterminio planeado por el ministro Amán. Es el libro que da origen a la fiesta judía del Purim, y su versión griega, más larga, incluye pasajes deuterocanónicos con referencias explícitas a Dios, ausentes del texto hebreo original.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Edwin_Long_-_Queen_Esther_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 19,
+      "testamento": "antigo",
+      "genero_literario": "Narrativa",
+      "autor_tradicional": "Anónimo",
+      "data_composicao": "siglo IV-II a. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:1-macabeus",
+      "slug": "1-macabeus",
+      "titulo": "1 Macabeos",
+      "categoria": "biblia",
+      "resumo": "La revuelta armada de los judíos liderados por Judas Macabeo contra la helenización forzada impuesta por Antíoco IV Epífanes.",
+      "corpo": "Narra, en un estilo histórico sobrio, la revuelta de los judíos, liderada por los hermanos Macabeos, contra el intento del rey seléucida Antíoco IV Epífanes de suprimir la religión judía e imponer por la fuerza la cultura griega, incluida la profanación del Templo. Culmina en la purificación y la nueva dedicación del Templo, origen de la fiesta judía de Janucá.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento",
+        "deuterocanónico"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Scuola_Grande_dei_Carmini_-_Sala_dell%27Archivio_-_Il_martirio_dei_Maccabei_di_Giustino_Menescardi.jpg",
+      "imagem_credito": null,
+      "ordem": 20,
+      "testamento": "antigo",
+      "genero_literario": "Narrativa histórica",
+      "autor_tradicional": "Anónimo (judío palestinense)",
+      "data_composicao": "finales del siglo II a. C.",
+      "deuterocanonico": true,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:2-macabeus",
+      "slug": "2-macabeus",
+      "titulo": "2 Macabeos",
+      "categoria": "biblia",
+      "resumo": "Versión teológica, paralela a 1 Macabeos, de la revuelta macabea, con pasajes importantes sobre la resurrección y la oración por los muertos.",
+      "corpo": "Abarca parte de los mismos acontecimientos de 1 Macabeos con un énfasis teológico más explícito, incluyendo el relato del martirio de una madre y sus siete hijos y uno de los pasajes del Antiguo Testamento más citados en defensa de la creencia en la resurrección de los muertos y de la eficacia de la oración por los difuntos (2 Mac 12,43-46), base bíblica citada para la doctrina del Purgatorio.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento",
+        "deuterocanónico"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Martyrium_der_Makkab%C3%A4er_und_ihrer_Mutter%2C_Christus_am_Kreuz_und_Schmerzensmutter%2C_Museum_Schn%C3%BCtten_M_222.jpg",
+      "imagem_credito": null,
+      "ordem": 21,
+      "testamento": "antigo",
+      "genero_literario": "Narrativa histórica (teológica)",
+      "autor_tradicional": "Resumen de la obra de Jasón de Cirene",
+      "data_composicao": "finales del siglo II a. C.",
+      "deuterocanonico": true,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:jo",
+      "slug": "jo",
+      "titulo": "Job",
+      "categoria": "biblia",
+      "resumo": "El sufrimiento del justo Job y el misterio del mal, que culmina en la respuesta de Dios desde el torbellino.",
+      "corpo": "Uno de los textos literarios más elaborados de la Biblia, narra el sufrimiento inmerecido del justo Job, que pierde bienes, hijos y salud, y el largo debate poético entre él y sus amigos sobre la causa del sufrimiento. No ofrece una respuesta filosófica directa al problema del mal, pero culmina en el encuentro de Job con el mismo Dios, que habla \"desde el torbellino\" (Job 38,1).",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/L%C3%A9on_Bonnat_-_Job.jpg",
+      "imagem_credito": null,
+      "ordem": 22,
+      "testamento": "antigo",
+      "genero_literario": "Sapiencial (poesía dramática)",
+      "autor_tradicional": "Anónimo",
+      "data_composicao": "entre los siglos VII y IV a. C. (datación incierta)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:salmos",
+      "slug": "salmos",
+      "titulo": "Salmos",
+      "categoria": "biblia",
+      "resumo": "Colección de 150 oraciones y cantos —alabanza, lamento, súplica, acción de gracias— que constituye el corazón de la oración bíblica.",
+      "corpo": "Los Salmos reúnen 150 oraciones poéticas de géneros variados —himnos de alabanza, lamentaciones individuales y comunitarias, salmos de acción de gracias, sapienciales y mesiánicos—, atribuidos tradicionalmente en gran parte a David, aunque son obra de varios autores a lo largo de siglos. Siguen siendo la columna vertebral de la Liturgia de las Horas y de la oración litúrgica cristiana hasta hoy.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 23,
+      "testamento": "antigo",
+      "genero_literario": "Poesía lírica/oración",
+      "autor_tradicional": "Atribución tradicional a David (colección de varios autores)",
+      "data_composicao": "siglos X a IV a. C. (compilación)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:proverbios",
+      "slug": "proverbios",
+      "titulo": "Proverbios",
+      "categoria": "biblia",
+      "resumo": "Colección de máximas prácticas sobre la vida recta, atribuida a la tradición sapiencial de Salomón.",
+      "corpo": "Reúne colecciones de máximas breves y poemas más largos de sabiduría práctica —sobre el trabajo, el lenguaje, la amistad, la educación de los hijos y la vida recta—, tradicionalmente vinculadas al rey Salomón, célebre por su sabiduría, aunque el libro es obra de compilación a lo largo de generaciones. Concluye con el elogio de la \"mujer fuerte\" (Pr 31).",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 24,
+      "testamento": "antigo",
+      "genero_literario": "Sapiencial",
+      "autor_tradicional": "Atribución tradicional a Salomón (colección)",
+      "data_composicao": "siglos X a IV a.C. (compilación)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:eclesiastes",
+      "slug": "eclesiastes",
+      "titulo": "Eclesiastés (Qohélet)",
+      "categoria": "biblia",
+      "resumo": "Meditación desencantada sobre la vanidad (el \"vapor\") de todo bajo el sol, y la invitación a disfrutar con sobriedad los dones sencillos de la vida.",
+      "corpo": "\"Qohélet\", nombre hebreo que da título al libro, significa algo como \"el que reúne la asamblea\" o \"predicador\". Es una reflexión filosófica, a veces desconcertante, sobre la aparente vanidad (\"vapor\", \"humo\") de todo esfuerzo humano —riqueza, sabiduría, placer, trabajo— ante la mortalidad, y concluye con la invitación a disfrutar con sobriedad los dones sencillos de cada día como venidos de Dios.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 25,
+      "testamento": "antigo",
+      "genero_literario": "Sapiencial (reflexión filosófica)",
+      "autor_tradicional": "Atribución tradicional a Salomón",
+      "data_composicao": "siglo III a. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:cantico-dos-canticos",
+      "slug": "cantico-dos-canticos",
+      "titulo": "Cantar de los Cantares",
+      "categoria": "biblia",
+      "resumo": "Poema de amor entre un hombre y una mujer, leído por la tradición judía y cristiana como alegoría del amor entre Dios y su pueblo.",
+      "corpo": "Colección de poemas de amor entre un novio y una novia, de lenguaje sensual y directo, sin ninguna mención explícita a Dios en el texto. La tradición judía lo leyó como alegoría del amor entre Dios e Israel, y la tradición cristiana, entre Cristo y la Iglesia o entre Dios y el alma — lectura que valoró el libro como uno de los textos centrales de la mística cristiana, de Orígenes a San Juan de la Cruz.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 26,
+      "testamento": "antigo",
+      "genero_literario": "Poesía amorosa",
+      "autor_tradicional": "Atribución tradicional a Salomón",
+      "data_composicao": "siglo III a. C. (composición final)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:sabedoria",
+      "slug": "sabedoria",
+      "titulo": "Sabiduría",
+      "categoria": "biblia",
+      "resumo": "Elogio de la Sabiduría divina y reflexión sobre la inmortalidad del alma, escrito en griego para judíos de la diáspora egipcia.",
+      "corpo": "Escrito originalmente en griego, probablemente en Alejandría, para fortalecer la fe de los judíos de la diáspora expuestos a la cultura helenística, personifica la Sabiduría de Dios y reflexiona sobre la inmortalidad del alma con una claridad poco común en el Antiguo Testamento, además de releer la historia del Éxodo a la luz de esa sabiduría.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento",
+        "deuterocanónico"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meynier_-_Wisdom_defending_Youth_against_Love.jpg",
+      "imagem_credito": null,
+      "ordem": 27,
+      "testamento": "antigo",
+      "genero_literario": "Sapiencial",
+      "autor_tradicional": "Anónimo (atribución literaria a Salomón)",
+      "data_composicao": "siglo I a. C.",
+      "deuterocanonico": true,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:eclesiastico",
+      "slug": "eclesiastico",
+      "titulo": "Eclesiástico (Ben Sirá / Sirácida)",
+      "categoria": "biblia",
+      "resumo": "Extenso manual de sabiduría práctica y religiosa, uno de los raros libros bíblicos cuyo autor histórico es conocido por su nombre.",
+      "corpo": "También llamado \"Sirácida\", es uno de los pocos libros bíblicos cuyo autor se conoce con razonable certeza: el sabio judío Jesús, hijo de Sirá, de Jerusalén. Reúne extensas enseñanzas prácticas sobre la vida cotidiana, la amistad, la educación y la religión, y culmina en un elogio de los \"hombres ilustres\" de la historia de Israel (Eclo 44-50).",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento",
+        "deuterocanónico"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/CodexGigas_186_WisdomofJesusSonofSirach.jpg",
+      "imagem_credito": null,
+      "ordem": 28,
+      "testamento": "antigo",
+      "genero_literario": "Sapiencial",
+      "autor_tradicional": "Jesús ben Sirá",
+      "data_composicao": "principios del siglo II a. C.",
+      "deuterocanonico": true,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:isaias",
+      "slug": "isaias",
+      "titulo": "Isaías",
+      "categoria": "biblia",
+      "resumo": "El mayor de los libros proféticos, con los célebres \"cantos del Siervo sufriente\" leídos por la tradición cristiana como profecías sobre Cristo.",
+      "corpo": "El más extenso de los libros proféticos, reúne oráculos de al menos tres períodos históricos distintos bajo un único nombre: el profeta Isaías del siglo VIII a. C. y continuadores anónimos posteriores (\"Segundo\" y \"Tercer\" Isaías). Contiene algunos de los textos mesiánicos más citados del Antiguo Testamento, entre ellos los \"cantos del Siervo sufriente\" (Is 52-53), leídos por el cristianismo primitivo como profecía de la Pasión de Cristo.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Melozzo_da_forl%C3%AC%2C_angeli_coi_simboli_della_passione_e_profeti%2C_1477_ca.%2C_profeta_isaia_00.jpg",
+      "imagem_credito": "Foto: Sailko — Wikimedia Commons, CC BY 3.0",
+      "ordem": 29,
+      "testamento": "antigo",
+      "genero_literario": "Profético",
+      "autor_tradicional": "Isaías de Jerusalén (y continuadores — \"Segundo\" y \"Tercer\" Isaías)",
+      "data_composicao": "siglos VIII a VI a. C. (composición en capas)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:jeremias",
+      "slug": "jeremias",
+      "titulo": "Jeremías",
+      "categoria": "biblia",
+      "resumo": "Profeta que anuncia la destrucción de Jerusalén por infidelidad a la Alianza, y después la esperanza de una \"nueva alianza\" escrita en el corazón.",
+      "corpo": "Jeremías profetizó en Jerusalén en los últimos años del Reino de Judá, anunciando incansablemente —y a un costo personal altísimo, con persecución y prisión— la destrucción de la ciudad como castigo por la infidelidad a la Alianza, siendo testigo personal de la caída de Jerusalén en el 587 a. C. Anuncia también la esperanza de una \"nueva alianza\", ya no grabada en tablas de piedra, sino escrita en el corazón (Jr 31,31-34).",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Michelangelo_Buonarroti_027.jpg",
+      "imagem_credito": null,
+      "ordem": 30,
+      "testamento": "antigo",
+      "genero_literario": "Profético",
+      "autor_tradicional": "Jeremías (con el escriba Baruc)",
+      "data_composicao": "finales del siglo VII a comienzos del VI a. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:lamentacoes",
+      "slug": "lamentacoes",
+      "titulo": "Lamentaciones",
+      "categoria": "biblia",
+      "resumo": "Cinco poemas fúnebres sobre la destrucción de Jerusalén y del Templo en el 587 a. C.",
+      "corpo": "Colección de cinco elegías poéticas, de estructura acróstica en hebreo, que lamentan la destrucción de Jerusalén y del Templo por los babilonios en el 587 a. C. Tradicionalmente atribuidas a Jeremías, testigo ocular de la catástrofe, expresan al mismo tiempo un dolor profundo y una confianza renovada en la fidelidad de Dios (\"las misericordias del Señor no se acaban...\", Lm 3,22).",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 31,
+      "testamento": "antigo",
+      "genero_literario": "Poesía elegíaca",
+      "autor_tradicional": "Atribución tradicional a Jeremías",
+      "data_composicao": "inicios del siglo VI a. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:baruc",
+      "slug": "baruc",
+      "titulo": "Baruc",
+      "resumo": "Colección deuterocanónica de oración penitencial, poema sapiencial y palabras de consuelo a Jerusalén, atribuida al secretario del profeta Jeremías, y que presenta como capítulo final la Carta de Jeremías contra la idolatría.",
+      "corpo": "El Libro de Baruc es uno de los libros deuterocanónicos del Antiguo Testamento, ausente del canon hebreo pero presente en la Septuaginta griega y en la Vulgata latina, y aceptado como inspirado por la Iglesia católica. Su nombre deriva de Baruc, hijo de Nerías, el escriba y secretario del profeta Jeremías, que aparece unas veintitrés veces en el Libro de Jeremías (cf. Jr 32; 36; 43; 45). El prólogo (1,1-14) sitúa la obra \"el año quinto, el día siete del mes, cuando los caldeos tomaron Jerusalén y la incendiaron\", presentando a Baruc leyendo el libro a los desterrados en Babilonia, junto al río Sud, y enviando el texto y una colecta de dinero a Jerusalén para que fuera leído en el Templo en las fiestas.\n\nEn cuanto a la estructura, los estudiosos suelen distinguir cuatro partes: la introducción narrativa (1,1-14); una oración de confesión y penitencia en nombre del pueblo desterrado (1,15-3,8); un poema sapiencial que identifica la Sabiduría con la Ley de Dios (3,9-4,4); y un poema de consuelo y aliento dirigido a Jerusalén (4,5-5,9). La crítica moderna es prácticamente unánime en rechazar tanto a Baruc como a Jeremías como autores del conjunto y en datar la redacción final fuera del período del destierro babilónico, proponiendo el siglo II a. C. (hacia 200-100 a. C.), con paralelos temáticos y lingüísticos en el Libro de Daniel y en el Eclesiástico. La obra nos ha llegado en griego, probablemente traducida de un original hebreo perdido, aunque parte del texto pudo haber sido compuesta directamente en griego.\n\nLa llamada \"Carta de Jeremías\" figura como capítulo 6 del libro: se trata de un discurso apologético contra la idolatría, que retoma y desarrolla temas de Isaías 44 y Jeremías 10. En la Septuaginta y en las Biblias ortodoxas, la Carta suele aparecer como obra separada; fue la Vulgata latina la que la unió al Libro de Baruc, recibiendo la numeración de capítulo 6 a partir del siglo XIII. San Jerónimo, aunque tenía reservas —por no disponer de texto hebreo, se mostraba reacio a contar el libro entre los canónicos—, acabó por incluirlo en la Vulgata. Padres como Atanasio de Alejandría y Cirilo de Jerusalén ya lo enumeraban como canónico, unido a Jeremías y Lamentaciones, y el Sínodo de Laodicea (siglo IV) lo menciona en el mismo conjunto. La canonicidad fue confirmada solemnemente por el Concilio de Trento (1546), que fijó el elenco de los libros deuterocanónicos.\n\nEn la liturgia católica, el libro tiene una presencia destacada: Baruc 3,9-15.32-4,4 es la Sexta Lectura de la Vigilia Pascual, y Baruc 5,1-9 sirve de primera lectura en el Segundo Domingo de Adviento del Ciclo C, cuando se invita a Jerusalén a quitarse el luto y revestirse de la gloria de Dios. El libro no es citado explícitamente en el Nuevo Testamento, pero se le atribuyen resonancias en pasajes como la encarnación de la Sabiduría y la exhortación a caminar por los caminos de la vida.",
+      "categoria": "biblia",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento",
+        "deuterocanónico",
+        "Baruc",
+        "profetas",
+        "Carta de Jeremías",
+        "destierro babilónico",
+        "Septuaginta",
+        "Vulgata",
+        "Vigilia Pascual"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/BarucProfeta.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Biblia de Jerusalén, introducción al Libro de Baruc",
+        "Concilio de Trento (1546), Decretum de libris sacris et de traditionibus recipiendis",
+        "Concilio Vaticano II, Constitución dogmática Dei Verbum, cap. IV (1965)",
+        "Society for Old Testament Study, entrada \"Baruch\"",
+        "International Standard Bible Encyclopedia, entrada \"Baruch, Book of\"",
+        "Misal Romano, Sexta Lectura de la Vigilia Pascual (Bar 3,9-15.32-4,4)"
+      ],
+      "atualizado_em": null,
+      "ordem": 32,
+      "testamento": "antigo",
+      "genero_literario": "Profético/sapiencial",
+      "autor_tradicional": "Atribuido a Baruc, secretario de Jeremías",
+      "data_composicao": "siglo II a. C. (composición final)",
+      "deuterocanonico": true
+    },
+    {
+      "id": "biblia:ezequiel",
+      "slug": "ezequiel",
+      "titulo": "Ezequiel",
+      "categoria": "biblia",
+      "resumo": "Profeta-sacerdote del exilio babilónico, célebre por las visiones de la gloria de Dios y de la resurrección de los \"huesos secos\".",
+      "corpo": "Sacerdote llevado al exilio en Babilonia, Ezequiel profetizó entre los exiliados con visiones impresionantes —la gloria de Dios sobre un carro celeste, la visión del valle de huesos secos que cobran vida (Ez 37, leída también como imagen de la resurrección) y la visión final de un Templo restaurado—, sosteniendo la esperanza de restauración de Israel.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Ezekiel.jpg",
+      "imagem_credito": null,
+      "ordem": 33,
+      "testamento": "antigo",
+      "genero_literario": "Profético",
+      "autor_tradicional": "Ezequiel",
+      "data_composicao": "siglo VI a. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:daniel",
+      "slug": "daniel",
+      "titulo": "Daniel",
+      "categoria": "biblia",
+      "resumo": "Narraciones sobre la fidelidad de Daniel y sus compañeros en la corte babilónica, y visiones apocalípticas sobre el fin de los tiempos.",
+      "corpo": "Combina narraciones edificantes —Daniel en el foso de los leones, los tres jóvenes en el horno ardiente, la historia de Susana (en las secciones deuterocanónicas en griego)— con visiones apocalípticas sobre imperios sucesivos y el triunfo final del Reino de Dios, incluida la célebre visión del \"Hijo del hombre\" (Dn 7,13-14), retomada por Jesús para designarse a sí mismo en los Evangelios.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Daniel%27s_Answer_to_the_King%2C_by_Briton_Riviere%2C_GMIII_MCAG_1937_123-001.jpg",
+      "imagem_credito": null,
+      "ordem": 34,
+      "testamento": "antigo",
+      "genero_literario": "Apocalíptico/narrativo",
+      "autor_tradicional": "Anónimo",
+      "data_composicao": "siglo II a. C. (forma final)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:oseias",
+      "slug": "oseias",
+      "titulo": "Oseas",
+      "categoria": "biblia",
+      "resumo": "Profeta del Reino del Norte que usa su propio matrimonio fracasado como metáfora del amor fiel de Dios por Israel infiel.",
+      "corpo": "Profetizando en el Reino del Norte, Oseas usa la experiencia de su propio matrimonio con una mujer infiel como metáfora viva del amor obstinado de Dios por Israel, que se aleja hacia cultos idolátricos pero es siempre llamado de vuelta — una de las imágenes más fuertes del Antiguo Testamento sobre la misericordia divina que persiste a pesar de la infidelidad humana.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/78/Statues_in_Santu%C3%A1rio_do_Bom_Jesus_de_Matosinhos_015.JPG",
+      "imagem_credito": "Foto: Eugenio Hansen, OFS — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 35,
+      "testamento": "antigo",
+      "genero_literario": "Profético",
+      "autor_tradicional": "Oseas",
+      "data_composicao": "siglo VIII a. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:joel",
+      "slug": "joel",
+      "titulo": "Joel",
+      "categoria": "biblia",
+      "resumo": "Profecía sobre una plaga de langostas como llamado a la conversión, y la promesa de la efusión del Espíritu \"sobre toda carne\".",
+      "corpo": "A partir de una devastadora plaga de langostas, leída como signo del \"Día del Señor\", Joel llama al pueblo a la conversión y al ayuno, prometiendo a continuación la restauración y la efusión del Espíritu de Dios \"sobre toda carne\" (Jl 3,1) — texto citado por Pedro en el discurso de Pentecostés (Hch 2,17-21) como cumplido aquel día.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Joel_%28Michelangelo%29.jpg",
+      "imagem_credito": null,
+      "ordem": 36,
+      "testamento": "antigo",
+      "genero_literario": "Profético",
+      "autor_tradicional": "Joel",
+      "data_composicao": "datación incierta (posexílico, probable)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:amos",
+      "slug": "amos",
+      "titulo": "Amós",
+      "categoria": "biblia",
+      "resumo": "Pastor de Judá que denuncia la injusticia social y la opresión de los pobres en el próspero Reino del Norte.",
+      "corpo": "Pastor de ovejas de Judá enviado a profetizar en el próspero, pero moralmente corrupto, Reino del Norte, Amós es el profeta bíblico más directo en la denuncia de la injusticia social —la explotación de los pobres, la corrupción judicial y un culto religioso vacío de compromiso ético—, afirmando que Dios prefiere que \"el derecho fluya como el agua\" (Am 5,24) antes que sacrificios sin rectitud de vida.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/AmosProfeta.jpg",
+      "imagem_credito": null,
+      "ordem": 37,
+      "testamento": "antigo",
+      "genero_literario": "Profético",
+      "autor_tradicional": "Amós",
+      "data_composicao": "siglo VIII a. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:abdias",
+      "slug": "abdias",
+      "titulo": "Abdías",
+      "resumo": "El libro más breve del Antiguo Testamento (21 versículos): el oráculo contra Edom por su hostilidad hacia Judá en la caída de Jerusalén, y el anuncio del Día del Señor.",
+      "corpo": "El libro de Abdías es el más breve del Antiguo Testamento: un único capítulo de 21 versículos, con unas 440 palabras en el original hebreo. Su nombre es teofórico y significa \"siervo del Señor\" (en hebreo, ʿOvadyah); la forma latina \"Abdías\" procede de la Vulgata, y la Septuaginta lo llama Obdios. En el orden del canon hebreo y de la Vulgata, figura entre los Doce Profetas Menores. No se sabe nada con seguridad sobre la persona del profeta: las Escrituras no dan el nombre de su padre ni ningún dato biográfico, y las identificaciones propuestas con otros personajes llamados Abdías (como el mayordomo del rey Ajab en 1 Re 18,3) son conjeturas.\n\nEl tema central es el juicio de Edom, pueblo vecino y emparentado con Israel, descendiente de Esaú, hermano de Jacob. El oráculo condena a los edomitas por su actitud hostil o indiferente durante la caída de Jerusalén: por haber contemplado la desgracia de su \"hermano\" Judá, saqueado la ciudad y cortado la huida de los supervivientes, el castigo divino los alcanzará a pesar de su confianza en el terreno montañoso y de su orgullo (Abd 1–14). La segunda parte anuncia el \"Día del Señor\" sobre todas las naciones, la restauración de Israel y el juicio de Dios sobre los soberbios (Abd 15–21). El oráculo de Abdías tiene paralelos evidentes con el de Jeremías contra Edom (Jr 49).\n\nLa datación es discutida. La mayoría de los estudiosos sitúa el libro poco después de la destrucción de Jerusalén por Nabucodonosor, en 587/586 a.C., contexto que explica mejor la acusación de complicidad edomita. Otros, sin embargo, sostienen que el texto describe el ataque anterior a Jerusalén en el reinado de Joram (c. 848–841 a.C.), narrado en 2 Reyes 8,20-22 y 2 Crónicas 21, lo que haría de Abdías uno de los primeros profetas; hay incluso quien ve en el escrito una redacción posterior, elaborada en los conflictos entre la provincia de Judá y los edomitas en los siglos V y IV a.C. Alfonso Salmerón y otros comentaristas antiguos notaban la brevedad del texto; san Jerónimo resumió la dificultad diciendo que, \"cuanto más breve, más difícil\".\n\nLa profecía tuvo, para la tradición, un cumplimiento histórico notable. Según Flavio Josefo (Antigüedades 13,256), el sumo sacerdote y príncipe asmoneo Juan Hircano sometió a los idumeos a finales del siglo II a.C. y los obligó a la circuncisión, integrándolos en Judea. Más tarde, los idumeos fueron absorbidos por el pueblo judío; muchos comentaristas ven en la pérdida de su identidad nacional la realización del anuncio de que Edom desaparecería como pueblo, \"sin dejar rastro\" (Abd 10.18). El Nuevo Testamento no cita a Abdías directamente.",
+      "categoria": "biblia",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento",
+        "Abdías",
+        "profetas menores",
+        "Edom",
+        "Esaú",
+        "Día del Señor",
+        "Jerusalén",
+        "siglo VI a.C."
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/47/AbadiasProfeta.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Libro de Abdías (Abd 1–21)",
+        "Flavio Josefo, Antigüedades judías 13,256",
+        "Paulus Editora, \"42. Livro de Abdias\"",
+        "Catecismo de la Iglesia Católica, nn. 101–141 (la Sagrada Escritura)"
+      ],
+      "atualizado_em": null,
+      "ordem": 38,
+      "testamento": "antigo",
+      "genero_literario": "Profético",
+      "autor_tradicional": "Abdías",
+      "data_composicao": "siglo VI a.C. (datación incierta)",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:jonas",
+      "slug": "jonas",
+      "titulo": "Jonás",
+      "categoria": "biblia",
+      "resumo": "La narración del profeta reacio que fue tragado por un gran pez, y el llamado a la conversión de la ciudad pagana de Nínive.",
+      "corpo": "A diferencia de los demás libros proféticos, Jonás es sobre todo una narración: el profeta intenta huir de la misión de predicar la conversión a la pagana y hostil Nínive, es tragado por un gran pez y devuelto a su misión, predica con un éxito inesperado y después se resiente de la misericordia de Dios para con los ninivitas — libro que enseña, con ironía, la universalidad de la misericordia divina más allá de las fronteras de Israel.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Sistine_jonah.jpg",
+      "imagem_credito": null,
+      "ordem": 39,
+      "testamento": "antigo",
+      "genero_literario": "Narración profética",
+      "autor_tradicional": "Anónimo",
+      "data_composicao": "siglo V-IV a. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:miqueias",
+      "slug": "miqueias",
+      "titulo": "Miqueas",
+      "categoria": "biblia",
+      "resumo": "Profeta contemporáneo de Isaías, que anuncia el juicio sobre la injusticia social y profetiza Belén como origen del futuro gobernante mesiánico.",
+      "corpo": "Contemporáneo de Isaías, Miqueas denuncia la explotación de los campesinos por parte de las élites de Jerusalén y Samaria, y es autor de uno de los resúmenes más citados de la religión ética bíblica: \"practicar la justicia, amar la misericordia y caminar humildemente con tu Dios\" (Miq 6,8). Profetiza también que de Belén saldrá el futuro gobernante de Israel (Miq 5,1), texto citado en el relato del nacimiento de Jesús (Mt 2,6).",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/An%C3%B3nimo_catal%C3%A3o_-_Profeta_Miqueias.JPG",
+      "imagem_credito": null,
+      "ordem": 40,
+      "testamento": "antigo",
+      "genero_literario": "Profético",
+      "autor_tradicional": "Miqueas",
+      "data_composicao": "siglo VIII a. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:naum",
+      "slug": "naum",
+      "titulo": "Nahúm",
+      "resumo": "Oráculo poético de júbilo por la caída anunciada de Nínive, la capital del Imperio asirio que había destruido el Reino del Norte de Israel.",
+      "corpo": "El libro de Nahúm es el séptimo de los doce Profetas Menores y pertenece a la colección del \"Libro de los Doce\". Su autor, Nahúm, cuyo nombre hebreo significa \"consolado\" o \"confortado\", es presentado como originario de Elcós, localidad de identificación incierta, situada por diversas tradiciones en Galilea o en Judá. Nahúm es una figura oscura: su nombre no aparece en ningún otro libro de la Biblia ni en fuente histórica externa, y no se registran datos sobre su linaje o su vida.\n\nLa obra anuncia y celebra la ruina de Nínive, capital del Imperio asirio, el poder que había dominado el Cercano Oriente por medio del terror, de pesados tributos, de tratados despiadados y de deportaciones masivas de poblaciones, entre ellas la del Reino del Norte de Israel. La datación puede fijarse con razonable seguridad entre dos hitos históricos que el propio libro presupone: la caída de Tebas (No-Amón) en Egipto, en el 663 a. C., tomada por los asirios y mencionada en Nahúm 3,8-10 como ejemplo de ciudad poderosa que cayó; y la destrucción de Nínive en el 612 a. C., cuando la ciudad fue arrasada por una coalición de medos y caldeos (babilonios). La actividad de Nahúm suele situarse, por eso, a finales del siglo VII a. C., probablemente bajo el reinado de Josías (640-609 a. C.).\n\nEl libro se divide en tres capítulos: un himno inicial sobre la ira y la bondad de Dios (1,2-14), donde algunos estudiosos identifican vestigios de un poema acróstico —en el que los versos comenzarían por letras consecutivas del alfabeto hebreo—, hoy incompleto en el texto masorético; la descripción del asalto y de la toma de Nínive (2,1-13), presentada como guarida de leones que será despojada; y el oráculo final sobre los crímenes de la ciudad y su ruina inevitable (3,1-19), con el famoso dicho \"¡Ay de la ciudad sanguinaria, toda llena de mentiras!\" (3,1).\n\nUn contraste teológico notable distingue a Nahúm del libro de Jonás: mientras que Jonás es enviado a predicar la conversión en Nínive, que se convierte, Nahúm no ofrece a la ciudad ninguna posibilidad de enmienda; su profecía es de juicio irreversible, reflejo de la paciencia agotada ante una ciudad que había vuelto a la iniquidad. Se trata de un canto de consuelo para el oprimido, que percibía próxima la liberación, pero también de una obra en la que la imagen de Dios aparece aún ligada a un fuerte nacionalismo, comprensión que la predicación posterior, sobre todo la de los capítulos 40 a 55 de Isaías y la de los Evangelios, llegaría a superar. El libro, escrito en hebreo con algunos arameísmos, es notable por la fuerza y el colorido de su poesía, frecuentemente considerada entre las más vivas del Antiguo Testamento.",
+      "categoria": "biblia",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento",
+        "Nahúm",
+        "profetas menores",
+        "Nínive",
+        "Asiria",
+        "juicio divino",
+        "Libro de los Doce",
+        "siglo VII a. C."
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/02/NahumProfeta.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Biblia de Jerusalén, introducción al libro de Nahúm",
+        "Paulus Editora, comentario al libro de Nahúm",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)",
+        "Concilio Vaticano II, Constitución dogmática Dei Verbum, cap. IV (1965)"
+      ],
+      "atualizado_em": null,
+      "ordem": 41,
+      "testamento": "antigo",
+      "genero_literario": "Profético",
+      "autor_tradicional": "Nahúm",
+      "data_composicao": "finales del siglo VII a. C.",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:habacuc",
+      "slug": "habacuc",
+      "titulo": "Habacuc",
+      "categoria": "biblia",
+      "resumo": "Diálogo del profeta con Dios sobre por qué los injustos prosperan, que culmina en la afirmación \"el justo vivirá por su fe\".",
+      "corpo": "Estructurado como diálogo entre el profeta y Dios, Habacuc cuestiona por qué la violencia y la injusticia parecen prosperar sin respuesta divina, y recibe como respuesta que el justo debe vivir por la fe (Hab 2,4), versículo que San Pablo retomaría como fundamento de la doctrina de la justificación por la fe (Rom 1,17).",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Dome_of_Immanuel_in_St_Mark%27s_Basilica-Habakkuk.jpg",
+      "imagem_credito": null,
+      "ordem": 42,
+      "testamento": "antigo",
+      "genero_literario": "Profético",
+      "autor_tradicional": "Habacuc",
+      "data_composicao": "finales del siglo VII a.C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:sofonias",
+      "slug": "sofonias",
+      "titulo": "Sofonías",
+      "categoria": "biblia",
+      "resumo": "Anuncio del \"Día del Señor\" como juicio universal, seguido de la promesa de un \"resto\" fiel que será salvado.",
+      "corpo": "Profetizando poco antes de las reformas del rey Josías, Sofonías anuncia el \"Día del Señor\" como un juicio universal contra la idolatría y la injusticia, pero termina con una de las promesas más alegres del Antiguo Testamento sobre la restauración de un \"resto\" fiel de Israel, por quien Dios \"exultará de alegría\" (So 3,17).",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 43,
+      "testamento": "antigo",
+      "genero_literario": "Profético",
+      "autor_tradicional": "Sofonías",
+      "data_composicao": "finales del siglo VII a.C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:ageu",
+      "slug": "ageu",
+      "titulo": "Ageo",
+      "categoria": "biblia",
+      "resumo": "Profeta que anima a los judíos recién regresados del exilio a retomar la reconstrucción del Templo de Jerusalén.",
+      "corpo": "Fechado con precisión poco común en el año 520 a. C., Ageo se dirige a los judíos regresados del exilio babilónico, que habían abandonado la obra de reconstrucción del Templo para ocuparse de sus propias casas, exhortándolos a dar de nuevo prioridad a la casa de Dios, con la promesa de bendición material como consecuencia de esa fidelidad.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Haggai_%28Menologion_of_Basil_II%29.jpg",
+      "imagem_credito": null,
+      "ordem": 44,
+      "testamento": "antigo",
+      "genero_literario": "Profético",
+      "autor_tradicional": "Ageo",
+      "data_composicao": "520 a. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:zacarias",
+      "slug": "zacarias",
+      "titulo": "Zacarías",
+      "categoria": "biblia",
+      "resumo": "Visiones simbólicas que animan la reconstrucción del Templo, y profecías mesiánicas citadas en los relatos evangélicos de la Pasión.",
+      "corpo": "Contemporáneo de Ageo, la primera parte del libro (cap. 1-8) usa visiones simbólicas para animar la reconstrucción del Templo y la restauración de la comunidad judía; los capítulos finales (9-14), de datación y autoría más discutidas, contienen profecías mesiánicas ampliamente citadas en los relatos evangélicos de la Pasión, como la entrada del rey humilde montado en un borrico (Za 9,9) y las treinta monedas de plata (Za 11,12-13).",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Michelangelo%2C_profeti%2C_Zechariah_01.jpg",
+      "imagem_credito": null,
+      "ordem": 45,
+      "testamento": "antigo",
+      "genero_literario": "Profético/apocalíptico",
+      "autor_tradicional": "Zacarías (y continuador anónimo en los capítulos finales)",
+      "data_composicao": "finales del siglo VI al siglo IV a.C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:malaquias",
+      "slug": "malaquias",
+      "titulo": "Malaquías",
+      "categoria": "biblia",
+      "resumo": "Último de los profetas del Antiguo Testamento en el orden cristiano, denuncia la negligencia litúrgica y anuncia la venida de un mensajero antes del \"Día del Señor\".",
+      "corpo": "\"Malaquías\" significa en hebreo \"mi mensajero\", posiblemente un título y no un nombre propio. Denuncia la negligencia de los sacerdotes y del pueblo en el culto y en los diezmos, y anuncia el envío de un mensajero que preparará el camino antes del gran \"Día del Señor\" — texto leído por la tradición cristiana como profecía de Juan el Bautista, precursor de Cristo.",
+      "tags": [
+        "Biblia",
+        "Antiguo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 46,
+      "testamento": "antigo",
+      "genero_literario": "Profético",
+      "autor_tradicional": "Anónimo (\"Malaquías\" = \"mi mensajero\")",
+      "data_composicao": "siglo V a. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:mateus",
+      "slug": "mateus",
+      "titulo": "Evangelio según Mateo",
+      "categoria": "biblia",
+      "resumo": "Evangelio dirigido a lectores de origen judío, que presenta a Jesús como el nuevo Moisés y el cumplimiento de las Escrituras.",
+      "corpo": "Escrito probablemente para una comunidad judeocristiana, subraya el cumplimiento de las profecías del Antiguo Testamento en Jesús y lo presenta como el nuevo Moisés, organizando su enseñanza en cinco grandes discursos, el más famoso de los cuales es el Sermón de la Montaña (cap. 5-7), que contiene las Bienaventuranzas y el Padre Nuestro.",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Oxford%2C_Sackler_Library_Ms_LXIV_4404_%28Papyrus_104%29_recto_Matt_21%2C_34-37.jpg",
+      "imagem_credito": null,
+      "ordem": 47,
+      "testamento": "novo",
+      "genero_literario": "Evangelio",
+      "autor_tradicional": "La Tradición lo atribuye al apóstol Mateo",
+      "data_composicao": "década de 80-90 d. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:marcos",
+      "slug": "marcos",
+      "titulo": "Evangelio según Marcos",
+      "categoria": "biblia",
+      "resumo": "El más breve y probablemente el más antiguo de los cuatro Evangelios, de estilo directo y ritmo acelerado, centrado en la cruz.",
+      "corpo": "Considerado por muchos estudiosos el más antiguo de los cuatro Evangelios y fuente utilizada por Mateo y Lucas, es el más corto y de estilo narrativo directo y vigoroso, marcado por la expresión repetida \"enseguida\" (en griego, \"euthys\"). Camina deliberadamente hacia la cruz, revelando la identidad mesiánica de Jesús de forma progresiva y, muchas veces, a través del llamado \"secreto mesiánico\".",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/20/Minuscule_543_GA_0042b.jpg",
+      "imagem_credito": null,
+      "ordem": 48,
+      "testamento": "novo",
+      "genero_literario": "Evangelio",
+      "autor_tradicional": "La tradición lo atribuye a Juan Marcos, vinculado a Pedro",
+      "data_composicao": "hacia el 65-70 d. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:lucas",
+      "slug": "lucas",
+      "titulo": "Evangelio según Lucas",
+      "categoria": "biblia",
+      "resumo": "Evangelio de tono universalista y compasivo, atento a los pobres, a las mujeres y a los pecadores; el único que narra la parábola del hijo pródigo y la del buen samaritano.",
+      "corpo": "Dirigido a un público más amplio, que incluye a los no judíos, Lucas subraya la misericordia de Dios para con los marginados —pobres, pecadores, mujeres, samaritanos—, y es el único evangelio que narra las parábolas del hijo pródigo y del buen samaritano. Es también autor del libro de los Hechos de los Apóstoles, formando con el Evangelio una obra en dos volúmenes.",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Luke_13.29-35_and_14.10_%28CBL_BP_I%2C_f.15r%29.jpg",
+      "imagem_credito": null,
+      "ordem": 49,
+      "testamento": "novo",
+      "genero_literario": "Evangelio",
+      "autor_tradicional": "La tradición lo atribuye a Lucas, médico y compañero de Pablo",
+      "data_composicao": "décadas de 80-90 d. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:joao",
+      "slug": "joao",
+      "titulo": "Evangelio según Juan",
+      "categoria": "biblia",
+      "resumo": "Evangelio de tono más teológico y contemplativo, estructurado en torno a siete \"signos\" y a los grandes discursos de Jesús sobre su propia identidad.",
+      "corpo": "Diferente en estilo y estructura de los tres Evangelios sinópticos (Mateo, Marcos, Lucas), se abre con el solemne prólogo sobre el Verbo hecho carne (Jn 1,1-18) y organiza el ministerio de Jesús en torno a siete \"signos\" (milagros cargados de significado teológico) y largos discursos en los que Jesús revela su identidad a través de imágenes como \"yo soy el pan de vida\", \"la luz del mundo\", \"el buen pastor\".",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/JRL19060215_%28cropped%29.jpg",
+      "imagem_credito": "Foto: RylandsImaging — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 50,
+      "testamento": "novo",
+      "genero_literario": "Evangelio",
+      "autor_tradicional": "La tradición lo atribuye al apóstol Juan",
+      "data_composicao": "finales del siglo I d. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:atos-dos-apostolos",
+      "slug": "atos-dos-apostolos",
+      "titulo": "Hechos de los Apóstoles",
+      "categoria": "biblia",
+      "resumo": "La expansión de la Iglesia primitiva desde Pentecostés hasta la llegada de Pablo a Roma, bajo la acción del Espíritu Santo.",
+      "corpo": "Segundo volumen de la obra de Lucas, narra el nacimiento de la Iglesia en Pentecostés, los primeros pasos de la comunidad de Jerusalén, la conversión de Saulo/Pablo y su expansión misionera por el Mediterráneo hasta la llegada, ya preso, a Roma — cumpliendo el programa anunciado por Jesús en Hechos 1,8: \"seréis mis testigos... hasta los confines de la tierra\".",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Codex_laudianus_%28The_S.S._Teacher%27s_Edition-The_Holy_Bible_-_Plate_XXIX%29.jpg",
+      "imagem_credito": null,
+      "ordem": 51,
+      "testamento": "novo",
+      "genero_literario": "Narrativa histórica",
+      "autor_tradicional": "Lucas",
+      "data_composicao": "décadas de 80-90 d. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:romanos",
+      "slug": "romanos",
+      "titulo": "Carta a los Romanos",
+      "categoria": "biblia",
+      "resumo": "La más sistemática de las cartas de Pablo, que expone la doctrina de la justificación por la fe y no por las obras de la Ley.",
+      "corpo": "Escrita a una comunidad que Pablo aún no había visitado, es su exposición teológica más completa y sistemática: la universalidad del pecado, la justificación por la fe en Cristo y no por la observancia de la Ley mosaica, el papel de Israel en el plan de salvación (cap. 9-11) y la vida moral del cristiano justificado.",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/P118-Rom-16_1-16_4-7-16_11-12-III.jpg",
+      "imagem_credito": null,
+      "ordem": 52,
+      "testamento": "novo",
+      "genero_literario": "Epístola paulina",
+      "autor_tradicional": "San Pablo",
+      "data_composicao": "hacia el 57 d.C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:1-corintios",
+      "slug": "1-corintios",
+      "titulo": "1 Corintios",
+      "categoria": "biblia",
+      "resumo": "Carta que corrige divisiones y abusos concretos en la comunidad de Corinto, con el célebre himno a la caridad del capítulo 13.",
+      "corpo": "Escrita para corregir problemas concretos y divisiones en una comunidad turbulenta —partidismo, inmoralidad sexual, procesos judiciales entre cristianos, abusos en la Cena del Señor y confusión sobre los dones espirituales—, contiene el célebre \"himno a la caridad\" (1 Cor 13) y uno de los testimonios más antiguos sobre la Resurrección de Cristo (1 Cor 15).",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/80/UMrecto.JPG",
+      "imagem_credito": null,
+      "ordem": 53,
+      "testamento": "novo",
+      "genero_literario": "Epístola paulina",
+      "autor_tradicional": "San Pablo",
+      "data_composicao": "hacia el 54-55 d.C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:2-corintios",
+      "slug": "2-corintios",
+      "titulo": "2 Corintios",
+      "categoria": "biblia",
+      "resumo": "La más personal de las cartas de Pablo, en la que defiende su apostolado frente a sus opositores y reflexiona sobre el sufrimiento apostólico.",
+      "corpo": "Escrita después de una dolorosa reconciliación con la comunidad de Corinto, es la carta más autobiográfica y emocionalmente intensa de Pablo, en la que defiende la autenticidad de su apostolado contra los \"falsos apóstoles\" y reflexiona sobre la paradoja del poder de Dios manifestado en la debilidad humana (\"te basta mi gracia\", 2 Cor 12,9).",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/P46.jpg",
+      "imagem_credito": null,
+      "ordem": 54,
+      "testamento": "novo",
+      "genero_literario": "Epístola paulina",
+      "autor_tradicional": "San Pablo",
+      "data_composicao": "hacia 55-56 d. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:galatas",
+      "slug": "galatas",
+      "titulo": "Carta a los Gálatas",
+      "categoria": "biblia",
+      "resumo": "Defensa apasionada de la libertad cristiana ante la fe, contra quienes exigían a los gentiles convertidos la circuncisión y la Ley mosaica.",
+      "corpo": "Escrita en un tono de urgencia inusual, defiende que la justificación viene de la fe en Cristo, no de la observancia de la Ley mosaica —en particular la circuncisión—, contra predicadores que exigían a los cristianos de origen gentil la adopción completa de la práctica judía. Contiene la lista clásica de los \"frutos del Espíritu\" (Ga 5,22-23).",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/P051-Gal-1_2-10-POxy2157-IV.jpg",
+      "imagem_credito": null,
+      "ordem": 55,
+      "testamento": "novo",
+      "genero_literario": "Epístola paulina",
+      "autor_tradicional": "San Pablo",
+      "data_composicao": "hacia el 48-55 d. C. (datación discutida)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:efesios",
+      "slug": "efesios",
+      "titulo": "Carta a los Efesios",
+      "resumo": "Reflexión elevada sobre el plan eterno de Dios de reunir todo en Cristo y sobre la Iglesia como su Cuerpo; posiblemente una carta circular dirigida a las comunidades de Asia Menor.",
+      "corpo": "La Carta a los Efesios tiene un tono más contemplativo y menos circunstancial que las demás cartas paulinas: casi no hay saludos personales ni referencias a problemas concretos de una comunidad, lo que llevó a muchos estudiosos a considerarla una carta circular, destinada a varias iglesias de Asia Menor. La base de esa hipótesis está en el v. 1,1: las palabras \"en Éfeso\" faltan en los manuscritos más antiguos e importantes, entre ellos el Papiro 46 y los textos usados por Tertuliano y Orígenes, lo que la mayoría de los críticos textuales interpreta como una interpolación posterior. Sin esa dirección local, el texto se dirige de manera genérica \"a los santos que son fieles en Cristo Jesús\", y la mención de que el autor está preso (Ef 3,1; 4,1; 6,20) es demasiado vaga para fijar lugar y fecha.\n\nEl tema de fondo es el designio eterno de Dios de \"recapitular todas las cosas en Cristo, las del cielo y las de la tierra\" (Ef 1,10), y el \"misterio\" escondido en Dios durante siglos y ahora revelado: que los gentiles son coherederos, miembros del mismo Cuerpo y participantes de la promesa (Ef 3,4-6). La Iglesia es presentada como Cuerpo de Cristo, \"la plenitud del que llena todo en todos\" (Ef 1,22-23), y como edificio \"levantado sobre el cimiento de los apóstoles y los profetas, siendo Cristo Jesús la piedra angular\" (Ef 2,20), en la cual judíos y gentiles forman un solo pueblo, derribado el \"muro de separación\" de la enemistad (Ef 2,14).\n\nLa estructura de la carta se divide nítidamente en dos partes, unidas por la palabra \"por tanto\". Los capítulos 1-3 exponen el misterio y la nueva humanidad en Cristo, culminando en oraciones; los capítulos 4-6 sacan las consecuencias morales: unidad en la diversidad de los dones, la imagen del \"hombre nuevo\" y las exhortaciones domésticas (Ef 5,21-6,9). El pasaje sobre el matrimonio — \"maridos, amad a vuestras mujeres, como Cristo amó a la Iglesia y se entregó por ella\" (Ef 5,25), hasta el \"gran misterio\" referido a Cristo y a la Iglesia (Ef 5,32) — se volvió central en la teología católica del matrimonio como sacramento. El catálogo final (Ef 6,10-17) describe la \"armadura de Dios\" en la lucha espiritual.\n\nLa autoría es objeto de debate. La tradición atribuye la carta a Pablo, escrita durante un cautiverio (Roma, h. 62 d. C., en la lectura tradicional). La crítica moderna, sin embargo, señala diferencias de estilo, vocabulario y teología, y la fuerte semejanza lingüística con la Carta a los Colosenses — cerca de un tercio del texto es paralelo —, lo que sugiere dependencia literaria. Por eso, numerosos estudiosos fechan Efesios entre los años 70 y 100 d. C. y la atribuyen a un discípulo de Pablo, mientras que otros mantienen la autoría directa. Incluso entre quienes admiten la seudonimia, el escrito se considera profundamente paulino en su doctrina.\n\nTextualmente, Efesios está atestiguada por el Papiro 46 (h. 200 d. C.), el más antiguo testimonio paulino extenso, por el Papiro 92 y por los grandes códices del siglo IV, como el Sinaítico y el Vaticano. Entró en el canon sin gran controversia y es citada por Ireneo. El Catecismo de la Iglesia Católica recurre a Efesios en puntos clave de la eclesiología y de la moral, sobre todo en la doctrina del Cuerpo místico y del sacramento del matrimonio.",
+      "categoria": "biblia",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento",
+        "epístolas paulinas",
+        "Pablo",
+        "Efesios",
+        "Iglesia",
+        "Cuerpo de Cristo",
+        "misterio",
+        "Colosenses",
+        "Papiro 46",
+        "matrimonio",
+        "Asia Menor"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/31/P092-Eph-1_11-13-III-IV.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Efesios 1,1-6,24 (Biblia de Jerusalén)",
+        "Papiro 46 (P46), Papiro 92, Códice Sinaítico y Códice Vaticano",
+        "Wikipedia (es): 'Epístola a los efesios'",
+        "Catecismo de la Iglesia Católica (doctrina del Cuerpo místico y del matrimonio)",
+        "Ireneo de Lyon, Contra las herejías"
+      ],
+      "atualizado_em": null,
+      "ordem": 56,
+      "testamento": "novo",
+      "genero_literario": "Epístola paulina",
+      "autor_tradicional": "Tradicionalmente atribuida a Pablo (autoría discutida por la crítica moderna)",
+      "data_composicao": "hacia 60-63 d. C. o posterior",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:filipenses",
+      "slug": "filipenses",
+      "titulo": "Carta a los Filipenses",
+      "categoria": "biblia",
+      "resumo": "Carta de tono afectuoso y alegre, escrita desde la prisión, con el célebre \"himno cristológico\" sobre el autovaciamiento de Cristo.",
+      "corpo": "Escrita desde la prisión a una comunidad con la que Pablo tenía lazos particularmente afectuosos, es una de las cartas más alegres del Nuevo Testamento a pesar de las circunstancias, y contiene el célebre himno sobre Cristo que, \"a pesar de su condición divina... se despojó de sí mismo\" (Flp 2,6-11), uno de los textos cristológicos más importantes del Nuevo Testamento.",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Papyrus_16_-_Papyrus_Oxyrhynchus_1009_-_Cairo_Egyptian_Museum_JE_47424_-_Epistle_to_the_Philippians_3%2C10%E2%80%9317%2C_4%2C2%E2%80%938.jpg",
+      "imagem_credito": null,
+      "ordem": 57,
+      "testamento": "novo",
+      "genero_literario": "Epístola paulina",
+      "autor_tradicional": "San Pablo",
+      "data_composicao": "hacia el 54-62 d.C. (escrita desde la prisión)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:colossenses",
+      "slug": "colossenses",
+      "titulo": "Carta a los Colosenses",
+      "categoria": "biblia",
+      "resumo": "Carta que exalta la supremacía cósmica de Cristo, \"imagen del Dios invisible\", frente a enseñanzas que lo reducían a un ser intermediario.",
+      "corpo": "Escrita contra una filosofía sincretista local que amenazaba con reducir a Cristo a apenas uno entre otros poderes espirituales intermediarios, afirma solemnemente su supremacía absoluta: \"él es imagen del Dios invisible... porque en él fueron creadas todas las cosas\" (Col 1,15-16), uno de los textos cristológicos más elevados del Nuevo Testamento.",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Claromontanus_2_greek.jpg",
+      "imagem_credito": null,
+      "ordem": 58,
+      "testamento": "novo",
+      "genero_literario": "Epístola paulina",
+      "autor_tradicional": "Tradicionalmente atribuida a Pablo (autoría discutida)",
+      "data_composicao": "hacia el 60-63 d. C. o posterior",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:1-tessalonicenses",
+      "slug": "1-tessalonicenses",
+      "titulo": "1 Tesalonicenses",
+      "categoria": "biblia",
+      "resumo": "Probablemente el escrito más antiguo del Nuevo Testamento; conforta a la comunidad sobre la suerte de los que ya han muerto antes de la vuelta de Cristo.",
+      "corpo": "Considerada por muchos estudiosos el documento más antiguo del Nuevo Testamento, fue escrita para consolar a una comunidad joven, ansiosa por la suerte de los fieles que habían muerto antes de lo que se esperaba que fuera la inminente vuelta de Cristo, afirmando que ellos no están en desventaja y resucitarán primero.",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/POxy1598_%281Th_5.8-10%29.jpg",
+      "imagem_credito": null,
+      "ordem": 59,
+      "testamento": "novo",
+      "genero_literario": "Epístola paulina",
+      "autor_tradicional": "San Pablo",
+      "data_composicao": "hacia el 50-51 d. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:2-tessalonicenses",
+      "slug": "2-tessalonicenses",
+      "titulo": "2 Tesalonicenses",
+      "resumo": "Carta de corrección: aclara el equívoco de que el «Día del Señor» ya había llegado, describe al «hombre de la iniquidad» e insiste en el trabajo y en la vida ordenada mientras se espera.",
+      "corpo": "La Segunda Carta a los Tesalonicenses fue escrita poco tiempo después de la primera, probablemente desde Corinto, hacia el año 51 d.C., cuando Pablo, Silvano (Silas) y Timoteo estaban juntos en aquella ciudad (cf. Hch 18,5). Eso la convertiría en uno de los escritos más antiguos del Nuevo Testamento. La comunidad de Tesalónica —hoy ciudad de Grecia, en Macedonia— había sido fundada por Pablo durante el segundo viaje misionero (Hch 17,1-9) y era objeto de persecución, lo que motiva el elogio inicial a la constancia de los fieles (2 Ts 1,3-4).\n\nEl objetivo principal es corregir un malentendido escatológico. Algunos tesalonicenses, perturbados por una \"inspiración, por una palabra, o por una carta como si fuera nuestra, como si el Día del Señor estuviera inminente\" (2 Ts 2,2), llegaron a creer que ese día ya había llegado. Pablo responde describiendo señales que lo precederían: la apostasía y la manifestación del \"hombre de la iniquidad\", llamado también \"hijo de la perdición\", \"el adversario, que se alza contra todo lo que se llama Dios\" y llega a sentarse en el templo proclamándose dios (2 Ts 2,3-4). Este personaje personifica la iniquidad y precede al Señor, \"que lo destruirá con el soplo de su boca\" (2 Ts 2,8).\n\nUn elemento notable es el \"obstáculo\" que detiene esa manifestación: \"Y ahora sabéis lo que lo detiene, para que él solo se revele en su tiempo\" (2 Ts 2,6). El texto emplea el neutro katéchon (\"lo que detiene\") en el v. 6 y el masculino ho katéchon (\"el que detiene\") en el v. 7 — una ambigüedad que, en la exégesis católica, fue frecuentemente asociada al Imperio romano y a la autoridad legítima que asegura el orden, y que generó una vasta literatura patrística y posterior. La identidad precisa del obstáculo permanece abierta en las interpretaciones.\n\nEl aspecto práctico de la corrección está en el capítulo 3: ante la falsa expectativa del regreso inminente, algunos habían abandonado el trabajo. Pablo reacciona con la frase tantas veces citada: \"El que no quiera trabajar, que no coma\" (2 Ts 3,10), y ordena que se aparten de quien vive \"de modo desordenado, no según la tradición que recibisteis\" (2 Ts 3,6). El autor exhorta a \"manteneros firmes y conservar las tradiciones que aprendisteis, por nuestras palabras o por nuestra carta\" (2 Ts 2,15) — tradición entendida aquí como doctrina transmitida oralmente y por escrito.\n\nLa autoría paulina está atestiguada desde temprano: la carta fue incluida en el canon de Marción, consta en el Fragmento Muratoriano y es mencionada expresamente por Ireneo de Lyon. Aun así, parte de la crítica moderna cuestiona la autoría directa, invocando diferencias de estilo, el tono apocalíptico más elaborado y la mención de una \"carta como si fuera nuestra\" (2 Ts 2,2), que algunos interpretan como señal de un seudónimo posterior. La mayoría de los estudiosos, sin embargo, sigue defendiendo la autoría paulina, y la evidencia externa a su favor se considera incluso más fuerte que la de 1 Tesalonicenses. El testimonio textual incluye el Papiro 30, el Códice Vaticano (s. IV) y el Códice Sinaítico.",
+      "categoria": "biblia",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento",
+        "epístolas paulinas",
+        "Pablo",
+        "Tesalónica",
+        "escatología",
+        "Día del Señor",
+        "hombre de la iniquidad",
+        "katechon",
+        "siglo I",
+        "Códice Vaticano"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Codex_Vaticanus_B%2C_2Thess._3%2C11-18%2C_Hebr._1%2C1-2%2C2.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "2 Tesalonicenses 1,1-3,18 (Biblia de Jerusalén)",
+        "Hechos 18,5",
+        "Códice Vaticano B (2 Ts 3,11-18), s. IV, Wikimedia Commons",
+        "Fragmento Muratoriano; Canon de Marción; Ireneo de Lyon",
+        "Wikipedia: 'Autoría de las Epístolas Paulinas'",
+        "Catecismo de la Iglesia Católica, n. 633 (cf. 2 Ts 2,3-12)"
+      ],
+      "atualizado_em": null,
+      "ordem": 60,
+      "testamento": "novo",
+      "genero_literario": "Epístola paulina",
+      "autor_tradicional": "Tradicionalmente atribuida a Pablo (autoría discutida)",
+      "data_composicao": "hacia 51-52 d.C. o posterior",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:1-timoteo",
+      "slug": "1-timoteo",
+      "titulo": "1 Timoteo",
+      "resumo": "Carta dirigida a Timoteo, en Éfeso, con orientaciones sobre la organización de las comunidades, los requisitos de obispos y diáconos y el combate contra los falsos maestros.",
+      "corpo": "La Primera Carta a Timoteo forma parte, junto con la Segunda a Timoteo y la Carta a Tito, del grupo de las tres \"cartas pastorales\". El nombre deriva del hecho de que están dirigidas a colaboradores encargados del cuidado (pastoreo) de las comunidades y de que contienen instrucciones sobre las cualificaciones y responsabilidades de quienes ejercen en ellas el gobierno. La carta se presenta como enviada por el apóstol Pablo a su \"verdadero hijo en la fe\", Timoteo, a quien habría dejado en Éfeso para combatir la enseñanza desviada (1 Tm 1,3). Pablo había encontrado a Timoteo en Listra, durante el segundo viaje misionero, y este se había convertido en su colaborador más cercano.\n\nEl documento se abre sin la habitual acción de gracias —detalle que los comentaristas destacan como señal de la urgencia del problema— y va directamente a la orden de enfrentar a los falsos maestros, descritos como dedicados a fábulas, genealogías y a una ascesis mal orientada. La carta trata de la oración por todos los hombres y del comportamiento adecuado en la asamblea (cap. 2), de los requisitos morales para los obispos (epískopoi, \"vigilantes\") y los diáconos (diákonoi), que debían ser \"irreprensibles\", casados una sola vez y capaces de gobernar bien su propia casa (1 Tm 3,1-13), del cuidado de las viudas, de los presbíteros y del peligro de la riqueza (caps. 5–6). La eclesiología aquí está más estructurada que en las cartas paulinas indiscutidas, lo cual pesa en el debate sobre la autoría: junto a los obispos y diáconos aparecen los presbíteros y las viudas como grupos con funciones reconocidas en la comunidad, formando un retrato de una Iglesia ya institucionalizada.\n\nLa autoría paulina se afirma en el propio texto (1,1), pero estuvo abierta a discusión ya en la Antigüedad cristiana. A partir del siglo XIX, buena parte de la crítica pasó a considerar las pastorales obra de un autor desconocido, escrita entre finales del siglo I y mediados del II. Entre los argumentos están el vocabulario y el estilo diferentes de las cartas indiscutibles de Pablo, la estructura eclesial más desarrollada y el combate contra una enseñanza de rasgos que recuerdan al gnosticismo naciente. Algunos estudiosos propusieron que el verdadero autor habría sido Policarpo de Esmirna, lo que situaría la composición hacia el año 140 d. C.; otros defienden una \"teoría de los fragmentos\", según la cual la carta reuniría notas auténticas de Pablo cosidas por un discípulo. Un número menor, pero persistente, de autores sostiene la autoría paulina directa, con una datación en torno a los años 62-64 d. C.\n\nUno de los pasajes más discutidos de todo el Nuevo Testamento se encuentra en 1 Tm 2,11-15, que trata del silencio y la sumisión de las mujeres y de la enseñanza de la autoridad. La interpretación católica tradicional ve ahí una ordenación sobre el gobierno y la enseñanza en la asamblea; muchos exegetas modernos, sin embargo, subrayan el contexto específico de Éfeso, ciudad marcada por el culto de Artemisa, cuyo templo era una de las siete maravillas del mundo antiguo, y donde fermentaba una enseñanza falsa de la cual las mujeres eran más bien destinatarias que promotoras. El pasaje sobre las mujeres que \"se salvarán por la maternidad\" (2,15) se lee a veces a la luz de ese ambiente. Igualmente debatido es 1 Tm 3,11, donde algunos traducen \"mujeres\" como las esposas de los diáconos y otros como mujeres que ejercían el diaconado, a semejanza de Febe, \"diaconisa\" mencionada en Rm 16,1. El texto, por tanto, fue y sigue siendo leído de modos divergentes dentro y fuera de la Iglesia.",
+      "categoria": "biblia",
+      "tags": [
+        "1 Timoteo",
+        "Nuevo Testamento",
+        "cartas pastorales",
+        "San Pablo",
+        "Timoteo",
+        "Éfeso",
+        "obispos y diáconos",
+        "falsos maestros",
+        "autoría paulina",
+        "Artemisa",
+        "epístolas"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Uncial_015_%281_Tm_2.2-6%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Biblia de Jerusalén, Primera Carta a Timoteo (introducción y notas)",
+        "Catecismo de la Iglesia Católica, nn. 101-108 (inspiración y verdad de la Sagrada Escritura)",
+        "Concilio Vaticano II, Constitución dogmática Dei Verbum, nn. 18-20",
+        "Felix Just, S.J., The Pastoral Epistles: 1 & 2 Timothy, Titus (catholic-resources.org)",
+        "Hechos 19,23-40 (el tumulto de los plateros en Éfeso y el culto de Artemisa)"
+      ],
+      "atualizado_em": null,
+      "ordem": 61,
+      "testamento": "novo",
+      "genero_literario": "Epístola pastoral",
+      "autor_tradicional": "Tradicionalmente atribuida a Pablo (autoría discutida)",
+      "data_composicao": "finales del siglo I d. C. (en la hipótesis de seudonimia) o años 60",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:2-timoteo",
+      "slug": "2-timoteo",
+      "titulo": "2 Timoteo",
+      "resumo": "El testamento espiritual de Pablo, escrito desde la prisión poco antes de su muerte, que exhorta a Timoteo a perseverar y corona la vida del apóstol con el \"he peleado el buen combate\".",
+      "corpo": "La Segunda Carta a Timoteo es, en la tradición cristiana, la última carta escrita por Pablo, redactada desde una prisión romana cuando ya preveía el martirio. Pertenece, junto con 1 Timoteo y Tito, al grupo de las llamadas \"epístolas pastorales\", las más discutidas entre los escritos atribuidos al apóstol: la crítica moderna suele considerarlas seudónimas u obra de un discípulo (la \"escuela paulina\"), mientras que el testimonio antiguo las recibió como auténticas. El Canon Muratoriano, hacia el año 170, ya las menciona como \"escritos valiosos para la disciplina eclesiástica\", y la Peshitta siríaca, del siglo II, también las incluye.\n\nEsto es porque la carta no encaja bien en el relato de los Hechos: Eusebio de Cesarea, en su Historia Eclesiástica (II, 22), transmite la antigua tradición de que Pablo, tras el primer juicio en Roma, fue liberado, retomó la predicación \"en Oriente y en Occidente\" y, apresado de nuevo en la misma ciudad, sufrió finalmente el martirio — \"en este segundo cautiverio escribió la Segunda Carta a Timoteo, en la que menciona su primera defensa y la muerte inminente\". La misma secuencia aparece ya en la carta de Clemente Romano a los Corintios (1 Clemente 5), que habla de la predicación de Pablo hasta los confines de Occidente antes del testimonio final.\n\nAquel que en la tradición es el último escrito de Pablo es un texto profundamente personal. En el pasaje más citado (2 Tm 4,6-8), compara su propia muerte con una libación: \"yo ya estoy siendo derramado en libación, y el momento de mi partida es inminente\" (nota: el término griego para \"partida\" evoca soltar las amarras de un barco o levantar el campamento), para concluir después: \"he peleado el buen combate, he terminado la carrera, he guardado la fe\". Sigue la corona de justicia que el \"Juez justo\" le dará (4,8). Es de estas líneas, y no de otra fuente coetánea, de donde la piedad cristiana ha extraído siempre la imagen serena del apóstol ante la muerte.\n\nLa carta es rica en nombres y detalles concretos. Pablo lamenta que \"Demas me abandonó, por amor a este mundo\" (4,10), y que en la primera defensa \"todos me abandonaron\" (4,16), pero registra que \"solo Lucas está conmigo\" (4,11); pide que venga Marcos, \"que me es útil para el ministerio\", y que traigan el manto dejado en Tróade con Carpo, \"y los libros, sobre todo los pergaminos\" (4,13). Advierte contra \"Alejandro, el herrero\", que le causó grandes males (4,14-15), y recuerda la bondad de Onesíforo, que lo buscó en Roma y no se avergonzó de sus cadenas (1,16-18). Su estructura general suele describirse como quiástica, moviéndose de Timoteo al Evangelio y de nuevo a Timoteo. El tono de despedida, la insistente llamada a la fidelidad doctrinal y la solemnidad de \"toda la Escritura es inspirada por Dios\" (3,16) hicieron de esta carta el testamento espiritual del apóstol por excelencia.",
+      "categoria": "biblia",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento",
+        "epístolas pastorales",
+        "Pablo",
+        "Timoteo",
+        "martirio",
+        "siglo I"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/End_of_1_Timothy_and_beginning_of_2_Timothy_in_Sinaiticus.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Eusebio de Cesarea, Historia Eclesiástica, II, 22 (sobre la liberación, la segunda prisión y el martirio de Pablo)",
+        "Clemente Romano, 1 Clemente 5",
+        "Canon Muratoriano (c. 170)",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)",
+        "Wikipedia, \"Authorship of the Pauline epistles\" (estatuto de las epístolas pastorales)"
+      ],
+      "atualizado_em": null,
+      "ordem": 62,
+      "testamento": "novo",
+      "genero_literario": "Epístola pastoral",
+      "autor_tradicional": "Tradicionalmente atribuida a Pablo (autoría discutida)",
+      "data_composicao": "finales del siglo I d. C. o años 60 (última carta de Pablo, en la tradición)",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:tito",
+      "slug": "tito",
+      "titulo": "Carta a Tito",
+      "categoria": "biblia",
+      "resumo": "Instrucciones de Pablo a Tito sobre la organización de la joven Iglesia en Creta y los requisitos para los presbíteros.",
+      "corpo": "Dirigida a Tito, dejado por Pablo en Creta para organizar aquella Iglesia recién fundada, trata del nombramiento de presbíteros cualificados y de la conducta cristiana esperada de diferentes grupos dentro de la comunidad —ancianos, jóvenes, esclavos—, reflejando la gracia de Dios que enseña a vivir con sobriedad, justicia y piedad.",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Minuscule_699_GA_folio_41v.jpg",
+      "imagem_credito": null,
+      "ordem": 63,
+      "testamento": "novo",
+      "genero_literario": "Epístola pastoral",
+      "autor_tradicional": "Tradicionalmente atribuida a Pablo (autoría discutida)",
+      "data_composicao": "finales del siglo I d. C. o años 60",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:filemom",
+      "slug": "filemom",
+      "titulo": "Carta a Filemón",
+      "categoria": "biblia",
+      "resumo": "La más breve de las cartas de Pablo: una petición personal y delicada para que Filemón acoja de nuevo a su esclavo fugitivo Onésimo como hermano en Cristo.",
+      "corpo": "La más corta y la más personal de las cartas paulinas: escrita desde la prisión en favor de Onésimo, un esclavo fugitivo que se convirtió y pasó a ayudar a Pablo, pide a su señor, Filemón, que lo acoja de nuevo \"no ya como esclavo, sino... como hermano querido\" (Flm 16) — texto leído como semilla del posterior cuestionamiento cristiano de la esclavitud.",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Fragmento_filemon.jpg",
+      "imagem_credito": "Foto: User:Christian bitencourt — Wikimedia Commons, CC BY-SA 3.0",
+      "ordem": 64,
+      "testamento": "novo",
+      "genero_literario": "Epístola paulina (personal)",
+      "autor_tradicional": "San Pablo",
+      "data_composicao": "hacia 54-62 d. C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:hebreus",
+      "slug": "hebreus",
+      "titulo": "Carta a los Hebreos",
+      "categoria": "biblia",
+      "resumo": "Exposición de Cristo como Sumo Sacerdote perfecto y definitivo, cuyo sacrificio supera y cumple todo el culto y sacerdocio del Antiguo Testamento.",
+      "corpo": "De autoría incierta —ya en la Antigüedad se discutía si realmente era de Pablo—, presenta a Cristo como el Sumo Sacerdote definitivo \"según el orden de Melquisedec\", cuyo único sacrificio en la cruz sustituye y perfecciona todo el sistema sacrificial levítico. El capítulo 11 es el célebre \"elogio de la fe\", con una larga galería de testigos del Antiguo Testamento.",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Papyrus_13_-_British_Library_Papyrus_1532_-_Epistle_to_the_Hebrews_-_2.jpg",
+      "imagem_credito": null,
+      "ordem": 65,
+      "testamento": "novo",
+      "genero_literario": "Epístola (autoría anónima)",
+      "autor_tradicional": "Anónimo (tradicionalmente asociada a Pablo, hoy considerada de otro autor)",
+      "data_composicao": "antes del 70 d.C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:tiago",
+      "slug": "tiago",
+      "titulo": "Carta de Santiago",
+      "categoria": "biblia",
+      "resumo": "Carta de fuerte carácter práctico, célebre por la afirmación de que \"la fe sin obras está muerta\".",
+      "corpo": "De tono marcadamente práctico y sapiencial, más cercana a la literatura sapiencial que a la argumentación teológica paulina, insiste en que la fe genuina se traduce necesariamente en obras concretas de caridad y justicia —\"la fe sin obras está muerta\" (Sant 2,26)—, además de contener fuertes advertencias contra la injusticia social y el mal uso de la lengua.",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Minuscule_319_%28GA%29_f85r.jpg",
+      "imagem_credito": null,
+      "ordem": 66,
+      "testamento": "novo",
+      "genero_literario": "Epístola católica",
+      "autor_tradicional": "Tradicionalmente atribuida a Santiago, \"hermano del Señor\"",
+      "data_composicao": "entre el 45 y el 62 d. C., o finales del siglo I",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:1-pedro",
+      "slug": "1-pedro",
+      "titulo": "1 Pedro",
+      "resumo": "Primera de las epístolas católicas: carta de aliento a cristianos de Asia Menor hostigados a causa de su fe, llamados a vivir con esperanza e integridad, siguiendo a Cristo sufriente.",
+      "corpo": "La carta se abre con el saludo \"Pedro, apóstol de Jesucristo, a los elegidos que viven como extranjeros en la Dispersión, en el Ponto, Galacia, Capadocia, Asia y Bitinia\" (1 Pe 1,1). Son cinco provincias romanas del norte y del centro de Asia Menor —territorio de la actual Turquía—, lo que indica un público amplio, compuesto sobre todo de cristianos procedentes del paganismo, disperso por una vasta región. El autor los llama \"extranjeros y peregrinos\" (1 Pe 2,11) y \"linaje elegido, sacerdocio real, nación santa, pueblo adquirido\" (1 Pe 2,9), aplicando a la comunidad cristiana títulos antes reservados a Israel.\n\nEl tema central es el sufrimiento soportado con paciencia, a imagen de Cristo. Los destinatarios no enfrentaban todavía una persecución sistemática del Imperio, sino la hostilidad social, la calumnia y la burla de los vecinos paganos; la carta exhorta a responder con buena conducta, para que \"aquellos que difaman vuestro buen proceder en Cristo queden confundidos\" (1 Pe 3,16). En 1 Pe 4,12-16 el autor advierte: \"no os extrañéis del fuego ardiente que se ha encendido en medio de vosotros\", y observa que sufrir \"como cristiano\" no debe avergonzar a nadie —uno de los primeros usos del término \"cristiano\" como designación identitaria en un contexto de acusación. Este marco suele relacionarse con el clima creado tras el incendio de Roma bajo Nerón (64 d. C.) y con la difusión del nombre cristiano como sospechoso en los años siguientes.\n\nEl origen de la carta reúne elementos valiosos. Al final, el autor escribe: \"Por medio de Silvano, a quien considero hermano fiel, os he escrito brevemente\" (1 Pe 5,12), lo que la tradición entiende como Silvano actuando de secretario o portador —posiblemente el mismo Silas compañero de Pablo. Sigue el saludo: \"La Iglesia que está en Babilonia, elegida como vosotros, y también Marcos, mi hijo, os saludan\" (1 Pe 5,13). \"Babilonia\" se interpreta ampliamente como clave para designar a Roma, la capital imperial, y \"Marcos\" como el evangelista, discípulo e intérprete de Pedro, lo que confiere a la carta un anclaje en la tradición petrina romana.\n\nLa autoría es discutida. La atribución al apóstol Pedro es tradicional y se apoya en el propio texto; la crítica moderna, sin embargo, observa que el griego de la carta es elegante y culto, con un sólido conocimiento de la Escritura, lo que contrastaría con un pescador galileo de lengua aramea. Estudiosos como Bart Ehrman consideran improbable la autoría directa, mientras que otros explican el buen griego por la intermediación de Silvano y por una secretaría culta. Las dataciones oscilan entre los años 60-64 d. C. (defendida por una lectura tradicional, ligada a Roma) y finales del siglo I, ya bajo la sombra de persecuciones más estructuradas. La epístola fue reconocida desde temprano como canónica en Oriente y en Occidente; el testimonio más antiguo de un texto casi completo es el Papiro 72 (Papyrus Bodmer VIII), del siglo III-IV, conservado en la Biblioteca Apostólica Vaticana, que transmite 1 Pedro, 2 Pedro y Judas.\n\nLa segunda parte de la carta (1 Pe 2,11-5,11) desarrolla las consecuencias morales de la fe: sumisión a las autoridades, deberes domésticos, humildad y vigilancia contra el diablo, \"que ronda rugiendo, buscando a quién devorar\" (1 Pe 5,8). La esperanza que la sostiene es escatológica —la herencia \"incorruptible\" reservada en los cielos (1 Pe 1,4)—, pero traducida en vida concreta en el presente.",
+      "categoria": "biblia",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento",
+        "epístolas católicas",
+        "Pedro",
+        "Silvano",
+        "Marcos",
+        "Asia Menor",
+        "persecución",
+        "sufrimiento",
+        "Roma antigua",
+        "siglo I",
+        "Papiro 72"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/POxy_v0073_n4934_a_01_hires125.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "1 Pedro 1,1-5,14 (Biblia de Jerusalén)",
+        "Papiro 72 (Papyrus Bodmer VIII), Biblioteca Apostólica Vaticana, s. III-IV",
+        "Wikipedia: 'Papiro 72' y 'Autoría de las epístolas paulinas'",
+        "Bart D. Ehrman, Pedro, Pablo y María Magdalena (2006)",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ],
+      "atualizado_em": null,
+      "ordem": 67,
+      "testamento": "novo",
+      "genero_literario": "Epístola católica",
+      "autor_tradicional": "Tradicionalmente atribuida al apóstol Pedro",
+      "data_composicao": "hacia 60-64 d. C., o finales del siglo I",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:2-pedro",
+      "slug": "2-pedro",
+      "titulo": "2 Pedro",
+      "resumo": "Advertencia contra los falsos maestros y los escépticos que se burlaban de la tardanza de la vuelta de Cristo, afirmando que \"para el Señor un día es como mil años\" y que la paciencia divina busca la conversión.",
+      "corpo": "La Segunda Carta de Pedro se presenta como el segundo escrito del apóstol Pedro (2 P 3,1) y ocupa el penúltimo lugar entre las cartas católicas (universales) del Nuevo Testamento. Combate a los falsos maestros infiltrados en la comunidad, que negaban la venida del Señor y se burlaban de la tardanza de la promesa, y responde a esas objeciones con una serie de argumentos: la certeza de la palabra profética, el recuerdo de que Dios ya juzgó al mundo por el diluvio y destruyó Sodoma y Gomorra, y el principio de que \"para el Señor un día es como mil años, y mil años como un día\" (2 P 3,8, eco del Salmo 90,4). La aparente tardanza no es negligencia, sino longanimidad: Dios \"no quiere que nadie perezca, sino que todos lleguen a la conversión\" (2 P 3,9).\n\nLa carta tiene una estrecha relación literaria con la Carta de Judas: la descripción de los falsos maestros y el uso de ejemplos del Antiguo Testamento se asemejan mucho, y la mayoría de los críticos piensa que uno de los dos textos depende del otro. Un punto notable es la referencia a las cartas de Pablo, equiparadas a \"las demás Escrituras\" (2 P 3,15-16), uno de los indicios que los críticos invocan para datar la obra más tarde, ya que presupone un corpus paulino reunido y reconocido como autoridad.\n\nLa autoría es, entre todos los libros del Nuevo Testamento, la más discutida. La tradición atribuye la carta a Pedro; muchos estudiosos modernos, sin embargo, la consideran pseudoepigráfica, redactada por un discípulo ya a comienzos del siglo II, basándose en las diferencias de estilo con respecto a la Primera de Pedro, en el uso de Judas y en la referencia a Pablo. Reflejo de estas dudas es el propio proceso de recepción: en el siglo III, Orígenes la aceptó, pero reconoció que muchos la ponían en duda, y su entrada en el canon solo se consolidó con los concilios de Laodicea (c. 372) y de Cartago (397). La inclusión definitiva entre los libros inspirados descansa, en la doctrina católica, en la autoridad de la Iglesia y no en la solución de las cuestiones de autoría humana.\n\nEl testimonio material más antiguo es el Papiro 72 (Papiro Bodmer VIII, siglos III–IV), que reúne, en un mismo códice, la Primera y la Segunda Carta de Pedro y la Carta de Judas, y se conserva en la Biblioteca Apostólica Vaticana. Este papiro, tanto como la mención de Orígenes, atestigua que la carta circulaba en los ambientes eclesiásticos antiguos a pesar de las vacilaciones sobre su canonicidad.",
+      "categoria": "biblia",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento",
+        "2 Pedro",
+        "cartas católicas",
+        "falsos maestros",
+        "parusía",
+        "Papiro 72",
+        "canonicidad",
+        "siglo II"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Papyrus_Bodmer_VIII.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Segunda Carta de Pedro, caps. 2 y 3 (en especial 3,8-16)",
+        "Papiro 72 (Papiro Bodmer VIII), Biblioteca Apostólica Vaticana, siglos III–IV",
+        "Catecismo de la Iglesia Católica, nn. 101–141 (la Sagrada Escritura)"
+      ],
+      "atualizado_em": null,
+      "ordem": 68,
+      "testamento": "novo",
+      "genero_literario": "Carta católica",
+      "autor_tradicional": "Tradicionalmente atribuida al apóstol Pedro (autoría muy discutida)",
+      "data_composicao": "probablemente comienzos del siglo II (la más tardía del NT, según la crítica)",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:1-joao",
+      "slug": "1-joao",
+      "titulo": "1 Juan",
+      "resumo": "Más tratado espiritual que carta, insiste en que amar a Dios y amar al prójimo son inseparables, pues \"Dios es amor\", y se enfrenta a quienes negaban la encarnación.",
+      "corpo": "Aunque está numerada entre las epístolas, la Primera Carta de Juan no tiene el saludo ni la conclusión epistolares típicos: es más propiamente un tratado, sermón o panfleto de cinco capítulos y 105 versículos, que gira en torno a temas recurrentes en lugar de seguir un hilo lineal; la crítica suele comparar su estructura con la de una sinfonía, en la que los motivos reaparecen. Su propósito declarado es ofrecer \"criterios\" por los cuales una comunidad pueda reconocer quién está verdaderamente en comunión con Dios.\n\nEl texto se sitúa en las comunidades joánicas de finales del siglo I, muy probablemente en Éfeso y sus alrededores, en un momento en que se dividían en facciones rivales que reivindicaban la herencia de la tradición del evangelista. El autor escribe contra adversarios internos, a quienes llama \"anticristos\" y que habían salido de la comunidad (\"salieron de entre nosotros, pero no eran de los nuestros\", 2,19). Esos opositores parecen negar o atenuar la realidad de la encarnación —tendencia asociada al docetismo y a corrientes gnósticas o \"cerintianas\"—, y por eso Juan insiste, ya en el prólogo, en la experiencia sensible del Verbo: \"lo que existía desde el principio, lo que hemos oído, lo que hemos visto con nuestros ojos, lo que contemplamos y palparon nuestras manos\" (1,1). Es sobre todo de esas controversias cristológicas y del signo decisivo del amor fraterno de donde la carta extrae su fuerza: \"quien no ama no ha conocido a Dios, porque Dios es amor\" (4,8); \"en esto hemos conocido el amor: en que él dio su vida por nosotros\" (3,16).\n\nEl testimonio textual de 1 Juan es antiguo. El Papiro 9 (P. Oxy. 402), del siglo III —hoy en la Houghton Library de Harvard—, conserva parte de 1 Jn 4,11-12 y 4,14-17; el Papiro 74 (siglo VII) contiene fragmentos de las tres cartas de Juan; y el Codex Sinaiticus (siglo IV) transmite el escrito íntegramente. Es precisamente en 1 Juan donde se encuentra una de las controversias textuales más célebres de la historia bíblica, el llamado Comma Johanneum (1 Jn 5,7-8): la cláusula \"el Padre, el Verbo y el Espíritu Santo, y estos tres son uno\", que sirve de prueba trinitaria en el Textus Receptus y en la Vulgata clementina, pero falta en prácticamente todos los manuscritos griegos antiguos y aparece en el latín.\n\nLa cuestión tuvo derivaciones específicamente católicas. El 13 de enero de 1897, el Santo Oficio decretó que no se podía negar con seguridad la autenticidad del versículo tal como estaba en la Vulgata; decisión aprobada por León XIII, pero sin la forma específica de la autoridad papal. Treinta años después, el 2 de junio de 1927, bajo Pío XI, el mismo Santo Oficio revirtió el decreto, permitiendo que los estudiosos católicos discutieran el Comma después de examinar las pruebas. La Nova Vulgata, publicada en 1979 después del Concilio Vaticano II, no incluye la cláusula. La carta termina con una advertencia característica —\"hijos míos, guardaos de los ídolos\" (5,21)—, que resume su preocupación central: preservar la fe pura de la comunidad frente a todo aquello que usurpe el lugar de Dios.",
+      "categoria": "biblia",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento",
+        "epístolas católicas",
+        "cartas de Juan",
+        "Dios es amor",
+        "docetismo",
+        "encarnación",
+        "Comma Johanneum",
+        "siglo I"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Papyrus_9_%28GA%29%2C_POxy402.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)",
+        "Decreto del Santo Oficio del 13 de enero de 1897 y declaración del 2 de junio de 1927 sobre el Comma Johanneum (Enchiridion symbolorum, DS 3681)",
+        "Nova Vulgata (1979), que no incluye el Comma Johanneum",
+        "Wikipedia, \"Johannine Comma\" (historia textual de 1 Jn 5,7-8)",
+        "The Gospel Coalition, \"Introduction to 1 John\" (estructura y género literario)"
+      ],
+      "atualizado_em": null,
+      "ordem": 69,
+      "testamento": "novo",
+      "genero_literario": "Epístola católica",
+      "autor_tradicional": "Tradicionalmente atribuida al apóstol Juan",
+      "data_composicao": "finales del siglo I d. C.",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:2-joao",
+      "slug": "2-joao",
+      "titulo": "2 Juan",
+      "resumo": "Breve carta del \"Presbítero\" que exhorta a permanecer en la verdad y en el amor del Evangelio y advierte contra los seductores que negaban la venida de Cristo en la carne.",
+      "corpo": "La Segunda Carta de Juan es una de las obras más breves del Nuevo Testamento, con apenas trece versículos, e integra el conjunto de las tres epístolas joánicas. El autor se presenta únicamente como \"el Presbítero\" (en griego presbýteros, \"anciano\"), y la tradición cristiana lo identifica con el apóstol Juan. El texto está dirigido \"a la Señora elegida y a sus hijos\", expresión sobre la cual los estudiosos discrepan: algunos la leen como una mujer real, líder de una iglesia doméstica; otros, como una personificación de una comunidad cristiana. Entre las hipótesis menos probables está la de que se trate de la propia Virgen María, ya que, si el autor es Juan, la carta habría sido escrita hacia el 90-100 d.C., cuando ella probablemente ya había fallecido.\n\nEn cuanto a la autoría, la Iglesia antigua conoció una cuestión delicada: Papías de Hierápolis, citado por Eusebio de Cesarea en su Historia Eclesiástica, distinguía dos personajes llamados Juan —Juan, el Apóstol, y Juan, el Presbítero—, lo que alimentó la discusión sobre cuál de ellos sería el autor. Las semejanzas de vocabulario y de temas con el Evangelio y la Primera Carta de Juan sustentan, para la mayoría de los estudiosos, una autoría común dentro de la tradición joánica. La canonicidad de la carta fue discutida en la Antigüedad: Eusebio la incluye entre los libros \"antilegomena\" (discutidos), está ausente del antiguo canon siríaco (Peshitta) y recibió una opinión negativa de Teodoro de Mopsuestia; fuera del mundo siríaco, sin embargo, el libro tuvo amplia aceptación y acabó siendo recibido en el canon.\n\nEl contenido articula los grandes temas joánicos de la verdad y del amor (vv. 1-6) y desemboca en una advertencia contra los falsos maestros: \"Han salido por el mundo muchos seductores que no confiesan que Jesucristo ha venido en carne mortal. Ese es el seductor y el anticristo\" (v. 7). El blanco es la herejía que la tradición llama docetismo —del griego dokeîn, \"parecer\"—, doctrina según la cual Cristo habría tenido solo la apariencia de hombre y no un cuerpo humano real, tendencia ligada también al cerintismo, que enseñaba la separación entre el hombre Jesús y el Cristo divino descendido en el bautismo. Al negar la verdadera encarnación, tales doctrinas ponían en riesgo la fe en la cruz y en la resurrección.\n\nPor eso la carta encierra una instrucción severa y muy debatida: \"Si alguno viene a vosotros y no es portador de esta doctrina, no lo recibáis en casa ni le saludéis\" (v. 10). El precepto busca negar hospitalidad y apoyo público a esos maestros, para no hacerse cómplice de su obra, y no prohibir simplemente el diálogo o la discusión. La Segunda Carta de Juan está íntimamente ligada a la Tercera, que trata de la hospitalidad debida a los misioneros legítimos, y forma con ella y con la Primera Carta un pequeño corpus que defiende la fe apostólica contra las distorsiones que amenazaban a las comunidades cristianas a finales del siglo I.",
+      "categoria": "biblia",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento",
+        "2 Juan",
+        "epístolas católicas",
+        "cartas joánicas",
+        "docetismo",
+        "encarnación",
+        "Presbítero",
+        "canon"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/End_of_1_John_and_beginning_of_2_John_in_Sinaiticus.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Biblia de Jerusalén, introducción a la Segunda Carta de Juan",
+        "Eusebio de Cesarea, Historia Eclesiástica, III (sobre Juan, el Presbítero, y los antilegomena)",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)",
+        "Concilio Vaticano II, Constitución Dogmática Dei Verbum, cap. V (1965)"
+      ],
+      "atualizado_em": null,
+      "ordem": 70,
+      "testamento": "novo",
+      "genero_literario": "Epístola católica",
+      "autor_tradicional": "Tradicionalmente atribuida al apóstol Juan (\"el Anciano\")",
+      "data_composicao": "finales del siglo I d.C.",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:3-joao",
+      "slug": "3-joao",
+      "titulo": "3 Juan",
+      "resumo": "La más breve carta del Nuevo Testamento, billete de \"el Anciano\" a Gayo, que elogia su hospitalidad y reprende la soberbia de Diótrefes.",
+      "corpo": "La Tercera Carta de Juan es el más corto de todos los libros del Nuevo Testamento: Orígenes, en el siglo III, decía que la segunda y la tercera cartas de Juan, sumadas, \"no contienen cien líneas\" (registrado por Eusebio, Historia Eclesiástica VI, 25, 10). Es una carta personal, dirigida por quien se presenta solo como \"el Anciano\" (ho presbyteros) a un cierto Gayo, a quien elogia por acoger a misioneros itinerantes y recomienda un grupo de cristianos encabezado por Demetrio. El motivo más agudo del escrito es la reprensión a Diótrefes, que se niega a acoger a esos misioneros, \"le gusta ocupar el primer puesto\" en la comunidad (v. 9) y llega a expulsar de la Iglesia a quien lo hace.\n\nEl escenario es el de las comunidades joánicas en Asia Menor, probablemente en Éfeso, en el cambio del siglo I al II, cuando tales comunidades sufrían divisiones internas entre corrientes fieles a la tradición del autor y grupos a los que él llama \"anticristos\", asociados a tendencias docetas o gnósticas. La cuestión de fondo de 2 y 3 Juan es la misma —cómo tratar a los maestros itinerantes—, abordada desde ángulos complementarios: 2 Juan advierte a la \"señora elegida\" que no dé hospitalidad a quien niega que Jesús vino en carne, mientras que 3 Juan alaba a Gayo por acoger a los maestros verdaderos y reprueba a Diótrefes por rechazarlos. El pasaje final, \"la paz sea contigo; los amigos te saludan. Saluda a los amigos, uno por uno\" (v. 15), es fórmula típica de la correspondencia de la época, con la \"paz\" adoptada por los cristianos a partir del uso judío.\n\nLa aceptación de 3 Juan en el canon fue lenta y disputada. No hay mención de ella en la literatura cristiana antigua hasta mediados del siglo III; por su extrema brevedad, escritores antiguos dudaron de su autenticidad hasta principios del siglo V, cuando pasó a ser recibida junto con las otras dos cartas de Juan. Eusebio de Cesarea la incluye entre los libros \"discutidos\" —\"los que se llaman la Segunda y la Tercera de Juan, ya pertenezcan al evangelista, ya a otro del mismo nombre\" (HE III, 25, 2)—, y el Canon Muratoriano menciona solamente dos cartas de Juan, probablemente las dos primeras. Orígenes y Jerónimo conocían la tercera, pero Jerónimo observaba que muchos la atribuían al \"Anciano\", persona distinta del apóstol.\n\nDe la mención, hecha por Papías de Hierápolis y citada por Eusebio, de un \"presbítero Juan\" distinto del apóstol en Éfeso (HE III, 39), nace la principal controversia sobre la autoría: 3 Juan fue casi con certeza escrita por el mismo autor de 2 Juan y, muy probablemente, también de 1 Juan, pero la identidad de ese autor es incierta: puede ser el propio Juan Evangelista o el llamado Juan el Presbítero. Como observa C. H. Dodd, si intentamos identificar al autor anónimo de estas cartas con una figura conocida, \"tenemos poco más que conjeturas\". La datación es igualmente discutida: la tradición sitúa la carta a finales del siglo primero (c. 90), mientras que algunos estudiosos, como John A. T. Robinson, la adelantan a c. 60-65.",
+      "categoria": "biblia",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento",
+        "epístolas católicas",
+        "cartas de Juan",
+        "Diótrefes",
+        "Gayo",
+        "Juan el Anciano",
+        "canon del Nuevo Testamento",
+        "siglo I"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/15/2_John%2C_3_John%2C_and_Jude_in_Sinaiticus.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Eusebio de Cesarea, Historia Eclesiástica, III, 25, 2 y III, 39 (los libros discutidos; el presbítero Juan)",
+        "Eusebio de Cesarea, Historia Eclesiástica, VI, 25, 10 (Orígenes sobre la brevedad de 2 y 3 Juan)",
+        "Canon Muratoriano (c. 170)",
+        "Wikipedia, \"Third Epistle of John\" (autoría, datación, cita de C. H. Dodd)",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ],
+      "atualizado_em": null,
+      "ordem": 71,
+      "testamento": "novo",
+      "genero_literario": "Epístola católica",
+      "autor_tradicional": "Tradicionalmente atribuida al apóstol Juan (\"el Anciano\")",
+      "data_composicao": "finales del siglo I d. C.",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:judas",
+      "slug": "judas",
+      "titulo": "Carta de Judas",
+      "categoria": "biblia",
+      "resumo": "Breve carta de advertencia vehemente contra falsos maestros que tergiversaban la gracia de Dios para justificar la inmoralidad.",
+      "corpo": "Breve y de lenguaje vigoroso, advierte contra falsos maestros infiltrados en la comunidad que tergiversaban la doctrina de la gracia para justificar conductas inmorales, usando como advertencia ejemplos del Antiguo Testamento y de tradiciones judías extrabíblicas (como la mención del arcángel Miguel disputando por el cuerpo de Moisés).",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Colophon_Alexandrinus_Jude.JPG",
+      "imagem_credito": null,
+      "ordem": 72,
+      "testamento": "novo",
+      "genero_literario": "Epístola católica",
+      "autor_tradicional": "Tradicionalmente atribuida a Judas, \"hermano de Santiago\"",
+      "data_composicao": "finales del siglo I d.C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    },
+    {
+      "id": "biblia:apocalipse",
+      "slug": "apocalipse",
+      "titulo": "Apocalipsis",
+      "categoria": "biblia",
+      "resumo": "Visión profética, en lenguaje simbólico, del combate entre el Reino de Dios y las potencias del mal, que culmina en la victoria definitiva de Cristo.",
+      "corpo": "Escrito en un tiempo de persecución, utiliza el lenguaje simbólico propio de la literatura apocalíptica judía —números, animales, colores, visiones cósmicas— para revelar, tras los acontecimientos históricos, el combate entre el Cordero (Cristo) y las potencias del mal, que culmina en la visión de la \"nueva Jerusalén\" y de los \"cielos nuevos y tierra nueva\" (Ap 21). No es, en la lectura católica tradicional, un manual de predicciones cronológicas literales de los acontecimientos finales, sino un mensaje de esperanza para los perseguidos de todos los tiempos.",
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/da/Dublin%2C_Chester_Beatty_Ms_Chester_Beatty_III_Papyrus_47_fol._7r_Rev_13%2C16-14.jpg",
+      "imagem_credito": null,
+      "ordem": 73,
+      "testamento": "novo",
+      "genero_literario": "Apocalíptico/profético",
+      "autor_tradicional": "Tradicionalmente atribuido al apóstol Juan",
+      "data_composicao": "finales del siglo I d.C. (reinado de Domiciano)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Biblia de Jerusalén",
+        "Catecismo de la Iglesia Católica, nn. 101-141 (la Sagrada Escritura)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "_meta": {
+    "categoria": "musica-sacra",
+    "nome": "Sacred Music",
+    "descricao": "Gregorian chant and the great Latin hymns of the Catholic tradition — Te Deum, Tantum Ergo, Salve Regina and others — with liturgical context and translation.",
+    "status": "exemplos-iniciais",
+    "aviso": "An initial set of the best-known hymns and genres; it does not exhaust the richness of the whole Catholic musical tradition.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Second Vatican Council, Sacrosanctum Concilium, ch. VI",
+      "Liber Usualis"
+    ]
+  },
+  "itens": [
+    {
+      "id": "musica-sacra:canto-gregoriano",
+      "slug": "canto-gregoriano",
+      "titulo": "Gregorian Chant",
+      "categoria": "musica-sacra",
+      "resumo": "The official liturgical chant of the Latin Church: monophonic melody, without instruments, sung in Latin for more than a thousand years.",
+      "corpo": "Gregorian chant — a name that tradition associates with Pope Saint Gregory the Great, although its definitive form was consolidated centuries after him — is the repertoire of monophonic liturgical chants (a single melodic line, without harmony) that accompanies the Mass and the Divine Office in the Latin tradition. The Second Vatican Council, in the constitution Sacrosanctum Concilium, reaffirmed it as \"specially suited to the Roman liturgy\" and therefore to be given \"pride of place\" in liturgical services, even while permitting other forms of music. Its most striking characteristics are the absence of instruments, a free rhythm based on the Latin text it accompanies, and a contemplative and timeless quality very distinct from modern music.",
+      "tags": [
+        "Sacrosanctum Concilium",
+        "monophony",
+        "Roman liturgy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Ave_maria_gregorian_chant.gif",
+      "imagem_credito": "Public Domain — Wikimedia Commons, CC BY-SA 4.0",
+      "idioma": "Latin",
+      "ordem": 1
+    },
+    {
+      "id": "musica-sacra:te-deum",
+      "slug": "te-deum",
+      "titulo": "Te Deum Laudamus",
+      "categoria": "musica-sacra",
+      "resumo": "One of the oldest and most solemn hymns of praise in the Christian tradition, sung in thanksgiving and on occasions of great solemnity.",
+      "corpo": "\"Te Deum laudamus\" (\"We praise you, O God\") is a hymn of praise to the Most Holy Trinity, of uncertain authorship but probably from the fourth century, sometimes attributed to Saint Ambrose or Nicetas of Remesiana. It is traditionally sung on occasions of particular solemnity and thanksgiving — the end of the civil year on the night of December 31, canonizations, episcopal ordinations, the close of councils — and it forms part of the Office of Readings on Sundays and solemnities. Its structure runs through praise of the angels, the apostles, the prophets, the martyrs, and the whole Church, culminating in a confident plea for God's mercy.",
+      "tags": [
+        "Trinitarian hymn",
+        "thanksgiving",
+        "Office of Readings"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Koronacja_na_kr%C3%B3la_Pontyfika%C5%82_Erazma_Cio%C5%82ka.jpg",
+      "imagem_credito": null,
+      "idioma": "Latin",
+      "ordem": 2
+    },
+    {
+      "id": "musica-sacra:tantum-ergo",
+      "slug": "tantum-ergo",
+      "titulo": "Tantum Ergo",
+      "categoria": "musica-sacra",
+      "resumo": "The last two stanzas of Thomas Aquinas's Eucharistic hymn, sung at Benediction of the Blessed Sacrament.",
+      "corpo": "\"Tantum Ergo Sacramentum\" corresponds to the final two stanzas of the hymn \"Pange Lingua Gloriosi,\" composed by Thomas Aquinas for the feast of Corpus Christi, instituted in 1264. It is traditionally sung at the moment of Eucharistic Benediction during the Adoration of the Blessed Sacrament, when the priest raises the monstrance over the faithful, and it has become one of the best-known and most frequently set Eucharistic hymns of the Catholic tradition, with versions ranging from simple Gregorian chant to elaborate polyphonic compositions by composers such as Duruflé and Fauré.",
+      "tags": [
+        "Thomas Aquinas",
+        "Corpus Christi",
+        "Eucharistic adoration"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Saint_Thomas_Aquinas_Reading.png",
+      "imagem_credito": "Wikimedia Commons, CC BY-SA 4.0",
+      "idioma": "Latin",
+      "ordem": 3
+    },
+    {
+      "id": "musica-sacra:pange-lingua",
+      "slug": "pange-lingua",
+      "titulo": "Pange Lingua Gloriosi",
+      "categoria": "musica-sacra",
+      "resumo": "The complete hymn by Thomas Aquinas on the Eucharistic mystery, sung above all in the Holy Thursday procession.",
+      "corpo": "\"Pange Lingua Gloriosi Corporis Mysterium\" (\"Sing, my tongue, the mystery of the glorious Body\") is the complete Eucharistic hymn composed by Thomas Aquinas, of which the \"Tantum Ergo\" constitutes only the final two stanzas. It is traditionally sung during the procession of the Blessed Sacrament on the night of Holy Thursday, when the Eucharist is solemnly carried from the main altar to the place of reposition, recalling both the institution of the Eucharist at the Last Supper and the vigil in Gethsemane. It is considered one of the masterpieces of medieval Latin liturgical poetry.",
+      "tags": [
+        "Thomas Aquinas",
+        "Holy Thursday",
+        "liturgical poetry"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Benozzo_Gozzoli_-_Triumph_of_St_Thomas_Aquinas_-_WGA10334.jpg",
+      "imagem_credito": null,
+      "idioma": "Latin",
+      "ordem": 4
+    },
+    {
+      "id": "musica-sacra:veni-creator-spiritus",
+      "slug": "veni-creator-spiritus",
+      "titulo": "Veni Creator Spiritus",
+      "resumo": "Latin hymn invoking the Holy Spirit, attributed to Rabanus Maurus (9th century), sung at Pentecost, ordinations, councils and the papal conclave.",
+      "corpo": "\"Veni Creator Spiritus\" (\"Come, Creator Spirit\") is one of the oldest and most solemn hymns invoking the Holy Spirit in the Latin tradition. The text, in tetrameters (8-8-8-8 scheme), invokes the Spirit as \"Creator\" who visits the minds of the faithful and fills with grace from on high the hearts that God has created, asking for his light and his strength. Its composition is attributed by tradition to Rabanus Maurus (c. 780–856), a Frankish Benedictine monk, abbot of Fulda and later archbishop of Mainz, one of the greatest intellectual figures of the Carolingian renaissance — the approximate date of composition is c. 809. The attribution appears consistently in medieval hymnals and breviaries, although no autograph survives; for this reason the authorship is presented as \"attributed\", and not as documentary certainty.\n\nAs for the melody, the Latin text is normally sung to a Gregorian chant in mode VIII, known from Kempten manuscripts dating back to about 1000. The hymn was incorporated into the Roman Breviary and the Gradual for Pentecost: it is sung in the celebrations of that day, in particular at the Hour of Terce and at Vespers, and traditionally also on the first day of the year. Linked to it is the Pentecost sequence Veni Sancte Spiritus, which is a different composition, often confused with this hymn.\n\nThe use of the hymn is exceptionally wide. It is sung at the entrance of the cardinal electors into the Sistine Chapel, during the conclave, immediately after the Litany of the Saints and before the oath, invoking the Spirit upon the election of the new pope. It is intoned at the ordination of priests and bishops, at the consecration of bishops, at religious profession, at the administration of Confirmation, at the dedication of churches, at the opening of councils and synods, at the coronation of monarchs and at other solemnities of beginning. It is documented, among others, in the reformed use of the Second Vatican Council.\n\nThe liturgical richness of the hymn extends beyond the Roman rite. Martin Luther made a German versification of it, \"Komm, Gott Schöpfer, heiliger Geist\", which became one of the pillars of the Lutheran hymnal; and, among modern adaptations, the German rhymed translation \"Komm, Heiliger Geist, der Leben schafft\", by Friedrich Dörr (1972), was adopted in the Gotteslob hymnal (1975 and 2013). The Enchiridion Indulgentiarum grants a plenary indulgence to those who recite the \"Veni Creator Spiritus\" on the first of January or on the feast of Pentecost, and a partial indulgence on other occasions. Its inspiration runs through centuries of Western music, and it has been set to music by numerous composers.",
+      "categoria": "musica-sacra",
+      "tags": [
+        "Holy Spirit",
+        "Pentecost",
+        "Rabanus Maurus",
+        "Latin hymn",
+        "conclave",
+        "9th century",
+        "Gregorian chant",
+        "ordinations"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Rabanus_Maurus.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Wikipedia (en): \"Veni Creator Spiritus\" and \"Conclave\"",
+        "Catholic Encyclopedia, \"Veni Creator Spiritus\" (New Advent)",
+        "Enchiridion Indulgentiarum (Handbook of Indulgences), no. 61",
+        "Faith and Verse: \"Saint Rabanus Maurus\" (attribution and Carolingian context)"
+      ],
+      "atualizado_em": null,
+      "idioma": "latim",
+      "ordem": 5
+    },
+    {
+      "id": "musica-sacra:salve-regina",
+      "slug": "salve-regina",
+      "titulo": "Salve Regina",
+      "resumo": "The best known of the four Marian antiphons of the Divine Office, sung at the end of Compline and as the closing prayer of the Rosary.",
+      "corpo": "\"Salve Regina, Mater misericordiae\" (\"Hail, Queen, Mother of mercy\") is the most popular of the four great Marian antiphons of the Divine Office — together with Alma Redemptoris Mater, Ave Regina Caelorum and Regina Caeli. The text is composed in sonorous prose, and Gregorian chant divides it into phrases of unequal syllabic length. The prayer invokes Mary as \"our life, our sweetness and our hope\" and implores her maternal intercession \"after this our exile\", at the hour of death, ending in the threefold acclamation \"O clemens, O pia, O dulcis Virgo Maria\".\n\nThe dating and authorship are matters of debate. The hymn is thought to have been composed in the 11th century, and current scholarship tends to favor attribution to Hermannus Contractus, that is, Blessed Hermann of Reichenau (1013–1054), a German Benedictine monk, blind in his maturity, author of works on history, music theory, mathematics and astronomy and of numerous hymns. The Alma Redemptoris Mater and the Veni Sancte Spiritus are also traditionally attributed to him. Other candidates have emerged over the centuries: Pedro de Mezonzo, Bishop of Compostela (c. 930–1003), who according to Galician tradition composed it inspired by the image of Our Lady of the Large Eyes, patroness of Lugo; Adhemar of Monteil, Bishop of Le Puy, who died in 1098; and Bernard of Clairvaux. Musicologists, however, tend to regard it as anonymous.\n\nThe liturgical spread is well documented. The Salve Regina was used as a processional chant at Cluny as early as around 1135. The Cistercians adopted it as a daily processional chant around 1218 and as the conclusion of Compline in 1251; the Dominicans and Franciscans did the same at about the same time, and the Carmelites even used it in place of the Last Gospel of the Mass. The final invocation \"O clemens, O pia, O dulcis Virgo Maria\" is traditionally attributed to Bernard of Clairvaux, who is said to have added it spontaneously at Speyer, kneeling; the legend, however, is considered doubtful, since the verses already appear in manuscripts predating the episode.\n\nIn the rubric of the Roman Breviary, the Salve Regina is sung at the end of Compline — the last hour of the day — in the period from the First Vespers of the feast of the Most Holy Trinity until the First Vespers of the First Sunday of Advent; during the rest of the liturgical year the other antiphons are used. The Salve Regina is also the closing prayer of the Rosary. The Catholic spiritual tradition has produced numerous commentaries on the text, among them those of Bernard of Clairvaux, Anselm of Lucca, Peter Canisius and, in the 18th century, Alphonsus Maria de Liguori, who took it as the guiding thread of his work The Glories of Mary. It was also incorporated, by Leo XIII, into the set of prayers recited at the end of Low Mass.",
+      "categoria": "musica-sacra",
+      "tags": [
+        "Marian antiphon",
+        "Compline",
+        "intercession of Mary",
+        "Hail Holy Queen",
+        "Hermann of Reichenau",
+        "11th century",
+        "Divine Office",
+        "Cluny"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Salve_Regina_in_tono_solemni.jpg",
+      "imagem_credito": "Der wahre Jakob, 2019 (CC BY-SA 4.0)",
+      "fontes": [
+        "Catholic Encyclopedia, entry \"Salve Regina\" (New Advent)",
+        "Wikipedia (en): \"Salve Regina\" and \"Hermann of Reichenau\"",
+        "Preces Latinae, \"Salve Regina\" (with the rubrics of the Roman Breviary)",
+        "Roman Breviary (translation by D. A. M. Gubianas, 1936), rubrics of Compline"
+      ],
+      "atualizado_em": null,
+      "idioma": "latim",
+      "ordem": 6
+    },
+    {
+      "id": "musica-sacra:ave-maria-musica",
+      "slug": "ave-maria-musica",
+      "titulo": "Hail Mary (musical tradition)",
+      "categoria": "musica-sacra",
+      "resumo": "The angelic salutation to Mary became one of the most frequently set texts in Western history, from Gregorian chant to Schubert and Gounod.",
+      "corpo": "Few liturgical texts have been set to music as many times throughout history as the Hail Mary, which joins the greeting of the Archangel Gabriel (\"Hail, full of grace\") to Elizabeth's greeting to Mary (Lk 1:28, 42) and the final petition (\"Holy Mary, Mother of God, pray for us...\"). Besides its original version in Gregorian chant, it has received countless art-music settings over the centuries — from Josquin des Prez to Palestrina, from the famous version by Franz Schubert (originally non-liturgical) to the equally famous one by Charles Gounod, built upon a prelude by Bach —, becoming one of the most universal meeting points between popular Marian devotion and the great Western music.",
+      "tags": [
+        "angelic salutation",
+        "Schubert",
+        "Gounod",
+        "Marian devotion"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Zelli_Annunciation_%28detail%29_02.jpg",
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 7
+    },
+    {
+      "id": "musica-sacra:adoro-te-devote",
+      "slug": "adoro-te-devote",
+      "titulo": "Adoro Te Devote",
+      "resumo": "Eucharistic hymn by Thomas Aquinas, a meditation on faith in the real presence of Christ under the species of bread and wine.",
+      "corpo": "\"Adoro Te Devote\" (\"Devoutly I adore You\") is a hymn of Eucharistic adoration from the Catholic tradition, composed by Thomas Aquinas (c. 1225–1274) in the thirteenth century, originally in Latin. Unlike the hymns that the Angelic Doctor composed for the liturgical office of the solemnity of Corpus Christi, this text was not written for a liturgical function and does not appear in the liturgical books of the period; scholars consider that it was written around 1260 (according to others, on the occasion of the institution of the feast, in 1264) for private use, perhaps for thanksgiving after Mass. Among all of Thomas's poetic compositions, critics usually point to the Adoro Te Devote as the happiest and most lyrical, composed at the end of his life.\n\nThe hymn is a meditation on the act of faith demanded by the Eucharist. The most famous stanza sums up this theology: \"Sight, touch, and taste in Thee are deceived; the hearing alone may safely be believed\" — that is, only the revealed word of Christ, heard with faith, guarantees the real presence where the senses perceive only bread and wine. The text reflects the doctrine of transubstantiation and the Eucharistic spirituality that Thomas developed in the context of the feast of Corpus Christi, whose institution is linked to the Eucharistic fervor spread in northern Europe, especially in Belgium, beginning with Saint Juliana of Cornillon.\n\nThe context of these hymns lies in the bull Transiturus de hoc mundo, promulgated on August 11, 1264 by Pope Urban IV, which instituted for the entire Latin Church the feast of Corpus Christi — the first universal feast sanctioned by a pope in the history of the Latin rite. Urban IV, whom he had known when he was archdeacon in Liège, entrusted Thomas with composing the office of the new feast, called Sacerdos in aeternum; part of it are the Pange lingua (hymn of Vespers), the Sacris solemniis (Office of Readings), the Verbum supernum (Lauds) and the sequence Lauda Sion. The Adoro Te Devote does not belong to this group: it is a parallel and independent composition.\n\nOver the centuries the hymn entered public worship. It is found in the Roman Missal as a prayer of thanksgiving after Mass; the Catholic Encyclopedia records, for priests, an indulgence of one hundred days, later extended to all the faithful by a decree of June 17, 1895; Wikipedia (en) further mentions that on December 13, 1849 Pope Pius IX established a three-year period of indulgence, and that the partial indulgence remains in force even after the removal of the prayer from the Missal of 1969. The text has been translated into several languages and set to music by composers such as César Franck and Maurice Duruflé, and is used in votive Masses of the Blessed Sacrament, holy hours and other Eucharistic devotions. The Catholic spiritual tradition recommends it as a personal meditation before the exposed Blessed Sacrament.",
+      "categoria": "musica-sacra",
+      "tags": [
+        "Thomas Aquinas",
+        "Eucharistic faith",
+        "adoration",
+        "Corpus Christi",
+        "Eucharistic hymn",
+        "13th century",
+        "transubstantiation",
+        "Urban IV"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Adoro_te_devote_%28gregorian%29.png",
+      "imagem_credito": null,
+      "fontes": [
+        "Catholic Encyclopedia, entry \"Adoro Te Devote\" (New Advent)",
+        "Wikipedia (pt): \"Adoro te devote\"; Wikipedia (en): \"Adoro te devote\"",
+        "Pope Urban IV, bull Transiturus de hoc mundo (August 11, 1264)",
+        "Comunidade Católica Shalom: \"The Eucharistic Hymns of Saint Thomas Aquinas\" (transcription of the Vatican text)"
+      ],
+      "atualizado_em": null,
+      "idioma": "latim",
+      "ordem": 8
+    },
+    {
+      "id": "musica-sacra:dies-irae",
+      "slug": "dies-irae",
+      "titulo": "Dies Irae",
+      "categoria": "musica-sacra",
+      "resumo": "A medieval sequence on the Last Judgment, for centuries part of the Requiem Mass and the inspiration of countless composers.",
+      "corpo": "\"Dies Irae, dies illa\" (\"Day of wrath, that day\"), attributed to the Franciscan friar Thomas of Celano in the 13th century, is a dramatic sequence on the Last Judgment, which for centuries was a required part of the Requiem Mass (funeral) in the Roman Rite, until it was made optional in the post-conciliar liturgical reform, which sought to place greater emphasis on the hope of the resurrection. Its original Gregorian melody became one of the most quoted in musical history, appearing transformed in works by Mozart, Verdi, Berlioz, Liszt and even in contemporary film soundtracks, far beyond its original liturgical context.",
+      "tags": [
+        "Thomas of Celano",
+        "Requiem Mass",
+        "Last Judgment"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Last_Judgement_%28Michelangelo%29.jpg",
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 9
+    },
+    {
+      "id": "musica-sacra:stabat-mater",
+      "slug": "stabat-mater",
+      "titulo": "Stabat Mater",
+      "categoria": "musica-sacra",
+      "resumo": "A medieval sequence that contemplates Mary standing at the foot of the cross, one of the most frequently set Marian texts in the entire Western tradition.",
+      "corpo": "\"Stabat Mater dolorosa\" (\"The sorrowful Mother stood\"), attributed to Jacopone da Todi in the thirteenth century, contemplates, verse by verse, Mary's presence at the foot of the cross during the crucifixion of her Son, joining Marian compassion with an invitation to share spiritually in the sufferings of Christ. It became one of the most frequently set liturgical texts in all of Western history, with famous settings by Palestrina, Pergolesi, Rossini, Dvořák and Verdi, among dozens of other composers, and it remains associated above all with the devotion of the Stations of the Cross and with the season of Lent.",
+      "tags": [
+        "Jacopone da Todi",
+        "Our Lady of Sorrows",
+        "Lent"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Hendrick_ter_Brugghen_The_Crucifixion_with_the_Virgin_and_Saint_John.jpg",
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 10
+    },
+    {
+      "id": "musica-sacra:gloria-in-excelsis",
+      "slug": "gloria-in-excelsis",
+      "titulo": "Gloria in Excelsis Deo",
+      "categoria": "musica-sacra",
+      "resumo": "The great hymn of praise sung at Mass, inspired by the song of the angels to the shepherds on the night at Bethlehem.",
+      "corpo": "The \"Gloria in Excelsis Deo\" (\"Glory to God in the highest\") is one of the oldest and most solemn texts sung at Mass, placed right after the penitential act in the Introductory Rites, on Sundays and solemnities (except during Advent and Lent). It is inspired directly by the song of the angels to the shepherds on the night of Jesus' birth (Lk 2:14), and then develops into a broad series of praises, petitions, and acclamations to the Trinity. It has received countless musical settings throughout history, from simple Gregorian formulas to grand symphonic-choral compositions by Vivaldi, Bach, Mozart, and Beethoven in their respective Masses.",
+      "tags": [
+        "Mass",
+        "song of the angels",
+        "Introductory Rites"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Ludovico_Cigoli_-_L%27Adorazione_dei_pastori_con_Santa_Caterina_d%27Alessandria.jpg",
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 11
+    },
+    {
+      "id": "musica-sacra:agnus-dei-canto",
+      "slug": "agnus-dei-canto",
+      "titulo": "Agnus Dei (liturgical chant)",
+      "categoria": "musica-sacra",
+      "resumo": "The invocation to the Lamb of God, sung immediately before communion at every Catholic Mass.",
+      "corpo": "\"Agnus Dei, qui tollis peccata mundi, miserere nobis\" (\"Lamb of God, you take away the sins of the world, have mercy on us\") is sung repeatedly — traditionally three times, the last replacing \"miserere nobis\" with \"dona nobis pacem\" (\"grant us peace\") — at the moment of the fraction of the bread, immediately before communion. Introduced into the Roman liturgy by Pope Sergius I in the seventh century, it directly takes up John the Baptist's proclamation about Jesus (Jn 1:29) and is, like the Gloria and the Sanctus, part of the \"Ordinary\" of the Mass set to music by practically every great composer of sacred music throughout history.",
+      "tags": [
+        "Lamb of God",
+        "fraction of the bread",
+        "Ordinary of the Mass"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lam_Gods_%28titel_op_object%29%2C_RP-P-1997-162.jpg",
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 12
+    },
+    {
+      "id": "musica-sacra:hinos-latinos-e-traducao",
+      "slug": "hinos-latinos-e-traducao",
+      "titulo": "Latin and Translation in Sacred Music",
+      "categoria": "musica-sacra",
+      "resumo": "Why the Church preserves Latin in so many liturgical hymns, and how to grasp their meaning without mastering the language.",
+      "corpo": "Latin remains the official language of the Latin Church and of a large part of its classical musical repertoire, not out of attachment to a \"dead\" language, but because of its value as a universal bond of unity (the same hymn sung and recognized in any country of the world), its theological precision consolidated over centuries, and its living connection with the whole musical and spiritual tradition prior to the Second Vatican Council. The Council, although it broadly authorized the use of vernacular languages in the liturgy, explicitly asked that care be taken so that the faithful \"may also be able to say or to sing together in Latin those parts of the Ordinary of the Mass which pertain to them\" — hence the catechetical value of knowing at least the translation of the most common Latin hymns, so as to join them to a conscious understanding of what is sung.",
+      "tags": [
+        "Sacrosanctum Concilium",
+        "liturgical language",
+        "musical catechesis"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Antiphonal_folio_with_historiated_initial_%27E%27_%28CBL_W_195.097%29.jpg",
+      "imagem_credito": null,
+      "idioma": "Latin/Portuguese",
+      "ordem": 13
+    },
+    {
+      "id": "musica-sacra:ubi-caritas",
+      "slug": "ubi-caritas",
+      "titulo": "Ubi Caritas",
+      "categoria": "musica-sacra",
+      "resumo": "An antiphon that celebrates fraternal charity and unity in Christ, traditionally sung during the washing of the feet on Holy Thursday.",
+      "corpo": "\"Ubi Caritas et Amor, Deus Ibi Est\" (\"Where charity and love are, God is there\") is one of the most human and moving antiphons of the Latin liturgical repertoire, used for centuries to accompany the rite of the washing of the feet at the Mass of the Lord's Supper on Holy Thursday. Its text is attributed to Paulinus of Aquileia, around the year 796, and the traditional Gregorian melody probably dates from the same period.\n\nThe hymn celebrates the Christian fraternity gathered by the love of Christ — \"the love of Christ has gathered us into one\" — and remains a living part of the contemporary liturgy, with numerous modern choral settings, among them those composed by Maurice Duruflé and by the Taizé community, which extended its reach far beyond the Holy Thursday rite.",
+      "tags": [
+        "Holy Thursday",
+        "washing of the feet",
+        "fraternal charity"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 14,
+      "fontes": [
+        "Wikipedia, \"Ubi caritas\"",
+        "LiveAbout, \"The Meaning, Latin Lyrics, and English Translation of Ubi Caritas\""
+      ]
+    },
+    {
+      "id": "musica-sacra:panis-angelicus",
+      "slug": "panis-angelicus",
+      "titulo": "Panis Angelicus",
+      "categoria": "musica-sacra",
+      "resumo": "A stanza of the Eucharistic hymn by Thomas Aquinas, made known worldwide through César Franck's musical setting.",
+      "corpo": "\"Panis Angelicus\" (\"Bread of Angels\") is the sixth stanza of the hymn \"Sacris Solemniis\", one of the Eucharistic texts that Thomas Aquinas composed for the feast of Corpus Christi, instituted in 1264. The text celebrates the Eucharistic bread as food that surpasses every ancient figure, given to children and not merely to servants.\n\nThe most famous musical setting is the one composed by César Franck in 1872, originally for tenor and organ, later incorporated into his Mass for three voices. Performed and recorded thousands of times since then, it has become one of the jewels of sacred music of a Eucharistic character, sung both in concerts and in celebrations of adoration of the Blessed Sacrament.",
+      "tags": [
+        "Thomas Aquinas",
+        "César Franck",
+        "Corpus Christi"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 15,
+      "fontes": [
+        "Wikipedia, «Panis angelicus»"
+      ]
+    },
+    {
+      "id": "musica-sacra:victimae-paschali-laudes",
+      "slug": "victimae-paschali-laudes",
+      "titulo": "Victimae Paschali Laudes",
+      "categoria": "musica-sacra",
+      "resumo": "Easter sequence sung at the Mass of Easter Sunday, one of the four medieval sequences preserved in the Roman Missal.",
+      "corpo": "\"Victimae Paschali Laudes\" (\"Praises to the Paschal Victim\") is the sequence prescribed for the Mass of Easter Sunday, traditionally attributed to Wipo of Burgundy, chaplain to Emperor Conrad II in the 11th century, although the authorship has also been associated with Notker Balbulus and other medieval authors, with no definitive consensus.\n\nIt is one of only four medieval sequences that survived the reform of the Roman Missal after the Council of Trent (1570) — along with those of Corpus Christi, Pentecost, and the Mass for the Dead — thanks to its simple melody and didactic character, suited to popular piety on Easter morning. The text narrates, in dialogue form, Mary Magdalene's encounter with the empty tomb and the proclamation of the Resurrection.",
+      "tags": [
+        "Easter",
+        "sequence",
+        "Council of Trent"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 16,
+      "fontes": [
+        "Wikipedia, «Victimae paschali laudes»",
+        "Father Paulo Ricardo, «A hymn to the Paschal Victim»"
+      ]
+    },
+    {
+      "id": "musica-sacra:ave-verum-corpus",
+      "slug": "ave-verum-corpus",
+      "titulo": "Ave Verum Corpus",
+      "categoria": "musica-sacra",
+      "resumo": "A short medieval Eucharistic hymn on the real presence of Christ, made famous worldwide through Mozart's musical setting.",
+      "corpo": "\"Ave Verum Corpus\" (\"Hail, true Body\") is a Eucharistic hymn from the 14th century, attributed to Pope Innocent VI, which professes in a few verses the faith in the real presence of Christ in the Eucharist — the body \"truly born of the Virgin Mary\", which \"suffered and was sacrificed on the cross for us\". It was traditionally sung at the elevation, during the consecration, or at Eucharistic benediction.\n\nIts best-known musical setting is the motet K. 618 by Wolfgang Amadeus Mozart, composed on June 17, 1791 for the feast of Corpus Christi, at the request of his friend Anton Stoll, a musician at the church of Saint Stephen in Baden bei Wien. Written for four-part choir, strings and organ, it became one of the most frequently performed pieces of sacred music in the world.",
+      "tags": [
+        "Mozart",
+        "transubstantiation",
+        "Corpus Christi"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 17,
+      "fontes": [
+        "Aleteia, \"Ave Verum Corpus: a 700-year-old Eucharistic hymn, set to music by Mozart\"",
+        "Wikipedia, \"Ave verum corpus (Mozart)\""
+      ]
+    },
+    {
+      "id": "musica-sacra:miserere-allegri",
+      "slug": "miserere-allegri",
+      "titulo": "Allegri's Miserere",
+      "categoria": "musica-sacra",
+      "resumo": "Polyphonic setting of Psalm 51 composed by Gregorio Allegri for the exclusive use of the Sistine Chapel during Holy Week.",
+      "corpo": "Gregorio Allegri's \"Miserere\" is a setting of Psalm 51 (50) composed around 1638, during the pontificate of Urban VIII, to be sung by the choir of the Sistine Chapel during the Tenebrae offices of Holy Week — a practice that goes back to at least 1514. It was written for two choirs, one of five voices and the other of four, complemented by a third group intoning responsories in Gregorian chant, resulting in a polyphonic texture of nine voices.\n\nFor almost a century and a half, its performance was reserved exclusively to the Sistine Chapel, and the work's characteristic vocal ornamentation was transmitted orally among generations of singers, with no complete written record — which makes the \"Miserere\" a unique case in the history of music, also famous for the legend that the young Mozart transcribed it from memory after hearing it only twice.",
+      "tags": [
+        "Sistine Chapel",
+        "Holy Week",
+        "Psalm 51"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "idioma": "Latin",
+      "ordem": 18,
+      "fontes": [
+        "Wikipedia, «Miserere (Allegri)»"
+      ]
+    },
+    {
+      "id": "musica-sacra:lauda-sion",
+      "slug": "lauda-sion",
+      "titulo": "Lauda Sion Salvatorem",
+      "categoria": "musica-sacra",
+      "resumo": "Eucharistic sequence by Thomas Aquinas for the feast of Corpus Christi, one of the four surviving medieval sequences in the Roman liturgy.",
+      "corpo": "\"Lauda Sion Salvatorem\" (\"Zion, to your Savior sing\") was composed by Thomas Aquinas at the request of Pope Urban IV, on the occasion of the institution of the feast of Corpus Christi in 1264 — according to tradition, in the very city of Orvieto, where a Eucharistic miracle is venerated. The text sets out in poetic form the same doctrine on the real presence of Christ in the Eucharist that Thomas developed in his theological treatises.\n\nAfter the Council of Trent, its liturgical use was restricted to the major feasts, remaining, alongside the sequences of Easter, Pentecost and the Mass for the Dead, as one of the four medieval sequences that survived in the post-Tridentine Roman liturgy. It may be sung in its entirety or, more commonly, only in its last four stanzas.",
+      "tags": [
+        "Thomas Aquinas",
+        "Corpus Christi",
+        "Urban IV"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 19,
+      "fontes": [
+        "A12, «Get to Know the Corpus Christi Sequence»",
+        "Gaudium Press, «The Lauda Sion»"
+      ]
+    },
+    {
+      "id": "musica-sacra:missa-papae-marcelli",
+      "slug": "missa-papae-marcelli",
+      "titulo": "Pope Marcellus Mass",
+      "categoria": "musica-sacra",
+      "resumo": "A polyphonic Mass by Palestrina, composed in honor of Pope Marcellus II, surrounded by the legend that it saved polyphony in the Catholic liturgy.",
+      "corpo": "The \"Missa Papae Marcelli\" (Pope Marcellus Mass) was written by Giovanni Pierluigi da Palestrina in honor of Pope Marcellus II, whose pontificate lasted only three weeks in 1555. Its composition is contemporary with the final sessions of the Council of Trent (1562-1563), in which it was debated whether the complexity of polyphony obscured the liturgical text of the Mass too much, harming the devotion of the faithful.\n\nA widespread legend credits this Mass with having convinced Cardinal Charles Borromeo that polyphony could remain intelligible and, thus, with having saved this musical style from being banned from the Catholic liturgy — although historians today note that there is no evidence that the Council intended to prohibit polyphony entirely, nor certainty as to whether the work was composed before or after the conciliar discussions. It is, in any case, Palestrina's most celebrated work, sung at papal coronation Masses until the pontificate of Paul VI, in 1963.",
+      "tags": [
+        "Palestrina",
+        "Council of Trent",
+        "polyphony"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 20,
+      "fontes": [
+        "Wikipedia, «Missa Papae Marcelli»",
+        "Britannica, «Pope Marcellus Mass»"
+      ]
+    },
+    {
+      "id": "musica-sacra:vexilla-regis",
+      "slug": "vexilla-regis",
+      "titulo": "Vexilla Regis",
+      "categoria": "musica-sacra",
+      "resumo": "Hymn to the Cross composed in the sixth century by Venantius Fortunatus, sung at Vespers during Passiontide.",
+      "corpo": "\"Vexilla Regis Prodeunt\" (\"The banners of the King advance\") was composed by Venantius Fortunatus (c. 530-609) to celebrate the arrival of a relic of the True Cross, sent by Emperor Justin II and Empress Sophia to Queen Radegund, who asked the poet for a hymn for the solemn procession to receive the relic.\n\nThe hymn sings of the mystery of the crucifixion, presenting the cross as the victorious standard of Christ the King, uniting the themes of redemption, sacrifice and victory over death. It is traditionally sung at Vespers, from Passion Sunday until Holy Thursday, and on the feast of the Exaltation of the Holy Cross.",
+      "tags": [
+        "Venantius Fortunatus",
+        "Holy Week",
+        "relic of the Cross"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 21,
+      "fontes": [
+        "New Advent, «Vexilla Regis Prodeunt»",
+        "Catholic Culture, «Hymn: Vexilla Regis Prodeunt»"
+      ]
+    },
+    {
+      "id": "musica-sacra:o-salutaris-hostia",
+      "slug": "o-salutaris-hostia",
+      "titulo": "O Salutaris Hostia",
+      "categoria": "musica-sacra",
+      "resumo": "The last two stanzas of a Eucharistic hymn by Thomas Aquinas, traditionally sung at Benediction of the Blessed Sacrament.",
+      "corpo": "\"O Salutaris Hostia\" (\"O saving Victim\") corresponds to the final two stanzas, with the doxology, of the hymn \"Verbum Supernum Prodiens\", one of the five Eucharistic hymns that Thomas Aquinas wrote or revised at the request of Pope Urban IV for the feast of Corpus Christi, instituted in 1264. The complete original text was composed for Lauds of the Office of that feast.\n\nLiturgical practice singled out only these final stanzas to form an independent hymn, sung specifically at the moment of Benediction of the Blessed Sacrament — playing, in Eucharistic exposition, a role similar to that of the \"Tantum Ergo\", taken in an analogous way from the hymn \"Pange Lingua\".",
+      "tags": [
+        "Thomas Aquinas",
+        "Benediction of the Blessed Sacrament",
+        "Corpus Christi"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "idioma": "Latin",
+      "ordem": 22,
+      "fontes": [
+        "Wikipedia, \"O salutaris hostia\"",
+        "Wikipedia, \"Verbum supernum prodiens\""
+      ]
+    },
+    {
+      "id": "musica-sacra:missa-de-angelis",
+      "slug": "missa-de-angelis",
+      "titulo": "Missa de Angelis (Mass VIII)",
+      "categoria": "musica-sacra",
+      "resumo": "The best known of the eighteen Gregorian Masses gathered in the Roman Kyriale, traditionally intended for the greatest solemnities.",
+      "corpo": "The \"Missa de Angelis\", or Mass VIII, is the most frequently performed and best-known of the Gregorian Masses of the Ordinary, bearing the traditional designation \"In festis duplicibus\" (for double feasts), which reserves it for the solemnities of the liturgical calendar. It is part of the Roman Kyriale, the compendium that gathers eighteen sets of Gregorian chants — Kyrie, Gloria, Sanctus and Agnus Dei — for the Ordinary of the Mass.\n\nThe pieces that make up the Missa de Angelis were brought together over different centuries: the Kyrie dates back to the 15th-16th centuries, the Gloria to the 16th century, the Sanctus to the 11th-12th centuries and the Agnus Dei to the 15th century — a mosaic that illustrates well how the Gregorian repertoire of the Ordinary was formed by successive additions, and not all at once.",
+      "tags": [
+        "Kyriale",
+        "Ordinary of the Mass",
+        "solemnities"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "idioma": "latim",
+      "ordem": 23,
+      "fontes": [
+        "Gregorianum.org, «Missa VIII (Missa de Angelis)»",
+        "Aleteia, «The Gregorian chants of the Missa de Angelis in the sublime voices of the monks of Silos»"
+      ]
+    }
+  ]
+}

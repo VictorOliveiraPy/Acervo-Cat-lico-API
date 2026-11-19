@@ -1,0 +1,519 @@
+{
+  "_meta": {
+    "categoria": "ciencia-fe",
+    "nome": "Science and Faith",
+    "descricao": "Catholic scientists, scientific institutions of the Church, Magisterial documents on science and reason, and concepts from the dialogue between faith and science.",
+    "status": "exemplos-iniciais",
+    "aviso": "This collection on science and faith is continually expanded and is not yet a definitive or exhaustive catalog. For catechetical or editorial use, always check the primary source cited in each entry.",
+    "revisao_editorial": "Dates and attributions without historical consensus are marked with 'c.' (circa) or have been omitted. No data was estimated or filled in by inference.",
+    "fontes_gerais": [
+      "Pontifical Academy of Sciences — pas.va",
+      "Vatican Observatory — vaticanobservatory.org",
+      "Encyclicals and papal addresses on faith and reason (e.g., Fides et Ratio)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "ciencia-fe:nicolau-copernico",
+      "slug": "nicolau-copernico",
+      "titulo": "Nicolaus Copernicus",
+      "resumo": "Polish canon and astronomer who formulated the heliocentric theory; the discovery of his tomb in Frombork (2005) and the Index decree of 1616 mark the history of his work.",
+      "corpo": "Born in Toruń, a city of Polish Royal Prussia, on February 19, 1473, Nicolaus Copernicus lost his father while still a child and was raised under the guardianship of a maternal uncle, Lucas Watzenrode, the future bishop of Warmia, who financed and guided his entire education. In 1491 he entered the University of Kraków, where he studied the liberal arts, mathematics and astronomy, and then went on to Italy, at that time the center of the European cultural Renaissance, enrolling in canon law at the University of Bologna — where he was in close contact with the astronomer Domenico Maria Novara, who introduced him to criticisms of the then-dominant Ptolemaic geocentric system — and completing studies in medicine at Padua before earning a doctorate in canon law at Ferrara in 1503. Appointed a canon of the cathedral of Frauenburg (today Frombork, in Poland) even before leaving for Italy, on the recommendation of his uncle the bishop himself, Copernicus effectively took up the post on his return, holding it practically without interruption for the rest of his life alongside diocesan administrative duties, the practice of medicine among the clergy and the local population, and astronomical studies conducted from an improvised observatory in one of the towers of the fortified wall that surrounded the cathedral complex.\n\nAlthough he had sketched the general outlines of his heliocentric theory as early as around 1510, in a small manuscript of restricted circulation known as the Commentariolus — about forty pages that circulated in manuscript among friends —, Copernicus would take decades to develop and, above all, to decide to publish his definitive work. Aware of the philosophical and theological controversy that the thesis could provoke — displacing the Earth from the center of the cosmos ran counter not only to the Aristotelian physics then taught in the universities, but also to literal readings of certain biblical passages —, he repeatedly postponed making his calculations public, even after Pope Clement VII himself had shown interest in his astronomical ideas as early as 1533, hearing them presented by a papal secretary in the Vatican gardens, and after Cardinal Nikolaus von Schönberg had urged him by letter, in 1536, to publish his work as soon as possible. The final decision to publish was owed above all to the insistence of the young Lutheran mathematician Georg Joachim Rheticus, who in 1539 traveled to Frauenburg to study directly with Copernicus and became his only declared disciple. Even before the main work appeared, Rheticus published in Danzig, in 1540, a summary of his master's ideas, the Narratio prima (reissued in Basel in 1541), which is the first printed work to make Copernican heliocentrism known. The definitive manuscript also passed through the hands of his friend Tiedemann Giese, Bishop of Kulm, before going on to the printing house in Nuremberg.\n\nPublished under the title «De revolutionibus orbium coelestium» (On the Revolutions of the Celestial Spheres) and dedicated to Pope Paul III in a preface in which Copernicus himself sought to anticipate and defuse theological objections, insisting that the work relied on mathematics and not on physics, the first edition reached Copernicus — according to the traditional account, repeated since the sixteenth century — only hours before his death on May 24, 1543, so that he may never have actually seen the printed book. An anonymous and unauthorized preface, inserted by the Lutheran theologian Andreas Osiander without the author's knowledge, presented heliocentrism as a mere mathematical hypothesis for calculation, and not as a literal description of physical reality — a device that helped the work circulate without major ecclesiastical resistance in the following decades, until the debate intensified in the early seventeenth century with Galileo Galilei and Johannes Kepler. The Index of Forbidden Books would include the work only in a decree of March 1, 1616, by the Congregation of the Index under Paul V, suspending «De revolutionibus» «until corrected» — a measure linked to the condemnation of heliocentrism in the Galileo affair, and not to the time of publication. A second edition, of 1566, was the first to bring together Copernicus's work and Rheticus's Narratio prima.\n\nThe exact place of his burial was unknown for centuries, until in 2005 excavations beneath the floor of the cathedral of Frombork, guided by radar and near the altar whose chapel had been assigned to him as a canon, revealed human remains attributed to him. The identification was reinforced by mitochondrial DNA analysis that compared a tooth and a femur with the genetic material of hairs found in a copy of Johannes Stoeffler's «Calendarium Romanum Magnum» that had belonged to him — a result published in 2009 in the journal PNAS, based on the work of a Polish and Swedish team. On May 22, 2010, the remains were solemnly buried in the same cathedral, with ecclesiastical honors, in an act that symbolized the belated recognition, by the Church, of one of its own canons. Copernican heliocentrism eventually became one of the founding pillars of the modern scientific revolution, giving its name to the very concept of a radical change of scientific paradigm — the so-called “Copernican revolution.”",
+      "categoria": "ciencia-fe",
+      "tags": [
+        "astronomy",
+        "heliocentrism",
+        "Poland",
+        "Renaissance",
+        "Frombork",
+        "Index",
+        "Rheticus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Portrait_of_Nicolaus_Copernicus_Wellcome_L0015712.jpg",
+      "imagem_credito": "Wellcome Library, London (CC BY 4.0)",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Nicolau_Cop%C3%A9rnico",
+        "https://www.pnas.org/doi/10.1073/pnas.0901848106 (Bogdanowicz et al., 'Genetic identification of putative remains of the famous astronomer Nicolaus Copernicus', PNAS, 2009)",
+        "https://www.csmonitor.com/Science/Cool-Astronomy/2010/0524/Once-a-heretic-Copernicus-now-re-buried-with-Catholic-honors",
+        "https://www.christies.com/en/lot/lot-5080904 (on the 1566 edition and the Narratio prima)"
+      ],
+      "atualizado_em": null,
+      "tipo": "cientista",
+      "area": "astronomia",
+      "seculo": "XV-XVI"
+    },
+    {
+      "id": "ciencia-fe:gregor-mendel",
+      "slug": "gregor-mendel",
+      "titulo": "Gregor Mendel",
+      "resumo": "Austrian Augustinian monk and abbot of Brno whose experiments with peas laid the foundations of modern genetics.",
+      "corpo": "Born on July 20, 1822, into a German-speaking farming family in the village of Hynčice (Heinzendorf), in Moravian Silesia, then part of the Austrian Empire and today in the Czech Republic, Johann Mendel showed an academic talent from an early age that was unusual given the modest conditions of his background, which led his teachers to recommend that the family invest in his formal education. After studying philosophy in Olomouc, in 1843, at the age of 21, he entered the Augustinian Abbey of Saint Thomas in Brno (Brünn), taking the religious name Gregor — a decision that he himself would later describe as also motivated by the practical need to secure a livelihood and the possibility of continuing his studies. Ordained a priest in 1847, he proved more gifted for scientific research than for direct pastoral work, and the monastic community of Brno, with a strong tradition of research in the natural sciences, supported his training materially and intellectually: between 1851 and 1853 the monastery paid for his studies in physics, chemistry and natural history at the University of Vienna, where he came into contact with rigorous experimental methods.\n\nBack in Brno, Mendel taught natural sciences at a local technical school and, beginning in 1856, devoted himself in the monastery's own garden to one of the most decisive experiments in the history of biology. Over approximately seven years, he systematically cultivated and crossed about 28,000 pea plants (Pisum sativum), chosen because they displayed contrasting, easily observable traits and allowed rigorous control of pollination. After two years of trials, he selected 22 varieties, from which he isolated seven characters that appeared in only two alternative forms — seed shape (smooth or wrinkled), seed color (yellow or green), flower color (violet or white), pod shape (full or constricted), pod color (yellow or green), flower position on the stem (along the stem or at the tip) and stem length (tall or dwarf). Combining meticulous botanical observation with a statistical analysis then uncommon in the biological sciences, he identified regular mathematical patterns in the transmission of these traits between generations: in crosses between pure-line varieties, the first filial generation always exhibited only one of the characters, while the second generation brought the other back in a constant proportion of about 3 to 1. To explain the phenomenon, he coined the terms \"dominant\" and \"recessive,\" formulating what is known today as the laws of segregation and independent assortment of hereditary factors — anticipating by decades the very concept of the gene, which he called a \"factor,\" without yet having any knowledge of chromosomes or DNA, and refuting the then-dominant \"blending theory.\"\n\nPresented in two sessions of the Natural History Society of Brno in 1865 and published the following year under the title \"Versuche über Pflanzenhybriden\" (\"Experiments on Plant Hybridization\") in the proceedings of the same society, his results went practically unnoticed by the international scientific community — Charles Darwin himself, whose work on the origin of species had been published a few years earlier, apparently never read Mendel's work, although he had in his library a text that cited it. Elected abbot of the monastery in 1868, a position he accepted with honor, Mendel gravely underestimated his administrative responsibilities and found himself obliged to gradually abandon active scientific research. The last decade of his life was marked by a bitter dispute with the civil authorities over the taxation of the monastery: in 1874, the Reichsrat passed, and the emperor sanctioned, a law that created a special tax on monastic income to fund the stipends of parish priests; while most monasteries ended up complying with the law by deducting expenses and reducing the result to zero, Abbot Mendel refused to do so, insisting that the law was unconstitutional and refusing to pay. His appeals dragged on for months until, in 1876, the exasperated authorities seized the monastery's property — a dispute that was never resolved in his lifetime. In his last years, Mendel also kept daily meteorological observations and devoted himself to beekeeping in hives of his own design; he used Cyprian and Carniolan bees, which were particularly aggressive and bothered other monks and visitors to the point that they asked him to get rid of them, although he cherished them and called them \"my dear little animals.\" He died in Brno on January 6, 1884, at the age of 61, of chronic nephritis; the composer Leoš Janáček played the organ at his funeral, and the successor abbot had his papers burned, ending the tax dispute (an exhumation in 2021 confirmed his height of 168 cm and a genetic predisposition to heart problems).\n\nOnly in 1900 — sixteen years after his death — three botanists working independently in different European countries, Hugo de Vries, Carl Correns and Erich von Tschermak, rediscovered and confirmed the principles that Mendel had formulated decades earlier, retroactively establishing him as the founder of modern genetics and giving rise to the term \"Mendelism\" to designate the new field of study on heredity. The Abbey of Saint Thomas, with strong institutional support for science, thus became the unintentional cradle of a discipline that would transform the biology of the twentieth century.",
+      "categoria": "ciencia-fe",
+      "tags": [
+        "genetics",
+        "Augustinians",
+        "19th century",
+        "heredity",
+        "Brno",
+        "botany"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gregor_Mendel_portrait.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Gregor_Mendel",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9335201",
+        "https://embryo.asu.edu/pages/experiments-plant-hybridization-1866-johann-gregor-mendel",
+        "https://gregormendel200.org/gregor-mendel-2/his-work",
+        "https://www.vaticanobservatory.org/sacred-space-astronomy/religious-scientists-abbot-gregor-j-mendel-o-s-a-1822-1884-father-of-genetics-2"
+      ],
+      "atualizado_em": null,
+      "tipo": "cientista",
+      "area": "genetics / biology",
+      "seculo": "XIX"
+    },
+    {
+      "id": "ciencia-fe:georges-lemaitre",
+      "slug": "georges-lemaitre",
+      "titulo": "Georges Lemaître",
+      "resumo": "Belgian priest and physicist who proposed the expansion of the universe (1927) and formulated the primeval atom hypothesis (1931), a precursor of the Big Bang theory; Hubble's law was renamed the Hubble-Lemaître law in 2018.",
+      "corpo": "Georges Henri Joseph Édouard Lemaître was born in Charleroi, Belgium, on July 17, 1894. He interrupted his engineering studies to serve as an artillery officer in the Belgian army during the First World War, a combat experience that would mark him deeply and that preceded his decision to follow two simultaneous paths that many of his contemporaries saw as seemingly irreconcilable: the Catholic priesthood and cutting-edge theoretical physics. He graduated in mathematics and physics from the Catholic University of Leuven, entered the archdiocesan seminary of Mechelen, and was ordained a priest in 1923, the year in which he also obtained permission from his ecclesiastical superiors to pursue advanced studies in astronomy and cosmology abroad — a rare institutional example of direct encouragement by the Church of frontier scientific research. He then spent periods of study at Cambridge, in England, under the guidance of the astrophysicist Arthur Eddington, one of the first to confirm Einstein's general relativity observationally, and at the Massachusetts Institute of Technology (MIT) and the Harvard College Observatory, in the United States, where he defended his doctoral thesis in 1927, immersing himself in the latest observational techniques of extragalactic astronomy of the time. Back in Belgium, he became a professor at the Catholic University of Leuven, a post he would hold for the rest of his academic career.\n\nApplying the equations of Einstein's general relativity to the universe as a whole, Lemaître demonstrated, in a paper published in 1927 in the Annales de la Société Scientifique de Bruxelles, a Belgian journal of limited circulation, that the universe could not be static, as most physicists — including Einstein himself — still assumed, but was necessarily expanding; the work included an estimate of the rate of this expansion mathematically equivalent to the relation that the American astronomer Edwin Hubble would make famous two years later, based on independent observational data, and which would become known worldwide as \"Hubble's Law\" — an attribution that only began to be academically revised decades later. When he presented his conclusions personally to Einstein at a congress in Brussels in 1927, Lemaître received from the German physicist a famous and far from favorable reply: \"your calculations are correct, but your grasp of physics is abominable\" — Einstein, at the time, still resisted the idea of an expanding universe, although he acknowledged the formal validity of Lemaître's mathematics. On October 29, 2018, the International Astronomical Union (IAU) voted to recommend renaming the law as the \"Hubble-Lemaître Law,\" officially recognizing the precedence of Lemaître's contribution.\n\nIn 1931, in a brief article of only four paragraphs published in the journal Nature under the title \"The beginning of the world from the point of view of quantum theory\" (vol. 127, p. 706), Lemaître went a step further and proposed what he called the \"primeval atom hypothesis\": if the universe is expanding, he argued, going back in time implies that all the matter and energy now observable were once concentrated in a single \"quantum\" of extreme density and temperature, whose initial disintegration — which he compared to an immense atomic nucleus undergoing a super-radioactive process — would have given rise to space itself, to time, and to the cosmic expansion that is still under way. It was the first rigorous scientific formulation of what decades later would come to be called the Big Bang theory, a term coined pejoratively by the British astronomer Fred Hoyle, a critic of the hypothesis. Einstein himself, initially skeptical of this more radical proposal as well, is said to have revised his position over the years; according to a widely cited account, he even stood up at the end of a lecture by Lemaître at the California Institute of Technology in January 1933 to declare that it was \"the most beautiful and satisfactory explanation of creation\" he had ever heard.\n\nLemaître avoided, however, any direct apologetic instrumentalization of his scientific theory in favor of theological arguments about the creation of the world, insisting on the complete methodological autonomy between science and faith: in his own words, the faith of the Christian scientist \"has nothing to do directly with his scientific activity.\" This public stance of reserve became clear when Pope Pius XII, in an address to the Pontifical Academy of Sciences on November 22, 1951, suggested a link between recent cosmological discoveries and the account of Genesis — comparing the theory of the expanding universe to the \"Fiat lux\" of the first page of the Bible. Lemaître, who was a member of the Academy (although absent from that session), did not approve of the assertive tone with which the scientific hypothesis was presented as proof of Creation, and avoided publicly endorsing that reading. He became president of the Pontifical Academy of Sciences in 1960, succeeding Father Agostino Gemelli and holding the post until his death. In 1965, already in his final months, he learned of the discovery of the cosmic microwave background radiation by Arno Penzias and Robert Wilson — the first decisive observational evidence in favor of the hypothesis he had formulated thirty-five years earlier. He died in Leuven on June 20, 1966, at the age of 71.",
+      "categoria": "ciencia-fe",
+      "tags": [
+        "cosmology",
+        "Big Bang",
+        "physics",
+        "primeval atom",
+        "University of Leuven",
+        "Pontifical Academy of Sciences",
+        "general relativity"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/GLemaitre30.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre",
+        "https://churchlifejournal.nd.edu/articles/faith-and-the-expanding-universe-of-georges-lemaitre (Lemaître, 'The beginning of the world from the point of view of quantum theory', Nature, vol. 127, 1931, p. 706)",
+        "https://www.aps.org/apsnews/2026/05/lemaitre-proposes-universe-beginning",
+        "https://inters.org/pius-xii-lemaitre (on Pius XII's address of 11/22/1951)"
+      ],
+      "atualizado_em": null,
+      "tipo": "cientista",
+      "area": "physics / cosmology",
+      "seculo": "XX"
+    },
+    {
+      "id": "ciencia-fe:angelo-secchi",
+      "slug": "angelo-secchi",
+      "titulo": "Angelo Secchi",
+      "resumo": "Italian Jesuit priest, director of the Observatory of the Roman College, and pioneer of stellar spectroscopy, author of the first systematic spectral classification of stars.",
+      "corpo": "Born in Reggio Emilia, Italy, on June 28, 1818, Angelo Secchi entered the Society of Jesus while still an adolescent, around the age of fifteen, showing from an early age exceptional talent for mathematics and the physical sciences alongside his philosophical and theological formation. He taught physics and mathematics at the Roman College (the Jesuits' main institution of higher learning in Rome) as early as 1839, and was ordained a priest on September 12, 1847. The political upheavals that shook the Papal States and much of Italy in 1848, with the proclamation of the short-lived Roman Republic and the expulsion of the Jesuits from the city, forced him to leave Rome. He went into exile first at Stonyhurst, in England, where he lived alongside the Jesuit astronomer Alfred Weld, and then in the United States, teaching natural sciences at the Jesuit college of Georgetown, near Washington. There he met Matthew Fontaine Maury, the first director of the United States Naval Observatory, who introduced him to the contemporary theories of atmospheric dynamics and with whom he would correspond for many years — a contact that would awaken his lasting interest in meteorology. Back in Europe and then in Rome, in 1850, at the age of 32, he became director of the Observatory of the Roman College, on the recommendation of his late colleague Francesco de Vico.\n\nHis appointment faced initial criticism: since he was not known chiefly as an astronomer, it was feared that he would do physics and not astronomy. These fears proved unfounded. In 1853, under his direction, the old and decaying observatory was moved to a new facility atop the church of Saint Ignatius (the college chapel), where Secchi worked until the end of his life. He remained in his post even after 1870, when the annexation of Rome to the newly unified Kingdom of Italy ended the temporal power of the Pope: in 1873, the college was declared property of the Italian government and, when the government also tried to take the observatory, Secchi protested vigorously and threatened to leave his post for offers from foreign observatories. He declined scientific positions and political honors offered by the government, since he did not want to pledge loyalty to the Kingdom in place of the Pope; the government did not dare interfere, and he remained director until his death, in Rome, on February 26, 1878, at the age of 59.\n\nHe is considered one of the founders of astrophysics and, more specifically, the founder of stellar spectroscopy: by attaching a spectroscope to the eyepiece of a telescope, he became the first astronomer to undertake a systematic survey of the light spectra of stars, eventually gathering, between 1863 and 1867, about 4,000 stellar spectrograms. From the differences observed in these spectra, in 1866 he proposed a pioneering system of classification into classes — the \"Secchi classes\" — which were originally four and later expanded to five, with the inclusion of stars whose spectrum shows hydrogen lines in emission, such as Gamma Cassiopeiae. By recognizing the molecular bands of carbon radicals in the spectrum of certain stars, he also became the discoverer of carbon stars, which constituted one of his spectral classes. He was also one of the first scientists to state with authority that the Sun is a star. His classification scheme prevailed for much of the second half of the nineteenth century and paved the way for the Harvard system of spectral classification, developed in the early twentieth century by the women astronomers of the Harvard College Observatory — among them Annie Jump Cannon and Antonia Maury — whose sequence of letters (OBAFGKM) is still used in modern astronomy today.\n\nAmong his other scientific contributions are the discovery of solar spicules, thin structures of gas erupting in the Sun's atmosphere; the pioneering study of the granular structure of the solar photosphere; the recording of solar flares and sunspots; and expeditions to observe solar eclipses in 1860 and 1870, in which he demonstrated that the corona and coronal prominences are part of the Sun itself and not artifacts of the eclipse. He was also the first astrophysicist to suggest that the solar core is in a gaseous state, with the temperature decreasing from the center to the surface. In the field of meteorology, he developed a meteorograph capable of automatically recording multiple simultaneous climatic variables, adopted by several European observatories of the time, and in the field of hydrology he created the \"Secchi disk,\" still used today to measure the transparency of bodies of water: in 1865, he carried out a series of experiments with disks of varying sizes, even using models up to 3.7 meters in diameter, to determine the ideal parameters for this measurement. He was elected a member of the American Philosophical Society (1860) and of academies such as the Royal Society and the Académie des Sciences, and for many years he also presided over the Accademia dei Nuovi Lincei.",
+      "categoria": "ciencia-fe",
+      "tags": [
+        "astronomy",
+        "astrophysics",
+        "Jesuits",
+        "spectroscopy",
+        "19th century",
+        "Observatory of the Roman College"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Angelo_Secchi.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Angelo_Secchi",
+        "https://it.wikipedia.org/wiki/Angelo_Secchi",
+        "https://www2.hao.ucar.edu/education/scientists/angelo-secchi-1818-1878",
+        "https://joachimweise.github.io/post/2020-11-12-classification-stellar-spectra",
+        "https://www.lindahall.org/about/news/scientist-of-the-day/angelo-secchi-2",
+        "https://catholicscientists.org/scientists-of-the-past/angelo-secchi"
+      ],
+      "atualizado_em": null,
+      "tipo": "cientista",
+      "area": "astronomia",
+      "seculo": "XIX"
+    },
+    {
+      "id": "ciencia-fe:niels-stensen",
+      "slug": "niels-stensen",
+      "titulo": "Niels Stensen (Nicolas Steno)",
+      "resumo": "Danish scientist who converted to Catholicism, was ordained a priest and later a bishop, and is considered the father of stratigraphy and modern geology.",
+      "corpo": "Niels Stensen — Latinized as Nicolaus Steno (Nicolaus Stenonius) — was born in Copenhagen on January 11, 1638 (January 1 according to the old calendar), the son of a Lutheran goldsmith. He earned his degree in medicine at the University of Copenhagen and completed his training at major medical centers in Europe, among them Amsterdam and Leiden, then at the forefront of experimental anatomy. As early as 1660, while still a student in Amsterdam, he made his first major anatomical discovery: he identified the excretory duct of the parotid gland — the largest of the salivary glands — now known internationally as the \"Stensen's duct\" in his honor. His dissections also revealed pioneering details of the muscular system — to demonstrate that a contracting muscle changes shape but not volume, he used geometry — and of the nervous system, to the point that he is considered one of the first to advance neuroscience; later, when appointed Anatomicus Regius in Copenhagen (1671), he would make the first description of what is now called the tetralogy of Fallot. In 1665 he settled in Italy, under the protection of the Grand Duke of Tuscany Ferdinando II de' Medici, who appointed him to a hospital post with ample time for research and made him a member of the Accademia del Cimento, a group of investigators inspired by Galileo's experimental and mathematical method.\n\nIn Italy he also delved into the study of rocks and fossils, motivated above all by the investigation of the origin of strange tooth-shaped objects found inside rocks, the \"tongue stones\" (glossopetrae). The prevailing belief at the time was that they were serpents' tongues petrified by Saint Paul when he was on the island of Malta. In October 1666, two fishermen caught a huge great white shark near Livorno, and the Grand Duke ordered its head to be brought up the Arno River to Florence for Stensen to dissect. By comparing the animal's teeth with the glossopetrae, Stensen correctly concluded that these stones were in fact fossilized teeth of ancient sharks — one of the first clear scientific recognitions of the organic nature of fossils, published in 1667 under the title \"Canis carchariae dissectum caput\" (\"The Head of a Shark Dissected\"), which laid the foundations of modern paleontology. From this investigation, he published in 1669, in Florence, the small but influential treatise \"De solido intra solidum naturaliter contento dissertationis prodromus\", in which he formulated the principles now recognized as foundational to stratigraphy and modern geology: the law of superposition (in undisturbed rock sequences, older layers lie beneath more recent ones), the principle of original horizontality (sediments are originally deposited in horizontal layers), and the principle of lateral continuity — the three methodological pillars that would allow, centuries later, the reconstruction of the Earth's geological history from the orderly reading of its rocks. It was his last major scientific work.\n\nIn 1667, still in the midst of his scientific activity, Stensen converted from Lutheranism to Catholicism in Florence, a decision made after intense personal theological study and debates with Catholic and Protestant clergy. The conversion marked the beginning of a progressive withdrawal from active scientific research and a growing dedication to theology: in early 1675 he decided to become a priest, and was ordained on Easter Sunday of that year. In 1677 he was appointed bishop by Pope Innocent XI — titular bishop of Titiopolis and Vicar Apostolic of the Nordic Missions — and sent as a missionary to northern Germany and Scandinavia, a region then predominantly Protestant, where he played an active role in the Counter-Reformation. He lived his last years in conditions of extreme voluntary poverty, selling his own possessions to help the poor of his diocese and suffering persecution and hardship in his itinerant pastoral work. He died in Schwerin, in northern Germany, on November 25, 1686 (December 5 according to the new calendar, the date on which he is now commemorated liturgically). His mortal remains rest in the Basilica of San Lorenzo in Florence. Beatified by Pope John Paul II on October 23, 1988 — after a canonization process begun as early as 1938 — Stensen is remembered today both as the \"father of stratigraphy\" and as a symbol, deliberately promoted by the Church, of the compatibility between demanding scientific rigor and a life of radical faith; in university towns of northern Germany, student residences and Catholic institutions bear his name.",
+      "categoria": "ciencia-fe",
+      "tags": [
+        "geology",
+        "anatomy",
+        "stratigraphy",
+        "conversion",
+        "17th century",
+        "bishop",
+        "paleontology"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Portrait_of_Nicolas_Stenonus.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Nicolas_Steno",
+        "https://inters.org/files/perrinietal2010_onstensen.pdf",
+        "https://ucmp.berkeley.edu/history/steno.html",
+        "https://pure.mpg.de/rest/items/item_3618846/component/file_3621725/content",
+        "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2594-21662024000300896&lng=es&nrm=iso&tlng=en"
+      ],
+      "atualizado_em": null,
+      "tipo": "cientista",
+      "area": "geology / anatomy",
+      "seculo": "XVII"
+    },
+    {
+      "id": "ciencia-fe:roger-bacon",
+      "slug": "roger-bacon",
+      "titulo": "Roger Bacon",
+      "resumo": "Thirteenth-century English Franciscan friar who defended observation and experimentation as the foundation of knowledge of nature, the so-called scientia experimentalis, a forerunner of the scientific method.",
+      "corpo": "Roger Bacon was born around 1214 or 1220 in the English region of Ilchester, in Somerset. The exact date is uncertain, since the only indication he left, in a passage of the Opus Tertium, is that \"forty years have passed since I learned the alphabet,\" an ambiguous reference either to the alphabet itself or to the elementary studies of the trivium. He came from a family of means, which allowed him to finance his studies generously and, later, expensive scientific experiments and the acquisition of rare manuscripts. He studied and taught as a master at Oxford and then at the University of Paris, at that time the most prestigious intellectual center of Latin Christendom, where he commented extensively on the recently translated works of Aristotle that were spreading in the West. Around 1247, his attention turned decisively to experimental research and to Greek and Arabic languages and texts on optics. Back in England, around 1256-1257 he joined the Order of Friars Minor founded by Saint Francis of Assisi, a decision that, paradoxically, restricted his intellectual freedom for a time: Franciscan superiors, suspicious of his interests in alchemy, astrology and Eastern languages, even forbade the circulation of his writings without the prior authorization of the order.\n\nIt was precisely by getting around this internal surveillance that Bacon produced, between 1266 and 1268, his most influential work. In July 1266 he received a papal mandate urging him to send his works, and within about eighteen months he wrote the Opus Majus (\"Great Work\"), composed at the direct request of Pope Clement IV, the former Cardinal Guy le Gros de Foulque, who had been papal legate in England and had been impressed by his erudition. Bacon sent the bulky manuscript to Rome around 1267-68, followed by shorter summaries, the Opus Minus and the Opus Tertium. The treatise, of about 878 pages, was divided into seven parts and proposed a broad reform of studies, incorporating the knowledge of languages and the sciences, then absent from the universities, into the philosophical and theological curriculum; its sixth part, De scientia experimentalis, is the one that would most bring him renown. The death of Clement IV in 1268, however, interrupted what might have been an official reception of his proposals, and the pope himself probably never read everything he had received.\n\nIn the Opus Majus and in complementary works, Bacon argued, with a vehemence unusual for his time, that direct observation of nature and controlled experimentation, and not merely the authority of ancient texts that were commented upon and recompiled, should be the foundation of scientific knowledge, coining the expression scientia experimentalis for this method. He also insisted on the application of mathematics to physics and optics, a field in which he produced pioneering studies on lenses, mirrors and the nature of light, and he even speculated about the future construction of vision-correcting lenses, ships propelled without rowers, motorized carriages and flying machines. His ideas on light and perspective had a lasting influence: perspective eventually came to be incorporated as a subject in the university quadrivium. He also devoted himself to the study of alchemy, then inseparable from nascent chemistry, and he is generally cited as the first European to record in writing, with reasonable accuracy, the formula for gunpowder, a compound of Chinese origin that was beginning to circulate in the medieval West, although Bacon played no role in its original invention, which took place in China. For his vast erudition he earned the late and symbolic epithet Doctor Mirabilis (\"Wonderful Doctor\"), a title that, contrary to what is usually supposed, did not correspond to a formal academic degree but to a posthumous recognition of his intellectual exceptionality; his posthumous fame was such that it surrounded him with legends, such as that of the bronze automaton capable of speaking.\n\nHis relationship with the hierarchy of his own order deteriorated again after the death of Clement IV. Around 1271, he wrote the polemical Compendium Studii Philosophiae, harshly attacking theologians and masters of his time. Tradition holds that, between 1277 and 1279, he was condemned or placed under disciplinary confinement by the Franciscan superiors for \"suspected novelties\" (suspicion of doctrinal novelties), possibly by order of the Minister General Jerome of Ascoli, the future Pope Nicholas IV. This episode is situated in the context of the condemnations of 1277, which prohibited the teaching of certain philosophical doctrines, including deterministic astrology. The oldest source for this information is a Franciscan chronicle written about eighty years after his death, and recent historiography debates whether there was in fact a formal imprisonment or merely a restriction of liberty, as well as which propositions were condemned. He died around 1292, having remained for centuries a relatively marginal figure in the history of philosophy, overshadowed by later thinkers such as Copernicus, Descartes and his much later namesake Francis Bacon, until historians of science of the nineteenth and twentieth centuries recovered him as one of the first and most lucid medieval defenders of what would become, in time, the modern experimental method, although present-day scholars point out that a good part of his \"experimental\" knowledge came from books of the scholastic tradition.",
+      "categoria": "ciencia-fe",
+      "tags": [
+        "Franciscans",
+        "Middle Ages",
+        "scientific method",
+        "optics",
+        "Oxford",
+        "13th century",
+        "alchemy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Roger_Bacon.jpeg",
+      "imagem_credito": null,
+      "fontes": [
+        "https://plato.stanford.edu/archives/spr2015/entries/roger-bacon/ (Stanford Encyclopedia of Philosophy, entry 'Roger Bacon')",
+        "https://www.britannica.com/biography/Roger-Bacon",
+        "https://en.wikipedia.org/wiki/Roger_Bacon",
+        "https://en.wikipedia.org/wiki/Opus_Majus",
+        "https://www.aip.org/library/roger-bacons-optics"
+      ],
+      "atualizado_em": null,
+      "tipo": "cientista",
+      "area": "filosofia natural",
+      "seculo": "XIII"
+    },
+    {
+      "id": "ciencia-fe:observatorio-vaticano",
+      "slug": "observatorio-vaticano",
+      "titulo": "Vatican Observatory",
+      "resumo": "Scientific institute of the Holy See dedicated to astronomical research, now based in Castel Gandolfo and with a telescope in Arizona (USA), run by Jesuits.",
+      "corpo": "The origins of the Vatican Observatory go back to the sixteenth century. In 1578, Pope Gregory XIII ordered a tower built in the Vatican — designed by the Bolognese architect Ottaviano Mascherino and completed around 1580 — to house the studies that would underpin the reform of the Julian calendar then in force. It was the Jesuit Christoph Clavius, of the Roman College, who suggested the new system of observations; the tower, about 73 meters tall, received a meridian line drawn by Ignazio Danti, whose readings proved the error of the old computation. The result was promulgated in 1582 as the Gregorian calendar, now universally adopted, and the Tower of the Winds (or Gregorian Tower) remains one of the oldest symbols of the bond between the Holy See and astronomy. This first tradition was followed, still under papal patronage, by the Observatory of the Roman College (1774-1878), the Observatory of the Capitol (1827-1870) and a Specola Vaticana in the Tower of the Winds itself (1787-1821).\n\nThe continuity of this tradition was seriously threatened in the nineteenth century. The observatory of the Roman College, directed from about 1850 by Father Angelo Secchi — a pioneer of astronomical spectroscopy, the first to classify stars according to their spectrum and one of the first to assert with authority that the Sun is a star — found itself at risk of confiscation after the annexation of Rome to the Kingdom of Italy in 1870, when the new Italian State declared the college building public property. Out of respect for his work, Secchi was permitted to continue using the observatory until his death in 1878, but the Italian government took definitive possession of the facilities soon afterward, renaming them the Royal Observatory of the Roman College and leaving the Holy See without an astronomical institution of its own for more than a decade.\n\nIt was to remedy this void — and in a context in which the Church faced the widespread accusation of hostility to science, a memory still alive from the Galileo affair — that Pope Leo XIII decided to give the institution a permanent foundation. On March 14, 1891, he published the motu proprio «Ut Mysticam», which formally refounded the observatory under the name Specola Vaticana and installed it on a rise behind Saint Peter's Basilica. To direct it, he called the Barnabite Father Francesco Denza, a renowned meteorologist and founder of the Italian Meteorological Society, who conceived the Specola not only as a center of astronomy, but also of meteorology, seismology and terrestrial magnetism. One of the first international projects in which the institution took part was the photographic survey of the sky known as the Carte du Ciel, undertaken in collaboration with observatories in several countries, and in 1893 its equipment was enriched with a heliograph, a telescope designed to photograph the Sun.\n\nThe urban growth and increasingly intense electric lighting of Rome made it progressively unviable to observe faint stars from there. Faced with this obstacle — which, according to the institution's own accounts, worsened still in the 1920s — Pope Pius XI offered as its new headquarters his summer residence at Castel Gandolfo, in the Alban Hills, about 22 kilometers southeast of Rome. The project was entrusted to the firm Carl Zeiss of Jena, with the aim of equipping the observatory with state-of-the-art instruments; construction began in 1932 and was completed in 1935. On September 29, 1935, on the eve of his departure from Castel Gandolfo, Pius XI solemnly inaugurated the new headquarters in the presence of the Secretary of State, Cardinal Pacelli (the future Pius XII), Cardinal Bisleti and numerous dignitaries and scientists. Inspired by the Magi, he gave the observatory the motto «Deum Creatorem, venite adoremus» — «Come, let us adore God the Creator». From this reform on, its direction was entrusted permanently to the Society of Jesus. The astrophysics laboratory created at that time began its activities with the spectrochemical analysis of the observatory's meteorite collection and later specialized in producing reference spectra, fundamental to spectroscopic research; the production of spectral atlases, especially of the iron arc, earned the institution international renown. The growing emphasis on the study of variable stars was such that a particular class of them came to be called «Vatican Variables».\n\nDecades later, the same problem arose again, aggravated by the need for instruments with larger apertures: in partnership with the Steward Observatory of the University of Arizona, the Specola designed the Vatican Advanced Technology Telescope (VATT). Officially known as the Alice P. Lennon Telescope and its Thomas J. Bannan Astrophysics Facility, it is an aplanatic Gregorian telescope with a primary diameter of 1.83 m and a focal length of 16.48 m, with an innovative honeycomb-construction borosilicate primary mirror and a focal ratio of f/1.0 — a «fast» configuration that allows exceptionally sharp focus across the entire field. Clearing of the site on Mount Graham began in 1990 and the telescope obtained its «first light» in September 1993, followed by its dedication in the same month; it is part of the Mount Graham International Observatory, at an altitude of 3,178 m. Since then, the Vatican's Jesuit astronomers have divided the year between Italy and the United States, keeping at Castel Gandolfo the historic headquarters, a library that gathers original works by Copernicus, Galileo, Newton and Kepler, and one of the most important meteorite collections in the world — about 1,200 specimens representing approximately 500 distinct falls and totaling more than 150 kg of extraterrestrial material. The seed of this collection was the donation of 104 specimens made in 1907 by the French nobleman Adrien-Charles, Marquis de Mauroy, enlarged in 1912 and, in 1935, by the bequest of his widow, Marie Caroline Eugénie, who donated almost a thousand pieces.\n\nThe Specola is dedicated today to research in stellar evolution, cosmology, meteoritics and the history of astronomy, and since 1986 it has maintained the Vatican Observatory Summer School (VOSS), which trains young astronomers from developing countries on every continent. Among its best-known directors are Father George Coyne, who headed the institution from 1978 to 2006 and led the VATT project, and the Jesuit Brother Guy Consolmagno, a planetary scientist and former curator of the meteorite collection, appointed director by Pope Francis in 2015. The Vatican headquarters operates as an official work of the Vatican City State and brings together about a dozen Jesuit and diocesan priests and brothers from four continents. In 2023, the historic domes of the papal palace at Castel Gandolfo were reopened to the public. To provide financial support for the research and educational programs linked to the North American branch, the Vatican Observatory Foundation was created in Arizona in 1986, a nonprofit entity that raises private donations to pay for equipment, scholarships and the maintenance of the telescope — a model that has allowed the Specola to maintain, over recent decades, one of the few astronomical research programs in the world conducted by a religious institution on an equal footing with secular university centers.",
+      "categoria": "ciencia-fe",
+      "tags": [
+        "astronomy",
+        "Jesuits",
+        "Vatican",
+        "Castel Gandolfo",
+        "Angelo Secchi",
+        "Gregorian calendar",
+        "meteorites"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Specola1.jpg",
+      "imagem_credito": "Rb85, CC BY-SA 3.0, 2008",
+      "fontes": [
+        "https://www.vaticanobservatory.va/it/storia",
+        "https://www.vaticanobservatory.org/wp-content/uploads/2017/01/History-of-the-Vatican-Observatory.pdf",
+        "https://www.villepontificie.va/en/component/content/article/deum-creatorem-venite-adoremus---ninety-years-of-the-vatican-observatory-at-castel-gandolfo?catid=21&Itemid=342",
+        "https://www.vaticanobservatory.org/education/the-vatican-observatory-castel-gandolfo-80th-anniversary-celebration",
+        "https://www.vaticanobservatory.org/sacred-space-astronomy/a-brief-history-of-the-vatt",
+        "https://en.wikipedia.org/wiki/Vatican_Advanced_Technology_Telescope",
+        "https://en.wikipedia.org/wiki/Gregorian_Tower",
+        "https://www.meteorite-times.com/12625-2",
+        "https://it.wikipedia.org/wiki/Angelo_Secchi",
+        "https://www.laciviltacattolica.com/thirty-years-after-the-first-light-in-vatican-observatory",
+        "https://www.newadvent.org/cathen/15309a.htm"
+      ],
+      "atualizado_em": null,
+      "tipo": "instituicao",
+      "area": "astronomy",
+      "seculo": "16th century (origin in 1582); refounded in 1891"
+    },
+    {
+      "id": "ciencia-fe:pontificia-academia-das-ciencias",
+      "slug": "pontificia-academia-das-ciencias",
+      "titulo": "Pontifical Academy of Sciences",
+      "resumo": "Scientific academy of the Holy See that brings together eighty scientists from around the world, Catholic and non-Catholic, for the study and promotion of the sciences.",
+      "corpo": "The origin of the Pontifical Academy of Sciences goes back to August 17, 1603, when the young Roman nobleman Federico Cesi, then eighteen years old, founded in Rome, with the encouragement of Pope Clement VIII, the Accademia dei Lincei (Academy of the Lynxes), together with Giovanni Heck, Francesco Stelluti and Anastasio de Filiis — a name inspired by the lynx's keen eyesight, chosen to symbolize the acuity that science demands. Considered the first scientific academy in the world dedicated exclusively to the study of nature, it counted among its first and most illustrious members Galileo Galilei. The exact date of his admission differs among sources: the Pontifical Academy of Sciences itself records August 25, 1610, while other institutions point to the spring of 1611, during his visit to Rome. Galileo adopted the signature «Galileo Galilei Linceo» and stood as the intellectual center of the association, whose most celebrated publications were his own works, such as the «Letters on Sunspots» (1613) and «The Assayer» (1623). The premature death of Cesi, in 1630 — with no heir to support financially the institution, which he had funded with his own resources — led the original Accademia dei Lincei to dissolve in the mid-seventeenth century.\n\nThe idea of a papal academy of sciences resurfaced throughout the nineteenth century: Pope Pius IX refounded it in 1847 under the name Pontificia Accademia dei Nuovi Lincei (Pontifical Academy of the New Lynxes), and Leo XIII expanded it in 1887. In 1922, the institution was installed in its current seat, the Casina Pio IV, an elegant Renaissance villa built in the sixteenth century in the Vatican Gardens for Pope Pius IV. Only on October 28, 1936, however, through the motu proprio «In multis solaciis», did Pope Pius XI give the institution its current form and name — Pontificia Academia Scientiarum —, endowing it with new statutes. It was not a simple change of name: the Academy received a new body of members, chosen from among the most prominent scientists of the time, and the mission of constituting itself as the «scientific Senate» of the Catholic Church. Since then, it has been legally distinct from the present Accademia Nazionale dei Lincei, an Italian civil entity that inherited the same historical name. The statutory text determines that the academicians be chosen «without any ethnic or religious discrimination», a clause that the institution cites as the basis of its openness to scientists of all beliefs and nationalities.\n\nInitially composed of eighty academicians, seventy of whom were appointed for life, the Academy had this number raised by Pope John Paul II in 1986, who set the number of lifetime members at eighty, alongside a limited number of honorary academicians and of members by virtue of the office they hold — among them the director of the Vatican Observatory himself. The statutes were updated by Paul VI in 1976 and again by John Paul II in 1986. The academicians are elected by the body itself and officially appointed by the pope, with no requirement of creed. Precisely because it imposes no confessional barriers on its members, the Academy has gathered throughout the twentieth century and the present one a significant share of the greatest names in world science. Its list of members includes scientists such as Ernest Rutherford, Guglielmo Marconi, Max Planck, Niels Bohr, Werner Heisenberg, Paul Dirac, Erwin Schrödinger, Alexander Fleming, Max Perutz and John Eccles — many of them appointed academicians even before receiving the Nobel Prize, and today the number of Nobel laureates who have passed through the institution is estimated at about ninety. Among the full members there were also avowedly agnostic or atheist scientists, such as the British physicist Stephen Hawking, who took part in several plenary sessions at the Vatican. Brazil has representatives among its academicians, among them the physicist Vanderlei Salvador Bagnato, of the São Carlos Institute of Physics of USP.\n\nThe work of the Academy is organized around major thematic areas — fundamental science, science and technology applied to global problems, science for the challenges of the developing world, science policy, bioethics and epistemology —, reflecting the ambition to serve both cutting-edge research and the practical urgencies of humanity. As a scientific advisory body of the Holy See, with no claim to magisterial authority over matters of faith, it organizes plenary sessions, study weeks and conferences on topics ranging from fundamental physics to genetics, from cosmology to climate change and bioethics, producing documents and recommendations addressed to the pope and to public opinion. It fell to the Academy, for example, to receive and discuss in 1992 the conclusions of the commission chaired by Cardinal Paul Poupard on the trial of Galileo Galilei, an occasion on which John Paul II publicly acknowledged the errors committed by the judges of the Italian scientist; and it was also before its members that the same pope, in 1996, acknowledged that the theory of biological evolution already had a convergence of evidence sufficient for it to be considered «more than a hypothesis». In 1994, John Paul II created, alongside it and also based in the Casina Pio IV, a sister institution dedicated to the human sciences — the Pontifical Academy of Social Sciences —, broadening the model of direct dialogue between the Holy See and experts of all religious and philosophical backgrounds.\n\nAmong its presidents were the Franciscan friar and psychologist Agostino Gemelli, founder of the Catholic University of the Sacred Heart in Milan, who headed the Academy from its refounding on October 28, 1936, until his death on July 15, 1959; Father Georges Lemaître, formulator of the primeval atom hypothesis, who presided over it from March 19, 1960 to June 20, 1966; the Irish Jesuit Daniel J. K. O'Connell (1968-1972); the Brazilian Carlos Chagas Filho, neurophysiologist and son of the discoverer of Chagas disease (1972-1988); the Italian chemist Giovanni Battista Marini-Bettòlo (1988-1993); the physicist Nicola Cabibbo (1993-2010); and the Swiss microbiologist Werner Arber, Nobel Prize winner in Medicine and a Reformed Christian, who in 2010 became the first non-Catholic president in the institution's history — a choice that illustrates well the deliberately non-confessional character the Academy has taken on since its refounding in 1936. Since 2017 it has been presided over by the German agricultural economist Joachim von Braun.",
+      "categoria": "ciencia-fe",
+      "tags": [
+        "science",
+        "Vatican",
+        "Galileo Galilei",
+        "Federico Cesi",
+        "Academy of the Lynxes",
+        "Nobel Prize",
+        "Werner Arber"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "https://www.pas.va/en/about.html",
+        "https://www.pas.va/en/about/history.html",
+        "https://www.pas.va/en/about/council.html",
+        "https://www.pas.va/en/events/1936/final_session.html",
+        "https://www.pas.va/content/dam/casinapioiv/pas/pdf-volumi/acta/acta17pas.pdf",
+        "https://www.pas.va/content/dam/casinapioiv/pas/pdf-volumi/extra-series/es40pas.pdf",
+        "https://en.wikipedia.org/wiki/Pontifical_Academy_of_Sciences",
+        "https://en.wikipedia.org/wiki/Accademia_dei_Lincei",
+        "https://inters.org/pontifical-academy-sciences",
+        "https://council.science/member/vatican-city-state-pontificia-academia-scientiarum",
+        "https://galileo.library.rice.edu/gal/lincei.html"
+      ],
+      "atualizado_em": null,
+      "tipo": "instituicao",
+      "area": "natural sciences",
+      "seculo": "17th century (origin in 1603); current name since 1936"
+    },
+    {
+      "id": "ciencia-fe:providentissimus-deus",
+      "slug": "providentissimus-deus",
+      "titulo": "Providentissimus Deus",
+      "resumo": "Encyclical of Leo XIII (November 18, 1893) on biblical studies: the first major papal encyclical on the subject in the modern era, which sought to reconcile the rigor of critical exegesis with the Catholic doctrine of inspiration and inerrancy and gave rise to the Pontifical Biblical Commission.",
+      "corpo": "Published on November 18, 1893 — as the 49th of the 85 encyclicals of his pontificate —, «Providentissimus Deus» («The Most Provident God») is the first major papal encyclical entirely devoted to biblical studies in the modern era. Leo XIII wrote it at a moment of strong pressure from the so-called \"higher criticism\" of rationalist and liberal Protestant origin, which questioned the traditional authorship of several biblical books, the historicity of Old Testament accounts and, ultimately, the divine inspiration of Scripture itself — a challenge that, in the pope's eyes, required of the Church not only a defensive response, but also a serious investment in the scientific formation of its own exegetes.\n\nThe encyclical did not arise in a vacuum: it had a precise immediate occasion. On January 25, 1893, the rector of the Institut Catholique de Paris, Monsignor Maurice d'Hulst, had published in the journal «Le Correspondant» an article entitled «La question biblique», in which he defended the exegete Alfred Loisy (dismissed from his chair precisely in 1893) and reported the opinions of the \"left wing\" of theologians, according to whom the Bible, although inspired in its entirety, would be inerrant only in matters of faith and morals — a thesis that the encyclical would explicitly reject. Shortly before, in 1890, the French Dominican Marie-Joseph Lagrange had founded in Jerusalem the École Biblique, the first Catholic school devoted to the critical study of the Bible in light of archaeology, philology and the geography of the Holy Land; «Providentissimus Deus» gave this kind of initiative an explicit magisterial sanction, and Lagrange would comment on the encyclical as early as 1895, in the «Revue biblique», claiming for the new Catholic method a direct lineage from the directives of Leo XIII.\n\nThe document surveys the history of exegesis from the Fathers of the Church to the nineteenth century, condemns the excesses of rationalism, yet exhorts Catholic theologians to master the original languages — Hebrew, Aramaic and Greek — and the auxiliary historical and archaeological disciplines, so as to engage with the methods of modern criticism on an equal scientific footing, and not to reject them a priori. From the doctrinal standpoint, it forcefully reaffirms biblical inspiration and inerrancy: since God is the principal author of all Scripture through the human hagiographers, it would be improper to admit any error in the sacred texts — a formulation that would generate prolonged theological debates about its exact scope, above all regarding statements of a secondary historical or scientific character. Dealing in a pioneering way, in a magisterial document, with the apparent contradictions between the Bible and the physical sciences, the pope proposed as a criterion of solution the distinction between the phenomenological and popular language of Scripture — which describes nature as it appears to the senses, without any claim to scientific precision — and doctrinal assertions properly so called, invoking the scholastic principle that \"when philosophers agree on a point and it is not contrary to the faith, it is safer neither to impose it as a dogma nor to reject it\".\n\n«Providentissimus Deus» is still cited today for its direct formulation of the doctrine of inspiration: for Leo XIII, the sacred books, \"written under the inspiration of the Holy Spirit, have God for their author, and as such were handed down to the Church\". A good part of the text is devoted to practical guidance for the formation of the clergy, recommending that seminaries set aside time and qualified professors for the in-depth study of Scripture, and not only its devotional reading, so that priests could respond soundly to the objections of the rationalist criticism then in vogue in European universities.\n\nAs a direct outgrowth of the encyclical, Leo XIII established the Pontifical Biblical Commission: the first appointments were made in August 1901, but the body was only formally erected by the apostolic letter «Vigilantiae studiique», of October 30, 1902, published in the «Acta Sanctae Sedis» (vol. 35, 1902-1903, pp. 234-238). Composed initially of three cardinals and twelve consultors, it received from Leo XIII a threefold mission: to effectively promote the study of the Bible among Catholics, to combat erroneous opinions about Scripture by scientific means, and to study the debated questions in the biblical field. The consultors met twice a month; the cardinals, on the second and fourth Sunday of each month; decisions went up to the pope for ratification. In the following decades, however, the body would issue opinions that were often cautious in the face of the more radical theses of historical criticism, in a climate that culminated in the Modernist crisis: in July 1907, the Holy Office published the decree «Lamentabili sane exitu», which condemned 65 propositions (about fifty of them drawn from the writings of Alfred Loisy), followed in September by the encyclical «Pascendi dominici gregis» of Pius X, which described Modernism as the \"synthesis of all heresies\"; in November, the motu proprio «Praestantia Scripturae» obliged Catholics in conscience to abide by the decisions of the Biblical Commission. Loisy would be excommunicated in 1908.\n\nIn 1920, Pope Benedict XV published «Spiritus Paraclitus», an encyclical that marked the fifteenth centenary of the death of Saint Jerome and presented itself explicitly as a continuation of «Providentissimus Deus»: Benedict XV insisted, against interpretations that sought to restrict biblical inerrancy to matters of faith and morals alone, that the absence of error guaranteed by divine inspiration extended also to historical and natural statements — a stricter position that «Divino Afflante Spiritu» itself would soften. Half a century after Leo XIII's encyclical, this more cautious orientation would be complemented and in part superseded by «Divino Afflante Spiritu» (1943) of Pius XII, which endorsed the use of historical-critical methods far more explicitly, and by the Second Vatican Council, whose dogmatic constitution «Dei Verbum» (1965) would take up and develop several of the hermeneutical principles laid down in 1893. For this reason, «Providentissimus Deus» is today recognized as the founding document of a magisterial lineage on the Catholic interpretation of the Bible that spanned the twentieth century.",
+      "categoria": "ciencia-fe",
+      "tags": [
+        "Leo XIII",
+        "Sacred Scripture",
+        "biblical inerrancy",
+        "exegesis",
+        "Pontifical Biblical Commission",
+        "Modernism",
+        "19th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/LenbachLeoXIII.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Providentissimus Deus, Leo XIII, 11/18/1893 — official text at vatican.va (https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html)",
+        "Providentissimus Deus, in: Acta Sanctae Sedis 26 (1893-1894), pp. 269-292",
+        "M. d'Hulst, «La Question biblique», Le Correspondant 170 (1893), pp. 201-251",
+        "M.-J. Lagrange, «À propos de l'encyclique Providentissimus», Revue biblique 4 (1895), pp. 48-64",
+        "E. Mangenot, «Providentissimus Deus», in: Dictionnaire de théologie catholique, vol. VII/2, cols. 2177-2266",
+        "Apostolic letter Vigilantiae studiique, Leo XIII, 10/30/1902, ASS 35 (1902-1903), pp. 234-238",
+        "Historical profile of the Pontifical Biblical Commission, vatican.va (https://www.vatican.va/content/romancuria/en/pontificie-commissioni/pontificia-commissione-biblica/profilo.html)",
+        "Spiritus Paraclitus, Benedict XV, 9/15/1920 — vatican.va (https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_15091920_spiritus-paraclitus.html)"
+      ],
+      "atualizado_em": null,
+      "tipo": "documento",
+      "area": "biblical studies",
+      "seculo": "XIX"
+    },
+    {
+      "id": "ciencia-fe:hipotese-do-atomo-primordial",
+      "slug": "hipotese-do-atomo-primordial",
+      "titulo": "Primeval Atom Hypothesis",
+      "resumo": "Cosmological concept formulated in 1931 by the priest and physicist Georges Lemaître, the first scientific formulation of what is now known as the Big Bang theory.",
+      "corpo": "The primeval atom hypothesis — sometimes also called the \"cosmic egg\" — is the cosmological proposal presented by the Belgian priest and physicist Georges Lemaître in a brief note published in the May 9, 1931 issue of the British scientific journal Nature, under the title \"The Beginning of the World from the Point of View of Quantum Theory\" (Nature, vol. 127, p. 706). With fewer than 475 words and not a single equation, the text is considered by the cosmologist Jean-Pierre Luminet \"the true Magna Carta\" of the modern Big Bang theory. In it, Lemaître took to its ultimate mathematical consequences the discovery he himself had announced four years earlier: if the equations of Einstein's general relativity, applied to the universe as a whole, imply that the cosmos is in continuous expansion, then running that expansion backward in time inevitably leads to an initial state of extreme density and temperature, in which all the matter and energy now scattered were concentrated in a single gigantic, unstable \"atom.\" His note opens by citing Eddington — \"Sir Arthur Eddington states that, philosophically, the notion of a beginning of the present order of Nature is repugnant to him\" — and concludes: \"If the world has begun with a single quantum, the notions of space and time would altogether fail to have any meaning at the beginning\".\n\nContrary to what the word \"atom\" suggests to modern ears, Lemaître did not imagine this initial state as an ordinary subatomic particle, but as a hyperdense, radioactive nucleus — an extrapolation, on a cosmic scale, of the then recently studied phenomenon of radioactive decay. According to his hypothesis, this primeval atom would have disintegrated through a process similar to the fissions and radioactive emissions known in the laboratory, in a successive chain that would have generated, in stages, all the chemical elements, space, and time itself. In later lectures, Lemaître summed up this idea in the image of \"fireworks\": the evolution of the universe, he said, would be comparable to a display of fireworks that has already ended, of which only a few sparks, ashes, and smoke in slow dispersal remain today, the observable stars and galaxies being the residual embers of an initial explosion that is now extinct. A passage from the manuscript, suppressed before publication, gives a glimpse of his outlook: \"I think that everyone who believes in a supreme being supporting every being and every acting, believes also that God is essentially hidden and may be glad to see how present physics provides a veil hiding the creation\". Lemaître even proposed, in a way that later physics would not confirm — although he anticipated the idea of fossil radiation from the hot, dense state, suggested by him in 1934 — that cosmic rays would be direct remnants of that original disintegration, the last spark still visible of the cosmic fireworks.\n\nThe initial reception of the hypothesis was mixed and at times hostile. Arthur Eddington himself, Lemaître's British mentor and one of the first to confirm general relativity observationally, expressed explicit discomfort with the idea of an absolute \"beginning\" of the universe. Albert Einstein, who in 1927 had already told Lemaître, regarding his article on the expansion, that \"your calculations are correct, but your physics is abominable,\" rejected the primeval atom hypothesis with the objection \"No, that suggests creation too much\"; only over the course of the 1930s would he evolve toward a position more favorable to evolutionary cosmology. This skepticism stemmed in part from what scholars describe as a \"Galileo complex\": the fear that a scientific hypothesis might improperly favor religious ideas about creation. The hypothesis found its main scientific rival in the steady-state theory, formulated in the 1940s by the British astronomers Fred Hoyle, Hermann Bondi, and Thomas Gold, according to which the universe expands without ever having had a beginning. It was precisely Hoyle, in a BBC radio talk in 1949, who coined the expression \"Big Bang\" (\"grande explosão\") to refer to Lemaître's rival hypothesis — a term that, according to the most widespread interpretation, was meant critically or ironically, although historians of science still debate this point; in any case, the expression ended up established as the definitive popular name of the theory.\n\nThe debate between the two rival cosmologies would only be decisively resolved in 1965, with the accidental discovery, by the American radio astronomers Arno Penzias and Robert Wilson, of a cosmic microwave background radiation that uniformly permeates the entire observable sky — the fossil signature, this one confirmed, of the hot, dense state predicted by the primeval atom hypothesis, now reinterpreted and refined within the standard cosmological model (or Lambda-CDM model), which also incorporates the extremely rapid initial expansion known as cosmic inflation. Lemaître did not live to see the full recognition of his intuition: according to accounts, he learned of Penzias and Wilson's discovery on June 17, 1966, three days before his death, and is said to have replied: \"Je suis content… maintenant on a la preuve\" (\"I am glad… now we have the proof\"). He is today recognized, unanimously among historians of science, as the author of the first rigorous outline of what would become the dominant scientific theory on the origin of the observable universe.\n\nLemaître himself, however, always refused to turn his scientific hypothesis into a direct apologetic argument in favor of the Catholic doctrine of creation, insisting on the methodological autonomy between physical cosmology and religious faith. This caution became evident on November 22, 1951, when Pope Pius XII, in an address to the Pontifical Academy of Sciences on the occasion of a study week on seismology — then presided over by Father Agostino Gemelli, with Lemaître absent due to other commitments — evoked recent astronomical discoveries in a key that suggested scientific confirmation of the biblical account of creation; the address, circumstantial in character, had as its main thread a commentary on the philosophical proofs of the existence of God, but the use of quotations from scientists such as Edmund Whittaker could be read in a \"concordist\" sense. According to accounts, Lemaître, an influential member of the Academy itself, requested and obtained a private audience with the pontiff to ask for caution in directly associating physics with dogma, maintaining that his hypothesis was scientifically neutral and that both a believer and an atheist should be able to accept it on its mathematical and observational merits — an argument reinforced with the Pope also by the Jesuit astronomer Daniel O'Connell. After that meeting, Pius XII moderated his pronouncements and did not again use the Big Bang theory as direct proof of creation in official addresses.",
+      "categoria": "ciencia-fe",
+      "tags": [
+        "Big Bang",
+        "cosmology",
+        "Georges Lemaître",
+        "Pius XII",
+        "steady state",
+        "Fred Hoyle",
+        "Eddington"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "https://www.nature.com/articles/127706b0",
+        "https://www.pas.va/en/publications/acta/acta24pas/hertog.html",
+        "https://www.aps.org/apsnews/2026/05/lemaitre-proposes-universe-beginning",
+        "https://en.unav.edu/web/ciencia-razon-y-fe/ciencia-y-fe-el-origen-del-universo-georges-lemaitre-el-padre-del-big-bang",
+        "https://biologos.org/articles/georges-lemaitre-the-scientist-and-priest-who-could-conceive-the-beginning-of-the-universe",
+        "https://disf.org/editoriali/2016-05",
+        "https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre",
+        "https://pt.wikisource.org/wiki/Ficheiro:A_hip%C3%B3tese_do_%C3%A1tomo_primordial_de_Georges_Lema%C3%AEtre.pdf"
+      ],
+      "atualizado_em": null,
+      "tipo": "conceito",
+      "area": "cosmologia",
+      "seculo": "XX"
+    },
+    {
+      "id": "ciencia-fe:caso-galileu",
+      "slug": "caso-galileu",
+      "titulo": "Galileo Affair",
+      "resumo": "The trial of Galileo Galilei by the Roman Inquisition in 1633 for defending heliocentrism, the Church's slow review of the case, and its reassessment by the pontifical commission concluded on October 31, 1992.",
+      "corpo": "Between 1609 and 1610, Galileo Galilei, then a professor at Padua, pointed a telescope he had improved at the night sky and made a series of discoveries that would shake the dominant cosmology: he identified four moons orbiting Jupiter — proof that not everything in the heavens revolved around the Earth —, observed the phases of Venus, which are incompatible with Ptolemy's geocentric system, and recorded spots on the Sun and craters on the Moon, bodies until then considered perfect and immutable. Published in the short work «Sidereus Nuncius» (1610), these observations made Galileo the foremost public defender of Copernican heliocentrism, a position he came to hold no longer as a mere device of calculation, but as a real physical description of the cosmos.\n\nThe open defense of heliocentrism led the Holy Office to examine the question as early as 1616: Cardinal Robert Bellarmine, the leading theologian of the Roman Inquisition, informed Galileo that the Copernican thesis could not be held or taught as literal truth, only discussed as a mathematical hypothesis for calculation, and Copernicus's work was placed on the Index of Forbidden Books \"until corrected.\" Galileo formally accepted the admonition and refrained, for more than a decade, from publicly defending heliocentrism as fact. The election, in 1623, of Cardinal Maffeo Barberini as Pope Urban VIII — a personal friend of Galileo and an admirer of his work — seemed to reopen room for maneuver: the new pope authorized him to write about the two world systems, geocentric and heliocentric, provided they were treated as compared hypotheses, without a definitive conclusion. Relying on this permission, Galileo spent the following decade composing the «Dialogue Concerning the Two Chief World Systems», published in 1632 with the formal license of the ecclesiastical censors. The tone of the work, however, openly favored heliocentrism, and the character charged with defending geocentrism, named Simplicio, was read by many contemporaries — including, by all appearances, Urban VIII himself — as a veiled caricature of the arguments the pope had personally put to Galileo; the episode definitively broke the protection the pontiff had until then offered him.\n\nSummoned to Rome despite his advanced age and poor health, Galileo was tried by the Holy Office at the Dominican convent of Santa Maria sopra Minerva beginning in April 1633 — receiving, as an unusual courtesy to an accused man, lodging in apartments of the Inquisition's own palace rather than an ordinary cell. On June 22, 1633, kneeling before the commission of inquisitors, he was forced to publicly abjure the thesis that the Sun remains motionless at the center of the universe and the Earth moves, and was declared \"vehemently suspect of heresy.\" The sentence commuted the original penalty of imprisonment to permanent house arrest and imposed the weekly recitation of the seven penitential psalms for three years; the «Dialogue» was placed on the Index of Forbidden Books. Galileo served his house arrest first at the residence of the Archbishop of Siena and then at his own villa in Arcetri, on the outskirts of Florence, where he spent his last years already blind, but without abandoning research: there he wrote the «Discourses and Mathematical Demonstrations Relating to Two New Sciences», published in Holland in 1638 and today considered one of the foundations of modern physics, especially of mechanics. He died in Arcetri on January 8, 1642. The famous phrase that tradition attributes to him right after the abjuration — \"Eppur si muove\" (\"and yet it moves\") — appears in no contemporary record of the trial and is now considered a probable later legend, first documented more than a century after his death.\n\nThe Church's own review of the case was slow and gradual: in 1741, Pope Benedict XIV authorized the publication of an edition of Galileo's complete works with the necessary corrections, and in 1758 the general prohibition of books teaching heliocentrism was removed from the Index, although the specific works of Copernicus and of Galileo himself remained there. A revealing episode occurred in 1820, when the Master of the Sacred Palace, Fr. Filippo Anfossi, refused to authorize the publication of an astronomy book by Canon Giuseppe Settele because it treated heliocentrism as a physical reality; Settele appealed to Pope Pius VII, and the Congregation of the Index reversed Anfossi's decision, opening the way for the works of Copernicus and Galileo to be finally removed from the Index of Forbidden Books in 1835. In the twentieth century there was also a discreet attempt at re-examination: during the pontificate of Pius XII, the ecclesiastical historian Monsignor Pio Paschini (1878-1962) was commissioned to write a history of the case, but his manuscript, sent to Rome as early as 1945, met resistance at the Holy Office and would only be published in 1964, posthumously and extensively revised by the Belgian Jesuit Edmond Lamalle.\n\nThe deepest reassessment came with John Paul II. On November 10, 1979, on the occasion of the first centenary of Albert Einstein's birth, the pope publicly asked, before the Pontifical Academy of Sciences, that theologians, scholars and historians study the Galileo case in depth and dispel the mistrust that still set science and faith against each other in many minds. On July 3, 1981, Cardinal Secretary of State Agostino Casaroli established the study commission, which worked divided into four groups — exegetical (headed by Archbishop Carlo Maria Martini, then Archbishop of Milan), cultural (Monsignor Paul Poupard), scientific (Carlos Chagas, president of the Academy, and the Jesuit George Coyne, director of the Vatican Observatory) and historical-juridical (Monsignor Michele Maccarrone and Fr. Edmond Lamalle, replaced for health reasons by Professor Mario d'Addio). The commission met in plenary only seven times over about three years, and between the last meeting, on November 22, 1983, and the close of the work there was a long interval; on May 4, 1990, Casaroli invited Cardinal Poupard to coordinate the concluding phase.\n\nThe conclusions were presented on October 31, 1992, at the plenary session of the Pontifical Academy of Sciences: Cardinal Poupard read the final report and the pope delivered the closing address, in which he stated that \"from the Galileo case a lesson can be drawn that remains relevant today.\" Poupard acknowledged that the theologians of the time \"did not grasp the profoundly non-literal meaning of the Scriptures when they describe the physical structure of the universe,\" improperly transposing into the realm of faith a question of factual observation and arriving at a disciplinary measure from which Galileo \"had much to suffer\" — which constituted, in his words, a \"subjective error of judgment.\" John Paul II described the case as \"a sort of myth,\" whose fabricated image departed from reality, and observed that there was error on both sides, since Galileo, like most of his adversaries, did not clearly distinguish what was science from what was philosophy; he also cited, as a model of correct hermeneutics, the position of Bellarmine, who, in the face of possible scientific proofs, recommended \"interpreting with great circumspection\" the biblical texts that seem to affirm the immobility of the Earth. The world press reported the episode as an \"absolution\" or \"rehabilitation\" of Galileo, although the pope himself stressed that it was a pastoral reflection and not a new trial; historians such as Annibale Fantoli, George Coyne and Michael Segre later criticized the two addresses of 1992 for historical inaccuracies and for not acknowledging responsibilities \"at the highest level\" of the hierarchy. The case remains, even today, the most frequently cited example — by critics and defenders of the Church alike — in debates on the limits between ecclesiastical authority, biblical interpretation and freedom of scientific inquiry.",
+      "categoria": "ciencia-fe",
+      "tags": [
+        "Galileo Galilei",
+        "heliocentrism",
+        "Inquisition",
+        "Robert Bellarmine",
+        "Urban VIII",
+        "John Paul II",
+        "Pontifical Academy of Sciences",
+        "17th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Address of John Paul II to the Pontifical Academy of Sciences, 10/31/1992, «On the Galileo Affair» — inters.org and pas.va (https://inters.org/John-Paul-II-conclusion-galileo-affair)",
+        "Address of John Paul II, 11/10/1979 (Einstein centenary) and establishment of the commission on 7/3/1981 — pas.va (https://www.pas.va/en/magisterium/saint-john-paul-ii/1992-31-october.html)",
+        "George V. Coyne, S.J., «The Church's Most Recent Attempt to Dispel the Galileo Myth», Vatican Observatory / University of Washington (https://faculty.washington.edu/ewebb/Rome/Coyne.pdf)",
+        "«Galileo after the Pontifical Commission», Science, Reason and Faith group, University of Navarra (https://en.unav.edu/web/ciencia-razon-y-fe/galieo-despues-de-la-comision-pontificia)",
+        "Pio Paschini, «Vita e opere di Galileo Galilei», published posthumously in 1964; on the Paschini case (1941-1979), see M. A. Finocchiaro, Retrying Galileo, 1633-1992, University of California Press, 2005",
+        "«Galileo and the Catholic Church», Catholic League (https://www.catholicleague.org/galileo-and-the-catholic-church)"
+      ],
+      "atualizado_em": null,
+      "tipo": "conceito",
+      "area": "history of science",
+      "seculo": "17th century (rehabilitation in 1992)"
+    },
+    {
+      "id": "ciencia-fe:fides-et-ratio",
+      "slug": "fides-et-ratio",
+      "titulo": "Fides et Ratio",
+      "resumo": "Encyclical letter of John Paul II promulgated on September 14, 1998, which presents faith and reason as 'two wings' on which the human spirit rises to the contemplation of truth.",
+      "corpo": "Fides et Ratio is the 13th encyclical of Pope John Paul II, dated September 14, 1998, the feast of the Exaltation of the Holy Cross. Addressed primarily to the bishops, but also to philosophers, theologians and the academic world, it deals with the relationship between faith and reason and has become one of the most frequently cited documents of the Catholic magisterium on the dialogue between scientific-philosophical knowledge and the Christian faith.\n\nThe text opens with the celebrated image that 'faith and reason are like two wings on which the human spirit rises to the contemplation of truth'. John Paul II maintains that these two spheres of knowledge are distinct but not separate: reason has its own autonomy, and faith, for its part, cannot do without the contribution of reason, which is indispensable to the right exercise of its understanding. In this the document takes up the Thomistic synthesis, reaffirming the existence of two orders of knowledge, each with its own principles and objects.\n\nThe encyclical is set in a cultural context marked by pluralism, relativism and a 'profound distrust of truth', diagnosing what it calls a crisis of meaning and the temptation to reduce reason to a mere technical instrument. In response, it insists on the capacity of the human intellect to attain truth and on the legitimacy of metaphysics as a path to the knowledge of God.\n\nThe document was written with the collaboration, among others, of Cardinal Georges Cottier, then secretary general of the International Theological Commission, who stated that he took part in its drafting. Over the years, Fides et Ratio has served as a reference for the dialogue between the Church and the scientific world, affirming that science and philosophy, far from threatening the faith, are legitimate paths in the search for truth.",
+      "categoria": "ciencia-fe",
+      "tags": [
+        "John Paul II",
+        "faith and reason",
+        "Magisterium",
+        "encyclical",
+        "relativism",
+        "Thomism",
+        "20th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Pope_John_Paul_II_1991_%28cropped%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "John Paul II, Encyclical Letter Fides et Ratio, September 14, 1998 (Portuguese text on the Holy See website: vatican.va)",
+        "Fides et Ratio – Wikipedia (pt.wikipedia.org/wiki/Fides_et_Ratio)",
+        "Vatican Files, 'Fides et Ratio (1998): Three Theses on the Roman Catholic Synthesis Between Faith and Reason' (vaticanfiles.org)"
+      ],
+      "atualizado_em": null,
+      "tipo": "documento",
+      "area": "Faith and reason",
+      "seculo": "20th century"
+    },
+    {
+      "id": "ciencia-fe:humani-generis",
+      "slug": "humani-generis",
+      "titulo": "Humani Generis",
+      "resumo": "Encyclical of Pius XII promulgated on August 12, 1950, which opened the way for compatibility between Catholic doctrine and biological evolution, while rejecting polygenism.",
+      "corpo": "Humani generis is an encyclical letter of Pope Pius XII promulgated on August 12, 1950, concerning 'some false opinions threatening to undermine the foundations of Catholic doctrine'. Signed 'at Saint Peter's, in the twelfth year of our Pontificate', it responded above all to the theses of the so-called 'new theology' and, over time, played a decisive role in the question of evolution.\n\nWith regard to science, the document establishes a fundamental distinction: the Magisterium of the Church does not forbid that, in the present state of the human sciences, the doctrine of evolution be the object of research and discussion by experts. The encyclical, however, calls for caution: such teaching would be praiseworthy in the case of clearly proven facts, but prudence is required when it comes to hypotheses with some scientific foundation that touch on the doctrine contained in Sacred Scripture or in Tradition.\n\nHumani generis neither endorses a full acceptance nor a total rejection of evolution, considering the evidence of the time unconvincing. It affirms, however, that the Catholic faith requires maintaining the immediate creation of the soul by God, distinguishing the origin of the body from the origin of the soul.\n\nThe most controversial point of the document is the explicit rejection of polygenism — the hypothesis that humanity descends from several original pairs and not from a single couple. The encyclical sees in this thesis a conflict with the doctrine of original sin. Historically, Humani generis began a process of gradual rapprochement between Catholicism and biological evolution, later revisited by John Paul II, who half a century later highlighted new elements in favor of the theory of evolution.",
+      "categoria": "ciencia-fe",
+      "tags": [
+        "Pius XII",
+        "evolution",
+        "polygenism",
+        "original sin",
+        "creation",
+        "Magisterium",
+        "20th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/67/Pius_PP_XII.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Pius XII, Encyclical Letter Humani Generis, August 12, 1950 (text in Portuguese on the Holy See website: vatican.va)",
+        "Humani Generis – Wikipedia (pt.wikipedia.org/wiki/Humani_Generis)",
+        "Humani Generis (1950) – Vatican Observatory (vaticanobservatory.org)",
+        "'Humani Generis' and Evolution – Catholic Apologists (apologistascatolicos.com.br)"
+      ],
+      "atualizado_em": null,
+      "tipo": "documento",
+      "area": "Evolution and the Origin of Man",
+      "seculo": "20th century"
+    },
+    {
+      "id": "ciencia-fe:louis-pasteur",
+      "slug": "louis-pasteur",
+      "titulo": "Louis Pasteur",
+      "resumo": "French chemist and microbiologist (1822-1895), founder of modern microbiology and of the Pasteur Institute, whose funeral was celebrated in the cathedral of Notre-Dame and who remained attached to the Catholic faith.",
+      "corpo": "Louis Pasteur was born in Dole, in the French Jura, on December 27, 1822, and died in Villeneuve-l'Étang on September 28, 1895. A chemist by training and a pioneer of microbiology, he developed the sterilization process that bears his name — pasteurization — as well as the vaccines against anthrax and rabies, laying the intellectual foundations of modern immunology.\n\nThe Christian dimension of his life is attested by his personal testimony and by his family. He married Marie Laurent, a Dominican tertiary and a deeply devout woman, who became his inseparable scientific assistant and a presence of faith in the home; the couple raised their children in the Catholic religion. Pasteur kept a friendship with Father Didon, a well-known preacher of the day, and had a particular admiration for Saint Vincent de Paul, whose charitable work he took as a model for the relief of sick children.\n\nBiographical tradition records that, as he was dying, Pasteur held the rosary tightly while the life of Saint Vincent de Paul was being read to him. His remains were initially buried in the cathedral of Notre-Dame, after a state funeral, and later transferred to the crypt of the Pasteur Institute.\n\nOn June 4, 1887, he founded the Pasteur Institute in Paris, which was inaugurated on November 14, 1888, with the purpose of vaccinating against rabies and studying infectious diseases. The institution became one of the largest biomedical research centers in the world, having isolated the AIDS virus for the first time in 1983. A famous phrase is attributed to him: 'Science knows no country'.",
+      "categoria": "ciencia-fe",
+      "tags": [
+        "Louis Pasteur",
+        "microbiology",
+        "Pasteur Institute",
+        "vaccine",
+        "Catholic faith",
+        "19th century",
+        "France"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Louis Pasteur – Catholic Encyclopedia (liriocatolico.com.br)",
+        "Aleteia, 'Louis Pasteur: Father of microbiology, and a Catholic' (aleteia.org)",
+        "Pasteur Institute – Wikipedia (en.wikipedia.org/wiki/Pasteur_Institute)",
+        "The Pasteur Institute (1887- ) – Embryo Project Encyclopedia (embryo.asu.edu)"
+      ],
+      "atualizado_em": null,
+      "tipo": "cientista",
+      "area": "Microbiology and chemistry",
+      "seculo": "19th century"
+    },
+    {
+      "id": "ciencia-fe:livro-da-natureza",
+      "slug": "livro-da-natureza",
+      "titulo": "Book of Nature",
+      "resumo": "A theological and philosophical concept — the 'theology of the two books' — that sees nature as a book through which God reveals himself, alongside Sacred Scripture, upholding the harmony between the study of the natural world and faith.",
+      "corpo": "The Book of Nature (in Latin, liber naturae) is a religious and philosophical concept according to which nature can be read as a book through which God communicates with humanity. Originating in the Latin Middle Ages and having roots already in Saint Paul, who saw in creation a source of revelation, it is associated with the idea of 'general revelation' — the knowledge of God accessible through the contemplation of creatures. The concept corresponds, in part, to the ancient Greek belief that human beings, placed within a coherent universe, can understand the design of the natural world through reason.\n\nIn Christianity, the Fathers of the Church articulated the so-called 'theology of the two books'. Explicit references to the librum naturae appear in Saint Basil, Saint Gregory of Nyssa, Saint Augustine, John Cassian, Saint John Chrysostom, Ephrem the Syrian and Saint Maximus the Confessor. Augustine, above all, suggested that Nature and the Bible constituted two volumes written by God and filled with divine knowledge — an idea that strongly influenced the Christian perception of the world throughout the Middle Ages.\n\nThe metaphor gained new weight at the turn to modern science. Galileo Galilei resorted to it to claim the autonomy of natural philosophy, insisting that the 'great book of nature' is written in the language of mathematics and that true philosophers should turn to it, rather than to the books of tradition. Francis Bacon also used the image, referring to the revealed book and the book of creatures as two volumes by the same Author, with the aim of defending the specificity and relative autonomy of scientific inquiry.\n\nThe concept, however, carries a tension: by affirming that both books come from God and cannot contradict each other, it served both as a foundation for the harmony between science and faith and, in the case of Galileo, as a source of friction with ecclesiastical authorities — which illustrates well the delicate limits of the dialogue between the study of nature and the interpretation of Scripture.",
+      "categoria": "ciencia-fe",
+      "tags": [
+        "Book of Nature",
+        "theology of the two books",
+        "revelation",
+        "Saint Augustine",
+        "Galileo",
+        "Francis Bacon",
+        "Fathers of the Church",
+        "science and faith"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/God_the_Geometer.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Livro da Natureza – Wikipédia (pt.wikipedia.org/wiki/Livro_da_Natureza)",
+        "'Francis Bacon e a imagem do livro da natureza' – Journal (redalyc.org)",
+        "'Giotto e Galileu: novos olhares sobre o Céu e sobre o Livro da Natureza' – arXiv:2203.15074",
+        "Galileu Galilei – filosofia.com.br (filosofia.com.br/historia_show.php?id=67)"
+      ],
+      "atualizado_em": null,
+      "tipo": "conceito",
+      "area": "Theology of revelation",
+      "seculo": null
+    },
+    {
+      "id": "ciencia-fe:francesco-maria-grimaldi",
+      "slug": "francesco-maria-grimaldi",
+      "titulo": "Francesco Maria Grimaldi",
+      "resumo": "Italian Jesuit priest (1618-1663) who discovered and named the diffraction of light, paving the way for the wave theory, and who, together with his confrere Giovanni Battista Riccioli, made pioneering measurements of gravity and of the lunar relief.",
+      "corpo": "Francesco Maria Grimaldi was born in Bologna on April 2, 1618, the son of Paride Grimaldi and Anna Cattani. After his father's death, he entered the Society of Jesus in 1632 and was ordained a priest. He taught humanities and, later, mathematics and astronomy at the Jesuit college in Bologna, devoting himself to experimental research until he died in the same city on December 28, 1663, at the age of 45, after eight days of fever.\n\nHis most celebrated contribution is the discovery of the phenomenon of the diffraction of light. In a darkened room, letting a narrow beam of sunlight enter through a small opening and observing the shadows cast on a screen by objects of various shapes, Grimaldi noticed that faint fringes of light appeared inside the shadow zone and, in the illuminated zone, faint fringes of shadow. He concluded that light, on passing through the aperture, did not propagate in a strictly straight line but took the shape of a cone. He himself coined the term \"diffraction\" and carefully measured the number, intensity and coloration of these fringes.\n\nThese observations, published posthumously in 1665 in the work \"Physico-mathesis de lumine, coloribus et iride, aliisque annexis\" (Bologna, printed by the heir of Vittorio Benacci, at the expense of Girolamo Bernia), were the only book Grimaldi published. In the text, he discussed whether light was a substance or an accident and argued that color was associated with undulations of a subtle fluid. Although the theoretical explanation only came with Thomas Young and Augustin-Jean Fresnel in the early nineteenth century, Grimaldi's work served as a documentary basis for the wave theory — Christiaan Huygens used it as evidence that light was a wave. The book includes a brief funeral eulogy of Grimaldi written by Riccioli.\n\nBesides optics, Grimaldi worked in close collaboration with his confrere Giovanni Battista Riccioli: together they were among the first to obtain accurate measurements of the acceleration of gravity at the Earth's surface and to produce maps of the Moon's relief, naming selenographic features with names that are now established. In his honor, the lunar crater Grimaldi and the asteroid 129743 Grimaldi were given his name. His career illustrates how rigorous observation and priestly ministry were able to coexist in seventeenth-century science.",
+      "categoria": "ciencia-fe",
+      "tags": [],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Francesco_Maria_Grimaldi.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Wikipedia (EN), entry \"Francesco Maria Grimaldi\"",
+        "The Society of Catholic Scientists, \"Francesco Grimaldi\" (catholicscientists.org/scientists-of-the-past/francesco-maria-grimaldi)",
+        "Vatican Observatory, \"Fr. Francesco Grimaldi S.J. (1618-1663), Optics of Diffraction\"",
+        "EBSCO Research Starters, \"Francesco Maria Grimaldi | Biography\""
+      ],
+      "atualizado_em": null,
+      "tipo": "cientista",
+      "area": "Optics and astronomy",
+      "seculo": "17th century"
+    },
+    {
+      "id": "ciencia-fe:dei-filius",
+      "slug": "dei-filius",
+      "titulo": "Dei Filius",
+      "resumo": "Dogmatic constitution of the First Vatican Council, promulgated by Pius IX on April 24, 1870, the only conciliar document of the Catholic Church dedicated specifically to the relationship between faith and reason; it affirms that there can be no real contradiction between faith and reason and recognizes the legitimate freedom of the sciences.",
+      "corpo": "Dei Filius is the dogmatic constitution on the Catholic faith of the First Vatican Council, promulgated by Pope Pius IX on April 24, 1870, in Session III of the council. The text defines the Church's doctrine on God the Creator, divine revelation, faith, and the relationship between faith and reason. It is the only conciliar document of the Catholic Church dedicated specifically to the bond between faith and reason, which gives it singular weight among the documents of the Magisterium on science and faith.\n\nThe vote on the text holds a revealing episode. In a first vote, held on April 12, 1870, the text was approved with 515 votes in favor (placet) and none against (non placet), but 83 votes were of the type \"placet iuxta modum\", that is, they approved while asking for revisions, many of them concerning the opening expression of chapter I. In view of these reservations, the text presented for the final vote — and approved unanimously on April 24 — changed the order of the words and added \"Apostolica\": the formula \"Sancta Romana Catholica Ecclesia\" became \"Sancta Catholica Apostolica Romana Ecclesia\" (the Holy Catholic Apostolic Roman Church).\n\nIn chapter IV, \"On Faith and Reason\", the document distinguishes two orders of knowledge, distinct in principle and in object: one is known by natural reason, the other by divine faith; beyond what natural reason can attain, there are mysteries hidden in God that can only be known by revelation. On the possible contradiction between the two fields, it affirms that \"faith and reason can never be at odds with one another\", since the same God who reveals the mysteries and infuses faith has bestowed the light of reason on the human mind, and \"God cannot deny himself, nor can truth ever contradict truth\". The text adds that the false appearance of contradiction arises, above all, either from the dogmas of faith being misunderstood and set forth contrary to the mind of the Church, or from fabrications of opinion being taken for verdicts of reason.\n\nFar from condemning the cultivation of the arts and sciences, the constitution declares that the Church not only does not oppose this cultivation, but assists and promotes it in many ways, recognizing that the benefits derived from them for human life, having their origin in \"God, the Lord of all knowledge\" (1 Sam 2:3), lead to God when well used. The doctrine of chapter IV was incorporated into §159 of the Catechism of the Catholic Church and remains a classic reference of Catholic teaching on faith and science.",
+      "categoria": "ciencia-fe",
+      "tags": [],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "First Vatican Council, Dogmatic Constitution Dei Filius (April 24, 1870) — Latin text and translation, Vatican Observatory, "
+      ],
+      "atualizado_em": null,
+      "tipo": "documento",
+      "area": "Magisterium on faith and reason",
+      "seculo": "19th century"
+    }
+  ]
+}

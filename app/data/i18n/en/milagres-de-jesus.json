@@ -1,0 +1,650 @@
+{
+  "_meta": {
+    "categoria": "milagres-de-jesus",
+    "nome": "Miracles of Jesus",
+    "descricao": "The signs and miracles performed by Jesus according to the four Gospels: healings, exorcisms, mastery over nature, and resurrections.",
+    "status": "exemplos-iniciais",
+    "aviso": "It does not exhaust all the miracles narrated in the Gospels; it covers the episodes best known and most commented upon by the Christian tradition.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Catechism of the Catholic Church, nos. 547-550 (the miracles of Jesus)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "milagres-de-jesus:bodas-de-cana",
+      "slug": "bodas-de-cana",
+      "titulo": "The Wedding at Cana",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus turns water into wine at Cana in Galilee, his first sign, at the request of Mary.",
+      "corpo": "At Cana in Galilee, during a wedding feast, the wine ran out. Mary, attentive to the needs of the couple, asks Jesus to intercede, and he orders six stone jars to be filled with water, which becomes the best wine of the feast. John calls this episode a \"sign\" (sēmeion), not a mere wonder: it reveals the glory of Jesus and awakens the faith of the disciples. It is also the first miracle attributed to the intercession of Mary, the foundation of the Marian devotion of asking through her.",
+      "tags": [
+        "Cana",
+        "wine",
+        "first sign",
+        "Mary"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/14/Veronese%2C_The_Marriage_at_Cana_%281563%29.jpg",
+      "imagem_credito": null,
+      "tipo": "natureza",
+      "referencia_biblica": "John 2:1-11"
+    },
+    {
+      "id": "milagres-de-jesus:cura-do-filho-do-funcionario-real",
+      "slug": "cura-do-filho-do-funcionario-real",
+      "titulo": "Healing of the Royal Official's Son",
+      "categoria": "milagres-de-jesus",
+      "resumo": "From a distance, by his word, Jesus heals the son of an official of Capernaum.",
+      "corpo": "A royal official of Capernaum begs Jesus to heal his son, who is at the point of death. Jesus does not go to the house: he simply says, \"Go; your son will live,\" and the official believes the word and departs. On the way, his servants confirm that the boy recovered at the very hour when Jesus spoke. It is the second sign in the Gospel of John and shows that Jesus' healing does not depend on physical proximity, but on faith in his word.",
+      "tags": [
+        "healing from a distance",
+        "faith",
+        "Capernaum"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Brooklyn_Museum_-_The_Healing_of_the_Officer%27s_Son_%28La_gu%C3%A9rison_du_fils_de_l%27officier%29_-_James_Tissot.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "John 4:46-54"
+    },
+    {
+      "id": "milagres-de-jesus:pesca-milagrosa",
+      "slug": "pesca-milagrosa",
+      "titulo": "The Miraculous Catch of Fish",
+      "categoria": "milagres-de-jesus",
+      "resumo": "After a night of catching nothing, the apostles haul in a net full of fish at Jesus' command.",
+      "corpo": "Simon Peter and his companions had worked all night without catching any fish. At Jesus' request, they cast their nets again and haul in such a great quantity that the nets begin to tear. Peter, astonished, falls to his knees: \"Depart from me, Lord, for I am a sinful man.\" Jesus responds by calling him to be a fisher of men. The episode marks the definitive call of the first apostles.",
+      "tags": [
+        "fishing",
+        "call of the apostles",
+        "Peter"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/V%26A_-_Raphael%2C_The_Miraculous_Draught_of_Fishes_%281515%29.jpg",
+      "imagem_credito": null,
+      "tipo": "natureza",
+      "referencia_biblica": "Luke 5:1-11"
+    },
+    {
+      "id": "milagres-de-jesus:cura-do-leproso",
+      "slug": "cura-do-leproso",
+      "titulo": "Healing of a Leper",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus touches a leper — a gesture forbidden by the Law — and cleanses him.",
+      "corpo": "A man covered with leprosy approaches Jesus and begs: \"If you will, you can make me clean.\" Jesus, moved with compassion, stretches out his hand and touches him — something the Mosaic Law strictly forbade, since the leper was unclean and had to keep his distance. By saying \"I will; be clean,\" Jesus not only heals the body, but restores the man to the community from which the disease had excluded him. The gesture anticipates the Church's attitude toward the marginalized.",
+      "tags": [
+        "leprosy",
+        "ritual purity",
+        "compassion"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Gebhard_Fugel_Christus_und_die_Auss%C3%A4tzigen_c1920.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Mark 1:40-45"
+    },
+    {
+      "id": "milagres-de-jesus:cura-do-paralitico-de-cafarnaum",
+      "slug": "cura-do-paralitico-de-cafarnaum",
+      "titulo": "Healing of the Paralytic at Capernaum",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Lowered through the roof by his friends, a paralytic first hears the forgiveness of his sins, then receives healing.",
+      "corpo": "Before the crowd that blocked the entrance, four men open a hole in the roof of the house and lower the paralytic down to Jesus. Seeing their faith, Jesus first says: \"Son, your sins are forgiven\" — provoking the scribes' accusation of blasphemy, since only God forgives sins. To prove his authority, Jesus then commands the man to rise and walk, which he does immediately. The physical miracle confirms the spiritual power to forgive.",
+      "tags": [
+        "paralysis",
+        "forgiveness of sins",
+        "faith of friends"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Fresco_of_Christ_healing_the_paralytic_at_Capernaum_%28S._Saba%2C_Rome%29.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Mark 2:1-12"
+    },
+    {
+      "id": "milagres-de-jesus:cura-da-mao-ressecada",
+      "slug": "cura-da-mao-ressecada",
+      "titulo": "Healing of the Man with the Withered Hand on the Sabbath",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus heals a man on the Sabbath day, challenging the rigid interpretation of the Law.",
+      "corpo": "In the synagogue, watched with hostility by those who wanted to accuse him of breaking the Sabbath, Jesus asks: \"Is it lawful on the Sabbath to do good or to do harm, to save life or to kill?\" Faced with their silence, he heals the man's withered hand. The episode reveals the conflict between the letter of the Law and its spirit: for Jesus, the Sabbath exists for the good of man, not the other way around, and mercy takes priority over formal observance.",
+      "tags": [
+        "Sabbath",
+        "Pharisaic controversy",
+        "Law"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Brooklyn_Museum_-_The_Man_with_the_Withered_Hand_%28L%27homme_%C3%A0_la_main_dess%C3%A9ch%C3%A9e%29_-_James_Tissot_-_overall.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Mark 3:1-6"
+    },
+    {
+      "id": "milagres-de-jesus:tempestade-acalmada",
+      "slug": "tempestade-acalmada",
+      "titulo": "The Calming of the Storm",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus rebukes the wind and the sea, which grow calm at once, in the face of the apostles' fear.",
+      "corpo": "While crossing the Sea of Galilee at night, the disciples are caught by a violent storm while Jesus sleeps in the stern. Terrified, they wake him, crying out: \"Teacher, do you not care that we are perishing?\" He rises, rebukes the wind, and says to the sea: \"Peace! Be still!\" — and there is a great calm. Before this authority over the forces of nature, the disciples ask: \"Who then is this, that even the wind and the sea obey him?\"",
+      "tags": [
+        "storm",
+        "power over nature",
+        "little faith"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg",
+      "imagem_credito": null,
+      "tipo": "natureza",
+      "referencia_biblica": "Mark 4:35-41"
+    },
+    {
+      "id": "milagres-de-jesus:endemoninhado-gerasa",
+      "slug": "endemoninhado-gerasa",
+      "titulo": "The Demoniac of Gerasa",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus frees a man possessed by a legion of demons, who are sent into a herd of swine.",
+      "corpo": "In the region of the Gerasenes, Jesus meets a possessed man so violent that he lived among the tombs, chained in vain. The demons, identifying themselves as \"Legion, for we are many,\" ask to enter a nearby herd of swine; when they enter, the animals rush into the sea and are drowned. The man, now healed, is clothed and sits beside Jesus, \"in his right mind.\" It is one of the most dramatic exorcisms in the Gospels, showing Jesus' power over the legion of evil.",
+      "tags": [
+        "exorcism",
+        "possession",
+        "Gentiles"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Paul_Bril_-_Felsige_Landschaft_mit_Heilung_des_Besessenen_-_876_-_Bavarian_State_Painting_Collections.jpg",
+      "imagem_credito": null,
+      "tipo": "exorcismo",
+      "referencia_biblica": "Mark 5:1-20"
+    },
+    {
+      "id": "milagres-de-jesus:filha-de-jairo",
+      "slug": "filha-de-jairo",
+      "titulo": "The Raising of Jairus' Daughter",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus raises the daughter of a synagogue official, saying that she is only sleeping.",
+      "corpo": "Jairus, a synagogue official, begs Jesus to heal his daughter, who is at the point of death; on the way, word comes that she has already died. Jesus insists: \"Do not be afraid; just have faith,\" and upon arriving, in the face of the mockery of those present, he declares that the child \"is not dead but asleep.\" Taking her by the hand, he says \"Talitha koum\" — \"Little girl, I say to you, arise\" — and she rises immediately. It is the first of the three resurrections recounted in the Gospels.",
+      "tags": [
+        "resurrection",
+        "faith",
+        "Jairus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Gabriel_Max_-_The_Raising_of_the_Daughter_of_Jairus_-_Walters_37170.jpg",
+      "imagem_credito": null,
+      "tipo": "ressureicao",
+      "referencia_biblica": "Mark 5:21-24, 35-43"
+    },
+    {
+      "id": "milagres-de-jesus:hemorroissa",
+      "slug": "hemorroissa",
+      "titulo": "The Healing of the Woman with a Hemorrhage",
+      "categoria": "milagres-de-jesus",
+      "resumo": "A woman with a chronic hemorrhage is healed by touching the fringe of Jesus' cloak.",
+      "corpo": "For twelve years a woman had suffered from hemorrhages and had spent everything on doctors without improvement. In the midst of the crowd, she touches only the fringe of Jesus' cloak, thinking \"If I touch his garments, I shall be made well\" — and the hemorrhage stops instantly. Jesus perceives that power has gone out from him and asks who touched him; when she identifies herself, trembling, he says to her: \"Daughter, your faith has saved you; go in peace.\" The episode is interwoven with the raising of Jairus' daughter.",
+      "tags": [
+        "faith",
+        "ritual impurity",
+        "touch"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Brooklyn_Museum_-_The_Woman_with_an_Issue_of_Blood_%28L%27h%C3%A9moro%C3%AFsse%29_-_James_Tissot.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Mark 5:25-34"
+    },
+    {
+      "id": "milagres-de-jesus:multiplicacao-dos-paes-5000",
+      "slug": "multiplicacao-dos-paes-5000",
+      "titulo": "The Multiplication of the Loaves for the Five Thousand",
+      "categoria": "milagres-de-jesus",
+      "resumo": "With five loaves and two fish, Jesus feeds a crowd of thousands of people.",
+      "corpo": "Before a hungry crowd in the desert, with only five loaves and two fish available, Jesus raises his eyes to heaven, blesses, breaks, and gives the loaves to the disciples to distribute. All eat their fill, and twelve baskets of fragments are still left over. It is the only miracle, apart from the Passion and Resurrection, narrated by all four Gospels, and it prefigures the Eucharist: the gesture of taking, blessing, breaking, and giving anticipates the Last Supper.",
+      "tags": [
+        "bread",
+        "Eucharist",
+        "crowd",
+        "four Gospels"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Abraham_Bloemaert_%281566-1651%29_-_Miracle_of_the_Loaves%2C_Jesus_Feeds_the_Five_Thousand_-_NG_2824_-_National_Galleries_of_Scotland.jpg",
+      "imagem_credito": null,
+      "tipo": "natureza",
+      "referencia_biblica": "Matthew 14:13-21; Mark 6:30-44; Luke 9:10-17; John 6:1-15"
+    },
+    {
+      "id": "milagres-de-jesus:jesus-anda-sobre-as-aguas",
+      "slug": "jesus-anda-sobre-as-aguas",
+      "titulo": "Jesus Walks on Water",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus walks on the Sea of Galilee toward the disciples' boat, and Peter tries to imitate him.",
+      "corpo": "After the multiplication of the loaves, Jesus makes the disciples set off by boat while he goes up the mountain to pray. During the night, seeing them struggling against the wind, he walks toward them on the water. Peter, at Jesus' invitation, also walks on the sea, but, seized by fear at the wind, begins to sink and cries out: \"Lord, save me!\" Jesus catches him, saying: \"O you of little faith, why did you doubt?\"",
+      "tags": [
+        "water",
+        "Peter's faith",
+        "power over nature"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/61/The_Disciples_See_Christ_Walking_on_the_Water%2C_by_Henry_Ossawa_Tanner.jpg",
+      "imagem_credito": null,
+      "tipo": "natureza",
+      "referencia_biblica": "Matthew 14:22-33"
+    },
+    {
+      "id": "milagres-de-jesus:filha-da-mulher-cananeia",
+      "slug": "filha-da-mulher-cananeia",
+      "titulo": "Healing of the Canaanite Woman's Daughter",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Through the persistent faith of a pagan woman, Jesus frees her daughter from a demon.",
+      "corpo": "A Canaanite woman, a foreigner and a pagan, begs Jesus on behalf of her daughter, who is tormented by a demon. Faced with Jesus' apparent initial refusal — he speaks of being sent \"only to the lost sheep of the house of Israel\" — she persists with humility and wit: \"even the dogs eat the crumbs that fall from their masters' table.\" Jesus praises her faith, calling it \"great,\" and heals her daughter from a distance, at that very hour.",
+      "tags": [
+        "exorcism",
+        "Gentiles",
+        "perseverant faith"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Annibale_Carracci%2C_Cristo_e_la_Cananea%2C_1595%2C_Parma.jpg",
+      "imagem_credito": null,
+      "tipo": "exorcismo",
+      "referencia_biblica": "Matthew 15:21-28"
+    },
+    {
+      "id": "milagres-de-jesus:multiplicacao-dos-paes-4000",
+      "slug": "multiplicacao-dos-paes-4000",
+      "titulo": "The Feeding of the Four Thousand",
+      "resumo": "The second multiplication episode, with seven loaves and a few small fish, in a region with a largely Gentile population: seven baskets were left over and four thousand men ate.",
+      "corpo": "The Gospels record two distinct multiplications. The first, five loaves and two fish for five thousand men, with twelve baskets left over, is the only miracle narrated by all four evangelists (Mt 14:13-21; Mk 6:30-44; Lk 9:11-17; Jn 6:1-14). The second, with seven loaves and a few small fish for four thousand people and seven baskets of leftovers, appears only in Matthew (15:32-39) and Mark (8:1-10). The setting is a deserted region on the shores of the Sea of Galilee, near the Decapolis, a territory with a mostly pagan population. Mark notes that the crowd had been with Jesus for three days and some had come from afar, so that they would faint on the way if sent away without eating.\n\nThe numbers have symbolic value. Seven, in the biblical tradition, indicates fullness and completeness (the days of creation, the seven gifts of the Spirit). The exegetical distinction between the two episodes also rests on the vocabulary of the original Greek: in Mark 6:43 the baskets gathered are twelve *kóphinoi* (small wicker baskets, typical of the Jews); in 8:8 they are seven *spirídes* (larger baskets, commonly used among the Greeks as well). The choice of the number and type of basket reinforces the reading that the episode of the four thousand, in Gentile land, points to the opening of the messianic bread to all peoples.\n\nThis distinction is ancient and central to the exegetical debate. Some scholars, noting the similarities between the two narratives, maintain that they are two versions of the same episode, duplicated for catechetical purposes, one addressed to Jews, the other to Christians coming from paganism; others, relying on the divergent details, hold that there were two truly distinct miracles. Mark himself seems to presuppose two events: in 8:17-21 Jesus rebukes the disciples for not understanding and asks them: \"Do you not remember, when I broke the five loaves for the five thousand, how many baskets full of pieces you picked up?\" They said to him, \"Twelve.\" \"And when I broke the seven for the four thousand, how many baskets full of pieces did you pick up?\" And they said to him, \"Seven.\" And he concludes: \"Do you not yet understand?\"\n\nTheologically, the second multiplication, set in pagan territory, is read as a sign of the universality of salvation: the bread of Christ nourishes not only Israel but also the Gentiles, anticipating the Church's mission to all nations. The multiplication of the loaves is, moreover, the miracle most esteemed by the first Christian communities and served as the basis for the Eucharistic narrative of John 6, the discourse on the bread of life.",
+      "categoria": "milagres-de-jesus",
+      "tags": [
+        "bread",
+        "Gentiles",
+        "second multiplication",
+        "Decapolis",
+        "Eucharist",
+        "seven",
+        "Mark"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Church_of_the_Multiplication_20091026_mosaic_detail.jpg",
+      "imagem_credito": "Otter — Wikimedia Commons, CC BY-SA 3.0",
+      "fontes": [],
+      "atualizado_em": null,
+      "tipo": "natureza",
+      "referencia_biblica": "Matthew 15:32-39; Mark 8:1-10"
+    },
+    {
+      "id": "milagres-de-jesus:cura-do-menino-epiletico",
+      "slug": "cura-do-menino-epiletico",
+      "titulo": "Healing of the Boy Possessed by a Spirit (Epileptic)",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus casts out a spirit that the disciples were unable to expel, teaching about faith and prayer.",
+      "corpo": "A father brings his son to the foot of the mountain of the Transfiguration. The boy is tormented by convulsions attributed to a mute spirit, after the disciples failed to heal him. \"If you can do anything, have compassion on us and help us,\" the father begs, and Jesus answers: \"If you can! All things are possible to him who believes.\" The father cries out: \"I believe; help my unbelief!\" Jesus casts out the spirit and afterward teaches the disciples that \"this kind cannot be driven out by anything but prayer.\"",
+      "tags": [
+        "exorcism",
+        "faith",
+        "prayer"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Raffael_Transfiguration_Detail.jpg",
+      "imagem_credito": null,
+      "tipo": "exorcismo",
+      "referencia_biblica": "Mark 9:14-29"
+    },
+    {
+      "id": "milagres-de-jesus:cego-de-nascenca",
+      "slug": "cego-de-nascenca",
+      "titulo": "Healing of the Man Born Blind",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus restores sight to a man who was blind from birth, using clay and spittle.",
+      "corpo": "Faced with a man who has been blind since birth, the disciples ask whose sin caused the blindness; Jesus answers that it is so \"that the works of God might be made manifest in him.\" He makes clay with spittle, anoints the blind man's eyes, and tells him to wash in the pool of Siloam; the man returns able to see. The rest of the chapter recounts the Pharisees' interrogation, which ends with the healed man being driven out — while Jesus reveals himself to him as the Son of Man.",
+      "tags": [
+        "blindness",
+        "sign",
+        "Siloam"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/La_curacion_del_ciego_El_Greco_Dresde.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "John 9:1-41"
+    },
+    {
+      "id": "milagres-de-jesus:ressurreicao-do-filho-da-viuva-de-naim",
+      "slug": "ressurreicao-do-filho-da-viuva-de-naim",
+      "titulo": "Raising of the Son of the Widow of Nain",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Moved by the grief of a widowed mother, Jesus raises her only son on the way to the funeral.",
+      "corpo": "As he approached the gate of Nain, Jesus met a funeral procession: the only son of a widowed woman was being carried out for burial. \"When the Lord saw her, he had compassion on her\" — the only time in the Gospels that the initiative of a healing comes entirely from Jesus' compassion, without any request. He touches the bier and commands, \"Young man, I say to you, arise,\" and the young man sits up and begins to speak. It is the second of the three raisings from the dead recorded.",
+      "tags": [
+        "resurrection",
+        "compassion",
+        "widow"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Martino_Altomonte_-_Raising_of_the_Son_of_the_Widow_of_Nain.jpg",
+      "imagem_credito": null,
+      "tipo": "ressureicao",
+      "referencia_biblica": "Luke 7:11-17"
+    },
+    {
+      "id": "milagres-de-jesus:mulher-curvada",
+      "slug": "mulher-curvada",
+      "titulo": "Healing of the Crippled Woman",
+      "categoria": "milagres-de-jesus",
+      "resumo": "On the Sabbath, Jesus frees a woman who had been bound for eighteen years by a spirit of infirmity, and makes her stand upright.",
+      "corpo": "For eighteen years a woman had been bent over, unable to stand up straight, bound by \"a spirit of infirmity.\" Jesus calls her, lays his hands on her on the Sabbath itself, and she immediately stands up straight, glorifying God. When the ruler of the synagogue rebukes him for healing on the Sabbath, Jesus replies by calling her a \"daughter of Abraham\" who needed to be set free — once again, putting the person before legalistic rigidity.",
+      "tags": [
+        "Sabbath",
+        "liberation",
+        "dignity of women"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/HealWomanSabbath.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Luke 13:10-17"
+    },
+    {
+      "id": "milagres-de-jesus:dez-leprosos",
+      "slug": "dez-leprosos",
+      "titulo": "Healing of the Ten Lepers",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus cleanses ten lepers, but only one — a Samaritan — returns to give thanks.",
+      "corpo": "On the way to Jerusalem, ten lepers cry out from afar for mercy; Jesus tells them to show themselves to the priests, and as they go they are all cleansed. Only one of them, a Samaritan — and therefore a foreigner in Jewish eyes — returns, glorifying God, and prostrates himself at Jesus' feet in gratitude. Jesus asks: \"Were not ten cleansed? Where are the other nine?\" The episode contrasts the gift received with the gratitude owed.",
+      "tags": [
+        "leprosy",
+        "gratitude",
+        "Samaritan"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Brooklyn_Museum_-_The_Healing_of_Ten_Lepers_%28Gu%C3%A9rison_de_dix_l%C3%A9preux%29_-_James_Tissot_-_overall.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Luke 17:11-19"
+    },
+    {
+      "id": "milagres-de-jesus:ressurreicao-de-lazaro",
+      "slug": "ressurreicao-de-lazaro",
+      "titulo": "The Raising of Lazarus",
+      "categoria": "milagres-de-jesus",
+      "resumo": "The greatest of Jesus' signs: calling back to life a friend who had already been buried four days.",
+      "corpo": "Lazarus, the brother of Martha and Mary, dies in Bethany, and Jesus arrives four days after his burial. Before the tomb, \"Jesus wept\" — the shortest verse in the Bible — before proclaiming to Martha: \"I am the resurrection and the life.\" He orders them to take away the stone and cries out in a loud voice: \"Lazarus, come out!\" — and the dead man comes out, still bound in the burial cloths. It is the last and greatest sign before the Passion, and the immediate cause, according to John, of the decision to put Jesus to death.",
+      "tags": [
+        "resurrection",
+        "sign",
+        "Bethany",
+        "I am the resurrection"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Rembrandt_Harmensz._van_Rijn_-_The_Raising_of_Lazarus_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "tipo": "ressureicao",
+      "referencia_biblica": "John 11:1-44"
+    },
+    {
+      "id": "milagres-de-jesus:cura-do-cego-bartimeu",
+      "slug": "cura-do-cego-bartimeu",
+      "titulo": "Healing of Blind Bartimaeus",
+      "categoria": "milagres-de-jesus",
+      "resumo": "A blind beggar of Jericho regains his sight by persistently crying out to the \"Son of David.\"",
+      "corpo": "Sitting by the roadside in Jericho, the blind beggar Bartimaeus cries out: \"Jesus, Son of David, have pity on me!\", even though the crowd rebukes him and tells him to be silent. Jesus calls him, asks what he wants, and on hearing \"that I may see,\" says: \"Go your way; your faith has saved you.\" Bartimaeus regains his sight immediately and begins to follow Jesus along the way — a model disciple, who first cries out, then sees, then follows.",
+      "tags": [
+        "blindness",
+        "Son of David",
+        "Jericho"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/William_Blake_-_Christ_Giving_Sight_to_Bartimaeus_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Mark 10:46-52"
+    },
+    {
+      "id": "milagres-de-jesus:figueira-seca",
+      "slug": "figueira-seca",
+      "titulo": "The Cursed and Withered Fig Tree",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus curses a fruitless fig tree, which withers at once, as a prophetic sign against sterile formalism.",
+      "corpo": "Hungry, Jesus approaches a leafy fig tree that has no figs, since it is out of season, and says: \"May no one ever eat fruit from you again!\" The next day, the disciples find the tree completely withered to its roots. It is the only \"negative\" miracle of Jesus in the Gospels, generally read as a prophetic sign against the sterile worship of the Temple — appearance without real fruit — and the occasion for a teaching about the faith that moves mountains.",
+      "tags": [
+        "prophetic sign",
+        "faith",
+        "Temple"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Brooklyn_Museum_-_The_Accursed_Fig_Tree_%28Le_figuier_maudit%29_-_James_Tissot.jpg",
+      "imagem_credito": null,
+      "tipo": "natureza",
+      "referencia_biblica": "Mark 11:12-14, 20-25"
+    },
+    {
+      "id": "milagres-de-jesus:cura-do-servo-do-centuriao",
+      "slug": "cura-do-servo-do-centuriao",
+      "titulo": "Healing of the Centurion's Servant",
+      "categoria": "milagres-de-jesus",
+      "resumo": "A Roman centurion professes a faith so great that Jesus praises it as not found in Israel.",
+      "corpo": "A Roman centurion asks Jesus to heal his paralyzed and suffering servant, but insists that Jesus does not even need to come to his house: \"Only say the word, and my servant will be healed,\" comparing Jesus' authority to his own military authority. Jesus marvels and declares: \"With no one in Israel have I found such faith!\" The servant is healed at that very hour — the centurion's phrase still echoes today in the liturgy of the Mass before communion.",
+      "tags": [
+        "faith",
+        "centurion",
+        "healing at a distance",
+        "liturgy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Veronese_-_Der_Hauptmann_von_Capernaum_vor_Christus%2C_Um_1581-82.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Matthew 8:5-13; Luke 7:1-10"
+    },
+    {
+      "id": "milagres-de-jesus:cura-da-sogra-de-pedro",
+      "slug": "cura-da-sogra-de-pedro",
+      "titulo": "Healing of Peter's Mother-in-Law",
+      "resumo": "Jesus heals Simon Peter's mother-in-law of a fever in Capernaum; she rises and begins to serve them — the first healing account in the Gospel of Mark.",
+      "corpo": "The episode is narrated by the three Synoptic Gospels (Mk 1:29-31; Mt 8:14-15; Lk 4:38-39). Right after leaving the synagogue of Capernaum, where he had cast out an unclean spirit, Jesus goes with Simon, Andrew, James and John to Simon's house. He finds Simon's mother-in-law in bed with a fever — Luke, a physician, specifies that it was a \"high fever\" and that they interceded for her. Taking her by the hand, Jesus raises her up; the fever leaves her and she gets up to serve them. It is the first physical healing narrated by Mark and takes place \"on the same day\" as other healings, as the evangelist goes on to detail: \"at sunset\" (that is, once the Sabbath had ended), \"the whole city\" gathered at the door, and Jesus healed many who were sick and cast out demons (Mk 1:32-34).\n\nThe detail that the woman rises to \"serve\" (in Greek diakonéo, the same root as \"deacon\") has drawn the attention of exegetes: more than mere hospitality, serving is, in the Gospels, a model of discipleship. The healing restores to the sick person not only health, but the capacity to serve — and the verb is the same one Jesus uses to describe his own mission (\"the Son of Man came not to be served but to serve\"). The text places the miracle at the heart of the daily life of Capernaum, the city that served as the base of the Galilean ministry, and attests that Peter was married — a fact confirmed by Paul, who mentions \"Cephas and his wife\" (1 Cor 9:5).\n\nThe traditional location is the so-called House of Peter in Capernaum, one of the most celebrated archaeological sites in the Holy Land. The excavations of the Franciscans — Father Virgilio Corbo and, later, Father Stanislao Loffreda — revealed, beneath the octagonal church of the fifth century, a domus-ecclesia of the fourth century and, deeper down, a basalt house of the first century. Around 1968 the team identified the succession of layers: a first-century domestic dwelling transformed into a place of Christian worship shortly after the death of Jesus, in memory of Peter. The pilgrim Egeria, in the fourth century, records that \"in Capernaum, the house of the prince of the apostles was made into a church, whose walls remain to this day\"; the octagonal church of the second half of the fifth century was designed so as to show pilgrims the exact position of the buried house. Over the site, consecrated on June 29, 1990, the current suspended Memorial was built, the work of the architect Ildo Avetta, under whose structure Father Corbo is buried.\n\nThe healing also appears in liturgical use: in the Roman rite, it is read in the ferial cycle and on occasions that highlight Jesus' healing ministry at the beginning of his public life. The testimony of Mark, which critics usually associate with Peter's preaching in Rome, gives the episode a particular value: it would have been told in the apostle's own house.",
+      "categoria": "milagres-de-jesus",
+      "tags": [
+        "fever",
+        "Capernaum",
+        "Peter's house",
+        "service",
+        "House of Peter",
+        "domus-ecclesia",
+        "discipleship"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Brooklyn_Museum_-_The_Healing_of_Peter%27s_Mother-in-law_%28La_gu%C3%A9rison_de_la_belle-m%C3%A8re_de_Pierre%29_-_James_Tissot_-_overall.jpg",
+      "imagem_credito": null,
+      "fontes": [],
+      "atualizado_em": null,
+      "tipo": "cura",
+      "referencia_biblica": "Mark 1:29-31"
+    },
+    {
+      "id": "milagres-de-jesus:cura-do-surdo-mudo-decapolis",
+      "slug": "cura-do-surdo-mudo-decapolis",
+      "titulo": "Healing of the Deaf-Mute in the Decapolis",
+      "resumo": "In Gentile territory, with his fingers in the man's ears, spittle on his tongue and the Aramaic word \"Ephphatha,\" Jesus heals a deaf man who could barely speak — a gesture that passed into the baptismal rite.",
+      "corpo": "The episode is narrated only by Mark (7:31-37). Jesus, coming from the region of Tyre and Sidon, passes through Galilee by way of the territory of the Decapolis, a confederation of ten Hellenized cities east and southeast of the Sea of Galilee, whose population was mostly Gentile. According to Pliny the Elder, it comprised Scythopolis, Philadelphia, Gadara, Gerasa, Pella, Dion, Hippos, Canatha, Raphana and Damascus. They bring to him a man who is deaf (kophós) and has difficulty speaking (mogilálos), and ask him to lay his hands on him. The account is notable for being one of the rare cases in which Jesus heals outside the borders of Israel, a sign already foretold by the prophets: Isaiah had announced that in the messianic age \"the ears of the deaf shall be unstopped... and the tongue of the dumb sing for joy\" (Is 35:5-6).\n\nJesus performs the miracle apart, away from the crowd, in a gesture of intimacy that contrasts with the public healings. He puts his fingers into the man's ears, touches his tongue with spittle, looks up to heaven, sighs (stenáxas, in Greek) and speaks the Aramaic word \"Ephphatha\" — transcribed literally by the evangelist and translated as \"Be opened.\" Mark is the only evangelist who preserves Aramaic words of Jesus (talitha koum, abba, ephphatha), a sign of how close his tradition is to the language spoken by the Lord. The use of spittle appears in only three healings in the Gospels (Mk 7:33; Mk 8:23 and Jn 9:6), which exegesis usually reads not as a magical power of the medium, but as a pedagogical condescension of Christ, who makes use of material elements to reach the sick person.\n\nImmediately after the miracle, Jesus orders those present not to make it known — but, says Mark, \"the more he ordered them, the more zealously they proclaimed it.\" This injunction to silence belongs to the so-called \"messianic secret,\" a characteristic feature of the Gospel of Mark, studied since William Wrede (1901): the miracles implicitly reveal who Jesus is, but the open proclamation of his identity would only be completed in the Paschal Mystery. The scene is, moreover, the high point of a block of Mark (7:24-8:26) set in pagan lands, where the great themes of the confession of faith are prepared.\n\nThe word \"Ephphatha\" was incorporated into the liturgy. In the Rite of Christian Initiation of Adults (RCIA), in the \"Ephphatha\" rite — proposed among the rites of immediate preparation, celebrated on Holy Saturday and linked to Mk 7:31-37 —, the celebrant touches the ears and lips of the elect with his thumb, saying: \"Ephphatha, that is, be opened, that you may profess the faith that you have heard, to the praise and glory of God\" (no. 202). The rite has ancient roots: in the old Roman ritual it was inserted in a context of exorcism, with the formula \"Ephphatha, that is, be opened, for the sweet fragrance. But you, Satan, take flight, for the judgment of God is near.\" Saint Ambrose, in the diocese of Milan — the only one where the rite is attested in the fourth century —, and then the fourth and fifth centuries, bear witness to its variation: instead of the mouth, the nostrils were touched, out of modesty about touching the mouths of women, shifting the meaning to \"the good odor of eternal piety.\"",
+      "categoria": "milagres-de-jesus",
+      "tags": [
+        "deafness",
+        "Decapolis",
+        "Baptism",
+        "Ephphatha",
+        "messianic secret",
+        "Mark",
+        "spittle"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/L%C3%A9onard_Gaultier%2C_Christ_Healing_a_Deaf_Man%2C_1579%2C_NGA_48105.jpg",
+      "imagem_credito": null,
+      "fontes": [],
+      "atualizado_em": null,
+      "tipo": "cura",
+      "referencia_biblica": "Mark 7:31-37"
+    },
+    {
+      "id": "milagres-de-jesus:exorcismo-sinagoga-cafarnaum",
+      "slug": "exorcismo-sinagoga-cafarnaum",
+      "titulo": "The Exorcism in the Synagogue at Capernaum",
+      "categoria": "milagres-de-jesus",
+      "resumo": "On the first Sabbath of his ministry in Capernaum, Jesus casts out an unclean spirit that recognizes him as the \"Holy One of God.\"",
+      "corpo": "At the very beginning of the Gospel of Mark, Jesus enters the synagogue at Capernaum on a Sabbath and begins to teach, \"as one having authority, and not as the scribes\" (Mk 1:22). In the midst of the assembly a man \"with an unclean spirit\" cries out, immediately recognizing Jesus' identity: \"I know who you are, the Holy One of God!\" (Mk 1:24). Jesus rebukes the spirit with a curt command — \"Be silent, and come out of him!\" — and the demon comes out, convulsing the man, but without doing him harm (Mk 1:25-26).\n\nIt is the first miracle narrated in the Gospel of Mark, and the reaction of the crowd joins amazement at the teaching with amazement at the power: \"What is this? A new teaching with authority! He commands even the unclean spirits, and they obey him\" (Mk 1:27). Luke recounts the same episode (Lk 4:31-37). Mark also notes that the demons themselves knew who Jesus was, but he forbade them to speak — the so-called \"messianic secret,\" recurrent in the exorcisms of this Gospel.",
+      "tags": [
+        "Capernaum",
+        "exorcism",
+        "Sabbath",
+        "synagogue"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Christus_heilt_einen_Besessenen.jpg",
+      "imagem_credito": null,
+      "tipo": "exorcismo",
+      "referencia_biblica": "Mark 1:21-28; Luke 4:31-37",
+      "fontes": [
+        "Mark 1:21-28",
+        "Luke 4:31-37"
+      ]
+    },
+    {
+      "id": "milagres-de-jesus:paralitico-de-betesda",
+      "slug": "paralitico-de-betesda",
+      "titulo": "The Paralytic at the Pool of Bethesda",
+      "categoria": "milagres-de-jesus",
+      "resumo": "At the pool of Bethesda in Jerusalem, Jesus heals a man who had been ill for thirty-eight years, with a single word, on a Sabbath day.",
+      "corpo": "Near the Sheep Gate in Jerusalem there was a pool with five porticoes called Bethesda, where \"a great multitude of invalids, blind, lame, and paralyzed\" (Jn 5:3) would gather, waiting for a stirring of the water to which popular tradition attributed healing power for whoever entered first. There Jesus meets a man who had been ill for thirty-eight years and asks him: \"Do you want to be healed?\" The man explains that he can never get to the water in time; Jesus then commands, without touching him or using any means: \"Rise, take up your pallet, and walk\" — and the man was immediately healed (Jn 5:5-9).\n\nThe account stresses that that day was the Sabbath, which immediately causes conflict with the Jewish authorities, since the healed man was carrying his mat on a day of rest (Jn 5:9-10). The miracle thus becomes an occasion for Jesus to affirm his unique relationship with the Father — \"My Father is working still, and I am working\" (Jn 5:17) —, one of the statements that, according to John, led the authorities to seek to kill him.",
+      "tags": [
+        "Bethesda",
+        "Jerusalem",
+        "paralysis",
+        "Sabbath"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Palma_il_Giovane_001.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "John 5:1-9",
+      "fontes": [
+        "John 5:1-9"
+      ]
+    },
+    {
+      "id": "milagres-de-jesus:cura-dos-dois-cegos-de-cafarnaum",
+      "slug": "cura-dos-dois-cegos-de-cafarnaum",
+      "titulo": "The Healing of Two Blind Men in Capernaum",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Two blind men follow Jesus, crying out \"Son of David, have mercy on us,\" and receive their sight back as a reward for their faith.",
+      "corpo": "After raising the daughter of a synagogue official, Jesus is followed by two blind men who cry out repeatedly: \"Have mercy on us, Son of David!\" (Mt 9:27), already invoking him with a messianic title. When he arrives at the house, Jesus asks them directly about their faith: \"Do you believe that I can do this?\" When they answer in the affirmative, he touches their eyes, saying: \"According to your faith let it be done to you\" — and their eyes are opened (Mt 9:28-30).\n\nAs in other similar healings, Jesus sternly orders them not to tell anyone what happened, but the two men spread the news throughout the whole region (Mt 9:30-31). The episode, found only in the Gospel of Matthew, reinforces a pattern that recurs in the healings of the blind in the Gospels: personal faith as a condition explicitly associated with the miracle, and not only the compassion of Jesus.",
+      "tags": [
+        "blindness",
+        "faith",
+        "Son of David",
+        "Capernaum"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Matthew 9:27-31",
+      "fontes": [
+        "Matthew 9:27-31"
+      ]
+    },
+    {
+      "id": "milagres-de-jesus:cura-do-mudo-endemoninhado",
+      "slug": "cura-do-mudo-endemoninhado",
+      "titulo": "The Healing of the Mute Demoniac",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Jesus frees a man who is mute because of a demon, and he begins to speak, to the amazement of the crowd and the hostile accusation of the Pharisees.",
+      "corpo": "Right after the healing of the two blind men, they bring to Jesus \"a mute man, possessed by a demon. And when the demon had been cast out, the mute man spoke\" (Mt 9:32-33), a miracle narrated very concisely, but with sharply contrasting reactions. The crowd, filled with wonder, exclaims: \"Never was anything like this seen in Israel!\" (Mt 9:33), recognizing in the episode an extraordinary sign.\n\nThe Pharisees, on the contrary, do not deny the fact, but attack its origin: \"By the prince of demons he casts out demons\" (Mt 9:34), an accusation that Jesus will answer later in a more developed way (Mt 12:22-30) in the face of a similar case. The episode thus marks, already early in the Gospel of Matthew, the dividing line between those who see in Jesus the action of God and those who prefer to attribute it to evil forces.",
+      "tags": [
+        "exorcism",
+        "muteness",
+        "Pharisees"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "exorcismo",
+      "referencia_biblica": "Matthew 9:32-34",
+      "fontes": [
+        "Matthew 9:32-34"
+      ]
+    },
+    {
+      "id": "milagres-de-jesus:cego-de-betsaida",
+      "slug": "cego-de-betsaida",
+      "titulo": "The Blind Man of Bethsaida",
+      "categoria": "milagres-de-jesus",
+      "resumo": "The only miracle in the Gospels performed in two stages: Jesus leads a blind man out of the village and touches his eyes twice until he sees clearly.",
+      "corpo": "In Bethsaida, a blind man is brought to Jesus with the request that he touch him. Jesus takes him by the hand and leads him out of the village, puts spittle on his eyes, lays his hands on him, and asks whether he sees anything. The man answers: \"I see men, but they look like trees walking\" (Mk 8:22-24) — a vision still partial and confused. Jesus then repeats the gesture, laying his hands on his eyes again, and only then \"he saw clearly and was restored, and saw everything distinctly\" (Mk 8:25).\n\nIt is the only miracle in the four Gospels in which Jesus' healing occurs gradually rather than instantaneously, which has always intrigued commentators: for many, the account symbolically illustrates the disciples' own journey of faith at that point in Mark's narrative — they too see Jesus, but still only partially — and is strategically placed just before Peter's confession at Caesarea Philippi (Mk 8:27-30). As in other miracles, Jesus tells the man to go straight home, without entering the village (Mk 8:26).",
+      "tags": [
+        "Bethsaida",
+        "blindness",
+        "gradual faith"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Mark 8:22-26",
+      "fontes": [
+        "Mark 8:22-26"
+      ]
+    },
+    {
+      "id": "milagres-de-jesus:moeda-na-boca-do-peixe",
+      "slug": "moeda-na-boca-do-peixe",
+      "titulo": "The Coin in the Fish's Mouth",
+      "categoria": "milagres-de-jesus",
+      "resumo": "To pay the temple tax without scandalizing anyone, Jesus tells Peter to catch a fish that will have in its mouth exactly the coin needed.",
+      "corpo": "In Capernaum, collectors of the temple tax (the didrachma) ask Peter whether his teacher pays it. Peter answers that he does, but Jesus, anticipating the subject, observes that the sons of kings are exempt from tribute — suggesting that, as the Son of God, he would not be obliged to pay the temple tax. Even so, \"so that we may not offend them,\" he tells Peter to cast a hook into the sea: the first fish he catches will have a coin in its mouth — a stater, the exact amount of two didrachmas — which he is to give \"for me and for you\" (Mt 17:24-27).\n\nIt is a miracle recorded only by Matthew, the evangelist who had been a tax collector, which perhaps explains his particular interest in the episode. It combines two elements characteristic of Jesus' nature miracles — mastery over the elements, here a providence that arranges even the contents of a fish's mouth — with a teaching on interior freedom and pastoral prudence in dealing with religious institutions.",
+      "tags": [
+        "Capernaum",
+        "temple tax",
+        "Peter",
+        "nature miracle"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Peter_Paul_Rubens_-_Peter_Finding_the_Coin_in_the_Mouth_of_the_Fish.jpg",
+      "imagem_credito": null,
+      "tipo": "natureza",
+      "referencia_biblica": "Matthew 17:24-27",
+      "fontes": [
+        "Matthew 17:24-27"
+      ]
+    },
+    {
+      "id": "milagres-de-jesus:cura-do-hidropico",
+      "slug": "cura-do-hidropico",
+      "titulo": "The Healing of the Man with Dropsy on the Sabbath",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Invited to the house of a Pharisee on the Sabbath, Jesus heals a man with dropsy before the embarrassed silence of the doctors of the Law.",
+      "corpo": "On a Sabbath, Jesus goes to dine at the house of one of the leading Pharisees, \"and they were watching him closely\" (Lk 14:1). Before him is a man with dropsy — one afflicted with an abnormal accumulation of fluid in the body, a frequent sign of serious disease of the kidneys, liver, or heart. Before acting, Jesus asks the lawyers and Pharisees present directly: \"Is it lawful to heal on the Sabbath, or not?\" Since no one answers, he heals the man and sends him away (Lk 14:2-4).\n\nJesus then justifies the act with an everyday argument: \"Which of you, having a son or an ox that has fallen into a well, will not immediately pull him out on a sabbath day?\" (Lk 14:5), and again no one is able to answer him (Lk 14:6). It is one of several episodes in which a healing by Jesus on the Sabbath becomes an occasion for confrontation over the true meaning of the precept of sacred rest, which he understands as subordinate to the concrete good of the person.",
+      "tags": [
+        "Sabbath",
+        "dropsy",
+        "Pharisees"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Luke 14:1-6",
+      "fontes": [
+        "Luke 14:1-6"
+      ]
+    },
+    {
+      "id": "milagres-de-jesus:cura-da-orelha-de-malco",
+      "slug": "cura-da-orelha-de-malco",
+      "titulo": "The Healing of Malchus' Ear",
+      "categoria": "milagres-de-jesus",
+      "resumo": "At the moment of his arrest in Gethsemane, Jesus heals the ear of a servant of the high priest, wounded by one of his disciples, and refuses armed violence.",
+      "corpo": "When the guard sent by the chief priests comes to arrest Jesus in the garden of Olives, one of the disciples reacts with force and, with a sword, cuts off the right ear of Malchus, the high priest's servant — only the Gospel of John gives the name of the wounded man and identifies Peter as the one who struck the blow (Jn 18:10). Luke, the only evangelist who also records the healing, relates that Jesus intervened at once: \"No more of this!\", and, touching the man's ear, healed him (Lk 22:50-51).\n\nIt is traditionally considered the last healing miracle performed by Jesus before the Passion, and it takes place precisely at the moment when he himself is being assaulted and arrested — a gesture of mercy directed toward one who takes part in his arrest. The episode also confirms Jesus' refusal of violence as a means of establishing his Kingdom, consistent with his rebuke of Peter in Matthew: \"Put your sword back into its place [...] for all who take the sword will perish by the sword\" (Mt 26:52).",
+      "tags": [
+        "Gethsemane",
+        "arrest of Jesus",
+        "Malchus",
+        "mercy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Brooklyn_Museum_-_The_Ear_of_Malchus_%28L%27oreille_de_Malchus%29_-_James_Tissot.jpg",
+      "imagem_credito": null,
+      "tipo": "cura",
+      "referencia_biblica": "Luke 22:49-51",
+      "fontes": [
+        "Luke 22:49-51",
+        "John 18:10"
+      ]
+    },
+    {
+      "id": "milagres-de-jesus:segunda-pesca-milagrosa",
+      "slug": "segunda-pesca-milagrosa",
+      "titulo": "The Second Miraculous Catch of Fish",
+      "categoria": "milagres-de-jesus",
+      "resumo": "Already risen, Jesus appears to seven disciples on the shore of the Sea of Galilee and fills their empty net with one hundred and fifty-three fish.",
+      "corpo": "After the Resurrection, a group of disciples — among them Peter, Thomas, Nathanael, James, and John — decide to go back to fishing on the Sea of Galilee (also called Tiberias), but they spend the whole night without catching anything. At daybreak, a man whom they do not recognize calls to them from the shore and tells them to cast the net on the right side of the boat; when they obey, they are no longer able to haul in the net, so full is it of fish (Jn 21:1-6). It is then that the beloved disciple recognizes him: \"It is the Lord!\" (Jn 21:7).\n\nWhen they reach the shore, they find Jesus preparing a meal of fish and bread over burning coals, and he invites them to eat some of what they have just caught; John records precisely that the net contained \"one hundred and fifty-three large fish\", and yet it was not torn (Jn 21:9-11). It is in this same encounter that Jesus questions Peter three times about his love, entrusting the care of the flock to him (Jn 21:15-17). The scene is generally distinguished from the miraculous catch at the beginning of his ministry (Lk 5:1-11) by the fact that here it is the risen Jesus who calls from the shore, and not from inside the boat.",
+      "tags": [
+        "resurrection",
+        "Sea of Galilee",
+        "Peter",
+        "nature miracle"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Anonymous_-_Miraculous_Draught_of_Fish.jpg",
+      "imagem_credito": null,
+      "tipo": "natureza",
+      "referencia_biblica": "John 21:1-14",
+      "fontes": [
+        "John 21:1-14"
+      ]
+    }
+  ]
+}

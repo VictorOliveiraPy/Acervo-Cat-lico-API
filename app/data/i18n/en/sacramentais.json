@@ -1,0 +1,437 @@
+{
+  "_meta": {
+    "categoria": "sacramentais",
+    "nome": "Sacramentals",
+    "descricao": "Sacred signs which bear a resemblance to the sacraments and dispose us to receive grace: holy water, blessings, medals, and more.",
+    "status": "exemplos-iniciais",
+    "aviso": "Sacramentals have no magical efficacy independent of the faith and prayer of the Church; they are clearly distinguished from the seven sacraments instituted by Christ.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Catechism of the Catholic Church, nos. 1667-1679"
+    ]
+  },
+  "itens": [
+    {
+      "id": "sacramentais:agua-benta",
+      "slug": "agua-benta",
+      "titulo": "Holy Water",
+      "categoria": "sacramentais",
+      "resumo": "Water blessed by the Church, used as a sign of purification and a reminder of Baptism.",
+      "corpo": "Holy water is blessed by a priest or deacon and used by the faithful — when entering the church, in household blessings, or in minor exorcisms — as a tangible sign of spiritual purification and a constant reminder of one's own Baptism. It has no magical power of its own: its efficacy, like that of every sacramental, depends on the faith and disposition of the one who uses it, and on the prayer of the Church that accompanies it.",
+      "tags": [
+        "sacramentals",
+        "holy water",
+        "Baptism"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Pietro_Perugino_-_Baptism_of_Christ_-_Sistine_Chapel_-_cat13a.jpg",
+      "imagem_credito": null,
+      "ordem": 1,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:bencao",
+      "slug": "bencao",
+      "titulo": "Blessing",
+      "categoria": "sacramentais",
+      "resumo": "A sacramental that invokes God's protection and grace upon specific persons, objects, or occasions.",
+      "corpo": "Blessings are the broadest and most frequent of the sacramentals: they invoke the name of God and ask for his protection upon persons (the blessing of parents upon their children, of the priest upon the faithful), places (a new home), objects (a rosary, an image), or particular moments of life (a journey, a harvest). They may be given by priests, deacons, and, in many cases, by lay people — such as parents, in the home.",
+      "tags": [
+        "sacramentals",
+        "blessing"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sagrada_Familia_del_pajarito_%28Murillo%29.jpg",
+      "imagem_credito": null,
+      "ordem": 2,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:medalha-religiosa",
+      "slug": "medalha-religiosa",
+      "titulo": "Religious Medal",
+      "resumo": "A small devotional object, usually bearing the image of Christ, Mary or a saint, which—once blessed—serves as a sign of faith and a reminder of the divine protection invoked, never as an amulet.",
+      "corpo": "Medals such as the Miraculous Medal (see the Our Lady category) or the Saint Benedict Medal (see Prayers) are popular sacramentals. According to the teaching of the Church, sacramentals such as these \"are sacred signs which bear a certain resemblance to the sacraments, since they signify effects, particularly of a spiritual kind, which are obtained through the intercession of the Church\" (CCC 1667); for this reason they prepare us to receive the sacraments and sanctify various circumstances of life, \"never as an amulet with magical power independent of the faith of the one who wears it\".\n\nThe origin of the Miraculous Medal goes back to the apparitions reported by Saint Catherine Labouré (1806-1876), a novice of the Daughters of Charity of Saint Vincent de Paul, in the chapel on the Rue du Bac in Paris. In the apparition of November 27, 1830, the Virgin is said to have shown an oval frame with the invocation \"O Mary, conceived without sin, pray for us who have recourse to thee\" and to have asked that a medal be struck \"after this model\". Catherine entrusted the request to her confessor, Fr. Jean-Marie Aladel, who brought it to the Archbishop of Paris, Hyacinthe-Louis de Quelen. After a canonical inquiry, the striking of the medal was authorized by a decree of June 20, 1832; the first 1,500 medals, engraved by the goldsmith Adrien Vachette, were distributed at the end of that month, in the midst of a cholera epidemic that killed more than 18,000 people in Paris. The numerous reports of healings and conversions led the people to call it the \"Miraculous Medal\"; since it was initially the \"Medal of the Immaculate Conception\", the devotion preceded by more than two decades the dogmatic definition of 1854. The most famous episode was the conversion, in 1842, of the Jew Alphonse Ratisbonne, who wore the medal as a challenge. Catherine Labouré was canonized by Pius XII in 1947.\n\nThe Saint Benedict Medal is inseparable from the medieval formula of exorcism Vade retro satana (\"Begone, Satan\"). The text was found in a manuscript of 1415 in the Benedictine abbey of Metten, in Bavaria; in the seventeenth century, during a witchcraft trial, crosses were discovered painted on the walls of the monastery with the same letters, which by then had been forgotten. The formula received the approval of Pope Benedict XIV and was incorporated into the Roman Ritual in 1742. The inscriptions on the medal are the initials of Latin verses: around the cross, \"Crux sacra sit mihi lux / Non draco sit mihi dux\" (C.S.S.M.L. / N.D.S.M.D.), in the angles \"Crux Sancti Patris Benedicti\" (C.S.P.B.), and the prayer \"Vade retro Satana; nunquam suade mihi vana: sunt mala quae libas; ipse venena bibas\". The devotion spread above all in the nineteenth century, partly through the work of Léon Dupont, the \"Holy Man of Tours\".",
+      "categoria": "sacramentais",
+      "tags": [
+        "sacramentals",
+        "medal",
+        "Our Lady of Graces",
+        "Miraculous Medal",
+        "Saint Benedict",
+        "popular devotion"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/de/VirgenMedallaMilagrosa-IglesiaSagradaEucarisita-CABA.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1667-1679",
+        "Holy See / Chapel of Our Lady of the Miraculous Medal, Rue du Bac, Paris — \"The Apparitions and the Medal\"",
+        "Entry \"Medalha Milagrosa\" in the Portuguese-language Wikipedia (source: recognition of 1836, engraver Adrien Vachette)",
+        "Entry \"Vade retro satana\" in the English-language Wikipedia (Metten manuscript, 1415; approval by Benedict XIV, 1742)"
+      ],
+      "atualizado_em": null,
+      "ordem": 3
+    },
+    {
+      "id": "sacramentais:velas-e-cirios",
+      "slug": "velas-e-cirios",
+      "titulo": "Candles and Paschal Candles",
+      "resumo": "Symbolic light used in the liturgy and in personal devotion as a sign of Christ, \"light of the world,\" and of prayer rising to God; its highest expression is the Paschal Candle.",
+      "corpo": "The use of candles in the liturgy — from the Paschal Candle (see Glossary) to the altar candles and the small candles lit by the faithful before images — carries the biblical symbolism of light conquering darkness and of Christ as the \"light of the world\" (Jn 8:12), as well as visibly representing the prayer and intention of the one who lights it. According to the Catechism, sacramentals include signs such as \"the laying on of hands, the sign of the cross, the sprinkling of holy water\"; the blessed candle, like the other things useful to man, is meant to sanctify the circumstances of Christian life (CCC 1668, 1670).\n\nThe highest expression of this symbolism is the Paschal Candle, the largest candle, blessed and lit each year at the Easter Vigil. The celebration begins outside the church, with the blessing of the new fire; the Candle is lit from the new flame, and the priest says: \"May the light of Christ rising in glory dispel the darkness of our hearts and minds.\" The deacon or priest then carries the Candle into the darkened nave, pausing three times to sing, raising his voice each time: \"Lumen Christi\" (\"The Light of Christ\"), to which the assembly responds \"Deo gratias\" (\"Thanks be to God\"). Everyone's candles are lit from this fire, so that the church is gradually illuminated from a single flame. The rite recalls the pillar of fire that guided Israel on the night of the Exodus (Ex 13:21) and is followed by the proclamation of the Easter Proclamation (Exsultet).\n\nThe Candle is ritually prepared with signs inscribed in the wax: a cross, the Greek letters Alpha and Omega (\"Christ is the beginning and the end\"), the numerals of the current year, and five grains of incense, inserted in the form of a cross, which represent the five wounds of Christ. It is used throughout the whole Easter Season and, during the rest of the year, at celebrations of Baptism and funerals, when the flame of the Candle lights the baptismal candle. The votive candles lit by the faithful before images in churches, in turn, are the devotional extension of this same symbolism: each visible flame represents a concrete prayer raised to God.",
+      "categoria": "sacramentais",
+      "tags": [
+        "sacramentals",
+        "candles",
+        "Paschal Candle",
+        "light",
+        "Easter Vigil",
+        "liturgy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Advent_wreath_and_candles_at_St._Pega%27s_church%2C_Peakirk_-_geograph.org.uk_-_8208229.jpg",
+      "imagem_credito": "Photo: Paul Bryan — Wikimedia Commons, CC BY-SA 2.0",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1667-1679 (esp. 1668, 1670)",
+        "Entry \"Círio Pascal\" in the Portuguese-language Wikipedia (Easter Proclamation; symbols: cross, alpha and omega, five grains of incense)",
+        "Agência ECCLESIA, \"Easter Vigil: symbols and meaning\" (liturgy of light, blessing of the new fire, Lumen Christi)",
+        "Roman Missal, Easter Vigil: Preconium Paschale (Exsultet)"
+      ],
+      "atualizado_em": null,
+      "ordem": 4
+    },
+    {
+      "id": "sacramentais:exorcismo-menor",
+      "slug": "exorcismo-menor",
+      "titulo": "Minor Exorcism",
+      "categoria": "sacramentais",
+      "resumo": "A prayer of protection against the influence of evil, distinct from the solemn exorcism reserved for cases of recognized diabolical possession.",
+      "corpo": "The \"minor exorcism\" is a form of prayer for spiritual protection used routinely in the liturgy — for example, in the prayers preparatory to Baptism — asking for deliverance from the power of evil over the person, without presupposing a case of diabolical possession properly speaking. It is distinguished from the \"solemn exorcism\" or major exorcism, reserved for exceptional cases of recognized possession, which may be performed only by a priest specially appointed by the bishop, following a rigorous prior evaluation — including medical and psychological — to rule out natural causes.",
+      "tags": [
+        "sacramentals",
+        "exorcism"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/GuidoReni_MichaelDefeatsSatan.jpg",
+      "imagem_credito": null,
+      "ordem": 5,
+      "fontes": [
+        "Catechism of the Catholic Church, no. 1673"
+      ]
+    },
+    {
+      "id": "sacramentais:bencao-do-santissimo-sacramental",
+      "slug": "bencao-do-santissimo-sacramental",
+      "titulo": "Sign of the Cross",
+      "categoria": "sacramentais",
+      "resumo": "The most basic gesture and Trinitarian formula of Christian life, made when entering into prayer or receiving a blessing.",
+      "corpo": "The Sign of the Cross — touching the forehead, the chest and the shoulders while saying \"In the name of the Father, and of the Son, and of the Holy Spirit\" — is the most elementary and most frequently repeated gesture of Catholic devotion, a silent and physical profession of faith in the Most Holy Trinity and in the mystery of Christ's cross, made at the beginning and at the end of almost every prayer and liturgical celebration.",
+      "tags": [
+        "sacramentals",
+        "sign of the cross",
+        "Trinity"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Masaccio%2C_Holy_Trinity%2C_1425-28%2C_Santa_Maria_Novella%2C_Florence.jpg",
+      "imagem_credito": null,
+      "ordem": 6,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:agua-benta-domestica",
+      "slug": "agua-benta-domestica",
+      "titulo": "Blessing of Homes and Objects",
+      "resumo": "The practice of asking the priest — or, in certain cases, the faithful themselves — for the blessing of a home, a workplace or objects, consecrating to God the spaces and instruments of daily life.",
+      "corpo": "Asking for the blessing of a new home, a vehicle, work tools or other possessions is a widespread devotional practice, which expresses the desire to consecrate to God the spaces and instruments of daily life, and not only the explicitly \"religious\" moments. The Catechism of the Catholic Church places these blessings among the sacramentals: \"Among sacramentals blessings (of persons, meals, objects, and places) come first\" (CCC 1671), and recalls that they \"always include both praise of God for his works and gifts, and the Church's petition for men that they may be able to use God's gifts according to the spirit of the Gospels\" (CCC 1678). The technical distinction is between invocative blessings — which ask for divine help in the use of a good — and constitutive blessings, of lasting effect, which dedicate persons, objects or places to worship (CCC 1672).\n\nThe current liturgical discipline derives from the Rituale Romanum as reformed after the Second Vatican Council. The title De Benedictionibus, promulgated in 1984 (with later typical editions in 1985, 1993 and 2013), replaced the Benedictionale and gathers about 179 blessings, of which 95 are reserved to bishops — a notable contrast with the 29 blessings of the Rituale Romanum of 1614. Among these rites is the Ordo benedictionis novae domus (\"Order for the Blessing of a New Home\"), one of the 51 blessings updated from the old book of 1952. The general rules establish that any presbyter may give the blessing, except those reserved to the Roman Pontiff or to bishops; certain blessings, however, may be presided over by lay people, since they flow from the baptismal priesthood (CCC 1669).\n\nThe traditional rite for the home is simple and is based on the sprinkling with holy water. The priest, on entering, greets: \"Pax huic domui\" — \"Peace be to this house\", to which the response is \"Et omnibus habitantibus in ea\" (\"And to all who dwell in it\"). There follows the sprinkling of the main rooms with the antiphon \"Asperges me, Domine, hyssopo, et mundabor\", a prayer, and a repetition of the sprinkling. It is notable that the oldest Roman formulary explicitly invoked the protection of the guardian Angel over the house, \"just as, in times past, at the departure from Egypt, the houses of the Hebrews marked with the blood of the lamb were preserved\" — a figure of Christ himself.\n\nIn Brazil and in several countries, the \"house blessing at Epiphany\" has become widespread: blessed chalk is distributed and families write above the door the inscription of the year interspersed with crosses and the letters C, M, B, with the formula \"20 + C + M + B + 26\". The letters traditionally recall the names attributed to the Magi — Caspar, Melchior and Balthasar — and are also read as an abbreviation of the Latin Christus mansionem benedicat, \"May Christ bless this dwelling\". The practice goes back to medieval Europe and is repeated each year, recalling that the Christian home belongs to Christ.",
+      "categoria": "sacramentais",
+      "tags": [
+        "sacramentals",
+        "blessing",
+        "house blessing",
+        "daily life",
+        "Epiphany",
+        "Rituale Romanum"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Epiphany_Season_door_chalking.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1667-1679 (esp. 1671, 1672, 1678)",
+        "Sacra Congregatio pro Cultu Divino, De Benedictionibus (editio typica, 1984), Ordo benedictionis novae domus",
+        "Rituale Romanum, Titulus VIII: De Benedictionibus",
+        "Catechism of the Catholic Church, nos. 1667-1690 (vatican.va, Portuguese edition)"
+      ],
+      "atualizado_em": null,
+      "ordem": 7
+    },
+    {
+      "id": "sacramentais:escapulario-do-carmo",
+      "slug": "escapulario-do-carmo",
+      "titulo": "Scapular of Our Lady of Mount Carmel",
+      "categoria": "sacramentais",
+      "resumo": "A Marian sacramental linked to the tradition of an apparition of Our Lady to the Carmelite Saint Simon Stock in 1251, a sign of Marian consecration and protection.",
+      "corpo": "Carmelite tradition holds that on the night of July 16, 1251, in Aylesford, England, Our Lady appeared to Saint Simon Stock, then Prior General of the Carmelite Order, and gave him a small cloth habit, the brown scapular, as a sign of special protection for those who wear it with faith. There is no contemporary historical documentation proving the details of the apparition, but the devotion was embraced and spread by the Church over the centuries, and the Carmelite Order itself received approval from Pope Innocent IV.\n\nThe cloth scapular is today a reduced version of the Carmelite religious habit, worn over the chest and back by lay people enrolled in the Confraternity of Our Lady of Mount Carmel. Like every sacramental, it must be blessed by a priest before first use (the investiture is usually done only once), and its value lies not in the cloth itself, but in the commitment to Christian life and the Marian consecration that it expresses. It must never be understood as an amulet of automatic protection.",
+      "tags": [
+        "sacramentals",
+        "scapular",
+        "Our Lady of Mount Carmel",
+        "Marian devotion"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 8,
+      "fontes": [
+        "Carmelite tradition about Saint Simon Stock (Aylesford, 1251)",
+        "Catechism of the Catholic Church, nos. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:medalha-de-sao-bento",
+      "slug": "medalha-de-sao-bento",
+      "titulo": "Saint Benedict Medal",
+      "categoria": "sacramentais",
+      "resumo": "A medal bearing a Latin exorcistic formula, approved in 1742 by Pope Benedict XIV, used as a sign of spiritual protection against evil.",
+      "corpo": "It is not known with certainty when the Saint Benedict medal was first struck — the oldest records date back to the 15th century — but the most widespread design today dates from 1880, the year of the 1400th anniversary of the saint's birth. In 1742, Pope Benedict XIV officially approved the medal, granted indulgences to those who wore it with faith, and consecrated the prayer engraved on the reverse as a formula of lesser exorcism, known by its initials \"Vade Retro Satana\" (\"Begone, Satan\").\n\nOn the obverse, the medal bears the image of Saint Benedict holding the Rule he wrote for the monks and a cross; beside him, a chalice from which a serpent emerges and a raven recall episodes from the saint's life in which he escaped attempts to poison him. On the reverse, the initials in Latin make up the complete prayer: \"Crux sacra sit mihi lux, non draco sit mihi dux... Vade retro Satana, numquam suade mihi vana; sunt mala quae libas, ipse venena bibas\" — \"May the holy cross be my light, let not the dragon be my guide... Begone, Satan, never tempt me with vain things; evil are the things you offer, drink the poison yourself.\" Like every sacramental, its efficacy depends on the faith of the one who wears it, never on any magical power belonging to the object itself.",
+      "tags": [
+        "sacramentals",
+        "Saint Benedict medal",
+        "exorcism",
+        "Saint Benedict"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 9,
+      "fontes": [
+        "Benedict XIV, approval of the Saint Benedict medal (1742)",
+        "Catechism of the Catholic Church, no. 1673"
+      ]
+    },
+    {
+      "id": "sacramentais:cinzas-da-quarta-feira-de-cinzas",
+      "slug": "cinzas-da-quarta-feira-de-cinzas",
+      "titulo": "The Ashes of Ash Wednesday",
+      "categoria": "sacramentais",
+      "resumo": "Ashes blessed and placed on the forehead at the beginning of Lent, a sign of humility, penance, and a call to conversion.",
+      "corpo": "On Ash Wednesday, the day that opens the liturgical season of Lent, the priest or deacon places ashes — obtained, according to custom, from burning the blessed palms of the previous year's Palm Sunday — on the foreheads of the faithful in the form of a cross, pronouncing one of two formulas: \"Remember that you are dust, and to dust you shall return\" (cf. Gen 3:19) or \"Repent, and believe in the Gospel\" (cf. Mk 1:15).\n\nThe ashes, like every sacramental, must be blessed before being used in the liturgy. The Catechism explains that sacramentals \"do not confer the grace of the Holy Spirit in the way that the sacraments do, but by the Church's prayer, they prepare us to receive grace and dispose us to cooperate with it\" (CCC 1670). The gesture reminds Christians of their condition as mortal creatures and invites them to begin Lent in a spirit of penance, prayer, and charity.",
+      "tags": [
+        "sacramentals",
+        "ashes",
+        "Lent",
+        "penance"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 10,
+      "fontes": [
+        "Genesis 3:19; Mark 1:15",
+        "Catechism of the Catholic Church, no. 1670"
+      ]
+    },
+    {
+      "id": "sacramentais:ramos-bentos",
+      "slug": "ramos-bentos",
+      "titulo": "Blessed Palms (Palm Sunday)",
+      "categoria": "sacramentais",
+      "resumo": "Palms blessed on Palm Sunday, in memory of Jesus' triumphal entry into Jerusalem, acclaimed by the crowd with palm branches and cloaks.",
+      "corpo": "Palm Sunday, which opens Holy Week, recalls Jesus' solemn entry into Jerusalem shortly before his Passion: narrated in all four Gospels, the scene shows the crowd spreading cloaks and waving palm branches along the way, acclaiming him as the awaited Messiah. As early as the fourth and fifth centuries there are records, in Jerusalem, of an annual procession commemorating this episode, a practice that later spread throughout the East and, around the ninth century, was joined to the liturgy of the Passion in the West.\n\nIn the current celebration, the palms that the faithful bring are blessed by the priest before the entrance procession, usually from a place set apart from the main church. Taken home after Mass, the blessed palms are customarily kept behind crucifixes or images as a domestic sign of Christ's victory, and are later collected and burned to become the ashes used on Ash Wednesday of the following year.",
+      "tags": [
+        "sacramentals",
+        "blessed palms",
+        "Palm Sunday",
+        "Holy Week"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 11,
+      "fontes": [
+        "Gospel accounts of the entry into Jerusalem (Mt 21:1-11; Mk 11:1-10; Lk 19:28-40; Jn 12:12-19)",
+        "Catechism of the Catholic Church, no. 1670"
+      ]
+    },
+    {
+      "id": "sacramentais:bencao-apostolica-em-artigo-de-morte",
+      "slug": "bencao-apostolica-em-artigo-de-morte",
+      "titulo": "Apostolic Blessing at the Moment of Death",
+      "categoria": "sacramentais",
+      "resumo": "Blessing given by the priest in the name of the Pope to the faithful in danger of death, accompanied by a plenary indulgence.",
+      "corpo": "The Apostolic Blessing \"in articulo mortis\" (\"at the moment of death\") is given by the priest — usually alongside the other sacraments administered to the gravely ill — in the name of the Pope himself, and has a plenary indulgence attached to it, that is, the total remission of the temporal punishment still due for sins already forgiven. The rite usually follows sacramental confession and an act of contrition, spiritually preparing the faithful for the definitive passage to the Father.\n\nAccording to the Church's discipline on indulgences, although normally only one plenary indulgence can be obtained per day, an exception is made precisely for those who are in danger of death. If no priest is available, the Church graciously grants the same indulgence to the well-disposed faithful who, during their life, have been in the habit of praying with some regularity — showing that what is essential is not the external rite in isolation, but the interior disposition of conversion and trust in God.",
+      "tags": [
+        "sacramentais",
+        "apostolic blessing",
+        "plenary indulgence",
+        "the sick"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 12,
+      "fontes": [
+        "Paul VI, Apostolic Constitution Indulgentiarum Doctrina (1967), norm 18",
+        "Catechism of the Catholic Church, nos. 1471-1479"
+      ]
+    },
+    {
+      "id": "sacramentais:sinos-da-igreja",
+      "slug": "sinos-da-igreja",
+      "titulo": "Church Bells",
+      "categoria": "sacramentais",
+      "resumo": "A blessed liturgical instrument — popularly called the \"baptism of bells\" — that calls the faithful to prayer and marks the times of the community's life.",
+      "corpo": "The use of bells in the life of the Church goes back to the fifth century, with Saint Paulinus of Nola, in Italy, often remembered as one of the first bishops to introduce them to mark the times of the celebrations; the practice spread widely through medieval monastic communities, which needed to gather the monks scattered throughout the monastery.\n\nBefore being put to liturgical use, each bell receives a special blessing which, because of its resemblance to the baptismal rite, is popularly called the \"baptism of bells\": the bell is washed with holy water, anointed with oil, incensed, and given a name — usually that of a patron saint or of the Virgin Mary. The Fathers of the medieval Church saw in this blessing a way of sanctifying the sound of the bell, which was meant not only to call the faithful punctually to the divine offices, but also to be a sacred sign that drives away evil and invokes God's mercy upon the community.",
+      "tags": [
+        "sacramentals",
+        "bells",
+        "blessing",
+        "liturgy"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 13,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:vela-da-candelaria",
+      "slug": "vela-da-candelaria",
+      "titulo": "Candlemas Candle",
+      "categoria": "sacramentais",
+      "resumo": "Candles blessed on the Feast of the Presentation of the Lord, on February 2, a sign of Christ as a \"light for revelation to the Gentiles\".",
+      "corpo": "Forty days after Christmas, on February 2, the Church celebrates the Presentation of the Lord in the Temple, an event narrated in the Gospel of Luke in which the elder Simeon recognizes in the child Jesus \"a light for revelation to the Gentiles, and for glory to your people Israel\" (Lk 2:32). From these words developed the custom — solemnly organized as early as the 10th century, in the region of Gaul — of blessing candles at the beginning of the celebration and holding a procession with them lit toward the altar, which gave the feast its popular name, \"Candlemas\".\n\nThe candles blessed on this day are usually taken home and lit during moments of prayer or difficulty throughout the year, as a tangible sign that Christ is the light that illuminates the life of the Christian. In many parishes, the occasion is also used to bless the candles that will be used on the feast of Saint Blaise, celebrated the following day.",
+      "tags": [
+        "sacramentals",
+        "candle",
+        "Presentation of the Lord",
+        "Candlemas"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 14,
+      "fontes": [
+        "Gospel of Luke 2:22-32",
+        "Catechism of the Catholic Church, nos. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:incenso",
+      "slug": "incenso",
+      "titulo": "Incense",
+      "categoria": "sacramentais",
+      "resumo": "An aromatic substance blessed and burned in the liturgy, a sensible sign of the prayer of the faithful rising like smoke before God.",
+      "corpo": "Incense has been used in Catholic liturgy since the earliest centuries, taking up a gesture already present in Jewish worship: the fragrant smoke rising on high is a sign of the prayer of the Church and of each of the faithful ascending to the presence of God, an image dear to the biblical tradition of the Psalms (\"Let my prayer be counted as incense before you\", Ps 141:2). Before it is used, the incense receives a blessing from the priest, which gives it its value as a sacramental.\n\nThe General Instruction of the Roman Missal provides for the use of incense at specific moments of the Mass: to incense the altar and the cross, the Book of the Gospels before its proclamation, the offerings of bread and wine, the priest and the other ministers, and the gathered people — a gesture of honor that recognizes the baptismal dignity of all those present. Far from being mere ambient perfume, incense is therefore a liturgical sign of offering and of prayer that rises to Heaven.",
+      "tags": [
+        "sacramentals",
+        "incense",
+        "liturgy",
+        "prayer"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 15,
+      "fontes": [
+        "Psalm 141:2",
+        "General Instruction of the Roman Missal",
+        "Catechism of the Catholic Church, nos. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:crucifixo",
+      "slug": "crucifixo",
+      "titulo": "Crucifix",
+      "categoria": "sacramentais",
+      "resumo": "An image of Christ crucified, blessed by a priest, found in homes and churches as a sign of the redemptive Passion — never as an amulet.",
+      "corpo": "The crucifix — the cross with the image of the body of Christ — is one of the most widespread sacramentals of the Catholic tradition, recalling in a visual and permanent way the center of the Christian faith: the Passion, death, and resurrection of Jesus for the salvation of humanity. It is a custom of the Church to recommend that every home have at least one crucifix in a visible place, so that the family may have before their eyes, in daily life, the remembrance of Christ's sacrifice.\n\nLike other objects of devotion, the crucifix should be blessed by a priest or deacon — a blessing that, once given, normally does not need to be repeated for that specific object. The blessing invokes the name of God over the object and sets it apart for a use that glorifies the Creator, but it does not confer any magical power on it: the crucifix is a means of prayer, meditation, and conversion, never an amulet of automatic protection independent of the faith of the one who venerates it.",
+      "tags": [
+        "sacramentals",
+        "crucifix",
+        "cross",
+        "Passion of Christ"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 16,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:bencao-dos-animais",
+      "slug": "bencao-dos-animais",
+      "titulo": "Blessing of Animals",
+      "categoria": "sacramentais",
+      "resumo": "A tradition linked to Saint Francis of Assisi, usually celebrated on October 4, which recognizes animals as part of the creation entrusted to human care.",
+      "corpo": "It is a widespread custom in many parishes to bless pets and working animals on the occasion of the feast of Saint Francis of Assisi (1181/1182-1226), celebrated on October 4. Francis, canonized in 1228, less than two years after his death, became known for his relationship of fraternity with all creation, calling animals and the elements of nature \"brothers\" and \"sisters\" — which earned him, centuries later, the title of patron saint of ecology.\n\nIn blessing animals, the Church does not attribute divine dignity to them nor equate them with the human person: rather, it recognizes that many of them share in human life — helping with work, serving as food, or providing companionship — and that, as part of God's work, they deserve to be treated with the respect owed to creation, for which the human being is responsible before the Creator.",
+      "tags": [
+        "sacramentals",
+        "blessing of animals",
+        "Saint Francis of Assisi",
+        "creation"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 17,
+      "fontes": [
+        "Life of Saint Francis of Assisi (1181/1182-1226; canonized in 1228)",
+        "Catechism of the Catholic Church, nos. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:genuflexao",
+      "slug": "genuflexao",
+      "titulo": "Genuflection",
+      "categoria": "sacramentais",
+      "resumo": "The gesture of bending the right knee to the ground before the Blessed Sacrament, a bodily sign of adoration and humility.",
+      "corpo": "Genuflection — from the Latin genuflectere, \"to bend the knee\" — is the gesture of briefly kneeling on the right knee before a sacred presence. It originates in the Jewish tradition of prostration before God and was adopted by Christians from early on. It is distinguished from a simple bow of the head or torso by its stronger meaning: whereas a bow expresses respect and reverence in general, genuflection is reserved, in the Roman liturgy, for the adoration due to the Blessed Sacrament.\n\nDuring Mass, the faithful customarily genuflect when entering and leaving the pew, if the tabernacle is in the sanctuary with the Blessed Sacrament reserved, and the priest genuflects after the consecration of the bread and wine and before communion. The gesture, simple and bodily, is a concrete way for Christians to acknowledge with their own bodies the greatness of God present in the Eucharist and the smallness of the one who kneels before him.",
+      "tags": [
+        "sacramentals",
+        "genuflection",
+        "adoration",
+        "reverence"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 18,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1378, 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:bencao-da-mesa",
+      "slug": "bencao-da-mesa",
+      "titulo": "Blessing of the Table",
+      "categoria": "sacramentais",
+      "resumo": "A prayer of gratitude before meals, which consecrates our daily food and recognizes in it a gift received from God.",
+      "corpo": "Inspired by the Jewish tradition of blessing God before eating, the Christian custom of blessing the table goes back to the first centuries and remains alive in many Catholic families to this day. The Catechism places among the sacramentals, in first place, precisely the blessings of persons, meals, objects, and places — sacred signs that prepare the heart to receive the fruits of the sacraments and to sanctify the different circumstances of life.\n\nThe traditional Latin formula — \"Benedic, Domine, nos et haec tua dona, quae de tua largitate sumus sumpturi\" (\"Bless us, O Lord, and these Thy gifts, which we are about to receive from Thy bounty\") — may be prayed at any meal, usually led by the father or mother of the family. More than a fixed formula, the blessing of the table expresses the recognition that our daily food is a gift from God, the fruit of the fertile earth and of human labor, and not something simply owed to us or taken for granted.",
+      "tags": [
+        "sacramentals",
+        "blessing of the table",
+        "prayer",
+        "daily life"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 19,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:terco-abencoado",
+      "slug": "terco-abencoado",
+      "titulo": "The Blessed Rosary",
+      "categoria": "sacramentais",
+      "resumo": "Rosary beads, when blessed by a priest or deacon, become a sacramental linked to Marian prayer and to indulgences.",
+      "corpo": "The rosary — an object of beads used to accompany the recitation of the Rosary — becomes a sacramental when blessed by a priest or deacon, who usually asks, in the formula of blessing, that \"through the prayers and the glory of Mary, Virgin Mother of God, in memory of the mysteries of the life, death, and resurrection of Our Lord Jesus Christ,\" the beads be blessed and sanctified. From that moment on, the object becomes a sacred sign, but its spiritual efficacy remains tied to the faith and interior disposition of the one who prays with it, never to a magical power of the beads themselves.\n\nThe Church's discipline on indulgences also recognizes an additional benefit: the faithful who piously use a rosary duly blessed by any priest or deacon may obtain a partial indulgence; if the same rosary is blessed by the Pope or by a bishop, the one who piously uses it may obtain a plenary indulgence on the solemnity of the Apostles Peter and Paul, adding some legitimate formula of profession of faith.",
+      "tags": [
+        "sacramentals",
+        "rosary",
+        "Rosary",
+        "indulgence"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 20,
+      "fontes": [
+        "Handbook of Indulgences (Enchiridion Indulgentiarum)",
+        "Catechism of the Catholic Church, nos. 1667-1679"
+      ]
+    }
+  ]
+}

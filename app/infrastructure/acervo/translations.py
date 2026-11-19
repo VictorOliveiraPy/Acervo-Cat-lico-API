@@ -18,7 +18,7 @@ from app.infrastructure.acervo.json_repository import DEFAULT_DATA_DIR, Reposito
 # Adicionar um idioma novo aqui só depois de `app/data/i18n/<lang>/` existir
 # no repositório com pelo menos um arquivo de categoria — a ordem aqui é a
 # ordem de prioridade de tradução (ver planejamento de i18n do site).
-SUPPORTED_LANGUAGES: tuple[str, ...] = ("es",)
+SUPPORTED_LANGUAGES: tuple[str, ...] = ("es", "en")
 
 I18N_DATA_DIR = DEFAULT_DATA_DIR / "i18n"
 

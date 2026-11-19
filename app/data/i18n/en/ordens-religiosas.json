@@ -1,0 +1,645 @@
+{
+  "_meta": {
+    "categoria": "ordens-religiosas",
+    "nome": "Religious Orders",
+    "descricao": "Catholic orders, congregations and institutes of consecrated life: founder, origin and charism of each.",
+    "status": "exemplos-iniciais",
+    "aviso": "This is not a complete list of the thousands of existing Catholic orders and congregations; it covers some of the most numerous and historically influential.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Catechism of the Catholic Church, nos. 914-933 (consecrated life)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "ordens-religiosas:beneditinos",
+      "slug": "beneditinos",
+      "titulo": "Benedictines (Order of Saint Benedict)",
+      "categoria": "ordens-religiosas",
+      "resumo": "The oldest monastic order in the West, governed by the Rule of Saint Benedict and the motto \"ora et labora\".",
+      "corpo": "Founded by Saint Benedict of Nursia at Monte Cassino, the Order of Saint Benedict organizes monastic life around the balance between liturgical prayer (the \"Divine Office\"), manual and intellectual work, and spiritual reading (\"lectio divina\"). Each Benedictine monastery is autonomous, united to the other houses by a confederation, not by a single central government as in later orders. It was decisive in preserving classical and Christian culture during the Early Middle Ages.",
+      "tags": [
+        "monasticism",
+        "Benedictines"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Fra_Angelico_031.jpg",
+      "imagem_credito": null,
+      "fundador": "Saint Benedict of Nursia",
+      "ano_fundacao": "c. 529",
+      "carisma": "Contemplative monastic life in a stable community, balance between prayer and work",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:franciscanos",
+      "slug": "franciscanos",
+      "titulo": "Franciscans (Order of Friars Minor)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Mendicant order founded by Saint Francis of Assisi, marked by radical poverty and love for creation.",
+      "corpo": "Founded by Francis of Assisi in the early thirteenth century and approved by Innocent III, the Order of Friars Minor proposes radical evangelical poverty — neither individual nor communal ownership of goods — and itinerant preaching, living from begging and work. Today it is divided into three main branches (Friars Minor, Capuchins and Conventuals), in addition to the Order of Saint Clare (for women) and the Third Order for laity.",
+      "tags": [
+        "Franciscans",
+        "mendicants"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bonaventura_Berlinghieri%2C_San_Francesco_e_storie_della_sua_vita%2C_1235%2C_01b.jpg",
+      "imagem_credito": "Photo: Sailko (2018) — Wikimedia Commons, CC BY-SA 4.0",
+      "fundador": "Saint Francis of Assisi",
+      "ano_fundacao": "1209",
+      "carisma": "Radical evangelical poverty, fraternity and love for creation",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:dominicanos",
+      "slug": "dominicanos",
+      "titulo": "Dominicans (Order of Preachers)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Mendicant order founded by Saint Dominic de Guzmán, dedicated especially to the study and preaching of the truth.",
+      "corpo": "Founded by Dominic de Guzmán to respond, through itinerant preaching and rigorous theological study, to the spread of heresies in southern France, the Order of Preachers became one of the greatest intellectual centers of the medieval Church — Saint Thomas Aquinas and Albert the Great were Dominicans. Its motto, \"contemplare et contemplata aliis tradere\" (to contemplate and to hand on to others the fruits of contemplation), sums up its charism.",
+      "tags": [
+        "Dominicans",
+        "mendicants"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/38/SaintDominic.jpg",
+      "imagem_credito": null,
+      "fundador": "Saint Dominic de Guzmán",
+      "ano_fundacao": "1216",
+      "carisma": "Study, contemplation and preaching of the truth",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:jesuitas",
+      "slug": "jesuitas",
+      "titulo": "Jesuits (Society of Jesus)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Order founded by Saint Ignatius of Loyola, marked by obedience to the Pope, intellectual formation, and mission.",
+      "corpo": "Founded by Ignatius of Loyola and his companions, and approved by Paul III in 1540, the Society of Jesus adds to the traditional religious vows a fourth vow of special obedience to the Pope regarding missions. It played a decisive role in the Counter-Reformation, in education (founding colleges throughout Europe and in the colonial world), and in the missions, including Brazil, with José de Anchieta and Manuel da Nóbrega. It was suppressed in 1773 and restored in 1814.",
+      "tags": [
+        "Jesuits",
+        "missions",
+        "education"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/15/St_Ignatius_of_Loyola_%281491-1556%29_Founder_of_the_Jesuits.jpg",
+      "imagem_credito": null,
+      "fundador": "Saint Ignatius of Loyola",
+      "ano_fundacao": "1540",
+      "carisma": "Obedience to the Pope, spiritual discernment (Spiritual Exercises), and mission",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:carmelitas",
+      "slug": "carmelitas",
+      "titulo": "Carmelites",
+      "categoria": "ordens-religiosas",
+      "resumo": "An order of eremitical origin on Mount Carmel, reformed in the 16th century by Saint Teresa of Ávila and Saint John of the Cross.",
+      "corpo": "Of eremitical origin, linked to Mount Carmel in the Holy Land, the Order of Carmel was organized in Europe from the 13th century onward. In the 16th century, Teresa of Ávila and John of the Cross promoted a reform that gave rise to the branch of the \"Discalced,\" with a more austere and contemplative life, alongside the \"Carmelites of the Ancient Observance.\" It is the order of origin of Saint Thérèse of Lisieux and Saint Teresa Benedicta of the Cross (Edith Stein).",
+      "tags": [
+        "Carmelites",
+        "mysticism"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Zurbar%C3%A1n_%28atribuido%29-John_of_the_Cross-1656.jpg",
+      "imagem_credito": null,
+      "fundador": "Eremitical origin; reform by Saint Teresa of Ávila and Saint John of the Cross",
+      "ano_fundacao": "c. 12th century (origin); 1562 (Teresian reform)",
+      "carisma": "Contemplative life, mental prayer, and Marian devotion",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:redentoristas",
+      "slug": "redentoristas",
+      "titulo": "Redemptorists (Congregation of the Most Holy Redeemer)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Congregation founded by Saint Alphonsus Maria de Liguori, dedicated to the evangelization of the most abandoned, especially in rural areas.",
+      "corpo": "Founded by Alphonsus Maria de Liguori in the Kingdom of Naples, it has devoted itself from the beginning to the popular evangelization of the poorest and the spiritually abandoned, especially in rural areas lacking regular pastoral care. Since 1866, it has also been responsible for the custody and spread of the devotion to Our Lady of Perpetual Help.",
+      "tags": [
+        "Redemptorists",
+        "popular missions"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/St_Alphonsus_Liguori.jpg",
+      "imagem_credito": null,
+      "fundador": "Saint Alphonsus Maria de Liguori",
+      "ano_fundacao": "1732",
+      "carisma": "Evangelization of the most abandoned, especially among the common people and in rural areas",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:salesianos",
+      "slug": "salesianos",
+      "titulo": "Salesians (Society of Saint Francis de Sales)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Congregation founded by Saint John Bosco, dedicated to the education and evangelization of young people, especially the poorest.",
+      "corpo": "Founded by John Bosco in Turin to serve poor and socially at-risk young people of the Industrial Revolution, the Salesian congregation developed its own educational method — the \"preventive system,\" based on reason, religion, and loving-kindness rather than repression — now applied in Salesian schools, oratories, and social works throughout the world, including an extensive presence in Brazil.",
+      "tags": [
+        "Salesians",
+        "education",
+        "youth"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Don_Bosco_%40_Torino%2C_1880_%28original%29.jpg",
+      "imagem_credito": null,
+      "fundador": "Saint John Bosco",
+      "ano_fundacao": "1859",
+      "carisma": "Education and evangelization of young people, especially the poorest",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:missionarias-da-caridade",
+      "slug": "missionarias-da-caridade",
+      "titulo": "Missionaries of Charity",
+      "resumo": "Congregation founded by Saint Teresa of Calcutta (1950), dedicated to the care of \"the poorest of the poor\" and marked by a fourth vow of free and wholehearted service.",
+      "corpo": "The Missionaries of Charity were founded by Saint Teresa of Calcutta (born Agnes Gonxha Bojaxhiu, 1910-1997) and officially established on October 7, 1950, as a diocesan congregation of the Archdiocese of Calcutta, in India. Mother Teresa, a religious sister of Albanian origin who had been a teacher in the community of the Sisters of Loreto, obtained from Pius XII on August 12, 1949, permission to leave that congregation and to be placed under the jurisdiction of the Archbishop of Calcutta; the following year, she received authorization to found the new community. The work began as a small group of twelve members in Calcutta.\n\nThe mission of the congregation is to serve, in Mother Teresa's words, \"the poorest of the poor\": the hungry, the naked, the homeless, the crippled, the blind, those suffering from leprosy, and all those who feel unwanted, unloved, and rejected by society. The first house opened by Mother Teresa was Nirmal Hriday (\"Pure Heart\"), a home for the dying in the Kalighat neighborhood of Calcutta — still active today. To the three traditional vows (chastity, poverty, and obedience), the sisters add a fourth: to give \"wholehearted and free service to the poorest of the poor.\" The congregation maintains contemplative and active branches.\n\nExpansion beyond India was authorized by Paul VI, who on February 1, 1965, granted the congregation the \"Decretum Laudis,\" raising it to the status of an institute of pontifical right. The first house outside India was opened in Venezuela; in 1968, Paul VI himself invited Mother Teresa to open a house in Rome. The sisters run orphanages, homes for AIDS patients, and shelters throughout the world.\n\nThe numbers give a measure of the expansion: in 2015 the congregation counted about 5,150 sisters in 758 houses, spread across 120 countries; in 2023, about 5,750 sisters served in 139 countries and 760 houses, 244 of them in India. Alongside the Missionaries of Charity, related branches arose, such as the Missionary Brothers of Charity, founded in 1963 in Australia, and the Co-Workers of Mother Teresa, approved in 1969.\n\nThe work of Mother Teresa — who received the Nobel Peace Prize in 1979 and was canonized by Francis on September 4, 2016 — is also the subject of controversy. Former missionaries have reported, in public testimonies, an internal culture of abuse and neglect, and scholars and media outlets have questioned the quality of the medical care offered in the houses, above all the choice not to offer more intensive palliative treatments to the dying. The congregation, which has strong local autonomy, maintains that its mission is primarily spiritual and that it is distinguished by living poverty alongside those it serves.",
+      "categoria": "ordens-religiosas",
+      "tags": [
+        "Missionaries of Charity",
+        "Mother Teresa of Calcutta",
+        "charity",
+        "the poor",
+        "Calcutta",
+        "20th century",
+        "Nirmal Hriday"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Mother_Teresa_1.jpg",
+      "imagem_credito": "Photo: Kingkongphoto & www.celebrity-photos.com — Wikimedia Commons, CC BY-SA 2.0",
+      "fontes": [
+        "Missionaries of Charity – Wikipedia (in English): establishment on October 7, 1950; Decretum Laudis of 1965; fourth vow; 2023 figures",
+        "Agência ECCLESIA, \"Madre Teresa, 12 anos depois\" (Decretum Laudis, February 1, 1965)",
+        "Diocese of Piracicaba, \"Samaritana da Misericórdia: Madre Teresa e os Papas\" (dissolution of the Sisters of Loreto, 1949; Rome house, 1968)",
+        "Instituto Humanitas Unisinos, \"Ex-missionárias da Caridade alegam cultura de abuso e negligência\" (2023)"
+      ],
+      "atualizado_em": null,
+      "fundador": "Saint Teresa of Calcutta",
+      "ano_fundacao": "1950",
+      "carisma": "Free and wholehearted service to the poorest of the poor"
+    },
+    {
+      "id": "ordens-religiosas:agostinianos",
+      "slug": "agostinianos",
+      "titulo": "Augustinians (Order of Saint Augustine)",
+      "categoria": "ordens-religiosas",
+      "resumo": "A mendicant order that follows the Rule attributed to Saint Augustine, uniting community life, study and apostolate.",
+      "corpo": "Formed in the thirteenth century by the union of several eremitical groups under the Rule attributed to Saint Augustine of Hippo, the Order of Saint Augustine combines fraternal community life, study and various forms of apostolate. Martin Luther was an Augustinian friar before the break of the Reformation; more recently, Pope Leo XIV belongs to this order.",
+      "tags": [
+        "Augustinians",
+        "mendicants"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg",
+      "imagem_credito": null,
+      "fundador": "Union of eremitical groups under the Rule of Saint Augustine",
+      "ano_fundacao": "1244",
+      "carisma": "Fraternal community life, study and diversified apostolate",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:clarissas",
+      "slug": "clarissas",
+      "titulo": "Poor Clares (Order of Saint Clare)",
+      "categoria": "ordens-religiosas",
+      "resumo": "The contemplative female branch of the Franciscan tradition, founded by Saint Clare of Assisi.",
+      "corpo": "Founded by Clare of Assisi, a disciple of Francis, as the contemplative female branch of the Franciscan tradition, devoted to the cloistered life, radical poverty, and prayer. For decades Clare resisted pressure for the order to accept income and property, defending the \"privilege of poverty\" as the central identity of her charism.",
+      "tags": [
+        "Poor Clares",
+        "Franciscans",
+        "contemplative life"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Simone_Martini_047.jpg",
+      "imagem_credito": null,
+      "fundador": "Saint Clare of Assisi",
+      "ano_fundacao": "1212",
+      "carisma": "Radical poverty and the cloistered contemplative life",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:combonianos",
+      "slug": "combonianos",
+      "titulo": "Comboni Missionaries (Missionaries of the Sacred Heart of Jesus)",
+      "resumo": "Missionary institute founded by Saint Daniel Comboni in Verona (1867), dedicated to the evangelization of Central Africa according to the principle of \"saving Africa through Africa.\"",
+      "corpo": "The Comboni Missionaries of the Sacred Heart of Jesus (MCCJ) originated in the \"Institute for the African Missions,\" founded by Saint Daniel Comboni (1831-1881) in Verona on June 1, 1867. Born in Limone sul Garda to a humble farming family, Comboni was ordained a priest in 1854 and, after an initial missionary experience in Central Africa (Sudan), devoted himself to missionary animation throughout Europe in order to support the African missions. The institute began as a diocesan work, made up of priests and brothers of various nationalities who did not take religious vows, but bound themselves by an oath of belonging and loyalty to the institute and to the mission; the first rules date from 1871.\n\nThe idea that guided all of Comboni's work is the \"Plan for the Regeneration of Africa,\" conceived — according to the institute's own tradition — on September 14, 1864, while he was praying at the tomb of Saint Peter, during the triduum in preparation for the beatification of Margaret Mary Alacoque. The Plan, summed up in the motto \"Save Africa through Africa\" (or Nigrizia or death was Comboni's personal motto), proposed training African priests and missionaries in Africa itself, in an African environment, correcting the conviction that Europeans could not withstand the climate and that Africans taken to Europe were \"corrupted\" by its comforts. Comboni presented the project to the Church by means of a Postulatum dated June 24, 1870, signed by seventy council fathers and included in the agenda of the First Vatican Council; the text, however, was never discussed, since the Council was interrupted by the capture of Rome.\n\nBesides the male branch, Comboni founded, on January 1, 1872, also in Verona, the women's institute of the Comboni Missionary Sisters, then called the \"Pie Madri della Nigrizia\" (Pious Mothers of Nigrizia) — the first women's missionary institute in Italy. Comboni conceived the sisters as full participants in the mission in Central Africa, which was unusual for the time. In 1872 he was appointed pro-vicar and, on July 31, 1877, bishop and Vicar Apostolic of Central Africa (titular see of Claudiopolis in Isauria), receiving episcopal consecration on August 12, 1877. He died in Khartoum, Sudan, on October 10, 1881, worn out by his labors.\n\nComboni was beatified by John Paul II on March 17, 1996, and canonized by the same pontiff on October 5, 2003; his liturgical feast is October 10. The miracle recognized for the canonization was the healing of the Sudanese mother Lubna Abdel Aziz, which occurred on November 11, 1997, in a maternity hospital in Khartoum run by the Comboni Sisters. Today the Comboni family comprises about three thousand missionaries; the Comboni Missionaries are present in dozens of countries on four continents, above all in Africa, faithful to the charism of evangelization and the defense of human dignity.",
+      "categoria": "ordens-religiosas",
+      "tags": [
+        "Comboni Missionaries",
+        "missions",
+        "Africa",
+        "Daniel Comboni",
+        "Verona",
+        "19th century",
+        "First Vatican Council"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Daniele_Comboni.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "History of the Institute – Comboni Missionaries (combonianos.org.br/historia-do-instituto)",
+        "Vatican, biography of Daniel Comboni for the canonization (vatican.va, October 5, 2003)",
+        "Entry \"Daniel Comboni\" in the Portuguese-language Wikipedia (First Vatican Council, Plan of 1864, canonization)",
+        "Comboni Missionary Sisters (comboni.org/pt/contenuti/108014)"
+      ],
+      "atualizado_em": null,
+      "fundador": "Saint Daniel Comboni",
+      "ano_fundacao": "1867",
+      "carisma": "Evangelization of Africa with native clergy and religious"
+    },
+    {
+      "id": "ordens-religiosas:opus-dei",
+      "slug": "opus-dei",
+      "titulo": "Opus Dei",
+      "categoria": "ordens-religiosas",
+      "resumo": "A personal prelature founded by Saint Josemaría Escrivá, which proposes the pursuit of holiness in the midst of work and ordinary secular life.",
+      "corpo": "Founded by the Spanish priest Josemaría Escrivá, Opus Dei (\"Work of God\") is not a religious order but a personal prelature — a juridical structure of its own within the Church —, made up mostly of lay people, which proposes the sanctification of professional work and of the ordinary occupations of secular life as an ordinary path to holiness, without requiring the classical religious life.",
+      "tags": [
+        "Opus Dei",
+        "lay people",
+        "sanctification of work"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Josemaria_Escriva.jpg",
+      "imagem_credito": "Photo: Oficina de Información de la Prelatura del Opus Dei en España — Wikimedia Commons, CC BY-SA 2.0",
+      "fundador": "Saint Josemaría Escrivá",
+      "ano_fundacao": "1928",
+      "carisma": "Sanctification of work and of ordinary secular life",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:irmas-de-madre-teresa",
+      "slug": "irmas-de-madre-teresa",
+      "titulo": "Servants of Mary (Servites)",
+      "resumo": "A mendicant order founded in Florence in 1233 by seven lay merchants, with a special devotion to Our Lady of Sorrows.",
+      "corpo": "The Order of the Servants of Mary — whose friars are known as \"Servites\" — was founded in Florence in 1233 by seven cloth and wool merchants belonging to the city's emerging middle class. According to the tradition of the Order, on August 15, 1233, the feast of the Assumption, the Virgin appeared to these seven laymen, who belonged to a confraternity called the Laudesi, and invited them to renounce the world. They then divided their goods among the poor and withdrew as a community to an abandoned house on the outskirts of Florence, which would later be called \"Santa Maria di Cafaggio\" — the place where the Sanctuary of the Most Holy Annunciation now stands — and, afterward, to Monte Senario, which remains the spiritual cradle of the Order.\n\nThe founders, whose names were fixed at the time of the canonization — and which, according to the Order's own scholars, have historical value only in the cases of Bonfilius and Alexis —, are: Bonfiglio dei Monaldi (Bonfilius), Giovanni di Buonagiunta (Bonajuncta), Bartolomeo degli Amidei (Amadeus), Ricovero dei Lippi-Uguccioni (Hugh), Benedetto dell'Antella (Manettus), Gherardino di Sostegno (Sostene) and Alessio Falconieri (Alexis). The Florentine context was one of great civil conflict: on one side the Guelphs, supporters of the papacy, on the other the Ghibellines, supporters of the emperor; the \"Seven Holy Founders\" therefore wished to bear witness to unity and peace, and are proclaimed by the liturgy as \"ministers of unity and peace\".\n\nAmong the first followers, Saint Philip Benizi stands out as a great organizer and propagator of the Order. It was thanks to the efforts of the prior general Saint Philip and of his successor Friar Lotaringo that, on February 11, 1304, the Dominican Pope Benedict XI, with the bull \"Dum levamus\", approved the Rule and the Constitutions of the new Order, which then counted four provinces in Italy (Tuscany, the Patrimony of Saint Peter, Romagna and Lombardy) and one in Germany, with thirty-one priories and about two hundred and fifty friars. In 1424, with the bull \"Sedis apostolicae providentia\", Pope Martin V ratified the organization of the Third Order, today called the Secular Order of the Servants of Mary.\n\nThe characteristic devotion of the Servites is that of Our Lady of Sorrows, under the title of the Sorrowful Virgin, whose biblical foundation is the prophecy of Simeon: \"and a sword will pierce through your own soul also\" (Lk 2:35). Servite spirituality contemplates the sorrows of Mary throughout the life of Christ — from the flight into Egypt to the loss of the Child in the Temple, from the meeting on the way to Calvary to her standing by the cross (Jn 19:25). Like the other mendicant orders, the Servites unite a communal life of prayer and penance with active apostolate.\n\nThe Seven Holy Founders were canonized together, as if they were one, by Pope Leo XIII in 1888 — a unique case in the history of the Church —, and their liturgical feast is celebrated on February 17. Monte Senario remains the point of reference for all the Servants of Mary, men and women, spread throughout the world, and guards the relics of the seven founders.",
+      "categoria": "ordens-religiosas",
+      "tags": [
+        "Servites",
+        "Servants of Mary",
+        "Our Lady of Sorrows",
+        "Florence",
+        "Monte Senario",
+        "13th century",
+        "Philip Benizi"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Getaria_-_Iglesia_del_Salvador_26.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "History – Order of the Servants of Mary (servitasbrasil.org/quem-somos)",
+        "\"History\" – Order of the Servants of Mary (servidimaria.net, bull Dum levamus, 1304; Third Order, 1424)",
+        "Vatican News, Saint of the Day, Seven Holy Founders of the Servite Order (vaticannews.va)"
+      ],
+      "atualizado_em": null,
+      "fundador": "Seven Founders of Florence",
+      "ano_fundacao": "1233",
+      "carisma": "Devotion to the sorrows of Our Lady and apostolic community life"
+    },
+    {
+      "id": "ordens-religiosas:trapistas",
+      "slug": "trapistas",
+      "titulo": "Trappists (Order of Cistercians of the Strict Observance)",
+      "categoria": "ordens-religiosas",
+      "resumo": "A reformed branch of the Cistercians, marked by silence, strict enclosure and manual labor — also the origin of the Trappist cheese and liqueur tradition.",
+      "corpo": "The Trappists arose from a reform promoted by Abbot Armand de Rancé at the monastery of La Trappe, in France, in the seventeenth century, seeking to recover the original rigor of the Rule of Saint Benedict within the Cistercian tradition. They live in almost absolute silence, strict enclosure and a strong emphasis on manual labor as a means of livelihood and of prayer — it is from this discipline that comes the tradition, now known worldwide, of the cheeses, breads and liqueurs produced by Trappist monasteries. They were formally established as an order in their own right, distinct from the common Cistercian order, in 1892.",
+      "tags": [
+        "monasticism",
+        "Cistercian reform",
+        "enclosure"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Armand_Bouthillier_Rance.jpg",
+      "imagem_credito": null,
+      "fundador": "Armand Jean le Bouthillier de Rancé",
+      "ano_fundacao": "1664 (reform); 1892 (order in its own right)",
+      "carisma": "Contemplative monastic life in silence and enclosure, sustained by manual labor",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:cartuxos",
+      "slug": "cartuxos",
+      "titulo": "Carthusians (Order of Carthusians)",
+      "categoria": "ordens-religiosas",
+      "resumo": "The strictest order of eremitical life in the Church, in which the monks live almost all the time alone in their own cells, united by the common liturgy.",
+      "corpo": "Founded by Saint Bruno of Cologne in 1084, in the mountainous region of the Chartreuse, near Grenoble, in France, the Carthusian Order combines the eremitical life with a minimal communal structure: each monk lives practically isolated in an individual cell, dedicated to prayer and silence, gathering with the others only for the liturgical offices and a few common occasions during the week. It is considered the most austere form of contemplative life still regularly practiced in the Latin Church. The motherhouse, the Grande Chartreuse, is still inhabited today.",
+      "tags": [
+        "monasticism",
+        "eremitism",
+        "enclosure"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/La_Grande_Chartreuse.JPG",
+      "imagem_credito": null,
+      "fundador": "Saint Bruno of Cologne",
+      "ano_fundacao": "1084",
+      "carisma": "Solitary eremitical life within a minimal communal structure",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 920-921 (eremitical life)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:vicentinos",
+      "slug": "vicentinos",
+      "titulo": "Vincentians (Congregation of the Mission)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Congregation founded by Saint Vincent de Paul to evangelize the rural poor and form clergy, and also the origin of the Daughters of Charity.",
+      "corpo": "Founded by Saint Vincent de Paul in 1625, in France, the Congregation of the Mission — whose members are called Vincentians or Lazarists, in reference to the old priory of Saint-Lazare in Paris, the community's headquarters — was originally dedicated to the evangelization of the rural poor, who were then little served by ordinary parish pastoral care, and to the formation of seminarians and diocesan clergy. Vincent de Paul would also found, with Saint Louise de Marillac, the Daughters of Charity, a sister congregation devoted to the direct service of the poor and the sick. The name \"Vincentian\" is today also associated with the Societies of Saint Vincent de Paul, lay charitable organizations inspired by the same charism, but juridically distinct from the religious congregation.",
+      "tags": [
+        "rural evangelization",
+        "formation of the clergy",
+        "charity"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/27/CMPaul.png",
+      "imagem_credito": null,
+      "fundador": "Saint Vincent de Paul",
+      "ano_fundacao": "1625",
+      "carisma": "Evangelization of the poor and formation of the clergy",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:passionistas",
+      "slug": "passionistas",
+      "titulo": "Passionists (Congregation of the Passion of Jesus Christ)",
+      "categoria": "ordens-religiosas",
+      "resumo": "A congregation centered on the living memory of the Passion of Christ, dedicated to popular missions and the preaching of retreats.",
+      "corpo": "Founded by Saint Paul of the Cross in 1720, in Italy, the Congregation of the Passion of Jesus Christ has as its own charism to keep alive, in the preaching and spiritual life of its members, the memory of the Passion and Death of Christ as the greatest sign of God's love for humanity. Historically dedicated to popular missions in underserved rural regions and to the preaching of spiritual retreats, today it also carries out parish and educational work in several countries, including Brazil.",
+      "tags": [
+        "Passion of Christ",
+        "popular missions",
+        "retreats"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Curia_Provincial_MAPRAES_2015.jpg",
+      "imagem_credito": "Photo: Tiagosgd — Wikimedia Commons, CC BY-SA 4.0",
+      "fundador": "Saint Paul of the Cross",
+      "ano_fundacao": "1720",
+      "carisma": "Living memory of the Passion of Christ, popular missions and spiritual retreats",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:maristas",
+      "slug": "maristas",
+      "titulo": "Marist Brothers (Institute of the Marist Brothers)",
+      "categoria": "ordens-religiosas",
+      "resumo": "An institute of lay religious dedicated to the education of children and young people, with a strong presence in schools around the world, including Brazil.",
+      "corpo": "Founded by Saint Marcellin Champagnat in 1817 in France, the Institute of the Marist Brothers is made up of lay religious — not priests — dedicated above all to the school education of children and young people, with special attention to the poorest and those far from the faith, in the wake of the educational reforms promoted in post-revolutionary Europe. Under the spiritual protection of Mary, it has spread to dozens of countries, and today maintains an extensive network of schools and universities, with a particularly strong presence in Brazil since the early twentieth century.",
+      "tags": [
+        "Catholic education",
+        "lay religious",
+        "Mary"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Marist-stem.jpg",
+      "imagem_credito": null,
+      "fundador": "Saint Marcellin Champagnat",
+      "ano_fundacao": "1817",
+      "carisma": "Evangelizing education of children and young people, with attention to the poorest",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:ursulinas",
+      "slug": "ursulinas",
+      "titulo": "Ursulines (Company of Saint Ursula)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Founded by Saint Angela Merici, it was the first religious association devoted specifically to the education of girls and young women.",
+      "corpo": "Founded in Brescia, Italy, by Angela Merici under the protection of Saint Ursula, the Company was born with a rule that was original for its time: the \"renouncers\" lived outside the convent, consecrated to God by a vow of chastity, yet remaining in their own homes and families, devoted to the religious instruction of poor girls and to the care of the sick. In time, especially after the papal approval of 1544, several Ursuline branches also organized themselves in conventual life, while maintaining the original educational charism. It is considered a pioneer, in the West, of a form of women's consecrated life explicitly directed toward education.",
+      "tags": [
+        "Ursulines",
+        "women's education"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Saint_Angela_Merici.jpg",
+      "imagem_credito": null,
+      "fundador": "Saint Angela Merici",
+      "ano_fundacao": "1535",
+      "carisma": "Christian education of girls and young women, especially the poorest",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)",
+        "Wikipedia: Angela Merici"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:filhas-da-caridade",
+      "slug": "filhas-da-caridade",
+      "titulo": "Daughters of Charity of Saint Vincent de Paul",
+      "categoria": "ordens-religiosas",
+      "resumo": "Founded by Saint Vincent de Paul and Saint Louise de Marillac, it was the first women's congregation to live active charity outside the monastic cloister.",
+      "corpo": "Founded in Paris by Vincent de Paul and Louise de Marillac, the Company of the Daughters of Charity broke with the then prevailing norm that every woman religious must live in cloister: the sisters, whom Vincent called \"nuns without a cloister,\" had the houses of the sick for their convent, a rented room for their cell, the parish church for their chapel, and obedience for their cloister. From the beginning they have devoted themselves to the direct service of the poor, the sick, and the abandoned in hospitals, schools, and parishes, and today they are one of the largest women's religious congregations in the world.",
+      "tags": [
+        "Daughters of Charity",
+        "charity",
+        "the poor"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Saint_Vincent_de_Paul.jpg",
+      "imagem_credito": "Photo: Oxxo — Wikimedia Commons, CC BY-SA 3.0",
+      "fundador": "Saint Vincent de Paul and Saint Louise de Marillac",
+      "ano_fundacao": "1633",
+      "carisma": "Direct and active service to the poor, the sick, and the abandoned, outside the monastic cloister",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)",
+        "Wikipedia: Daughters of Charity of Saint Vincent de Paul"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:oratorianos",
+      "slug": "oratorianos",
+      "titulo": "Oratorians (Congregation of the Oratory)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Founded by Saint Philip Neri in Rome, it brings together priests and brothers who live in community without religious vows, devoted to prayer and preaching.",
+      "corpo": "Canonically erected in Rome by Pope Gregory XIII, the Congregation of the Oratory was born from the gatherings of prayer, simple preaching and sacred music that Philip Neri had organized for years at the church of San Girolamo della Carità. Unlike traditional religious orders, the Oratorians do not profess public vows of poverty, chastity and obedience: each house (\"oratory\") is autonomous, and its members — priests and brothers — live in community through a free bond of charity, devoted to liturgical prayer, preaching accessible to simple people, and spiritual direction.",
+      "tags": [
+        "Oratorians",
+        "Philip Neri"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Painting_of_Saint_Philip_Neri%2C_by_Sebastiano_Conca.jpg",
+      "imagem_credito": null,
+      "fundador": "Saint Philip Neri",
+      "ano_fundacao": "1575",
+      "carisma": "Community life without religious vows, prayer, simple preaching and spiritual direction",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)",
+        "Wikipedia: Congregation of the Oratory"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:trinitarios",
+      "slug": "trinitarios",
+      "titulo": "Trinitarians (Order of the Most Holy Trinity)",
+      "categoria": "ordens-religiosas",
+      "resumo": "A medieval order founded for the ransom of Christians held captive by Muslims, today devoted to various modern forms of captivity and slavery.",
+      "corpo": "Founded at Cerfroid, in France, by John of Matha and Felix of Valois, and approved by Pope Innocent III in 1198, the Order of the Most Holy Trinity was born with the specific mission of ransoming Christians captured by Muslim corsairs in the Mediterranean. A rule of its own, the so-called \"tertia pars,\" determined that one third of all the order's income be set aside exclusively to pay ransoms. Today, with the enslavement of captives of that historical kind largely ended, the Trinitarians have redirected their original charism toward combating contemporary forms of captivity, such as human trafficking.",
+      "tags": [
+        "Trinitarians",
+        "ransom of captives"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Laurent_de_La_Hyre_-_St_John_of_Matha%2C_Founder_of_the_Order_of_the_Trinitarians_-_WGA12318.jpg",
+      "imagem_credito": null,
+      "fundador": "Saint John of Matha and Saint Felix of Valois",
+      "ano_fundacao": "1198",
+      "carisma": "Devotion to the Most Holy Trinity, hospitality, and ransom of captives",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)",
+        "Wikipedia: Order of the Most Holy Trinity"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:mercedarios",
+      "slug": "mercedarios",
+      "titulo": "Mercedarians (Order of Our Lady of Mercy)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Order founded in Barcelona by Saint Peter Nolasco for the ransom of captive Christians, whose members take a fourth vow to offer themselves in exchange for hostages, if necessary.",
+      "corpo": "Founded in Barcelona by Peter Nolasco, with the support of King James I of Aragon, the Order of Our Lady of Mercy arose, according to tradition, from a Marian apparition asking for the creation of an order dedicated to freeing Christians held captive by Muslims on the frontier between the Crown of Aragon and Muslim Spain. In addition to the three ordinary religious vows, the Mercedarians profess a fourth vow: to give themselves up as hostages in place of a captive, if necessary to secure his release. It is estimated that the order ransomed tens of thousands of captives between the thirteenth and fourteenth centuries.",
+      "tags": [
+        "Mercedarians",
+        "ransom of captives"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/31/San_Pedro_Nolasco%2C_por_Jusepe_Mart%C3%ADnez.jpg",
+      "imagem_credito": null,
+      "fundador": "Saint Peter Nolasco",
+      "ano_fundacao": "1218",
+      "carisma": "Redemption of captive Christians, with a vow to give oneself up as ransom if necessary",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)",
+        "Wikipedia: Order of Our Lady of Mercy"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:camilianos",
+      "slug": "camilianos",
+      "titulo": "Camillians (Order of the Ministers of the Sick)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Founded by Saint Camillus de Lellis, it is devoted to caring for the sick, with a fourth vow to serve them even at the risk of one's own life.",
+      "corpo": "Founded in Rome by Camillus de Lellis — who in his youth had been a soldier and a gambler before his conversion —, the Order of the Ministers of the Sick was born to provide material and spiritual care to the sick in hospitals, at a time when these were often places of abandonment and neglect. Its members profess, in addition to the three traditional religious vows, a specific fourth vow: to serve the sick, even those with contagious diseases, even at the risk of their own lives. The symbol of the order, a red cross on the habit, is today internationally recognized as a reference to health care inspired by Christianity.",
+      "tags": [
+        "Camillians",
+        "care for the sick"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Kamil_de_Lellis_001.JPG",
+      "imagem_credito": "Photo: Andrej Mohorčič (2014) — Wikimedia Commons, CC BY-SA 4.0",
+      "fundador": "Saint Camillus de Lellis",
+      "ano_fundacao": "1582",
+      "carisma": "Care for the sick, with a vow to serve them even at the risk of one's own life",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)",
+        "Wikipedia: Camillus de Lellis"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:teatinos",
+      "slug": "teatinos",
+      "titulo": "Theatines (Clerics Regular)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Founded by Saint Cajetan of Thiene and John Peter Carafa, they were one of the first congregations of clerics regular, devoted to the reform of priestly life.",
+      "corpo": "Founded in Rome by Cajetan of Thiene together with Boniface de' Colli, Paul Consiglieri, and Bishop John Peter Carafa—the future Pope Paul IV—the Order of Clerics Regular, known as the Theatines because of the diocese of Chieti (Theate in Latin) of which Carafa was bishop, sought to renew the spirit and discipline of the secular clergy from within, uniting a communal life of prayer with active priestly ministry. They were distinguished by a radical trust in divine Providence, going so far as to refuse both personal possessions and fixed community revenues, living only on spontaneous donations.",
+      "tags": [
+        "Theatines",
+        "reform of the clergy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tiepolo_-_S%C3%A3o_Caetano_de_Tiene.jpg",
+      "imagem_credito": null,
+      "fundador": "Saint Cajetan of Thiene and John Peter Carafa",
+      "ano_fundacao": "1524",
+      "carisma": "Renewal of the life of the secular clergy and radical trust in Providence",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)",
+        "Wikipedia: Order of Clerics Regular"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:barnabitas",
+      "slug": "barnabitas",
+      "titulo": "Barnabites (Clerics Regular of Saint Paul)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Congregation founded in Milan by Saint Anthony Mary Zaccaria, dedicated to the spiritual reform of the clergy and the laity through preaching and the sacraments.",
+      "corpo": "Founded in Milan by Anthony Mary Zaccaria, a physician who became a priest, together with James Anthony Morigia and Bartholomew Ferrari, the Congregation of the Clerics Regular of Saint Paul became known as the \"Barnabites\" because of its headquarters beside the church of Saint Barnabas in Milan. Its aim was to promote the reform of Christian life among clergy and laity during a period of disciplinary crisis in the Church, through frequent preaching, confession, and more assiduous Communion — practices then uncommon among the lay faithful. Zaccaria also promoted, with the support of Countess Ludovica Torelli, the founding of a sister women's congregation, the Angelics of Saint Paul.",
+      "tags": [
+        "Barnabites",
+        "reform of the clergy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/ANTONIO-MARIA-ZACCARIA.jpg",
+      "imagem_credito": null,
+      "fundador": "Saint Anthony Mary Zaccaria",
+      "ano_fundacao": "1530",
+      "carisma": "Reform of the Christian life of clergy and laity through preaching and the sacraments",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)",
+        "Wikipedia: Antônio Maria Zaccaria"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:irmazinhas-dos-pobres",
+      "slug": "irmazinhas-dos-pobres",
+      "titulo": "Little Sisters of the Poor",
+      "categoria": "ordens-religiosas",
+      "resumo": "Founded in France by Saint Jeanne Jugan, the congregation is devoted to welcoming and caring for poor and abandoned elderly people.",
+      "corpo": "Founded in French Brittany by Jeanne Jugan — a poor woman who, by taking an elderly, blind and abandoned neighbor into her own home, began a work that would become a religious congregation —, the Little Sisters of the Poor are devoted exclusively to welcoming and caring for poor elderly people without family, supporting their homes almost entirely on donations and on the sisters' own begging, in a spirit of unlimited trust in Providence inspired by the Beatitudes. The congregation is now present in dozens of countries, serving thousands of elderly people.",
+      "tags": [
+        "Little Sisters of the Poor",
+        "elderly",
+        "charity"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Jeanne_Jugan.jpg",
+      "imagem_credito": null,
+      "fundador": "Saint Jeanne Jugan",
+      "ano_fundacao": "1839",
+      "carisma": "Welcoming and caring for poor and abandoned elderly people, in trust in Providence",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)",
+        "Wikipedia: Little Sisters of the Poor"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:franciscanas-missionarias-de-maria",
+      "slug": "franciscanas-missionarias-de-maria",
+      "titulo": "Franciscan Missionaries of Mary",
+      "categoria": "ordens-religiosas",
+      "resumo": "An international missionary institute founded in India by Blessed Mary of the Passion, which unites Franciscan spirituality with the universal mission ad gentes.",
+      "corpo": "Founded in Ootacamund, in southern India, by the French religious Hélène de Chappotin de Neuville — known by her religious name, Mary of the Passion —, the congregation was originally born as the \"Missionaries of Mary,\" taking its present name in 1885. It unites classic Franciscan spirituality, marked by poverty, simplicity and love for creation, with an explicitly universal missionary vocation (\"ad gentes\"), nourished also by the missionary zeal of the Paris Foreign Missions Society. Today it gathers religious sisters of dozens of nationalities on mission on several continents.",
+      "tags": [
+        "Franciscans",
+        "missions",
+        "women's consecrated life"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fundador": "Blessed Mary of the Passion (Hélène de Chappotin de Neuville)",
+      "ano_fundacao": "1877",
+      "carisma": "Universal mission ad gentes lived with Franciscan spirituality",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)",
+        "Wikipedia: Franciscan Missionaries of Mary"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:paulinas",
+      "slug": "paulinas",
+      "titulo": "Daughters of Saint Paul (Paulines)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Congregation founded by Blessed James Alberione, dedicated to evangelization through the means of social communication — from the book to the digital environment.",
+      "corpo": "Founded in Alba, Italy, by Father James Alberione with the decisive collaboration of Sister Thecla Merlo, the Pious Society Daughters of Saint Paul was born of an intuition that was unprecedented at the time: to use the modern means of communication — the press, and later cinema, radio, television and the internet — as a \"pulpit\" to evangelize as widely as the Apostle Paul himself would wish to do today. It is the second branch, and the largest, of the so-called Pauline Family, a group of ten institutes founded by Alberione with the same communications charism.",
+      "tags": [
+        "Paulines",
+        "social communication",
+        "evangelization"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fundador": "Blessed James Alberione, with Venerable Sister Thecla Merlo",
+      "ano_fundacao": "1915",
+      "carisma": "Evangelization through the means of social communication",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 925-927 (consecrated life)",
+        "Vatican News: Pauline Sisters Celebrate 100 Years Since Their Foundation"
+      ]
+    }
+  ]
+}

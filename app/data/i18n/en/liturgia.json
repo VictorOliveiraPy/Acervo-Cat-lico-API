@@ -1,0 +1,666 @@
+{
+  "_meta": {
+    "categoria": "liturgia",
+    "nome": "Liturgical Life",
+    "descricao": "The Holy Mass of the Roman Rite part by part, adoration of the Blessed Sacrament, the step-by-step of Confession, and other practical topics of Catholic liturgical and sacramental life.",
+    "status": "exemplos-iniciais",
+    "aviso": "It describes the ordinary form of the Roman Rite as found in the current Roman Missal; it is not a manual of rubrics, nor does it replace the guidance of a pastor for specific liturgical questions.",
+    "revisao_editorial": "References to the Catechism and the Roman Missal follow the current typical edition; where a practice (e.g., perpetual adoration) allows for local variation, this is stated explicitly in the body of the text.",
+    "fontes_gerais": [
+      "Roman Missal (typical edition)",
+      "Catechism of the Catholic Church, Part Two (\"The Celebration of the Christian Mystery\")",
+      "Second Vatican Council, Constitution «Sacrosanctum Concilium» (1963)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "liturgia:a-missa-visao-geral",
+      "slug": "a-missa-visao-geral",
+      "titulo": "The Holy Mass: An Overview of the Roman Rite",
+      "categoria": "liturgia",
+      "resumo": "Structure of the Mass in the Roman Rite: the Liturgy of the Word and the Liturgy of the Eucharist, framed by the Introductory and Concluding Rites.",
+      "corpo": "The Mass of the Roman Rite — the liturgical form most widely used in the Catholic world, celebrated in its current form since the post-conciliar reform of the Roman Missal (1969) — is organized into four main parts: the Introductory Rites, the Liturgy of the Word, the Liturgy of the Eucharist, and the Concluding Rites. The Second Vatican Council, in the constitution \"Sacrosanctum Concilium,\" described the Mass as the center of all Christian life, the \"source and summit\" of all the activity of the Church, uniting in a single celebration the table of the Word and the table of the Body of Christ. This collection details each of these parts in its own entries.",
+      "tags": [
+        "mass",
+        "roman rite",
+        "liturgy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg",
+      "imagem_credito": null,
+      "ordem": 1,
+      "paragrafos_ccc": [
+        "1345-1355"
+      ],
+      "fontes": [
+        "Second Vatican Council, «Sacrosanctum Concilium» (1963)",
+        "Roman Missal, Order of Mass"
+      ]
+    },
+    {
+      "id": "liturgia:ritos-iniciais-da-missa",
+      "slug": "ritos-iniciais-da-missa",
+      "titulo": "The Introductory Rites of the Mass",
+      "resumo": "The opening sequence of the Mass — entrance, greeting, penitential act, Kyrie, Gloria, and collect — which gathers the assembly and disposes it to listen to the Word and celebrate the Eucharist.",
+      "corpo": "The Introductory Rites precede the Liturgy of the Word and, according to the definition of the General Instruction of the Roman Missal (GIRM, no. 46), have \"the character of a beginning, introduction, and preparation.\" Their purpose is to ensure that the faithful, coming together as one, establish communion and dispose themselves to listen properly to the Word of God and to celebrate the Eucharist worthily. The sequence comprises: the entrance (with the entrance chant and the procession), the greeting of the altar and of the assembly, the penitential act, the \"Kyrie\" (Lord, have mercy), the hymn of the \"Gloria,\" and the collect. In certain celebrations which, by the norm of the liturgical books, are joined to the Mass, the Introductory Rites are omitted or performed in a particular way (no. 46).\n\nThe entrance opens the rite: while the priest approaches with the deacon and the ministers, the entrance chant is sung, whose purpose is to open the celebration, foster the unity of those who have gathered, and introduce their thoughts to the mystery of the liturgical season. On reaching the altar, the priest and the ministers make a profound bow, and the priest kisses the altar as a sign of veneration. The greeting follows — normally \"The Lord be with you,\" to which the people respond \"And with your spirit\" — and, when foreseen, a brief introductory address. The priest, standing, makes the Sign of the Cross: \"In the name of the Father, and of the Son, and of the Holy Spirit.\"\n\nThe penitential act invites the assembly to acknowledge its sins and ask forgiveness before proceeding; it can take several forms (the \"I confess to almighty God\" with the \"Lord, have mercy,\" or formulas with invocations). It is followed by the Kyrie, an acclamation for God's mercy, inherited directly from the ancient Greek liturgy: each acclamation (Kýrie, eléison; Christe, eléison) is normally said twice — a number that may be increased according to the genius of the language or the demands of the music — and, when the Kyrie is sung as part of the penitential act, each acclamation is preceded by a \"trope\" (no. 52). The Gloria, as the GIRM (no. 53) puts it, is \"an ancient and venerable hymn in which the Church, gathered together in the Holy Spirit, glorifies and entreats God and the Lamb\"; its text may not be replaced, and it is sung on Sundays (outside Advent and Lent) and on feasts and solemnities. The collect brings the whole to a close — so called because it \"collects\" the prayers of the assembly —, preceded by the invitation \"Let us pray\" and a moment of silence, and spoken by the priest with hands extended.\n\nThe present structure is the result of a long history. The Kyrie eleison acclamation, of Greek origin, was incorporated very early into the Roman liturgy and remained in Greek even in Rome; the Gloria in excelsis, also of Greek roots, entered Roman use around the 4th-5th centuries and continued, in the Latin tradition, to be a chant reserved for the more solemn celebrations. In the Tridentine Mass, the entrance chant (Introit) had a peculiar position: in a Low Mass the priest read it only after the prayers at the foot of the altar, and until 1908 — when Saint Pius X restored the ancient arrangement —, even in sung Masses, the choir began the Introit only after the priest had begun those prayers, so that it would be tied to the entrance procession. The Second Vatican Council, in Sacrosanctum Concilium, and Paul VI's revision of the Missal reorganized these elements into the form now described by the GIRM.\n\nThe Catechism of the Catholic Church places this whole within the heart of the sacramental economy: the Eucharist is the \"source and summit of the Christian life\" (cf. Lumen Gentium, 11) and the assembly that gathers to celebrate it constitutes the communion of the people of God (§1324, §1348). The Introductory Rites, in this sense, are not a mere preamble: they are the moment in which the community constitutes itself as a body gathered by the Lord, before listening to his Word and participating in the sacrifice and banquet of the Eucharist.",
+      "categoria": "liturgia",
+      "tags": [
+        "Mass",
+        "Roman Rite",
+        "liturgy",
+        "Introductory Rites",
+        "penitential act",
+        "Gloria",
+        "collect"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Seven_Sacraments_Rogier.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "General Instruction of the Roman Missal (GIRM), nos. 46-54, 256-259; nos. 52-53 on the Kyrie and Gloria",
+        "Sacrosanctum Concilium, Constitution on the Sacred Liturgy (Second Vatican Council)",
+        "Roman Missal — Introductory Rites",
+        "Catechism of the Catholic Church, §1324, §1348-1349",
+        "Introit — Wikipedia entry (EN), on Saint Pius X and the Introit (1908)"
+      ],
+      "atualizado_em": null,
+      "ordem": 2,
+      "paragrafos_ccc": [
+        "1348-1349"
+      ]
+    },
+    {
+      "id": "liturgia:liturgia-da-palavra",
+      "slug": "liturgia-da-palavra",
+      "titulo": "The Liturgy of the Word",
+      "categoria": "liturgia",
+      "resumo": "The part of the Mass devoted to the proclamation of Scripture — readings, responsorial psalm, Gospel, homily, Creed, and prayer of the faithful.",
+      "corpo": "The Liturgy of the Word proclaims Sacred Scripture as spiritual nourishment for the assembly. On Sundays and solemnities it includes three readings — from the Old Testament (or the Acts of the Apostles in the Easter Season), from an apostolic letter, and from the Gospel —, interspersed with the responsorial psalm; it is followed by the homily, in which the priest or deacon explains the Word proclaimed, the profession of faith (the Creed), and the universal prayer (or \"prayer of the faithful\"), in which the community intercedes for the needs of the Church and the world.",
+      "tags": [
+        "Mass",
+        "Roman Rite",
+        "Sacred Scripture",
+        "liturgy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg",
+      "imagem_credito": "Photo: NYC Wanderer (Kevin Eng) — Wikimedia Commons, CC BY-SA 2.0",
+      "ordem": 3,
+      "paragrafos_ccc": [
+        "1349",
+        "103-104"
+      ],
+      "fontes": [
+        "Roman Missal",
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "liturgia:liturgia-eucaristica",
+      "slug": "liturgia-eucaristica",
+      "titulo": "The Liturgy of the Eucharist",
+      "categoria": "liturgia",
+      "resumo": "The sacramental core of the Mass: the presentation of the gifts, the Eucharistic Prayer with the consecration, and the breaking of the bread, culminating in Communion.",
+      "corpo": "The Liturgy of the Eucharist is the center of the Mass, in which the bread and wine, presented at the offertory, become, by the action of the Holy Spirit and the words of consecration spoken by the priest acting \"in persona Christi\", the Body and Blood of Christ — a mystery the Church calls transubstantiation. The Eucharistic Prayer, whose text varies according to the canon chosen, has its origin and essential structure in the Last Supper. There follow the breaking of the bread and the rites that prepare for Communion, including the Our Father, the sign of peace, and the \"Lamb of God\".",
+      "tags": [
+        "mass",
+        "eucharist",
+        "Roman rite",
+        "liturgy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/43/BentoXVI-51-11052007_%28frag%29.jpg",
+      "imagem_credito": "Photo: Fabio Pozzebom/ABr (Agência Brasil) — Wikimedia Commons, CC BY 3.0 br",
+      "ordem": 4,
+      "paragrafos_ccc": [
+        "1333-1344",
+        "1373-1381"
+      ],
+      "fontes": [
+        "Roman Missal",
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "liturgia:ritos-de-comunhao",
+      "slug": "ritos-de-comunhao",
+      "titulo": "The Communion Rites",
+      "categoria": "liturgia",
+      "resumo": "The sequence that prepares for and carries out the distribution of the Eucharist to the faithful: the Our Father, the Rite of Peace, the Breaking of the Bread, and Communion itself.",
+      "corpo": "Before receiving Communion, the assembly prays the Our Father — which asks for \"our daily bread\" and the forgiveness of trespasses — followed by the Rite of Peace, in which the faithful exchange a sign of fraternal reconciliation, and by the Breaking of the Bread during the singing of the \"Lamb of God.\" Eucharistic Communion, distributed under the species of bread (and, when provided for, also of wine), is the high point of the faithful's participation in the sacrifice being celebrated, followed by a moment of silence or a song of thanksgiving.",
+      "tags": [
+        "Mass",
+        "Eucharist",
+        "Communion",
+        "Roman Rite"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/The_First_Communion_MET_DT201073.jpg",
+      "imagem_credito": null,
+      "ordem": 5,
+      "paragrafos_ccc": [
+        "1382-1390"
+      ],
+      "fontes": [
+        "Roman Missal",
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "liturgia:ritos-finais-da-missa",
+      "slug": "ritos-finais-da-missa",
+      "titulo": "The Concluding Rites of the Mass",
+      "resumo": "The brief conclusion of the celebration — any announcements, the final blessing and the dismissal (\"Ite, missa est\") — which sends the faithful forth on their mission in the world and from which the very name \"Mass\" derives.",
+      "corpo": "The Concluding Rites bring the Mass to a close and comprise, in the ordinary form of the Roman Rite, three moments: any announcements to the people, the final blessing given by the priest, and the dismissal. The General Instruction of the Roman Missal (GIRM) describes them precisely: once the prayer after Communion is finished, the deacon — or the priest himself, if he prefers — makes the announcements (no. 139); the blessing follows, to which, on special occasions, a solemn formula or the \"prayer over the people\" may be added; immediately after the blessing the priest, with hands joined, says: \"Go in peace\" (Ite, missa est), to which all respond \"Thanks be to God\" (Deo gratias) (no. 168). Only then does the priest kiss the altar as a sign of veneration, makes a profound bow with the ministers, and withdraws. When the Mass is immediately followed by another liturgical action (for example, the adoration and benediction of the Blessed Sacrament), the concluding rites, including the dismissal, are omitted, so that the people do not disperse (no. 170).\n\nThe formula \"Ite, missa est\" is one of the oldest of the Roman Rite, already recorded in the so-called Ordo I (6th or 7th century). From the Latin word missa, present in this dismissal, derives the very noun \"Mass\": the most widely accepted hypothesis is that the ecclesiastical term missa comes from the missa of this formula (a use of the late spoken form for missio, \"sending,\" \"dismissal\"), which implies that the word already existed before the 6th century and may go back to the 3rd century. Before the reforms of 1962, at Masses without the Gloria, the formula Benedicamus Domino (\"Let us bless the Lord\") was said in place of the Ite, missa est, and the people's response was likewise Deo gratias.\n\nThe history of these rites has known notable variations. In the Middle Ages, and especially after the 12th century, elements were gradually added after the Ite, missa est — a private prayer of the priest, the final Gospel (\"last Gospel,\" generally the prologue of John) — so that the formula ceased to be properly a dismissal and became part of the body of the Mass; this arrangement was officially fixed in the Missal promulgated after the Council of Trent by Saint Pius V (1570). The medieval theologian William Durand (13th century) even proposed that missa est was equivalent to \"the Mass is ended\" or meant that the Mass \"is now an accomplished fact.\" The liturgical reform promoted by Paul VI, in the wake of the Second Vatican Council, restored to the Ite, missa est its original function as a dismissal.\n\nThe brevity of the rite is intentional. The Catechism of the Catholic Church teaches that the Eucharist is the \"source and summit of the Christian life\" (cf. Lumen gentium, 11) and that the faithful are sent to bring to the world what they have celebrated. The verb ite (\"go\") gives the dismissal an essentially missionary character: the celebration ends by projecting the assembly into daily life, so that it may live there the mystery celebrated at the altar. Thus, the very name of the Mass carries within it the idea of being sent: to participate in the Eucharist is to let oneself be sent.",
+      "categoria": "liturgia",
+      "tags": [
+        "Mass",
+        "Roman Rite",
+        "liturgy",
+        "concluding rites",
+        "Ite missa est",
+        "final blessing"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ventimiglia_Sant%27Agostino_Ite_missa_est.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "General Instruction of the Roman Missal (GIRM), nos. 139-141, 168-170",
+        "Roman Missal — Concluding Rites",
+        "Benedicamus Domino and Ite, missa est — Wikipedia entries (EN/PT), with reference to Ordo Romanus I and Du Cange",
+        "William Durand, Rationale divinorum officiorum (13th century)",
+        "Catechism of the Catholic Church, §1324, §1327, §1392"
+      ],
+      "atualizado_em": null,
+      "ordem": 6,
+      "paragrafos_ccc": []
+    },
+    {
+      "id": "liturgia:adoracao-ao-santissimo-sacramento",
+      "slug": "adoracao-ao-santissimo-sacramento",
+      "titulo": "Adoration of the Blessed Sacrament",
+      "categoria": "liturgia",
+      "resumo": "A practice of prayer before the exposed Eucharist, founded on the Catholic faith in the real and permanent presence of Christ in the consecrated species.",
+      "corpo": "Eucharistic adoration is grounded in the doctrine of the Real Presence: according to Catholic faith, Christ remains truly present in the consecrated bread even after Mass has ended, which makes adoration outside the Eucharistic celebration itself legitimate and recommended. The practice, attested since the Middle Ages, when the permanent reservation of the Eucharist in the tabernacle became established, can take the form of brief visits to the Blessed Sacrament reserved in the tabernacle, or of solemn exposition in a monstrance for prolonged adoration, sometimes continuous (\"perpetual adoration\"). The Council of Trent and, later, the Catechism of the Catholic Church reaffirm the worship of latria (adoration due to God alone) offered to Christ in the Eucharist.",
+      "tags": [
+        "Eucharist",
+        "adoration",
+        "liturgy"
+      ],
+      "imagem": "/img-acervo/adoracao-santissimo.jpg",
+      "imagem_credito": "Photo: Babak Habibi / Unsplash",
+      "ordem": 1,
+      "paragrafos_ccc": [
+        "1378-1381"
+      ],
+      "fontes": [
+        "Council of Trent, Decree on the Most Holy Eucharist (1551)",
+        "Catechism of the Catholic Church, nos. 1378-1381"
+      ]
+    },
+    {
+      "id": "liturgia:exposicao-e-bencao-do-santissimo",
+      "slug": "exposicao-e-bencao-do-santissimo",
+      "titulo": "Exposition and Benediction of the Blessed Sacrament",
+      "categoria": "liturgia",
+      "resumo": "Liturgical rite in which the consecrated host is exposed in a monstrance for public adoration and, at the end, used to bless the assembly.",
+      "corpo": "The exposition of the Blessed Sacrament consists in placing the consecrated host, usually in a lunette inside a monstrance, in view of the faithful for adoration — a moment traditionally accompanied by hymns such as the \"Tantum Ergo\" (the last stanzas of the hymn \"Pange Lingua\" by Saint Thomas Aquinas) and by a time of silence and personal prayer. The celebration concludes with the eucharistic blessing, in which the priest or deacon, holding the monstrance, makes the sign of the cross over the assembly — not a blessing by the minister in his own name, but by Christ himself present in the Sacrament.",
+      "tags": [
+        "Eucharist",
+        "adoration",
+        "liturgy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/C%C3%A1lice%2C_Patena_e_Colherinha.jpg",
+      "imagem_credito": "Photo: Wilfredor — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 2,
+      "paragrafos_ccc": [
+        "1378"
+      ],
+      "fontes": [
+        "Roman Ritual, «De Sacra Communione et de Cultu Mysterii Eucharistici Extra Missam»"
+      ]
+    },
+    {
+      "id": "liturgia:como-se-confessar",
+      "slug": "como-se-confessar",
+      "titulo": "How to Go to Confession: A Step-by-Step Guide to the Sacrament of Penance",
+      "categoria": "liturgia",
+      "resumo": "A practical guide to the moments of sacramental confession: examination of conscience, confession of sins, contrition, purpose of amendment, absolution, and penance.",
+      "corpo": "Sacramental confession follows a simple structure, although its interior experience can be profound: (1) the examination of conscience, made before entering the confessional, reviewing one's life in the light of the commandments and the Gospel; (2) the greeting and the Sign of the Cross; (3) the confession itself, telling the priest the sins committed, with sincerity and without minimizing or exaggerating them; (4) listening to a brief word or counsel from the confessor; (5) the assignment of a penance (prayer or a work of reparation); (6) the recitation of the Act of Contrition, expressing sorrow and the purpose of amendment, resolving not to sin again; and (7) absolution, given by the priest in the name of Christ and of the Church, which effectively forgives the sins confessed with true contrition.",
+      "tags": [
+        "confession",
+        "penance",
+        "sacraments"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PL_Wwa%2C_kos_Krzyza%2C_konfesjonal%2C_2023.04.08%2C_fot_Ivonna_Nowicka_corr_3.jpg",
+      "imagem_credito": "Photo: Ivonna Nowicka — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 3,
+      "paragrafos_ccc": [
+        "1450-1460"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1440-1470",
+        "Roman Ritual, «Ordo Paenitentiae» (1973)"
+      ]
+    },
+    {
+      "id": "liturgia:exame-de-consciencia",
+      "slug": "exame-de-consciencia",
+      "titulo": "The Examination of Conscience",
+      "categoria": "liturgia",
+      "resumo": "The practice of reviewing one's own life in the light of the moral law, done before confession and also recommended as a daily habit of prayer.",
+      "corpo": "The examination of conscience consists in reviewing, with sincerity and without either excessive scrupulosity or self-indulgence, one's own thoughts, words, actions and omissions since the last confession, generally using as a guide the Ten Commandments, the precepts of the Church, or the capital sins. Beyond its immediate function of preparing for sacramental confession, the Catechism recommends the examination of conscience as a daily spiritual practice, traditionally associated with night prayer, as a simple way of growing in self-knowledge and continual conversion.",
+      "tags": [
+        "confession",
+        "penance",
+        "spiritual life"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 4,
+      "paragrafos_ccc": [
+        "1454"
+      ],
+      "fontes": [
+        "Roman Missal",
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "liturgia:liturgia-das-horas",
+      "slug": "liturgia-das-horas",
+      "titulo": "The Liturgy of the Hours",
+      "categoria": "liturgia",
+      "resumo": "The official public prayer of the Church throughout the day, structured around the Psalms, which sanctifies the different hours with praise of God.",
+      "corpo": "The Liturgy of the Hours (also called the Divine Office or Breviary) is the public and official prayer that the Church prays throughout the day — Lauds in the morning, Vespers in the evening, Compline before going to sleep, and other minor hours —, centered on the recitation of the 150 Psalms distributed over four weeks, interspersed with biblical and patristic readings. It is obligatory for clerics and for many religious, but the Second Vatican Council also encouraged its adoption by the laity as a way of \"sanctifying the whole course of the day and night\".",
+      "tags": [
+        "liturgy of the hours",
+        "prayer",
+        "clergy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "ordem": 5,
+      "paragrafos_ccc": [
+        "1174-1178"
+      ],
+      "fontes": [
+        "Second Vatican Council, «Sacrosanctum Concilium», nos. 83-101 (1963)"
+      ]
+    },
+    {
+      "id": "liturgia:ano-liturgico-e-cores",
+      "slug": "ano-liturgico-e-cores",
+      "titulo": "The Liturgical Year and the Liturgical Colors",
+      "categoria": "liturgia",
+      "resumo": "An annual cycle of liturgical seasons — Advent, Christmas, Lent, Easter, and Ordinary Time — each marked by its own color of vestments.",
+      "corpo": "The liturgical year organizes the Church's time around the mystery of Christ, alternating the strong seasons — Advent (preparation for Christmas), the Christmas Season, Lent (penitential preparation for Easter), and the Easter Season — with long periods of Ordinary Time. Each season, and many specific celebrations, is associated with a liturgical color used in the priest's vestments: violet (penance, Advent and Lent), white or gold (feasts of the Lord, of Mary, and of non-martyr saints, and the Easter Season), red (the Passion, Pentecost, feasts of martyrs), and green (Ordinary Time).",
+      "tags": [
+        "liturgical year",
+        "liturgy",
+        "vestments"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Catholic_priest_vesting_%28La_Ravoire_Morrow_-_My_Catholic_Faith%2C_1949%29.png",
+      "imagem_credito": null,
+      "ordem": 6,
+      "paragrafos_ccc": [
+        "1163-1173"
+      ],
+      "fontes": [
+        "Roman Missal",
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "liturgia:paramentos-liturgicos",
+      "slug": "paramentos-liturgicos",
+      "titulo": "The Liturgical Vestments",
+      "resumo": "Garments worn by the ministers in the celebration of Mass — amice, alb, cincture, stole, and chasuble — each with its own symbolic meaning and a traditional prayer said while putting it on.",
+      "corpo": "The liturgical vestments of the celebrating priest, in the order in which they are put on, are: the amice, the alb, the cincture, the stole, and the chasuble. The General Instruction of the Roman Missal expressly states that the sacred vestment common to all ordained and instituted ministers is the alb, tied at the waist with a cincture (unless, by its design, the alb already fits the body properly) (no. 336); if the alb does not completely cover the ordinary clothing around the neck, an amice is put on first. The stole is the band that specifically marks the character of the ordained ministry, and the vestment proper to the celebrating priest at Mass is the chasuble — also called the planeta —, which is worn over the alb and the stole (no. 337). In its norms on the sacristy, the GIRM lists these vestments as \"alb, stole, and chasuble\" for the priest, and \"alb, stole, and dalmatic\" for the deacon (no. 119).\n\nEach piece has a symbolism established by tradition. The alb (from the Latin alba, \"white\") is the long tunic that recalls the purity of Baptism; the cincture, a cord of linen or wool, represents self-mastery and chastity; the stole, placed over the shoulders, is a sign of the power of orders received — it is said to evoke the \"stole of immortality\" lost by the first man; and the chasuble, which covers everything, symbolizes the \"yoke of Christ,\" gentle and light, taken up by the priest. The amice, a linen cloth placed around the neck, was interpreted, in light of Ephesians 6:17, as the \"helmet of salvation.\"\n\nAn ancient devotional tradition, recorded in missals and in the Rituale Romanum, associates with each vestment a prayer said in silence at the moment of putting it on. For the amice: \"Impone, Domine, capiti meo galeam salutis, ad expugnandos diabolicos incursus\" (\"Place upon my head, O Lord, the helmet of salvation, to repel the assaults of the devil\"). For the alb: \"Dealba me, Domine, et munda cor meum; ut, in sanguine Agni dealbatus, gaudiis perfruar sempiternis\" (\"Make me white, O Lord, and cleanse my heart; that, made white in the Blood of the Lamb, I may enjoy eternal joys\"). For the cincture: \"Praecinge me, Domine, cingulo puritatis, et extingue in lumbis meis humorem libidinis; ut maneat in me virtus continentiae et castitatis\". For the stole: \"Redde mihi, Domine, stolam immortalitatis, quam perdidi in praevaricatione primi parentis\". And, finally, for the chasuble: \"Domine, qui dixisti: Iugum meum suave est et onus meum leve: fac ut istud portare sic valeam, quod consequar tuam gratiam\" (\"O Lord, who said: 'My yoke is easy and my burden is light,' grant that I may carry it in such a way as to obtain your grace\").\n\nThe color of the chasuble and the stole is not a free choice, but follows the liturgical calendar. According to the GIRM (nos. 345-346), the purpose of the diversity of colors is to express outwardly the distinctive character of the mysteries celebrated and the progressive sense of the Liturgical Year. The colors of the Roman Rite are six: white (glory, light, and purity — Christmas, Easter, feasts of the Lord and of Our Lady, non-martyr saints), red (blood and fire — the Passion, Palm Sunday, Good Friday, Pentecost, apostles and martyrs), green (Ordinary Time), purple or violet (Advent, Lent, and, optionally, Masses for the dead), black (mourning, now fallen into disuse and replaced by purple), and rose, optional on the two \"Sundays of joy,\" Gaudete (Third Sunday of Advent) and Laetare (Fourth Sunday of Lent). In the Middle Ages, the future Pope Innocent III described, in the treatise De sacro altaris mysterio (late twelfth century), the custom already in use in Rome, and the Missal of Saint Pius V (1570) consolidated the scheme of colors that has endured through the centuries.",
+      "categoria": "liturgia",
+      "tags": [
+        "liturgy",
+        "vestments",
+        "Mass",
+        "chasuble",
+        "stole",
+        "liturgical colors",
+        "Roman Rite"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Catholic_priest_vesting_%28La_Ravoire_Morrow_-_My_Catholic_Faith%2C_1949%29.png",
+      "imagem_credito": null,
+      "fontes": [
+        "General Instruction of the Roman Missal (GIRM), nos. 119, 336-337, 345-346",
+        "Rituale Romanum / Roman Missal — vesting prayers (Latin and translation)",
+        "De sacro altaris mysterio, by Innocent III (12th century)",
+        "Missal of Saint Pius V (1570)",
+        "Presbíteros / Santa Liturgia — \"The Putting On of Liturgical Vestments and the Respective Prayers\""
+      ],
+      "atualizado_em": null,
+      "ordem": 7,
+      "paragrafos_ccc": []
+    },
+    {
+      "id": "liturgia:preceitos-da-igreja",
+      "slug": "preceitos-da-igreja",
+      "titulo": "The Precepts of the Church",
+      "categoria": "liturgia",
+      "resumo": "Minimum obligations of Christian life established by the Church: Sunday Mass, annual confession, Easter Communion, among others.",
+      "corpo": "Distinct from the Ten Commandments, which are of biblical origin, the precepts of the Church are ecclesiastical norms that establish the indispensable minimum of effort in prayer and moral life: to participate in Mass on Sundays and holy days of obligation and to abstain from unnecessary work on those days; to confess grave sins at least once a year; to receive Communion at least during the Easter season; to observe the times of fasting and abstinence established by the Church (such as Lent); and to provide for the material needs of the Church, according to one's own means.",
+      "tags": [
+        "precepts of the Church",
+        "practical Christian life"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Seven_Sacraments_Rogier.jpg",
+      "imagem_credito": null,
+      "ordem": 8,
+      "paragrafos_ccc": [
+        "2041-2043"
+      ],
+      "fontes": [
+        "Roman Missal",
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "liturgia:coroinha",
+      "slug": "coroinha",
+      "titulo": "Altar Server",
+      "categoria": "liturgia",
+      "resumo": "A child or young person who helps the priest at Mass — carrying the candle, thurible or book — without being an instituted ministry or requiring training or a minimum age.",
+      "corpo": "The altar server is the simplest and oldest way of helping the priest at Mass: he or she carries the processional cross, the candles, the thurible (censer) or the Missal, rings the bell at the key moments of the consecration, and prepares whatever is needed at the altar. Unlike the acolyte, the altar server is not an instituted ministry — there is no formal rite of institution, and the pastor himself may freely invite and dismiss altar servers, who are generally children and adolescents, boys and girls.\n\nTradition attributes to Saint Tarcisius, a young man of Rome in the third century, the role of patron of altar servers: according to hagiography, he was beaten to death by a pagan mob when he refused to hand over the Eucharist that he was carrying hidden, preferring to die rather than profane the Most Blessed Sacrament.",
+      "tags": [
+        "altar server",
+        "Mass",
+        "lay ministries",
+        "Saint Tarcisius"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Catholic_mass_servers_01.jpg",
+      "imagem_credito": "Photo: Kwameghana (Bright Kwame Ayisi) — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 9,
+      "paragrafos_ccc": []
+    },
+    {
+      "id": "liturgia:acolito",
+      "slug": "acolito",
+      "titulo": "Acolyte",
+      "categoria": "liturgia",
+      "resumo": "A lay ministry instituted by the bishop — open to laymen since 1972 and to women since 2021 —, with duties beyond those of an altar server.",
+      "corpo": "Unlike the altar server, the acolyte holds an instituted ministry: it has existed since 1972, when Paul VI, in the motu proprio «Ministeria Quaedam», reformed the former minor orders and opened the acolytate to laymen — until then reserved for candidates to the priesthood. The institution takes place in a specific rite, presided over by the bishop, and confers on the acolyte duties that the altar server does not have: purifying the sacred vessels after Communion and, when necessary, serving as an extraordinary minister of Holy Communion.\n\nOn January 11, 2021, Pope Francis, by the motu proprio «Spiritus Domini», changed the Code of Canon Law (canon 230, §1) to allow the institution of women as acolytes as well — until then, the ministry was reserved for men because of its historical origin tied to the former stages on the path to the priesthood.",
+      "tags": [
+        "acolyte",
+        "instituted ministries",
+        "Paul VI",
+        "Spiritus Domini"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Ministranten%2C_Fronleichnamsprozession_2023_in_Millstatt_11.jpg",
+      "imagem_credito": "Photo: Naturpuur — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 10,
+      "paragrafos_ccc": []
+    },
+    {
+      "id": "liturgia:cerimoniario",
+      "slug": "cerimoniario",
+      "titulo": "Master of Ceremonies",
+      "categoria": "liturgia",
+      "resumo": "An experienced altar server or acolyte who coordinates the behind-the-scenes of the liturgy — positions, movements, rubrics. The Pope himself has one, in the Vatican.",
+      "corpo": "The master of ceremonies (or, in the feminine, mistress of ceremonies) is not a separate grade of altar server and acolyte, but a function: someone with more experience in altar service who takes on the coordination of the entire celebration — guiding the other altar servers and acolytes on where to stand and when to move, and ensuring that the rubrics (the official liturgical instructions) are followed to the letter, especially in more complex celebrations, such as a Mass presided over by a bishop.\n\nThe function exists on its largest scale in the Vatican: the Holy See has a Master of the Papal Liturgical Celebrations, a post currently held by Diego Ravelli, who is responsible for coordinating every detail of the Pope's public liturgies — from the exact position of each object on the altar to the right moment for each gesture. Guido Marini, his predecessor in the post between 2007 and 2021, became known worldwide for pronouncing the \"Extra omnes\" that closes the doors of the Sistine Chapel at the beginning of a conclave.",
+      "tags": [
+        "master of ceremonies",
+        "liturgy",
+        "Vatican",
+        "master of ceremonies"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Francis_Inauguration_fc04.jpg",
+      "imagem_credito": "Photo: Fczarnowski — Wikimedia Commons, CC BY-SA 3.0",
+      "ordem": 11,
+      "paragrafos_ccc": []
+    },
+    {
+      "id": "liturgia:leitorado-instituido",
+      "slug": "leitorado-instituido",
+      "titulo": "The Lectorate: Instituted Ministry of the Word",
+      "categoria": "liturgia",
+      "resumo": "An instituted liturgical ministry that proclaims the non-Gospel readings at Mass, open to lay people since 1972 and explicitly to women since 2021.",
+      "corpo": "The lectorate is one of the two instituted ministries that remained after the reform of Paul VI: in the motu proprio \"Ministeria Quaedam\" (August 15, 1972), the Pope suppressed the former minor orders on the path to the priesthood (porter, lector, exorcist, and acolyte) and replaced them with two ministries — lector and acolyte — now open, with their own rite of institution by the bishop or by a religious superior, to baptized and confirmed lay people, and no longer reserved for candidates for sacred orders. The instituted lector proclaims the readings at Mass other than the Gospel (reserved to a deacon or priest), may take on the Responsorial Psalm in the absence of a psalmist, and may announce the intentions of the prayer of the faithful when no deacon is present.\n\nFor almost fifty years, institution into the lectorate was reserved to men. Pope Francis, by the motu proprio \"Spiritus Domini\" (January 11, 2021), amended canon 230, §1 of the Code of Canon Law to state explicitly that women too may be instituted as lectors and acolytes, formally recognizing a practice that was already common in the informal distribution of these functions in parishes.",
+      "tags": [
+        "lectorate",
+        "Ministeria Quaedam",
+        "Spiritus Domini",
+        "instituted ministries"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 12,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Paul VI, motu proprio \"Ministeria Quaedam\" (1972)",
+        "Francis, motu proprio \"Spiritus Domini\" (2021)"
+      ]
+    },
+    {
+      "id": "liturgia:ministro-extraordinario-da-comunhao",
+      "slug": "ministro-extraordinario-da-comunhao",
+      "titulo": "Extraordinary Minister of Holy Communion",
+      "categoria": "liturgia",
+      "resumo": "A lay member of the faithful authorized by the bishop to distribute the Eucharist when ordinary ministers are lacking, established by the Church in 1973 to meet concrete pastoral needs.",
+      "corpo": "Unlike the priest, the deacon, and the instituted acolyte—ordinary or stable ministers of Communion—the extraordinary minister of Holy Communion is a layperson designated only when the concrete need of the community requires it: a large number of faithful receiving Communion, sick people unable to leave their homes, or a shortage of sufficient clergy. The office was created by the instruction \"Immensae Caritatis,\" published by the Sacred Congregation for the Sacraments on January 29, 1973, which also made it easier to bring Communion to the sick and the elderly and relaxed, for them, the rules of the Eucharistic fast.\n\nCanon 230, §3 of the Code of Canon Law provides for this possibility \"where the needs of the Church warrant it,\" and it falls to the pastor or the diocesan bishop to appoint and train these faithful, generally by a temporary and renewable mandate. Among their most visible duties is also bringing Communion to the sick and elderly who cannot take part in Sunday Mass, linking the Eucharistic table of the parish to the home of those who are unable to come to it.",
+      "tags": [
+        "extraordinary minister",
+        "communion",
+        "Immensae Caritatis"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 13,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Sacred Congregation for the Sacraments, instruction «Immensae Caritatis» (1973)",
+        "Code of Canon Law, can. 230"
+      ]
+    },
+    {
+      "id": "liturgia:forma-extraordinaria-do-rito-romano",
+      "slug": "forma-extraordinaria-do-rito-romano",
+      "titulo": "The Extraordinary Form of the Roman Rite (Tridentine Mass)",
+      "categoria": "liturgia",
+      "resumo": "The Mass celebrated according to the Roman Missal prior to the 1969 reform, whose use was broadened by Benedict XVI in 2007 and later restricted by Francis in 2021.",
+      "corpo": "The so-called \"Tridentine Mass\" or \"Latin Mass\" is the Eucharistic celebration according to the liturgical books in force before the post-conciliar reform of the Roman Missal of 1969 — especially the 1962 edition, of Pope Saint John XXIII. In 2007, Benedict XVI's motu proprio \"Summorum Pontificum\" recognized this form as the \"extraordinary form\" of the one Roman Rite (alongside the \"ordinary form,\" born of the reform of Vatican II), generally authorizing any priest to celebrate it without needing specific permission from the bishop.\n\nIn 2021, Pope Francis, by the motu proprio \"Traditionis Custodes,\" revised this discipline: he returned to the diocesan bishop the exclusive competence to authorize the use of the extraordinary form in his diocese, restricting its celebration normally to places that are not parish churches and subjecting interested groups and priests to the bishop's own case-by-case approval. According to the document, the measure sought to foster communion around the conciliar liturgical reform, and it generated varied reactions among the faithful attached to this tradition.",
+      "tags": [
+        "Summorum Pontificum",
+        "Traditionis Custodes",
+        "Tridentine Mass",
+        "Benedict XVI"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 14,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Benedict XVI, motu proprio «Summorum Pontificum» (2007)",
+        "Francis, motu proprio «Traditionis Custodes» (2021)"
+      ]
+    },
+    {
+      "id": "liturgia:turibulo-e-incenso",
+      "slug": "turibulo-e-incenso",
+      "titulo": "The Thurible and Incense in the Liturgy",
+      "categoria": "liturgia",
+      "resumo": "The use of incense burned in the thurible, inherited from the worship of the Temple of Jerusalem, symbolizes the prayer of the Church rising to the presence of God.",
+      "corpo": "The thurible (from the Latin \"turibulum\", an instrument for incense) is the metal container suspended from chains in which incense is burned over hot coals in the more solemn celebrations. Its use goes back to the worship of the Temple of Jerusalem and was incorporated into Christian liturgy from the earliest centuries as a sign of honor and reverence: the rising smoke symbolically represents the prayers of the people of God ascending to his presence, according to the image of Psalm 141 (140): \"Let my prayer rise like incense before you\".\n\nIn the Roman Missal, incensation is optional and may take place at various moments of the Mass: during the procession and at the beginning of the celebration, before the proclamation of the Gospel, over the offerings, the priest and the people after the offertory, and during the elevation of the Body and Blood of Christ after the consecration. The gesture of swinging the thurible, traditionally three times before the most venerated persons and images, reinforces the sensory and contemplative character of the liturgy, joining incense to holy water, candles, and vestments as signs that make visible the mystery being celebrated.",
+      "tags": [
+        "thurible",
+        "incense",
+        "liturgy",
+        "solemn Mass"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 15,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Roman Missal, General Instruction, nos. 276-277",
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "liturgia:rito-da-aspersao",
+      "slug": "rito-da-aspersao",
+      "titulo": "The Rite of Sprinkling with Holy Water",
+      "categoria": "liturgia",
+      "resumo": "An optional rite that may replace the penitential act on Sundays, sprinkling the assembly with holy water as a living memorial of one's own Baptism.",
+      "corpo": "The Roman Missal provides that, on Sundays, especially in the Easter Season, the Introductory Rites of the Mass may include the sprinkling of the assembly with holy water in place of the usual penitential act. This practice is known by the Latin words with which it traditionally begins: \"Asperges me, Domine\" (\"You will sprinkle me, O Lord\"), from Psalm 51, sung for most of the year, and \"Vidi Aquam\" (\"I saw water\"), from Psalm 118, reserved for the Easter Season. After blessing the water (or using water already blessed, such as that of the Easter Vigil), the priest sprinkles first the altar, then himself, the ministers, and finally the whole assembly.\n\nThe gesture directly recalls Baptism: the water that once washed away original sin and incorporated the faithful into Christ and the Church is brought back, in a tangible way, to the beginning of the Sunday celebration, symbolically renewing that purification. For this reason the rite is particularly valued in the Easter Season, when the whole Church celebrates the mystery of the Resurrection and the baptismal remembrance that flows from it.",
+      "tags": [
+        "holy water",
+        "sprinkling",
+        "baptism",
+        "introductory rites"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 16,
+      "paragrafos_ccc": [
+        "1217-1222"
+      ],
+      "fontes": [
+        "Roman Missal, \"Introductory Rites\"",
+        "Roman Ritual"
+      ]
+    },
+    {
+      "id": "liturgia:jejum-eucaristico",
+      "slug": "jejum-eucaristico",
+      "titulo": "The Eucharistic Fast",
+      "categoria": "liturgia",
+      "resumo": "Abstinence from food and drink, now set at only one hour before Communion, as a sign of respect and longing before the gift of the Eucharist.",
+      "corpo": "The Eucharistic fast is abstinence from food and drink (with the exception of water and medicine) observed before receiving Holy Communion, a practice that the Church already knew with considerable strictness since antiquity, even going so far as to require a total fast from the preceding midnight. Pius XII, in the apostolic constitution \"Christus Dominus\" (January 6, 1953), relaxed this discipline for the first time, permitting evening Masses and reducing the fast to three hours for solid foods and alcoholic beverages, and one hour for non-alcoholic beverages.\n\nIn 1964, Paul VI reduced this requirement even further, setting it at only one hour before Communion for any food or drink — a discipline maintained to this day by the Code of Canon Law (can. 919). The sick and the elderly, as well as those who care for them, are dispensed even from this minimum hour. Although brief today, the Eucharistic fast continues to express the same spiritual meaning as always: preparing the body and the heart to receive the Body of Christ with true hunger and desire, distinguishing this food from any other.",
+      "tags": [
+        "Eucharistic fast",
+        "Communion",
+        "Christus Dominus"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 17,
+      "paragrafos_ccc": [
+        "1387"
+      ],
+      "fontes": [
+        "Pius XII, apostolic constitution «Christus Dominus» (1953)",
+        "Code of Canon Law, can. 919"
+      ]
+    },
+    {
+      "id": "liturgia:sacrario",
+      "slug": "sacrario",
+      "titulo": "The Tabernacle: The Eucharistic Reserve",
+      "categoria": "liturgia",
+      "resumo": "The small, inviolable chest in which the consecrated Eucharist is kept outside of Mass, for the sick and for the adoration of the faithful.",
+      "corpo": "The tabernacle (from the Latin \"tabernaculum\", tent) is the solid and inviolable receptacle in which the Church keeps the consecrated hosts outside the celebration of Mass. From the earliest centuries, when priests and laypeople brought the consecrated Eucharistic bread to the sick and to those absent from the celebration, the Church needed a secure place in which to reserve it; throughout the Middle Ages this place moved from annexes of the sacristy and niches in the sanctuary to, from the eleventh century onward, a prominent space near or above the altar, a practice that was consolidated more uniformly in the Baroque period, between the seventeenth and eighteenth centuries, and was reaffirmed by Pope Benedict XIV in his constitution \"Accepimus\" (1746).\n\nThe current liturgical norms require that the tabernacle be made of solid and immovable material, kept always locked when it contains the Most Blessed Sacrament, in order to avoid any danger of desecration, and located in a place in the church that is truly noble, conspicuous, and suitable for prayer. The small lamp or candle that burns continuously before it signals to the faithful, at any hour, the real presence of Christ reserved there — a silent invitation to visit and to Eucharistic adoration even outside the hours of Mass.",
+      "tags": [
+        "tabernacle",
+        "tabernacle",
+        "Eucharist",
+        "real presence"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 18,
+      "paragrafos_ccc": [
+        "1183",
+        "1379"
+      ],
+      "fontes": [
+        "Roman Missal, General Instruction, nos. 314-317",
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "liturgia:genuflexao-e-posturas-na-missa",
+      "slug": "genuflexao-e-posturas-na-missa",
+      "titulo": "Genuflection and Bodily Postures at Mass",
+      "categoria": "liturgia",
+      "resumo": "Standing, sitting, kneeling and genuflecting are not indifferent details: each bodily posture expresses, and also shapes, an interior attitude at Mass.",
+      "corpo": "The Catholic liturgy attributes meaning to the positions of the body, and not only to words: standing, the posture of the risen and of those who wait with readiness, marks the most solemn moments, such as the Introductory Rites, the Gospel, the Creed and the Concluding Rites; sitting is fitting for attentive listening, as during the readings and the homily; and kneeling, a posture of supplication and adoration, is prescribed above all during the Eucharistic Prayer, unless prevented by health reasons, lack of space or a large number of the faithful.\n\nGenuflection properly so called, bending the right knee to the ground and then rising immediately, is a briefer and more specific gesture, reserved for the adoration of the Most Blessed Sacrament: it is made upon entering or leaving a church where the Sacrament is reserved in the tabernacle, and the priest himself genuflects before the altar after the consecration and before Communion. Distinct from the bow (a mere reverence, used for example when passing before the altar when the Blessed Sacrament is not exposed), genuflection is thus a theologically precise gesture: not just any courtesy, but the bodily acknowledgment of standing before God truly present.",
+      "tags": [
+        "genuflection",
+        "liturgical postures",
+        "adoration",
+        "gestures"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 19,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Roman Missal, General Instruction, nos. 42-43",
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "liturgia:ritual-de-bencaos",
+      "slug": "ritual-de-bencaos",
+      "titulo": "The Book of Blessings",
+      "categoria": "liturgia",
+      "resumo": "The liturgical book that gathers the Church's official formulas for blessing persons, objects and situations of life in the name of God.",
+      "corpo": "The \"De Benedictionibus\" (\"Book of Blessings\"), published in its Latin typical edition in 1984, is the book of the Roman Ritual that gathers the official formulas with which the Church, in the name of God, blesses persons, objects, places and circumstances of Christian life. Every blessing, the ritual itself teaches, is at once praise of God for his gifts and petition to obtain them, always joining a reading of the Word to a prayer, usually accompanied by the sign of the cross, the laying on of hands or sprinkling with holy water.\n\nThe ritual organizes the blessings into families: blessings of persons (such as a child, a family, the sick or specific groups), of objects and places intended for liturgical use (such as a new altar or a tabernacle), of objects of popular devotion (rosaries, medals, images) and blessings for various other purposes, such as the beginning of the year or of a journey. Theology also distinguishes blessings of an \"invocative\" character (which ask God's favor upon persons) from those of a \"constitutive\" character (which definitively set apart an object or place for sacred use).",
+      "tags": [
+        "blessing",
+        "Roman Ritual",
+        "De Benedictionibus"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 20,
+      "paragrafos_ccc": [
+        "1671",
+        "1672"
+      ],
+      "fontes": [
+        "Roman Ritual, «De Benedictionibus» (1984)",
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "liturgia:salmista",
+      "slug": "salmista",
+      "titulo": "The Psalmist: Ministry of the Responsorial Psalm",
+      "categoria": "liturgia",
+      "resumo": "Whoever sings the Responsorial Psalm between the readings at Mass exercises a true liturgical ministry, not a mere musical performance.",
+      "corpo": "Between the first reading and the second (or the Gospel, on weekdays), the Liturgy of the Word sets aside a space for prayerful meditation through the Responsorial Psalm, normally sung by a psalmist from the ambo or from another suitable place, with the assembly responding with a refrain between the verses. Far from being a mere musical interlude, this proclamation-in-song is considered by the Church herself a sacramental act and a distinct liturgical ministry, different from both the lector and the choir: the psalmist lends his or her voice to the psalm itself, meditatively prolonging the reading that has just been proclaimed.\n\nTo carry out this role well requires both vocal technique and a spiritual, prayerful attitude: it is not enough to sing in tune; one must sing the psalm with good diction and a true sense of prayer, so that the Psalm, inherited from the same Jewish tradition of prayer that Jesus and the apostles prayed, may continue to be, in today's Mass as well, a living word of praise, supplication or lament before God.",
+      "tags": [
+        "psalmist",
+        "responsorial psalm",
+        "music ministry",
+        "liturgy of the word"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 21,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Roman Missal, General Instruction, nos. 61, 102",
+        "Congregation for Divine Worship, \"Musicam Sacram\" (1967)"
+      ]
+    },
+    {
+      "id": "liturgia:missas-votivas-e-de-defuntos",
+      "slug": "missas-votivas-e-de-defuntos",
+      "titulo": "Votive Masses and Masses for the Dead",
+      "categoria": "liturgia",
+      "resumo": "Besides the Mass of the day set by the calendar, the Roman Missal provides for Votive Masses dedicated to a mystery or a saint, and for specific Masses for the departed.",
+      "corpo": "Not every Mass necessarily follows the texts of the day set by the liturgical calendar: the Roman Missal reserves a section for Votive Masses, celebrated out of devotion—on weekdays in Ordinary Time, or even when an optional memorial occurs—in honor of some mystery of the Lord, of the Virgin Mary, of an angel, or of a saint, a practice already attested since the Middle Ages. Curiously, among the first Votive Masses to spread were precisely those celebrated in suffrage for a deceased person, to which many other devotional intentions were later added.\n\nThe Masses for the Dead, now gathered in their own section of the Missal right after the votive ones, offer the Eucharistic sacrifice of Christ's Passover for the departed, so that, through the communion among the members of the Body of Christ, some may receive spiritual help and others consolation and hope. They are distinguished according to the occasion: the Funeral Mass (at the funeral), the Mass celebrated on receiving the news of a death, the Mass on the day of burial or on the anniversary of the death, and the daily Masses for the dead in general—all of them a concrete expression of the Catholic faith in the communion of saints, which unites the living and the dead in the same prayer.",
+      "tags": [
+        "votive Mass",
+        "Mass for the dead",
+        "suffrage",
+        "communion of saints"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 22,
+      "paragrafos_ccc": [
+        "958",
+        "1032"
+      ],
+      "fontes": [
+        "Roman Missal, \"Votive Masses\" and \"Masses for the Dead\"",
+        "Catechism of the Catholic Church"
+      ]
+    }
+  ]
+}

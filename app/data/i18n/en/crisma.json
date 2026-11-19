@@ -1,0 +1,1730 @@
+{
+  "_meta": {
+    "categoria": "crisma",
+    "nome": "Confirmation",
+    "descricao": "Catechesis themes on the sacrament of Confirmation, anchored in the Catechism.",
+    "status": "exemplos-iniciais",
+    "aviso": "This is not a complete catechetical itinerary, nor one approved by ecclesiastical authority: each diocese and parish follows its own program of preparation for Confirmation.",
+    "revisao_editorial": "All content refers to paragraphs of the Catechism of the Catholic Church and to biblical passages cited by name, without adding any interpretations of its own.",
+    "fontes_gerais": [
+      "Catechism of the Catholic Church, nos. 1285-1321 (the sacrament of Confirmation)",
+      "Paul VI, Apostolic Constitution «Divinae consortium naturae» (August 15, 1971)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "crisma:o-sacramento-da-confirmacao",
+      "slug": "o-sacramento-da-confirmacao",
+      "titulo": "The Sacrament of Confirmation",
+      "resumo": "What Confirmation is: a sacrament of Christian initiation that confers the gift of the Holy Spirit and imprints an indelible character.",
+      "corpo": "Confirmation is, with Baptism and the Eucharist, one of the three sacraments of Christian initiation. The Catechism teaches that it is necessary for the completion of baptismal grace: the confirmed are enriched with a special strength of the Holy Spirit and more perfectly bound to the Church, so that they may bear witness to Christ.\n\nThe origin of the sacrament lies in the laying on of hands by the Apostles. After Pentecost, Peter and John were sent to Samaria to lay hands on the baptized, who thus received the Holy Spirit (Acts 8:14-17), and Paul did the same in Ephesus (Acts 19:6). The CCC (no. 1288) calls the laying on of hands the \"origin of the sacrament of Confirmation, which in a certain way perpetuates the grace of Pentecost in the Church.\" Very early on, to better signify the gift of the Spirit, an anointing with perfumed oil, chrism, was added to the laying on of hands. The term refers to Christ, \"whom God anointed with the Holy Spirit\" (Acts 10:38). This is why the sacrament is called, in the East, chrismation or myron.\n\nFor historical reasons, the original unity between Baptism and Confirmation was broken in the West. As infant baptisms and rural parishes multiplied, it became impossible for the bishop to be present at every celebration. Wishing to reserve the completion of Baptism to the bishop, the West separated the two sacraments in time (CCC 1290); the East kept them united, so that Confirmation is given by the very priest who baptizes, but only with the myron consecrated by a bishop (CCC 1291). It was this separation that gave rise to the current Roman rite, in which, when Confirmation is celebrated separately from Baptism, the liturgy begins with the renewal of the baptismal promises (CCC 1298).\n\nFrom the ritual standpoint, Western texts only clearly fixed the form of Confirmation in the 12th and 13th centuries. The Roman Pontifical of the 12th century contains for the first time the formula that later became universal: \"I sign you with the sign of the cross and confirm you with the chrism of salvation. In the name of the Father, and of the Son, and of the Holy Spirit.\" Several ecumenical councils entered the debate on the matter and form: the Profession of Faith of Emperor Michael Palaeologus, read at the Second Council of Lyons, refers to Confirmation conferred by bishops through the laying on of hands when anointing with chrism; the Decree for the Armenians of the Council of Florence defines that the matter of the sacrament is chrism made of oil and balsam, and recalls that \"in place of that laying on of the hand, Confirmation is given in the Church\"; and the Council of Trent, without defining the essential rite, designated it as the \"sacred Chrism of Confirmation.\" The consecration of the chrism, moreover, in a certain way forms part of the sacrament itself: it is the bishop who consecrates it at the Chrism Mass, on the morning of Holy Thursday, for his whole diocese (CCC 1297).\n\nThe essential rite, in the Latin rite, was reaffirmed by Paul VI in the Apostolic Constitution Divinae consortium naturae (August 15, 1971): \"The sacrament of Confirmation is conferred through the anointing with holy chrism on the forehead, which is done by the laying on of the hand, and through the words: Be sealed with the Gift of the Holy Spirit.\" The laying on of hands upon the candidates, which precedes the anointing, although it does not belong to the essence of the sacrament, is held in great esteem as it ensures the integrity of the rite. The original minister is the Bishop, successor of the Apostles and possessor of the fullness of the sacrament of Holy Orders; for this reason, his administration of Confirmation highlights the bond of the confirmed with the Church and her apostolic origin. In certain cases and according to the norms of the Church, the priest may confer it. Like Baptism and Holy Orders, Confirmation imprints on the soul an indelible spiritual character and, therefore, is received only once.",
+      "categoria": "crisma",
+      "tags": [
+        "confirmation",
+        "Christian initiation",
+        "Holy Spirit",
+        "chrism",
+        "bishop",
+        "laying on of hands",
+        "Pentecost",
+        "myron"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Seven_Sacraments_-_Confirmation_I_%281637-1640%29_Nicolas_Poussin.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1288-1291, 1293-1301, 1304-1305, 1320-1321",
+        "Paul VI, Apostolic Constitution \"Divinae consortium naturae\" (August 15, 1971)",
+        "Acts 8:14-17; Acts 10:38; Acts 19:6",
+        "Council of Florence, Decree for the Armenians; Council of Trent; Second Council of Lyons (Profession of Faith of Michael Palaeologus)",
+        "Nicolas Poussin, \"Seven Sacraments - Confirmation I\" (c. 1637-1640), Fitzwilliam Museum"
+      ],
+      "atualizado_em": null,
+      "ordem": 1,
+      "paragrafos_ccc": [
+        "1285-1321"
+      ]
+    },
+    {
+      "id": "crisma:os-sete-dons-do-espirito-santo",
+      "slug": "os-sete-dons-do-espirito-santo",
+      "titulo": "The Seven Gifts of the Holy Spirit",
+      "resumo": "Wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lord: the gifts that complete and perfect the virtues, enumerated on the basis of Isaiah 11.",
+      "corpo": "The tradition of the Church enumerates seven gifts of the Holy Spirit: wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lord. The enumeration is based on the prophecy of Isaiah 11:1-2, a description of the shoot of Jesse upon whom the Spirit of the Lord rests. The number seven does not derive from the original Hebrew text: the Masoretic Text lists six characteristics (wisdom, understanding, counsel, might, knowledge, and fear of the Lord), with the fear of the Lord mentioned twice. The Greek translation of the Septuagint rendered the first occurrence of fear (the Hebrew root yir'at) also as piety (εὐσεβείας), and the Vulgate of Saint Jerome, which fixed the verse, relied on it: «Spiritus sapientiae et intellectus, spiritus consilii et fortitudinis, spiritus scientiae et pietatis, et replebit eum spiritus timoris Domini» (Is 11:2-3). Saint Ambrose and Saint Augustine saw in the number seven the sign of fullness, and not of an arithmetical count: all desirable gifts dwell in the Messiah.\n\nIt was Saint Thomas Aquinas who gave the list its definitive scholastic form, in the treatise on the gifts in the First Part of the Second Part of the Summa Theologica (I-II, q. 68). There he distinguishes the gifts from the virtues — the gifts are habits by which man becomes docile to the impulse of the Holy Spirit, beyond what reason alone would attain — and maintains, in article 4, that they are fittingly enumerated as seven, and, in article 7, that their dignity is grounded in the enumeration of Isaiah 11. Thus the gifts were associated with the virtues and the beatitudes (wisdom with the peacemakers, understanding with those who mourn, counsel with the merciful, fortitude with those who hunger for righteousness, knowledge with those who suffer persecution, piety with the meek, fear with the poor in spirit).\n\nThe Catechism of the Catholic Church gathers up this tradition in nos. 1830-1831: the gifts «complete and perfect the virtues of those who receive them» and «make the faithful docile in readily obeying divine inspirations». In this regard it cites Psalm 143 («Let your good spirit lead me on level ground») and the Letter to the Romans («All who are led by the Spirit of God are sons of God... heirs of God and fellow heirs with Christ», Rom 8:14, 17). The Catechism also recalls that the gifts «belong in their fullness to Christ, Son of David» — that is, they belong first to the Messiah and, by participation, to the baptized.\n\nThey are not, therefore, extraordinary powers or natural talents, but stable dispositions infused with sanctifying grace, deepened in Baptism and especially strengthened in Confirmation. In Confirmation catechesis, the gifts are presented together with the life of prayer and the sacraments, the ordinary means by which grace is nourished.",
+      "categoria": "crisma",
+      "tags": [
+        "gifts",
+        "Holy Spirit",
+        "virtues",
+        "Isaiah",
+        "Thomas Aquinas",
+        "Summa Theologica",
+        "wisdom",
+        "fear of the Lord",
+        "13th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Dirc_van_Delft_-_Seven_Gifts_of_the_Holy_Spirit_-_Walters_W17153R_-_Full_Page.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1830-1831",
+        "Is 11:1-3 (Vulgate; cf. Masoretic Text and Septuagint)",
+        "Thomas Aquinas, Summa Theologica, I-II, q. 68, arts. 1-8",
+        "Dirc van Delft, «Seven Gifts of the Holy Spirit», Walters Manuscript W.171, c. 1400-1404 (Walters Art Museum)"
+      ],
+      "atualizado_em": null,
+      "ordem": 2,
+      "paragrafos_ccc": [
+        "1830-1831"
+      ]
+    },
+    {
+      "id": "crisma:os-frutos-do-espirito-santo",
+      "slug": "os-frutos-do-espirito-santo",
+      "titulo": "The Fruits of the Holy Spirit",
+      "resumo": "The twelve fruits that tradition enumerates from Galatians 5:22-23 according to the Vulgate, as signs of the Spirit's action in the Christian life.",
+      "corpo": "The fruits of the Holy Spirit are, according to the Catechism (no. 1832), \"perfections that the Holy Spirit forms in us as the first fruits of eternal glory.\" The tradition of the Church lists twelve: charity, joy, peace, patience, forbearance, goodness, kindness, gentleness, faithfulness, modesty, self-control, and chastity — a list that the CCC presents as that of Gal 5:22-23 \"according to the Vulgate.\"\n\nThe difference in number with respect to the Greek text is notable and tends to go unnoticed. In the Letter to the Galatians, Saint Paul contrasts the \"works of the flesh\" (fornication, impurity, idolatry, enmities, jealousy, anger, dissensions, envy, drunkenness, and the like) with the \"fruit of the Spirit.\" The Greek text lists nine: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. The Vulgate of Saint Jerome, in translating, split some of the terms, arriving at the twelve that the Latin tradition consecrated. This is why biblical scholars and denominations that follow the Greek text count nine fruits, while the Catholic catechism and numerous traditional catechisms (the Baltimore Catechism, for example) keep the twelve.\n\nSaint Thomas Aquinas devoted Question 70 of the First Part of the Second Part of the Summa Theologiae to the fruits. He explains that \"fruit\" has two senses: that which a human being produces and that which he enjoys, that is, the term designates at once the good work and the joy that follows from it. He compares the fruits to the beatitudes: the latter point to the perfection of the saints, while the fruits are more everyday and accessible to those who, even amid struggles, let themselves be led by grace. He organizes them pedagogically according to their order toward one's neighbor and toward oneself.\n\nWhile the gifts dispose a person to the action of the Spirit, the fruits are the visible effect of that action in conduct: they are the concrete criterion for verifying whether the Christian life is growing. For this reason, preparation for Confirmation does not end on the day of the celebration: it leads into sacramental life, prayer, and charity put into practice, where these fruits ripen.",
+      "categoria": "crisma",
+      "tags": [
+        "fruits",
+        "Holy Spirit",
+        "charity",
+        "Christian life",
+        "Galatians",
+        "Vulgate",
+        "Thomas Aquinas"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/46/Dublin_Christ_Church_Cathedral_Passage_to_Synod_Hall_Window_Fruit_of_the_Spirit_2012_09_26.jpg",
+      "imagem_credito": "Photo: Andreas F. Borchert (2012) — Wikimedia Commons, CC BY-SA 4.0",
+      "fontes": [
+        "Catechism of the Catholic Church, no. 1832",
+        "Gal 5:22-23 (Greek text and Vulgate)",
+        "Thomas Aquinas, Summa Theologiae, I-II, q. 70",
+        "Stained-glass window \"Fruit of the Spirit,\" Christ Church Cathedral (Dublin), photo by Andreas F. Borchert, 2012"
+      ],
+      "atualizado_em": null,
+      "ordem": 3,
+      "paragrafos_ccc": [
+        "1832"
+      ]
+    },
+    {
+      "id": "crisma:santissima-trindade",
+      "slug": "santissima-trindade",
+      "titulo": "The Most Holy Trinity",
+      "categoria": "crisma",
+      "resumo": "One God in three distinct Persons — Father, Son, and Holy Spirit — the central mystery of the faith and of Christian life.",
+      "corpo": "The Catechism teaches, in numbers 232 to 260, that the mystery of the Most Holy Trinity is \"the central mystery of Christian faith and life\": only God can make himself known to us by revealing himself as Father, Son, and Holy Spirit, and this revelation reached its fullness with the sending of the Son and of the Holy Spirit after the Resurrection.\n\nThe Church professes one God in three Persons who are truly distinct from one another, yet each wholly God: they are not three gods, nor three modes of a single God who appears now as Father, now as Son, now as Spirit. The divine Persons are distinct by the relations that give them origin — the Father begets the Son, the Spirit proceeds from the Father and the Son — each remaining equally eternal and almighty.\n\nFor this reason every Christian is baptized \"in the name of the Father and of the Son and of the Holy Spirit\" (Mt 28:19), and Confirmation, which deepens baptismal grace, is lived as a new gift of this same Trinitarian God, whom in Confirmation catechesis one learns to invoke and to adore as the source of all the life of the Church.",
+      "tags": [
+        "Trinity",
+        "Father",
+        "Son",
+        "Holy Spirit",
+        "mystery of faith"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/La_Trinidad_%28El_Greco%2C_1577-1579%29.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "232-260"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 232-260",
+        "Mt 28:19",
+        "2 Cor 13:13"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:deus-pai-todo-poderoso-e-criador",
+      "slug": "deus-pai-todo-poderoso-e-criador",
+      "titulo": "God the Father Almighty, Creator of Heaven and Earth",
+      "categoria": "crisma",
+      "resumo": "The first article of the Creed: God is almighty and Father, and freely created everything that exists, out of nothing and out of love.",
+      "corpo": "The Creed opens with the confession \"I believe in God, the Father almighty, creator of heaven and earth.\" The Catechism explains, in numbers 268 to 278, that God's omnipotence is not arbitrary: it is manifested above all in the creation of the world and of man, and even more in the Incarnation and Resurrection of his Son, and in his mercy toward sinners.\n\nTo create means, for God, to give existence to something that did not exist before, \"out of nothing\" (ex nihilo), by pure freedom and love, without necessity or effort. This is what number 279 and following teach: the world is not the fruit of chance nor a necessary emanation of God, but a free gift that continues to depend on him at every moment.\n\nAmong all visible creatures, the human being is created \"in the image and likeness of God\" (Gen 1:26-27), capable of knowing and loving his Creator, called to care for creation and to live in communion with him — a truth that Confirmation catechesis takes up again as the foundation of all the faith that is professed.",
+      "tags": [
+        "God the Father",
+        "creation",
+        "omnipotence",
+        "providence"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/73/God2-Sistine_Chapel.png",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "268-278",
+        "279-324"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 268-278, 279-324",
+        "Gen 1:1",
+        "Gen 1:26-27"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:a-revelacao-divina",
+      "slug": "a-revelacao-divina",
+      "titulo": "Divine Revelation",
+      "categoria": "crisma",
+      "resumo": "How God progressively makes himself known to human beings, in a dialogue that reaches its fullness in Jesus Christ.",
+      "corpo": "God, out of pure goodness, chose to reveal himself and to communicate himself to human beings, inviting them to enter into communion with him. The Catechism, in numbers 50 to 73, describes this revelation as a journey: God made himself known to the patriarchs, spoke through the prophets, and finally, \"in these last days he has spoken to us by a Son\" (Heb 1:1-2).\n\nThe revelation in Jesus Christ is definitive and complete: in him, God said everything he had to say about himself, even though it falls to the Church, over the centuries, to penetrate ever more deeply its meaning. For this reason, there will be no new public revelation before the glorious coming of Christ.\n\nThis revelation is transmitted to the Church in two complementary ways — Sacred Scripture and living Tradition — both entrusted to the Magisterium to be interpreted faithfully and taught to each generation, which gives Confirmation catechesis its ultimate foundation: it is not a human opinion, but something that comes from God.",
+      "tags": [
+        "revelation",
+        "faith",
+        "Word of God",
+        "Jesus Christ"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Blake_-_angel_of_revelation.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "50-73"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 50-73",
+        "Heb 1:1-2",
+        "Second Vatican Council, Dogmatic Constitution Dei Verbum, no. 2"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:a-sagrada-escritura",
+      "slug": "a-sagrada-escritura",
+      "titulo": "Sacred Scripture",
+      "categoria": "crisma",
+      "resumo": "The Bible as the Word of God put into writing, inspired by the Holy Spirit and read in the living faith of the Church.",
+      "corpo": "Sacred Scripture brings together the books of the Old and New Testaments, recognized by the Church as inspired by God: they have God as their author, even though they were written by true human authors, who used their own faculties and powers. The Catechism treats this subject in numbers 101 to 141.\n\nThe two Testaments form a unity, for \"the New Testament lies hidden in the Old and the Old Testament is made manifest in the New,\" according to the classic formula cited by the Catechism itself. All of Scripture converges on Christ and is fully understood only in Him.\n\nThe Church does not read the Bible in isolation: she interprets it in the light of the same Tradition and under the watchful care of the Magisterium, attentive to the content and unity of the whole of Scripture, to the living Tradition, and to the analogy of faith. For this reason, Confirmation catechesis invites the confirmand to become familiar with the prayerful reading of the Word of God, and not only with its doctrine.",
+      "tags": [
+        "Bible",
+        "inspiration",
+        "canon",
+        "Old Testament",
+        "New Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "101-141"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 101-141",
+        "2 Tim 3:16",
+        "Second Vatican Council, Dogmatic Constitution Dei Verbum, nos. 11-13"
+      ],
+      "imagem_credito": "Photo: NYC Wanderer (Kevin Eng) — Wikimedia Commons, CC BY-SA 2.0"
+    },
+    {
+      "id": "crisma:jesus-cristo-filho-unico-de-deus",
+      "slug": "jesus-cristo-filho-unico-de-deus",
+      "titulo": "Jesus Christ, Only Son of God",
+      "categoria": "crisma",
+      "resumo": "Second article of the Creed: the confession that Jesus is the Christ, the only-begotten Son of God, the Lord.",
+      "corpo": "The second article of the Creed professes: \"I believe in Jesus Christ, his only Son, our Lord.\" The Catechism, in numbers 422 to 451, explains the meaning of each of these names: \"Jesus\" means \"God saves\"; \"Christ\" translates \"Messiah,\" the Anointed One awaited by Israel; \"Son of God\" affirms the unique and eternal relationship of Jesus with the Father; \"Lord\" acknowledges in him divine sovereignty.\n\nFaith in Jesus as the Son of God is not one opinion among others: it is the center of the Christian faith, confessed by Peter at Caesarea Philippi — \"You are the Christ, the Son of the living God\" (Mt 16:16) — and reaffirmed by the Church in every age as the touchstone of true faith.\n\nTo recognize Jesus as the only Son of God also implies welcoming his mission: He came to reveal the Father and to reconcile humanity with God, giving his life as a ransom for all. This is the heart of what Confirmation catechesis seeks to deepen in the life of each confirmand.",
+      "tags": [
+        "Jesus Christ",
+        "Messiah",
+        "Son of God",
+        "Creed"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Spas_vsederzhitel_sinay.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "422-451"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 422-451",
+        "Jn 1:1, 14",
+        "Mt 16:16"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:a-encarnacao-do-verbo",
+      "slug": "a-encarnacao-do-verbo",
+      "titulo": "The Incarnation of the Word",
+      "categoria": "crisma",
+      "resumo": "The Son of God became man, conceived by the Holy Spirit and born of the Virgin Mary, remaining God and assuming a true human nature.",
+      "corpo": "The third article of the Creed professes that Jesus Christ \"was conceived by the power of the Holy Spirit and born of the Virgin Mary.\" The Catechism, in numbers 456 to 483, asks about the reason for this Incarnation: the Word became flesh to save us by reconciling us with God, so that we might know God's love, to be a model of holiness, and to make us \"partakers of the divine nature\" (cf. 2 Pet 1:4).\n\nThe faith of the Church professes that, in the Incarnation, the Son of God did not cease to be God by assuming human nature: he is truly God and truly man, united in one divine Person, without confusion or separation between the two natures — a truth solemnly defined by the Council of Chalcedon.\n\nThe virginal motherhood of Mary, who conceived by the work of the Holy Spirit, is a sign that this generation is entirely a divine work: \"The Holy Spirit will come upon you [...] therefore the child to be born will be called holy, the Son of God\" (Lk 1:35), the words of the angel that Confirmation catechesis takes up in order to deepen the mystery of the Christian Christmas.",
+      "tags": [
+        "Incarnation",
+        "Christmas",
+        "Virgin Mary",
+        "Word of God"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Botticelli%2C_annunciazione_del_Metropolitan.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "456-483"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 456-483",
+        "Jn 1:14",
+        "Lk 1:26-38"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:a-paixao-e-morte-de-jesus",
+      "slug": "a-paixao-e-morte-de-jesus",
+      "titulo": "The Passion and Death of Jesus",
+      "categoria": "crisma",
+      "resumo": "The suffering, crucifixion, and death of Christ under Pontius Pilate: the sacrifice that reconciles humanity with God.",
+      "corpo": "The fourth article of the Creed confesses that Jesus Christ \"suffered under Pontius Pilate, was crucified, died and was buried.\" The Catechism, in numbers 571 to 630, situates this event in concrete history, under an identifiable Roman governor, and at the same time within God's eternal plan of salvation.\n\nThe death of Jesus on the cross was not a tragic accident but, according to the faith of the Church, a gift freely offered out of love: \"Christ died for our sins in accordance with the Scriptures\" (1 Cor 15:3). In it, Christ offered himself to the Father as the perfect sacrifice, making reparation for human disobedience by his obedience of love to the end.\n\nThe Catechism insists that this death has the value of universal redemption: Christ died for all, without exception, and his Passion continues to be made present in every Eucharist celebrated by the Church, a central theme taken up in Confirmation catechesis as it prepares the confirmand for a Christian life marked by the cross and by charity.",
+      "tags": [
+        "passion",
+        "cross",
+        "redemption",
+        "sacrifice"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/95/Peter_Paul_Rubens_-_Christ_on_the_Cross_between_the_Two_Thieves_-_WGA20235.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "571-630"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 571-630",
+        "John 19",
+        "1 Cor 15:3"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:a-ressurreicao-de-cristo",
+      "slug": "a-ressurreicao-de-cristo",
+      "titulo": "The Resurrection of Christ",
+      "categoria": "crisma",
+      "resumo": "On the third day Christ rose from the dead: the central event that founds Christian faith and hope.",
+      "corpo": "The fifth article of the Creed professes that Jesus \"rose again from the dead on the third day.\" The Catechism, in numbers 631 to 658, calls the Resurrection the \"crowning truth\" of our faith in Christ, attested as a historical fact by the testimony of the apostles, who saw the Risen One and ate and drank with Him, and handed down as the core of apostolic preaching from the very beginning: \"if Christ has not been raised, your faith is futile\" (cf. 1 Cor 15:14).\n\nThe Resurrection is not Jesus' return to ordinary earthly life, but the definitive passage of his humanity, already glorified, into the power of God: for this reason the risen body of Christ is the same one that suffered on the cross, but transformed, free from the limitations of space and time.\n\nFor the Christian, the Resurrection of Christ is the pledge and cause of one's own resurrection: \"For as in Adam all die, so also in Christ shall all be made alive\" (1 Cor 15:22), a truth that Confirmation catechesis proposes as the foundation of the hope that sustains the moral and sacramental life of the confirmand.",
+      "tags": [
+        "resurrection",
+        "Easter",
+        "hope",
+        "faith"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Pietro_Perugino_cat53.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "631-658"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 631-658",
+        "1 Cor 15:3-8",
+        "Mt 28:1-10"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:a-ascensao-e-a-vinda-de-cristo-em-gloria",
+      "slug": "a-ascensao-e-a-vinda-de-cristo-em-gloria",
+      "titulo": "The Ascension and the Coming of Christ in Glory",
+      "categoria": "crisma",
+      "resumo": "Christ ascended into heaven and is seated at the right hand of the Father; he will come again in glory to judge the living and the dead.",
+      "corpo": "The sixth and seventh articles of the Creed profess that Jesus \"ascended into heaven, and is seated at the right hand of the Father, and he will come again in glory to judge the living and the dead.\" The Catechism treats these two mysteries in numbers 659 to 682.\n\nThe Ascension marks the definitive entry of Christ's humanity into the glory of God, forty days after Easter (cf. Acts 1:3, 9-11): Christ did not cease to be present among his own, but his presence now becomes that of the Head who continually intercedes for the Church before the Father.\n\nChristian faith still awaits the glorious coming of Christ at the end of time, when he will judge the living and the dead, revealing the ultimate truth of every conscience and of all history. No one knows the day or the hour of this coming, and for this reason the Church lives in hopeful vigilance, a theme that Confirmation catechesis takes up when speaking of life in the state of grace.",
+      "tags": [
+        "ascension",
+        "parousia",
+        "final judgment",
+        "hope"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Jesus_ascending_to_heaven.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "659-682"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 659-682",
+        "Acts 1:9-11",
+        "Matthew 25:31-32"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:creio-no-espirito-santo",
+      "slug": "creio-no-espirito-santo",
+      "titulo": "I Believe in the Holy Spirit",
+      "categoria": "crisma",
+      "resumo": "The eighth article of the Creed: the Holy Spirit, the third Person of the Most Holy Trinity, \"the Lord, the giver of life.\"",
+      "corpo": "The eighth article of the Creed professes: \"I believe in the Holy Spirit, the Lord, the giver of life.\" The Catechism, in numbers 683 to 747, teaches that no one can know God as Father, nor confess that Jesus is Lord, except under the action of the Holy Spirit, who already acts in the Old Testament through the prophets and is fully manifested in Christ.\n\nThe Holy Spirit is sent by the Father and the Son in a definitive way at Pentecost: \"And they were all filled with the Holy Spirit\" (Acts 2:4), an event that marks the visible birth of the Church and the beginning of her mission to proclaim the Gospel to all peoples.\n\nSince then, the Holy Spirit continues to act in the Church and in each Christian: in the Scripture he inspired, in the Tradition he guards, in the Magisterium he assists, in the liturgy and the sacraments, and in the prayer of each believer. Confirmation is precisely the sacrament in which this same Spirit is given in a special way, uniting the confirmand more closely to the mission of the Church.",
+      "tags": [
+        "Holy Spirit",
+        "Pentecost",
+        "Trinity",
+        "Creed"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "683-747"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 683-747",
+        "Acts 2:1-4",
+        "John 14:26"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:a-igreja-corpo-de-cristo-e-povo-de-deus",
+      "slug": "a-igreja-corpo-de-cristo-e-povo-de-deus",
+      "titulo": "The Church, Body of Christ and People of God",
+      "categoria": "crisma",
+      "resumo": "Two central biblical images for understanding the nature of the Church: a community called together by God and a living organism united to Christ.",
+      "corpo": "The Catechism, in nos. 781 to 796, presents the Church through several complementary biblical images. As the \"People of God,\" the Church is made up of all those who, through faith and Baptism, have been called to be part of a new covenant, overcoming boundaries of race, nation, or culture: \"Once you were no people but now you are God's people\" (cf. 1 Pet 2:9-10).\n\nAs the \"Body of Christ,\" the Church is a vital communion with Christ, her Head: just as the human body has many members with different functions, so Christians, united to Christ through Baptism, form one body, with a diversity of gifts and ministries at the service of the common good (cf. 1 Cor 12:27).\n\nThese two images complement each other: they reveal that the Church is not a mere human organization, but a mystery of communion between God and men, founded on Christ and animated by the Holy Spirit — a truth that Confirmation catechesis takes up again in order to situate the confirmand within this living community.",
+      "tags": [
+        "Church",
+        "Body of Christ",
+        "People of God",
+        "ecclesiology"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "781-796"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 781-796",
+        "1 Cor 12:27",
+        "1 Pet 2:9-10"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:a-igreja-templo-do-espirito-santo",
+      "slug": "a-igreja-templo-do-espirito-santo",
+      "titulo": "The Church, Temple of the Holy Spirit",
+      "categoria": "crisma",
+      "resumo": "The Church as the dwelling place of God among men, animated, sanctified, and guided by the Holy Spirit.",
+      "corpo": "The Catechism, in numbers 797 to 801, teaches that \"what builds up the Church and makes her live is the Holy Spirit.\" The Spirit dwells in the faithful as in a temple, unites them with one another and with Christ, and distributes to each one gifts and charisms for the common good of the community.\n\nSaint Paul asks the Christians of Corinth: \"Do you not know that you are God's temple and that God's Spirit dwells in you?\" (1 Cor 3:16). The image of the temple indicates that the Church is not merely a visible institution, but a living space where God becomes present and is worshiped \"in spirit and truth.\"\n\nThe charisms that the Spirit distributes, whether extraordinary or simple and humble, are not for personal benefit, but for the building up of the Church and her mission in the world, always discerned and ordered by the pastors. This teaching prepares the confirmand to understand the gifts of the Spirit received in Confirmation as service to the community, not as an individual privilege.",
+      "tags": [
+        "Church",
+        "Holy Spirit",
+        "temple",
+        "charisms"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "797-801"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 797-801",
+        "1 Cor 3:16",
+        "Eph 2:21-22"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:a-igreja-e-una",
+      "slug": "a-igreja-e-una",
+      "titulo": "The Church Is One",
+      "categoria": "crisma",
+      "resumo": "The first of the four marks of the Church: unity of faith, of sacraments and of governance, lived out in the legitimate diversity of peoples and cultures.",
+      "corpo": "The Nicene-Constantinopolitan Creed professes the Church as \"one, holy, catholic and apostolic.\" The Catechism treats unity in numbers 813 to 822: the Church is one because she has her source in the unity of the Holy Trinity, was founded by Christ, her only Lord, and is animated by one Spirit.\n\nThis unity is manifested concretely in the profession of one faith received from the apostles, in the common celebration of the sacraments, above all the Eucharist, and in apostolic succession through the sacrament of Holy Orders, which maintains communion among all the particular Churches and the successor of Peter.\n\nAt the same time, the Catechism recognizes that, throughout history, divisions have arisen among Christians, and for this reason the Catholic Church prays and works for the full unity of all the baptized, in a movement called ecumenism, a theme that Jesus himself asked of the Father on the eve of his death: \"that they may all be one\" (Jn 17:21).",
+      "tags": [
+        "unity",
+        "ecumenism",
+        "Church",
+        "marks of the Church"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/St._Peter%27s_Basilica_Rome_-_20140808_2350.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "813-822"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 813-822",
+        "Jn 17:21"
+      ],
+      "imagem_credito": "Photo: Jakub Hałun — Wikimedia Commons, CC BY-SA 4.0"
+    },
+    {
+      "id": "crisma:a-igreja-e-santa",
+      "slug": "a-igreja-e-santa",
+      "titulo": "The Church Is Holy",
+      "resumo": "The Church is holy because Christ, her founder, is holy, even though her members remain sinners on the path of conversion.",
+      "corpo": "The Catechism, in numbers 823 to 829, teaches that the Church is \"indefectibly holy\" because she is united to Christ, her Bridegroom, who gave himself up for her \"to make her holy\" (Eph 5:25-26), and because the Holy Spirit gives her the life of God. Holiness is, therefore, not an achievement of her members, but a gift that comes from union with Christ. The Second Vatican Council takes up exactly this teaching in chapter V of the constitution Lumen Gentium (\"The Universal Call to Holiness in the Church\"), when it states: \"The faith of the Church teaches that the Church... is indefectibly holy. Indeed, Christ, the Son of God... loved the Church as His bride, delivering Himself up for her so as to sanctify her, and joined her to Himself as His body.\"\n\nAt the same time, the Church recognizes the presence of sin in her midst: therefore she is \"at once holy and always in need of purification\", following constantly the path of penance and renewal (CCC 827). Number 827 cites Saint Augustine, who compared the Church to a net that gathers good and bad fish, and to the threshing floor that separates the wheat from the chaff: sin exists in her members, but it does not cancel the holiness of Christ who sustains her. A historical clarification that is often wrongly repeated is worth making: the expression \"casta meretrix\" (literally \"chaste harlot\") is an oxymoron coined by Saint Ambrose in his Commentary on the Gospel of Saint Luke, applied to the figure of Rahab, and not a common designation used by the Fathers for the Church. It is, in fact, a hapax of patristic literature, and not the usual formula with which the tradition speaks of the Church.\n\nThe same number 827 articulates the tension precisely: \"While Christ, holy, innocent, undefiled, knew nothing of sin, but came only to expiate the sins of the people, the Church, containing sinners in her own bosom, is at once holy and always in need of being purified.\" For this reason theologians speak of the Ecclesia semper reformanda — the Church that, holy in Christ, ceaselessly converts in her members.\n\nThe holiness of the Church shines forth eminently in Mary and the saints. Number 829 affirms that \"in the Most Blessed Virgin, the Church has already reached the perfection whereby she exists without spot or wrinkle\", while the other faithful \"still strive to increase in holiness\": in Mary, the Church is already fully holy. The saints, for their part, show that the grace of Christ truly transforms concrete human lives. This is why Confirmation catechesis presents the lives of the saints as a witness that holiness is not an unattainable ideal, but a path open to every baptized person — a theme the Council formulated when recalling that \"all in the Church, whether they belong to the hierarchy or are cared for by it, are called to holiness\" (Lumen Gentium, 39).",
+      "categoria": "crisma",
+      "tags": [
+        "holiness",
+        "Church",
+        "conversion",
+        "saints",
+        "Mary",
+        "Lumen Gentium",
+        "universal call to holiness",
+        "credibility of the Church"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Hubert_van_Eyck_004.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 823-829",
+        "Eph 5:25-27",
+        "Second Vatican Council, Lumen Gentium, ch. V, nos. 39-42",
+        "Saint Augustine (cited in CCC 827)",
+        "Saint Ambrose, Commentary on the Gospel of Saint Luke (expression \"casta meretrix\")"
+      ],
+      "atualizado_em": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "823-829"
+      ]
+    },
+    {
+      "id": "crisma:a-igreja-e-catolica",
+      "slug": "a-igreja-e-catolica",
+      "titulo": "The Church Is Catholic",
+      "categoria": "crisma",
+      "resumo": "The universality of the Church, sent by Christ to all peoples with the fullness of the means of salvation.",
+      "corpo": "The Catechism, in numbers 830 to 856, explains that the word \"catholic\" means \"universal,\" \"according to the totality,\" or \"in keeping with the whole.\" The Church is catholic in two senses: she possesses the fullness of the means of salvation — the complete faith, the sacraments, and the ordained ministry in apostolic succession — and she is sent by Christ to the whole human race, without distinction of people, culture, or era.\n\nEach particular Church, united with its bishop and in communion with the successor of Peter, is truly Church, and in it the one, holy, catholic, and apostolic Catholic Church truly subsists: catholicity does not cancel out the legitimate diversity of traditions and rites, but harmonizes them in one and the same communion.\n\nBy her very nature the Church is missionary, sent by Christ with the mandate \"Go therefore and make disciples of all nations\" (Mt 28:19), a truth taken up again in numbers 849 to 856, which gives Confirmation catechesis the concrete horizon toward which the confirmand is sent.",
+      "tags": [
+        "catholicity",
+        "universality",
+        "mission",
+        "Church"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/St._Peter%27s_Basilica_Rome_-_20140808_2350.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "830-856"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 830-856",
+        "Mt 28:19-20"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:a-igreja-e-apostolica",
+      "slug": "a-igreja-e-apostolica",
+      "titulo": "The Church Is Apostolic",
+      "categoria": "crisma",
+      "resumo": "The Church is built on the foundation of the apostles and remains faithful to their teaching through apostolic succession.",
+      "corpo": "The Catechism, in nos. 857 to 865, teaches that the Church is apostolic in three senses: she was built on the foundation of the apostles, chosen witnesses sent on mission by Christ (cf. Eph 2:20); she guards and transmits, with the help of the Holy Spirit who dwells in her, the teaching received from the apostles; and she continues to be taught, sanctified, and governed by the apostles until Christ's return, through their successors, the bishops, in communion with the successor of Peter.\n\nThis continuity is not only one of doctrine, but of living mission: each bishop, upon being ordained, receives the same mission that Christ entrusted to the apostles, and through him this mission reaches every diocese and parish.\n\nThe original minister of Confirmation is precisely the Bishop, a visible sign of this bond between the person being confirmed and the apostolic Church: when he is confirmed by the Bishop, or in his name, the young person is more closely incorporated into the same mission that goes back to the apostles.",
+      "tags": [
+        "apostles",
+        "apostolic succession",
+        "bishops",
+        "Church"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Baptistry_of_Neon_ceiling_mosaic_%28Ravenna%29.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "857-865"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 857-865",
+        "Eph 2:20"
+      ],
+      "imagem_credito": "Photo: Petar Milošević — Wikimedia Commons, CC BY-SA 4.0"
+    },
+    {
+      "id": "crisma:maria-mae-da-igreja",
+      "slug": "maria-mae-da-igreja",
+      "titulo": "Mary, Mother of the Church",
+      "resumo": "Mary's unique role in the work of salvation, her spiritual motherhood over all the disciples of Christ, and the title proclaimed by Paul VI in 1964.",
+      "corpo": "The Catechism, in numbers 963 to 975, teaches that Mary's motherhood in relation to the Church is an extension of her divine motherhood. The Dogmatic Constitution Lumen Gentium of the Second Vatican Council develops this doctrine in its chapter VIII: Mary, \"predestined from eternity to be the Mother of God\", cooperated \"in an utterly singular way by her obedience, faith, hope and burning charity in the Savior's work\" and is, \"for this reason, a mother to us in the order of grace\" (LG 61). The Council here takes up an argument already formulated by Saint Ambrose and Saint Augustine: if Mary is the Mother of Christ, head of the Church, she cannot fail to be the mother of the members of that body as well (LG 53).\n\nThe historical root of the title goes back to the fourth century: Saint Ambrose, Bishop of Milan (died 397), called the Church mother, virgin and fruitful, and applied the same mystery to Mary — \"the Mother of God is the type of the Church in the order of faith, charity and perfect union with Christ, as Saint Ambrose already taught\" (LG 63, citing Epistulae 63). In dogmatic definition, the landmark is the Council of Ephesus, the third ecumenical council, held in 431 and convoked by Emperor Theodosius II, which proclaimed Mary Theotókos, \"Mother of God\", against the position of Nestorius, Patriarch of Constantinople, who preferred Christotókos (\"Mother of Christ\"); Saint Cyril of Alexandria presided over the proceedings, with about 250 bishops, between June and July of that year.\n\nFrom the height of the cross, Jesus entrusted the beloved disciple to Mary and Mary to the disciple — \"Behold, your mother\" (Jn 19:27) —, a gesture that the Church has always understood as the gift of Mary to every Christian as spiritual mother. Lumen Gentium adds that this motherhood in the economy of grace \"will last without interruption until the eternal fulfillment of all the elect\", from \"the consent which she loyally gave at the Annunciation and which she sustained without wavering beneath the cross\": taken up to heaven, Mary \"did not lay aside this saving office, but by her manifold intercession continues to bring us the gifts of eternal salvation\" (LG 62). This is why the Virgin is invoked as Advocate, Helper, Benefactress and Mediatrix — titles that, the Council stresses, neither take away from nor add anything to the unique and effective mediation of Christ, but depend entirely on it.\n\nThe solemn recognition of the title is recent: on November 21, 1964, in the closing address of the third session of the Second Vatican Council, in Saint Peter's Basilica, Pope Paul VI proclaimed Mary \"Mother of the Church, that is, of all the People of God, both the faithful and the pastors, who call her the most loving Mother\". The proclamation took place against the opinion of some of the German bishops and of the doctrinal commission, concerned about ecumenical appropriateness, but it was received with strong applause from the Council Fathers. In 1980, John Paul II inserted the invocation \"Mother of the Church\" into the Litany of Loreto.\n\nLater, by decree of the Congregation for Divine Worship and the Discipline of the Sacraments — the decree Ecclesia Mater, internally dated February 11, 2018 (the anniversary of the first apparition of Our Lady at Lourdes) and published on March 3, 2018 —, Pope Francis inscribed the obligatory memorial of the \"Blessed Virgin Mary, Mother of the Church\" in the General Roman Calendar, to be celebrated on the Monday after Pentecost. Cardinal Robert Sarah, then prefect of the dicastery, summed up the meaning of the feast in the formula \"Crux, Hostia et Virgo\" — the Cross, the Host and the Virgin —, the three mysteries in which the Christian interior life must be rooted. The Church's devotion to Mary does not replace or diminish the unique mediation of Christ, but manifests it: for this reason, Confirmation catechesis reminds the confirmand that honoring Mary as mother is an inseparable part of maturing in faith in her Son.",
+      "categoria": "crisma",
+      "tags": [
+        "Mary",
+        "Mother of the Church",
+        "spiritual motherhood",
+        "Lumen Gentium",
+        "Second Vatican Council",
+        "Paul VI",
+        "Council of Ephesus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Madonna_Advocata.png",
+      "imagem_credito": "Photo: Asia — Wikimedia Commons, CC BY-SA 4.0",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 963-975",
+        "Second Vatican Council, Dogmatic Constitution Lumen Gentium, nos. 52-69 (esp. 53, 61-63)",
+        "Paul VI, Address at the Conclusion of the Third Session of the Second Vatican Council, November 21, 1964",
+        "Congregation for Divine Worship and the Discipline of the Sacraments, Decree Ecclesia Mater, February 11, 2018 (published March 3, 2018)",
+        "Jn 19:26-27",
+        "First Council of Ephesus (431), definition of Theotókos"
+      ],
+      "atualizado_em": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "963-975"
+      ]
+    },
+    {
+      "id": "crisma:a-comunhao-dos-santos",
+      "slug": "a-comunhao-dos-santos",
+      "titulo": "The Communion of Saints",
+      "categoria": "crisma",
+      "resumo": "The spiritual union that binds the faithful still on pilgrimage on earth, the souls being purified, and the saints who already behold God.",
+      "corpo": "The Catechism, in nos. 946 to 962, explains that the expression \"communion of saints\" has two complementary meanings: communion in \"holy things\" (sancta), above all faith, the sacraments, and the charisms shared by all the baptized, and communion among \"holy persons\" (sancti), that is, among all who are united to Christ.\n\nThis communion unites three states of the one and the same Church: the faithful still on pilgrimage on earth, those who are being purified after death (the Church suffering, or Purgatory), and the blessed who already behold God face to face (the heavenly Church, the saints). Among these three states there is a real exchange of spiritual goods, above all through prayer and mutual intercession.\n\nThis truth underlies central practices of Christian life: the intercession of the saints, prayer for the dead, and the certainty that no Christian walks alone: \"surrounded by so great a cloud of witnesses\" (Heb 12:1), as the Letter to the Hebrews reminds us.",
+      "tags": [
+        "communion of saints",
+        "purgatory",
+        "saints",
+        "Church"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ghent_Altarpiece_-_Adoration_of_the_Mystic_Lamb.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "946-962"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 946-962",
+        "Heb 12:1"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:a-ressurreicao-da-carne-e-a-vida-eterna",
+      "slug": "a-ressurreicao-da-carne-e-a-vida-eterna",
+      "titulo": "The Resurrection of the Body and Life Everlasting",
+      "categoria": "crisma",
+      "resumo": "The final articles of the Creed: the hope of rising again with our own body, glorified, and of living forever in communion with God.",
+      "corpo": "The Creed ends with the confession \"I believe in the resurrection of the body, and life everlasting.\" The Catechism treats the resurrection of the body in nos. 988 to 1004: every human being will rise on the last day with the same body he had in life, but transformed and incorruptible, like the glorious body of the risen Christ.\n\nIn nos. 1020 to 1060, the Catechism treats eternal life: immediately after death, each soul receives from God its eternal retribution, according to its works and its faith — either entering into full communion with God (heaven), or undergoing a purification necessary before that communion (purgatory), or being definitively separated from God, freely chosen through sin (hell).\n\nAt the end of time, with the resurrection of the body and the Last Judgment, this retribution will also reach the body, and God will renew all creation: \"Behold, I make all things new\" (Rev 21:5). Jesus sums up this hope by saying: \"I am the resurrection and the life\" (Jn 11:25), words central to Confirmation catechesis on the last things.",
+      "tags": [
+        "resurrection",
+        "eternal life",
+        "eschatology",
+        "hope"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Apocalypse_vasnetsov.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "988-1004",
+        "1020-1060"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 988-1004, 1020-1060",
+        "Jn 11:25",
+        "1 Cor 15"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:os-sete-sacramentos-da-igreja",
+      "slug": "os-sete-sacramentos-da-igreja",
+      "titulo": "The Seven Sacraments of the Church",
+      "categoria": "crisma",
+      "resumo": "Efficacious signs of grace, instituted by Christ and entrusted to the Church, grouped into sacraments of initiation, sacraments of healing, and sacraments at the service of communion.",
+      "corpo": "The Catechism, in nos. 1113 to 1134, defines the sacraments as efficacious signs of grace, instituted by Christ and entrusted to the Church, by which divine life is dispensed to us. There are seven: Baptism, Confirmation, Eucharist, Penance, Anointing of the Sick, Holy Orders, and Matrimony.\n\nThese seven sacraments touch all the stages and all the important moments of the Christian life: they give birth and growth, healing and mission to the Christian's life of faith. For this reason they can be grouped into three categories: the sacraments of Christian initiation (Baptism, Confirmation, and Eucharist), the sacraments of healing (Penance and Anointing of the Sick), and the sacraments at the service of communion and mission (Holy Orders and Matrimony).\n\nThe sacraments act «ex opere operato», that is, by the power of Christ's own action accomplished in them, independently of the personal holiness of the minister — although the fruits also depend on the disposition of the one who receives them. Confirmation catechesis places Confirmation precisely within this whole, as part of the single process of Christian initiation that begins in Baptism.",
+      "tags": [
+        "sacraments",
+        "grace",
+        "liturgy",
+        "Christian initiation"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Seven_Sacraments_Rogier.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1113-1134"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1113-1134",
+        "Second Vatican Council, Constitution Sacrosanctum Concilium, no. 59"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:o-batismo",
+      "slug": "o-batismo",
+      "titulo": "Baptism",
+      "categoria": "crisma",
+      "resumo": "The gateway to the Christian life and to the other sacraments: it wipes away original sin and makes the baptized a child of God and a member of the Church.",
+      "corpo": "The Catechism, in numbers 1213 to 1284, calls Baptism the \"gateway to life in the Spirit\" and the foundation of the whole Christian life, since without it no other sacrament can be validly received. Through Baptism the Christian is freed from sin, is reborn as a child of God, and becomes a member of Christ, incorporated into the Church.\n\nThe essential rite consists of immersing the candidate in water or pouring water on the head, with the invocation of the Most Holy Trinity: \"I baptize you in the name of the Father, and of the Son, and of the Holy Spirit\" (cf. Mt 28:19). Like Confirmation and Holy Orders, Baptism imprints on the soul an indelible spiritual character and therefore cannot be repeated.\n\nSaint Paul explains the deepest meaning of this sacrament: \"We were buried therefore with him by baptism into death, so that, just as Christ was raised from the dead [...], we too might walk in newness of life\" (Rom 6:4). Confirmation, normally celebrated after years of baptismal life, is precisely the sacrament that strengthens and brings to maturity this grace received at the beginning.",
+      "tags": [
+        "baptism",
+        "Christian initiation",
+        "original sin",
+        "divine sonship"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Pietro_Perugino_-_Baptism_of_Christ_-_Sistine_Chapel_-_cat13a.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1213-1284"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1213-1284",
+        "Mt 28:19",
+        "Rom 6:3-4"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:a-eucaristia-e-a-santa-missa",
+      "slug": "a-eucaristia-e-a-santa-missa",
+      "titulo": "The Eucharist and the Holy Mass",
+      "categoria": "crisma",
+      "resumo": "The sacrament in which Christ becomes truly present under the species of bread and wine, the \"source and summit\" of the whole Christian life.",
+      "corpo": "The Catechism, in numbers 1322 to 1419, teaches that the Eucharist is the \"source and summit of the Christian life\": in it is contained the whole spiritual good of the Church, namely Christ himself. At the Last Supper, Jesus instituted this sacrament when he said over the bread and the wine, \"This is my body... this is my blood,\" commanding the apostles: \"Do this in remembrance of me\" (Lk 22:19).\n\nThe Church believes and teaches that, through the consecration, the bread and wine truly become the Body and Blood of Christ, with only the appearances of bread and wine remaining, a change that tradition calls transubstantiation. Whoever receives communion is intimately united to Christ and is strengthened in charity and in the struggle against sin.\n\nNumbers 1345 to 1355 describe the structure of the Holy Mass, already recognizable from the first centuries: the gathering of the faithful, the reading of the Word of God, the homily, the presentation of the bread and wine, the Eucharistic prayer of consecration, and communion. Confirmation prepares the confirmand to take part in this celebration with greater awareness and frequency, as the summit of his or her Christian life.",
+      "tags": [
+        "Eucharist",
+        "Holy Mass",
+        "communion",
+        "Real Presence"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/43/BentoXVI-51-11052007_%28frag%29.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1322-1419",
+        "1345-1355"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1322-1419, 1345-1355",
+        "Lk 22:19",
+        "Jn 6:51"
+      ],
+      "imagem_credito": "Photo: Fabio Pozzebom/ABr (Agência Brasil) — Wikimedia Commons, CC BY 3.0 br"
+    },
+    {
+      "id": "crisma:a-reconciliacao-e-a-penitencia",
+      "slug": "a-reconciliacao-e-a-penitencia",
+      "titulo": "Reconciliation and Penance",
+      "categoria": "crisma",
+      "resumo": "The sacrament by which sins committed after Baptism are forgiven through confession and the priest's absolution.",
+      "corpo": "The Catechism, in numbers 1422 to 1498, presents this sacrament under several names that reveal its dimensions: the sacrament of conversion, of confession, of forgiveness, and of reconciliation, for it restores the sinner to communion with God and with the Church.\n\nIts foundation is in Christ himself, who, risen from the dead, said to the apostles: \"Receive the Holy Spirit. Whose sins you forgive are forgiven them\" (Jn 20:22-23), entrusting to the Church the power to forgive in his name, exercised by bishops and priests.\n\nThe acts of the penitent — examination of conscience, contrition, confession to the priest, and satisfaction (penance) — are united to absolution in order to fully restore the grace lost by grave sin and also to reconcile from venial sins. Confirmation catechesis returns to this sacrament so that the candidate for Confirmation, now capable of more mature moral discernment, may learn to turn to it regularly.",
+      "tags": [
+        "confession",
+        "forgiveness",
+        "penance",
+        "mercy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PL_Wwa%2C_kos_Krzyza%2C_konfesjonal%2C_2023.04.08%2C_fot_Ivonna_Nowicka_corr_3.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1422-1498"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1422-1498",
+        "Jn 20:22-23"
+      ],
+      "imagem_credito": "Photo: Ivonna Nowicka — Wikimedia Commons, CC BY-SA 4.0"
+    },
+    {
+      "id": "crisma:a-uncao-dos-enfermos",
+      "slug": "a-uncao-dos-enfermos",
+      "titulo": "The Anointing of the Sick",
+      "resumo": "A sacrament that comforts and strengthens the faithful who are gravely ill or elderly, uniting their suffering to that of Christ.",
+      "corpo": "The Catechism, in numbers 1499 to 1532, teaches that the Church received from Christ the mandate to care for the sick and expresses it sacramentally in the Anointing of the Sick, intended for those who begin to be in danger of death from illness or old age. It is one of the two sacraments called \"of healing,\" together with Penance, and its foundation is Jesus' own compassion for the sick, whose healings Scripture presents as a sign that the Kingdom of God has come with Him (CCC 1503-1505).\n\nThe biblical foundation is the Letter of James: \"Is any among you sick? Let him call for the elders of the church, and let them pray over him, anointing him with oil in the name of the Lord; and the prayer of faith will save the sick man, and the Lord will raise him up; and if he has committed sins, he will be forgiven\" (Jas 5:14-15). Tradition recognized in this rite one of the seven sacraments (CCC 1510). In the Roman rite, the matter is olive oil — or, according to circumstances, another oil of plant origin — duly blessed, and the form is the anointing of the forehead and hands with the prayer of the priest. The oil of the sick is blessed by the bishop, normally at the Chrism Mass on Holy Thursday, together with the oil of catechumens and the oil of holy Chrism.\n\nThe current name is a recent achievement: for centuries the sacrament was called \"Extreme Unction\" and was administered more and more exclusively to those who were about to die, which obscured its full meaning (CCC 1512). It was the Second Vatican Council that recovered the understanding of the first centuries. The Constitution Sacrosanctum Concilium, the first document promulgated by the Council, states in number 73: \"'Extreme unction,' which may also and more fittingly be called 'anointing of the sick,' is not a sacrament for those only who are at the point of death. Hence, as soon as any one of the faithful begins to be in danger of death from sickness or old age, the fitting time for him to receive the sacrament has certainly already arrived.\" The same document asked for a \"continuous rite,\" in which the anointing is given to the sick person after confession and before the reception of Viaticum (SC 74), and determined that the number of anointings be adapted to the circumstances (SC 75).\n\nThe reform was consolidated by the Apostolic Constitution Sacram Unctionem Infirmorum of Paul VI, dated November 30, 1972, which established the new formula: \"Through this holy anointing may the Lord in his love and mercy help you with the grace of the Holy Spirit. May the Lord who frees you from sin save you and raise you up\" (CCC 1513). The formula makes explicit that the grace conferred is the work of the Holy Spirit and that the sacrament is a remedy for soul and body; because of its penitential efficacy, it can supply for confession when confession is not possible.\n\nThis sacrament gives the sick person the grace of the Holy Spirit, which helps him to trust in God, strengthens him against the temptations of discouragement and anguish in the face of death, unites the sick person to the Passion of Christ and, when it is conducive to salvation, restores bodily health (CCC 1520-1523). Whoever is gravely ill should receive the sacrament whenever the illness worsens or recurs, and the faithful may receive it several times throughout life — unlike Baptism, Confirmation and Holy Orders, which imprint an indelible character. When the Anointing is administered to someone close to death, it is completed by the Eucharist, then called Viaticum (from the Latin viaticum, \"provisions for the journey\"), the Christian's last sacramental food at the passage from this life.",
+      "categoria": "crisma",
+      "tags": [
+        "anointing of the sick",
+        "illness",
+        "sacrament",
+        "sacrament of healing",
+        "Second Vatican Council",
+        "Paul VI",
+        "Viaticum"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Extreme_Unction_Rogier_Van_der_Weyden.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1499-1532 (esp. 1510-1513, 1520-1523)",
+        "Jas 5:14-15",
+        "Second Vatican Council, Constitution Sacrosanctum Concilium, nos. 73-75",
+        "Paul VI, Apostolic Constitution Sacram Unctionem Infirmorum, November 30, 1972"
+      ],
+      "atualizado_em": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1499-1532"
+      ]
+    },
+    {
+      "id": "crisma:o-sacramento-da-ordem",
+      "slug": "o-sacramento-da-ordem",
+      "titulo": "The Sacrament of Holy Orders",
+      "categoria": "crisma",
+      "resumo": "The sacrament through which the mission entrusted by Christ to the apostles continues to be exercised in the Church by bishops, priests, and deacons.",
+      "corpo": "The Catechism, in numbers 1536 to 1600, defines Holy Orders as the sacrament through which the mission entrusted by Christ to his apostles continues to be exercised in the Church until the end of time. It comprises three degrees: the episcopate (bishops), the presbyterate (priests), and the diaconate (deacons), each with its own functions in the service of the People of God.\n\nIts essential rite is the laying on of hands by the bishop upon the ordinand, accompanied by the consecratory prayer proper to each degree. Like Baptism and Confirmation, Holy Orders imprints an indelible spiritual character and therefore cannot be repeated.\n\nBishops, successors of the apostles, receive the fullness of the sacrament; priests are their co-workers, united with them in the priesthood and in the mission of teaching, sanctifying, and governing; deacons are ordained for service, above all that of charity and the liturgy. Confirmation catechesis presents this sacrament among the «sacraments at the service of communion», since it is through it that the Church continues to have those who preside over the other sacraments.",
+      "tags": [
+        "holy orders",
+        "priesthood",
+        "bishop",
+        "deacon"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Nicolas_Poussin_-_The_Sacrament_of_Ordination_%28Christ_Presenting_the_Keys_to_Saint_Peter%29_-_Google_Art_Project.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1536-1600"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1536-1600",
+        "Lk 22:19",
+        "Acts 6:6"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:o-matrimonio",
+      "slug": "o-matrimonio",
+      "titulo": "Marriage",
+      "categoria": "crisma",
+      "resumo": "A covenant by which a man and a woman establish between themselves a partnership of life and love, ordered to the good of the spouses and the procreation of children.",
+      "corpo": "The Catechism, in numbers 1601 to 1666, teaches that the matrimonial covenant, by which a man and a woman establish between themselves a partnership of the whole of life, was created and ordered by God for the good of the spouses and for the procreation and education of children; between the baptized, this covenant has been raised by Christ to the dignity of a sacrament.\n\nThe free consent of the engaged couple, expressed publicly before the Church, is the element that makes the marriage: \"So they are no longer two, but one flesh\" (Mt 19:6). This consent establishes a single and indissoluble covenant, open to life.\n\nConjugal love is called to reflect Christ's love for the Church: \"Husbands, love your wives, as Christ loved the Church\" (Eph 5:25). The Confirmation catechesis presents Marriage among the sacraments at the service of communion, as one of the concrete vocations to which the confirmand may, in the future, discern being called.",
+      "tags": [
+        "marriage",
+        "family",
+        "covenant",
+        "conjugal fidelity"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Wedding_rings.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1601-1666"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1601-1666",
+        "Mt 19:6",
+        "Eph 5:25"
+      ],
+      "imagem_credito": "Photo: Jeff Belmonte from Cuiabá, Brazil — Wikimedia Commons, CC BY 2.0"
+    },
+    {
+      "id": "crisma:o-espirito-santo-na-vida-sacramental-da-igreja",
+      "slug": "o-espirito-santo-na-vida-sacramental-da-igreja",
+      "titulo": "The Holy Spirit in the Sacramental Life of the Church",
+      "categoria": "crisma",
+      "resumo": "The Holy Spirit's own action in every liturgical celebration, making the mystery of Christ present and effective in the sacraments.",
+      "corpo": "The Catechism, in nos. 1091 to 1109, teaches that in every liturgical action the Holy Spirit is sent to accomplish what the Word proclaims: he prepares the assembly to encounter Christ, recalls and manifests the mystery of Christ to it, makes this mystery present and actual, and unites the Church to the life and mission of Christ.\n\nThis action finds its most visible expression in the epiclesis — the invocation of the Holy Spirit upon the assembly, the gifts, and the ministers — present in all the sacraments: it is the Spirit who, when invoked, makes the bread and wine the Body and Blood of Christ, who consecrates the oil of chrism, who makes every absolution and every anointing effective.\n\nJust as Jesus, after his resurrection, breathed on the apostles saying \"Receive the Holy Spirit\" (Jn 20:22), each sacrament is an occasion of a new gift of the same Spirit, given in a culminating way in Confirmation, whose very rite, by anointing the forehead of the confirmand with holy chrism, visibly expresses this outpouring.",
+      "tags": [
+        "Holy Spirit",
+        "liturgy",
+        "sacraments",
+        "epiclesis"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1091-1109"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1091-1109",
+        "Jn 20:22"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:o-padrinho-e-a-madrinha-de-crisma",
+      "slug": "o-padrinho-e-a-madrinha-de-crisma",
+      "titulo": "The Sponsor in Confirmation (Godfather and Godmother)",
+      "categoria": "crisma",
+      "resumo": "The one who accompanies the candidate before and after the celebration, helping him or her to live in accord with the faith received and to persevere in the Christian life.",
+      "corpo": "The Catechism, in number 1311, teaches that, in order to receive Confirmation, it is appropriate to have a sponsor, whose role is to take care that the confirmand behaves as a true witness of Christ and faithfully fulfills the obligations connected with this sacrament. For this reason the Church recommends that, whenever possible, the same godfather or godmother as at Baptism be sought, in order to preserve the unity of this mission.\n\nNumbers 1309 and 1310 also recall that preparation for Confirmation should lead the candidate to a more intimate union with Christ and a greater familiarity with the Holy Spirit — his gifts and his action — and awakens a sense of belonging to the Church, both universal and parochial. It is along this path that the role of the sponsor is concretely exercised.\n\nMore than a title of honor, the sponsor takes on, before God and the community, a commitment: to accompany the candidate with a witness of faith and spiritual friendship, especially in the years following the celebration, when the young Christian's life choices begin to mature.",
+      "tags": [
+        "godfather",
+        "godmother",
+        "confirmation",
+        "spiritual accompaniment"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pietro_Longhi%2C_Confirmationis_Sacramentum.png",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1309-1311"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1309-1311",
+        "Paul VI, Apostolic Constitution «Divinae consortium naturae» (1971)"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:os-simbolos-do-rito-da-confirmacao",
+      "slug": "os-simbolos-do-rito-da-confirmacao",
+      "titulo": "The Symbols of the Rite of Confirmation",
+      "categoria": "crisma",
+      "resumo": "The oil of holy chrism and the laying on of hands, signs by which the bishop conveys the gift of the Holy Spirit to the person being confirmed.",
+      "corpo": "The Catechism, in nos. 1293 to 1301, explains the meaning of the signs used in the celebration of Confirmation. Anointing with oil has, in Sacred Scripture and in ancient tradition, a rich meaning: it signifies abundance, joy, healing, the strengthening of the muscles of athletes and wrestlers, and a sign of beauty, health and strength.\n\nThe oil used specifically is holy chrism, oil mixed with balsam, consecrated by the bishop, usually at the Chrism Mass on Holy Thursday, and therefore reserved solely for this use. To anoint someone with it means to mark them with the \"seal\" of the Holy Spirit, a sign of belonging to Christ, of promised fidelity and of mission received (cf. Acts 8:17, where the apostles laid their hands on them and the Holy Spirit was given).\n\nNos. 1312 to 1314 recall that the original minister of this rite is the Bishop, successor of the apostles, which manifests the bond of the person being confirmed with the apostolic and universal Church; in circumstances determined by the law of the Church, the bishop may grant a priest the faculty to administer this sacrament.",
+      "tags": [
+        "chrism",
+        "laying on of hands",
+        "bishop",
+        "rite of confirmation"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pietro_Longhi%2C_Confirmationis_Sacramentum.png",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1293-1301",
+        "1312-1314"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1293-1301, 1312-1314",
+        "Acts 8:17"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:as-formas-da-oracao-crista",
+      "slug": "as-formas-da-oracao-crista",
+      "titulo": "The Forms of Christian Prayer",
+      "categoria": "crisma",
+      "resumo": "Vocal prayer, meditation, and contemplation: the three main expressions by which Christians unite themselves to God in faith.",
+      "corpo": "The Catechism, in nos. 2700 to 2724, presents three major forms of prayer, all present in the lives of the saints and recommended by Tradition. Vocal prayer joins the body to the interior prayer of the heart, giving it words — from the simplest formulas to the great prayers of the liturgy — and it is indispensable even for those who have already attained higher degrees of prayer.\n\nMeditation is a quest: it engages thought, imagination, emotion, and desire, in order to deepen faith, convert the heart, and strengthen the will to follow Christ, often taking as its support the reading of Scripture or of spiritual texts.\n\nContemplation, for its part, is defined by the Catechism, following Saint Teresa of Avila, as «a gaze of faith fixed on Jesus», a time of silence and love before God, without many words. The three forms are not mutually exclusive: they fulfill Saint Paul's command — «pray without ceasing» (1 Thess 5:17) —, a goal that Confirmation catechesis sets before the confirmand as a journey to be traveled, and not as a point of arrival.",
+      "tags": [
+        "prayer",
+        "meditation",
+        "contemplation",
+        "spiritual life"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/EliseuVisconti-P978-Prece.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "2700-2724"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 2700-2724",
+        "1 Thess 5:17"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:o-pai-nosso",
+      "slug": "o-pai-nosso",
+      "titulo": "The Our Father in the Christian Life",
+      "categoria": "crisma",
+      "resumo": "The prayer that Jesus himself taught his disciples, a summary of the whole Gospel, prayed at the center of the Church's liturgy.",
+      "corpo": "The Catechism, in numbers 2759 to 2865, calls the Our Father the «summary of the whole Gospel», the perfect prayer taught by Jesus when the disciples asked him: «Lord, teach us to pray» (Lk 11:1). Composed of seven petitions, it is directed first to the glory of the Father — his name, his Kingdom, his will — and then to human needs — daily bread, forgiveness, and protection from temptation and evil.\n\nBy calling God «Father», the Christian recognizes himself as an adopted child, able to address him with the same filial trust as Jesus; the word «our» reminds us that this prayer is never made in an individualistic way, but always in communion with the whole Church and with all humanity.\n\nFor this reason the Our Father holds a central place in the liturgy: it is prayed at every Mass, before communion, and at many other sacramental moments and in personal prayer. Confirmation catechesis takes up this prayer again so that the confirmand may understand it not only by heart, but in its theological and spiritual meaning.",
+      "tags": [
+        "Our Father",
+        "prayer",
+        "liturgy",
+        "Gospel"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Jerusalem_Pater_Noster_Chapel_-_Carmelite_sisters_-_Mount_of_Olives_%286036441316%29.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "2759-2865"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 2759-2865",
+        "Mt 6:9-13",
+        "Lk 11:2-4"
+      ],
+      "imagem_credito": "Photo: brionv from San Francisco, United States — Wikimedia Commons, CC BY-SA 2.0"
+    },
+    {
+      "id": "crisma:o-primeiro-mandamento",
+      "slug": "o-primeiro-mandamento",
+      "titulo": "The First Commandment: Loving God Above All Things",
+      "resumo": "To adore God alone by the virtue of religion, distinguishing latria, dulia and hyperdulia, and to avoid idolatry and superstition.",
+      "corpo": "The Catechism, in numbers 2084 to 2141, explains the first commandment — \"I am the Lord your God [...] you shall have no other gods before me\" (Ex 20:2-3) — as the foundation of all the others. The text opens by recalling not a prohibition, but an action of God: \"I am the one who brought you out of the land of Egypt, out of the house of slavery\" (Dt 5:6); the commandment arises from a God who first liberates and then asks for fidelity. The Catechism classifies the central requirement as belonging to the virtue of religion, which disposes man to acknowledge God as Creator and Lord and to render him the worship due to him (CCC 2084-2086, 2095-2096).\n\nThe rigorous Catholic tradition distinguishes three degrees of worship, a distinction the Catechism takes up: latria (adoration), owed exclusively to God — \"Adoration is the first act of the virtue of religion,\" teaches CCC 2096 —; dulia (veneration), rendered to the saints and angels, by reason of God's grace in them; and hyperdulia, a singular veneration reserved to the Virgin Mary for her unique mission as Mother of God. This difference is not a late scholastic refinement, but the key to understanding why honor given to images and to the saints does not constitute idolatry: the honor paid to an image passes to the prototype it represents, and not to the material thing as such (CCC 2131-2132). The Catechism also recalls that \"the veneration of sacred images is based on the mystery of the Incarnation of the Word of God. It is not contrary to the first commandment\" (CCC 2141).\n\nOpposed to this commandment are, on the one hand, sins by deficiency of religion — unbelief, heresy, apostasy, schism and despair — and, on the other, sins by deformed excess, such as superstition, idolatry — putting creatures, idols or powers in the place of God — and magic or divination (CCC 2110-2117). The Catechism is precise in describing superstition: it is the deviation that can affect even legitimate practices, for example when an efficacy that is \"in some way magical\" is attributed to prayers or sacramental signs, independently of the interior dispositions (CCC 2111). Idolatry, for its part, condemns above all polytheism: Sacred Scripture rejects it as worship of \"the work of human hands\" (cf. Ps 115:4-5).\n\nThere is also a historical point that the Catechism records: the division and numbering of the commandments have varied throughout history. The current text follows the division established by Saint Augustine, who grouped Ex 20:3-6 into a single commandment and split Ex 20:17 into two (against coveting one's neighbor's wife and against other forms of covetousness) — a division that is also that of the Lutheran confessions. The Greek Fathers made a different division, followed in the Orthodox Churches and in the Reformed communities (CCC 2066). This means that what Catholics call the \"first commandment\" corresponds, for example, to the first two in a Protestant numbering. CCC 2067 observes that the first three commandments refer more to the love of God and the following seven to the love of neighbor, and that the words of the Decalogue, far from being abolished, \"received amplification and development\" with the coming of Christ.\n\nJesus himself summed up this commandment by quoting the Book of Deuteronomy — \"You shall love the Lord your God with all your heart, and with all your soul, and with all your mind. This is the great and first commandment\" (Mt 22:37-38, cf. Dt 6:5) — and rebuffed the temptation in the desert by answering with the exclusive adoration of God: \"You shall worship the Lord your God and him only shall you serve\" (Mt 4:10). On this foundation the Confirmation catechesis builds its whole understanding of the Christian moral life.",
+      "categoria": "crisma",
+      "tags": [
+        "commandments",
+        "Decalogue",
+        "idolatry",
+        "adoration of God",
+        "latria",
+        "virtue of religion",
+        "Saint Augustine"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/GoldCalf.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 2084-2141 (esp. 2066-2067, 2096, 2110-2117, 2141)",
+        "Ex 20:2-6",
+        "Dt 5:6; Dt 6:4-5",
+        "Mt 4:10; Mt 22:37-40"
+      ],
+      "atualizado_em": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "2084-2141"
+      ]
+    },
+    {
+      "id": "crisma:o-segundo-mandamento",
+      "slug": "o-segundo-mandamento",
+      "titulo": "The Second Commandment: Respecting the Name of God",
+      "categoria": "crisma",
+      "resumo": "Using God's name with reverence, avoiding blasphemy, false or unnecessary oaths, and every abuse of the sacred.",
+      "corpo": "The Catechism, in numbers 2142 to 2167, teaches that the second commandment — \"You shall not take the name of the Lord your God in vain\" (Ex 20:7) — calls for respect for the name of God, which in biblical faith reveals the very identity and presence of the one who bears it.\n\nBlasphemy (words of hatred, reproach, or defiance against God), a false oath or one taken lightly, and the misuse of God's name for magical or manipulative purposes all sin against this commandment. The name of Jesus, of Mary, and of the saints also deserves this same respect.\n\nThe Catechism also recalls that Christians receive their own name in Baptism, often that of a saint, who becomes a protector and a model of charity; and that God's name is sanctified in the world above all by the holy life of Christians, a truth that Confirmation catechesis associates with the first petition of the Our Father, \"hallowed be thy name.\"",
+      "tags": [
+        "name of God",
+        "blasphemy",
+        "oath",
+        "reverence"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Decalogue_parchment_by_Jekuthiel_Sofer_1768.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "2142-2167"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 2142-2167",
+        "Ex 20:7"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:o-terceiro-mandamento",
+      "slug": "o-terceiro-mandamento",
+      "titulo": "The Third Commandment: Keeping the Lord's Day Holy",
+      "resumo": "Keeping Sunday as the Lord's Day by taking part in Mass and living rest as a sign of the freedom of the children of God.",
+      "corpo": "The Catechism, in nos. 2168 to 2195, explains that the third commandment — \"Remember the sabbath day, to keep it holy\" (Ex 20:8) — gathers up the biblical precept of the Sabbath rest and transfers it, in the Christian tradition, to Sunday, the day on which Christ rose from the dead. The reason for the change is theological and not merely disciplinary: Sunday (from the Latin dies dominica, \"the Lord's day\") is the weekly Easter, the living memorial of the Resurrection.\n\nThe oldest testimony to this practice dates from the middle of the second century. In his First Apology, Saint Justin Martyr († c. 165) describes: \"On the day called the day of the sun, all who live in cities or in the country gather together in one place, and the memoirs of the Apostles or the writings of the Prophets are read... and the Eucharist is distributed and received.\" Sunday does not arise, therefore, from a late decision, but from the apostolic awareness that Easter fulfills the Sabbath.\n\nThe Catechism (nos. 2180-2181) specifies the duty of the Eucharistic precept: \"On Sundays and other holy days of obligation, the faithful are bound to participate in the Mass,\" and \"those who deliberately fail in this obligation commit a grave sin.\" The Code of Canon Law (can. 1247) confirms the same norm as universal law, and the Code of Canons of the Eastern Churches (can. 881 § 1) prescribes an analogous obligation for the Divine Liturgy. The duty also falls upon Pastors, who must \"offer everyone the effective possibility of fulfilling the precept.\"\n\nThe doctrine was taken up systematically by Pope John Paul II in the Apostolic Letter Dies Domini, of May 31, 1998, on keeping the Lord's Day holy. In it the Pope distinguishes three dimensions of the day: Sunday is the \"primordial feast\" that reveals the meaning of time and the Resurrection of Christ, it is the day of the Eucharistic assembly — the \"heart of Sunday\" — and it is the day of solidarity and rest. He further insists that Sunday should not be experienced merely as a precept, but as a requirement inscribed in Christian existence: one \"cannot live out one's faith, in full participation in the life of the Christian community, without regularly taking part in the Sunday Eucharistic assembly.\"\n\nSunday rest, therefore, is neither mere physical rest nor a simple interruption of work, but an expression of the freedom of the children of God: time given for family life, culture, charity and above all prayer. It is in this sense that Confirmation catechesis insists on the confirmand's regular participation in Sunday Mass, as a concrete sign of belonging to the community of the baptized.",
+      "categoria": "crisma",
+      "tags": [
+        "Sunday",
+        "Lord's Day",
+        "Sunday rest",
+        "Sunday Mass",
+        "Dies Domini",
+        "Eucharistic precept",
+        "Justin Martyr"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/IteMissaEst.jpg",
+      "imagem_credito": "Photo by Lumen roma, 2008 (CC BY 3.0)",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 2168-2195 and 2180-2181",
+        "Ex 20:8-11",
+        "John Paul II, Apostolic Letter Dies Domini (May 31, 1998)",
+        "Saint Justin Martyr, First Apology, 67",
+        "Code of Canon Law, can. 1247"
+      ],
+      "atualizado_em": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "2168-2195"
+      ]
+    },
+    {
+      "id": "crisma:o-quarto-mandamento",
+      "slug": "o-quarto-mandamento",
+      "titulo": "The Fourth Commandment: Honor Your Father and Mother",
+      "categoria": "crisma",
+      "resumo": "The reciprocal duties between parents and children, and the respect also owed to the other legitimate forms of authority.",
+      "corpo": "The Catechism, in nos. 2197 to 2257, teaches that the fourth commandment — \"Honor your father and your mother\" (Ex 20:12) — governs the closest relationships of human communion and asks children for respect, gratitude, just obedience, and assistance to their parents, especially in sickness and old age.\n\nBy extension, the Catechism applies this commandment to every legitimate relationship of authority within the human community: between students and teachers, employees and employers, citizens and their country. Civil authority, when exercised with respect for human dignity and the common good, also deserves obedience, within the limits of the moral law.\n\nParents, for their part, have the grave duty to care for the human and Christian education of their children, being the first persons responsible for them and their first educators in the faith, a duty that Confirmation catechesis explicitly recognizes by counting on the collaboration of the family in the preparation of the confirmand.",
+      "tags": [
+        "family",
+        "authority",
+        "obedience",
+        "education"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sagrada_Familia_del_pajarito_%28Murillo%29.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "2197-2257"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 2197-2257",
+        "Ex 20:12"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:o-quinto-mandamento",
+      "slug": "o-quinto-mandamento",
+      "titulo": "The Fifth Commandment: You Shall Not Kill",
+      "resumo": "The respect owed to human life, from conception to natural death, and to the health and dignity of every person, according to the Catechism (nos. 2258-2330).",
+      "corpo": "The Catechism of the Catholic Church treats the fifth commandment in numbers 2258 to 2330, opening the section with the affirmation that human life is sacred from its beginning to its natural end, because it involves the creative action of God and remains forever in a special relationship with Him, \"who is the sole Lord of life.\" Saint John Paul II takes up this same formulation in the encyclical Evangelium vitae (1995), no. 53, linking it to Genesis 1 and to the commandment \"You shall not kill\" (Ex 20:13; Deut 5:17). The biblical commandment is therefore read in the light of the creation of man in the image of God and of his vocation to eternal communion — which grounds the inviolability of every human life, including that of the criminal.\n\nThe conciliar text and the Catechism organize the subject around direct and voluntary homicide (no. 2268), which forbids killing as gravely sinful and names as especially grave crimes infanticide, fratricide, parricide, and the murder of a spouse — without \"concerns of eugenics or public hygiene\" being able to justify any homicide. No. 2269 further forbids indirectly causing death, obliging one to help those in danger and describing the acceptance of deadly famines as a \"scandalous injustice\" and a grave sin. From this principle derive the teachings on direct abortion (nos. 2270-2273), which the Church punishes with the canonical penalty of excommunication, and on the defense of the embryo, which \"must be treated as a person from conception\"; on euthanasia (no. 2324), defined as homicide \"gravely contrary to the dignity of the human person\"; and on suicide (nos. 2280-2283), which is contrary to justice, hope, and charity.\n\nThe excommunication attached to abortion is not a metaphor: the 1983 Code of Canon Law, in canon 1398, determines that \"a person who procures a completed abortion incurs a latae sententiae excommunication\" — an automatic penalty, applied at the very moment of the offense, without need of a declaratory sentence. It reaches all who cooperate materially or morally in the procedure, although canon 1324 provides for mitigation in circumstances such as coercion by grave fear. The same section of the Catechism deals with legitimate defense, which is lawful provided that the means employed is proportionate and is not deliberately directed against the aggressor, and with capital punishment.\n\nConcerning the latter, there has been a recent and much-discussed doctrinal change. The earlier text of no. 2267 admitted recourse to the death penalty as \"an acceptable, though extreme, means for the protection of the common good.\" On August 2, 2018, Pope Francis approved, by means of a rescript, a new wording (the text was approved at the audience of May 11, 2018 granted to the then prefect of the Congregation for the Doctrine of the Faith, Cardinal Luis Ladaria). The new version teaches that \"the death penalty is inadmissible because it is an attack on the inviolability and dignity of the person,\" and the Church \"works with determination for its abolition worldwide.\" In the letter to the bishops, Cardinal Ladaria presented the text as an \"authentic development of doctrine,\" not a contradiction of the earlier Magisterium. The formulation did not escape controversy: some theologians and prelates contested the change, questioning its coherence with traditional teaching, which shows how the fifth commandment continues to be the subject of lively theological debate.\n\nThe commandment also requires, according to the Catechism, care for one's own health and that of others, respect for the bodies of the deceased, and the building of peace, avoiding anger, hatred, scandal, and violence, and it condemns war except under the conditions of legitimate defense. For Confirmation catechesis, the fifth commandment is presented as the foundation of all Christian social ethics: it starts from concrete personal decisions of the young confirmand (respect for one's own life and that of one's neighbor) and extends to the great questions of justice that the Church faces in the contemporary world.",
+      "categoria": "crisma",
+      "tags": [
+        "human life",
+        "dignity of the person",
+        "respect for life",
+        "abortion",
+        "euthanasia",
+        "death penalty",
+        "Evangelium vitae",
+        "commandments"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Cain_leadeth_abel_to_death_tissot.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 2258-2330 (Portuguese edition, vatican.va)",
+        "Catechism of the Catholic Church, nos. 2268, 2269, 2270-2273, 2323-2327",
+        "Ex 20:13; Deut 5:17",
+        "John Paul II, Encyclical Evangelium vitae (1995), nos. 53-55",
+        "Code of Canon Law (1983), canons 1398 and 1324",
+        "Rescript of Pope Francis and new wording of no. 2267 of the CCC (August 2, 2018); letter of Cardinal Luis Ladaria to the bishops"
+      ],
+      "atualizado_em": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "2258-2330"
+      ]
+    },
+    {
+      "id": "crisma:o-sexto-mandamento",
+      "slug": "o-sexto-mandamento",
+      "titulo": "The Sixth Commandment: You Shall Not Commit Adultery",
+      "categoria": "crisma",
+      "resumo": "Chastity as the virtue that integrates human sexuality into the person, and the fidelity owed to the marriage bond.",
+      "corpo": "The Catechism, in numbers 2331 to 2400, teaches that human sexuality touches the most intimate dimensions of the person and of the couple, and that God created it as a good to be lived with respect for one's own dignity and that of others, within the total gift of self expressed in marriage.\n\nThe sixth commandment — \"You shall not commit adultery\" (Ex 20:14) — protects above all conjugal fidelity, but the tradition of the Church understands it more broadly as a call to chastity, a virtue that harmoniously integrates sexuality into the whole person, whether in marriage or in the celibate or single life.\n\nChastity is not the absence of sexuality, but an interior mastery that is learned progressively, with the grace of God and personal effort, aided by friendship, prayer and the sacraments — a concrete challenge that Confirmation catechesis proposes to the young candidate for Confirmation as a path of freedom and affective maturity.",
+      "tags": [
+        "chastity",
+        "marriage",
+        "conjugal fidelity",
+        "sexuality"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Wedding_rings.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "2331-2400"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 2331-2400",
+        "Ex 20:14"
+      ],
+      "imagem_credito": "Photo: Jeff Belmonte from Cuiabá, Brazil — Wikimedia Commons, CC BY 2.0"
+    },
+    {
+      "id": "crisma:o-setimo-mandamento",
+      "slug": "o-setimo-mandamento",
+      "titulo": "The Seventh Commandment: You Shall Not Steal",
+      "resumo": "Respect for the goods of others and for legitimate property, ordered to the universal destination of goods, to social justice, and to a just wage.",
+      "corpo": "The Catechism, in numbers 2401 to 2463, explains that the seventh commandment — \"You shall not steal\" (Ex 20:15) — forbids unjustly taking or keeping the goods of one's neighbor and prescribes the practice of justice and charity in the management of earthly goods and the fruits of human labor (CCC 2401, 2451). Theft is precisely defined as \"the usurpation of another's property against the reasonable will of the owner\" (CCC 2453); but the Catechism distinguishes theft from what is not theft: there is no theft if consent can be presumed or if refusal is contrary to reason and the universal destination of goods, as in the case of urgent and obvious necessity, where the only way to provide for immediate, essential needs — food, shelter, clothing — is to dispose of and use another's property (CCC 2408).\n\nThe Catechism lists what violates this commandment: deliberately keeping goods lent or objects lost; committing fraud in business; paying unjust wages; raising prices by taking advantage of the ignorance or hardship of others; speculation by which the value of goods is artificially manipulated in order to gain an advantage to the detriment of others; and corruption that influences the judgment of those who must make legal decisions (CCC 2409). It also stresses that creation was given by God to all humanity: \"the goods of creation are destined for the entire human race. The right to private property does not abolish the universal destination of goods\" (CCC 2452). Legitimate property is protected, but subordinated to the common good: whoever possesses more has a special responsibility to share.\n\nThis teaching belongs to the Church's Social Doctrine, inaugurated by the encyclical Rerum Novarum of Leo XIII, published on May 15, 1891, in response to the Industrial Revolution and the labor question. Leo XIII affirmed that \"private ownership is a natural right of man\" (RN 5), but rejected both socialism, which proposed the abolition of private property, and unregulated capitalism, which exploited workers. From Rerum Novarum comes the principle of the just wage: the worker should not receive less than what is sufficient to support himself, his wife, and his children (cf. RN 45). The Second Vatican Council took up the theme in the Constitution Gaudium et Spes (1965), which treats \"earthly goods as destined for all\" (GS 69) and recalls that \"whatever the forms of ownership may be, one must always pay attention to this universal destination of goods\" (GS 69). John Paul II deepened it in Laborem Exercens (1981), insisting that human labor has priority over capital and that the person is the subject, and not the instrument, of work.\n\nThe seventh commandment therefore includes demands that go beyond individual theft: the duty to work honestly, to practice social justice, to respect the integrity of creation, and to practice sobriety. Confirmation catechesis takes up these principles by proposing to the confirmand a sober and supportive way of life, attentive to the doctrine of the universal destination of goods and to the principle that material goods are means, and not ends, of the human vocation.",
+      "categoria": "crisma",
+      "tags": [
+        "social justice",
+        "property",
+        "common good",
+        "solidarity",
+        "universal destination of goods",
+        "just wage",
+        "usury",
+        "social doctrine of the Church"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Rembrandt_Harmensz._van_Rijn_079.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 2401-2463 (esp. 2401, 2409, 2451-2454)",
+        "Ex 20:15",
+        "Leo XIII, Encyclical Rerum Novarum, May 15, 1891 (esp. nos. 5 and 45)",
+        "Second Vatican Council, Pastoral Constitution Gaudium et Spes, December 7, 1965 (no. 69)",
+        "John Paul II, Encyclical Laborem Exercens, September 14, 1981"
+      ],
+      "atualizado_em": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "2401-2463"
+      ]
+    },
+    {
+      "id": "crisma:o-oitavo-mandamento",
+      "slug": "o-oitavo-mandamento",
+      "titulo": "The Eighth Commandment: You Shall Not Bear False Witness",
+      "resumo": "The commitment to truth, honesty, and respect for people's reputation, honor, and privacy, with decisive applications in the use of digital networks.",
+      "corpo": "The Catechism, in nos. 2464 to 2513, teaches that the eighth commandment — \"You shall not bear false witness against your neighbor\" (Ex 20:16) — forbids misrepresenting the truth in our relations with others. This moral prescription flows from the vocation of the people of God to bear witness to the God who is the truth and wills the truth (CCC 2464). The Deuteronomic form of the commandment is more developed: \"Neither shall you bear false witness against your neighbor\" (Dt 5:20), placing it in the context of a covenant that demands truthfulness in words and deeds.\n\nThe Catechism carefully distinguishes offenses against the truth. A person is guilty of \"false witness\" who, in court, states the contrary of the truth; of \"perjury\" who does so under oath (CCC 2476). In the broader sphere of daily life, CCC 2477 distinguishes: rash judgment, when one assumes as true, without sufficient foundation, the moral fault of a neighbor; detraction, when one, without objectively valid reason, discloses another's faults and failings to persons who did not know them; and calumny, when, by remarks contrary to the truth, one harms the reputation of others and gives occasion for false judgments concerning them. The Catechism recalls that everything done against the truth is also an offense against the right to honor, a good \"more precious than riches\" (CCC 2479). Against rash judgment, it prescribes a favorable interpretation of the neighbor: \"Every good Christian ought to be more ready to give a favorable interpretation to another's statement than to condemn it\" (CCC 2478, following Saint Ignatius of Loyola).\n\nThe Catechism also protects the keeping of confidences. The sacramental seal of Reconciliation \"is inviolable; accordingly, it is a crime for a confessor in any way to betray a penitent by word or in any manner and for any reason\" (CCC 2490, citing the Code of Canon Law). Professional secrets — known, for example, to physicians, jurists, or politicians — must likewise be kept, except in exceptional cases where keeping the secret would cause very grave harm that can be avoided only by revealing the truth (CCC 2491).\n\nThe Magisterium's entry into the subject of the media is explicit: the Decree Inter Mirifica of the Second Vatican Council, promulgated by Paul VI on December 4, 1963, was the first conciliar document to deal with the press, cinema, radio, and television, affirming society's right to information based on truth, freedom, and justice (CCC 2512). The Catechism concludes the article by linking truth to beauty: the fine arts, and above all sacred art, should evoke and glorify the mystery of God revealed in Christ (CCC 2513). Applied today to digital networks — where false information can harm a person's reputation within minutes and reach an immense audience — the commandment asks the confirmand for sobriety in speech, responsibility in sharing, and active refusal of online defamation.",
+      "categoria": "crisma",
+      "tags": [
+        "truth",
+        "honesty",
+        "reputation",
+        "calumny",
+        "defamation",
+        "rash judgment",
+        "sacramental seal",
+        "social communication",
+        "false witness"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Rembrandt_Harmensz._van_Rijn_079.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 2464-2513 (esp. 2464, 2475-2479, 2489-2491, 2504-2513)",
+        "Ex 20:16",
+        "Dt 5:20",
+        "Second Vatican Council, Decree Inter Mirifica on the Means of Social Communication, December 4, 1963",
+        "Compendium of the Catechism of the Catholic Church, nos. 521-526"
+      ],
+      "atualizado_em": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "2464-2513"
+      ]
+    },
+    {
+      "id": "crisma:o-nono-mandamento",
+      "slug": "o-nono-mandamento",
+      "titulo": "The Ninth Commandment: You Shall Not Covet Your Neighbor's Wife",
+      "resumo": "The purification of the heart and the fight against carnal concupiscence, a condition for living chastity in its fullness and for \"seeing God.\"",
+      "corpo": "The Catechism, in numbers 2514 to 2533, teaches that the ninth commandment asks for the purification of the heart and combats the concupiscence of the flesh: it is not enough to avoid external sin; one must keep watch over the thoughts and desires that precede it. The starting point is the Johannine distinction of the three kinds of covetousness or concupiscence: \"the lust of the flesh, the lust of the eyes, and the pride of life\" (1 Jn 2:16). According to the Catholic catechetical tradition, the ninth commandment forbids carnal concupiscence, while the tenth has as its object the coveting of the goods of others (CCC 2514). It is worth noting that, etymologically, \"concupiscence\" can designate every vehement form of human desire; it is not in itself a sin, but a disordered tendency that becomes sinful when it is consented to (CCC 2515).\n\nThe foundation is the word of Jesus: \"Everyone who looks at a woman with lust has already committed adultery with her in his heart\" (Mt 5:28). The battle for purity is therefore fought first in the interior of the person, and the Catechism summarizes it in the formula \"the struggle against carnal covetousness entails purifying the heart and practicing temperance\" (CCC 2530). Saint John presents purity of heart as a condition for the vision of God: the pure of heart \"shall see God\" (cf. Mt 5:8), and from now on they see all things according to God (CCC 2519, 2531).\n\nThe means of this purification are concrete and listed by the Catechism: prayer, the practice of chastity, which is a virtue and a gift of God, purity of intention and of outward and inward vision, and the discipline of the senses and the imagination (CCC 2520, 2532). The Compendium adds that the baptized person, with the grace of God, in struggle against disordered desires, attains purity of heart by these paths (Compendium, no. 529). Associated with this purification is modesty, which \"protects the intimate center of the person\" and is patience, decency, and discretion in speech, dress, and action (CCC 2521-2523, 2533).\n\nConfirmation catechesis treats this commandment as a continuation of the sixth, insisting that chastity is the fruit of continuous interior work and not of a single decision; it does not deny the value of human attraction, but orders the affections according to each person's own vocation: to marriage, to consecrated life, or to celibacy. In societies saturated with images and erotic stimuli, the ninth commandment recalls that purity is also built socially, requiring a purification of customs and responsibility on the part of those who produce and spread content.",
+      "categoria": "crisma",
+      "tags": [
+        "purity of heart",
+        "chastity",
+        "concupiscence",
+        "disordered desire",
+        "modesty",
+        "temperance",
+        "sixth commandment"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Rembrandt_Harmensz._van_Rijn_079.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 2514-2533 (esp. 2514-2515, 2519-2523, 2528-2533)",
+        "Ex 20:17",
+        "Dt 5:21",
+        "Mt 5:8",
+        "Mt 5:28",
+        "1 Jn 2:16",
+        "Compendium of the Catechism of the Catholic Church, nos. 527-530"
+      ],
+      "atualizado_em": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "2514-2533"
+      ]
+    },
+    {
+      "id": "crisma:o-decimo-mandamento",
+      "slug": "o-decimo-mandamento",
+      "titulo": "The Tenth Commandment: You Shall Not Covet Your Neighbor's Goods",
+      "resumo": "Detachment of the heart from material goods, poverty of spirit, and the struggle against covetousness and envy as a path to interior freedom.",
+      "corpo": "The Catechism, in nos. 2534 to 2557, explains that the tenth commandment completes the ninth: whereas the ninth concerns concupiscence of the flesh, the tenth forbids coveting the goods of others, the \"root of the theft, robbery, and fraud\" forbidden by the seventh commandment (CCC 2534). The biblical text — \"You shall not covet your neighbor's house; ... or his ox, or his ass, or anything that is your neighbor's\" (Ex 20:17) — is inscribed on the two tablets of the Law, and the catechetical tradition has already distinguished, following Saint John, three kinds of concupiscence: \"the lust of the flesh, the lust of the eyes, and the pride of life\" (1 Jn 2:16), present in CCC 2514.\n\nThe distinction from the preceding commandment is precise: the ninth forbids disordered desire for the person of one's neighbor; the tenth, disordered desire for his things. The Catechism observes that covetousness, \"like fornication, has its origin in idolatry,\" prohibited in the first three prescriptions of the Law (CCC 2534) — that is, disordered attachment to money conceals a false worship. For this reason no. 2536 condemns \"greed and the desire for an immoderate appropriation of earthly goods\" and \"unrestrained avarice, born of the immoderate passion for riches and their power.\"\n\nThe commandment requires that envy be banished from the heart. The Catechism recalls, as a warning, the episode in which the prophet Nathan exposes King David with the parable of the poor man who had only one ewe lamb, coveted by the rich man (2 Sam 12) (CCC 2538). Envy, defined as sadness at the good of another and the immoderate desire to possess it unduly, is counted among the capital sins (CCC 2539), and from it are born hatred, detraction, calumny, and joy at another's misfortune. In this sense, avarice — which Hugh of Saint Victor described as the vice that \"throws man to the ground\" and which Saint Thomas Aquinas analyzes as an immoderate desire that exceeds the measure necessary for human life — is among the seven capital sins (CCC 1866).\n\nJesus shows where the root of everything lies: \"Where your treasure is, there will your heart be also\" (Mt 6:21). Hence the radical formula that Confirmation catechesis takes up: \"You cannot serve God and mammon\" (Mt 6:24). The response to the tenth commandment, according to the Catechism (nos. 2544-2547), is not merely abstention, but the virtue of poverty of heart — \"Blessed are the poor in spirit, for theirs is the kingdom of heaven\" (Mt 5:3) — by which the disciple rightly orders his affections and makes God his only treasure, an attitude that Confirmation associates directly with the first of the Beatitudes.",
+      "categoria": "crisma",
+      "tags": [
+        "covetousness",
+        "avarice",
+        "envy",
+        "poverty of spirit",
+        "detachment",
+        "Beatitudes",
+        "Ten Commandments"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Decalogue_parchment_by_Jekuthiel_Sofer_1768.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 2514-2539 and 2534-2557",
+        "Catechism of the Catholic Church, nos. 2544-2547 (poverty of heart)",
+        "Ex 20:17; Deut 5:21",
+        "1 Jn 2:16",
+        "Mt 6:21, 24",
+        "2 Sam 12 (parable of Nathan and David)"
+      ],
+      "atualizado_em": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "2534-2557"
+      ]
+    },
+    {
+      "id": "crisma:as-bem-aventurancas",
+      "slug": "as-bem-aventurancas",
+      "titulo": "The Beatitudes",
+      "categoria": "crisma",
+      "resumo": "The heart of Jesus' preaching in the Sermon on the Mount: a path of true happiness that portrays the very face of Christ.",
+      "corpo": "The Catechism, in numbers 1716 to 1729, presents the Beatitudes as the summary of Jesus' moral teaching, proclaimed at the beginning of the Sermon on the Mount: \"Blessed are the poor in spirit, [...] those who mourn, [...] the meek, [...] those who hunger and thirst for righteousness...\" (Mt 5:3-12).\n\nEach beatitude promises a happiness that is paradoxical in the eyes of the world — associating true joy with poverty, suffering, meekness, mercy, purity of heart, the pursuit of peace, and even persecution for the sake of righteousness — responding to the natural desire for happiness that every human being carries within, but directing it toward God as the only good that can fully satisfy it.\n\nThe Beatitudes portray the very face of Jesus Christ and describe his charity; they are also, according to the Catechism, a light that guides the Christian's actions amid the concrete circumstances of life, including those that Confirmation catechesis helps young people discern in their own lives.",
+      "tags": [
+        "beatitudes",
+        "Sermon on the Mount",
+        "happiness",
+        "moral life"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1716-1729"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1716-1729",
+        "Mt 5:1-12"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:a-lei-moral-e-a-consciencia",
+      "slug": "a-lei-moral-e-a-consciencia",
+      "titulo": "The Moral Law and Conscience",
+      "categoria": "crisma",
+      "resumo": "The natural law inscribed in the heart of every human being, and conscience as the practical judgment that applies it to each concrete action.",
+      "corpo": "The Catechism, in nos. 1950 to 1974, teaches that there is a natural moral law, an expression of the wisdom and goodness of God, inscribed in the heart of every human being and recognizable by reason: «Saint Paul says that the Gentiles [...] show that the law is written in their hearts» (cf. Rom 2:14-16). This natural law finds its historical expression in the Old Law (the Decalogue) and its fullness in the New Law, the Gospel of Christ, summed up in the commandment of love.\n\nMoral conscience, treated in nos. 1776 to 1802, is defined as a «judgment of reason» by which the person recognizes the moral quality of a concrete act that he is about to perform, is in the process of performing, or has already performed: it is the «voice» that invites to good and turns away from evil in each particular situation of life.\n\nConscience must be continually formed by the Word of God, by the teaching of the Church, and by sincere examination of oneself, since it can err through non-culpable ignorance or through culpable negligence. To discern with a upright conscience, according to the moral law received from God, is a task that Confirmation catechesis helps the young person take on with greater autonomy and responsibility.",
+      "tags": [
+        "moral law",
+        "moral conscience",
+        "natural law",
+        "discernment"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Angelico_-_Conversion_St._Augustine_-_Mus%C3%A9e_Thomas_Henry_-_from_Thebaid_dismembered.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1776-1802",
+        "1950-1974"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1776-1802, 1950-1974",
+        "Rom 2:14-16"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:o-pecado-original-mortal-e-venial",
+      "slug": "o-pecado-original-mortal-e-venial",
+      "titulo": "Sin: Original, Mortal, and Venial",
+      "categoria": "crisma",
+      "resumo": "The inherited condition of rupture with God transmitted by Adam, and the personal sins that either break or merely wound the divine friendship.",
+      "corpo": "The Catechism, in paragraphs 396 to 421, teaches that, through the sin of our first parents, humanity lost its original harmony with God, with itself, and with creation: this condition, inherited by every human being at birth and not a personal act, is called original sin. Saint Paul sums it up: \"Sin came into the world through one man\" (Rom 5:12).\n\nThe Catechism, in paragraphs 1846 to 1876, then distinguishes personal sins, freely committed by each individual: mortal sin destroys charity in the heart of man by a grave violation of the law of God, involving grave matter, full knowledge, and deliberate consent, and causes the loss of the life of grace; venial sin weakens charity without breaking the covenant with God, being a less serious disorder that nonetheless deserves purification.\n\nThis teaching is not meant to generate paralyzing guilt, but to offer a realistic path of conversion: the same God who reveals the gravity of sin offers, in Baptism and in the sacrament of Reconciliation, the forgiveness and grace needed to begin again — a truth that Confirmation catechesis takes up as it prepares young people for a mature moral life.",
+      "tags": [
+        "original sin",
+        "mortal sin",
+        "venial sin",
+        "conversion"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_010.png",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "396-421",
+        "1846-1876"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 396-421, 1846-1876",
+        "Gen 3",
+        "Rom 5:12"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:a-graca",
+      "slug": "a-graca",
+      "titulo": "Grace",
+      "categoria": "crisma",
+      "resumo": "God's free and supernatural help, which justifies us, makes us adopted children, and makes us sharers in the divine life itself.",
+      "corpo": "The Catechism, in numbers 1996 to 2005, defines grace as \"favor, the free and undeserved help that God gives us to respond to his call\" to become adopted children, partakers of the divine nature and of eternal life (cf. Eph 2:8-9). It is not something that human beings can merit by their own merits; it is an absolutely free gift.\n\nHabitual, or sanctifying, grace is that permanent disposition which makes us able to live and to act according to the divine call, healing and sanctifying human nature wounded by sin. Alongside it there are also actual graces, occasional gifts of God for concrete acts of conversion or sanctification, and sacramental and charismatic graces, proper to each sacrament or gift received.\n\nLife in grace is, at the same time, gift and responsibility: it demands the free cooperation of the person, nourished by prayer and the sacraments. Confirmation, in a special way, is presented by the tradition of the Church as an increase and deepening of baptismal grace, strengthening the union of the candidate for Confirmation with Christ and with the Church.",
+      "tags": [
+        "grace",
+        "justification",
+        "divine life",
+        "salvation"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Stained_glass%2C_Holy_Family_Church%2C_Teconnaught%2C_September_2010_crop.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1996-2005"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1996-2005",
+        "Eph 2:8-9"
+      ],
+      "imagem_credito": "Photo: Tahc — Wikimedia Commons, CC BY-SA 3.0"
+    },
+    {
+      "id": "crisma:as-virtudes-teologais-e-cardeais",
+      "slug": "as-virtudes-teologais-e-cardeais",
+      "titulo": "The Theological and Cardinal Virtues",
+      "categoria": "crisma",
+      "resumo": "Faith, hope, and charity directly orient the Christian toward God; prudence, justice, fortitude, and temperance dispose one to act well.",
+      "corpo": "The Catechism, in nos. 1812 to 1829, presents the theological virtues—faith, hope, and charity—as the foundation and dynamism of Christian moral action, infused by God into the soul to make the Christian capable of acting as His child. Faith is adherence to God and to the truth He has revealed; hope trusts in the promised eternal life and in the help of the Holy Spirit; charity, the greatest of the three (cf. 1 Cor 13:13), is the love of God above all things and of neighbor as oneself.\n\nThe cardinal virtues, treated in nos. 1804 to 1811, are stable dispositions acquired by human effort, though purified and elevated by grace: prudence disposes reason to discern, in every circumstance, our true good; justice leads one to give God and neighbor what is their due; fortitude ensures firmness in difficulties and constancy in the pursuit of the good; temperance moderates the attraction of pleasures and maintains balance in the use of goods.\n\nThese seven virtues—three theological and four cardinal—form, according to the tradition of the Church, the core of every mature moral life, and Confirmation catechesis presents them as the soil in which the gifts of the Holy Spirit, received in the sacrament, find fertile ground to grow.",
+      "tags": [
+        "theological virtues",
+        "cardinal virtues",
+        "faith",
+        "charity",
+        "prudence"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Raphael_-_Cardinal_and_Theological_Virtues.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1804-1829"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1804-1829",
+        "1 Cor 13:13"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:os-sete-pecados-capitais",
+      "slug": "os-sete-pecados-capitais",
+      "titulo": "The Seven Capital Sins",
+      "categoria": "crisma",
+      "resumo": "Pride, avarice, envy, wrath, lust, gluttony, and sloth: deeply rooted vices that generate and feed other sins.",
+      "corpo": "The Catechism, in treating sin at number 1866, recalls that the spiritual tradition of the Church, taking up the Roman Catechism, distinguishes vices according to the virtues they oppose or, more specifically, according to the seven capital sins: pride, avarice, envy, wrath, lust, gluttony, and sloth — also called acedia.\n\nThey are called «capital» because, like a head (caput, in Latin), they generate and command other sins and other vices: pride, for example, distorts the relationship with God and with others, whereas spiritual sloth can lead to the abandonment of the life of prayer and of Christian duties.\n\nThe recognition of these vices does not seek to generate scrupulosity, but to help Christians discern, in the examination of conscience, the deepest roots of their own sins, so as to combat them through the practice of the opposite virtues — a theme that Confirmation catechesis takes up together with the teaching on conscience and on the sacrament of Reconciliation.",
+      "tags": [
+        "capital sins",
+        "vices",
+        "pride",
+        "spiritual sloth"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/03/Hieronymus_Bosch-_The_Seven_Deadly_Sins_and_the_Four_Last_Things.JPG",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1866"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, no. 1866",
+        "Gal 5:19-21"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:as-obras-de-misericordia",
+      "slug": "as-obras-de-misericordia",
+      "titulo": "The Works of Mercy",
+      "categoria": "crisma",
+      "resumo": "Corporal and spiritual actions by which the Christian assists a neighbor in need, in imitation of God's mercy.",
+      "corpo": "The Catechism, in number 2447, teaches that the works of mercy are charitable actions by which we come to the aid of our neighbor in their bodily and spiritual necessities, and it lists them according to tradition: feeding the hungry, giving drink to the thirsty, clothing the naked, welcoming the stranger, caring for the sick and the imprisoned, and burying the dead are the corporal works of mercy; instructing, advising, consoling, comforting, forgiving, and bearing wrongs patiently are the spiritual works of mercy.\n\nThese works find their direct foundation in Jesus' words about the Last Judgment: \"I was hungry and you gave me food [...]; as you did it to one of the least of these my brethren, you did it to me\" (Mt 25:35, 40), a passage in which Christ identifies himself with those who suffer.\n\nWithin preparation for Confirmation, many dioceses and parishes ask the candidate for Confirmation to perform some concrete act of service to their neighbor, precisely so that the faith professed in catechesis classes may be translated into lived charitable action, according to the spirit of these works.",
+      "tags": [
+        "mercy",
+        "charity",
+        "neighbor",
+        "works of mercy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/df/1605_Francken_sieben_Werke_der_Barmherzigkeit_anagoria.JPG",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "2447"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, no. 2447",
+        "Mt 25:31-46"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:a-vocacao-crista-e-os-estados-de-vida",
+      "slug": "a-vocacao-crista-e-os-estados-de-vida",
+      "titulo": "The Christian Vocation and the States of Life",
+      "categoria": "crisma",
+      "resumo": "Every baptized person is called to holiness; this common vocation is fulfilled in different ways — as a lay person, an ordained minister, or a consecrated person.",
+      "corpo": "The Catechism, in paragraphs 871 to 913, teaches that all the faithful, by being baptized, share in their own way in the priestly, prophetic, and kingly office of Christ. Among them, the lay faithful have as their specific vocation to seek the Kingdom of God by engaging in temporal affairs and ordering them according to God, bearing witness to Christ in the midst of the ordinary tasks of life.\n\nIn paragraphs 914 to 933, the Catechism treats consecrated life, in which persons commit themselves, by vows or promises, to follow Christ more closely, living the evangelical counsels of poverty, chastity, and obedience in institutes approved by the Church — a prophetic sign that the Kingdom of God has already begun.\n\nTo these forms of life is added the sacrament of Holy Orders, which confers on the man called to ordained ministry a specific mission of service to the community. Saint Paul reminds us that \"there are varieties of gifts, but the same Spirit [...] To each is given the manifestation of the Spirit for the common good\" (1 Cor 12:4, 7): Confirmation catechesis invites young people to begin discerning to which of these concrete paths God is calling them.",
+      "tags": [
+        "vocation",
+        "laity",
+        "consecrated life",
+        "states of life"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Ghirlandaio%2C_Domenico_-_Calling_of_the_Apostles_-_1481.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "871-913",
+        "914-933"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 871-913, 914-933",
+        "1 Cor 12:4-7"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:a-missao-evangelizadora-da-igreja",
+      "slug": "a-missao-evangelizadora-da-igreja",
+      "titulo": "The Evangelizing Mission of the Church",
+      "categoria": "crisma",
+      "resumo": "The Church is sent by Christ to proclaim the Gospel to all nations, a task in which each baptized person has a share of their own.",
+      "corpo": "The Catechism, in paragraphs 849 to 856, teaches that the Church is missionary by her very nature, since she draws her origin from the mission of the Son and the mission of the Holy Spirit, according to the plan of God the Father. The mandate was given by the risen Christ himself: \"Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit\" (Mt 28:19).\n\nThis mission is born of the love with which God loves all people and of the desire that all come to the knowledge of the truth and be saved; for this reason the Church cannot fail to proclaim the Gospel, always respecting the freedom of each person and engaging in dialogue with different cultures and religions.\n\nEvangelizing is not a task reserved to priests, bishops or missionaries sent to distant lands: every Christian, by the power of Baptism and Confirmation, receives a share in this mission, in the concrete setting in which he or she lives—family, school, work, friendships—following the mandate of Mark 16:15: \"Go into all the world and preach the Gospel to the whole creation.\"",
+      "tags": [
+        "evangelization",
+        "mission of the Church",
+        "catholicity",
+        "Christian witness"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Francesco_Saverio_battezza_la_regina_indiana_Neachile.jpg",
+      "ordem": null,
+      "paragrafos_ccc": [
+        "849-856"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 849-856",
+        "Mt 28:19-20",
+        "Mk 16:15"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "crisma:a-missa-crismal-e-a-bencao-do-santo-oleo",
+      "slug": "a-missa-crismal-e-a-bencao-do-santo-oleo",
+      "titulo": "The Chrism Mass and the Blessing of the Holy Chrism",
+      "categoria": "crisma",
+      "resumo": "On the morning of Holy Thursday, the bishop consecrates the Holy Chrism and blesses the oils that will be used in the sacraments throughout the year.",
+      "corpo": "Every year, on the morning of Holy Thursday, the bishop gathers the clergy of the entire diocese in the cathedral to celebrate the Chrism Mass, also called the Mass of the Holy Oils. In it, the oil of catechumens, used in preparation for Baptism, and the oil of the sick, used in the Anointing of the Sick, are blessed; and the Holy Chrism is consecrated, a perfumed oil that will be used throughout the entire year for the anointings of Baptism, Confirmation, and priestly and episcopal Ordination in the whole diocese.\n\nThe Catechism recalls, in number 1297, that this Mass commemorates the consecration of the holy oils and usually precedes the Paschal Triduum. In the same celebration, the priests present publicly renew the promises made on the day of their ordination, a gesture that visibly unites the whole presbyterate around their bishop.\n\nThe Chrism consecrated at this Mass is then distributed to the parishes and kept there with honor, to be used throughout the year at every Baptism and every Confirmation celebrated in the diocese — which makes the anointing received by the person being confirmed part of a single oil consecrated by the whole people of God gathered around their bishop.",
+      "tags": [
+        "Chrism Mass",
+        "Holy Chrism",
+        "holy oils",
+        "bishop"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1297"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, no. 1297"
+      ]
+    },
+    {
+      "id": "crisma:a-idade-da-confirmacao",
+      "slug": "a-idade-da-confirmacao",
+      "titulo": "The Age of Confirmation",
+      "categoria": "crisma",
+      "resumo": "The Latin tradition links Confirmation to the \"age of discretion,\" but the concrete age has varied throughout history and still changes today depending on the diocese.",
+      "corpo": "The Catechism teaches, in number 1307, that the Latin custom, for centuries, has pointed to the \"age of discretion\" as the reference for Confirmation, traditionally understood as the completed seventh year — although in danger of death a child should be confirmed even before that. The 1983 Code of Canon Law, in canon 891, maintains this reference, but allows each episcopal conference to determine another age, which has made the practice vary considerably from country to country.\n\nThe age of Confirmation has been different in other periods: the Roman Catechism, published in 1566 after the Council of Trent, taught that it should be conferred around the age of seven, and the 1917 Code of Canon Law maintained this same guideline. Throughout the twentieth century, however, it became common in many countries to postpone Confirmation to pre-adolescence or adolescence, between ten and sixteen years of age, in order to allow for a longer catechesis before the sacrament.\n\nThe Catechism warns, in number 1308, against confusing the \"adult age of faith\" with the adult age of natural growth: baptismal grace is already a free and full gift, which does not need \"ratification\" to become effective. Confirmation is therefore not a prize for maturity attained, but a new gift of the Holy Spirit that deepens a grace already received in Baptism.",
+      "tags": [
+        "age of discretion",
+        "canon 891",
+        "Confirmation",
+        "Council of Trent"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1307-1308"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1307-1308",
+        "Code of Canon Law (1983), can. 891",
+        "Roman Catechism (1566)"
+      ]
+    },
+    {
+      "id": "crisma:a-confirmacao-nas-igrejas-orientais",
+      "slug": "a-confirmacao-nas-igrejas-orientais",
+      "titulo": "Confirmation in the Eastern Churches",
+      "categoria": "crisma",
+      "resumo": "In the Eastern Churches, even the Catholic ones, Chrismation is given immediately after Baptism, even when the person baptized is an infant.",
+      "corpo": "The Catechism observes, in number 1233, that in the Eastern rites the Christian initiation of infants begins with Baptism followed immediately by Confirmation (called Chrismation) and the Eucharist, while in the Roman rite the same initiation continues through the years of catechesis, to be completed later by Confirmation and the first Eucharist. This difference in discipline does not affect the validity or the dignity of the sacraments: it merely expresses two legitimate and ancient ways of organizing the same Christian initiation.\n\nAccording to number 1292 of the Catechism, the Eastern practice emphasizes more strongly the unity of Christian initiation, joining in a single liturgical moment birth into the life of grace, the gift of the Holy Spirit, and full participation in the Eucharist. For this reason, in the East, it is common for the same priest who baptizes to also administer Chrismation — something that, in the Latin discipline, is normally reserved to the bishop — always using the \"myron\" (chrism) previously consecrated by a bishop.\n\nThis unity has a practical and theological reason: it allows the Eastern Christian to receive Holy Communion from infancy, joining the three sacraments of initiation in a single celebration and avoiding the long interval of years that, in the West, now separates Baptism from Confirmation.",
+      "tags": [
+        "Eastern Churches",
+        "chrismation",
+        "Christian initiation",
+        "myron"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1233",
+        "1292"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1233, 1292"
+      ]
+    },
+    {
+      "id": "crisma:o-carater-sacramental-indelevel",
+      "slug": "o-carater-sacramental-indelevel",
+      "titulo": "The Indelible Sacramental Character",
+      "categoria": "crisma",
+      "resumo": "Baptism, Confirmation, and Holy Orders imprint on the soul a permanent spiritual \"seal,\" which is why none of the three can be repeated.",
+      "corpo": "The Catechism teaches, in number 1121, that the sacraments of Baptism, Confirmation, and Holy Orders confer, in addition to grace, a sacramental character or \"seal\" by which the Christian shares in Christ's priesthood and is part of the Church according to different states and functions. This configuration to Christ and to the Church, brought about by the Holy Spirit, is indelible: it remains forever in the Christian, even if he falls away from the faith or sins gravely.\n\nThe character is not merely a passive mark: according to the same number of the Catechism, it is a positive disposition for grace, a promise and guarantee of divine protection, and a vocation to divine worship and to the service of the Church. For this reason, these three sacraments — unlike the Eucharist, Penance, the Anointing of the Sick, and Matrimony — can never be repeated: one who has already been validly baptized, confirmed, or ordained cannot receive them again.\n\nFor the confirmand, understanding the indelible character of Confirmation helps to realize that the gift received is neither fleeting nor dependent on momentary religious feelings: it is a definitive mark of the Holy Spirit, who continues to act in the Christian's life even in periods of greater distance or difficulty in faith.",
+      "tags": [
+        "sacramental character",
+        "spiritual seal",
+        "Baptism",
+        "Holy Orders"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1121"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, no. 1121"
+      ]
+    },
+    {
+      "id": "crisma:o-sacerdocio-comum-dos-fieis",
+      "slug": "o-sacerdocio-comum-dos-fieis",
+      "titulo": "The Common Priesthood of the Faithful",
+      "categoria": "crisma",
+      "resumo": "Through Baptism and Confirmation, every Christian shares in the priesthood of Christ and is called to offer his or her life as spiritual worship to God.",
+      "corpo": "The Catechism teaches, in number 1268, that the baptized have become \"living stones\" to be \"built into a spiritual house, to be a holy priesthood\" (cf. 1 Pet 2:5, 9), thus sharing in the priesthood of Christ, in his prophetic and royal mission. This participation is called the \"common priesthood of the faithful,\" distinct from the ministerial priesthood received in the sacrament of Holy Orders, but real and proper to every baptized person.\n\nConfirmation deepens this participation: by binding the Christian more firmly to the Church and enriching him or her with a special strength of the Holy Spirit, it makes him or her more capable of exercising the common priesthood in concrete life — in personal and family prayer, in the offering of one's own life and work united to the sacrifice of Christ in the Mass, and in the public witness of faith before the world.\n\nThis doctrine, taken up again by the Second Vatican Council in the constitution Lumen Gentium, reminds us that the Christian life is not limited to attending the sacraments: every baptized and confirmed person is called to live his or her daily existence as a spiritual offering pleasing to God, actively sharing in the priestly mission of Christ.",
+      "tags": [
+        "common priesthood",
+        "Baptism",
+        "Lumen Gentium",
+        "Christian life"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1268"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, no. 1268",
+        "1 Peter 2:5, 9",
+        "Second Vatican Council, Dogmatic Constitution Lumen Gentium, no. 10"
+      ]
+    },
+    {
+      "id": "crisma:os-pecados-contra-o-espirito-santo",
+      "slug": "os-pecados-contra-o-espirito-santo",
+      "titulo": "Sins against the Holy Spirit",
+      "categoria": "crisma",
+      "resumo": "The deliberate and definitive refusal to accept God's mercy, which the Catechism calls unforgivable not because of any limit in grace, but because of a closing of the heart.",
+      "corpo": "The Catechism, in number 1864, teaches that God's mercy has no limits, but anyone who deliberately refuses to accept it through repentance rejects forgiveness of his own sins and the salvation offered by the Holy Spirit. This hardness of heart, if carried through to the end, can lead to final impenitence and eternal loss — it is this, and not a specific verbal offense, that tradition calls the \"sin against the Holy Spirit,\" based on the words of Jesus in Mk 3:29 and Mt 12:31-32.\n\nBlasphemy against the Holy Spirit therefore does not consist in uttering certain words, but in consciously opposing the action of the Spirit himself, who is the one who works in us the forgiveness of sins through the love of the Father and the Son. Refusing to recognize one's own need for conversion, or despairing of God's mercy, or presuming that one can be saved without conversion, are concrete forms of this resistance to the Spirit.\n\nUnderstanding this teaching helps the confirmand better appreciate the very gift of the Holy Spirit received in Confirmation: he is precisely the one who makes sincere repentance and openness to forgiveness possible, so that to close oneself to this action is to close oneself to the only source from which salvation can come.",
+      "tags": [
+        "sin against the Holy Spirit",
+        "mercy",
+        "conversion",
+        "Holy Spirit"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1864"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, no. 1864",
+        "Mk 3:29",
+        "Mt 12:31-32"
+      ]
+    },
+    {
+      "id": "crisma:o-testemunho-da-fe-e-o-martirio",
+      "slug": "o-testemunho-da-fe-e-o-martirio",
+      "titulo": "The Witness of Faith and Martyrdom",
+      "categoria": "crisma",
+      "resumo": "The strength of the Holy Spirit received in Confirmation enables the Christian to profess the faith publicly, even to the point of martyrdom if necessary.",
+      "corpo": "The Catechism teaches, in number 2473, that martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death. The martyr bears witness to Christ, who died and rose, to whom he is united by charity, and he bears witness to the truth of the faith and of Christian doctrine, enduring death through an act of fortitude. The following number, 2474, recalls that the Church has collected with the greatest care the memories of those who went all the way in confessing their faith, gathered in the ancient Acts of the Martyrs.\n\nThe Second Vatican Council links this readiness directly to the gift received in Confirmation: by the sacrament, the faithful are more perfectly bound to the Church, are enriched with a special strength of the Holy Spirit, and hence are more strictly obliged to spread and defend the faith, both by word and by deed, as true witnesses of Christ. This strength, carried to the extreme, is the same that sustained the long line of Christian martyrs who, from the first centuries until today, have not feared to sacrifice their earthly life out of love for Jesus Christ.\n\nIn Confirmation catechesis, the theme of martyrdom is not presented as something distant or rare, but as the ultimate horizon of a witness that begins in much simpler, everyday actions: owning one's faith before classmates, defending the truth when it is unpopular, and not being ashamed to pray or to live according to the Gospel.",
+      "tags": [
+        "martyrdom",
+        "witness",
+        "strength of the Holy Spirit",
+        "Second Vatican Council"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "2473-2474"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 2473-2474",
+        "Second Vatican Council, Dogmatic Constitution Lumen Gentium, no. 11"
+      ]
+    },
+    {
+      "id": "crisma:a-escolha-do-nome-de-crisma",
+      "slug": "a-escolha-do-nome-de-crisma",
+      "titulo": "The Choice of a Confirmation Name",
+      "categoria": "crisma",
+      "resumo": "A custom, now optional, in which the confirmand adopts the name of a saint or a biblical figure as a personal patron at Confirmation.",
+      "corpo": "In many communities, it is customary for the candidate for Confirmation to choose, in addition to his or her own Baptismal name, the name of a saint or a biblical figure whom he or she admires and wishes to take as a patron and model of Christian life. The practice seeks to express the confirmand's desire to imitate that person's dedication to God, making the day of Confirmation also an occasion to deepen knowledge of the life of a specific saint.\n\nOther confirmands prefer not to adopt a new name and to keep only the name received at Baptism, precisely to underline the close bond between the two sacraments: Confirmation does not begin something new and independent, but brings to fullness the grace already received at Baptism. Both options are legitimate, and the choice (or not) of a Confirmation name is today governed by the guidelines of each diocese or parish, without being a doctrinal requirement of the sacrament itself.\n\nWhichever option is chosen, reflection on personal patron saints, often made already at Baptism, at Confirmation, or at another moment of personal conversion, helps Christians realize that the communion of saints is not an abstract idea: they are concrete persons, with a real life story, whom the Church proposes as companionship and intercession on the journey of each of the faithful.",
+      "tags": [
+        "Confirmation name",
+        "patron saint",
+        "saints",
+        "tradition"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 2156-2159 (the Christian name)"
+      ]
+    },
+    {
+      "id": "crisma:os-preceitos-da-igreja",
+      "slug": "os-preceitos-da-igreja",
+      "titulo": "The Precepts of the Church",
+      "categoria": "crisma",
+      "resumo": "Five positive and elementary laws, distinct from the Ten Commandments, that guarantee the faithful the indispensable minimum of liturgical and moral life.",
+      "corpo": "Besides the Ten Commandments, which express the natural moral law revealed by God, the Catechism presents, in nos. 2041 to 2043, the so-called \"precepts of the Church\": positive laws established by the pastoral authority to guarantee the faithful the indispensable minimum in the spirit of prayer, moral effort, and growth in the love of God and neighbor. They are usually enumerated as five: to participate fully in Mass on Sundays and holy days of obligation, refraining from unnecessary work; to confess at least once a year; to receive Communion at least during the Easter season; to observe the days of fasting and abstinence established by the Church; and to help provide for the material needs of the Church.\n\nUnlike the Commandments, which apply to every person at every time and place because they flow from human nature itself, the precepts of the Church are ecclesiastical laws, which the competent authority may in principle adjust, adapt, or dispense according to circumstances — although their observance is, for the Catholic, a true obligation of conscience.\n\nThe Catechism situates these precepts within a line of moral life linked to the liturgical life and nourished by it: they are not a set of arbitrary rules, but the concrete minimum floor that helps Christians keep their faith from being reduced to a vague feeling, guaranteeing them a regular and visible practice of the sacramental and communal life.",
+      "tags": [
+        "precepts of the Church",
+        "five commandments of the Church",
+        "liturgical life",
+        "moral obligation"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "2041-2043"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 2041-2043"
+      ]
+    },
+    {
+      "id": "crisma:a-renovacao-das-promessas-batismais",
+      "slug": "a-renovacao-das-promessas-batismais",
+      "titulo": "The Renewal of Baptismal Promises",
+      "categoria": "crisma",
+      "resumo": "Before the anointing with chrism, the candidate publicly renews the promises of Baptism, professing the faith that he or she is about to receive with renewed strength.",
+      "corpo": "In the rite of Confirmation, when celebrated separately from Baptism, the anointing with holy chrism is preceded by the renewal of baptismal promises and the profession of faith by those who are to be confirmed: the bishop (or the priest presiding) asks whether they renounce sin and Satan, and whether they believe in God the Father, the Son, and the Holy Spirit, following the same structure of questions and answers used at Baptism and at the Easter Vigil.\n\nAfter this public profession of faith, the bishop extends his hands over all those who are to be confirmed, saying a prayer of strong epicletic content—that is, of invocation and supplication of the Holy Spirit—before performing the properly sacramental act: the anointing with chrism on the forehead of each one, with the laying on of the hand, accompanied by the words \"Be sealed with the Gift of the Holy Spirit.\"\n\nBy placing the renewal of baptismal promises immediately before the anointing, the liturgy of Confirmation makes visible what theology already teaches: Confirmation is not a sacrament independent of Baptism, but the development and strengthening of a faith that had already been professed—by the parents and godparents, in the case of children—on the day the Christian was baptized.",
+      "tags": [
+        "baptismal promises",
+        "profession of faith",
+        "rite of Confirmation",
+        "renunciation of sin"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1298"
+      ],
+      "fontes": [
+        "Rite of Confirmation (Ordo Confirmationis)",
+        "Catechism of the Catholic Church, no. 1298"
+      ]
+    },
+    {
+      "id": "crisma:o-oleo-na-sagrada-escritura",
+      "slug": "o-oleo-na-sagrada-escritura",
+      "titulo": "Oil in Sacred Scripture",
+      "categoria": "crisma",
+      "resumo": "Before becoming the matter of Confirmation, oil was already, in the Old Testament, a sign of the anointing of kings, priests, and prophets by the Spirit of God.",
+      "corpo": "In the Old Testament, anointing with oil was the gesture that consecrated someone — or something — to a special mission from God. Kings such as Saul and David were anointed by prophets in the name of the Lord (cf. 1 Sam 10:1; 16:13), priests were consecrated with oil for the service of worship, and the very Hebrew term \"mashach\" (to anoint) gave rise to the word \"mashiach\", that is, \"anointed one\", \"Messiah\" — the title that the Jews applied to the expected liberator and that Christians recognize as fully fulfilled in Jesus Christ.\n\nThe oil used in these anointings was not just any product: Scripture describes a sacred oil, made of olive oil and spices such as myrrh, cinnamon, and cassia, reserved exclusively for liturgical use and for the consecration of persons and objects of worship (cf. Ex 30:22-33), in a clear distinction between what is sacred and what is for common use. Symbolically, oil came to signify the strength and joy of the Spirit of God poured out upon the one anointed.\n\nIt is against this biblical background that we understand why the Church chose oil in particular — holy chrism — as the matter of Confirmation: just as kings, priests, and prophets were anointed for a mission, the person to be confirmed is anointed to share more fully in the royal, priestly, and prophetic mission of Christ, strengthened by the same Holy Spirit whom the anointed ones of the Old Testament prefigured.",
+      "tags": [
+        "oil",
+        "anointing",
+        "Old Testament",
+        "Messiah"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "436",
+        "1289"
+      ],
+      "fontes": [
+        "1 Samuel 10:1; 16:13",
+        "Exodus 30:22-33",
+        "Catechism of the Catholic Church, nos. 436, 1289"
+      ]
+    },
+    {
+      "id": "crisma:a-iniciacao-crista-de-adultos",
+      "slug": "a-iniciacao-crista-de-adultos",
+      "titulo": "The Christian Initiation of Adults",
+      "categoria": "crisma",
+      "resumo": "Unbaptized adults receive Baptism, Confirmation, and the Eucharist in a single celebration, usually at the Easter Vigil, at the end of a catechumenal journey.",
+      "corpo": "For adults who come to the Catholic faith without having been baptized, the Church provides a journey of its own, governed by the Rite of Christian Initiation of Adults (RCIA), promulgated in 1972 as a fruit of the liturgical reform of the Second Vatican Council. The journey is organized into four periods — pre-catechumenate, catechumenate, purification and enlightenment, and mystagogy — and three rites of passage: the entrance into the catechumenate, the election (or enrollment of names), and, finally, the celebration of the three sacraments of initiation.\n\nUnlike the usual journey in the Latin Church for those baptized as infants — in which Baptism, Confirmation, and the Eucharist are separated by years of catechesis — the adult who comes to the faith already mature receives the three sacraments in a single celebration, normally at the Easter Vigil: first Baptism, immediately followed by Confirmation, and finally the first Eucharist, which completes initiation.\n\nThis practice, closer to the unity preserved in the Eastern Churches, shows that the separation between Baptism and Confirmation, common in the West for those baptized as children, is not an essential requirement of the sacrament, but a pastoral discipline that the Church herself can arrange differently according to the concrete situation of those who receive the sacraments.",
+      "tags": [
+        "RCIA",
+        "catechumenate",
+        "Easter Vigil",
+        "Christian initiation"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "1233",
+        "1247-1249"
+      ],
+      "fontes": [
+        "Rite of Christian Initiation of Adults (1972)",
+        "Catechism of the Catholic Church, nos. 1233, 1247-1249"
+      ]
+    },
+    {
+      "id": "crisma:o-apostolado-leigo-e-os-dons-do-espirito",
+      "slug": "o-apostolado-leigo-e-os-dons-do-espirito",
+      "titulo": "The Lay Apostolate and the Gifts of the Spirit",
+      "categoria": "crisma",
+      "resumo": "The Second Vatican Council teaches, in the decree Apostolicam Actuositatem, that every layperson is called to the apostolate by the very Christian vocation received in Baptism and Confirmation.",
+      "corpo": "On November 18, 1965, the Second Vatican Council promulgated the decree Apostolicam Actuositatem on the apostolate of the laity, teaching that this task springs from the Christian vocation itself and therefore can never be lacking in the Church. The document explains that lay people can carry out their apostolic activity either individually or gathered in communities and movements, but that the personal apostolate, the fruit of an authentic Christian life, is the origin and condition of every lay apostolate — including the organized apostolate — and nothing can replace it.\n\nThis call is directly linked to the gift received in Confirmation: while Baptism already incorporates the Christian into the mission of the Church, Chrism \"binds them more perfectly to the Church\" and gives them \"special strength\" to live this vocation more consciously and courageously, according to each person's own gifts — not only within the walls of the church, but in the workplace, family, study and social life where each layperson is placed.\n\nThe decree also recalls that the lay apostolate, although the fruit of each Christian's free initiative, must be exercised in harmony with the pastors of the Church: Confirmation does not make the confirmand independent of ecclesial communion, but enables them to collaborate, with the freedom and responsibility proper to the laity, in the one evangelizing mission entrusted by Christ to the whole Church.",
+      "tags": [
+        "lay apostolate",
+        "Apostolicam Actuositatem",
+        "Second Vatican Council",
+        "gifts of the Holy Spirit"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "paragrafos_ccc": [
+        "900-913"
+      ],
+      "fontes": [
+        "Second Vatican Council, Decree Apostolicam Actuositatem (November 18, 1965)",
+        "Catechism of the Catholic Church, nos. 900-913"
+      ]
+    }
+  ]
+}

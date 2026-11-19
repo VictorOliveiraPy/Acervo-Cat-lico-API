@@ -1,0 +1,548 @@
+{
+  "_meta": {
+    "categoria": "liturgia-das-horas",
+    "nome": "Liturgy of the Hours",
+    "descricao": "The hours of the Divine Office — Lauds, Daytime Prayer, Vespers, Compline and the Office of Readings — which sanctify the course of the day with the public prayer of the Church.",
+    "status": "exemplos-iniciais",
+    "aviso": "An introductory overview of the Breviary; it does not replace the liturgical book of the Liturgy of the Hours itself for use in daily prayer.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "General Instruction of the Liturgy of the Hours",
+      "Sacrosanctum Concilium, ch. IV"
+    ]
+  },
+  "itens": [
+    {
+      "id": "liturgia-das-horas:o-oficio-divino",
+      "slug": "o-oficio-divino",
+      "titulo": "The Divine Office: An Overview",
+      "categoria": "liturgia-das-horas",
+      "resumo": "The Liturgy of the Hours is the public and common prayer of the People of God, which sanctifies the whole course of the day through fixed hours of prayer.",
+      "corpo": "The Liturgy of the Hours, also called the Divine Office or the Breviary, is the official prayer of the Church, distributed throughout the day in order to sanctify all its hours, just as Paul asked when he exhorted us to \"pray without ceasing\" (1 Thes 5:17). Made up chiefly of psalms, biblical canticles, readings, and prayers, it is prayed daily by priests, deacons, religious, and a growing number of lay people, uniting those who pray it with the prayer of Christ and of the whole Church spread throughout the world, in a single choir that never ceases, day and night. The Second Vatican Council profoundly reformed it in the constitution Sacrosanctum Concilium, simplifying its structure and broadening the repertoire of psalms and readings.",
+      "tags": [
+        "Sacrosanctum Concilium",
+        "Breviary",
+        "continuous prayer"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Illuminated_Manuscript%2C_Book_of_Hours_in_Dutch%2C_Annunciation%2C_Walters_Manuscript_W.918%2C_fol._13v.jpg",
+      "imagem_credito": null,
+      "ordem": 1
+    },
+    {
+      "id": "liturgia-das-horas:laudes",
+      "slug": "laudes",
+      "titulo": "Lauds (Morning Prayer)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "The prayer that consecrates the beginning of the day to God, traditionally celebrated at sunrise as praise for the new creation of light.",
+      "corpo": "Lauds — from the Latin for \"praises\" — is prayed at daybreak and consecrates the beginning of the day and of human activity to God, taking up the biblical symbolism of light conquering darkness and of the resurrection of Christ, the \"daybreak from on high\" (Lk 1:78). Its classical structure includes a morning psalm, a canticle from the Old Testament, a psalm of praise, a short biblical reading, and the Gospel canticle of Zechariah (Benedictus), which celebrates the coming of salvation. Together with Vespers, it is considered by the liturgical tradition one of the two \"hinges\" of the daily Office — the most important points of the whole Divine Office.",
+      "tags": [
+        "Benedictus",
+        "cardinal hour",
+        "daybreak"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Caspar_David_Friedrich_-_Neubrandenburg_in_Flames_%28Sunrise_near_Neubrandenburg%29_-_WGA8287.jpg",
+      "imagem_credito": null,
+      "ordem": 2
+    },
+    {
+      "id": "liturgia-das-horas:hora-media",
+      "slug": "hora-media",
+      "titulo": "Midday Prayer (Terce, Sext and None)",
+      "resumo": "The brief prayers of the middle of the day that sanctify the hours of work, traditionally linked to key moments of the Passion and of Pentecost; since the reform of Vatican II, outside choir one may pray only one of them.",
+      "corpo": "Midday Prayer brings together the ancient minor hours of Terce (around 9 a.m.), Sext (noon) and None (around 3 p.m.). The custom of praying at these three moments of the day is rooted in Jewish piety and passed to the first Christians: the Acts of the Apostles record prayers at the third hour, when the Holy Spirit descended upon the apostles at Pentecost (Acts 2:15), at the sixth (Acts 10:9) and at the ninth (Acts 3:1). In the second century, Clement of Alexandria already cited these hours as privileged moments of prayer; in the third century, Tertullian and Origen gave them a biblical foundation, and the Canons of Hippolytus likewise mention them. Terce, Sext and None became, over the centuries, ecclesiastical hours in the proper sense, distinct from private prayers.\n\nThe spiritual tradition associated each of these hours with a mystery of salvation. Terce recalls the descent of the Holy Spirit upon the apostles at Pentecost, \"at the third hour of the day\"; Sext evokes the crucifixion of Christ at noon; None, his death on the cross \"about the ninth hour\" (Mt 27:46). Praying Midday Prayer is, therefore, a way of inserting the day's tasks into the paschal mystery itself, offering one's work in union with Christ.\n\nHistorically, these hours kept a fixed structure for a long time. Before the reform of Pius X, the minor hours repeated daily the eighteen remaining divisions of Psalm 118; the apostolic constitution Divino afflatu, of November 1, 1911, redistributed the psalter and altered this arrangement. In the current Midday Prayer, however, Psalm 118 remains distributed over twenty-two days, one for each division, because the tradition has always assigned it to the daytime hours.\n\nThe reorganization carried out by the Second Vatican Council defined the present form. Sacrosanctum Concilium (no. 89, e) determined that \"the minor hours of Terce, Sext and None are to be observed in choir\", but that \"outside choir, it is permissible to select any one of these three, the one which best fits the time of day\". For this reason, those who pray the Office individually usually recite only one of the three, according to the time, while communities in choir continue to celebrate all of them. It is the briefest hour of the Liturgy of the Hours, composed of a hymn, three psalms (or portions of Psalm 118), a short reading, a responsory and a concluding prayer.",
+      "categoria": "liturgia-das-horas",
+      "tags": [
+        "Terce",
+        "Sext",
+        "None",
+        "minor hours",
+        "Passion of Christ",
+        "Pentecost",
+        "Pius X",
+        "Second Vatican Council"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Jean-Fran%C3%A7ois_Millet_-_The_Angelus_-_Walters_37903.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Acts of the Apostles 2:15; 3:1; 10:9",
+        "Second Vatican Council, Constitution Sacrosanctum Concilium, no. 89",
+        "General Instruction of the Liturgy of the Hours, nos. 126-133",
+        "Pius X, Apostolic Constitution Divino afflatu, November 1, 1911"
+      ],
+      "atualizado_em": null,
+      "ordem": 3
+    },
+    {
+      "id": "liturgia-das-horas:visperas",
+      "slug": "visperas",
+      "titulo": "Vespers (Evening Prayer)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "The evening prayer that gives thanks for the day that has passed, traditionally celebrated at the lighting of the lamps, with the Canticle of Mary.",
+      "corpo": "Vespers is prayed at evening, when the light of day begins to wane, and for this reason it is traditionally linked to the rite of lighting lamps (lucernarium) as a symbol of Christ, the light that is not extinguished as night falls. It is the second of the \"hinge hours,\" with a structure similar to Lauds, but culminating in the Canticle of Mary, the Magnificat (Lk 1:46-55), which gives thanks to God for the wonders accomplished in the history of salvation. It is the hour most solemnly celebrated in many religious communities and cathedrals, often sung with incense, as a public and festive form of evening prayer.",
+      "tags": [
+        "Magnificat",
+        "hinge hour",
+        "lucernarium"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Jean_Jouvenet_-_Magnificat.jpg",
+      "imagem_credito": null,
+      "ordem": 4
+    },
+    {
+      "id": "liturgia-das-horas:completas",
+      "slug": "completas",
+      "titulo": "Compline (Night Prayer)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "The last prayer of the day, brief and recollected, which entrusts sleep and life itself to God's protection.",
+      "corpo": "Compline is the shortest and most recollected prayer of the Divine Office, prayed immediately before going to bed, serving as a simplified examination of conscience and an act of trusting abandonment into God's hands before sleep — traditionally associated with death, its spiritual \"twin brother.\" Structurally stable throughout the week, its high point is the Canticle of Simeon (Nunc Dimittis: \"Lord, now let your servant go in peace,\" Lk 2:29-32), and it concludes with one of the Marian antiphons — Salve Regina, Ave Regina Caelorum, Regina Caeli, or Sub Tuum Praesidium, according to the liturgical season.",
+      "tags": [
+        "Nunc Dimittis",
+        "Marian antiphons",
+        "Salve Regina"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Rembrandt_-_Simeon_in_the_Temple_DSC6899.jpg",
+      "imagem_credito": null,
+      "ordem": 5
+    },
+    {
+      "id": "liturgia-das-horas:oficio-de-leituras",
+      "slug": "oficio-de-leituras",
+      "titulo": "Office of Readings (Vigil)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "The longest hour of the Breviary, with longer biblical and patristic readings, originally prayed at night as a vigil.",
+      "corpo": "The Office of Readings — formerly \"Matins,\" heir to the night vigils of the first monks — offers the longest and most substantial readings of the whole Divine Office: a longer passage of Scripture, read in sequence throughout the liturgical year, and a second reading from the Fathers or from a spiritual author, with commentaries by the Fathers of the Church, by saints, or documents of the Magisterium, connected to the liturgical season or to the feast of the day. Although traditionally prayed in the early morning hours, the reform of Vatican II allows it to be prayed at any time of the day, and today it is often combined with Lauds in the morning.",
+      "tags": [
+        "Matins",
+        "vigil",
+        "Fathers of the Church"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/A_good_reading_%281890%29%2C_by_Eduard_von_Gr%C3%BCtzner.jpg",
+      "imagem_credito": null,
+      "ordem": 6
+    },
+    {
+      "id": "liturgia-das-horas:os-salmos-na-liturgia-das-horas",
+      "slug": "os-salmos-na-liturgia-das-horas",
+      "titulo": "The Psalms in the Liturgy of the Hours",
+      "resumo": "The Psalter is the heart of the Liturgy of the Hours: the 150 psalms, prayed in a four-week cycle, form the backbone of each hour of the Office and are read by the Church as the voice of Christ.",
+      "corpo": "The psalms form the core of each hour of the Liturgy of the Hours. The 150 psalms of the biblical Psalter are distributed over a four-week cycle, which repeats throughout the year, so that those who pray the Office go through practically the entire Psalter within a month. The General Instruction of the Liturgy of the Hours (no. 126) specifies that \"the psalms are distributed over a four-week cycle\" and that a few are omitted, while those that tradition has made best known are retained. The cycle is connected with the liturgical year: it begins on the first Sunday of Advent, at the beginning of Ordinary Time, on the first Sunday of Lent, and on Easter Sunday; on solemnities and feasts, the proper psalms replace those of the day.\n\nThe choice of psalms is not random. The same Instruction explains that, for Lauds and Vespers, psalms were selected that suit the character of each hour, and that some psalms whose violent tone sounds out of place in public prayer were left out of the cycle. Psalm 118, the longest of the Psalter, receives special treatment: traditionally always linked to the daytime hours, it is distributed over twenty-two days, one section each, in Daytime Prayer.\n\nThese poems were inherited directly from the prayer practice of Israel, of the Temple and the synagogues, which Jesus himself and the apostles prayed. The Church uses them, according to Sacrosanctum Concilium (no. 90), because they have the power to raise the minds of men to God and to stir up holy affections in them. The Christian tradition also reads the psalms christologically: the Letter to the Hebrews puts Psalm 22 on the lips of Christ (\"I will proclaim your name to my brethren, in the midst of the congregation I will praise you\"), so that whoever sings the psalms lends their voice to Christ himself praying with and for his Body, the Church. The psalm, the Instruction also observes (no. 103), is neither a reading nor prose, but a poem of praise. In Hebrew it is Tehillim, \"songs of praise,\" and in Greek psalmoi, \"songs sung to the sound of the psaltery\", and it retains this musical character even when recited.\n\nThe numbering of the psalms differs between the Hebrew Bible and the Greek version of the Septuagint adopted by the Vulgate, a difference the Church inherited and which explains why the same psalm can appear with two numbers (for example, Hebrew Psalm 22 corresponds to Psalm 21 in the Vulgate). Also inherited from liturgical translations, this double numbering remains visible in the titles of the psalms in the Liturgy of the Hours.",
+      "categoria": "liturgia-das-horas",
+      "tags": [
+        "Psalter",
+        "four-week cycle",
+        "christology of the psalms",
+        "General Instruction of the Liturgy of the Hours",
+        "Psalm 118",
+        "Vulgate",
+        "Sacrosanctum Concilium"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Westminster_Psalter_David.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "General Instruction of the Liturgy of the Hours, nos. 100-104, 126-133",
+        "Second Vatican Council, Constitution Sacrosanctum Concilium, nos. 90-91",
+        "Letter to the Hebrews 2:12",
+        "Book of Psalms (Hebrew and Vulgate numbering)"
+      ],
+      "atualizado_em": null,
+      "ordem": 7
+    },
+    {
+      "id": "liturgia-das-horas:liturgia-das-horas-e-vida-consagrada",
+      "slug": "liturgia-das-horas-e-vida-consagrada",
+      "titulo": "The Liturgy of the Hours in Consecrated Life",
+      "resumo": "For monks, religious and clerics, the Divine Office structures the daily rhythm of prayer, work and silence; the Rule of Saint Benedict consecrated it as the \"Opus Dei,\" and the Second Vatican Council reaffirmed it as a canonical obligation of the clergy and the consecrated.",
+      "corpo": "The Liturgy of the Hours, or Divine Office, organizes the daily life of consecrated persons around fixed hours of prayer interspersed with work and reading. The Christian custom of praying at certain times of the day is rooted in the Jewish practice of prayer in the Temple and in the synagogues, which the apostles themselves observed: the Acts of the Apostles record prayers at the third, sixth and ninth hours (Acts 2:15; 3:1; 10:9). In the second century, Clement of Alexandria already mentioned the third, sixth and ninth hours as privileged moments of prayer; in the third century, Tertullian and Origen gave these times a biblical foundation, linking them to episodes in the lives of the apostles and to the Passion. Prime and Compline are the latest, appearing around the end of the fourth century.\n\nIt was in the monastic tradition that this structure took its stable form. The Rule of Saint Benedict (c. 530) devotes its chapters 8 to 19 to the Divine Office and establishes, in chapter 16, the principle of the seven daytime hours: Matins, Prime, Terce, Sext, None, Vespers and Compline, based on the psalm \"Seven times a day I praise you.\" The Rule also introduces a principle that would become famous in Benedictine spirituality: to prefer nothing to the Divine Office, the \"Opus Dei.\" The balance between prayer and work, summed up centuries later in the formula \"ora et labora,\" shaped not only the monasteries but the whole of Western culture of time measured by prayer.\n\nOver the centuries, the Office was repeatedly reformed. At the beginning of the twentieth century, Saint Pius X promoted a profound reorganization of the Psalter of the Roman Breviary through the apostolic constitution Divino afflatu, of November 1, 1911, which broke with the arrangement inherited from Saint Benedict and redistributed the psalms throughout the week. The Second Vatican Council took up the reform: the constitution Sacrosanctum Concilium (nos. 83-89) determined that Lauds and Vespers, \"the two hinges on which the daily Office turns,\" should be considered the principal hours, suppressed the hour of Prime, and allowed that, outside choir, one of the minor hours be chosen according to the time of day. Paul VI promulgated the renewed Office by the apostolic constitution Laudis canticum, of November 1, 1970.\n\nThe current canon law specifies precisely the scope of the obligation. Canon 1174 §1 states that \"Clerics are obliged to carry out the liturgy of the hours in accord with can. 276, §2, n. 3; members of institutes of consecrated life and of societies of apostolic life are obliged according to the prescripts of their constitutions.\" Canon 663 §3 urges religious to celebrate it worthily according to their proper law, while canon 1174 §2 extends to the other faithful an earnest invitation, not an imposition: \"The other members of the Christian faithful are also earnestly invited to participate in the liturgy of the hours according to the circumstances, since it is an action of the Church.\" Laudis canticum itself insists on this point: the Liturgy of the Hours \"is offered to all the faithful, even those not bound by law to recite it.\"\n\nThus, consecrated life remains the place where the Office finds its fullest and most communal expression, recited or sung in choir, often with Gregorian chant as its proper vehicle, without this exhausting its nature: it is, above all, the prayer of the whole Church, in which Christ himself continues to praise the Father.",
+      "categoria": "liturgia-das-horas",
+      "tags": [
+        "Rule of Saint Benedict",
+        "ora et labora",
+        "Opus Dei",
+        "religious life",
+        "Second Vatican Council",
+        "Laudis canticum",
+        "canon law"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/St._Benedict_delivering_his_rule_to_the_monks_of_his_order.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Rule of Saint Benedict, chapters 8-19 (esp. chapters 16 and 43)",
+        "Second Vatican Council, Constitution Sacrosanctum Concilium, nos. 83-89",
+        "Paul VI, Apostolic Constitution Laudis canticum, November 1, 1970",
+        "Code of Canon Law (1983), canons 276 §2 n.3; 663 §3; 1173-1175",
+        "Pius X, Apostolic Constitution Divino afflatu, November 1, 1911"
+      ],
+      "atualizado_em": null,
+      "ordem": 8
+    },
+    {
+      "id": "liturgia-das-horas:invitatorio",
+      "slug": "invitatorio",
+      "titulo": "The Invitatory",
+      "categoria": "liturgia-das-horas",
+      "resumo": "The opening of the entire Divine Office: a daily invitation, centered on Psalm 95 (94), to praise God and to listen to his voice \"today.\"",
+      "corpo": "The Invitatory precedes the first hour prayed in the day — the Office of Readings or, when this does not begin the day, Lauds — and is not repeated afterward. Its core is almost always Psalm 95 (94), \"Come, let us sing joyfully to the Lord,\" already attested as the opening of the Office by the Rule of Saint Benedict in the sixth century: an invitation renewed every day to the faithful to celebrate the praises of God, to listen to his voice and not to harden their hearts \"today,\" as Israel did in the desert.\n\nThis \"today\" is read by the Christian tradition, following the commentary of the Letter to the Hebrews, as the ever-present time of grace that God offers to those who are willing to listen to him. Sung with an antiphon proper to the day or to the liturgical season, the Invitatory places the whole Liturgy of the Hours, from the very first moment, in the right register: not an obligation to be fulfilled, but a response of praise to an invitation that comes from God himself.",
+      "tags": [
+        "Invitatory",
+        "Psalm 95",
+        "Rule of Saint Benedict"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 9
+    },
+    {
+      "id": "liturgia-das-horas:antifonas-na-liturgia-das-horas",
+      "slug": "antifonas-na-liturgia-das-horas",
+      "titulo": "Antiphons in the Liturgy of the Hours",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Short verses that frame each psalm and canticle, guiding its reading in light of the day, the liturgical season, or the mystery of Christ.",
+      "corpo": "Each psalm or canticle prayed at an hour of the Liturgy of the Hours is framed by an antiphon: a brief verse, usually taken from Scripture itself, recited or sung before and after it. Far from being a merely decorative refrain, the antiphon fulfills an interpretive function — it highlights a thought of the psalm that might go unnoticed, gives it a particular nuance according to the feast or liturgical season of the day, and helps to read it in a typological or Christological way, that is, as a voice that also speaks of Christ and the Church.\n\nThus, the same Psalm 100, for example, can sound like simple praise on an ordinary day and take on a Marian or Christmas resonance on another, merely through the antiphon that frames it. The Gospel canticles — the Benedictus at Lauds and the Magnificat at Vespers — likewise have their own antiphons, said before the canticle and repeated at the end, after the \"Glory be to the Father\"; on the greatest solemnities, these antiphons tend to be more elaborate, as happens with the famous \"O Antiphons,\" prayed in the last days of Advent before Christmas.",
+      "tags": [
+        "antiphons",
+        "psalter",
+        "Magnificat",
+        "Benedictus"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 10
+    },
+    {
+      "id": "liturgia-das-horas:te-deum",
+      "slug": "te-deum",
+      "titulo": "The Te Deum",
+      "categoria": "liturgia-das-horas",
+      "resumo": "An ancient hymn of thanksgiving, sung in the Office of Readings on Sundays and on the great feasts, and also on solemn occasions outside the liturgy.",
+      "corpo": "The \"Te Deum laudamus\" (\"We praise you, O God\") is one of the oldest and most solemn hymns of the Latin liturgical tradition, present in the Roman liturgy as early as the sixth century as a chant of the Sunday Office of Matins. Its authorship is uncertain, but scholars today consider Saint Nicetas of Remesiana, a fourth-century bishop, the most likely author; the old legend that attributed its spontaneous composition to Saint Ambrose and Saint Augustine, at the moment of the latter's baptism, is now regarded as merely a pious tradition.\n\nIn the reformed Liturgy of the Hours, the Te Deum is sung or recited at the end of the Office of Readings on Sundays outside Lent, on the days of the octaves of Christmas and Easter, and on solemnities and feasts — thus inheriting the place it held at the end of the old Matins, the hour that gave rise to the present Office of Readings and that could be prayed at any hour of the day after the conciliar reform. Outside the Liturgy of the Hours, the hymn continues to be sung on occasions of particular thanksgiving, such as New Year's Eve or solemn ecclesial events.",
+      "tags": [
+        "Te Deum",
+        "hymn",
+        "office of readings",
+        "thanksgiving"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 11
+    },
+    {
+      "id": "liturgia-das-horas:hora-prima",
+      "slug": "hora-prima",
+      "titulo": "The Hour of Prime (Suppressed in 1970)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "The ancient hour that opened the day right after Lauds in the traditional Breviary was suppressed by the reform of Vatican II because it overlapped with it.",
+      "corpo": "In the old Roman Breviary, prior to the post-conciliar reform, the liturgical day included eight hours: Matins, Lauds, Prime, Terce, Sext, None, Vespers, and Compline. The Hour of Prime, prayed early in the morning after Lauds, had monastic origins, linked to the beginning of work and of the day's activities in religious communities, and included the reading of the Martyrology with the announcement of the saints of the following day.\n\nThe conciliar constitution \"Sacrosanctum Concilium\" expressly decreed, in number 89, subsection \"d\": \"the hour of Prime is to be suppressed\", considering it a duplication of Lauds, with which it overlapped in content and function. In the reformed Liturgy of the Hours of Paul VI (1970), the former minor hours of Terce, Sext, and None were regrouped into the so-called \"Daytime Hour\", of which normally only one is prayed, according to the time of day, completing the leaner structure that remains in force today: Office of Readings, Lauds, Daytime Hour, Vespers, and Compline.",
+      "tags": [
+        "Hour of Prime",
+        "Sacrosanctum Concilium",
+        "Breviary",
+        "liturgical reform"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 12
+    },
+    {
+      "id": "liturgia-das-horas:oficio-parvo-de-nossa-senhora",
+      "slug": "oficio-parvo-de-nossa-senhora",
+      "titulo": "The Little Office of Our Lady",
+      "categoria": "liturgia-das-horas",
+      "resumo": "An abbreviated Marian version of the Divine Office, medieval in origin, still prayed today by some religious orders, third orders, and lay associations.",
+      "corpo": "The Little Office of Our Lady is an abbreviated form of the Common Office of the Blessed Virgin Mary, composed of psalms, canticles, short readings, and prayers arranged according to the same structure as the hours of the Divine Office, but in a simpler way and directed specifically to Marian devotion. Its origin goes back to the Middle Ages, associated by some scholars with the Benedictine monastery of Montecassino as early as the eighth century, and its spread owes much to the revision and encouragement of Saint Peter Damian, Doctor of the Church in the eleventh century, who recommended it first to Benedictine communities and later to the Cistercians and Camaldolese.\n\nOver the centuries, the Little Office also became one of the most popular forms of prayer among the secular clergy and, above all, among lay people connected to third orders, confraternities, and Marian devotional associations, offering them a simpler participation in the continuous prayer of the Church than the complete Divine Office. Even today it is prayed by some women's religious communities and by devout faithful, especially in settings connected to the older liturgical tradition.",
+      "tags": [
+        "Little Office",
+        "Little Office of Our Lady",
+        "Saint Peter Damian",
+        "Marian devotion"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 13
+    },
+    {
+      "id": "liturgia-das-horas:martirologio-romano",
+      "slug": "martirologio-romano",
+      "titulo": "The Roman Martyrology",
+      "categoria": "liturgia-das-horas",
+      "resumo": "The liturgical book that lists, day by day, the saints and blesseds venerated by the Church, traditionally read on the eve of their memorial.",
+      "corpo": "The Roman Martyrology is the official liturgical book that gathers, organized by day of the year, the list of saints and blesseds recognized by the Catholic Church, with a brief biographical note (the \"elogium\") on each one. Despite its name, which recalls the ancient practice of recording the memory of the martyrs in each local church — noting the day of their death, called \"dies natalis\", their \"birth\" into Heaven —, the book, reformed from Rome in the sixteenth century, came to include also confessors, virgins and other non-martyr saints, becoming the official calendar of saints of the whole Latin Church.\n\nIn the old Roman Breviary, the elogium of the next day's saints was read at the end of the Hour of Prime or in the refectory of religious communities — always referring to the following day, and never during the Mass itself. With the suppression of Prime by the conciliar reform, this reading came to be done, where the tradition is maintained, at other moments of the community's day; lay faithful who wish to follow it can incorporate it into their own morning or evening prayer, as a spiritual preparation for the next day's memorial.",
+      "tags": [
+        "Roman Martyrology",
+        "calendar of saints",
+        "hagiography"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 14
+    },
+    {
+      "id": "liturgia-das-horas:canticos-biblicos-na-liturgia-das-horas",
+      "slug": "canticos-biblicos-na-liturgia-das-horas",
+      "titulo": "The Biblical Canticles in the Liturgy of the Hours",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Besides the 150 psalms, the Liturgy of the Hours prays canticles from the Old and New Testaments that complete the psalmody of each hour.",
+      "corpo": "Alongside the 150 psalms, the Liturgy of the Hours includes in its daily psalmody biblical canticles that do not belong to the Psalter but to other books of Scripture. In Lauds, the classic structure alternates a morning psalm, a canticle from the Old Testament — such as the two Canticles of Moses (Exodus 15 and Deuteronomy 32), the Canticle of Hannah (1 Samuel 2), that of Habakkuk, that of Isaiah, or that of Jonah — and a second psalm of praise; in Vespers, the two psalms are followed by a canticle from the New Testament, taken from the apostolic letters or from the Book of Revelation.\n\nEven more prominent are the three great Gospel canticles from the Gospel of Luke, considered the high point of their respective hours: the Benedictus, the canticle of Zechariah at the birth of his son John the Baptist (Lk 1:68-79), which corresponds to Lauds; the Magnificat, the canticle of Mary at the Visitation (Lk 1:46-55), which corresponds to Vespers; and the Nunc Dimittis, the canticle of Simeon on receiving the Child Jesus in the Temple (Lk 2:29-32), which closes Compline every night. Together, these canticles extend the biblical reach of the Divine Office beyond the Psalter, situating all the prayer of the Church within the larger arc of salvation history.",
+      "tags": [
+        "biblical canticles",
+        "Magnificat",
+        "Benedictus",
+        "Nunc Dimittis"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 15
+    },
+    {
+      "id": "liturgia-das-horas:historia-da-liturgia-das-horas",
+      "slug": "historia-da-liturgia-das-horas",
+      "titulo": "A Brief History of the Liturgy of the Hours",
+      "categoria": "liturgia-das-horas",
+      "resumo": "From Saint Pius X's reform of the Breviary in 1911 to Paul VI's promulgation of the current Liturgy of the Hours in 1970.",
+      "corpo": "The Divine Office that the Church prays today is the heir of a long sequence of reforms. In 1911, Saint Pius X promulgated, by the apostolic constitution \"Divino Afflatu\", a profound revision of the Roman Breviary, redistributing the psalms throughout the week in a more balanced way and explicitly announcing that this would be only the first stage of a broader renewal of the Office — work continued, decades later, by the simplification of the calendar of feasts decreed in 1955.\n\nThe most radical reform came from the Second Vatican Council: the constitution \"Sacrosanctum Concilium\" (1963) called for the revision of the Office so that it might once again be prayed in a more accessible way by the laity as well, suppressed the Hour of Prime, and reorganized the minor hours. The work of years, conducted by the study group (\"Coetus\") in charge of the reform, resulted in Paul VI's apostolic constitution \"Laudis Canticum\", promulgated on November 1, 1970, which approved the definitive Latin text of the new \"Liturgy of the Hours\" — a name that officially replaced the old \"Breviary\" — with the Psalter distributed over four weeks and a much broader repertoire of biblical and patristic readings.",
+      "tags": [
+        "Divino Afflatu",
+        "Laudis Canticum",
+        "Pius X",
+        "liturgical reform"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 16
+    },
+    {
+      "id": "liturgia-das-horas:preces-na-liturgia-das-horas",
+      "slug": "preces-na-liturgia-das-horas",
+      "titulo": "The Intercessions at Lauds and Vespers",
+      "categoria": "liturgia-das-horas",
+      "resumo": "The concluding invocations of Lauds and Vespers, with which the Church consecrates the day to God in the morning and intercedes for others in the evening.",
+      "corpo": "After the Gospel canticle and before the concluding prayer, both Lauds and Vespers include a series of brief invocations called \"intercessions\" (preces), in which the assembly (or the one praying alone) responds to each intention with a fixed or variable refrain. Although the structure is similar in the two hours, the tone changes according to the moment of the day: at Lauds, the intercessions tend to be petitions for the day that is opening, consecrating to God the work and the choices of the day; at Vespers, they take on rather the character of intercession for others, closer to the Universal Prayer of the Mass, always ending with an intention for the faithful departed.",
+      "tags": [
+        "intercessions",
+        "Lauds",
+        "Vespers",
+        "intercession"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 17
+    },
+    {
+      "id": "liturgia-das-horas:hinos-na-liturgia-das-horas",
+      "slug": "hinos-na-liturgia-das-horas",
+      "titulo": "The Hymns in the Liturgy of the Hours",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Poetic compositions that open each hour of the Divine Office, heirs to a tradition that goes back to Saint Ambrose of Milan and the poet Prudentius.",
+      "corpo": "Each hour of the Liturgy of the Hours begins, after the introductory verse, with a hymn: a poetic composition, generally strophic and of ancient origin, dedicated to the praise of God and adapted to the particular character of that moment of the day or that liturgical season. The tradition of Christian hymns took shape above all in the Latin West from the end of the fourth century, with Saint Ambrose of Milan — whose hymns, of great popular effectiveness, spread widely and were adopted even by the monks of Saint Benedict in the sixth century — and, in the following generation, with the Hispano-Roman poet Prudentius, whose odes in the \"Cathemerinon\" (\"Book of the Day\"), composed for specific hours and feasts, became a landmark of Christian Latin poetry.\n\nBecause of their lyrical character, the hymns are the most popular and musically free element of the Office, allowing greater variety of melodies and translations than the psalms, and are frequently chosen or composed to highlight the particular meaning of an hour — the joy of the morning in Lauds, the evening in Vespers, the trusting rest in Compline — or of a specific feast of the liturgical calendar.",
+      "tags": [
+        "hymns",
+        "Saint Ambrose",
+        "Prudentius",
+        "liturgical poetry"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 18
+    },
+    {
+      "id": "liturgia-das-horas:tenebrae-oficio-das-trevas",
+      "slug": "tenebrae-oficio-das-trevas",
+      "titulo": "Office of Darkness (Tenebrae)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "An ancient celebration that combined Matins and Lauds on the last three days of Holy Week, marked by the gradual extinguishing of candles until the church was left in darkness.",
+      "corpo": "The Office of Darkness, or Tenebrae, was the joint celebration of Matins and Lauds, anticipated on the evenings before Holy Thursday, Good Friday and Holy Saturday, with records of its practice in European monasteries dating back to the ninth century. Its structure brought together nine psalms and nine readings at Matins, followed by five psalms, the Canticle Benedictus, an antiphon and Psalm 51 at Lauds, all sung while the church grew progressively darker and fifteen candles arranged on a triangular candelabrum — the \"hearse\" — were extinguished one by one.\n\nThe symbolism of the growing darkness was intentional: it expressed the abandonment of Christ, the flight of the disciples and the silence of the Father before the Passion of the Son. The post-conciliar liturgical reform reorganized the Office of Readings and Lauds of the Paschal Triduum without this specific ritual apparatus, but Tenebrae continues to be celebrated, as an optional and much-appreciated tradition, in various religious communities, cathedrals and parishes attached to the older liturgy.",
+      "tags": [
+        "Tenebrae",
+        "Holy Week",
+        "Matins",
+        "liturgical tradition"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 19,
+      "fontes": [
+        "Wikipedia, \"Ofício de Trevas\"",
+        "Biblioteca Católica MBC, \"Ofício das Trevas: o que é e como viver essa tradição na Semana Santa\""
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:breviario-de-quinones",
+      "slug": "breviario-de-quinones",
+      "titulo": "The Quiñones Breviary (1535)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "A radical and short-lived reform of the Divine Office, commissioned by Pope Clement VII from the Franciscan Cardinal Francisco de Quiñones, which simplified the Breviary but was suppressed decades later by the post-Tridentine reaction.",
+      "corpo": "In 1528, Pope Clement VII entrusted the Spanish Franciscan Cardinal Francisco de Quiñones with preparing a simpler and historically more faithful breviary. The result, published in 1535 and approved by Paul III, completely reorganized the Divine Office: the 150 psalms were now to be recited in full in just one week, the scheme of biblical readings was renewed, and readings of doubtful authenticity or purely legendary character were abandoned in favor of more solid biblical and patristic texts.\n\nDespite its initial success among the clergy, the proposal was too radical for its time and was soon attacked by theologians in Paris, Rome and the Iberian Peninsula. Already under the climate of the Counter-Reformation, the Quiñones Breviary was condemned in the wake of the Council of Trent, suppressed by Pope Paul IV in 1558 and definitively prohibited by Pius V in 1568, when he promulgated the Tridentine Roman Breviary, which would remain in force, with few changes, until the twentieth century.",
+      "tags": [
+        "Breviary",
+        "Francisco de Quiñones",
+        "Council of Trent",
+        "history of the liturgy"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 20,
+      "fontes": [
+        "Franciscanos.org, \"Francisco de Quiñones\"",
+        "Mercaba, \"Transformaciones, Desarrollos, Reformas\" (liturgical)"
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:vigilia-prolongada",
+      "slug": "vigilia-prolongada",
+      "titulo": "The Extended Vigil",
+      "categoria": "liturgia-das-horas",
+      "resumo": "On certain solemnities, especially Christmas and Pentecost, the General Instruction of the Liturgy of the Hours provides for the possibility of extending the Office of Readings into a longer night vigil.",
+      "corpo": "The General Instruction of the Liturgy of the Hours (no. 71) acknowledges that, like the Easter Vigil, it has become a custom in various Churches to begin certain solemnities with a vigil — notably Christmas and Pentecost — and recommends that this custom be maintained and promoted according to the proper usage of each particular Church. Where it is appropriate to celebrate other solemnities or pilgrimages with a similar vigil, the norms proper to celebrations of the Word of God are to be followed.\n\nThis possibility recovers, in a moderate form, an ancient practice of monastic life, in which communities gathered during the night for a longer prayer, richer in readings, before the dawn of a great feast — distinct from the ordinary day-to-day Office of Readings both in length and in the festive and communal character that the vigil takes on.",
+      "tags": [
+        "vigil",
+        "office of readings",
+        "Christmas",
+        "Pentecost"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 21,
+      "fontes": [
+        "General Instruction of the Liturgy of the Hours, no. 71"
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:obrigacao-canonica-do-oficio-divino",
+      "slug": "obrigacao-canonica-do-oficio-divino",
+      "titulo": "The Canonical Obligation to Pray the Divine Office",
+      "categoria": "liturgia-das-horas",
+      "resumo": "The Code of Canon Law obliges priests and deacons to pray the Liturgy of the Hours daily, according to the approved liturgical books, as part of their pursuit of the holiness proper to the clerical state.",
+      "corpo": "Canon 276, §2, 3° of the 1983 Code of Canon Law establishes that \"priests and deacons aspiring to the priesthood are obliged to carry out the Liturgy of the Hours daily according to the proper and approved liturgical books\"; permanent deacons, for their part, have this obligation in the terms established by their respective Episcopal Conference. The norm is part of a broader canon that reminds clerics of their particular obligation to strive for holiness, since, consecrated to God by a new title in the reception of orders, they become stewards of the mysteries of God in the service of His people.\n\nThis obligation can be fulfilled either individually or in community, although communal celebration is always preferable when possible; religious bound by vows may instead have the exact extent of this obligation regulated by the particular law of their institute.",
+      "tags": [
+        "canon law",
+        "clergy",
+        "obligation"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 22,
+      "fontes": [
+        "Code of Canon Law (1983), can. 276 §2, 3°"
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:ordo-liturgico-anual",
+      "slug": "ordo-liturgico-anual",
+      "titulo": "The Annual Liturgical \"Ordo\"",
+      "categoria": "liturgia-das-horas",
+      "resumo": "A small book published each year by each episcopal conference or diocese, indicating day by day which celebration, liturgical color, and proper texts of the Mass and the Divine Office are to be used.",
+      "corpo": "Because the liturgical calendar combines, for each day of the year, the Proper of Time, the Proper of Saints, and any particular calendars of a diocese, country, or religious order, it is not always simple to work out on one's own which celebration takes precedence and which texts to use at Mass and in the Divine Office on a specific day. For this reason, each episcopal conference publishes an \"Ordo\" every year — in Brazil, the Liturgical Directory of the CNBB, distributed to all the dioceses — which gives, day by day, the rank of the celebration, the proper parts, any specific rubrics, and the indication of when a saint of the day is suppressed by a celebration of higher rank.\n\nThis kind of detailed calendar has existed, in more rudimentary forms, for centuries, but it became much more standardized after the liturgical reform of 1969-1970, which unified the structure of ranks of celebration (solemnity, feast, memorial) throughout the Roman Rite.",
+      "tags": [
+        "Ordo",
+        "liturgical calendar",
+        "Liturgical Directory",
+        "CNBB"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 23,
+      "fontes": [
+        "Apologética Católica, \"Ordo Litúrgico 2021 com próprio do Brasil\""
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:liturgia-das-horas-em-lingua-vernacula",
+      "slug": "liturgia-das-horas-em-lingua-vernacula",
+      "titulo": "The Liturgy of the Hours in the Vernacular",
+      "categoria": "liturgia-das-horas",
+      "resumo": "The permission to pray the Divine Office also in the living languages of the peoples, and not only in Latin, was one of the first practical fruits of the liturgical reform of the Second Vatican Council.",
+      "corpo": "The constitution \"Sacrosanctum Concilium\" (1963) opened the way for a broader use of the vernacular language in the liturgy, \"especially in the readings, directives, and in some of the prayers and chants\", overcoming the almost total exclusivity of Latin that had prevailed until then. The first practical application came with the instruction \"Inter Oecumenici\", published on September 26, 1964 by the Sacred Congregation of Rites and by the \"Consilium\" in charge of the reform, which established the general principles for the orderly implementation of the liturgical renewal.\n\nIn the following years, the permission was progressively broadened, until the promulgation of the reformed \"Liturgia Horarum\" (1970-1971) allowed episcopal conferences throughout the world to authorize fully vernacular editions of the Divine Office — giving rise to translations such as the \"Liturgia das Horas\" in Portuguese, which made the official prayer of the Church truly accessible also to the laity on a large scale, one of the explicit goals of the conciliar reform.",
+      "tags": [
+        "Sacrosanctum Concilium",
+        "vernacular language",
+        "liturgical reform"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 24,
+      "fontes": [
+        "Second Vatican Council, Constitution \"Sacrosanctum Concilium\", nos. 36 and 101",
+        "Vatican News, \"SC: The Instructions of the Sacred Congregation of Rites\""
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:edicao-abreviada-popular",
+      "slug": "edicao-abreviada-popular",
+      "titulo": "The Abridged and Popular Edition of the Office",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Alongside the complete four-volume edition, there are shorter, single-volume editions of the Liturgy of the Hours, designed for lay people, permanent deacons, and communities that do not pray the Office in its entirety.",
+      "corpo": "In addition to the typical edition in four volumes, arranged according to the seasons of the liturgical year and intended chiefly for clerics and religious communities who pray the complete Office, Catholic publishers also issue shorter single-volume versions — such as the \"Liturgia das Horas – edição abreviada com Hora Intermédia\" (Liturgy of the Hours – abridged edition with Daytime Prayer), now in its eighth edition in the Portuguese language —, generally containing Lauds, a Daytime Prayer, Vespers, and Compline, with a simplified psalter cycle.\n\nThese popular editions make the official prayer of the Church practically accessible outside clerical and religious settings, serving above all lay people and permanent deacons; similar editions exist in other languages, such as \"Christian Prayer\" and \"Shorter Christian Prayer\" in the English-speaking world, all of them an expression of the desire, already voiced by the Second Vatican Council, for broader lay participation in the Liturgy of the Hours.",
+      "tags": [
+        "Breviary",
+        "abridged edition",
+        "lay people"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 25,
+      "fontes": [
+        "National Secretariat for the Liturgy (Portugal), «Liturgia das Horas – Edição Abreviada»"
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:horologion-rito-bizantino",
+      "slug": "horologion-rito-bizantino",
+      "titulo": "The Horologion: The Byzantine Equivalent of the Liturgy of the Hours",
+      "categoria": "liturgia-das-horas",
+      "resumo": "In the Churches of the Byzantine rite, both Orthodox and Eastern Catholic, the book corresponding to the Roman Divine Office is called the Horologion, with its own structure of eight hours.",
+      "corpo": "The Horologion — literally \"book of the hours\" — is the liturgical book that gathers, in the Byzantine rite, the ordinary and a limited repertoire of proper texts for the eight offices of the daily cycle, both in the Orthodox Churches and in the Eastern Catholic Churches in full communion with Rome: Midnight Office (Mesonyktikon), Matins (Orthros), First Hour, Third Hour, Sixth Hour, Ninth Hour, Vespers (Hesperinos) and Compline (Apodeipnon). It is primarily a book for the use of the reader and the cantor, distinct from the Euchologion, which gathers the proper texts of the priest and the deacon.\n\nAlthough its structure is quite different from the Liturgy of the Hours of the Roman Rite, the Horologion fulfills an analogous role in sanctifying the hours of the day through psalmody, hymnography and biblical readings — a reminder that continuous prayer throughout the day is an apostolic root common to the whole Christian tradition, Eastern and Western.",
+      "tags": [
+        "Horologion",
+        "Byzantine rite",
+        "Eastern rites"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 26,
+      "fontes": [
+        "OrthodoxWiki, \"Horologion\"",
+        "Wikitólica Encyclopedia, \"Byzantine Rite\""
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:antifonas-do-o",
+      "slug": "antifonas-do-o",
+      "titulo": "The \"O\" Antiphons",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Seven antiphons sung before and after the Magnificat at Vespers between December 17 and 23, each invoking Christ by a different messianic title from the Old Testament.",
+      "corpo": "Composed between the seventh and eighth centuries, the \"O\" Antiphons form a small compendium of the Christology of the early Church, summing up the longing for salvation of both the Israel of the Old Testament and the Church of the New. They are seven invocations to Christ, each centered on a different messianic title: O Wisdom, O Adonai (Lord), O Root of Jesse, O Key of David, O Dawn (Rising Sun), O King of the Nations and O Emmanuel, sung before and after the Magnificat at Vespers during the last seven days before Christmas Eve.\n\nA curious detail confirms that the seven were deliberately composed as a single set: read in reverse order, the Latin initials of the titles (Sapientia, Adonai, Radix, Clavis, Oriens, Rex, Emmanuel) form the acrostic \"ERO CRAS\", which means \"tomorrow I will be\" or \"tomorrow I will come\" — a poetic signature that heightens the messianic expectation of Advent in its final week, and which directly inspired the hymn \"O Come, O Come, Emmanuel\".",
+      "tags": [
+        "O Antiphons",
+        "Advent",
+        "Magnificat",
+        "Vespers"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 27,
+      "fontes": [
+        "Wikipedia, \"O Antiphons\"",
+        "ACI Digital, \"The seven Advent antiphons prayed in the week before Christmas\""
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:leitura-breve-e-responsorio-breve",
+      "slug": "leitura-breve-e-responsorio-breve",
+      "titulo": "The Short Reading and the Short Responsory",
+      "categoria": "liturgia-das-horas",
+      "resumo": "In every hour except the Office of Readings and the Invitatory, a short passage of Scripture followed by a short responsory takes the place that, in Lauds and Vespers, belongs to the longer reading.",
+      "corpo": "The general structure of each hour of the Liturgy of the Hours includes, after the hymn and the psalmody, a reading from Sacred Scripture, either long or short, followed by a responsory. In Lauds and Vespers, the \"short reading\" normally prevails, replaceable by a longer reading on special occasions, followed by the \"short responsory\": a brief responsorial chant that may be omitted or replaced by another chant with an equivalent function, provided it has been duly approved by the Episcopal Conference.\n\nIn Daytime Prayer, this same structure of a short reading followed by a short responsory is repeated in each of the little hours, with the text changing according to the day, the week, or the liturgical season, always highlighting some biblical thought suited to that specific moment of the day. However compact they may be, these short readings fulfill the same function as every proclamation of the Word of God in the liturgy: they are not a mere ornament, but the center around which each hour of the Office revolves.",
+      "tags": [
+        "short reading",
+        "short responsory",
+        "Daytime Prayer",
+        "liturgical structure"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 28,
+      "fontes": [
+        "General Instruction of the Liturgy of the Hours, ch. III"
+      ]
+    }
+  ]
+}

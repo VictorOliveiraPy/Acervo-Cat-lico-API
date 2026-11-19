@@ -1,0 +1,420 @@
+{
+  "_meta": {
+    "categoria": "estrutura-igreja",
+    "nome": "Structure of the Church",
+    "descricao": "How the Catholic Church is organized and governed: from the Pope to the parish, the Curia, canon law and the clergy.",
+    "status": "exemplos-iniciais",
+    "aviso": "An introductory overview of ecclesiastical organization; concrete cases of canon law always require consulting a canonist.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Code of Canon Law (1983)",
+      "Second Vatican Council, Dogmatic Constitution «Lumen Gentium» (1964)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "estrutura-igreja:papa",
+      "slug": "papa",
+      "titulo": "The Pope (Bishop of Rome)",
+      "categoria": "estrutura-igreja",
+      "resumo": "The Bishop of Rome, successor of Saint Peter, who exercises supreme, full, immediate, and universal authority over the whole Catholic Church.",
+      "corpo": "The Pope is the Bishop of Rome and, by virtue of this very see, the successor of Saint Peter in the primacy over the college of the apostles, exercising \"supreme, full, immediate, and universal\" authority over the whole Catholic Church — not merely honorary, but a real jurisdiction over every diocese and every member of the faithful. He is elected by a conclave of cardinals and remains in office until death or, in rare cases, resignation.",
+      "tags": [
+        "hierarchy",
+        "papacy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/St._Peter%27s_Basilica_Rome_-_20140808_2350.jpg",
+      "imagem_credito": null,
+      "ordem": 1,
+      "fontes": [
+        "Code of Canon Law (1983)"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:colegio-cardinalicio",
+      "slug": "colegio-cardinalicio",
+      "titulo": "The College of Cardinals",
+      "categoria": "estrutura-igreja",
+      "resumo": "A body of bishops and, more rarely, priests chosen by the Pope as his principal advisers, responsible for electing his successor.",
+      "corpo": "The cardinals form a special body of advisers to the Pope, both individually and gathered in consistory, honorifically distributed among the ancient orders of cardinal bishops, cardinal priests, and cardinal deacons. Their most publicly visible function is the election of the new Pope in conclave, but in day-to-day life many head dicasteries of the Roman Curia or govern their own dioceses around the world.",
+      "tags": [
+        "hierarchy",
+        "cardinals",
+        "conclave"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/St._Peter%27s_Basilica_Rome_-_20140808_2350.jpg",
+      "imagem_credito": null,
+      "ordem": 2,
+      "fontes": [
+        "Code of Canon Law (1983)"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:curia-romana",
+      "slug": "curia-romana",
+      "titulo": "The Roman Curia",
+      "categoria": "estrutura-igreja",
+      "resumo": "The set of dicasteries and bodies that assist the Pope in governing the universal Church.",
+      "corpo": "The Roman Curia is the central administrative structure that assists the Pope in the exercise of his mission as supreme pastor — bringing together dicasteries (the equivalent of ministries), tribunals, and other bodies specialized in areas such as doctrine, divine worship, clergy, evangelization, or charity. It was most recently reformed by the apostolic constitution «Praedicate Evangelium» (2022), by Francis.",
+      "tags": [
+        "hierarchy",
+        "Roman Curia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/St._Peter%27s_Basilica_Rome_-_20140808_2350.jpg",
+      "imagem_credito": null,
+      "ordem": 3,
+      "fontes": [
+        "Francis, Apostolic Constitution «Praedicate Evangelium» (2022)"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:bispo-diocesano",
+      "slug": "bispo-diocesano",
+      "titulo": "The Diocesan Bishop",
+      "resumo": "The proper pastor of a particular Church (diocese), successor of the apostles, with ordinary, proper, and immediate power to teach, govern, and sanctify his territory.",
+      "corpo": "The diocesan bishop is the proper pastor of a particular Church. Canon 369 defines a diocese as a portion of the people of God entrusted to a bishop for him to shepherd with the cooperation of the presbyterate, so that, adhering to its pastor and gathered by him in the Holy Spirit through the Gospel and the Eucharist, it constitutes a particular Church in which the one, holy, catholic, and apostolic Church of Christ is truly present and operative. Unless the contrary is evident, a territorial prelature, a territorial abbacy, an apostolic vicariate, an apostolic prefecture, and a stably established apostolic administration are equivalent to a diocese; and it belongs exclusively to the supreme authority to erect particular Churches (cann. 368, 373).\n\nCatholic theology sees in the bishop a successor of the apostles. Canon 375 § 1 states that bishops, by divine institution, succeed the apostles through the Holy Spirit who has been given to them, and are constituted pastors in the Church so that they are teachers of doctrine, priests of sacred worship, and ministers of governance. The Dogmatic Constitution Lumen Gentium of the Second Vatican Council, promulgated by Paul VI on November 21, 1964, and approved by 2,151 votes in favor and 5 against, explains in no. 27 that bishops govern the particular Churches entrusted to them as vicars and legates of Christ, with proper, ordinary, and immediate power, although exercised in communion with the Pope and the college of bishops.\n\nHe is therefore not a mere administrative delegate of the Roman Pontiff: through episcopal ordination he receives the full power to teach, govern, and sanctify. To the diocesan bishop belongs, in the diocese entrusted to him, all ordinary, proper, and immediate power required for the exercise of his pastoral office, except for those cases which the law or a decree of the Supreme Pontiff reserves to the supreme authority or to another ecclesiastical authority (cf. can. 381). Distinct from him are coadjutor bishops, who have the right of succession, and auxiliary bishops, who assist him without the right of succession (can. 403). The diocesan bishop represents the diocese in all its juridical affairs (can. 393), and it is for him, among other responsibilities, to regulate the lawful celebration of the Eucharist for his people.",
+      "categoria": "estrutura-igreja",
+      "tags": [
+        "diocesan bishop",
+        "episcopate",
+        "diocese",
+        "apostolic succession",
+        "hierarchy",
+        "Second Vatican Council"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Code of Canon Law (1983), canons 368, 369, 373, 375, 381, 393, 403",
+        "Second Vatican Council, Dogmatic Constitution Lumen Gentium (November 21, 1964), nos. 21-27",
+        "Wikipedia (en), 'Lumen gentium'"
+      ],
+      "atualizado_em": null,
+      "ordem": 4
+    },
+    {
+      "id": "estrutura-igreja:paroquia",
+      "slug": "paroquia",
+      "titulo": "The Parish",
+      "resumo": "A community of the faithful stably established in the particular Church, entrusted to the pastoral care of a pastor under the authority of the diocesan bishop.",
+      "corpo": "The parish is defined by the 1983 Code of Canon Law as a certain community of the Christian faithful stably established within a particular Church, whose pastoral care is entrusted to a pastor as its own shepherd, under the authority of the diocesan bishop (can. 515 §1). To erect, suppress, or notably alter a parish belongs exclusively to the diocesan bishop, who must first hear the presbyteral council; once legitimately erected, a parish possesses juridic personality by the law itself (can. 515 §§2-3).\n\nThe general rule is the territorial parish, but canon 518 provides that, where it is expedient, personal parishes are also to be established, determined on the basis of the rite, language, or nationality of the faithful of a certain territory, or even for some other specific reason. The law equates with the parish the quasi-parish: a community of the faithful entrusted to a priest as its own pastor which, due to particular circumstances, has not yet been erected as a parish (can. 516 §1).\n\nThe pastor is the proper shepherd of the community entrusted to him and exercises pastoral care under the authority of the diocesan bishop, whose ministry of Christ he is called to share, so that for that community he may carry out the functions of teaching, sanctifying, and governing, with the cooperation of other presbyters or deacons (can. 519). Among his reserved functions, canon 530 lists such duties as the administration of baptism and confirmation in certain cases, Viaticum for the sick, and funerals; the pastor represents the parish in juridical matters (can. 532) and is obliged to reside in the parish (can. 533). On completing 75 years of age, he is requested to submit his resignation from office (can. 538 §3).\n\nThe parish is the pastoral cell with which most Catholics live in direct contact — the ordinary place for the administration of the sacraments, catechesis, and liturgical and community life. According to canon 374 §1, every diocese is divided into distinct parts, the parishes, which can be grouped into vicariates forane to foster common pastoral action. Alongside the pastor, parochial governance also provides for the pastoral council (can. 536) and the finance council (can. 537).",
+      "categoria": "estrutura-igreja",
+      "tags": [
+        "parish",
+        "pastor",
+        "diocese",
+        "hierarchy",
+        "particular Church",
+        "quasi-parish"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Interior_da_par%C3%B3quia_Nossa_Senhora_do_Ros%C3%A1rio_%28Porto_Alegre%29.jpg",
+      "imagem_credito": "Wikimedia Commons, CC BY-SA 4.0 license",
+      "fontes": [
+        "Code of Canon Law (1983), canons 515-537, especially 515, 516, 518, 519, 530, 532, 538",
+        "Wikipedia (pt), 'Paróquia'"
+      ],
+      "atualizado_em": null,
+      "ordem": 5
+    },
+    {
+      "id": "estrutura-igreja:conferencia-episcopal",
+      "slug": "conferencia-episcopal",
+      "titulo": "Episcopal Conference",
+      "resumo": "A permanent institution that brings together the bishops of a nation or territory to jointly exercise certain pastoral functions, without replacing each bishop's own authority over his diocese.",
+      "corpo": "An episcopal conference is, according to the 1983 Code of Canon Law, a permanent institution that brings together the bishops of a nation or of a given territory to exercise jointly certain pastoral functions on behalf of the faithful, in order to promote the greater good which the Church offers to mankind, adapting forms and methods of the apostolate to the circumstances of time and place (can. 447). All the diocesan bishops of the territory and those equivalent to them in law belong to it, as well as coadjutor bishops, auxiliary bishops and titular bishops who perform a special function there (cf. can. 450 and Apostolos Suos, no. 7). The conference has its own statutes, a president, a permanent council and a general secretariat (can. 451-458).\n\nIts authority is, however, limited: the conference can issue general decrees with binding force only when universal law prescribes it or when a special mandate of the Holy See authorizes it; in these cases, to be binding, the decrees must be approved by two thirds of the members and receive the confirmation of the Apostolic See (cf. can. 455). In matters of teaching, the bishops gathered in conference, although they do not enjoy the charism of infallibility, are authentic teachers and instructors of the faith, and the faithful must adhere to their magisterium with religious submission of mind (cf. Apostolos Suos, no. 7, citing Lumen Gentium, no. 25).\n\nThe theological foundation was laid down by the Second Vatican Council, whose decree Christus Dominus, on the pastoral office of bishops, promulgated by Paul VI on October 28, 1965, recognized the usefulness and even the necessity of these bodies for giving concrete expression to episcopal collegiality. In 1966, Paul VI, by the motu proprio Ecclesiae Sanctae, determined that conferences should be established where they did not yet exist, that those already formed should draw up their own statutes, and that conferences of several nations could be erected. The question of the extent and limits of the authority of the conferences gave rise to a lasting theological debate, especially concerning the inalienable responsibility of each bishop toward the universal Church and his particular Church, a caution already formulated by the Extraordinary Assembly of the Synod of Bishops of 1985. This debate was systematized by John Paul II in the apostolic letter issued motu proprio Apostolos Suos, of May 21, 1998, on the theological and juridical nature of episcopal conferences, which reaffirmed that no bishop can renounce his sacred power in favor of the conference or of part of it.\n\nThe Brazilian case is one of the oldest. The National Conference of the Bishops of Brazil (CNBB) was founded on October 14, 1952, in Rio de Janeiro, then the federal capital, among the first national episcopal conferences in the world and the first in Latin America. One of its originators was Dom Hélder Câmara, then auxiliary bishop of Rio de Janeiro, who was elected its first secretary general (1952-1958); the first president was Cardinal Carlos Carmelo de Vasconcelos Motta, Archbishop of São Paulo. On April 11, 1967, the CNBB was declared a public-utility entity by federal decree, and in 1977 its headquarters was moved from Rio de Janeiro to Brasília. It currently brings together about 370 bishops and is organized into general assemblies, regional assemblies and pastoral commissions.",
+      "categoria": "estrutura-igreja",
+      "tags": [
+        "episcopal conference",
+        "collegiality",
+        "hierarchy",
+        "CNBB",
+        "Hélder Câmara",
+        "Second Vatican Council",
+        "episcopate"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/H%C3%A9lder_C%C3%A2mara_%281974%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Code of Canon Law (1983), canons 447-459",
+        "John Paul II, Apostolic Letter Apostolos Suos (May 21, 1998)",
+        "Second Vatican Council, Decree Christus Dominus (October 28, 1965)",
+        "Paul VI, Motu Proprio Ecclesiae Sanctae (1966)",
+        "Second Vatican Council, Constitution Lumen Gentium, no. 25",
+        "Wikipedia (pt), 'Conferência Nacional dos Bispos do Brasil'"
+      ],
+      "atualizado_em": null,
+      "ordem": 6
+    },
+    {
+      "id": "estrutura-igreja:sinodo-dos-bispos",
+      "slug": "sinodo-dos-bispos",
+      "titulo": "Synod of Bishops",
+      "categoria": "estrutura-igreja",
+      "resumo": "A periodic assembly of bishops representing the whole world, convened by the Pope to advise him on relevant matters concerning the universal Church.",
+      "corpo": "Established by Paul VI shortly after the Second Vatican Council (1965), the Synod of Bishops periodically gathers representatives of the world episcopate to discuss and advise the Pope on relevant matters concerning the universal Church — such as the recent synods on the family (2014-2015) and on synodality (2021-2024). It is a consultative body, not a legislative one: its conclusions become normative only if and when the Pope formally accepts them.",
+      "tags": [
+        "hierarchy",
+        "synod",
+        "Second Vatican Council"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/St._Peter%27s_Basilica_Rome_-_20140808_2350.jpg",
+      "imagem_credito": null,
+      "ordem": 7,
+      "fontes": [
+        "Code of Canon Law (1983)"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:clero-secular-e-religioso",
+      "slug": "clero-secular-e-religioso",
+      "titulo": "Secular Clergy and Religious Clergy",
+      "categoria": "estrutura-igreja",
+      "resumo": "The distinction between priests incardinated in a diocese (secular) and priests who are members of a religious order or congregation.",
+      "corpo": "The \"secular\" (or diocesan) clergy is made up of priests incardinated in a specific diocese, under the direct obedience of the local bishop, generally without a vow of communal poverty. The \"religious\" clergy is made up of priests who are members of a religious order, congregation or institute (Jesuits, Franciscans, Dominicans, etc.), living the vows proper to their religious family and answering also to the superiors of their own order, in addition to the bishop of the territory where they work.",
+      "tags": [
+        "hierarchy",
+        "clergy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Nicolas_Poussin_-_The_Sacrament_of_Ordination_%28Christ_Presenting_the_Keys_to_Saint_Peter%29_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 8,
+      "fontes": [
+        "Code of Canon Law (1983)"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:diaconato-permanente",
+      "slug": "diaconato-permanente",
+      "titulo": "Permanent Diaconate",
+      "categoria": "estrutura-igreja",
+      "resumo": "A degree of Holy Orders restored by the Second Vatican Council as a permanent state of life, also open to married men.",
+      "corpo": "Restored by the Second Vatican Council as a permanent state of life (and not merely a stage of transition to the priesthood), the permanent diaconate may be exercised by married men of more mature age, devoted to ministries such as the proclamation of the Gospel, the celebration of baptisms and marriages, and works of charity, without the power to consecrate the Eucharist or to absolve in Confession, which belongs only to priests and bishops.",
+      "tags": [
+        "hierarchy",
+        "diaconate",
+        "orders"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Nicolas_Poussin_-_The_Sacrament_of_Ordination_%28Christ_Presenting_the_Keys_to_Saint_Peter%29_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 9,
+      "fontes": [
+        "Second Vatican Council, Dogmatic Constitution «Lumen Gentium», no. 29 (1964)"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:direito-canonico",
+      "slug": "direito-canonico",
+      "titulo": "Canon Law",
+      "categoria": "estrutura-igreja",
+      "resumo": "The body of ecclesiastical laws that organizes the life, governance, and discipline of the Catholic Church.",
+      "corpo": "The Code of Canon Law — in the version in force for the Latin Church, promulgated in 1983 by John Paul II — gathers the legal norms that organize the sacraments, ecclesiastical governance, marriage nullity processes, the rights and duties of the faithful, and the discipline of the clergy. The Eastern Catholic Churches have their own code, the «Code of Canons of the Eastern Churches» (1990).",
+      "tags": [
+        "canon law",
+        "governance of the Church"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Papa_Gregorio_IX.png",
+      "imagem_credito": null,
+      "ordem": 10,
+      "fontes": [
+        "Code of Canon Law (1983)"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:nuncio-apostolico",
+      "slug": "nuncio-apostolico",
+      "titulo": "Apostolic Nuncio",
+      "categoria": "estrutura-igreja",
+      "resumo": "Permanent diplomatic representative of the Holy See to a State and, at the same time, the link between the Pope and the particular Churches of that country.",
+      "corpo": "The apostolic nuncio is the ambassador of the Holy See — a juridical person under international law distinct from the Vatican City State — to a foreign government or to international organizations, an office governed by canons 362 to 367 of the Code of Canon Law, in the chapter devoted to the \"Legates of the Roman Pontiff.\" He usually holds the dignity of archbishop and is chosen from among diplomats trained at the Pontifical Ecclesiastical Academy, the diplomatic corps of the Holy See.\n\nBesides diplomatic representation proper before the host State, the nuncio has an eminently pastoral function with regard to the local Church: he follows the life of the dioceses of the country, informs the Holy See about the situation of the Church and of society, and plays a central role in preparing the lists of candidates for the episcopate that are submitted to the Pope. In Brazil, the Apostolic Nunciature in Brasília has fulfilled this twofold role since the proclamation of the Republic.",
+      "tags": [
+        "Vatican diplomacy",
+        "hierarchy",
+        "canon law"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 11,
+      "fontes": [
+        "Code of Canon Law (1983), can. 362-367"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:provincia-eclesiastica",
+      "slug": "provincia-eclesiastica",
+      "titulo": "Metropolitan Archdiocese and Ecclesiastical Province",
+      "categoria": "estrutura-igreja",
+      "resumo": "A grouping of neighboring dioceses (suffragans) under the honorary presidency of a metropolitan archdiocese, to foster common pastoral action among nearby bishops.",
+      "corpo": "An ecclesiastical province brings together several geographically close dioceses — called suffragans — around a principal see, the metropolitan archdiocese, governed by canons 431 to 446 of the Code of Canon Law. Its purpose is to promote common pastoral action among neighboring bishops and to facilitate closer mutual relations than those provided by the national episcopal conference alone, which is generally broader.\n\nThe metropolitan archbishop presides over the province with honorary precedence and some limited functions of oversight — for example, in specific circumstances provided for by law, he may conduct a canonical visitation of a suffragan diocese that is neglecting it —, but he does not interfere in the ordinary governance of each diocese, which remains entirely the responsibility of the respective diocesan bishop. Several ecclesiastical provinces of the same country usually, in turn, group together into ecclesiastical regions within the episcopal conference.",
+      "tags": [
+        "hierarchy",
+        "archdiocese",
+        "canon law"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 12,
+      "fontes": [
+        "Code of Canon Law (1983), can. 431-446"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:se-vacante",
+      "slug": "se-vacante",
+      "titulo": "Sede Vacante",
+      "categoria": "estrutura-igreja",
+      "resumo": "The period between the death or valid resignation of a Pope (or of a diocesan bishop) and the election or appointment of his successor, during which ordinary governance is suspended or limited.",
+      "corpo": "\"Sede vacante\" designates the interval in which an episcopal see — that of Rome or of any particular diocese — is without a titular bishop, because of the death, accepted resignation, transfer or removal of the previous bishop. In the case of the See of Rome, this period is now regulated by the apostolic constitution \"Universi Dominici Gregis\" (1996), which entrusts to the College of Cardinals only the dispatch of ordinary and urgent matters and the preparation of the conclave — canon 335 of the Code of Canon Law is explicit in forbidding any innovation in the governance of the universal Church while the Apostolic See is vacant.\n\nWithin a particular diocese, the vacancy is normally filled by a diocesan administrator elected by the college of consultors, with powers likewise limited to ordinary administration, until the Pope appoints a new bishop. In both cases, the underlying principle is the same: whoever governs the Church on an interim basis during the vacancy cannot take the place of the proper authority — papal or episcopal — which, by definition, is temporarily absent.",
+      "tags": [
+        "hierarchy",
+        "governance of the Church",
+        "conclave",
+        "canon law"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 13,
+      "fontes": [
+        "Code of Canon Law (1983), cann. 335, 421",
+        "John Paul II, Apostolic Constitution \"Universi Dominici Gregis\" (1996)"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:vicariato-apostolico",
+      "slug": "vicariato-apostolico",
+      "titulo": "Apostolic Vicariate and Apostolic Prefecture",
+      "categoria": "estrutura-igreja",
+      "resumo": "Ecclesiastical jurisdictions in mission territories, not yet organized as full dioceses, entrusted to an apostolic vicar or an apostolic prefect who governs in the name of the Pope.",
+      "corpo": "Apostolic vicariates and apostolic prefectures are portions of the People of God that, due to particular circumstances—usually the still initial phase of evangelization of a territory—, do not meet the conditions to be erected as full dioceses. Canon 368 of the Code of Canon Law equates them with dioceses for general juridical purposes, but their governance is exercised not by a diocesan bishop, but by an apostolic vicar (as a rule already ordained a titular bishop) or by an apostolic prefect (often still a presbyter), who act as representatives of the Pope, and not in their own name.\n\nThe normal sequence of institutional maturing of a mission territory is progressive: first a simple mission, then an apostolic prefecture, next an apostolic vicariate and, finally, an established diocese—a path historically followed by numerous regions of the Americas, Africa and Asia as a local Catholic community and a sufficiently structured native clergy were consolidated there.",
+      "tags": [
+        "mission territories",
+        "hierarchy",
+        "canon law"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 14,
+      "fontes": [
+        "Code of Canon Law (1983), can. 368-371"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:prelazia-pessoal",
+      "slug": "prelazia-pessoal",
+      "titulo": "Personal Prelature",
+      "categoria": "estrutura-igreja",
+      "resumo": "An ecclesiastical circumscription without territorial limits, erected by the Holy See to carry out specific pastoral or missionary activities; Opus Dei is, to this day, its only realization.",
+      "corpo": "Unlike a diocese or an apostolic vicariate, which are delimited by territory, a personal prelature gathers its faithful — priests, deacons and, occasionally, associated lay people — regardless of where they live, around a specific pastoral or missionary mission. The institution was introduced in the 1983 Code of Canon Law (canons 294 to 297, revised by the motu proprio «Le prelature personali» of 2023) to give juridical coverage to forms of pastoral organization that did not fit the classical territorial model of the diocese and the parish.\n\nTo this day, Opus Dei — founded by the Spanish priest Josemaría Escrivá in 1928 — is the only personal prelature erected by the Holy See, which took place in 1982 through the apostolic constitution «Ut Sit» of John Paul II. The prelature is governed, besides the universal law of the Church, by its own particular statutes approved by the Holy See, and its prelate exercises proper jurisdiction over the clergy incardinated in the prelature, although the lay people who take part in it remain fully subject to the bishop of the diocese where they reside.",
+      "tags": [
+        "Opus Dei",
+        "hierarchy",
+        "canon law"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 15,
+      "fontes": [
+        "Code of Canon Law (1983), can. 294-297",
+        "John Paul II, Apostolic Constitution «Ut Sit» (1982)"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:ordinariato-pessoal",
+      "slug": "ordinariato-pessoal",
+      "titulo": "Personal Ordinariate",
+      "categoria": "estrutura-igreja",
+      "resumo": "An ecclesiastical circumscription equivalent to a diocese, established to receive groups of faithful coming from Anglicanism who enter into full communion with Rome while preserving elements of their liturgical patrimony.",
+      "corpo": "Established by the apostolic constitution «Anglicanorum Coetibus» of Benedict XVI in November 2009, the personal ordinariate is an ecclesiastical circumscription juridically equivalent to a diocese, but without a fixed territory, governed by an ordinary — who may be a married priest coming from Anglicanism, although he cannot be consecrated a bishop — appointed by the Pope. Its purpose is to receive groups of Anglicans who wish to enter into full Catholic communion while preserving elements of their Anglican liturgical and spiritual tradition, now gathered under the designation «Ordinariate Use» of the Roman liturgy.\n\nThere are currently three personal ordinariates of this type: the Personal Ordinariate of Our Lady of Walsingham, in England and Wales; the Chair of Saint Peter, in the United States; and Our Lady of the Southern Cross, in Australia. Each ordinariate is subject to the Dicastery for the Doctrine of the Faith and, for other matters, to the competent bodies of the Roman Curia, in the same way as an ordinary diocese.",
+      "tags": [
+        "Anglicanism",
+        "hierarchy",
+        "ecumenism",
+        "canon law"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 16,
+      "fontes": [
+        "Benedict XVI, Apostolic Constitution «Anglicanorum Coetibus» (November 4, 2009)"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:rota-romana",
+      "slug": "rota-romana",
+      "titulo": "Tribunal of the Roman Rota",
+      "categoria": "estrutura-igreja",
+      "resumo": "Ordinary appellate tribunal of the Holy See, the main higher instance in ecclesiastical proceedings — above all those concerning matrimonial nullity — coming from diocesan tribunals around the world.",
+      "corpo": "The Roman Rota is one of the tribunals of the Roman Curia and functions, for the greater part of its activity, as a court of appeal for cases already judged at first instance by diocesan or interdiocesan ecclesiastical tribunals, above all processes for the declaration of matrimonial nullity — the canonical path by which the Church verifies whether matrimonial consent was valid from the beginning. It judges at second instance cases sent to Rome by legitimate appeal and, at third or subsequent instance, cases that have already passed through the apostolic tribunal itself previously.\n\nIts structure is collegial: a certain number of prelate auditors, of proven canonical competence and chosen by the Pope from different parts of the world, judge cases gathered in panels (called \"turns\"). Besides its concrete judicial function, the Roman Rota fulfills a role of unifying canonical jurisprudence, its sentences guiding the work of ecclesiastical tribunals of first instance throughout the world.",
+      "tags": [
+        "ecclesiastical tribunals",
+        "matrimonial nullity",
+        "canon law",
+        "Roman Curia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 17,
+      "fontes": [
+        "Vatican.va, Tribunal of the Roman Rota — Profile"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:ordinariato-militar",
+      "slug": "ordinariato-militar",
+      "titulo": "Military Ordinariate (Castrense)",
+      "categoria": "estrutura-igreja",
+      "resumo": "An ecclesiastical circumscription equivalent to a diocese, dedicated to the pastoral care of Catholic military personnel and their families, directly subject to the Holy See.",
+      "corpo": "The military ordinariate — also called castrense, heir to the former «military vicariates» (vicariatos castrenses) — is an ecclesiastical circumscription canonically equivalent to a diocese, established in various countries to provide specific pastoral care to members of the armed forces and their families, whose mobility and subjection to a discipline of their own make the ordinary care provided by territorial parishes unfeasible. It is headed by a military ordinary, normally ordained a bishop, directly subject to the Holy See.\n\nThe apostolic constitution «Spirituali Militum Curae», promulgated by John Paul II in 1986, established the general norms valid for all military ordinariates in the world, replacing the scattered and not very uniform regime of the former military vicariates. In Brazil, the Military Archdiocese of Brazil has performed this function since 1950, serving the Catholics of the Armed Forces, the Navy and the Air Force.",
+      "tags": [
+        "military chaplaincy",
+        "hierarchy",
+        "canon law"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 18,
+      "fontes": [
+        "John Paul II, Apostolic Constitution «Spirituali Militum Curae» (April 21, 1986)"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:patriarcado-oriental-catolico",
+      "slug": "patriarcado-oriental-catolico",
+      "titulo": "Patriarchate in the Eastern Catholic Churches",
+      "categoria": "estrutura-igreja",
+      "resumo": "The proper form of governance of the Eastern Catholic Churches «sui iuris» of greatest autonomy, headed by a patriarch elected by the synod of bishops of that Church itself, in communion with the Pope.",
+      "corpo": "Distinct from the diocesan structure common to the Latin rite, six Eastern Churches in full communion with Rome — the Chaldean, the Armenian, the Coptic, the Syriac, the Maronite and the Melkite — are organized as patriarchal Churches, governed by a patriarch and by the synod composed of all their bishops, which is responsible for decisions such as the creation of new eparchies (the Eastern equivalent of a diocese) and the appointment of their respective bishops. The legal framework of these Churches is set out in the Code of Canons of the Eastern Churches (CCEO) of 1990, distinct from the Code of Canon Law that governs the Latin Church.\n\nUnlike a Latin diocesan bishop, the Eastern patriarch is elected by the synod itself, without the need for prior approval from the Pope — who, once he is elected, grants him «ecclesiastical communion», recognizing him as the legitimate pastor of his Church. The precedence of honor among the Eastern patriarchs follows an ancient order, headed by Constantinople, Alexandria, Antioch and Jerusalem, and the Maronite Patriarchate of Antioch, based in Bkerké, in Lebanon, dates back to the seventh century.",
+      "tags": [
+        "Eastern Catholic Churches",
+        "patriarch",
+        "hierarchy",
+        "canon law"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 19,
+      "fontes": [
+        "Code of Canons of the Eastern Churches (1990), can. 55-61"
+      ]
+    },
+    {
+      "id": "estrutura-igreja:cabido-catedralicio",
+      "slug": "cabido-catedralicio",
+      "titulo": "Cathedral Chapter",
+      "categoria": "estrutura-igreja",
+      "resumo": "A college of priests attached to the cathedral of a diocese, with solemn liturgical functions and, in some dioceses, a consultative role in the bishop's governance.",
+      "corpo": "The cathedral chapter is a college of priests — the canons — attached to the cathedral church of a diocese, whose primary function is to celebrate the more solemn liturgical functions in the episcopal see, and which is regulated by canons 503 to 510 of the Code of Canon Law. The erection, alteration or suppression of a chapter is reserved to the Holy See, and it falls to the diocesan bishop to confer canonries (the positions of canon) on priests who have distinguished themselves by learning, virtue or service to the local Church.\n\nHistorically, the chapter also played a significant consultative role in the governance of the diocese — in some regions, especially Germany, it still formally takes part in the appointment of the diocesan bishop — but the 1983 Code transferred a good part of these consultative functions to a college of diocesan consultors, formed from the presbyteral council, distinct from and independent of the chapter. Even so, many dioceses around the world maintain their cathedral chapters with their traditional liturgical and honorary functions.",
+      "tags": [
+        "canons",
+        "cathedral",
+        "hierarchy",
+        "canon law"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 20,
+      "fontes": [
+        "Code of Canon Law (1983), can. 503-510"
+      ]
+    }
+  ]
+}

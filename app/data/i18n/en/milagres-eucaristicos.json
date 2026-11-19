@@ -1,0 +1,711 @@
+{
+  "_meta": {
+    "categoria": "milagres-eucaristicos",
+    "nome": "Eucharistic Miracles",
+    "descricao": "Eucharistic miracles with recognized ecclesiastical cult and documentation.",
+    "status": "exemplos-iniciais",
+    "aviso": "Includes only cases with recognized ecclesiastical cult and documentation; it is not a definitive catalog and does not replace the judgment of the competent ecclesiastical authority.",
+    "revisao_editorial": "Eucharistic miracles are matters of approved private devotion, not articles of faith. Medieval cases have dates of origin handed down by local tradition, without documentary precision — which is why they appear as a century or as 'according to tradition', and no date has been converted into an exact number. Cases from the 20th and 21st centuries (Buenos Aires, Sokółka) have documentation and scientific examinations contemporary with the event itself, with precise dates.",
+    "fontes_gerais": [
+      "Catechism of the Catholic Church, nos. 1373-1381 (the real presence of Christ in the Eucharist)",
+      "Documentation and archives of the shrines responsible for the custody of the relics",
+      "miracolieucaristici.org — Exhibition \"The Eucharistic Miracles of the World,\" organized by Blessed Carlo Acutis"
+    ]
+  },
+  "itens": [
+    {
+      "id": "milagres-eucaristicos:lanciano",
+      "slug": "lanciano",
+      "titulo": "Eucharistic Miracle of Lanciano",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Relics of flesh and blood preserved in Lanciano, Italy, venerated since the Middle Ages.",
+      "corpo": "In Lanciano, in the Abruzzo region (Italy), relics of flesh and coagulated blood are preserved and venerated as a Eucharistic miracle. Local tradition places the event in the eighth century, during a Mass in which a monk doubted the real presence of Christ in the Eucharist.\n\nThe relics are kept in the Sanctuary of the Eucharistic Miracle of Lanciano, under the care of the Conventual Friars Minor, and are displayed for the veneration of the faithful. The case is one of the oldest and most widely publicized in Latin Eucharistic devotion.\n\nThe Church permits and accompanies this devotion, but faith in the real presence does not depend on any particular miracle: it is founded on the words of Christ and on the doctrine professed by the Church, as the Catechism sets out in nos. 1373-1381.",
+      "tags": [
+        "Eucharist",
+        "Italy",
+        "relic",
+        "real presence"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/1_miracolo.jpg",
+      "local": "Lanciano, Abruzzo (Italy)",
+      "ano": "8th century (according to local tradition)",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1373-1381",
+        "Sanctuary of the Eucharistic Miracle of Lanciano — custody documentation"
+      ],
+      "imagem_credito": "Photo: Franco Colacioppo / Triyus (2014) — Wikimedia Commons, CC BY-SA 3.0"
+    },
+    {
+      "id": "milagres-eucaristicos:bolsena-orvieto",
+      "slug": "bolsena-orvieto",
+      "titulo": "Eucharistic Miracle of Bolsena-Orvieto",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Blood-stained corporal venerated in the Cathedral of Orvieto, associated by tradition with the institution of the feast of Corpus Christi.",
+      "corpo": "According to tradition, during a Mass celebrated in the church of Saint Christina in Bolsena (Italy), the corporal was stained by blood that flowed from the consecrated host. The corporal is preserved and venerated in the Cathedral of Orvieto, where a chapel was built specifically to house it.\n\nTradition links the event to the institution of the solemnity of the Most Holy Body and Blood of Christ (Corpus Christi) for the whole Latin Church, made by Urban IV through the bull «Transiturus de hoc mundo» in 1264. The text of the bull, however, does not recount the miracle: the link between the two events belongs to local tradition, and this collection records it as such.\n\nTo the Office and the Mass of the solemnity are linked hymns of the tradition attributed to Saint Thomas Aquinas, among them the «Pange lingua» and the «Lauda Sion».",
+      "tags": [
+        "Eucharist",
+        "Corpus Christi",
+        "Italy",
+        "Orvieto"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Duomo_orvieto_-_reliquario_del_corporale.JPG",
+      "local": "Bolsena and Orvieto (Italy)",
+      "ano": "1263 (according to tradition)",
+      "fontes": [
+        "Urban IV, Bull «Transiturus de hoc mundo» (1264)",
+        "Catechism of the Catholic Church, nos. 1373-1381",
+        "Cathedral of Orvieto — Chapel of the Corporal, custody documentation"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "milagres-eucaristicos:santarem",
+      "slug": "santarem",
+      "titulo": "Eucharistic Miracle of Santarém",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Eucharistic relic venerated in the Church of the Most Holy Miracle, in Santarém, Portugal.",
+      "corpo": "In Santarém, Portugal, the Church of Saint Stephen — known as the Church of the Most Holy Miracle — preserves a Eucharistic relic that the faithful have venerated for centuries. Local tradition places the origin of the event in the Middle Ages and associates it with a consecrated host taken from a celebration.\n\nThe relic is exposed for veneration and is the object of its own pilgrimage and procession in the city. As in other cases, the oldest primary documentation is scarce, and this collection limits itself to recording what tradition has handed down, without fixing exact dates.\n\nThe catechetical value of these events is to awaken the faith and adoration due to the Blessed Sacrament, whose doctrine the Church professes independently of any extraordinary sign.",
+      "tags": [
+        "Eucharist",
+        "Portugal",
+        "relic",
+        "adoration"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Igreja_do_Sant%C3%ADssimo_Milagre_01.jpg",
+      "local": "Santarém (Portugal)",
+      "ano": "13th century (according to local tradition)",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1373-1381",
+        "Church of the Most Holy Miracle (Saint Stephen), Santarém — custody documentation"
+      ],
+      "imagem_credito": "Photo: GualdimG (2014) — Wikimedia Commons, CC BY-SA 4.0"
+    },
+    {
+      "id": "milagres-eucaristicos:siena",
+      "slug": "siena",
+      "titulo": "Eucharistic Miracle of Siena",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "223 hosts stolen in 1730 from the Basilica of Saint Francis remain intact almost three centuries later.",
+      "corpo": "On the night of August 14, 1730, the eve of the Assumption, thieves broke into the Basilica of Saint Francis in Siena, Italy, and stole a silver ciborium containing consecrated hosts, kept in a chapel dedicated to Saint Anthony. The city suspended the Assumption festivities and the bishop called for prayers and reparation for the sacrilege.\n\nThree days later, on August 17, a parishioner noticed a glow coming from an offering box in the Church of Santa Maria in Provenzano; when it was opened, the stolen hosts were found, covered with dust and cobwebs, but intact. Because they were dirty, the friars decided to keep them in a secluded place so that they would decompose naturally — a process expected of unleavened bread within a few weeks.\n\nThis never happened: the 223 hosts remain, almost three centuries later, intact and without signs of decomposition, kept in the Basilica of Saint Francis itself and exposed for veneration on the 17th of every month, in memory of the day they were found again. Scientific commissions have examined them over the centuries without finding a natural explanation for their preservation.",
+      "tags": [
+        "Eucharist",
+        "Italy",
+        "incorrupt hosts",
+        "18th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/San_Francesco_Siena_Apr_2008.jpg",
+      "imagem_credito": "Photo: Gryffindor / Marku1988 (2008) — Wikimedia Commons, CC BY-SA 3.0",
+      "local": "Siena (Italy)",
+      "ano": "1730",
+      "fontes": [
+        "Basilica of Saint Francis in Siena — documentation of the custody and of the finding (August 17, 1730)",
+        "Catechism of the Catholic Church, nos. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:buenos-aires",
+      "slug": "buenos-aires",
+      "titulo": "Eucharistic Miracle of Buenos Aires",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "A host discarded in 1996 turned into cardiac tissue; the case was followed by the then auxiliary archbishop Jorge Bergoglio, the future Pope Francis.",
+      "corpo": "On August 15, 1996, at Santa Maria parish, in the Almagro neighborhood of Buenos Aires, Father Alejandro Pezet found a discarded consecrated host at the back of the church. Following the liturgical procedure for such cases, he placed it in a container of water inside the tabernacle, so that it would dissolve naturally.\n\nWhen he opened the tabernacle days later, on August 26, he found not dissolved bread, but a fragment of reddish tissue, larger than the original host, which did not break down. The then auxiliary archbishop of Buenos Aires, Archbishop Jorge Mario Bergoglio — the future Pope Francis — was informed and authorized the fragment to be photographed and preserved.\n\nYears later, between 1999 and 2005, by then as titular archbishop, Bergoglio authorized samples to be sent to independent laboratories for scientific examination. Dr. Frederick Zugibe, former chief medical examiner of Rockland County (USA), analyzed the material without knowing its origin and identified heart muscle tissue from the left ventricle, inflamed and showing signs of intense suffering, consistent with living tissue — publicly declaring that he had no scientific explanation for its preservation. In 2002, Professor John Walker of the University of Sydney confirmed the presence of intact muscle cells and white blood cells, which normally disintegrate within minutes after death.",
+      "tags": [
+        "Eucharist",
+        "Argentina",
+        "Pope Francis",
+        "20th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/ParroquiaSantaMaria_Caballito_BsAs.jpg",
+      "imagem_credito": "Photo: Nicolasrnphoto (2013) — Wikimedia Commons, CC BY-SA 4.0",
+      "local": "Buenos Aires (Argentina)",
+      "ano": "1996",
+      "fontes": [
+        "Dr. Frederick Zugibe, histological examination report (Rockland County, USA)",
+        "Prof. John Walker, University of Sydney, complementary examination (2002)"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:amsterdam",
+      "slug": "amsterdam",
+      "titulo": "Eucharistic Miracle of Amsterdam",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "A host given to a dying man in 1345 survived the fire intact, giving rise to a pilgrimage procession that continues to this day.",
+      "corpo": "On March 16, 1345, a gravely ill man named Ysbrant Dommer received the anointing of the sick and Communion in his home on the Kalverstraat in Amsterdam. Shortly afterward, he vomited the host he had received; following the liturgical norm of the time for such cases, it was thrown into the hearth fire so that it would be consumed with reverence.\n\nThe next morning, the host was found intact among the ashes, without any sign of the fire. The case was brought to the ecclesiastical and municipal authorities, who recognized what had happened; a pilgrimage chapel called the «Heilige Stede» («Holy Place») was built on the site, a destination for pilgrims for centuries, until it was demolished in the nineteenth century.\n\nThe devotion lives on in the «Stille Omgang» («Silent Procession»), resumed in 1881 and held every year on the night between the Saturday and Sunday of Palm Sunday, silently following the route of the medieval procession, today one of the largest Catholic pilgrimage events in the Netherlands, a country with a Protestant majority since the Reformation.",
+      "tags": [
+        "Eucharist",
+        "Netherlands",
+        "Middle Ages",
+        "pilgrimage"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Stille_Omgang_in_Amsterdam%2C_Bestanddeelnr_922-2248.jpg",
+      "imagem_credito": null,
+      "local": "Amsterdam (Netherlands)",
+      "ano": "1345",
+      "fontes": [
+        "Municipal chronicles of Amsterdam and the bishopric of Utrecht (14th century)",
+        "Catechism of the Catholic Church, nos. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:turim",
+      "slug": "turim",
+      "titulo": "Eucharistic Miracle of Turin",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "A monstrance containing stolen hosts rose up by itself above the city in 1453, giving rise to the Basilica of Corpus Domini.",
+      "corpo": "In 1453, victorious French soldiers, during a military conflict, plundered the church of the town of Exilles, in Piedmont, taking among the spoils a monstrance with consecrated hosts. On June 6 — the feast of Corpus Christi that year —, the soldiers were on their way to Turin to sell what they had plundered, with the monstrance tied to the back of a mule.\n\nAs they drew near the city, the mule stumbled and the monstrance came loose, rising by itself into the air above the houses and illuminating the square, according to the traditional account, before numerous witnesses. The local bishop gathered up the monstrance in solemn procession.\n\nThe episode is documented in the Capitular Acts of the municipality of Turin of 1454, 1455 and 1456, written a few years after the event. On the site the Church of Corpus Domini was built — rebuilt as a basilica in the sixteenth century, enlarged in thanksgiving for the end of a plague epidemic in 1598, and raised to the dignity of a minor basilica by Pius XI in 1928.",
+      "tags": [
+        "Eucharist",
+        "Italy",
+        "15th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Chiesa_Corpus_Domini_Torino.JPG",
+      "imagem_credito": "Photo: Franco56 (2007) — Wikimedia Commons, CC BY-SA 3.0",
+      "local": "Turin (Italy)",
+      "ano": "1453",
+      "fontes": [
+        "Capitular Acts of the Municipality of Turin (1454-1456)",
+        "Catechism of the Catholic Church, nos. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:sokolka",
+      "slug": "sokolka",
+      "titulo": "Eucharistic Miracle of Sokółka",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "A Host that fell during Mass in 2008 developed a stain of cardiac tissue, examined by two independent pathologists from the Medical University of Białystok.",
+      "corpo": "On October 12, 2008, during the 8:30 a.m. Mass at the Church of Saint Anthony of Padua in Sokółka, in northeastern Poland, a consecrated Host fell from the priest's hands during the distribution of Communion. Following the liturgical procedure, it was picked up, placed in a container of water, and kept in a safe by the sacristan, Sister Julia Dubowska.\n\nSeven days later, when she opened the safe—expecting to find the bread already dissolved—the sister found the Host intact, with a red stain in the center, resembling blood. The case was taken to the Curia of Białystok, which, in early 2009, commissioned independent examinations from two professors of pathological anatomy at the Medical University of Białystok, Maria Elżbieta Sobaniec-Łotowska and Stanisław Sulkowski.\n\nThe two examinations, carried out independently, reached the same conclusion: the transformed fragment had a structure identical to myocardial tissue (heart muscle) of a living person close to death, with lesions observable only in living tissue—and the muscle fibers appeared interwoven with the bread in a way that the researchers declared impossible to reproduce by human means.",
+      "tags": [
+        "Eucharist",
+        "Poland",
+        "21st century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/St_Antoni_Church_in_Sok%C3%B3%C5%82ka-9.jpg",
+      "imagem_credito": "Photo: Tarkan18 (2009) — Wikimedia Commons, CC BY-SA 4.0",
+      "local": "Sokółka (Poland)",
+      "ano": "2008",
+      "fontes": [
+        "Prof. Maria Elżbieta Sobaniec-Łotowska and Prof. Stanisław Sulkowski, Medical University of Białystok, histopathological report (2009)",
+        "Catechism of the Catholic Church, nos. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:faverney",
+      "slug": "faverney",
+      "titulo": "Eucharistic Miracle of Faverney",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Two consecrated hosts remained suspended in the air, without support, after a fire destroyed the altar where they were exposed in 1608.",
+      "corpo": "In May 1608, at the Benedictine abbey of Faverney, in eastern France, a nighttime fire destroyed the altar where two consecrated hosts had been left exposed for adoration after the feast of Corpus Christi. When they found the ruins the next morning, the monks reported that the monstrance with the hosts remained suspended in the air, without any material support, above the charred debris — a situation that lasted, according to the account documented at the time, for about 33 hours, until it was taken up in solemn procession.",
+      "tags": [
+        "Eucharist",
+        "France",
+        "17th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Faverney_-_Abbaye_02.JPG",
+      "imagem_credito": "Photo: Ginette Mathis — Wikimedia Commons, CC BY-SA 3.0",
+      "local": "Faverney (France)",
+      "ano": "1608",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:blanot",
+      "slug": "blanot",
+      "titulo": "Eucharistic Miracle of Blanot",
+      "resumo": "A piece of a host that is said to have turned into a drop of blood on a cloth, in the church of Blanot (Burgundy), on Easter Sunday, March 31, 1331, and whose relic is preserved to this day.",
+      "corpo": "The Eucharistic miracle of Blanot is dated to March 31, 1331, Easter Sunday, in the parish church of Saint-Andoche-et-Saint-Thyrse, in the small Burgundian village of Blanot, then part of the Diocese of Autun. At the first Mass of the day, the vicar Hugues de Baumes was distributing Communion to a full church; according to the custom of the time, at well-attended celebrations two laymen held a cloth stretched out before the priest, to prevent a host from falling to the ground. The two assistants were Thomas Caillot and Guyot Besson.\n\nUpon receiving Communion, the last communicant — the elderly widow Jacquette Renaud d'Effours — let a fragment of the host fall from her mouth onto the cloth, without either she or the celebrant noticing. Thomas Caillot then warned the priest: «Father, the Lord must return to the altar rail, because the Body of Our Lord has fallen from this lady's mouth onto the cloth». When Hugues de Baumes tried to pick up the fragment — estimated at about one fifth of the host — to place it on the corporal, it is said to have been transformed before his eyes into a drop of blood, leaving on the cloth a stain the size of the host. The vicar cut out the part of the cloth with the stain and kept it in a reliquary.\n\nThe Bishop of Autun, Pierre Bertrand, was informed and appointed an commission of inquiry composed of Jean Jarossier, ecclesiastical judge, Hugues Chapelot, archpriest of Lucenay, and Etienne Angovrand, royal notary. After hearing the witnesses, the bishop concluded that the phenomenon was of supernatural origin. Pope John XXII granted plenary indulgences to pilgrims to Blanot, and the cloth came to be carried in procession on the feasts of Easter, Pentecost and Corpus Christi. The hosts that remained in the ciborium after that Communion were never used, remaining reserved in the tabernacle; in 1706, still in good condition after 375 years, they were carried in a five-hour procession around the surroundings of the parish, on the occasion of the anniversary of the miracle.\n\nThe relic survived the French Revolution: on December 27, 1793, a group of revolutionaries opened the tabernacle and even handled the stained cloth, then kept in a crystal tube, but discarded it, judging it to be of little value; the tube was later entrusted to the care of the devout parishioner Dominique Cortet, suffering cracks from handling and from the hiding place. Kept today in the church of Blanot, the relic is displayed in a glass case, and the sixth centenary of the prodigy was celebrated with a great procession in 1931.",
+      "categoria": "milagres-eucaristicos",
+      "tags": [
+        "Eucharist",
+        "France",
+        "Burgundy",
+        "Middle Ages",
+        "14th century",
+        "Blanot",
+        "Autun",
+        "corporal",
+        "Easter"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Procession_Blanot2.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Miracle eucharistique de Blanot (entry), French Wikipedia",
+        "The Real Presence Association, Eucharistic Miracle of Blanot, France (1331)",
+        "Codex Dei / Marie de Nazareth, Une parcelle d'hostie consacrée se met à saigner à Blanot en 1331",
+        "L'église de Blanot (Côte d'Or), un lieu chargé d'histoire et de spiritualité, Les Amis de la Plaine (blog)"
+      ],
+      "atualizado_em": null,
+      "local": "Blanot (France)",
+      "ano": "1331 (according to tradition)"
+    },
+    {
+      "id": "milagres-eucaristicos:daroca",
+      "slug": "daroca",
+      "titulo": "Eucharistic Miracles of Daroca (Los Corporales)",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Six corporals stained with blood, preserved since the thirteenth century in Daroca, Spain, associated with a battle between Christians and Moors.",
+      "corpo": "Tradition places the event in 1239, during a military confrontation between Christian troops and Moors in the region of Aragon: a priest, fearing profanation, is said to have hidden consecrated hosts in linen corporals before the battle; when he recovered them afterward, the cloths appeared stained with blood in the circular shapes of the hosts. The six corporals (\"Los Corporales\") have been venerated ever since in the Collegiate Church of Santa María de Daroca, in Spain, and give their name to a regional feast of their own.",
+      "tags": [
+        "Eucharist",
+        "Spain",
+        "Middle Ages"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Colegiata_de_Santa_Mar%C3%ADa_de_los_Sagrados_Corporales%2C_Daroca%2C_Zaragoza%2C_Espa%C3%B1a%2C_2014-01-08%2C_DD_31.jpg",
+      "imagem_credito": "Photo: Diego Delso — Wikimedia Commons, CC BY-SA 3.0",
+      "local": "Daroca, Aragon (Spain)",
+      "ano": "1239 (according to tradition)",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:o-cebreiro",
+      "slug": "o-cebreiro",
+      "titulo": "Eucharistic Miracle of O Cebreiro",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Eucharistic transformation reported in a small church on the Way of Saint James, around 1300, in a context of disbelief on the part of a local priest.",
+      "corpo": "Located in a high Galician village on the Way of Saint James, the sanctuary of O Cebreiro preserves the tradition that, around the year 1300, a chalice with wine and a host were visibly transformed into blood and flesh during a Mass celebrated by a local priest who, according to the account, doubted the real presence of Christ in the Eucharist despite the bad weather that led pilgrims to insist on the celebration. The stone chalice associated with the account is preserved in the sanctuary to this day.",
+      "tags": [
+        "Eucharist",
+        "Spain",
+        "Middle Ages",
+        "Way of Saint James"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/90/Igrexa_de_Santa_Mar%C3%ADa_a_Real%2C_Pedrafita_do_Cebreiro.jpg",
+      "imagem_credito": "Photo: amaianos — Wikimedia Commons, CC BY 2.0",
+      "local": "O Cebreiro, Galicia (Spain)",
+      "ano": "c. 1300 (according to tradition)",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:ferrara",
+      "slug": "ferrara",
+      "titulo": "Eucharistic Miracle of Ferrara",
+      "resumo": "According to tradition, at the Easter Mass of March 28, 1171, drops of blood were said to have spattered from the host onto the small vault above the altar of the church of Santa Maria in Vado, in Ferrara.",
+      "corpo": "The Eucharistic miracle of Ferrara is traditionally dated to Easter Sunday, March 28, 1171, in the church then known as Santa Maria Anteriore — today the Basilica of Santa Maria in Vado. According to the account handed down, the prior Pietro da Verona, of the Portuense canons regular, was celebrating the Mass of the Resurrection assisted by his confreres Bono, Leonardo and Aimone; at the moment of the breaking of the host, it is said to have taken on the appearance of flesh, and a stream of blood is said to have gushed from it and spattered the small vault above the altar. The account further states that many of the faithful said they had seen the figure of a child in the host.\n\nThe news spread quickly through the city. Amato, Bishop of Ferrara, and Gherardo, Archbishop of Ravenna — to whom the church, entrusted to the Portuense canons, was subject — hurried to the place; they heard the witnesses and recognized the miraculous character of the event. The site became a destination for pilgrimage, and the fame of the prodigy spurred the reconstruction of the church, which, by then as a basilica, was consecrated in 1518. Later documentation reinforces the tradition: Gerald of Wales records the episode in the Gemma Ecclesiastica as early as around 1197, and Pope Eugene IV, in the bull Cantate Domino of April 7, 1442, wrote that the church of Santa Maria in Vado \"must be honored, because in it the body and blood of Christ appeared manifestly during Mass.\" The episode is also recalled by Benedict XIV in De servorum Dei beatificatione et beatorum canonizatione.\n\nOn the material level, the small vault stained with blood was preserved and, on March 26, 1501, transferred from the original wall to the right arm of the transept. In 1594-1595, at the will of Duke Alfonso II d'Este, the architect Alessandro Balbi built around it a tempietto — a double chapel, with Doric and Ionic colonnettes, reached by side staircases — which in the eighteenth century was framed by the fresco of the Tent of the Eternal Father by Francesco Parolini, with side decorations by Giacomo Filippi and Giuseppe Antonio Ghedini. The ceilings of the nave, transept and choir were decorated by the Ferrarese painter Carlo Bononi, with the assistance of Giulio Cromer.\n\nThe prodigy is customarily situated in the context of the heretical movements active in Ferrara and in Italy at the time, such as that of the Cathars, presenting itself as a providential response to doubts about the Real Presence. In the eyes of popular piety and local literature, the most enduring testimony of the event is the stained vault itself, still preserved and venerated today in the tempietto — the \"Most Precious Blood\" of Santa Maria in Vado.",
+      "categoria": "milagres-eucaristicos",
+      "tags": [
+        "Eucharist",
+        "Italy",
+        "Middle Ages",
+        "12th century",
+        "Ferrara",
+        "Easter",
+        "Real Presence",
+        "Most Precious Blood"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Ferrara_Chiesa_di_Santa_Maria_in_Vado_Interno_Transetto_Sud_Tempietto_1.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Gerald of Wales, Gemma Ecclesiastica (c. 1197), cited in A. Samaritani, La testimonianza di Giraldo Cambrense sul miracolo eucaristico di Ferrara, S.A.T.E., Ferrara, 1985",
+        "Bull Cantate Domino, of Pope Eugene IV, April 7, 1442",
+        "Benedict XIV, De servorum Dei beatificatione et beatorum canonizatione",
+        "Chiesa di Santa Maria in Vado (entry), Italian Wikipedia",
+        "Alleanza Cattolica, Il miracolo eucaristico di Ferrara"
+      ],
+      "atualizado_em": null,
+      "local": "Ferrara (Italy)",
+      "ano": "1171 (according to tradition)"
+    },
+    {
+      "id": "milagres-eucaristicos:legnica",
+      "slug": "legnica",
+      "titulo": "Eucharistic Miracle of Legnica",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "A host that fell to the ground in 2013, in Poland, developed a red stain that was examined by forensic specialists and pathologists.",
+      "corpo": "In December 2013, in a parish in Legnica, Poland, a consecrated host fell to the ground during the distribution of Communion; following the proper procedure, it was picked up and placed in water to dissolve naturally. Days later, it showed a persistent red stain. The commission appointed by the local bishop, including forensic experts and independent pathologists, identified in 2014 cardiac muscle tissue with characteristics similar to those of other cases, such as that of Sokółka, with no conclusive natural explanation for its origin or persistence.",
+      "tags": [
+        "Eucharist",
+        "Poland",
+        "21st century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw_Jacka_w_Legnicy.jpg",
+      "imagem_credito": "Photo: Emilia Ernst (changes by Rabanus Flavus) — Wikimedia Commons, CC BY-SA 4.0",
+      "local": "Legnica (Poland)",
+      "ano": "2013",
+      "fontes": [
+        "Commission of the Diocese of Legnica, expert report (2014)",
+        "Catechism of the Catholic Church, nos. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:bettbrunn",
+      "slug": "bettbrunn",
+      "titulo": "Eucharistic Miracle of Bettbrunn",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Origin of a Bavarian shrine from a host stolen in the twelfth century and found intact after being buried by a local farmer.",
+      "corpo": "Bavarian tradition places around 1125 the account of a consecrated host stolen from a nearby church and then abandoned by its thief in a field in Bettbrunn, in Bavaria; a farmer who found it, unaware of the theft, is said to have tried repeatedly to bury it, only to see it always reappear intact on the surface, until local priests gathered it up in procession. At the site the Shrine of Bettbrunn was built, still today a regional pilgrimage destination.",
+      "tags": [
+        "Eucharist",
+        "Germany",
+        "Middle Ages"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Wallfahrtskirche_St._Salvator_Bettbrunn.jpg",
+      "imagem_credito": null,
+      "local": "Bettbrunn, Bavaria (Germany)",
+      "ano": "c. 1125 (according to tradition)",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:macerata-offida",
+      "slug": "macerata-offida",
+      "titulo": "Eucharistic Miracle of Offida",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "A blood-stained corporal in central Italy, associated by ancient tradition with a woman who is said to have profaned a host at the devil's instigation in the 14th century.",
+      "corpo": "The tradition of the Offida region, in central Italy, relates that in the 14th century a young woman named Ricciarella, urged on by a popular superstitious practice, tried to use a consecrated host stolen from Mass for purposes of love sorcery; as she tried to cut or burn it, the host is said to have bled abundantly, staining a corporal and frightening her so much that she confessed the deed to the parish priest. The corporal has been venerated ever since in the Church of Saint Augustine of Offida.",
+      "tags": [
+        "Eucharist",
+        "Italy",
+        "Middle Ages"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Offida_Chiesa_Collegiata_01.jpg",
+      "imagem_credito": "Photo: pizzodisevo 1937, from Italy — Wikimedia Commons, CC BY-SA 2.0",
+      "local": "Offida (Italy)",
+      "ano": "14th century (according to tradition)",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:trani",
+      "slug": "trani",
+      "titulo": "Eucharistic Miracle of Trani",
+      "resumo": "According to tradition, a consecrated host, placed to fry in oil by a woman who doubted the Real Presence, was turned into flesh and bled abundantly; the relic is venerated in Trani, in Apulia.",
+      "corpo": "The Eucharistic miracle of Trani, known in local devotion as the story of the \"fried host,\" is traditionally placed around the year 1000, although the dating is imprecise and disputed. According to the account handed down, a woman of non-Christian religion—called Zakés in late nineteenth-century versions, such as that of the Trani lawyer Orazio Palumbo, and identified in Catholic sources as Jewish—obtained a consecrated host during Communion in the church of Sant'Andrea (then dedicated to Saint Basil and served by monks of the Greek rite), hiding it in a handkerchief. At home, to test whether it was bread, she is said to have immersed the particle in boiling oil; the host then reportedly turned into flesh and began to bleed in such quantity that the blood overflowed the pan and flooded the floor, even flowing out through the door of the house.\n\nThe bishop of the city—called Chrysostom in some versions—was informed and went to the place, gathered the remains of the host and carried them in procession to the cathedral, establishing a procession of reparation. The first written historical testimony dates from 1470: the Genoese pilgrims Anselmo and Giovanni Adorno, returning from the Holy Land, report having venerated \"a miraculous piece of the body of our Lord,\" explaining that a simple woman, without ill intent but out of ignorance, had tried to cook a consecrated host and it had immediately turned into a piece of flesh \"which can still be seen today.\" For this reason, historiography places the historical event in the fourteenth century—or, in another attribution, in 1495—distinct from the popular tradition that traces it back to the year one thousand. The Franciscan Bartolomeo Campi, in L'innamorato di Gesù Cristo (1625), and the Cistercian Ferdinando Ughelli, in Italia sacra (1670), left accounts of the episode.\n\nThe relic, made up of two fragments and belonging to the Cathedral Chapter, was kept in a silver reliquary donated in 1616 by Fabrizio de Cunio; preserved in the cathedral, it was transferred in 1981 to the church of Sant'Andrea. The former house where the event took place was recognized through a canonical process concluded in 1706 by Archbishop Pietro de Torres and, on the initiative of the nobleman Ottaviano Campitelli, was turned into a chapel dedicated to the Most Holy Savior, mentioned in 1719 by Vicar General Antonio Paoli; since 2021 the chapel has been accessible and worship is permitted there. The relic underwent several ecclesiastical recognitions—among them 1616, 1678, 1706, 1719, 1824, 1886—the most recent being those of 1924, at the First Inter-diocesan Eucharistic Congress, when Archbishop Giuseppe Maria Leo conferred on Trani the title of \"Eucharistic City,\" and that of 2004, on the eightieth anniversary of the same congress.\n\nThe devotion remains alive in the city: a penitential procession on Good Friday (Venerdì Santo), attested since the sixteenth century in documents of the Red Book of the University and reorganized under Archbishop Davanzati, recalls the prodigy, and the miracle is also associated, by tradition, with the cult of the Crucifix of Colonna. The defense of the tradition coexists with the lack of sources contemporary with the event and with the divergence of the proposed datings.",
+      "categoria": "milagres-eucaristicos",
+      "tags": [
+        "Eucharist",
+        "Italy",
+        "Apulia",
+        "Trani",
+        "Middle Ages",
+        "profanation",
+        "relic",
+        "fried host",
+        "procession"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Teca-reliquiario_contenente_il_Miracolo_Eucaristico_di_Trani.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Anselmo and Giovanni Adorno, pilgrimage account (1470), cited in the entry Miracolo eucaristico di Trani, Italian Wikipedia",
+        "Bartolomeo Campi, L'innamorato di Gesù Cristo (1625)",
+        "Ferdinando Ughelli, Italia sacra (1670)",
+        "Raffaele Iaria, I miracoli eucaristici in Italia, Edizioni Paoline, 2005, pp. 27-31",
+        "F. Spaccucci and G. Curci, Il miracolo eucaristico di Trani, Laurenziana, Naples, 1996",
+        "Cathopedia, Miracolo eucaristico di Trani"
+      ],
+      "atualizado_em": null,
+      "local": "Trani (Italy)",
+      "ano": "1751"
+    },
+    {
+      "id": "milagres-eucaristicos:tixtla",
+      "slug": "tixtla",
+      "titulo": "Eucharistic Miracle of Tixtla",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "A host that fell during Mass in 2006, in Mexico, with a stain examined by experts — one of the most recent Eucharistic cases in Latin America.",
+      "corpo": "In October 2006, in the parish of Tixtla, in the Mexican state of Guerrero, a consecrated host fell to the ground during Communion and was picked up according to the usual liturgical procedure, then placed in a container with water. Days later, it showed a persistent red stain that prompted examination by independent experts, in a process of ecclesiastical investigation conducted by the local diocese, following a protocol similar to other cases documented in the 21st century.",
+      "tags": [
+        "Eucharist",
+        "Mexico",
+        "21st century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Parroquia_San_Mart%C3%ADn_de_Tours%2CTixtla%2CEstado_de_Guerrero%2CM%C3%A9xico_%289070976957%29.jpg",
+      "imagem_credito": "Photo: Catedrales e Iglesias/Cathedrals and Churches from Puebla de los Ángeles, Mexico — Wikimedia Commons, CC BY 2.0",
+      "local": "Tixtla (Mexico)",
+      "ano": "2006",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:cascia",
+      "slug": "cascia",
+      "titulo": "Eucharistic Miracle of Cascia",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Bloodstains on an altar cloth in Cascia, Italy, attributed to an episode of doubt about the Real Presence in the 14th century.",
+      "corpo": "In Cascia, in the region of Umbria (Italy), an altar cloth (corporal) stained with blood is venerated, linked according to local tradition to an episode that occurred in 1330: a priest, overcome by doubt about the Real Presence of Christ in the Eucharist, is said to have seen blood flow from the consecrated host during Mass.\n\nThe relic is kept in the Basilica of Saint Rita of Cascia, in the same town associated with the devotion to the Augustinian saint. It is one of the oldest Eucharistic cases still exposed to the veneration of the faithful in central Italy.\n\nThe Church permits and accompanies this devotion, but faith in the Real Presence does not depend on any particular miracle: it is founded on the words of Christ and on the doctrine professed by the Church, as set out in the Catechism, nos. 1373-1381.",
+      "tags": [
+        "Eucharist",
+        "Italy",
+        "relic",
+        "Real Presence"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Basilica_inferiore_di_Santa_Rita_3.JPG",
+      "imagem_credito": null,
+      "local": "Cascia, Umbria (Italy)",
+      "ano": "1330 (according to local tradition)",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1373-1381",
+        "Custodial documentation of the Basilica of Saint Rita of Cascia"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:alatri",
+      "slug": "alatri",
+      "titulo": "Eucharistic Miracle of Alatri",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Host transformed into visible flesh in Alatri, Italy, after an attempted profanation in the thirteenth century.",
+      "corpo": "In Alatri, in Lazio (Italy), tradition places in 1228 the case of a consecrated host that, stolen for the purpose of profanation at the instigation of a sorceress, is said to have been visibly transformed into flesh. The local bishop is then said to have promoted the public veneration of the relic.\n\nThe relic is preserved in the Cathedral of Saint Paul the Apostle in Alatri, and the case is among the oldest documented in central Italy.\n\nThe Church permits and oversees this devotion, but faith in the Real Presence does not depend on any particular miracle: it is founded on the words of Christ and on the doctrine professed by the Church, as set forth in the Catechism in nos. 1373-1381.",
+      "tags": [
+        "Eucharist",
+        "Italy",
+        "relic",
+        "Real Presence"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/San_Paolo_Alatri_3.jpg",
+      "imagem_credito": null,
+      "local": "Alatri, Lazio (Italy)",
+      "ano": "1228 (according to local tradition)",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1373-1381",
+        "Custody documentation of the Cathedral of Saint Paul the Apostle in Alatri"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:bagno-di-romagna",
+      "slug": "bagno-di-romagna",
+      "titulo": "Eucharistic Miracle of Bagno di Romagna",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Eucharistic wine transformed into visible blood during the consecration in Bagno di Romagna, Italy, in the early fifteenth century.",
+      "corpo": "In Bagno di Romagna, in Emilia-Romagna (Italy), tradition places in 1412 the case of an Augustinian priest who, overcome by doubt about the real presence of Christ, is said to have seen the wine in the chalice visibly turn into blood at the moment of consecration during Mass.\n\nThe relic is preserved in the city's Basilica of Santa Maria Assunta, and remains an object of local veneration to this day.\n\nThe Church permits and accompanies this devotion, but faith in the real presence does not depend on any particular miracle: it is founded on the words of Christ and on the doctrine professed by the Church, as the Catechism sets forth in nos. 1373-1381.",
+      "tags": [
+        "Eucharist",
+        "Italy",
+        "relic",
+        "real presence"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/BAGNO_DI_ROMAGNA_-Santa_Maria_Assunta_3.JPG",
+      "imagem_credito": null,
+      "local": "Bagno di Romagna, Emilia-Romagna (Italy)",
+      "ano": "1412 (according to local tradition)",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1373-1381",
+        "Custody records of the Basilica of Santa Maria Assunta in Bagno di Romagna"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:ludbreg",
+      "slug": "ludbreg",
+      "titulo": "Eucharistic Miracle of Ludbreg",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Wine transformed into blood during the consecration in a chapel in Croatia in 1411, with a relic venerated to this day and papal approval in 1513.",
+      "corpo": "In 1411, in the chapel of the castle of the Batthyány counts, in the Croatian town of Ludbreg, a priest who was celebrating Mass was seized by a strong doubt about the real presence of Christ in the consecrated wine. At the moment of the consecration, the wine visibly turned into blood in the chalice. Fearing the consequences, the priest hid the relic behind the high altar, revealing the secret only shortly before his death.\n\nOnce the event became known, an intense pilgrimage to the site began. At the beginning of the 16th century, Pope Julius II sent a commission to investigate the events, and on April 14, 1513, Pope Leo X issued a bull authorizing the public veneration of the relic, which he himself carried in procession through the streets of Rome before returning it to Ludbreg.\n\nToday, the relic is venerated in the parish church of Ludbreg, and since 1411 the celebration known as \"Sveta Nedilja\" (Holy Sunday) has been held annually in early September, gathering thousands of Croatian pilgrims.",
+      "tags": [
+        "Eucharist",
+        "Croatia",
+        "relic",
+        "real presence"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Ludbreg (Croatia)",
+      "ano": "1411 (papal approval in 1513)",
+      "fontes": [
+        "Bull of Pope Leo X authorizing the veneration of the relic of Ludbreg (April 14, 1513)",
+        "Catechism of the Catholic Church, nos. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:walldurn",
+      "slug": "walldurn",
+      "titulo": "Eucharistic Miracle of Walldürn",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Blood spilled from a chalice formed the image of the crucified Christ on a corporal in Walldürn, Germany, in 1330.",
+      "corpo": "In 1330, Father Heinrich Otto was celebrating Mass in Walldürn, a small town in what is today the German state of Baden-Württemberg, when, after the consecration, he accidentally knocked over the chalice. The Precious Blood spilled onto the corporal and formed the image of the crucified Christ, surrounded by eleven identical images of His head crowned with thorns.\n\nFearing he would be accused of sacrilegious carelessness, the priest hid the corporal behind a stone in the altar and kept the secret for about fifty years, revealing it only on his deathbed and indicating the hiding place, where the cloth was then found.\n\nThe oldest written account of the origin of the pilgrimage was published in Würzburg in 1589 by the parish priest Jost Hoffius. Today the bloodstained corporal is kept on a side altar of the Minor Basilica of Saint George in Walldürn, which receives thousands of pilgrims every year during the traditional pilgrimage to the \"Precious Blood\" (Heiligblut).",
+      "tags": [
+        "Eucharist",
+        "Germany",
+        "relic",
+        "real presence"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Walldürn, Baden-Württemberg (Germany)",
+      "ano": "1330",
+      "fontes": [
+        "Wallfahrt-wallduern.de, documentation of the Blutwunder von Walldürn",
+        "Jost Hoffius, account of the origin of the Walldürn pilgrimage (Würzburg, 1589)"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:seefeld",
+      "slug": "seefeld",
+      "titulo": "Eucharistic Miracle of Seefeld",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "A bleeding Host and a knight swallowed by the church floor, on Holy Thursday of 1384, in Seefeld, in Austrian Tyrol.",
+      "corpo": "On Holy Thursday of 1384, in the parish church of Saint Oswald in Seefeld, in Austrian Tyrol, the knight Oswald Milser, lord of a neighboring castle, approached the altar with a drawn sword and armed men, demanding to receive the large Host reserved for the celebrating priest, because he considered the ordinary host distributed to the faithful too small.\n\nAccording to the traditional account, as soon as the Host touched his mouth, the knight began to sink into the stone floor up to his knees, terrified, gripping the altar with both hands — the marks of which tradition holds to be still visible — while living blood began to flow from the Host. The knight survived the episode, but spent the rest of his life as a penitent in a monastery.\n\nThe hole in the floor where the knight is said to have sunk is today covered by a grate and can be seen by pilgrims, next to the altar rebuilt over the original, in the church that became a shrine and pilgrimage destination in Tyrol.",
+      "tags": [
+        "Eucharist",
+        "Austria",
+        "Real Presence",
+        "Middle Ages"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Seefeld, Tyrol (Austria)",
+      "ano": "1384",
+      "fontes": [
+        "Sacred Destinations, \"Seefeld Eucharistic Miracle, Austria\"",
+        "Miracolieucaristici.org, record of the Seefeld miracle"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:bois-seigneur-isaac",
+      "slug": "bois-seigneur-isaac",
+      "titulo": "Eucharistic Miracle of Bois-Seigneur-Isaac",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "A fragment of a consecrated host bled for four days in 1405, in Belgium, with devotion authorized by the Bishop of Cambrai as early as 1413.",
+      "corpo": "Beginning on the Tuesday before Pentecost in 1405, the nobleman Jean de Huldenberg claimed to have received, in a dream, repeated apparitions of Jesus covered in wounds, inviting him to visit a small chapel in the forest near Bois-Seigneur-Isaac, in present-day Belgium. When he attended the Mass celebrated by the parish priest Pierre Ost, the priest noticed, at the offertory, that a fragment of a host from the previous celebration, left forgotten on the corporal, began to bleed — a phenomenon that was repeated over the following four days.\n\nThe Bishop of Cambrai, Pierre d'Ailly, formally authorized devotion to the relic on May 3, 1413, and the first procession in its honor took place the following year. On January 13, 1424, Pope Martin V officially approved the founding of the monastery built on the site.\n\nThe monastery of Bois-Seigneur-Isaac remains a pilgrimage destination, preserving in its chapel the relic of the blood-stained corporal.",
+      "tags": [
+        "Eucharist",
+        "Belgium",
+        "relic",
+        "real presence"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Bois-Seigneur-Isaac (Belgium)",
+      "ano": "1405 (episcopal approval in 1413)",
+      "fontes": [
+        "Authorization of devotion to the relic by the Bishop of Cambrai, Pierre d'Ailly (May 3, 1413)",
+        "Bull of Pope Martin V approving the founding of the monastery (January 13, 1424)"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:silla",
+      "slug": "silla",
+      "titulo": "Eucharistic Miracle of Silla",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Consecrated hosts stolen in Spain in 1907 were found incorrupt under a stone two days later and remain so to this day.",
+      "corpo": "On March 25, 1907, the Feast of the Annunciation, it was discovered in Silla, in the region of Valencia, Spain, that the church's tabernacle had been broken into and the ciborium with the consecrated hosts stolen. Two days later, the hosts were found intact under a stone in a nearby orchard and were returned in solemn procession to the local parish.\n\nExamined periodically over the following century, the hosts have remained without any sign of decomposition, and this state of incorrupt preservation is the central element considered extraordinary in the case. The Archdiocese of Valencia began a first process of recognition in 1934, which was interrupted by the Spanish Civil War.\n\nIn 1983, after new expert, documentary and testimonial examinations, the Archbishop of Valencia, Archbishop Miguel Roca Cabanellas, declared by decree that the sacred species were authentic and well preserved, ordering that they receive the worship provided for by canon law. The hosts are venerated to this day in the parish of Our Lady of the Angels, in Silla.",
+      "tags": [
+        "Eucharist",
+        "Spain",
+        "incorrupt host",
+        "real presence"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Silla, Valencia (Spain)",
+      "ano": "1907 (decree of recognition in 1983)",
+      "fontes": [
+        "Decree of the Archbishop of Valencia, Archbishop Miguel Roca Cabanellas, on the sacred hosts of Silla (1983)",
+        "ACI Prensa, \"Valencia celebrará aniversario de milagro eucarístico de Silla\""
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:cimballa",
+      "slug": "cimballa",
+      "titulo": "Eucharistic Miracle of Cimballa",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Host transformed into bleeding flesh during Mass in 1370, in Spain, an episode known as the \"Most Holy Doubted Mystery.\"",
+      "corpo": "In 1370, in the parish church of the Purification of Our Lady in Cimballa, a small town in the diocese of Tarazona, in the province of Zaragoza, Spain, the parish priest, Mosén Tomás, was assailed during Mass by strong doubts about the real presence of Christ in the Eucharist. After the consecration, the Host turned into flesh, from which blood began to flow and stained the corporal — an episode that became known locally as the \"Most Holy Doubted Mystery\" (Santísimo Misterio Dudado).\n\nRepentant, the priest spent the rest of his life in a monastery, devoted to penance and prayer. When news of the miracle reached King Martin I of Aragon, he asked that the relic be taken to the chapel of the Royal Palace of Zaragoza, to protect it from the dangers of the wars between Aragon and Castile then under way.\n\nThe relic of the blood-stained corporal is preserved to this day in the parish church of Cimballa, where the memory of the miracle is celebrated annually on September 12.",
+      "tags": [
+        "Eucharist",
+        "Spain",
+        "relic",
+        "real presence"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Cimballa, Zaragoza (Spain)",
+      "ano": "1370",
+      "fontes": [
+        "Miracolieucaristici.org, record of the Eucharistic miracle of Cimballa",
+        "Turismo de Aragón, \"La Ruta de los Milagros Eucarísticos\""
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:ivorra",
+      "slug": "ivorra",
+      "titulo": "Eucharistic Miracle of Ivorra",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Consecrated wine transformed into blood in the year 1010, considered the oldest documented Eucharistic miracle in Spain, with a papal bull of approval.",
+      "corpo": "In the year 1010, Father Bernat Oliver, rector of the chapel of Ivorra, in the comarca of La Segarra, province of Lleida, Spain, was assailed by a strong temptation to doubt the real presence of Christ in the consecrated wine. At the moment he pronounced the words of consecration over the chalice, the wine was transformed into blood and spilled onto the altar cloth and the floor.\n\nThe Bishop of Urgell, Saint Ermengol, personally witnessed the phenomenon, recognized it as supernatural, and took part of the precious blood to Rome, reporting what had happened to Pope Sergius IV, who approved the bishop's conduct and authorized the public veneration of the relic, confirmed by a papal bull within two years.\n\nConsidered the oldest documented Eucharistic miracle on Spanish soil, the case of Ivorra is remembered as the \"Holy Doubt\" (Santa Duda), and the relic, kept in a 15th-century reliquary together with the stained corporals, is still venerated annually in the town.",
+      "tags": [
+        "Eucharist",
+        "Spain",
+        "relic",
+        "real presence"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Ivorra, Lleida (Spain)",
+      "ano": "1010 (papal bull of Sergius IV)",
+      "fontes": [
+        "COPE, \"Ivorra, el pequeño pueblo de Lérida donde está documentado el primer Milagro Eucarístico de España\"",
+        "Miracolieucaristici.org, entry on the Eucharistic miracle of Ivorra"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:erding",
+      "slug": "erding",
+      "titulo": "Eucharistic Miracle of Erding",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "A host stolen from Mass and later abandoned out of remorse hovered luminous in the air in Erding, Bavaria, in 1417.",
+      "corpo": "In 1417, in the Bavarian town of Erding, Germany, a poor peasant, having misunderstood a neighbor's explanation about keeping the Eucharist at home, imagined that the consecrated host could work as a lucky charm to improve his financial situation. On Holy Thursday of that year, he hid in his mouth the host received at communion and took it with him as he left the church.\n\nOn the way, overcome with remorse for what he had done, he decided to go back to return the host, but it slipped from his hand and remained suspended in the air before falling to the ground. When the parish priest returned to the place, he found the host resting on the earth, giving off a strong radiance.\n\nA chapel was built on the site soon afterward to preserve the memory of the event, giving rise to a tradition of pilgrimage in the Erding region that endures as a local devotion.",
+      "tags": [
+        "Eucharist",
+        "Germany",
+        "real presence"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Erding, Bavaria (Germany)",
+      "ano": "1417",
+      "fontes": [
+        "Miracolieucaristici.org, entry on the Eucharistic miracle of Erding",
+        "Perpetual Eucharistic Adoration Inc., \"Eucharistic Miracle of Erding, Germany, 1417\""
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:chirattakonam",
+      "slug": "chirattakonam",
+      "titulo": "Eucharistic Miracle of Chirattakonam",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "A Host exposed for adoration developed the image of a face resembling that of Christ crowned with thorns, in India, in 2001.",
+      "corpo": "On April 28, 2001, in the parish church of Saint Mary in Chirattakonam, India, Father Johnson Karoor exposed the Blessed Sacrament in the monstrance for public adoration. After a few minutes, three marks were noticed on the Host; when he returned days later, the priest found on the Host the image of a face resembling that of Christ crowned with thorns.\n\nThe case was examined by Archbishop Cyril Mar Baselios, at the time Archbishop of the Syro-Malankara Eparchy of Trivandrum, who confirmed the phenomenon, declaring it consistent with what the faithful already profess by faith in the Eucharist.\n\nThe Host remains preserved in a monstrance in the church of Chirattakonam, and the case is listed among the documented Eucharistic miracles of the early twenty-first century, following the same criteria of discernment applied to earlier cases.",
+      "tags": [
+        "Eucharist",
+        "India",
+        "Eucharistic adoration",
+        "real presence"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Chirattakonam, Trivandrum (India)",
+      "ano": "2001",
+      "fontes": [
+        "Syro-Malankara Archeparchy of Trivandrum, statement by Archbishop Cyril Mar Baselios (2001)",
+        "Miracolieucaristici.org, entry on the Eucharistic miracle of Chirattakonam"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:douai",
+      "slug": "douai",
+      "titulo": "Eucharistic Miracle of Douai",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "A Host that fell during Easter Communion in 1254, in France, is said to have risen by itself from the floor, with apparitions of the Child Jesus witnessed by the assembly.",
+      "corpo": "On April 14, 1254, Easter Day, a priest was distributing Communion in the French city of Douai when he dropped a consecrated Host. As he bent down to pick it up, the Host is said to have risen by itself and come to rest upon the monstrance, in front of the faithful present. According to the historical account, witnessed by Bishop Thomas of Cantimpré himself, part of the assembly saw in the Host the image of the smiling Child Jesus, another part saw the suffering Christ, and still others, the glorious Christ.\n\nThe relic was given up for lost during the French Revolution, but was rediscovered in 1854 beneath the figure of Christ on the altar of the dead: a small wooden box containing the Host, still white, though damaged at the edges.\n\nFor more than 750 years, the Host of the Douai miracle has continued to be exposed for the adoration of the faithful a few times a month in the church of Saint-Pierre, in Douai, in northern France.",
+      "tags": [
+        "Eucharist",
+        "France",
+        "relic",
+        "real presence"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Douai (France)",
+      "ano": "1254",
+      "fontes": [
+        "Testimony of Bishop Thomas of Cantimpré on the miracle of Douai (1254)",
+        "France Catholique, \"Le miracle eucharistique de Douai, un prodige encore accessible\""
+      ]
+    }
+  ]
+}

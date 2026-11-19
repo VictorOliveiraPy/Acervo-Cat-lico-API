@@ -1,0 +1,802 @@
+{
+  "_meta": {
+    "categoria": "parabolas",
+    "nome": "Parables of Jesus",
+    "descricao": "The parables told by Jesus in the Gospels, with context, biblical reference and interpretive key.",
+    "status": "exemplos-iniciais",
+    "aviso": "It does not cover all the parables of the Gospels; it covers those best known and most commented on by the Christian tradition.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Catechism of the Catholic Church, no. 546 (the parables of the Kingdom)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "parabolas:filho-prodigo",
+      "slug": "filho-prodigo",
+      "titulo": "The Prodigal Son",
+      "categoria": "parabolas",
+      "resumo": "Parable of the father who runs to meet the son who squandered his inheritance, a central image of God's mercy.",
+      "corpo": "A young man asks in advance for his share of the inheritance, squanders everything in \"dissolute living,\" and, reduced to misery, decides to return home hoping to be received only as a hired servant. The father, seeing him while he is still far off, runs to meet him, embraces him, and organizes a feast — to the displeasure of the elder brother, obedient but unable to understand so much mercy. It is read as the most complete biblical parable about forgiveness and God's joy over the repentant sinner.",
+      "tags": [
+        "mercy",
+        "forgiveness"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg",
+      "imagem_credito": "Rembrandt — Wikimedia Commons, public domain",
+      "referencia_biblica": "Luke 15:11-32",
+      "evangelistas": [
+        "Luke"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 546"
+      ]
+    },
+    {
+      "id": "parabolas:bom-samaritano",
+      "slug": "bom-samaritano",
+      "titulo": "The Good Samaritan",
+      "categoria": "parabolas",
+      "resumo": "A parable that redefines \"neighbor\" as any person in need, not only those of the same social or religious group.",
+      "corpo": "In response to the question \"who is my neighbor?\", Jesus tells of a man who was robbed and left wounded by the roadside, ignored by a priest and a Levite, but helped by a Samaritan — a member of a group despised by the Jews of the time —, who takes care of him and pays for his stay at an inn. The parable shifts the original question: not \"who is my neighbor\", but \"who became a neighbor\" to the one who was in need.",
+      "tags": [
+        "charity",
+        "neighbor",
+        "mercy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/de/Balthasar_van_Cortbemde_-_The_Good_Samaritan.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "referencia_biblica": "Luke 10:25-37",
+      "evangelistas": [
+        "Luke"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, no. 546"
+      ]
+    },
+    {
+      "id": "parabolas:semeador",
+      "slug": "semeador",
+      "titulo": "The Sower",
+      "categoria": "parabolas",
+      "resumo": "A parable about the different kinds of ground on which the seed of the Word of God can fall, explained by Jesus himself.",
+      "corpo": "A sower scatters seed that falls on four kinds of soil — the wayside, rocky ground, among thorns, and good soil — with very different results. It is one of the rare parables whose allegorical explanation Jesus himself gives to the disciples: the different soils represent different dispositions of the human heart in receiving the Word of God.",
+      "tags": [
+        "Word of God",
+        "Kingdom of God"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pieter_Bruegel_the_Elder_-_Landscape_with_the_Parable_of_the_Sower_-_WGA03340.jpg",
+      "imagem_credito": "Pieter Bruegel the Elder — Wikimedia Commons, public domain",
+      "referencia_biblica": "Matthew 13:1-23",
+      "evangelistas": [
+        "Matthew",
+        "Mark",
+        "Luke"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, no. 546"
+      ]
+    },
+    {
+      "id": "parabolas:joio-e-trigo",
+      "slug": "joio-e-trigo",
+      "titulo": "The Parable of the Weeds and the Wheat",
+      "categoria": "parabolas",
+      "resumo": "A parable about the coexistence of good and evil in the world until the final judgment, when they will at last be separated.",
+      "corpo": "An enemy sows weeds (darnel) among the wheat in a field; the owner chooses to let both grow together until the harvest, so as not to accidentally uproot the good wheat — an image of God's patience, who permits good and evil to coexist in the world (and even within the Church itself) until the final judgment, when the definitive separation will take place.",
+      "tags": [
+        "Kingdom of God",
+        "final judgment"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/184_W%C3%BCrttemberg_und_M%C3%B6mpelgard_M%C3%B6mpelgarder_Altar_You_know_who.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "referencia_biblica": "Matthew 13:24-30, 36-43",
+      "evangelistas": [
+        "Matthew"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 546"
+      ]
+    },
+    {
+      "id": "parabolas:grao-de-mostarda",
+      "slug": "grao-de-mostarda",
+      "titulo": "The Mustard Seed",
+      "categoria": "parabolas",
+      "resumo": "A parable about the Kingdom of God, which begins small and imperceptible but grows until it becomes immense.",
+      "corpo": "The Kingdom of God is compared to a mustard seed, the smallest of all seeds, which nevertheless grows into a great plant able to shelter birds in its branches — an image of the contrast between the unassuming beginnings of the Gospel and its universal expansion throughout history.",
+      "tags": [
+        "Kingdom of God"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Teachings_of_Jesus_5_of_40._parable_of_the_mustard_seed._Jan_Luyken_etching._Bowyer_Bible.gif",
+      "imagem_credito": "Jan Luyken — Wikimedia Commons, FAL",
+      "referencia_biblica": "Matthew 13:31-32",
+      "evangelistas": [
+        "Matthew",
+        "Mark",
+        "Luke"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 546"
+      ]
+    },
+    {
+      "id": "parabolas:fermento-na-massa",
+      "slug": "fermento-na-massa",
+      "titulo": "The Leaven in the Dough",
+      "resumo": "A brief parable of the Kingdom compared to the leaven that a woman hides in three measures of flour, showing the silent, hidden, and irresistibly transforming action of the Kingdom of God.",
+      "corpo": "\"The kingdom of heaven is like leaven which a woman took and hid in three measures of flour, till it was all leavened\" (Mt 13:33; cf. Lk 13:20-21). The parable belongs to the group of the parables of the Kingdom in Matthew 13, after the mustard seed (Mt 13:31-32), and it is one of the few in which Jesus explicitly compares the kingdom of heaven to a homely, everyday reality. The verb \"to hide\" (enékrypsen) suggests discreet action: the leaven disappears from sight, but its effect is irreversible and reaches the whole dough.",
+      "categoria": "parabolas",
+      "tags": [
+        "Kingdom of God",
+        "parables of the Kingdom",
+        "grace",
+        "leaven",
+        "Matthew 13"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Teachings_of_Jesus_6_of_40._parable_of_the_leaven._Jan_Luyken_etching._Bowyer_Bible.gif",
+      "imagem_credito": "Jan Luyken — etching from the Bowyer Bible; Wikimedia Commons, Free Art License (FAL)",
+      "fontes": [
+        "Matthew 13:33; Luke 13:20-21",
+        "Catechism of the Catholic Church, nos. 546",
+        "Jan Luyken, etching \"Parable of the Leaven\", Bowyer Bible (1791-1795), Bolton Museum — Wikimedia Commons"
+      ],
+      "atualizado_em": null,
+      "referencia_biblica": "Matthew 13:33",
+      "evangelistas": [
+        "Matthew",
+        "Luke"
+      ]
+    },
+    {
+      "id": "parabolas:tesouro-escondido-e-perola",
+      "slug": "tesouro-escondido-e-perola",
+      "titulo": "The Hidden Treasure and the Pearl of Great Value",
+      "categoria": "parabolas",
+      "resumo": "Two twin parables about the supreme value of the Kingdom of God, for which it is worth \"selling everything\" to obtain.",
+      "corpo": "A man finds a treasure hidden in a field and sells all that he has to buy that field; a merchant finds a pearl of great value and does the same. The two twin parables express, from complementary angles — the unexpected discovery and the deliberate search — that the Kingdom of God is worth more than any other possession or life plan.",
+      "tags": [
+        "Kingdom of God"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Werkstatt_des_Domenico_Fetti_%E2%80%94_Gleichnis_von_der_k%C3%B6stlichen_Perle.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "referencia_biblica": "Matthew 13:44-46",
+      "evangelistas": [
+        "Matthew"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 546"
+      ]
+    },
+    {
+      "id": "parabolas:ovelha-perdida",
+      "slug": "ovelha-perdida",
+      "titulo": "The Lost Sheep",
+      "categoria": "parabolas",
+      "resumo": "Parable of the shepherd who leaves ninety-nine sheep to seek the one that was lost.",
+      "corpo": "A shepherd with a hundred sheep, upon realizing that one has gone astray, leaves the ninety-nine in the wilderness and goes after the lost one until he finds it, carrying it back on his shoulders with joy. It is one of the three parables of \"mercy\" in chapter 15 of Luke (together with the lost coin and the prodigal son), affirming that there is \"more joy in heaven over one sinner who repents\" than over ninety-nine righteous persons who have no need of repentance.",
+      "tags": [
+        "mercy",
+        "conversion"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Teachings_of_Jesus_14_of_40._parable_of_the_lost_sheep._Jan_Luyken_etching._Bowyer_Bible.gif",
+      "imagem_credito": "Photo: Phillip Medhurst — Wikimedia Commons, FAL",
+      "referencia_biblica": "Luke 15:1-7",
+      "evangelistas": [
+        "Matthew",
+        "Luke"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, no. 546"
+      ]
+    },
+    {
+      "id": "parabolas:moeda-perdida",
+      "slug": "moeda-perdida",
+      "titulo": "The Lost Coin",
+      "categoria": "parabolas",
+      "resumo": "Parable of the woman who sweeps the whole house until she finds a single lost coin, an image of God's search for each sinner.",
+      "corpo": "A woman with ten silver coins, upon losing one, lights a lamp and carefully sweeps the house until she finds it, then calls her neighbors together to celebrate. Alongside the lost sheep and the prodigal son, it reinforces the same message: God actively seeks out each person who is lost, and their recovery is cause for celebration in Heaven.",
+      "tags": [
+        "mercy",
+        "conversion"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Brooklyn_Museum_-_The_Lost_Drachma_%28La_drachme_perdue%29_-_James_Tissot_-_overall.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "referencia_biblica": "Luke 15:8-10",
+      "evangelistas": [
+        "Luke"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, no. 546"
+      ]
+    },
+    {
+      "id": "parabolas:credor-incompassivo",
+      "slug": "credor-incompassivo",
+      "titulo": "The Unforgiving Servant (The Merciless Servant)",
+      "categoria": "parabolas",
+      "resumo": "A parable about the duty to forgive without limits, drawing on the contrast between an enormous debt that is forgiven and a small one that is not.",
+      "corpo": "A servant who has had an astronomical debt forgiven by the king refuses, shortly afterward, to forgive a much smaller debt owed him by a fellow servant, and is severely punished for it. The parable answers Peter's question about how many times one must forgive (\"as many as seven times?\"), teaching a forgiveness with no calculable limit, in light of the immeasurable forgiveness already received from God.",
+      "tags": [
+        "forgiveness",
+        "mercy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Jan_van_Hemessen_-_The_Parable_of_the_Unmerciful_Servant.jpg",
+      "imagem_credito": "Jan Sanders van Hemessen — Wikimedia Commons, public domain",
+      "referencia_biblica": "Matthew 18:21-35",
+      "evangelistas": [
+        "Matthew"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, no. 546"
+      ]
+    },
+    {
+      "id": "parabolas:trabalhadores-da-vinha",
+      "slug": "trabalhadores-da-vinha",
+      "titulo": "The Workers in the Vineyard (The Eleventh Hour)",
+      "categoria": "parabolas",
+      "resumo": "A parable about the gratuitous generosity of God, who pays the same wage to those who worked all day and to those who worked only one hour.",
+      "corpo": "A landowner hires workers at different times of the day, from early morning until the last hour of the afternoon, and pays all of them the same agreed wage, provoking protest from those who worked more hours. The parable is not about labor justice, but about the gratuitous generosity of God, who is \"not unjust\" in giving to all, even to those who came last, the fullness of salvation.",
+      "tags": [
+        "grace",
+        "God's generosity"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Rembrandt_-_Parable_of_the_Laborers_in_the_Vineyard.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "referencia_biblica": "Matthew 20:1-16",
+      "evangelistas": [
+        "Matthew"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, no. 546"
+      ]
+    },
+    {
+      "id": "parabolas:dois-filhos-mandados-a-vinha",
+      "slug": "dois-filhos-mandados-a-vinha",
+      "titulo": "The Two Sons",
+      "categoria": "parabolas",
+      "resumo": "A short parable about the difference between saying \"yes\" to God and actually doing his will.",
+      "corpo": "A father asks two sons to work in the vineyard: one refuses at once, but later repents and goes; the other agrees readily, but does not go. Jesus asks which of the two did the father's will — an obvious answer that he uses to confront religious leaders who professed fidelity without actually living it.",
+      "tags": [
+        "obedience",
+        "conversion"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Matteo_Rosselli_Jesus_and_John_the_Baptist.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "referencia_biblica": "Matthew 21:28-32",
+      "evangelistas": [
+        "Matthew"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 546"
+      ]
+    },
+    {
+      "id": "parabolas:vinhateiros-homicidas",
+      "slug": "vinhateiros-homicidas",
+      "titulo": "The Parable of the Wicked Tenants",
+      "categoria": "parabolas",
+      "resumo": "An allegorical parable about the rejection of the prophets and, finally, of the Son of God himself, by the leaders of Israel.",
+      "corpo": "Tenants of a vineyard mistreat and kill the servants sent by the owner to collect the fruits, and finally kill even the owner's own son, hoping to gain the inheritance. The allegorical parable is read as a summary of the history of Israel's rejection of the prophets and, culminating, of the rejection and death of the Son of God himself.",
+      "tags": [
+        "rejection",
+        "Passion of Christ"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Parabola_dei_vignaioli_omicidi_-_Fetti.png",
+      "imagem_credito": "Domenico Fetti — Wikimedia Commons, public domain",
+      "referencia_biblica": "Matthew 21:33-46",
+      "evangelistas": [
+        "Matthew",
+        "Mark",
+        "Luke"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 546"
+      ]
+    },
+    {
+      "id": "parabolas:banquete-de-bodas",
+      "slug": "banquete-de-bodas",
+      "titulo": "The Wedding Banquet",
+      "categoria": "parabolas",
+      "resumo": "A parable about guests who refuse a royal invitation and are replaced by people from the streets — an image of the opening of the Kingdom to all.",
+      "corpo": "A king invites guests to the wedding banquet of his son, but the original guests refuse, some even mistreating the messengers; the king then orders that whoever is found in the streets be invited without distinction. It is read as an image of Israel's initial rejection of the Gospel and its consequent extension to all peoples, without exclusion.",
+      "tags": [
+        "Kingdom of God",
+        "universality"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bernardo_Strozzi_-_Parable_of_the_Wedding_Feast.jpg",
+      "imagem_credito": "Bernardo Strozzi — Wikimedia Commons, public domain",
+      "referencia_biblica": "Matthew 22:1-14",
+      "evangelistas": [
+        "Matthew",
+        "Luke"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 546"
+      ]
+    },
+    {
+      "id": "parabolas:dez-virgens",
+      "slug": "dez-virgens",
+      "titulo": "The Ten Virgins (Wise and Foolish)",
+      "categoria": "parabolas",
+      "resumo": "A parable about the need for constant vigilance in view of the unexpected coming of the Bridegroom (Christ).",
+      "corpo": "Ten bridesmaids await the arrival of a bridegroom for a wedding; five bring extra oil for their lamps, five do not, and the latter are left outside when the bridegroom arrives unexpectedly, late at night. It is read as a warning about the need for constant spiritual vigilance, since \"you know neither the day nor the hour\" of Christ's definitive coming.",
+      "tags": [
+        "vigilance",
+        "Parousia",
+        "eschatology"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/ThreeFoolishVirginsMagdeburg.jpg",
+      "imagem_credito": "Photo: Wikimedia Commons — Wikimedia Commons, CC BY-SA 3.0",
+      "referencia_biblica": "Matthew 25:1-13",
+      "evangelistas": [
+        "Matthew"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, no. 546"
+      ]
+    },
+    {
+      "id": "parabolas:talentos",
+      "slug": "talentos",
+      "titulo": "The Talents",
+      "categoria": "parabolas",
+      "resumo": "A parable about the responsible and fruitful use of the gifts received from God, rather than their mere passive accumulation.",
+      "corpo": "A master entrusts different sums (\"talents\", a monetary unit that gave rise to the modern word \"talent\" in the sense of aptitude) to three servants before going on a journey; the two who invest and multiply the money are rewarded, while the one who simply buries it out of fear is rebuked. It teaches that the gifts received from God — abilities, opportunities, graces — must be used fruitfully, not merely preserved passively.",
+      "tags": [
+        "gifts",
+        "responsibility"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Willem_de_Poorter%27s_The_Parable_of_The_Talents_or_Minas.png",
+      "imagem_credito": "Willem de Poorter — Wikimedia Commons, public domain",
+      "referencia_biblica": "Matthew 25:14-30",
+      "evangelistas": [
+        "Matthew",
+        "Luke"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 546"
+      ]
+    },
+    {
+      "id": "parabolas:juizo-das-nacoes",
+      "slug": "juizo-das-nacoes",
+      "titulo": "The Judgment of the Nations (Sheep and Goats)",
+      "categoria": "parabolas",
+      "resumo": "Parable of the Last Judgment in which the decisive criterion is how one treated \"one of the least of these my brethren\" — the hungry, the thirsty, the imprisoned, the sick.",
+      "corpo": "In the most detailed account of the Last Judgment in the Gospels, the King separates the \"sheep\" from the \"goats\" on the basis of a single criterion: how one treated the hungry, the thirsty, strangers, the naked, the sick, and prisoners, identifying himself personally with each of them (\"as you did it to one of the least of these my brethren, you did it to me\"). It is the direct biblical basis of the corporal works of mercy (see the Virtues category).",
+      "tags": [
+        "last judgment",
+        "works of mercy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Separation_of_Sheep_and_Goats_MET_cdi24-144-4s1.jpg",
+      "imagem_credito": "Metropolitan Museum of Art — Wikimedia Commons, CC0",
+      "referencia_biblica": "Matthew 25:31-46",
+      "evangelistas": [
+        "Matthew"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 546"
+      ]
+    },
+    {
+      "id": "parabolas:rico-e-lazaro",
+      "slug": "rico-e-lazaro",
+      "titulo": "The Rich Man and Lazarus",
+      "categoria": "parabolas",
+      "resumo": "A parable about the radical reversal of fortunes after death between an indifferent rich man and the beggar Lazarus at his door.",
+      "corpo": "A rich man lives in abundance, ignoring the beggar Lazarus, covered with sores, at his gate; after both die, their fortunes are radically reversed: Lazarus is comforted \"in Abraham's bosom,\" and the rich man suffers torment, with no possibility of reversal. It is a severe warning about indifference toward the poverty of others and about the irreversibility of one's destiny after death.",
+      "tags": [
+        "poverty",
+        "last things",
+        "indifference"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/The_Rich_Man_and_Lazarus_%28Girolamo_da_Ponte%29.jpg",
+      "imagem_credito": "Girolamo da Ponte — Wikimedia Commons, public domain",
+      "referencia_biblica": "Luke 16:19-31",
+      "evangelistas": [
+        "Luke"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 546"
+      ]
+    },
+    {
+      "id": "parabolas:fariseu-e-publicano",
+      "slug": "fariseu-e-publicano",
+      "titulo": "The Pharisee and the Tax Collector",
+      "categoria": "parabolas",
+      "resumo": "A parable about the humble prayer of the repentant sinner, which God welcomes more than the self-sufficiency of the proud religious man.",
+      "corpo": "A Pharisee prays, thanking God that he is not like other men, listing his own religious practices; a tax collector (socially despised) simply beats his breast and asks: \"God, be merciful to me a sinner!\" Jesus declares that the latter, and not the former, \"went down to his house justified\" — a central parable about humility and spiritual self-sufficiency.",
+      "tags": [
+        "humility",
+        "prayer",
+        "pride"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/24/BasilikaOttobeurenFresko07.JPG",
+      "imagem_credito": "Photo: Johannes Böckh &amp; Thomas Mirtsch — Wikimedia Commons, CC BY-SA 3.0",
+      "referencia_biblica": "Luke 18:9-14",
+      "evangelistas": [
+        "Luke"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 546"
+      ]
+    },
+    {
+      "id": "parabolas:juiz-injusto-e-viuva-insistente",
+      "slug": "juiz-injusto-e-viuva-insistente",
+      "titulo": "The Unjust Judge and the Persistent Widow",
+      "categoria": "parabolas",
+      "resumo": "A parable that teaches perseverance in prayer through the contrast between a dishonest judge and the persistence of a widow.",
+      "corpo": "A widow repeatedly pleads before a dishonest judge who has no fear of God, until he, wearied by her persistence, grants her justice only to be rid of her. Jesus argues \"a fortiori\": if even an unjust judge yields to persistence, how much more will God, who is good, hear those who persevere in prayer — a parable about persevering trust in prayer, not about \"wearing God out.\"",
+      "tags": [
+        "prayer",
+        "perseverance"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Gelijkenis_van_de_rechter_die_wordt_lastiggevallen_door_een_klagende_vrouw%2C_RP-P-OB-46.028.jpg",
+      "imagem_credito": "Rijksmuseum — Wikimedia Commons, CC0",
+      "referencia_biblica": "Luke 18:1-8",
+      "evangelistas": [
+        "Luke"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 546"
+      ]
+    },
+    {
+      "id": "parabolas:figueira-esteril",
+      "slug": "figueira-esteril",
+      "titulo": "The Barren Fig Tree",
+      "categoria": "parabolas",
+      "resumo": "A parable about God's patience in the face of a lack of fruit, but also about the real limit of that patience.",
+      "corpo": "A man wants to cut down a fig tree that has borne no fruit for three years, but the gardener asks for one more year, promising to tend it with redoubled care before giving up. It combines divine patience in the face of a lack of conversion with a real warning: this patience is neither infinite nor unconditional.",
+      "tags": [
+        "conversion",
+        "God's patience"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/27_Mark%E2%80%99s_Gospel_H._parables_of_the_kingdom_image_1_of_1._the_barren_fig_tree._French_School.png",
+      "imagem_credito": "Photo: Phillip De Vere — Wikimedia Commons, FAL",
+      "referencia_biblica": "Luke 13:6-9",
+      "evangelistas": [
+        "Luke"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, no. 546"
+      ]
+    },
+    {
+      "id": "parabolas:rico-insensato",
+      "slug": "rico-insensato",
+      "titulo": "The Rich Fool",
+      "categoria": "parabolas",
+      "resumo": "Parable of the man who plans to build bigger barns to store his wealth, without reckoning with the nearness of his own death.",
+      "corpo": "A rich man, faced with an abundant harvest, plans to build bigger barns to store everything and to \"relax, eat, drink, be merry\" for many years, not knowing that he would die that very night. It is a warning against greed and against the false security placed solely in material possessions, \"not being rich toward God.\"",
+      "tags": [
+        "greed",
+        "vanity of riches"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rembrandt_-_The_Parable_of_the_Rich_Fool.jpg",
+      "imagem_credito": "Rembrandt — Wikimedia Commons, public domain",
+      "referencia_biblica": "Luke 12:13-21",
+      "evangelistas": [
+        "Luke"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 546"
+      ]
+    },
+    {
+      "id": "parabolas:grande-ceia",
+      "slug": "grande-ceia",
+      "titulo": "The Great Banquet (The Guests Who Make Excuses)",
+      "categoria": "parabolas",
+      "resumo": "A parable similar to the Wedding Feast, about trivial excuses that keep people from accepting God's decisive invitation.",
+      "corpo": "A man prepares a great banquet and invites many, but all of them, one by one, offer trivial excuses — a newly bought field, newly acquired oxen, a recent marriage — for not attending. The host then sends for those in the lanes and highways who are willing to come, and declares that none of the first invited will taste of his banquet.",
+      "tags": [
+        "Kingdom of God",
+        "religious indifference"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Cornelis_Droochsloot_%281630-1673%29_-_The_Parable_of_the_Great_Supper_-_B.M.605_-_Bowes_Museum.jpg",
+      "imagem_credito": "Cornelis Droochsloot — Wikimedia Commons, public domain",
+      "referencia_biblica": "Luke 14:15-24",
+      "evangelistas": [
+        "Luke"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, no. 546"
+      ]
+    },
+    {
+      "id": "parabolas:administrador-infiel",
+      "slug": "administrador-infiel",
+      "titulo": "The Dishonest (Shrewd) Steward",
+      "categoria": "parabolas",
+      "resumo": "A parable famous for the difficulty of its interpretation: a dishonest steward is praised for his practical shrewdness, not for his dishonesty.",
+      "corpo": "A steward about to be dismissed for mismanagement quickly negotiates discounts on the debts owed to his master, thereby securing future favors for himself; surprisingly, he is praised — not for his dishonesty, but for his shrewdness and sense of practical urgency, which Jesus contrasts with the lack of equal zeal among the \"children of light\" in spiritual matters.",
+      "tags": [
+        "prudence",
+        "spiritual urgency"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Parable_of_the_Unjust_Steward_Marinus_van_Reymerswaele.jpg",
+      "imagem_credito": "Marinus van Reymerswaele — Wikimedia Commons, public domain",
+      "referencia_biblica": "Luke 16:1-13",
+      "evangelistas": [
+        "Luke"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 546"
+      ]
+    },
+    {
+      "id": "parabolas:boas-arvores-e-frutos",
+      "slug": "boas-arvores-e-frutos",
+      "titulo": "The Tree and Its Fruits",
+      "resumo": "Parabolic teaching that a good tree cannot bear bad fruit, nor a bad tree good fruit — the criterion given by Jesus for discerning false prophets.",
+      "corpo": "\"Every good tree bears good fruit, and every bad tree bears bad fruit\" (Mt 7:17). The teaching concludes the section of the Sermon on the Mount devoted to the warning against false prophets, who \"come to you in sheep's clothing but underneath are ravenous wolves\" (Mt 7:15); the criterion of discernment is the fruit: \"By their fruits you will know them\" (Mt 7:16).",
+      "categoria": "parabolas",
+      "tags": [
+        "discernment",
+        "false prophets",
+        "Sermon on the Mount",
+        "fruits",
+        "works"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Matthew 7:15-20; Luke 6:43-45",
+        "Catechism of the Catholic Church, no. 546",
+        "Rabanus Maurus, Commentary on Matthew (cited in the analysis of Mt 7:17-18)"
+      ],
+      "atualizado_em": null,
+      "referencia_biblica": "Matthew 7:15-20",
+      "evangelistas": [
+        "Matthew",
+        "Luke"
+      ]
+    },
+    {
+      "id": "parabolas:cego-guiando-cego",
+      "slug": "cego-guiando-cego",
+      "titulo": "The Blind Leading the Blind",
+      "resumo": "A brief proverb-parable of Jesus on the danger of following spiritual guides as unprepared as the disciples themselves, with which he warns against false teaching.",
+      "corpo": "\"Can a blind man lead a blind man? Will not both fall into a pit?\" (Lk 6:39). A brief and direct image, with which Jesus warns against following teachers or spiritual guides as unprepared as those they claim to guide. Luke places the saying in the so-called Sermon on the Plain (Lk 6:20-49), right after the teaching on love of enemies and the prohibition of judging (Lk 6:37-38); in Matthew's version, the same image appears as a word addressed to the Pharisees: \"Let them alone; they are blind guides of the blind\" (Mt 15:14), in an episode in which scribes and Pharisees, coming from Jerusalem, confront Jesus about the traditions of purity.",
+      "categoria": "parabolas",
+      "tags": [
+        "discernment",
+        "false teachers",
+        "spiritual blindness",
+        "false prophets",
+        "Sermon on the Plain",
+        "Pharisees"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Pieter_Bruegel_the_Elder_-_The_Parable_of_the_Blind_Leading_the_Blind_-_WGA3511.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Luke 6:39-42; Matthew 15:14",
+        "Catechism of the Catholic Church, nos. 1783-1785 (formation of conscience)",
+        "Saint Cyril of Alexandria, Commentary on the Gospel of Luke, homily on Lk 6:39-42",
+        "Catena Aurea of Saint Thomas Aquinas on Lk 6:39"
+      ],
+      "atualizado_em": null,
+      "referencia_biblica": "Luke 6:39-40",
+      "evangelistas": [
+        "Matthew",
+        "Luke"
+      ]
+    },
+    {
+      "id": "parabolas:casa-construida-sobre-a-rocha",
+      "slug": "casa-construida-sobre-a-rocha",
+      "titulo": "The House Built on the Rock",
+      "categoria": "parabolas",
+      "resumo": "A parable that concludes the Sermon on the Mount, contrasting those who hear and practice the words of Jesus with those who merely hear.",
+      "corpo": "Whoever hears the words of Jesus and acts on them is compared to a wise man who builds his house on rock, able to withstand storms; whoever hears them and does not act on them is compared to a foolish man who builds on sand, whose house collapses at the first storm. It concludes the Sermon on the Mount with a practical warning about the difference between hearing the Gospel and living it.",
+      "tags": [
+        "practice of the faith",
+        "Sermon on the Mount"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/89/The_house_built_upon_a_rock_LCCN2013647176.jpg",
+      "imagem_credito": "Library of Congress — Wikimedia Commons, public domain",
+      "referencia_biblica": "Matthew 7:24-27",
+      "evangelistas": [
+        "Matthew",
+        "Luke"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church, no. 546"
+      ]
+    },
+    {
+      "id": "parabolas:vinho-novo-em-odres-velhos",
+      "slug": "vinho-novo-em-odres-velhos",
+      "titulo": "New Wine in Old Wineskins",
+      "categoria": "parabolas",
+      "resumo": "A double parable about the new patch on an old garment and new wine in old wineskins, an image of the radical newness brought by Jesus.",
+      "corpo": "Asked why his disciples did not fast as those of the Pharisees and of John the Baptist did, Jesus answers with two short comparisons: \"No one puts a patch of unshrunken cloth on an old garment, for the patch pulls away from the garment, and the tear gets worse. Neither do people pour new wine into old wineskins; otherwise, the skins burst, the wine spills out, and the skins are ruined. Rather, new wine is poured into fresh wineskins, and both are preserved\" (Mt 9:16-17; cf. Mk 2:21-22; Lk 5:36-39).\n\nBoth images say the same thing in different ways: the newness that Jesus brings — the Gospel, the nearness of the Kingdom — cannot simply be sewn onto the old religious structures without breaking them; it requires new containers, that is, a renewed interior disposition, capable of receiving something that is still fermenting and growing. The parable does not dismiss the value of the old (Luke even adds an ironic note about those who prefer the old wine, Lk 5:39), but affirms that the Gospel is not a mere adjustment of the old Law, but a newness that calls for a new heart.",
+      "tags": [
+        "newness of the Gospel",
+        "fasting",
+        "conversion"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "referencia_biblica": "Matthew 9:16-17; Mark 2:21-22; Luke 5:36-39",
+      "evangelistas": [
+        "Matthew",
+        "Mark",
+        "Luke"
+      ],
+      "fontes": [
+        "Matthew 9:16-17",
+        "Mark 2:21-22",
+        "Luke 5:36-39"
+      ]
+    },
+    {
+      "id": "parabolas:amigo-importuno",
+      "slug": "amigo-importuno",
+      "titulo": "The Persistent Friend",
+      "categoria": "parabolas",
+      "resumo": "A parable about a man who, at midnight, insists on asking a neighbor to lend him bread, teaching perseverance in prayer.",
+      "corpo": "Right after teaching the Our Father, Jesus tells the story of someone who, at midnight, knocks at a friend's door asking to borrow three loaves of bread, because another friend has arrived from a journey and he has nothing to offer him. The master of the house, already in bed with his children, answers from within that he cannot get up. Jesus concludes, however, that \"though he will not rise and give him anything because he is his friend, yet because of his persistence he will get up and give him whatever he needs\" (Lk 11:5-8).\n\nThe parable argues by contrast, not by similarity: if even a bothered and reluctant neighbor ends up yielding in the face of insistence, how much more will the heavenly Father, who is neither reluctant nor needs to be convinced, answer the one who asks him with perseverance. For this reason the text continues immediately with the invitation to \"ask, seek, knock\" (Lk 11:9-10) — the parable does not portray God as an annoyed neighbor, but teaches, by contrast, the trust and persistence that must mark Christian prayer.",
+      "tags": [
+        "prayer",
+        "perseverance",
+        "Our Father"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "referencia_biblica": "Luke 11:5-8",
+      "evangelistas": [
+        "Luke"
+      ],
+      "fontes": [
+        "Luke 11:5-8"
+      ]
+    },
+    {
+      "id": "parabolas:primeiros-lugares-no-banquete",
+      "slug": "primeiros-lugares-no-banquete",
+      "titulo": "The Places of Honor at the Banquet",
+      "categoria": "parabolas",
+      "resumo": "Noticing guests competing for the places of honor at a feast, Jesus teaches us to choose the lowest place, a principle of Christian humility.",
+      "corpo": "Observing how the guests at a banquet chose the places of honor for themselves, Jesus offers a parable: whoever is invited to a wedding feast must not take the place of honor, lest he run the risk of being publicly humiliated if someone more distinguished arrives; it is better to sit in the lowest place, so that the host himself may come and invite him to move up higher, \"then you will be honored in the presence of all who sit at table with you\" (Lk 14:7-10).\n\nJesus' conclusion extends the principle beyond social etiquette: \"everyone who exalts himself will be humbled, and he who humbles himself will be exalted\" (Lk 14:11), the same formula he repeats in connection with the Pharisee and the tax collector (Lk 18:14). Far from being a mere piece of advice on good manners or a calculated humility meant to win recognition, the parable is set within the broader context of the eschatological banquet of the Kingdom, to which, according to Jesus, the poor, the crippled, the lame, and the blind will be invited (Lk 14:12-14), and not those who consider themselves deserving of the places of honor.",
+      "tags": [
+        "humility",
+        "banquet",
+        "Kingdom of God"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "referencia_biblica": "Luke 14:7-11",
+      "evangelistas": [
+        "Luke"
+      ],
+      "fontes": [
+        "Luke 14:7-11"
+      ]
+    },
+    {
+      "id": "parabolas:torre-e-rei-que-vai-a-guerra",
+      "slug": "torre-e-rei-que-vai-a-guerra",
+      "titulo": "The Tower and the King Going to War",
+      "categoria": "parabolas",
+      "resumo": "Two sister parables about counting the cost before acting, applied by Jesus to the radical seriousness of following him as a disciple.",
+      "corpo": "Before the great crowds that followed him, Jesus warns about the real cost of discipleship with two complementary comparisons: first, anyone who wants to build a tower must first calculate whether he has the resources to finish it, lest he be ridiculed for leaving the work half done (Lk 14:28-30); then, a king going to war against a larger army must first consider whether he has the strength to win, or else send a delegation to ask for terms of peace while the enemy is still far off (Lk 14:31-32).\n\nBoth parables end with the same demanding conclusion: \"So therefore, whoever of you does not renounce all that he has cannot be my disciple\" (Lk 14:33). Jesus does not intend to discourage followers, but to avoid superficial enthusiasm that will not survive the first difficulty — Christian discipleship, like building a tower or winning a war, demands serious assessment and a readiness to give up everything, not merely fleeting good intentions.",
+      "tags": [
+        "discipleship",
+        "renunciation",
+        "following Christ"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "referencia_biblica": "Luke 14:28-33",
+      "evangelistas": [
+        "Luke"
+      ],
+      "fontes": [
+        "Luke 14:28-33"
+      ]
+    },
+    {
+      "id": "parabolas:servos-vigilantes",
+      "slug": "servos-vigilantes",
+      "titulo": "The Watchful Servants",
+      "categoria": "parabolas",
+      "resumo": "Parable of the servants who wait with loins girded and lamps burning for the master's return, an image of Christian vigilance before the coming of the Lord.",
+      "corpo": "Jesus exhorts his disciples to be \"dressed for action and have your lamps burning,\" like servants waiting for their master to come home from a wedding feast, ready to open the door for him as soon as he knocks, at any hour of the night (Lk 12:35-38). The scene evokes Eastern servants, always available for the master's unpredictable return.\n\nThe most surprising point of the parable lies in the reward: the master who finds his servants watchful \"will have them recline at table, and he will come and serve them\" (Lk 12:37) — a reversal of the roles of servant and master that anticipates Jesus' own gesture in the washing of the feet. Jesus reinforces the same image with the comparison of the thief who comes when least expected (Lk 12:39-40; cf. Mk 13:33-37), uniting vigilance and fidelity: the disciples must live prepared for the coming of the Lord without knowing the hour, yet trusting in the generosity of the one who will return to reward them.",
+      "tags": [
+        "vigilance",
+        "second coming",
+        "fidelity"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "referencia_biblica": "Luke 12:35-40",
+      "evangelistas": [
+        "Luke"
+      ],
+      "fontes": [
+        "Luke 12:35-40"
+      ]
+    },
+    {
+      "id": "parabolas:dez-minas",
+      "slug": "dez-minas",
+      "titulo": "The Ten Minas",
+      "categoria": "parabolas",
+      "resumo": "A nobleman goes off to receive a kingdom and, before leaving, entrusts ten minas to ten servants, afterwards calling each one to account for the results of his management.",
+      "corpo": "Near Jerusalem, when many expected that the kingdom of God was going to appear immediately, Jesus tells the parable of a nobleman who travels to a distant country to receive the investiture of a kingdom and then return. Before leaving, he entrusts a mina — a sum equivalent to a few months' wages — to each of ten servants, saying: \"Engage in trade until I come back\" (Lk 19:12-13). On returning as king, he calls them to account: the servant who multiplied the mina tenfold receives authority over ten cities; the one who multiplied it fivefold, five cities; but the one who hid the mina in a piece of cloth, out of fear, is rebuked and has even the little he had taken from him (Lk 19:15-26).\n\nUnlike the parable of the talents (Mt 25:14-30), here all the servants receive the same initial sum, which shifts the focus not to the difference in abilities, but to the equal fidelity required of all with what has been entrusted to them. The narrative also includes citizens who hate the nobleman and do not want him to reign over them, a veiled historical allusion to the rejection that Jesus, the true King, would meet in Jerusalem — the city toward which the parable is told along the way.",
+      "tags": [
+        "talents and gifts",
+        "fidelity",
+        "Kingdom of God",
+        "final judgment"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "referencia_biblica": "Luke 19:11-27",
+      "evangelistas": [
+        "Luke"
+      ],
+      "fontes": [
+        "Luke 19:11-27"
+      ]
+    },
+    {
+      "id": "parabolas:rede-de-pesca",
+      "slug": "rede-de-pesca",
+      "titulo": "The Dragnet",
+      "categoria": "parabolas",
+      "resumo": "The Kingdom of Heaven is compared to a net cast into the sea that gathers fish of every kind, which are sorted only afterward, on the shore.",
+      "corpo": "Closing the series of Kingdom parables in chapter 13 of Matthew, Jesus compares the Kingdom of Heaven to \"a net thrown into the sea, that gathered fish of every kind\"; when it is full, the fishermen haul it ashore and, sitting down, sort the good into baskets and throw away the bad (Mt 13:47-48).\n\nJesus himself explains the image: \"so will it be at the close of the age. The angels will come out and separate the evil from the righteous, and throw them into the furnace of fire\" (Mt 13:49-50). Like the parable of the weeds and the wheat, it teaches that the Church, in history, remains a mixed net, gathering for now the good and the bad without visible distinction; the definitive separation is reserved for the final judgment, the work of God, and not an anticipation by human hands.",
+      "tags": [
+        "final judgment",
+        "Kingdom of God",
+        "Church"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "referencia_biblica": "Matthew 13:47-50",
+      "evangelistas": [
+        "Matthew"
+      ],
+      "fontes": [
+        "Matthew 13:47-50"
+      ]
+    },
+    {
+      "id": "parabolas:lampada-sob-o-alqueire",
+      "slug": "lampada-sob-o-alqueire",
+      "titulo": "The Lamp under the Bushel Basket",
+      "categoria": "parabolas",
+      "resumo": "No one lights a lamp to hide it under a basket: it must be set on the lampstand, giving light to the whole house, an image of Christian witness.",
+      "corpo": "Found in all three Synoptic Gospels, the parable is brief and direct: \"Nor do men light a lamp and put it under a bushel (a measure used as a container), but on a stand, and it gives light to all in the house\" (Mt 5:15; cf. Mk 4:21; Lk 8:16). In Matthew, the image follows directly upon Jesus' statement to the disciples: \"You are the light of the world\" (Mt 5:14), joining the parable to a call to mission.\n\nIn Mark, the same image appears in a slightly different context, linked to the teaching in parables: nothing that is hidden now will fail to come to light (Mk 4:22), so that the lamp also functions as a figure of Jesus' own revelation, destined to be fully manifested, and not to remain veiled. In both senses, the parable rejects any faith reduced to the private sphere: the light received exists to be shared and seen by all.",
+      "tags": [
+        "witness",
+        "mission",
+        "light of the world"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "referencia_biblica": "Matthew 5:14-15; Mark 4:21-22; Luke 8:16",
+      "evangelistas": [
+        "Matthew",
+        "Mark",
+        "Luke"
+      ],
+      "fontes": [
+        "Matthew 5:14-15",
+        "Mark 4:21-22",
+        "Luke 8:16"
+      ]
+    }
+  ]
+}

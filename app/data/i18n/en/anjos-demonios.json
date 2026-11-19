@@ -1,0 +1,734 @@
+{
+  "_meta": {
+    "categoria": "anjos-demonios",
+    "nome": "Angels and Demons",
+    "descricao": "The archangels, the nine angelic choirs, the guardian angel, and Catholic doctrine on the fall of the angels, temptation, and exorcism.",
+    "status": "exemplos-iniciais",
+    "aviso": "Introductory catechetical presentation of Catholic angelology and demonology; a subject of intense popular speculation, treated here on the basis of the Catechism and Scripture.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Catechism of the Catholic Church, nos. 328-336 and 391-395",
+      "Roman Ritual, De Exorcismis"
+    ]
+  },
+  "itens": [
+    {
+      "id": "anjos-demonios:sao-miguel-arcanjo",
+      "slug": "sao-miguel-arcanjo",
+      "titulo": "Saint Michael the Archangel",
+      "resumo": "\"Quis ut Deus?\" (Who is like God?) — the prince of the heavenly host, protector of the Church and of the sick, invoked against the devil.",
+      "corpo": "Michael (from the Hebrew Mi-ka-El, \"Who is like God?\") is the only angel to whom Sacred Scripture gives the title of \"archangel\" (Jude 9). He appears in the Book of Daniel as \"the great prince, who has charge of your people\" (Dan 12:1) and as the one who assists the people of Israel in the struggle against the \"prince of the kingdom of Persia\" (Dan 10:13, 21). In the Book of Revelation he leads the faithful angels in the battle against the dragon: \"Now war arose in heaven, Michael and his angels fighting against the dragon\" (Rev 12:7), and in the Epistle of Jude he disputes with the devil over the body of Moses, answering him without insult: \"The Lord rebuke you\" (Jude 9). The Book of Enoch (1 En 20), canonical in the Ethiopian Orthodox Church, lists him among the seven archangels who stand before the glory of God.\n\nThe cult of Michael was established very early in the East, above all because of his fame as protector of the sick. In Phrygia and Asia Minor, springs were attributed to his intercession — that of Chairotopa and that of Colossae (Chonae, present-day Khonas, near the Lycus river), where the \"Miracle of Chonae\" was celebrated. In Constantinople he was regarded both as a heavenly physician and as a military protector: Constantine is said to have built at Sosthenion, about eighty kilometers south of the city, the shrine called the \"Michaelion,\" where the sick spent the night awaiting a manifestation of the archangel. The principal Eastern feast, the \"synaxis\" at the shrine of Arcadius, was fixed on November 8 and spread to the Syriac, Armenian and Coptic Churches. According to tradition, Michael appeared to the emperor Constantine before the battle against Maxentius, with the inscription \"In this sign you will conquer.\"\n\nIn the West, the center of the cult was the shrine of Monte Gargano, in Apulia. The oldest account, the *Liber de apparitione sancti Michaelis in Monte Gargano*, records three episodes: the \"episode of the bull,\" that of the victory of the Lombards (considered miraculous on May 8, probably in the war between Prince Grimoald and the Byzantines, 662-663) and that of the consecration of the cave. Tradition places the first apparitions between the end of the fifth century and the first decades of the sixth century — the proposed dates vary between 490, 492 and 493 — and links the consecration of the cave to Bishop Lawrence Maiorano of Siponto, who was reportedly warned by the archangel that he himself had already consecrated the place. The Lombard kings and later the emperors of the Holy Roman Empire (Otto III, Henry II) honored the shrine; they minted the image of Michael on coins and banners. The feast of the Apparition, on May 8, and that of the Dedication of the basilica, on September 29, remained distinct for centuries.\n\nThe Church venerates Michael as the leader of the heavenly host and special protector of the people of God. The best-known invocation is the prayer composed by Pope Leo XIII, added in 1886 to the \"Leonine Prayers\" recited after Low Mass: \"Saint Michael the Archangel, defend us in battle...\". The legend that the pope wrote the prayer after a vision of evil spirits descending upon Rome circulated widely from a German newspaper article of 1933, but Father Bers, as early as 1885, found no documentary proof of the episode, and the sources close to the institution of the prayer say nothing of it — modern scholars, such as Kevin Symonds, treat the account as a later invention. In 1890 Leo XIII also composed the Exorcism against Satan and the Apostate Angels, which incorporates a prayer to Saint Michael and was inserted into the Roman Ritual; the formula was shortened in the 1902 edition. The prayer after Mass ceased to be obligatory with the post-conciliar liturgical reform, around 1964-1965, but it is still recited in many parishes and through the devotion of the faithful. Michael is also the great intercessor invoked in exorcisms and the patron of numerous nations and of police and military corps.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "archangel",
+        "war in heaven",
+        "Revelation",
+        "exorcism",
+        "Monte Gargano",
+        "Leo XIII",
+        "angels"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/GuidoReni_MichaelDefeatsSatan.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Daniel 10:13, 21; 12:1",
+        "Revelation 12:7-9",
+        "Epistle of Jude 9",
+        "Book of Enoch 20 (1 En)",
+        "Liber de apparitione sancti Michaelis in Monte Gargano",
+        "Roman Martyrology (May 8 and September 29)",
+        "Roman Ritual, Exorcismus contra Satanam et angelos apostaticos (Leo XIII, 1890; revised edition of 1902)",
+        "Wikipedia (en): 'Michael (archangel)' and 'Prayer to Saint Michael'"
+      ],
+      "tipo": "arcanjo"
+    },
+    {
+      "id": "anjos-demonios:sao-gabriel-arcanjo",
+      "slug": "sao-gabriel-arcanjo",
+      "titulo": "Saint Gabriel the Archangel",
+      "resumo": "\"Strength of God\" — the archangel messenger who announced God's plans to Daniel, to Zechariah and to Mary; patron saint of communications and, since 1972, also of postal services.",
+      "corpo": "Gabriel (from the Hebrew Gavri'el, \"Strength of God\" or \"God is my strength\") is one of the archangels venerated by the Church, alongside Michael and Raphael. In the Book of Daniel he appears as the interpreter of prophetic visions: he explains the vision of the ram and the goat (Dan 8:15-18) and the meaning of the prophecy of the \"seventy weeks\" concerning the fate of Jerusalem and the coming of the Messiah (Dan 9:20-27), presenting himself as one who \"stood in the presence of God\". It is from these texts that Christian tradition establishes him as the messenger par excellence and interpreter of apocalyptic visions.\n\nIn the Gospel of Luke, Gabriel is the angel sent to Zechariah in the Temple to announce the birth of John the Baptist; faced with the doubt of the elderly priest, he answers: \"I am Gabriel, who stand in the presence of God; and I was sent to speak to you and to bring you this good news\" (Lk 1:19). Six months later, he is sent to Nazareth to announce to Mary that she would conceive, by the power of the Holy Spirit, one who would be \"called the Son of God\" (Lk 1:26-38) — the Annunciation, celebrated on March 25, the moment in which the Church's tradition recognizes the instant of the Incarnation of the Word (\"The Word became flesh\", Jn 1:14). The greeting addressed to Mary (\"Hail, full of grace, the Lord is with you\") forms the first part of the Hail Mary prayer. In iconography he is usually depicted with a lily or a flowering branch, a symbol of Mary's purity, or holding a lighted candle, a symbol of the light of truth.\n\nThe name of Gabriel is also venerated in Islam, where, as Jibril, he is the angel who transmits the revelation to Muhammad — a testimony to the common Abrahamic root of the figure, although set within a different doctrine. In the Latin liturgical tradition, Gabriel had his own feast on March 24 (fixed on March 22 by Benedict XV in 1925), on the eve of or near the Annunciation; this particular celebration was suppressed by the reform of the Roman Calendar in 1969, which united the feasts of Gabriel and Raphael with that of Michael on September 29, in the joint celebration of the three archangels.\n\nOn April 1, 1951, by Apostolic Brief, Pope Pius XII declared Saint Gabriel the Archangel the heavenly patron of telecommunications — \"to telegraph to the absent with admirable speed, to telephone across extraordinary distances, to send messages by airwaves\" — and \"of its specialists and employees\". The text of the Brief states: \"We constitute and declare the Archangel Saint Gabriel the heavenly Patron before God of this profession, of its specialists and employees\". A secondary Italian source (Zenit) gives the date of January 12, 1951, but the presentations of the Holy See and Vatican News indicate April 1 — a discrepancy that is recorded without eliminating the April date, which is more widely attested. Since then he has been invoked as patron of Vatican Radio and, in general, of journalists, radio broadcasters, mail carriers and diplomats. On December 9, 1972, Pope Paul VI extended Gabriel's patronage to all postal services, by means of an apostolic letter in which he calls him the \"messenger of the highest things\" and recalls that, because he brought to earth \"the most important message in history\", he was chosen as patron of \"telecommunications among peoples\". His memorial is celebrated on September 29, together with Michael and Raphael.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "archangel",
+        "Annunciation",
+        "messenger",
+        "Book of Daniel",
+        "Pius XII",
+        "Paul VI",
+        "communications",
+        "Vatican Radio"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Arcangel_gabriel_novgorod.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Daniel 8:15-18; 9:20-27",
+        "Gospel of Luke 1:19, 26-38",
+        "Apostolic Brief of Pius XII, April 1, 1951 (patronage of telecommunications), apud Vatican News, \"San Gabriel Arcanjo\"",
+        "Paul VI, apostolic letter of December 9, 1972 (extension of patronage to postal services)",
+        "Roman Calendar (1969 reform): feast of the three archangels on September 29",
+        "Wikimedia Commons, File:Arcangel gabriel novgorod.jpg (Novgorod icon, 12th century, State Russian Museum, Saint Petersburg, public domain)"
+      ],
+      "atualizado_em": null,
+      "tipo": "arcanjo"
+    },
+    {
+      "id": "anjos-demonios:sao-rafael-arcanjo",
+      "slug": "sao-rafael-arcanjo",
+      "titulo": "Saint Raphael the Archangel",
+      "resumo": "\"God heals\" — the archangel and traveling companion who, in the Book of Tobit, cured Tobit's blindness and freed Sarah from the demon Asmodeus; one of the seven angels who stand before the glory of God.",
+      "corpo": "Raphael (from the Hebrew Refael, \"God heals\" or \"Medicine of God\") is the protagonist of the Book of Tobit, a deuterocanonical text set in the time of the Assyrian exile and the Jewish diaspora. The book narrates two parallel misfortunes: the blindness of old Tobit, who had fallen into misery in Nineveh, and the affliction of Sarah, daughter of Raguel, whose first seven husbands were killed on their wedding night by the demon Asmodeus (Tob 3:8). God hears the prayers of both and sends Raphael in answer.\n\nRaphael appears to Tobias, son of Tobit, disguised as a traveling companion named Azarias, and accompanies him to Media to collect a debt. On the way, he directs the young man to catch a fish and keep its gall, heart, and liver. Upon arriving at Sarah's house, he teaches Tobias to burn the fish's heart and liver so that the smoke will drive away Asmodeus (Tob 6:8.17-18), and the marriage takes place in peace. Back in Nineveh, Raphael instructs Tobias to apply the fish's gall to his father's eyes, restoring his sight. At the end of the narrative, he reveals his angelic identity: \"I am Raphael, one of the seven angels who stand ready and enter before the glory of the Lord\" (Tob 12:15) — the seven spirits who stand before the throne (cf. Rev 1:4; 8:2) — and he recommends prayer, fasting, and almsgiving as true worship (Tob 12:8), exhorting: \"Worthy of praise is your name forever\" (Tob 12:16).\n\nBecause of this account, Raphael is invoked as patron of physicians, nurses, pharmacists, and the blind, of travelers and pilgrims — since he escorted Tobias along a dangerous road — and of couples and families seeking a bridegroom or bride and domestic harmony. He is also the only one of the three archangels whose principal mission in the Old Testament explicitly includes the expulsion of a demon, which makes him a recurring figure in the tradition of blessing the sick and in prayers of deliverance, and, in the vocational reading of the tradition, the archangel who accompanies young people in discerning their own path.\n\nIn the Latin liturgy, devotion to Raphael has a feast of its own only late in history. His inclusion in the General Roman Calendar with a fixed date of October 24 was decreed by Pope Benedict XV in 1921, when, at the request of bishops, he also instituted a distinct feast for the Archangel Gabriel (on March 24); until then, the archangels were remembered above all on the feast of Saint Michael. The liturgical reform that followed the Second Vatican Council moved the date: since 1969 the three archangels — Michael, Gabriel, and Raphael — have been celebrated together on September 29, the common feast of the Holy Archangels, a day that corresponds to the dedication of a Roman basilica and was already consecrated to Saint Michael. Popular devotion, however, continues to invoke him in novenas of his own and in blessings for journeys and for the sick, and the traditional calendar (of 1962) retains the memorial of October 24.\n\nIn art, he is often depicted accompanying the young Tobias and holding the fish. One famous example is Titian's painting \"The Archangel Raphael and Tobias\" (c. 1510-1515), preserved in the Gallerie dell'Accademia in Venice (inventory 1325), acquired in 1815 after the Napoleonic suppressions and restored in 1994. The iconography of Raphael as guide and healer — with the traveler's staff, the fish, and sometimes the medicine flask — spread widely in Italian and Flemish painting from the Renaissance onward.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "archangel",
+        "Book of Tobit",
+        "healing",
+        "travelers",
+        "Asmodeus",
+        "the sick",
+        "patron of physicians",
+        "Benedict XV",
+        "Titian"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Accademia_-_Archangel_Raphael_and_Tobit_by_Titian.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Book of Tobit, chapters 3 to 12 (Tob 3:8; 6:8.17-18; 12:8.15-16)",
+        "Revelation 1:4; 8:2 (the seven spirits before the throne)",
+        "Paulus Editora, 'Santos Miguel, Gabriel e Rafael — arcanjos' (inclusion of Raphael's feast in the Roman Calendar in 1921; union of the three feasts in 1969)",
+        "Padre Paulo Ricardo (Michael P. Foley), 'São Gabriel, o anjo que anunciou a Maria' (Benedict XV, 1921, separate feasts of Gabriel and Raphael; reform of 1969)",
+        "Roman Martyrology (September 29, feast of the Holy Archangels)",
+        "Wikimedia Commons, File:Accademia - Archangel Raphael and Tobit by Titian.jpg (Titian, Gallerie dell'Accademia, inv. 1325)"
+      ],
+      "atualizado_em": null,
+      "tipo": "arcanjo"
+    },
+    {
+      "id": "anjos-demonios:coros-angelicos",
+      "slug": "coros-angelicos",
+      "titulo": "The Nine Angelic Choirs",
+      "resumo": "The heavenly hierarchy as systematized by tradition into nine orders of pure spirits, from Seraphim to Angels, distributed into three triads.",
+      "corpo": "Drawing on scattered biblical references — the cherubim in Genesis and Ezekiel, the seraphim in Isaiah's vision (Is 6:2), the \"thrones,\" \"dominions,\" \"principalities,\" \"powers,\" and \"virtues\" in Paul's letters (Col 1:16; Eph 1:21), and the archangels in the Letter of Jude —, Christian tradition organized the angels into nine choirs distributed into three hierarchies. The first (Seraphim, Cherubim, Thrones) contemplates God directly; the second (Dominions, Virtues, Powers) governs the order of the cosmos; the third (Principalities, Archangels, Angels) acts more directly upon human history. The original Greek names of the four Pauline orders — thronoi, kyriotetes, archai, and exousiai — show that Paul was not describing a systematic taxonomy, but invoking the heavenly powers to affirm Christ's sovereignty over all creation. The Catechism of the Catholic Church (no. 328) teaches that the existence of these spiritual beings is \"a truth of faith,\" \"as clear as the unanimity of Tradition,\" without, however, defining the hierarchy of nine degrees as an article of faith.\n\nThe definitive systematization came from the treatise \"On the Celestial Hierarchy\" (Peri tes ouranias hierarchias), attributed for centuries to Dionysius the Areopagite, the Athenian converted by Saint Paul in Acts 17:34. In reality, it is the work of an anonymous Greek-speaking author, probably a Syrian monk, written around the year 500 and influenced by the Neoplatonic philosophy of Proclus (412-485). The work has fifteen chapters: chapters 7 to 9 describe, in succession, the first, second, and third hierarchies. Pseudo-Dionysius defines every angelic hierarchy by three characteristics — purification (katharsis), illumination (photismos), and perfection (teleiosis) — and describes the hierarchy as a twofold movement of descending illumination (each rank receives the light of God according to its capacity and transmits it to those below) and of ascending loving return.\n\nThe apostolic attribution began to be contested long before the Renaissance. The first public mention of the corpus occurs in the religious debate of Constantinople, around 532-533, between the Orthodox and the Severians: Bishop Hypatius of Ephesus, leader of the Orthodox, rejected the quotations from \"Dionysius the Areopagite\" as spurious, arguing that, if they were authentic, Cyril and Athanasius would have used them against the Arians. In defense of its authenticity, the commentary of John of Scythopolis appeared around 540, the first to uphold the apostolic dating; the authority of the work was later affirmed by Maximus the Confessor and by the Lateran Council of 649. In the fifteenth century, Lorenzo Valla (1457) and Erasmus took up the criticism, and it was above all from the nineteenth century onward that historical criticism accepted the pseudonymity and established the name \"Pseudo-Dionysius.\"\n\nDionysius was not, however, the first to enumerate nine orders. Saint Gregory the Great already presented nine angelic choirs in the Homilies on the Gospels (Hom. 34, 7-10), but organizing them according to their ministries and with an internal ordering different from the Dionysian one — a divergence that Thomas himself expressly records (Summa Theologiae I, q. 108, a. 6). The fact that holy doctors differ on the relative placement of some orders indicates that the arrangement of the nine choirs belongs to a coherent theological tradition, but not to a dogmatic definition. Pseudo-Dionysius's synthesis of Christianity and Neoplatonism exerted a decisive influence on Western theology, especially on Saint Thomas Aquinas, who incorporated it into the Summa Theologiae (I, qq. 50-64 and 108), and — in art and architecture — on Abbot Suger of Saint-Denis, who used it in conceiving the first great example of Gothic architecture.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "celestial hierarchy",
+        "Pseudo-Dionysius",
+        "Dionysius the Areopagite",
+        "Thomas Aquinas",
+        "Gregory the Great",
+        "seraphim",
+        "cherubim",
+        "angelic choirs",
+        "Neoplatonism",
+        "Dionysian question"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Coro_di_angeli_-_Francesco_Botticini.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Pseudo-Dionysius the Areopagite, On the Celestial Hierarchy (De caelesti hierarchia), chs. 7-9, c. 500",
+        "Thomas Aquinas, Summa Theologiae I, qq. 50-64 and q. 108, a. 6",
+        "Gregory the Great, Homilies on the Gospels, Hom. 34, 7-10 (PL 76, 1250-1251)",
+        "Catechism of the Catholic Church, nos. 328-336 (official text at vatican.va)",
+        "Acts 17:34; Colossians 1:16; Ephesians 1:21; Isaiah 6:2; Ezekiel 10",
+        "Catholic Encyclopedia, entry \"Dionysius the Pseudo-Areopagite\" (debate of Constantinople, 532-533; John of Scythopolis; Lateran Council of 649)",
+        "Enciclopedia Católica (Aciprensa), \"Dionisio el Pseudo-Areopagita\" (report of Bishop Innocent of Maronia)"
+      ],
+      "atualizado_em": null,
+      "tipo": "coro_angelico"
+    },
+    {
+      "id": "anjos-demonios:anjo-da-guarda",
+      "slug": "anjo-da-guarda",
+      "titulo": "Guardian Angel",
+      "resumo": "The Catholic doctrine that each person is entrusted from birth to the protection of a personal angel, with a feast celebrated on October 2.",
+      "corpo": "The Church teaches, on the basis of passages such as Matthew 18:10 (\"their angels in heaven always look upon the face of my Father who is in heaven\"), Psalm 91:11 (\"For he will command his angels concerning you to guard you in all your ways\") and Exodus 23:20 (\"Behold, I send an angel before you, to guard you on the way\"), that every person is accompanied throughout life by a guardian angel, whose mission is to protect, enlighten and lead the soul to God. The Catechism states: \"From its beginning to death human life is surrounded by their watchful care and intercession\" (CCC 336), citing Saint Basil the Great, for whom \"Beside each believer stands an angel as protector and shepherd leading him to life\" (Adversus Eunomium, III, 1).\n\nThe belief that each person has his own angel is already found in the New Testament: in Acts 12:15, when Peter, freed from prison, knocks at the door of the house where the disciples were praying, they believe that it is not the apostle himself but his angel. To this are added the testimonies of the Fathers: Saint Jerome wrote that \"great is the dignity of souls, for each one has from birth an angel commissioned to guard it\" (Commentary on Matthew, XVIII); Saint Augustine observes that the angels \"look upon us as pilgrims, have compassion on us, and help us, by command of the Lord.\" The most detailed theological formulation came in the thirteenth century, with Saint Thomas Aquinas, who devoted the whole of question 113 of the First Part of the Summa Theologiae to the guardianship of the angels. In it he establishes that \"a guardian angel is assigned to each man\" and that the guardianship ceases at the end of the earthly pilgrimage — in heaven, man has an angel who \"reigns with him\"; in hell, a demon who punishes. He also discusses whether the guardian angel remains with the sinner (answer: yes) and whether he grieves over the evils of the one in his charge.\n\nThe liturgical memorial developed slowly in Christian piety. According to a devotional tradition, a feast of the Guardian Angels was already celebrated in England in the year 800; from the fifteenth century a feast of its own arose in Spain, later spread to Portugal and Austria. The traditional prayer \"Angel of God, my guardian dear...\" (in Latin, Angele Dei, qui custos es mei) was for a long time attributed to Saint Anselm of Canterbury, because it appears in medieval collections of his works; later criticism, however, shows that it is an interpolation — probably derived from the Life of Saint Malchus, written by Reginald of Canterbury (died c. 1109), a contemporary of Anselm. The English version became popular in the nineteenth century (Baltimore Manual of Prayers, 1888).\n\nThe separation of the feast of the Guardian Angels from the feast of Saint Michael (September 29) was the work of the popes. With the Missal of Saint Pius V (1570), the particular feasts of the guardian angels were suppressed; in 1608 Pope Paul V restored them in some regions; in 1670 Pope Clement X extended the celebration to the whole Church of the Roman Rite and fixed it on October 2. On July 5, 1883, a decree of the Sacred Congregation of Rites, approved by Pope Leo XIII, raised the feast from the rank of \"lesser double\" to \"greater double\" (text in Acta Sanctae Sedis, vol. 16, pp. 47-48). The Orthodox Church prefers to celebrate it on January 11. According to theological tradition, not only individuals but also nations, families, dioceses and religious communities have their guardian angel. In 2005, the Italian Parliament drew inspiration from the figure of the guardian angel when it established, on the same date of October 2, the Grandparents' Day — a civil development, with no value as an act of worship.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "guardian angel",
+        "protection",
+        "popular devotion",
+        "CCC 336",
+        "Saint Basil the Great",
+        "Saint Jerome",
+        "Thomas Aquinas",
+        "Clement X",
+        "Paul V",
+        "Leo XIII"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Franceschini%2C_Marcantonio_-_The_Guardian_Angel_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 328-336",
+        "Matthew 18:10; Psalm 91:11; Exodus 23:20; Acts 12:15",
+        "Saint Basil the Great, Adversus Eunomium III, 1, apud CCC 336",
+        "Saint Jerome, Commentary on Matthew, XVIII",
+        "Saint Thomas Aquinas, Summa Theologiae, I, q. 113, arts. 1-8",
+        "Reginald of Canterbury, Life of Saint Malchus (prayer Angele Dei)",
+        "Sacred Congregation of Rites, decree of July 5, 1883, in Acta Sanctae Sedis, vol. 16 (1883), pp. 47-48"
+      ],
+      "atualizado_em": null,
+      "tipo": "anjo_da_guarda"
+    },
+    {
+      "id": "anjos-demonios:queda-dos-anjos",
+      "slug": "queda-dos-anjos",
+      "titulo": "The Fall of the Angels",
+      "resumo": "The doctrine concerning the original rebellion of Lucifer and of the angels who, by free choice, definitively refused to serve God.",
+      "corpo": "The Church teaches that Satan and the other demons were originally good angels, created by God, who sinned freely and irrevocably by refusing, in an act of pride, to serve God and his plan (CCC 391-395). The Fourth Lateran Council, in 1215, explicitly professed that God created spiritual and corporeal creatures out of nothing, and that the devil and the other demons were created naturally good but became evil by their own doing. The definition had a precise target: to correct the Gnostic-Manichaean dualism, which made evil an eternal principle, coeternal with God. Anyone who asserted that the devil was the \"principle and substance of evil\" — as Mani and Priscillian taught — was declared anathema.\n\nUnlike human sin, which occurs in time and can be forgiven, the angelic choice is understood as an instantaneous and definitive spiritual act, without the possibility of repentance, given the purely intellectual nature of the angels. Saint Thomas Aquinas (Summa Theologiae I, q. 63) analyzes this sin in detail: the first sin of the angels was pride, the desire \"to be something divine that was not due to them\"; pride was followed by envy, out of sorrow at man's good and at the divine greatness. Thomas further maintains that the devil was not created evil, but created in the state of sanctifying grace, and that he sinned immediately after creation, rejecting the grace that would have allowed him to merit beatitude. In I, q. 64, he explains why the fallen angels are obstinate in evil and do not repent: the choice of a pure spirit is necessarily final and unchangeable.\n\nThe association of the figure of Lucifer (\"light-bearer\") with the leadership of this rebellion is based on patristic readings of Isaiah 14 and Ezekiel 28. The name does not appear literally as a designation of the devil in the original biblical text. Both passages referred, in their historical context, to human kings: Isaiah 14:4 speaks of the \"king of Babylon,\" and Ezekiel 28 of the \"prince of Tyre.\" Origen (De Principiis, I, 5) and later Cyril of Jerusalem (Catechetical Lectures II) interpreted them as referring, beyond the kings, to an adverse power that was once holy and fell. Augustine saw in them, above all, the archetype of the pride that caused the devil's original fall.\n\nA parallel strand of tradition links the fall of the angels to the account of the \"sons of God\" in Genesis 6:1-4. The First Book of Enoch (chapters 6-9, the \"Book of the Watchers\") expands this passage into a rebellion of angels motivated by carnal desire and the begetting of the Nephilim. Authors such as Justin Martyr made use of this tradition, but Julius Africanus and Saint Augustine (The City of God, XV) rejected it, interpreting the \"sons of God\" as the descendants of Seth. Revelation (12:7-9) finally presents the image of the dragon and his angels cast out of heaven in the battle against Michael and the faithful angels.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "Lucifer",
+        "Satan",
+        "fall of the angels",
+        "Fourth Lateran Council",
+        "Thomas Aquinas",
+        "Watchers",
+        "Isaiah 14",
+        "Ezekiel 28"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 391-395",
+        "Fourth Lateran Council (1215), profession of faith Firmiter credimus",
+        "Thomas Aquinas, Summa Theologiae I, qq. 63-64",
+        "Origen, De Principiis I, 5; Cyril of Jerusalem, Catechetical Lectures II",
+        "Augustine, The City of God, XV",
+        "Isaiah 14:4, 12-15; Ezekiel 28:11-19; Genesis 6:1-4; Revelation 12:7-9"
+      ],
+      "tipo": "conceito"
+    },
+    {
+      "id": "anjos-demonios:satanas-demonio",
+      "slug": "satanas-demonio",
+      "titulo": "Satan",
+      "resumo": "The \"accuser,\" the fallen angel whom Christian tradition identifies as the principal spiritual source of evil and temptation, whose power, however, remains finite and subject to God.",
+      "corpo": "The name \"Satan\" transliterates the Hebrew *śāṭān*, derived from the Semitic root *šṭn*, which means \"adversary,\" \"opponent,\" or \"accuser\" (the same root as the Arabic *shayṭān*). In the Old Testament, however, the term designates a function more than a proper name: in the prologue of the Book of Job (Job 1:6-12; 2:1-7), the *ha-satan* (\"the satan\") is described as a member of the heavenly court who challenges the integrity of the righteous man before God, and in Zechariah 3:1 it is he who accuses the high priest Joshua. At this literary stage, the figure still acts as an agent subordinate to God, who puts people to the test. It should be noted that the translators of the Septuagint, the pre-Christian translation of the Hebrew Bible into Greek, usually rendered the Hebrew *śāṭān* with the word *diábolos* (\"opponent,\" \"accuser\"), the root of the English word \"Devil\" — so that *satan* and *diábolos* came to be used interchangeably in the New Testament.\n\nBetween the Old and New Testaments, Second Temple Judaism developed the figure in a remarkable way. In apocalyptic literature — above all in the Book of the Watchers (1 Enoch, chapters 1-36), composed between the 2nd century B.C. and the 1st century A.D. — the fall was attributed to a group of two hundred angels, the Watchers, who descended to Mount Hermon and took the daughters of men as wives; here the leader of the rebels is called Azazel (alongside Semyaza), and not yet Satan. Many scholars see in this period, under possible influence of Zoroastrian dualism, the transformation of the biblical *ha-satan* — formerly a subordinate heavenly prosecutor — into a malevolent entity in radical opposition to God. It is in the New Testament that \"Satan\" is consolidated as a proper name and as the chief of the rebel angels: Jesus calls him \"a liar and the father of lies\" and \"a murderer from the beginning\" (Jn 8:44); he sees Satan fall like lightning from heaven (Lk 10:18), and it is he who tempts Christ himself in the desert (Mt 4:1-11). In the Book of Revelation, the figure receives a series of accumulated titles: \"the great dragon, the ancient serpent, who is called the Devil and Satan, the deceiver of the whole world,\" hurled down to the earth with his angels by Michael after the battle in heaven (Rev 12:7-9), while he is also called \"the accuser of our brothers\" (Rev 12:10).\n\nCatholic doctrine holds the real existence of Satan as a personal spirit, not as a mere symbolic personification of evil. The Catechism (nos. 391-395) teaches, on the basis of the Old and New Testaments, that he was first a good angel, created by God, and that he made himself evil by his own choice. \"The devil and the other demons were indeed created naturally good by God, but they became evil by their own doing,\" the Fourth Lateran Council (1215) defined, as cited in the Catechism itself (DS 800). The Catechism also recalls that \"Scripture speaks of a sin of these angels\" (cf. 2 Pet 2:4, where God \"did not spare the angels when they sinned, but cast them into hell and committed them to pits of nether gloom,\" and Jude 6). The fall consisted in a free and radical rejection of God and of his Reign — an echo of the seduction reflected in Genesis 3:5, \"you will be like God.\" According to Tradition, this choice is irrevocable: as Saint John Damascene observes, \"There is no repentance for them after their fall, just as there is no repentance for men after death.\" The Catechism stresses that it is the irrevocable character of this choice, and not a defect in divine mercy, that makes the sin of the angels unforgivable.\n\nThe Catechism insists, however, that Satan's power is not infinite. He is \"a creature, powerful by virtue of being pure spirit, but still a creature: he cannot prevent the building up of God's reign\" (CCC 395). His action in the world — driven by hatred of God and his Kingdom — is permitted by divine Providence, which \"guides the history of man and the world with power and gentleness,\" and God makes it work for the good of those who love him (Rom 8:28). It is this divine sovereignty that grounds Christian hope: \"The reason the Son of God appeared was to destroy the works of the devil\" (1 Jn 3:8), so that Christ's definitive victory has already been sealed on the cross and in the Resurrection, even though the spiritual struggle continues in history until the end of time. In later Christian imagination, the figure was often depicted on the basis of the description in Isaiah 14:12 — the \"morning star\" (*lucifer*) who falls from heaven — a reading that the Latin Vulgate made famous and that associated \"Lucifer\" with Satan.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "Satan",
+        "fallen angel",
+        "accuser",
+        "father of lies",
+        "temptation of Christ",
+        "Revelation",
+        "Lateran IV",
+        "fall of the angels",
+        "Azazel",
+        "Book of Enoch",
+        "Second Temple"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gustav_Dor%C3%A9%2C_Satan_Confronting_Sin_and_Death_at_the_Gates_of_Hell%2C_c_1880.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 391-395 (the fall of the angels and the power of the Devil), available at vatican.va",
+        "Fourth Lateran Council (1215), cited in CCC 391 (DS 800)",
+        "Book of Job 1-2; Zechariah 3:1; Isaiah 14:12; John 8:44; Luke 10:18; 1 John 3:8; 2 Peter 2:4; Jude 6; Revelation 12:7-10",
+        "Saint John Damascene, De fide orthodoxa, on the irrevocability of the angelic fall",
+        "1 Enoch (Book of the Watchers, chaps. 1-36), on Azazel and the two hundred Watchers of Mount Hermon",
+        "Wikipedia, 'Satanás'/'Satan' (Hebrew etymology śāṭān and its translation as diábolos in the Septuagint)"
+      ],
+      "atualizado_em": null,
+      "tipo": "demonio"
+    },
+    {
+      "id": "anjos-demonios:possessao-demoniaca",
+      "slug": "possessao-demoniaca",
+      "titulo": "Demonic Possession",
+      "resumo": "The phenomenon, recognized with extreme caution by the Church's tradition, of an evil spirit dominating a person's body and, during the crisis, part of their faculties — always to be distinguished from natural illness.",
+      "corpo": "Demonic possession — the extraordinary action by which an evil spirit takes control of a person's body and, during the crisis, blocks their higher faculties — is attested in the Gospels in several episodes of deliverance performed by Jesus. The most developed account is that of the demoniac of Gerasa (Mk 5:1-20; parallels in Mt 8:28-34 and Lk 8:26-39): a man who lived among the tombs, of uncontrollable strength, who injured himself with stones and whom no one could subdue. Asked by Jesus for his name, the spirit answers \"Legion, for we are many,\" and the herd of swine into which it begs to enter — about two thousand, according to the text — rushes into the sea. Exegetes observe that the name \"Legion\" evokes the Roman troops that occupied the region at the time, and that the episode of Gerasa takes place in the pagan territory of the Decapolis, outside the borders of Israel.\n\nThe theological tradition carefully distinguishes four forms of extraordinary diabolical action: *infestation*, which falls upon places, houses, or objects; *vexation*, which consists of external attacks on the body without domination of the faculties; *obsession*, a persistent harassment of the imagination and thought, with the will remaining free; and, finally, *possession* properly speaking, in which there is domination of the body with a blocking of the higher faculties during the crisis. This classification, treated by exorcists such as Francesco Bamonte, exorcist of the Diocese of Rome, organizes pastoral discernment and prevents phenomena of very different intensity from being confused.\n\nAmong the signs that the Church examines in an alleged case of possession — and which appear in the practice established by the Roman Ritual — are speaking or understanding languages unknown to the person, knowing facts that the person could not know, abnormal physical strength or weight, and aversion to the sacred. None of these signs, taken alone, is decisive: natural causes must first be excluded, in collaboration with physicians and psychiatrists. There are, moreover, discernment guides written by psychiatrists precisely for this interdisciplinary comparison. Not all theologians accept an absolutely sharp boundary between possession and illness: Karl Rahner maintained that, from the religious standpoint, it is neither possible nor particularly important to draw it precisely, since illness can be a symptom or a gateway. The Church's canonical practice, however, maintains the distinction precisely in order to reserve solemn exorcism for cases of moral certainty.\n\nBamonte also addresses another distinction that spares much suffering: the one between healing and deliverance, when the extraordinary action of the devil intersects with an illness. Not everything that causes illness is the work of the evil one, and not everything that is the work of the evil one is cured with medicine — so that pastoral care walks alongside medical care, never in place of it.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "possession",
+        "obsession",
+        "vexation",
+        "infestation",
+        "discernment",
+        "demoniac of Gerasa",
+        "Mark 5",
+        "exorcism"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Paul_Bril_-_Felsige_Landschaft_mit_Heilung_des_Besessenen_-_876_-_Bavarian_State_Painting_Collections.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Mark 5:1-20; Matthew 8:28-34; Luke 8:26-39 (the demoniac of Gerasa)",
+        "Francesco Bamonte, 'Possessões diabólicas e exorcismos' (distinction between possession, obsession, vexation, and infestation)",
+        "Silvio Rogerio Zurawski, 'Porcos ao Mar: interpretação de Marcos 5,1-20' (dissertation, PUC Goiás, 2010)",
+        "'O discernimento da ação extraordinária do demônio: alguns critérios' (translation by AIEL, on the signs examined)",
+        "Karl Rahner, on the difficulty of distinguishing possession from natural illness (referred to in literature on discernment)"
+      ],
+      "tipo": "conceito"
+    },
+    {
+      "id": "anjos-demonios:exorcismo",
+      "slug": "exorcismo",
+      "titulo": "Exorcism",
+      "resumo": "The sacramental by which the Church, in the name of Christ, invokes the deliverance of a person from the influence of the devil — reserved, in its solemn form, to priests authorized by the bishop.",
+      "corpo": "Exorcism is a sacramental — and not a sacrament — by which the Church, in the name of Jesus Christ, asks publicly and with authority that a person (or, at times, an object or place) be protected from or freed from the power of the devil (CCC 1673). A distinction is made between \"simple exorcism,\" found for example in the prayers of the rite of Baptism, and \"solemn exorcism\" or \"major exorcism,\" reserved to priests specifically designated by the diocesan bishop and applied only after careful evaluation that rules out medical or psychiatric causes. The Church insists that every exorcism must be conducted \"with prudence, strictly observing the rules established by the Church.\"\n\nThe canonical discipline of this ministry is found in canon 1172 of the 1983 Code of Canon Law, promulgated by Saint John Paul II: \"No one can legitimately perform exorcisms over the possessed unless he has obtained special and express permission from the local Ordinary\" (§1), a permission that the local Ordinary \"is to grant only to a presbyter who has piety, knowledge, prudence, and integrity of life\" (§2). These four requirements — *pietas*, *scientia*, *prudentia*, and *vitae integritas* — mean a solid spiritual life, formation in theology and in the human sciences (psychology and psychiatry), the ability to discern between real demonic action and natural phenomena, and irreproachable moral conduct. The permission may be given by the diocesan bishop and, in the canonical sense, also by the vicar general, the episcopal vicar, or the diocesan administrator.\n\nIn the face of abuses — gatherings of lay people who intended to carry out exorcisms or prayers of deliverance without ecclesiastical authorization — the Congregation for the Doctrine of the Faith published, on September 24, 1985, a Letter on exorcisms, in which it recalled the terms of canon 1172, forbade the faithful from using the formula of exorcism against Satan and the apostate angels published under Leo XIII, and asked bishops to be vigilant so that unauthorized persons would not lead such gatherings. The document reaffirms that, even in cases that seem to indicate diabolical influence without true possession, only those who have authorization may lead this type of prayer.\n\nAs for the rite, solemn exorcism was regulated for centuries by chapter XII of the *Rituale Romanum*, published in 1614 under Pope Paul V, who unified the Latin liturgical rituals. After the Second Vatican Council, the text was profoundly revised: the Congregation for Divine Worship and the Discipline of the Sacraments promulgated the new ritual, *De exorcismis et supplicationibus quibusdam* (\"On Exorcisms and Certain Supplications\"), approved by John Paul II in 1998 and published in Latin in 1999, which replaced the previous formula. The new rite emphasizes Christ's paschal victory more than direct confrontation with the Evil One, provides for the Liturgy of the Word, and explicitly requires consultation with physicians and psychologists in the prior discernment. Beginning in 1991, Fr. Gabriele Amorth gathered exorcists in the International Association of Exorcists, recognized by the Holy See on July 13, 2014.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "sacramental",
+        "solemn exorcism",
+        "canon 1172",
+        "Rituale Romanum",
+        "Roman Ritual",
+        "CCC 1673",
+        "discernment",
+        "Gabriele Amorth"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/70/El_exorcismo_-_anonimo_%28Prado%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, no. 1673 (exorcism as a sacramental)",
+        "Code of Canon Law (1983), canon 1172 §§1-2",
+        "Congregation for the Doctrine of the Faith, 'Letter on Exorcisms,' September 24, 1985 (vatican.va)",
+        "Congregation for Divine Worship and the Discipline of the Sacraments, 'De exorcismis et supplicationibus quibusdam' (approved in 1998, published in 1999), which replaced chapter XII of the 1614 Rituale Romanum",
+        "Rituale Romanum, published in 1614 by Pope Paul V (brief Apostolicae Sedis)",
+        "Wikipedia, 'Roman Ritual' and International Association of Exorcists (founded in 1991, recognized in 2014)"
+      ],
+      "tipo": "conceito"
+    },
+    {
+      "id": "anjos-demonios:anjos-na-biblia",
+      "slug": "anjos-na-biblia",
+      "titulo": "The Angels in Sacred Scripture",
+      "resumo": "The constant presence of heavenly messengers throughout the whole biblical narrative, from Genesis to Revelation, and the philological fact that reveals in the name 'angel' a mission, not a nature.",
+      "corpo": "The Hebrew word used to designate these creatures is mal'akh, and the corresponding Greek word is ángelos; both simply mean \"messenger\" or \"envoy.\" It is the context, not the word, that distinguishes whether it refers to a human messenger, a heavenly envoy, or a manifestation of God himself. Saint Augustine summed up this insight in a formula that the Catechism cites (CCC 329): \"'Angel' is the name of their office, not of their nature. If you seek the name of their nature, it is 'spirit'; if you seek the name of their office, it is 'angel': from what they are, 'spirit', from what they do, 'angel.'\" The Catechism adds that \"the existence of the spiritual, non-corporeal beings that Sacred Scripture usually calls 'angels' is a truth of faith,\" attested because \"the witness of Scripture is as clear as the unanimity of Tradition\" (CCC 328).\n\nIn the Old Testament, angels appear from the very beginning: they close the gate of the earthly paradise (Gen 3:24), protect Lot (Gen 19), save Hagar and her child, stay Abraham's hand in the sacrifice of Isaac, and communicate the Law to Moses (CCC 332). The cherubim guard Eden (Gen 3:24); Isaiah sees seraphim singing the \"Holy, Holy, Holy\" in the temple (Isa 6:1-3); the book of Daniel narrates the heavenly messenger's struggle against the \"prince of the kingdom of Persia,\" aided by Michael (Dan 10:13, 20-21). Scripture presents them as permanent worshippers, messengers and executors of the divine will — \"mighty ones who do his word\" (Ps 103:20).\n\nIn the New Testament, the angelic ministry accompanies the Incarnation: it is Gabriel who announces to Zechariah the birth of the Precursor and to Mary that of Jesus himself (Lk 1:11-31); the angels sing \"Glory to God in the highest\" at the birth of Christ (Lk 2:14), serve him in the desert, comfort him in his agony, and announce the Resurrection and the Ascension to the women at the tomb and to the apostles. The Letter to the Hebrews defines them as \"ministering spirits sent to serve, for the sake of those who are to inherit salvation\" (Heb 1:14). The angels are Christ's because they were created through him and for him (Col 1:16): the Lord even evokes the immense number of his hosts, saying that the Father would send him \"more than twelve legions of angels\" (Mt 26:53), and the Book of Revelation describes myriads gathered around the throne (Rev 5:11).\n\nIn the life of the Church, \"the whole life... benefits from the watchful care and intercession of angels\" (CCC 334). The liturgy joins with them to adore the thrice-holy God and invokes their assistance — as in the antiphon of the Liturgy of the Dead, \"In paradisum deducant te angeli\" (CCC 335). Far from being a devotional ornament, the angels run through the whole history of salvation, \"announcing, from afar or near, this same salvation\" (CCC 332).",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "Old Testament",
+        "New Testament",
+        "mal'akh",
+        "ángelos",
+        "messenger",
+        "CCC 328",
+        "angels"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Le_Christ_au_d%C3%A9sert_servi_par_les_anges.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, §§ 328-335",
+        "Saint Augustine, Enarratio in Psalmum 103 (cited in CCC 329)",
+        "Sacred Scripture: Gen 3:24; 19; Isa 6; Dan 10; Lk 1; Heb 1:14; Col 1:16; Mt 26:53; Rev 5:11",
+        "Jerusalem Bible / Biblia Hebraica (mal'akh; Septuagint: ángelos)"
+      ],
+      "tipo": "conceito"
+    },
+    {
+      "id": "anjos-demonios:anjos-guardioes-de-nacoes",
+      "slug": "anjos-guardioes-de-nacoes",
+      "titulo": "Angels of Nations and of Churches",
+      "resumo": "The biblical and patristic tradition of guardian angels entrusted not only to individuals but also to peoples, nations and communities, and the exegetical discussion surrounding the 'angels' of the seven Churches.",
+      "corpo": "The idea of angels entrusted to collectivities, and not only to individuals, rests on precise biblical texts. In the Book of Daniel, the heavenly messenger relates that \"the prince of the kingdom of Persia\" withstood him for twenty-one days and that he could only proceed with the help of \"Michael, one of the chief princes\" (Dn 10:13); further on he also mentions the \"prince of Greece\" (Dn 10:20) and calls Michael \"your prince\" (Dn 10:21), \"the great prince, who has charge of your people\" (Dn 12:1). Three spiritual beings thus appear associated with three nations: Persia, Greece and Israel, the latter guarded by Michael.\n\nA second foundation is the verse of Deuteronomy 32:8, which says that the Most High, when he apportioned the inheritances to the nations, \"fixed the boundaries of the peoples according to the number of the sons of God.\" The Septuagint and the Vetus Latina rendered the expression as \"angels of God\" (angelōn theou / angelorum Dei), and a Hebrew reading found at Qumran has \"sons of God\"; the patristic tradition relied on this version to affirm that each nation received its own angel. Saint Thomas Aquinas, in the Summa Theologica, takes up the teaching according to which not only individuals, but also nations, cities and the institutions of the Church are entrusted to a guardian angel. Origen even said that each diocese is led by two bishops: one visible, who is a man, and the other invisible, who is an angel.\n\nThe Book of Revelation, for its part, addresses the \"angels\" of each of the seven Churches of Asia — Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia and Laodicea (Rev 2-3) — and Christ declares that \"the seven stars are the angels of the seven churches\" (Rev 1:20). Who these \"angels\" are is a matter of exegetical debate. One interpretation identifies them with the bishops or pastors of the communities, understood as messengers of God; another takes them to be true angels, spiritual guardians of each local Church. Neither reading is imposed as defined doctrine, and the very ambiguity has nourished, throughout history, devotion to heavenly protectors of peoples and dioceses.\n\nIt is important to distinguish what is defined faith from what is pious tradition: the existence of the angels and their service to salvation are truths of faith (CCC 328), but the designation of a specific angel for each nation has not been the object of dogmatic definition in detail. The theme has nonetheless flourished in Catholic piety: Spain venerates its \"Ángel Custodio\", the episode of the \"Angel of Portugal\" in the preparation for the apparitions of Fatima (1916) was presented as a sign of this national protection, and similar devotions exist for other nations and cities.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "Book of Daniel",
+        "Revelation",
+        "seven Churches",
+        "Michael",
+        "nations",
+        "Origen",
+        "Thomas Aquinas",
+        "guardian angel"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/28/Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_13%3F_%E2%80%9EVision_Daniels%E2%80%9C.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Sacred Scripture: Dn 10:13, 20-21; 12:1; Dt 32:8; Rev 1:20; 2-3",
+        "Septuagint (Deuteronomy 32:8: 'angelōn theou') and Vetus Latina ('angelorum Dei')",
+        "Saint Thomas Aquinas, Summa Theologica, I, q. 113",
+        "Origen, Contra Celsum (each diocese led by a visible bishop and an angel)",
+        "Catechism of the Catholic Church, §§ 328 and 332"
+      ],
+      "tipo": "conceito"
+    },
+    {
+      "id": "anjos-demonios:querubins",
+      "slug": "querubins",
+      "titulo": "Cherubim",
+      "resumo": "Celestial spirits of contemplation and guardians of sacred realities — of Eden, the Ark of the Covenant, and the Temple —, placed in the second rank of the first angelic hierarchy, just below the seraphim.",
+      "corpo": "The cherubim first appear in Scripture guarding the entrance to Eden after the expulsion of Adam and Eve, with a flaming sword, to watch over the way to the tree of life (Gen 3:24). Their essential function is that of guardians of sacred realities and of the throne of God: they are described as winged beings, and this is the only entirely secure iconographic basis that exegesis recognizes. The etymology of the Hebrew name keruv (plural keruvim) is uncertain, and biblical Hebrew itself has not preserved a root for it. The hypothesis most widely accepted by scholars connects it to the Akkadian karābu (\"to bless,\" \"to be favorable\") and to the terms kurību/kāribu, which in Mesopotamia designated intercessory spirits placed at the gates of temples and palaces, who carried the prayers of men to the gods. Other proposals relate it to the Hebrew verb qarab (\"to draw near\"), to \"chariot,\" or to \"shining appearance\"; the BDB (Brown-Driver-Briggs) observes that the Hebrew root is absent and that the kinship with the Assyrian winged bull kiribu/sedu \"has not been verified.\" The historian Flavius Josephus already admitted that no one knew for certain what the cherubim looked like (Antiquities of the Jews, VIII, 3, 3).\n\nOn the Ark of the Covenant, two cherubim of beaten gold were made as a single piece with the mercy seat (kapporet), the cover of pure gold of the ark (Ex 25:17-22). They stretched their wings over the mercy seat, with their faces turned toward one another and bowed toward the cover. It was from there, \"from between the two cherubim,\" that God met with Moses and gave him his commandments (Ex 25:22). The Letter to the Hebrews refers to these \"cherubim of glory overshadowing the mercy seat\" (Heb 9:5). In Solomon's Temple, the inner sanctuary — the Holy of Holies — received two cherubim of olive wood, each ten cubits high with wings of five cubits, which touched at their tips, making twenty cubits from wing to wing (1 Kings 6:23-27); figures of cherubim were also carved on the walls and doors of the Temple, alongside palm trees and open flowers (1 Kings 6:29, 32). The Chronicler adds that \"the cherubim spread out their wings,\" so that these covered the ark and its poles (2 Chron 3:10-13).\n\nIt is worth noting that the familiar devotional figure of the \"cherub\" as a plump, winged baby is an anachronism: it was born from the putti of the Italian Renaissance, linked to the Greco-Roman Cupid/Eros, and has no support in the biblical text, where the cherub is a fearsome creature, placed between sinful man and the holiness of God. This semantic shift explains why, even today, the word \"cherub\" evokes in popular art an image that the biblical authors never suggested.\n\nIn the prophet Ezekiel, the cherubim appear as the living creatures that support the mobile throne of the divine glory. The prophet describes them with four faces — of a man, a lion, an ox, and an eagle —, four wings, human hands under the wings, straight legs, and feet like those of a gleaming calf (Ezek 1:5-10; 10:9-22); he explicitly identifies them as cherubim in Ezek 10:20. These four faces became, in Christian art, the symbols of the four evangelists — the tetramorph. The association was inaugurated by Saint Irenaeus of Lyon in the second century and refined by Saint Jerome, who linked each creature to an evangelist by observing the way each Gospel begins. There is here an ancient exegetical controversy: Isaiah describes six-winged beings whom he calls seraphim (Isa 6:2), while Ezekiel attributes four wings to his cherubim; the Book of Revelation presents four six-winged living creatures beside the throne (Rev 4:6-8), traditionally identified with the cherubim. It is therefore debated whether the distinction between the two choirs is one of nature or of function. The Psalms also speak of God as \"enthroned upon the cherubim\" (Ps 80:1; 99:1), an image of the divine throne that the cherubim form or support.\n\nThe parallel with the art of the ancient Near East is decisive for understanding the form of the cherubim. In Assyria, Babylon, and Persia, the lamassu (or shedu) were colossal hybrid creatures — human head, body of a bull or lion, wings of an eagle — placed in pairs at the entrances of temples and palaces as apotropaic guardians. The lamassu of the palace of Sargon II at Khorsabad (ancient Dur-Sharrukin, today Iraq), sculpted between 721 and 705 BC, reached about 5 meters in height, weighed tens of tons, and had five legs, so that they appeared to stand erect from the front and to be striding in profile. It is against this visual horizon — and not that of the art of the putti — that the biblical cherubim should be imagined.\n\nIn the hierarchy of the nine choirs, systematized by Pseudo-Dionysius the Areopagite (De coelesti hierarchia, 5th century), and taken up by Saint Thomas Aquinas in the Summa Theologica (I, q. 108), the cherubim occupy the second rank of the first hierarchy, just below the seraphim and above the thrones. Pseudo-Dionysius defines every celestial hierarchy by three movements — purification (katharsis), illumination (photismos), and perfection (teleiosis) — and describes the first hierarchy as the one that first receives the direct illumination of God. According to the Thomistic reading, whereas the seraphim are distinguished by ardent love, the cherubim are characterized by the fullness of knowledge and contemplation, receiving the divine light in a more universal manner and communicating it to the lower choirs. This position does not indicate privilege in the human sense, but greater proximity and participation in the contemplation of the divine Truth.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "Eden",
+        "Ark of the Covenant",
+        "Ezekiel",
+        "Solomon's Temple",
+        "celestial hierarchy",
+        "Pseudo-Dionysius",
+        "contemplation",
+        "tetramorph",
+        "lamassu",
+        "Old Testament",
+        "angels"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/BOWYER_BIBLE_GENESIS_05.9_Adam_%26_Eve_expelled._Genesis_3_v_24._Caspar_Luyken.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Sacred Scripture: Gen 3:24; Ex 25:17-22; 1 Kings 6:23-32; 2 Chron 3:10-13; Ps 80:1; 99:1; Isa 6:2; Ezek 1:5-10; 10:9-22; Heb 9:5; Rev 4:6-8",
+        "Pseudo-Dionysius the Areopagite, De coelesti hierarchia, ch. VII",
+        "Saint Thomas Aquinas, Summa Theologica, I, q. 108",
+        "Flavius Josephus, Antiquities of the Jews, VIII, 3, 3",
+        "Saint Irenaeus of Lyon and Saint Jerome — association of the four living creatures with the four evangelists (tetramorph)",
+        "Etymology: relation to the Akkadian karābu/kurību/kāribu ('to bless,' 'intercessor'); BDB (Brown-Driver-Briggs) on the absent Hebrew root of keruv",
+        "Lamassu of the palace of Sargon II at Khorsabad (721-705 BC), Louvre Museum / Institute for the Study of Ancient Cultures"
+      ],
+      "atualizado_em": null,
+      "tipo": "coro_angelico"
+    },
+    {
+      "id": "anjos-demonios:serafins",
+      "slug": "serafins",
+      "titulo": "Seraphim",
+      "resumo": "The highest angelic choir, described by Isaiah as eternally singing the holiness of God before the heavenly throne — a hymn that the liturgy of the Mass incorporates in the Sanctus.",
+      "corpo": "The seraphim appear only once in the Bible, in the prophet Isaiah's inaugural vision, set \"in the year that King Uzziah died\" (Is 6:1). Uzziah (also called Azariah) reigned over Judah from about 792 to 740 B.C. and died a leper, excluded from the temple (2 Chr 26) — scholars date the vision to around 740/739 B.C., at the beginning of Isaiah's prophetic ministry. In the account, the prophet sees the Lord sitting upon a throne, high and lifted up, with the train of his robe filling the temple, and \"seraphim\" standing above him: each with six wings — with two covering his face, with two covering his feet, and with two flying (Is 6:2).\n\nThe name derives from the Hebrew *seraphim*, linked to the root *saraph*, \"to burn\"/\"burning,\" probably by association with the ardor of their love and their nearness to the divine glory. It is significant that the same root designates, in other passages, the \"fiery\" serpents of the desert (cf. Num 21:6) — which has led exegetes to discuss whether Isaiah describes winged beings of serpentine form or simply \"burning\" ones. The song they sing, calling to one another \"Holy, holy, holy is the LORD of hosts; the whole earth is full of his glory\" (Is 6:3), is the direct source of the *Sanctus* (or angelic *Trisagion*) of the Mass; the threefold repetition of \"Holy,\" in Hebrew, functions as a superlative — God is the Holy One par excellence. The *Sanctus* was incorporated into the Christian liturgy at the end of the fourth century, concluding the preface before the Eucharistic Prayer, and to it was added the *Benedictus* (\"Blessed is he who comes in the name of the Lord\"), taken from Mt 21:9 and Psalm 118.\n\nIn the systematization of the heavenly hierarchy made by Pseudo-Dionysius the Areopagite in the treatise *On the Celestial Hierarchy* (*De Coelesti Hierarchia*, about 15 chapters), the seraphim occupy the first and highest rank of the first hierarchy (ch. 7), alongside the cherubim and the thrones — the spirits turned toward the immediate contemplation of God. According to this reading, the position of the seraphim stems from their greater nearness to God and their more intense participation in the contemplation and communication of the divine light; their properties are said to be perpetual motion around the divine mysteries, heat, and illumination. Saint Thomas Aquinas received and systematized this scheme in the *Summa Theologica* (I, q. 108), taking up the distribution into three hierarchies and nine choirs and explaining that the higher angels have a more universal view of things because they learn them directly from God.\n\nThe Church has never dogmatically defined the list of the nine choirs as an article of faith: it is a traditional theological synthesis, firmly rooted in Scripture (Isaiah speaks of the seraphim, Ezekiel of the cherubim, Paul of the thrones, dominions, virtues, powers, and principalities, Jude of the archangels) and in the authority of Pseudo-Dionysius, but presented as a frame of reference and not as explicit revelation about the structure of the angelic world. In art, the seraphim commonly appear as small red faces among six wings, in the tradition of medieval illuminated manuscripts.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "Isaiah 6",
+        "Sanctus",
+        "liturgy",
+        "angelic choirs",
+        "heavenly hierarchy",
+        "Pseudo-Dionysius",
+        "Thomas Aquinas"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Seraph_medieval.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Isaiah 6:1-3",
+        "2 Chronicles 26 (reign and death of Uzziah)",
+        "Pseudo-Dionysius the Areopagite, De Coelesti Hierarchia, ch. 7",
+        "Thomas Aquinas, Summa Theologica I, q. 108",
+        "Catechism of the Catholic Church, nos. 328-330",
+        "Missale Romanum, editio typica tertia (2002) — Sanctus"
+      ],
+      "tipo": "coro_angelico"
+    },
+    {
+      "id": "anjos-demonios:tentacao-demoniaca",
+      "slug": "tentacao-demoniaca",
+      "titulo": "Temptation",
+      "resumo": "The action by which the devil seeks to lead the human will into sin, suggesting evil as good, without ever being able to force it against its freedom.",
+      "corpo": "Temptation is the action by which the devil proposes evil as something desirable, seeking to lead the human will into sin. Its two great biblical paradigms are Eden and the desert. In Genesis 3, the serpent insinuates to Eve that eating the forbidden fruit would not bring death but would open her eyes, suggesting, but never imposing, the consent that the woman and the man freely gave. In Matthew 4:1-11 (parallel in Lk 4:1-13), Jesus himself, led by the Spirit into the desert and having fasted forty days and forty nights, is tempted three times by the devil: to turn stones into bread, to throw himself from the pinnacle of the temple to force a miraculous rescue, and to worship the Tempter in exchange for the kingdoms of the world. At each assault Christ responds by quoting Scripture and resists; the episode demonstrates both the reality of the struggle and the fact that temptation, in itself, is not sin; only consent is.\n\nIt is worth noting a detail that the usual reading tends to overlook: Matthew and Luke, although they narrate the same three temptations, differ as to their ORDER. Matthew presents the temptation of the pinnacle of the temple second and that of the kingdoms of the world last; Luke reverses this, placing the kingdoms second and the pinnacle of the temple as the final temptation, at the end of the episode (Lk 4:5-9). Mark is even more economical: he mentions only that Jesus was driven by the Spirit into the desert and tempted, without detailing any of the temptations (Mk 1:12-13). Since the details common to Matthew and Luke, the pairs of quotations and replies, do not appear in Mark, many exegetes attribute them to the so-called Q source; and the episode is absent from the Gospel of John. Mark and the others make clear that it was the Spirit who led Jesus into the desert, underscoring that the trial is part of, and does not contradict, the messianic mission that was beginning right after the baptism.\n\nCatholic doctrine insists that the devil, being a created pure spirit, can never force the free human will: he can suggest, insist, stir up the imagination and the senses, exploit weaknesses and offer appearances of good, but consent to sin always remains a free act of the person. Saint Thomas Aquinas formulates this truth in the *Summa Theologiae* (I, q. 114, aa. 1-2): demons cannot compel anyone to sin, but only tempt, acting above all by suggestion and illusion, and even so only to the extent that God permits it. Thomas observes that \"to tempt by inducing to evil is proper only\" to the creature who can be the object of guilt above human nature, and explains that demons act on the sensitive and imaginative part of the soul, but do not directly move the will. He further recalls that demons neither read thoughts directly nor know the future except by deduction from observed behavior (I, q. 57, aa. 3-4), which radically limits their power over the human interior.\n\nThe Catechism of the Catholic Church takes up this doctrine in commenting on the sixth petition of the Our Father, \"and lead us not into temptation\" (nos. 2846-2849): we ask God the Father not to \"lead\" us into temptation. The Greek term is difficult to translate and means \"do not allow us to enter into\" and \"do not let us yield to\" temptation. We ask the Holy Spirit to help us discern between trial, which makes us grow in goodness, and temptation, which leads to sin and death, and also between \"being tempted\" and \"consenting\" to temptation. Discernment, says the Catechism, \"unmasks the lie of temptation\": its object appears to be \"good, a delight to the eyes, and desirable\" (Gen 3:6), when in reality its fruit is death. This petition asks for the \"Spirit of discernment and strength,\" the grace of vigilance and final perseverance, and places the faithful in union with Christ, who overcame temptation by his own prayer. The Catechism recalls that temptation comes from the devil, the world and the flesh, and that God \"does not permit us to be tempted beyond our strength\" (cf. 1 Cor 10:13).\n\nThe spiritual tradition, from Saint Anthony to Saint Augustine, insists that temptation can be an occasion of merit and growth when resisted, and not merely a threat; for this reason the spiritual combat of prayer, fasting, vigilance and the sacraments is presented as a normal part of the Christian life, never as a struggle waged by human strength alone. Scripture itself recalls that Christ \"in every respect has been tempted as we are, yet without sin\" (Heb 4:15), which makes Jesus' resistance in the desert the model and foundation of the believer's victory over temptation.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "Our Father",
+        "free will",
+        "spiritual combat",
+        "temptation",
+        "desert",
+        "Thomas Aquinas",
+        "Q source",
+        "trial"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Barth%C3%A9lemy_Parrocel-J%C3%A9sus_au_d%C3%A9sert.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Matthew 4:1-11; Luke 4:1-13; Mark 1:12-13; Hebrews 4:15; Genesis 3:5-6; 1 Corinthians 10:13",
+        "Thomas Aquinas, Summa Theologiae I, q. 114, aa. 1-2 (the assaults of demons) and I, q. 57, aa. 3-4",
+        "Catechism of the Catholic Church, nos. 2846-2849 (the sixth petition of the Our Father), available at vatican.va",
+        "Wikipedia, 'Temptation of Christ' (difference in order between Matthew and Luke and the Q source hypothesis)"
+      ],
+      "atualizado_em": null,
+      "tipo": "conceito"
+    },
+    {
+      "id": "anjos-demonios:tronos",
+      "slug": "tronos",
+      "titulo": "Thrones",
+      "resumo": "Third choir of the first (highest) angelic hierarchy; mentioned by Saint Paul among the beings created in Christ and associated with the contemplation of God's majesty and judgment, especially in the synthesis of Pseudo-Dionysius and Saint Thomas Aquinas.",
+      "corpo": "The Thrones are mentioned by Saint Paul among the categories of heavenly beings created in Christ: \"for in him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or principalities or authorities\" (Col 1:16). The Greek term used is *thronoi*, and the Apostle's purpose, in writing to the Colossians, is to affirm the absolute sovereignty of Christ over all creation, including over the spiritual hierarchies that the recipients of the letter might be tempted to fear or venerate as autonomous powers. Paul lists names that later Jewish and Christian literature would understand as titles of angelic choirs, although he himself is not proposing a closed system.\n\nIn the classical systematization of the angelic hierarchy, established by Pseudo-Dionysius the Areopagite in the treatise *On the Celestial Hierarchy* (*De Coelesti Hierarchia*), the Thrones complete — together with the Seraphim and the Cherubim — the first and highest of the three triads, those turned toward the immediate contemplation of God. Dionysius himself lists them as \"the sacred constellation of the Seraphim, the Cherubim and the Thrones\" (chap. 7). For him, the Thrones represent unchanging adherence to the presence of God; the second hierarchy (Dominions, Virtues, Powers) receives the light of the first and transmits it to the third; the third (Principalities, Archangels, Angels) carries out the divine dispositions in their effects. The author, who writes under the pseudonym of the Dionysius converted by Paul in Athens (Acts 17:34), is thought to have lived between the end of the fifth century and the beginning of the sixth.\n\nSaint Gregory the Great, whose reading of the choirs strongly influenced the Latin tradition, followed an ordering of his own, taking as its basis Paul's list in Colossians 1:16 and seeing in it a descending enumeration. In his *Homilies on the Gospels* — which the Liturgy of the Hours includes in the Office of Readings — the Pope explains that the name \"angel\" designates an office, not a nature: \"It must be known that the word 'angel' denotes an office, not a nature. For those holy spirits of the heavenly fatherland are always spirits, but they can not always be called angels, because they are angels only when something is announced through them.\" According to the tradition that cites him, through the Thrones God executes his judgments, and they present to the lower choirs the splendor of divine omnipotence.\n\nThe name derives from the biblical image of the throne of God (cf. Ez 1; Rev 4), suggesting that these spirits reflect in a special way the divine majesty, stability and justice, as a symbolic \"seat\" of God's presence. Saint Thomas Aquinas, in the *Summa Theologiae* (I, q. 108), compared the two great systems — that of Pseudo-Dionysius, which orders the choirs chiefly by degree of perfection, and that of Saint Gregory the Great, which orders them by function — and preferred the Dionysian scheme, distributing the angels into three hierarchies and nine choirs according to the way they receive and transmit the divine light. In this scheme, the Thrones occupy the lowest rank of the first hierarchy. Relying on Scripture, Thomas observes that Isaiah speaks of the Seraphim, Ezekiel of the Cherubim, Paul of the Thrones, Dominions, Virtues, Powers and Principalities, and Jude of the Archangels.\n\nThe Church has never dogmatically defined the structure of the nine choirs as a doctrine of faith: it is a traditional theological synthesis, based on Scripture and above all on the authority of Pseudo-Dionysius, and not an explicit revelation about the exact organization of the angelic world. The Catechism (nos. 328-330) limits itself to affirming the existence of the angels as spiritual creatures and their service in the plan of salvation, without fixing the list of the choirs. In Christian art, the Thrones are usually depicted as winged wheels or flaming thrones, often echoing the vision of Ezekiel.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "angelic choirs",
+        "celestial hierarchy",
+        "Colossians",
+        "Pseudo-Dionysius",
+        "Thomas Aquinas",
+        "Gregory the Great",
+        "angels"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Angelic_Hierarchy_in_Christianity%2C_St_Michael_and_All_Angels%27%2C_Somerton.jpg",
+      "imagem_credito": "Stained-glass window of the nine angelic choirs in the church of St Michael and All Angels, Somerton (Wikimedia Commons).",
+      "fontes": [
+        "Colossians 1:16",
+        "Pseudo-Dionysius the Areopagite, De Coelesti Hierarchia, chap. 7 (and general structure of chaps. 7-9)",
+        "Thomas Aquinas, Summa Theologiae I, q. 108 (comparison between the systems of Dionysius and Gregory)",
+        "Saint Gregory the Great, Homilies on the Gospels, in the Liturgy of the Hours, Office of Readings",
+        "Catechism of the Catholic Church, nos. 328-330",
+        "Wikipedia (pt), entry \"Hierarquia dos anjos\" (sections on Pseudo-Dionysius and the nine choirs)"
+      ],
+      "atualizado_em": null,
+      "tipo": "coro_angelico"
+    },
+    {
+      "id": "anjos-demonios:dominacoes",
+      "slug": "dominacoes",
+      "titulo": "Dominions",
+      "resumo": "Angelic choir that opens the second celestial triad, associated with governance and the orderly distribution of tasks to the lower spirits.",
+      "corpo": "The Dominions (in Greek kyriotetes; in Latin dominationes) are among the celestial beings named by Saint Paul — \"thrones or dominions or principalities or authorities\" (Col 1:16) and \"every principality, authority, power, and dominion\" (Eph 1:21). In the hierarchy systematized by Pseudo-Dionysius the Areopagite in the treatise De Coelesti Hierarchia, the Dominions are the first and highest choir of the second angelic triad, which the Virtues and the Powers complete. Whereas the first triad (Seraphim, Cherubim, and Thrones) is associated with the direct contemplation of God, this second triad is described as the one that governs and orders creation: to the second hierarchy belong the angels who receive the divine designs as universal causes and distribute them to the lower choirs.\n\nAccording to this synthesis, it falls to the Dominions to hold supreme dominion over the created order and to coordinate the missions entrusted to the lower angels, who are obedient to them. Saint Gregory the Great summed up this function in a sentence taken up by later authors: \"Some ranks of the angelic host are called Dominions, because the rest are subject to them.\" Pseudo-Dionysius links the very name of the choir to the divine lordship: the Dominions participate, as far as is possible for a creature, in the sovereignty of God, and for that reason they receive \"more weighty missions\" within the high nobility of heaven. Saint Thomas Aquinas, in the Summa Theologiae I, q. 108, a. 6, places them at the summit of the intermediate degree, the \"general governance\" that deeply understands the reasons of creation and establishes the paths by which providence is carried out.\n\nThe traditional image represents the Dominions with a scepter and an orb (or a crown), signs of an authority that is always subordinate to the one sovereignty of God. The stained-glass window of the nine choirs in the church of St Michael and All Angels, in Somerton (England), is an example of Western iconography that depicts them with the attribute of command.\n\nLike the other choirs apart from the three archangels named in Scripture, the Dominions have no liturgical feast of their own in the Roman calendar: the Church celebrates the angels collectively in the memorial of the Holy Guardian Angels (October 2, introduced into the Roman calendar in 1615) and in the feast of the Archangels Michael, Gabriel, and Raphael (September 29). The mention of the Dominions serves above all to express the grandeur and diversity of the angelic creation, a theme the Catechism takes up with sobriety (nos. 328-330), avoiding speculation about the exact hierarchy of the angels.\n\nThe traditional attribution of the work to \"Dionysius the Areopagite\" — the Athenian convert of Acts 17:34 — is today rejected by scholarship: the Dionysian corpus is the work of an anonymous theologian, probably Syrian and of Neoplatonic formation, written in Greek in the late fifth or early sixth century. The Syriac translation made by Sergius of Reshaina in the early sixth century serves as terminus ante quem for the Greek original, and the Latin version of John Scotus Eriugena, completed in 862 at the request of Charles the Bald, spread it in the medieval West. The connection of the Dominions with the \"general governance\" is therefore asserted on the basis of an authority of spurious attribution — which did not prevent its enormous influence on Scholasticism.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "angelic choirs",
+        "celestial hierarchy",
+        "second triad",
+        "Colossians",
+        "Pseudo-Dionysius",
+        "Saint Gregory the Great",
+        "Thomas Aquinas"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Angelic_Hierarchy_in_Christianity%2C_St_Michael_and_All_Angels%27%2C_Somerton.jpg",
+      "imagem_credito": "Stained-glass window of the nine angelic choirs, church of St Michael and All Angels, Somerton (England). Photograph on Wikimedia Commons, CC BY-SA 4.0 license.",
+      "fontes": [
+        "Colossians 1:16; Ephesians 1:21",
+        "Pseudo-Dionysius the Areopagite, De Coelesti Hierarchia, ch. VI-VIII",
+        "Saint Thomas Aquinas, Summa Theologiae, I, q. 108, a. 5-6",
+        "Saint Gregory the Great, Homilies on the Gospels, XXXIV, 7 (on the Dominions)",
+        "Catechism of the Catholic Church, nos. 328-330",
+        "Catholic Encyclopedia, entry \"Dionysius the Pseudo-Areopagite\" (newadvent.org)"
+      ],
+      "tipo": "coro_angelico"
+    },
+    {
+      "id": "anjos-demonios:principados",
+      "slug": "principados",
+      "titulo": "Principalities",
+      "resumo": "Angelic choir of the third celestial triad, associated in tradition with the governance and protection of peoples, nations and human institutions, with Saint Michael as its typical leader.",
+      "corpo": "The Principalities (in Greek archai; in Latin principatus) appear among the heavenly beings listed by Saint Paul (Col 1:16; Eph 1:21; Eph 3:10) and occupy, in the hierarchy of Pseudo-Dionysius the Areopagite, the first place of the third and last triad, alongside the Archangels and the Angels. This is the triad described as the one that is \"close to the world of men\" and carries out providential action, applying the divine dispositions to concrete realities. Chapter IX of the Celestial Hierarchy deals precisely with the Principalities, Archangels and Angels, and the author himself defines the name: the term \"heavenly principalities\" refers to the princely authority that such angels exercise in imitation of God, to the capacity to orient themselves fully toward \"the Principle that is above every principle\" and, as princes, to lead others to Him, making known \"this supraessential Principle of all order.\"\n\nThe theological tradition, taken up by Saint Thomas Aquinas (Summa Theologiae I, q. 108), attributes to the Principalities the care of the great human collectivities (peoples, nations, kingdoms and institutions), a providence exercised over collective realities, distinct from the individual protection entrusted to the guardian angel. This reading rests above all on Daniel 10, where an angelic \"prince\" (traditionally identified with Michael, \"the prince of Israel\") acts on behalf of the chosen people against the \"prince of the kingdom of Persia\" who opposes him, and also on Daniel 12, a passage in which later exegesis saw both the angelic care for the nations and the existence of fallen angels linked to hostile powers. Saint Gregory the Great, in the Homilies on the Gospels (Hom. 34, 8-9), includes the Principalities among the nine choirs and describes them as the ranks that preside, in submission to God, over the governance of those below them.\n\nA relevant point, and one often forgotten, is that the great doctors differ on the exact placement of this choir. Pseudo-Dionysius follows the enumeration of Ephesians 1:21 and places the Principalities in the first rank of the third hierarchy, above the Archangels; Saint Gregory the Great, however, although he also lists nine choirs, distributes them according to a different logic of ministries and does not coincide in every detail. Saint Thomas expressly records this divergence (q. 108, a. 6), which shows that the relative position of each choir belongs to theological elaboration and not to a dogmatic definition. The Catechism of the Catholic Church cites the Pauline expression \"thrones, dominions, principalities, powers\" (Col 1:16) to affirm that everything was created \"through him and for him\" (CCC 331), without defining the hierarchy as an article of faith, but welcoming it as an expression of Tradition about the variety of angelic spirits.\n\nAlthough there is no dogmatic definition about their nature, the function of collective protection has nourished devotions such as that of the \"guardian angels of nations\" and remains a traditional way for Catholic piety to express that God's providence reaches also social and political realities, and not only individuals. Like the other choirs not named in the liturgy, the Principalities have no feast of their own in the Roman calendar, which celebrates the angels collectively in the memorial of the Holy Guardian Angels (October 2, introduced into the Roman calendar, according to current liturgical sources, in 1615) and in the feast of the Archangels (September 29). In sacred art, the choir is frequently represented in cycles of the nine angelic choirs, as in the stained-glass windows of the church of St Michael and All Angels in Somerton (England), or in the mosaics of gerarchie angeliche of the Baptistery of Florence.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "angelic choirs",
+        "celestial hierarchy",
+        "third triad",
+        "Daniel 10",
+        "Pseudo-Dionysius",
+        "Saint Gregory the Great",
+        "Saint Michael",
+        "Thomas Aquinas",
+        "angels of the nations"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Principalities%2C_St_Michael_and_All_Angels%27%2C_Somerton.jpg",
+      "imagem_credito": "Andrewrabbott, stained-glass window depicting the Principalities in the church of St Michael and All Angels, Somerton (England), 2015. Wikimedia Commons, CC BY-SA 4.0 license.",
+      "fontes": [
+        "Colossians 1:16; Ephesians 1:21; Ephesians 3:10; Daniel 10:13, 20-21; Daniel 12:1",
+        "Pseudo-Dionysius the Areopagite, De Coelesti Hierarchia, ch. IX (on the Principalities, Archangels and Angels)",
+        "Saint Thomas Aquinas, Summa Theologiae, I, q. 108, a. 5-6",
+        "Saint Gregory the Great, Homilies on the Gospels, Hom. 34, 7-10 (PL 76, 1250-1251)",
+        "Catechism of the Catholic Church, nos. 328-336 (esp. 331 and 336), official text at vatican.va",
+        "Catholic Encyclopedia, entry \"Dionysius the Pseudo-Areopagite\" (on the Dionysian question)",
+        "Wikimedia Commons, category \"Principalities (angels)\" and \"St Michael and All Angels' Church, Somerton (stained glass)\""
+      ],
+      "atualizado_em": null,
+      "tipo": "coro_angelico"
+    },
+    {
+      "id": "anjos-demonios:potestades",
+      "slug": "potestades",
+      "titulo": "Powers",
+      "resumo": "Angelic choir that closes the second celestial triad, associated in tradition with the defense of the cosmic order and the restraint of the powers of evil.",
+      "corpo": "The Powers (in Greek dynameis or exousiai, depending on the text, in Latin potestates) belong to the list of heavenly beings mentioned by Saint Paul (Col 1:16; Eph 1:21; also 1 Pet 3:22) and complete, together with the Dominations and the Virtues, the second triad of the angelic hierarchy systematized by Pseudo-Dionysius the Areopagite — the triad charged, according to this tradition, with the governance and maintenance of order in the created universe. In the Dionysian ordering, described in chapter VIII of the Celestial Hierarchy, the Powers occupy the third and lowest rank of this second hierarchy, after the Dominations and the Virtues.\n\nLater theological reflection, in particular that of Saint Thomas Aquinas (Summa Theologiae I, q. 108), associated with the Powers in a special way the task of restraining and repelling the action of the powers of evil, functioning as a spiritual boundary that limits the reach of demonic power over creation and over human history. Saint Gregory the Great describes this function precisely in the Homilies on the Gospels (Hom. 34, 8-9): in a passage in which he enumerates the nine choirs, he distinguishes that \"those spirits through whom signs and miracles are more frequently worked are called Virtues, and those among their order who have received greater power to keep the adverse powers subdued are called Powers.\" This reading is in dialogue with the Pauline passages on the struggle \"against the principalities and powers, against the world rulers of this darkness\" (Eph 6:12), a text in which the same names designate the faithful angels and, by analogy, the fallen hosts.\n\nThe term \"powers\" (dynameis) also has a broader biblical use that should be distinguished: in Daniel 3:39 (in the Greek version) and in other texts, \"powers\" can designate the angels in general, and some authors observe that it is frequently the Septuagint's translation of the Hebrew sabaoth (\"hosts\"). Thus, not every mention of \"powers\" in Scripture refers to the specific choir, which explains part of the variation among the sources and the difficulty of fixing with precision the proper office of each order.\n\nOn the placement of this choir there is disagreement among the doctors: Pseudo-Dionysius puts it in the last rank of the second hierarchy, while Saint Thomas notes that Saint Gregory's arrangement differs on some points (q. 108, a. 6), since Gregory describes the choirs above all by their ministries and not by a fixed essential ordering. This divergence confirms that, in the absence of a dogmatic definition, there is freedom of opinion about the proper office of each of the nine orders. Like the other choirs of the angelic hierarchy not named in the liturgy, the Powers have no feast of their own: the Church celebrates the angels collectively in the memorial of the Holy Guardian Angels (October 2, introduced into the Roman calendar, according to current liturgical sources, in 1615) and in the feast of the Archangels (September 29). The mention of the Powers, associated with Ephesians 6, thus forms part of the tradition's effort to express, in symbolic language, the multiplicity and the ordering function of the heavenly spirits in the service of God's plan — and Catholic piety has read in this choir a help against the adverse spiritual forces.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "angelic choirs",
+        "celestial hierarchy",
+        "second triad",
+        "spiritual combat",
+        "Ephesians 6",
+        "Pseudo-Dionysius",
+        "Saint Gregory the Great",
+        "Thomas Aquinas"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Powers%2C_St_Michael_and_All_Angels%27%2C_Somerton.jpg",
+      "imagem_credito": "Andrewrabbott, stained-glass window depicting the Powers in the church of St Michael and All Angels, Somerton (England), 2015. Wikimedia Commons, CC BY-SA 4.0 license.",
+      "fontes": [
+        "Ephesians 1:21; Ephesians 6:12; Colossians 1:16; 1 Peter 3:22; Daniel 3:39 (Greek version)",
+        "Pseudo-Dionysius the Areopagite, De Coelesti Hierarchia, ch. VIII (on the Dominations, Virtues, and Powers)",
+        "Saint Thomas Aquinas, Summa Theologiae, I, q. 108, a. 5-6",
+        "Saint Gregory the Great, Homilies on the Gospels, Hom. 34, 7-10 (PL 76, 1250-1251): \"Powers are those who... have received greater power to keep the adverse powers subdued\"",
+        "Catechism of the Catholic Church, nos. 328-336",
+        "Wikimedia Commons, categories \"Powers (angels)\" and \"St Michael and All Angels' Church, Somerton (stained glass)\""
+      ],
+      "atualizado_em": null,
+      "tipo": "coro_angelico"
+    },
+    {
+      "id": "anjos-demonios:virtudes-celestiais",
+      "slug": "virtudes-celestiais",
+      "titulo": "Heavenly Virtues",
+      "resumo": "Angelic choir of the second celestial triad, associated, in the angelology of Pseudo-Dionysius and of Saint Thomas, with the working of miracles and the governance of the heavenly bodies, and understood as a support of the courage and perseverance of the faithful.",
+      "corpo": "The Virtues (Gk. dynameis, \"powers\" or \"forces\"; Lat. virtutes) are among the angelic beings mentioned by Saint Paul, who speaks of Christ enthroned \"far above every principality, authority, power, and dominion\" (Eph 1:21; cf. also Col 1:16 and 1 Pet 3:22). The Greek term designates less a \"moral virtue\" than an operative power or energy: they are the forces through which God acts in the created world. In the systematization of Pseudo-Dionysius the Areopagite, they occupy the central position of the second triad, between the Dominions and the Powers, and are treated in chapter VIII of \"On the Celestial Hierarchy\" (De Coelesti Hierarchia), in which the author reviews the three choirs of the intermediate hierarchy. According to this chapter, while the Dominions (kyriotetes) express the right ordering of lordship and the Powers (exousiai) the harmony and order that restrains adverse powers, the Virtues (dynameis) are described as the manly strength and the ordering courage that sustains creation.\n\nIn the Dionysian scheme, the whole celestial hierarchy operates through three movements — purification (katharsis), illumination (photismos), and perfection (teleiosis) — so that each rank receives the divine light from the rank above and transmits it to the one below. The second triad, \"close\" to the world and called to govern the order of the created universe, receives from the first (Seraphim, Cherubim, and Thrones) the impulse that it distributes to the lower hierarchies. This is why ancient art and devotion sometimes represented the Virtues as \"spirits of motion.\"\n\nSaint Thomas Aquinas, in fully adopting the Dionysian ordering of the nine choirs (Summa Theologiae, I, q. 108), discusses in question 110, article 4, whether the angels can work miracles, and carefully distinguishes the roles: he cites Saint Gregory the Great, for whom \"those spirits are called virtues through whom signs and miracles are more frequently done,\" but he qualifies — against the literal interpretation — that the angels do not work miracles by their own power, since a miracle exceeds created nature; they serve as instruments through which God accomplishes the wonders He wills to work. According to this reading, it belongs to the Virtues to govern the heavenly bodies and to preside over natural realities, understood as a ministry subordinate to divine causality.\n\nThis connection with signs and wonders was associated, in devotional texts, with episodes such as the Ascension of Christ, when \"two men in white garments\" (traditionally identified as angels) announce to the apostles the return of the Lord (Acts 1:10-11). Tradition also recalls the strengthening of believers in the face of trials as one of the effects of the ministry of the Virtues, understood as a support of perseverance in the good.\n\nLike the other choirs whose names are not individually given in Scripture, the Virtues have no liturgical cult of their own. Their mention belongs above all to the heritage of medieval speculative angelology — a respectable and highly influential body of work, but not raised by the Church to a defined article of faith. Catholic worship is directed to the angels as such (as in the feast of the Holy Archangels, on September 29, and of the Guardian Angels), without a particular liturgical celebration of each choir; in artistic representations, the Virtues sometimes appear in the groupings of the nine choirs, as in the stained-glass window of the church of St Michael and All Angels, in Somerton (England), which places them in the second row, beside the Powers and the Principalities.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "angelic choirs",
+        "celestial hierarchy",
+        "second triad",
+        "Pseudo-Dionysius",
+        "Thomas Aquinas",
+        "Gregory the Great",
+        "miracle",
+        "heavenly bodies"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Virtues%2C_St_Michael_and_All_Angels%27%2C_Somerton.jpg",
+      "imagem_credito": "Andrewrabbott, Wikimedia Commons, 2015 (CC BY-SA 4.0)",
+      "fontes": [
+        "Ephesians 1:21; Colossians 1:16; 1 Peter 3:22; Acts 1:10-11",
+        "Pseudo-Dionysius the Areopagite, De Coelesti Hierarchia, ch. VIII (on the Dominions, Virtues, and Powers)",
+        "Saint Thomas Aquinas, Summa Theologiae, I, q. 108 (order of the angelic choirs) and I, q. 110, a. 4 (whether angels can work miracles; quotation from Saint Gregory the Great)",
+        "Dallas Baptist University (Dr. Philip Irving Mitchell), 'The Celestial Hierarchy of Pseudo-Dionysius' (summary of ch. VI-IX)",
+        "Wikimedia Commons, File:Virtues, St Michael and All Angels', Somerton.jpg"
+      ],
+      "atualizado_em": null,
+      "tipo": "coro_angelico"
+    },
+    {
+      "id": "anjos-demonios:hierarquia-angelica-pseudo-dionisio",
+      "slug": "hierarquia-angelica-pseudo-dionisio",
+      "titulo": "The Angelic Hierarchy of Pseudo-Dionysius",
+      "resumo": "A systematization of the nine angelic choirs into three triads, proposed in the treatise \"On the Celestial Hierarchy,\" which became the classic reference of Christian angelology and was received by theologians such as Maximus the Confessor and Saint Thomas Aquinas.",
+      "corpo": "At the end of the fifth century or the beginning of the sixth, a Christian author now unknown, who wrote under the pseudonym of Dionysius the Areopagite — taking the name of the Athenian converted by Saint Paul in Acts 17:34 —, composed the treatise \"On the Celestial Hierarchy\" (Peri tes Ouranias Hierarchias, De Coelesti Hierarchia), systematizing for the first time in a comprehensive way the different angelic beings mentioned in scattered fashion in Scripture into nine choirs, organized in three triads of three. Together with \"On the Divine Names,\" the \"Ecclesiastical Hierarchy\" and the \"Mystical Theology,\" it forms the collection now called the Corpus Areopagiticum or Corpus Dionysiacum.\n\nThe dating is now well circumscribed. According to the Stanford Encyclopedia of Philosophy, the author depended on the work of Proclus (died 485) and his first clear citation appears in Severus of Antioch, between 518 and 528; in 532, in the debate of Constantinople with the Emperor Justinian I, Bishop Hypatius of Ephesus already contested its apostolic authenticity, claiming that no earlier Father or Council had cited it. The author became public in the context of the Christological controversies of the East. He is, therefore, a Neoplatonic Christian — probably Syrian — who forged apostolic credentials by writing as if he were the disciple of Paul. The work consists of fifteen chapters: chapters 1 to 3 deal with the general principles of the angels as messengers, chapters 4 to 9 describe the three hierarchies and their nine choirs, and chapters 10 to 15 deal with the relationship of the angels with men and the cosmos. The whole system is governed by three operations — purification (katharsis), illumination (photismos) and perfection (teleiosis) —, by which the higher rank transmits to the lower the light received from God.\n\nAccording to this scheme, the first triad — Seraphim, Cherubim and Thrones — directly contemplates the glory of God; the second — Dominations, Virtues and Powers — governs the order of the created universe; and the third — Principalities, Archangels and Angels — carries out the divine orders in relation to humanity, the Angels being the rank closest to men. The author presents the corresponding Greek names (seraphim, cherubim, thronoi; kyriotetes, dynameis, exousiai; archai, archangeloi, angeloi) and interprets each designation in light of its function in the cosmos.\n\nAlthough pseudepigraphal in authorship, the work exerted enormous influence on medieval theology. It was defended by John of Scythopolis, whose scholia (c. 537-543), about six hundred in number, constitute the first systematic defense of its apostolic dating, and by Maximus the Confessor; under the latter's influence, the Lateran Council of 649 cited the author as a competent witness against Monothelitism, which functioned as a kind of official seal on the Dionysian writings. Until the Renaissance, the authorship was rarely put in doubt, although Thomas Aquinas, Peter Abelard and Nicholas of Cusa had already expressed suspicions; the false attribution was only demonstrated philologically by Lorenzo Valla (1457) and Erasmus of Rotterdam. The synthesis was taken up by Saint Bonaventure and, above all, by Saint Thomas (Summa Theologiae, I, q. 108), who used it to order the choirs, distinguishing the Dionysian division, based on spiritual perfections, from that of Saint Gregory the Great, based on external ministries. The Church never elevated this scheme to a dogma of faith — it is a respectable and widely adopted theological construction, not an explicit revelation about the exact structure of the angelic world.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "celestial hierarchy",
+        "Pseudo-Dionysius",
+        "Neoplatonism",
+        "nine choirs",
+        "three triads",
+        "medieval theology",
+        "Maximus the Confessor",
+        "Thomas Aquinas",
+        "Lateran Council of 649"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Denis_Areopagite.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Pseudo-Dionysius the Areopagite, De Coelesti Hierarchia (Corpus Dionysiacum II, ed. G. Heil and A. M. Ritter, De Gruyter)",
+        "Stanford Encyclopedia of Philosophy, entry 'Pseudo-Dionysius the Areopagite' (dating between 485 and 518-528; chapters of the Celestial Hierarchy)",
+        "Encyclopedia.com, entry 'Pseudo-Dionysius' (post-Chalcedonian Christology; first citation by Severus of Antioch, 518-528)",
+        "Wikipedia (pt), 'Pseudo-Dionísio, o Areopagita' (scholia of John of Scythopolis; 532 debate with Hypatius of Ephesus; Lateran Council of 649)",
+        "Saint Thomas Aquinas, Summa Theologiae, I, q. 108",
+        "Acts of the Apostles 17:34",
+        "Wikimedia Commons, File:Denis Areopagite.jpg"
+      ],
+      "atualizado_em": null,
+      "tipo": "conceito"
+    },
+    {
+      "id": "anjos-demonios:festa-dos-anjos-custodios",
+      "slug": "festa-dos-anjos-custodios",
+      "titulo": "Feast of the Holy Guardian Angels",
+      "resumo": "Liturgical memorial celebrated on October 2, dedicated to the guardian angels, with roots in medieval European devotions and papal institutionalization beginning in the early seventeenth century.",
+      "corpo": "Devotion to the guardian angels has ancient roots and gained its own liturgical expression especially from the Middle Ages onward. Before the modern liturgical reforms, local celebrations of the guardian angels are presumed to have existed in various regions of Europe; the Sacro Convento and the Franciscans cultivated it with particular zeal. The Franciscan friar John Colombi composed a proper Office, whose approval is attributed to Leo X (1515). A later devotional narrative even places the beginning of the feast in England in the \"year 800\"; the more prudent sources, however, place the independent feast in fifteenth-century Spain, from where it spread to Portugal, Austria and the rest of the continent. Originally, the angels were celebrated on September 29, together with the three archangels (Michael, Gabriel and Raphael), so that the differentiation of a memorial of its own responded to the desire to honor in a special way the personal angel of each believer.\n\nThe Roman institutionalization came about in successive steps. With the promulgation of the Missal of Saint Pius V (1570), the particular feasts of the guardian angels were removed from the Roman calendar; in 1608, Pope Paul V restored them for some regions. In 1670, Pope Clement X (1670-1676) extended the Memorial of the Holy Guardian Angels to the whole Church of the Roman Rite, fixing it on October 2 — some sources alternatively indicate 1672; the discrepancy remains among authors.\n\nOn July 5, 1883, a decree of the Sacred Congregation of Rites, approved by Pope Leo XIII, raised the feast from the rank of \"lesser double\" to \"greater double,\" endowing it with its own Mass, first Vespers and Matins with nine lessons, so that it would no longer be omitted when concurring with other celebrations. The text appears in the primary source Acta Sanctae Sedis, vol. 16 (1883), pp. 47-48, and fits within the broader liturgical program of Leo XIII in that period (the encyclical Supremi apostolatus officio on the Rosary dates from September 1, 1883). With the liturgical reform of the Second Vatican Council, the Memorial was retained in the Missal of 1969, keeping a good part of the prayers of the 1962 missal; only the prayer after Communion is newly composed. The proper Preface of the Angels, \"Qui mirabili ordinis,\" reiterates that God governs heaven and earth through the angels.\n\nThe doctrine underlying the memorial of October 2 is that God entrusts a guardian angel to each human person. Although it has not been the object of formal dogmatic definition, it is held as the \"sense of the Church\": Saint Jerome wrote that \"the dignity of the soul is so great that each one has, from birth, an angel commissioned to guard it\" (Commentary on Matthew, XVIII, book II), and the Catechism of the Catholic Church (no. 336) takes up this doctrine by affirming that, from infancy to death, human life is surrounded by their watchful care and intercession. The Dogmatic Constitution Lumen Gentium (no. 50) recalls the affection due to the \"holy Angels\" in communion with the heavenly Church. The feast is a traditional occasion to renew personal devotion to one's own guardian angel, and linked to it is the prayer Angele Dei, whose authorship is today attributed to Reginald of Canterbury (died c. 1109).\n\nThe association of October 2 with a civil celebration related to grandparents, in Italy in 2005, is a modern development of a non-liturgical character, inspired by the protective figure of the guardian angels, but without the value of worship.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "guardian angel",
+        "liturgy",
+        "liturgical calendar",
+        "Leo XIII",
+        "Paul V",
+        "Clement X",
+        "Saint Jerome",
+        "Angele Dei"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Domenichino_Guardian_angel.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Vatican News, \"Holy Guardian Angels\" — saint of the day, October 2",
+        "Sacred Congregation of Rites, decree of July 5, 1883, in Acta Sanctae Sedis, vol. 16 (1883), pp. 47-48",
+        "Catechism of the Catholic Church, no. 336 (and nos. 328-352)",
+        "Second Vatican Council, Dogmatic Constitution Lumen Gentium, no. 50",
+        "Saint Jerome, Commentary on Matthew, XVIII, book II",
+        "Pílulas Litúrgicas, \"History of the Memorial of the Guardian Angels\" (2020)",
+        "Aleteia, \"Sapete che poste, radio e tv hanno un angelo custode?\" (2019)"
+      ],
+      "atualizado_em": null,
+      "tipo": "conceito"
+    },
+    {
+      "id": "anjos-demonios:belzebu",
+      "slug": "belzebu",
+      "titulo": "Beelzebub",
+      "resumo": "Name given in the New Testament to Satan as the \"prince of demons,\" derived from an ancient Philistine deity of Ekron and probably distorted by a contemptuous pun.",
+      "corpo": "The name Beelzebub (in the Greek of the Gospels, Beelzeboul) goes back to the Hebrew Baal-Zebub, \"lord of the flies,\" the title of a Philistine deity worshiped in the city of Ekron. The Second Book of Kings relates that King Ahaziah, being ill, sends messengers to consult this god instead of the God of Israel; the prophet Elijah intercepts the envoys and announces the king's death as punishment for having sought \"a god of Ekron\" (2 Kings 1:2-16). In the Septuagint, the name appears explicitly as \"Baal-fly, god of Akkaron.\"\n\nScholars debate the original meaning of the title. One school reads it literally as \"lord of the flies\"; another maintains that the original form would have been Baal-Zebul, \"lord of the dwelling\" or \"exalted lord\" (from the root zevul, \"mansion,\" \"lofty dwelling\"), and that Hebrew scribes deliberately distorted it into \"lord of the flies\" or even \"lord of dung,\" in a mocking pun against the worship of Baal. Rabbinic literature treats the term as a mockery of idolatrous worship. This ambiguity explains why, in the New Testament, the form Beelzeboul circulates chiefly, and not Baal-Zebub.\n\nIn the Gospel, the name designates Satan himself as the \"prince of demons.\" The Pharisees accuse Jesus of casting out demons \"by the prince of demons\" (Mt 12:24; Mk 3:22; Lk 11:15); in Mt 9:34 the same accusation had already appeared. Jesus refutes it with the argument that \"every kingdom divided against itself is laid waste\" — it would make no sense for Satan to cast out himself — and affirms that he casts out demons \"by the finger of God\" (Lk 11:20) or \"by the Spirit of God\" (Mt 12:28), a sign that the Kingdom of God has come. In Mt 10:25 Jesus himself seems to play on the sense of \"lord of the house\": if they have called the master of the house Beelzebul, how much more those of his household.\n\nLater spiritual tradition kept Beelzebub as one of the names used to designate the leader of evil in the world. One must not, however, confuse Scripture with a detailed \"infernal hierarchy\": the Old and New Testaments do not offer an ordered list of demons. Systematic demonology — such as that which, from the sixteenth century on, classified demons by capital vices — is a later theological and folkloric elaboration, popularized by works such as the Dictionnaire Infernal (1818) by Jacques-Albin-Simon Collin de Plancy, and is not doctrine defined by the Church. In that body of work, the figure of Beelzebub appears, for example, in the engraving by Louis Le Breton for the sixth edition of that work (1863), which describes him as \"the prince of demons, the first in power and crimes after Satan.\"",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "demon",
+        "New Testament",
+        "Satan",
+        "exorcism",
+        "Old Testament",
+        "Pharisees",
+        "Ekron",
+        "Baal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Ill_dict_infernal_p0103-89_belzebuth.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Matthew 12:22-28; 9:34; 10:25; Mark 3:22-27; Luke 11:14-20",
+        "2 Kings 1:2-16",
+        "Wikipedia, entry \"Beelzebub\" (sections Etymology and Rabbinical literature)",
+        "Dictionnaire Infernal, by J.-A.-S. Collin de Plancy, 6th ed., 1863 (engraving by Louis Le Breton)"
+      ],
+      "tipo": "demonio"
+    },
+    {
+      "id": "anjos-demonios:legiao",
+      "slug": "legiao",
+      "titulo": "Legion",
+      "resumo": "Name invoked by a man possessed by the multitude of unclean spirits that dominated him, in the Gospel episode of the Gerasene demoniac.",
+      "corpo": "The three Synoptic Gospels narrate the episode of a man who lived among the tombs, in the region east of the Sea of Galilee, so dominated by unclean spirits that no one could bind him: he broke the chains and wandered among the tombs and the mountains, crying out and bruising himself with stones (Mt 8:28-34; Mk 5:1-20; Lk 8:26-39). When Jesus asks him his name, the man answers on behalf of the spirits that possessed him: \"My name is Legion; for we are many\" — a reference to the Roman military term. In the time of the New Testament, a legion comprised about five thousand to six thousand soldiers, organized into ten cohorts; the name, therefore, does not function as the proper name of a demon, but expresses the multitude and the organized strength of the spirits, as if they were saying: \"we are many, we are united and ready to fight.\" The Synoptics add that the demons begged Jesus not to drive them out of the region and to allow them to enter a nearby herd of swine.\n\nThe location of the episode has given rise to a famous textual difficulty. Mark and Luke say \"the country of the Gerasenes\"; Matthew, \"the country of the Gadarenes\"; some manuscripts also have \"Gergesenes.\" Since Gerasa (modern Jerash) lies more than fifty kilometers from the lake, and Gadara (modern Umm Qais) lies southeast of it, the ancient copyists — and later the exegetes — tried to harmonize geography and narrative, producing the variants that still divide the texts today. Eusebius of Caesarea, in his *Onomasticon* (4th century), not satisfied with the options of Gerasa and Gadara, added a third candidate: Gergesa, \"a village situated beside the Lake of Tiberias, to which the swine rushed down.\" Local tradition and archaeology today associate the episode with Kursi, on the eastern shore of the lake, a word that some propose to be the transliteration of \"Gergesa\" — the geographically most plausible site, as it lies by the shore and opposite Capernaum.\n\nAt Kursi, excavations begun by chance in 1970, during road works, and conducted between 1971 and 1974 by the Israeli archaeologist Dan Urman and the Greek Vassilios Tzaferis, revealed the largest Byzantine monastic complex ever found in Israel. The monastery, dated to the fifth century (with an older chapel on a nearby hill, whose mosaic floor bore crosses, forbidden on church pavements by an imperial decree of Theodosius II from 427 onward), was surrounded by stone walls measuring 145 by 123 meters, with a watchtower, baths, a basilica church, and a stairway that descended to the lake, where pilgrims could land. The complex was destroyed in the Persian invasions of the seventh century. The traditional identification of the place with the miracle is, however, disputed: archaeologists observe that no remains from the first century were found at Kursi, which makes the direct connection with the Gospel episode uncertain.\n\nJesus allows the demons to leave, and they enter the swine: according to Mark 5:13, the herd numbered \"about two thousand\" animals, which rushed down the steep bank and were drowned in the sea. Swine were unclean animals in the Jewish tradition, and the sea represented, symbolically, chaos and the dwelling of the forces hostile to God; the scene reinforces the defeat of evil before the power of Christ. The man, healed, is later found \"sitting, clothed, and in his right mind\" (Mk 5:15), and asks to follow Jesus, but is sent back to proclaim to the Decapolis, a region with a Gentile majority, \"how much the Lord has done for you\" — one of the first missionary commissions outside the Jewish world.\n\nThe account is one of the Gospel episodes most invoked regarding Jesus' authority over evil spirits, and it already appears sculpted in a sixth-century mosaic in the Basilica of Sant'Apollinare Nuovo in Ravenna. The name \"Legion\" became, in later Christian language, a common expression to designate an especially grave or multiple possession. The episode also attracted readings of a historical-political nature: the use of the term \"legion,\" which designated the Roman occupying force, was read by some exegetes — among them the literary theorist René Girard, in \"The Scapegoat\" — as a symbolic cipher of the collective oppression of the time, over which Christ manifests his power.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "demon",
+        "Gospels",
+        "possession",
+        "miracle of Jesus",
+        "Gerasene",
+        "Decapolis",
+        "Mark",
+        "Ravenna",
+        "Kursi",
+        "Gergesa"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Kursi_Grape_Mosaic.jpg",
+      "imagem_credito": "Crispins C. Crispian (Wikimedia Commons, CC BY-SA, 2016)",
+      "fontes": [
+        "Mark 5:1-20; Matthew 8:28-34; Luke 8:26-39",
+        "Wikipedia, entry 'Exorcism of the Gerasene demoniac' (textual variants Gadara/Gerasa/Gergesa and quotation of René Girard)",
+        "Wikipedia, 'Kursi, Sea of Galilee' (excavations of Dan Urman and Vassilios Tzaferis, 1971-1974; dating of the monastery and Persian destruction in the 7th century)",
+        "\"Gerasa, Gadara, Gergesa – from where did the pigs stampede?\", Biblical Historical Context (quotation of Eusebius of Caesarea, Onomasticon 74, on Gergesa)",
+        "Bible Interp (University of Arizona), 'Kursi Excavation Project' (absence of 1st-century remains at the site)",
+        "René Girard, \"The Scapegoat\""
+      ],
+      "atualizado_em": null,
+      "tipo": "demonio"
+    },
+    {
+      "id": "anjos-demonios:asmodeu",
+      "slug": "asmodeu",
+      "titulo": "Asmodeus",
+      "resumo": "Demon in the Book of Tobit who killed Sarah's successive husbands on their wedding night, until he was driven away by the archangel Raphael; his name is associated with the Persian Aeshma Daeva, the demon of wrath.",
+      "corpo": "The name Asmodeus (in Hebrew Ashmedai, in Greek Asmodaios) goes back, according to most scholars, to the Avestan aēšma-daēva, where aēšma means \"wrath\" and daēva, \"demon\" — that is, the demon of wrath in Zoroastrianism, linked to violence and the bloody sword. The compound form is not attested in Zoroastrian scripture, but it is believed to have existed, and both the Asmodaios of the Book of Tobit and the Ashmedai of Jewish tradition are thought to derive from it. This origin reflects the contact of Jewish religiosity with Persian culture in the Achaemenid period, after the exile in Babylon. An alternative etymology, now a minority view, links the name to the Hebrew root shamad, \"to destroy, to annihilate.\"\n\nIn the Book of Tobit, a deuterocanonical text of the Old Testament (probably from the third-second centuries B.C.), Asmodeus is the main antagonist: in love with Sarah, the daughter of Raguel, he kills seven of her husbands, one after another, on the wedding night, before the marriages could be consummated, and for this reason the young woman is even accused by her maidservants of having killed her own husbands (Tobit 3:7-9). A frequently forgotten detail is that Tobias himself, in Tobit 6:15, says that the demon does not harm Sarah because he loves her — which links Asmodeus to the theme of possessive jealousy. It is later tradition, and not the biblical text, that makes him the patron of lust; the theologian Peter Binsfeld, at the end of the sixteenth century, classified him as the demon of lust among the capital vices.\n\nWhen Tobias, guided by the archangel Raphael disguised as a travel companion, asks for Sarah in marriage, Raphael instructs him to burn the heart and liver of a fish caught during the journey on the Tigris River; the resulting smoke drives Asmodeus away to \"upper Egypt,\" where Raphael himself binds and fetters him (Tobit 6:16-18; 8:2-3). Before departing, Raphael also teaches Tobias to keep prayer and a chaste marriage during the first three nights, as a remedy against evil. The episode illustrates the central theme of the book: the providence of God, who acts through angelic mediation to protect the family and restore hope amid suffering.\n\nOutside the Bible, Asmodeus had a long literary life. The Testament of Solomon, a mystical work from the first centuries of the Christian era, rewrites the episode: it is King Solomon himself who burns the fish's liver and subdues Asmodeus, making him work on the construction of the Temple. In the Talmud, Ashmedai appears as the \"king of the demons\" (Pesaḥim 110a) and as the protagonist of legendary cycles in which he deceives and is deceived by Solomon; according to a midrashic tradition, he would be a son of King David, which would explain his claim to the throne. In medieval art and grimoires, Asmodeus is usually depicted with three heads — of a man, a ram, and a bull — riding a dragon. All this material belongs to literature and folklore, not to revelation: the Church acknowledges the existence of fallen angels and demons, but does not define a named hierarchy among them.",
+      "categoria": "anjos-demonios",
+      "tags": [
+        "demon",
+        "Book of Tobit",
+        "Raphael",
+        "Old Testament",
+        "Zoroastrianism",
+        "Testament of Solomon",
+        "Raguel",
+        "lust"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Asmodeus.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Tobit 3:7-9; 6:15-18; 8:2-3",
+        "Wikipedia, entry \"Asmodeus\" (etymology aēšma-daēva and Peter Binsfeld's classification as the demon of lust)",
+        "Jewish Encyclopedia, entry \"Asmodeus / Ashmedai\" (Kaufmann Kohler and Louis Ginzberg)",
+        "Talmud, Pesaḥim 110a; Testament of Solomon",
+        "Dictionnaire Infernal, by J.-A.-S. Collin de Plancy, 6th ed., 1863 (engraving of Asmodeus, Wikimedia Commons)"
+      ],
+      "tipo": "demonio"
+    }
+  ]
+}

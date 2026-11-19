@@ -1,0 +1,1039 @@
+{
+  "_meta": {
+    "categoria": "virtudes",
+    "nome": "Virtues",
+    "descricao": "The theological and cardinal virtues, the gifts and fruits of the Holy Spirit, the Beatitudes, and the works of mercy — the positive side of Catholic moral life, complementary to the Sins category.",
+    "status": "exemplos-iniciais",
+    "aviso": "Introductory catechetical material on the virtues and related moral topics; it does not replace personal spiritual guidance or the full catechetical formation offered by a parish.",
+    "revisao_editorial": "The list of twelve fruits of the Holy Spirit follows the Latin tradition (based on the Vulgate), which is longer than the list of nine attested in the original Greek of Galatians 5:22-23 — a distinction mentioned in the body of the entry on the fruits itself.",
+    "fontes_gerais": [
+      "Catechism of the Catholic Church, nos. 1803-1845",
+      "Gospel of Matthew 5:1-12 (Beatitudes) and 25:31-46 (Last Judgment)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "virtudes:fe",
+      "slug": "fe",
+      "titulo": "Faith",
+      "categoria": "virtudes",
+      "resumo": "A theological virtue by which we believe in God and in all that He has revealed, because God is Truth itself.",
+      "corpo": "Faith is the theological virtue by which the Christian freely adheres to God and to all that He has revealed and that the Church proposes for belief, because God is truth itself. It is not merely intellectual assent: it involves personal trust, obedience, and a commitment of life to the God who reveals Himself. It is a free gift of God and, at the same time, a genuinely human act — free and responsible — that requires constant exercise, above all in prayer and in the practice of what one believes.",
+      "tags": [
+        "theological virtues",
+        "faith"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Giotto_-_Scrovegni_-_-44-_-_Faith.jpg",
+      "imagem_credito": null,
+      "tipo": "teologal",
+      "ordem": 1,
+      "referencia_biblica": "Hebrews 11:1",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1814-1816"
+      ]
+    },
+    {
+      "id": "virtudes:esperanca",
+      "slug": "esperanca",
+      "titulo": "Hope",
+      "categoria": "virtudes",
+      "resumo": "A theological virtue by which we desire and await from God eternal life and the grace to attain it.",
+      "corpo": "Hope is the theological virtue by which we desire the kingdom of heaven and eternal life as our happiness, placing our trust in Christ's promises and relying not on our own strength, but on the help of the grace of the Holy Spirit. It responds to the desire for happiness that God has placed in the heart of every man, purifying it of every selfish deviation and sustaining the Christian amid discouragement, acedia, and the temptation to despair.",
+      "tags": [
+        "theological virtues",
+        "hope"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Giotto_-_Scrovegni_-_-46-_-_Hope.jpg",
+      "imagem_credito": null,
+      "tipo": "teologal",
+      "ordem": 2,
+      "referencia_biblica": "Romans 8:24-25",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1817-1821"
+      ]
+    },
+    {
+      "id": "virtudes:caridade",
+      "slug": "caridade",
+      "titulo": "Charity",
+      "categoria": "virtudes",
+      "resumo": "The greatest of the theological virtues: to love God above all things and our neighbor as ourselves, for the love of God.",
+      "corpo": "Charity is the theological virtue by which we love God above all things for his own sake, and our neighbor as ourselves for the love of God. According to Saint Paul, it is the greatest of the three theological virtues — greater even than faith and hope — because it will remain when these are no longer needed, in the face-to-face vision of God. It is the \"bond of perfection\" (Col 3:14) and the soul of all the other virtues: without charity, even the greatest deeds are \"nothing\" (1 Cor 13:1-3).",
+      "tags": [
+        "theological virtues",
+        "charity",
+        "love"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Giotto_-_Scrovegni_-_-45-_-_Charity.jpg",
+      "imagem_credito": null,
+      "tipo": "teologal",
+      "ordem": 3,
+      "referencia_biblica": "1 Corinthians 13",
+      "fontes": [
+        "1 Corinthians 13:1-13",
+        "Catechism of the Catholic Church, nos. 1822-1829"
+      ]
+    },
+    {
+      "id": "virtudes:prudencia",
+      "slug": "prudencia",
+      "titulo": "Prudence",
+      "categoria": "virtudes",
+      "resumo": "The \"charioteer of the virtues\": it disposes practical reason to discern, in every circumstance, our true good and to choose the right means of achieving it.",
+      "corpo": "Called by Saint Thomas Aquinas the \"charioteer of the virtues\" (which guides the others as a charioteer guides his horses), prudence is not hesitation or excessive caution, but the ability to discern rightly the good to be done in each concrete situation and to choose the appropriate means of achieving it. It is the virtue that correctly applies moral principles to particular cases, overcoming doubts about the good to be accomplished and the evil to be avoided.",
+      "tags": [
+        "cardinal virtues",
+        "prudence"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Giotto_-_Scrovegni_-_-40-_-_Prudence.jpg",
+      "imagem_credito": null,
+      "tipo": "cardeal",
+      "ordem": 4,
+      "referencia_biblica": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1805-1806"
+      ]
+    },
+    {
+      "id": "virtudes:justica",
+      "slug": "justica",
+      "titulo": "Justice",
+      "categoria": "virtudes",
+      "resumo": "A cardinal virtue that consists in the firm and constant will to give God and neighbor what is due to them.",
+      "corpo": "Justice is the moral virtue that consists in the constant and firm will to give God and neighbor their due. Justice toward God is called the \"virtue of religion.\" Justice toward men disposes one to respect the rights of each and to establish in human relationships the harmony that promotes equity with regard to persons and to the common good.",
+      "tags": [
+        "cardinal virtues",
+        "justice"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Giotto_-_Scrovegni_-_-43-_-_Justice.jpg",
+      "imagem_credito": null,
+      "tipo": "cardeal",
+      "ordem": 5,
+      "referencia_biblica": null,
+      "fontes": [
+        "Catechism of the Catholic Church, no. 1807"
+      ]
+    },
+    {
+      "id": "virtudes:fortaleza",
+      "slug": "fortaleza",
+      "titulo": "Fortitude",
+      "categoria": "virtudes",
+      "resumo": "A cardinal virtue that ensures firmness in difficulties and constancy in the pursuit of the good, overcoming fear even in the face of death.",
+      "corpo": "Fortitude is the moral virtue that ensures firmness in difficulties and constancy in the pursuit of the good. It strengthens the resolve to resist temptations and to overcome obstacles in the moral life. The virtue of fortitude enables one to conquer fear, even fear of death, and to face trials and persecutions. It disposes one even to renounce and sacrifice his life in defense of a just cause.",
+      "tags": [
+        "cardinal virtues",
+        "fortitude"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Giotto_-_Scrovegni_-_-41-_-_Fortitude.jpg",
+      "imagem_credito": null,
+      "tipo": "cardeal",
+      "ordem": 6,
+      "referencia_biblica": null,
+      "fontes": [
+        "Catechism of the Catholic Church, no. 1808"
+      ]
+    },
+    {
+      "id": "virtudes:temperanca",
+      "slug": "temperanca",
+      "titulo": "Temperance",
+      "categoria": "virtudes",
+      "resumo": "A cardinal virtue that moderates the attraction of pleasures and ensures the will's mastery over instincts.",
+      "corpo": "Temperance is the moral virtue that moderates the attraction of pleasures and ensures the will's mastery over instincts, keeping desires within the limits of what is honorable. It does not mean the denial of legitimate goods and the pleasures of life, but the right balance in their use, so that a person remains master of himself rather than a slave to his appetites — the direct opposite of the sins of gluttony and lust.",
+      "tags": [
+        "cardinal virtues",
+        "temperance"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Giotto_-_Scrovegni_-_-42-_-_Temperance.jpg",
+      "imagem_credito": null,
+      "tipo": "cardeal",
+      "ordem": 7,
+      "referencia_biblica": null,
+      "fontes": [
+        "Catechism of the Catholic Church, no. 1809"
+      ]
+    },
+    {
+      "id": "virtudes:dom-sabedoria",
+      "slug": "dom-sabedoria",
+      "titulo": "Gift of Wisdom",
+      "categoria": "virtudes",
+      "resumo": "A gift of the Holy Spirit that enables one to judge and order all things according to divine reasons and truth.",
+      "corpo": "Wisdom is the highest of the seven gifts of the Holy Spirit, listed by the prophet Isaiah (11:2-3): it enables the soul to judge and savor the things of God, seeing all reality from a divine perspective and loving it with a special taste for spiritual things. It perfects the theological virtue of charity.",
+      "tags": [
+        "gifts of the Holy Spirit",
+        "wisdom"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
+      "imagem_credito": "Photo: PetarM — Wikimedia Commons, CC BY-SA",
+      "tipo": "dom_espirito_santo",
+      "ordem": 8,
+      "referencia_biblica": "Isaiah 11:2-3",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:dom-entendimento",
+      "slug": "dom-entendimento",
+      "titulo": "Gift of Understanding",
+      "resumo": "Gift of the Holy Spirit that grants a supernatural penetration to understand more deeply the revealed truths of the faith.",
+      "corpo": "Understanding (in Latin intellectus) is the second of the seven gifts of the Holy Spirit, enumerated by the tradition of the Church from Isaiah 11:2-3: \"The Spirit of the LORD shall rest upon him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and the fear of the LORD.\" The Catechism of the Catholic Church (no. 1831) lists the gifts in this order: wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lord, and recalls that they \"belong in their fullness to Christ, Son of David,\" \"complete and perfect the virtues of those who receive them,\" and \"make the faithful docile in readily obeying divine inspirations\" (cf. no. 1830).\n\nUnderstanding enlightens the mind to grasp, with depth and clarity, the inner meaning of revealed truths — not as academic knowledge or erudition, but as a living and existential penetration into the mystery of God. It perfects the virtue of faith, giving the believer a connatural intelligence of divine things, by which he adheres to revealed truth not only because it was proposed to him, but because to a certain degree he \"savors\" it from within.\n\nSaint Thomas Aquinas devotes question 8 of the Secunda Secundae of the Summa Theologiae to the gift of understanding. There he distinguishes it from the other gifts: intellectus belongs to the cognitive power, whereas piety, fortitude, and fear belong to the appetitive power; and he also distinguishes it from the other intellectual gifts — wisdom, knowledge, and counsel — showing that understanding concerns the penetration of principles and of the truths first apprehended. In the scholastic arrangement, the four gifts that perfect the intellect are wisdom, understanding, counsel, and knowledge, and the three that perfect the will or the affections are fortitude, piety, and fear of the Lord.\n\nThe gift is not to be confused with charisms or with natural talents: it is a supernatural habit infused with sanctifying grace, which presupposes charity. For this reason the tradition insists that only one who lives in grace truly has understanding — \"not everyone who understands has this gift, but only one who understands by the habit of grace,\" writes Thomas. The classical distinction between understanding the words and understanding the spirit of revelation goes back to Saint Augustine, whose formula, taken up by later spirituality — \"understand in order to believe, believe in order to understand better\" — expresses well the circularity between faith and intelligence that the gift of understanding makes fruitful.\n\nIn Christian iconography, the seven gifts are usually represented as branches or doves descending from the Holy Spirit, or often as tongues of fire at Pentecost, when the Spirit descended upon the Apostles (Acts 2). The medieval miniature in the Walters manuscript W.171 (c. 1400-1404) is a famous example of this representation of the seven gifts.",
+      "categoria": "virtudes",
+      "tags": [
+        "gifts of the Holy Spirit",
+        "understanding",
+        "intellectus",
+        "Isaiah 11",
+        "Saint Thomas Aquinas",
+        "Catechism of the Catholic Church",
+        "Pentecost"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Dirc_van_Delft_-_Seven_Gifts_of_the_Holy_Spirit_-_Walters_W17153R_-_Full_Page.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1830-1831 (official text on the Holy See website)",
+        "Saint Thomas Aquinas, Summa Theologiae, II-II, q. 8 (On the gift of understanding)",
+        "Dirc van Delft, \"Seven Gifts of the Holy Spirit,\" Walters Manuscript W.171, folio W17153R, c. 1400-1404 (Walters Art Museum / Wikimedia Commons)"
+      ],
+      "atualizado_em": null,
+      "tipo": "dom_espirito_santo",
+      "ordem": 9,
+      "referencia_biblica": "Isaiah 11:2-3"
+    },
+    {
+      "id": "virtudes:dom-conselho",
+      "slug": "dom-conselho",
+      "titulo": "Gift of Counsel",
+      "categoria": "virtudes",
+      "resumo": "Gift of the Holy Spirit that disposes the soul to discern, in each concrete circumstance, what God asks.",
+      "corpo": "Counsel is the gift of the Holy Spirit that perfects the virtue of prudence, giving the soul a special docility to discern promptly, in the light of God, what must be done or avoided in each particular situation — especially in difficult decisions where simple human reasoning is not enough.",
+      "tags": [
+        "gifts of the Holy Spirit",
+        "counsel"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
+      "imagem_credito": null,
+      "tipo": "dom_espirito_santo",
+      "ordem": 10,
+      "referencia_biblica": "Isaiah 11:2-3",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:dom-fortaleza",
+      "slug": "dom-fortaleza",
+      "titulo": "Gift of Fortitude",
+      "categoria": "virtudes",
+      "resumo": "A gift of the Holy Spirit that gives supernatural energy to overcome the obstacles to the Christian life and to persevere to the end.",
+      "corpo": "Fortitude as a gift of the Holy Spirit — distinct from, though related to, the cardinal virtue of the same name — imparts to the soul an energy that goes beyond its own natural strength, enabling it to endure extraordinary trials, overcome fear, and persevere heroically in the faith, as was seen in an eminent way in the lives of the martyrs.",
+      "tags": [
+        "gifts of the Holy Spirit",
+        "fortitude"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
+      "imagem_credito": null,
+      "tipo": "dom_espirito_santo",
+      "ordem": 11,
+      "referencia_biblica": "Isaiah 11:2-3",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:dom-ciencia",
+      "slug": "dom-ciencia",
+      "titulo": "Gift of Knowledge",
+      "categoria": "virtudes",
+      "resumo": "A gift of the Holy Spirit that enables one to judge rightly created things in relation to God, their Creator and last end.",
+      "corpo": "Knowledge, as a gift of the Holy Spirit, is not an accumulation of information, but the capacity to judge correctly created realities — persons, events, the goods of the world — in the light of God, recognizing their true relationship to the Creator and avoiding both contempt for and disordered attachment to the things of the world.",
+      "tags": [
+        "gifts of the Holy Spirit",
+        "knowledge"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
+      "imagem_credito": null,
+      "tipo": "dom_espirito_santo",
+      "ordem": 12,
+      "referencia_biblica": "Isaiah 11:2-3",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:dom-piedade",
+      "slug": "dom-piedade",
+      "titulo": "Gift of Piety",
+      "resumo": "A gift of the Holy Spirit that inspires a filial and trusting affection toward God and fraternal compassion toward neighbor.",
+      "corpo": "Piety (in Latin pietas) is the sixth of the seven gifts of the Holy Spirit, enumerated by tradition on the basis of Isaiah 11:2-3. The Catechism of the Catholic Church (no. 1831) includes it in the list — wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lord — and recalls that the gifts \"complete and perfect the virtues of those who receive them\" and \"make the faithful docile in readily obeying divine inspirations\" (no. 1830).\n\nPiety gives the soul a truly filial affection for God, loved and revered as Father, and this extends, as a consequence, to a disposition of respect and fraternal compassion for all people, recognized as children of the same Father. It is not mawkish sentiment nor mere sentimental devotion: it is the supernatural affection that sees God as Father and, for that reason, embraces men as brothers.\n\nSaint Thomas Aquinas treats the gift of piety in question 121 of the Secunda Secundae of the Summa Theologiae. In the first article he asks whether piety is a gift; in the second, whether the second beatitude, \"Blessed are the meek\" (Mt 5:4), corresponds to the gift of piety. Thomas observes that the word \"piety\" implies reverence toward parents and country and, since God is the Father of all beings, worship of him is also called piety — \"the gift whereby, revering God, we do good to all.\" The meekness of the beatitudes thus expresses the proper character of this gift: not weakness or passivity, but the serene governance of one's own strength in the light of the fear and love of God.\n\nAccording to the scholastic division of the gifts, piety belongs, together with fortitude and fear of the Lord, to the group that perfects the will or the appetite, and not to the group of the intellectual gifts. It perfects justice and filial fear, giving the Christian the right affection of religion toward God and effective fraternal charity toward neighbor. It is a gift inseparable from charity, infused with sanctifying grace.\n\nIn sacred art, the gift of piety is frequently depicted among the branches or the doves that represent the seven gifts of the Holy Spirit — as in the vault of the frescoes of the church of Saint Charles Borromeo (Karlskirche) in Vienna, where the Spirit is represented in the form of a dove —, and its depiction is commonly associated with Pentecost, when the Holy Spirit descended upon the Apostles.",
+      "categoria": "virtudes",
+      "tags": [
+        "gifts of the Holy Spirit",
+        "piety",
+        "pietas",
+        "Isaiah 11",
+        "Saint Thomas Aquinas",
+        "beatitudes",
+        "Catechism of the Catholic Church"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1830-1831 (official text on the Holy See website)",
+        "Saint Thomas Aquinas, Summa Theologiae, II-II, q. 121 (On the gift of piety), art. 2 (the second beatitude, \"Blessed are the meek\")",
+        "Fresco of the Holy Spirit in the Karlskirche, Vienna (Wikimedia Commons / Wikipedia, article \"Pentecost\")"
+      ],
+      "atualizado_em": null,
+      "tipo": "dom_espirito_santo",
+      "ordem": 13,
+      "referencia_biblica": "Isaiah 11:2-3"
+    },
+    {
+      "id": "virtudes:dom-temor-de-deus",
+      "slug": "dom-temor-de-deus",
+      "titulo": "Gift of Fear of the Lord",
+      "categoria": "virtudes",
+      "resumo": "Gift of the Holy Spirit that inspires profound reverence for the majesty of God and a horror of everything that could offend him.",
+      "corpo": "The Fear of the Lord, as a gift of the Holy Spirit, is not a servile fear of punishment, but a filial and reverent respect before the greatness and holiness of God, united to the fear — this one indeed salutary — of being separated from him by sin. It is described in Scripture as \"the beginning of wisdom\" (Ps 111:10; Prov 9:10).",
+      "tags": [
+        "gifts of the Holy Spirit",
+        "fear of the Lord"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
+      "imagem_credito": null,
+      "tipo": "dom_espirito_santo",
+      "ordem": 14,
+      "referencia_biblica": "Proverbs 9:10",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:frutos-do-espirito-santo",
+      "slug": "frutos-do-espirito-santo",
+      "titulo": "The Twelve Fruits of the Holy Spirit",
+      "categoria": "virtudes",
+      "resumo": "The perfections that the Holy Spirit forms in us as the first fruits of eternal glory, according to the traditional list of twelve fruits.",
+      "corpo": "The \"fruits of the Holy Spirit\" are perfections that the Spirit himself forms in us as the first fruits of eternal glory — visible signs that grace is truly bearing fruit in a concrete life. Saint Paul, in the Letter to the Galatians (5:22-23), lists nine: \"love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control\"; the Latin tradition, following the Vulgate, added three more — generosity, modesty, and chastity —, completing the traditional list of twelve used in Western catechesis. They are distinguished from the gifts of the Holy Spirit: the gifts are permanent dispositions that make the soul docile to divine inspirations; the fruits are the concrete, visible effects of that docility in daily life.",
+      "tags": [
+        "gifts of the Holy Spirit",
+        "fruits of the Holy Spirit"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 15,
+      "referencia_biblica": "Galatians 5:22-23",
+      "fontes": [
+        "Galatians 5:22-23",
+        "Catechism of the Catholic Church, no. 1832"
+      ]
+    },
+    {
+      "id": "virtudes:bem-aventurados-os-pobres-de-espirito",
+      "slug": "bem-aventurados-os-pobres-de-espirito",
+      "titulo": "\"Blessed are the poor in spirit\"",
+      "categoria": "virtudes",
+      "resumo": "The first Beatitude: the happiness of those who place their security not in riches, but in complete trust in God.",
+      "corpo": "\"Blessed are the poor in spirit, for theirs is the kingdom of heaven\" (Mt 5:3). He opens the Sermon on the Mount by proclaiming blessed not the one who possesses much, but the one who recognizes his radical dependence on God and does not place his ultimate security in material riches or in his own merit. It is the direct opposite of the sin of avarice and of pride.",
+      "tags": [
+        "Beatitudes",
+        "Sermon on the Mount"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "imagem_credito": null,
+      "tipo": "bem_aventuranca",
+      "ordem": 16,
+      "referencia_biblica": "Matthew 5:3",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:bem-aventurados-os-mansos",
+      "slug": "bem-aventurados-os-mansos",
+      "titulo": "\"Blessed are the meek\"",
+      "categoria": "virtudes",
+      "resumo": "The second beatitude: the happiness of those who respond to evil with serenity rather than violence or vengeance.",
+      "corpo": "\"Blessed are the meek, for they shall inherit the earth\" (Mt 5:4, in the numbering used by Matthew; some list it as the second statement). Biblical meekness is not weakness, but a serene strength that renounces vengeance and violence, entrusting final justice to God — like Jesus himself, who described himself as \"gentle and lowly in heart\" (Mt 11:29).",
+      "tags": [
+        "beatitudes",
+        "Sermon on the Mount"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "imagem_credito": null,
+      "tipo": "bem_aventuranca",
+      "ordem": 17,
+      "referencia_biblica": "Matthew 5:4",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:bem-aventurados-os-aflitos",
+      "slug": "bem-aventurados-os-aflitos",
+      "titulo": "\"Blessed are those who mourn\"",
+      "categoria": "virtudes",
+      "resumo": "The beatitude that promises divine consolation to those who suffer and weep in this life.",
+      "corpo": "\"Blessed are those who mourn, for they shall be comforted\" (Mt 5:4). It is not praise of suffering in itself, but a promise that genuine sorrow — over the human condition itself, over the sins of the world, over the loss of loved ones — will be welcomed and transformed by God's definitive consolation, already anticipated in this life by Christian hope.",
+      "tags": [
+        "beatitudes",
+        "Sermon on the Mount"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "imagem_credito": null,
+      "tipo": "bem_aventuranca",
+      "ordem": 18,
+      "referencia_biblica": "Matthew 5:5",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:bem-aventurados-os-que-tem-fome-e-sede-de-justica",
+      "slug": "bem-aventurados-os-que-tem-fome-e-sede-de-justica",
+      "titulo": "\"Blessed are those who hunger and thirst for righteousness\"",
+      "categoria": "virtudes",
+      "resumo": "The beatitude of the ardent desire for God's righteousness, which will be fully satisfied.",
+      "corpo": "\"Blessed are those who hunger and thirst for righteousness, for they will be satisfied\" (Mt 5:6). It describes the intense and constant desire — compared to hunger and thirst — not only for social justice among men, but above all for the righteousness of God, that is, for living out and seeing his holy will triumph in the world.",
+      "tags": [
+        "Beatitudes",
+        "Sermon on the Mount"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "imagem_credito": null,
+      "tipo": "bem_aventuranca",
+      "ordem": 19,
+      "referencia_biblica": "Matthew 5:6",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:bem-aventurados-os-misericordiosos",
+      "slug": "bem-aventurados-os-misericordiosos",
+      "titulo": "\"Blessed are the merciful\"",
+      "categoria": "virtudes",
+      "resumo": "The beatitude that directly links the mercy we show to the mercy we will receive from God.",
+      "corpo": "\"Blessed are the merciful, for they shall obtain mercy\" (Mt 5:7). It establishes a direct link — taken up again later in the Our Father itself (\"forgive us our trespasses, as we forgive those who trespass against us\") — between the mercy we show to others and the mercy we will receive from God, the biblical foundation of the works of mercy.",
+      "tags": [
+        "Beatitudes",
+        "Sermon on the Mount",
+        "mercy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/RossanoGospelsFolio007vGoodSamaritan.jpg",
+      "imagem_credito": null,
+      "tipo": "bem_aventuranca",
+      "ordem": 20,
+      "referencia_biblica": "Matthew 5:7",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:bem-aventurados-os-limpos-de-coracao",
+      "slug": "bem-aventurados-os-limpos-de-coracao",
+      "titulo": "\"Blessed are the pure in heart\"",
+      "categoria": "virtudes",
+      "resumo": "The beatitude that promises the vision of God to those whose heart is free from duplicity and from disordered attachment.",
+      "corpo": "\"Blessed are the pure in heart, for they shall see God\" (Mt 5:8). The biblical \"purity of heart\" is broader than sexual purity: it designates an upright heart, without duplicity or disordered attachment to creatures, turned solely toward God — a condition for \"seeing\" God, already partially in this life through faith, and fully in the beatific vision.",
+      "tags": [
+        "Beatitudes",
+        "Sermon on the Mount"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "imagem_credito": null,
+      "tipo": "bem_aventuranca",
+      "ordem": 21,
+      "referencia_biblica": "Matthew 5:8",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:bem-aventurados-os-pacificadores",
+      "slug": "bem-aventurados-os-pacificadores",
+      "titulo": "\"Blessed are the peacemakers\"",
+      "categoria": "virtudes",
+      "resumo": "The beatitude that calls children of God those who actively build peace, and not merely wish for it.",
+      "corpo": "\"Blessed are the peacemakers, for they shall be called sons of God\" (Mt 5:9). It is distinguished from a passive peace or the mere absence of conflict: the \"peacemaker\" works actively to reconcile, build bridges and heal divisions, imitating the work of God himself, who in Christ reconciles the world to himself (2 Cor 5:18-19).",
+      "tags": [
+        "Beatitudes",
+        "Sermon on the Mount",
+        "peace"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "imagem_credito": null,
+      "tipo": "bem_aventuranca",
+      "ordem": 22,
+      "referencia_biblica": "Matthew 5:9",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:bem-aventurados-os-perseguidos",
+      "slug": "bem-aventurados-os-perseguidos",
+      "titulo": "\"Blessed are those who are persecuted for righteousness' sake\"",
+      "categoria": "virtudes",
+      "resumo": "The last beatitude: the paradoxical happiness of suffering persecution out of fidelity to Christ and the Gospel.",
+      "corpo": "\"Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven\" (Mt 5:10), developed immediately afterward for those persecuted specifically \"on my account\" (Mt 5:11). It is the most paradoxical beatitude on the list, promising joy not in spite of persecution, but precisely because of the fidelity to Christ that provokes it — the direct horizon of the witness of the martyrs.",
+      "tags": [
+        "beatitudes",
+        "Sermon on the Mount",
+        "martyrs"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "imagem_credito": null,
+      "tipo": "bem_aventuranca",
+      "ordem": 23,
+      "referencia_biblica": "Matthew 5:10-12",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:dar-de-comer-a-quem-tem-fome",
+      "slug": "dar-de-comer-a-quem-tem-fome",
+      "titulo": "Feeding the Hungry",
+      "categoria": "virtudes",
+      "resumo": "A corporal work of mercy that comes to the aid of those who suffer hunger and recognizes in them the presence of Christ himself.",
+      "corpo": "Feeding the hungry is one of the corporal works of mercy. Jesus presents it in the discourse on the final judgment: “I was hungry and you gave me food” (Mt 25:35). He identifies the service given to those in need with service given to himself: “As you did it to one of the least of these my brethren, you did it to me” (Mt 25:40).\n\nThis work can take different forms: offering food, contributing to a serious initiative to fight hunger, helping a family in need, or organizing a meal for people without regular access to food. Christian charity is not limited to an occasional response; it also seeks to understand the causes of poverty and to act with respect for the dignity of those who receive help.\n\nThe Church teaches that the goods of creation are destined for all and that love for the poor belongs to the living tradition of the Gospel. Giving food must not humiliate the person in need or turn him into an object of display. Help should be prudent, safe, and directed to the integral good of the person. In this way, the bodily gesture becomes a witness of charity, justice, and Christian hope.",
+      "tags": [
+        "works of mercy",
+        "corporal mercy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/De_zeven_werken_van_barmhartigheid_Rijksmuseum_SK-A-2815-1.jpeg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_corporal",
+      "ordem": 24,
+      "referencia_biblica": "Matthew 25:35",
+      "fontes": [
+        "Compendium of the Catechism of the Catholic Church, section on the works of mercy (vatican.va)",
+        "Catechism of the Catholic Church, nos. 2443-2449 and 2459",
+        "Gospel of Matthew 25:31-46"
+      ]
+    },
+    {
+      "id": "virtudes:dar-de-beber-a-quem-tem-sede",
+      "slug": "dar-de-beber-a-quem-tem-sede",
+      "titulo": "Giving drink to the thirsty",
+      "categoria": "virtudes",
+      "resumo": "The second corporal work of mercy, attentiveness to our neighbor's basic needs for survival.",
+      "corpo": "Alongside feeding the hungry, giving drink to the thirsty is part of the list of works that Jesus links directly to his own recognition at the final judgment (Mt 25:35), reminding us that caring for our neighbor's most elementary needs is, for the Christian, a concrete way of serving Christ himself.",
+      "tags": [
+        "works of mercy",
+        "corporal mercy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/De_zeven_werken_van_barmhartigheid_Rijksmuseum_SK-A-2815-2.jpeg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_corporal",
+      "ordem": 25,
+      "referencia_biblica": "Matthew 25:35",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:vestir-os-nus",
+      "slug": "vestir-os-nus",
+      "titulo": "Clothe the naked",
+      "categoria": "virtudes",
+      "resumo": "The third corporal work of mercy: providing clothing and dignity to those who have none.",
+      "corpo": "\"I was naked and you clothed me\" (Mt 25:36): clothing someone who lacks adequate clothes is, in the parable of the last judgment, treated as an act done directly to Christ, uniting the material dimension of charity (providing a basic good) with the dimension of human dignity, which the lack of adequate clothing compromises.",
+      "tags": [
+        "works of mercy",
+        "corporal mercy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/De_zeven_werken_van_barmhartigheid_Rijksmuseum_SK-A-2815-3.jpeg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_corporal",
+      "ordem": 26,
+      "referencia_biblica": "Matthew 25:36",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:dar-pousada-aos-peregrinos",
+      "slug": "dar-pousada-aos-peregrinos",
+      "titulo": "Sheltering the Homeless and Welcoming Pilgrims",
+      "categoria": "virtudes",
+      "resumo": "The fourth corporal work of mercy: to welcome those who are without a home or passing through.",
+      "corpo": "\"I was a stranger and you welcomed me\" (Mt 25:35): welcoming the foreigner, the traveler, or those who are temporarily without shelter has its roots in the most ancient biblical hospitality (Gen 18, the visit of the three men to Abraham) and remains, today, linked to concrete issues such as migration and the welcoming of refugees.",
+      "tags": [
+        "works of mercy",
+        "corporal works of mercy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De_zeven_werken_van_barmhartigheid_Rijksmuseum_SK-A-2815-5.jpeg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_corporal",
+      "ordem": 27,
+      "referencia_biblica": "Matthew 25:35",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:visitar-os-enfermos",
+      "slug": "visitar-os-enfermos",
+      "titulo": "Visiting the Sick",
+      "categoria": "virtudes",
+      "resumo": "A corporal work of mercy that brings presence, care and comfort to the sick, recognizing Christ himself in them.",
+      "corpo": "Visiting the sick is one of the corporal works of mercy. The central reference is the word of Jesus at the judgment of the nations: \"I was sick and you visited me\" (Mt 25:36). In the parable, the service rendered to the needy is received by Christ himself: \"As you did it to one of the least of these my brethren, you did it to me\" (Mt 25:40).\n\nThe work is not reduced to a formal visit. It can include listening patiently, offering company, helping with a concrete need, informing the family of a difficulty, or fostering contact with the Christian community. The care must respect the condition of the sick person, his or her freedom, silence and medical needs; the work of mercy does not replace professional treatment nor does it authorize promises of healing.\n\nThe catechetical tradition of the Church presents the visiting of the sick alongside the other corporal works, such as feeding the hungry and giving drink to the thirsty, clothing the naked, welcoming the stranger, visiting the imprisoned and burying the dead. The Catechism also teaches that Jesus' compassion toward the sick shows the coming of the Kingdom and that the Church accompanies the sick with care and prayer, especially in the sacrament of the Anointing of the Sick (CCC 1503-1513). Thus, visiting those who suffer unites concrete charity, human presence and Christian hope.",
+      "tags": [
+        "works of mercy",
+        "corporal mercy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/De_zeven_werken_van_barmhartigheid_Rijksmuseum_SK-A-2815-6.jpeg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_corporal",
+      "ordem": 28,
+      "referencia_biblica": "Matthew 25:36",
+      "fontes": [
+        "Compendium of the Catechism of the Catholic Church, section on the works of mercy (vatican.va)",
+        "Catechism of the Catholic Church, nos. 1503-1513 and 2447",
+        "Gospel of Matthew 25:31-46"
+      ]
+    },
+    {
+      "id": "virtudes:visitar-os-presos",
+      "slug": "visitar-os-presos",
+      "titulo": "Visiting the Imprisoned",
+      "categoria": "virtudes",
+      "resumo": "The sixth corporal work of mercy: not abandoning those who are imprisoned to their own fate.",
+      "corpo": "\"I was in prison and you came to me\" (Mt 25:36): of the seven corporal works, it is perhaps the most countercultural, calling Christians to recognize Christ also in the person who is incarcerated — without this implying any judgment about the guilt or innocence of the one in prison, but rather a recognition of his or her permanent human dignity.",
+      "tags": [
+        "works of mercy",
+        "corporal mercy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/De_zeven_werken_van_barmhartigheid_Rijksmuseum_SK-A-2815-7.jpeg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_corporal",
+      "ordem": 29,
+      "referencia_biblica": "Matthew 25:36",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:sepultar-os-mortos",
+      "slug": "sepultar-os-mortos",
+      "titulo": "Burying the Dead",
+      "categoria": "virtudes",
+      "resumo": "The seventh corporal work of mercy, added by tradition to the Gospel text of the final judgment.",
+      "corpo": "Unlike the other six, \"burying the dead\" does not appear explicitly in the list in Matthew 25, but it was added by ancient Christian tradition, inspired by examples such as that of the Book of Tobit, who risked his life to give a decent burial to the Jews who had died in a foreign land (Tb 1:17-18; 2:3-8) — recognizing respect for the human body even after death, in expectation of the resurrection.",
+      "tags": [
+        "works of mercy",
+        "corporal mercy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De_zeven_werken_van_barmhartigheid_Rijksmuseum_SK-A-2815-4.jpg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_corporal",
+      "ordem": 30,
+      "referencia_biblica": "Tobit 1:17-18",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:ensinar-os-ignorantes",
+      "slug": "ensinar-os-ignorantes",
+      "titulo": "Instructing the Ignorant",
+      "categoria": "virtudes",
+      "resumo": "A spiritual work of mercy that passes on the truth and helps one's neighbor grow in knowledge and faith.",
+      "corpo": "Instructing the ignorant is one of the spiritual works of mercy. It consists in sharing, with charity and responsibility, what can help another person understand the truth, make good decisions, and live with greater dignity. The Christian tradition gives special attention to instruction in the faith, but this work can also extend to knowledge needed for life and for the service of one's neighbor.\n\nChristian teaching is not a form of superiority. Whoever teaches must recognize that every truth received is a gift, and must adapt the explanation to the age, capacity, and situation of the one who is learning. The goal is not to win an argument, but to serve the person, respect his or her freedom, and lead him or her to a deeper knowledge of the good. Charity also demands patience, correction without humiliation, and a readiness to keep on learning.\n\nThe Compendium of the Catechism presents the spiritual works of mercy as concrete practices of love of neighbor. They include counseling the doubtful, instructing the ignorant, admonishing sinners, comforting the afflicted, forgiving offenses, bearing wrongs patiently, and praying for the living and the dead. Instruction becomes especially valuable when it helps someone to know Christ, the Word of God, and the paths of the Christian life.",
+      "tags": [
+        "works of mercy",
+        "spiritual mercy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Dietrich_Jesus_teaching_in_the_Temple.jpg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_espiritual",
+      "ordem": 31,
+      "referencia_biblica": null,
+      "fontes": [
+        "Compendium of the Catechism of the Catholic Church, section on the works of mercy (vatican.va)",
+        "Catechism of the Catholic Church, nos. 2447 and 2462",
+        "Gospel of Matthew 28:19-20"
+      ]
+    },
+    {
+      "id": "virtudes:dar-bom-conselho",
+      "slug": "dar-bom-conselho",
+      "titulo": "Counseling the Doubtful",
+      "resumo": "The second spiritual work of mercy: helping those in doubt to discern the right path, in the light of faith.",
+      "corpo": "Counseling the doubtful is the second of the seven spiritual works of mercy, enumerated by the tradition of the Church alongside instructing the ignorant, admonishing sinners, comforting the afflicted, forgiving offenses, bearing wrongs patiently, and praying for the living and the dead. The Catechism of the Catholic Church (no. 2447) defines them as \"charitable actions by which we come to the aid of our neighbor in his bodily and spiritual necessities,\" recalling that the tradition of the works of mercy is grounded in Isaiah 58:6-7 and Matthew 25:31-46.\n\nThis work requires giving time, attention, and genuine discernment to the other person's problem, without imposing one's own will in place of the good of the person being counseled. It is not to be confused with commanding or deciding for one's neighbor: good counsel respects the freedom of the one who decides, offering light and not coercion, and for this reason it is distinguished from mere opinion or from pressure disguised as help.\n\nThis work of mercy should not be confused with the gift of counsel, one of the seven gifts of the Holy Spirit. The infused gift perfects the virtue of prudence and makes the Christian docile to divine inspirations when judging what must be done (Saint Thomas Aquinas, Summa Theologiae, II-II, q. 52, which treats the gift of counsel in four articles and links it to prudence). The work of mercy, for its part, is a free act of fraternal charity, accessible to every baptized person, exercised in the counsel given to someone facing a difficult decision or a moral doubt.\n\nAs for the origin of the list, one little-remembered fact deserves note: the corporal works of mercy derive almost entirely from the scene of the Last Judgment in Matthew 25, but the spiritual works have no biblical enumeration of their own. According to historians of spirituality, the spiritual works arose from Origen's allegorical reading of Matthew 25 — who saw in the \"material\" works of the text a \"spiritual\" meaning as well — and the fixing of a well-defined list of seven works, corporal and spiritual, is usually placed around the 12th century, with the inclusion of burying the dead (from Tobit 1:16-18) and, at least since Thomas Aquinas, the corresponding list of the spiritual works. The sevenfold list of the works of mercy came to be part of catechetical teaching and popular preaching, with strong expression in sacred art (for example, Caravaggio's painting \"The Seven Works of Mercy,\" from 1607).\n\nIn the practical life of the Church, the works of mercy were strongly revalued during the Extraordinary Jubilee of Mercy (2015-2016), called by Pope Francis, when the list of the fourteen works — seven corporal and seven spiritual — was widely publicized in catechesis and pastoral initiatives. The second work, counseling the doubtful, remains one of the most accessible gestures of charity: it requires no material goods, only the readiness to listen and to guide with truth and charity.",
+      "categoria": "virtudes",
+      "tags": [
+        "works of mercy",
+        "spiritual mercy",
+        "fraternal charity",
+        "Catechism of the Catholic Church",
+        "12th century",
+        "Jubilee of Mercy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, no. 2447 (official text on the Holy See website)",
+        "Saint Thomas Aquinas, Summa Theologiae, II-II, q. 52 (The Gift of Counsel)",
+        "Origins of the list of the seven spiritual works: Origen's allegorical interpretation of Mt 25 and its fixing in the 12th century (espiritanos.pt, \"14. Obras de Misericórdia – Espirituais\")",
+        "Opus Dei, \"Quais são as Obras de Misericórdia?\" (Jubilee of Mercy)"
+      ],
+      "atualizado_em": null,
+      "tipo": "obra_misericordia_espiritual",
+      "ordem": 32,
+      "referencia_biblica": null
+    },
+    {
+      "id": "virtudes:corrigir-os-que-erram",
+      "slug": "corrigir-os-que-erram",
+      "titulo": "Admonishing the Sinner",
+      "categoria": "virtudes",
+      "resumo": "The third spiritual work of mercy: so-called \"fraternal correction,\" done with charity and not with humiliation.",
+      "corpo": "\"Fraternal correction,\" taught by Jesus himself (Mt 18:15), is recognized as a work of mercy because remaining silent in the face of the error of someone we love is not always charity—it can be an omission. It must, however, be done with humility and respect, seeking the good of the one who errs, not his humiliation.",
+      "tags": [
+        "works of mercy",
+        "spiritual mercy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/79/The_Denial_of_Saint_Peter-Caravaggio_%281610%29.jpg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_espiritual",
+      "ordem": 33,
+      "referencia_biblica": "Matthew 18:15",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:consolar-os-tristes",
+      "slug": "consolar-os-tristes",
+      "titulo": "Comfort the Sorrowful",
+      "categoria": "virtudes",
+      "resumo": "The fourth spiritual work of mercy: accompanying those who suffer, without minimizing their pain.",
+      "corpo": "To comfort does not mean to instantly erase another's sadness, but to accompany it with presence, listening and hope — a direct echo of the beatitude \"Blessed are those who mourn, for they shall be comforted\" (Mt 5:4), lived out concretely through those who are willing to comfort.",
+      "tags": [
+        "works of mercy",
+        "spiritual works of mercy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_espiritual",
+      "ordem": 34,
+      "referencia_biblica": "Matthew 5:4",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:perdoar-as-ofensas",
+      "slug": "perdoar-as-ofensas",
+      "titulo": "Forgiving Offenses",
+      "categoria": "virtudes",
+      "resumo": "The fifth spiritual work of mercy, directly linked to the petition of the Our Father for mutual forgiveness.",
+      "corpo": "Forgiving those who have offended us is a work of mercy grounded directly in the Our Father itself — \"forgive us our trespasses, as we forgive those who trespass against us\" — and in the parable of the servant who, having been forgiven an enormous debt, refuses to forgive a smaller one (Mt 18:23-35).",
+      "tags": [
+        "works of mercy",
+        "spiritual works of mercy",
+        "forgiveness"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_espiritual",
+      "ordem": 35,
+      "referencia_biblica": "Matthew 18:23-35",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:suportar-com-paciencia-os-defeitos-do-proximo",
+      "slug": "suportar-com-paciencia-os-defeitos-do-proximo",
+      "titulo": "Bearing Wrongs Patiently",
+      "categoria": "virtudes",
+      "resumo": "The sixth spiritual work of mercy: patient tolerance of the weaknesses and limitations of others.",
+      "corpo": "Patiently bearing the faults and imperfections of others — without demanding of them a perfection that no one, not even the one who demands it, possesses — is recognized as a spiritual work of mercy, a concrete exercise of the charity that \"bears all things, believes all things, hopes all things, endures all things\" (1 Cor 13:7).",
+      "tags": [
+        "works of mercy",
+        "spiritual mercy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_espiritual",
+      "ordem": 36,
+      "referencia_biblica": "1 Corinthians 13:7",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:rezar-por-vivos-e-mortos",
+      "slug": "rezar-por-vivos-e-mortos",
+      "titulo": "Pray to God for the Living and the Dead",
+      "categoria": "virtudes",
+      "resumo": "The seventh spiritual work of mercy: prayerful intercession for all, including those who have already died.",
+      "corpo": "Praying for the living and the dead completes the traditional list of the spiritual works of mercy, and is tied to the doctrine of the communion of saints and the practice of suffrages for the departed — the belief that the prayer of those who are still pilgrims in this life can help the souls who have already gone before us.",
+      "tags": [
+        "works of mercy",
+        "spiritual mercy",
+        "communion of saints"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ghent_Altarpiece_-_Adoration_of_the_Mystic_Lamb.jpg",
+      "imagem_credito": null,
+      "tipo": "obra_misericordia_espiritual",
+      "ordem": 37,
+      "referencia_biblica": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-alegria",
+      "slug": "fruto-alegria",
+      "titulo": "Fruit of the Holy Spirit: Joy",
+      "categoria": "virtudes",
+      "resumo": "The spiritual joy that, according to Saint Thomas Aquinas, arises as a necessary consequence of charity: the delight of being united to God through love.",
+      "corpo": "In the list of twelve fruits of the Holy Spirit handed down by the Latin tradition from Galatians 5:22-23, joy (gaudium) occupies second place, right after charity. Saint Thomas Aquinas explains, in the Summa Theologiae (I-II, q. 70), that it follows necessarily from charity: just as everyone who loves rejoices in union with the one he loves, the soul that loves God experiences a joy that the trials of this life cannot completely dissolve.\n\nUnlike mere emotional well-being or passing enthusiasm, joy as a fruit of the Spirit is rooted not in external circumstances, but in the certainty of friendship with God — the same joy that Jesus promises to make \"complete\" in the disciples on the eve of the Passion (Jn 15:11) and that Paul exhorts us to live always, even in the midst of tribulation (Phil 4:4).",
+      "tags": [
+        "fruits of the Holy Spirit",
+        "joy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 38,
+      "referencia_biblica": "Galatians 5:22-23",
+      "fontes": [
+        "Galatians 5:22-23",
+        "Catechism of the Catholic Church, no. 1832",
+        "Saint Thomas Aquinas, Summa Theologiae, I-II, q. 70"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-paz",
+      "slug": "fruto-paz",
+      "titulo": "Fruit of the Holy Spirit: Peace",
+      "categoria": "virtudes",
+      "resumo": "The tranquility of the soul that rests in God — a fruit that Saint Thomas Aquinas describes as the \"perfection of joy.\"",
+      "corpo": "Among the twelve fruits of the Holy Spirit enumerated on the basis of Galatians 5:22-23, peace (pax) follows immediately after joy, of which it is, according to Saint Thomas Aquinas, a kind of perfection: it consists in the absence of interior disturbance and in the resting of one's desires in God, the only good capable of fully satisfying the human heart.\n\nThis peace is not to be confused with the mere absence of external conflict — a task more closely associated with the beatitude of the peacemakers — but rather designates the interior serenity of one who is no longer divided between opposing desires. It is the peace that Jesus promises on the eve of the Passion: \"Peace I leave with you; my peace I give to you; not as the world gives do I give to you\" (Jn 14:27), a direct fruit of docility to the Holy Spirit.",
+      "tags": [
+        "fruits of the Holy Spirit",
+        "peace"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 39,
+      "referencia_biblica": "Galatians 5:22-23",
+      "fontes": [
+        "Galatians 5:22-23",
+        "Catechism of the Catholic Church, no. 1832",
+        "Saint Thomas Aquinas, Summa Theologiae, I-II, q. 70"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-paciencia",
+      "slug": "fruto-paciencia",
+      "titulo": "Fruit of the Holy Spirit: Patience",
+      "categoria": "virtudes",
+      "resumo": "The interior firmness that does not let itself be disturbed by the imminence of evils, enabling one to bear present difficulties without being cast down.",
+      "corpo": "Patience (patientia), the fourth of the twelve fruits listed on the basis of Galatians 5:22-23, is described by Saint Thomas Aquinas as the disposition not to be disturbed by the imminence of evils that threaten in the present. As a fruit of the Spirit, it is distinguished from patience as a virtue connected with fortitude: here it is rather a matter of the visible effect, in the concrete life of one who is docile to the Spirit, of a serenity that does not let itself be overcome by immediate adversity.\n\nSaint Paul associates it directly with the very essence of charity: \"charity is patient\" (1 Cor 13:4), recalling that Christian patience is not passive resignation, but the fruit of a love that sustains the soul even under pressure — the exact opposite of the capital sin of wrath.",
+      "tags": [
+        "fruits of the Holy Spirit",
+        "patience"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 40,
+      "referencia_biblica": "Galatians 5:22-23",
+      "fontes": [
+        "Galatians 5:22-23",
+        "Catechism of the Catholic Church, no. 1832",
+        "Saint Thomas Aquinas, Summa Theologiae, I-II, q. 70"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-longanimidade",
+      "slug": "fruto-longanimidade",
+      "titulo": "Fruit of the Holy Spirit: Longanimity",
+      "categoria": "virtudes",
+      "resumo": "The capacity to persevere without losing heart in the face of the delay of the goods one hopes for — patience that is prolonged over time.",
+      "corpo": "Longanimity (longanimitas) is described by Saint Thomas Aquinas as the capacity not to be disturbed by the delay of the goods one hopes to attain — thus distinguishing it from patience properly so called, which is directed toward the evil that threatens in the present, whereas longanimity sustains the soul before the future good that is slow in coming.\n\nThe classic biblical image of this disposition is that of the farmer who \"waits for the precious fruit of the earth, being patient\" until it receives the early and the late rains (Jas 5:7-8) — a figure of one who trusts without losing heart, even when the time of waiting is prolonged beyond what was expected. As a fruit of the Spirit, longanimity especially sustains the theological virtue of hope.",
+      "tags": [
+        "fruits of the Holy Spirit",
+        "longanimity",
+        "hope"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 41,
+      "referencia_biblica": "Galatians 5:22-23",
+      "fontes": [
+        "Galatians 5:22-23",
+        "Catechism of the Catholic Church, no. 1832",
+        "Saint Thomas Aquinas, Summa Theologiae, I-II, q. 70"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-benignidade",
+      "slug": "fruto-benignidade",
+      "titulo": "Fruit of the Holy Spirit: Kindness",
+      "categoria": "virtudes",
+      "resumo": "The disposition to do good concretely to one's neighbor, kindled by love — the passage from interior good will to exterior action.",
+      "corpo": "Saint Thomas Aquinas distinguishes kindness (benignitas) from goodness, although both concern the relationship with one's neighbor: goodness is the first favorable disposition, the will to do good; kindness is already the practical execution of that good, kindled by a love that is not content with merely desiring the good of others, but carries it out concretely.\n\nSaint Paul unites the two when he exhorts: \"Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you\" (Eph 4:32) — a text that directly links kindness to fraternal forgiveness, one of the spiritual works of mercy already recognized in this same category.",
+      "tags": [
+        "fruits of the Holy Spirit",
+        "kindness"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 42,
+      "referencia_biblica": "Galatians 5:22-23",
+      "fontes": [
+        "Galatians 5:22-23",
+        "Catechism of the Catholic Church, no. 1832",
+        "Saint Thomas Aquinas, Summa Theologiae, I-II, q. 70"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-bondade",
+      "slug": "fruto-bondade",
+      "titulo": "Fruit of the Holy Spirit: Goodness",
+      "categoria": "virtudes",
+      "resumo": "The first interior disposition favorable toward one's neighbor — the sincere desire for his good, the foundation upon which concrete kindness is built.",
+      "corpo": "Goodness (bonitas), the sixth of the fruits listed on the basis of Galatians 5:22-23, is defined by Saint Thomas Aquinas as the will to do good to one's neighbor — the first favorable disposition of the heart, even before it is translated into the practical action that specifically characterizes kindness. It is, so to speak, the interior root of which kindness is the exterior fruit.\n\nSaint Paul praises the Christians of Rome precisely for this quality: \"I myself am convinced, my brethren, that you yourselves are full of goodness\" (Rom 15:14), a sign that this disposition, when genuine, does not remain isolated, but necessarily manifests itself in concrete gestures of care for others.",
+      "tags": [
+        "fruits of the Holy Spirit",
+        "goodness"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 43,
+      "referencia_biblica": "Galatians 5:22-23",
+      "fontes": [
+        "Galatians 5:22-23",
+        "Catechism of the Catholic Church, no. 1832",
+        "Saint Thomas Aquinas, Summa Theologiae, I-II, q. 70"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-mansidao",
+      "slug": "fruto-mansidao",
+      "titulo": "Fruit of the Holy Spirit: Gentleness",
+      "categoria": "virtudes",
+      "resumo": "The restraining of anger in the face of the wrongs caused by one's neighbor — one of the fruits most closely associated with the very figure of Jesus.",
+      "corpo": "Gentleness (mansuetudo) is described by Saint Thomas Aquinas as the restraining of anger in the face of the wrongs that one's neighbor may cause — a disposition that does not eliminate the capacity for legitimate indignation, but keeps it under the governance of reason, preventing it from turning into resentment or vengeance.\n\nJesus himself presents himself as the model of this fruit: \"learn from me, for I am gentle and lowly in heart\" (Mt 11:29). Gentleness is directly linked to the beatitude \"Blessed are the meek\" (Mt 5:5), already present in this collection, and represents the exact opposite of the capital sin of anger.",
+      "tags": [
+        "fruits of the Holy Spirit",
+        "gentleness"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 44,
+      "referencia_biblica": "Galatians 5:22-23",
+      "fontes": [
+        "Galatians 5:22-23",
+        "Catechism of the Catholic Church, no. 1832",
+        "Saint Thomas Aquinas, Summa Theologiae, I-II, q. 70"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-fidelidade",
+      "slug": "fruto-fidelidade",
+      "titulo": "Fruit of the Holy Spirit: Faithfulness",
+      "categoria": "virtudes",
+      "resumo": "The constant uprightness in dealings with one's neighbor, which keeps one from harming him through fraud, deceit, or betrayal of one's word.",
+      "corpo": "Faithfulness (fides, here in the sense of loyalty and not the theological virtue of the same name) is described by Saint Thomas Aquinas as uprightness in dealings with one's neighbor, which keeps one from harming him through fraud or deceit — the foundation of all mutual trust in human relations, from simple everyday dealings to the most solemn commitments, such as marriage.\n\nSaint Paul sums up this requirement when speaking of those who administer the goods or responsibilities of others: \"it is required of stewards that they be found trustworthy\" (1 Cor 4:2). As a fruit of the Spirit, faithfulness upholds both the eighth commandment (the truth owed to one's neighbor) and the conjugal fidelity required by the sixth.",
+      "tags": [
+        "fruits of the Holy Spirit",
+        "faithfulness"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 45,
+      "referencia_biblica": "Galatians 5:22-23",
+      "fontes": [
+        "Galatians 5:22-23",
+        "Catechism of the Catholic Church, no. 1832",
+        "Saint Thomas Aquinas, Summa Theologiae, I-II, q. 70"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-modestia",
+      "slug": "fruto-modestia",
+      "titulo": "Fruit of the Holy Spirit: Modesty",
+      "categoria": "virtudes",
+      "resumo": "The observance of a just and balanced manner in words, gestures, and outward behavior, without ostentation or showing off.",
+      "corpo": "Modesty (modestia) is defined by Saint Thomas Aquinas as the observance of the appropriate manner in all outward words and actions — a fruit that is not limited to discretion in dress, but encompasses all of a person's external behavior: the way of speaking, of carrying oneself, of using one's own talents, avoiding both vain ostentation and the false humility that denies gifts received from God.\n\nAs a fruit of the Spirit, modesty is considered a potential part of the cardinal virtue of temperance, applying to outward conduct the same balance that temperance seeks in the interior appetites — a condition for a person to present himself to the world truthfully, without excess in either direction.",
+      "tags": [
+        "fruits of the Holy Spirit",
+        "modesty",
+        "temperance"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 46,
+      "referencia_biblica": "Galatians 5:22-23",
+      "fontes": [
+        "Galatians 5:22-23",
+        "Catechism of the Catholic Church, no. 1832",
+        "Saint Thomas Aquinas, Summa Theologiae, I-II, q. 70"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-continencia",
+      "slug": "fruto-continencia",
+      "titulo": "Fruit of the Holy Spirit: Continence",
+      "categoria": "virtudes",
+      "resumo": "The mastery of the will over one's own desires, especially those of the flesh, which allows reason to remain master of itself in the face of impulses.",
+      "corpo": "Continence (continentia) is described by Saint Thomas Aquinas as the mastery exercised over unlawful desires and also over lawful ones, so that the person keeps them in subjection without letting himself be dragged along by them. It is distinguished from chastity, the penultimate fruit in the list of Galatians: whereas chastity presupposes the complete removal of disordered desire, continence designates rather the active and constant effort to keep that desire under the governance of reason.\n\nIt is what Scripture, in the same passage of Galatians 5:23, also calls \"self-control\" — a disposition that the spiritual tradition considers indispensable to any form of serious Christian life, whether in marriage or in consecrated life.",
+      "tags": [
+        "fruits of the Holy Spirit",
+        "continence",
+        "temperance"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 47,
+      "referencia_biblica": "Galatians 5:22-23",
+      "fontes": [
+        "Galatians 5:22-23",
+        "Catechism of the Catholic Church, no. 1832",
+        "Saint Thomas Aquinas, Summa Theologiae, I-II, q. 70"
+      ]
+    },
+    {
+      "id": "virtudes:fruto-castidade",
+      "slug": "fruto-castidade",
+      "titulo": "Fruit of the Holy Spirit: Chastity",
+      "categoria": "virtudes",
+      "resumo": "The serene integration of sexuality into the person — the fruit which, among the twelve listed by Saint Paul, corresponds to the complete victory over disordered desire.",
+      "corpo": "Chastity (castitas) closes the traditional list of the twelve fruits of the Holy Spirit. Saint Thomas Aquinas distinguishes it from continence by one more degree of spiritual maturity: whereas the continent person still feels illicit desire and masters it through an effort of the will, the chaste person has already attained the complete removal of that desire, neither suffering from it nor being dragged along by it — not through coldness or repression, but through the serene integration of sexuality into the gift of oneself.\n\nAs a fruit — and not merely as a virtue or a commandment —, chastity indicates the point of arrival of a path of docility to the Holy Spirit, being the direct opposite of the capital sin of lust already treated in this same category of content.",
+      "tags": [
+        "fruits of the Holy Spirit",
+        "chastity"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "tipo": "fruto_espirito_santo",
+      "ordem": 48,
+      "referencia_biblica": "Galatians 5:22-23",
+      "fontes": [
+        "Galatians 5:22-23",
+        "Catechism of the Catholic Church, no. 1832",
+        "Saint Thomas Aquinas, Summa Theologiae, I-II, q. 70"
+      ]
+    }
+  ]
+}

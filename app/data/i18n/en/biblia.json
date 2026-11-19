@@ -1,0 +1,1964 @@
+{
+  "_meta": {
+    "categoria": "biblia",
+    "nome": "Bible",
+    "descricao": "The 73 books of the Catholic biblical canon, one by one: traditional author, period of composition, literary genre, and summary of contents.",
+    "status": "exemplos-iniciais",
+    "aviso": "Introductory summary of each book; it does not replace reading the complete biblical text or a course of introduction to the Scriptures. Dates of composition of ancient books are approximate and debated among exegetes — they reflect the most widely accepted dating, not documentary certainty.",
+    "revisao_editorial": "The seven deuterocanonical books (Tobit, Judith, Wisdom, Sirach, Baruch, 1 and 2 Maccabees), accepted in the Catholic and Orthodox canon but not in the Hebrew canon or in Protestant Bibles, are marked in the 'deuterocanonico' field and in the corresponding tag. Esther and Daniel have, in Catholic editions, additional deuterocanonical sections not treated separately here.",
+    "fontes_gerais": [
+      "Council of Trent, Decree on the Canonical Books (1546)",
+      "Second Vatican Council, Dogmatic Constitution «Dei Verbum» (1965)",
+      "Catechism of the Catholic Church, nos. 101-141"
+    ]
+  },
+  "itens": [
+    {
+      "id": "biblia:genesis",
+      "slug": "genesis",
+      "titulo": "Genesis",
+      "categoria": "biblia",
+      "resumo": "The book of origins: the creation of the world, the fall, the flood, and the stories of the patriarchs Abraham, Isaac, Jacob, and Joseph.",
+      "corpo": "The first book of the Bible and of the Torah, Genesis recounts the origins of the world and of humanity (chapters 1-11: creation, the fall, the flood, the Tower of Babel) and then the history of the patriarchs of Israel — Abraham, called to leave his land and receive the promise; Isaac; Jacob, renamed Israel; and Joseph, sold by his brothers and later the savior of his family in Egypt. It establishes central themes of all of Scripture: covenant, promise, and faith.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Genesis_1_Dead_Sea_Scroll_%28Cropped%29.jpg",
+      "imagem_credito": null,
+      "ordem": 1,
+      "testamento": "antigo",
+      "genero_literario": "Narrative/law",
+      "autor_tradicional": "Mosaic tradition (composed from several sources)",
+      "data_composicao": "10th-6th centuries BC (final form)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:exodo",
+      "slug": "exodo",
+      "titulo": "Exodus",
+      "categoria": "biblia",
+      "resumo": "The liberation of Israel from slavery in Egypt, the crossing of the Red Sea, and the covenant at Sinai, with the Ten Commandments.",
+      "corpo": "Exodus recounts the liberation of the people of Israel from slavery in Egypt under the leadership of Moses, marked by the ten plagues and the Jewish Passover, the miraculous crossing of the Red Sea, and the pilgrimage through the desert to Mount Sinai, where God establishes the Covenant with Israel and gives the Ten Commandments and the other laws that will order the life of the chosen people.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/David_Roberts-IsraelitesLeavingEgypt_1828.jpg",
+      "imagem_credito": null,
+      "ordem": 2,
+      "testamento": "antigo",
+      "genero_literario": "Narrative/law",
+      "autor_tradicional": "Mosaic tradition",
+      "data_composicao": "10th-6th centuries BC (final form)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:levitico",
+      "slug": "levitico",
+      "titulo": "Leviticus",
+      "categoria": "biblia",
+      "resumo": "A code of ritual and moral laws given to Israel at Sinai, focused on worship, purity, and holiness.",
+      "corpo": "Leviticus gathers legal and ritual prescriptions for Israelite worship — sacrifices, the consecration of priests, laws of ritual purity, and the calendar of feasts — organized around the central principle: \"You shall be holy; for I the Lord your God am holy\" (Lev 19:2). It includes chapter 16, on the Day of Atonement (Yom Kippur), and the \"Holiness Code\" (Lev 17-26).",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 3,
+      "testamento": "antigo",
+      "genero_literario": "Law",
+      "autor_tradicional": "Priestly tradition",
+      "data_composicao": "6th-5th centuries BC (final form)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:numeros",
+      "slug": "numeros",
+      "titulo": "Numbers",
+      "categoria": "biblia",
+      "resumo": "Israel's forty years of wandering in the desert between Sinai and the Promised Land, interspersed with censuses and laws.",
+      "corpo": "It takes its name from the two censuses of the people narrated in the book. It covers Israel's long journey through the desert — marked by murmuring, rebellion, and the punishment of a generation that would not enter the Promised Land —, interspersed with additional laws and episodes such as that of the pagan prophet Balaam, who blesses Israel against his own will.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Inverted_nun_in_Leningrad_Codex1.jpg",
+      "imagem_credito": null,
+      "ordem": 4,
+      "testamento": "antigo",
+      "genero_literario": "Narrative/law",
+      "autor_tradicional": "Mosaic tradition",
+      "data_composicao": "6th-5th centuries BC (final form)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:deuteronomio",
+      "slug": "deuteronomio",
+      "titulo": "Deuteronomy",
+      "categoria": "biblia",
+      "resumo": "Moses' final speeches to Israel before entering the Promised Land, renewing the Covenant and the Law of Sinai.",
+      "corpo": "Structured as a series of farewell speeches by Moses on the banks of the Jordan, Deuteronomy (\"second law\" in Greek) rereads and renews the Covenant and the Law given at Sinai, insisting on exclusive love for God. It contains the \"Shema,\" the central prayer of Judaism (\"Hear, O Israel...\", Deut 6:4-5), cited by Jesus as the greatest commandment.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 5,
+      "testamento": "antigo",
+      "genero_literario": "Law/discourse",
+      "autor_tradicional": "Deuteronomistic tradition",
+      "data_composicao": "7th century BC (core)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:josue",
+      "slug": "josue",
+      "titulo": "Joshua",
+      "resumo": "The book of the conquest and division of the Promised Land under Joshua, successor of Moses, and the renewal of the Covenant at Shechem.",
+      "corpo": "The Book of Joshua is the first title of the so-called \"Deuteronomistic History\" (Joshua, Judges, 1–2 Samuel and 1–2 Kings), the great collection that narrates the history of Israel from the entry into Canaan to the exile in Babylon. The text is framed by two speeches: at the beginning, God commands the conquest of the land and exhorts Joshua to observe faithfully the Law revealed to Moses (Josh 1); at the end, Joshua warns the people to remain faithful to the Covenant (Josh 23–24). The work narrates the crossing of the Jordan (Josh 3–4), the fall of Jericho (Josh 6), the southern campaign with the solar episode at Gibeon (Josh 10), the division of the territory among the twelve tribes (Josh 13–21) and, at the climax, the assembly at Shechem, where Joshua calls the people to a decision: \"choose this day whom you will serve\" (Josh 24:15).\n\nRabbinic tradition attributed the book to Joshua himself, but this position was already rejected by John Calvin and, later, by Thomas Hobbes. Today almost all scholars see the work as the product of multiple authors and editors, far removed in time from the events described. In 1943, the German biblical scholar Martin Noth proposed that the Deuteronomistic History was composed by a single author (or editor) during the exile; today a more complex process is recognized. The oldest parts are usually located in chapters 2 to 11 (the conquest tradition), incorporated into a first redaction in the reign of Josiah (r. 640–609 B.C.) and completed after the fall of Jerusalem in 586 B.C., possibly only after the return from exile in 539 B.C. The central theological intention of the redactors was to affirm the Lord as the one and mighty God of Israel, who fights for his people and demands exclusive fidelity to the Covenant.\n\nWhile the believing reading receives the book as the Word of God, the historical and archaeological examination of its accounts remains the subject of intense debate. Most scholars consider that the conquest narrative has little value for reconstructing the beginnings of Israel and reflects, in large part, much later circumstances. The case of Jericho is the most discussed: the excavations conducted by John Garstang in the 1930s and, later, by Kathleen Kenyon showed that the ancient city was already destroyed and unoccupied in the period in which biblical chronology usually places the conquest, which weakens the hypothesis of a direct military capture. There are, however, authors who propose alternative chronologies (for example, a destruction around 1400 B.C.) to rehabilitate the historicity of the account, so the question remains open.\n\nAmong the most notable episodes is the battle of Gibeon (Josh 10). The Gibeonites had obtained a peace treaty from Joshua by cunning; attacked by five Amorite kings, they ask Israel for help, and Israel marches by night from Gilgal. The text relates that Joshua commanded the sun to stand still over Gibeon and the moon over the valley of Aijalon (Josh 10:12-13), a quotation that the book itself attributes to the \"Book of Jashar\" (Sefer ha-Yashar), an Israelite poetic collection now lost and also mentioned in 2 Samuel 1:18. The assembly at Shechem, for its part, takes place at a site of great symbolic weight: between Mount Ebal and Mount Gerizim, the place where Abraham had received the promise of the land (Gen 12:6-7) and where Jacob had erected an altar (Gen 33:18-20). In this same context is placed the command to build an altar of uncut stones on Mount Ebal (Josh 8:30-32), in fulfillment of Deuteronomy 27. Modern archaeology has associated with this passage the altar discovered by Adam Zertal on Mount Ebal, although the identification remains disputed.",
+      "categoria": "biblia",
+      "tags": [
+        "Joshua",
+        "Old Testament",
+        "Promised Land",
+        "conquest of Canaan",
+        "Deuteronomistic History",
+        "Shechem",
+        "Jericho",
+        "Gibeon",
+        "Martin Noth",
+        "historical books"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Joshua_Commanding_the_Sun_to_Stand_Still_upon_Gibeon_%281816%29_John_Martin_-_NGA_2004.64.1.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Jerusalem Bible, Book of Joshua (introduction and notes)",
+        "Catechism of the Catholic Church, nos. 101-108 (inspiration and truth of Sacred Scripture)",
+        "Second Vatican Council, Dogmatic Constitution Dei Verbum, nos. 11-15",
+        "Martin Noth, Überlieferungsgeschichtliche Studien (1943), on the Deuteronomistic History"
+      ],
+      "atualizado_em": null,
+      "ordem": 6,
+      "testamento": "antigo",
+      "genero_literario": "Historical narrative",
+      "autor_tradicional": "Deuteronomistic tradition",
+      "data_composicao": "7th-6th century B.C. (final form)",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:juizes",
+      "slug": "juizes",
+      "titulo": "Judges",
+      "categoria": "biblia",
+      "resumo": "Cycles of infidelity, oppression, and deliverance of Israel by the \"judges\" — charismatic leaders such as Deborah, Gideon, and Samson.",
+      "corpo": "It covers the period between the conquest of Canaan and the monarchy, narrated as a series of repeated cycles: Israel turns away from God, is oppressed by neighboring peoples, cries out for help, and God raises up a \"judge\" — a military and charismatic leader, not a magistrate in the modern sense — to deliver it. Among the best-known judges are Deborah, Gideon, and Samson.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Samson_meurt_en_faisant_mourir_ses_ennemis_%285753424%29.jpg",
+      "imagem_credito": null,
+      "ordem": 7,
+      "testamento": "antigo",
+      "genero_literario": "Historical narrative",
+      "autor_tradicional": "Deuteronomistic tradition",
+      "data_composicao": "7th-6th century B.C. (final form)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:rute",
+      "slug": "rute",
+      "titulo": "Ruth",
+      "categoria": "biblia",
+      "resumo": "The fidelity of Ruth, a Moabite woman, to her Israelite mother-in-law Naomi; she becomes the great-grandmother of King David.",
+      "corpo": "A short novella set in the time of the Judges, it tells of the loyalty of Ruth, a Moabite widow, who follows her Israelite mother-in-law Naomi back to Bethlehem and there marries Boaz, becoming the great-grandmother of King David — and, in Matthew's genealogy, an ancestor of Jesus. It is one of only two biblical books named after a woman.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 8,
+      "testamento": "antigo",
+      "genero_literario": "Narrative",
+      "autor_tradicional": "Anonymous",
+      "data_composicao": "5th or 10th century B.C. (uncertain dating)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:1-samuel",
+      "slug": "1-samuel",
+      "titulo": "1 Samuel",
+      "resumo": "The prophet Samuel, the loss and return of the Ark, the institution of the monarchy in Israel, and the rise of David in the face of Saul's downfall.",
+      "corpo": "In the Hebrew Bible, Samuel is a single book; modern translations divide it into 1 and 2 Samuel, and in the Latin Vulgate and the Greek Septuagint the two belong to the group of the \"Kingdoms\" (1–4 Kings). The book belongs to the Deuteronomistic History, the series of Joshua, Judges, Samuel, and Kings that constitutes a theological history of Israel under the guidance of the prophets and interprets events in light of fidelity to the Law. In 1943, Martin Noth grouped this work together as a whole with its own unity, a thesis now widely accepted in its general outlines, although debated in its details.\n\nThe narrative can be read in blocks: first the childhood and call of Samuel, preceded by the story of his mother, Hannah, who was barren and consecrated him to the Lord at Shiloh, where the priest Eli served (1 Sm 1–3); next, the narrative of the Ark of the Covenant, captured by the Philistines at Ebenezer and at Aphek, with the death of Eli's sons, Hophni and Phinehas, and the subsequent return of the Ark (1 Sm 4:1b–7:1); then the cycle of the institution of the monarchy, with the people's request for a king, and the anointing and rejection of Saul (1 Sm 8–15); and finally, the story of the rise of David, from his secret anointing by Samuel and the duel with the Philistine Goliath to the persecution waged by Saul, culminating in Saul's death (1 Sm 16–31). A good number of scholars recognize in these blocks pre-existing literary sources, later gathered and edited by the Deuteronomistic redaction. In 2 Samuel, the account continues with the reign of David and the so-called \"succession history\" (2 Sm 9–20 and 1 Kgs 1–2), often considered one of the oldest and most vivid narratives in the Bible.\n\nThe historicity of the events is a matter of debate. There is consensus that the books of Samuel mix historical and legendary material and that they contain anachronisms incompatible with a composition in the 11th century B.C. The figure of David, however, has gained decisive extra-biblical support: in 1993, a team led by the Israeli archaeologist Avraham Biran discovered at Tel Dan, in northern Israel, fragments of a stele in Old Aramaic that mentions the \"House of David\" (bytdwd), the oldest testimony outside the Bible to the Davidic dynasty, now dated to the 9th century B.C. and displayed in the Israel Museum. A minority of scholars have contested the reading, but the stele is generally accepted as genuine. The account of the combat between David and Goliath, on the other hand, remains without archaeological confirmation and is widely treated as a narrative with a theological and literary purpose.\n\nThe book also contains episodes that shaped later tradition, such as the song of Hannah (1 Sm 2:1-10), whose theme of God's power lifting up the lowly resonates in Mary's Magnificat (Lk 1:46-55), and the confrontation between Samuel and Saul, in which the prophet declares that \"obedience is better than sacrifice\" (1 Sm 15:22). The tension between royal power and prophetic authority, which runs through the whole book and frames the Israelite monarchy under God's judgment, is one of the work's most enduring theological contributions.",
+      "categoria": "biblia",
+      "tags": [
+        "1 Samuel",
+        "Old Testament",
+        "Samuel",
+        "David",
+        "Saul",
+        "Ark of the Covenant",
+        "Philistines",
+        "Deuteronomistic History",
+        "Goliath",
+        "Tel Dan",
+        "historical books"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Hannah_and_Samuel_in_the_temple%2C_Rembrandt_or_his_studio%2C_c._1650%2C_Scottish_National_Gallery%2C_Edinburgh.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Jerusalem Bible, First Book of Samuel (introduction and notes)",
+        "Catechism of the Catholic Church, nos. 101-108 (inspiration and truth of Sacred Scripture)",
+        "Second Vatican Council, Dogmatic Constitution Dei Verbum, nos. 11-15",
+        "Martin Noth, Überlieferungsgeschichtliche Studien (1943), on the Deuteronomistic History",
+        "Tel Dan Inscription, 9th century B.C., Israel Museum (extra-biblical reference to the 'House of David')"
+      ],
+      "atualizado_em": null,
+      "ordem": 9,
+      "testamento": "antigo",
+      "genero_literario": "Historical narrative",
+      "autor_tradicional": "Deuteronomistic tradition",
+      "data_composicao": "7th-6th centuries B.C. (final form)",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:2-samuel",
+      "slug": "2-samuel",
+      "titulo": "2 Samuel",
+      "categoria": "biblia",
+      "resumo": "The reign of David as king of Israel: his victories, the promise of an eternal dynasty, and his personal sins and falls.",
+      "corpo": "The narrative continues from the death of Saul, covering the entire reign of David: the conquest of Jerusalem, the prophetic promise of an eternal Davidic dynasty (2 Sam 7, the foundation of messianic hope), and also his grave sins — the adultery with Bathsheba and the murder of Uriah — and the family and political consequences that follow.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 10,
+      "testamento": "antigo",
+      "genero_literario": "Historical narrative",
+      "autor_tradicional": "Deuteronomistic tradition",
+      "data_composicao": "7th-6th centuries BC (final form)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:1-reis",
+      "slug": "1-reis",
+      "titulo": "1 Kings",
+      "categoria": "biblia",
+      "resumo": "The reign of Solomon, the building of the Temple of Jerusalem, and the division of the kingdom into Israel (north) and Judah (south).",
+      "corpo": "It narrates David's succession by Solomon, famous for his wisdom, the building of the first Temple of Jerusalem, and then the schism that divided the united kingdom into the Kingdom of Israel (north) and the Kingdom of Judah (south) after Solomon's death, following the early reigns of both kingdoms and the ministry of the prophet Elijah.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 11,
+      "testamento": "antigo",
+      "genero_literario": "Historical narrative",
+      "autor_tradicional": "Deuteronomistic tradition",
+      "data_composicao": "7th-6th centuries BC (final form)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:2-reis",
+      "slug": "2-reis",
+      "titulo": "2 Kings",
+      "categoria": "biblia",
+      "resumo": "The history of the kingdoms of Israel and Judah until their respective falls — Israel to Assyria, Judah to Babylon.",
+      "corpo": "The history of the two divided Hebrew kingdoms continues, including the ministry of the prophet Elisha, up to the fall of the Kingdom of Israel (north) to Assyria in 722 B.C. and, later, the fall of Jerusalem and the Kingdom of Judah to Babylon in 587 B.C., with the destruction of the Temple and the beginning of the Babylonian exile.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 12,
+      "testamento": "antigo",
+      "genero_literario": "Historical narrative",
+      "autor_tradicional": "Deuteronomistic tradition",
+      "data_composicao": "7th-6th centuries B.C. (final form)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:1-cronicas",
+      "slug": "1-cronicas",
+      "titulo": "1 Chronicles",
+      "resumo": "Genealogies from Adam to the post-exilic period and a liturgical retelling of the reign of David, centered on the Temple and worship — a work of the Chronicler written in the Persian era, at the close of the Hebrew Old Testament.",
+      "corpo": "1 Chronicles forms, together with 2 Chronicles, a single Hebrew work entitled דִּבְרֵי הַיָּמִים (dibre hayyamim, \"words/acts of the days\"), divided into two books by the translators of the Septuagint, who called it Paraleipomena (\"things omitted\"), judging that it gathered what was lacking in the books of Samuel and Kings. Jerome, in rendering the work into Latin, preferred the title \"Chronicon\" — the \"chronicle of all sacred history\" — and it is from this that the name used in Christian Bibles comes. In the Hebrew Bible, Chronicles is the book that closes the canon, ending the third section, the Ketuvim (\"Writings\"). The first book comprises 29 chapters, divided between a vast genealogical section (chapters 1 to 9) and the account of the reign of David (chapters 10 to 29).\n\nThe first part runs through a genealogy of more than six hundred names, which begins with Adam, passes through the nations and the patriarchs, and arrives at the twelve tribes, pausing with particular attention on Judah (the Davidic line) and on Levi (priests and Levites). This genealogy is not a mere list: for the community that had returned from the Babylonian exile, it reconstituted identity and proved the continuity of the promises made to Abraham and to David, besides legitimizing the distribution of lands and the organization of Temple service — for only the Levites and their descendants had the right to the tithes and first fruits.\n\nThe second part rereads the reign of David from 1 Samuel and 2 Samuel, but with a marked change of perspective. The Chronicler idealizes the king: he omits the darkest episodes of 2 Samuel — the adultery with Bathsheba and the murder of Uriah (2 Sam 11–12) and the rebellion of Absalom — and also David's mourning for Saul, replaced by the theological explanation of the fall of the first king (1 Chr 10). In exchange, he devotes ample space to David's preparations for building the Temple, to the organization of the priests, Levites and singers (chapters 23 to 26) and to the solemn transfer of the Ark to Jerusalem (chapters 13 to 16). An exclusive detail of great theological weight is the account of the census: in 2 Samuel 24 it is the anger of the Lord that incites David to number the people, but in the Chronicler it is Satan who provokes him (1 Chr 21:1) — the first use of the term as a proper name in the Old Testament.\n\nThe work does not replace Samuel and Kings; it offers a \"second national epic\" that updates history for the Jews of the Persian era. Its theology differs from that of the Deuteronomist: in place of collective retribution, each generation answers for its own righteousness or its own sin, a doctrine of individual responsibility that the Chronicler shares with the prophets of the exile, above all Ezekiel. For this reason, modern scholars — without disdaining the ancient attribution to Ezra — designate the anonymous author simply as \"the Chronicler.\" The dating is not certain: most place the composition between the days of Zerubbabel and after the ministries of Ezra and Nehemiah (c. 515–400 B.C.); some propose the period between 400 and 250 B.C., taking as a basis the genealogy of 1 Chr 3:17-24, which extends several generations beyond Zerubbabel. The book is recognized as canonical by the Church and appears in the Catholic canon as a historical book of the Old Testament; it is worth noting that it is never directly cited in the New Testament.",
+      "categoria": "biblia",
+      "tags": [
+        "Bible",
+        "Old Testament",
+        "Chronicles",
+        "Chronicler",
+        "David",
+        "Temple of Jerusalem",
+        "post-exilic period",
+        "genealogies",
+        "Persian era"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Codex_Sinaiticus_Paralipomenon_9%2C27-10%2C11.JPG",
+      "imagem_credito": null,
+      "fontes": [
+        "Jerusalem Bible, introduction to 1–2 Chronicles",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)",
+        "Wikipedia (en), \"Books of Chronicles\"",
+        "Society for Old Testament Study (SOTS), entry \"Chronicles\"",
+        "1 Chronicles 3:17-24; 10; 21:1",
+        "2 Samuel 11–12; 24",
+        "Codex Sinaiticus, Tischendorf facsimile (1862)"
+      ],
+      "atualizado_em": null,
+      "ordem": 13,
+      "testamento": "antigo",
+      "genero_literario": "Historical/genealogical narrative",
+      "autor_tradicional": "Tradition of the Chronicler",
+      "data_composicao": "4th century B.C.",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:2-cronicas",
+      "slug": "2-cronicas",
+      "titulo": "2 Chronicles",
+      "categoria": "biblia",
+      "resumo": "A theological reinterpretation of the reign of Solomon and of the history of the Kingdom of Judah up to the edict of Cyrus that permits the return from exile.",
+      "corpo": "It continues the work of the Chronicler, detailing the reign of Solomon and the building of the Temple, and then the history of the Kingdom of Judah — largely omitting the Northern Kingdom — ending with the decree of the Persian king Cyrus authorizing the return of the exiles and the rebuilding of the Temple, a bridge to the books of Ezra and Nehemiah.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 14,
+      "testamento": "antigo",
+      "genero_literario": "Historical narrative",
+      "autor_tradicional": "Tradition of the Chronicler",
+      "data_composicao": "4th century B.C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:esdras",
+      "slug": "esdras",
+      "titulo": "Ezra",
+      "categoria": "biblia",
+      "resumo": "The return of the Jews from the Babylonian exile, the rebuilding of the Temple, and the religious reform led by the scribe Ezra.",
+      "corpo": "It narrates the return of the Jewish exiles from Babylon, authorized by Cyrus of Persia, the rebuilding of the Temple of Jerusalem, and the later arrival of the scribe and priest Ezra, who promotes a religious reform centered on fidelity to the Mosaic Law and on the separation from mixed marriages considered contrary to the Covenant.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Esdras-Ezra.jpg",
+      "imagem_credito": null,
+      "ordem": 15,
+      "testamento": "antigo",
+      "genero_literario": "Historical narrative",
+      "autor_tradicional": "Chronicler tradition (attribution)",
+      "data_composicao": "5th-4th century BC",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:neemias",
+      "slug": "neemias",
+      "titulo": "Nehemiah",
+      "resumo": "The memoirs of the cupbearer of Artaxerxes who becomes governor of Jerusalem, rebuilds the walls in 52 days, and promotes the religious and social reform of the post-exilic community.",
+      "corpo": "Nehemiah belongs to the historical books of the Old Testament and is set in the period of Achaemenid Persian rule over Judea, after the return from the Babylonian exile. Nehemiah was cupbearer to the Persian king Artaxerxes I, a position of trust at the court of Susa; upon learning of the misery of the repatriated Jews and the ruined state of Jerusalem, he fasts and prays. In the twentieth year of the king — placed by scholars in 445/444 B.C. — he obtains royal permission, letters for the governors west of the Euphrates, and timber for the gates of the city and for the fortress adjoining the Temple (Neh 1–2).\n\nThe work is narrated largely in the first person, in the genre of the \"memorials\" or memoirs of Nehemiah (Neh 1:1–7:5; 12:27-43; 13:4-31). Upon arriving in Jerusalem, Nehemiah inspects the walls at night and calls the people to rebuild, which is described section by section in chapter 3, with the list of the families and groups responsible for each segment. He faces the opposition of hostile neighbors — Sanballat the Horonite, governor of Samaria; Tobiah the Ammonite; and Geshem the Arab — who mock, conspire, and try to intimidate him, while the builders work with their swords at their sides. According to Neh 6:15, the walls are finished in fifty-two days.\n\nBeyond the material reconstruction, Nehemiah acts as a reformer. In chapter 5 he confronts the social crisis of the indebted Jews: nobles and officials were charging interest (usury) to their own brothers, leading many into debt slavery; Nehemiah rebukes them publicly, calls an assembly, and demands the restitution of the fields, vineyards, and money. In chapter 8, alongside the priest and scribe Ezra, he presides over the public reading of the Law of Moses in the square before the Water Gate, with the Levites explaining the meaning of the text to the people — a scene often pointed to as the root of the liturgy of the Word.\n\nHistorical questions remain debated. The traditional chronology has Ezra arriving in the seventh year of Artaxerxes I (458 B.C.) and Nehemiah thirteen years later, in 445; some interpreters, however, place Ezra under Artaxerxes II (c. 398 B.C.), reversing the order, while another group maintains that the two were contemporaries. For this reason, the dating of the book is presented approximately, around the fifth century B.C.",
+      "categoria": "biblia",
+      "tags": [
+        "Bible",
+        "Old Testament",
+        "Nehemiah",
+        "Ezra",
+        "post-exile",
+        "Artaxerxes",
+        "walls of Jerusalem",
+        "5th century B.C."
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Prophet_nehemiah.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Jerusalem Bible",
+        "Holy Bible — Book of Nehemiah, chaps. 1–2; 5; 6:15; 8",
+        "B. S. Childs / introductions to the Old Testament on Ezra and Nehemiah",
+        "Catechism of the Catholic Church, nos. 101–141 (Sacred Scripture)"
+      ],
+      "atualizado_em": null,
+      "ordem": 16,
+      "testamento": "antigo",
+      "genero_literario": "Historical narrative (memoirs)",
+      "autor_tradicional": "Attributed to Nehemiah",
+      "data_composicao": "5th century B.C.",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:tobias",
+      "slug": "tobias",
+      "titulo": "Tobit",
+      "categoria": "biblia",
+      "resumo": "An edifying novella about fidelity, almsgiving and the providence of God, with the angel Raphael guiding young Tobias.",
+      "corpo": "It tells the story of Tobit, a pious blind Jew, and of his son Tobias, who, guided without knowing it by the angel Raphael disguised as a traveling companion, cures his father's blindness and frees Sarah, his future wife, from a demon. It is read as an edifying novella about divine providence, conjugal fidelity and the practice of almsgiving.",
+      "tags": [
+        "Bible",
+        "Old Testament",
+        "deuterocanonical"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Recto_of_leaf_from_the_Book_of_Tobit_%2812906401985%29.jpg",
+      "imagem_credito": "Photo: Miami U. Libraries - Digital Collections — Wikimedia Commons",
+      "ordem": 17,
+      "testamento": "antigo",
+      "genero_literario": "Wisdom narrative",
+      "autor_tradicional": "Anonymous",
+      "data_composicao": "3rd-2nd century B.C.",
+      "deuterocanonico": true,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:judite",
+      "slug": "judite",
+      "titulo": "Judith",
+      "categoria": "biblia",
+      "resumo": "The widow Judith saves her besieged city by beheading the enemy general Holofernes.",
+      "corpo": "It tells how Judith, a beautiful and pious Jewish widow, saves her city, Bethulia, from the siege of the Assyrian army led by the general Holofernes, strategically seducing him and then beheading him while he sleeps in a drunken stupor — a narrative read as a celebration of courage and trusting faith in the face of an overwhelming threat.",
+      "tags": [
+        "Bible",
+        "Old Testament",
+        "deuterocanonical"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Judith_with_the_Head_of_Holofernes_by_Cristofano_Allori.jpg",
+      "imagem_credito": null,
+      "ordem": 18,
+      "testamento": "antigo",
+      "genero_literario": "Narrative",
+      "autor_tradicional": "Anonymous",
+      "data_composicao": "2nd century B.C.",
+      "deuterocanonico": true,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:ester",
+      "slug": "ester",
+      "titulo": "Esther",
+      "categoria": "biblia",
+      "resumo": "The Jewish queen Esther saves her people from the destruction planned by Haman in the Persian Empire; origin of the Jewish feast of Purim.",
+      "corpo": "It tells how Esther, a young Jewish woman who becomes queen of Persia, courageously intercedes with King Ahasuerus to save her people from the extermination planned by the minister Haman. It is the book that gives rise to the Jewish feast of Purim, and its longer Greek version includes deuterocanonical passages with explicit references to God, which are absent from the original Hebrew text.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Edwin_Long_-_Queen_Esther_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 19,
+      "testamento": "antigo",
+      "genero_literario": "Narrative",
+      "autor_tradicional": "Anonymous",
+      "data_composicao": "4th-2nd century B.C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:1-macabeus",
+      "slug": "1-macabeus",
+      "titulo": "1 Maccabees",
+      "categoria": "biblia",
+      "resumo": "The armed revolt of the Jews led by Judas Maccabeus against the forced Hellenization imposed by Antiochus IV Epiphanes.",
+      "corpo": "It narrates, in a sober historical style, the revolt of the Jews, led by the Maccabee brothers, against the attempt of the Seleucid king Antiochus IV Epiphanes to suppress the Jewish religion and impose Greek culture by force, including the profanation of the Temple. It culminates in the purification and rededication of the Temple, the origin of the Jewish feast of Hanukkah.",
+      "tags": [
+        "Bible",
+        "Old Testament",
+        "deuterocanonical"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Scuola_Grande_dei_Carmini_-_Sala_dell%27Archivio_-_Il_martirio_dei_Maccabei_di_Giustino_Menescardi.jpg",
+      "imagem_credito": null,
+      "ordem": 20,
+      "testamento": "antigo",
+      "genero_literario": "Historical narrative",
+      "autor_tradicional": "Anonymous (Palestinian Jew)",
+      "data_composicao": "late 2nd century BC",
+      "deuterocanonico": true,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:2-macabeus",
+      "slug": "2-macabeus",
+      "titulo": "2 Maccabees",
+      "categoria": "biblia",
+      "resumo": "A theological version, parallel to 1 Maccabees, of the Maccabean revolt, with important passages on the resurrection and prayer for the dead.",
+      "corpo": "It covers some of the same events as 1 Maccabees with a more explicitly theological emphasis, including the account of the martyrdom of a mother and her seven sons and one of the Old Testament passages most often cited in defense of belief in the resurrection of the dead and in the efficacy of prayer for the departed (2 Macc 12:43-46), a biblical basis cited for the doctrine of Purgatory.",
+      "tags": [
+        "Bible",
+        "Old Testament",
+        "deuterocanonical"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Martyrium_der_Makkab%C3%A4er_und_ihrer_Mutter%2C_Christus_am_Kreuz_und_Schmerzensmutter%2C_Museum_Schn%C3%BCtten_M_222.jpg",
+      "imagem_credito": null,
+      "ordem": 21,
+      "testamento": "antigo",
+      "genero_literario": "Historical narrative (theological)",
+      "autor_tradicional": "Epitome of the work of Jason of Cyrene",
+      "data_composicao": "late 2nd century BC",
+      "deuterocanonico": true,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:jo",
+      "slug": "jo",
+      "titulo": "Job",
+      "categoria": "biblia",
+      "resumo": "The suffering of the righteous Job and the mystery of evil, culminating in God's answer out of the whirlwind.",
+      "corpo": "One of the most elaborate literary texts of the Bible, it tells of the undeserved suffering of the righteous Job, who loses his possessions, his children, and his health, and of the long poetic debate between him and his friends about the cause of suffering. It does not offer a direct philosophical answer to the problem of evil, but culminates in Job's encounter with God himself, who speaks \"out of the whirlwind\" (Job 38:1).",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/L%C3%A9on_Bonnat_-_Job.jpg",
+      "imagem_credito": null,
+      "ordem": 22,
+      "testamento": "antigo",
+      "genero_literario": "Wisdom (dramatic poetry)",
+      "autor_tradicional": "Anonymous",
+      "data_composicao": "between the 7th and 4th centuries BC (uncertain dating)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:salmos",
+      "slug": "salmos",
+      "titulo": "Psalms",
+      "categoria": "biblia",
+      "resumo": "A collection of 150 prayers and songs — praise, lament, supplication, thanksgiving — that forms the heart of biblical prayer.",
+      "corpo": "The Psalms gather 150 poetic prayers of various genres — hymns of praise, individual and communal laments, psalms of thanksgiving, wisdom psalms, and messianic psalms —, traditionally attributed in large part to David, although they are the work of many authors over the course of centuries. They remain the backbone of the Liturgy of the Hours and of Christian liturgical prayer to this day.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 23,
+      "testamento": "antigo",
+      "genero_literario": "Lyric poetry/prayer",
+      "autor_tradicional": "Traditionally attributed to David (a collection by several authors)",
+      "data_composicao": "10th to 4th centuries BC (compilation)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:proverbios",
+      "slug": "proverbios",
+      "titulo": "Proverbs",
+      "categoria": "biblia",
+      "resumo": "A collection of practical maxims on upright living, attributed to the wisdom tradition of Solomon.",
+      "corpo": "It gathers collections of short maxims and longer poems of practical wisdom — on work, speech, friendship, the education of children, and upright living —, traditionally linked to King Solomon, renowned for his wisdom, although the book is the work of compilation over generations. It closes with the praise of the \"capable wife\" (Prov 31).",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 24,
+      "testamento": "antigo",
+      "genero_literario": "Wisdom",
+      "autor_tradicional": "Traditional attribution to Solomon (collection)",
+      "data_composicao": "10th to 4th centuries B.C. (compilation)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:eclesiastes",
+      "slug": "eclesiastes",
+      "titulo": "Ecclesiastes (Qoheleth)",
+      "categoria": "biblia",
+      "resumo": "A disenchanted meditation on the vanity (the \"vapor\") of everything under the sun, and an invitation to enjoy the simple gifts of life with sobriety.",
+      "corpo": "\"Qoheleth,\" the Hebrew name that gives the book its title, means something like \"the one who gathers the assembly\" or \"preacher.\" It is a philosophical reflection, at times disconcerting, on the apparent vanity (\"vapor,\" \"smoke\") of all human effort — wealth, wisdom, pleasure, work — in the face of mortality, concluding with an invitation to enjoy with sobriety the simple gifts of each day as coming from God.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 25,
+      "testamento": "antigo",
+      "genero_literario": "Wisdom literature (philosophical reflection)",
+      "autor_tradicional": "Traditionally attributed to Solomon",
+      "data_composicao": "3rd century BC",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:cantico-dos-canticos",
+      "slug": "cantico-dos-canticos",
+      "titulo": "Song of Songs",
+      "categoria": "biblia",
+      "resumo": "A love poem between a man and a woman, read by the Jewish and Christian traditions as an allegory of the love between God and his people.",
+      "corpo": "A collection of love poems between a bridegroom and a bride, in sensual and direct language, with no explicit mention of God in the text. The Jewish tradition read it as an allegory of the love between God and Israel, and the Christian tradition, of the love between Christ and the Church or between God and the soul—a reading that made the book one of the central texts of Christian mysticism, from Origen to Saint John of the Cross.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 26,
+      "testamento": "antigo",
+      "genero_literario": "Love poetry",
+      "autor_tradicional": "Traditionally attributed to Solomon",
+      "data_composicao": "3rd century B.C. (final composition)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:sabedoria",
+      "slug": "sabedoria",
+      "titulo": "Wisdom",
+      "categoria": "biblia",
+      "resumo": "A praise of divine Wisdom and a reflection on the immortality of the soul, written in Greek for Jews of the Egyptian diaspora.",
+      "corpo": "Written originally in Greek, probably in Alexandria, to strengthen the faith of diaspora Jews exposed to Hellenistic culture, it personifies the Wisdom of God and reflects on the immortality of the soul with a clarity uncommon in the Old Testament, besides rereading the history of the Exodus in the light of this wisdom.",
+      "tags": [
+        "Bible",
+        "Old Testament",
+        "deuterocanonical"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meynier_-_Wisdom_defending_Youth_against_Love.jpg",
+      "imagem_credito": null,
+      "ordem": 27,
+      "testamento": "antigo",
+      "genero_literario": "Wisdom literature",
+      "autor_tradicional": "Anonymous (literary attribution to Solomon)",
+      "data_composicao": "1st century BC",
+      "deuterocanonico": true,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:eclesiastico",
+      "slug": "eclesiastico",
+      "titulo": "Sirach (Ecclesiasticus / Ben Sira)",
+      "categoria": "biblia",
+      "resumo": "A lengthy manual of practical and religious wisdom, one of the rare biblical books whose historical author is known by name.",
+      "corpo": "Also called \"Sirach\" or \"Ecclesiasticus\", it is one of the few biblical books whose author is known with reasonable certainty: the Jewish sage Jesus, son of Sirach, of Jerusalem. It gathers extensive practical teachings on daily life, friendship, education and religion, culminating in a praise of the \"famous men\" of the history of Israel (Sir 44-50).",
+      "tags": [
+        "Bible",
+        "Old Testament",
+        "deuterocanonical"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/CodexGigas_186_WisdomofJesusSonofSirach.jpg",
+      "imagem_credito": null,
+      "ordem": 28,
+      "testamento": "antigo",
+      "genero_literario": "Wisdom",
+      "autor_tradicional": "Jesus ben Sira",
+      "data_composicao": "early 2nd century BC",
+      "deuterocanonico": true,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:isaias",
+      "slug": "isaias",
+      "titulo": "Isaiah",
+      "categoria": "biblia",
+      "resumo": "The greatest of the prophetic books, with the famous \"Servant Songs\" of the suffering Servant, read by Christian tradition as prophecies about Christ.",
+      "corpo": "The longest of the prophetic books, it gathers oracles from at least three distinct historical periods under a single name — the prophet Isaiah of the eighth century B.C. and later anonymous successors (\"Second\" and \"Third\" Isaiah). It contains some of the most frequently cited messianic texts of the Old Testament, among them the \"Songs of the suffering Servant\" (Is 52-53), read by early Christianity as a prophecy of the Passion of Christ.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Melozzo_da_forl%C3%AC%2C_angeli_coi_simboli_della_passione_e_profeti%2C_1477_ca.%2C_profeta_isaia_00.jpg",
+      "imagem_credito": "Photo: Sailko — Wikimedia Commons, CC BY 3.0",
+      "ordem": 29,
+      "testamento": "antigo",
+      "genero_literario": "Prophetic",
+      "autor_tradicional": "Isaiah of Jerusalem (and successors — \"Second\" and \"Third\" Isaiah)",
+      "data_composicao": "8th to 6th centuries B.C. (composition in layers)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:jeremias",
+      "slug": "jeremias",
+      "titulo": "Jeremiah",
+      "categoria": "biblia",
+      "resumo": "A prophet who announces the destruction of Jerusalem because of unfaithfulness to the Covenant, and then the hope of a \"new covenant\" written on the heart.",
+      "corpo": "Jeremiah prophesied in Jerusalem during the last years of the Kingdom of Judah, announcing relentlessly — and at an extremely high personal cost, with persecution and imprisonment — the destruction of the city as punishment for unfaithfulness to the Covenant, personally witnessing the fall of Jerusalem in 587 B.C. He also announces the hope of a \"new covenant,\" no longer engraved on tablets of stone, but written on the heart (Jer 31:31-34).",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Michelangelo_Buonarroti_027.jpg",
+      "imagem_credito": null,
+      "ordem": 30,
+      "testamento": "antigo",
+      "genero_literario": "Prophetic",
+      "autor_tradicional": "Jeremiah (with the scribe Baruch)",
+      "data_composicao": "late 7th century to early 6th century B.C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:lamentacoes",
+      "slug": "lamentacoes",
+      "titulo": "Lamentations",
+      "categoria": "biblia",
+      "resumo": "Five funeral poems on the destruction of Jerusalem and the Temple in 587 B.C.",
+      "corpo": "A collection of five poetic elegies, with an acrostic structure in Hebrew, lamenting the destruction of Jerusalem and the Temple by the Babylonians in 587 B.C. Traditionally attributed to Jeremiah, an eyewitness of the catastrophe, they express both deep sorrow and renewed trust in God's faithfulness (\"The steadfast love of the Lord never ceases, his mercies never come to an end...\", Lam 3:22).",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 31,
+      "testamento": "antigo",
+      "genero_literario": "Elegiac poetry",
+      "autor_tradicional": "Traditionally attributed to Jeremiah",
+      "data_composicao": "early 6th century B.C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:baruc",
+      "slug": "baruc",
+      "titulo": "Baruch",
+      "resumo": "A deuterocanonical collection of a penitential prayer, a wisdom poem, and words of consolation to Jerusalem, attributed to the secretary of the prophet Jeremiah, and whose final chapter is the Letter of Jeremiah against idolatry.",
+      "corpo": "The Book of Baruch is one of the deuterocanonical books of the Old Testament, absent from the Hebrew canon but present in the Greek Septuagint and the Latin Vulgate, and accepted as inspired by the Catholic Church. Its name derives from Baruch, son of Neriah, the scribe and secretary of the prophet Jeremiah, who appears some twenty-three times in the Book of Jeremiah (cf. Jer 32; 36; 43; 45). The prologue (1:1-14) places the work \"in the fifth year, on the seventh day of the month, at the time when the Chaldeans took Jerusalem and burned it with fire,\" presenting Baruch reading the book to the exiles in Babylon, by the river Sud, and sending the text and a collection of money to Jerusalem so that it might be read in the Temple on feast days.\n\nAs for its structure, scholars usually distinguish four parts: the narrative introduction (1:1-14); a prayer of confession and penitence on behalf of the exiled people (1:15-3:8); a wisdom poem that identifies Wisdom with the Law of God (3:9-4:4); and a poem of consolation and encouragement addressed to Jerusalem (4:5-5:9). Modern criticism is practically unanimous in rejecting both Baruch and Jeremiah as authors of the whole and in dating the final composition outside the period of the Babylonian exile, proposing the second century B.C. (around 200-100 B.C.), with thematic and linguistic parallels in the Book of Daniel and in Sirach. The work has come down to us in Greek, probably translated from a lost Hebrew original, although part of the text may have been composed directly in Greek.\n\nThe so-called \"Letter of Jeremiah\" appears as chapter 6 of the book: it is an apologetic discourse against idolatry, which takes up and develops themes from Isaiah 44 and Jeremiah 10. In the Septuagint and in Orthodox Bibles, the Letter usually appears as a separate work; it was the Latin Vulgate that joined it to the Book of Baruch, with the chapter 6 numbering coming from the thirteenth century onward. Saint Jerome, although he had reservations (since he did not have a Hebrew text, he was reluctant to count the book among the canonical ones), ended up including it in the Vulgate. Fathers such as Athanasius of Alexandria and Cyril of Jerusalem already listed it as canonical, joined to Jeremiah and Lamentations, and the Synod of Laodicea (fourth century) mentions it in the same grouping. Its canonicity was solemnly confirmed by the Council of Trent (1546), which fixed the list of the deuterocanonical books.\n\nIn the Catholic liturgy, the book has a notable presence: Baruch 3:9-15, 32-4:4 is the Sixth Reading of the Easter Vigil, and Baruch 5:1-9 serves as the first reading on the Second Sunday of Advent in Year C, when Jerusalem is invited to lay aside mourning and put on the glory of God. The book is not explicitly cited in the New Testament, but echoes of it are attributed to passages such as the incarnation of Wisdom and the exhortation to walk in the ways of life.",
+      "categoria": "biblia",
+      "tags": [
+        "Bible",
+        "Old Testament",
+        "deuterocanonical",
+        "Baruch",
+        "prophets",
+        "Letter of Jeremiah",
+        "Babylonian exile",
+        "Septuagint",
+        "Vulgate",
+        "Easter Vigil"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/BarucProfeta.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Jerusalem Bible, introduction to the Book of Baruch",
+        "Council of Trent (1546), Decretum de libris sacris et de traditionibus recipiendis",
+        "Second Vatican Council, Dogmatic Constitution Dei Verbum, ch. IV (1965)",
+        "Society for Old Testament Study, entry \"Baruch\"",
+        "International Standard Bible Encyclopedia, entry \"Baruch, Book of\"",
+        "Roman Missal, Sixth Reading of the Easter Vigil (Bar 3:9-15, 32-4:4)"
+      ],
+      "atualizado_em": null,
+      "ordem": 32,
+      "testamento": "antigo",
+      "genero_literario": "Prophetic/wisdom",
+      "autor_tradicional": "Attributed to Baruch, secretary of Jeremiah",
+      "data_composicao": "2nd century B.C. (final composition)",
+      "deuterocanonico": true
+    },
+    {
+      "id": "biblia:ezequiel",
+      "slug": "ezequiel",
+      "titulo": "Ezekiel",
+      "categoria": "biblia",
+      "resumo": "Priest-prophet of the Babylonian exile, famous for his visions of the glory of God and of the resurrection of the \"dry bones.\"",
+      "corpo": "A priest taken into exile in Babylon, Ezekiel prophesied among the exiles with striking visions — the glory of God upon a heavenly chariot, the vision of the valley of dry bones that come to life (Ez 37, also read as an image of the resurrection), and the final vision of a restored Temple —, sustaining Israel's hope of restoration.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Ezekiel.jpg",
+      "imagem_credito": null,
+      "ordem": 33,
+      "testamento": "antigo",
+      "genero_literario": "Prophetic",
+      "autor_tradicional": "Ezekiel",
+      "data_composicao": "6th century BC",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:daniel",
+      "slug": "daniel",
+      "titulo": "Daniel",
+      "categoria": "biblia",
+      "resumo": "Narratives about the fidelity of Daniel and his companions at the Babylonian court, and apocalyptic visions about the end times.",
+      "corpo": "It combines edifying narratives — Daniel in the lions' den, the three young men in the fiery furnace, the story of Susanna (in the deuterocanonical sections in Greek) — with apocalyptic visions about successive empires and the final triumph of the Kingdom of God, including the famous vision of the \"Son of Man\" (Dn 7:13-14), taken up by Jesus to designate himself in the Gospels.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Daniel%27s_Answer_to_the_King%2C_by_Briton_Riviere%2C_GMIII_MCAG_1937_123-001.jpg",
+      "imagem_credito": null,
+      "ordem": 34,
+      "testamento": "antigo",
+      "genero_literario": "Apocalyptic/narrative",
+      "autor_tradicional": "Anonymous",
+      "data_composicao": "2nd century BC (final form)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:oseias",
+      "slug": "oseias",
+      "titulo": "Hosea",
+      "categoria": "biblia",
+      "resumo": "Prophet of the Northern Kingdom who uses his own failed marriage as a metaphor for God's faithful love for unfaithful Israel.",
+      "corpo": "Prophesying in the Northern Kingdom, Hosea uses the experience of his own marriage to an unfaithful woman as a living metaphor for God's relentless love for Israel, who turns away to idolatrous worship but is always called back — one of the strongest images in the Old Testament of divine mercy that persists despite human unfaithfulness.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/78/Statues_in_Santu%C3%A1rio_do_Bom_Jesus_de_Matosinhos_015.JPG",
+      "imagem_credito": "Photo: Eugenio Hansen, OFS — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 35,
+      "testamento": "antigo",
+      "genero_literario": "Prophetic",
+      "autor_tradicional": "Hosea",
+      "data_composicao": "8th century BC",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:joel",
+      "slug": "joel",
+      "titulo": "Joel",
+      "categoria": "biblia",
+      "resumo": "Prophecy about a plague of locusts as a call to conversion, and the promise of the outpouring of the Spirit \"upon all flesh.\"",
+      "corpo": "Beginning with a devastating plague of locusts, read as a sign of the \"Day of the Lord,\" Joel calls the people to conversion and fasting, then promises restoration and the outpouring of God's Spirit \"upon all flesh\" (Joel 3:1) — a text quoted by Peter in his Pentecost discourse (Acts 2:17-21) as fulfilled on that day.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Joel_%28Michelangelo%29.jpg",
+      "imagem_credito": null,
+      "ordem": 36,
+      "testamento": "antigo",
+      "genero_literario": "Prophetic",
+      "autor_tradicional": "Joel",
+      "data_composicao": "date uncertain (probably post-exilic)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:amos",
+      "slug": "amos",
+      "titulo": "Amos",
+      "categoria": "biblia",
+      "resumo": "A shepherd of Judah who denounces social injustice and the oppression of the poor in the prosperous Northern Kingdom.",
+      "corpo": "A shepherd of sheep from Judah sent to prophesy in the prosperous but morally corrupt Northern Kingdom, Amos is the biblical prophet most direct in denouncing social injustice — the exploitation of the poor, judicial corruption, and religious worship empty of ethical commitment —, affirming that God prefers \"justice roll down like waters\" (Amos 5:24) to sacrifices offered without uprightness of life.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/AmosProfeta.jpg",
+      "imagem_credito": null,
+      "ordem": 37,
+      "testamento": "antigo",
+      "genero_literario": "Prophetic",
+      "autor_tradicional": "Amos",
+      "data_composicao": "8th century B.C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:abdias",
+      "slug": "abdias",
+      "titulo": "Obadiah",
+      "resumo": "The shortest book of the Old Testament (21 verses): the oracle against Edom for its hostility toward Judah at the fall of Jerusalem, and the announcement of the Day of the Lord.",
+      "corpo": "The Book of Obadiah is the shortest of the Old Testament: a single chapter of 21 verses, with about 440 words in the original Hebrew. His name is theophoric and means \"servant of the Lord\" (in Hebrew, ʿOvadyah); the Latin form \"Abdias\" comes from the Vulgate, and the Septuagint calls him Obdios. In the order of the Hebrew canon and of the Vulgate, it is counted among the Twelve Minor Prophets. Nothing is known with certainty about the person of the prophet: the Scriptures give neither the name of his father nor any biographical detail, and the identifications proposed with other figures named Obadiah (such as the steward of King Ahab in 1 Kings 18:3) are conjectures.\n\nThe central theme is the judgment of Edom, a neighboring people and kin of Israel, descended from Esau, the brother of Jacob. The oracle condemns the Edomites for their hostile or indifferent attitude during the fall of Jerusalem: because they looked on at the misfortune of their \"brother\" Judah, plundered the city, and cut off the escape of the survivors, divine punishment will strike them despite their trust in their mountainous terrain and their pride (Ob 1–14). The second part announces the \"Day of the Lord\" upon all the nations, the restoration of Israel, and God's judgment on the proud (Ob 15–21). The oracle of Obadiah has evident parallels with that of Jeremiah against Edom (Jer 49).\n\nThe dating is disputed. Most scholars place the book shortly after the destruction of Jerusalem by Nebuchadnezzar, in 587/586 B.C., a context that best explains the accusation of Edomite complicity. Others, however, maintain that the text describes the earlier attack on Jerusalem in the reign of Jehoram (c. 848–841 B.C.), narrated in 2 Kings 8:20-22 and 2 Chronicles 21, which would make Obadiah one of the earliest prophets; there are also those who see in the writing a later composition, produced amid the conflicts between the province of Judah and the Edomites in the fifth and fourth centuries B.C. Alfonso Salmerón and other ancient commentators noted the brevity of the text; Saint Jerome summed up the difficulty by saying that \"the shorter, the more difficult.\"\n\nThe prophecy had, for the tradition, a remarkable historical fulfillment. According to Josephus (Antiquities 13.256), the high priest and Hasmonean prince John Hyrcanus subjugated the Idumeans at the end of the second century B.C. and forced them to be circumcised, integrating them into Judea. Later, the Idumeans were absorbed by the Jewish people; many commentators see in the loss of their national identity the fulfillment of the announcement that Edom would disappear as a people, \"leaving no trace\" (Ob 10.18). The New Testament does not cite Obadiah directly.",
+      "categoria": "biblia",
+      "tags": [
+        "Bible",
+        "Old Testament",
+        "Obadiah",
+        "minor prophets",
+        "Edom",
+        "Esau",
+        "Day of the Lord",
+        "Jerusalem",
+        "6th century B.C."
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/47/AbadiasProfeta.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Jerusalem Bible",
+        "Book of Obadiah (Ob 1–21)",
+        "Josephus, Jewish Antiquities 13.256",
+        "Paulus Editora, \"42. Livro de Abdias\"",
+        "Catechism of the Catholic Church, nos. 101–141 (Sacred Scripture)"
+      ],
+      "atualizado_em": null,
+      "ordem": 38,
+      "testamento": "antigo",
+      "genero_literario": "Prophetic",
+      "autor_tradicional": "Obadiah",
+      "data_composicao": "6th century B.C. (uncertain dating)",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:jonas",
+      "slug": "jonas",
+      "titulo": "Jonah",
+      "categoria": "biblia",
+      "resumo": "The narrative of the reluctant prophet swallowed by a great fish, and the call to conversion of the pagan city of Nineveh.",
+      "corpo": "Unlike the other prophetic books, Jonah is above all a narrative: the prophet tries to flee from the mission of preaching conversion to pagan and hostile Nineveh, is swallowed by a great fish and returned to his mission, preaches with unexpected success, and then resents God's mercy toward the Ninevites — a book that teaches, with irony, the universality of divine mercy beyond the borders of Israel.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Sistine_jonah.jpg",
+      "imagem_credito": null,
+      "ordem": 39,
+      "testamento": "antigo",
+      "genero_literario": "Prophetic narrative",
+      "autor_tradicional": "Anonymous",
+      "data_composicao": "5th-4th century B.C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:miqueias",
+      "slug": "miqueias",
+      "titulo": "Micah",
+      "categoria": "biblia",
+      "resumo": "A prophet contemporary with Isaiah, who announces judgment upon social injustice and prophesies Bethlehem as the origin of the future messianic ruler.",
+      "corpo": "A contemporary of Isaiah, Micah denounces the exploitation of the peasants by the elites of Jerusalem and Samaria, and is the author of one of the most quoted summaries of biblical ethical religion: \"to do justice, and to love kindness, and to walk humbly with your God\" (Mic 6:8). He also prophesies that from Bethlehem will come the future ruler of Israel (Mic 5:2), a text cited in the account of the birth of Jesus (Mt 2:6).",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/An%C3%B3nimo_catal%C3%A3o_-_Profeta_Miqueias.JPG",
+      "imagem_credito": null,
+      "ordem": 40,
+      "testamento": "antigo",
+      "genero_literario": "Prophetic",
+      "autor_tradicional": "Micah",
+      "data_composicao": "8th century BC",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:naum",
+      "slug": "naum",
+      "titulo": "Nahum",
+      "resumo": "A poetic oracle of jubilation at the announced fall of Nineveh, the capital of the Assyrian Empire, which had destroyed the Northern Kingdom of Israel.",
+      "corpo": "The Book of Nahum is the seventh of the twelve Minor Prophets and belongs to the collection of the \"Book of the Twelve.\" Its author, Nahum, whose Hebrew name means \"consoled\" or \"comforted,\" is presented as a native of Elkosh, a town of uncertain identification, placed by various traditions in Galilee or in Judah. Nahum is an obscure figure: his name appears in no other book of the Bible nor in any external historical source, and no information is recorded about his lineage or life.\n\nThe work announces and celebrates the ruin of Nineveh, capital of the Assyrian Empire, the power that had dominated the Near East through terror, heavy tribute, ruthless treaties, and massive deportations of populations, among them that of the Northern Kingdom of Israel. The dating can be fixed with reasonable certainty between two historical landmarks that the book itself presupposes: the fall of Thebes (No-amon) in Egypt, in 663 B.C., taken by the Assyrians and mentioned in Nahum 3:8-10 as an example of a powerful city that fell; and the destruction of Nineveh in 612 B.C., when the city was razed by a coalition of Medes and Chaldeans (Babylonians). Nahum's activity is therefore usually placed in the late seventh century B.C., probably during the reign of Josiah (640-609 B.C.).\n\nThe book is divided into three chapters: an opening hymn on the wrath and goodness of God (1:2-14), in which some scholars identify traces of an acrostic poem, in which the verses would begin with consecutive letters of the Hebrew alphabet, now incomplete in the Masoretic text; the description of the assault on and capture of Nineveh (2:1-13), presented as a lions' den that will be plundered; and the final oracle on the city's crimes and its inevitable ruin (3:1-19), with the famous saying \"Woe to the bloody city, all full of lies\" (3:1).\n\nA notable theological contrast distinguishes Nahum from the Book of Jonah: whereas Jonah is sent to preach repentance in Nineveh, which converts, Nahum offers the city no possibility of amendment. His prophecy is one of irreversible judgment, the reflection of patience exhausted before a city that had returned to iniquity. It is a song of consolation for the oppressed, who sensed that liberation was near, but also a work in which the image of God still appears tied to a strong nationalism, an understanding that later preaching, especially that of chapters 40 to 55 of Isaiah and of the Gospels, would come to surpass. The book, written in Hebrew with some Aramaisms, is remarkable for the force and color of its poetry, often considered among the most vivid of the Old Testament.",
+      "categoria": "biblia",
+      "tags": [
+        "Bible",
+        "Old Testament",
+        "Nahum",
+        "Minor Prophets",
+        "Nineveh",
+        "Assyria",
+        "divine judgment",
+        "Book of the Twelve",
+        "7th century B.C."
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/02/NahumProfeta.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Jerusalem Bible, introduction to the Book of Nahum",
+        "Paulus Editora, commentary on the Book of Nahum",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)",
+        "Second Vatican Council, Dogmatic Constitution Dei Verbum, ch. IV (1965)"
+      ],
+      "atualizado_em": null,
+      "ordem": 41,
+      "testamento": "antigo",
+      "genero_literario": "Prophetic",
+      "autor_tradicional": "Nahum",
+      "data_composicao": "late 7th century B.C.",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:habacuc",
+      "slug": "habacuc",
+      "titulo": "Habakkuk",
+      "categoria": "biblia",
+      "resumo": "A dialogue between the prophet and God about why the unjust prosper, culminating in the declaration \"the righteous shall live by his faith.\"",
+      "corpo": "Structured as a dialogue between the prophet and God, Habakkuk asks why violence and injustice seem to prosper without a divine response, and receives the answer that the righteous shall live by faith (Hab 2:4), a verse that Saint Paul would take up as the foundation of the doctrine of justification by faith (Rom 1:17).",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Dome_of_Immanuel_in_St_Mark%27s_Basilica-Habakkuk.jpg",
+      "imagem_credito": null,
+      "ordem": 42,
+      "testamento": "antigo",
+      "genero_literario": "Prophetic",
+      "autor_tradicional": "Habakkuk",
+      "data_composicao": "late 7th century B.C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:sofonias",
+      "slug": "sofonias",
+      "titulo": "Zephaniah",
+      "categoria": "biblia",
+      "resumo": "Announcement of the \"Day of the Lord\" as a universal judgment, followed by the promise of a faithful \"remnant\" that will be saved.",
+      "corpo": "Prophesying shortly before the reforms of King Josiah, Zephaniah announces the \"Day of the Lord\" as a universal judgment against idolatry and injustice, but concludes with one of the most joyful promises of the Old Testament about the restoration of a faithful \"remnant\" of Israel, over whom God \"will exult with joy\" (Zeph 3:17).",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 43,
+      "testamento": "antigo",
+      "genero_literario": "Prophetic",
+      "autor_tradicional": "Zephaniah",
+      "data_composicao": "late 7th century B.C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:ageu",
+      "slug": "ageu",
+      "titulo": "Haggai",
+      "categoria": "biblia",
+      "resumo": "A prophet who encourages the Jews recently returned from exile to resume the rebuilding of the Temple of Jerusalem.",
+      "corpo": "Dated with unusual precision to the year 520 B.C., Haggai addresses the Jews who had returned from the Babylonian exile and who had abandoned the work of rebuilding the Temple in order to look after their own houses, exhorting them to once again give priority to the house of God, with the promise of material blessing as a consequence of this fidelity.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Haggai_%28Menologion_of_Basil_II%29.jpg",
+      "imagem_credito": null,
+      "ordem": 44,
+      "testamento": "antigo",
+      "genero_literario": "Prophetic",
+      "autor_tradicional": "Haggai",
+      "data_composicao": "520 B.C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:zacarias",
+      "slug": "zacarias",
+      "titulo": "Zechariah",
+      "categoria": "biblia",
+      "resumo": "Symbolic visions that encourage the rebuilding of the Temple, and messianic prophecies cited in the Gospel accounts of the Passion.",
+      "corpo": "A contemporary of Haggai, the first part of the book (chaps. 1-8) uses symbolic visions to encourage the rebuilding of the Temple and the restoration of the Jewish community; the final chapters (9-14), whose dating and authorship are more debated, contain messianic prophecies widely cited in the Gospel accounts of the Passion, such as the entry of the humble king riding on a donkey's colt (Zech 9:9) and the thirty pieces of silver (Zech 11:12-13).",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Michelangelo%2C_profeti%2C_Zechariah_01.jpg",
+      "imagem_credito": null,
+      "ordem": 45,
+      "testamento": "antigo",
+      "genero_literario": "Prophetic/apocalyptic",
+      "autor_tradicional": "Zechariah (and an anonymous continuator in the final chapters)",
+      "data_composicao": "late 6th century to 4th century B.C.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:malaquias",
+      "slug": "malaquias",
+      "titulo": "Malachi",
+      "categoria": "biblia",
+      "resumo": "The last of the prophets of the Old Testament in the Christian order, he denounces liturgical negligence and announces the coming of a messenger before the \"Day of the Lord.\"",
+      "corpo": "\"Malachi\" means \"my messenger\" in Hebrew, possibly a title and not a proper name. He denounces the negligence of the priests and the people in worship and in tithes, and announces the sending of a messenger who will prepare the way before the great \"Day of the Lord\" — a text read by the Christian tradition as a prophecy of John the Baptist, forerunner of Christ.",
+      "tags": [
+        "Bible",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rembrandt_Harmenszoon_van_Rijn-_Moses_Smashing_the_Tables_of_the_Law_-_detail.JPG",
+      "imagem_credito": null,
+      "ordem": 46,
+      "testamento": "antigo",
+      "genero_literario": "Prophetic",
+      "autor_tradicional": "Anonymous (\"Malachi\" = \"my messenger\")",
+      "data_composicao": "5th century BC",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:mateus",
+      "slug": "mateus",
+      "titulo": "Gospel of Matthew",
+      "categoria": "biblia",
+      "resumo": "A Gospel addressed to readers of Jewish origin, which presents Jesus as the new Moses and the fulfillment of the Scriptures.",
+      "corpo": "Written probably for a Jewish-Christian community, it emphasizes the fulfillment of the Old Testament prophecies in Jesus and presents him as the new Moses, organizing his teaching into five great discourses — the most famous being the Sermon on the Mount (chap. 5-7), which contains the Beatitudes and the Our Father.",
+      "tags": [
+        "Bible",
+        "New Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Oxford%2C_Sackler_Library_Ms_LXIV_4404_%28Papyrus_104%29_recto_Matt_21%2C_34-37.jpg",
+      "imagem_credito": null,
+      "ordem": 47,
+      "testamento": "novo",
+      "genero_literario": "Gospel",
+      "autor_tradicional": "Tradition attributes it to the apostle Matthew",
+      "data_composicao": "decade of 80-90 A.D.",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:marcos",
+      "slug": "marcos",
+      "titulo": "Gospel according to Mark",
+      "categoria": "biblia",
+      "resumo": "The shortest and probably the oldest of the four Gospels, with a direct style and a rapid pace, centered on the cross.",
+      "corpo": "Considered by many scholars to be the oldest of the four Gospels and a source used by Matthew and Luke, it is the shortest and has a direct, vigorous narrative style, marked by the repeated expression \"immediately\" (in Greek, \"euthys\"). It moves deliberately toward the cross, revealing the messianic identity of Jesus progressively and often through the so-called \"messianic secret.\"",
+      "tags": [
+        "Bible",
+        "New Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/20/Minuscule_543_GA_0042b.jpg",
+      "imagem_credito": null,
+      "ordem": 48,
+      "testamento": "novo",
+      "genero_literario": "Gospel",
+      "autor_tradicional": "Tradition attributes it to John Mark, associated with Peter",
+      "data_composicao": "around AD 65-70",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:lucas",
+      "slug": "lucas",
+      "titulo": "Gospel according to Luke",
+      "categoria": "biblia",
+      "resumo": "A Gospel with a universalist and compassionate tone, attentive to the poor, to women and to sinners; the only one to narrate the Prodigal Son and the Good Samaritan.",
+      "corpo": "Addressed to a broader audience, including non-Jews, Luke emphasizes God's mercy toward the marginalized — the poor, sinners, women, Samaritans —, being the only gospel to narrate the parables of the Prodigal Son and the Good Samaritan. He is also the author of the Acts of the Apostles, forming with the Gospel a two-volume work.",
+      "tags": [
+        "Bible",
+        "New Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Luke_13.29-35_and_14.10_%28CBL_BP_I%2C_f.15r%29.jpg",
+      "imagem_credito": null,
+      "ordem": 49,
+      "testamento": "novo",
+      "genero_literario": "Gospel",
+      "autor_tradicional": "Tradition attributes it to Luke, a physician and companion of Paul",
+      "data_composicao": "the 80s-90s AD",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:joao",
+      "slug": "joao",
+      "titulo": "Gospel of John",
+      "categoria": "biblia",
+      "resumo": "A Gospel of a more theological and contemplative tone, structured around seven \"signs\" and the great discourses of Jesus about his own identity.",
+      "corpo": "Different in style and structure from the three Synoptic Gospels (Matthew, Mark, Luke), it opens with the solemn prologue on the Word made flesh (Jn 1:1-18) and organizes the ministry of Jesus around seven \"signs\" (miracles laden with theological meaning) and long discourses in which Jesus reveals his identity through images such as \"I am the bread of life,\" \"the light of the world,\" \"the good shepherd.\"",
+      "tags": [
+        "Bible",
+        "New Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/JRL19060215_%28cropped%29.jpg",
+      "imagem_credito": "Photo: RylandsImaging — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 50,
+      "testamento": "novo",
+      "genero_literario": "Gospel",
+      "autor_tradicional": "Tradition attributes it to the Apostle John",
+      "data_composicao": "late 1st century AD",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:atos-dos-apostolos",
+      "slug": "atos-dos-apostolos",
+      "titulo": "Acts of the Apostles",
+      "categoria": "biblia",
+      "resumo": "The expansion of the early Church from Pentecost to Paul's arrival in Rome, under the action of the Holy Spirit.",
+      "corpo": "The second volume of Luke's work, it narrates the birth of the Church at Pentecost, the first steps of the community of Jerusalem, the conversion of Saul/Paul and his missionary expansion around the Mediterranean until his arrival in Rome, by then a prisoner — fulfilling the program announced by Jesus in Acts 1:8: \"you shall be my witnesses... to the end of the earth\".",
+      "tags": [
+        "Bible",
+        "New Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Codex_laudianus_%28The_S.S._Teacher%27s_Edition-The_Holy_Bible_-_Plate_XXIX%29.jpg",
+      "imagem_credito": null,
+      "ordem": 51,
+      "testamento": "novo",
+      "genero_literario": "Historical narrative",
+      "autor_tradicional": "Luke",
+      "data_composicao": "the 80s-90s AD",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:romanos",
+      "slug": "romanos",
+      "titulo": "Letter to the Romans",
+      "categoria": "biblia",
+      "resumo": "The most systematic of Paul's letters, setting out the doctrine of justification by faith and not by the works of the Law.",
+      "corpo": "Written to a community that Paul had not yet visited, it is his most complete and systematic theological exposition: the universality of sin, justification by faith in Christ and not by observance of the Mosaic Law, the role of Israel in the plan of salvation (chap. 9-11), and the moral life of the justified Christian.",
+      "tags": [
+        "Bible",
+        "New Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/P118-Rom-16_1-16_4-7-16_11-12-III.jpg",
+      "imagem_credito": null,
+      "ordem": 52,
+      "testamento": "novo",
+      "genero_literario": "Pauline epistle",
+      "autor_tradicional": "Saint Paul",
+      "data_composicao": "around AD 57",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:1-corintios",
+      "slug": "1-corintios",
+      "titulo": "1 Corinthians",
+      "categoria": "biblia",
+      "resumo": "A letter that corrects divisions and concrete abuses in the community of Corinth, with the famous hymn to charity in chapter 13.",
+      "corpo": "Written to correct concrete problems and divisions in a turbulent community — factionalism, sexual immorality, lawsuits among Christians, abuses at the Lord's Supper, and confusion about spiritual gifts —, it contains the famous \"hymn to charity\" (1 Cor 13) and one of the oldest testimonies to the Resurrection of Christ (1 Cor 15).",
+      "tags": [
+        "Bible",
+        "New Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/80/UMrecto.JPG",
+      "imagem_credito": null,
+      "ordem": 53,
+      "testamento": "novo",
+      "genero_literario": "Pauline epistle",
+      "autor_tradicional": "Saint Paul",
+      "data_composicao": "around AD 54-55",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:2-corintios",
+      "slug": "2-corintios",
+      "titulo": "2 Corinthians",
+      "categoria": "biblia",
+      "resumo": "The most personal of Paul's letters, defending his apostleship against opponents and reflecting on apostolic suffering.",
+      "corpo": "Written after a painful reconciliation with the community of Corinth, it is Paul's most autobiographical and emotionally intense letter, in which he defends the authenticity of his apostleship against \"false apostles\" and reflects on the paradox of God's power made manifest in human weakness (\"my grace is sufficient for you,\" 2 Cor 12:9).",
+      "tags": [
+        "Bible",
+        "New Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/P46.jpg",
+      "imagem_credito": null,
+      "ordem": 54,
+      "testamento": "novo",
+      "genero_literario": "Pauline epistle",
+      "autor_tradicional": "Saint Paul",
+      "data_composicao": "around AD 55-56",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:galatas",
+      "slug": "galatas",
+      "titulo": "Letter to the Galatians",
+      "categoria": "biblia",
+      "resumo": "A passionate defense of Christian freedom in the light of faith, against those who demanded circumcision and the Mosaic Law of converted Gentiles.",
+      "corpo": "Written in an unusually urgent tone, it argues that justification comes from faith in Christ, not from observance of the Mosaic Law — in particular circumcision — against preachers who demanded that Christians of Gentile origin fully adopt Jewish practice. It contains the classic list of the \"fruits of the Spirit\" (Gal 5:22-23).",
+      "tags": [
+        "Bible",
+        "New Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/P051-Gal-1_2-10-POxy2157-IV.jpg",
+      "imagem_credito": null,
+      "ordem": 55,
+      "testamento": "novo",
+      "genero_literario": "Pauline epistle",
+      "autor_tradicional": "Saint Paul",
+      "data_composicao": "around AD 48-55 (dating disputed)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:efesios",
+      "slug": "efesios",
+      "titulo": "Letter to the Ephesians",
+      "resumo": "A lofty reflection on God's eternal plan to gather all things in Christ and on the Church as his Body; possibly a circular letter addressed to the communities of Asia Minor.",
+      "corpo": "The Letter to the Ephesians has a more contemplative and less circumstantial tone than the other Pauline letters: there are almost no personal greetings or references to the concrete problems of a community, which has led many scholars to consider it a circular letter, intended for several churches of Asia Minor. The basis of this hypothesis is in v. 1:1: the words \"in Ephesus\" are missing from the oldest and most important manuscripts, among them Papyrus 46 and the texts used by Tertullian and Origen, which most textual critics read as a later interpolation. Without this local address, the text is addressed generically \"to the holy ones who are faithful in Christ Jesus,\" and the mention that the author is a prisoner (Eph 3:1; 4:1; 6:20) is too vague to establish place and date.\n\nThe underlying theme is God's eternal plan \"to sum up all things in Christ, in heaven and on earth\" (Eph 1:10), and the \"mystery\" hidden in God for ages and now revealed: that the Gentiles are coheirs, members of the same Body, and sharers in the promise (Eph 3:4-6). The Church is presented as the Body of Christ, \"the fullness of the one who fills all in all\" (Eph 1:22-23), and as a building \"built upon the foundation of the apostles and prophets, with Christ Jesus himself as the capstone\" (Eph 2:20), in which Jews and Gentiles form one people, the \"dividing wall\" of enmity having been broken down (Eph 2:14).\n\nThe structure of the letter divides clearly into two parts, linked by the word \"therefore.\" Chapters 1-3 set out the mystery and the new humanity in Christ, culminating in prayers; chapters 4-6 draw the moral consequences: unity in the diversity of gifts, the image of the \"new man,\" and the household exhortations (Eph 5:21-6:9). The passage on marriage — \"Husbands, love your wives, even as Christ loved the Church and handed himself over for her\" (Eph 5:25), up to the \"great mystery\" referring to Christ and the Church (Eph 5:32) — became central to the Catholic theology of marriage as a sacrament. The final catalogue (Eph 6:10-17) describes the \"armor of God\" in the spiritual struggle.\n\nAuthorship is a matter of debate. Tradition attributes the letter to Paul, written during a captivity (Rome, c. AD 62, in the traditional reading). Modern criticism, however, points to differences in style, vocabulary, and theology, and to the strong linguistic similarity with the Letter to the Colossians — about a third of the text is parallel — suggesting literary dependence. For this reason, numerous scholars date Ephesians between AD 70 and 100 and attribute it to a disciple of Paul, while others maintain direct authorship. Even among those who admit pseudonymity, the writing is considered deeply Pauline in doctrine.\n\nTextually, Ephesians is attested by Papyrus 46 (c. AD 200), the oldest extensive Pauline witness, by Papyrus 92, and by the great fourth-century codices, such as Sinaiticus and Vaticanus. It entered the canon without great controversy and is cited by Irenaeus. The Catechism of the Catholic Church draws on Ephesians at key points of ecclesiology and morality, especially in the doctrine of the Mystical Body and of the sacrament of marriage.",
+      "categoria": "biblia",
+      "tags": [
+        "Bible",
+        "New Testament",
+        "Pauline epistles",
+        "Paul",
+        "Ephesians",
+        "Church",
+        "Body of Christ",
+        "mystery",
+        "Colossians",
+        "Papyrus 46",
+        "marriage",
+        "Asia Minor"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/31/P092-Eph-1_11-13-III-IV.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Ephesians 1:1-6:24 (Jerusalem Bible)",
+        "Papyrus 46 (P46), Papyrus 92, Codex Sinaiticus and Codex Vaticanus",
+        "Wikipedia (es): 'Epístola a los efesios'",
+        "Catechism of the Catholic Church (doctrine of the Mystical Body and of marriage)",
+        "Irenaeus of Lyon, Against Heresies"
+      ],
+      "atualizado_em": null,
+      "ordem": 56,
+      "testamento": "novo",
+      "genero_literario": "Pauline epistle",
+      "autor_tradicional": "Traditionally attributed to Paul (authorship disputed by modern criticism)",
+      "data_composicao": "around AD 60-63 or later",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:filipenses",
+      "slug": "filipenses",
+      "titulo": "Letter to the Philippians",
+      "categoria": "biblia",
+      "resumo": "A letter of affectionate and joyful tone, written from prison, containing the famous \"Christological hymn\" on the self-emptying of Christ.",
+      "corpo": "Written from prison to a community with which Paul had particularly affectionate ties, it is one of the most joyful letters of the New Testament despite the circumstances. It contains the famous hymn about Christ who, \"though he was in the form of God... emptied himself\" (Phil 2:6-11), one of the most important Christological texts of the New Testament.",
+      "tags": [
+        "Bible",
+        "New Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Papyrus_16_-_Papyrus_Oxyrhynchus_1009_-_Cairo_Egyptian_Museum_JE_47424_-_Epistle_to_the_Philippians_3%2C10%E2%80%9317%2C_4%2C2%E2%80%938.jpg",
+      "imagem_credito": null,
+      "ordem": 57,
+      "testamento": "novo",
+      "genero_literario": "Pauline epistle",
+      "autor_tradicional": "Saint Paul",
+      "data_composicao": "around AD 54-62 (written from prison)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:colossenses",
+      "slug": "colossenses",
+      "titulo": "Letter to the Colossians",
+      "categoria": "biblia",
+      "resumo": "A letter that exalts the cosmic supremacy of Christ, \"the image of the invisible God,\" against teachings that reduced him to an intermediary being.",
+      "corpo": "Written against a local syncretic philosophy that threatened to reduce Christ to just one among other intermediary spiritual powers, it solemnly affirms his absolute supremacy: \"He is the image of the invisible God... in him all things were created\" (Col 1:15-16), one of the most exalted Christological texts of the New Testament.",
+      "tags": [
+        "Bible",
+        "New Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Claromontanus_2_greek.jpg",
+      "imagem_credito": null,
+      "ordem": 58,
+      "testamento": "novo",
+      "genero_literario": "Pauline epistle",
+      "autor_tradicional": "Traditionally attributed to Paul (authorship debated)",
+      "data_composicao": "around AD 60-63 or later",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:1-tessalonicenses",
+      "slug": "1-tessalonicenses",
+      "titulo": "1 Thessalonians",
+      "categoria": "biblia",
+      "resumo": "Probably the oldest writing of the New Testament; it comforts the community about the fate of those who have already died before the return of Christ.",
+      "corpo": "Considered by many scholars the oldest document of the New Testament, it was written to console a young community, anxious about the fate of the faithful who had died before what was expected to be the imminent return of Christ, affirming that they are not at a disadvantage and will rise first.",
+      "tags": [
+        "Bible",
+        "New Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/POxy1598_%281Th_5.8-10%29.jpg",
+      "imagem_credito": null,
+      "ordem": 59,
+      "testamento": "novo",
+      "genero_literario": "Pauline epistle",
+      "autor_tradicional": "Saint Paul",
+      "data_composicao": "around AD 50-51",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:2-tessalonicenses",
+      "slug": "2-tessalonicenses",
+      "titulo": "2 Thessalonians",
+      "resumo": "A letter of correction: it clarifies the mistaken belief that the \"Day of the Lord\" had already come, describes the \"man of lawlessness,\" and insists on work and an orderly life while waiting.",
+      "corpo": "The Second Letter to the Thessalonians was written a short time after the first, probably from Corinth, around the year AD 51, when Paul, Silvanus (Silas), and Timothy were together in that city (cf. Acts 18:5). This would make it one of the oldest writings of the New Testament. The community of Thessalonica, today a city of Greece, in Macedonia, had been founded by Paul during the second missionary journey (Acts 17:1-9) and was subject to persecution, which motivates the opening praise of the faithful for their steadfastness (2 Thes 1:3-4).\n\nThe main purpose is to correct an eschatological misunderstanding. Some Thessalonians, disturbed by \"a spirit, or a word, or a letter allegedly from us, to the effect that the day of the Lord is at hand\" (2 Thes 2:2), came to believe that this day had already arrived. Paul responds by describing signs that would precede it: the apostasy and the revelation of the \"man of lawlessness,\" also called the \"son of perdition,\" \"the opponent who exalts himself above every so-called god or object of worship\" and who even takes his seat in the temple, proclaiming himself to be God (2 Thes 2:3-4). This figure personifies lawlessness and is anticipated by the Lord, \"whom the Lord Jesus will kill with the breath of his mouth\" (2 Thes 2:8).\n\nA notable element is the \"restraining force\" that holds back this revelation: \"And you know what is restraining him now, so that he may be revealed in his time\" (2 Thes 2:6). The text uses the neuter *to katechon* (\"what restrains\") in v. 6 and the masculine *ho katechon* (\"the one who restrains\") in v. 7. This ambiguity, in Catholic exegesis, was frequently associated with the Roman Empire and with the legitimate authority that secures order, and it gave rise to a vast patristic and later literature. The precise identity of the restraining force remains open in the interpretations.\n\nThe practical side of the correction is in chapter 3: faced with the false expectation of an imminent return, some had abandoned work. Paul reacts with the oft-quoted phrase: \"If anyone is unwilling to work, neither should that one eat\" (2 Thes 3:10), and commands that they keep away from anyone who lives \"in a disorderly way and not according to the tradition they received from us\" (2 Thes 3:6). The author exhorts them to \"stand firm and hold fast to the traditions that you were taught, either by an oral statement or by a letter of ours\" (2 Thes 2:15), tradition being understood here as doctrine transmitted orally and in writing.\n\nPauline authorship is attested from early on: the letter was included in Marcion's canon, appears in the Muratorian Fragment, and is mentioned by name by Irenaeus of Lyons. Even so, part of modern criticism questions direct authorship, invoking differences of style, the more elaborate apocalyptic tone, and the mention of a \"letter allegedly from us\" (2 Thes 2:2), which some interpret as a sign of a later pseudonym. The majority of scholars, however, continue to defend Pauline authorship, and the external evidence in its favor is considered even stronger than that for 1 Thessalonians. The textual witnesses include Papyrus 30, Codex Vaticanus (4th century), and Codex Sinaiticus.",
+      "categoria": "biblia",
+      "tags": [
+        "Bible",
+        "New Testament",
+        "Pauline epistles",
+        "Paul",
+        "Thessalonica",
+        "eschatology",
+        "Day of the Lord",
+        "man of lawlessness",
+        "katechon",
+        "1st century",
+        "Codex Vaticanus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Codex_Vaticanus_B%2C_2Thess._3%2C11-18%2C_Hebr._1%2C1-2%2C2.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "2 Thessalonians 1:1-3:18 (Jerusalem Bible)",
+        "Acts 18:5",
+        "Codex Vaticanus B (2 Thes 3:11-18), 4th century, Wikimedia Commons",
+        "Muratorian Fragment; Marcion's Canon; Irenaeus of Lyons",
+        "Wikipedia: 'Authorship of the Pauline Epistles'",
+        "Catechism of the Catholic Church, no. 633 (cf. 2 Thes 2:3-12)"
+      ],
+      "atualizado_em": null,
+      "ordem": 60,
+      "testamento": "novo",
+      "genero_literario": "Pauline epistle",
+      "autor_tradicional": "Traditionally attributed to Paul (authorship disputed)",
+      "data_composicao": "around AD 51-52 or later",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:1-timoteo",
+      "slug": "1-timoteo",
+      "titulo": "1 Timothy",
+      "resumo": "Letter addressed to Timothy, in Ephesus, with guidance on the organization of the communities, the requirements for bishops and deacons, and the fight against false teachers.",
+      "corpo": "The First Letter to Timothy belongs, together with the Second Letter to Timothy and the Letter to Titus, to the group of the three \"pastoral epistles.\" The name derives from the fact that they are addressed to co-workers entrusted with the care (shepherding) of the communities and that they contain instructions on the qualifications and responsibilities of those who exercise leadership in them. The letter presents itself as sent by the apostle Paul to his \"true child in the faith,\" Timothy, whom he is said to have left in Ephesus to combat deviant teaching (1 Tm 1:3). Timothy had been found by Paul in Lystra, on the second missionary journey, and had become his closest co-worker.\n\nThe document opens without the usual thanksgiving, a detail that commentators highlight as a sign of the urgency of the problem, and goes straight to the command to confront the false teachers, described as devoted to myths, genealogies, and a misguided asceticism. The letter deals with prayer for all people and with proper conduct in the assembly (ch. 2), with the moral requirements for bishops (epískopoi, \"overseers\") and deacons (diákonoi), who were to be \"above reproach,\" married only once, and able to manage their own household well (1 Tm 3:1-13), with the care of widows, with presbyters, and with the danger of wealth (chs. 5–6). The ecclesiology here is more structured than in the undisputed Pauline letters, which carries weight in the debate over authorship: alongside bishops and deacons, presbyters and widows appear as groups with recognized functions in the community, forming a portrait of an already institutionalized church.\n\nPauline authorship is asserted in the text itself (1:1), but it was open to discussion as early as Christian antiquity. Beginning in the nineteenth century, a good part of scholarship came to regard the pastoral epistles as the work of an unknown author, written between the end of the first century and the middle of the second. Among the arguments are the vocabulary and style, which differ from those of Paul's undisputed letters, the more developed ecclesial structure, and the opposition to a teaching with features reminiscent of emerging Gnosticism. Some scholars have proposed that the true author was Polycarp of Smyrna, which would place the composition around AD 140; others defend a \"fragment theory,\" according to which the letter gathers authentic notes of Paul stitched together by a disciple. A smaller but persistent number of authors maintain direct Pauline authorship, dated around AD 62-64.\n\nOne of the most discussed passages in the entire New Testament is found in 1 Tm 2:11-15, which deals with the silence and submission of women and with teaching authority. The traditional Catholic interpretation sees here a directive about governance and teaching in the assembly; many modern exegetes, however, underline the specific context of Ephesus, a city marked by the cult of Artemis, whose temple was one of the seven wonders of the ancient world, and where a false teaching was ferment, of which women were more the recipients than the promoters. The passage about women who \"will be saved through childbearing\" (2:15) is sometimes read in light of this environment. Equally debated is 1 Tm 3:11, where some translate \"women\" as the wives of the deacons and others as women who exercised the diaconate, like Phoebe, a \"deaconess\" mentioned in Rom 16:1. The text, therefore, has been and continues to be read in divergent ways within and outside the Church.",
+      "categoria": "biblia",
+      "tags": [
+        "1 Timothy",
+        "New Testament",
+        "pastoral epistles",
+        "Saint Paul",
+        "Timothy",
+        "Ephesus",
+        "bishops and deacons",
+        "false teachers",
+        "Pauline authorship",
+        "Artemis",
+        "epistles"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Uncial_015_%281_Tm_2.2-6%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Jerusalem Bible, First Letter to Timothy (introduction and notes)",
+        "Catechism of the Catholic Church, nos. 101-108 (inspiration and truth of Sacred Scripture)",
+        "Second Vatican Council, Dogmatic Constitution Dei Verbum, nos. 18-20",
+        "Felix Just, S.J., The Pastoral Epistles: 1 & 2 Timothy, Titus (catholic-resources.org)",
+        "Acts 19:23-40 (the riot of the silversmiths in Ephesus and the cult of Artemis)"
+      ],
+      "atualizado_em": null,
+      "ordem": 61,
+      "testamento": "novo",
+      "genero_literario": "Pastoral epistle",
+      "autor_tradicional": "Traditionally attributed to Paul (authorship disputed)",
+      "data_composicao": "late first century AD (on the hypothesis of pseudonymity) or the 60s",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:2-timoteo",
+      "slug": "2-timoteo",
+      "titulo": "2 Timothy",
+      "resumo": "The spiritual testament of Paul, written from prison shortly before his death, exhorting Timothy to persevere and crowning the apostle's life with the words \"I have fought the good fight.\"",
+      "corpo": "The Second Letter to Timothy is, in Christian tradition, the last letter written by Paul, composed in a Roman prison when he already foresaw his martyrdom. Together with 1 Timothy and Titus, it belongs to the group of the so-called \"Pastoral Epistles,\" the most debated among the writings attributed to the apostle: modern criticism usually considers them pseudonymous or the work of a disciple (the \"Pauline school\"), while ancient testimony received them as authentic. The Muratorian Canon, around the year 170, already mentions them as \"writings valuable for ecclesiastical discipline,\" and the Syriac Peshitta, from the 2nd century, also includes them.\n\nThis is because the letter does not fit well within the account of Acts: Eusebius of Caesarea, in his Ecclesiastical History (II, 22), transmits the ancient tradition that Paul, after his first trial in Rome, was released, resumed preaching \"in the East and in the West,\" and, arrested again in the same city, finally suffered martyrdom — \"in this second captivity he wrote the Second Letter to Timothy, in which he mentions his first defense and his imminent death.\" The same sequence already appears in the letter of Clement of Rome to the Corinthians (1 Clement 5), which speaks of Paul's preaching to the farthest limits of the West before his final witness.\n\nWhat tradition holds to be Paul's last writing is a deeply personal text. In the most frequently quoted passage (2 Tim 4:6-8), he compares his own death to a libation: \"I am already being poured out like a libation, and the time of my departure has come\" (analysis: the Greek term for \"departure\" evokes loosing a ship's moorings or striking camp), and then concludes: \"I have fought the good fight, I have finished the race, I have kept the faith.\" There follows the crown of righteousness that the \"righteous Judge\" will give him (4:8). It is from these lines, and not from any other contemporary source, that Christian piety has always drawn the serene image of the apostle facing death.\n\nThe letter is rich in names and concrete details. Paul laments that \"Demas, in love with this present world, has deserted me\" (4:10), and that at his first defense \"no one came to my support, but all deserted me\" (4:16), yet he records that \"Luke alone is with me\" (4:11); he asks for Mark to come, \"for he is useful to me for ministry,\" and for the cloak left at Troas with Carpus to be brought, \"also the books, and above all the parchments\" (4:13). He warns against \"Alexander the coppersmith,\" who did him great harm (4:14-15), and recalls the kindness of Onesiphorus, who sought him out in Rome and was not ashamed of his chains (1:16-18). Its overall structure is usually described as chiastic, moving from Timothy to the gospel and back to Timothy. The tone of farewell, the insistent appeal to doctrinal fidelity, and the solemnity of \"all Scripture is inspired by God\" (3:16) made this letter the spiritual testament of the apostle par excellence.",
+      "categoria": "biblia",
+      "tags": [
+        "Bible",
+        "New Testament",
+        "Pastoral Epistles",
+        "Paul",
+        "Timothy",
+        "martyrdom",
+        "1st century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/End_of_1_Timothy_and_beginning_of_2_Timothy_in_Sinaiticus.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Jerusalem Bible",
+        "Eusebius of Caesarea, Ecclesiastical History, II, 22 (on Paul's release, second imprisonment, and martyrdom)",
+        "Clement of Rome, 1 Clement 5",
+        "Muratorian Canon (c. 170)",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)",
+        "Wikipedia, \"Authorship of the Pauline epistles\" (status of the Pastoral Epistles)"
+      ],
+      "atualizado_em": null,
+      "ordem": 62,
+      "testamento": "novo",
+      "genero_literario": "Pastoral epistle",
+      "autor_tradicional": "Traditionally attributed to Paul (authorship disputed)",
+      "data_composicao": "late 1st century AD or the 60s (Paul's last letter, according to tradition)",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:tito",
+      "slug": "tito",
+      "titulo": "Letter to Titus",
+      "categoria": "biblia",
+      "resumo": "Paul's instructions to Titus on the organization of the young Church in Crete and the requirements for presbyters.",
+      "corpo": "Addressed to Titus, whom Paul left in Crete to organize that newly founded Church, it deals with the appointment of qualified presbyters and the Christian conduct expected of different groups within the community — the elderly, the young, slaves —, reflecting the grace of God that teaches us to live soberly, justly and piously.",
+      "tags": [
+        "Bible",
+        "New Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Minuscule_699_GA_folio_41v.jpg",
+      "imagem_credito": null,
+      "ordem": 63,
+      "testamento": "novo",
+      "genero_literario": "Pastoral epistle",
+      "autor_tradicional": "Traditionally attributed to Paul (authorship disputed)",
+      "data_composicao": "late 1st century AD or the 60s",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:filemom",
+      "slug": "filemom",
+      "titulo": "Letter to Philemon",
+      "categoria": "biblia",
+      "resumo": "Paul's shortest letter: a personal and delicate request that Philemon welcome back his runaway slave Onesimus as a brother in Christ.",
+      "corpo": "The shortest and most personal of the Pauline letters: written from prison on behalf of Onesimus, a runaway slave who converted and began to help Paul, it asks his master, Philemon, to receive him back \"no longer as a slave but... as a beloved brother\" (Philem 16) — a text read as a seed of the later Christian questioning of slavery.",
+      "tags": [
+        "Bible",
+        "New Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Fragmento_filemon.jpg",
+      "imagem_credito": "Photo: User:Christian bitencourt — Wikimedia Commons, CC BY-SA 3.0",
+      "ordem": 64,
+      "testamento": "novo",
+      "genero_literario": "Pauline epistle (personal)",
+      "autor_tradicional": "Saint Paul",
+      "data_composicao": "around AD 54-62",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:hebreus",
+      "slug": "hebreus",
+      "titulo": "Epistle to the Hebrews",
+      "categoria": "biblia",
+      "resumo": "An exposition of Christ as the perfect and definitive High Priest, whose sacrifice surpasses and fulfills all the worship and priesthood of the Old Testament.",
+      "corpo": "Its authorship is uncertain (already in antiquity it was debated whether it was truly by Paul). It presents Christ as the definitive High Priest \"according to the order of Melchizedek,\" whose one sacrifice on the cross replaces and perfects the entire Levitical sacrificial system. Chapter 11 is the famous \"praise of faith,\" with a long gallery of witnesses from the Old Testament.",
+      "tags": [
+        "Bible",
+        "New Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Papyrus_13_-_British_Library_Papyrus_1532_-_Epistle_to_the_Hebrews_-_2.jpg",
+      "imagem_credito": null,
+      "ordem": 65,
+      "testamento": "novo",
+      "genero_literario": "Epistle (anonymous authorship)",
+      "autor_tradicional": "Anonymous (traditionally associated with Paul, now considered to be by another author)",
+      "data_composicao": "before AD 70",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:tiago",
+      "slug": "tiago",
+      "titulo": "Letter of James",
+      "categoria": "biblia",
+      "resumo": "A letter of strongly practical character, famous for the assertion that \"faith without works is dead.\"",
+      "corpo": "Markedly practical and sapiential in tone, closer to wisdom literature than to Pauline theological argument, it insists that genuine faith necessarily translates into concrete works of charity and justice — \"faith without works is dead\" (Jas 2:26) —, besides containing strong warnings against social injustice and the misuse of the tongue.",
+      "tags": [
+        "Bible",
+        "New Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Minuscule_319_%28GA%29_f85r.jpg",
+      "imagem_credito": null,
+      "ordem": 66,
+      "testamento": "novo",
+      "genero_literario": "Catholic epistle",
+      "autor_tradicional": "Traditionally attributed to James, \"the brother of the Lord\"",
+      "data_composicao": "between AD 45 and 62, or the late first century",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:1-pedro",
+      "slug": "1-pedro",
+      "titulo": "1 Peter",
+      "resumo": "The first of the Catholic Epistles: a letter of encouragement to Christians of Asia Minor who were hostilely treated because of their faith, called to live with hope and integrity, following the suffering Christ.",
+      "corpo": "The letter opens with the greeting \"Peter, an apostle of Jesus Christ, to the chosen sojourners of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia\" (1 Pet 1:1). These are five Roman provinces in the north and center of Asia Minor — territory of present-day Turkey —, which indicates a broad audience, made up above all of Christians of pagan origin, scattered over a vast region. The author calls them \"aliens and exiles\" (1 Pet 2:11) and \"a chosen race, a royal priesthood, a holy nation, God's own people\" (1 Pet 2:9), applying to the Christian community titles formerly reserved for Israel.\n\nThe central theme is suffering borne with patience, in the image of Christ. The recipients were not yet facing a systematic persecution by the Empire, but the social hostility, slander, and mockery of their pagan neighbors; the letter urges them to respond with good conduct, so that \"those who defame your good conduct in Christ may be put to shame\" (1 Pet 3:16). In 1 Pet 4:12-16 the author warns: \"do not be surprised at the fiery ordeal that is taking place among you,\" and observes that suffering \"as a Christian\" should shame no one — one of the earliest uses of the term \"Christian\" as an identifying designation in a context of accusation. This setting is usually linked to the climate created after the burning of Rome under Nero (AD 64) and to the spread of the Christian name as suspect in the following years.\n\nThe origin of the letter brings together valuable elements. In the closing, the author writes: \"Through Silvanus, a faithful brother as I consider him, I have written you briefly\" (1 Pet 5:12), which tradition understands as Silvanus acting as secretary or bearer — possibly the same Silas who was a companion of Paul. The greeting follows: \"She who is in Babylon, chosen together with you, sends you greetings, and so does my son Mark\" (1 Pet 5:13). \"Babylon\" is widely read as a cipher for Rome, the imperial capital, and \"Mark\" as the evangelist, disciple and interpreter of Peter, which gives the letter an anchoring in the Roman Petrine tradition.\n\nAuthorship is debated. Attribution to the apostle Peter is traditional and supported by the text itself; modern criticism, however, observes that the Greek of the letter is elegant and cultured, with a solid knowledge of Scripture, which would contrast with an Aramaic-speaking Galilean fisherman. Scholars such as Bart Ehrman consider direct authorship unlikely, while others explain the good Greek through the mediation of Silvanus and a skilled secretary. Dating oscillates between AD 60-64 (defended by a traditional reading, linked to Rome) and the end of the first century, already under the shadow of more structured persecutions. The epistle was recognized as canonical early on in both East and West; the oldest witness to an almost complete text is Papyrus 72 (Papyrus Bodmer VIII), of the 3rd-4th century, preserved in the Vatican Apostolic Library, which transmits 1 Peter, 2 Peter, and Jude.\n\nThe second part of the letter (1 Pet 2:11-5:11) unfolds the moral consequences of faith: submission to authorities, household duties, humility, and vigilance against the devil, who \"prowls around like a roaring lion, seeking someone to devour\" (1 Pet 5:8). The hope that sustains it is eschatological — the \"imperishable\" inheritance kept in heaven (1 Pet 1:4) —, but translated into concrete life in the present.",
+      "categoria": "biblia",
+      "tags": [
+        "Bible",
+        "New Testament",
+        "Catholic Epistles",
+        "Peter",
+        "Silvanus",
+        "Mark",
+        "Asia Minor",
+        "persecution",
+        "suffering",
+        "ancient Rome",
+        "1st century",
+        "Papyrus 72"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/POxy_v0073_n4934_a_01_hires125.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "1 Peter 1:1-5:14 (Jerusalem Bible)",
+        "Papyrus 72 (Papyrus Bodmer VIII), Vatican Apostolic Library, 3rd-4th century",
+        "Wikipedia: 'Papyrus 72' and 'Authorship of the Pauline Epistles'",
+        "Bart D. Ehrman, Peter, Paul, and Mary Magdalene (2006)",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ],
+      "atualizado_em": null,
+      "ordem": 67,
+      "testamento": "novo",
+      "genero_literario": "Catholic Epistle",
+      "autor_tradicional": "Traditionally attributed to the apostle Peter",
+      "data_composicao": "around AD 60-64, or the end of the first century",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:2-pedro",
+      "slug": "2-pedro",
+      "titulo": "2 Peter",
+      "resumo": "A warning against false teachers and skeptics who mocked the delay of Christ's return, affirming that \"with the Lord one day is like a thousand years\" and that God's patience aims at repentance.",
+      "corpo": "The Second Epistle of Peter is presented as the second writing of the Apostle Peter (2 Pet 3:1) and occupies the next-to-last place among the Catholic (universal) epistles of the New Testament. It combats false teachers who had infiltrated the community, who denied the coming of the Lord and mocked the delay of the promise, and it answers these objections with a series of arguments: the certainty of the prophetic word, the reminder that God already judged the world by the flood and destroyed Sodom and Gomorrah, and the principle that \"with the Lord one day is like a thousand years, and a thousand years like one day\" (2 Pet 3:8, echoing Psalm 90:4). The apparent delay is not negligence but patience: God is \"not wishing that any should perish, but that all should reach repentance\" (2 Pet 3:9).\n\nThe epistle has a close literary relationship with the Epistle of Jude: the description of the false teachers and the use of Old Testament examples closely resemble each other, and most critics think that one of the two texts depends on the other. A notable point is the reference to the letters of Paul, equated with \"the other scriptures\" (2 Pet 3:15-16), one of the indications that critics invoke to date the work later, since it presupposes a Pauline corpus that has been gathered together and recognized as authoritative.\n\nAuthorship is, among all the books of the New Testament, the most disputed. Tradition attributes the letter to Peter; many modern scholars, however, consider it pseudepigraphal, written by a disciple as late as the early second century, on the basis of differences in style from First Peter, the use of Jude, and the reference to Paul. A reflection of these doubts is the very process of its reception: in the third century, Origen accepted it but acknowledged that many doubted it, and its entry into the canon was only settled with the councils of Laodicea (c. 372) and Carthage (397). The definitive inclusion among the inspired books rests, in Catholic doctrine, on the authority of the Church and not on the resolution of questions of human authorship.\n\nThe oldest material witness is Papyrus 72 (Papyrus Bodmer VIII, 3rd–4th centuries), which brings together, in a single codex, the First and Second Epistles of Peter and the Epistle of Jude, and is preserved in the Vatican Apostolic Library. This papyrus, as much as the mention by Origen, attests that the letter circulated in ancient ecclesiastical circles despite hesitations about its canonicity.",
+      "categoria": "biblia",
+      "tags": [
+        "Bible",
+        "New Testament",
+        "2 Peter",
+        "Catholic epistles",
+        "false teachers",
+        "parousia",
+        "Papyrus 72",
+        "canonicity",
+        "2nd century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Papyrus_Bodmer_VIII.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Jerusalem Bible",
+        "Second Epistle of Peter, chaps. 2 and 3 (especially 3:8-16)",
+        "Papyrus 72 (Papyrus Bodmer VIII), Vatican Apostolic Library, 3rd–4th centuries",
+        "Catechism of the Catholic Church, nos. 101–141 (Sacred Scripture)"
+      ],
+      "atualizado_em": null,
+      "ordem": 68,
+      "testamento": "novo",
+      "genero_literario": "Catholic epistle",
+      "autor_tradicional": "Traditionally attributed to the Apostle Peter (authorship much disputed)",
+      "data_composicao": "probably early 2nd century (the latest in the NT, according to critics)",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:1-joao",
+      "slug": "1-joao",
+      "titulo": "1 John",
+      "resumo": "More a spiritual treatise than a letter, it insists that loving God and loving one's neighbor are inseparable, for \"God is love\" — and it confronts those who denied the Incarnation.",
+      "corpo": "Although numbered among the epistles, the First Letter of John has neither a typical epistolary greeting nor a conclusion: it is more properly a treatise, sermon, or pamphlet of five chapters and 105 verses, which revolves around recurring themes rather than following a linear thread — critics usually compare its structure to that of a symphony, in which the motifs reappear. Its stated purpose is to offer \"criteria\" by which a community can recognize who is truly in communion with God.\n\nThe text is set in the Johannine communities of the late first century, most likely in Ephesus and its surroundings, at a time when they were splitting into rival factions that claimed the heritage of the evangelist's tradition. The author writes against internal adversaries, whom he calls \"antichrists\" and who had left the community (\"They went out from us, but they were not of us,\" 2:19). These opponents seem to deny or downplay the reality of the Incarnation — a tendency associated with Docetism and with Gnostic or \"Cerinthian\" currents — and for this reason John insists, already in the prologue, on the sensible experience of the Word: \"That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon and touched with our hands\" (1:1). It is above all from these Christological controversies and from the decisive sign of fraternal love that the letter draws its strength: \"Whoever does not love does not know God, for God is love\" (4:8); \"By this we know love: he laid down his life for us\" (3:16).\n\nThe textual witness to 1 John is ancient. Papyrus 9 (P. Oxy. 402), from the third century — now in the Houghton Library at Harvard — preserves part of 1 John 4:11-12 and 4:14-17; Papyrus 74 (seventh century) contains passages from the three letters of John; and Codex Sinaiticus (fourth century) transmits the writing in its entirety. It is precisely in 1 John that one of the most famous textual controversies in biblical history is found, the so-called Comma Johanneum (1 John 5:7-8): the clause \"the Father, the Word, and the Holy Spirit, and these three are one,\" which serves as a Trinitarian proof text in the Textus Receptus and in the Clementine Vulgate, but is missing from virtually all ancient Greek manuscripts, appearing in Latin.\n\nThe question had specifically Catholic developments. On January 13, 1897, the Holy Office decreed that the authenticity of the verse as it stood in the Vulgate could not safely be denied — a decision approved by Leo XIII, but without the specific form of papal authority. Thirty years later, on June 2, 1927, under Pius XI, the same Holy Office reversed the decree, allowing Catholic scholars to dispute the Comma after examining the evidence. The Nova Vulgata, published in 1979 after the Second Vatican Council, does not include the clause. The letter ends with a characteristic warning — \"Little children, keep yourselves from idols\" (5:21) —, which sums up its central concern: to preserve the pure faith of the community against everything that usurps the place of God.",
+      "categoria": "biblia",
+      "tags": [
+        "Bible",
+        "New Testament",
+        "Catholic epistles",
+        "letters of John",
+        "God is love",
+        "Docetism",
+        "Incarnation",
+        "Comma Johanneum",
+        "1st century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Papyrus_9_%28GA%29%2C_POxy402.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)",
+        "Decree of the Holy Office of January 13, 1897 and declaration of June 2, 1927 on the Comma Johanneum (Enchiridion symbolorum, DS 3681)",
+        "Nova Vulgata (1979), which does not include the Comma Johanneum",
+        "Wikipedia, \"Johannine Comma\" (textual history of 1 John 5:7-8)",
+        "The Gospel Coalition, \"Introduction to 1 John\" (structure and literary genre)"
+      ],
+      "atualizado_em": null,
+      "ordem": 69,
+      "testamento": "novo",
+      "genero_literario": "Catholic epistle",
+      "autor_tradicional": "Traditionally attributed to the Apostle John",
+      "data_composicao": "late 1st century AD",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:2-joao",
+      "slug": "2-joao",
+      "titulo": "2 John",
+      "resumo": "A brief letter from the \"Presbyter\" that exhorts believers to remain in the truth and in the love of the Gospel and warns against the deceivers who denied that Christ came in the flesh.",
+      "corpo": "The Second Letter of John is one of the shortest works of the New Testament, with only thirteen verses, and is part of the group of three Johannine epistles. The author presents himself only as \"the Elder\" (in Greek presbýteros, \"elder\"), and Christian tradition identifies him with the apostle John. The text is addressed \"to the elect lady and her children\", an expression on which scholars disagree: some read it as a real woman, the leader of a house church; others, as a personification of a Christian community. Among the less probable hypotheses is that it refers to the Virgin Mary herself, since, if the author is John, the letter would have been written around AD 90-100, when she had probably already died.\n\nAs to authorship, the ancient Church faced a delicate question: Papias of Hierapolis, cited by Eusebius of Caesarea in his Ecclesiastical History, distinguished two figures named John, John the Apostle and John the Elder, which fueled the discussion about which of them was the author. The similarities of vocabulary and themes with the Gospel and the First Letter of John support, for most scholars, a common authorship within the Johannine tradition. The canonicity of the letter was debated in antiquity: Eusebius includes it among the \"antilegomena\" (disputed books), it is absent from the ancient Syriac canon (the Peshitta), and it received a negative opinion from Theodore of Mopsuestia; outside the Syriac world, however, the book was widely accepted and was eventually received into the canon.\n\nThe content develops the great Johannine themes of truth and love (vv. 1-6) and leads to a warning against false teachers: \"Many deceivers have gone out into the world, those who do not confess Jesus Christ as coming in the flesh; such a one is the deceiver and the antichrist\" (v. 7). The target is the heresy that tradition calls Docetism, from the Greek dokeîn, \"to seem\", a doctrine according to which Christ only had the appearance of a man and not a real human body, a tendency also linked to Cerinthianism, which taught the separation between the man Jesus and the divine Christ who descended at baptism. By denying the true Incarnation, such doctrines endangered faith in the cross and the resurrection.\n\nFor this reason the letter concludes with a severe and much-debated instruction: \"If anyone comes to you and does not bring this doctrine, do not receive him into your house, nor give him a greeting\" (v. 10). The precept aims to deny hospitality and public support to these teachers, so as not to become an accomplice in their work, and not simply to forbid dialogue or discussion. The Second Letter of John is closely connected to the Third, which deals with the hospitality owed to legitimate missionaries, forming with it and with the First Letter a small corpus that defends the apostolic faith against the distortions that threatened the Christian communities at the end of the first century.",
+      "categoria": "biblia",
+      "tags": [
+        "Bible",
+        "New Testament",
+        "2 John",
+        "Catholic epistles",
+        "Johannine letters",
+        "Docetism",
+        "Incarnation",
+        "Presbyter",
+        "canon"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/End_of_1_John_and_beginning_of_2_John_in_Sinaiticus.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Jerusalem Bible, introduction to the Second Letter of John",
+        "Eusebius of Caesarea, Ecclesiastical History, III (on John the Presbyter and the antilegomena)",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)",
+        "Second Vatican Council, Dogmatic Constitution Dei Verbum, ch. V (1965)"
+      ],
+      "atualizado_em": null,
+      "ordem": 70,
+      "testamento": "novo",
+      "genero_literario": "Catholic epistle",
+      "autor_tradicional": "Traditionally attributed to the apostle John (\"the Elder\")",
+      "data_composicao": "end of the first century AD",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:3-joao",
+      "slug": "3-joao",
+      "titulo": "3 John",
+      "resumo": "The shortest letter of the New Testament, a note from \"the Elder\" to Gaius, praising his hospitality and rebuking the arrogance of Diotrephes.",
+      "corpo": "The Third Letter of John is the shortest of all the books of the New Testament: Origen, in the third century, said that the second and third letters of John, taken together, \"do not contain a hundred lines\" (recorded by Eusebius, Ecclesiastical History VI, 25, 10). It is a personal letter, addressed by one who introduces himself only as \"the Elder\" (ho presbyteros) to a certain Gaius, whom he praises for welcoming itinerant missionaries and to whom he recommends a group of Christians led by Demetrius. The sharpest motive of the writing is the rebuke of Diotrephes, who refuses to welcome these missionaries, \"likes to put himself first\" in the community (v. 9), and even goes so far as to expel from the church those who do welcome them.\n\nThe setting is that of the Johannine communities in Asia Minor, probably in Ephesus, at the turn of the first to the second century, when these communities were suffering internal divisions between currents faithful to the author's tradition and groups that he calls \"antichrists,\" associated with Docetic or Gnostic tendencies. The underlying question of 2 and 3 John is the same — how to treat itinerant teachers — handled from complementary angles: 2 John warns the \"elect lady\" not to offer hospitality to anyone who denies that Jesus came in the flesh, whereas 3 John praises Gaius for welcoming the true teachers and reproves Diotrephes for refusing them. The closing passage, \"Peace be to you. The friends greet you. Greet the friends, each by name\" (v. 15), is a formula typical of the correspondence of the time, with the \"peace\" adopted by Christians from Jewish usage.\n\nThe acceptance of 3 John into the canon was slow and disputed. There is no mention of it in ancient Christian literature until the middle of the third century; because of its extreme brevity, ancient writers doubted its authenticity until the early fifth century, when it came to be received together with the other two letters of John. Eusebius of Caesarea includes it among the \"disputed\" books — \"those called the Second and Third of John, whether they belong to the evangelist or to another person of the same name\" (HE III, 25, 2) — and the Muratorian Canon mentions only two letters of John, probably the first two. Origen and Jerome knew the third, but Jerome observed that many attributed it to the \"Elder,\" a person distinct from the apostle.\n\nIt is from the mention, made by Papias of Hierapolis and cited by Eusebius, of a \"Presbyter John\" distinct from the apostle in Ephesus (HE III, 39), that the main controversy over authorship arises: 3 John was almost certainly written by the same author as 2 John and, very probably, also of 1 John, but the identity of this author is uncertain — he may be John the Evangelist himself or the so-called John the Presbyter. As C. H. Dodd observes, if we try to identify the anonymous author of these letters with a known figure, \"we have little beyond conjecture.\" The dating is equally debated: tradition places the letter at the end of the first century (c. 90), while some scholars, such as John A. T. Robinson, push it back to c. 60-65.",
+      "categoria": "biblia",
+      "tags": [
+        "Bible",
+        "New Testament",
+        "Catholic epistles",
+        "letters of John",
+        "Diotrephes",
+        "Gaius",
+        "John the Elder",
+        "canon of the New Testament",
+        "first century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/15/2_John%2C_3_John%2C_and_Jude_in_Sinaiticus.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Jerusalem Bible",
+        "Eusebius of Caesarea, Ecclesiastical History, III, 25, 2 and III, 39 (the disputed books; the Presbyter John)",
+        "Eusebius of Caesarea, Ecclesiastical History, VI, 25, 10 (Origen on the brevity of 2 and 3 John)",
+        "Muratorian Canon (c. 170)",
+        "Wikipedia, \"Third Epistle of John\" (authorship, dating, quotation of C. H. Dodd)",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ],
+      "atualizado_em": null,
+      "ordem": 71,
+      "testamento": "novo",
+      "genero_literario": "Catholic epistle",
+      "autor_tradicional": "Traditionally attributed to the apostle John (\"the Elder\")",
+      "data_composicao": "end of the first century AD",
+      "deuterocanonico": false
+    },
+    {
+      "id": "biblia:judas",
+      "slug": "judas",
+      "titulo": "Letter of Jude",
+      "categoria": "biblia",
+      "resumo": "A short letter of vehement warning against false teachers who distorted the grace of God to justify immorality.",
+      "corpo": "Brief and vigorous in language, it warns against false teachers who had infiltrated the community and distorted the doctrine of grace to justify immoral conduct, using examples from the Old Testament and from extrabiblical Jewish traditions (such as the mention of the archangel Michael disputing over the body of Moses) as a warning.",
+      "tags": [
+        "Bible",
+        "New Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Colophon_Alexandrinus_Jude.JPG",
+      "imagem_credito": null,
+      "ordem": 72,
+      "testamento": "novo",
+      "genero_literario": "Catholic epistle",
+      "autor_tradicional": "Traditionally attributed to Jude, \"brother of James\"",
+      "data_composicao": "late 1st century AD",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    },
+    {
+      "id": "biblia:apocalipse",
+      "slug": "apocalipse",
+      "titulo": "Revelation",
+      "categoria": "biblia",
+      "resumo": "A prophetic vision, in symbolic language, of the struggle between the Kingdom of God and the powers of evil, culminating in the definitive victory of Christ.",
+      "corpo": "Written in a time of persecution, it uses the symbolic language proper to Jewish apocalyptic literature — numbers, animals, colors, cosmic visions — to reveal, behind historical events, the struggle between the Lamb (Christ) and the powers of evil, culminating in the vision of the \"new Jerusalem\" and of the \"new heavens and a new earth\" (Rev 21). In the traditional Catholic reading, it is not a manual of literal chronological predictions of the final events, but a message of hope for the persecuted of all times.",
+      "tags": [
+        "Bible",
+        "New Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/da/Dublin%2C_Chester_Beatty_Ms_Chester_Beatty_III_Papyrus_47_fol._7r_Rev_13%2C16-14.jpg",
+      "imagem_credito": null,
+      "ordem": 73,
+      "testamento": "novo",
+      "genero_literario": "Apocalyptic/prophetic",
+      "autor_tradicional": "Traditionally attributed to the apostle John",
+      "data_composicao": "late 1st century A.D. (reign of Domitian)",
+      "deuterocanonico": false,
+      "fontes": [
+        "Jerusalem Bible",
+        "Catechism of the Catholic Church, nos. 101-141 (Sacred Scripture)"
+      ]
+    }
+  ]
+}

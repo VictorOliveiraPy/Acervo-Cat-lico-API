@@ -1,0 +1,410 @@
+{
+  "_meta": {
+    "categoria": "ritos-orientais",
+    "nome": "Eastern Catholic Rites and Churches",
+    "descricao": "The Eastern Catholic Churches — Byzantine, Maronite, Coptic, Syro-Malabar and others — in full communion with Rome, each with its own liturgy and spiritual tradition.",
+    "status": "exemplos-iniciais",
+    "aviso": "An initial set covering the most numerous traditions; the Catholic Church recognizes a total of 23 Eastern sui iuris Churches in addition to the Latin Church.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Second Vatican Council, Orientalium Ecclesiarum",
+      "Code of Canons of the Eastern Churches"
+    ]
+  },
+  "itens": [
+    {
+      "id": "ritos-orientais:igrejas-catolicas-orientais-visao-geral",
+      "slug": "igrejas-catolicas-orientais-visao-geral",
+      "titulo": "Eastern Catholic Churches: An Overview",
+      "categoria": "ritos-orientais",
+      "resumo": "Twenty-three Churches with their own liturgy, canon law, and spiritual traditions, all in full communion with the Pope.",
+      "corpo": "Besides the Latin Church — by far the largest and best known in the West — the Catholic Church comprises 23 other Churches \"sui iuris\" (\"of their own right\"), each with its own liturgy, canonical discipline, spirituality and, often, married clergy, yet all in full communion with the Bishop of Rome and sharing the same faith and the same sacraments. Many arose from historical returns to Catholic communion of Eastern Orthodox communities, fully preserving their ancestral rites — the Second Vatican Council, in the decree Orientalium Ecclesiarum, affirmed the \"equal right and obligation\" of these Churches to preserve their own liturgical and spiritual heritage.",
+      "tags": [
+        "sui iuris",
+        "Orientalium Ecclesiarum",
+        "communion with Rome"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Christ_Icon_Sinai_6th_century.jpg",
+      "imagem_credito": null,
+      "familia_liturgica": null,
+      "regiao": "Worldwide"
+    },
+    {
+      "id": "ritos-orientais:rito-bizantino",
+      "slug": "rito-bizantino",
+      "titulo": "Byzantine Rite",
+      "categoria": "ritos-orientais",
+      "resumo": "The largest liturgical family among Eastern Catholics, inherited from Constantinople, with the Divine Liturgy of Saint John Chrysostom.",
+      "corpo": "The Byzantine Rite, which originated in Constantinople, is today shared by several Eastern Catholic Churches — such as the Ukrainian, the Melkite, the Ruthenian, the Romanian and the Hungarian — all in full communion with Rome but preserving the same liturgy, calendar and spirituality as the Byzantine Orthodox tradition, from which they historically originated through partial reunions over the centuries. Its central Eucharistic celebration, the Divine Liturgy of Saint John Chrysostom, is marked by rich ornamentation, an iconostasis separating the altar from the nave, continuous chant without musical instruments, and extensive use of incense — a sensory and contemplative experience of the liturgy quite distinct from the Latin Rite.",
+      "tags": [
+        "Divine Liturgy",
+        "Constantinople",
+        "iconostasis",
+        "Ukrainian Church"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Griechisch-Katholische_Kirche%2C_Innere%2C_nach_O%2C_2022_Debrecen.jpg",
+      "imagem_credito": "Globetrotter19 — Wikimedia Commons, CC BY-SA 3.0",
+      "familia_liturgica": "Byzantine",
+      "regiao": "Eastern Europe and the Middle East"
+    },
+    {
+      "id": "ritos-orientais:rito-maronita",
+      "slug": "rito-maronita",
+      "titulo": "Maronite Rite",
+      "categoria": "ritos-orientais",
+      "resumo": "The only Eastern Catholic Church with no corresponding Orthodox counterpart, originating with the monk Saint Maron and historically centered in Lebanon.",
+      "corpo": "The Maronite Church, with its patriarchal seat in Lebanon, is unique among the Eastern Catholic Churches in that it never separated from Rome throughout its history — there is no parallel \"Maronite Orthodox Church,\" as is the case with nearly all the other Eastern traditions. It traces its origins to the Syrian monk Saint Maron (4th-5th century) and his disciples, who took refuge in the mountains of Lebanon during the Christological controversies of the early centuries. Its liturgy, of the Antiochene tradition in the Syriac language (today celebrated mostly in Arabic), preserves musical elements and prayers of very ancient Semitic roots, and its Church played a central role in the formation of Lebanese national identity.",
+      "tags": [
+        "Saint Maron",
+        "Lebanon",
+        "Antioch",
+        "Syriac"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/76/St._Marouns_Maronite_Cathedral_-_panoramio.jpg",
+      "imagem_credito": "Evilscaught — Wikimedia Commons, CC BY 3.0",
+      "familia_liturgica": "Antiochene (West Syriac)",
+      "regiao": "Lebanon and diaspora"
+    },
+    {
+      "id": "ritos-orientais:rito-copta",
+      "slug": "rito-copta",
+      "titulo": "Coptic Rite",
+      "categoria": "ritos-orientais",
+      "resumo": "The liturgical tradition of Christian Egypt, direct heir of the Church of Alexandria, founded, according to tradition, by the evangelist Mark.",
+      "corpo": "The Coptic Catholic Church, a minority beside the far more numerous Coptic Orthodox Church from which it historically separated after partial reconciliations with Rome beginning in the eighteenth century, preserves the ancient Alexandrian liturgy, attributed in tradition to Saint Mark the Evangelist, the legendary founder of the Church of Egypt. The Coptic liturgical language, a direct descendant of the ancient Egyptian of the pharaohs written in an adapted Greek alphabet, keeps alive an unbroken line of cultural continuity with pre-Islamic Egypt, even though Arabic replaced Coptic as the everyday spoken language more than a thousand years ago.",
+      "tags": [
+        "Egypt",
+        "Saint Mark the Evangelist",
+        "Alexandria",
+        "Coptic language"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/27/St._Mercurios_Killing_King_Oleonus_%28St._Mercurios_Killing_Emperor_Julian_the_Apostate%29_%283309043161%29.jpg",
+      "imagem_credito": "A. Davey from Where I Live Now: Pacific Northwest — Wikimedia Commons, CC BY 2.0",
+      "familia_liturgica": "Alexandrian",
+      "regiao": "Egypt"
+    },
+    {
+      "id": "ritos-orientais:rito-siro-malabar",
+      "slug": "rito-siro-malabar",
+      "titulo": "Syro-Malabar Rite",
+      "resumo": "The largest Eastern Catholic Church by number of faithful, of an Indian Christian tradition attributed to the Apostle Thomas, with an East Syriac liturgy, raised to a Major Archiepiscopal Church in 1992.",
+      "corpo": "The Syro-Malabar Church, based in Kerala, India, attributes its foundation to the preaching of the Apostle Thomas on the Malabar coast, traditionally in the year 52, when he landed at the port of Muziris (present-day Kodungallur), then a center of the spice trade with Aramaic-speaking Jewish communities. Its members are the \"Saint Thomas Christians\" (Nazranis), one of the oldest continuously existing Christian communities in the world. Its liturgy derives from the East Syriac (Chaldean/Persian) tradition, reflecting the ancient ties with the Church of Mesopotamia and with the catholicate of Seleucia-Ctesiphon, whose ecclesiastical authority they recognized, while never ceasing to acknowledge the Bishop of Rome as supreme head.\n\nThe arrival of the Portuguese in 1498 broke this balance. Gathered at Udayamperoor in June 1599, the Synod of Diamper, convoked by the Archbishop of Goa, Dom Aleixo de Menezes, subjected the Saint Thomas Christians to Latin jurisdiction and imposed reforms that sought to Latinize the liturgy and discipline. The resistance culminated, in 1653, in the Coonan Cross Oath (Coonan Kurishu), when the faithful pledged no longer to obey the European missionaries; the majority broke with Rome, giving rise to the Jacobite Church and, later, the Malankara Orthodox Church. After 230 years of Latin governance, their own hierarchy was restored on December 21, 1923, when Pius XI established the Syro-Malabar hierarchy, with Ernakulam as the metropolitan see and Changanacherry and Trichur as suffragans, with Mar Augustine Kandathil as the first archbishop (installed on November 16, 1924).\n\nOn December 16, 1992, John Paul II, by the apostolic constitution *Quae Maiori*, raised the Church to the status of a Major Archiepiscopal Church *sui iuris*, with the title of Ernakulam-Angamaly and its own territory formed by the metropolitan provinces of Ernakulam and Changanacherry; Cardinal Antony Padiyara became the first major archbishop. Since then, the liturgy has become the focus of a long internal dispute. In 1999, the synod, under Major Archbishop Varkey Vithayathil, approved a compromise formula (the so-called \"50:50\"): the priest facing the people during the Liturgy of the Word, facing the altar during the Anaphora, and again facing the people after communion. The Archeparchy of Ernakulam-Angamaly, however, resisted and largely maintained celebration facing the people. In August 2021, the synod determined the uniform adoption of the \"synodal mode\" in all 35 eparchies, with the endorsement of the Holy See, but the majority of the approximately 470 priests and of the faithful of Ernakulam-Angamaly — the largest archeparchy — continued to resist; in June 2025, an agreement was finally reached with Major Archbishop Raphael Thattil and Archbishop Joseph Pamplany, by which the parishes of the archeparchy celebrate the uniform Mass at least once on Sundays and feast days.\n\nThe Church is the second largest Eastern Catholic Church (after the Ukrainian) and the largest of the Saint Thomas Christian denominations, with approximately 4 million faithful in about 30 eparchies, alongside migrant communities. It is governed by the Synod of Bishops, presided over by the major archbishop, and is known for its vocational and missionary vitality. Among its distinguished figures are Saint Kuriakose Elias Chavara and Saint Alphonsa of the Immaculate Conception; the Church of Marth Mariam in Kuravilangad, held by tradition to have been founded in 105, is considered the mother church of the Saint Thomas Christians. The Syro-Malabar rite is celebrated in Syriac and translated into Malayalam, with the Anaphora of the Apostles Addai and Mari, characteristic of the East Syriac tradition.",
+      "categoria": "ritos-orientais",
+      "tags": [
+        "Apostle Thomas",
+        "Kerala",
+        "India",
+        "East Syriac",
+        "Synod of Diamper",
+        "Coonan Cross Oath",
+        "Major Archiepiscopal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Kirche_Kuravilangad_Juli_2011.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Apostolic Constitution Quae Maiori, John Paul II, December 16, 1992 (Acta Apostolicae Sedis, 85, pp. 398-399)",
+        "Apostolic Nunciature in India, 'The Syro-Malabar Church' (apostolicnunciatureindia.com)",
+        "Entries 'Timeline of the Syro-Malabar Church' and 'Synod of Diamper', English Wikipedia",
+        "Entries 'Archeparchy of Ernakulam–Angamaly' and 'George Alencherry', English Wikipedia",
+        "Global Sisters Report, 'Catholic nuns rejoice as Syro-Malabar Church avoids schism over liturgy', 2025",
+        "National Catholic Reporter, 'Syro-Malabar Catholics in India clash over liturgical dispute'",
+        "Entry 'Marth Mariam Syro-Malabar Church, Kuravilangad', English Wikipedia"
+      ],
+      "atualizado_em": null,
+      "familia_liturgica": "East Syriac (Chaldean)",
+      "regiao": "India (Kerala)"
+    },
+    {
+      "id": "ritos-orientais:rito-caldeu",
+      "slug": "rito-caldeu",
+      "titulo": "Chaldean Rite",
+      "categoria": "ritos-orientais",
+      "resumo": "The Church of East Syriac tradition in Iraq and Iran, linked to the ancient Church of the East and to the figure of the Apostle Thaddeus.",
+      "corpo": "The Chaldean Catholic Church, with its patriarchal seat in Baghdad, originated from a partial reconciliation with Rome, beginning in the sixteenth century, of communities linked to the ancient Church of the East (traditionally called \"Nestorian,\" although this theological identification is now considered too simplistic by scholars). Its liturgy, celebrated in East Syriac (Aramaic), is one of the oldest living Christian liturgical traditions, going back to communities that tradition associates with the preaching of the Apostles Thomas and Thaddeus in Mesopotamia. It has faced persecution and massive displacement in recent decades, especially after the wars and the persecution of Christians in Iraq by the Islamic State.",
+      "tags": [
+        "Baghdad",
+        "Aramaic",
+        "Apostle Thaddeus",
+        "Mesopotamia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Chaldean_Catholic_Church_in_Baghdad.jpg",
+      "imagem_credito": "Christian World — Wikimedia Commons, CC BY 2.0",
+      "familia_liturgica": "East Syriac (Chaldean)",
+      "regiao": "Iraq and diaspora"
+    },
+    {
+      "id": "ritos-orientais:rito-armenio",
+      "slug": "rito-armenio",
+      "titulo": "Armenian Rite",
+      "resumo": "The liturgical tradition of the first people to officially adopt Christianity as a state religion (301, according to tradition), preserved by the Armenian Catholic Church, whose patriarchal see has been in Beirut since 1928.",
+      "corpo": "According to tradition, in 301 Armenia became the first kingdom in the world to adopt Christianity as its official religion, through the work of Saint Gregory the Illuminator, who converted King Tiridates III (Trdat III). The traditional account is based chiefly on the *History* attributed to Agathangelos (5th century): Gregory, son of the Parthian nobleman Anak, who had murdered the father of Tiridates, was raised as a Christian in Caesarea in Cappadocia, returned to Armenia, refused to sacrifice to the goddess Anahit, was tortured and imprisoned, and obtained the miraculous healing of the king, who then proclaimed the new faith. Consecrated bishop in Caesarea, Gregory baptized the king and the people and began destroying pagan temples. The Armenian liturgical Church developed around this national Christianity, making use of Classical Armenian (Grabar) and of the *Peshitta*; the language was fixed in writing by Mesrop Mashtots in the early 5th century.\n\nThe Armenian Catholic Church is one of the Eastern Catholic *sui iuris* Churches, distinct from the much larger Armenian Apostolic Church (non-Chalcedonian), which rejected the Council of Chalcedon (451). The rapprochement with Rome spanned centuries: King Leo II of Lesser Armenia was crowned by a papal legate in 1199, restoring union with Rome until 1375, and in the 14th century Dominicans worked for union beginning in 1328. However, the Armenian Catholic community was organized as a Church of its own only in the 18th century: in 1740 Archbishop Abraham (Peter) Ardzivian, Catholic bishop of Aleppo, was elected Catholicos-Patriarch of Sis; recognized by Pope Benedict XIV in 1742, he took up residence in Lebanon. On November 26, 1742, the Holy See formally erected the Patriarchate of Cilicia, the only patriarchate of the Armenian Catholic Church, with its see at Bzommar (Bzoummar), where a monastery had been founded in 1749 and where the image of Our Lady of Bzommar is venerated.\n\nThe history of the patriarchate was marked by relocations and disputes. The see remained at Bzommar, then passed to the primatial see of Istanbul (1867) and stayed there until 1928, when, after the reorganization following the First World War, it was transferred to Beirut. The patriarch still resides in that city today, at the Cathedral of Saint Elias and Saint Gregory the Illuminator. Roman and Armenian names alternated in leadership: the current patriarch is Raphaël Bedros XXI Minassian, elected on September 23, 2021. The 1928 reform took place in the aftermath of the Armenian Genocide (1915-1916), during which the Armenian population of the Ottoman Empire, about 1.5 million people in 1915, was targeted by deportations and massacres that killed, according to current estimates, between 664,000 and 1.2 million people; numerous Armenian Catholic faithful and clergy also perished.\n\nThe Armenian liturgy, of great musical and poetic solemnity, preserves distinctive features, such as the prolonged use of the veil and the anaphoral structure of Saint Athanasius. The rite is celebrated in Classical Armenian. The Armenian Catholic Church had 757,726 faithful according to the 2017 Annuario Pontificio, organized around the patriarchate and eparchies in Beirut, Aleppo, Baghdad, Istanbul and in the diaspora (the Americas, Europe and Australia), as well as a patriarchal vicariate in Jerusalem. Each patriarch, upon being elected, must request ecclesiastical communion from the Bishop of Rome, as a sign of the full communion that defines the Eastern Catholic Churches.",
+      "categoria": "ritos-orientais",
+      "tags": [
+        "Saint Gregory the Illuminator",
+        "first Christian kingdom",
+        "Armenian Genocide",
+        "Patriarchate of Cilicia",
+        "Grabar",
+        "301"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Beirut_Armenian_Catholic_Cathedral1966.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Entry 'Armenian Catholic Church', English Wikipedia (data from the Annuario Pontificio)",
+        "Entry 'Patriarchate of Cilicia', English Wikipedia",
+        "Entries 'Gregory the Illuminator' and 'Tiridates III of Armenia', English Wikipedia",
+        "New Catholic Encyclopedia, entry 'Cilicia of the Armenians, Patriarchate of' (encyclopedia.com)",
+        "Œuvre d'Orient, 'The Armenian Catholic Church' (oeuvre-orient.fr)",
+        "United States Holocaust Memorial Museum, 'The Armenian Genocide (1915-16): Overview'",
+        "Bishop of Cilicia, Catholic-Hierarchy.org"
+      ],
+      "atualizado_em": null,
+      "familia_liturgica": "Armenian",
+      "regiao": "Armenia, Lebanon and the diaspora"
+    },
+    {
+      "id": "ritos-orientais:rito-siro-malancares",
+      "slug": "rito-siro-malancares",
+      "titulo": "Syro-Malankara Rite",
+      "resumo": "Indian Church of Kerala of the West Syriac (Antiochene) rite, born from the Reunion Movement led by Mar Ivanios in 1930 and raised to the status of Major Archiepiscopal Church in 2005.",
+      "corpo": "The Syro-Malankara Church, based in Kerala, India, shares with the Syro-Malabar Church the same apostolic heritage attributed to the preaching of Saint Thomas (who, according to tradition, arrived on the Malabar coast in the year 52), but it follows the West Syriac liturgy, of the Antiochene tradition — the same liturgical family as the Syriac and Maronite Churches. This link with the Syriac West was consolidated above all from the seventeenth century onward, when part of the Saint Thomas Christians entered into communion with the Syriac Orthodox Patriarchate of Antioch in order to resist the Latinization imposed by the Portuguese missionaries of the Padroado. This community came to form the Malankara Syrian Orthodox Church, from which descend both the Syro-Malankara Church and the Malankara (Jacobite) Church that remains separated from Rome to this day.\n\nThe origin of the Syro-Malankara Catholic Church lies in the so-called Reunion Movement. In 1926, the episcopal synod of the \"New Party\" (Bava Kakshi), gathered at Parumala, delegated to Metropolitan Geevarghese Mar Ivanios (1882-1953) the direct negotiation with the Holy See, making the union conditional on the full preservation of the ancient liturgical and disciplinary traditions of the Church of Malankara. After long negotiations, the plenary session of the Congregation for the Oriental Churches, on July 4, 1930, approved the communion. On September 20, 1930, in the episcopal chapel of Quilon, Mar Ivanios, his auxiliary bishop Jacob Mar Theophilos, Father John Kuzhinapurath (OIC), Deacon Alexander (OIC) and the layman Chacko Kilileth made their profession of faith and were received into full communion by Bishop Aloysius Maria Benziger of Quilon, delegated by the Holy See for the act.\n\nThe Hierarchy was established by Pius XI. A first canonical provision, the document *Magnum Nobis* (February 11, 1932), organized the administration of the reunited faithful; in three visits to the pope that year (April 26, May 2 and 11), Mar Ivanios received the pallium (May 2). Finally, the apostolic constitution *Christo Pastorum Principi*, of June 11, 1932, erected the hierarchy of the Church, creating the Metropolitan Eparchy of Trivandrum (Thiruvananthapuram) and the Eparchy of Tiruvalla as its suffragan. The former was inaugurated on May 11, 1933, with Mar Ivanios enthroned as first metropolitan; the latter, on November 6, 1933, with Mar Theophilos as its first bishop. The reunion attracted later adherents, such as the metropolitans Joseph Mar Severios (1937) and Thomas Mar Dioscoros (1939).\n\nMar Ivanios governed until his death on July 15, 1953, and is buried in Saint Mary's Cathedral in Pattom (Thiruvananthapuram), where the remains of Archbishop Benedict Mar Gregorios and of the first Catholicos of the Church's own rite, Cyril Baselios, also lie. The Church grew from about 65,588 faithful in 1950 to 183,490 in 1970 and to more than 400,000 in twelve eparchies in India and in the diaspora. On February 10, 2005, John Paul II raised it to the status of Major Archiepiscopal Church, equating its head with the title of Catholicos — used by the Church since then, with its seat at Saint Mary's Cathedral in Pattom. Baselios Cleemis (Thottunkal) was elected the second major archbishop and enthroned on March 5, 2007; the Church also maintains eparchies outside India, such as those of the United States and Canada and of Gurgaon. The liturgy is celebrated according to the Malankara (West Syriac) rite, with the Qurbana in the Syriac liturgical language and the use of the *Peshitta* as its own Scripture.",
+      "categoria": "ritos-orientais",
+      "tags": [
+        "Kerala",
+        "Mar Ivanios",
+        "Reunion Movement",
+        "West Syriac",
+        "Major Archiepiscopal",
+        "1930",
+        "Catholicos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/St._Marys_Cathedral_Trivandrum_Fassade_2_%28retuschiert%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Apostolic constitution Christo Pastorum Principi, Pius XI, June 11, 1932",
+        "Pontifical document Magnum Nobis, Pius XI, February 11, 1932",
+        "Apostolic Nunciature in India, 'The Syro-Malankara Church' (apostolicnunciatureindia.com)",
+        "Official website of the Syro-Malankara Church, 'History of SMCC' (malankaracatholicchurch.in)",
+        "Entry 'Syro-Malankara Catholic Church', English Wikipedia",
+        "Entry 'Cathedral of Saint Mary, Pattom', English Wikipedia"
+      ],
+      "atualizado_em": null,
+      "familia_liturgica": "Antiochene (West Syriac)",
+      "regiao": "India (Kerala)"
+    },
+    {
+      "id": "ritos-orientais:liturgia-eucaristica-oriental",
+      "slug": "liturgia-eucaristica-oriental",
+      "titulo": "The Eucharistic Liturgy in the Eastern Traditions",
+      "categoria": "ritos-orientais",
+      "resumo": "Common traits and particularities of Eastern Eucharistic celebrations compared with the Latin Mass: longer, more sung, more veiled.",
+      "corpo": "Although they share with the Latin rite the same faith in the Eucharist as the real presence of Christ, the Eastern liturgical traditions generally have a quite distinct celebratory style: longer liturgies that are entirely sung, with no parts that are merely spoken; extensive use of veils, curtains or iconostases that partially conceal the altar during key moments, underscoring the mystery; emphasis on the epiclesis (the explicit invocation of the Holy Spirit upon the bread and wine) as the central moment of the consecration; and Communion frequently distributed under both species together in a spoon (Byzantine rite) or by intinction. This diversity of expression of the same faith is seen by the Church as a richness, not as a problem to be made uniform.",
+      "tags": [
+        "epiclesis",
+        "iconostasis",
+        "liturgical diversity"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Romania-1494_-_Iconostasis_of_the_Great_Church_%287604829840%29.jpg",
+      "imagem_credito": "Dennis G. Jarvis — Wikimedia Commons, CC BY-SA 2.0",
+      "familia_liturgica": null,
+      "regiao": "Various"
+    },
+    {
+      "id": "ritos-orientais:clero-casado-oriental",
+      "slug": "clero-casado-oriental",
+      "titulo": "The Married Clergy in the Eastern Churches",
+      "categoria": "ritos-orientais",
+      "resumo": "The discipline, distinct from that of the Latin Church, that permits the ordination of married men to the priesthood in the Eastern Catholic traditions.",
+      "corpo": "Unlike the Latin Church, which ordinarily reserves the priesthood to celibate men, most of the Eastern Catholic Churches preserve the ancient discipline, common to the whole undivided Church of the first millennium, of ordaining men who are already married as priests—although the episcopate remains reserved to celibates in the East as well. This difference in discipline, not in doctrine, was explicitly reaffirmed as a legitimate right of the Eastern Churches by the Second Vatican Council and reflects the diversity of ecclesiastical disciplines historically compatible with the same Catholic faith, distinguishing discipline (variable) from dogma (permanent).",
+      "tags": [
+        "celibacy",
+        "Orientalium Ecclesiarum",
+        "ecclesiastical discipline"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/St._John_the_Baptist_Ukrainian_Catholic_Church%2C_Syracuse%2C_New_York_-_20220419.jpg",
+      "imagem_credito": "Andre Carrotflower — Wikimedia Commons, CC BY-SA 4.0",
+      "familia_liturgica": null,
+      "regiao": "Various"
+    },
+    {
+      "id": "ritos-orientais:igreja-siriaca-catolica",
+      "slug": "igreja-siriaca-catolica",
+      "titulo": "Syriac Catholic Church",
+      "categoria": "ritos-orientais",
+      "resumo": "A Church of the Antiochene tradition and West Syriac language, with a line of patriarchs in communion with Rome definitively established in 1782.",
+      "corpo": "The Syriac Catholic Church gathers faithful of the West Syriac (Antiochene) tradition who returned to communion with Rome following attempts at union dating back to the seventeenth century: as early as 1662 a first Syriac patriarch in communion with the Pope was elected, but after his death, in the early eighteenth century, most of the faithful returned to the Syriac Orthodox Church. A stable and permanent line of Catholic patriarchs was established only in 1782, when the then patriarch of the Syriac Orthodox Church himself, elected under controversial circumstances, opted for communion with Rome and began the succession that continues to this day.\n\nWith its patriarchal see currently in Beirut, the Syriac Catholic Church preserves the West Syriac Antiochene liturgy, related to the Maronite liturgy and traditionally celebrated in Syriac and Arabic, and maintains a historic presence above all in Syria, Iraq, and Lebanon — regions from which growing numbers of its faithful have emigrated in recent decades because of wars and persecution, forming important communities in the diaspora.",
+      "tags": [
+        "Syriac Catholic Church",
+        "Antioch",
+        "West Syriac",
+        "Lebanon"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "familia_liturgica": "Antiochene (West Syriac)",
+      "regiao": "Syria, Iraq, Lebanon, and the diaspora"
+    },
+    {
+      "id": "ritos-orientais:igreja-catolica-etiope",
+      "slug": "igreja-catolica-etiope",
+      "titulo": "Ethiopian Catholic Church",
+      "categoria": "ritos-orientais",
+      "resumo": "A Church of the Alexandrian tradition that celebrates the liturgy in Ge'ez, the ancient Ethiopian liturgical language, in union with Rome since the 19th century.",
+      "corpo": "The Ethiopian Catholic Church belongs to the Alexandrian liturgical family, of the same origin as the Coptic tradition, but with its own characteristics strongly marked by Ethiopian culture: it celebrates in Ge'ez, the ancient local liturgical language, no longer spoken in everyday life today but preserved as a sacred language, much like Latin in the West. Its full and official union with the Holy See dates back to the 19th century, having remained for a long time under the jurisdiction of the Coptic Catholic Patriarchate of Alexandria before establishing its own hierarchy.\n\nThe Ethiopian liturgy is striking for the richness of its chants, its liturgical dances and the use of traditional percussion instruments, reflecting a very ancient inculturation of Christianity in Ethiopia, one of the first kingdoms in the world to adopt the Christian faith. Since 2015, with the creation of the Eritrean Catholic Church as a distinct jurisdiction of its own, the Ethiopian Catholic Church has had its area of hierarchical activity concentrated specifically in Ethiopian territory.",
+      "tags": [
+        "Ethiopian Catholic Church",
+        "Ge'ez",
+        "Alexandrian",
+        "Ethiopia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "familia_liturgica": "Alexandrian",
+      "regiao": "Ethiopia"
+    },
+    {
+      "id": "ritos-orientais:igreja-catolica-eritreia",
+      "slug": "igreja-catolica-eritreia",
+      "titulo": "Eritrean Catholic Church",
+      "categoria": "ritos-orientais",
+      "resumo": "The youngest of the Eastern sui iuris Churches, established in 2015 by Pope Francis when he separated the Eritrean dioceses from the Ethiopian Catholic Church.",
+      "corpo": "The Eritrean Catholic Church is, among the Eastern Catholic Churches, one of the most recent to be constituted as its own jurisdiction: on January 19, 2015, Pope Francis raised it to the status of a metropolitan sui iuris Church, formally separating the Ge'ez Rite dioceses located in Eritrea from the Ethiopian Catholic Church, of which they had until then been a part. The new Church was structured with a metropolitan see in Asmara and three suffragan eparchies — Barentu, Keren and Segheneyti.\n\nLike the Ethiopian Church from which it originated, the Eritrean Catholic Church belongs to the Alexandrian liturgical family and celebrates in Ge'ez, sharing the same liturgical, musical and spiritual heritage, but also reflecting the distinct national identity of Eritrea, a country that became independent from Ethiopia only in 1993, after decades of armed conflict.",
+      "tags": [
+        "Eritrean Catholic Church",
+        "Ge'ez",
+        "Alexandrian",
+        "Eritrea"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "familia_liturgica": "Alexandrian",
+      "regiao": "Eritrea"
+    },
+    {
+      "id": "ritos-orientais:igreja-italo-albanesa",
+      "slug": "igreja-italo-albanesa",
+      "titulo": "Italo-Albanian Church",
+      "categoria": "ritos-orientais",
+      "resumo": "A small Church of the Byzantine rite in southern Italy and Sicily that, like the Maronite Church, has never been separated from Rome throughout its history.",
+      "corpo": "The Italo-Albanian Church brings together the descendants of ancient Greek colonies in southern Italy and Sicily, along with Albanian refugees who settled in the region from the fifteenth century onward, fleeing the Ottoman advance in the Balkans. Both groups preserved the Byzantine rite of their ancestors even while living in territory with a Latin majority, and, similarly to the Maronite Church, they never broke communion with Rome throughout their history, which makes it one of the few Eastern Catholic Churches without a corresponding Orthodox counterpart.\n\nPope Benedict XIV, in the constitution \"Etsi Pastoralis\" (1742), formally recognized the validity of the ancient Italo-Greco-Albanian customs and rites and determined that its faithful should be free from Latin interference in their traditional affairs. Today the Church is organized into two territorial eparchies — Lungro, for the faithful of the mainland, and Piana degli Albanesi, in Sicily, established in 1937 — as well as the exarchal monastery of Grottaferrata, near Rome, one of the oldest Byzantine monastic centers still active in the West.",
+      "tags": [
+        "Italo-Albanian Church",
+        "Byzantine rite",
+        "Sicily",
+        "Grottaferrata"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "familia_liturgica": "Byzantine",
+      "regiao": "Southern Italy and Sicily"
+    },
+    {
+      "id": "ritos-orientais:igreja-greco-catolica-ucraniana",
+      "slug": "igreja-greco-catolica-ucraniana",
+      "titulo": "Ukrainian Greek Catholic Church",
+      "categoria": "ritos-orientais",
+      "resumo": "The largest of the Eastern Catholic Churches, heir to the baptism of the Kievan Rus' in 988 and reunited with the Roman communion by the Union of Brest in 1596.",
+      "corpo": "The Ukrainian Greek Catholic Church is today the largest of all the Eastern Catholic Churches in number of faithful, with more than five million members inside and outside Ukraine. Its roots go back to the baptism of the Kievan Rus' in 988, when Prince Vladimir adopted Byzantine Christianity for himself and his people; full communion with Rome, fully preserving the Byzantine rite and the Eastern Slavic discipline and spirituality, was established by the Union of Brest in 1596.\n\nThe Church suffered intense persecution under the Soviet regime, which officially suppressed it in 1946 by means of a forged synod that forcibly merged it with the Russian Orthodox Church, obliging bishops, priests and faithful loyal to Rome to live and resist underground for more than four decades. Only with the fall of the Soviet Union, in the late 1980s, was the Church able to act publicly again, and it is today headed by a Major Archbishop based in Kyiv, also maintaining a strong presence among the Ukrainian diaspora around the world.",
+      "tags": [
+        "Ukrainian Greek Catholic Church",
+        "Union of Brest",
+        "Byzantine rite",
+        "Ukraine"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "familia_liturgica": "Byzantine",
+      "regiao": "Ukraine and diaspora"
+    },
+    {
+      "id": "ritos-orientais:igreja-greco-catolica-melquita",
+      "slug": "igreja-greco-catolica-melquita",
+      "titulo": "Melkite Greek Catholic Church",
+      "categoria": "ritos-orientais",
+      "resumo": "Byzantine Church of the ancient Patriarchate of Antioch, in full communion with Rome since 1724, now headquartered in Damascus.",
+      "corpo": "The Melkite Greek Catholic Church became permanently united with Rome in 1724, when the Vatican recognized Cyril VI as Catholic Patriarch of Antioch, while the faction that remained Orthodox recognized Sylvester as its own patriarch — thus consolidating two parallel lines that are heirs to the same ancient Patriarchate of Antioch, founded, according to tradition, by the Apostle Peter. The term \"Melkite\" (from the Syriac \"malka\", king) goes back to the Christological controversies of the first centuries, originally designating those who followed the faith of the emperor (\"of the king\") of Constantinople, that is, those who accepted the Council of Chalcedon.\n\nFor reasons connected with historical persecutions, the Melkite patriarchal see is established in Damascus, Syria, although the Church retains by apostolic succession the title of Patriarchate of Antioch. Its liturgy is Byzantine, with a strong historical presence in Syria, Lebanon, Jordan, and Palestine, and immigrant communities now spread across Europe and the Americas, including Brazil, where the Eparchy of Our Lady of Paradise serves the Melkite faithful.",
+      "tags": [
+        "Melkite Greek Catholic Church",
+        "Patriarchate of Antioch",
+        "Byzantine rite",
+        "Damascus"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "familia_liturgica": "Byzantine",
+      "regiao": "Syria, Lebanon, and the diaspora"
+    },
+    {
+      "id": "ritos-orientais:igreja-greco-catolica-rutena",
+      "slug": "igreja-greco-catolica-rutena",
+      "titulo": "Ruthenian Greek Catholic Church",
+      "categoria": "ritos-orientais",
+      "resumo": "A Byzantine Church of Carpatho-Rusyn origin, born of the Union of Uzhhorod in 1646, today with a strong presence in the United States.",
+      "corpo": "The Ruthenian Greek Catholic Church — known in the United States as the Byzantine Catholic Church — originated among the Rusyns, an East Slavic people settled in the region of the Carpathian Mountains, where the borders of Ukraine, Slovakia and Hungary now meet. Its communion with Rome was born of the Union of Uzhhorod, concluded in 1646, when Orthodox bishops and clergy of that region agreed to recognize the primacy of the Pope while fully preserving the Byzantine rite they had received, according to tradition, from the Slavic evangelization of Saints Cyril and Methodius in the ninth century.\n\nThe mass emigration of Rusyns to the United States and Canada beginning in the late nineteenth century gave rise to a metropolia of its own on American soil, based in Pittsburgh, now self-governing and which since the mid-twentieth century has also adopted the designation \"Byzantine Catholic Church\" to distinguish itself from other communities of Ukrainian origin. In Europe, the Ruthenian Church maintains eparchies in Subcarpathian Ukraine, Slovakia, Hungary and the Czech Republic.",
+      "tags": [
+        "Ruthenian Greek Catholic Church",
+        "Union of Uzhhorod",
+        "Byzantine rite",
+        "Carpathians"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "familia_liturgica": "Byzantine",
+      "regiao": "Carpathians and United States"
+    },
+    {
+      "id": "ritos-orientais:igreja-greco-catolica-romena",
+      "slug": "igreja-greco-catolica-romena",
+      "titulo": "Romanian Greek-Catholic Church",
+      "categoria": "ritos-orientais",
+      "resumo": "Byzantine Church of Romanian language, united with Rome in 1700 and later suppressed and persecuted by the communist regime for more than forty years.",
+      "corpo": "The Romanian Greek-Catholic Church (or Romanian Church United with Rome) was born of the union concluded by synods held between 1697 and 1700 in Transylvania, then under Habsburg rule, when Metropolitan Atanasie Anghel and the local Orthodox clergy accepted communion with Rome under explicit conditions: to keep the Byzantine liturgy in Romanian and Church Slavonic, to preserve the Eastern calendar, to retain the married clergy, and not to alter their iconostases, vestments, and liturgical traditions. In 1701, Pope Clement XI confirmed the union and established the Greek-Catholic see of Făgăraș-Alba Iulia.\n\nUnder the communist regime, the Church was the only religious denomination formally banned and had all its property confiscated: in October 1948, a synod forged by the government declared the union with Rome dissolved, and in December of that year an official decree dissolved the Church, handing over most of its nearly 2,600 churches to the Romanian Orthodox Church; all of its bishops were arrested on the night of December 29-30, 1948. Persecuted and underground for 41 years, the Church was only able to exist publicly again after the fall of the communist regime in 1989, and several of its martyr bishops from that period were beatified by Pope Francis in 2019.",
+      "tags": [
+        "Romanian Greek-Catholic Church",
+        "Byzantine rite",
+        "communist persecution",
+        "Transylvania"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "familia_liturgica": "Byzantine",
+      "regiao": "Romania (Transylvania)"
+    },
+    {
+      "id": "ritos-orientais:divina-liturgia-de-sao-basilio",
+      "slug": "divina-liturgia-de-sao-basilio",
+      "titulo": "The Divine Liturgy of Saint Basil the Great",
+      "categoria": "ritos-orientais",
+      "resumo": "The second most commonly used Byzantine anaphora, reserved for ten solemn occasions of the year, among them Lent and the vigils of Christmas and Epiphany.",
+      "corpo": "Alongside the more frequent Divine Liturgy of Saint John Chrysostom, the Byzantine tradition preserves a second Eucharistic form, longer and with more developed prayers: the Divine Liturgy of Saint Basil the Great, bishop of Cappadocia in the fourth century, to whom tradition attributes the composition of its presidential prayers, including an anaphora (Eucharistic prayer) that is particularly extensive and theologically rich. Unlike the Chrysostom liturgy, celebrated on most Sundays of the year, that of Saint Basil is reserved for only ten occasions: the five Sundays of Lent, Holy Thursday and Holy Saturday, the feast of Saint Basil (January 1) and the vigils of Christmas and Epiphany.\n\nThis restriction to moments of particular spiritual density in the Byzantine calendar gives the Liturgy of Saint Basil a character of greater solemnity, generally associated with longer celebrations and an even more contemplative tone than the already solemn ordinary Byzantine rite, reinforcing the already rich diversity of liturgical expressions within a single rite family.",
+      "tags": [
+        "Divine Liturgy",
+        "Saint Basil the Great",
+        "Byzantine rite",
+        "anaphora"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "familia_liturgica": "Byzantine",
+      "regiao": "Various"
+    },
+    {
+      "id": "ritos-orientais:calendario-juliano-nas-igrejas-orientais",
+      "slug": "calendario-juliano-nas-igrejas-orientais",
+      "titulo": "The Julian Calendar in the Eastern Catholic Churches",
+      "categoria": "ritos-orientais",
+      "resumo": "Several Eastern Catholic communities of the Byzantine tradition still follow the old Julian calendar, celebrating Christmas on January 7.",
+      "corpo": "Not all Eastern Catholic Churches have adopted the Gregorian calendar, promulgated by Pope Gregory XIII in 1582 by the bull \"Inter Gravissimas\" to correct the accumulated errors of the old Julian calendar, created by Julius Caesar in 45 B.C. Several communities of the Byzantine rite — among them Ukrainian, Russian, Belarusian and other Eastern Slavic Catholic faithful — continue to follow the Julian calendar, at least for the fixed calendar of feasts, which is now thirteen days behind the civil Gregorian calendar.\n\nIt is for this reason that Christmas, fixed universally on December 25 in the Byzantine liturgical calendar, falls in practice on January 7 of the civil calendar for those who follow the Julian reckoning — a date shared by millions of Orthodox and Eastern Catholic faithful around the world, especially in Eastern Europe and the Middle East. Other Eastern Catholic Churches, such as the Maronite, Melkite and Syro-Malabar, have adopted the Gregorian calendar, so that the date of celebration of fixed feasts such as Christmas varies according to the tradition and region of each Church sui iuris.",
+      "tags": [
+        "Julian calendar",
+        "Gregorian calendar",
+        "Byzantine rite",
+        "Christmas"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "familia_liturgica": "Byzantine",
+      "regiao": "Eastern Europe and the Middle East"
+    }
+  ]
+}

@@ -1,0 +1,982 @@
+{
+  "_meta": {
+    "categoria": "glossario",
+    "nome": "Glossary",
+    "descricao": "Dictionary of Catholic liturgical, canonical and devotional terms — from the monstrance to the motu proprio.",
+    "status": "exemplos-iniciais",
+    "aviso": "Introductory and abbreviated definitions; for rigorous technical or canonical use, consult the Code of Canon Law or specialized reference works.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Catechism of the Catholic Church",
+      "Code of Canon Law (1983)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "glossario:ostensorio",
+      "slug": "ostensorio",
+      "titulo": "Monstrance",
+      "categoria": "glossario",
+      "resumo": "Liturgical vessel made of precious metal, used to expose the consecrated host for the adoration of the faithful.",
+      "corpo": "Also called a \"custodia,\" the monstrance is a piece of gold or silver, usually shaped like a sun with rays, with a central glass receptacle (the lunette) in which the consecrated host is placed for public exposition and adoration, outside of Mass — see the Liturgical Life category.",
+      "tags": [
+        "liturgical objects",
+        "Eucharist"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:ambula",
+      "slug": "ambula",
+      "titulo": "Pyx",
+      "categoria": "glossario",
+      "resumo": "A metal vessel in which the consecrated hosts are kept inside the tabernacle.",
+      "corpo": "The pyx (also called a ciborium, when it is shaped like a cup with a lid) is the sacred vessel, usually made of metal gilded on the inside, used to preserve the consecrated hosts reserved in the tabernacle for the Communion of the faithful and for Eucharistic adoration outside of Mass.",
+      "tags": [
+        "liturgical objects",
+        "Eucharist"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:casula",
+      "slug": "casula",
+      "titulo": "Chasuble",
+      "categoria": "glossario",
+      "resumo": "Outer vestment worn by the priest at Mass, whose color varies according to the liturgical season.",
+      "corpo": "The chasuble is the outer liturgical vestment, generally shaped like a wide poncho, worn by the celebrant priest over the alb and the stole during Mass. Its color follows the calendar of the liturgical year (see the Liturgical Calendar category) and it often bears embroidery or symbols related to the celebration.",
+      "tags": [
+        "liturgical objects",
+        "vestments"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:ambao",
+      "slug": "ambao",
+      "titulo": "Ambo",
+      "categoria": "glossario",
+      "resumo": "A raised place, distinct from the altar, from which the biblical readings are proclaimed and the homily is preached.",
+      "corpo": "The ambo is the place, generally a kind of pulpit or raised lectern in the sanctuary, reserved specifically for the proclamation of the Word of God — the readings, the responsorial psalm, and the Gospel — and for the preaching of the homily, distinct from the altar, which is reserved for the Eucharistic sacrifice.",
+      "tags": [
+        "sacred architecture",
+        "liturgy of the word"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:cirio-pascal",
+      "slug": "cirio-pascal",
+      "titulo": "Paschal Candle",
+      "categoria": "glossario",
+      "resumo": "A large candle, blessed at the Easter Vigil, that symbolizes the risen Christ, \"light of the world.\"",
+      "corpo": "The Paschal Candle is a large wax candle, blessed and solemnly lit at the Easter Vigil from the new fire, a symbol of the risen Christ, \"the light that the darkness did not overcome.\" It remains lit during all the celebrations of the Easter Season and is also used to light the candle of the person being baptized at each Baptism throughout the year.",
+      "tags": [
+        "liturgical objects",
+        "Easter"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:sacrario",
+      "slug": "sacrario",
+      "titulo": "Tabernacle",
+      "categoria": "glossario",
+      "resumo": "A fixed and inviolable safe in the church where the Most Blessed Sacrament is permanently reserved.",
+      "corpo": "The tabernacle (in Portuguese also called *sacrário*) is the secure and worthy place — normally a small metal safe, built into a wall or set on a pedestal — where the consecrated Eucharist is permanently reserved in the church, both for the communion of the sick and for Eucharistic adoration. A lamp kept burning beside it signals to the faithful the real presence of Christ reserved there.",
+      "tags": [
+        "liturgical objects",
+        "Eucharist"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:indulgencia",
+      "slug": "indulgencia",
+      "titulo": "Indulgence",
+      "categoria": "glossario",
+      "resumo": "The remission before God of the temporal punishment for sins whose guilt has already been forgiven, granted by the Church under certain conditions.",
+      "corpo": "An indulgence does not forgive sin itself — that is the effect of the sacrament of Penance — but remits, in whole (plenary) or in part (partial), the temporal punishment that still remains to be paid for sins already forgiven as to guilt. It is granted by the Church, which applies to the faithful the spiritual treasury of the merits of Christ and the saints, through the performance of specific works — prayers, pilgrimages, works of charity — under conditions set by ecclesiastical authority.",
+      "tags": [
+        "penance",
+        "eternal life"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1471-1479"
+      ]
+    },
+    {
+      "id": "glossario:nulidade-matrimonial",
+      "slug": "nulidade-matrimonial",
+      "titulo": "Matrimonial Nullity",
+      "categoria": "glossario",
+      "resumo": "An ecclesiastical declaration that a marriage, despite its outward appearance, never validly existed from the beginning.",
+      "corpo": "\"Nullity\" (or annulment) is not the Catholic equivalent of divorce: it is the finding, by an ecclesiastical tribunal, that an essential requirement for the validity of marriage — full free consent, absence of coercion, psychological capacity, among others — was lacking from the beginning, so that this bond, despite the outward celebration, never existed as a valid sacramental marriage.",
+      "tags": [
+        "marriage",
+        "canon law"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:via-sacra-termo",
+      "slug": "via-sacra-termo",
+      "titulo": "Station (of the Way of the Cross)",
+      "categoria": "glossario",
+      "resumo": "Each of the fourteen (or fifteen) stopping and meditation points that make up the Way of the Cross.",
+      "corpo": "Each \"station\" of the Way of the Cross corresponds to a specific episode of Christ's Passion — for example, the first station (\"Jesus is condemned to death\") or the twelfth (\"Jesus dies on the cross\") —, usually represented by an image or relief fixed to the wall of the church, before which the faithful stop to pray and meditate (see the Devotions category).",
+      "tags": [
+        "Way of the Cross",
+        "Passion of Christ"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:dalmatica",
+      "slug": "dalmatica",
+      "titulo": "Dalmatic",
+      "resumo": "A liturgical vestment with sleeves, proper to the deacon (and, in solemn celebrations, also to the bishop beneath the chasuble), originating in ancient Dalmatia.",
+      "corpo": "The dalmatic is the outer vestment proper to the deacon in the liturgy, analogous to the priest's chasuble, but wider in shape and with sleeves. The name comes from Dalmatia, a region of the Roman Empire (present-day Croatia), where this tunic was worn; adopted in Rome by senators and persons of distinction, it later passed into Christian use. As early as the 2nd-3rd centuries, a white outer tunic with wide sleeves, decorated in various ways, for example with two vertical purple stripes, was called a dalmatic in Rome; in the catacombs, figures of orantes wearing it appear.\n\nAccording to the Liber Pontificalis, it was Pope Sylvester I (314-335) who introduced the dalmatic into liturgical use, and already in the first half of the 4th century its use was common in Rome — the pope wore it under the chasuble, and deacons as an outer vestment. In ancient Roman discipline, bishops other than the pope and deacons who were not Roman could wear it only with the express or tacit permission of the pope; Pope Symmachus (498-514), for example, granted it to the deacons of Saint Caesarius of Arles. From the 4th century on it also became characteristic of bishops, and later of deacons, who are thus depicted in mosaics (such as those of Ravenna).\n\nThe original ornamentation consisted chiefly of two narrow stripes, the clavi, which ran straight down the front and back, and of a narrow band at the sleeves; by the 7th century, fringes are found, applied to the sleeves or the side openings. Around the 9th century the custom arose, maintained until the 13th, of placing tufts of red fringe on the clavi and on the sleeve bands. When colors were prescribed for the chasuble, they also came to be observed for the dalmatic.\n\nIn the Roman tradition the custom became established of omitting the dalmatic on penitential days — a usage that, having arisen in Rome, was universal by the 12th century; on those days the deacon wore only the alb or, in its place, the planeta plicata (a folded chasuble, of a dark color). An exception was made on Holy Thursday, when the festive vestments were used. In former times the dalmatic was rare at Masses for the dead, becoming general at the end of the Middle Ages.\n\nCurrently, the General Instruction of the Roman Missal (no. 338) determines that 'the vestment proper to the deacon is the dalmatic, worn over an alb and stole', allowing that, out of necessity or in less solemn celebrations, the dalmatic may be omitted. In the ordination of deacons, the presentation of the dalmatic is one of the complementary rites of the sacrament. Bishops and mitered abbots may also wear it at solemn Mass, beneath the chasuble, and it may always be white (Ceremonial of Bishops, no. 56).",
+      "categoria": "glossario",
+      "tags": [
+        "liturgical objects",
+        "vestments",
+        "diaconate",
+        "episcopate",
+        "Dalmatia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Deacon_dalmatic_20100418.jpg",
+      "imagem_credito": "Photo: James Bradley, 2010 (CC BY 2.0)",
+      "fontes": [
+        "Institutio Generalis Missalis Romani, no. 338",
+        "Ceremonial of Bishops, no. 56",
+        "Liber Pontificalis (life of Pope Sylvester I)",
+        "National Secretariat of Liturgy of Portugal, Dicionário elementar de liturgia (José Aldazábal), entry 'dalmática'",
+        "Catholic Encyclopedia, entry 'Dalmatic'",
+        "Wikimedia Commons, File:Deacon dalmatic 20100418.jpg"
+      ],
+      "atualizado_em": null
+    },
+    {
+      "id": "glossario:estola",
+      "slug": "estola",
+      "titulo": "Stole",
+      "categoria": "glossario",
+      "resumo": "A band of fabric worn over the shoulders, a distinctive sign of the priestly or diaconal character of the minister.",
+      "corpo": "The stole is a long band of fabric, in the liturgical color of the day, worn by priests (crossed or hanging loose over the chest) and deacons (diagonally, from one shoulder to the opposite hip) as a visible sign of their ordained ministry — also worn by the priest in confession, even without the chasuble.",
+      "tags": [
+        "liturgical objects",
+        "vestments",
+        "holy orders"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:cingulo",
+      "slug": "cingulo",
+      "titulo": "Cincture",
+      "categoria": "glossario",
+      "resumo": "A cord that secures the alb at the waist, a traditional symbol of self-mastery and chastity.",
+      "corpo": "The cincture is the cord, usually white or in the liturgical color of the day, that secures the alb at the waist of the celebrant minister. Spiritual tradition interprets it as a symbol of mastery over one's own appetites and of the chastity required by sacred ministry.",
+      "tags": [
+        "liturgical objects",
+        "vestments"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:purificatorio",
+      "slug": "purificatorio",
+      "titulo": "Purificator",
+      "categoria": "glossario",
+      "resumo": "A small linen cloth used to cleanse the chalice after communion.",
+      "corpo": "The purificator is a rectangular cloth of white linen, distinct from the corporal (spread beneath the chalice and the paten during the consecration), used by the priest to dry the chalice and his own fingers after communion, and treated with the same care owed to objects that have come into contact with the Eucharist.",
+      "tags": [
+        "liturgical objects",
+        "Eucharist"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:corporal",
+      "slug": "corporal",
+      "titulo": "Corporal",
+      "categoria": "glossario",
+      "resumo": "White linen cloth spread on the altar upon which the chalice and paten are placed during Mass.",
+      "corpo": "The corporal is the square white linen cloth spread over the altar cloth, in the exact place where the chalice and paten rest during the Liturgy of the Eucharist — the name comes from the fact that the consecrated \"Corpus\" (Body) of Christ rests upon it.",
+      "tags": [
+        "liturgical objects",
+        "Eucharist"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:patena",
+      "slug": "patena",
+      "titulo": "Paten",
+      "resumo": "Sacred vessel in the form of a shallow plate, made of a noble metal, on which the Eucharistic bread is offered and placed during Mass.",
+      "corpo": "The paten is the sacred vessel in the form of a shallow plate on which the bread is offered to God at the presentation of the gifts, is consecrated, and, after the breaking, is placed for the priest's Communion. The name derives from the Latin patina or patena, probably imitated from the Greek patane, a term used from early on to designate a flat, open container, similar to a plate or bowl, employed in the service of the altar.\n\nIn the first centuries, these patens were larger and deeper: they served to gather the bread offered by the faithful and to distribute the consecrated fragments, received by communicants directly in the hand. The Liber Pontificalis attributes to Pope Zephyrinus (c. 203-229) the order that the ministers hold glass patens before the celebrating bishop; those of noble metal came later. Like the chalice, the paten could be round or, more rarely, quadrangular, like the gold paten of the Chalice of Gourdon (6th-7th centuries). From the 9th-10th centuries onward, with the decline of frequent Communion among the faithful and the spread of pre-cut forms for making hosts, the ministerial patens fell into disuse and the paten became the priest's small individual plate, to hold the host and prevent the scattering of particles after the breaking — a form that has come down to us.\n\nCurrent legislation requires that sacred vessels, among them the paten, be made of noble metal; if made of metal that rusts or of a metal less noble than gold, they should as a rule be gilded on the inside (General Instruction of the Roman Missal, no. 328). With the approval of the Conference of Bishops and of the Holy See, the use of other solid and noble materials is permitted, such as ebony or other very hard woods, provided they do not break or deteriorate (no. 329). The Instruction further recommends that a larger paten be used to advantage, one on which the bread for the priest, the deacon, the other ministers, and the faithful can fit (no. 331).\n\nThe same name is also used for the Communion plate — a small paten held under the mouth or the hands of the faithful during the distribution of Communion, so that no fragment of the sacred species may be lost. This practice is strongly recommended by the Instruction Redemptionis Sacramentum (no. 93). At Mass, the paten accompanies the chalice and normally rests upon it on the credence table; it is brought to the altar in the procession of the gifts (cf. GIRM, no. 140; Ceremonial of Bishops, no. 145) and, after Communion, is purified together with the chalice.",
+      "categoria": "glossario",
+      "tags": [
+        "liturgical objects",
+        "Eucharist",
+        "sacred vessels",
+        "Mass",
+        "Zephyrinus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Chalice_and_Paten_from_Tyniec%2C_1050%2C_exh._Benedictines_NG_Prague%2C_150645.jpg",
+      "imagem_credito": "Photo: Zde, 2015 (CC BY-SA 4.0)",
+      "fontes": [
+        "General Instruction of the Roman Missal, nos. 327-332",
+        "Congregation for Divine Worship, Instruction Redemptionis Sacramentum, nos. 93 and 117",
+        "Liber Pontificalis (life of Pope Zephyrinus)",
+        "Catholic Encyclopedia, entry 'Paten'",
+        "Wikimedia Commons, File:Chalice and Paten from Tyniec, 1050.jpg"
+      ],
+      "atualizado_em": null
+    },
+    {
+      "id": "glossario:biretrum",
+      "slug": "biretrum",
+      "titulo": "Biretta (Biretum)",
+      "categoria": "glossario",
+      "resumo": "A stiff liturgical hat with three (or four) points, traditionally worn by the clergy.",
+      "corpo": "The biretta (in Latin, \"biretum\") is a stiff liturgical hat with three points (four, in the case of some academic or ecclesiastical degrees), traditionally black for priests, purple for bishops, and red for cardinals, today used more restrictively in solemn or traditional contexts.",
+      "tags": [
+        "liturgical objects",
+        "vestments",
+        "clergy"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:mitra",
+      "slug": "mitra",
+      "titulo": "Mitre",
+      "categoria": "glossario",
+      "resumo": "Tall, pointed liturgical headdress proper to the bishop, a symbol of his teaching authority.",
+      "corpo": "The mitre is the tall liturgical headdress with two triangular points (front and back), proper to the bishop in solemn celebrations, with two ribbons (\"lappets\") that fall over the shoulders — a traditional symbol, together with the crosier and the ring, of the episcopal authority to teach, govern and sanctify.",
+      "tags": [
+        "liturgical objects",
+        "vestments",
+        "episcopate"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:baculo",
+      "slug": "baculo",
+      "titulo": "Crosier",
+      "resumo": "Pastoral staff with a curved upper end, the insignia of the bishop's pastoral governance over his diocese.",
+      "corpo": "The crosier is the pastoral staff that, together with the miter, is among the principal insignia of the bishop. It consists of a rod topped by a curved volute, whose shape evokes the staff of a shepherd of sheep: the curved part serves to draw in and bring back the sheep, and the straight end, to drive away the wolf. Under the name of lituus, a similar curved rod was used by the Roman augurs; other authors see in the crosier an adaptation of the common walking sticks, used as a support on journeys and in churches before the introduction of seats.\n\nThe liturgical use of the crosier probably goes back to the fifth century; it is mentioned in a letter of Pope Celestine I (d. 432) to the bishops of Vienne and Narbonne. Although staffs have been found in the catacombs dating from as early as the fourth century, their ceremonial character has not been established. The Catholic Encyclopedia points to canon 27 of the Fourth Council of Toledo (633) as the first unequivocal reference to the crosier as a liturgical instrument; it should be noted, however, that the currently known text of this canon deals with the profession of chastity made to the bishop by presbyters and deacons, so the attribution should be taken with caution. According to liturgical tradition, its use as an episcopal sign dates to the fourth century and its adoption by abbots to the fifth century.\n\nThe crosier is conferred on bishops at their consecration and on mitered abbots at their investiture, and is used in solemn pontifical functions — by right in their own dioceses and by privilege outside them. It is carried in processions, at the reading of the Gospel and in the administration of the sacraments, provided that there is no laying on of hands. The bishop carries it with the curve turned toward the people; lesser prelates hold it with the head inverted, and the crosiers of abbots are smaller than those of bishops and are covered with a veil when the bishop is present.\n\nThe Roman Pontiff does not use the ordinary crosier. Innocent III, in the thirteenth century, writes in De sacro altaris mysterio: 'Romanus Pontifex pastorali virga non utitur' ('The Roman Pontiff does not use the pastoral staff'). In its place, the pope uses the ferula, a staff topped by a cross instead of a volute. The use of the ferula itself was never an integral part of the papal liturgy, except on specific occasions, such as the opening of the Holy Door, when the pope knocks three times on the door, or the consecration of churches, to trace the Latin and Greek alphabet on the floor. The modern ferula goes back to the one used by Paul VI (a piece by Lello Scorzelli) and was later taken up again in forms of older inspiration by Benedict XVI from 2008, with reference to the ferula of Pius IX.",
+      "categoria": "glossario",
+      "tags": [
+        "liturgical objects",
+        "episcopate",
+        "pastoral",
+        "papal ferula",
+        "Fourth Council of Toledo"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catholic Encyclopedia, entry 'Crosier' (pastoral staff)",
+        "Innocent III, De sacro altaris mysterio ('Romanus Pontifex pastorali virga non utitur')",
+        "Twenty-seventh canon attributed to the Fourth Council of Toledo (633); The Presbyters Project, record ER 439",
+        "Pope Celestine I, letter to the bishops of Vienne and Narbonne (c. 432)",
+        "Wikimedia Commons, File:French - Crozier with the Annunciation - Walters 44121 - Profile.jpg (Walters Art Museum, public domain)"
+      ],
+      "atualizado_em": null
+    },
+    {
+      "id": "glossario:palio",
+      "slug": "palio",
+      "titulo": "Pallium",
+      "categoria": "glossario",
+      "resumo": "A band of white wool with black crosses, a papal insignia also conferred on metropolitan archbishops.",
+      "corpo": "The pallium is a narrow circular band of white wool embroidered with black crosses, worn over the chasuble around the neck, a symbol of the bond of communion with the Pope and of pastoral authority. It is an insignia proper to the Pope, but is also conferred by him on metropolitan archbishops, traditionally given on the feast of Saints Peter and Paul, June 29.",
+      "tags": [
+        "liturgical objects",
+        "papacy",
+        "episcopate"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:genuflexao",
+      "slug": "genuflexao",
+      "titulo": "Genuflection",
+      "categoria": "glossario",
+      "resumo": "A liturgical gesture of bending the knee as a sign of adoration, above all before the Blessed Sacrament.",
+      "corpo": "Genuflection — quickly bending the right knee to the ground — is the traditional liturgical gesture of adoration (reserved to God, unlike the simple bow of the head or inclination, which may also be directed to persons or venerated images), practiced especially when passing before the tabernacle or when entering and leaving the pew in church.",
+      "tags": [
+        "liturgical gestures",
+        "Eucharist"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:genuflexorio",
+      "slug": "genuflexorio",
+      "titulo": "Kneeler",
+      "categoria": "glossario",
+      "resumo": "A small bench or support designed for kneeling during prayer.",
+      "corpo": "The kneeler (in Portuguese, genuflexório) is a piece of furniture or support structure, usually padded, designed specifically to allow a person to kneel more comfortably during personal or liturgical prayer. It is common in both churches and household oratories.",
+      "tags": [
+        "liturgical objects",
+        "prayer"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:relicario",
+      "slug": "relicario",
+      "titulo": "Reliquary",
+      "categoria": "glossario",
+      "resumo": "A container, often ornate, used to keep and display relics of saints.",
+      "corpo": "A reliquary is the container — of widely varying sizes and shapes, from simple boxes to elaborate pieces of goldsmithing — intended to keep and display for the veneration of the faithful a relic: an object connected with the body (a first-class relic), with the belongings (second class), or with objects that have touched the body (third class) of a saint.",
+      "tags": [
+        "liturgical objects",
+        "relics",
+        "saints"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:postulador",
+      "slug": "postulador",
+      "titulo": "Postulator (cause of canonization)",
+      "categoria": "glossario",
+      "resumo": "The person technically and legally responsible for conducting the cause of beatification or canonization of a Servant of God.",
+      "corpo": "The postulator is the person — today almost always a specialist trained in canonization causes — officially charged with gathering and presenting to the Holy See all the historical, theological and, when applicable, medical documentation needed to prepare the cause of beatification or canonization of a \"Servant of God\" (see the category Blessed and Canonization).",
+      "tags": [
+        "canonization",
+        "canon law"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:dicasterio",
+      "slug": "dicasterio",
+      "titulo": "Dicastery",
+      "categoria": "glossario",
+      "resumo": "A department of the Roman Curia responsible for a specific area of the governance of the universal Church.",
+      "corpo": "\"Dicastery\" is the term used since the reform of the Roman Curia (constitution «Praedicate Evangelium», 2022) to designate each of the central departments that assist the Pope in governing the universal Church — such as the Dicastery for the Doctrine of the Faith or the Dicastery for Bishops —, replacing the earlier term \"congregation\" for most of these bodies.",
+      "tags": [
+        "Roman Curia",
+        "governance of the Church"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:beato",
+      "slug": "beato",
+      "titulo": "Blessed",
+      "categoria": "glossario",
+      "resumo": "Title given to one who has undergone beatification, the penultimate step of the canonization process, with worship permitted in a restricted manner.",
+      "corpo": "\"Blessed\" is the title given to a person who has died and is recognized by the Church as having lived the Christian virtues to a heroic degree (or as a martyr), after the confirmation of a miracle attributed to his or her intercession (waived in the case of martyrs). It differs from \"saint\" because public veneration of a blessed is, as a rule, permitted only in a restricted manner, generally limited to a diocese, region or religious family, whereas canonization extends veneration to the whole universal Church.",
+      "tags": [
+        "canonization",
+        "blessed"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:veneravel",
+      "slug": "veneravel",
+      "titulo": "Venerable",
+      "categoria": "glossario",
+      "resumo": "Title granted to a Servant of God whose heroic virtues (or martyrdom) have already been officially recognized by the Pope.",
+      "corpo": "\"Venerable\" is the title given to a \"Servant of God\" — a deceased person whose cause for canonization is underway — when the Pope formally recognizes, by decree, that he or she lived the Christian virtues (faith, hope, charity, and the cardinal virtues) to a heroic degree, or suffered martyrdom for the faith. It is the step before beatification, which still requires the confirmation of a miracle.",
+      "tags": [
+        "canonization",
+        "blessed"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:servo-de-deus",
+      "slug": "servo-de-deus",
+      "titulo": "Servant of God",
+      "categoria": "glossario",
+      "resumo": "Initial title given to a deceased person whose cause for beatification has been formally opened by the diocese.",
+      "corpo": "\"Servant of God\" is the first formal title in the process of canonization, granted when the diocesan bishop authorizes the official opening of the investigation into the life, virtues, or martyrdom of a deceased person with a reputation for holiness, generally not earlier than five years after his or her death.",
+      "tags": [
+        "canonization",
+        "blessed"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:conclave",
+      "slug": "conclave",
+      "titulo": "Conclave",
+      "categoria": "glossario",
+      "resumo": "A closed meeting of the cardinal electors to choose the new Pope after the death or resignation of his predecessor.",
+      "corpo": "The conclave (from the Latin \"cum clave\", \"with a key\", because of the traditional seclusion of the cardinals until the election) is the assembly of cardinals entitled to vote — today limited by age to those under 80 — gathered in the Sistine Chapel, under strict secrecy, to elect the new Bishop of Rome. The election requires a two-thirds majority of the votes, and the white smoke from the burning of the ballots announces to the world that a new Pope has been elected.",
+      "tags": [
+        "papacy",
+        "conclave",
+        "Roman Curia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:enciclica",
+      "slug": "enciclica",
+      "titulo": "Encyclical",
+      "categoria": "glossario",
+      "resumo": "A solemn doctrinal letter from the Pope, usually addressed to the whole Church, on a question of faith or morals.",
+      "corpo": "The encyclical is one of the most solemn forms of written papal magisterium: a circular doctrinal letter, today generally addressed to all the faithful and, often, \"to all people of good will\", dealing with matters of faith, morals or the social doctrine of the Church — historical examples include «Rerum Novarum» (Leo XIII, 1891) and «Laudato Si'» (Francis, 2015).",
+      "tags": [
+        "magisterium",
+        "papal documents"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:bula-papal",
+      "slug": "bula-papal",
+      "titulo": "Papal Bull",
+      "categoria": "glossario",
+      "resumo": "A solemn pontifical document with a lead seal (\"bulla\"), used for acts of great juridical or doctrinal importance.",
+      "corpo": "The bull (from the Latin \"bulla\", the lead seal that traditionally authenticated the document) is one of the oldest and most solemn forms of pontifical document, historically used for acts of great juridical or doctrinal weight — canonizations, dogmatic definitions, the proclamation of jubilees —, such as the bull «Ineffabilis Deus» (1854), which defined the dogma of the Immaculate Conception.",
+      "tags": [
+        "magisterium",
+        "pontifical documents"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:motu-proprio",
+      "slug": "motu-proprio",
+      "titulo": "Motu Proprio",
+      "categoria": "glossario",
+      "resumo": "A legislative document issued by the Pope on his own initiative, without a prior petition from another authority.",
+      "corpo": "\"Motu proprio\" (Latin for \"on one's own initiative\") designates a legislative document that the Pope promulgates on his own decision, not in response to an inquiry or petition from others — often used for minor administrative or disciplinary reforms in the Church.",
+      "tags": [
+        "magisterium",
+        "papal documents"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:ex-cathedra",
+      "slug": "ex-cathedra",
+      "titulo": "Ex Cathedra",
+      "categoria": "glossario",
+      "resumo": "A phrase designating the extremely rare occasions on which the Pope exercises infallibility by solemnly defining a doctrine of faith or morals.",
+      "corpo": "\"Ex cathedra\" (Latin for \"from the chair\") designates the condition, defined by the First Vatican Council (1870), under which the Pope exercises infallibility: when, as supreme shepherd and teacher of all Christians, he solemnly defines, with the explicit intention of binding the whole Church, a doctrine concerning faith or morals. This is an extremely rare exercise — the definition of the dogma of the Assumption in 1950 is the only case cited with certainty by most theologians since the definition of the concept itself.",
+      "tags": [
+        "papal infallibility",
+        "magisterium"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "First Vatican Council, Constitution «Pastor Aeternus» (1870)"
+      ]
+    },
+    {
+      "id": "glossario:ecumenismo",
+      "slug": "ecumenismo",
+      "titulo": "Ecumenism",
+      "categoria": "glossario",
+      "resumo": "A movement and effort for the visible unity of all Christians, who are today divided into different Churches and communities.",
+      "corpo": "Ecumenism is the set of initiatives, prayers, and dialogues aimed at restoring full unity among all those baptized in Christ, who are today historically divided into different Churches and ecclesial communities—Catholic, Orthodox, Protestant—without demanding the suppression of legitimate diversity, but seeking to overcome the divisions that contradict Christ's will that all may be \"one\" (Jn 17:21).",
+      "tags": [
+        "ecumenism",
+        "Christian unity"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Second Vatican Council, Decree «Unitatis Redintegratio» (1964)"
+      ]
+    },
+    {
+      "id": "glossario:rito-oriental-catolico",
+      "slug": "rito-oriental-catolico",
+      "titulo": "Eastern Catholic Rite",
+      "categoria": "glossario",
+      "resumo": "One of the Eastern liturgical traditions (Byzantine, Syriac, Chaldean, among others) in full communion with Rome.",
+      "corpo": "The Eastern Catholic Churches follow liturgical, disciplinary and spiritual traditions distinct from the Roman Rite — Byzantine, Alexandrian, West Syriac, East Syriac (Chaldean) and Armenian, among others — but remain in full communion with the Pope and the Church of Rome, forming together with the Latin Church the one Catholic Church, one in faith, diverse in rites.",
+      "tags": [
+        "Eastern rites",
+        "structure of the Church"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "glossario:turibulo",
+      "slug": "turibulo",
+      "titulo": "Thurible",
+      "categoria": "glossario",
+      "resumo": "Metal vessel suspended from chains, used to burn incense during solemn liturgical celebrations.",
+      "corpo": "The thurible is a metal vessel, usually of gold or silver, suspended from chains that allow it to be swung to stir up the embers and spread the smoke of the incense. It is used at solemn moments of the Mass and of other celebrations — in the incensation of the altar, of the Gospel, of the offerings and of the faithful —, a gesture that symbolizes prayer rising to God (Psalm 141:2). The incense is carried to the thurible in the boat, another liturgical object made specifically for this purpose.",
+      "tags": [
+        "liturgical objects",
+        "incense"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "General Instruction of the Roman Missal, nos. 276-277"
+      ]
+    },
+    {
+      "id": "glossario:aspersorio",
+      "slug": "aspersorio",
+      "titulo": "Aspergillum",
+      "categoria": "glossario",
+      "resumo": "Instrument used to sprinkle holy water on the faithful, objects or places in rites of blessing.",
+      "corpo": "The aspergillum (also called a hyssop) is a small instrument, traditionally made of metal with bristles or a perforated sphere at its tip, used to sprinkle holy water on people, objects or places during rites of blessing, such as the penitential rite of sprinkling that may replace the «Confiteor» at Sunday Masses, especially in the Easter Season. The name derives from the Latin «aspergere», «to sprinkle».",
+      "tags": [
+        "liturgical objects",
+        "holy water"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Roman Missal, Rite of Sprinkling"
+      ]
+    },
+    {
+      "id": "glossario:naveta",
+      "slug": "naveta",
+      "titulo": "Boat",
+      "categoria": "glossario",
+      "resumo": "A small boat-shaped container used to hold and carry grains of incense to the thurible.",
+      "corpo": "The boat is a small metal container, traditionally shaped like a ship (hence the name, from the Latin «navis») or a shell, used to hold the grains of incense before they are placed on the burning coals of the thurible during the liturgical incensation. It usually has its own spoon and is carried by the same minister (thurifer) who is responsible for the thurible.",
+      "tags": [
+        "liturgical objects",
+        "incense"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "General Instruction of the Roman Missal, no. 277"
+      ]
+    },
+    {
+      "id": "glossario:alva",
+      "slug": "alva",
+      "titulo": "Alb",
+      "categoria": "glossario",
+      "resumo": "White tunic covering the whole body, the basic liturgical vestment worn by priests, deacons and ministers beneath the other garments.",
+      "corpo": "The alb is a long white tunic, usually fastened at the waist by a cincture, that covers the body from the feet to the neck. It is the basic liturgical vestment over which the other garments specific to each ministry are placed — the stole and chasuble of the priest, the stole and dalmatic of the deacon. The white symbolizes baptismal purity: the same white garment is worn, in a simplified form, by the newly baptized.",
+      "tags": [
+        "liturgical vestments"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "General Instruction of the Roman Missal, no. 336"
+      ]
+    },
+    {
+      "id": "glossario:manipulo",
+      "slug": "manipulo",
+      "titulo": "Maniple",
+      "categoria": "glossario",
+      "resumo": "An ancient piece of cloth worn hanging from the celebrant's left forearm, now no longer obligatory at Mass in the ordinary Roman Rite.",
+      "corpo": "The maniple was a band of cloth, in the same liturgical color as the chasuble and the stole, worn hanging from the left forearm of the priest, deacon or bishop during Mass — its probable origin lies in a cloth used to wipe away sweat or to wipe the hands in ancient Rome. It ceased to be obligatory after the liturgical reform of the Second Vatican Council, remaining in use only in celebrations according to the extraordinary form of the Roman Rite (Tridentine Mass).",
+      "tags": [
+        "liturgical vestments",
+        "extraordinary form"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "General Instruction of the Roman Missal (editions prior to 1969)"
+      ]
+    },
+    {
+      "id": "glossario:solideu",
+      "slug": "solideu",
+      "titulo": "Zucchetto",
+      "categoria": "glossario",
+      "resumo": "A small, round liturgical skullcap whose color indicates the hierarchical rank of the one who wears it — white for the pope, red for cardinals, purple for bishops.",
+      "corpo": "The zucchetto is a small, round liturgical skullcap that fits closely to the head, worn beneath the miter or on its own outside of celebrations. Its color follows a precise hierarchy: white for the pope, red (or scarlet) for cardinals, purple for bishops and archbishops, and black (sometimes with colored details) for abbots and other clerics with the privilege. It is removed at specific moments of the Mass, such as during the Eucharistic Prayer.",
+      "tags": [
+        "liturgical vestments",
+        "ecclesiastical hierarchy"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Caeremoniale Episcoporum"
+      ]
+    },
+    {
+      "id": "glossario:anel-do-pescador",
+      "slug": "anel-do-pescador",
+      "titulo": "Ring of the Fisherman",
+      "categoria": "glossario",
+      "resumo": "A gold ring symbolizing papal authority, engraved with the image of Saint Peter fishing and the name of the reigning pope.",
+      "corpo": "The Ring of the Fisherman (in Latin, «Anulus Piscatoris») is a gold ring engraved with the image of Saint Peter casting nets from a boat, alluding to his vocation as a «fisher of men», with the name of the reigning pope around the image. Historically used to seal papal documents, today it has a mainly symbolic and ceremonial function. It follows an ancient tradition of the Church: at the end of each pontificate, the ring is ritually destroyed (traditionally scored with a chisel, today symbolically damaged), and a new one is cast for the next pope, precisely to prevent its improper use after the death or resignation of its holder.",
+      "tags": [
+        "papal objects",
+        "symbolism"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Universi Dominici Gregis (1996), on the sede vacante"
+      ]
+    },
+    {
+      "id": "glossario:camauro",
+      "slug": "camauro",
+      "titulo": "Camauro",
+      "categoria": "glossario",
+      "resumo": "Red papal cap with a white fur trim, traditionally worn in winter, rarely seen in use today.",
+      "corpo": "The camauro is a red velvet cap with a white fur trim (ermine or similar), traditionally worn by the popes during the winter as protection against the cold, especially until the mid-twentieth century. It fell into disuse after the Second Vatican Council and has since been worn only occasionally by a few popes — Benedict XVI wore it publicly again in 2005, drawing press attention precisely because of its rarity.",
+      "tags": [
+        "papal objects",
+        "liturgical vestments"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": []
+    },
+    {
+      "id": "glossario:amito",
+      "slug": "amito",
+      "titulo": "Amice",
+      "categoria": "glossario",
+      "resumo": "A white linen cloth placed over the shoulders and neck of the celebrant, the first liturgical vestment put on over ordinary clothing.",
+      "corpo": "The amice is a rectangle of white linen, fastened by two cords, placed over the shoulders and around the neck of the priest or deacon before the alb. Historically it also served to cover the ordinary clothing underneath, which today is often already covered by the alb itself, which is why its use has become optional in many places. The spiritual tradition interpreted it as \"the helmet of salvation\" (cf. Eph 6:17), a symbol of protection against distractions and temptations during the celebration.",
+      "tags": [
+        "liturgical objects",
+        "liturgical vestments"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "General Instruction of the Roman Missal, no. 336"
+      ]
+    },
+    {
+      "id": "glossario:pixide",
+      "slug": "pixide",
+      "titulo": "Pyx",
+      "categoria": "glossario",
+      "resumo": "Small sacred vessel used to keep and carry consecrated hosts, especially for the communion of the sick.",
+      "corpo": "The pyx (from the Latin \"pyxis\", derived from the Greek \"puxís\", a box made of boxwood) is a metal container, usually with a lid, smaller than the ciborium used in the tabernacle — intended mainly to carry a small number of consecrated hosts to the homes of the sick or of people unable to take part in Mass. Like every vessel that comes into direct contact with the Eucharist, it must be treated with the same care and reverence due to the Most Blessed Sacrament.",
+      "tags": [
+        "liturgical objects",
+        "Eucharist"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "General Instruction of the Roman Missal, nos. 327-328"
+      ]
+    },
+    {
+      "id": "glossario:lunula",
+      "slug": "lunula",
+      "titulo": "Lunette",
+      "categoria": "glossario",
+      "resumo": "A small crescent-shaped holder that keeps the consecrated host upright inside the monstrance.",
+      "corpo": "The lunette (also called a luna or lunula) is a small piece, usually made of precious metal with a glass frame on both sides, in the shape of a crescent moon, which holds and keeps the consecrated host in an upright position at the center of the monstrance during Eucharistic exposition. Outside the times of exposition, the lunette with the host is usually kept in its own small case inside the tabernacle.",
+      "tags": [
+        "liturgical objects",
+        "Eucharist"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Roman Ritual, Holy Communion and Worship of the Eucharistic Mystery outside Mass"
+      ]
+    },
+    {
+      "id": "glossario:pala",
+      "slug": "pala",
+      "titulo": "Pall",
+      "categoria": "glossario",
+      "resumo": "A small rigid piece, covered with linen, used to cover the chalice during Mass and protect it from impurities.",
+      "corpo": "The pall is a rigid square — usually cardboard or plastic covered with white linen or linen of the liturgical color of the day — used to cover the opening of the chalice after the wine and water have been placed in it, protecting it from insects or other impurities. It is removed shortly before the epiclesis and put back after the priest's communion. It is distinct from the corporal (spread beneath the chalice) and the purificator (used to cleanse it).",
+      "tags": [
+        "liturgical objects",
+        "Eucharist"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "General Instruction of the Roman Missal, no. 118"
+      ]
+    },
+    {
+      "id": "glossario:veu-umeral",
+      "slug": "veu-umeral",
+      "titulo": "Humeral Veil",
+      "categoria": "glossario",
+      "resumo": "A long veil placed over the shoulders of the celebrant to give the blessing with the Blessed Sacrament or to carry it in procession.",
+      "corpo": "The humeral veil (from the Latin \"humerus\", shoulder) is a rectangular piece of fine fabric, usually white or gold, placed over the shoulders of the priest or deacon to hold the monstrance or the ciborium when giving Eucharistic Benediction or when carrying the Blessed Sacrament in procession, as on the solemnity of Corpus Christi. The gesture of covering the hands with the veil symbolizes that the one who blesses is not the minister, but Christ himself present in the Eucharist, before whom the minister becomes a reverent instrument.",
+      "tags": [
+        "liturgical objects",
+        "Eucharist"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Roman Ritual, Holy Communion and Worship of the Eucharistic Mystery outside Mass"
+      ]
+    },
+    {
+      "id": "glossario:rocheta",
+      "slug": "rocheta",
+      "titulo": "Rochet",
+      "categoria": "glossario",
+      "resumo": "White choir dress with narrow sleeves, similar to the surplice, worn by bishops, cardinals, popes, and some prelates.",
+      "corpo": "The rochet is a white linen or lace garment reaching to the knees, similar to the surplice but with narrower sleeves fitted at the wrist. Unlike the surplice, which is worn by all clergy and lay ministers over the cassock, the rochet is proper to bishops, cardinals, the pope, and some canons and prelates, and is worn as choir dress (that is, outside the celebration of Mass, at solemn acts of worship or representative functions). It does not replace the alb or the surplice in the celebration of the sacraments.",
+      "tags": [
+        "liturgical vestments",
+        "episcopate"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Caeremoniale Episcoporum"
+      ]
+    },
+    {
+      "id": "glossario:mozeta",
+      "slug": "mozeta",
+      "titulo": "Mozzetta",
+      "categoria": "glossario",
+      "resumo": "A short cape covering the shoulders, worn as choir dress by the pope, cardinals, bishops and some prelates, each in his own color.",
+      "corpo": "The mozzetta is a short, sleeveless cape, buttoned in front and worn over the cassock as choir dress, that is, outside the celebration of the sacraments. Its color indicates the rank of the wearer: entirely red for cardinals, violet with red details for bishops, and for the pope a red mozzetta — of velvet lined with ermine in winter and of lighter silk in summer. It is one of the pieces of the so-called \"choir dress,\" distinct both from the liturgical vestment of the Mass and from the cassock worn daily.",
+      "tags": [
+        "liturgical vestments",
+        "ecclesiastical hierarchy"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Instruction on the dress, titles and coats of arms of cardinals, bishops and prelates (1969)"
+      ]
+    },
+    {
+      "id": "glossario:galero",
+      "slug": "galero",
+      "titulo": "Galero",
+      "categoria": "glossario",
+      "resumo": "Ancient red wide-brimmed hat granted to cardinals, now out of use but still present in ecclesiastical coats of arms.",
+      "corpo": "The galero (in English, the \"galero\" or cardinal's hat) is a hat with a wide, flat brim, adorned with cords and tassels, whose red color reminded the newly created cardinal that he must be ready to shed his own blood for the faith, according to the ritual formula that accompanied its presentation. Granted by Pope Innocent IV in 1245 as a distinctive sign of the cardinalate, the galero ceased to be actually worn after Paul VI abolished this piece of cardinalatial dress in 1969, but its design — with the number of tassels varying according to ecclesiastical rank — remains to this day as a heraldic element in the coats of arms of cardinals, bishops, and other prelates.",
+      "tags": [
+        "papal objects",
+        "ecclesiastical hierarchy"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Instruction on the dress, titles, and coats of arms of cardinals, bishops, and prelates (1969)"
+      ]
+    },
+    {
+      "id": "glossario:nuncio-apostolico",
+      "slug": "nuncio-apostolico",
+      "titulo": "Apostolic Nuncio",
+      "categoria": "glossario",
+      "resumo": "Permanent diplomatic representative of the Holy See to a State, with a rank equivalent to that of ambassador.",
+      "corpo": "The apostolic nuncio is the official representative of the Pope and the Holy See to the government of a country, with the diplomatic rank of ambassador extraordinary and plenipotentiary — in many countries, by tradition or agreement, he is automatically considered the dean of the diplomatic corps. He has a twofold function: he represents the Holy See before the host State and serves as a link between the local Church and Rome, collaborating, among other tasks, in drawing up the lists of candidates for the episcopate (the so-called \"ternas\") submitted to the Pope.",
+      "tags": [
+        "Roman Curia",
+        "diplomacy of the Holy See"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Code of Canon Law (1983), canons 362-367"
+      ]
+    },
+    {
+      "id": "glossario:se-vacante",
+      "slug": "se-vacante",
+      "titulo": "Sede Vacante",
+      "categoria": "glossario",
+      "resumo": "The period in which an episcopal see — including that of Rome — is without a titular bishop, due to the death, resignation or transfer of the bishop.",
+      "corpo": "\"Sede vacante\" (from the Latin \"sedes vacans\", empty seat) designates the period in which a diocese, or the See of Rome itself, is without a titular bishop, due to death, accepted resignation, transfer or removal. In the case of the papacy, the vacant see is governed by specific norms: the College of Cardinals assumes only the administration of the ordinary and urgent affairs of the Church, without being able to introduce innovations, until the election of the new Pope in conclave. In an ordinary diocese, a diocesan administrator is elected by the college of consultors, generally within eight days, to govern on an interim basis until a new bishop is appointed.",
+      "tags": [
+        "Church governance",
+        "papacy"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Code of Canon Law (1983), canons 421 and 431",
+        "Universi Dominici Gregis (1996)"
+      ]
+    },
+    {
+      "id": "glossario:interdito",
+      "slug": "interdito",
+      "titulo": "Interdict",
+      "categoria": "glossario",
+      "resumo": "A canonical censure that forbids participation in certain acts of worship and the reception of the sacraments, milder than excommunication.",
+      "corpo": "An interdict is one of the censures (medicinal penalties) provided for in the Code of Canon Law, imposed on a baptized member of the faithful who has committed a certain grave offense. A person under interdict is forbidden to take part in a ministerial capacity in liturgical celebrations and to receive the sacraments and sacramentals, but, unlike an excommunicated person, does not lose the right to exercise acts of ecclesiastical governance or other offices. Historically, the Church also imposed collective interdicts, temporarily suspending public worship in an entire city or territory, a practice now abandoned.",
+      "tags": [
+        "canon law",
+        "ecclesiastical censures"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Code of Canon Law (1983), canons 1331-1332"
+      ]
+    },
+    {
+      "id": "glossario:excomunhao",
+      "slug": "excomunhao",
+      "titulo": "Excommunication",
+      "categoria": "glossario",
+      "resumo": "The most serious of the canonical censures: it excludes the faithful from participation in the sacraments and in acts of governance of the Church, without erasing Baptism.",
+      "corpo": "Excommunication is the most serious canonical censure provided for by the Church, applied to offenses determined by the Code of Canon Law — such as apostasy, the desecration of the Eucharist, or a physical attack against the Pope. The excommunicated person is forbidden any ministerial participation in the Mass and in other rites of worship, from celebrating or receiving the sacraments, and from exercising ecclesiastical offices or acts of governance. It is a \"medicinal\" penalty, that is, one intended to lead the faithful to repentance and reconciliation, not a definitive expulsion from the Church: Baptism, and with it the fundamental bond of belonging to the Church, is not erased, and excommunication can be lifted by the absolution from the censure, once the cause that motivated it has ceased.",
+      "tags": [
+        "canon law",
+        "ecclesiastical censures"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Code of Canon Law (1983), canons 1331 and 1364-1398"
+      ]
+    },
+    {
+      "id": "glossario:anatema",
+      "slug": "anatema",
+      "titulo": "Anathema",
+      "categoria": "glossario",
+      "resumo": "A solemn formula condemning a doctrine as contrary to the faith, used in the canons of councils to separate the heretic from ecclesial communion.",
+      "corpo": "\"Anathema\" (from the Greek \"anáthema\", something consecrated and, by extension, \"set apart\" or \"accursed\") is the formula with which ecumenical councils, since Antiquity — its use goes back to the Council of Elvira, in the early fourth century —, solemnly condemned a proposition contrary to the Catholic faith, generally in the form \"if anyone says... let him be anathema.\" By extension, the term came to designate the very exclusion of the heretic from the communion of the faithful, an ancient form of excommunication. The Council of Trent (1545-1563) is known for its extensive use of this formula in response to the doctrines of the Protestant Reformation; since the Second Vatican Council, the Church has preferred a more pastoral doctrinal language, without abandoning the clear distinction between Catholic doctrine and error.",
+      "tags": [
+        "magisterium",
+        "councils",
+        "canon law"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Council of Trent, Canons on Justification (1547)",
+        "Council of Elvira (c. 306)"
+      ]
+    }
+  ]
+}

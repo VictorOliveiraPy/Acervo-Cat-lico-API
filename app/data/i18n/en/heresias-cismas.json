@@ -1,0 +1,690 @@
+{
+  "_meta": {
+    "categoria": "heresias-cismas",
+    "nome": "Heresies and Schisms",
+    "descricao": "The main doctrinal errors and ruptures of communion in the history of the Church, and the conciliar or magisterial response that confronted them.",
+    "status": "exemplos-iniciais",
+    "aviso": "An initial set of the most studied episodes; it does not exhaust the history of all Christian heresies and schisms.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Catechism of the Catholic Church",
+      "Denzinger-Hünermann, Enchiridion Symbolorum"
+    ]
+  },
+  "itens": [
+    {
+      "id": "heresias-cismas:gnosticismo",
+      "slug": "gnosticismo",
+      "titulo": "Gnosticism",
+      "categoria": "heresias-cismas",
+      "resumo": "A religious movement of the early centuries that saw matter as evil and preached salvation through a secret knowledge (gnosis) reserved for a few.",
+      "corpo": "More than a single heresy, Gnosticism was a mosaic of sects and schools of the first Christian centuries, strongly concentrated in Alexandria — a cosmopolitan city where Greek philosophy, Jewish mysticism and Egyptian religions intersected, and which historians usually call the \"hotbed of Gnosticism.\" There flourished teachers such as Basilides, around 120, and above all Valentinus, who taught in Rome in the middle of the second century and built the most sophisticated and influential system of the movement, giving rise to the extensive Valentinian school.\n\nThe common core of these schools was the radical dualism between spirit and matter. For the Gnostics, the material world could not have been the work of the true and supreme God, perfect and immaterial; it was rather the product of an inferior and ignorant being, the \"demiurge\" — in many systems identified with the God of the Old Testament — who had imprisoned sparks of the divine within bodies of corruptible matter. Salvation, in this view, depended not on faith or grace but on a secret and reserved knowledge (the \"gnosis\") about the soul's true heavenly origin and about the means of escaping the material prison, a knowledge transmitted only to an initiated spiritual elite, leaving the majority of humanity — the \"psychics\" and \"hylics,\" in the Valentinian categories — at an inferior level of salvation or perdition.\n\nThis worldview led to grave Christological consequences: since matter was intrinsically evil, many Gnostics refused to admit that the Son of God had taken on a real human body, maintaining that Christ only appeared to possess flesh (a heresy known as Docetism) or that the divinity had descended upon the man Jesus only at his baptism, abandoning him before the Passion. Thus both the real Incarnation and the factuality of the Cross and of the Resurrection in the flesh were denied. Texts such as the codices discovered at Nag Hammadi, in Egypt, in 1945 — among them the Gospel of Thomas and the Gospel of Truth, the latter attributed to the school of Valentinus — gave direct access in the twentieth century to this literature, until then known mainly through the quotations and refutations of its adversaries.\n\nThe chief of these adversaries was Irenaeus of Lyon, a bishop of Greek origin who, around 180, devoted his major work \"Adversus Haereses\" (Against Heresies) to setting out in detail the Gnostic systems — above all the Valentinian — and refuting them point by point. Irenaeus argued that the one same God is both the creator of the material world and the Father of Jesus Christ, that creation is good because it comes from a good God, and that true salvation is accomplished through the recapitulation of all humanity in Christ, incarnate, dead and risen in the flesh — not through an elitist flight from matter. Other Fathers, such as Tertullian and Hippolytus of Rome, joined in this effort of refutation. Although Gnosticism was never the object of a specific ecumenical council, having arisen before the conciliar era, Irenaeus' anti-Gnostic response became one of the pillars of patristic theology on creation, the Incarnation and the rule of faith handed down by the apostles, and echoes of Gnostic dualism would reappear later in movements such as Manichaeism and medieval Catharism.",
+      "tags": [
+        "dualism",
+        "Docetism",
+        "Irenaeus of Lyon",
+        "Nag Hammadi",
+        "Valentinus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Nag_Hammadi_Codex_V_17.png",
+      "imagem_credito": null,
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Valentim_(gn%C3%B3stico)",
+        "https://ministeriopastoral.com.br/o-gnosticismo/",
+        "https://teologico.club/termos-teologicos/gnosticismo"
+      ],
+      "tipo": "heresia",
+      "seculo": "I-III",
+      "condenacao": "Refuted by Irenaeus of Lyon and other apologists; never the object of a specific ecumenical council"
+    },
+    {
+      "id": "heresias-cismas:arianismo",
+      "slug": "arianismo",
+      "titulo": "Arianism",
+      "categoria": "heresias-cismas",
+      "resumo": "Heresy of the Alexandrian priest Arius that denied the full divinity of the Son, claiming that Christ was created by the Father and is not eternal.",
+      "corpo": "Arius, a presbyter in charge of an important church in Alexandria at the beginning of the fourth century, began to preach that the Son of God, although superior to all other creatures and begotten before all time, is neither coeternal nor consubstantial with the Father: he would be, in fact, the first and most perfect of creatures, brought into existence by the will of the Father out of nothing. Arius was a skilled popularizer and summed up his doctrine in short, singable formulas, such as the slogan that would become the symbol of the controversy: \"there was when he was not.\" Composed in popular verses gathered in the work \"Thalia,\" these formulas spread quickly among clergy, monks, and laity, turning an Alexandrian theological dispute into a crisis that threatened to split the unity of the newly Christianized Roman Empire.\n\nFaced with the speed with which the controversy was dividing bishops and entire communities, Emperor Constantine, interested in preserving the religious cohesion of the empire, convened in 325 the first truly universal council in Christian history, gathered in the city of Nicaea, in Asia Minor, with the participation of about 318 bishops from all over the Mediterranean world. The council formally condemned Arius and defined, against his doctrine, that the Son is \"homoousios\" (consubstantial, of the same substance) with the Father — a formula that would become part of the Nicene Creed, still recited today in the liturgy.\n\nThe conciliar condemnation, however, was far from ending the dispute. In the following decades, court intrigues and political maneuvers kept the controversy alive: emperors such as Constantius II even openly favored Arianizing compromise formulas, repeatedly exiling the bishops faithful to Nicaea. Athanasius of Alexandria, who as a young deacon had accompanied Bishop Alexander to the council, became over almost half a century the foremost and most steadfast defender of the Nicene faith, being exiled from his see five different times by hostile emperors and synods — an episode that gave rise to the expression \"Athanasius against the world\" (Athanasius contra mundum). Only in 381, under Emperor Theodosius I, did the First Council of Constantinople definitively reaffirm the Nicene faith, condemning Arianism again and expanding the Creed with the affirmation of the divinity of the Holy Spirit.\n\nEven though it was defeated in the councils, Arianism survived for centuries outside the direct borders of the empire, above all thanks to the missionary work of the Arian bishop Ulfilas (or Wulfila), who evangelized the Goths in the fourth century and translated the Bible into Gothic, sowing the Arian faith among practically all the Germanic peoples who would come to occupy the declining Roman West — Visigoths, Ostrogoths, Vandals, Burgundians, and Lombards. Arian Germanic kingdoms persisted in Italy, Hispania, and North Africa until they were gradually reconverted to Nicene Catholicism between the sixth and seventh centuries, as happened symbolically with the conversion of the Visigothic king Reccared at the Third Council of Toledo in 589.",
+      "tags": [
+        "Arius",
+        "Nicaea",
+        "consubstantiality",
+        "Athanasius",
+        "Germanic peoples"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ariusz.JPG",
+      "imagem_credito": null,
+      "fontes": [
+        "https://viacatolica.com.br/historia-das-heresias/o-arianismo-heresia-devastadora-dos-primeiros-seculos/",
+        "https://noticias.cancaonova.com/igreja/concilio-de-niceia-combateu-heresia-que-negava-divindade-de-jesus/",
+        "https://membros.institutosantoatanasio.org/niceia-e-o-neo-arianismo/"
+      ],
+      "tipo": "heresia",
+      "seculo": "IV",
+      "condenacao": "Council of Nicaea (325) and First Council of Constantinople (381)"
+    },
+    {
+      "id": "heresias-cismas:nestorianismo",
+      "slug": "nestorianismo",
+      "titulo": "Nestorianism",
+      "categoria": "heresias-cismas",
+      "resumo": "The heresy of Nestorius, who saw in Christ two distinct persons, one human and one divine, and denied Mary the title of Mother of God.",
+      "corpo": "Nestorius, a Syrian monk trained in the theological school of Antioch and raised to the patriarchate of Constantinople in 428, taught — or at least was widely understood to teach, based on sermons by a priest he trusted — that in Christ two distinct persons coexisted, united only by a moral conjunction and a harmony of wills, one fully human and the other fully divine, and not a single person in two natures. Consistent with this reading, Nestorius refused to call Mary \"Theotokos\" (\"She who bore God,\" Mother of God), a title already consecrated in popular devotion and in the Alexandrian tradition, preferring the term \"Christotokos\" (Mother of Christ), because he understood that Mary had borne only the man Jesus, to whom the divine Word would be united afterward.\n\nCyril, Patriarch of Alexandria and a long-standing ecclesiastical rival of Constantinople, led the theological and political opposition to Nestorius, arguing that, since Christ is one divine Person who assumed human nature (the hypostatic union), Mary truly bore God made man — to deny her the title of Theotokos would amount to dividing Christ into two subjects. Cyril brought the case to Pope Celestine I, who agreed with his analysis and authorized him to demand from Nestorius a retraction within ten days, under penalty of excommunication; to make the terms of orthodoxy clear, Cyril also drew up a list of twelve anathemas against the Nestorian positions.\n\nThe impasse was brought to the Third Ecumenical Council, which met in Ephesus in June 431 at the summons of Emperor Theodosius II — one of the most tumultuous councils in the history of the Church. Impatient with the delay of the Syrian bishops favorable to Nestorius and of the papal legates, Cyril opened the proceedings on June 22 with about fifty Egyptian bishops and allies, condemning and deposing Nestorius in absentia. When the Syrian bishops arrived a few days later, they gathered a counter-council which in turn deposed and excommunicated Cyril; only the subsequent arrival of the legates from Rome, who confirmed the Cyrilline sentence, gave the condemnation of Nestorius the weight of a recognized conciliar decision.\n\nNestorius was deposed from the patriarchate and exiled, first to a monastery in Egypt and then to the Libyan desert, where he died around 451, never having retracted. The episode, however, left lasting fractures: communities of the Sassanid Persian Empire and regions of Syria and Mesopotamia, linked to the Antiochene theological tradition, rejected the condemnation of Nestorius and separated from communion with Rome and Constantinople, giving rise to the Church of the East — often called, imprecisely, \"Nestorian\" by its adversaries. This church, today known as the Assyrian Church of the East, survived as a Christian minority in Iraq, in Iran, and among diaspora communities, and developed throughout the Middle Ages an intense missionary activity that carried Christianity to India (the Saint Thomas Christians) and to China.",
+      "tags": [
+        "Nestorius",
+        "Ephesus",
+        "Theotokos",
+        "Cyril of Alexandria",
+        "Assyrian Church of the East"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Myra_Saint_Nicolas_church_fresco_narthex_Ecumenical_Council_A_5864.jpg",
+      "imagem_credito": "Dosseman — Wikimedia Commons, CC BY-SA 4.0",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Primeiro_Conc%C3%ADlio_de_%C3%89feso",
+        "https://apologistasdafecatolica.wordpress.com/2018/01/27/o-concilio-de-efesio-431-d-c/",
+        "https://www.infoescola.com/religiao/nestorianismo/"
+      ],
+      "tipo": "heresia",
+      "seculo": "V",
+      "condenacao": "Council of Ephesus (431)"
+    },
+    {
+      "id": "heresias-cismas:monofisismo",
+      "slug": "monofisismo",
+      "titulo": "Monophysitism",
+      "categoria": "heresias-cismas",
+      "resumo": "A heresy opposed to Nestorianism, which saw in Christ a single nature, in which the human nature was supposedly absorbed by the divine.",
+      "corpo": "Reacting with excessive zeal to Nestorianism, which he feared for dividing Christ into two persons, the archimandrite Eutyches, superior of an important monastery in Constantinople and a figure of weight at the imperial court, began to teach that in Christ there is only one nature (from the Greek \"mono physis\") after the Incarnation, with the human nature absorbed into or fused with the divine \"as a drop of vinegar dissolves in the ocean,\" in the image used by his critics, thereby denying, in practice, the full and permanent humanity of Christ after the hypostatic union. Accused of heresy by his own bishop, Flavian of Constantinople, at a local synod in 448, Eutyches appealed to the Patriarch of Alexandria, Dioscorus, who was also his political ally.\n\nDioscorus obtained from Emperor Theodosius II the convocation of a new council at Ephesus in 449, in which, by force and under pressure from armed monks, he rehabilitated Eutyches and managed to depose and physically assault Flavian, who would die shortly afterward from his injuries; the council even refused to read the doctrinal letter that Pope Leo the Great had sent in defense of orthodoxy, the \"Tome to Flavian.\" Scandalized, Pope Leo I himself would call this meeting the \"Robber Council of Ephesus\" (the \"Robber Synod\"), denying it any validity.\n\nThe death of Theodosius II and the accession of Pulcheria and Marcian to the Byzantine throne, both aligned with Rome, made it possible to convene a truly ecumenical council at Chalcedon, between October and November of 451, gathering about 350 bishops, the largest council held up to that time. There the Tome of Leo was read, acclaimed with the famous exclamation \"Peter has spoken through Leo,\" and incorporated into the conciliar definition of faith: Christ subsists \"in two natures, without confusion, without change, without division, without separation,\" united in one Person and one hypostasis. Eutyches and Dioscorus were condemned and deposed.\n\nThe definition of Chalcedon, however, was not received by an important part of Eastern Christianity. Bishops and faithful of Egypt, Syria, Armenia and Ethiopia, regions of Alexandrian theological tradition, more sensitive to the emphasis on the unity of Christ, saw in the formula of the \"two natures\" a risk of covertly rehabilitating Nestorianism, and refused to accept the council. From this refusal was born a schism that consolidated over the following centuries, giving rise to the Oriental Orthodox Churches (non-Chalcedonian or, technically, Miaphysite), among them the Coptic Church of Egypt, the Syriac Orthodox Church, the Armenian Apostolic Church and the Ethiopian Orthodox Church, which remain today separated both from the Catholic Church and from the Byzantine Orthodoxy that accepted Chalcedon. Theological dialogues of recent decades, including common Christological declarations signed between popes and Coptic and Syrian patriarchs, have recognized that a good part of the historical divergence stemmed from differences of language and translation more than from heresy properly speaking.",
+      "tags": [
+        "Eutyches",
+        "Chalcedon",
+        "two natures",
+        "Oriental Orthodoxy",
+        "Tome of Leo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Myra_Saint_Nicolas_church_fresco_narthex_Ecumenical_Council_B_5868.jpg",
+      "imagem_credito": "Dosseman — Wikimedia Commons, CC BY-SA 4.0",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Conc%C3%ADlio_de_Calced%C3%B3nia",
+        "https://pt.wikipedia.org/wiki/%C3%8Autiques",
+        "https://academico.arautos.org/2013/09/monofisismo-a-grande-heresia/"
+      ],
+      "tipo": "heresia",
+      "seculo": "V",
+      "condenacao": "Council of Chalcedon (451)"
+    },
+    {
+      "id": "heresias-cismas:pelagianismo",
+      "slug": "pelagianismo",
+      "titulo": "Pelagianism",
+      "categoria": "heresias-cismas",
+      "resumo": "Heresy of the monk Pelagius that minimized the necessity of divine grace, holding that man can attain salvation by his own moral effort.",
+      "corpo": "Pelagius, a lay monk of British origin who settled in Rome around 380-390, gathered around himself an aristocratic circle concerned with the moral rigor of the Christian life and began to teach that Adam's sin was a bad personal example, without substantial hereditary consequence for the nature of other human beings: each person would be born morally neutral and endowed, by his own free will, with full capacity to choose the good and to fulfill the Law of God completely, without any essential need of an interior supernatural help — grace would be, at most, the gift of the natural capacity itself to will the good, plus the external example and teaching of Christ and the Scriptures, but not a force that transforms the will from within.\n\nPelagius' most radical disciple, the lawyer Caelestius, brought these ideas to even more explicit conclusions — openly denying the transmission of original sin and the necessity of infant baptism for salvation — and was condemned at a council gathered in Carthage in 411-416, when he sought to be ordained a presbyter in Rome-Carthage. Pelagius, for his part, traveled to Palestine, where he was even acquitted at a local synod in Diospolis (415), a decision that Rome initially accepted with reservations before reversing course.\n\nThe main and most relentless theological opponent of Pelagianism was Augustine, Bishop of Hippo in North Africa, who saw in this doctrine a denial of the centrality of grace in the history of salvation and an underestimation of the gravity of original sin. In response, over more than a decade Augustine developed decisive works such as \"On Grace and Free Will\", \"On Nature and Grace\" and \"On Original Sin\", in which he systematized the doctrine that the human will, wounded by original sin, needs to be healed and moved interiorly by the grace of God in order to be able even to begin to will the supernatural good — without, however, denying human freedom, which grace presupposes and elevates rather than annuls.\n\nThe controversy was decided, at the institutional level, by the Council of Carthage of 418, convened under pressure from Augustine himself and the Emperor Honorius, which condemned nine canons against the Pelagian positions, affirming the necessity of grace even for the beginning of good and the reality of original sin transmitted to all humanity. Pope Zosimus, who had initially hesitated in the face of Caelestius' explanations, ended by confirming the condemnation in the letter \"Epistula Tractoria\". The Pelagian doctrine would be reproved once more, definitively for the whole Church, at the Council of Ephesus in 431, and would be dealt with again, now in the attenuated form of Semi-Pelagianism, at the Second Council of Orange in 529. The Pelagian controversy permanently shaped the Catholic understanding that salvation is always a free and unmerited gift of God, even though it requires the free and responsible cooperation of the human person — a balance between grace and freedom that would continue to be a subject of theological debate, as in the later controversies of Semi-Pelagianism and Jansenism.",
+      "tags": [
+        "Pelagius",
+        "grace",
+        "free will",
+        "Augustine",
+        "Caelestius"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Pelagius.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "https://circulodeculturabiblica.org/2025/01/09/pelagianismo/",
+        "https://www.sendarium.com/2014/08/as-grandes-heresias-pelagianismo.html",
+        "https://en.wikipedia.org/wiki/Pelagius"
+      ],
+      "tipo": "heresia",
+      "seculo": "IV-V",
+      "condenacao": "Councils of Carthage (418) and Ephesus (431)"
+    },
+    {
+      "id": "heresias-cismas:cisma-do-oriente",
+      "slug": "cisma-do-oriente",
+      "titulo": "East-West Schism (Great Schism of 1054)",
+      "categoria": "heresias-cismas",
+      "resumo": "Rupture between the Church of Rome and the Church of Constantinople, marking the separation between Catholicism and Orthodoxy that persists to this day.",
+      "corpo": "The break of 1054 was not born of a single disagreement, but of the accumulation of centuries of tensions between the two great halves of Christendom. On the doctrinal level, the most weighty issue was the \"Filioque\" clause (\"and the Son\"), added to the Nicene-Constantinopolitan Creed in the Western churches to affirm that the Holy Spirit proceeds from the Father and the Son — an addition that the Byzantines considered both theologically questionable and illegitimate because it had been made without a new ecumenical council. To this were added liturgical and disciplinary differences that today would seem minor, but which then carried a strong symbolic weight: the use of unleavened bread (azymes) in the Latin Eucharist, opposed by the Byzantine practice of leavened bread, and the obligatory celibacy of the Latin clergy, absent in the Eastern tradition. Underlying everything, there was also the question of power: the increasingly explicit assertion, in Rome, of the universal and direct authority of the pope over the whole Church, at a time when Constantinople saw itself as the seat of an empire and of a patriarchate of honor comparable to, if not greater than, that of Rome.\n\nThe spark came in 1054, when Pope Leo IX sent to Constantinople a legation headed by Cardinal Humbert of Silva Candida, in a context aggravated by the closing of Latin churches in the Byzantine capital by order of Patriarch Michael Cerularius. The negotiations failed, and on July 16, 1054, Humbert laid upon the altar of the Basilica of Hagia Sophia a bull excommunicating Cerularius and his followers — an act of questionable legitimacy, since Pope Leo IX had died shortly before, which technically ended the legate's powers. A few days later, a synod convened by Cerularius responded by excommunicating Humbert and the other papal legates.\n\nCurial and localized as it was, the episode was not immediately perceived as a definitive and irreversible break between two Churches: mutual excommunications between Rome and Constantinople had occurred before, as in the Photian Schism of the ninth century, and communities on both sides continued, for some time, to maintain contact. What consolidated the separation was above all the unfolding of the following centuries — especially the brutal sack of Constantinople by the Western crusaders of the Fourth Crusade in 1204, which desecrated Byzantine churches, plundered relics, and established for decades a Latin Empire in the heart of the Greek world, leaving a deep and lasting distrust between Greeks and Latins.\n\nDespite attempts at reunion at the Councils of Lyon (1274) and Ferrara-Florence (1439), none of them was sustained in practice, and the fall of Constantinople to the Ottomans in 1453 politically sealed the separation. The rupture between the Catholic Church and the Eastern (Byzantine) Orthodox Churches, the greatest division within Chalcedonian Christianity, persists institutionally to this day, although the ecumenical dialogue of the twentieth century has produced historic gestures of reconciliation: in 1965, Pope Paul VI and Ecumenical Patriarch Athenagoras I solemnly revoked, in a joint declaration, the mutual excommunications of 1054 — without this, technically, restoring full Eucharistic communion between the two Churches.",
+      "tags": [
+        "Filioque",
+        "Constantinople",
+        "mutual excommunication",
+        "ecumenism",
+        "Fourth Crusade"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/90/Great_Schism_with_former_borders_%281054%29.png",
+      "imagem_credito": "Photo: Barrikader (talk · contribs) — Wikimedia Commons, CC BY-SA 3.0",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Grande_Cisma",
+        "https://www.todamateria.com.br/cisma-do-oriente/",
+        "https://www.conexao-romana.com.br/l/catholica-121-o-grande-cisma-do-oriente-de-1054/"
+      ],
+      "tipo": "cisma",
+      "seculo": "XI",
+      "condenacao": "Mutual excommunications of 1054, formally revoked in 1965"
+    },
+    {
+      "id": "heresias-cismas:catarismo",
+      "slug": "catarismo",
+      "titulo": "Catharism",
+      "categoria": "heresias-cismas",
+      "resumo": "A medieval dualist movement from southern France that saw matter as the creation of evil, denying the sacraments and the Incarnation.",
+      "corpo": "The Cathars (from the Greek \"katharoi\", pure), who preferred to call themselves \"good men\" and \"good women\", were concentrated above all in cities of the French region of Languedoc — Toulouse, Albi, Carcassonne — where, already in the twelfth century, communities and even entire parishes had turned away from the Catholic faith, attracted by a preaching that denounced the wealth and worldliness of the local clergy. Their doctrine revived a radical dualism with remote Manichaean roots: there were supposedly two opposing and eternal principles, a good, spiritual and invisible God, and an evil god, creator of everything material — including the human body itself, seen as the prison of the soul. From this worldview followed an entire ethic: they rejected marriage and procreation (which would only imprison more souls in matter), food of animal origin, and the sacraments of the Church, which they considered useless and corrupted by a hierarchy that the Cathars saw as an ally of earthly power and wealth. The community was divided between the \"perfects\", who had received the \"consolamentum\" (a kind of spiritual baptism) and lived in rigorous asceticism, and the simple believers, who could lead an ordinary life and receive that rite only near death.\n\nThe Church's initial response was preaching and persuasion: it is largely from this attempt to convert the Cathars by word, rather than by force, that the Order of Preachers founded by Dominic de Guzmán was born; he traveled through Languedoc debating publicly with Cathar leaders. The murder of the papal legate Peter of Castelnau in 1208, attributed to agents of Count Raymond VI of Toulouse, led Pope Innocent III to proclaim the Albigensian Crusade (1209-1229) — a crusade waged against heretical Christians within Europe itself, and not against Muslims in the Holy Land. Under the command of nobles from northern France, such as Simon de Montfort, the crusade took on the character of a war of territorial conquest, with episodes of extreme violence, such as the massacre of Béziers in 1209, when thousands of inhabitants — Cathars and Catholics mixed together — were killed.\n\nThe military crusade, which ended in 1229 with the submission of the Count of Toulouse to the French crown, weakened Catharism but did not extinguish it immediately: the movement survived clandestinely in the following decades, taking refuge even in the fortress of Montségur, whose siege and fall in 1244 — with the mass execution of more than two hundred \"perfects\" at the stake — became one of the most remembered episodes of the repression of Catharism. It was, in fact, the papal Inquisition, created and systematized beginning with the Fourth Lateran Council precisely in response to this kind of heresy, that carried out, throughout the thirteenth century and the early fourteenth, the systematic and discreet persecution that definitively extinguished the movement: in 1321, the last known Cathar \"perfect\", Guillaume Bélibaste, died at the stake in Villerouge-Termenès.",
+      "tags": [
+        "dualism",
+        "Languedoc",
+        "Albigensian Crusade",
+        "Dominic de Guzmán",
+        "Montségur"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Cathars_expelled.JPG",
+      "imagem_credito": null,
+      "fontes": [
+        "https://www.360meridianos.com/cruzada-cristaos-historia-cataros/",
+        "https://pt.wikipedia.org/wiki/Cruzada_Albigense",
+        "https://www.nationalgeographic.pt/historia/fim-igreja-clandestina-ocaso-cataros_5656"
+      ],
+      "tipo": "heresia",
+      "seculo": "XII-XIII",
+      "condenacao": "Fourth Lateran Council (1215) and the Albigensian Crusade (1209-1229)"
+    },
+    {
+      "id": "heresias-cismas:valdismo",
+      "slug": "valdismo",
+      "titulo": "Waldensianism",
+      "resumo": "A lay movement begun by Peter Waldo, who preached radical poverty and the reading of the Bible in the vernacular; tolerated at first and later condemned as heretical.",
+      "corpo": "Peter Waldo (in French Pierre Vaudès, or de Vaux; c. 1140–c. 1205), a wealthy merchant of Lyon, underwent a profound conversion around 1173 after hearing the story of Saint Alexis and reflecting on the Gospel demand to sell everything one owns in order to follow Christ. He distributed his goods among the poor, left part of his fortune to his wife and daughters, and began to preach in the streets a radical evangelical poverty, gathering within a few years a considerable number of followers, men and women, known as the \"Poor of Lyon\" or the \"Poor in Spirit.\" Convinced that direct access to the Scriptures was indispensable to this life of conversion, Waldo had passages of the Bible and of patristic texts translated into Occitan—the vernacular language of the region—making them accessible to laypeople with no training in Latin, a gesture which, at a time when Bible reading was almost the exclusive prerogative of the clergy, was already enough to raise suspicions of heterodoxy.\n\nThe movement asked for and obtained from Pope Alexander III, at the Third Lateran Council (March 1179, with about 302 bishops), initial approval of its vow of poverty, on the condition that they preach only with episcopal authorization. The Waldensians, however, persisted in preaching freely, understanding that the mandate to proclaim the Gospel came directly from God and could not depend on human permission—justifying themselves with the verse of Acts 5:29: \"We must obey God rather than men.\" This disobedience, together with positions that denied the efficacy of sacraments administered by priests in mortal sin and with growing criticism of the ecclesiastical hierarchy and of the notion of purgatory, led to the condemnation of the movement. Decisive was the bull *Ad abolendam*, a decretal of Pope Lucius III promulgated at Verona on November 4, 1184, at the close of the synod held in that city in October–November 1184 with the cooperation of Emperor Frederick I Barbarossa: the text condemned by name, among other groups—Cathars, Patarines, Humiliati, Passagians, Josephines and Arnoldists—the \"Poor of Lyon,\" and established that heretics who persevered after abjuration were to be handed over to the secular arm and that the goods of the condemned were to revert to the churches. The Fourth Lateran Council (1215), under Innocent III, reaffirmed the anti-heretical legislation and included the Waldensians among those condemned.\n\nDespite the condemnation, Waldensianism spread with unusual speed through a good part of Europe—from southern France to Italian Piedmont, from Lorraine to Bohemia, Poland and Hungary—surviving clandestinely the inquisitorial repression of the following centuries thanks to a discreet structure of itinerant preachers (the \"barbes\") and to communities taking refuge in the Alpine valleys of Piedmont, difficult for the authorities to reach. Historians recognize in the Waldensian ideal of apostolic poverty, vernacular reading of the Bible and criticism of ecclesiastical wealth an indirect precursor both of the mendicant orders that would arise a few decades later—Franciscans and Dominicans, who channeled into the Church part of this same impulse of evangelical poverty—and of the Protestant Reformation of the sixteenth century.\n\nThe Waldensian communities of the Alps would formally join the Reformation in 1532, at the Synod of Chanforan, held in the Waldensian valleys, with the decisive presence of the reformer Guillaume Farel, who led the synod to adhere to the ideas of the Reformation. There it was likewise decided to invest 500 gold crowns in a translation of the Bible into French, entrusted to Olivétan. The itinerant ministry of the preachers was then discontinued, and many of them became pastors of Reformed communities. Persecuted in an especially violent way—as in the massacre in the Luberon region in 1545—the Waldensians today constitute a small Protestant denomination present chiefly in Italy and, through emigration, in Uruguay.",
+      "categoria": "heresias-cismas",
+      "tags": [
+        "Peter Waldo",
+        "evangelical poverty",
+        "Lyon",
+        "vernacular Bible",
+        "Waldensians",
+        "12th century",
+        "13th century",
+        "Ad abolendam",
+        "Chanforan"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Waldo_at_third_lateran_council.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Wikipedia (EN), \"Ad abolendam\" and \"Peter Waldo\"",
+        "Catholic Encyclopedia, entry \"Pope Lucius III\" (newadvent.org/cathen/09412b.htm)",
+        "Encyclopaedia Britannica, entries \"Lucius III\" and \"Waldenses\"",
+        "Decree Ad abolendam of Lucius III (November 4, 1184)",
+        "Musée protestant (museeprotestant.org), \"Pierre Valdo (1140-1217) and the Waldenses\"",
+        "Wikipedia (PT), \"Terceiro Concílio de Latrão\" and \"Valdenses\"",
+        "Opera Mundi and documentation on the Fourth Lateran Council (1215)"
+      ],
+      "atualizado_em": null,
+      "tipo": "heresia",
+      "seculo": "XII-XIII",
+      "condenacao": "Council of Verona (1184) and Fourth Lateran Council (1215)"
+    },
+    {
+      "id": "heresias-cismas:hussitismo",
+      "slug": "hussitismo",
+      "titulo": "Hussitism",
+      "categoria": "heresias-cismas",
+      "resumo": "The Bohemian reform movement of Jan Hus, a forerunner of the Protestant Reformation, condemned and suppressed after the execution of its founder.",
+      "corpo": "Jan Hus, a priest and rector of the University of Prague, became preacher at the Bethlehem Chapel in Prague in 1402, where he began addressing the faithful in Czech instead of Latin, drawing crowds with sermons that denounced the wealth, simony, and morally lax life of part of the clergy. Strongly influenced by the ideas of the English theologian John Wycliffe — whose writings reached Bohemia through students who had studied at Oxford —, Hus advocated a radical reform of the Church centered on the authority of Scripture, the translation of the liturgy and the Bible into the vernacular language and, above all, communion under both kinds (bread and wine, \"Utraquism\") also for the laity, a practice until then reserved to the clergy. The chalice became the visual symbol of the Hussite movement, displayed on banners and shields.\n\nSummoned to appear before the Council of Constance (1414-1418) to explain his positions, Hus agreed to travel under a promise of safe-conduct granted by Emperor Sigismund himself. A few weeks after his arrival, however, he was arrested and held prisoner in the city's Dominican monastery, accused of heresy for positions attributed to Wycliffe that the Church had already condemned. Tried without any real opportunity for a satisfactory defense before the conciliar assembly, Hus refused to retract doctrines that, according to him, he had never held in the terms attributed to him, and was condemned to the stake, being executed in Constance on July 6, 1415; his ashes were thrown into the Rhine River to prevent any cult of relics.\n\nThe execution, which Bohemia understood as a betrayal of the imperial safe-conduct, provoked deep outrage: as early as 1419 the so-called \"First Defenestration of Prague\" broke out, in which a Hussite crowd threw Catholic councillors out of the town hall window, beginning the Hussite Wars. Over the following decade, the Hussite armies — organized under commanders such as the blind general Jan Žižka, who developed innovative tactics using fortified war wagons — inflicted successive defeats on no fewer than five papal crusades called against Bohemia between 1420 and 1431, becoming for a time one of the most feared military forces in central Europe. The conflict ended in a negotiated middle ground in the Compacts of Prague (Council of Basel, 1436), which recognized the right of the Bohemian Utraquists to communion under both kinds, although more radical factions, such as the Taborites, continued their resistance until they were defeated at the Battle of Lipany in 1434.\n\nJan Hus is today recognized, including by Catholic historians, as one of the direct forerunners of the Protestant Reformation, more than a hundred years before Martin Luther — who would publicly acknowledge his intellectual debt to the Bohemian reformer. In 1999, Pope John Paul II expressed \"deep regret\" for the cruel death of Hus, acknowledging his role as a reformer and the procedural injustice of his trial, without, however, formally reversing the doctrinal condemnation.",
+      "tags": [
+        "Jan Hus",
+        "Constance",
+        "Bohemia",
+        "forerunner of the Reformation",
+        "Hussite Wars"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Execution_of_Jan_Hus_2.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "https://www.britannica.com/biography/Jan-Hus",
+        "https://en.wikipedia.org/wiki/Council_of_Constance",
+        "https://en.wikipedia.org/wiki/Hussites"
+      ],
+      "tipo": "heresia",
+      "seculo": "XV",
+      "condenacao": "Council of Constance (1414-1418)"
+    },
+    {
+      "id": "heresias-cismas:reforma-protestante",
+      "slug": "reforma-protestante",
+      "titulo": "Protestant Reformation",
+      "categoria": "heresias-cismas",
+      "resumo": "Movement led by Martin Luther that broke the unity of Western Christianity, upholding salvation by faith alone and Scripture as the only authority.",
+      "corpo": "Martin Luther, an Augustinian monk and professor of moral theology at the University of Wittenberg, was deeply disturbed by the activity of the Dominican friar Johann Tetzel, who traveled through the neighboring region selling indulgences to fund, among other purposes, the construction of Saint Peter's Basilica in Rome — a practice that Luther saw as a scandalous commercialization of the forgiveness of sins. On October 31, 1517, he drafted 95 theses proposing an academic debate on the subject, traditionally described as having been posted on the door of the Castle Church in Wittenberg (an episode that recent historiography considers probable, but not documented with certainty). Quickly reproduced thanks to the movable-type printing press, the theses spread throughout Germany and Europe within a few weeks, turning a local university dispute into a mass phenomenon.\n\nWhen pressed to recant, Luther progressively radicalized his positions in works of 1520 such as \"To the Christian Nobility of the German Nation\" and \"On the Babylonian Captivity of the Church\", systematizing the principles that would become the pillars of the Reformation: \"sola fide\" (the justification of the sinner comes by faith alone, without merit from human works), \"sola scriptura\" (the Bible is the only normative authority of faith, dispensing with the living magisterium of the Church), and the universal priesthood of the baptized, which emptied the sacramental distinction between clergy and laity. Pope Leo X responded with the bull \"Exsurge Domine\" (1520), threatening him with excommunication if he did not recant; Luther publicly burned the papal document in Wittenberg, and was formally excommunicated the following year.\n\nSummoned to the Diet of Worms in 1521, under a safe-conduct from Emperor Charles V, Luther refused to recant before the imperial assembly, claiming to be bound only by his conscience and the authority of Scripture — an episode that resulted in the Edict of Worms, declaring him an outlaw of the empire. Protected by the Elector Frederick the Wise of Saxony, who hid him in Wartburg Castle, Luther translated the New Testament into German there, a work of enormous impact on the formation of the modern German language and on the popular spread of the reformed ideas.\n\nThe fragmentation, once begun, did not stop with Luther: in the following decades other reformed currents arose, such as Calvinism in Switzerland and France and, by different paths, Anglicanism in England, dividing Western Christendom into multiple competing confessions. The Catholic Church responded systematically with the Council of Trent (1545-1563), which lasted almost twenty years under four different popes and reaffirmed Catholic doctrine on justification (faith and works, not faith alone), the authority of Tradition alongside Scripture, the validity of the seven sacraments, and the hierarchical structure of the Church, in addition to promoting deep disciplinary reforms in the clergy — a process known as the Catholic Reformation or Counter-Reformation. The wars of religion that followed in Europe, including the Thirty Years' War (1618-1648), made religious division also a matter of blood and state politics for more than a century.",
+      "tags": [
+        "Luther",
+        "sola fide",
+        "sola scriptura",
+        "Trent",
+        "Diet of Worms"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/58/95Thesen_facsimile_colour.png",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/95_Teses",
+        "https://pt.wikipedia.org/wiki/Dieta_de_Worms",
+        "https://www.historiadomundo.com.br/idade-moderna/reforma-protestante.htm"
+      ],
+      "tipo": "cisma",
+      "seculo": "XVI",
+      "condenacao": "Bull Exsurge Domine (1520) and Council of Trent (1545-1563)"
+    },
+    {
+      "id": "heresias-cismas:cisma-anglicano",
+      "slug": "cisma-anglicano",
+      "titulo": "Anglican Schism",
+      "categoria": "heresias-cismas",
+      "resumo": "The break of the Church of England with Rome under Henry VIII, initially motivated by dynastic reasons and later consolidated theologically.",
+      "corpo": "Henry VIII, King of England since 1509, married Catherine of Aragon that same year. She was the widow of his older brother and the daughter of the Catholic Monarchs of Spain, and the union produced only one surviving daughter, Mary. Concerned about the lack of a male heir and already in love with Anne Boleyn, Henry asked Pope Clement VII in 1527 to annul the marriage, on the canonical argument that the union with his brother's widow had been invalid from the beginning. The pope, then under heavy political pressure from Emperor Charles V — Catherine's nephew, whose troops had sacked Rome shortly before — avoided deciding and dragged the process out for years, finally refusing to grant the annulment.\n\nExasperated by the impasse, Henry began to act unilaterally: he had his new Archbishop of Canterbury, Thomas Cranmer, declare the marriage to Catherine null in 1533, and in November 1534 he obtained from Parliament the passage of the Act of Supremacy, which declared him \"the only Supreme Head in earth of the Church of England,\" formally breaking papal jurisdiction over the English Church. The law prescribed the death penalty for anyone who refused to swear loyalty to the new arrangement — a fate that befell figures of great moral stature, such as Bishop John Fisher and the former chancellor Thomas More, both beheaded in 1535 for refusing to recognize royal supremacy over the Church, and later canonized by the Catholic Church. In 1538, Pope Paul III formalized the excommunication of Henry VIII.\n\nFrom a doctrinal standpoint, Henry's initial break was more jurisdictional than theological: he preserved the Latin Mass, clerical celibacy, and most of the Catholic liturgy and sacramental doctrine, persecuting both Catholics faithful to Rome and Protestants of more radical tendencies. It was under his son Edward VI, still a child, that the Church of England took on doctrinal contours closer to continental Protestantism, with the introduction of Cranmer's Book of Common Prayer; a brief return to Roman Catholicism occurred under Queen Mary I (\"Bloody Mary\"), who harshly persecuted Protestants between 1553 and 1558.\n\nIt was under Elizabeth I, from 1558, that the so-called \"Elizabethan Settlement\" was consolidated, a middle way (\"via media\") between Catholicism and Protestantism that defined Anglican identity in a more stable manner: the Thirty-Nine Articles of Religion (1571) incorporated theological elements of the continental Reformation — such as the emphasis on justification by faith — while preserving the episcopal structure, a good part of the liturgical tradition, and a strong sense of historical continuity with the pre-Reformation Church. This deliberate ambiguity between Catholicism and Protestantism remains a distinctive mark of the Anglican Communion to this day.",
+      "tags": [
+        "Henry VIII",
+        "Act of Supremacy",
+        "Church of England",
+        "Thomas More",
+        "Elizabeth I"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Portrait_of_Henry_VIII_of_England_%28Holbein%29.jpg",
+      "imagem_credito": "Hans Holbein the Younger — Wikimedia Commons, CC BY-SA 4.0",
+      "fontes": [
+        "https://www.a12.com/redacaoa12/historia-da-igreja/a-fundacao-da-igreja-anglicana",
+        "https://www.infosbc.org.br/site/artigos/2432-capitulo-xlv-o-cisma-anglicano",
+        "https://viacrucis.pt/neste-dia-em-1538-o-papa-paulo-iii-excomungava-henrique-viii-de-inglaterra/"
+      ],
+      "tipo": "cisma",
+      "seculo": "XVI",
+      "condenacao": "Excommunication of Henry VIII by Pope Paul III (1538)"
+    },
+    {
+      "id": "heresias-cismas:jansenismo",
+      "slug": "jansenismo",
+      "titulo": "Jansenism",
+      "categoria": "heresias-cismas",
+      "resumo": "A rigorist theological movement of Augustinian inspiration, condemned for its positions on grace, which were considered close to Protestant predestinarianism.",
+      "corpo": "Cornelius Jansen (Jansenius), the Dutch bishop of Ypres, devoted a good part of his academic life to an exhaustive study of the anti-Pelagian writings of Augustine of Hippo, convinced that the Jesuit theology of grace, then on the rise in the Counter-Reformation, had drifted dangerously away from Augustinian rigor in the name of a more optimistic view of human freedom. The fruit of this study, the monumental work \"Augustinus\", was published only posthumously, in 1640, two years after his death, and quickly became the reference point of a theological and spiritual movement of great influence in seventeenth-century France.\n\nThe work defended a rigorist reading of the Augustinian doctrine of grace, according to which divine grace, when granted, operates in a practically irresistible way upon the elect, whereas, in its absence, human effort would be powerless to achieve supernatural good — a position that its critics, above all the Jesuits, saw as dangerously close to the predestinarian determinism of Calvin and as a threat to the human freedom affirmed by the Council of Trent. As early as 1641 the Inquisition prohibited the reading of the \"Augustinus\", and in 1643 Pope Urban VIII condemned the work by the bull \"In Eminenti\"; ten years later, in 1653, Pope Innocent X expressly condemned five propositions drawn from the book in the bull \"Cum Occasione\".\n\nThe intellectual and spiritual center of the movement was the Cistercian convent of Port-Royal, on the outskirts of Paris, linked to a network of theologians, writers and educators known as the \"Solitaries of Port-Royal\" — among them Antoine Arnauld, the principal theological spokesman of Jansenism, and Blaise Pascal himself, whose sister was a religious in the house and who wrote in defense of the movement the celebrated \"Provincial Letters\" (1656-1657), a biting satire against Jesuit morality that became a classic of French literature. Jansenist spirituality promoted a sacramental practice of extreme rigor, demanding almost unattainable dispositions of contrition for absolution and frequent communion, which in practice kept many of the faithful away from regular sacramental life.\n\nThe dispute dragged on for decades amid theological and political maneuvering — the Jansenists claimed to accept the condemnation of the five propositions \"in law\" (de jure), but denied that they were actually present \"in fact\" (de facto) in Jansenius' book, a distinction that Rome rejected as a subterfuge. King Louis XIV, hostile to the movement because he saw it as a focus of political and religious dissent, ordered in 1709 the forced dispersal of the last nuns of Port-Royal and, in 1710, the complete destruction of the convent, even ordering the graves in the cemetery to be exhumed and desecrated. The final blow came with the bull \"Unigenitus\" (1713) of Pope Clement XI, which condemned 101 propositions drawn from the writings of the Oratorian priest Pasquier Quesnel, then the principal propagator of Jansenism; the promulgation of the bull as a law of the kingdom in 1730 sealed the definitive decline of the movement as an organized force, although echoes of its moral rigorism persisted informally in French piety for generations.",
+      "tags": [
+        "Jansen",
+        "Port-Royal",
+        "grace",
+        "Pascal",
+        "Unigenitus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Cornelius_Jansenius%2C_PA00161.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "https://www.newworldencyclopedia.org/entry/Cornelius_Jansen",
+        "https://en.wikipedia.org/wiki/Augustinus_(Jansenist_book)",
+        "https://www.seminariojmc.br/o-jansenismo/"
+      ],
+      "tipo": "heresia",
+      "seculo": "XVII",
+      "condenacao": "Bulls Cum Occasione (1653) and Unigenitus (1713)"
+    },
+    {
+      "id": "heresias-cismas:galicanismo",
+      "slug": "galicanismo",
+      "titulo": "Gallicanism",
+      "categoria": "heresias-cismas",
+      "resumo": "A movement that sought greater autonomy for the Church in France from papal authority, limiting Rome's jurisdiction over the local Church.",
+      "corpo": "Gallicanism took its name from ancient Roman Gaul and designated a set of ideas, with roots going back at least to the Pragmatic Sanction of Bourges (1438), according to which the King of France and the French episcopate possessed considerable and relatively independent authority over the internal ecclesiastical affairs of the kingdom, limiting the direct intervention of the papacy in the affairs of the French Church in disciplinary, administrative and even doctrinal matters.\n\nThe crisis that led to its most famous systematization originated in a concrete dispute: around 1680, Louis XIV sought to impose on the nuns of a French convent a superior of his own choosing, against the result of a regular election; the nuns appealed to Rome, Pope Innocent XI ordered the election to be respected, and the French Parlement rejected the papal bull. Irritated, the king convened a General Assembly of the Clergy of France, which met in Paris between 1681 and 1682 and, under the pen of Bishop Jacques-Bénigne Bossuet — a preacher of great prestige at court — produced the \"Four Gallican Articles\" (1682): 1) in temporal matters, kings are not subject to any ecclesiastical authority; 2) the pope is subject to the authority of ecumenical councils, resuming the conciliarist thesis; 3) the exercise of papal authority must respect the canons, customs and laws of the kingdom of France; 4) even in matters of faith, the judgment of the pope is not irreformable without the consent of the Church.\n\nThe Roman reaction was harsh: Innocent XI refused to confirm the appointment of any French bishop who had taken part in the assembly of 1682, leaving dozens of French dioceses without a titular bishop for years — an impasse that was only resolved politically in 1693, when Louis XIV, seeking rapprochement with Rome, wrote to the new pope, Innocent XII, expressing regret and suspending, in practice, the mandatory application of the Four Articles in French schools of theology, though without formally revoking them.\n\nAlthough Gallicanism never constituted a formal schism or a rupture of communion with Rome, it persistently strained relations between the Holy See and the French Crown throughout the seventeenth and eighteenth centuries, also feeding parallel movements in other countries, such as German Febronianism and Austrian Josephinism, which sought similar degrees of state control over the national Church. Ecclesiastical Gallicanism was definitively overcome on the doctrinal level by the First Vatican Council (1869-1870), which in the constitution \"Pastor Aeternus\" solemnly defined the primacy of universal jurisdiction of the pope over the whole Church and his infallibility when he speaks \"ex cathedra\" on matters of faith and morals — an affirmation that closed once and for all the doctrinal space that Gallicanism sought to occupy.",
+      "tags": [
+        "Louis XIV",
+        "Four Gallican Articles",
+        "papal primacy",
+        "Bossuet"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Hyacinthe_Rigaud_-_Portrait_of_Jacques-B%C3%A9nigne_Bossuet_-_WGA19491.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "https://mercaba.org/Mundi/3/galicanismo.htm",
+        "https://circulodeculturabiblica.org/2025/05/24/galicanismo/",
+        "https://comshalom.org/galicanismo-e-febronianismo/"
+      ],
+      "tipo": "heresia",
+      "seculo": "XVII-XIX",
+      "condenacao": "Doctrinally overcome by the First Vatican Council (1870)"
+    },
+    {
+      "id": "heresias-cismas:velhos-catolicos",
+      "slug": "velhos-catolicos",
+      "titulo": "Old Catholicism",
+      "categoria": "heresias-cismas",
+      "resumo": "Schism of groups that refused the definition of papal infallibility proclaimed by the First Vatican Council.",
+      "corpo": "The First Vatican Council (1869-1870), convoked by Pope Pius IX, solemnly defined in the dogmatic constitution \"Pastor Aeternus\", promulgated on July 18, 1870, that the pope enjoys a primacy of jurisdiction over the whole Church and infallibility — the supernatural assistance of the Holy Spirit that preserves him from error — when, in the exercise of his supreme office as shepherd and teacher of all Christians, he defines a doctrine of faith or morals to be held by the whole Church (that is, when he speaks \"ex cathedra\"). The definition, approved by a large majority of the bishops present, met with strong prior theological resistance from an organized minority, above all German-speaking, who saw it as an innovation without sufficient basis in the tradition of the first centuries and as a threat to the authority of local bishops and of councils.\n\nThe principal and most influential opponent was Ignaz von Döllinger, a renowned Church historian and professor in Munich, who even before the council had published, under a pseudonym, texts critical of the then-probable definition, arguing that it lacked solid biblical and historical foundation and represented a break with the traditional ecclesiology of communion among bishops. When he refused to accept the definition after it was promulgated, Döllinger was excommunicated by the Archbishop of Munich in April 1871 — an episode that, far from ending the controversy, set off an organized movement of resistance.\n\nGroups of bishops, priests, theologians and laypeople who rejected the dogma of 1870, concentrated above all in Germany, Austria-Hungary, Switzerland and the Netherlands (where a small schismatic Church, that of Utrecht, had existed since the 18th century, with roots in earlier Jansenist disputes), organized themselves in successive congresses from 1871 onward and formally broke with Rome, adopting the name \"Old Catholics\" to signal fidelity to the faith and discipline of the Church prior to Vatican I. The German bishop Joseph Hubert Reinkens was consecrated in 1873 by the Jansenist bishop of Utrecht, giving the new communion an apostolic succession recognized by its own criteria.\n\nThe Old Catholic Churches, gathered since 1889 in the so-called Union of Utrecht, maintain an episcopal structure, the seven sacraments and much of the traditional liturgy and doctrine, specifically rejecting the universal primacy of jurisdiction and papal infallibility as defined in 1870. In the course of the 20th century they also admitted more liberal disciplinary changes — such as the end of mandatory clerical celibacy and, in some provinces, the ordination of women — which distanced them even further from the Roman Catholic Church. Today they constitute a small but active family of churches, present mainly in central Europe, and since 1931 they have been in full communion with the Anglican Communion through the Bonn Agreement.",
+      "tags": [
+        "Vatican I",
+        "papal infallibility",
+        "Döllinger",
+        "Union of Utrecht"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Gertrudiskathedraal_Oudkatholiek_9586.jpg",
+      "imagem_credito": "Photo: Dosseman — Wikimedia Commons, CC BY-SA 4.0",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Antiga_Igreja_Cat%C3%B3lica",
+        "https://pt.wikipedia.org/wiki/Infalibilidade_papal",
+        "https://www.snpcultura.org/vaticano_i_150_anos_do_concilio_que_decretou_infalibilidade_papal.html"
+      ],
+      "tipo": "cisma",
+      "seculo": "XIX",
+      "condenacao": "Rupture formalized after 1870, without a formal collective excommunication process"
+    },
+    {
+      "id": "heresias-cismas:modernismo",
+      "slug": "modernismo",
+      "titulo": "Modernism (theological)",
+      "categoria": "heresias-cismas",
+      "resumo": "An early twentieth-century current that sought to reinterpret Catholic doctrine in light of modern philosophy and historical criticism, condemned by Pius X.",
+      "corpo": "In the late nineteenth and early twentieth centuries, a heterogeneous group of Catholic biblical scholars, philosophers, and theologians — more a diffuse sensibility than an organized, cohesive school — came to argue that the Church could not remain indifferent to the methods of historical-literary criticism applied to the Bible and to the immanentist philosophical currents then dominant in European culture. Their principal exponent was the French priest and exegete Alfred Loisy, who in works such as \"The Gospel and the Church\" (1902) applied methods of historical analysis to Scripture that relativized the literal historicity of several Gospel episodes and suggested that a good part of the Church's dogmatic and institutional structure had developed progressively over time, as a response to the religious needs of each age, rather than as a revelation fixed definitively from the beginning. Another central figure was the Irish Jesuit priest George Tyrrell, who explored a theology of religious experience as the primary source of faith, and Baron Friedrich von Hügel, a figure who served as a link among these authors in different European countries.\n\nWhat united these currents, in the eyes of Rome, was a common tendency to relativize the objective fixity of dogmas, treating them as contingent historical formulas, symbolic expressions of collective religious experience subject to evolution, rather than truths revealed by God in a definitive and unchangeable manner — and to subordinate the doctrinal authority of the Church to the judgment of individual religious conscience and of constantly changing scientific research.\n\nPope Pius X responded with two almost simultaneous documents in 1907: the decree of the Holy Office \"Lamentabili Sane\", which listed and condemned 65 propositions considered modernist, drawn chiefly from the writings of Loisy, and the encyclical \"Pascendi Dominici Gregis\", of September of that year, which offered a systematic analysis — and one so synthetic as to unify authors with quite different positions — of what it called \"modernism\", defining it as the \"synthesis of all heresies\" because it brought together, in its view, elements of philosophical agnosticism, vital immanentism, dogmatic evolutionism, and historical relativism in a single attitude fundamentally hostile to the Catholic notion of revelation and of magisterial authority. The encyclical also prescribed concrete disciplinary measures, such as the creation of diocesan \"vigilance councils\" and, in 1910, the requirement of the \"Oath Against Modernism\" for clerics, seminary professors, and candidates for sacred orders — an obligation that would formally remain in force until 1967.\n\nThe personal consequences were harsh: Loisy was excommunicated in 1908 and withdrew definitively from the Church, becoming a professor of the history of religions at the Collège de France; Tyrrell, already expelled from the Society of Jesus in 1906, was also excommunicated and died in 1909 without being reconciled with the hierarchy. The episode left a climate of intellectual suspicion that would extend for decades in Catholic exegesis and theology, and whose overcoming — especially regarding the legitimacy of the historical-critical method in the study of the Bible — would come more openly only with Pius XII's encyclical \"Divino Afflante Spiritu\" (1943) and, more broadly, with the Second Vatican Council.",
+      "tags": [
+        "Pius X",
+        "Pascendi",
+        "historical criticism",
+        "Loisy",
+        "Tyrrell"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/His_Holiness_Pope_St._Pius_X.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Pascendi_Dominici_gregis",
+        "https://www.tfp.org/the-centennial-of-pascendi/",
+        "https://es.wikipedia.org/wiki/Modernismo_teologico"
+      ],
+      "tipo": "heresia",
+      "seculo": "XX",
+      "condenacao": "Encyclical Pascendi Dominici Gregis and decree Lamentabili Sane (1907)"
+    },
+    {
+      "id": "heresias-cismas:donatismo",
+      "slug": "donatismo",
+      "titulo": "Donatism",
+      "categoria": "heresias-cismas",
+      "resumo": "A North African schism and heresy that denied the validity of the sacraments administered by clerics considered \"traditores\" during the Roman persecutions.",
+      "corpo": "Arising in Carthage shortly after the death of Bishop Mensurius in 311, Donatism — which owes its most enduring name to Bishop Donatus of Casae Nigrae, although the first leader of the movement was Majorinus — was born of a concrete dispute over the episcopal succession: part of the African clergy refused to recognize as valid the election of the new bishop Caecilian, accusing him and the consecrating bishop, Felix of Aptunga, of having been \"traditores\" during the Great Persecution launched by Emperor Diocletian (303-305) — that is, of having handed over to the Roman authorities copies of the Sacred Scriptures to be publicly burned, at a time when many Christians preferred martyrdom to this act of apostasy. Led by an influential matron named Lucilla, the dissident faction elected a rival bishop and, in time, formed a parallel Church that came to be the majority in a good part of Roman North Africa.\n\nFrom this concrete accusation, the Donatists drew a broader and more rigorist sacramental doctrine: a priest or bishop in grave sin — or ordained by someone in grave sin — could not validly administer the sacraments, which would be \"contaminated\" by the moral unworthiness of the minister; hence the Donatist practice of rebaptizing those who had received sacraments from Catholic hands. On the most radical fringes of the movement acted the Circumcellions, itinerant bands of armed peasants who roamed the African countryside preaching with violence against landowners and Catholic clergy, venerating voluntary martyrdom as the supreme ideal and even advocating, in terms almost revolutionary for the time, the forgiveness of debts and the liberation of slaves.\n\nThe main theological opponent of Donatism was Augustine, Bishop of Hippo from 396, who devoted a good part of his pastoral and polemical output — sermons, letters and treatises such as \"De Baptismo\" — to refuting it, developing in response the enduring principle that it is Christ, and not the human minister, who is the true author of the efficacy of the sacraments (\"ex opere operato\", as the Scholastics would later say): the personal holiness of the priest or bishop therefore does not condition the validity of what he celebrates in the name of the Church. Augustine also defended, at first reluctantly and later with greater acceptance, the use of moderate civil coercion against Donatist violence, a position that would carry considerable weight in later Christian political theology.\n\nThe movement was condemned as early as the Council of Arles in 314, convened by Emperor Constantine at the request of the African Catholics themselves, but it persisted strongly — even rivaling the local Catholic Church in number of faithful — until it was formally suppressed after the Conference of Carthage of 411, a great assembly convened under pressure from the Empire and with the decisive participation of Augustine, which brought together hundreds of Catholic and Donatist bishops at the same time to debate the question publicly before an imperial judge, resulting in a decision unfavorable to the Donatists and in subsequent measures of civil repression. Weakened but not entirely extinct, Donatism would survive in isolated pockets of North Africa until it was practically erased by the Arab-Muslim conquest of the region in the 7th century.",
+      "tags": [
+        "Augustine of Hippo",
+        "Carthage",
+        "traditores",
+        "validity of the sacraments",
+        "Circumcellions"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "https://revistas.usp.br/revhistoria/es/article/download/133143/129237/254777",
+        "https://viacatolica.com.br/historia-das-heresias/donatismo-a-heresia-donatista/",
+        "https://www.veritatis.com.br/o-re-batismo-e-o-donatismo/"
+      ],
+      "tipo": "heresia",
+      "seculo": "IV-V",
+      "condenacao": "Council of Arles (314) and Conference of Carthage (411)"
+    },
+    {
+      "id": "heresias-cismas:priscilianismo",
+      "slug": "priscilianismo",
+      "titulo": "Priscillianism",
+      "categoria": "heresias-cismas",
+      "resumo": "A movement of Hispanic origin and dualist tendency, whose founder, Priscillian of Ávila, was the first Christian executed as a heretic by the civil power.",
+      "corpo": "Priscillian, a learned layman from an aristocratic family who would later be elected bishop of Ávila, in Roman Hispania (present-day Spain), developed around the 370s an ascetic movement of great popular appeal, especially among women and the less privileged classes, who saw in it a stricter and more spiritually demanding alternative to the religiosity of a Hispanic clergy increasingly integrated into the structures of power and wealth of the Empire. Under the influence of Gnostic and Manichaean currents then circulating in the region, Priscillian radically opposed the purity of the soul to the corrupting nature of the material body, valued the reading of apocryphal texts alongside the canonical Scriptures, and held positions considered heterodox on the Trinity, approaching modalist formulas (which confused the divine Persons). His preaching of severe fasts, night prayers, and withdrawal from ordinary social life attracted a numerous following of disciples, but also fierce opponents among other bishops of the Peninsula, who feared both the heterodoxy and the popular success of the movement.\n\nHis episcopal adversaries managed, through successive maneuvers, to bring the case before the imperial usurper Magnus Maximus, who had recently murdered the legitimate emperor Gratian and installed himself in Trier, in Gaul. Before a civil tribunal, and not an ecclesiastical one, Priscillian was accused not only of heresy but of practicing magic and of taking part in nocturnal gatherings with women in circumstances considered licentious; under torture, confessions were obtained and used to condemn him. In 385, Priscillian was beheaded in Trier together with several followers, among them a woman named Euchrotia, becoming the first Christian in history to be executed by the civil power on a formal charge of heresy.\n\nThe episode shocked a significant part of the episcopate of the time, not out of sympathy for Priscillianist doctrine, but because of the gravity of the precedent: bishops such as Martin of Tours, present in Trier at the time of the trial, personally strove to prevent the execution or at least to prevent the sentence from being carried out by Hispanic bishops hostile to Priscillian, considering it unacceptable for the Church to make use of the secular arm to put someone to death over doctrinal dissent; Pope Siricius and Ambrose of Milan also expressed disapproval of the use of capital punishment in matters of faith, temporarily breaking communion with the Hispanic bishops directly responsible for the accusation. Paradoxically, the execution turned Priscillian into a martyr in the eyes of his followers, strengthening rather than destroying the movement that bore his name: Priscillianism survived as a significant religious force in Gallaecia (northwestern Iberian Peninsula) for at least two centuries, and was the object of repeated doctrinal condemnations in Hispanic councils, such as the First Council of Toledo (400) and, more systematically, the First Council of Braga in 561, which listed and refuted its main theses point by point.",
+      "tags": [
+        "Priscillian",
+        "Hispania",
+        "dualism",
+        "first heretic executed"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "https://blog.galiciamaxica.eu/prisciliano-el-santo-rebelde-de-galicia/",
+        "https://www.laguia2000.com/espana/el-priscilianismo",
+        "https://www.mcnbiografias.com/app-bio/do/show?key=prisciliano"
+      ],
+      "tipo": "heresia",
+      "seculo": "IV-VI",
+      "condenacao": "Execution of Priscillian (385); doctrinal condemnation repeated by the First Council of Braga (561)"
+    },
+    {
+      "id": "heresias-cismas:apolinarismo",
+      "slug": "apolinarismo",
+      "titulo": "Apollinarianism",
+      "categoria": "heresias-cismas",
+      "resumo": "A heresy that, in emphasizing the divinity of Christ against Arianism, ended up denying him a full rational human soul.",
+      "corpo": "Apollinaris, bishop of Laodicea in Asia Minor, born around 310, was for decades a personal friend and close ally of Athanasius of Alexandria in the struggle against Arianism. He was also a learned scholar of the Scriptures who collaborated with his own father, also named Apollinaris, in composing poetic versions of the Old Testament and Platonic dialogues inspired by the New, in an effort to offer Christians an alternative cultured literature after the emperor Julian the Apostate forbade them to teach the pagan classics.\n\nIt was precisely in the heat of the Arian controversy, eager to affirm with full force the unity of the person of Christ and his full divinity, that Apollinaris developed a Christological scheme that would come to be condemned as heresy: for him, Christ would have a human body and a human sensitive soul (the principle of life and of the emotions), but not a full human mind or rational soul. In his tripartite scheme of the person, that place would be occupied directly by the divine Logos, replacing the rational dimension that normally completes human nature. Apollinaris argued that an autonomous human mind would make Christ susceptible to sin and moral instability, whereas the direct presence of the Logos in the place of the intellect would guarantee his sinlessness and the indivisible unity of his person.\n\nThe theological consequence of this position, however, was grave: by subtracting from Christ a human rational mind, Apollinaris compromised the integrity of the human nature that the Word would have assumed in the Incarnation, and with it the very logic of salvation, according to the soteriological principle established by the Cappadocian Fathers that \"what has not been assumed has not been healed\" (or redeemed): if human reason was not truly assumed by Christ, it would not have been saved by him. Fathers such as Basil of Caesarea, Gregory of Nyssa and Gregory of Nazianzus, the three Cappadocians, devoted themselves to systematically refuting this Christology, with Gregory of Nazianzus the author of particularly incisive theological letters against Apollinaris, with whom he had initially had a sympathetic relationship because of their common struggle against Arianism.\n\nThe Apollinarian doctrine was condemned as heresy by the First Council of Constantinople in 381, the same ecumenical council that reaffirmed the faith of Nicaea against the remaining Arianism and defined the full divinity of the Holy Spirit against Macedonianism. Despite the formal condemnation, Apollinaris kept followers organized in a parallel hierarchy for some time, and the underlying concern that had driven his Christology, how to preserve the unity of the person of Christ without diluting his two natures, would continue to echo in the Christological controversies of the following century, indirectly feeding both the debate that would lead to the Monophysitism of Eutyches and the Antiochene reaction that would end in Nestorianism, both of which were confronted, decades later, by the Council of Chalcedon.",
+      "tags": [
+        "Apollinaris of Laodicea",
+        "Constantinople I",
+        "Christology",
+        "Cappadocian Fathers"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Apolinarianismo",
+        "https://welesonfernandes.com.br/28-apolinario-de-laodiceia/",
+        "https://olabiblia.com.br/glossario/o-que-era-o-apolinarismo/"
+      ],
+      "tipo": "heresia",
+      "seculo": "IV",
+      "condenacao": "Council of Constantinople I (381)"
+    },
+    {
+      "id": "heresias-cismas:macedonianismo",
+      "slug": "macedonianismo",
+      "titulo": "Macedonianism",
+      "resumo": "A Pneumatomachian heresy that denied the full divinity of the Holy Spirit, regarding him as a creature subordinate to the Father and the Son; condemned at the First Council of Constantinople (381).",
+      "corpo": "Associated with the name of Macedonius I, a bishop of Semi-Arian leanings in Constantinople who held the see from 342 — when he was forcibly imposed by the Arians with the support of Emperor Constantius, who deposed Paul, the Catholic bishop — and was removed from it around 360, amid the internal disputes of the Arian camp itself, Macedonianism designates a doctrine that flourished above all after his death, among clergy and bishops around Constantinople and Asia Minor, in the regions near the Hellespont. Its adherents are also known as \"Pneumatomachi\" — from the Greek pneuma (\"Spirit\") and máchē (\"combat\"), that is, \"fighters against the Spirit\" —, a term spread by Athanasius of Alexandria, and were also called \"Tropici\" in Alexandria. No writings of Macedonius survive; the group's doctrine is known mainly from the refutations of its adversaries, and Didymus the Blind mentions Macedonian \"Brief Expeditions\" that he possessed.\n\nUnlike strict Arianism, the Macedonians generally accepted the consubstantiality of the Father and the Son defined at Nicaea (325), but refused to extend this full status of divinity to the Third Person of the Trinity: for them, the Holy Spirit was a spiritual creature, of a nature similar to that of the angels, subordinate to the Father and the Son — an interpretation supported by passages such as Hebrews 1:14, which speaks of the angels as \"ministering spirits\". The controversy took shape around 358-360, when Athanasius, exiled in the Egyptian desert, was consulted by his friend Serapion, Bishop of Thmuis in Egypt, about a group of the faithful who, having abandoned Arianism out of horror at its blasphemy against the Son, continued to call the Spirit a creature. Athanasius replied with the four Letters to Serapion, the first great treatise devoted specifically to the divinity of the Holy Spirit; and, on returning from exile in 362, he presided in Alexandria over a council that produced the first formal condemnation of the Pneumatomachi.\n\nThe question deeply occupied the so-called Cappadocian Fathers. Basil of Caesarea, Bishop of Caesarea in Cappadocia from 370 until his death (January 1 or 2, 379), wrote around 375 the treatise On the Holy Spirit, directed against the Pneumatomachi, in which — out of pastoral prudence in view of ears still hesitant — he deliberately avoids calling the Spirit directly \"God\" and demonstrates his full divinity from Scripture, the baptismal liturgy and the doxology of the Church, in a cautious theological strategy. His younger brother, Gregory of Nyssa, also composed a work On the Holy Spirit. It was, however, the friend of both, Gregory of Nazianzus, who took the step that Basil had avoided: in his Fifth Theological Oration (Oration 31), he explicitly affirmed that the Spirit \"is God\" and consubstantial with the Father and the Son. Gregory of Nazianzus even reproached Basil for not having gone far enough on this point.\n\nThe question was resolved at the First Council of Constantinople, the second ecumenical council, convoked by Emperor Theodosius I and held from May to July 9, 381, initially in the church of Hagia Irene. It was first presided over by Meletius of Antioch; upon his sudden death, Gregory of Nazianzus took over and, finally, Nectarius. Of the approximately 186 bishops assembled, 36 were Semi-Arians or Macedonians: they refused to subscribe to the Nicene faith in its fullness and were removed from the assembly, leaving 150 Catholic Fathers. Canon 1 of the council anathematized by name, among other heresies, \"that of the Semi-Arians or Pneumatomachi\", alongside those of the Eunomians, Arians, Sabellians, Marcellians, Photinians and Apollinarians. As for doctrine, the council expanded the earlier Creed of Nicaea with an entirely new section on the Holy Spirit, confessing him as \"the Lord, the giver of life, who proceeds from the Father, who with the Father and the Son is adored and glorified, who has spoken through the prophets\" — a formulation that, without using the word \"consubstantial\" out of pastoral caution, unmistakably affirmed his full divinity. Theodosius ratified the decrees by edict on July 30, 381. The article came to form part of the Niceno-Constantinopolitan Creed still recited today in Catholic and Orthodox liturgies and those of several Protestant denominations.",
+      "categoria": "heresias-cismas",
+      "tags": [
+        "Macedonius of Constantinople",
+        "Holy Spirit",
+        "Pneumatomachi",
+        "Athanasius of Alexandria",
+        "Constantinople I",
+        "Basil of Caesarea",
+        "Gregory of Nazianzus",
+        "4th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/CouncilOfConstantinople381BnFMSGr510.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catholic Encyclopedia, entry \"Pneumatomachi\" (newadvent.org/cathen/12157b.htm)",
+        "Philip Schaff, NPNF2-14: The Seven Ecumenical Councils, Excursus on the Heresies Condemned in Canon I (ccel.org)",
+        "Canons of the First Council of Constantinople (381), canon 1, at papalencyclicals.net/councils/ecum02.htm",
+        "Athanasius of Alexandria, Letters to Serapion (Epistulae ad Serapionem), c. 358-360",
+        "Basil of Caesarea, On the Holy Spirit (De Spiritu Sancto), c. 375",
+        "Gregory of Nazianzus, Theological Oration 31 (On the Holy Spirit)",
+        "Wikipedia (EN), \"Pneumatomachi\" and \"First Council of Constantinople\""
+      ],
+      "atualizado_em": null,
+      "tipo": "heresia",
+      "seculo": "IV",
+      "condenacao": "First Council of Constantinople (381)"
+    },
+    {
+      "id": "heresias-cismas:semipelagianismo",
+      "slug": "semipelagianismo",
+      "titulo": "Semipelagianism",
+      "resumo": "A middle-way current between Augustinianism and Pelagianism, defended by monks of southern Gaul, which attributed the beginning of faith (initium fidei) to human effort; condemned at the Second Council of Orange (529).",
+      "corpo": "After the condemnation of Pelagianism at the councils of Carthage (418) and Ephesus (431), a more moderate form of Pelagianism persisted, which held that man's faith was an act of free will not preceded by an interior grace. A group of influential monks of southern Gaul reacted against Augustine, especially in the communities of Marseille (Massilia) and the island of Lérins, among them John Cassian, founder and abbot of two monasteries in Marseille and a figure of great prestige for having lived for years among the monks of Egypt, and, later, Faustus, Bishop of Riez, and Vincent of Lérins, author of the Commonitorium (c. 434). The name \"Semipelagianism\" is later and polemical: it was not used by the authors themselves, and, since the sixteenth century, scholars have labeled as Semipelagian the Thirteenth Conference (Conlatio XIII) of Cassian, written around 426.\n\nThese monks, moved by pastoral concern over the rigor of the Augustinian formulations on predestination — which they feared would discourage ascetic effort in monastic life — recognized with Augustine that fallen man cannot, by himself, persevere to the end or attain salvation without the constant help of grace. They maintained, however, that the first impulse toward faith, the very beginning of the desire to seek God (the so-called initium fidei), could in certain cases arise from the free initiative of the still unregenerate human will, divine grace at this initial moment being more a response and a reinforcement to the human movement than its first cause. The controversy pitted against Cassian and the Gauls the layman Prosper of Aquitaine (c. 390–c. 463), who moved to Marseille before 428 and alerted Augustine. The Bishop of Hippo responded with the last two works of his life, On the Predestination of the Saints (De praedestinatione sanctorum) and On the Gift of Perseverance (De dono perseverantiae, 428/429). After Augustine's death, Prosper wrote, in 432, the Contra Collatorem, a step-by-step reply to Cassian's Conference XIII, and obtained from Pope Celestine a letter to the bishops of Gaul in favor of the Augustinian cause; later he also composed the Pro Augustino responsiones against Vincent of Lérins.\n\nThe controversy, which extended for almost a century without clear conciliar resolution, was finally decided at the Second Council of Orange, held in Orange (Arausio), in Provence, on July 3, 529, taking advantage of the occasion of the dedication of a church built by Liberius, praetorian prefect of Gallia Narbonensis. It was presided over by Caesarius of Arles, with fourteen bishops present. Caesarius had earlier submitted to Rome, around 528, nineteen capitula on grace and free will, which were rejected as excessively subtle; they were then replaced by maxims gathered by Prosper of Aquitaine from the writings of Augustine. The council reaffirmed, in twenty-five canons — eight on the fallen condition of nature and the absolute necessity of prevenient grace, especially regarding the beginning of faith, and seventeen declaratory propositions — the Augustinian position of the absolute priority and gratuitousness of divine grace in the whole process of salvation, such that neither the first grace nor perseverance can be preceded by any human merit (as canon 18 affirms: \"grace, to which we can lay no claim, precedes [good works]\"). The council deliberately avoided the harsher language of certain Augustinian formulations, explicitly condemning any idea that God predestines anyone to evil or to sin.\n\nThe decision of Orange, sent to Rome, was confirmed by Pope Boniface II on January 25, 531, who declared it in full harmony with the doctrine of the Apostolic See. It became a lasting and moderate doctrinal reference on the relationship between grace and human freedom, avoiding both Pelagianism and the more rigid forms of predestinarianism that would resurface centuries later in the controversies of the Reformation and, within Catholicism itself, in Jansenism.",
+      "categoria": "heresias-cismas",
+      "tags": [
+        "John Cassian",
+        "grace",
+        "free will",
+        "Prosper of Aquitaine",
+        "Council of Orange",
+        "Lérins",
+        "Augustine of Hippo",
+        "5th century",
+        "6th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/John_Cassian.jpeg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catholic Encyclopedia, entry \"Councils of Orange\" (newadvent.org/cathen/11266b.htm)",
+        "Canons of the Second Council of Orange (529), in EWTN Catholic Library (ewtn.com/catholicism/library/local-council-history-and-text-1472)",
+        "Prosper of Aquitaine, Contra Collatorem / De gratia Dei et libero arbitrio (432)",
+        "Augustine of Hippo, De praedestinatione sanctorum and De dono perseverantiae (428-429)",
+        "Wikipedia (EN), \"Council of Orange (529)\" and \"Prosper of Aquitaine\"",
+        "Encyclopædia Britannica, entry \"Saint Prosper of Aquitaine\"",
+        "Encyclopedia.com, entry \"Orange, Councils of\" (with reference to Denzinger, nos. 370-395)"
+      ],
+      "atualizado_em": null,
+      "tipo": "heresia",
+      "seculo": "V-VI",
+      "condenacao": "Second Council of Orange (529)"
+    },
+    {
+      "id": "heresias-cismas:monotelismo",
+      "slug": "monotelismo",
+      "titulo": "Monotheletism",
+      "categoria": "heresias-cismas",
+      "resumo": "A heresy that attributed to Christ a single will, the divine one, in an attempt at reconciliation with the Monophysites that compromised the integrity of his human nature.",
+      "corpo": "In the early seventh century, the Byzantine emperor Heraclius, faced with the need to restore the religious unity of an empire weakened by wars against the Persians and, soon afterward, by the Arab-Muslim expansion, sponsored a political and theological effort to reconcile the Eastern Monophysites, who were the majority in strategic regions such as Egypt and Syria, with the faith of Chalcedon. Patriarch Sergius I of Constantinople formulated for this purpose a compromise formula: although Christ did in fact possess two natures, divine and human, as Chalcedon had defined, in him there would be only one energy or operation (Monoenergism) and, in a later refinement of the same idea, only one will (from the Greek \"monos\", single, and \"thelema\", will), which is Monotheletism proper, resulting from the perfect identification between the human will and the divine will of Christ. In 634, Sergius even obtained the formal adherence of a synod gathered in Cyprus to his formula.\n\nSeeking support from the West as well, Sergius wrote to Pope Honorius I, who replied in ambiguous terms, speaking of \"one will\" in Christ. This letter would be used decades later as proof that a pope had come to subscribe, though perhaps without full awareness of the technical implications, to a formula that would prove to be heretical. Historians still debate whether Honorius truly intended to endorse Monotheletism or merely to avoid verbal controversies, but the episode would become a required case study in later debates on the limits of papal infallibility. The main theological opponent of Monotheletism was the monk Maximus the Confessor, who argued with great rigor that denying Christ a distinct human will, even one perfectly submissive to the divine will, amounted to denying him a complete and free humanity. Because of his resistance, Maximus was imprisoned, had his tongue and right hand mutilated by imperial order, and died in 662, in exile, shortly after these torments.\n\nThe Third Council of Constantinople, the sixth ecumenical council, held between 680 and 681, formally rejected Monotheletism and Monoenergism as heresies, defining that Christ possesses two natural and distinct wills and two natural operations, corresponding to his two natures, united without division or conflict, with the human will freely and actively submitted to the divine will, without being absorbed, annulled or diminished in its integrity by it. The council condemned by name the main defenders and promoters of the doctrine, among them the patriarchs Sergius, Pyrrhus and Paul of Constantinople, and also, notably and with no precedent in conciliar history, the already deceased Pope Honorius I, whose condemnation by an ecumenical council would later be confirmed by successive popes throughout the Middle Ages, becoming one of the episodes most discussed by theologians and historians of the Church when dealing with the limits of the papal magisterium.",
+      "tags": [
+        "Sergius of Constantinople",
+        "two wills",
+        "Constantinople III",
+        "Maximus the Confessor"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/M%C3%A1ximo,_o_Confessor",
+        "https://pt.wikipedia.org/wiki/S%C3%A9rgio_I_de_Constantinopla",
+        "https://ipco.org.br/honorio-i-o-caso-controverso-de-un-papa-heretico/"
+      ],
+      "tipo": "heresia",
+      "seculo": "VII",
+      "condenacao": "Third Council of Constantinople (680-681)"
+    },
+    {
+      "id": "heresias-cismas:adopcionismo",
+      "slug": "adopcionismo",
+      "titulo": "Adoptionism",
+      "categoria": "heresias-cismas",
+      "resumo": "An eighth-century Hispanic heresy according to which Christ would be Son of God by nature only in his divinity, being \"adopted\" as son in his humanity.",
+      "corpo": "After the Muslim conquest of the Iberian Peninsula in 711, the ancient Hispano-Visigothic Church survived as a tolerated Christian minority — the Mozarabic community — under the rule of the emirs of Córdoba. It was in this environment that Elipandus, Archbishop of Toledo since the middle of the eighth century and the highest ecclesiastical authority of Islamic Hispania, formulated — or, according to another historiographical reading, merely took up and systematized an old Hispanic Christological formula of Isidorian flavor — the doctrine that would come to be known as Adoptionism: Christ would be Son of God \"by nature\" only as the eternal Word, consubstantial with the Father, but \"by adoption,\" an \"adoptive\" or \"nuncupative\" son, as man, in his concrete humanity born of Mary. The controversy took shape from the middle of the 780s, when Elipandus was already coming from an earlier dispute, about the Trinity, with a Sevillian monk named Migetius; the adoptive formula then seemed to him a way of clearly reaffirming the full humanity of Christ against the errors of Migetius, without realizing — according to his adversaries — that it dangerously divided the one person of the Son into two \"sons,\" one by nature and the other by adoption.\n\nFelix, Bishop of Urgell, on the frontier between the Carolingian Spanish March and the Muslim territories, adhered to and gave theological sophistication to the same doctrine, becoming, in the eyes of his Frankish adversaries, the principal intellectual author of the heresy — to the point that it was also called the \"Felician heresy.\" The thesis met with immediate opposition in free Christian Hispania: the monk Beatus of Liébana, of the Asturian monastery of San Martín de Turieno (today Santo Toribio de Liébana), already famous for his monumental \"Commentary on the Apocalypse\" — a work that would become the model for the famous illuminated codices known as \"Beatus manuscripts\" — and Bishop Etherius of Osma wrote, around 785, a joint treatise against Elipandus, accusing him in harsh terms of madness, ignorance, and even of being a \"testicle of the Antichrist.\" Informed of the dispute, Pope Adrian I sent a letter that same year condemning the adoptive doctrine as a re-edition, in new garb, of the ancient Nestorianism.\n\nThe center of the conflict shifted, however, to the court of Charlemagne, to whom Felix of Urgell was subject as a Frankish subject. Summoned to explain himself at the Council of Regensburg in 792, Felix abjured the doctrine before papal legates — but, back in his diocese, he retracted his own retraction and returned to professing Adoptionism, claiming to have made it under duress. Alcuin of York, Charlemagne's most influential theological adviser, then devoted himself to systematically refuting the heresy in successive works — a \"Libellus adversus Felicis haeresim\" and later the \"Seven Books against Felix of Urgell\" — and exchanged letters, more conciliatory in tone but equally firm, with Elipandus himself.\n\nThe case was judged at the Council of Frankfurt, convened by Charlemagne in 794 and gathered with the participation of legates of Pope Adrian I and of bishops from all of Francia, Italy, and England. The assembly solemnly condemned Adoptionism, reaffirming that Christ is the only Son of God, truly so by nature both in his divinity and in his humanity, without any adoptive sense. Felix, pressed once more, appeared at Aachen, heard the refutation of several bishops, and abjured again; he was then kept under watchful custody in Lyon, where Archbishop Leidrad and, after him, Agobard of Lyon continued to follow him closely, and where he ended his days without it being known for certain whether he maintained a sincere retraction to the end.\n\nElipandus, protected by distance and by the relative autonomy of the Mozarabic Church under Islamic rule, where Charlemagne's authority did not reach, never retracted and died still Archbishop of Toledo, around the beginning of the ninth century, maintaining the adoptive formula to the end. Hispanic Adoptionism, understood by some historians also as an attempt — even if involuntary — to make Christian Christology more palatable to the strict monotheism of Islam then dominant in the Peninsula, did not survive as an organized movement after the death of its two principal defenders, but remained for centuries an obligatory reference in the manuals of heresiology, alongside Nestorianism, of which it was seen as a medieval reincarnation.",
+      "tags": [
+        "Elipandus of Toledo",
+        "Felix of Urgell",
+        "Charlemagne",
+        "Beatus of Liébana",
+        "Alcuin of York"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "https://www.mercaba.org/Herejia/adopcionismo.htm",
+        "https://es.wikipedia.org/wiki/Elipando_de_Toledo",
+        "https://es.wikipedia.org/wiki/F%C3%A9lix_de_Urgel",
+        "https://es.wikipedia.org/wiki/Beato_de_Li%C3%A9bana"
+      ],
+      "tipo": "heresia",
+      "seculo": "VIII",
+      "condenacao": "Council of Frankfurt (794)"
+    },
+    {
+      "id": "heresias-cismas:iconoclastia",
+      "slug": "iconoclastia",
+      "titulo": "Iconoclasm",
+      "categoria": "heresias-cismas",
+      "resumo": "A movement that rejected the veneration of sacred images as idolatry, going so far as to promote the systematic destruction of icons in the Byzantine Empire.",
+      "corpo": "The iconoclast crisis was born in the Byzantine Empire under Emperor Leo III the Isaurian (r. 717-741), founder of a new dynasty who had come to the throne shortly after repelling an Arab siege of Constantinople. Convinced that the veneration of icons had degenerated into idolatry — and perhaps influenced by Muslim and Jewish criticism of religious images, besides interpreting military defeats and a volcanic eruption in the Aegean Sea as signs of divine displeasure — Leo III promoted, from around 726-730, the removal of sacred images from public places, beginning with the famous icon of Christ above the Bronze Gate of the imperial palace. Patriarch Germanus I of Constantinople, who refused to subscribe to the new policy, was forced to resign in 730.\n\nThe most influential theological defense of the veneration of images came, paradoxically, from beyond the direct reach of imperial power: the monk Saint John of Damascus, who lived under Muslim rule in the monastery of Mar Saba, near Jerusalem, wrote three «Apologetic Discourses against Those Who Decry the Holy Images», in which he distinguished precisely between «latria» (adoration), owed to God alone, and «proskynesis» or relative veneration, given to the image by reason of the one it represents — arguing further that, since God himself had made himself visible in the Incarnation of Christ, it had become legitimate to represent the incarnate Son visually and, by extension, the saints who reflect him.\n\nUnder Constantine V (r. 741-775), son of Leo III, the iconoclast policy became more radical and gained conciliar justification: in 754, a council gathered at Hieria, with the participation of 338 bishops but none of the five patriarchates — not even that of Constantinople, then vacant —, declared the veneration of images a form of idolatry and anathematized by name its main defenders, including John of Damascus. Decades of systematic persecution followed: icons and mosaics were destroyed or covered with whitewash in churches throughout the empire, and many monks — traditionally the most fervent defenders of images — were imprisoned, tortured, exiled or killed, while entire monasteries were closed or converted to civil uses.\n\nThe turnaround came with the death of Leo IV and the regency of Constantine VI's mother, Empress Irene, who in 787 convened the Second Council of Nicaea — recognized as the seventh ecumenical council — gathering about 350 bishops. The council condemned iconoclasm, solemnly restored the veneration of images, and established the distinction, already sketched by John of Damascus, between the relative honor due to icons and the adoration reserved to God alone. In the West, however, a deficient Latin translation of the acts of the council led Charlemagne and his theologians to believe, mistakenly, that Nicaea II required adoration of images; the reaction to this misunderstanding resulted in the «Libri Carolini» and was discussed again, in passing, at the Council of Frankfurt in 794 (see the entry on Adoptionism).\n\nThe controversy was not, however, over: under Leo V the Armenian, from 815, a new council gathered in Hagia Sophia reaffirmed iconoclasm, inaugurating a second phase of persecution that struck hard at figures such as Abbot Theodore the Studite, a leading exponent of monastic resistance. Only with the death of Emperor Theophilos in 842, and the regency of his widow, Empress Theodora, in the name of her minor son Michael III, was the question resolved definitively: in 843, a synod convened with the new Patriarch Methodios irrevocably restored the veneration of images, in an episode celebrated liturgically every year, on the first Sunday of Lent, as the «Triumph of Orthodoxy» — a feast that the Eastern Orthodox Churches keep to this day.",
+      "tags": [
+        "icons",
+        "Byzantine Empire",
+        "Nicaea II",
+        "John of Damascus",
+        "Triumph of Orthodoxy"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Segundo_Conc%C3%ADlio_de_Niceia",
+        "https://pt.wikipedia.org/wiki/Iconoclastia",
+        "https://www.todamateria.com.br/movimento-iconoclasta/"
+      ],
+      "tipo": "heresia",
+      "seculo": "VIII-IX",
+      "condenacao": "Second Council of Nicaea (787); reaffirmed in the \"Triumph of Orthodoxy\" (843)"
+    },
+    {
+      "id": "heresias-cismas:cisma-de-focio",
+      "slug": "cisma-de-focio",
+      "titulo": "Photian Schism (863-867)",
+      "categoria": "heresias-cismas",
+      "resumo": "Rupture between Pope Nicholas I and Patriarch Photius of Constantinople, involving disputes over jurisdiction and the Filioque, and considered a direct forerunner of the East-West Schism of 1054.",
+      "corpo": "Photius, a layman of vast erudition who held high offices in the Byzantine imperial administration, was the author of the «Bibliotheca» (or «Myriobiblon»), a compendium of summaries and critical commentaries on hundreds of works of Greek, pagan and Christian antiquity, many of them now lost and known only through his testimony — an achievement that would make him, regardless of the controversy that would give him lasting fame, one of the most important intellectual figures of the Byzantine cultural renaissance of the ninth century. In 858, Emperor Michael III and his uncle and de facto regent, the Caesar Bardas, deposed Patriarch Ignatius of Constantinople, who was in conflict with the court, and raised Photius to the patriarchate in a very rapid succession of orders — within a few days, the then layman became a monk, deacon, priest and bishop —, a canonically irregular procedure that was already enough to fuel strong opposition among Ignatius's partisans.\n\nPope Nicholas I, informed of the deposition of Ignatius and of the hurried ordination of Photius, sent legates to Constantinople to investigate the case; upon finding, in his view, irregularities in the process, Nicholas gathered a synod in Rome in 863, which declared Photius's elevation null and reaffirmed Ignatius as the legitimate patriarch — a decision interpreted in Constantinople as an unacceptable interference by the Bishop of Rome in the internal affairs of a sister Church, aggravating already long-standing tensions over jurisdiction.\n\nThe dispute took on a doctrinal dimension when it was joined to the question of newly converted Bulgaria: the Bulgarian khan Boris I, baptized in 864 with a Byzantine godfather, dissatisfied with the degree of ecclesiastical autonomy that Constantinople offered him, turned in 866 to Rome and to the Frankish missionaries of Emperor Louis the German — missionaries who brought to Bulgaria, among other Latin practices foreign to Byzantine usage, the «Filioque» clause, already current in the Frankish West. Photius reacted in 867 with an encyclical addressed to the other Eastern patriarchs, denouncing the Filioque as an illegitimate addition to the Nicene-Constantinopolitan Creed and calling it the «crown of evils» brought by the Frankish missionaries, and he convoked a council in Constantinople which, in a symmetrical response to Rome, declared Pope Nicholas I himself deposed and excommunicated.\n\nThe political turn of events ended the impasse faster than theology did: in September 867, Michael III was assassinated in a palace coup by his former colleague Basil, who became emperor as Basil I and, seeking legitimacy and reconciliation with both Rome and the partisans of Ignatius, deposed Photius and restored Ignatius to the patriarchate. Nicholas I had died a few months earlier, in November of the same year, without seeing the outcome. A council held in Constantinople between 869 and 870 — recognized by the Catholic Church as the eighth ecumenical council, but rejected as such by Orthodoxy — formally condemned Photius.\n\nThe story had, however, a more ambiguous ending than a simple definitive condemnation: with the death of Ignatius in 877, Basil I himself restored Photius to the patriarchate, and a new council in Constantinople, between 879 and 880, reaffirmed his position with the apparent acquiescence of papal legates — a council that the Orthodox Church considers, for its part, the true eighth ecumenical council, although it never definitively resolved the question of the Filioque or of jurisdiction over Bulgaria. Photius would be deposed a second and final time in 886 by Emperor Leo VI, dying around 893; the Orthodox Church has venerated him ever since as Saint Photius the Great.\n\nMore than a formal and definitive schism — communion between Rome and Constantinople was restored, albeit unstably, after 867 —, the Photian episode exposed in advance exactly the same fault lines that, almost two centuries later, would become irreversible in the East-West Schism of 1054: the legitimacy of the Filioque clause, the limits of papal jurisdiction over Eastern churches, and the contest over spheres of missionary influence in the Balkans. For this reason, Church historians usually treat the Photian Schism as a dress rehearsal, or direct forerunner, of the definitive rupture of 1054.",
+      "tags": [
+        "Photius",
+        "Nicholas I",
+        "Constantinople",
+        "Filioque",
+        "Bulgaria",
+        "Basil I"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Cisma_de_F%C3%B3cio",
+        "https://pt.wikipedia.org/wiki/F%C3%B3cio",
+        "https://pt.wikipedia.org/wiki/Conc%C3%ADlio_de_Constantinopla_(867)"
+      ],
+      "tipo": "cisma",
+      "seculo": "IX",
+      "condenacao": "Mutual excommunications between Rome and Constantinople (863-867), with partial reconciliation after the death of Nicholas I"
+    },
+    {
+      "id": "heresias-cismas:quietismo",
+      "slug": "quietismo",
+      "titulo": "Quietism",
+      "categoria": "heresias-cismas",
+      "resumo": "Spiritual doctrine of Father Miguel de Molinos that preached the total annihilation of one's own will and passive abandonment to God as the path to Christian perfection.",
+      "corpo": "Miguel de Molinos was born in 1628 in Muniesa, in the Aragonese region of Teruel, and studied theology at the Jesuit college of Saint Paul in Valencia before being ordained a priest in 1652. He moved to Rome in the mid-1660s, where he quickly gained exceptional fame as a confessor and spiritual director, attracting penitents among the nobility, the clergy and even cardinals — among them Benedetto Odescalchi, who would be elected pope in 1676 with the name Innocent XI and who, for years, counted among his protectors.\n\nHis principal work, the «Spiritual Guide», published in Rome in 1675 with favorable ecclesiastical approbations, proposed a path of interior prayer centered on recollection, silence and the total passive abandonment of the soul to God — a state of «quiet» in which the active faculties of reasoning, imagining and even willing were to be suspended, letting God act directly in the soul without discursive effort on the part of the one praying. The book was enormously successful: it reached twenty editions in twelve years and was translated into Latin, French, English and German, becoming one of the most widely circulated prayer manuals of seventeenth-century Catholic Europe.\n\nCriticism, however, grew rapidly, above all from the Jesuits, Molinos's rivals in the spiritual direction of the Roman elite, who saw in his doctrine of quiet a risk of moral indifference: if the soul passively united to God should no longer exercise active resistance of the will, the critics argued, a dangerous opening would be created to justify moral lapses as something foreign to the true «self» already surrendered to God — an accusation reinforced by rumors, raised during the trial, of improper conduct by Molinos with penitents. To these factors was added a political component: King Louis XIV of France, at odds with Pope Innocent XI for other reasons of ecclesiastical policy, pressed Rome against a spiritual movement that had the support of cardinals close to the pope.\n\nArrested by the Holy Office in May 1685, Molinos was tried over the course of two years; on 3 September 1687, before a great crowd in the Dominican church of Santa Maria sopra Minerva, he was declared a dogmatic heretic and obliged to abjure publicly. Shortly afterward, Pope Innocent XI promulgated the apostolic constitution «Coelestis Pastor» (1687), condemning as heretical, suspect, erroneous or scandalous sixty-eight propositions drawn from his writings and from his trial. Molinos was sentenced to life imprisonment and to continuous public penance, dying incarcerated in Rome in December 1696, never having regained his freedom.\n\nAttenuated echoes of Quietist spirituality reappeared a few years later in France, in the work of the mystic Madame Guyon, whose doctrine of the disinterested «pure love» of God attracted Archbishop François Fénelon, tutor of the grandson of Louis XIV. The resulting controversy — dubbed «semi-Quietism» — set Fénelon against the powerful Bishop Jacques-Bénigne Bossuet, already known to the reader of these pages for his defense of Gallicanism: the Conferences of Issy, in 1694, produced no satisfactory agreement, and Fénelon's book of defense, «Explanation of the Maxims of the Saints» (1697), was finally condemned by Pope Innocent XII in the brief «Cum Alias» (1699), which reprobated twenty-three propositions without, however, expressly qualifying them as heretical; Fénelon submitted immediately to the decision.\n\nThe episode of Quietism left as a lasting legacy a sharper dividing line, in Catholic spiritual theology, between the legitimate forms of passive and mystical contemplation — practiced and taught, for example, by Saint Teresa of Ávila and Saint John of the Cross — and formulations that, by radicalizing the passivity of the soul before God, risk emptying out moral responsibility and the active role of the human will in the Christian life.",
+      "tags": [
+        "Miguel de Molinos",
+        "mysticism",
+        "Innocent XI",
+        "Madame Guyon",
+        "Fénelon"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Miguel_de_Molinos",
+        "https://www.newadvent.org/cathen/10441a.htm",
+        "https://www.britannica.com/biography/Miguel-de-Molinos",
+        "https://www.universalis.fr/encyclopedie/quietisme/3-mme-guyon-et-fenelon/"
+      ],
+      "tipo": "heresia",
+      "seculo": "XVII",
+      "condenacao": "Apostolic Constitution «Coelestis Pastor», of Innocent XI (1687)"
+    },
+    {
+      "id": "heresias-cismas:cisma-do-ocidente",
+      "slug": "cisma-do-ocidente",
+      "titulo": "Western Schism (1378-1417)",
+      "categoria": "heresias-cismas",
+      "resumo": "A period in which two, and later three, claimants simultaneously contested recognition by Western Christendom as the legitimate pope.",
+      "corpo": "Between 1309 and 1377, seven successive popes had resided not in Rome but in Avignon, in southern France, under strong influence from the French crown — a period that the poet Petrarch would call the \"Babylonian captivity\" of the papacy. Pressed by the fervent appeals of mystics such as Catherine of Siena and Bridget of Sweden, Pope Gregory XI finally returned the papal see to Rome in January 1377, but he died the following year, in March 1378, reopening the question of the papal residence at a moment of acute instability.\n\nUnder heavy pressure from a Roman crowd that demanded an Italian pope — even surrounding the site of the conclave — the cardinals elected in April 1378 the Neapolitan archbishop Bartolomeo Prignano, who took the name Urban VI. The new pope proved, however, to be authoritarian and harsh in temperament, to the point of publicly humiliating several of the very cardinals who had elected him; already in August of the same year, most of them — mainly French — gathered at Fondi and declared the April election invalid, claiming that it had been held under duress from the Roman tumult, and elected in his place Robert of Geneva, a cousin of the king of France, who took the name Clement VII and settled in Avignon. Catherine of Siena, for her part, vigorously defended the legitimacy of Urban VI in fervent letters until her death in 1380.\n\nWestern Christendom thus found itself divided between two rival obediences, each recognizing a different pope according to the political alliances of the moment: France, the kingdoms of Castile and Aragon, Scotland and, for a time, Naples aligned themselves with Clement VII and his successors in Avignon, while the Holy Roman Empire, England, most of Italy, Portugal and Scandinavia recognized Urban VI and the Roman popes who succeeded him, Boniface IX, Innocent VII and Gregory XII. The rupture, purely jurisdictional and without any underlying doctrinal controversy, nonetheless split dioceses, religious orders and entire universities.\n\nSuccessive attempts to negotiate the simultaneous resignation of the two popes (the so-called \"via cessionis\") failed, leading a group of cardinals from both obediences to convene, on their own initiative and without papal authorization, a council at Pisa in 1409. The assembly deposed both Gregory XII and the then Avignon pope, Benedict XIII, and elected a third claimant, Alexander V — but since neither of the deposed popes recognized the legitimacy of the council or actually stepped down, the practical result was, paradoxically, to worsen the crisis, with three simultaneous popes contesting recognition.\n\nThe definitive solution would come only from the Council of Constance (1414-1418), convened under strong pressure from Emperor Sigismund and bringing together the largest ecclesiastical assembly of the Middle Ages. In 1415 the council promulgated the decree \"Haec Sancta,\" affirming that conciliar authority derives directly from Christ and that even the pope owes it obedience in matters of faith, the eradication of the schism and the reform of the Church — the doctrinal foundation of so-called conciliarism, whose exact relationship with the papal primacy would remain a subject of theological debate for centuries, until it was resolved in the opposite sense by the First Vatican Council in 1870. Under the authority thus claimed, the council deposed Pope John XXIII (successor of Alexander V, in the Pisan line) and the Avignon pope Benedict XIII, by then already a refugee in the castle of Peñíscola in Spain, where he would continue to claim the tiara until his death in 1423, never accepting his deposition; the Roman pope Gregory XII, for his part, avoided the precedent of being deposed by resigning voluntarily in 1415, thereby retroactively legitimizing the authority of the very council that he himself had formally reconvened.\n\nFinally free of the three claimants, the Council of Constance unanimously elected, on November 11, 1417, the Roman cardinal Oddone Colonna, who took the name Martin V — a date that marks the end of almost four decades of institutional division in Latin Christendom. The same council, moved by the same spirit of reform that the Schism had exposed as urgent, also tried and had executed the Bohemian reformer Jan Hus in 1415 (see the corresponding entry). Unlike the Christological heresies of the first centuries, the Western Schism did not involve a declared doctrinal error, but a jurisdictional and disciplinary rupture over the legitimacy of the exercise of the Petrine primacy; the loss of credibility suffered by the papacy would feed, in the following decades, both the persistent strength of conciliarism and the general climate of criticism of the ecclesiastical institution that would prepare the ground, a century later, for the Protestant Reformation.",
+      "tags": [
+        "Council of Constance",
+        "Avignon",
+        "Martin V",
+        "conciliarism",
+        "Catherine of Siena"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Grande_Cisma_do_Ocidente",
+        "https://es.wikipedia.org/wiki/Concilio_de_Pisa",
+        "https://en.wikipedia.org/wiki/Pope_Urban_VI"
+      ],
+      "tipo": "cisma",
+      "seculo": "XIV-XV",
+      "condenacao": "Council of Constance (1414-1418), which deposed the three claimants and elected Martin V"
+    }
+  ]
+}

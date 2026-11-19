@@ -38,7 +38,9 @@ DADOS = RAIZ / "app" / "data"
 I18N = DADOS / "i18n"
 TRABALHO = RAIZ / ".traducao"
 
-MODELO = "claude-sonnet-5-5"
+MODELOS = {"sonnet": "claude-sonnet-5-5", "haiku": "claude-haiku-5-5"}
+# Muda pela opção --modelo; o Haiku gasta bem menos do limite da assinatura.
+MODELO = MODELOS["sonnet"]
 
 IDIOMAS = {
     "es": {
@@ -121,7 +123,10 @@ def conferir(original: Any, traduzido: Any, caminho: str = "") -> list[str]:
     if isinstance(original, str):
         if not isinstance(traduzido, str):
             return [f"{caminho}: deixou de ser texto"]
-        if original.startswith(("http://", "https://")) and traduzido != original:
+        # Fonte que começa com link pode ter descrição depois; só o link é intocável.
+        if original.startswith(("http://", "https://")) and (
+            traduzido.split()[:1] != original.split()[:1]
+        ):
             return [f"{caminho}: URL mudou"]
         return []
     return [] if original == traduzido else [f"{caminho}: valor mudou"]
@@ -256,7 +261,12 @@ def main() -> None:
     parser.add_argument(
         "--paralelo", type=int, default=4, help="pedidos ao mesmo tempo (padrão 4)"
     )
+    parser.add_argument(
+        "--modelo", choices=sorted(MODELOS), default="sonnet", help="padrão: sonnet"
+    )
     args = parser.parse_args()
+    global MODELO
+    MODELO = MODELOS[args.modelo]
 
     pasta = TRABALHO / "teste" if args.limite else I18N
     falhas: list[str] = []

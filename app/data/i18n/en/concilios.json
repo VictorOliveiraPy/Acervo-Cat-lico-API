@@ -1,0 +1,838 @@
+{
+  "_meta": {
+    "categoria": "concilios",
+    "nome": "Councils",
+    "descricao": "Ecumenical councils: assemblies of the episcopate with the Pope, and their main documents.",
+    "status": "exemplos-iniciais",
+    "aviso": "Covers the 21 ecumenical councils recognized by the Catholic Church. For editorial or catechetical use, always consult the original conciliar documents.",
+    "revisao_editorial": "The years recorded are those of opening and closing recognized in the official editions of the conciliar documents. No doctrinal decision has been summarized beyond what appears in the cited texts themselves.",
+    "fontes_gerais": [
+      "Ecumenical councils — official documents published at vatican.va",
+      "Denzinger-Hünermann, «Enchiridion symbolorum, definitionum et declarationum de rebus fidei et morum»"
+    ]
+  },
+  "itens": [
+    {
+      "id": "concilios:niceia-i",
+      "slug": "niceia-i",
+      "titulo": "Council of Nicaea I",
+      "categoria": "concilios",
+      "resumo": "The first ecumenical council (325): it professed the divinity of the Son, consubstantial with the Father, against Arianism.",
+      "corpo": "Gathered at Nicaea, in Bithynia (today İznik, Turkey), between May and August of 325, the Council of Nicaea I was convened by the Emperor Constantine, newly made sole master of an Empire reunified after his victory over Licinius the year before. It was the first time in history that bishops from the whole Christian world — the most accepted estimates point to about three hundred participants, although later tradition fixed the symbolic number of 318, in association with the number of Abraham's servants in the Book of Genesis — gathered in a single assembly financed and organized directly by the imperial power. Most came from the Greek-speaking East; Pope Sylvester I, already elderly, did not attend in person, being represented by two legates, and only a handful of bishops represented the Latin West.\n\nThe immediate reason for the convocation was the controversy stirred up by Arius, a presbyter of Alexandria, who taught that the Son, although superior to all creation, was himself created by the Father out of nothing and, therefore, was neither eternal nor of the same divine substance — \"there was a time when he was not,\" in the formula that became his trademark. The dispute was already gravely dividing the communities of Egypt and the East when Constantine, more concerned with the political and social unity of the Empire than with theological subtleties, decided to convoke a general council to resolve it, after a failed attempt at reconciliation by a letter sent to Alexandria through his ecclesiastical adviser, Bishop Hosius of Córdoba.\n\nAfter intense debates, the overwhelming majority of the bishops present — only two, besides Arius himself, refused to subscribe — approved a creed that professes the Son as \"begotten, not made, consubstantial with the Father\" (in Greek, homoousios, \"of the same substance\"), a term that did not appear in Scripture, but which the conciliar fathers judged indispensable to definitively close the interpretive gaps that biblical language, by itself, left open to Arianism. This text, expanded and reformulated with regard to the Holy Spirit by the Council of Constantinople I, in 381, gave rise to the Niceno-Constantinopolitan Creed now professed in the Catholic and Orthodox liturgy and in several Protestant confessions.\n\nBeyond the central Christological question, the council set a common date for the celebration of Easter — until then celebrated on different days depending on the region, with some Eastern communities following the Jewish calendar directly (so-called Quartodecimanism) — determining that it should always occur on a Sunday, starting from the first full moon after the spring equinox, a calculation that Alexandria, recognized for its astronomical tradition, was charged with computing each year. The council also promulgated twenty disciplinary canons, dealing with the hierarchy among the great sees (Rome, Alexandria, Antioch), the minimum age for ordinations, and the reconciliation of schismatics and repentant heretics.\n\nThe condemnation of Arianism at Nicaea did not end the controversy: in the following decades, under emperors sympathetic to the Arian cause, such as Constantius II, Constantine's own son, Arianism remained influential for much of the fourth century, and was carried by missionaries such as Ulfilas to the Gothic peoples, among whom it would survive for centuries. Even so, Nicaea I is the first of the twenty-one councils recognized as ecumenical by the Catholic Church, and its Christological formula remains, almost seventeen centuries later, the core of the Trinitarian profession of faith held by virtually all the great Christian traditions — the Catechism of the Catholic Church draws on the Niceno-Constantinopolitan Creed as one of the two symbols of faith that structure its exposition of the Christian profession of faith.",
+      "tags": [
+        "Trinity",
+        "Arianism",
+        "creed",
+        "4th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Nicea.jpg",
+      "numero_ordem": 1,
+      "ano_inicio": 325,
+      "ano_fim": 325,
+      "local": "Nicaea, Bithynia (present-day İznik, Turkey)",
+      "fontes": [
+        "Niceno-Constantinopolitan Creed",
+        "Catechism of the Catholic Church, nos. 195, 465",
+        "Denzinger-Hünermann, nos. 125-130",
+        "Todamateria.com.br, \"Concílio de Niceia\"",
+        "Wikipedia, \"First Council of Nicaea\""
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "concilios:trento",
+      "slug": "trento",
+      "titulo": "Council of Trent",
+      "resumo": "Nineteenth ecumenical council, held between 1545 and 1563 in twenty-five sessions: it responded to the Protestant Reformation by defining the doctrine on Scripture, justification and the sacraments, and promoted broad disciplinary reform, including the creation of seminaries.",
+      "corpo": "When Pope Paul III convoked the general council that would meet in Trent, a city in northern Italy then part of the Holy Roman Empire, Western Christianity had already lived through almost three decades of rupture since the publication of Martin Luther's 95 Theses in 1517. Earlier attempts to resolve the crisis by diplomatic and theological means — such as the Diet of Worms (1521) and the Colloquy of Regensburg (1541) — had failed, and political disputes between the pope and Emperor Charles V over where and when to gather the council delayed its opening for years; it finally took place on December 13, 1545, in the cathedral of San Vigilio.\n\nThe council is distinguished from almost all earlier ones by its extraordinary duration: eighteen years, between 1545 and 1563, divided into three periods of sessions under five pontificates — Paul III, Julius III, Marcellus II (whose brief pontificate of three weeks did not manage to alter the conduct of the proceedings), Paul IV and Pius IV —, interrupted by outbreaks of plague and typhus, wars in central Europe and even a temporary transfer of the seat to Bologna (1547-1548). In all there were twenty-five sessions. The number of bishops present varied greatly over that time: the council opened with only about thirty bishops and, reduced in the early phases and in the sessions of 1551-1552, grew substantially in the final sessions of 1562-1563, when the decrees were signed by 255 members — four papal legates, two cardinals, three patriarchs, twenty-five archbishops and 168 bishops, two-thirds of them Italian —, the largest attendance of the whole council; in the most important decisions, however, no more than sixty prelates were present.\n\nDoctrinally, Trent responded point by point to the central theses of the Reformation: against the Lutheran thesis of Scripture alone (sola Scriptura) as the source of faith, it affirmed Scripture and apostolic Tradition as joint and inseparable sources of Revelation, and fixed the biblical canon including the deuterocanonical books (Session IV, April 8, 1546); against justification by faith alone (sola fide), it defined in Session VI (January 13, 1547) that justification involves the person's free cooperation with the grace that precedes it; and it reaffirmed the existence of the seven sacraments, disputed by various reformed currents that recognized only baptism and the Eucharist (Session VII, March 3, 1547). The decree of Session XIII (October 11, 1551) on the Eucharist definitively established the term \"transubstantiation\" to describe the conversion of the bread and wine into the body and blood of Christ; the question of communion under both kinds was settled later, in Session XXI (July 16, 1562), which reaffirmed the legitimacy of communion under one kind for the laity.\n\nAs important as the doctrinal response was the extensive disciplinary reform promoted by the council, responding to abuses that the Church itself acknowledged as real: the obligation of bishops to reside in their dioceses, from which they had until then often been absent for long periods; the prohibition of the accumulation of multiple ecclesiastical benefices by a single person; the establishment of periodic provincial councils and diocesan synods; the regulation of parish preaching and of the conferral of benefices; and, perhaps the most enduring measure of all, the determination, by the decree \"Cum adolescentium aetas\" (Session XXIII, July 15, 1563, canon XVIII), that each diocese with sufficient resources should establish a permanent seminary — \"seminarium perpetuum\" — for the formation of future priests, a model of priestly formation that, with adaptations, remains in force to this day throughout the Catholic Church. Session XXIV (November 11, 1563) approved the decree \"Tametsi\" on marriage, which combated clandestine marriages, and the last two sessions of the year 1563 dealt with purgatory, the veneration of saints and images, relics and indulgences — whose money \"traffic\" the council expressly prohibited. The council was closed on December 4, 1563, and its work ended with Pius IV's confirming bull \"Benedictus Deus et Pater,\" dated January 26, 1564, which ratified the decrees while reserving to the pope the exclusive right to interpret them.\n\nFrom the Tridentine work there derived, in the years following its close, publications that unified Catholic life for centuries: the Congregation of the Council, created in 1564 to interpret the decrees, the Roman Catechism (1566), the Roman Breviary (1568) and the Roman Missal (1570), which fixed the so-called \"Tridentine Mass,\" celebrated without major changes until the liturgical reform of the Second Vatican Council, four centuries later. For all this, Trent is considered the founding landmark of the Catholic Counter-Reformation — or, in the terminology now preferred by many historians, the Catholic Reformation —, a movement of internal renewal that restored doctrinal cohesion and disciplinary vigor to the Church at a moment of acute religious fragmentation in Europe. It was also the last ecumenical council before an interval of more than three centuries, until the First Vatican Council, convoked in 1869.",
+      "categoria": "concilios",
+      "tags": [
+        "Counter-Reformation",
+        "sacraments",
+        "justification",
+        "16th century",
+        "seminaries",
+        "Paul III",
+        "Pius IV",
+        "Tridentine Mass"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tridentinum.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Council of Trent, Decree \"De iustificatione,\" Session VI (January 13, 1547)",
+        "Council of Trent, Decree on the sacred books and tradition, Session IV (April 8, 1546)",
+        "Council of Trent, Decree \"Cum adolescentium aetas\" on seminaries, Session XXIII (July 15, 1563), canon XVIII",
+        "Council of Trent, Decree on the Most Holy Eucharist, Session XIII (October 11, 1551)",
+        "Denzinger-Hünermann, nos. 1500-1835",
+        "Pius IV, bull \"Benedictus Deus et Pater\" (January 26, 1564)",
+        "Encyclopaedia Britannica, 'Council of Trent' and 'Pius IV'"
+      ],
+      "atualizado_em": null,
+      "numero_ordem": 19,
+      "ano_inicio": 1545,
+      "ano_fim": 1563,
+      "local": "Trent (Italy)"
+    },
+    {
+      "id": "concilios:vaticano-ii",
+      "slug": "vaticano-ii",
+      "titulo": "Second Vatican Council",
+      "categoria": "concilios",
+      "resumo": "Twenty-first ecumenical council (1962-1965): four constitutions on the liturgy, the Church, Revelation, and the Church in the modern world.",
+      "corpo": "Elected in October 1958 at almost 77 years of age, and seen by many as a \"transitional pope,\" John XXIII surprised the Catholic world by announcing, on January 25, 1959 — less than three months after his election — the convocation of a new ecumenical council, the first since Vatican I, which was interrupted in 1870. The pope defined its goal with a word that would become famous: \"aggiornamento,\" updating — not a change in the doctrine of the faith, which he considered immutable, but a renewal of the Church's language, pastoral structures, and stance toward the contemporary world.\n\nAfter more than three years of preparation, with commissions that gathered thousands of suggestions (\"vota\") from the bishops of the world, the council was solemnly opened on October 11, 1962, in Saint Peter's Basilica, bringing together more than 2,400 bishops from every continent — the largest and most truly universal assembly in the history of the councils, reflecting the maturity of the young Churches of Africa, Asia, and Latin America. For the first time, it also had official observers from other Christian confessions — Orthodox, Anglicans, Lutherans, and others — invited to follow the proceedings in a gesture of ecumenical openness without precedent in the councils.\n\nJohn XXIII died on June 3, 1963, between the first and second of the council's four sessions, without seeing its conclusion. His successor, Cardinal Giovanni Battista Montini, elected weeks later with the name Paul VI, led the council to its conclusions, presiding over the three remaining sessions until the solemn closing on December 8, 1965. In all, sixteen documents were promulgated — four constitutions, nine decrees, and three declarations — a volume of magisterial teaching without precedent in any earlier council.\n\nAmong the most influential texts is \"Lumen Gentium,\" which renewed the Church's self-understanding by presenting the Church first as the \"People of God,\" before treating its hierarchical structure, and developed episcopal collegiality — the idea that the bishops, united with the pope, collectively share responsibility for the governance of the universal Church. \"Sacrosanctum Concilium,\" approved as early as the first session in 1963, began the broad liturgical reform that replaced Latin with vernacular languages in most of the Mass and increased the active participation of the faithful — the most visible change and the one most immediately felt by ordinary Catholics throughout the world. \"Dei Verbum\" renewed the theology of Revelation and promoted the faithful's access to Scripture, and the lengthy pastoral constitution \"Gaudium et Spes\" addressed the relationship between the Church and the world on themes such as culture, work, family, peace, and development.\n\nOther documents opened unprecedented paths: \"Nostra Aetate\" established entirely new foundations for the relationship with Judaism, Islam, and the other non-Christian religions, explicitly repudiating anti-Semitism; \"Unitatis Redintegratio\" laid the foundations of the Church's modern ecumenical commitment to the other Christian confessions; and \"Dignitatis Humanae\" affirmed the right to religious freedom as a requirement of human dignity, going beyond more restrictive positions of the earlier magisterium on the relationship between Church and State.\n\nHalf a century after its closing, Vatican II remains the most significant event in the recent history of the Catholic Church, but also one of the most debated: theologians, pastors, and movements within the Church disagree about the extent to which its documents represent continuity or rupture with earlier Tradition, about the appropriate pace and extent of the liturgical reform that resulted from it, and about how to apply today its vision of dialogue with the modern world — debates that have run through the pontificates of Paul VI, John Paul II, Benedict XVI, and Francis, and that remain alive in the Church today.",
+      "tags": [
+        "liturgy",
+        "ecclesiology",
+        "20th century",
+        "Rome"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Vatican_II_photo.jpg",
+      "numero_ordem": 21,
+      "ano_inicio": 1962,
+      "ano_fim": 1965,
+      "local": "Saint Peter's Basilica, Vatican City",
+      "fontes": [
+        "Second Vatican Council, Constitution \"Sacrosanctum Concilium\" (December 4, 1963)",
+        "Second Vatican Council, Dogmatic Constitution \"Lumen Gentium\" (November 21, 1964)",
+        "Second Vatican Council, Dogmatic Constitution \"Dei Verbum\" (November 18, 1965)",
+        "Second Vatican Council, Pastoral Constitution \"Gaudium et Spes\" (December 7, 1965)",
+        "Second Vatican Council, Declaration \"Nostra Aetate\" (1965)",
+        "Second Vatican Council, Declaration \"Dignitatis Humanae\" (1965)",
+        "Cafehistoria.com.br, \"O que foi o Concílio Vaticano II?\""
+      ],
+      "imagem_credito": "Photo: Carroll College, historical collection (1962) — Wikimedia Commons, CC BY 3.0"
+    },
+    {
+      "id": "concilios:constantinopla-i",
+      "slug": "constantinopla-i",
+      "titulo": "First Council of Constantinople",
+      "resumo": "The second ecumenical council (381), convened by Theodosius I. It reaffirmed Nicaea against Arianism and completed the Creed with the divinity of the Holy Spirit.",
+      "corpo": "Half a century after Nicaea, the Trinitarian controversy was far from settled: Arianism, although condemned in 325, had survived and branched into various currents during the reigns of emperors sympathetic to its cause, such as Constantius II, and a new dispute had arisen over the divinity of the Holy Spirit, denied or minimized by the so-called Pneumatomachians or Macedonians — followers of Macedonius, former bishop of Constantinople, who acknowledged the divinity of the Son as defined at Nicaea but refused to attribute to the Holy Spirit the same divine dignity as the Father and the Son.\n\nIt was to confront this new controversy, and to consolidate once and for all the Nicene faith in an imperial capital that for decades had been dominated by Arian bishops, that the emperor Theodosius I — the first to rule from Constantinople with a firm Nicene commitment — convened the council that met in the church of Saint Irene, in Constantinople, from May to July 381. It had about 150 bishops, practically all of them Eastern, with no representation of the Church of the West or of Pope Damasus I; the presidency passed successively through three figures — first Meletius of Antioch, who died early in the proceedings; then the theologian and poet Gregory of Nazianzus, appointed bishop of Constantinople, who resigned amid disputes over the legitimacy of his own episcopal appointment; and finally Nectarius of Constantinople, a layman hastily baptized and ordained bishop only in order to preside over the remainder of the council.\n\nThe original acts of the council were almost entirely lost over the centuries, and the essentials of its proceedings and decisions are known indirectly, through the accounts of the church historians of the following century — Socrates Scholasticus, Sozomen and Theodoret of Cyrus — which makes the exact reconstruction of its agenda and internal debates more uncertain than that of later, better-documented councils.\n\nDoctrinally, the council fully confirmed the faith of the Fathers of Nicaea against remaining Arianism, and it is associated with the creed later called the Niceno-Constantinopolitan Creed, which expands and elaborates above all the third article, concerning the Holy Spirit, affirming his full divinity and equality with the Father and the Son — \"who with the Father and the Son is adored and glorified\" — against the Pneumatomachian position. Along with residual Arianism, the council also rejected the positions of Apollinarianism, which denied that Christ had a full rational human soul, holding that it was replaced by the divine Logos himself. It was in this same context that the famous mention of the Church as \"one, holy, catholic and apostolic\" was fixed in the profession of faith, an article that would become a permanent part of the Sunday creed of the Christian liturgy.\n\nIn disciplinary matters, the Greek manuscript tradition preserves seven canons attributed to the council, while the oldest Latin versions contain only the first four — the last three are generally regarded by modern historical criticism as additions from later synods retroactively incorporated into the collection. One of these canons (the third) granted the bishop of Constantinople a primacy of honor immediately after the bishop of Rome, \"because Constantinople is the New Rome\" — a provision that the Roman See never formally accepted, understanding that precedence among sees should be based on apostolic origin, not on the political importance of the place, even though Pope Damasus I apparently accepted the Trinitarian creed formulated there.\n\nThe properly ecumenical character of the assembly of 381 — which in its own time was seen merely as a regional synod of the East — was only fully recognized seventy years later, at the Council of Chalcedon (451), when the creed of 381 was solemnly read, confirmed and incorporated into the common tradition of faith of the whole Church, thereafter becoming an inseparable part of the Eucharistic liturgy in both East and West.",
+      "categoria": "concilios",
+      "tags": [
+        "creed",
+        "Trinity",
+        "Holy Spirit",
+        "Arianism",
+        "Theodosius I",
+        "4th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Council_of_Constantinople_381_BnF_MS_Gr510_fol355.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Wikipedia (en), 'First Council of Constantinople'",
+        "Encyclopædia Britannica, 'First Council of Constantinople (381)'",
+        "Catholic Encyclopedia (New Advent), 'First Council of Constantinople'",
+        "New Advent / Church Fathers, acts and canons of the Council of Constantinople (381)",
+        "Socrates Scholasticus, \"Ecclesiastical History\", book V",
+        "Sozomen, \"Ecclesiastical History\", book VII"
+      ],
+      "numero_ordem": 2,
+      "ano_inicio": 381,
+      "ano_fim": 381,
+      "local": "Constantinople (present-day Istanbul, Turkey)"
+    },
+    {
+      "id": "concilios:efeso",
+      "slug": "efeso",
+      "titulo": "Council of Ephesus",
+      "resumo": "The third ecumenical council, convened in 431 under Theodosius II. It condemned the teaching of Nestorius and confirmed the title Theotokos, Mother of God, given to the Virgin Mary.",
+      "corpo": "The controversy that led to the Council of Ephesus arose from the preaching of Nestorius, a Syrian monk trained in the theological school of Antioch and appointed bishop of Constantinople in 428 by Emperor Theodosius II. Concerned to preserve clearly the distinction between the human nature and the divine nature of Christ, Nestorius began publicly rejecting the traditional title «Theotokos» (Mother of God), which popular devotion attributed to Mary, proposing in its place the term «Christotokos» (Mother of Christ), on the grounds that Mary had given birth only to the humanity of Jesus. This position was seen by Cyril, the powerful and combative bishop of Alexandria, as a Christology that divided Christ into two distinct persons, contradicting the faith that in him there is only one person, the eternal Word incarnate. Cyril denounced the teachings of Nestorius in doctrinal letters that would become classic references, and as early as August 430 obtained a Roman synod, presided over by Pope Celestine I, which formally condemned Nestorius and demanded his retraction under penalty of excommunication.\n\nFaced with Nestorius's resistance, Emperor Theodosius II convoked a general council, which met in the church of Mary in Ephesus, in Asia Minor, from June 22 to July 31, 431. Estimates of attendance vary among the sources, standing at around two hundred bishops. The proceedings were marked by serious procedural tensions: Cyril, presiding by papal delegation, formally opened the sessions before the arrival of the group of Syrian bishops led by John of Antioch, who were coming to support Nestorius — a delay which the Antiochenes, upon arriving days later, denounced as a deliberate maneuver of exclusion.\n\nThe bishops gathered under Cyril condemned the doctrine of Nestorius, who was deposed after refusing to appear, and received Cyril's second letter to Nestorius as an expression of the right faith: the one whom Mary bore is a single person, the eternal Word incarnate, and therefore she is rightly called Mother of God — not out of popular piety, but as a requirement of Christological faith itself. In response, the Antiochene bishops led by John of Antioch, who had arrived a few days later, met in a separate council and, in their turn, deposed and excommunicated Cyril and the local bishop of Ephesus, Memnon. Cyril's assembly further declared that the Nicene Creed was sufficient, forbidding the composition of any other formula of faith, and took the opportunity to condemn Pelagianism as well, a Western doctrine on grace and original sin then under debate.\n\nThe outcome was, therefore, tumultuous: two rival councils operating simultaneously in the same city, each deposing the other side. It fell to Emperor Theodosius II, faced with the impasse, to recognize as legitimate the assembly led by Cyril, a decision which Pope Celestine I confirmed in Rome. Reconciliation between Alexandria and Antioch came only two years later, with the so-called Formula of Union of 433, negotiated directly between Cyril and John of Antioch, which affirmed simultaneously the unity of the person of Christ and the full integrity of his two natures — anticipating by almost twenty years the language that the Council of Chalcedon would definitively enshrine in 451.\n\nNestorius, deposed and finally exiled by imperial order to Upper Egypt in 435, would die decades later still maintaining, in his writings, that he had never taught the separation of Christ into two distinct persons — a claim that modern theologians and historians now assess with greater nuance than the polemic of the fifth century allowed. The episode opened the so-called Nestorian schism: communities of the East faithful to Antiochene Christology survived above all in Persia, beyond the reach of Roman imperial power, giving rise to the tradition now known as the Assyrian Church of the East, which to this day preserves its own ecclesial and liturgical lineage, with small communities also in India.",
+      "categoria": "concilios",
+      "tags": [
+        "Theotokos",
+        "Christology",
+        "Nestorianism",
+        "Cyril of Alexandria",
+        "Mary",
+        "5th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Concile-Ephese-Fourviere-detail.jpg",
+      "imagem_credito": "Photo: User:Palamède — Wikimedia Commons, CC BY-SA 4.0",
+      "fontes": [
+        "Wikipedia (en), 'Council of Ephesus'",
+        "Catholic Encyclopedia (New Advent), 'Council of Ephesus'",
+        "EWTN, 'Ephesus, 431'",
+        "OrthodoxWiki, 'Third Ecumenical Council'",
+        "Cyril of Alexandria, Second Letter to Nestorius (430)",
+        "New World Encyclopedia, \"Council of Ephesus\""
+      ],
+      "numero_ordem": 3,
+      "ano_inicio": 431,
+      "ano_fim": 431,
+      "local": "Ephesus, Asia Minor (present-day Turkey)"
+    },
+    {
+      "id": "concilios:calcedonia",
+      "slug": "calcedonia",
+      "titulo": "Council of Chalcedon",
+      "resumo": "Fourth ecumenical council (451), held under Emperor Marcian. It defined Christ as one person in two natures, without confusion and without separation.",
+      "corpo": "The road to Chalcedon passed through a troubled episode, now known as the \"Robber Council\" (Latrocinium). In 448, the archimandrite Eutyches, superior of a monastery in Constantinople and a figure of great prestige at the imperial court, was accused of teaching that, after the Incarnation, Christ's human nature had been absorbed by the divine nature, leaving only a single nature in him — a position known as Monophysitism. Condemned by a local synod presided over by Bishop Flavian of Constantinople, Eutyches appealed to the powerful bishop of Alexandria, Dioscorus, successor of Cyril, who obtained from Emperor Theodosius II the convocation of a new general council at Ephesus in 449. At this council, which posterity would reject and nickname the \"Robber Council\" — an expression coined by Pope Leo the Great himself — Dioscorus presided in an authoritarian manner, refused to allow the reading of the \"Tome of Leo\" (the doctrinal letter the pope had sent to Flavian), rehabilitated Eutyches, and violently deposed Flavian, who would die days later as a result of the mistreatment he had suffered.\n\nOnly the death of Theodosius II, in a fall from a horse in 450, and the accession of Marcian and his wife Pulcheria to the throne made it possible to reverse the situation. Convoked by Marcian, the new council was initially scheduled for Nicaea and then moved to Chalcedon, on the Asian shore of the Bosphorus, across from Constantinople, for convenience and security; it opened on October 8, 451, and closed on November 1. Pope Leo the Great did not preside in person, being represented by legates — among them Paschasinus and the priest Boniface. The number of participants is reported differently by the sources: Leo himself speaks of 600 bishops, a letter addressed to him speaks of 500, and current estimates point to more than 520, which makes Chalcedon the largest and best-documented of the early ecumenical councils, with an overwhelmingly Eastern participation.\n\nThe council formally annulled the decisions of the \"Robber Council,\" deposed and exiled Dioscorus of Alexandria, and solemnly ratified the Creed of Nicaea and that of Constantinople of 381. It accepted as an authentic expression of the faith the synodal letters of Cyril of Alexandria and the \"Tome of Leo\" to Flavian, which the bishops present, according to the traditional account, greeted with the acclamation \"Peter has spoken through Leo.\" The \"Definition of Faith\" was approved in the fifth session and solemnly promulgated in the sixth, in the presence of the emperor himself: one and the same Christ, perfect in divinity and perfect in humanity, consubstantial with the Father according to the divinity and with us according to the humanity, acknowledged in two natures \"without confusion, without change, without division, and without separation\" — a formula that would become the basis of all later orthodox Christology, both Catholic and Byzantine.\n\nThe council also published 27 disciplinary canons on ecclesiastical administration and authority. The decree known as Canon 28 sought to raise the see of Constantinople, \"the New Rome,\" to an honor comparable to that of Rome, a provision which the papal legates formally contested during the council itself and which the Holy See never accepted, considering it founded on criteria of political importance rather than on apostolic origin.\n\nThe reception of the Chalcedonian formula of the \"two natures\" was far from unanimous: important Churches of non-Greek tradition — most of the Coptic episcopate in Egypt, a good part of the Syrian and Armenian clergy, and later Ethiopia — refused to accept it, considering it excessively close to the Nestorianism already condemned at Ephesus, preferring the Miaphysite formula of the \"one nature of the incarnate Word.\" This refusal led to the rupture of the Churches that rejected it, giving rise to the Chalcedonian schism, at the root of the separation that still distinguishes the so-called Oriental Orthodox Churches both from Rome and from the Byzantine Orthodox Churches of Greek tradition, although recent theological dialogues have significantly reduced the weight of these ancient Christological divergences.",
+      "categoria": "concilios",
+      "tags": [
+        "Christology",
+        "two natures",
+        "Leo the Great",
+        "Eutyches",
+        "Monophysitism",
+        "5th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/%D0%A7%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B9_%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D0%B1%D0%BE%D1%80.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Wikipedia (en), 'Council of Chalcedon'",
+        "Wikipedia (en), 'Chalcedonian Definition'",
+        "Papal Encyclicals Online, 'The Council of Chalcedon – 451 A.D.' (introduction and Definition of Faith)",
+        "New Advent / Church Fathers, acts of the Council of Chalcedon (451)",
+        "Leo the Great, \"Tome of Leo\" (Letter to Flavian, 449)",
+        "Wikipedia (pt), \"Concílio de Calcedónia\""
+      ],
+      "numero_ordem": 4,
+      "ano_inicio": 451,
+      "ano_fim": 451,
+      "local": "Chalcedon, Bithynia (present-day Kadıköy, Istanbul, Turkey)"
+    },
+    {
+      "id": "concilios:constantinopla-ii",
+      "slug": "constantinopla-ii",
+      "titulo": "Council of Constantinople II",
+      "resumo": "Fifth ecumenical council (553), convened by Justinian I. It condemned the Three Chapters and reaffirmed the Christology of the previous councils.",
+      "corpo": "The Council of Constantinople II arose from a long-standing political and theological concern of Emperor Justinian I, who saw in the persistence of suspicions of Nestorianism within the Chalcedonian tradition itself an obstacle to reconciliation with the Churches of the East that had rejected Chalcedon. The council also belongs to the continuation of an earlier conflict over Origenism — the doctrines attributed to Origen of Alexandria on the pre-existence of souls and the final universal restoration (apokatastasis) — which Justinian had already condemned by imperial edict in 543, with the support of a local synod presided over by Patriarch Menas.\n\nThe central question of the council, however, was the so-called \"Three Chapters\": the person and writings of Theodore of Mopsuestia, teacher of Nestorius and a figure of great prestige in the theological tradition of Antioch; certain writings of Theodoret of Cyrrhus against Cyril of Alexandria; and a letter attributed to Ibas of Edessa addressed to Mari the Persian — all authors who had been dead for more than a century, the last two formally rehabilitated by the Council of Chalcedon itself in 451. Justinian saw in these texts the root of the persistence of Nestorianism, and hoped that their condemnation would remove the suspicion that the Miaphysite opponents of Chalcedon cast upon the whole conciliar tradition.\n\nThe council met in an annex of the church of Hagia Sophia, in Constantinople, from May 5 to June 2, 553, presided over by Patriarch Eutychius of Constantinople, with predominantly Eastern participation — the final decrees were signed by about 160 to 165 bishops, including some Africans, but with practically no Western presence. Over the course of eight sessions, the conciliar fathers examined and formally condemned the Three Chapters through a doctrinal judgment concluded with fourteen anathemas, while declaring that they fully upheld what the earlier councils of Nicaea, Constantinople I, Ephesus and Chalcedon had defined — a deliberate effort to show doctrinal continuity, not rupture, with the received conciliar tradition.\n\nThe most delicate episode of the entire assembly involved Pope Vigilius, who had been held for years in Constantinople under direct imperial pressure. Vigilius initially proposed that the council have an equal number of Eastern and Western bishops, a proposal Justinian rejected; on May 14, 553, the pope published his own \"Constitutum,\" signed by sixteen bishops, which condemned sixty specific propositions of Theodore of Mopsuestia, but refused to condemn his person post mortem, and exempted Theodoret and Ibas from any censure, since they had already been formally absolved at Chalcedon. Under continued pressure and after months of resistance, Vigilius finally yielded: in a letter to Patriarch Eutychius, dated December 8, 553, and in a second \"Constitutum,\" of February 554, he approved the conciliar decisions, claiming to have been previously deceived by ill-informed counselors about the true content of the condemned texts.\n\nThe decision was poorly received in much of the Latin West, which saw in it a capitulation of papal authority before Byzantine imperial pressure and an unacceptable revision of judgments already settled at Chalcedon. The ecclesiastical provinces of northern Italy, above all Milan and Aquileia, broke communion with Rome in the so-called Schism of the Three Chapters, which in some regions — such as the patriarchate of Aquileia — would only be fully resolved at the end of the seventh century, nearly a hundred and fifty years after the council.",
+      "categoria": "concilios",
+      "tags": [
+        "Three Chapters",
+        "Justinian I",
+        "Pope Vigilius",
+        "Christology",
+        "Origenism",
+        "6th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/EcumenicalCouncil_5th_11-22.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Wikipedia (en), 'Second Council of Constantinople'",
+        "Documenta Catholica Omnia, 'Second Council of Constantinople – 553 A.D.' (introduction and sentence)",
+        "Catholic Encyclopedia (New Advent), 'Second Council of Constantinople'",
+        "Cambridge Edition of Early Christian Writings, 'Acts of the Second Council of Constantinople (May–June 553)'",
+        "Infopédia, \"Constantinopla II\"",
+        "Wikipedia (pt), \"Segundo Concílio de Constantinopla\""
+      ],
+      "numero_ordem": 5,
+      "ano_inicio": 553,
+      "ano_fim": 553,
+      "local": "Constantinople (present-day Istanbul, Turkey)"
+    },
+    {
+      "id": "concilios:constantinopla-iii",
+      "slug": "constantinopla-iii",
+      "titulo": "Council of Constantinople III",
+      "categoria": "concilios",
+      "resumo": "Sixth ecumenical council (680-681): it condemned Monothelitism and defined that Christ has two wills and two operations, divine and human.",
+      "corpo": "The controversy that motivated the Council of Constantinople III goes back decades before it was convened, to the effort of Emperor Heraclius, in the early seventh century, to reconcile the Chalcedonian Churches with the Miaphysite Churches of Egypt and Syria, which still resented the definition of Chalcedon on the two natures of Christ. Seeking a compromise formula, Patriarch Sergius I of Constantinople proposed that, although Christ did indeed have two natures, he had a single \"energy\" or operation (Monoenergism), and later a single will (Monothelitism) — a middle-ground attempt that Heraclius went so far as to support officially through the edict \"Ecthesis\" (638). The Palestinian monk Maximus the Confessor became the firmest theological opponent of this position, arguing that denying Christ a distinct and active human will compromised the integrity of his real humanity — for which he would be persecuted, mutilated and exiled in the last years of his life because of his resistance.\n\nIt fell to Emperor Constantine IV, decades later, to convene the council that would definitively resolve the question. The assembly met in Constantinople, in the domed hall (trullus) of the imperial palace, from November 7, 680 to September 16, 681, over eighteen sessions — a council relatively modest in the number of participants compared to Chalcedon or Nicaea II, but of great doctrinal weight. Pope Agatho, who did not attend in person, had sent legates equipped with an extensive synodal letter resulting from an earlier Roman synod, which would become the central doctrinal reference of the proceedings; he died in January 681, before the council closed, and was succeeded by Leo II, who was responsible for confirming the conciliar decisions already finalized.\n\nThe council formally condemned Monothelitism and Monoenergism, defining, in direct continuity with Chalcedon, that in Christ there subsist two natural wills and two natural operations, divine and human, \"without division, without change, without separation, without confusion\" — deliberately repeating the same formula of the four negative adverbs of 451, now applied to the will and not only to the nature —, with the human will of Christ in full and free submission to the divine will, never being suppressed or annulled by it.\n\nThe most delicate and historically most debated episode of the council was the nominal condemnation, among the Monothelites, of Pope Honorius I, who had died more than forty years earlier, because of his personal correspondence with Patriarch Sergius of Constantinople, in which Honorius seemed to tacitly accept the formula of a single will in Christ, without perceiving or opposing its heterodox implications. In confirming the decisions of the council, Pope Leo II explicitly attributed the censure to Honorius's pastoral negligence in failing to suppress in time the error that was spreading, and not to a personal and deliberate profession of the Monothelite heresy — a distinction that later theology would consider essential precisely because Honorius's letter had been written in a private context, and not as a solemn \"ex cathedra\" definition.\n\nThe episode of an ecumenical council nominally condemning a pope who had already died became, from then on, an obligatory reference in any discussion of the limits of papal authority and infallibility, taken up with particular intensity in the preparatory debates of the First Vatican Council, in 1870, when theologians both for and against the definition of the dogma of infallibility discussed at length how to reconcile the Honorius case with the doctrine that was about to be proclaimed.",
+      "tags": [
+        "Monothelitism",
+        "Christology",
+        "Pope Honorius I",
+        "7th century",
+        "Constantinople"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/58/45-manasses-chronicle.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 6,
+      "ano_inicio": 680,
+      "ano_fim": 681,
+      "local": "Constantinople (present-day Istanbul, Turkey)",
+      "fontes": [
+        "Denzinger-Hünermann, nos. 550-559",
+        "Catholic Encyclopedia (New Advent), 'Third Council of Constantinople'",
+        "Wikipedia (pt), 'Terceiro Concílio de Constantinopla'",
+        "Maximus the Confessor, writings on the two wills of Christ",
+        "Heraclius, edict \"Ecthesis\" (638)"
+      ]
+    },
+    {
+      "id": "concilios:niceia-ii",
+      "slug": "niceia-ii",
+      "titulo": "Second Council of Nicaea",
+      "categoria": "concilios",
+      "resumo": "Seventh ecumenical council (787): it condemned iconoclasm and defined the legitimacy of the veneration of sacred images, distinct from the adoration due to God alone.",
+      "corpo": "The crisis that led to the Second Council of Nicaea goes back to 726-730, when Emperor Leo III the Isaurian, perhaps influenced by Eastern theological currents hostile to images and by a rigorist reading of the biblical second commandment against idolatry, began a policy of removing and destroying religious icons throughout the Byzantine Empire. His son and successor, Constantine V, radicalized this policy: in 754 he convened a council held at the palace of Hieria, which gathered 338 bishops — all favorable to the imperial position, with no representation whatsoever of the patriarchates of Rome, Alexandria, Antioch or Jerusalem — and which formally prohibited the production and cult of sacred images, condemning them as a form of idolatry. Decades of systematic persecution followed against monks and clerics who resisted the destruction of icons, with imprisonments, exiles, mutilations and, in some cases, executions.\n\nThe turning point came with the death of Emperor Leo IV in 780, and the rise of his widow, Irene, as empress-regent in the name of her minor son Constantine VI. Irene, a venerator of images, carefully orchestrated the return to iconodule orthodoxy, appointing to the patriarchate of Constantinople a layman she trusted, Tarasius, who accepted the office on the condition that a new ecumenical council be convened to formally reverse the decisions of Hieria. A first attempt to gather the council in Constantinople, in 786, failed when soldiers favorable to iconoclasm stormed the church and forcibly dispersed the assembly; the council was only able to meet the following year, transferred to the relative safety of Nicaea, in Bithynia.\n\nThe Second Council of Nicaea met from September 24 to October 23, 787, in seven sessions, with about 350 participants — the majority Eastern bishops, with legates of Pope Adrian I and representatives, although of reduced ecclesiastical standing under Islamic rule, of the Eastern patriarchates. Presided over by Tarasius, the council formally annulled the decisions of the council of Hieria and defined with theological precision the central distinction of the whole controversy: the veneration («proskynesis») due to the icons of Christ, the Virgin, the angels and the saints — similar to the honor paid to the cross, the book of the Gospels and other sacred objects — and the adoration («latria»), reserved exclusively to God. Whoever venerates the image, the council taught, venerates the person represented in it, and not the material of which it is made, be it wood, paint or pigment. The council also promulgated 22 disciplinary canons on clerical and monastic life, including norms against simony in religious ordinations.\n\nThe definition of Nicaea II did not immediately put an end to the iconoclast conflict: the Byzantine Empire would experience a second period of persecution of images between 815 and 843, under new iconoclast emperors, ended only with the so-called «Triumph of Orthodoxy» in 843, when the empress-regent Theodora definitively restored the cult of images — an episode still celebrated annually today by the Byzantine liturgy on the first Sunday of Lent. In the West, the reception of the council was complicated by a defective Latin translation of its decrees, which underlies the work known as the «Libri Carolini», produced at the court of Charlemagne, which criticized (on the basis of a linguistic misunderstanding of the Greek terms) what it interpreted as a demand for the adoration of images; despite this initial controversy, the doctrine of Nicaea II prevailed as the common and definitive teaching of the whole Church on the legitimacy of the veneration of sacred images.",
+      "tags": [
+        "iconoclasm",
+        "veneration of images",
+        "Irene",
+        "Tarasius",
+        "8th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Seventh_ecumenical_council_%28Icon%29.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 7,
+      "ano_inicio": 787,
+      "ano_fim": 787,
+      "local": "Nicaea, Bithynia (present-day İznik, Turkey)",
+      "fontes": [
+        "Denzinger-Hünermann, nos. 600-609",
+        "Catholic Encyclopedia (New Advent), 'Second Council of Nicaea'",
+        "Catechism of the Catholic Church, nos. 2131-2132",
+        "Council of Hieria (754) and its rejection at Nicaea II",
+        "Teologize.com, \"O Segundo Concílio de Niceia (787): A Controvérsia Iconoclasta\""
+      ]
+    },
+    {
+      "id": "concilios:constantinopla-iv",
+      "slug": "constantinopla-iv",
+      "titulo": "Council of Constantinople IV",
+      "resumo": "Eighth ecumenical council according to Rome (869-870): it deposed Photius, restored Ignatius, promulgated 27 canons, and defined the veneration of images; its legitimacy is contested by the East, which recognizes in its place the synod of 879-880.",
+      "corpo": "The crisis that led to the Council of Constantinople IV began in 858, when the Byzantine emperor Michael III forced the deposition of Patriarch Ignatius of Constantinople, replacing him with a learned layman well connected at court, Photius, who was ordained and raised to the patriarchate within a matter of days. Pope Nicholas I, asked about the legitimacy of this abrupt change, sent legates to Constantinople to investigate the case; although the legates initially recognized Photius, Nicholas I reversed this position in 863, declaring the deposition of Ignatius illegitimate and excommunicating Photius. In response, Photius gathered a synod in Constantinople in 867, which went so far as to declare Pope Nicholas I himself excommunicated and to publicly attack Latin liturgical and doctrinal practices, among them the addition of the Filioque to the creed — a direct confrontation between the two sees that many historians consider the first major rehearsal of the future Eastern Schism.\n\nThe situation changed radically in 867, when Emperor Michael III was assassinated and replaced by Basil I the Macedonian, who deposed Photius and restored Ignatius to the patriarchate, seeking reconciliation with Rome. Convoked jointly by Pope Adrian II — the successor of Nicholas I, who had meanwhile died — and by Emperor Basil I, the council met in Constantinople from October 5, 869, to February 28, 870, over the course of ten sessions, held in the cathedral of Saint Sophia (Hagia Sophia) and presided over by the papal legates Donatus, Stephen, and Marinus. It was a council of modest attendance: about twenty to twenty-five bishops were present at the first session and little more than a hundred at the last — a number that modern historians interpret as a sign of the resistance of the Byzantine clergy, still sympathetic to Photius, to joining an assembly of evident political convenience for the new emperor. The historian Evangelos Chrysos even describes the meeting as a \"minority council.\" Adrian II demanded of the bishops a libellus satisfactionis, a written declaration of retraction, as a condition for participating; many abstained precisely for this reason.\n\nThe council formally deposed Photius, annulled all the acts of the synod of 867, and confirmed the restoration of Ignatius to the patriarchate, also reaffirming, in harmony with the Second Council of Nicaea (787), the legitimacy of the veneration of sacred images: canon 3 determined that the image of Christ should receive veneration equal to that given to the book of the Gospels, putting a definitive end to the last manifestations of Byzantine iconoclasm. Among the 27 disciplinary canons promulgated, canon 11 anathematizes the doctrine according to which man would have two souls — one spiritual and immortal, the other earthly and mortal — a teaching attributed, with some historical controversy, to Photius or his circle (Photius himself reportedly used the argument chiefly as a philosophical exercise, without adhering to it). Canon 22, which prohibits interference by lay or secular power in the election and consecration of bishops, would have an enormous later fortune: it was invoked centuries later in the Investiture Controversy, in the conflict between the papacy and imperial power in the West, and cited by Pope Gregory XVI in the letter Commissum divinitus (May 17, 1835) against the Baden articles.\n\nThe peace sealed in 869-870 was short-lived: after the death of Ignatius in 877, Basil I himself, now reconciled with Photius, allowed his return to the patriarchate of Constantinople. Photius then presided, in November 879, over a new synod in the same city — gathered in Saint Sophia and with about 383 bishops at the first session, among them papal legates and representatives of the five patriarchates, including Cardinal-Priest Peter himself, who presided over it in the name of Rome. This synod explicitly revoked the decisions of the council of 869-870, declared its decrees null, and affirmed the integrity of the symbol of faith, condemning any addition to it — precisely the condemnation of the Filioque. Pope John VIII, through his Commonitorium (Mandatum) read at the third session, confirmed the annulment of the previous synod, adding that Adrian II had not subscribed to it. The question of whether the pope in fact approved the whole of the acts of 879-880 — and to what extent — remains a matter of historiographical debate: the scholar Francis Dvornik maintained that subsequent popes accepted it as binding and that only about two centuries later, after the Schism, did Rome begin to count the council of 869-870 as the eighth ecumenical; other Catholic historians, such as Warren Carroll, contest this reading and claim that John VIII rejected the synod. In any case, the rehabilitation of Photius was accepted by Rome.\n\nThis divergence in numbering and in historical reading between the two traditions — each recognizing a different council as the eighth ecumenical — is in itself an eloquent symbol of the long process of estrangement between Rome and Constantinople that would culminate in the Schism of 1054. Today the Catholic Church recognizes the council of 869-870 as \"Constantinople IV,\" while the Eastern Orthodox Churches recognize the synod of 879-880 as the true eighth ecumenical council and venerate Photius as a saint (Saint Photius the Great). The seven earlier councils are, indeed, accepted as ecumenical and authoritative by both traditions; from the eighth onward, the list diverges.",
+      "categoria": "concilios",
+      "tags": [
+        "Photius",
+        "Ignatius of Constantinople",
+        "Basil I",
+        "Eastern Schism",
+        "9th century",
+        "Constantinople",
+        "Filioque",
+        "icons"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Council-of-constantinople-869.png",
+      "imagem_credito": null,
+      "fontes": [
+        "Denzinger-Hünermann, nos. 653-656",
+        "Decrees and canons of the Council, at papalencyclicals.net (ecum08) and Fordham Medieval Sourcebook (const4)",
+        "Catholic Encyclopedia (New Advent), 'Fourth Council of Constantinople'",
+        "Encyclopædia Britannica, entry 'Fourth Council of Constantinople (869-870)'",
+        "Evangelos Chrysos, 'The Council of Constantinople in 869-70: A Minority Council'",
+        "Wikipedia (en), 'Fourth Council of Constantinople (Catholic Church)' and '(Eastern Orthodox)'",
+        "Wikipedia (pt), 'Quarto Concílio de Constantinopla (Católico Romano)'",
+        "OrthodoxWiki, 'Eighth Ecumenical Council'"
+      ],
+      "atualizado_em": null,
+      "numero_ordem": 8,
+      "ano_inicio": 869,
+      "ano_fim": 870,
+      "local": "Constantinople (present-day Istanbul, Turkey)"
+    },
+    {
+      "id": "concilios:latrao-i",
+      "slug": "latrao-i",
+      "titulo": "First Lateran Council",
+      "resumo": "Ninth ecumenical council (1123): it ratified the Concordat of Worms, ending the Investiture Controversy between the papacy and the Holy Roman Empire.",
+      "corpo": "The First Lateran Council arose directly from the resolution of the Investiture Controversy, the long conflict between the papacy and the Holy Roman Empire over who held authority to appoint and invest bishops and abbots — a dispute that had spanned decades, from the confrontation between Gregory VII and Henry IV, culminating in the symbolic episode of the penance at Canossa (1077), and which had been resolved only a few months earlier when Pope Callixtus II convoked the council. The Concordat of Worms, also called the *Pactum Calixtinum*, signed on September 23, 1122 between Callixtus II and Emperor Henry V, son and successor of Henry IV, clearly distinguished two spheres that had until then been confused. By the text of the imperial concession, Henry V renounced \"all investiture by ring and crosier\" and guaranteed that in the churches of his realm there would be \"canonical election and free consecration\"; in return, in the document of Callixtus II, the pope granted the emperor that the elections of the bishops and abbots of the German kingdom would take place in his presence, and that the one elected would receive from him the *regalia* — the temporal goods and rights — \"by the lance,\" without undue demand. Spiritual investiture, symbolized by the ring and the pastoral crosier, became the exclusive prerogative of the Church; the investiture of the fiefs and territorial revenues attached to the office remained the prerogative of the emperor, but only after the ecclesiastical election.\n\nConvoked by Callixtus II in December 1122, immediately after the concordat, the council assembled in the Basilica of Saint John Lateran in Rome. According to the records, the proceedings began on March 18, 1123, with the pope presiding in person, and ended before April 6, probably on March 27 — there were at least two sessions. About three hundred bishops and more than six hundred abbots were present, from all over the Western Church; there is no record of legates of Emperor Henry V or of representatives of the Eastern churches. It is counted as the first ecumenical council held entirely in the Latin West and the first presided over directly by a pope without imperial convocation — a striking structural difference from the first seven ecumenical councils of Antiquity, all convoked by Roman or Byzantine emperors, and a clear sign that the center of ecclesiastical power had definitively shifted to Rome. The very description of the council as \"ecumenical\" is, moreover, a matter of debate: a source from the period describes it simply as a \"general\" or \"Roman\" council, and its ecumenicity appears to have been consolidated above all by the later tradition of the Roman Church.\n\nThe two instruments (*instrumenta*) of the Concordat of Worms were solemnly read at the opening of the proceedings and formally ratified by the council as a definitive agreement, putting a legal and symbolic end to decades of dispute. The council promulgated about 22 disciplinary canons (some manuscript traditions count as many as 25), in large part taking up decrees of earlier reforming synods: it prohibited any ecclesiastical ordination or promotion for money (canon 1, against simony), forbade other bishops to receive those excommunicated by their own bishops, prohibited laymen from seizing churches and the offerings of the altars, and reaffirmed the decisions of previous pontiffs on \"the peace and truce of God, arson, and the public roads.\" Canon 13 decrees that anyone who violates the truce of God, and who, after the bishop's third admonition, does not make reparation, be anathematized; canon 14 protects pilgrims who visit the shrines of the apostles and other oratories, punishing with deprivation of communion those who attack or rob them or demand new tolls from them. Among the particular matters dealt with were the canonization of Conrad of Constance, the granting of the pallium to Archbishop Adalbero of Bremen-Hamburg, and the dispute over primacy between the sees of Canterbury and York; a commission of twenty-four fathers was established to settle the quarrel between Genoa and Pisa over the episcopate of Corsica.\n\nLateran I thus marks the beginning of a new series of general councils held in the Latin West under the direct presidency of the Bishop of Rome — a sequence that would extend, in the numbering of Catholic tradition, over more than eight centuries, down to the Second Vatican Council in the twentieth century, consolidating a conciliar model centered on papal authority that would definitively replace the old imperial pattern of the councils of Christian Antiquity. In the final years of his pontificate, Callixtus II still sought to secure the status of the Church as it had been in the time of Gregory VII, reorganizing the churches around Rome, confirming Bishop Thurstan of York against the will of Henry I of England, and condemning the teachings of Peter of Bruys. He died on December 13, 1124, a little more than a year and a half after the council ended.",
+      "categoria": "concilios",
+      "tags": [
+        "lay investiture",
+        "Concordat of Worms",
+        "Callixtus II",
+        "12th century",
+        "Rome",
+        "Gregory VII",
+        "simony",
+        "Truce of God"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Kaiser_Heinrich_V._besucht_seinen_Vater_im_Gef%C3%A4ngnis.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Documents of the Concordat of Worms (Sept. 23, 1122), texts of Henry V and Callixtus II, in the Avalon Project, Yale Law School",
+        "Denzinger-Hünermann, nos. 705-706",
+        "Catholic Encyclopedia (New Advent), 'First Lateran Council', by Henri Leclercq (1910)",
+        "Norman Tanner (ed.), Decrees of the Ecumenical Councils, vol. I, canons of Lateran I (introduction and canons 1-15)",
+        "Wikipedia (pt), 'Primeiro Concílio de Latrão'",
+        "Encyclopaedia Britannica, 'First Lateran Council' and 'Concordat of Worms'"
+      ],
+      "atualizado_em": null,
+      "numero_ordem": 9,
+      "ano_inicio": 1123,
+      "ano_fim": 1123,
+      "local": "Basilica of Saint John Lateran, Rome"
+    },
+    {
+      "id": "concilios:latrao-ii",
+      "slug": "latrao-ii",
+      "titulo": "Second Lateran Council",
+      "resumo": "Tenth ecumenical council (1139): it ended the schism caused by the antipope Anacletus II and annulled the acts carried out by his partisans.",
+      "corpo": "The schism that preceded the Second Lateran Council broke out in February 1130, when the death of Pope Honorius II, on the night of February 13, was followed by a double and contested papal election. That very night, a minority group of sixteen cardinals, led by the chancellor Aimeric and gathered near the monastery of Sant'Andrea on the Caelian Hill, an area controlled by the Frangipane family, hastily elected and consecrated Gregorio Papareschi, who took the name Innocent II. In response to what they considered a betrayal, the majority of the cardinals met the following day, February 14, in the church of San Marco, and elected Pietro Pierleoni, a member of one of the wealthiest and most powerful families of Rome, the Pierleoni, of Jewish origin converted generations earlier, who had grown rich through lending at interest and had allied themselves with the reforming popes, but remained rivals of the Frangipane. He took the name Anacletus II. Both of those elected were consecrated on the same day, February 23: Anacletus in Saint Peter's Basilica, Innocent in Santa Maria Nuova. Modern historiography has recognized that Anacletus's election had a strong title in fact and in law, since it was supported by the majority of the cardinals and by almost the whole Roman population, although later tradition has fixed him as an antipope.\n\nThe decisive figure in resolving the schism was the Cistercian abbot Bernard of Clairvaux, the most influential theologian and preacher of his time, who personally traveled to courts and synods throughout Europe, eloquently defending the legitimacy of Innocent II, and obtained the successive recognition of the kings of France (at the Synod of Étampes) and England, and of the Emperor Lothair III of the Holy Roman Empire. Anacletus II, isolated internationally but still master of Rome, kept the city divided until his death on January 25, 1138; his short-lived successor, the antipope Victor IV, resigned a few months later, also through the direct influence of Bernard, and the schism came to an end. Innocent II also held a local council in Pisa in 1135 to consolidate his recognition.\n\nConvoked by Pope Innocent II, now fully recognized, the council met in the Basilica of Saint John Lateran, in Rome, in April 1139. The sources differ as to the exact day of the opening (April 2 or 20), and it closed before April 17. It was one of the largest medieval Latin councils in number of those present: at least five hundred prelates, according to some accounts as many as about a thousand, among them the Latin Patriarch of Antioch. Innocent opened the proceedings personally with an address and declared null all the ordinations, consecrations and other acts performed by Anacletus II and his followers throughout the schism, deposing the clerics who had supported them, among them, by name, Giles of Tusculum and Gerard of Angoulême. He also excommunicated King Roger II of Sicily, who had supported the antipope militarily and politically (and was his brother-in-law) and persisted in a schismatic attitude in southern Italy.\n\nThe council promulgated thirty canons (the manuscript tradition is complex and some listings mention 28, with variations in order and text), in large part repeating and reinforcing those of the earlier Lateran council on simony and clerical concubinage, many of which were taken up from earlier councils from the times of Gregory VII, Urban II and Callixtus II. Among its own provisions, it condemned the errors of the Petrobrusians and the Henricians, followers of the preachers Peter of Bruys and Henry, and condemned as a schismatic Arnold of Brescia, a radical reformer and opponent of the temporal power of the pope; canon 23, directed against these heretics, takes up canon 3 of the Council of Toulouse (1119) against the Manichaeans. Canon 30 declares null the ordinations made by the antipope Anacletus II. The council also regulated clerical dress, punished with excommunication anyone who assaulted clerics, set the periods and duration of the Truce of God, and forbade, under penalty of deprivation of Christian burial, jousts and tournaments on horseback among the nobility. According to some sources, the very use of the crossbow against Christians was also condemned by the assembly.\n\nThe pacification sealed at Lateran II was, however, neither immediate nor complete. Roger II of Sicily himself, although excommunicated by the council, invaded papal territory and militarily defeated the papal forces: on July 22, 1139, in an ambush on the banks of the Garigliano, near San Germano, Pope Innocent II was taken prisoner along with several cardinals. Days later, on July 25, 1139, in the so-called Peace of Mignano, the pope found himself obliged to formally invest Roger as *Rex Siciliae, ducatus Apuliae et principatus Capuae*, recognizing his royal title over Sicily, the Duchy of Apulia and the Principality of Capua, and also legitimizing the subinfeudations he had granted to his sons, in light of a supposed investiture by Honorius II. This political turnabout shows how, even after the internal ecclesiastical dispute was resolved, the tensions between papal power and secular power continued to shape decisively the outcomes of twelfth-century Italian politics.",
+      "categoria": "concilios",
+      "tags": [
+        "Anacletus II",
+        "schism",
+        "Innocent II",
+        "12th century",
+        "Rome",
+        "Bernard of Clairvaux",
+        "Roger II of Sicily",
+        "Arnold of Brescia",
+        "usury"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/86/Pope_Innocent_II_%E2%80%93_Santa_Maria_in_Trastevere.jpg",
+      "imagem_credito": "12th-century mosaic in the Basilica of Santa Maria in Trastevere; photograph by Hugo DK (2019), Wikimedia Commons, CC BY-SA 4.0",
+      "fontes": [
+        "Denzinger-Hünermann, no. 718",
+        "Catholic Encyclopedia (New Advent), 'Second Lateran Council (1139)' and 'Anacletus II'",
+        "Norman Tanner (ed.), Decrees of the Ecumenical Councils, vol. I, canons of Lateran II (introduction and canons)",
+        "Wikipedia (pt), 'Segundo Concílio de Latrão' and 'Antipapa Anacleto II'; Wikipedia (it), 'Papa Innocenzo II' and 'Ruggero II di Sicilia'",
+        "Encyclopaedia Britannica, 'Second Lateran Council' and 'Arnold of Brescia'",
+        "Treccani Encyclopedia, entry 'Ruggero II re di Sicilia'"
+      ],
+      "atualizado_em": null,
+      "numero_ordem": 10,
+      "ano_inicio": 1139,
+      "ano_fim": 1139,
+      "local": "Basilica of Saint John Lateran, Rome"
+    },
+    {
+      "id": "concilios:latrao-iii",
+      "slug": "latrao-iii",
+      "titulo": "Third Lateran Council",
+      "resumo": "Eleventh ecumenical council (1179): it set the two-thirds majority of the cardinals for the election of the pope, annulled the ordinations of the three antipopes of the schism of Alexander III, and turned against the Cathars and the Waldensians.",
+      "corpo": "The Third Lateran Council arose from the traumatic experience of a schism of nearly twenty years that had divided the very election of the pope. In 1159, the death of Pope Adrian IV was followed by a contested election: the majority of the cardinals elected Roland of Siena, who took the name Alexander III, but a minority, with the decisive support of Emperor Frederick I Barbarossa, elected Octavian of Rome, who took the name Victor IV. He was the first of three successive antipopes sustained by the emperor throughout the conflict between the papacy and the Holy Roman Empire: after Victor IV (1159-1164) came Paschal III, that is, Guy of Crema (1164-1168), and Callixtus III, John of Struma (1168-1178). The crisis ended only with the Peace of Venice of 1177, in which Frederick Barbarossa finally recognized Alexander III as the legitimate pope — an episode in which the emperor prostrates himself before the pontiff in Saint Mark's Basilica and receives from him the kiss of peace. It was on that occasion that Alexander promised to convene a general council to consolidate the peace and reform ecclesiastical discipline.\n\nConvoked by Alexander III shortly after that agreement, the council met in the Basilica of Saint John Lateran, in Rome, in three sessions — March 5, 14 and 19, 1179 — with 302 bishops present from throughout Latin Christendom, the largest and most representative conciliar assembly of the twelfth century. It promulgated 27 canons. The first and most enduring of them, known by its opening words «Licet de vitanda», established, for the validity of a papal election, the requirement of a two-thirds majority of the cardinals' votes, further determining that any candidate who declared himself pope without achieving that majority — and his supporters — would be excommunicated. The norm was conceived to prevent a repetition of schisms like the one that had just divided the Church, making it mathematically more difficult for a minority of cardinals to elect a rival claimant with a pretension to legitimacy; historians observe that the principle of the two-thirds majority had already been circulating in canonical circles since the 1160s, when Bishop Gilbert Foliot had mentioned it to Alexander III on the basis of Roman law.\n\nOther canons dealt directly with the wounds of the schism and with discipline: the second declared null and invalid the ordinations conferred by the antipopes Octavian (Victor IV), Guy of Crema (Paschal III) and John of Struma (Callixtus III); the third forbade the promotion of anyone to a parish before the age of 25 and to the episcopate before the age of 30; the fifth forbade the ordination of clerics without means of their own support. In matters of heresy, the council condemned the so-called «Cathars» or «Albigensians», a dualist movement of Balkan origin then in full expansion in the south of France, and — in a provision considered innovative — authorized taking up arms against them, in addition to excommunicating the bands of mercenaries that were ravaging parts of Europe; as for the Waldensians, followers of the Lyonnais merchant Valdes, who preached radical poverty, the council preferred, on this occasion, not to issue a definitive judgment on their preaching, although it condemned them by other means. It also strictly regulated simony in ordinations, fought usury, and determined that each cathedral should maintain a master in charge of the free teaching of poor clerics — a provision that the historiography of education associates with the later flourishing of the cathedral schools and the first European universities.\n\nThe norm on the two-thirds vote proved to be one of the most enduring institutional innovations in the entire history of the papacy. With adjustments and refinements introduced by later councils and apostolic constitutions — among them the regulation of the conclave made by the Second Council of Lyon, in 1274 —, the principle of the qualified two-thirds majority remained at the foundation of the electoral law of the papal conclave. The procedure was slightly altered in 1996 and fully restored in 2007, remaining in force in the contemporary Catholic Church.",
+      "categoria": "concilios",
+      "tags": [
+        "papal election",
+        "Cathars",
+        "Waldensians",
+        "Alexander III",
+        "Frederick Barbarossa",
+        "conclave",
+        "12th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Waldo_at_third_lateran_council.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Decrees of the Ecumenical Councils, ed. Norman P. Tanner, vol. I (Lateran III, canons 1-27)",
+        "Denzinger-Hünermann, nos. 748-749",
+        "Catholic Encyclopedia (New Advent), 'Third Lateran Council (1179)'",
+        "Danica Summerlin, The Canons of the Third Lateran Council of 1179: Their Origins and Reception, Cambridge University Press, 2019",
+        "Papal Encyclicals Online, 'Third Lateran Council – 1179 A.D.'",
+        "Wikipedia (pt), 'Terceiro Concílio de Latrão'"
+      ],
+      "atualizado_em": null,
+      "numero_ordem": 11,
+      "ano_inicio": 1179,
+      "ano_fim": 1179,
+      "local": "Basilica of Saint John Lateran, Rome"
+    },
+    {
+      "id": "concilios:latrao-iv",
+      "slug": "latrao-iv",
+      "titulo": "Fourth Lateran Council",
+      "resumo": "Twelfth ecumenical council (1215): it defined Eucharistic transubstantiation, established the precept of annual confession and Easter Communion, and forbade the founding of new religious orders with their own rule.",
+      "corpo": "No other medieval council reflected the personal strength of a single pope as directly as the Fourth Lateran Council reflected the pontificate of Innocent III, one of the most powerful and capable popes of the entire Middle Ages. Convoked by the bull «Vineam Domini Sabaoth» of April 19, 1213 — more than two years before it took place, an exceptionally long interval that allowed careful preparation throughout Christendom —, the council gathered in the Basilica of Saint John Lateran, in Rome, between November 11 and 30, 1215, in three solemn sessions. The opening was preceded by a preliminary juridical session on November 4; on the feast of Saint Martin, the pope began the first plenary session by intoning the «Veni Creator Spiritus» and preached on the words of Christ to the disciples at the Last Supper (Lk 22). It was the largest of the medieval councils — the largest between Chalcedon and Vatican II: about 400 bishops (the sources record 404 or 412, including 71 patriarchs and metropolitans, among them those of Constantinople and Jerusalem, then under Crusader rule), more than 800 abbots and priors representing about eighty ecclesiastical provinces, 23 Latin-language prelates of the East, as well as envoys from nearly all Christian kingdoms, including the kings of England, France, Hungary, Aragon, Cyprus and Jerusalem, and the emperors Frederick II and Otto IV.\n\nDoctrinally, the first canon professed the Church's Trinitarian and Christological faith and defined, with the technical term «transubstantiation» — probably already in theological use for decades, but here officially enshrined for the first time in a conciliar document —, that the bread and wine are changed, by divine power, into the substance of the body and blood of Christ during the Eucharistic consecration, even though their appearances remain unchanged. The same canon affirmed, in a formula that would become classic, that «outside the Church there is absolutely no salvation». The council also formally condemned the Cathar and Waldensian heresies, then expanding in southern France and northern Italy, providing the doctrinal justification that would support the military crusade already under way against the Cathars of Languedoc since 1209.\n\nIn the realm of everyday sacramental discipline, canon 21, known by its opening words «Omnis utriusque sexus» («Every the faithful of either sex»), established for every Christian who had reached the use of reason the obligation to confess at least once a year to his own pastor and to receive Communion at least at Easter, under penalty of exclusion from the Church during life and of Christian burial after death — a norm that deeply and lastingly shaped Catholic sacramental practice, with echoes that persist, in substance, in canon law to this day (cf. Code of Canon Law, can. 989). The council also dealt with an extensive reform of clerical life — the fight against simony, the requirement of a minimum theological formation, norms on the continence and sobriety of the clergy, the prohibition on clerics holding offices that involved the shedding of blood —, with norms on marriage and the degrees of kinship constituting impediments, with the regulation of jurisdictional disputes between dioceses, and with the preparation of a new crusade to the Holy Land, set for June 1, 1217, which would result in the Fifth Crusade.\n\nThe council also adopted canon 13, «De novis religionibus prohibitis», which, in order to avoid the «grave confusion» caused by the multiplicity of orders, forbade the founding of new religious orders with their own original rule, obliging nascent congregations to adopt a rule already approved by the Holy See — a provision that would affect, for example, the Franciscans, then in formation. Recent studies, however, qualify the traditional reading of this canon: works such as that of Elizabeth Freeman (2018) argue that the prohibition was neither as rigid nor as comprehensive as historiography used to assume, which helps explain the rapid multiplication of the mendicant orders in the following decades.\n\nWith regard to Jews and Muslims residing in Christian territories, the council approved a set of canons (67-70) whose content is today recognized, including by the Church herself, as reflecting a medieval anti-Judaism theologically overcome by the contemporary magisterium, above all since the Second Vatican Council and the declaration «Nostra Aetate» (1965). Canon 68, «Ut Iudaei discernantur a christianis in habitu», required Jews and Saracens of both sexes to be distinguished from Christians by their dress, in order to avoid illicit unions «by mistake»; canon 67 restricted usury practiced by Jews; other provisions limited the movement of Jews in public spaces during Holy Week and prevented them from holding public offices over Christians. These canons profoundly marked the legal condition of religious minorities in medieval Europe and only began to be effectively overcome, on the doctrinal level, in the twentieth century.",
+      "categoria": "concilios",
+      "tags": [
+        "transubstantiation",
+        "confession and Easter Communion",
+        "Innocent III",
+        "Eucharist",
+        "mendicant orders",
+        "Jews and Muslims",
+        "13th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Latran_-_panoramio.jpg",
+      "imagem_credito": "Photo: Jean-François Capdet — Wikimedia Commons, CC BY 3.0",
+      "fontes": [
+        "Denzinger-Hünermann, nos. 800-820",
+        "Bull «Vineam Domini Sabaoth» (April 19, 1213)",
+        "Acts and canons of the Fourth Lateran Council, at papalencyclicals.net and history.hanover.edu",
+        "Catholic Encyclopedia (New Advent), entry «Fourth Lateran Council (1215)»",
+        "Elizabeth Freeman, «The Fourth Lateran Council of 1215: The Prohibition against New Religious Orders» (2018)",
+        "Marie-Thérèse Champagne and Irven M. Resnick (eds.), «Jews and Muslims under the Fourth Lateran Council» (2019)",
+        "Code of Canon Law, can. 989",
+        "Wikipedia, «Quarto Concílio de Latrão»"
+      ],
+      "atualizado_em": null,
+      "numero_ordem": 12,
+      "ano_inicio": 1215,
+      "ano_fim": 1215,
+      "local": "Basilica of Saint John Lateran, Rome"
+    },
+    {
+      "id": "concilios:lyon-i",
+      "slug": "lyon-i",
+      "titulo": "First Council of Lyon",
+      "resumo": "Thirteenth ecumenical council (1245): it deposed and excommunicated Emperor Frederick II, amid the conflict between the papacy and the Holy Roman Empire.",
+      "corpo": "The First Council of Lyon was born of a flight: in December 1244, Pope Innocent IV, feeling threatened by the growing military and political pressure of Emperor Frederick II of the Holy Roman Empire on the papal territories in Italy, secretly left Rome and sought refuge in Lyon, arriving in the city on December 2. The choice was not accidental: although situated on the edge of the Kingdom of France, Lyon lay technically outside the direct territory of the Holy Roman Empire and under the relative protection of the French king Louis IX. It was from there, free from immediate imperial pressure, that the pope convoked the general council early in the following year.\n\nThe council opened on June 28, 1245, in the church of Saint-Jean, after the singing of the hymn *Veni Creator Spiritus* and the litanies. Innocent IV then delivered his famous sermon on the \"five wounds of the Church,\" taking as his starting point the verse *Secundum multitudinem dolorum meorum in corde meo, consolationes tuae laetificaverunt animam meam* (Ps 94:19): he enumerated his five sorrows — the misconduct of prelates and faithful; the insolence of the Saracens, who occupied the Holy Land; the Great Schism between East and West; the cruelties of the Tatars in Hungary; and the persecution carried out by Emperor Frederick. He gathered about 250 prelates, among them the Latin patriarchs of Constantinople, Antioch and Aquileia and about 140 bishops. The assembly was, however, predominantly Latin and Western, with a strong majority of bishops from France, Italy and Spain, weak German representation and almost no Eastern representation — at the council itself, the imperial ambassador Thaddeus of Suessa publicly challenged the ecumenicity of the assembly; the only known non-Latin presence was Peter, bishop of Belgorod and vicar of the metropolis of Kiev, who supplied the pope with information about the Mongols.\n\nThe assembly's act of greatest political reach was carefully prepared over several sessions. At the second session, on July 5, the bishop of Calvi and a Spanish archbishop formally presented the accusations against the emperor; a period was then granted for Frederick II, represented by his procurator Thaddeus of Suessa, to appear in person or send a defense. As the emperor did not appear, on July 17, 1245 Innocent IV pronounced the sentence of deposition and excommunication by means of the apostolic letter *Ad Apostolicae Dignitatis Apicem*, grounded on formal accusations: perjury and violation of oaths of peace; contempt for the spiritual authority of the pope, by disregarding the excommunication; invasion of papal territory; persecution of the Church in Sicily; imprisonment and death of bishops who were traveling to Rome; suspicion of heresy for treating the excommunication with contempt; conspiracy with Saracens and other enemies of Christendom; responsibility for the death of Louis I, Duke of Bavaria; and non-payment of the tribute for Sicily, patrimony of Saint Peter. The letter declared the emperor unworthy to rule and released his subjects from obedience. The sentence was signed by one hundred and fifty bishops, and its publication throughout Christendom was entrusted to the Dominican and Franciscan orders, then in full expansion of preaching across Europe. At the same session, King Sancho II of Portugal was also deposed, for being unable to govern the kingdom properly.\n\nThe council also promulgated 38 disciplinary constitutions, partly collected later by Pope Boniface VIII in his Decretals. Among the spiritual and administrative measures, the assembly obliged the Cistercians to pay tithes on new lands, approved the rule of the Order of Grandmont and instituted the octave of the Nativity of Our Lady. The determination that cardinals wear the red hat (the *galero*) as a visible sign of their dignity is traditionally attributed to this council, although it is usually dated to the same year 1245 in an act of Innocent IV himself, and not to a formal conciliar decision; red symbolized the cardinal's readiness to shed his own blood for the Church. The assembly also approved ecclesiastical financial subsidies, above all the constitution *Afflicti corde*, which decreed the collection of a twentieth on every benefice for three years to aid the Holy Land, and the constitution *Arduis mens occupata negotiis*, intended to support the Latin Empire of Constantinople — laying the organizational and financial foundations of the crusade that King Louis IX of France himself would undertake a few years later, in the so-called Seventh Crusade.\n\nThe solemn deposition of Frederick II, despite its symbolic and juridical force within Latin Christendom, did not put an immediate end to the conflict between the papacy and the Holy Roman Empire: the emperor simply ignored the sentence and continued to govern his territories, and the war between papal and imperial forces in Italy dragged on for years, ending in fact only with the death of Frederick II himself in 1250, and the subsequent and gradual extinction of the Hohenstaufen dynasty on the Italian peninsula in the following decades.",
+      "categoria": "concilios",
+      "tags": [
+        "Frederick II",
+        "Innocent IV",
+        "Holy Roman Empire",
+        "13th century",
+        "Lyon",
+        "Seventh Crusade",
+        "cardinals",
+        "Ad Apostolicae Dignitatis Apicem"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Matthew_Paris%2C_First_Council_of_Lyon.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Apostolic letter *Ad Apostolicae Dignitatis Apicem*, by Innocent IV (July 17, 1245), in Denzinger-Hünermann, nn. 835-839",
+        "Catholic Encyclopedia (New Advent), 'First Council of Lyons (1245)', by Georges Goyau (1910)",
+        "Matthew Paris, *Chronica Majora*, II, fol. 187v (miniature of the council, Corpus Christi College, Cambridge, MS 16)",
+        "Wikipedia (pt), 'Primeiro Concílio de Lyon'; Wikipedia (en), 'First Council of Lyon'",
+        "Encyclopaedia Britannica, 'Councils of Lyon'",
+        "Oxford Reference, 'Lyon, First Council of (1245)'"
+      ],
+      "atualizado_em": null,
+      "numero_ordem": 13,
+      "ano_inicio": 1245,
+      "ano_fim": 1245,
+      "local": "Lyon (France)"
+    },
+    {
+      "id": "concilios:lyon-ii",
+      "slug": "lyon-ii",
+      "titulo": "Second Council of Lyon",
+      "categoria": "concilios",
+      "resumo": "Fourteenth ecumenical council (1274): it sealed a short-lived union with the Greek Church and regulated the conclave for the papal election.",
+      "corpo": "The election of Pope Gregory X himself had already been, in itself, a symptom of the crisis he would seek to resolve: his predecessor, Clement IV, died in 1268, and the conclave that followed, gathered in Viterbo, dragged on for almost three years amid disputes between factions of cardinals, without managing to elect a successor — the longest papal vacancy in history, resolved only when the exasperated civil authorities of Viterbo locked the cardinals in a room and reduced their food until they finally arrived at a consensus name, Gregory X himself, who was then absent in the Holy Land as a crusader pilgrim.\n\nMarked by this experience, Gregory X convened the council that would meet in Lyon, opened on May 7, 1274 and closed on July 17 of the same year, over six sessions that were relatively quick by medieval conciliar standards. About five hundred bishops, fifteen cardinals and more than a thousand other ecclesiastical dignitaries took part, in addition to ambassadors of the Byzantine emperor Michael VIII Palaiologos and of several Western kingdoms. Two of the greatest theologians of the century were among those summoned: Saint Bonaventure, minister general of the Franciscans and one of the main organizers of the council's work, died during the sessions themselves, on July 15, 1274; Saint Thomas Aquinas, summoned to take part, died on the way to Lyon, at the Cistercian abbey of Fossanova, on March 7 of that same year, depriving the council of his direct theological contribution.\n\nThe central aim of the assembly was twofold: to launch a new crusade to aid the Holy Land, then under growing pressure from Mamluk forces, and to seal the long-desired union between the Latin and Greek Churches, separated since the Schism of 1054. At the fourth session, on July 6, 1274, the Greek legates professed, in the name of Emperor Michael VIII and of the Byzantine episcopate, a formula of faith that included the procession of the Holy Spirit from the Father and the Son (Filioque) and recognized the primacy of the bishop of Rome, formally sealing the so-called \"Union of Lyon.\" The Byzantine senator George Akropolites, the emperor's representative, took the oath of union in his name — a procedural detail that would prove problematic, since the sovereign's full authorization for such an oath would later be contested.\n\nThe council also regulated, in detail, the process of papal election by means of the constitution \"Ubi periculum,\" a direct response to the traumatic experience of the nearly three-year vacancy that had preceded the election of Gregory X himself: the cardinals gathered in conclave would henceforth be kept in seclusion, isolated from the outside world, with progressive restrictions on food — reduced to bread, water and wine — if the election dragged on beyond certain deadlines, in an attempt to pressure the electors to reach a consensus quickly.\n\nThe Union of Lyon, despite its apparent diplomatic success, proved short-lived: received by Emperor Michael VIII above all as a political maneuver to avert the threat of a Latin crusade against the Byzantine Empire itself, it was never genuinely accepted by the clergy and people of Constantinople, who saw it as a theological capitulation imposed by political necessity. It was formally repudiated by a synod gathered in Constantinople in 1282, shortly after the death of Michael VIII, under his son and successor Andronikos II, who publicly reversed his father's unionist policy.",
+      "tags": [
+        "union with the Greeks",
+        "Filioque",
+        "conclave",
+        "Thomas Aquinas",
+        "13th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Cathedrale_Saint_Jean_Lyon_Interior_Panorama2.jpg",
+      "imagem_credito": "Photo: Wikimedia Commons, CC BY-SA 3.0",
+      "numero_ordem": 14,
+      "ano_inicio": 1274,
+      "ano_fim": 1274,
+      "local": "Lyon (France)",
+      "fontes": [
+        "Denzinger-Hünermann, nos. 850-861",
+        "Catholic Encyclopedia (New Advent), 'Second Council of Lyons'",
+        "Wikipedia (pt), 'Segundo Concílio de Lyon'",
+        "Britannica, \"Council of Lyon, Second (1274)\""
+      ]
+    },
+    {
+      "id": "concilios:vienne",
+      "slug": "vienne",
+      "titulo": "Council of Vienne",
+      "categoria": "concilios",
+      "resumo": "Fifteenth ecumenical council (1311-1312): it decreed the suppression of the Order of the Templars and dealt with Franciscan poverty and the Beguines.",
+      "corpo": "The Council of Vienne arose from one of the most spectacular and controversial political-judicial operations of the Middle Ages: on October 13, 1307, King Philip IV the Fair of France ordered the simultaneous arrest of all the Knights Templar on French territory, on charges of heresy, idolatry, and secret immoral practices — an action coordinated through months of planning, driven as much by religious conviction as by the concrete interest of the French Crown, heavily indebted to the rich and powerful military-religious order. The confessions obtained under systematic torture, and later largely retracted by the Templars themselves once free from physical coercion, gave Philip IV the material he would use to pressure Pope Clement V — a French pope, elected under strong influence from the Crown itself and by then already settled within the orbit of Avignon — to act against the Order on a universal scale.\n\nConvoked by Clement V, the council met at Vienne, in the south of France, from October 16, 1311, to May 6, 1312, with about three hundred bishops and, at certain moments, the presence of the kings Philip IV of France, Edward II of England, and James II of Aragon — a direct royal participation unusual in ecumenical councils, a sign of the political pressure hanging over the proceedings. The ecclesiastical commission charged with examining the evidence gathered against the Templars concluded that the available material was insufficient for a formal canonical condemnation for heresy, leaving Clement V in a delicate legal position in the face of the French king's unyielding demand.\n\nFaced with the impasse, the pope opted for an administrative compromise: without pronouncing a formal sentence of guilt against the Order as an institution, he published the bull «Vox in excelso», delivered to the commission of cardinals on March 22, 1312, and solemnly read at the second session of the council, on April 3 of that year, which suppressed the Order of the Temple by invoking the general good of the Church, and not a juridical condemnation strictu sensu. The vast Templar possessions were, for the most part, transferred by papal decision to the Knights Hospitaller, although the French Crown managed to retain considerable portions as compensation for the expenses of the trial — an outcome that made clear, in the eyes of many contemporaries and of later historiography, who had truly won the confrontation.\n\nBeyond the Templar question, which dominated public attention then and afterward, the council dealt with other relevant matters: the controversy over evangelical poverty among the Franciscans, which divided the Order between the partisans of an absolute and radical poverty and those who accepted more moderate forms of communal possession; the condemnation of certain positions considered heterodox among the Beguines and Beghards — lay movements of semi-religious spiritual life, above all female, active in the Low Countries and the Rhineland; and the determination, of great intellectual reach, to create chairs of Greek, Hebrew, and Arabic in universities such as Paris, Oxford, Bologna, and Salamanca, intended for the study of the original biblical languages and for the formation of missionaries capable of dialoguing with Jews and Muslims.\n\nThe constitutions of the council, in part lost or never formally promulgated by Clement V, who died in April 1314 before completing their final edition, were gathered and published years later by his second successor, Pope John XXII, in 1317, under the title «Constitutiones Clementinae» — a collection that became a permanent part of the body of medieval canon law.",
+      "tags": [
+        "Templars",
+        "Clement V",
+        "Franciscans",
+        "14th century",
+        "Vienne"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/de/Military_and_religious_life_in_the_Middle_Ages_and_at_the_period_of_the_Renaissance_%281870%29_%2814781914891%29.jpg",
+      "imagem_credito": "Photo: Internet Archive Book Images — Wikimedia Commons, No restrictions",
+      "numero_ordem": 15,
+      "ano_inicio": 1311,
+      "ano_fim": 1312,
+      "local": "Vienne (France)",
+      "fontes": [
+        "Denzinger-Hünermann, nos. 891-908",
+        "Catholic Encyclopedia (New Advent), 'Council of Vienne'",
+        "Wikipedia (pt), 'Concílio de Vienne'",
+        "Clement V, bull «Vox in excelso» (1312)",
+        "Rota dos Templários, \"Abolition of the Order of the Temple by Clement V\""
+      ]
+    },
+    {
+      "id": "concilios:constanca",
+      "slug": "constanca",
+      "titulo": "Council of Constance",
+      "resumo": "Sixteenth ecumenical council (1414-1418): it ended the Great Western Schism by electing Martin V and condemned the Bohemian reformer Jan Hus as a heretic, besides leaving the conciliarist decrees «Haec Sancta» and «Frequens».",
+      "corpo": "Gathered in the imperial city of Constance, in present-day Germany, between November 5, 1414 and April 22, 1418, under the direct patronage of King Sigismund of Luxembourg — then King of the Romans and future emperor of the Holy Roman Empire —, the council was convoked with the primary aim of ending the Great Western Schism, which since 1378 had divided Latin Christendom among rival papal obediences. At the time of its opening, three men simultaneously claimed the papacy: Gregory XII, of the Roman line, who was the legitimate pope; Benedict XIII, of the Avignon line; and John XXIII, heir of the line elected by the failed Council of Pisa (1409). Gathered with the intention of healing the schism, the Council of Pisa had ended up aggravating it, for, by deposing the two existing pontiffs, who refused to cooperate, it elected a third, Alexander V; Christendom then had three simultaneous popes, and Pisa was never recognized as a valid council by canonists or theologians.\n\nOver its forty-five general sessions, with some 600 participants present, the council obtained the voluntary resignation of Gregory XII — who, before resigning, by means of two bulls of March 13, 1415 («Terrenas Affectiones» and «Cum ad laudem»), conferred on his legate Carlo Malatesta the power to formally convoke the council in order to preserve the juridical continuity of the Roman succession; this convocation and the effective resignation took place on July 4, 1415, the date from which the council came to be regarded as ecumenical —, deposed John XXIII, who had been captured after a failed attempt to flee in disguise — he was even imprisoned and later freed by Martin V —, and, not managing to obtain the resignation of Benedict XIII, isolated in his castle of Peñíscola and who would die in 1423 still proclaiming himself the legitimate pope, simply disregarded his authority. Free of the three claimants, the council gathered in conclave and, on November 11, 1417 — in the only papal election held outside the Italian peninsula since the end of the Avignon exile —, elected the Roman cardinal Oddone Colonna, who took the name Martin V, restoring a single papacy recognized throughout western Europe. About two thirds of the sessions (those numbered 14 to 45) were later ratified by the pope, while the first thirteen — held before the convocation by Gregory XII — were declared null by him.\n\nAlongside the resolution of the schism, the council tried the Bohemian theologian Jan Hus, rector of the University of Prague, whose ideas — influenced by the Englishman John Wycliffe — criticized the wealth and corruption of the clergy and upheld the supreme authority of Scripture over ecclesiastical tradition. Summoned under a safe-conduct from Sigismund himself, Hus traveled voluntarily to Constance in October 1414, but was arrested a few weeks after his arrival, under pressure from the local clergy, who considered the safe-conduct invalid in matters of heresy. Tried and condemned, he refused to recant and was handed over to the secular arm, being burned alive on July 6, 1415. The council also condemned, posthumously, the writings of John Wycliffe, who had died decades earlier, ordering the exhumation and public burning of his remains — an order carried out only in 1428. The execution of Hus, seen in Bohemia as a betrayal of the royal word, set off the bloody Hussite Wars (1419-1434), which began with the First Defenestration of Prague and would end only with the defeat of the radical Taborites at the battle of Lipany, anticipating by more than a century central themes that the Protestant Reformation would take up again with Luther.\n\nFrom the standpoint of Catholic ecclesiology, Constance also left an ambiguous and lasting theological legacy. Its decree «Haec Sancta» (Session V, April 6, 1415) — approved in the vacuum left by the flight of John XXIII — affirms that the council, «legitimately assembled in the Holy Spirit», receives its power directly from Christ and that everyone, «including the pope», owes it obedience in matters of faith, the eradication of the schism, and the reform of the Church «in head and members»; and the decree «Frequens» (October 9, 1417) ordered the periodic convocation of future councils — one within five years, another after seven and, thereafter, every ten. These texts fed for decades the conciliarist movement, the thesis that an ecumenical council would have authority superior to that of the pope himself even in matters of faith, whose most radical expression would appear in the Council of Basel (1431-1449). The Catholic reception of «Haec Sancta» remains controversial: part of the historiography and theology maintains that it was not duly approved by Martin V — who ratified the council by the bull «Inter cunctas» (February 22, 1418) with the restrictive formula «in favorem fidei et salutem animarum», without explicitly repudiating the decree — and that, for this reason, it would not form part of the council's magisterium; in the sixteenth century, the Fifth Lateran Council would seek explicitly to overcome this doctrine. Constance was also the first ecumenical council held in territory of the Holy Roman Empire, and in it Spain appears for the first time designated as a nation (Natio Hispanica).",
+      "categoria": "concilios",
+      "tags": [
+        "Great Western Schism",
+        "Jan Hus",
+        "Martin V",
+        "conciliarism",
+        "15th century",
+        "Haec Sancta",
+        "Frequens",
+        "Hussite Wars"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Vaclav_Brozik_-_Hus.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Denzinger-Hünermann, nos. 1200-1254",
+        "Conciliorum Oecumenicorum Decreta, decree «Haec Sancta», Session V (April 6, 1415), Bologna, 1991, pp. 409-410",
+        "Catholic Encyclopedia (New Advent), 'Council of Constance'",
+        "Encyclopaedia Britannica, 'Council of Pisa' and 'Western Schism'",
+        "Wikipedia (en), 'Council of Constance'",
+        "«The Council of Constance 1414-18», texts of the sessions (Tanner), at laikos.org / papalencyclicals.net"
+      ],
+      "atualizado_em": null,
+      "numero_ordem": 16,
+      "ano_inicio": 1414,
+      "ano_fim": 1418,
+      "local": "Constance (Konstanz, present-day Germany)"
+    },
+    {
+      "id": "concilios:basileia-ferrara-florenca",
+      "slug": "basileia-ferrara-florenca",
+      "titulo": "Council of Basel-Ferrara-Florence",
+      "categoria": "concilios",
+      "resumo": "Seventeenth ecumenical council (1431-1445): it sought, with ephemeral success, union between the Latin Church and the Eastern Churches, among them the Greek and Armenian Churches.",
+      "corpo": "Convoked by Martin V shortly before his death, and effectively opened under his successor Eugene IV on July 25, 1431, in the Swiss city of Basel, the council arose directly from the commitment made by the decree «Frequens» of the Council of Constance, which had established the periodic convocation of general councils. From the beginning, however, the assembly of Basel entered into open and prolonged conflict with Pope Eugene IV: the majority of the conciliar fathers gathered there maintained, in line with the conciliarism that Constance had left as an ambiguous legacy, the superiority of the authority of the council over that of the pope himself, even in matters of faith and government of the Church. When Eugene IV tried to dissolve the council in 1431, the majority of the conciliar fathers refused to obey, and the conflict would drag on for years, culminating in the formal deposition of Eugene IV by the radicals of Basel and in the election of an antipope, Amadeus VIII, Duke of Savoy, who took the name Felix V (1439-1449), prolonging in Basel a dissident council that would become increasingly irrelevant and isolated.\n\nThe part of the council that remained faithful to Eugene IV and that the Catholic Church recognizes as legitimate was transferred by papal decision to Ferrara in 1438, and then to Florence in 1439, partly because of a plague epidemic that threatened Ferrara, and partly because the wealthy city of Florence was willing to finance the conciliar work generously; between 1442 and 1445, the last sessions took place in Rome, at the Lateran.\n\nThe central and most ambitious goal of the Ferrara-Florence phase was union with the Eastern Christian Churches, separated from Rome for centuries. Seeking this reconciliation with renewed urgency in the face of the growing threat of the Ottoman Turkish advance on what remained of the Byzantine Empire, Emperor John VIII Palaiologos traveled personally to Italy, accompanied by Patriarch Joseph II of Constantinople, who would die during the conciliar proceedings, and by a delegation of Greek theologians and bishops. After months of intense theological debates on the Filioque, purgatory and the papal primacy, the decree «Laetentur Caeli» was finally signed on July 6, 1439, solemnly sealing the union with the Greeks: the Byzantine representatives accepted the procession of the Holy Spirit from the Father and the Son and recognized the primacy of the Bishop of Rome; only the theologian and bishop Mark of Ephesus (Mark Eugenikos) flatly refused to sign the agreement, later becoming, in the Orthodox tradition, a symbol of resistance to the imposed union.\n\nIn the following years, similar unions, though of varying scope and duration, were concluded with other Eastern Christian communities: with the Armenians in November 1439, despite the later deposition of the Armenian catholicos who had supported the agreement; and with the Egyptian Copts and the Ethiopians in 1442, broadening the ecumenical scope of the council to communities that went back to the very Christian antiquity of Egypt and Ethiopia.\n\nDespite the immediate diplomatic success, the union with the Greeks was never genuinely accepted by the clergy and people of Constantinople, who saw it as a theological concession imposed by political necessity in the face of the Ottoman threat, and it came definitively undone in practice after the fall of Constantinople itself to the Turks in 1453 — a political collapse that, in the eyes of many Byzantines, seemed to confirm that the religious union had not brought the Western military aid that had been expected of it. The council also produced, at the session in Florence, the important decree «Cantate Domino» (1442), which set out in a systematic way the Catholic doctrine on the seven sacraments and on the necessity of the Church for salvation.",
+      "tags": [
+        "union with the Greeks",
+        "Eugene IV",
+        "conciliarism",
+        "Filioque",
+        "15th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Nuremberg_chronicles_f_244v_2_Concilium_florentinum.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 17,
+      "ano_inicio": 1431,
+      "ano_fim": 1445,
+      "local": "Basel, Ferrara, Florence and Rome",
+      "fontes": [
+        "Denzinger-Hünermann, nos. 1300-1327",
+        "Catholic Encyclopedia (New Advent), 'Councils of Basel, Ferrara, Florence'",
+        "Wikipedia (pt), 'Concílio de Basileia-Ferrara-Florença'",
+        "e-cristianismo, \"O Concílio de Ferrara-Florença (1438-1445)\""
+      ]
+    },
+    {
+      "id": "concilios:latrao-v",
+      "slug": "latrao-v",
+      "titulo": "Fifth Lateran Council",
+      "resumo": "Eighteenth ecumenical council (1512-1517), the last before the Protestant Reformation: it responded to the schismatic synod of Pisa, defined the immortality of the soul, and approved the Concordat of Bologna.",
+      "corpo": "The convocation of the Fifth Lateran Council was a response to a bold political and ecclesiastical maneuver. In 1511, King Louis XII of France, in military and diplomatic conflict with Pope Julius II — who had struck him with the interdict after his abandonment of the League of Cambrai —, sponsored, together with a small group of dissident cardinals, the convocation of a council at Pisa, which sought to revive the conciliarist thesis of Constance in order to judge and possibly depose the pope himself. The synod, opened at Pisa in November 1511 with only four cardinals — Bernardino López de Carvajal, Federico Sanseverino, Guillaume Briçonnet, and René de Prie — and about eighteen bishops and abbots, mostly French, was successively transferred to Milan, Asti, and Lyon, and dissolved in June 1512 without any practical result. Julius II reacted by excommunicating the rebel cardinals and convoking his own council, opened in the Basilica of Saint John Lateran, in Rome, on May 3, 1512, with the explicit aim of stripping the rival assembly of legitimacy and reaffirming papal authority over any council; Louis XII himself would eventually recognize the Lateran council and declare the conciliabulum of Pisa schismatic.\n\nAfter the death of Julius II in February 1513, the proceedings continued under his successor, Pope Leo X, over the course of twelve sessions, until the solemn closing on March 16, 1517 — only a few months before Martin Luther made his 95 Theses public in Wittenberg, in October of that same year, a chronological coincidence that later historiography would not fail to note.\n\nThe council formally annulled all the decrees of the dissident synod of Pisa and clearly reaffirmed the jurisdictional superiority of the pope over any general council, seeking to put a definitive end to the theological ambiguity that the conciliarist decrees of Constance had left open almost a century earlier. In the eighth session, on December 19, 1513, by the bull «Apostolici Regiminis», the council defined as a dogma of faith the personal immortality of each human soul and its individual and direct creation by God, condemning three propositions as heretical: that the soul is mortal; that all human beings share a single common soul; and the so-called doctrine of the «double truth», according to which a proposition could be true in terms of rational philosophy even while disagreeing with revealed truth. The measure targeted currents of Averroist inspiration then widespread in certain Italian university circles. The philosopher Pietro Pomponazzi, who discussed the mortality of the soul from a purely philosophical perspective, would only publish his treatise «De immortalitate animae» in 1516, three years after the bull, and, although never condemned for heresy — having been protected by the Venetian cardinal Pietro Bembo —, he was accused of heterodoxy and forced by Leo X, in 1518, to retract.\n\nThe council also dealt with questions of a practical and disciplinary nature. In 1516 it approved the Concordat of Bologna, negotiated with the new king of France, Francis I, which regulated relations between the Holy See and the French Crown and replaced the old «Pragmatic Sanction of Bourges», giving the French monarchy considerable control over ecclesiastical appointments in its territory. It established the requirement of prior ecclesiastical license («imprimatur») for the publication of any book dealing with faith or theology, anticipating by decades the system of censorship that the Counter-Reformation would generalize, and produced reform decrees on the formation of the clergy and the discipline of preaching, without, however, attaining the depth and scope that the growing crisis of the Church demanded.\n\nThe insufficiency of the reform measures approved at Lateran V is pointed out almost unanimously by historians as one of the factors that left the Church unprepared for the shock of the Protestant Reformation, which would erupt with full force only a few months after the council's close. The broader and deeper disciplinary reform, already demanded for decades by many participants in the Lateran council itself, would come only decades later, and under much more acute pressure, with the Council of Trent (1545-1563).",
+      "categoria": "concilios",
+      "tags": [
+        "Julius II",
+        "Leo X",
+        "conciliarism",
+        "reform of the Church",
+        "immortality of the soul",
+        "Concordat of Bologna",
+        "16th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/43/Lateran-council-5.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Denzinger-Hünermann, nn. 1440-1445",
+        "Bull «Apostolici Regiminis», Leo X, Session VIII of the Fifth Lateran Council (December 19, 1513)",
+        "Catholic Encyclopedia (New Advent), 'Lateran Council V' and 'Pietro Pomponazzi'",
+        "Stanford Encyclopedia of Philosophy, 'Pietro Pomponazzi'",
+        "Wikipedia (pt), 'Quinto Concílio de Latrão' and 'Concordata de Bolonha'",
+        "Wikipedia (it), 'Concilio di Pisa (1511)'"
+      ],
+      "atualizado_em": null,
+      "numero_ordem": 18,
+      "ano_inicio": 1512,
+      "ano_fim": 1517,
+      "local": "Basilica of Saint John Lateran, Rome"
+    },
+    {
+      "id": "concilios:vaticano-i",
+      "slug": "vaticano-i",
+      "titulo": "First Vatican Council",
+      "categoria": "concilios",
+      "resumo": "Twentieth ecumenical council (1869-1870): defined the dogma of papal infallibility in the constitution «Pastor Aeternus» and was suspended by the occupation of Rome.",
+      "corpo": "Convoked by Pope Pius IX through the bull «Aeterni Patris» of June 29, 1868, the First Vatican Council opened solemnly in Saint Peter's Basilica, in the Vatican, on December 8, 1869, gathering between seven hundred and more than seven hundred and fifty council fathers over the course of four public sessions and about ninety general working congregations. It was the first ecumenical council since Trent, three centuries earlier, and the first to be held with the participation of bishops from every continent, a direct reflection of the Catholic missionary expansion of the nineteenth century. It took place at a time of strong tensions between the Church and the modern world: the advance of philosophical rationalism, political liberalism, and the unifying nationalism of Italy and Germany, together with the growing secularization of European societies, called into question, in the eyes of Pius IX and of a large part of the episcopate, the very foundations of traditional religious authority — a concern already expressed in 1864 in the encyclical «Quanta Cura» and in its appended «Syllabus of Errors», which condemned eighty propositions of contemporary liberal and rationalist thought.\n\nOn April 24, 1870, the council fathers unanimously approved the dogmatic constitution «Dei Filius», on the Catholic faith, which affirmed the possibility of knowing the existence of God by natural reason and the impossibility of any true contradiction between faith and reason, both coming from the same divine source. The document of greatest historical impact came on July 18, 1870: the dogmatic constitution «Pastor Aeternus», on the Church of Christ, which defined the primacy of universal jurisdiction of the Bishop of Rome over the whole Church and, in its final chapter, the dogma of papal infallibility — the pope, when he speaks «ex cathedra», that is, when exercising his office as shepherd and teacher of all Christians in order to define solemnly a doctrine of faith or morals to be held by the whole Church, enjoys, through special divine assistance, the same infallibility with which the Church is endowed in her definitions. The definition was approved by 533 votes in favor and only two against; a larger group of bishops who disagreed with the timeliness or the formulation of the doctrine — about 55, according to estimates — preferred to leave Rome before the final vote rather than vote publicly against the wishes of the pope.\n\nThe vote on «Pastor Aeternus» coincided almost to the day with one of the most dramatic events in European politics of the century: the day after its promulgation, on July 19, 1870, the Franco-Prussian War broke out, which forced the withdrawal of the French garrison that had protected Rome for years. Without this military protection, the city became vulnerable to the advance of the troops of the Kingdom of Italy, who would occupy it on September 20 of that same year, completing Italian unification at the expense of the last remnants of the Papal States. Faced with the impossibility of guaranteeing the freedom and security of the council's work in a Rome now under Italian sovereignty, Pius IX suspended the council indefinitely on October 20, 1870.\n\nThe council was never formally reopened nor closed by a conciliar act of its own, remaining, from the juridical-canonical point of view, merely suspended — a situation without parallel in the history of the twenty-one ecumenical councils recognized by the Catholic Church. Its original agenda also foresaw a complete schema on the nature of the Church as a whole, including the relationship between the pope and the bishops, which remained pending for almost a century, revisited only with the convocation of the Second Vatican Council in 1962, whose constitution «Lumen Gentium» is seen by many theologians as the necessary complement that balances Vatican I's emphasis on papal primacy with a broader ecclesiology of episcopal collegiality.",
+      "tags": [
+        "papal infallibility",
+        "Pius IX",
+        "Pastor Aeternus",
+        "Dei Filius",
+        "19th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Vatican-assemblee-1870-119120_2.jpg",
+      "imagem_credito": null,
+      "numero_ordem": 20,
+      "ano_inicio": 1869,
+      "ano_fim": 1870,
+      "local": "Saint Peter's Basilica, Vatican City",
+      "fontes": [
+        "Denzinger-Hünermann, nos. 3000-3075",
+        "Dogmatic Constitution «Pastor Aeternus» (July 18, 1870)",
+        "Catholic Encyclopedia (New Advent), 'Vatican Council'",
+        "Pius IX, «Quanta Cura» and «Syllabus of Errors» (1864)",
+        "SNPC, \"Vatican I: 150 years of the council that decreed papal infallibility\""
+      ]
+    },
+    {
+      "id": "concilios:calcedonia-definicao-de-fe",
+      "slug": "calcedonia-definicao-de-fe",
+      "titulo": "Definition of Chalcedon",
+      "categoria": "concilios",
+      "resumo": "Christological formula promulgated by the Council of Chalcedon (451): in Christ, one single person subsists in two natures, divine and human, united without confusion, change, division, or separation.",
+      "corpo": "The \"Definition of Chalcedon\" was not born of an abstract debate, but of the concrete need to resolve, in stable doctrinal language, more than a century of Christological disputes that had already divided the Church in at least two earlier great crises — the Nestorian controversy, resolved at Ephesus (431), and the Eutychian controversy, which had corrupted the so-called \"Robber Council\" of 449 before it was finally confronted at Chalcedon in 451. Gathered under the Emperor Marcian, the bishops present there had before them two theological traditions — that of Alexandria, more inclined to emphasize the unity of the person of Christ, and that of Antioch, more attentive to the real distinction of his two natures — which, carried to opposite extremes, had produced the heresies that the council needed to overcome without discarding what each tradition contained of truth.\n\nRelying decisively on the \"Tome of Leo,\" the doctrinal letter that Pope Leo the Great had sent to Bishop Flavian of Constantinople as early as 449 — and whose reading had been prevented at the \"Robber Council\" by the authoritarianism of Dioscorus of Alexandria — the bishops of Chalcedon produced a text of remarkable precision, still studied today as a model of balanced dogmatic definition. The formula professes Jesus Christ as \"truly God and truly man,\" consubstantial with the Father according to the divinity and consubstantial with us according to the humanity in all things except sin, acknowledged \"in two natures, without confusion, without change, without division, without separation\" — the four negative adverbs that would become the classic reference for all later Christology, both Eastern and Western, precisely because they do not claim to explain the mystery of the hypostatic union positively, but only to mark out the limits within which any legitimate theological explanation must remain.\n\nThe formula sought to balance two mirror-image and opposite errors: on one side, Nestorianism, which separated the two natures of Christ so excessively as to suggest, in practice, two distinct persons coexisting in a single figure; on the other, Eutychian Monophysitism, which saw the human nature absorbed, dissolved, or confused by the divine nature after the Incarnation, like a drop of vinegar dissolved in the ocean. Against both extremes, Chalcedon affirmed that the unity of Christ is found at the level of the person (the \"hypostasis\"), and not at the level of nature, which remains twofold and whole, each preserving its own properties without mixing with the other.\n\nAlthough accepted as a norm of definitive faith by Rome and by most of the Greek-speaking Churches of the East, the definition was rejected by important Christian communities of non-Greek tradition — most of the Coptic episcopate in Egypt, a good part of the Syrian and Armenian clergy, and later Ethiopia — who considered it dangerously close to the already condemned Nestorianism, preferring the Miaphysite formula, of Cyrilline origin, of \"one nature of the incarnate Word.\" This refusal gave rise to the schism that still today distinguishes the so-called Oriental Orthodox Churches (Coptic, Syriac Orthodox, Armenian, Ethiopian, and Eritrean) both from Rome and from the Byzantine Orthodox Churches of Greek and Slavic tradition — a division that proved, after decades of ecumenical theological dialogue, to be more terminological and historical than properly doctrinal in its substance, as common Christological declarations signed in recent decades between the Catholic Church and several of these Eastern Churches acknowledge.",
+      "tags": [
+        "Christology",
+        "hypostasis",
+        "Monophysitism",
+        "5th century"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "numero_ordem": null,
+      "ano_inicio": 451,
+      "ano_fim": 451,
+      "local": "Chalcedon, Bithynia (present-day Kadıköy, Turkey)",
+      "fontes": [
+        "Definition of Chalcedon (451)",
+        "Denzinger-Hünermann, nos. 300-303",
+        "Catechism of the Catholic Church, no. 467",
+        "Leo the Great, \"Tome of Leo\" (Letter to Flavian, 449)"
+      ]
+    },
+    {
+      "id": "concilios:constantinopla-iii-monotelismo",
+      "slug": "constantinopla-iii-monotelismo",
+      "titulo": "Constantinople III and the Condemnation of Monothelitism",
+      "resumo": "Sixth ecumenical council (680-681): it defined that Christ possesses two natural wills and two natural operations, divine and human, condemning Monoenergism and Monothelitism and, by name, Pope Honorius I for having tolerated them.",
+      "corpo": "The root of Monothelitism goes back to the beginning of the seventh century, when the Emperor Heraclius, seeking to reconcile the Chalcedonian Churches with the Miaphysite communities of Egypt and Syria — territories he had just reconquered from the Persians and would soon lose to the Arabs —, supported a compromise formula proposed by Patriarch Sergius I of Constantinople: first Monoenergism, according to which Christ would have a single «energy» or operation; then, when that formula proved theologically untenable, Monothelitism proper, according to which Christ, although possessing two natures as Chalcedon had defined, would have a single will, the divine one. Heraclius consolidated this compromise position in the decree «Ecthesis» (638), and his successor Constans II tried to impose silence on the question with the edict «Typos» (648-649), which in practice suppressed the orthodox doctrine.\n\nThe firmest and most influential theological opponent of this position was the Palestinian monk Maximus the Confessor, who argued with great philosophical rigor that denying Christ a distinct and active human will compromised the real integrity of his humanity — for a human nature without a will of its own would not be a complete human nature, but only a passive instrument of the divine will. For his stubborn resistance, Maximus was tried, had his tongue cut out and his right hand amputated by imperial order, to prevent him from preaching or writing against the official doctrine, and he died in exile in the Caucasus region in 662, decades before seeing his position triumph.\n\nThe preparation for the council was careful. After the Emperor Constantine IV overcame the Muslim siege of Constantinople in 678, he wrote to Pope Donus proposing a conference on the question; Donus had already died, and his successor, Agatho, welcomed the proposal, ordering consultations throughout the West — there was a synod in Milan, under Archbishop Mansuetus, another in Hatfield (680), presided over by Theodore, Archbishop of Canterbury, and a synod in Rome at Easter of 680, with 125 Italian bishops, which composed a profession of faith condemning Monothelitism, carried to Constantinople by the papal legates in early September 680.\n\nOn September 10, 680, the emperor published an edict ordering the convocation of the council. It opened on November 7, in the domed hall of the imperial palace called the «Trullo» — from which the council's alternative name, «Trullan», derives — and held 18 sessions, presided over by the emperor in the first eleven. At the opening session there were only 37 bishops and a few presbyters; the number grew to about 300 over the course of the proceedings, but the final acts bear 174 signatures. The Patriarchs of Constantinople and Antioch took part in person; Alexandria and Jerusalem, without patriarchs because of the Muslim conquest, were represented by prelates appointed by Byzantium. Read in the second session, Agatho's long dogmatic letter and the document of the Roman synod insisted on the faith of the Apostolic See as the living and unblemished tradition of the Apostles, guaranteed by the promises of Christ. On March 7, 681, in the eighth session, the council adopted the teaching of Agatho; Macarius of Antioch was almost the only one to refuse assent and was eventually deposed in the twelfth session, together with his supporters.\n\nRelying above all on the argumentation that Maximus had developed decades earlier — whose name, however, the council avoided mentioning, since he was still viewed with suspicion —, the council defined, in the seventeenth session, that two natural wills and two natural operations, divine and human, belong to Christ, «without division, without change, without separation, without confusion», and that Christ's human will, although in full subjection to the divine, was neither suppressed nor absorbed. The definition was promulgated in the eighteenth and final session, on September 16, 681, and the acts, signed by 174 fathers and by the emperor himself, were sent to Pope Leo II — who had succeeded Agatho, dead before receiving the acts — for confirmation.\n\nThe episode is also remembered for an uncomfortable page of papal history: the council included by name, among those anathematized, Pope Honorius I himself, dead about half a century earlier, for his correspondence with Sergius of Constantinople (c. 634), in which he seemed to tacitly accept the formula of a single will in Christ. The condemnation was ratified by Leo II when he confirmed the conciliar acts, but Leo II himself attributed the censure to Honorius's pastoral negligence — who, according to his formula, «did not extinguish, as befitted the apostolic dignity, the flame of the heretical dogma that was beginning, but fed it by neglecting it» —, and not to a personal and deliberate profession of heresy. The case, one of the few in which an ecumenical council censured a successor of Peter posthumously, is studied with particular care by the theology of the limits of papal infallibility, since Honorius had spoken in a private letter, and not «ex cathedra» — a distinction that would become central in the preparatory debates of the First Vatican Council itself, in 1870.",
+      "categoria": "concilios",
+      "tags": [
+        "Monothelitism",
+        "Christology",
+        "Maximus the Confessor",
+        "Honorius I",
+        "two wills of Christ",
+        "seventh century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/58/45-manasses-chronicle.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Acts of the Third Council of Constantinople (680-681), in New Advent (Fathers of the Church)",
+        "Catholic Encyclopedia (New Advent), entry «Third Council of Constantinople»",
+        "Denzinger-Hünermann, nos. 550-559",
+        "Heraclius, decree «Ecthesis» (638); Constans II, edict «Typos» (648-649)",
+        "Dogmatic letter of Pope Agatho and the Roman Synod of 680",
+        "Confirmation letter of Pope Leo II (682)",
+        "Wikipedia, «Third Council of Constantinople»",
+        "Cathopedia/New World Encyclopedia, entries on the Sixth Ecumenical Council"
+      ],
+      "atualizado_em": null,
+      "numero_ordem": null,
+      "ano_inicio": 680,
+      "ano_fim": 681,
+      "local": "Constantinople (present-day Istanbul, Turkey)"
+    },
+    {
+      "id": "concilios:niceia-ii-veneracao-imagens",
+      "slug": "niceia-ii-veneracao-imagens",
+      "titulo": "Nicaea II and the Veneration of Sacred Images",
+      "categoria": "concilios",
+      "resumo": "The Second Council of Nicaea (787) brought to an end the first phase of the Byzantine iconoclast controversy, defining that sacred images may be venerated, but not adored, since adoration is due to God alone.",
+      "corpo": "The iconoclast controversy that Nicaea II would bring to an end in its first phase began around 726-730, when the Emperor Leo III the Isaurian, possibly influenced by theological currents of the Near East hostile to any representation of the divine, and relying on a rigorist reading of the biblical commandment against idolatry, began an official policy of removing and destroying religious icons throughout the Byzantine Empire. His son Constantine V radicalized this policy in a systematic way, convening in 754 a council gathered in the palace of Hieria — without any representation of the patriarchates of Rome, Alexandria, Antioch or Jerusalem — which formally condemned the production and cult of sacred images as a form of idolatry, unleashing decades of persecution against monks and clerics who resisted the systematic destruction of icons in churches and monasteries.\n\nThe turning point came with the death of the Emperor Leo IV in 780, and the rise of his widow, Irene, as empress-regent in the name of her minor son. Irene, a venerator of images, carefully orchestrated the return to iconodule orthodoxy, appointing to the patriarchate of Constantinople a layman she trusted, Tarasius, who accepted the office on the condition that a new ecumenical council be convened. Finally assembled at Nicaea in 787, after a first failed attempt in Constantinople the previous year, the council had about 350 participants, most of them Eastern bishops, with legates of Pope Adrian I, who fully confirmed its decisions.\n\nThe core of Nicaea II's doctrinal contribution was the precise distinction between two kinds of religious honor that the iconoclast controversy had dangerously confused: the \"veneration\" (in Greek, \"proskýnesis\") due to the images of Christ, of Our Lady, of the angels and of the saints — comparable, in nature, to the honor traditionally paid to the cross, to the book of the Gospels and to other sacred objects — and the \"adoration\" (\"latreia\"), which is due exclusively to God, under pain of idolatry. The council explained this distinction with an argument of remarkable simplicity: whoever venerates an image pays homage, through it, to the person represented in it, and not to the painted panel, the paint or the pigment of which it is made — the material support is merely a vehicle, never the final object, of religious veneration.\n\nNicaea II further defined, in positive terms, that it is fitting and proper to place sacred images in churches, on vessels and liturgical vestments, on walls, fabrics and even in the private homes of the faithful, recognizing the catechetical and devotional value of images for a largely illiterate population, for whom icons functioned as a true \"Bible of the poor\" in visual form. This doctrinal foundation is still invoked today by the Catholic Church — and also by the Orthodox Churches, for which the question of icons carries even greater theological weight — to justify the use of images, statues and icons both in the official liturgy and in popular devotion, always distinguishing, as Nicaea II did, between honoring a representation and adoring that which is due to God alone.\n\nThe definition of 787 did not put an end to the controversy once and for all: the Byzantine Empire would live through a second iconoclast period between 815 and 843, under new emperors hostile to images, overcome only with the so-called \"Triumph of Orthodoxy\" in 843, when the empress-regent Theodora definitively restored the cult of images — an episode that the Byzantine liturgy celebrates to this day on the first Sunday of Lent as a symbolic landmark of the final victory of the iconodule faith.",
+      "tags": [
+        "iconoclasm",
+        "veneration of images",
+        "sacred art",
+        "8th century"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "numero_ordem": null,
+      "ano_inicio": 787,
+      "ano_fim": 787,
+      "local": "Nicaea, Bithynia (present-day İznik, Turkey)",
+      "fontes": [
+        "Acts of the Second Council of Nicaea (787)",
+        "Denzinger-Hünermann, nn. 600-603",
+        "Catechism of the Catholic Church, no. 2132",
+        "Council of Hieria (754) and its rejection at Nicaea II"
+      ]
+    },
+    {
+      "id": "concilios:trento-decreto-sobre-a-justificacao",
+      "slug": "trento-decreto-sobre-a-justificacao",
+      "titulo": "Trent: Decree on Justification",
+      "resumo": "Promulgated at the sixth session of the Council of Trent (1547), the decree sets out the Catholic doctrine on how the sinner is justified before God, in direct response to the Lutheran doctrine of justification by faith alone; it consists of a preamble, sixteen chapters and thirty-three canons.",
+      "corpo": "When the conciliar fathers of Trent turned to the subject of justification, three decades had already passed since Martin Luther, in 1517, made public his central thesis that the human being is justified before God \"by faith alone\" (\"sola fide\") — not by the cooperation of good works, which Luther saw as incapable of contributing in any measure to salvation, obtained solely by grace imputed externally to the sinner by virtue of the merits of Christ. After failed attempts at theological reconciliation, such as the Colloquy of Regensburg (1541), the question of justification had become the most urgent and most technically complex point of the entire controversy between Rome and the Reformation.\n\nConvened under Pope Paul III on January 13, 1547, and presided over in the pontiff's name by the cardinal legates Giovanni Maria del Monte, Bishop of Palestrina, and Marcello Cervini, the sixth session of the council produced, after months of intense theological debate among the conciliar fathers themselves — who disagreed internally over important nuances of the question —, the longest and most elaborate doctrinal document of the entire Council of Trent. The decree is structured in a preamble, sixteen expository chapters and thirty-three condemnatory canons. Against the Lutheran formula of justification by faith alone, it teaches that justification is the sovereign work of God's grace, which first precedes and then accompanies the free response of the human person, so that there is no prior human merit that provokes it, but neither is there justification without some form of free cooperation of the human will with this freely offered grace. Faith, the decree teaches, is truly the \"beginning, foundation and root\" of all justification, but it must express itself and grow in hope and charity — and in the good works that flow from it — in order to remain alive and not stay barren; justification, the following chapter affirms, does not consist merely in the forgiveness of sins, but also in the interior renewal wrought by the Holy Spirit, who infuses the theological virtues of faith, hope and charity into the soul of the justified.\n\nThe decree further affirms, in a point of sharp divergence from Protestant currents that taught the absolute and subjective assurance of one's own salvation (\"certainty of election\"), that the justification received can indeed be lost through grave mortal sin, and recovered through the sacrament of Penance by means of contrition, confession and satisfaction — so that no Christian, according to Trent, can have absolute and infallible certainty of his own state of grace, save by special revelation. The document closes with the thirty-three canons that condemn, in brief and direct formulas (\"si quis dixerit... anathema sit\", \"if anyone says... let him be anathema\"), specific propositions then attributed to the various currents of the Reformation on the subject, from the denial of human free will to the idea that the good works of the justified would be, in themselves, sinful.\n\nThe Tridentine decree on justification remained, for more than four centuries, one of the points of greatest doctrinal division between Catholicism and Lutheranism, until decades of bilateral ecumenical dialogue resulted in the \"Joint Declaration on the Doctrine of Justification,\" signed in Augsburg on October 31, 1999, by the Lutheran bishop Christian Krause, then president of the Lutheran World Federation, and by Cardinal Edward I. Cassidy, representative of the Holy See. The document recognized a possible consensus on the fundamental truths of the doctrine of justification — \"by grace alone, in faith in Christ's saving work and not because of any merit on our part, we are accepted by God,\" proclaims its central formula —, though without eliminating all the remaining differences of emphasis and theological language between the traditions. In 2006 the World Methodist Council endorsed the declaration; in 2016 and 2017 the Anglican Communion and the World Communion of Reformed Churches followed. The consensus, however, was not unanimous: more conservative Lutherans, such as the Missouri Synod, rejected the document, and in 2015 the International Lutheran Council also rejected it, on the grounds that Rome has not revised the doctrinal decisions of the Council of Trent.",
+      "categoria": "concilios",
+      "tags": [
+        "justification",
+        "Protestant Reformation",
+        "grace",
+        "sola fide",
+        "Paul III",
+        "ecumenism",
+        "16th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Concilio_Trento_Museo_Buonconsiglio.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Council of Trent, Session VI, Decree on Justification (January 13, 1547), preamble, 16 chapters and 33 canons",
+        "Denzinger-Hünermann, nos. 1520-1583",
+        "Lutheran World Federation and Catholic Church, \"Joint Declaration on the Doctrine of Justification\" (Augsburg, October 31, 1999)",
+        "Vatican News, 'Joint Declaration on the Doctrine of Justification has an updated Italian version' (2021)",
+        "Wikipedia (pt), 'Joint Declaration on the Doctrine of Justification'"
+      ],
+      "atualizado_em": null,
+      "numero_ordem": null,
+      "ano_inicio": 1547,
+      "ano_fim": 1547,
+      "local": "Trent (present-day Italy)"
+    },
+    {
+      "id": "concilios:trento-decreto-sobre-a-eucaristia",
+      "slug": "trento-decreto-sobre-a-eucaristia",
+      "titulo": "Trent: Decree on the Most Holy Eucharist",
+      "resumo": "In its thirteenth session (October 11, 1551), the Council of Trent dogmatically defined the real presence of Christ in the Eucharist and established the term \"transubstantiation\" to describe the conversion of the bread and wine, formulating eleven canons condemning the positions of the Reformers. The question of communion under both kinds would only be settled ten years later, in Session XXI.",
+      "corpo": "Among the different Protestant positions on the nature of the Lord's Supper that divided the Reformers among themselves, the sixteenth century saw a broad spectrum of opinions emerge: from the virtually complete denial of any real presence of Christ in the Eucharist, upheld by Huldrych Zwingli, for whom the bread and wine were merely symbolic memorials, through the intermediate position of John Calvin, who admitted a real spiritual but not bodily presence, to the so-called \"consubstantiation\" of Martin Luther, who maintained a strong belief in the real presence of Christ but rejected the scholastic philosophical explanation that the substance of the bread ceased to exist — Luther, who did not deny the real presence, saw in \"transubstantiation\" an undue interference of Aristotelian philosophy in the revealed datum. Faced with this doctrinal fragmentation, the Council of Trent needed not only to reaffirm the traditional faith, but to do so with enough terminological precision to distinguish the Catholic position from all these alternatives.\n\nHeld on October 11, 1551, already under Pope Julius III — Trent had been temporarily suspended between 1547 and 1551 because of political disputes, disputes over precedence between the Spanish and Italian delegations, and an outbreak of typhus — the thirteenth session of the council was the third convened under Julius III and responded to these different positions by reaffirming that, by the consecration of the bread and wine during the Mass, there takes place the conversion of the whole substance of the bread into the substance of the Body of Christ and of the whole substance of the wine into the substance of his Blood, with only the sensible appearances (\"species\") of bread and wine remaining — color, taste, texture, weight —, none of which remains attached to the original substance. The decree expressly declares that this conversion is \"aptly and properly called transubstantiation by the Catholic Church,\" crystallizing into official dogmatic terminology a technical vocabulary that medieval scholastic theology, above all Saint Thomas Aquinas in his \"Summa Theologiae\" (III, q. 75), had been developing and refining for more than three centuries, and which the Fourth Lateran Council, in 1215, had itself already employed in a conciliar document. The text of Trent also enumerates the three terms with which the Catholic faith has always professed the Eucharistic presence — \"true, real and substantial\" —, distinguishing it both from a merely figurative presence and from a simply \"dynamic\" or spiritual presence.\n\nTo the dogmatic decree — which comprises doctrinal chapters and the definition of transubstantiation —, the council appended eleven canons of condemnation, closed by the formula \"let him be anathema.\" They follow and condemn, point by point, the principal Protestant positions: the denial that the Body and Blood of Christ are truly, really and substantially present, with the soul and the divinity (against Zwingli, canon 1); the assertion that the substance of the bread and wine coexists with the Body and Blood — the Lutheran position — attacked in canon 2, which denies that \"admirabilis et singularis conversio\" which the Church aptly calls \"transubstantiation\"; the denial that Christ is present whole and entire under each of the two species separately and under any portion of them, even the smallest particle (canon 3), a point that underlies the Catholic practice of dividing a consecrated host into pieces without this multiplying, dividing or fragmenting the integral presence of Christ in each part; the reduction of Christ's presence to the moment of reception alone, denying it in the hosts kept after communion (canon 4); the rejection of reservation and of carrying the Eucharist to the sick (canon 7); the denial of sacramental and real communion, beyond the \"spiritual\" (canon 8); in addition to canons 9, 10 and 11, on the obligation to receive communion at least at Easter, the communion of the celebrating priest and the fruits of the sacrament.\n\nThe same session also approved a \"Decree on Reform\" (only the dogmatic decree on the Eucharist had been planned for that date), and notable theologians and prelates attended it — among the participants in the Tridentine debates were the cardinal and future Archbishop of Milan Charles Borromeo, nephew of Pius IV, and the Jesuits Diego Laínez and Alfonso Salmerón, first companions of Ignatius of Loyola, whose presence marks the rise of the Society of Jesus as a theological force of the Counter-Reformation. It is important to note that the decree of Session XIII did not exhaust the Eucharistic theme: the question of communion under both kinds — that is, whether the chalice should be offered to the laity — was only settled ten years later, in Session XXI (July 16, 1562), under Pius IV. There the council declared that the laity and non-celebrating clerics are not bound by divine precept to receive communion under both forms and that communion under one species suffices for salvation, while acknowledging, however, that \"from the beginning of the Christian religion the use of both species was common,\" but that this custom \"changed widely with time\" — an argument from the Church's authority over the administration of the sacraments, which would be taken up again in the twentieth century to justify the partial restoration of the chalice to the laity.\n\nThe Tridentine decree on the Eucharist remains, more than four and a half centuries later, the central and still binding dogmatic reference of Catholic doctrine on the subject, cited directly or indirectly in practically every catechesis and every subsequent magisterial document on the real presence of Christ in the Eucharistic sacrament. The Catechism of the Catholic Church (1992), in setting out this doctrine in the numbers dealing with the sacrament, takes up the definition of Trent literally, and the concept of \"transubstantiation\" continues to be the official expression with which the Church formulates the mystery of the Eucharistic conversion.",
+      "categoria": "concilios",
+      "tags": [
+        "Eucharist",
+        "transubstantiation",
+        "Protestant Reformation",
+        "16th century",
+        "real presence",
+        "Julius III",
+        "Luther"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Council_of_Trent_by_Pasquale_Cati.jpg",
+      "imagem_credito": "Pasquale Cati, \"Council of Trent\" (1588), Altemps Chapel, Basilica of Santa Maria in Trastevere, Rome. Photograph under CC BY 2.0 license/Wikimedia Commons.",
+      "fontes": [
+        "Council of Trent, Decree on the Most Holy Eucharist, Session XIII (October 11, 1551)",
+        "Council of Trent, Doctrine and Canons on Communion under Both Kinds, Session XXI (July 16, 1562)",
+        "Denzinger-Hünermann, nn. 1635-1661 (Session XIII) and nn. 1725-1734 (Session XXI)",
+        "Saint Thomas Aquinas, \"Summa Theologiae,\" III, q. 75",
+        "Catechism of the Catholic Church (1992), nn. 1373-1377",
+        "\"Canons and Decrees of the Council of Trent,\" trans. Theodore Alois Buckley (Wikisource)"
+      ],
+      "atualizado_em": null,
+      "numero_ordem": null,
+      "ano_inicio": 1551,
+      "ano_fim": 1551,
+      "local": "Trent (present-day Italy)"
+    },
+    {
+      "id": "concilios:vaticano-i-dei-filius",
+      "slug": "vaticano-i-dei-filius",
+      "titulo": "Vatican I: Constitution «Dei Filius»",
+      "resumo": "Dogmatic constitution of the First Vatican Council, promulgated by Pius IX on April 24, 1870: it affirms that God can be known with certainty by the natural light of reason from created things, and that faith and reason, coming from the same God, can never truly contradict each other.",
+      "corpo": "Promulgated on April 24, 1870, almost three months before the more famous «Pastor Aeternus», the dogmatic constitution «Dei Filius» was the first major doctrinal document of the First Vatican Council (1869-1870), the twentieth ecumenical council and the first to meet in Saint Peter's Basilica. The council had been convoked by Pius IX on June 29, 1868 and opened on December 8, 1869, with about 700 prelates present out of roughly 1,050 eligible bishops. «Dei Filius» responded to a set of philosophical currents that, in the assessment of the pope and of the majority of the assembled episcopate, threatened the rational and supernatural foundations of the Christian faith: rationalism, which reduced all truth to the exclusive reach of reason; materialism, which denied any spiritual reality; pantheism, then influential above all through German idealist currents, which identified God with the universe itself; and traditionalism and fideism, which denied to human reason any autonomous capacity to know fundamental religious truths without the direct support of revelation or tradition.\n\nThe editorial history of the document reveals the internal tensions of the council. The preparatory work, directed by a central commission and subcommissions dominated by the Curia, produced 51 schemas, of which only 6 actually reached the plenary assembly. The first schema on the faith, distributed to the council fathers in December 1869, was rejected as obscure, prolix, polemical and tied to an outdated vocabulary — more a learned treatise by a university professor than a conciliar text. A «deputation on the faith» was charged with preparing a new draft, and the text was rewritten by the Jesuit Joseph Kleutgen, with the collaboration of Bishops Dechamps, Pie and Martin. The new version, much shorter, was presented on March 18, 1870 and discussed until April 6; on April 12 it was approved with 515 «placet» votes and no «non placet», but with 83 «placet iuxta modum» votes requesting revisions, above all regarding the opening words of chapter I. In the final vote of April 24, all 667 members present voted «placet».\n\nThe title of the constitution, taken from its opening words, once raised a significant controversy. A group of 35 English-speaking bishops feared that the expression «Sancta Romana Catholica Ecclesia» («Holy Roman Catholic Church») could be read as favorable to the Anglican «branch theory», and proposed removing the adjective «Romana». The proposal was widely rejected, but, in consideration of the reservations expressed, the final text ended up reordering the terms and adding «Apostolica», so that it reads «Sancta Catholica Apostolica Romana Ecclesia».\n\nThe text is organized into four chapters with corresponding canons. The first teaches that God, the principle and end of all things, «can be known with certainty by the natural light of human reason from created things» (cf. Rom 1), establishing the doctrinal basis of a genuine natural theology, taking up a line that goes back to Saint Thomas Aquinas and his «five ways». The second chapter deals with revelation, affirming its necessity both for knowing the strict mysteries of the faith — Trinity, Incarnation — and so that religious truths that are in principle accessible to reason may be known with ease, certainty and without error. The third chapter deals with the nature and conditions of faith as a free and rational act. The fourth, on faith and reason, contains the most quoted formulation: «even though faith is above reason, there can never be any real disagreement between faith and reason, since the same God who reveals the mysteries and infuses faith has also endowed the human mind with the light of reason, and God cannot deny himself, nor can truth ever contradict truth».\n\nThis principle of harmony — not of identity, but of no real contradiction between the natural and the supernatural order — continues to guide Catholic reflection on science and faith, and is explicitly taken up in later documents, such as the conciliar constitution «Dei Verbum» (1965), which presented itself as continuing Trent and Vatican I, and the encyclical «Fides et Ratio» (1998) of John Paul II. The council, which was never formally dissolved, had its sessions suspended indefinitely by Pius IX on October 20, 1870, after the troops of the Kingdom of Italy occupied Rome on September 20, in the context of the Franco-Prussian War — leaving a good part of the originally planned program unfinished.",
+      "categoria": "concilios",
+      "tags": [
+        "faith and reason",
+        "divine revelation",
+        "rationalism",
+        "Pius IX",
+        "Vatican I",
+        "19th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Engraving_of_First_Vatican_Council.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Dogmatic Constitution «Dei Filius», April 24, 1870 (Latin text at vatican.va)",
+        "Denzinger-Hünermann, nos. 3000-3045",
+        "Johannes Kleutgen (drafter), schema presented on March 18, 1870",
+        "Cathopedia, entry «Dei Filius» (editorial history)",
+        "Encyclopedia.com, entry «Vatican Council I»",
+        "John Paul II, encyclical «Fides et Ratio» (1998)",
+        "Wikipedia, «Dei Filius» and «First Council of the Lateran/Vatican I»"
+      ],
+      "atualizado_em": null,
+      "numero_ordem": null,
+      "ano_inicio": 1870,
+      "ano_fim": 1870,
+      "local": "Saint Peter's Basilica, Vatican City"
+    }
+  ]
+}

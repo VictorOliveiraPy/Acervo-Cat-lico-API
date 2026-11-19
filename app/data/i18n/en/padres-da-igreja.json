@@ -1,0 +1,661 @@
+{
+  "_meta": {
+    "categoria": "padres-da-igreja",
+    "nome": "Church Fathers",
+    "descricao": "Ecclesiastical writers of the first centuries whose doctrine and lives bear witness to the apostolic faith — a category distinct from Doctor of the Church, although several Fathers also hold that title.",
+    "status": "exemplos-iniciais",
+    "aviso": "Not every Church Father was canonized or declared a Doctor; the field 'e_doutor' indicates only those who also bear that title.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Catechism of the Catholic Church",
+      "Patrology by J. Quasten"
+    ]
+  },
+  "itens": [
+    {
+      "id": "padres-da-igreja:inacio-de-antioquia",
+      "slug": "inacio-de-antioquia",
+      "titulo": "Ignatius of Antioch",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bishop of Antioch and martyr who, on his way to martyrdom in Rome, wrote seven letters fundamental to early ecclesiology.",
+      "corpo": "A disciple, according to tradition, of the Apostle John, Ignatius was the second or third bishop of Antioch. Condemned to the beasts for professing the Christian faith, he wrote, on the way to martyrdom in Rome (c. 107), seven letters to churches of Asia Minor and to Rome, which are the oldest testimony outside the New Testament to the hierarchical structure of the Church (bishop, presbyters, deacons), to the Eucharist as the \"medicine of immortality,\" and to the very term \"Catholic Church\" (katholikē ekklēsía), used for the first time in history in his Letter to the Smyrnaeans.",
+      "tags": [
+        "Antioch",
+        "martyr",
+        "ecclesiology",
+        "Catholic Church"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Syria",
+      "seculo": "1st-2nd",
+      "e_doutor": false
+    },
+    {
+      "id": "padres-da-igreja:policarpo-de-esmirna",
+      "slug": "policarpo-de-esmirna",
+      "titulo": "Polycarp of Smyrna",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bishop of Smyrna, disciple of the Apostle John, martyred at the age of 86 for refusing to renounce Christ.",
+      "corpo": "Polycarp was a direct disciple of the Apostle John and bishop of Smyrna for decades, a living link between the apostolic generation and the Church of the second century. His only surviving letter, addressed to the Philippians, quotes the New Testament extensively and exhorts to charity and orthodoxy. His martyrdom, narrated in the ancient document \"Martyrdom of Polycarp\", is one of the oldest and most detailed accounts of martyrdom in the Church: when urged to curse Christ in order to save his life, he answered: \"Eighty-six years I have served him, and he never did me any wrong; how can I blaspheme my King who saved me?\"",
+      "tags": [
+        "Smyrna",
+        "martyr",
+        "disciple of John"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Vitrail_St-Polycarpe_par_B%C3%A9gule.jpg",
+      "imagem_credito": "Photo: GO69 — Wikimedia Commons, CC BY-SA 3.0",
+      "regiao": "Asia Minor",
+      "seculo": "I-II",
+      "e_doutor": false
+    },
+    {
+      "id": "padres-da-igreja:justino-martir",
+      "slug": "justino-martir",
+      "titulo": "Justin Martyr",
+      "categoria": "padres-da-igreja",
+      "resumo": "A pagan philosopher who converted to Christianity, the first great apologist to engage in dialogue with Greek philosophical culture.",
+      "corpo": "Justin, born a pagan and trained in several philosophical schools before converting to Christianity, became the most important apologist of the second century. In his two \"Apologies,\" addressed to Roman emperors, and in the \"Dialogue with Trypho,\" he argued that Christianity is the true philosophy, fulfilling all that was good in pagan philosophies through the \"Logos\" (the Word) present in all humanity. His First Apology contains the oldest detailed description of the Christian Eucharistic liturgy outside the New Testament. He was beheaded in Rome for refusing to sacrifice to the gods, earning the title \"Martyr.\"",
+      "tags": [
+        "apologetics",
+        "philosophy",
+        "martyr",
+        "liturgy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Justin_Martyr.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Palestine/Rome",
+      "seculo": "II",
+      "e_doutor": false
+    },
+    {
+      "id": "padres-da-igreja:ireneu-de-lyon",
+      "slug": "ireneu-de-lyon",
+      "titulo": "Irenaeus of Lyon",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bishop of Lyon who systematically refuted Gnosticism and articulated the doctrine of apostolic succession.",
+      "corpo": "Irenaeus, trained in Asia Minor by disciples of Polycarp, became bishop of Lyon, in Gaul. His masterpiece, \"Against Heresies,\" is the most complete and systematic refutation of Gnosticism produced by the ancient Church, and in it he develops the doctrine of \"recapitulation\" — Christ as the new Adam who gathers and restores all humanity — and the principle of apostolic succession as a criterion of doctrinal authenticity, listing the bishops of Rome from Peter. He is considered the father of Christian systematic theology and a bridge between Eastern and Western Christianity.",
+      "tags": [
+        "Gnosticism",
+        "apostolic succession",
+        "recapitulation"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/91/San_Ireneo%2C_vitral_%28cropped%29.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Asia Minor/Gaul",
+      "seculo": "II",
+      "e_doutor": false
+    },
+    {
+      "id": "padres-da-igreja:origenes",
+      "slug": "origenes",
+      "titulo": "Origen",
+      "categoria": "padres-da-igreja",
+      "resumo": "Alexandrian theologian and exegete of immense erudition, whose work shaped Christian biblical exegesis despite positions later condemned.",
+      "corpo": "Origen headed the catechetical school of Alexandria and produced a work of monumental proportions: the \"Hexapla\" (an edition of the Old Testament in six columns of comparative text), biblical commentaries using the allegorical method, and the treatise \"On First Principles,\" the first great systematic synthesis of Christian theology. He suffered torture during the persecution of Decius, from which he never fully recovered. Some of his theological speculations — such as the preexistence of souls and the possible universal salvation (apokatastasis) — were condemned by later councils, which is why, despite his incalculable influence, he was never recognized as a saint by the Church.",
+      "tags": [
+        "Alexandria",
+        "exegesis",
+        "Hexapla"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/20/Origen.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Egypt",
+      "seculo": "II-III",
+      "e_doutor": false
+    },
+    {
+      "id": "padres-da-igreja:tertuliano",
+      "slug": "tertuliano",
+      "titulo": "Tertullian",
+      "categoria": "padres-da-igreja",
+      "resumo": "A converted Carthaginian lawyer, the first great Christian writer in Latin and the coiner of the West's theological vocabulary.",
+      "corpo": "Tertullian, a jurist by training in Carthage, was the first major Christian author to write in Latin, and for this reason is called the \"father of Latin theology\": he coined technical terms that Western theology still uses today, such as \"Trinity\" (trinitas) and \"person\" and \"substance\" applied to God. His apologetic work \"Apologeticum\" defends Christians before the Empire with the famous phrase \"the blood of the martyrs is the seed [of new Christians]\". In his maturity he adhered to the rigorism of Montanism, breaking with the Church — which is why, despite his lasting linguistic and theological influence, he is not counted among the Fathers in the full sense, nor was he canonized.",
+      "tags": [
+        "Carthage",
+        "Latin",
+        "Trinity",
+        "apologetics"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Tertullian.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "North Africa",
+      "seculo": "II-III",
+      "e_doutor": false
+    },
+    {
+      "id": "padres-da-igreja:cipriano-de-cartago",
+      "slug": "cipriano-de-cartago",
+      "titulo": "Cyprian of Carthage",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bishop of Carthage and martyr, theologian of the unity of the Church in times of persecution and schism.",
+      "corpo": "Cyprian, a rhetorician converted to Christianity, became bishop of Carthage and faced the crisis of the \"lapsi\" (Christians who had apostatized under persecution) and the schism of Novatian in Rome. His treatise \"On the Unity of the Catholic Church\" contains the famous image of the Church as the seamless tunic of Christ, which cannot be torn, and the formula \"outside the Church there is no salvation\" (extra Ecclesiam nulla salus), as well as the statement that \"he cannot have God for his Father who does not have the Church for his mother.\" He was beheaded during the persecution of Valerian in 258, one of the first bishop-martyrs of Roman Africa.",
+      "tags": [
+        "Carthage",
+        "unity of the Church",
+        "martyr",
+        "lapsi"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Heiliger_Cyprianus.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "North Africa",
+      "seculo": "III",
+      "e_doutor": false
+    },
+    {
+      "id": "padres-da-igreja:atanasio-de-alexandria",
+      "slug": "atanasio-de-alexandria",
+      "titulo": "Athanasius of Alexandria",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bishop of Alexandria, chief defender of the Nicene faith against Arianism, exiled five times for his fidelity.",
+      "corpo": "Athanasius, still a deacon, accompanied his bishop to the Council of Nicaea (325) and spent the rest of his life defending, almost alone for decades, the Nicene definition that the Son is \"consubstantial\" (homoousios) with the Father against Arianism, then dominant among a good part of the episcopate and the imperial court. He was exiled five times by Arian or pro-Arian emperors, giving rise to the expression \"Athanasius against the world\" (Athanasius contra mundum). He wrote the \"Life of Anthony,\" which spread Egyptian monasticism throughout the West, and his Festal Letter of 367 is the first document to list exactly the 27 books of the New Testament as we know it today.",
+      "tags": [
+        "Arianism",
+        "Nicaea",
+        "biblical canon",
+        "monasticism"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Ikone_Athanasius_von_Alexandria.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Egypt",
+      "seculo": "IV",
+      "e_doutor": false
+    },
+    {
+      "id": "padres-da-igreja:cirilo-de-jerusalem",
+      "slug": "cirilo-de-jerusalem",
+      "titulo": "Cyril of Jerusalem",
+      "resumo": "Bishop of Jerusalem (c. 350-386) whose 24 Catecheses are the most detailed testimony to Christian initiation in the fourth century; Doctor of the Church.",
+      "corpo": "Cyril was born around 315, probably in Jerusalem or its vicinity, into a Christian family. Ordained a priest around 345 and consecrated bishop of Jerusalem around 350, he governed the see of Jerusalem in times of acute Arian controversy. He was consecrated through the influence of Acacius, bishop of Caesarea, in part metropolitan and sympathizer of Arianism, who hoped to have him as an ally — but Cyril remained faithful to the Nicene faith and soon clashed with Acacius not only on doctrinal matters but also on jurisdictional ones, by claiming the autonomy of his own see in relation to that of Caesarea. This conflict resulted in three exiles for him: the first in 357, by decision of a synod in Jerusalem; the second in 360, at the instigation of Acacius; and the third, the longest, in 367, by order of the pro-Arian emperor Valens, which lasted eleven years. Only in 378, with the death of Valens, was he able to resume his see definitively, restoring unity and peace among the faithful.",
+      "categoria": "padres-da-igreja",
+      "tags": [
+        "catechesis",
+        "Jerusalem",
+        "Christian initiation",
+        "Doctor of the Church",
+        "Arianism",
+        "4th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Saint_Cyril_of_Jerusalem.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "General Audience of Benedict XVI on Saint Cyril of Jerusalem, June 27, 2007 (vatican.va)",
+        "Cyril of Jerusalem, Catecheses (Procatechesis, 18 pre-baptismal and 5 mystagogical)",
+        "Wikipedia (pt): \"John II of Jerusalem\""
+      ],
+      "atualizado_em": null,
+      "regiao": "Palestine",
+      "seculo": "IV",
+      "e_doutor": true
+    },
+    {
+      "id": "padres-da-igreja:cirilo-de-alexandria",
+      "slug": "cirilo-de-alexandria",
+      "titulo": "Cyril of Alexandria",
+      "resumo": "Patriarch of Alexandria (412-444), the architect of the condemnation of Nestorius at the Council of Ephesus (431) and the defender of the title \"Theotokos\"; Doctor of the Church.",
+      "corpo": "Cyril was probably born between 370 and 380, according to ancient sources in the Egyptian village of Didouseya (present-day El-Mahalla El-Kubra), although the Greek tradition makes him a native of Alexandria. A nephew of Theophilus, Patriarch of Alexandria since 385, he was tonsured and ordained a lector by him, receiving a solid cultural and theological formation. In 403 he accompanied his uncle to Constantinople and took part in the so-called Synod of the Oak (July 403), which deposed John Chrysostom from the patriarchal throne — an episode that marked the triumph of the Alexandrian see over its traditional rival, Constantinople, and which Cyril later sought to repair, restoring communion with Constantinople around 417-418 and reinstating the memory of Chrysostom in the diptychs. With the death of Theophilus in 412, Cyril was elected bishop of Alexandria, governing the Church of Egypt with great energy for 32 years. In the first years of his episcopate he acted firmly against the Novatians and the Jews of Alexandria, which placed him in open conflict with the imperial prefect Orestes; in this turbulent context there occurred, in 415, the murder of the Neoplatonic philosopher Hypatia, an episode for which Cyril's possible responsibility is a matter of debate among historians, with no direct documentary proof.",
+      "categoria": "padres-da-igreja",
+      "tags": [
+        "Alexandria",
+        "Ephesus",
+        "Theotokos",
+        "Nestorianism",
+        "Christology",
+        "Doctor of the Church",
+        "5th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Saint_Cyril_of_Alexandria_at_Chora.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "General Audience of Benedict XVI on Saint Cyril of Alexandria, October 3, 2007 (vatican.va)",
+        "Council of Ephesus (431) — acts and the letter Laetentur caeli / Formula of Reunion of 433",
+        "Wikipedia (pt): \"Cirilo de Alexandria\" and \"Sínodo do Carvalho\""
+      ],
+      "atualizado_em": null,
+      "regiao": "Egypt",
+      "seculo": "IV-V",
+      "e_doutor": true
+    },
+    {
+      "id": "padres-da-igreja:joao-crisostomo",
+      "slug": "joao-crisostomo",
+      "titulo": "John Chrysostom",
+      "categoria": "padres-da-igreja",
+      "resumo": "Patriarch of Constantinople renowned for his eloquence (\"golden mouth\"), tireless preacher of social justice, and Doctor of the Church.",
+      "corpo": "John, nicknamed \"Chrysostom\" (\"golden mouth\") for the exceptional quality of his preaching, was Patriarch of Constantinople after years as a monk and presbyter in Antioch. His homilies — hundreds of which are still preserved — combine careful biblical exegesis with vigorous denunciation of social injustice, the luxury of the court, and religious hypocrisy, which cost him exile by order of Empress Eudoxia, who was offended by his criticisms. He died in exile in 407. He is a Doctor of the Church and one of the four great Greek Fathers, together with Basil and the two Gregorys.",
+      "tags": [
+        "Constantinople",
+        "preaching",
+        "social justice",
+        "Doctor of the Church"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Johnchrysostom.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Syria/Constantinople",
+      "seculo": "IV-V",
+      "e_doutor": true
+    },
+    {
+      "id": "padres-da-igreja:basilio-magno",
+      "slug": "basilio-magno",
+      "titulo": "Basil the Great",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bishop of Caesarea in Cappadocia, organizer of Eastern monasticism and defender of the divinity of the Holy Spirit, Doctor of the Church.",
+      "corpo": "Basil, one of the three \"Cappadocian Fathers\" (with his brother Gregory of Nyssa and his friend Gregory of Nazianzus), was bishop of Caesarea in Cappadocia and a decisive organizer of Eastern monasticism: his \"Rule\" — in fact a collection of ascetic answers — still influences Byzantine and Orthodox monks today, who call themselves \"Basilians\". His treatise \"On the Holy Spirit\" defended the full divinity of the third Person of the Trinity, preparing the way for the First Council of Constantinople (381). He also founded one of the first great complexes for the care of the poor and the sick, the \"Basiliad\".",
+      "tags": [
+        "Cappadocia",
+        "monasticism",
+        "Holy Spirit",
+        "Doctor of the Church"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/92/Basil-the-Great.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Asia Minor",
+      "seculo": "IV",
+      "e_doutor": true
+    },
+    {
+      "id": "padres-da-igreja:gregorio-nazianzeno",
+      "slug": "gregorio-nazianzeno",
+      "titulo": "Gregory of Nazianzus",
+      "resumo": "Cappadocian bishop and theologian of the Trinity, called \"the Theologian\" in the Eastern tradition; he presided over the Council of Constantinople (381) and is a Doctor of the Church.",
+      "corpo": "Gregory was born around 329 in the region of Cappadocia, the son of Gregory the Elder, Bishop of Nazianzus, and of Nonna. He studied rhetoric and philosophy in Caesarea, Alexandria and above all in Athens, where he formed a deep friendship with Basil the Great — a friendship that marked his life and his theology, and that led him, already a bishop, to exchange celebrated correspondence with his friend. At Basil's request he was consecrated Bishop of Sasima, a city he never actually governed, remaining attached to the community of Nazianzus. After Basil's death in 379, he went to Constantinople to preach in defense of the Nicene faith in a city dominated by the Arians, gathering his community in the church of the Anastasia and narrowly escaping an attack plotted by adversaries.",
+      "categoria": "padres-da-igreja",
+      "tags": [
+        "Cappadocia",
+        "Trinity",
+        "Constantinople",
+        "Doctor of the Church",
+        "Basil the Great",
+        "4th century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Saint_Gregory_of_Nazianzus_at_Chora.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "First Council of Constantinople (381) — Niceno-Constantinopolitan Creed and canons",
+        "Gregory of Nazianzus, Theological Orations (Orations 27-31) and Oration 42 (farewell address)",
+        "Benedict XVI's audience on Gregory of Nazianzus (vatican.va)"
+      ],
+      "atualizado_em": null,
+      "regiao": "Asia Minor",
+      "seculo": "IV",
+      "e_doutor": true
+    },
+    {
+      "id": "padres-da-igreja:gregorio-de-nissa",
+      "slug": "gregorio-de-nissa",
+      "titulo": "Gregory of Nyssa",
+      "categoria": "padres-da-igreja",
+      "resumo": "Cappadocian bishop and mystical theologian, younger brother of Basil the Great, one of the most profound thinkers of Greek patristics.",
+      "corpo": "Gregory of Nyssa, younger brother of Basil the Great, combined Platonic philosophical rigor with profound Christian mystical experience. His work \"Life of Moses\" reads the prophet's experience on Sinai as the soul's journey to God through the \"luminous darkness,\" a theme that would shape all later Christian mysticism. He defended with philosophical subtlety the Trinitarian doctrine and the unity of human nature, and is sometimes called the \"father of mystical theology\" although he was never formally declared a Doctor of the Church.",
+      "tags": [
+        "Cappadocia",
+        "mysticism",
+        "Trinity",
+        "Life of Moses"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gregorius_von_Nyssa.jpeg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Asia Minor",
+      "seculo": "IV",
+      "e_doutor": false
+    },
+    {
+      "id": "padres-da-igreja:efrem-o-sirio",
+      "slug": "efrem-o-sirio",
+      "titulo": "Ephrem the Syrian",
+      "categoria": "padres-da-igreja",
+      "resumo": "Deacon and theological poet of Syria, author of liturgical hymns of immense influence in the Christian East, Doctor of the Church.",
+      "corpo": "Ephrem, a deacon in Nisibis and later in Edessa, expressed almost all of his theology in poetic form: his hymns on faith, paradise, the Nativity and the Virgin Mary have a symbolic density and beauty that earned him the title \"Harp of the Holy Spirit\" among the Syrians. His work, written in Syriac rather than in Greek or Latin, is an essential link between the Semitic biblical tradition and Christian theology, and remains central in the liturgy of the Churches of the Syriac and Maronite rites. He was proclaimed a Doctor of the Church in 1920.",
+      "tags": [
+        "theological poetry",
+        "hymns",
+        "Syriac",
+        "Doctor of the Church"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Mor_Ephrem_icon.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Syria/Mesopotamia",
+      "seculo": "IV",
+      "e_doutor": true
+    },
+    {
+      "id": "padres-da-igreja:ambrosio-de-milao",
+      "slug": "ambrosio-de-milao",
+      "titulo": "Ambrose of Milan",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bishop of Milan, spiritual guide of Saint Augustine, and one of the four great Doctors of the Latin Church.",
+      "corpo": "Ambrose, a Roman governor elected bishop of Milan by popular acclamation while still a catechumen, became one of the greatest orators and ecclesiastical administrators of Antiquity. His persuasive preaching and exemplary life were decisive in the conversion of Augustine of Hippo, whom he baptized in 387. He stood up to the emperor Theodosius himself, imposing public penance on him for a massacre in Thessalonica — a famous episode affirming the moral authority of the Church before civil power. He is one of the four great Doctors of the Latin Church, together with Jerome, Augustine, and Gregory the Great.",
+      "tags": [
+        "Milan",
+        "conversion of Augustine",
+        "Theodosius",
+        "Doctor of the Church"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/AmbroseOfMilan.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Italy",
+      "seculo": "IV",
+      "e_doutor": true
+    },
+    {
+      "id": "padres-da-igreja:jeronimo",
+      "slug": "jeronimo",
+      "titulo": "Jerome",
+      "categoria": "padres-da-igreja",
+      "resumo": "A learned monk and author of the Vulgate, the Latin translation of the Bible that shaped a thousand years of Western Christianity, and a Doctor of the Church.",
+      "corpo": "Jerome, a scholar of the biblical languages who withdrew to Bethlehem, devoted decades to translating the entire Bible from Hebrew and Greek into Latin — the \"Vulgate,\" which would become the official biblical text of the Latin Church for more than a thousand years, until the liturgical reform of the twentieth century. His maxim \"ignorance of the Scriptures is ignorance of Christ\" sums up his lifelong commitment to biblical study. Of a vigorous temperament, he became involved in bitter controversies, but his exegetical legacy and his devotion to the sacred text make him one of the four great Latin Doctors.",
+      "tags": [
+        "Vulgate",
+        "biblical translation",
+        "Bethlehem",
+        "Doctor of the Church"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/28/Francisco_de_Zurbar%C3%A1n_041.jpg",
+      "imagem_credito": "Wikimedia Commons, CC0",
+      "regiao": "Dalmatia/Palestine",
+      "seculo": "IV-V",
+      "e_doutor": true
+    },
+    {
+      "id": "padres-da-igreja:agostinho-de-hipona",
+      "slug": "agostinho-de-hipona",
+      "titulo": "Augustine of Hippo",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bishop of Hippo, the most influential of the Latin Fathers, whose work shaped Western theology on grace, original sin, and the City of God.",
+      "corpo": "Augustine, converted after years of philosophical and moral searching narrated in the \"Confessions\" — one of the first spiritual autobiographies in history —, became bishop of Hippo, in North Africa. His immense body of work addresses grace and free will (in the controversy against Pelagianism), original sin, the Trinity (\"De Trinitate\"), and the philosophy of history in \"The City of God\", written after the sack of Rome in 410. No other Latin Father influenced Western theology as much, Catholic and later also Protestant, over the following centuries.",
+      "tags": [
+        "grace",
+        "original sin",
+        "Confessions",
+        "City of God",
+        "Doctor of the Church"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "North Africa",
+      "seculo": "IV-V",
+      "e_doutor": true
+    },
+    {
+      "id": "padres-da-igreja:gregorio-magno",
+      "slug": "gregorio-magno",
+      "titulo": "Gregory the Great",
+      "categoria": "padres-da-igreja",
+      "resumo": "Pope who reformed the liturgy and ecclesiastical administration, author of fundamental pastoral works, last of the four great Latin Doctors.",
+      "corpo": "Gregory, a former prefect of Rome who became a monk and then pope (590-604), governed the Church amid the collapse of Roman power in the West and the Lombard invasions, also taking on civil governmental functions in Rome. His \"Book of Pastoral Rule\" became the standard handbook for bishops throughout the Middle Ages, and he sent Augustine of Canterbury to evangelize Anglo-Saxon England. Tradition attributes to him the organization of the liturgical chant that would inherit his name — Gregorian chant — although its definitive formation is now dated to centuries later.",
+      "tags": [
+        "papacy",
+        "Pastoral Rule",
+        "Gregorian chant",
+        "Doctor of the Church"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gregorius_I.png",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "regiao": "Italy",
+      "seculo": "VI-VII",
+      "e_doutor": true
+    },
+    {
+      "id": "padres-da-igreja:clemente-de-roma",
+      "slug": "clemente-de-roma",
+      "titulo": "Clement of Rome",
+      "categoria": "padres-da-igreja",
+      "resumo": "One of the first bishops of Rome after the apostles, author of the oldest known Christian letter outside the New Testament.",
+      "corpo": "Clement was bishop of Rome from approximately 88 to 99, and is counted by tradition among the first successors of Saint Peter — the list of Saint Irenaeus of Lyon places him as the third after Linus and Anacletus. He is traditionally identified, though without full historical certainty, with the Clement mentioned by Saint Paul in the Letter to the Philippians (4:3).\n\nHis most important work is the so-called First Epistle of Clement to the Corinthians, written around 96, when the apostle John himself was still alive. The letter responds to a schism that was dividing the community of Corinth, exhorting obedience to the legitimately appointed presbyters, and is considered the oldest testimony, outside the New Testament writings, to apostolic succession and the authority of ordained ministers in the early Church.",
+      "tags": [
+        "Rome",
+        "popes",
+        "1st century",
+        "apostolic succession"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "regiao": "Rome (Italy)",
+      "seculo": "I",
+      "e_doutor": false,
+      "fontes": [
+        "Clement of Rome, «Epistle to the Corinthians»",
+        "Saint Irenaeus of Lyon, «Adversus Haereses», III, 3"
+      ]
+    },
+    {
+      "id": "padres-da-igreja:hipolito-de-roma",
+      "slug": "hipolito-de-roma",
+      "titulo": "Hippolytus of Rome",
+      "categoria": "padres-da-igreja",
+      "resumo": "Presbyter and writer of third-century Rome, protagonist of the first known schism in the Roman see, reconciled with the Church before his martyrdom.",
+      "corpo": "Hippolytus was born around 170, probably in the Greek East, and became one of the most important Christian writers of Rome at the turn of the second to the third century, author of exegetical and apologetic works and of the so-called \"Apostolic Tradition,\" an important source on early liturgy and ecclesiastical discipline.\n\nHe came into conflict with Popes Zephyrinus and, above all, Callistus I, whom he accused of excessive disciplinary leniency; he was even acclaimed bishop by a group of the faithful, constituting what tradition considers the first antipope in history. The schism persisted under the following pontificates, until, during the persecution of Emperor Maximinus Thrax, Hippolytus and the legitimate Pope Pontian were deported together to the mines of Sardinia.\n\nWhile still in the mines, he was reconciled with the Church of Rome before dying, around 235, probably from the mistreatment of forced labor. His remains and those of Pontian were brought back to Rome and buried with honors, and his memory is today celebrated as a martyr, despite the schismatic episode of his life.",
+      "tags": [
+        "Rome",
+        "3rd century",
+        "martyr",
+        "liturgy"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "regiao": "Rome (Italy)",
+      "seculo": "II-III",
+      "e_doutor": false,
+      "fontes": [
+        "Roman Martyrology, August 13",
+        "Eusebius of Caesarea, \"Ecclesiastical History,\" VI"
+      ]
+    },
+    {
+      "id": "padres-da-igreja:clemente-de-alexandria",
+      "slug": "clemente-de-alexandria",
+      "titulo": "Clement of Alexandria",
+      "categoria": "padres-da-igreja",
+      "resumo": "Master of the renowned Catechetical School of Alexandria, a pioneer in the dialogue between the Christian faith and Greek philosophy.",
+      "corpo": "Titus Flavius Clemens was born around 150, probably in Athens, to a pagan family, and received a solid education in Greek philosophy before converting to Christianity. He traveled through various Christian schools of the Mediterranean before settling in Alexandria, where he became a disciple and later the successor of Pantaenus as head of the local Catechetical School, one of the first great centers of Christian theological reflection.\n\nHis best-known work is the trilogy «Protrepticus» (an exhortation to the pagans to convert), «Paedagogus» (moral guidance for the newly converted) and «Stromata» (\"Miscellanies\"), a vast reflection that seeks to show the compatibility between true Greek philosophy and Christian revelation, anticipating methods that Origen, his most famous disciple, would develop afterward.\n\nHe fled Alexandria during the persecution of Septimius Severus, around 202, and died in Cappadocia about 215. Although his name was removed from the Roman Martyrology in 1748 because of doubts about some points of his doctrine, he remains studied as one of the foundational figures of Greek patristics and of the history of Christian thought.",
+      "tags": [
+        "Alexandria",
+        "2nd century",
+        "3rd century",
+        "philosophy",
+        "Egypt"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "regiao": "Alexandria (Egypt)",
+      "seculo": "II-III",
+      "e_doutor": false,
+      "fontes": [
+        "Clement of Alexandria, «Stromata»",
+        "Eusebius of Caesarea, «Ecclesiastical History», VI, 6"
+      ]
+    },
+    {
+      "id": "padres-da-igreja:lactancio",
+      "slug": "lactancio",
+      "titulo": "Lactantius",
+      "categoria": "padres-da-igreja",
+      "resumo": "Latin apologist of the late Roman Empire, tutor of Constantine's son, author of the «Divine Institutes».",
+      "corpo": "Lucius Caecilius Firmianus Lactantius was born around 240, probably in North Africa, and gained renown as a professor of rhetoric before converting to Christianity. During the great persecution launched by Diocletian, beginning in 303, he lost his chair in Nicomedia and came to live through times of great privation.\n\nAfter the Edict of Milan (313), which established toleration of Christianity in the Empire, he was called by the Emperor Constantine to be tutor to his son Crispus in Trier. His main work, the «Divine Institutes», in seven books, is the first attempt to set forth systematically the whole of Christian doctrine in the Latin language for a cultured audience, earning him from the Renaissance humanists the nickname \"the Christian Cicero\" for the elegance of his style.\n\nHe died around 320. For his refined style and his defense of the faith in the face of classical culture, he is counted, alongside Tertullian and Cyprian, among the founders of theological literature in the Latin language.",
+      "tags": [
+        "apologetics",
+        "3rd century",
+        "4th century",
+        "Rome",
+        "Latin"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "regiao": "North Africa / Eastern Roman Empire",
+      "seculo": "III-IV",
+      "e_doutor": false,
+      "fontes": [
+        "Lactantius, «Divinarum Institutionum Libri VII»",
+        "Saint Jerome, «De Viris Illustribus», 80"
+      ]
+    },
+    {
+      "id": "padres-da-igreja:hilario-de-poitiers",
+      "slug": "hilario-de-poitiers",
+      "titulo": "Hilary of Poitiers",
+      "categoria": "padres-da-igreja",
+      "resumo": "Fourth-century bishop of Gaul, called the \"Athanasius of the West\" for his firm defense of the Nicene faith against Arianism.",
+      "corpo": "Hilary was born around 315 in Pictavium (present-day Poitiers, in Gaul), into a pagan family of high social standing; he converted to Christianity as an adult, after being married and having a family, through reading the Scriptures. He was elected bishop of his native city shortly after his baptism.\n\nHe became one of the main opponents of Arianism in the Latin West, which earned him exile in Phrygia, decreed by Emperor Constantius II, between 356 and 360. In exile, he came into direct contact with the theology of the Greek Fathers and wrote his masterpiece, the treatise «De Trinitate», the most complete Latin exposition of Nicene Trinitarian doctrine up to that time.\n\nBack in Gaul, he continued to fight Arianism and to form other bishops in Nicene orthodoxy, among them Saint Martin of Tours, who, inspired by him, founded the first monastery in the region. He died in 367 and was proclaimed a Doctor of the Church in 1851 by Blessed Pius IX.",
+      "tags": [
+        "Gaul",
+        "4th century",
+        "Arianism",
+        "Trinity",
+        "France"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "regiao": "Gaul (present-day France)",
+      "seculo": "IV",
+      "e_doutor": true,
+      "fontes": [
+        "Hilary of Poitiers, «De Trinitate»",
+        "Roman Martyrology, January 13"
+      ]
+    },
+    {
+      "id": "padres-da-igreja:isidoro-de-sevilha",
+      "slug": "isidoro-de-sevilha",
+      "titulo": "Isidore of Seville",
+      "categoria": "padres-da-igreja",
+      "resumo": "Hispano-Visigothic bishop of the seventh century, author of the encyclopedia «Etymologies» and considered the last of the Latin Fathers.",
+      "corpo": "Isidore was born around 560 in Cartagena or Seville, in Hispania, then under Visigothic rule, into a family of great ecclesiastical importance: his brothers Leander and Fulgentius were also bishops, and his sister Florentina was a religious sister. He succeeded his own brother Leander as bishop of Seville around 600, an office he held until his death.\n\nHe presided over councils important for the organization of the Church in Visigothic Hispania, among them the Fourth Council of Toledo (633), which standardized the liturgy and ecclesiastical discipline in the kingdom. His most influential work was the «Etymologies», a vast encyclopedia in twenty books that gathers and organizes the Greco-Roman and Christian knowledge then available, becoming one of the most widely copied reference texts throughout the Middle Ages.\n\nHe died in 636. Because he gathered and transmitted to posterity a good part of the classical knowledge that would otherwise have been lost with the fragmentation of the Roman Empire, he is traditionally called the last of the Latin Fathers; he was proclaimed a Doctor of the Church in 1722 by Pope Innocent XIII.",
+      "tags": [
+        "Hispania",
+        "6th century",
+        "7th century",
+        "Spain",
+        "encyclopedism"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Isidor_von_Sevilla.jpeg",
+      "imagem_credito": null,
+      "regiao": "Hispania (present-day Spain)",
+      "seculo": "VI-VII",
+      "e_doutor": true,
+      "fontes": [
+        "Isidore of Seville, «Etymologies»",
+        "Roman Martyrology, April 4"
+      ]
+    },
+    {
+      "id": "padres-da-igreja:joao-cassiano",
+      "slug": "joao-cassiano",
+      "titulo": "John Cassian",
+      "categoria": "padres-da-igreja",
+      "resumo": "Fifth-century monk who transmitted to the Latin West the experience of Egyptian monasticism, founding two monasteries in Marseille.",
+      "corpo": "John Cassian was born around 360, probably in the region of Scythia Minor (present-day Romania or Bulgaria). While still young, he traveled to Egypt to live among the hermit monks of the desert, an experience that would deeply mark all his later work; he was ordained a deacon in Constantinople, under the protection of Saint John Chrysostom, and later a priest in Rome.\n\nAround 415, he settled in Marseille, in Gaul, where he founded two monasteries — one for men and one for women —, contributing decisively to the beginning of organized monasticism in the Latin West. His main works, the «Institutes» and the «Conferences», gather the practical and spiritual teachings collected from the Egyptian monks, and directly influenced the Rule of Saint Benedict.\n\nHe died around 435. His reflection on the relationship between divine grace and human effort in the spiritual life, later associated with the \"Semi-Pelagian\" controversy, generated theological debate already in his own time, but did not prevent his work from remaining fundamental reading in the monastic tradition to this day, especially in the Christian East, where he is venerated as a saint.",
+      "tags": [
+        "monasticism",
+        "Gaul",
+        "4th century",
+        "5th century",
+        "Egypt"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "regiao": "Gaul (Marseille, present-day France)",
+      "seculo": "IV-V",
+      "e_doutor": false,
+      "fontes": [
+        "John Cassian, «Conferences»",
+        "John Cassian, «Institutes»"
+      ]
+    },
+    {
+      "id": "padres-da-igreja:leao-magno",
+      "slug": "leao-magno",
+      "titulo": "Leo the Great",
+      "categoria": "padres-da-igreja",
+      "resumo": "Fifth-century pope whose \"Tome to Flavian\" defined the Christological doctrine of the Council of Chalcedon.",
+      "corpo": "Leo was elected pope in 440 and governed the Church of Rome for 21 years, in a period of grave political instability in the Western Roman Empire. He stood out as a preacher and as a defender of the Church's doctrinal unity in the face of the Christological controversies that were then dividing the Christian East.\n\nHis most decisive intervention was the so-called \"Tome to Flavian\" (449), a doctrinal letter sent to the patriarch of Constantinople against the Monophysite heresy of Eutyches, who denied the full humanity of Christ. Read at the Council of Chalcedon (451), the text was acclaimed by the bishops present as a faithful expression of the apostolic faith on the union, \"without confusion, without change, without division, without separation\", of the divine and human natures in Christ, becoming the basis of the conciliar dogmatic definition.\n\nHe is also remembered for having dissuaded Attila, king of the Huns, from advancing on Rome in 452, in an encounter that tradition turned into a symbol of the moral authority of the papacy in the face of the collapse of imperial power. He died in 461 and was proclaimed a Doctor of the Church in 1754 by Pope Benedict XIV.",
+      "tags": [
+        "popes",
+        "Chalcedon",
+        "Christology",
+        "5th century",
+        "Rome"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mosaic_of_Saint_Pope_Leo_I_the_Great_at_the_Cappella_Palatina_in_Palermo.jpg",
+      "imagem_credito": "Photo: Holger Uwe Schmitt — Wikimedia Commons, CC BY 4.0",
+      "regiao": "Rome (Italy)",
+      "seculo": "V",
+      "e_doutor": true,
+      "fontes": [
+        "Saint Leo the Great, \"Tome to Flavian\" (449)",
+        "Acts of the Council of Chalcedon (451)"
+      ]
+    },
+    {
+      "id": "padres-da-igreja:pedro-crisologo",
+      "slug": "pedro-crisologo",
+      "titulo": "Saint Peter Chrysologus",
+      "categoria": "padres-da-igreja",
+      "resumo": "Bishop of Ravenna in the 5th century, nicknamed \"Chrysologus\" (golden word) for his brief, dense sermons.",
+      "corpo": "Peter was born around 380 in Imola, in northern Italy, where he was baptized, educated, and ordained a deacon by the local bishop, Cornelius. Around 433, he was elected bishop of Ravenna, then the capital of the Western Roman Empire and seat of the court of the Empress Galla Placidia, whose close adviser he became.\n\nHe became known by the nickname \"Chrysologus\" (from the Greek, \"golden word\") for his sermons — about one hundred and seventy-six homilies survive — marked by brevity, clarity, and doctrinal richness, often devoted to explaining to the faithful the Creed, the Our Father, and the main truths of the faith in an accessible way, without giving up theological rigor.\n\nHe died around 450 in his native city, to which he had returned. He was proclaimed a Doctor of the Church in 1729 by Pope Benedict XIII, with the title \"Doctor of Homilies,\" because of the lasting influence of his preaching on the art of Christian homiletics.",
+      "tags": [
+        "Ravenna",
+        "5th century",
+        "preaching",
+        "Italy"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "regiao": "Ravenna (Italy)",
+      "seculo": "V",
+      "e_doutor": true,
+      "fontes": [
+        "Saint Peter Chrysologus, \"Sermons\"",
+        "Roman Martyrology, July 30"
+      ]
+    },
+    {
+      "id": "padres-da-igreja:joao-damasceno",
+      "slug": "joao-damasceno",
+      "titulo": "John of Damascus",
+      "categoria": "padres-da-igreja",
+      "resumo": "Eighth-century monk of Jerusalem, the last great representative of Greek patristics and a defender of the veneration of icons.",
+      "corpo": "John was born around 676 in Damascus, then under the rule of the Umayyad caliphate, into a prominent Christian family involved in the local administration; according to tradition, he himself held an office at court before withdrawing to the Monastery of Mar Saba, near Jerusalem, where he was ordained a priest.\n\nHis most important work, «The Fount of Knowledge», is a broad synthesis of philosophy, the history of heresies, and the orthodox Christian faith, and it exerted enormous influence both in the East and, later, in the medieval West. He became famous above all for his three «Apologetic Treatises Against Those Who Decry the Holy Images», written during the Byzantine iconoclast crisis, in which he argues that the veneration of icons is legitimate precisely because of the Incarnation: God became visible in Christ, and for this reason he can be represented and venerated in images.\n\nHe died around 749. He is considered the last of the great Fathers of the Greek tradition and was proclaimed a Doctor of the Church in 1890 by Pope Leo XIII.",
+      "tags": [
+        "Damascus",
+        "7th century",
+        "8th century",
+        "icons",
+        "Syria"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/John-of-Damascus_01.jpg",
+      "imagem_credito": null,
+      "regiao": "Damascus (Syria)",
+      "seculo": "VII-VIII",
+      "e_doutor": true,
+      "fontes": [
+        "John of Damascus, «The Fount of Knowledge»",
+        "John of Damascus, «Apologetic Treatises Against Those Who Decry the Holy Images»"
+      ]
+    },
+    {
+      "id": "padres-da-igreja:beda-o-veneravel",
+      "slug": "beda-o-veneravel",
+      "titulo": "Bede the Venerable",
+      "categoria": "padres-da-igreja",
+      "resumo": "English monk of the eighth century, author of the \"Ecclesiastical History of the English People\", considered the \"father of English history\".",
+      "corpo": "Bede was born around 673 in Northumbria, in northern England, and at the age of seven was entrusted to the care of the monks of the monastery of Monkwearmouth-Jarrow, where he would live for the rest of his life, ordained a deacon at nineteen and a priest at thirty.\n\nHe devoted himself to study and teaching, leaving some sixty works on biblical exegesis, grammar, natural sciences, chronology and history. His masterpiece, the \"Ecclesiastical History of the English People\" (731), recounts the evangelization of Anglo-Saxon England and is one of the most important historiographical sources of the European High Middle Ages, earning him the title \"father of English history\".\n\nHe died on May 25, 735, in Jarrow. He was proclaimed a Doctor of the Church in 1899 by Pope Leo XIII, being the only English author to receive this title, and the epithet \"Venerable\" had already been attributed to him within a few generations after his death.",
+      "tags": [
+        "England",
+        "7th century",
+        "8th century",
+        "history",
+        "monasticism"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "regiao": "Northumbria (England)",
+      "seculo": "VII-VIII",
+      "e_doutor": true,
+      "fontes": [
+        "Bede the Venerable, \"Historia Ecclesiastica Gentis Anglorum\"",
+        "Roman Martyrology, May 25"
+      ]
+    }
+  ]
+}

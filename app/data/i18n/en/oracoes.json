@@ -1,0 +1,865 @@
+{
+  "_meta": {
+    "categoria": "oracoes",
+    "nome": "Prayers",
+    "descricao": "Traditional Catholic prayers — the text to pray and a note on the origin and use of each one.",
+    "status": "exemplos-iniciais",
+    "aviso": "This is not an exhaustive catalog of Catholic prayers — there are hundreds. Each text was checked against a reliable source; where there is no single text fixed by the liturgy, this is stated explicitly in the body of the entry.",
+    "revisao_editorial": "Fixed liturgical texts (Our Father, Hail Mary, Glory Be to the Father, Creed, Hail, Holy Queen) follow the Portuguese version widely used in Brazilian parishes. Where there are popular variants with no single official text (Angel of God, Act of Contrition, prayers to Saint Benedict), this is stated in the body, and the chosen text is identified as one version among others.",
+    "fontes_gerais": [
+      "Catechism of the Catholic Church, Part Four (\"Christian Prayer\")",
+      "Liturgy of the Hours (Divine Office)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "oracoes:pai-nosso",
+      "slug": "pai-nosso",
+      "titulo": "Our Father",
+      "categoria": "oracoes",
+      "resumo": "The prayer taught by Jesus himself to his disciples, a model for all Christian prayer.",
+      "corpo": "The Our Father is the only prayer that, according to the Gospels, Jesus himself taught to his disciples, in response to the request \"Lord, teach us to pray\" (Lk 11:1). It appears in two versions in the New Testament — a shorter one in Luke (11:2-4) and a more developed one in Matthew (6:9-13), within the Sermon on the Mount —, and it is the version in Matthew that gave rise to the traditional liturgical text.\n\nThe Catechism of the Catholic Church calls the Our Father the \"summary of the whole Gospel\" and devotes to it the entire fourth part of its exposition of the faith, one petition at a time. It is prayed in practically every Catholic liturgical celebration — at Mass, in the Rosary, in the Divine Office — and is, for this reason, the prayer most often repeated by a Catholic throughout life.\n\nThe final doxology used at Mass (\"For the kingdom, the power and the glory are yours, now and for ever\") is not in the original biblical text: it was added by the ancient liturgical tradition and is maintained today as the response of the people after the priest's prayer — for this reason it is not part of the text of the private prayer itself.",
+      "tags": [
+        "prayer",
+        "gospel",
+        "liturgy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Brooklyn_Museum_-_The_Lord%27s_Prayer_%28Le_Pater_Noster%29_-_James_Tissot.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Gospel of Matthew 6:9-13",
+        "Gospel of Luke 11:2-4",
+        "Catechism of the Catholic Church, nos. 2759-2865"
+      ],
+      "texto": "Our Father, who art in heaven,\nhallowed be thy name;\nthy kingdom come;\nthy will be done\non earth as it is in heaven.\nGive us this day our daily bread,\nand forgive us our trespasses\nas we forgive those who trespass against us;\nand lead us not into temptation,\nbut deliver us from evil.\nAmen.",
+      "uso": "Daily prayer, Holy Mass, Rosary (at each decade), Divine Office",
+      "origem": "Gospel of Matthew 6:9-13; Gospel of Luke 11:2-4"
+    },
+    {
+      "id": "oracoes:ave-maria",
+      "slug": "ave-maria",
+      "titulo": "Hail Mary",
+      "categoria": "oracoes",
+      "resumo": "A greeting to Mary that joins the words of the angel Gabriel and of Elizabeth in the Gospel to a plea for intercession.",
+      "corpo": "The first half of the Hail Mary joins two biblical greetings: that of the angel Gabriel to Mary at the Annunciation — \"Hail, full of grace, the Lord is with thee\" (Lk 1:28) — and that of Elizabeth at the meeting of the Visitation — \"Blessed art thou among women, and blessed is the fruit of thy womb\" (Lk 1:42). This biblical part was already used in prayers from the first centuries of Christianity.\n\nThe second half — \"Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death\" — is a later addition, of medieval origin, consolidated especially from the fifteenth century onward and officially fixed in the reform of the Roman Breviary of 1568, under Pius V.\n\nIt is the prayer most often repeated in the Rosary — each decade has ten Hail Marys — and one of the first that a Catholic child learns, together with the Our Father and the Sign of the Cross.",
+      "tags": [
+        "prayer",
+        "Mary",
+        "Gospel",
+        "Rosary"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/La_Anunciaci%C3%B3n_%28Fra_Angelico-Prado%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Gospel of Luke 1:26-45",
+        "Catechism of the Catholic Church, nos. 2676-2677"
+      ],
+      "texto": "Hail Mary, full of grace,\nthe Lord is with thee;\nblessed art thou among women,\nand blessed is the fruit of thy womb, Jesus.\nHoly Mary, Mother of God,\npray for us sinners,\nnow and at the hour of our death.\nAmen.",
+      "uso": "Rosary (ten per decade), Angelus, daily prayer",
+      "origem": "Gospel of Luke 1:28 and 1:42 (first part); medieval addition fixed in the Roman Breviary of 1568 (second part)"
+    },
+    {
+      "id": "oracoes:gloria-ao-pai",
+      "slug": "gloria-ao-pai",
+      "titulo": "Glory Be to the Father",
+      "categoria": "oracoes",
+      "resumo": "A brief Trinitarian doxology prayed at the end of psalms, of the Rosary, and of various liturgical prayers.",
+      "corpo": "The \"Glory Be to the Father\" (in Latin, \"Gloria Patri\") is a doxology — a brief formula of praise to the Most Holy Trinity — of very ancient use in Christian liturgy, with records already in the fourth century. Its function is to close longer prayers by returning them to their ultimate purpose: every Christian prayer ends in praise of God the Father, the Son, and the Holy Spirit.\n\nIt is prayed at the end of each psalm in the Divine Office, at the end of each decade of the Rosary, and at various other liturgical moments. The second part (\"as it was in the beginning, is now, and ever shall be\") affirms the eternity of the Trinity against the Arian heresies of the first centuries, which denied the full divinity of the Son and of the Holy Spirit.",
+      "tags": [
+        "prayer",
+        "Trinity",
+        "liturgy",
+        "Rosary"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Andrey_Rublev_-_%D0%A1%D0%B2._%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B0_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, no. 2641 (Trinitarian praise)"
+      ],
+      "texto": "Glory be to the Father, and to the Son,\nand to the Holy Spirit.\nAs it was in the beginning, is now, and ever shall be,\nworld without end.\nAmen.",
+      "uso": "End of psalms, Rosary (at each decade), Divine Office",
+      "origem": "Liturgical use attested since the fourth century"
+    },
+    {
+      "id": "oracoes:credo-dos-apostolos",
+      "slug": "credo-dos-apostolos",
+      "titulo": "The Apostles' Creed",
+      "categoria": "oracoes",
+      "resumo": "The oldest profession of faith of the Latin Church, summarizing in twelve articles what the Christian believes.",
+      "corpo": "The Apostles' Creed (or Symbol of the Apostles) is the oldest baptismal profession of faith of the Church of Rome, with roots in an ancient baptismal formula of the 2nd century, although it was not literally written by the twelve apostles — the tradition that attributes one article to each of them, already attested by Saint Ambrose in the 4th century, is symbolic, not historical in the literal sense.\n\nIt has been divided, since antiquity, into twelve articles, each stating a central point of the Christian faith: God the Father the creator, Jesus Christ — conception, birth, passion, death, resurrection, ascension, final judgment —, the Holy Spirit, and the realities of the Church, the sacraments and eternal life.\n\nIt is recited at Baptism and is one of the two forms of creed accepted at Sunday Mass, together with the Niceno-Constantinopolitan Creed — which is longer, the same one defined at the councils of Nicaea (325) and Constantinople (381); see the category «Councils».",
+      "tags": [
+        "prayer",
+        "creed",
+        "faith",
+        "baptism"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nicaea_icon.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 194-195",
+        "Saint Ambrose, «Explanatio Symboli» (4th century)"
+      ],
+      "texto": "I believe in God, the Father almighty,\nCreator of heaven and earth,\nand in Jesus Christ, his only Son, our Lord,\nwho was conceived by the Holy Spirit,\nborn of the Virgin Mary,\nsuffered under Pontius Pilate,\nwas crucified, died and was buried;\nhe descended into hell;\non the third day he rose again from the dead;\nhe ascended into heaven,\nand is seated at the right hand of God the Father almighty;\nfrom there he will come to judge the living and the dead.\nI believe in the Holy Spirit,\nthe holy catholic Church,\nthe communion of saints,\nthe forgiveness of sins,\nthe resurrection of the body,\nand life everlasting.\nAmen.",
+      "uso": "Baptism, beginning of the Rosary, Sunday Mass (alternative to the Nicene Creed)",
+      "origem": "Ancient Roman baptismal formula (c. 2nd century), fixed around the 8th century"
+    },
+    {
+      "id": "oracoes:santo-anjo",
+      "slug": "santo-anjo",
+      "titulo": "Angel of God (Prayer to the Guardian Angel)",
+      "categoria": "oracoes",
+      "resumo": "A request for protection addressed to the angel whom, according to Catholic faith, God appoints to accompany each person.",
+      "corpo": "The belief in a personal guardian angel, appointed by God to accompany and protect each human being throughout life, has biblical roots (Ps 91:11; Mt 18:10) and is celebrated in the liturgical memorial of the Holy Guardian Angels on October 2.\n\nThe prayer «Santo Anjo do Senhor» is the Portuguese version of a medieval Latin formula known as «Angele Dei» («Angel of God»), of uncertain authorship — traditionally associated with Reginald of Canterbury, a monk of the 11th-12th centuries. There are other popular versions and translations in use in Brazil, longer or in children's language («Anjo de Deus, meu guardião...»), with no single text officially fixed by the liturgy — unlike the Our Father or the Hail Mary, this is a prayer of popular devotion, not a fixed liturgical formula.\n\nIt is traditionally prayed upon waking and before going to sleep, as a request for protection for the day or the night that is beginning.",
+      "tags": [
+        "prayer",
+        "angels",
+        "protection"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bernhard_Plockhorst_-_Schutzengel.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Psalm 91:11",
+        "Gospel of Matthew 18:10",
+        "Roman Martyrology, October 2 (Holy Guardian Angels)"
+      ],
+      "texto": "Angel of God, my guardian dear,\nto whom God's love commits me here,\never this day be at my side,\nto light and guard,\nto rule and guide.\nAmen.",
+      "uso": "Upon waking, before sleeping, daily prayer",
+      "origem": "Medieval Latin formula «Angele Dei», traditionally attributed to Reginald of Canterbury (11th-12th centuries)"
+    },
+    {
+      "id": "oracoes:salve-rainha",
+      "slug": "salve-rainha",
+      "titulo": "Hail, Holy Queen",
+      "categoria": "oracoes",
+      "resumo": "A medieval Marian antiphon that concludes the Rosary, invoking Mary as advocate and mother of mercy.",
+      "corpo": "The «Hail, Holy Queen» (in Latin, «Salve Regina») is one of the four great Marian antiphons of the Divine Office, of medieval origin — attributed, without definitive documentary certainty, to monks of the 11th century, among them Hermann the Cripple. It became one of the most widespread Marian prayers of Western Christianity.\n\nIts tone is markedly different from that of other Marian prayers: it describes the human condition as exile («this vale of tears», «poor banished children of Eve») and asks Mary to intercede with Jesus for those who are still pilgrims in this life — hence the title «our advocate».\n\nIt is traditionally prayed at the end of the Rosary and, in the Liturgy of the Hours, as the final antiphon of Compline — the last prayer of the day — in the period between the Solemnity of the Most Holy Trinity and Advent.",
+      "tags": [
+        "prayer",
+        "Mary",
+        "Rosary",
+        "liturgy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Coronation_of_Virgin_Jacopo_di_mino_Montepulciano.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Liturgy of the Hours, Compline",
+        "Catechism of the Catholic Church, no. 2677 (Marian titles of intercession)"
+      ],
+      "texto": "Hail, Holy Queen, Mother of Mercy,\nour life, our sweetness and our hope.\nTo thee do we cry, poor banished children of Eve;\nto thee do we send up our sighs,\nmourning and weeping in this valley of tears.\nTurn then, most gracious advocate,\nthine eyes of mercy toward us;\nand after this our exile,\nshow unto us the blessed fruit of thy womb, Jesus.\nO clement, O loving, O sweet Virgin Mary!\nPray for us, O holy Mother of God,\nthat we may be made worthy of the promises of Christ.\nAmen.",
+      "uso": "End of the Rosary, final antiphon of Compline (from Trinity Sunday to Advent)",
+      "origem": "Medieval composition (c. 11th century), authorship traditionally debated among Benedictine monks"
+    },
+    {
+      "id": "oracoes:ato-de-contricao",
+      "slug": "ato-de-contricao",
+      "titulo": "Act of Contrition",
+      "categoria": "oracoes",
+      "resumo": "Prayer of repentance for sins, a central part of the sacrament of Confession.",
+      "corpo": "The Act of Contrition is the prayer in which the penitent expresses, in his own words or with a ready-made formula, sorrow for having sinned and the resolution not to sin again — an element that the Catechism places among the essential acts of the penitent in the sacrament of Reconciliation, alongside the examination of conscience, the confession itself, and satisfaction (penance).\n\nMoral theology distinguishes \"perfect contrition\" — motivated by love of God, as in this formula (\"because you are infinitely good and I love you\") — from \"imperfect contrition\" or \"attrition,\" motivated, for example, by fear of damnation; both are accepted for sacramental absolution, but perfect contrition is regarded as the loftier motive.\n\nThere are several traditional versions in Portuguese, some longer than this one; the Church does not impose a single, fixed text, and the penitent may express contrition in his own words, provided that the content — repentance and purpose of amendment — is present.",
+      "tags": [
+        "prayer",
+        "confession",
+        "penance",
+        "sacraments"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Return_of_the_Prodigal_Son_1667-1670_Murillo.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1450-1460 (the acts of the penitent)",
+        "Compendium of the Catechism of the Catholic Church, Appendix A: Common Prayers (text of the prayer)"
+      ],
+      "texto": "My God, because you are infinitely good\nand I love you with all my heart,\nI am sorry for having offended you;\nand, with the help of your divine grace,\nI firmly resolve to amend my life\nand never offend you again.\nI ask and hope for forgiveness of my sins\nthrough your infinite mercy.\nAmen.",
+      "uso": "Sacrament of Confession (Reconciliation)",
+      "origem": "Traditional catechetical formula, in established use since at least the 16th century"
+    },
+    {
+      "id": "oracoes:cruz-de-sao-bento",
+      "slug": "cruz-de-sao-bento",
+      "titulo": "Cross of Saint Benedict",
+      "categoria": "oracoes",
+      "resumo": "Latin formula engraved on the Saint Benedict medal, traditionally used as protection against evil.",
+      "corpo": "The Saint Benedict medal bears, on the side with the cross, two series of Latin initials that summarize a formula of spiritual protection: «C S S M L — N D S M D» (May the Holy Cross be my light, let not the dragon be my guide) around the cross, and «C S P B» (Cross of the Holy Father Benedict) on its arms.\n\nOn the reverse, the initials «V R S — N S M V — S M Q L — I V B» summarize the «Vade Retro Satana» («Begone, Satan»), a formula of rejection of evil whose devotional origin goes back at least to the 17th century, when the medal began to be struck with this design at the Abbey of Metten, in Bavaria; the format most widespread today was established in 1880, for the 14th centenary of the birth of Saint Benedict.\n\nThe medal is not an amulet: the Church treats it as a sacramental — a sign that disposes a person to receive grace through faith and prayer, not an object with magical power of its own. It is traditionally associated with protection against temptations and with Saint Benedict's patronage over a good death, and it is usually blessed by a priest before use. Besides this formula of the medal, popular devotional prayers to Saint Benedict circulate — longer and without a single fixed text, distinct from the formula reproduced here.",
+      "tags": [
+        "prayer",
+        "Saint Benedict",
+        "sacramentals",
+        "protection"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Saint_Benedict_Medal.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Blessing of the Saint Benedict Medal, Roman Ritual",
+        "Order of Saint Benedict — Benedictine monastic tradition"
+      ],
+      "texto": "C S S M L — Crux Sacra Sit Mihi Lux\n(May the Holy Cross be my light)\nN D S M D — Non Draco Sit Mihi Dux\n(Let not the dragon be my guide)\n\nV R S — Vade Retro Satana\n(Begone, Satan)\nN S M V — Numquam Suade Mihi Vana\n(Never tempt me with your vanities)\nS M Q L — Sunt Mala Quae Libas\n(Evil are the things you offer me)\nI V B — Ipse Venena Bibas\n(Drink the poison yourself)\n\nC S P B — Crux Sancti Patris Benedicti\n(Cross of the Holy Father Benedict)",
+      "uso": "Personal devotion; medal worn or placed in rooms and buildings",
+      "origem": "Formula documented since the 17th century; current form of the medal established in 1880"
+    },
+    {
+      "id": "oracoes:angelus",
+      "slug": "angelus",
+      "titulo": "Angelus",
+      "categoria": "oracoes",
+      "resumo": "Traditional prayer made up of three versicles with Hail Marys, recited at dawn, at noon and at dusk, in memory of the Incarnation.",
+      "corpo": "The Angelus (from the Latin \"angelus\", angel) recalls the angel Gabriel's greeting to Mary at the Annunciation. Its structure — three biblical verses, each followed by a Hail Mary, and a concluding prayer — was consolidated around the 16th century, although the custom of praying at the ringing of bells at certain hours of the day is older. It is traditionally prayed at sunrise, at noon and at sunset, at the sound of the church bell; between Easter and Pentecost it is replaced by the \"Regina Caeli\".",
+      "tags": [
+        "prayer",
+        "Incarnation",
+        "Mary"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Botticelli%2C_annunciazione_del_Metropolitan.jpg",
+      "imagem_credito": null,
+      "texto": "V. The Angel of the Lord declared unto Mary.\nR. And she conceived of the Holy Spirit.\nHail Mary...\n\nV. Behold the handmaid of the Lord.\nR. Be it done unto me according to Thy word.\nHail Mary...\n\nV. And the Word was made Flesh.\nR. And dwelt among us.\nHail Mary...\n\nV. Pray for us, O holy Mother of God.\nR. That we may be made worthy of the promises of Christ.\n\nLet us pray: Pour forth, we beseech Thee, O Lord, Thy grace into our hearts; that we, to whom the Incarnation of Christ, Thy Son, was made known by the message of an angel, may by His Passion and Cross be brought to the glory of His Resurrection. Through the same Christ our Lord. Amen.",
+      "uso": "At dawn, at noon and at dusk",
+      "origem": "Devotional practice consolidated around the 16th century",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "oracoes:regina-coeli",
+      "slug": "regina-coeli",
+      "titulo": "Regina Coeli (Queen of Heaven)",
+      "categoria": "oracoes",
+      "resumo": "Marian Easter antiphon that replaces the Angelus during Eastertide, celebrating the Resurrection of Christ.",
+      "corpo": "The \"Regina Coeli\" is one of the four great Marian antiphons of the Divine Office, of medieval origin, traditionally sung at the end of Compline during Eastertide — from Easter Sunday to Pentecost. During this period it replaces the Angelus, adapting the invitation to the joy of the Resurrection, since Mary is here invited to rejoice because \"he whom you did merit to bear... has risen, as he said\".",
+      "tags": [
+        "prayer",
+        "Easter",
+        "Mary"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Pietro_Perugino_cat53.jpg",
+      "imagem_credito": null,
+      "texto": "Queen of Heaven, rejoice, alleluia.\nFor He whom you did merit to bear, alleluia,\nHas risen, as He said, alleluia.\nPray for us to God, alleluia.\n\nV. Rejoice and be glad, O Virgin Mary, alleluia!\nR. For the Lord has truly risen, alleluia!\n\nLet us pray: O God, who gave joy to the world through the resurrection of your Son, our Lord Jesus Christ, grant, we beseech you, that through the intercession of the Virgin Mary, his Mother, we may obtain the joys of everlasting life. Through Christ our Lord. Amen.",
+      "uso": "Eastertide, replaces the Angelus",
+      "origem": "Medieval antiphon of the Divine Office",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "oracoes:memorare",
+      "slug": "memorare",
+      "titulo": "Memorare (Remember, O Most Gracious Virgin Mary)",
+      "categoria": "oracoes",
+      "resumo": "A prayer of supplication to Mary, traditionally attributed to Saint Bernard of Clairvaux, invoking her maternal intercession.",
+      "corpo": "The \"Memorare\" — a name that comes from its first word in Latin, \"remember\" — is one of the most widespread Marian prayers, traditionally associated with Saint Bernard of Clairvaux, although its current form is clearly documented only from the seventeenth century onward, through the diffusion by a French priest, Claude Bernard. It appeals to the confidence that Mary has never failed to come to the aid of those who have turned to her.",
+      "tags": [
+        "prayer",
+        "Mary",
+        "trust"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Madonna_Advocata.png",
+      "imagem_credito": null,
+      "texto": "Remember, O most gracious Virgin Mary,\nthat never was it known\nthat anyone who fled to your protection,\nimplored your help,\nor sought your intercession,\nwas left unaided.\nInspired by this confidence,\nI fly unto you, O Virgin of virgins, my Mother;\nto you I come, before you I stand,\nsinful and sorrowful.\nO Mother of the Word Incarnate,\ndespise not my petitions,\nbut in your mercy hear and answer me.\nAmen.",
+      "uso": null,
+      "origem": "Traditionally attributed to Saint Bernard of Clairvaux; form widespread from the seventeenth century onward",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "oracoes:anima-christi",
+      "slug": "anima-christi",
+      "titulo": "Soul of Christ (Anima Christi)",
+      "resumo": "Eucharistic and Christ-centered prayer of medieval origin (14th century), often wrongly attributed to Saint Ignatius of Loyola, who spread it through the Spiritual Exercises.",
+      "corpo": "The \"Anima Christi\" (\"Soul of Christ\") is one of the best-known Latin prayers of the Catholic tradition, directed to the contemplation of the Passion of Christ and traditionally prayed after Communion. Each invocation goes through an aspect of Christ's body — the soul, the body, the blood, the water from the side, the Passion — and asks for the grace of purification, union and final perseverance; particularly famous is the petition «Within Thy wounds hide me», which makes the wounds of the Crucified One a refuge. The reference to the water that flows from the side (cf. Jn 19:34) points to the sacraments of Baptism and the Eucharist, which explains its natural place among the prayers of thanksgiving after Communion.\n\nAs for its origin, scholars agree that the text dates from the first half of the 14th century. The classic edition of the \"Catholic Encyclopedia\" (1907) records two facts on which practically all manuscripts agree: the prayer comes from the 14th century and was enriched with indulgences by Pope John XXII in 1330. The material evidence predates Saint Ignatius of Loyola (1491-1556): the English hymnologist James Mearns found the text in a British Museum manuscript dated to around 1370; in the library of Avignon there is preserved a prayer book of Cardinal Pierre de Luxembourg (died 1387) that already contains it in a form practically identical to the present one; and the text was engraved on one of the doors of the Alcázar of Seville, which goes back to the time of Peter the Cruel (1350-1369).\n\nThe authorship remains unknown and uncertain. For a long time the idea became popular that it had been composed by Saint Ignatius of Loyola, but this is a mistake: the prayer is found in prayer books printed in the saint's youth and in manuscripts written about a hundred years before his birth. Nor is it safe to attribute it to John XXII himself — the pontiff was falsely associated with other pious compositions, and it is easy to confuse the one who granted the indulgence with the real author. This is why the text sometimes appears under the title \"Aspirations of Saint Ignatius\".\n\nThe historical link with Ignatius, however, is real and explicable. He included it in the \"Spiritual Exercises\", but he did not compose it; rather, he presupposed it was known to the readers of his time — so much so that the initial mention merely points to it, without transcribing the full text. It is worth noting that this prayer did not appear in the autograph of the Exercises or in the first Latin versions: it began to be printed at the beginning of the book only from an edition published in Vilnius in 1583, and since then it has become a universal custom to place it on the first pages. The assumption, made by readers, that everything in the book had been written by Ignatius is what consolidated the mistaken attribution.\n\nOver the centuries the prayer was also welcomed into the liturgy: it appears in the breviary and in the missal among the prayers of thanksgiving after Mass. Popular devotion attaches various indulgences to its recitation after Communion, although the exactness of these figures varies according to the source. The \"Anima Christi\" thus remains a witness to the Eucharistic spirituality and Christ-centered piety of the late Middle Ages, prior to the great modern catechisms.",
+      "categoria": "oracoes",
+      "tags": [
+        "prayer",
+        "Eucharist",
+        "14th century",
+        "Saint Ignatius of Loyola",
+        "Spiritual Exercises",
+        "Passion of Christ",
+        "thanksgiving"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Anima_Christi_%28Antidotarium_animae_1490%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "\"Anima Christi\", entry in the Catholic Encyclopedia (1907), New York: Robert Appleton Company, by Samuel Frisbee",
+        "Hugo Rahner and the annotated translation of the Spiritual Exercises (note on the prayer \"Soul of Christ\", already found in a manuscript of c. 1370)",
+        "Wikipedia, entry \"Anima Christi\" (references to the British Museum manuscript, the book of Cardinal Pierre de Luxembourg and the inscription in the Alcázar of Seville)"
+      ],
+      "atualizado_em": null,
+      "texto": "Soul of Christ, sanctify me.\nBody of Christ, save me.\nBlood of Christ, inebriate me.\nWater from the side of Christ, wash me.\nPassion of Christ, strengthen me.\nO good Jesus, hear me.\nWithin Thy wounds hide me.\nPermit me not to be separated from Thee.\nFrom the malignant enemy defend me.\nIn the hour of my death call me,\nand bid me come to Thee,\nthat with Thy saints I may praise Thee\nforever and ever. Amen.",
+      "uso": "After Eucharistic Communion",
+      "origem": "Medieval Latin text (c. 14th century), spread by Saint Ignatius of Loyola"
+    },
+    {
+      "id": "oracoes:litania-de-loreto",
+      "slug": "litania-de-loreto",
+      "titulo": "Litany of Loreto (Litany of the Blessed Virgin Mary)",
+      "categoria": "oracoes",
+      "resumo": "A long series of Marian invocations and titles, originating in the Italian shrine of Loreto, traditionally prayed at the end of the Rosary.",
+      "corpo": "The Litany of Loreto takes its name from the Italian shrine where its form was consolidated, beginning in the sixteenth century, although it gathers Marian invocations from much older traditions — biblical, patristic and liturgical. Each invocation is followed by the response \"pray for us,\" and the list of titles was gradually expanded over the centuries by different popes, the most recent addition being \"Mother of Hope,\" by Francis in 2020.",
+      "tags": [
+        "prayer",
+        "Mary",
+        "litany",
+        "Loreto"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Gentile_da_Fabriano_-_Coronation_of_the_Virgin.jpg",
+      "imagem_credito": null,
+      "texto": "Lord, have mercy.\nChrist, have mercy.\nLord, have mercy.\n\nHoly Mary, pray for us.\nHoly Mother of God, pray for us.\nMother of Christ, pray for us.\nMother of the Church, pray for us.\n[...]\nQueen of Angels, pray for us.\nQueen of Patriarchs, pray for us.\nQueen of Prophets, pray for us.\nQueen of Apostles, pray for us.\nQueen of Martyrs, pray for us.\nQueen of Peace, pray for us.\n\nLamb of God, who takes away the sins of the world, spare us, O Lord.\nLamb of God, who takes away the sins of the world, graciously hear us, O Lord.\nLamb of God, who takes away the sins of the world, have mercy on us.",
+      "uso": "At the end of the Rosary, Marian processions",
+      "origem": "Consolidated at the shrine of Loreto (Italy), beginning in the sixteenth century",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "oracoes:litania-dos-santos",
+      "slug": "litania-dos-santos",
+      "titulo": "Litany of the Saints",
+      "categoria": "oracoes",
+      "resumo": "Sequential invocation of saints and blesseds, used in the liturgy of Baptism, Ordinations, and the Easter Vigil.",
+      "corpo": "The Litany of the Saints is one of the oldest liturgical prayers still in use, with forms documented since the first centuries of the Middle Ages. It is prayed or sung at solemn moments of the liturgy — the Easter Vigil, the Baptism of adults, priestly and episcopal ordinations, religious profession, and the dedication of churches —, invoking the intercession of the whole \"cloud of witnesses\" who have already attained heavenly glory.",
+      "tags": [
+        "prayer",
+        "litany",
+        "saints",
+        "liturgy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Albrecht_D%C3%BCrer_-_Adoration_of_the_Trinity_%28Landauer_Altar%29_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "texto": "Lord, have mercy.\nChrist, have mercy.\n\nHoly Mary, Mother of God, pray for us.\nSaint Michael, pray for us.\nSaint Joseph, pray for us.\nSaint Peter and Saint Paul, pray for us.\nSaint Andrew, pray for us.\nSaint John, pray for us.\n[other invocations, according to the celebration]\n\nBe merciful, Lord, deliver us.\nFrom all evil, Lord, deliver us.\nThrough your death and resurrection, Lord, deliver us.\n\nWe sinners, we beg you, hear us.",
+      "uso": "Easter Vigil, Baptism, ordinations, religious professions",
+      "origem": "Liturgical formulary attested since the early Middle Ages",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "oracoes:ato-de-fe-esperanca-caridade",
+      "slug": "ato-de-fe-esperanca-caridade",
+      "titulo": "Acts of Faith, Hope and Charity",
+      "categoria": "oracoes",
+      "resumo": "Three short prayers that profess, respectively, faith in God, hope in God and love of God, traditionally prayed together.",
+      "corpo": "The \"acts\" of faith, hope and charity are short formulas of explicit profession of the three theological virtues — faith, hope and charity — described by the Catechism as infused gifts that directly unite the Christian to God. They are traditionally taught in catechesis together with the Our Father, the Hail Mary and the Act of Contrition, although, like the latter, they do not have a single text imposed by the liturgy.",
+      "tags": [
+        "prayer",
+        "theological virtues",
+        "catechesis"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/La_Fe_%28L.S._Carmona%2C_MRABASF_E-108%29_01.jpg",
+      "imagem_credito": "Photo: Luis Salvador Carmona — Wikimedia Commons, CC BY-SA 3.0",
+      "texto": "Act of Faith:\nO my God, I firmly believe all the truths that the Holy Catholic Church believes and teaches,\nbecause you, who are infallible truth, have revealed them.\n\nAct of Hope:\nO my God, relying on your goodness and almighty power,\nand on the merits of Jesus Christ,\nI hope to obtain eternal life and the graces necessary to merit it,\nthrough the good works that I must and want to do.\n\nAct of Charity:\nO my God, I love you with my whole heart and above all things,\nbecause you are infinitely good and worthy of being loved,\nand I love my neighbor as myself, for love of you.",
+      "uso": "Catechesis; daily prayer",
+      "origem": "Traditional catechetical formulas",
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1812-1829 (the theological virtues)"
+      ]
+    },
+    {
+      "id": "oracoes:oracao-a-sao-miguel-arcanjo",
+      "slug": "oracao-a-sao-miguel-arcanjo",
+      "titulo": "Prayer to Saint Michael the Archangel",
+      "categoria": "oracoes",
+      "resumo": "A prayer for spiritual protection composed by Leo XIII in 1886 and recited, in some places, at the end of Mass until the liturgical reform of 1964.",
+      "corpo": "According to tradition, Pope Leo XIII had a disturbing spiritual experience that led him to compose this prayer of protection against evil in 1886, ordering it to be recited at the end of every Low Mass — a practice suspended after the liturgical reform of 1964, but kept out of devotion in many parishes and taken up again, as a recommendation, by John Paul II in 1994 in the face of the advance of secularism.",
+      "tags": [
+        "prayer",
+        "Saint Michael",
+        "spiritual protection"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/GuidoReni_MichaelDefeatsSatan.jpg",
+      "imagem_credito": null,
+      "texto": "Saint Michael the Archangel, defend us in battle.\nBe our defense against the wickedness and snares of the Devil.\nMay God rebuke him, we humbly pray;\nand do thou, O Prince of the heavenly host,\nby the power of God,\ncast into hell Satan and all the evil spirits\nwho prowl about the world seeking the ruin of souls. Amen.",
+      "uso": "At the end of Mass (traditional use); prayer of protection",
+      "origem": "Composed by Leo XIII in 1886",
+      "fontes": [
+        "Leo XIII, decree of institution (1886)"
+      ]
+    },
+    {
+      "id": "oracoes:coroazinha-da-divina-misericordia",
+      "slug": "coroazinha-da-divina-misericordia",
+      "titulo": "Chaplet of Divine Mercy",
+      "categoria": "oracoes",
+      "resumo": "A devotion prayed with rosary beads, revealed according to tradition to Saint Faustina Kowalska, appealing to divine mercy through the Passion of Christ.",
+      "corpo": "According to the diary of Saint Faustina Kowalska, Jesus is said to have taught her this prayer in 1935 as a way of appealing to divine mercy \"for the whole world,\" especially at the hour of death. It is prayed with rosary beads, replacing the Our Father and the Hail Mary with its own formulas, and is traditionally recited at 3 p.m., the hour that the devotion identifies with the moment of Christ's death on the cross — the \"Hour of Mercy.\"",
+      "tags": [
+        "prayer",
+        "divine mercy",
+        "Saint Faustina"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kazimirowski_Eugeniusz%2C_Divine_Mercy%2C_1934.jpg",
+      "imagem_credito": null,
+      "texto": "(On the Our Father beads:)\nEternal Father, I offer you the Body and Blood, Soul and Divinity of your dearly beloved Son, our Lord Jesus Christ, in atonement for our sins and those of the whole world.\n\n(On the ten Hail Mary beads, ten times:)\nFor the sake of his sorrowful Passion, have mercy on us and on the whole world.\n\n(At the end, three times:)\nHoly God, Holy Mighty One, Holy Immortal One, have mercy on us and on the whole world.",
+      "uso": "Rosary, traditionally at 3 p.m. (\"Hour of Mercy\")",
+      "origem": "According to tradition, revealed to Saint Faustina Kowalska in 1935",
+      "fontes": [
+        "Saint Faustina Kowalska, «Diary»"
+      ]
+    },
+    {
+      "id": "oracoes:misterios-do-rosario",
+      "slug": "misterios-do-rosario",
+      "titulo": "The Mysteries of the Rosary",
+      "categoria": "oracoes",
+      "resumo": "The four series of meditations — Joyful, Sorrowful, Glorious and Luminous — that structure the recitation of the Rosary.",
+      "corpo": "The Rosary combines the vocal recitation of Hail Marys with meditation on episodes from the life of Christ and of Mary, traditionally organized into three series of five \"mysteries\" — Joyful, Sorrowful and Glorious —, each associated with a day of the week. In 2002, John Paul II, through the apostolic letter «Rosarium Virginis Mariae», added a fourth series, the \"Luminous Mysteries\", devoted to the public life of Jesus, completing the contemplation of the whole mystery of Christ.",
+      "tags": [
+        "prayer",
+        "Rosary",
+        "Mary",
+        "meditation"
+      ],
+      "imagem": "/img-acervo/misterios-do-rosario.jpg",
+      "imagem_credito": "Photo: James Coleman / Unsplash",
+      "texto": "Joyful Mysteries (Mondays and Saturdays): the Annunciation; the Visitation; the Nativity of Jesus; the Presentation in the Temple; the Finding of the Child Jesus in the Temple.\n\nLuminous Mysteries (Thursdays): the Baptism of Jesus; the Wedding at Cana; the Proclamation of the Kingdom of God; the Transfiguration; the Institution of the Eucharist.\n\nSorrowful Mysteries (Tuesdays and Fridays): the Agony in the Garden; the Scourging at the Pillar; the Crowning with Thorns; Jesus Carries the Cross; the Crucifixion and Death.\n\nGlorious Mysteries (Wednesdays and Sundays): the Resurrection; the Ascension; the Descent of the Holy Spirit; the Assumption of Mary; the Coronation of Mary as Queen.",
+      "uso": "Daily Rosary",
+      "origem": "Traditional structure (15th-16th centuries); Luminous Mysteries added in 2002",
+      "fontes": [
+        "John Paul II, Apostolic Letter «Rosarium Virginis Mariae» (2002)"
+      ]
+    },
+    {
+      "id": "oracoes:veni-creator-spiritus",
+      "slug": "veni-creator-spiritus",
+      "titulo": "Veni Creator Spiritus (Come, Creator Spirit)",
+      "categoria": "oracoes",
+      "resumo": "Medieval hymn to the Holy Spirit, traditionally sung at Pentecost, ordinations, synods and conclaves.",
+      "corpo": "Traditionally attributed to Rabanus Maurus, a ninth-century monk and archbishop, although authorship is not unanimous among historians, the \"Veni Creator Spiritus\" is one of the most solemn hymns of the Latin tradition, invoking the action of the Holy Spirit. It is sung at important institutional moments of the Church — the opening of papal conclaves, episcopal and priestly ordinations, synods and councils, as well as the solemnity of Pentecost itself.",
+      "tags": [
+        "prayer",
+        "Holy Spirit",
+        "Pentecost",
+        "hymn"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "texto": "Come, Holy Ghost, Creator blest,\nand in our hearts take up Thy rest;\ncome with Thy grace and heavenly aid,\nand fill the hearts which Thou hast made.\n\nO Comforter, to Thee we cry,\nThou heavenly gift of God Most High,\nThou fount of life and fire of love,\nand sweet anointing from above.\n\n[remaining stanzas of the Latin liturgical hymn]\n\nAll glory to the Father be,\nwith His co-equal Son, the same\nwho rose from death, and to the Spirit, the Comforter,\nfor all eternity. Amen.",
+      "uso": "Pentecost, ordinations, conclaves, synods",
+      "origem": "Traditionally attributed to Rabanus Maurus (9th century)",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "oracoes:te-deum",
+      "slug": "te-deum",
+      "titulo": "Te Deum",
+      "categoria": "oracoes",
+      "resumo": "An ancient Latin hymn of praise and thanksgiving, sung on solemn occasions of ecclesial or civic celebration.",
+      "corpo": "Of uncertain authorship (tradition has associated it with Saint Ambrose and Saint Augustine, without documentary confirmation), the \"Te Deum\" is a hymn of praise to the Trinity sung since late Antiquity on occasions of particular solemnity and thanksgiving: the canonization of saints, the election of a pope, the turn of the civil year on the night of December 31, and civic celebrations of great historical significance.",
+      "tags": [
+        "prayer",
+        "praise",
+        "thanksgiving",
+        "hymn"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Masaccio%2C_Holy_Trinity%2C_1425-28%2C_Santa_Maria_Novella%2C_Florence.jpg",
+      "imagem_credito": null,
+      "texto": "You are God: we praise you;\nYou are the Lord: we acclaim you;\nYou are the eternal Father:\nAll creation worships you.\nTo you all angels, all the powers of heaven,\nCherubim and Seraphim, sing in endless praise:\nHoly, holy, holy Lord, God of power and might,\nheaven and earth are full of your glory.\n\n[remaining stanzas of the Latin liturgical hymn, throughout which the Trinity is praised and divine protection is sought]",
+      "uso": "Canonizations, papal elections, the turn of the year, solemn thanksgivings",
+      "origem": "Hymn of uncertain authorship, attested since late Antiquity",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "oracoes:magnificat",
+      "slug": "magnificat",
+      "titulo": "Magnificat (Canticle of Mary)",
+      "categoria": "oracoes",
+      "resumo": "Mary's canticle of praise at the Visitation, part of the daily liturgy of Vespers.",
+      "corpo": "The \"Magnificat\" is the hymn that the Gospel of Luke (1:46-55) places on the lips of Mary during her visit to her cousin Elizabeth, right after the Annunciation. Structured as a prophetic song of praise that celebrates God's action on behalf of the lowly and against the powerful and the rich, echoing the canticle of Hannah in the First Book of Samuel, it became a fixed part of the daily liturgy of Vespers in the Latin tradition.",
+      "tags": [
+        "prayer",
+        "Mary",
+        "liturgy of the hours"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/The_Visitation_of_Mary_to_Elizabeth._Watercolour_painting._Wellcome_V0034594.jpg",
+      "imagem_credito": "Photo: Wellcome Collection — Wikimedia Commons, CC BY 4.0",
+      "texto": "My soul proclaims the greatness of the Lord,\nmy spirit rejoices in God my Savior;\nfor he has looked upon his lowly servant.\nFrom this day all generations will call me blessed:\nthe Almighty has done great things for me,\nand holy is his Name.\nHe has mercy on those who fear him\nin every generation.\nHe has shown the strength of his arm,\nhe has scattered the proud in their conceit.\nHe has cast down the mighty from their thrones,\nand has lifted up the lowly.\nHe has filled the hungry with good things,\nand the rich he has sent away empty.\nHe has come to the help of his servant Israel,\nfor he has remembered his promise of mercy,\nthe promise he made to our fathers,\nto Abraham and his children for ever.",
+      "uso": "Vespers (daily divine office)",
+      "origem": "Gospel of Luke 1:46-55",
+      "fontes": [
+        "Gospel of Luke 1:46-55"
+      ]
+    },
+    {
+      "id": "oracoes:bendito-e-louvado-seja",
+      "slug": "bendito-e-louvado-seja",
+      "titulo": "Blessed Be God (Divine Praises)",
+      "categoria": "oracoes",
+      "resumo": "A brief litany of blessing in honor of the Most Blessed Sacrament, traditionally prayed at the end of Eucharistic Benediction or in reparation for blasphemies.",
+      "corpo": "This series of invocations, also called the \"Act of Reparation\" or the \"Divine Praises,\" has Italian devotional origins in the 18th century, linked to practices of reparation for blasphemies against the name of God, and became widely spread in association with Benediction of the Most Blessed Sacrament. Each invocation successively blesses God, Jesus, his name, his Blood, his Heart, the Eucharist, Mary and the saints.",
+      "tags": [
+        "prayer",
+        "Eucharist",
+        "reparation",
+        "litany"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Genaro_P%C3%A9rez_Villaamil_-_The_Corpus_Christi_Procession_inside_Seville_Catedral_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "texto": "Blessed be God.\nBlessed be His Holy Name.\nBlessed be Jesus Christ, true God and true Man.\nBlessed be the Name of Jesus.\nBlessed be His Most Sacred Heart.\nBlessed be His Most Precious Blood.\nBlessed be Jesus in the Most Holy Sacrament of the Altar.\nBlessed be the Holy Spirit, the Paraclete.\nBlessed be the great Mother of God, Mary most holy.\nBlessed be her holy and Immaculate Conception.\nBlessed be the name of Mary, Virgin and Mother.\nBlessed be Saint Joseph, her most chaste spouse.\nBlessed be God in His angels and in His saints.",
+      "uso": "Benediction of the Most Blessed Sacrament",
+      "origem": "Italian devotion of the 18th century, linked to practices of reparation",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "oracoes:consagracao-a-nossa-senhora-breve",
+      "slug": "consagracao-a-nossa-senhora-breve",
+      "titulo": "Consecration to Our Lady (short formula)",
+      "resumo": "A short formula of personal self-giving to Mary, an expression of the spirituality of \"total consecration\" systematized by Saint Louis Marie Grignion de Montfort in the \"Treatise on True Devotion\".",
+      "corpo": "The \\\"Consecration to Our Lady\\\" presented here is a short formula of personal self-giving to Mary — the faithful offers her «eyes, ears, mouth, heart, my whole being without reserve». The practice goes back to a long-standing spiritual current: the idea of becoming a «servant» or «slave» of Mary already appears in documented cases throughout the Middle Ages, and the public and systematic form of \\\"total consecration\\\" crystallized in the seventeenth century, linked above all to the figure of Saint Louis Marie Grignion de Montfort.\n\nLouis Marie Grignion was born on January 31, 1673 in Montfort-sur-Meu, in Brittany, into a deeply Christian family, and was ordained a priest at about the age of 27. A popular missionary, he preached amid the religious crisis in France marked by the Jansenist controversy, and in 1706 he made a pilgrimage on foot to Rome, where he received from Pope Clement XI the title of \\\"Apostolic Missionary\\\". He died on April 28, 1716, at about 43 years of age. His central work on the subject — the «Treatise on True Devotion to the Blessed Virgin» (in French, «Traité de la vraie dévotion à la Sainte Vierge») — was written in the last years of his life, probably around 1712. In it Montfort states that «the most perfect consecration to Jesus Christ is nothing else but a perfect and entire consecration of oneself to the Blessed Virgin».\n\nThe history of the manuscript itself is remarkable and adds a little-known detail: the Treatise remained hidden for about 130 years. It is supposed that Montfort entrusted it to the care of the bishop of La Rochelle; the work was only found in the archives of the Montfort Fathers in 1842 and was first published in 1843. The author had foreseen, in the text itself, the hostility and oblivion that would surround the writing. The devotion spread widely from the nineteenth century onward, serving as inspiration for numerous communities.\n\nThe short formula collected here is one of the short versions most used in daily personal devotion, distinct from other longer formulas and from the multi-day preparations that usually precede the consecration. Montfort's spiritual itinerary has had a lasting echo in recent magisterium and piety: Pope John Paul II, who inscribed the saint in the General Calendar of the Church in 1996, adopted as his papal motto the «Totus tuus» («All yours»), drawn precisely from this spirituality of total consecration to Mary. Saint Louis Marie Grignion de Montfort was beatified by Leo XIII in 1888 and canonized by Pius XII in 1947.",
+      "categoria": "oracoes",
+      "tags": [
+        "prayer",
+        "Marian consecration",
+        "personal devotion",
+        "Mary",
+        "Saint Louis Marie Grignion de Montfort",
+        "Totus tuus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Louis_de_Montfort.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Louis Marie Grignion de Montfort, \"Treatise on True Devotion to the Blessed Virgin\" (written c. 1712; found in 1842 and published in 1843)",
+        "Wikipedia, \"Treatise on True Devotion to the Blessed Virgin\" (context of the composition and dissemination of the manuscript)",
+        "Vatican News, profile of \"St. Louis Marie Grignion de Montfort\" (birth, ordination, title of Apostolic Missionary in 1706, beatification in 1888 and canonization in 1947)",
+        "Wikipedia, \"Louis de Montfort\" (John Paul II's motto \"Totus tuus\" inspired by Montfortian consecration)"
+      ],
+      "atualizado_em": null,
+      "texto": "O my Lady, O my Mother,\nI offer myself entirely to you.\nAnd, in proof of my filial affection,\nI consecrate to you this day my eyes, my ears, my mouth, my heart,\nmy whole being without reserve.\nSince I am thus yours, O good Mother,\nguard me and defend me as your property and possession. Amen.",
+      "uso": null,
+      "origem": "Tradition of Marian spirituality systematized by Saint Louis de Montfort (17th-18th century)"
+    },
+    {
+      "id": "oracoes:oracao-antes-e-depois-das-refeicoes",
+      "slug": "oracao-antes-e-depois-das-refeicoes",
+      "titulo": "Prayer Before and After Meals",
+      "categoria": "oracoes",
+      "resumo": "Brief formulas for blessing the table and giving thanks, practiced in the Christian tradition since the first centuries.",
+      "corpo": "The practice of blessing food before eating and giving thanks afterward is based on the example of Jesus himself, who \"took bread, and when he had given thanks\" before breaking it (Lk 22:19), and is attested in Christian home life since antiquity. There is no single, obligatory liturgical formula for family use; those reproduced here are the most common in the Portuguese-language tradition.",
+      "tags": [
+        "prayer",
+        "blessing of the table",
+        "daily life"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Eric_Enstrom_-_Grace_-_bw.jpg",
+      "imagem_credito": null,
+      "texto": "Before the meal:\nBless us, O Lord, and these thy gifts,\nwhich we are about to receive from thy bounty.\nThrough Christ our Lord. Amen.\n\nAfter the meal:\nWe give thee thanks, almighty God,\nfor all thy benefits,\nwho lives and reigns\nforever and ever. Amen.",
+      "uso": "Before and after meals",
+      "origem": "Christian home practice attested since antiquity",
+      "fontes": [
+        "Gospel of Luke 22:19"
+      ]
+    },
+    {
+      "id": "oracoes:coroa-franciscana",
+      "slug": "coroa-franciscana",
+      "titulo": "Franciscan Crown (Rosary of the Seven Joys of Mary)",
+      "resumo": "A Franciscan devotion of seven decades of Hail Marys, meditating on seven Marian joys linked to the life of Christ, with 72 Hail Marys in all.",
+      "corpo": "The Franciscan Crown — also called the Seraphic Rosary, the Franciscan Rosary or the Rosary of the Seven Joys of Our Lady — is organized into seven decades of Hail Marys, instead of the five of the traditional Rosary. In each decade one of the \"seven joys\" of the Virgin Mary is meditated upon: the Annunciation, the Visitation, the Nativity of Jesus, the Adoration of the Magi, the finding of the Child in the Temple, the Resurrection of Christ, and the Assumption and Coronation of Mary. The devotion developed in the early fifteenth century, in Italy, among the Franciscans; its themes bear a resemblance to the Latin \"Gaudes\" of the twelfth century, praises that invited Mary to rejoice in the favors received from God.\n\nThe origin is linked to a tradition recounted by the Irish Franciscan historian Friar Luke Wadding (1588-1657), who dates the event to the year 1422. According to this account, in Assisi, the Virgin appeared to a Franciscan novice named James. As a child, he had the custom of offering Mary a crown of roses every day; on entering the Order of Friars Minor, he was distressed that he could no longer do so. Mary is said to have come to console him and showed him another daily offering: to pray seven decades of Hail Marys, meditating in each one on the seven joys of her life. The tradition also tells that the novice master saw him praying accompanied by an angel, who wove a crown of roses, inserting a golden lily after each decade; at the end of the prayer, the angel placed the crown upon James. Once the explanation was heard, the devotion spread throughout the Franciscan family.\n\nThe numerical structure is significant: to the seven decades (70 Hail Marys) two final Hail Marys are added, for a total of 72, a number that commemorates the 72 years that, according to tradition, Mary lived on earth. The seven decades do not need to be prayed all at once. In penitential seasons, such as Lent, the seven joys may be replaced by the seven sorrows of Mary. The devotion is especially popular among Franciscans, Cistercians and the Annunciades of Saint Joan of France.\n\nA frequently cited fact is that the Franciscan Crown received a great number of indulgences granted by various pontiffs over the centuries, coming to be considered one of the most indulgenced devotions of the Catholic Church. It is important to note that, in order to receive the associated indulgences, it was not required that one use a specifically Franciscan rosary. The crown also spread as a devotion of groups, confraternities and families linked to seraphic spirituality, remaining to this day among the traditional forms of Marian piety.",
+      "categoria": "oracoes",
+      "tags": [
+        "prayer",
+        "Franciscans",
+        "Mary",
+        "rosary",
+        "seven joys",
+        "fifteenth century",
+        "Assisi"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/af/0000_Franciscan_Crown.JPG",
+      "imagem_credito": "Photo: Eugenio Hansen, OFS — Wikimedia Commons, CC BY-SA 3.0",
+      "fontes": [
+        "Wikipedia, entry \"Franciscan Crown\" (origin in early fifteenth-century Italy, seven joys, reference to Friar Luke Wadding and to the indulgences granted by various popes)",
+        "Sacred Heart Catholic Church, \"Franciscan Crown\" (account of the tradition of the novice James of Assisi, of the angel weaving the crown of roses and lilies)",
+        "Raymond (rosaryandchaplets), \"Franciscan Crown Rosary, 7 Joys of Mary\" (the 72 Hail Marys in memory of the 72 years of Mary's life)"
+      ],
+      "atualizado_em": null,
+      "texto": "(Seven decades of Hail Marys, each one meditating on one of the \"seven joys\":)\n1. The Annunciation\n2. The Visitation\n3. The Nativity of Jesus\n4. The Adoration of the Magi\n5. The finding of the Child Jesus in the Temple\n6. The appearance of the Risen Lord to Mary\n7. The Assumption and Coronation of Mary as Queen of Heaven\n\n(At the end, two Hail Marys are added, making the traditional number of seventy-two, in reference to the years of Mary's life according to tradition.)",
+      "uso": "Franciscan devotion, equivalent to the rosary",
+      "origem": "Franciscan tradition, dating back to the fifteenth century"
+    },
+    {
+      "id": "oracoes:prece-de-sao-francisco-pela-paz",
+      "slug": "prece-de-sao-francisco-pela-paz",
+      "titulo": "Prayer for Peace (\"Prayer of Saint Francis\")",
+      "categoria": "oracoes",
+      "resumo": "A prayer asking to be made an instrument at the service of peace, popularly attributed to Saint Francis of Assisi, although of much more recent documentary origin.",
+      "corpo": "Although widely known as the \"Prayer of Saint Francis,\" this prayer does not appear in any writing of the saint of Assisi nor in sources prior to the beginning of the twentieth century: its first documented publication dates from 1912, in a French spiritual magazine, by an anonymous author. The attribution to Francis, although historically incorrect, spread widely because of its affinity with the spirit of poverty, simplicity and peace of the Franciscan tradition — and this collection records this uncertain origin, as it does in other cases of popular devotion without a fixed liturgical text.",
+      "tags": [
+        "prayer",
+        "peace",
+        "popular devotion"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Saint_Francis_statue_in_garden.jpg",
+      "imagem_credito": null,
+      "texto": "Lord, make me an instrument of your peace:\nwhere there is hatred, let me sow love;\nwhere there is injury, pardon;\nwhere there is doubt, faith;\nwhere there is despair, hope;\nwhere there is darkness, light;\nwhere there is sadness, joy.\n\nO Divine Master,\ngrant that I may not so much seek\nto be consoled as to console,\nto be understood as to understand,\nto be loved as to love.\nFor it is in giving that we receive,\nit is in pardoning that we are pardoned,\nand it is in dying that we are born to eternal life.",
+      "uso": null,
+      "origem": "Anonymous French publication of 1912; attribution to Saint Francis of Assisi is traditional, not documentary",
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "oracoes:credo-niceno-constantinopolitano",
+      "slug": "credo-niceno-constantinopolitano",
+      "titulo": "Nicene-Constantinopolitan Creed",
+      "categoria": "oracoes",
+      "resumo": "A profession of faith longer and more detailed than the Apostles' Creed, defined by the Councils of Nicaea (325) and Constantinople I (381), used at Sunday Mass.",
+      "corpo": "Unlike the Apostles' Creed, which developed gradually and was used at Baptism, the Nicene-Constantinopolitan Creed has a precise conciliar origin: it was formulated at the Council of Nicaea (325) against Arianism and expanded at the First Council of Constantinople (381), above all in the article on the Holy Spirit. It is the creed normally proclaimed at Sunday and festive Mass throughout Christendom — Catholic, Orthodox, and in many Protestant traditions —, although the Latin and Eastern Churches differ over the \"Filioque\" clause (the procession of the Holy Spirit \"from the Father and the Son\"), added later in the West.",
+      "tags": [
+        "prayer",
+        "creed",
+        "Council of Nicaea",
+        "liturgy"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nicaea_icon.jpg",
+      "imagem_credito": null,
+      "texto": "I believe in one God,\nthe Father almighty,\nmaker of heaven and earth,\nof all things visible and invisible.\nI believe in one Lord Jesus Christ,\nthe Only Begotten Son of God,\nborn of the Father before all ages.\nGod from God, Light from Light,\ntrue God from true God,\nbegotten, not made, consubstantial with the Father;\nthrough him all things were made.\nFor us men and for our salvation\nhe came down from heaven,\nand by the Holy Spirit was incarnate of the Virgin Mary,\nand became man.\n[remaining articles of the Creed, including the Passion, the Resurrection, the Church \"one, holy, catholic and apostolic\", Baptism, and the life of the world to come]\nAmen.",
+      "uso": "Sunday and festive Mass",
+      "origem": "First Council of Nicaea (325); expanded at the First Council of Constantinople (381)",
+      "fontes": [
+        "First Council of Nicaea (325)",
+        "First Council of Constantinople (381)",
+        "Catechism of the Catholic Church, no. 195"
+      ]
+    },
+    {
+      "id": "oracoes:confiteor",
+      "slug": "confiteor",
+      "titulo": "Confiteor (I Confess)",
+      "categoria": "oracoes",
+      "resumo": "Penitential prayer at the beginning of Mass, in which the faithful acknowledge their sinfulness before celebrating the sacred mysteries.",
+      "corpo": "The \"Confiteor\" is the prayer of confession of sins that opens the penitential act of the Mass, with roots that go back in part to the 8th century, and was formally inserted into the liturgy of the Mass around the 11th century. Saint Augustine already observed the custom of reciting it while striking the breast as a sign of humility — a gesture preserved to this day, especially at the words \"through my fault, through my fault, through my most grievous fault.\"\n\nThe version used in the Roman Missal of Paul VI, reproduced below, is an abbreviated form compared with the longer text of the Missal prior to the liturgical reform, which also included the invocation of Saint Michael the Archangel, John the Baptist, and the Apostles Peter and Paul. It is only one of the formulas provided by the Missal for the penitential act, and it may be replaced by others at the beginning of Mass.",
+      "tags": [
+        "penitential act",
+        "Mass",
+        "confession of sins"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Roman Missal, Penitential Act (Form I)",
+        "Wikipedia, \"Confissão (oração)\""
+      ],
+      "texto": "I confess to almighty God\nand to you, my brothers and sisters,\nthat I have greatly sinned,\nin my thoughts and in my words,\nin what I have done and in what I have failed to do,\nthrough my fault, through my fault,\nthrough my most grievous fault;\ntherefore I ask blessed Mary ever-Virgin,\nall the Angels and Saints,\nand you, my brothers and sisters,\nto pray for me to the Lord our God.",
+      "uso": "Penitential act at the beginning of Mass (one of the formulas provided by the Roman Missal)",
+      "origem": "Composed in part in the 8th century; inserted into the Mass around the 11th century"
+    },
+    {
+      "id": "oracoes:sub-tuum-praesidium",
+      "slug": "sub-tuum-praesidium",
+      "titulo": "Sub Tuum Praesidium (We Fly to Thy Patronage)",
+      "categoria": "oracoes",
+      "resumo": "The oldest known Marian prayer, preserved in an Egyptian papyrus fragment from the third century.",
+      "corpo": "The \"Sub Tuum Praesidium\" is considered the oldest recorded prayer addressed to Mary: its text was identified on a papyrus fragment discovered in Egypt in 1927 and dated to the third century. It has particular historical importance because it echoes the context of persecution experienced by the first Christians, and theological importance because it invokes Mary already with the title \"Mother of God\" (Theotókos), centuries before that title was dogmatically defined at the Council of Ephesus (431).\n\nIt is used as a Marian antiphon in various liturgical rites, especially at Compline, and remains one of the most frequently prayed Marian prayers in personal devotion to this day, almost eighteen centuries after it was composed.",
+      "tags": [
+        "Theotókos",
+        "early Christianity",
+        "Egypt"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "A12, \"The Oldest Marian Prayer\"",
+        "Locus Mariologicus, \"Marian Antiphon: Sub tuum praesidium\""
+      ],
+      "texto": "We fly to thy patronage,\nO holy Mother of God;\ndespise not our petitions\nin our necessities,\nbut deliver us always\nfrom all dangers,\nO glorious and blessed Virgin.",
+      "uso": "Marian antiphon; personal devotion in various liturgical rites",
+      "origem": "Egyptian papyrus from the third century, discovered in 1927; oldest known Marian prayer"
+    },
+    {
+      "id": "oracoes:de-profundis",
+      "slug": "de-profundis",
+      "titulo": "De Profundis (Psalm 130)",
+      "categoria": "oracoes",
+      "resumo": "A penitential psalm that cries out for divine mercy from the depths of anguish, traditionally prayed in suffrage for the faithful departed.",
+      "corpo": "The \"De Profundis\" is Psalm 130 (129 in the Vulgate numbering), one of the seven penitential psalms of the biblical tradition, which takes its Latin name from its opening words, \"out of the depths I cry to you.\" It expresses trust in God's mercy, grounded in a sincere acknowledgment of one's own sin and littleness.\n\nThroughout Christian history, it has become above all the most widely used prayer of suffrage for the dead in the Catholic tradition, recited at funerals and in remembrance of the departed, and it is also recommended for the examination of conscience before confession and in personal moments of distress.",
+      "tags": [
+        "penitential psalm",
+        "suffrage for the dead",
+        "divine mercy"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Psalm 130",
+        "Tenda do Senhor, \"Psalm De Profundis (Ps 129/130): text and meaning\""
+      ],
+      "texto": "Out of the depths I cry to you, O Lord;\nLord, hear my voice!\nLet your ears be attentive\nto the voice of my supplications!\n\nIf you, O Lord, should mark iniquities,\nLord, who could stand?\nBut with you there is forgiveness,\nthat you may be feared.\n\nI wait for the Lord, my soul waits,\nand in his word I hope;\nmy soul waits for the Lord\nmore than watchmen for the morning,\n\nmore than watchmen for the morning.\nO Israel, hope in the Lord!\nFor with the Lord there is steadfast love,\nand with him is plenteous redemption.\nAnd he will redeem Israel\nfrom all his iniquities.",
+      "uso": "Suffrage for the departed, examination of conscience, moments of distress",
+      "origem": "Psalm 130 (129 in the Vulgate)"
+    },
+    {
+      "id": "oracoes:oferecimento-do-dia",
+      "slug": "oferecimento-do-dia",
+      "titulo": "Morning Offering (Prayer for the Morning)",
+      "categoria": "oracoes",
+      "resumo": "Morning prayer of the Apostleship of Prayer that consecrates to God the whole day that is beginning, in union with Christ's Eucharistic offering.",
+      "corpo": "The \"Morning Offering,\" or Daily Offering, is the heart of the spirituality of the Apostleship of Prayer — today known as the Pope's Worldwide Prayer Network —, a movement founded in the nineteenth century. It consists of presenting to God, first thing in the morning, everything one is and will live that day: prayers, works, joys and sufferings, united to the offering that Christ makes of himself in the Eucharist.\n\nIt is traditionally prayed upon waking, including the pope's prayer intention for that month, and seeks to give spiritual meaning to the most ordinary tasks of daily life, consciously uniting them to the Eucharistic sacrifice celebrated somewhere in the world at every moment.",
+      "tags": [
+        "Apostleship of Prayer",
+        "Sacred Heart",
+        "daily prayer"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Apostleship of Prayer Brazil (MEJ), «Daily Offering»"
+      ],
+      "texto": "God, our Father,\nI offer you this entire day:\nmy prayers and works,\nmy thoughts and words,\nmy joys and sufferings,\nin reparation for our offenses,\nin union with the Heart of your Son, Jesus,\nwho continues to offer himself to you in the Eucharist\nfor the salvation of the world.\nMay the Holy Spirit, who guided Jesus,\nbe my guide and my support this day,\nso that I may be a witness to your love.\nWith Mary, Mother of Jesus and of the Church,\nI pray especially for the intention of the Holy Father for this month.",
+      "uso": "Daily prayer, upon waking",
+      "origem": "Apostleship of Prayer (Pope's Worldwide Prayer Network), founded in the nineteenth century"
+    },
+    {
+      "id": "oracoes:oracao-a-sao-jose-leao-xiii",
+      "slug": "oracao-a-sao-jose-leao-xiii",
+      "titulo": "Prayer to Saint Joseph (Leo XIII)",
+      "categoria": "oracoes",
+      "resumo": "Prayer composed by Pope Leo XIII in 1889, traditionally recommended to be recited at the end of the Rosary in the month of October.",
+      "corpo": "This prayer — in Latin, \"Ad te, beate Ioseph\" — was composed by Pope Leo XIII and published as an appendix to the encyclical \"Quamquam Pluries\", of August 15, 1889, in a context in which the Pope sought to strengthen the confidence of Catholics in the intercession of Saint Joseph in the face of the difficulties the Church was facing in his time.\n\nIt invokes Joseph as the provident guardian of the Holy Family and protector of the Church, asking him to keep away \"the plague of error and vice\" and to defend the Church \"from the snares of the Enemy and from all adversity\". It became customary to recite it at the end of the Rosary, especially during the month of October, traditionally dedicated to the Rosary.",
+      "tags": [
+        "Saint Joseph",
+        "Leo XIII",
+        "Rosary"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Leo XIII, Encyclical «Quamquam Pluries» (1889)",
+        "Vatican News, «Prayer to Saint Joseph»"
+      ],
+      "texto": "To thee, O blessed Joseph, we have recourse in our affliction,\nand having implored the help of thy most holy Spouse,\nwe now, with hearts filled with confidence, earnestly beg thy patronage also.\nBy that charity wherewith thou wert united to the Immaculate Virgin Mother of God,\nand by that fatherly affection with which thou didst embrace the Child Jesus,\nwe humbly beseech thee\nand graciously regard the inheritance which Jesus Christ purchased by His Blood,\nand assist us in our needs\nby thy power and thy aid.\nDefend, O most watchful guardian of the Holy Family,\nthe chosen children of Jesus Christ.\nKeep far from us, O most loving father,\nthe plague of error and vice.\nAid us from on high, most valiant defender,\nin this conflict with the powers of darkness,\nand, as of old thou didst rescue the Child Jesus from the peril of His life,\nso now defend God's Holy Church\nfrom the snares of the enemy and from all adversity.\nShield, each one of us, with thy constant protection,\nso that, supported by thy example and thy aid,\nwe may be able to live piously, to die holily,\nand to obtain eternal happiness in heaven.\nAmen.",
+      "uso": "At the end of the Rosary, especially in the month of October",
+      "origem": "Composed by Pope Leo XIII, published as an appendix to the encyclical «Quamquam Pluries» (August 15, 1889)"
+    },
+    {
+      "id": "oracoes:oracao-a-sao-judas-tadeu",
+      "slug": "oracao-a-sao-judas-tadeu",
+      "titulo": "Prayer to Saint Jude Thaddeus",
+      "categoria": "oracoes",
+      "resumo": "Prayer of supplication to the Apostle Jude Thaddeus, traditionally invoked as the patron of difficult and desperate causes.",
+      "corpo": "Saint Jude Thaddeus, Apostle of Jesus, is venerated as the patron of \"desperate cases\" and \"hopeless affairs\" — according to popular piety, precisely because he shares the name of the traitor apostle, Judas Iscariot, he is said to have been invoked less throughout history than other apostles, which tradition interprets as the reason why he shows himself especially ready to come to the aid of those who no longer have anyone to turn to.\n\nThere is no single text officially fixed by the liturgy for this devotional prayer: several traditional versions circulate, and the one reproduced below is one of the most widespread in the Portuguese language. It is also customary to pray it as a nine-day novena before a specific need, with the liturgical celebration of his feast on October 28, together with the Apostle Simon.",
+      "tags": [
+        "Saint Jude Thaddeus",
+        "difficult causes",
+        "apostles"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "O Liberal, «Prayer to Saint Jude Thaddeus for impossible causes»"
+      ],
+      "texto": "Saint Jude Thaddeus, glorious Apostle,\nfaithful servant and friend of Jesus,\nthe name of the traitor is the reason\nwhy you have been forgotten by many,\nbut the Holy Church honors you and invokes you universally\nas the patron of desperate cases, of hopeless things.\nPray for me, who am so miserable,\nand put into practice, I beg you,\nthe particular privilege granted to you,\nof bringing prompt and visible help\nwhere help is almost despaired of.\nCome to my assistance in this great need,\nthat I may receive\nthe consolations and help of Heaven\nin all my tribulations, necessities, and sufferings,\nparticularly (here state the grace you wish to obtain),\nand that I may bless God\nwith you and with all the elect, throughout eternity.\nAmen.",
+      "uso": "Personal supplication; nine-day novena for difficult causes",
+      "origem": "Popular devotion with no single fixed liturgical text; several traditional versions in circulation"
+    },
+    {
+      "id": "oracoes:bendita-seja-tua-pureza",
+      "slug": "bendita-seja-tua-pureza",
+      "titulo": "Blessed Be Thy Purity",
+      "categoria": "oracoes",
+      "resumo": "A brief Marian ejaculatory prayer of Hispanic tradition, recited as a greeting of praise to the purity of Mary.",
+      "corpo": "\"Blessed Be Thy Purity\" is a Marian ejaculatory prayer of Hispanic popular origin, with no certainly documented authorship and no fixed liturgical moment of use — unlike the great Marian antiphons of the Divine Office, it is a prayer of free devotion, recited on personal initiative.\n\nWidely spread in Brazil and in other Portuguese- and Spanish-speaking countries, it is usually used to open novenas and moments of Marian prayer as a brief greeting of praise, uniting the contemplation of Mary's purity with a simple plea for maternal compassion.",
+      "tags": [
+        "purity of Mary",
+        "popular devotion",
+        "ejaculatory prayer"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Vera Fidei, «Blessed be thy purity»"
+      ],
+      "texto": "Blessed be thy purity,\nand eternally may it be,\nfor a whole God delights\nin such gracious beauty.\nTo thee, celestial Princess,\nSacred Virgin Mary,\nI offer on this day\nmy soul, my life, and my heart.\nLook upon me with compassion,\nleave me not, my Mother.",
+      "uso": "Devotional ejaculatory prayer; opening of novenas and Marian prayers",
+      "origem": "Popular devotion of Hispanic tradition, with no certainly documented authorship"
+    },
+    {
+      "id": "oracoes:oracoes-do-anjo-de-fatima",
+      "slug": "oracoes-do-anjo-de-fatima",
+      "titulo": "Prayers of the Angel of Fátima",
+      "categoria": "oracoes",
+      "resumo": "Two prayers taught, according to the account of the shepherd children, by the Angel of Peace in 1916, a year before the apparitions of Our Lady of Fátima.",
+      "corpo": "According to the account of Lúcia, Francisco and Jacinta, an angel who identified himself as the \"Angel of Peace\" appeared to them three times in 1916, a year before the Marian apparitions of Fátima, teaching them two prayers that they were to repeat three times each.\n\nThe first, shorter one professes faith, adoration, hope and love for God; the second, taught months later, is a Trinitarian and Eucharistic prayer of reparation, offering the Body, Blood, Soul and Divinity of Jesus Christ present in all the tabernacles of the earth. Both are considered by the devotional tradition of Fátima to be a direct preparation for the Marian apparitions of the following year, 1917.",
+      "tags": [
+        "Fátima",
+        "Angel of Peace",
+        "shepherd children"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Wikipedia, «Orações do Anjo»",
+        "Saia Modesta, «As cinco orações reveladas nas aparições de Fátima»"
+      ],
+      "texto": "First prayer (taught in the spring of 1916):\nMy God, I believe, I adore, I hope, and I love You!\nI ask pardon for those who do not believe,\ndo not adore, do not hope, and do not love You.\n\nSecond prayer (taught in the autumn of 1916):\nMost Holy Trinity, Father, Son, and Holy Spirit,\nI adore You profoundly\nand I offer You the most precious Body, Blood,\nSoul, and Divinity of Jesus Christ,\npresent in all the tabernacles of the world,\nin reparation for the outrages, sacrileges, and indifference\nby which He Himself is offended.\nAnd through the infinite merits of His Most Sacred Heart\nand the Immaculate Heart of Mary,\nI beg of You the conversion of poor sinners.",
+      "uso": "Repeated three times, according to the account of the Angel's gesture",
+      "origem": "According to the account of the shepherd children, taught by the Angel of Peace in 1916"
+    },
+    {
+      "id": "oracoes:ladainha-do-sagrado-coracao-de-jesus",
+      "slug": "ladainha-do-sagrado-coracao-de-jesus",
+      "titulo": "Litany of the Sacred Heart of Jesus",
+      "categoria": "oracoes",
+      "resumo": "A series of invocations to the Heart of Jesus, one for each year of his earthly life, approved for the whole Church by Leo XIII in 1899.",
+      "corpo": "The Litany of the Sacred Heart of Jesus has a devotional origin tied to the visions of Saint Margaret Mary Alacoque (1647-1690), in which Jesus showed her his own heart, wounded, crowned with thorns and aflame with love for humanity. Its structure synthesizes several older litanies, dating back to the seventeenth century.\n\nThe final version, approved by the Sacred Congregation of Rites, gathers thirty-three invocations to the Heart of Jesus — one for each year of his earthly life — and was extended to public use by the whole Church by the decree of Pope Leo XIII of April 2, 1899.",
+      "tags": [
+        "Sacred Heart",
+        "litany",
+        "Leo XIII"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Father Paulo Ricardo, \"Litany of the Sacred Heart of Jesus\"",
+        "Pílulas Litúrgicas, \"Litany of the Sacred Heart of Jesus\""
+      ],
+      "texto": "Lord, have mercy on us.\nChrist, have mercy on us.\nLord, have mercy on us.\n\nHeart of Jesus, Son of the Eternal Father, have mercy on us.\nHeart of Jesus, formed by the Holy Spirit in the womb of the Virgin Mother, have mercy on us.\nHeart of Jesus, substantially united to the Word of God, have mercy on us.\nHeart of Jesus, of infinite majesty, have mercy on us.\nHeart of Jesus, holy temple of God, have mercy on us.\nHeart of Jesus, tabernacle of the Most High, have mercy on us.\n[remaining invocations, one for each year of Christ's earthly life]\n\nLamb of God, who takes away the sins of the world, spare us, O Lord.\nLamb of God, who takes away the sins of the world, graciously hear us, O Lord.\nLamb of God, who takes away the sins of the world, have mercy on us.",
+      "uso": "Devotion to the Sacred Heart; especially in the month of June",
+      "origem": "Linked to the revelations to Saint Margaret Mary Alacoque; final version approved by Leo XIII on April 2, 1899"
+    },
+    {
+      "id": "oracoes:oracao-antes-da-comunhao-sao-tomas-de-aquino",
+      "slug": "oracao-antes-da-comunhao-sao-tomas-de-aquino",
+      "titulo": "Prayer of Saint Thomas Aquinas Before Communion",
+      "categoria": "oracoes",
+      "resumo": "A plea for interior preparation to receive the Eucharist worthily, traditionally attributed to Thomas Aquinas.",
+      "corpo": "This prayer, attributed by tradition to Saint Thomas Aquinas, is one of a set of prayers of preparation before and thanksgiving after communion associated with his name. In it, the one praying acknowledges his own poverty and unworthiness before the greatness of the sacrament — \"unclean, I come to the fountain of mercy\" — and asks for the purification needed to worthily receive \"the bread of Angels.\"\n\nIt is still printed in many missals and prayer books as a suggestion for personal preparation before Eucharistic communion, alongside other prayers of Thomas Aquinas already present in this collection, such as the \"Adoro Te Devote\" and the \"Pange Lingua\" (see Sacred Music).",
+      "tags": [
+        "Thomas Aquinas",
+        "Eucharist",
+        "preparation for communion"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "A12, «Prayer of Saint Thomas Aquinas Before Communion»"
+      ],
+      "texto": "Almighty and eternal God,\nbehold, I approach the sacrament\nof your only-begotten Son, our Lord Jesus Christ.\nUnclean, I come to the fountain of mercy;\nblind, to the light of eternal brightness;\npoor and needy, to the Lord of heaven and earth.\nI implore, therefore, the abundance of your boundless generosity,\nthat you may deign to heal my weakness,\nwash away my stains,\nenlighten my blindness,\nenrich my poverty\nand clothe my nakedness.\nMay I receive the bread of Angels,\nthe King of kings and Lord of lords,\nwith such reverence and humility,\nsuch contrition and devotion,\nsuch purity and faith,\nsuch purpose and intention as befit\nthe salvation of my soul.\nGrant me to receive not only the sacrament\nof the Body and Blood of the Lord,\nbut also its effect and power.\nO God of gentleness,\nmake me welcome with such dispositions\nthe Body that your only-begotten Son,\nOur Lord Jesus Christ, received from the Virgin Mary,\nso that I may be incorporated into his Mystical Body\nand numbered among his members.\nAmen.",
+      "uso": "Personal preparation before receiving Eucharistic communion",
+      "origem": "Attributed to Saint Thomas Aquinas"
+    },
+    {
+      "id": "oracoes:ato-de-consagracao-pessoal-ao-sagrado-coracao-de-jesus",
+      "slug": "ato-de-consagracao-pessoal-ao-sagrado-coracao-de-jesus",
+      "titulo": "Act of Personal Consecration to the Sacred Heart of Jesus",
+      "categoria": "oracoes",
+      "resumo": "A formula for the total surrender of one's own life to the Sacred Heart of Jesus, a personal expression of the devotion of reparation spread from Saint Margaret Mary Alacoque.",
+      "corpo": "Distinct from the solemn act by which Pope Leo XIII consecrated all humanity to the Sacred Heart of Jesus in 1899 (see Devotions), this is a formula of personal consecration, prayed by a member of the faithful in his or her own name, offering to Christ thoughts, words, actions and sufferings in response to the love revealed in the apparitions to Saint Margaret Mary Alacoque.\n\nSeveral traditional versions of this personal consecration circulate, with no single text fixed by the liturgy, all expressing the same core of self-surrender: to belong entirely to the Sacred Heart as a source of protection, perseverance and support at the hour of death.",
+      "tags": [
+        "Sacred Heart",
+        "personal consecration",
+        "devotion of reparation"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "O Fiel Católico, \"Acts of Consecration to the Sacred Heart of Jesus\""
+      ],
+      "texto": "I, N., give and consecrate to you,\nO Sacred Heart of Jesus Christ,\nmy life, my actions,\nmy trials and sufferings,\nso as to wish no longer to make use\nof any part of my being\nexcept to honor, love and glorify you.\nThis is my irrevocable will:\nto be wholly yours\nand to do everything for love of you,\nrenouncing with all my heart\nanything that might displease you.\nI take you, then, O Sacred Heart,\nas the sole object of my love,\nprotector of my life,\nassurance of my salvation,\nremedy for my frailty and inconstancy,\nreparer of all the imperfections of my life\nand my sure refuge at the hour of death.\nAmen.",
+      "uso": "Personal devotion to the Sacred Heart; renewal of consecration",
+      "origem": "Traditional devotional formula, linked to the spirituality of reparation of Saint Margaret Mary Alacoque"
+    }
+  ]
+}

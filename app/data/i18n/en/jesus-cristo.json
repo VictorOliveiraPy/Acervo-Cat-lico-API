@@ -1,0 +1,989 @@
+{
+  "_meta": {
+    "categoria": "jesus-cristo",
+    "nome": "Jesus Christ",
+    "descricao": "The mysteries of the life of Christ, his biblical titles, and the dogmas concerning his person and nature, defined above all at Nicaea, Ephesus, and Chalcedon.",
+    "status": "exemplos-iniciais",
+    "aviso": "Introductory catechetical presentation on the person of Christ; for in-depth Christological study, see also the Councils and Doctors of the Church categories.",
+    "revisao_editorial": "Historical dates of events in the earthly life of Jesus (birth, length of the ministry) are debated among historians and are not the doctrinal focus of these entries.",
+    "fontes_gerais": [
+      "Catechism of the Catholic Church, Part One, Section Two, Articles 2-4 (Jesus Christ)",
+      "Council of Chalcedon (451)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "jesus-cristo:anunciacao-e-encarnacao",
+      "slug": "anunciacao-e-encarnacao",
+      "titulo": "The Annunciation and the Incarnation",
+      "categoria": "jesus-cristo",
+      "resumo": "The eternal Word of God takes on human nature in the womb of Mary, by the power of the Holy Spirit, becoming truly man without ceasing to be God.",
+      "corpo": "The Incarnation — \"the Word became flesh and made his dwelling among us\" (Jn 1:14) — is the central mystery of the Christian faith: the eternal Son of God assumes a true human nature, conceived by the Holy Spirit in the womb of the Virgin Mary, without ceasing to be fully God. It is not an appearance or a disguise (a position condemned as the heresy of Docetism), but a real and permanent union of the two natures in one divine Person.",
+      "tags": [
+        "mysteries of the life of Christ",
+        "Incarnation"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Botticelli%2C_annunciazione_del_Metropolitan.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 1,
+      "referencia_biblica": "Luke 1:26-38; John 1:1-14",
+      "paragrafos_ccc": [
+        "456-478"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:natividade",
+      "slug": "natividade",
+      "titulo": "Christmas (The Nativity of Jesus)",
+      "categoria": "jesus-cristo",
+      "resumo": "The birth of Jesus in Bethlehem, celebrated by the Church as the visible manifestation of God made man.",
+      "corpo": "According to the accounts of Matthew and Luke, Jesus was born in Bethlehem of Judea, during the reign of Herod the Great and a Roman census — episodes whose precise dates are debated by historical exegesis, without affecting the theological core of the event: God makes himself visible and vulnerable in the simplest human condition, born \"in a manger, because there was no room for them in the inn\" (Lk 2:7).",
+      "tags": [
+        "mysteries of the life of Christ",
+        "Christmas"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Correggio_-_The_Holy_Night_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 2,
+      "referencia_biblica": "Luke 2:1-20; Matthew 1:18-25",
+      "paragrafos_ccc": [
+        "437",
+        "525-526"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:apresentacao-no-templo",
+      "slug": "apresentacao-no-templo",
+      "titulo": "The Presentation in the Temple",
+      "categoria": "jesus-cristo",
+      "resumo": "Mary and Joseph bring the child Jesus to the Temple in Jerusalem, fulfilling the Mosaic Law, where he is recognized by Simeon and Anna.",
+      "corpo": "Forty days after his birth, in accordance with the Law of Moses for the purification of the mother and the consecration of the firstborn, Mary and Joseph present Jesus in the Temple in Jerusalem. There the elder Simeon, guided by the Holy Spirit, recognizes in him the awaited Messiah (\"Lord, now let your servant depart in peace\", the \"Nunc Dimittis\"), and the prophetess Anna also gives public witness to the child.",
+      "tags": [
+        "mysteries of the life of Christ"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Symeon_i_Nikolai_kyrka.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 3,
+      "referencia_biblica": "Luke 2:22-38",
+      "paragrafos_ccc": [
+        "527-529"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:fuga-para-o-egito",
+      "slug": "fuga-para-o-egito",
+      "titulo": "The Flight into Egypt",
+      "resumo": "Warned in a dream, Joseph flees with Mary and the child Jesus to Egypt, escaping the massacre that Herod ordered against the boys of Bethlehem; Matthew reads the episode as the fulfillment of the prophecy \"out of Egypt I called my son.\"",
+      "corpo": "The only Gospel that narrates the flight is Matthew's (2:13-23). After the departure of the Magi, an angel of the Lord appears to Joseph in a dream and commands: \"Rise, take the child and his mother, flee to Egypt, and stay there until I tell you, for Herod is about to search for the child to destroy him.\" Joseph departs by night; the family remains in Egypt until the death of the king, and only then, warned again in a dream, returns — but, fearing Archelaus, Herod's son, who was reigning in Judea, withdraws to Galilee and settles in Nazareth.",
+      "categoria": "jesus-cristo",
+      "tags": [
+        "mysteries of the life of Christ",
+        "Matthew",
+        "Herod the Great",
+        "Holy Innocents",
+        "Egypt",
+        "1st century"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Fra_Angelico_-_Flight_into_Egypt%2C_1450.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Gospel of Matthew 2:13-23",
+        "Old Testament: Hosea 11:1; Jeremiah 31:15; Exodus 1:22; 2:15; 4:19; Genesis 46:1-7",
+        "Catechism of the Catholic Church, on the childhood of Jesus",
+        "Custody of the Holy Land / Directory on Popular Piety and the Liturgy (feast of the Holy Innocents, December 28)"
+      ],
+      "atualizado_em": null,
+      "tipo": "misterio_vida",
+      "ordem": 4,
+      "referencia_biblica": "Matthew 2:13-23",
+      "paragrafos_ccc": []
+    },
+    {
+      "id": "jesus-cristo:vida-oculta-em-nazare",
+      "slug": "vida-oculta-em-nazare",
+      "titulo": "The Hidden Life in Nazareth",
+      "categoria": "jesus-cristo",
+      "resumo": "The roughly thirty years of Jesus' silent life in Nazareth, before the beginning of his public ministry.",
+      "corpo": "The Gospels say very little about the childhood and youth of Jesus after the return from Egypt: he grew in Nazareth \"in wisdom and age and favor before God and man\" (Lk 2:52), obedient to Mary and Joseph, probably working as a carpenter. This long biblical silence — about thirty years — is read by the spiritual tradition as an affirmation of the value of ordinary life and everyday work as a path to holiness.",
+      "tags": [
+        "mysteries of the life",
+        "Nazareth"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sagrada_Familia_del_pajarito_%28Murillo%29.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 5,
+      "referencia_biblica": "Luke 2:39-52",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:batismo-de-jesus-mv",
+      "slug": "batismo-de-jesus-mv",
+      "titulo": "The Baptism of Jesus in the Jordan",
+      "categoria": "jesus-cristo",
+      "resumo": "Jesus is baptized by John the Baptist in the Jordan River, the moment when the Trinity is manifested publicly for the first time.",
+      "corpo": "When he is baptized by John in the Jordan—not because he needed purification, but to \"fulfill all righteousness\" (Mt 3:15) and to stand in solidarity with the sinners he came to save—Jesus receives the clearest public manifestation of the Trinity in the Gospels: the Holy Spirit descends like a dove, and the voice of the Father declares \"This is my beloved Son, with whom I am well pleased\" (Mt 3:17). It marks the public beginning of his ministry.",
+      "tags": [
+        "mysteries of the life",
+        "Baptism",
+        "Trinity"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Pietro_Perugino_-_Baptism_of_Christ_-_Sistine_Chapel_-_cat13a.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 6,
+      "referencia_biblica": "Matthew 3:13-17",
+      "paragrafos_ccc": [
+        "535-537"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:tentacoes-no-deserto-mv",
+      "slug": "tentacoes-no-deserto-mv",
+      "titulo": "The Temptations in the Desert",
+      "categoria": "jesus-cristo",
+      "resumo": "Jesus fasts for forty days in the desert and resists Satan's three temptations before beginning his public ministry.",
+      "corpo": "After his Baptism, Jesus withdraws into the desert for forty days, fasting, where he is tempted by Satan to turn stones into bread, to presumptuously test divine protection, and to obtain worldly power in exchange for worship — all of which he resists with quotations from Scripture itself (Deuteronomy). The scene symbolically mirrors and reverses Israel's forty years in the desert and its repeated failures.",
+      "tags": [
+        "mysteries of the life of Christ"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/05_Tentaciones_de_Cristo_%28Botticelli%29.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 7,
+      "referencia_biblica": "Matthew 4:1-11",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:transfiguracao-mv",
+      "slug": "transfiguracao-mv",
+      "titulo": "The Transfiguration",
+      "categoria": "jesus-cristo",
+      "resumo": "On Mount Tabor, Jesus reveals his divine glory for a moment to three apostles, in the presence of Moses and Elijah.",
+      "corpo": "Taking with him Peter, James, and John to a high mountain—tradition places it at Tabor—Jesus is transfigured before them: his face shines like the sun, his garments become white as light, and Moses (representing the Law) and Elijah (the prophets) appear, conversing with him. The voice of the Father repeats the declaration made at the Baptism: \"This is my beloved Son.\" It is an anticipation of the glory of the Resurrection, given to strengthen the apostles in the face of the approaching Passion.",
+      "tags": [
+        "mysteries of the life of Christ",
+        "Transfiguration"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bloch-SermonOnTheMount.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 8,
+      "referencia_biblica": "Matthew 17:1-8",
+      "paragrafos_ccc": [
+        "554-556"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:entrada-triunfal-em-jerusalem",
+      "slug": "entrada-triunfal-em-jerusalem",
+      "titulo": "The Triumphal Entry into Jerusalem",
+      "categoria": "jesus-cristo",
+      "resumo": "Jesus enters Jerusalem riding on a young donkey, acclaimed by the crowd with branches, days before His Passion.",
+      "corpo": "On what the liturgy celebrates as Palm Sunday, Jesus enters Jerusalem riding on a young donkey — fulfilling the prophecy of Zechariah about a humble king (Zech 9:9) —, acclaimed by crowds who spread their cloaks and palm branches on the road, shouting \"Hosanna to the Son of David.\" The same people who acclaim Him at this moment would ask for His crucifixion a few days later.",
+      "tags": [
+        "mysteries of the life of Christ",
+        "Holy Week"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Giotto_-_Scrovegni_-_-26-_-_Entry_into_Jerusalem2.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 9,
+      "referencia_biblica": "Matthew 21:1-11",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:ultima-ceia-mv",
+      "slug": "ultima-ceia-mv",
+      "titulo": "The Last Supper",
+      "categoria": "jesus-cristo",
+      "resumo": "On the eve of his death, Jesus institutes the Eucharist and the ministerial priesthood during a Passover meal with the apostles.",
+      "corpo": "On the night before the Passion, during a Passover-style supper with the Twelve, Jesus takes the bread and the wine and declares them his Body and Blood, commanding the apostles to repeat this gesture \"in memory\" of him — instituting, according to Catholic faith, both the Eucharist and the ministerial priesthood that celebrates it. He also washes the disciples' feet, a gesture of humble service that interprets the meaning of his whole mission.",
+      "tags": [
+        "mysteries of the life of Christ",
+        "eucharist",
+        "priesthood"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 10,
+      "referencia_biblica": "Luke 22:14-20; John 13:1-17",
+      "paragrafos_ccc": [
+        "1337-1340"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:agonia-e-prisao",
+      "slug": "agonia-e-prisao",
+      "titulo": "The Agony in the Garden and the Arrest",
+      "categoria": "jesus-cristo",
+      "resumo": "Jesus prays in anguish in Gethsemane, freely accepting the will of the Father, before being betrayed by Judas and arrested.",
+      "corpo": "After the Last Supper, Jesus withdraws to the Garden of Gethsemane to pray, experiencing intense anguish (\"My soul is sorrowful even unto death\") in the face of the imminent Passion, yet concluding in free obedience: \"not as I will, but as you will\". There he is betrayed with a kiss by Judas Iscariot, one of the Twelve, and arrested by the soldiers sent by the authorities.",
+      "tags": [
+        "mysteries of the life",
+        "Gethsemane",
+        "Passion"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Andrea_Mantegna_036.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 11,
+      "referencia_biblica": "Matthew 26:36-56",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:paixao-e-crucificacao-mv",
+      "slug": "paixao-e-crucificacao-mv",
+      "titulo": "The Passion and Crucifixion",
+      "categoria": "jesus-cristo",
+      "resumo": "Tried, scourged, and condemned, Jesus is crucified on Calvary, dying for the salvation of humanity.",
+      "corpo": "Subjected to trials before the Sanhedrin and the Roman governor Pontius Pilate, Jesus is condemned to death by crucifixion — a Roman penalty normally reserved for slaves and rebels — after being scourged and crowned with thorns in mockery. He dies on Calvary (Golgotha), outside the walls of Jerusalem, between two criminals, having forgiven those who crucified him.",
+      "tags": [
+        "mysteries of the life of Christ",
+        "Passion",
+        "Good Friday"
+      ],
+      "imagem": "/img-acervo/paixao-e-crucificacao.jpg",
+      "imagem_credito": "Foto: Christina Victoria Craft / Unsplash",
+      "tipo": "misterio_vida",
+      "ordem": 12,
+      "referencia_biblica": "Matthew 27:11-56",
+      "paragrafos_ccc": [
+        "571-630"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:descida-aos-infernos",
+      "slug": "descida-aos-infernos",
+      "titulo": "The Descent into Hell",
+      "categoria": "jesus-cristo",
+      "resumo": "Between his death and Resurrection, Christ descends to the \"realm of the dead\" to proclaim salvation to the righteous who awaited his coming.",
+      "corpo": "Professed in the Creed (\"he descended into hell\"), the \"descent into hell\" does not refer to the hell of eternal damnation, but to \"Sheol\"/\"Hades\" — the general state of the dead before the redemption —, where, according to the Catholic faith, Christ proclaims the already accomplished salvation to the righteous who had died before him, such as Abraham and the patriarchs, as they awaited the opening of Heaven.",
+      "tags": [
+        "mysteries of life",
+        "Holy Saturday"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Anastasis_at_Chora.jpg",
+      "imagem_credito": "Wikimedia Commons, CC BY-SA 3.0",
+      "tipo": "misterio_vida",
+      "ordem": 13,
+      "referencia_biblica": "1 Peter 3:18-20",
+      "paragrafos_ccc": [
+        "631-635"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:ressurreicao-mv",
+      "slug": "ressurreicao-mv",
+      "titulo": "The Resurrection",
+      "categoria": "jesus-cristo",
+      "resumo": "On the third day, Jesus rises from the dead, bodily and truly, the central foundation of the whole Christian faith.",
+      "corpo": "The Resurrection of Jesus \"on the third day\" is, according to Saint Paul, the very foundation without which \"our faith is in vain\" (1 Cor 15:14): not merely a spiritual or symbolic survival, but a bodily and historical resurrection attested by the empty tomb and by numerous appearances to witnesses — Mary Magdalene, the disciples at Emmaus, the apostles gathered together, and more than five hundred people at one time, according to 1 Corinthians 15:6.",
+      "tags": [
+        "mysteries of the life",
+        "Easter",
+        "Resurrection"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Pietro_Perugino_cat53.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 14,
+      "referencia_biblica": "1 Corinthians 15:3-8",
+      "paragrafos_ccc": [
+        "638-658"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:ascensao-mv",
+      "slug": "ascensao-mv",
+      "titulo": "The Ascension",
+      "categoria": "jesus-cristo",
+      "resumo": "Forty days after rising from the dead, Jesus ascends into Heaven in the presence of the apostles, entering definitively into the glory of the Father.",
+      "corpo": "Forty days after the Resurrection, Jesus is taken up into Heaven before the apostles gathered on the Mount of Olives, visibly bringing his earthly appearances to an end and entering definitively into glory with the Father—without ceasing to be present to the Church in other ways, above all in the Eucharist and in the sending of the Holy Spirit, promised for ten days later, at Pentecost.",
+      "tags": [
+        "mysteries of the life of Christ",
+        "Ascension"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Jesus_ascending_to_heaven.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 15,
+      "referencia_biblica": "Acts of the Apostles 1:6-11",
+      "paragrafos_ccc": [
+        "659-667"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:segunda-vinda-parusia",
+      "slug": "segunda-vinda-parusia",
+      "titulo": "The Second Coming (Parousia)",
+      "categoria": "jesus-cristo",
+      "resumo": "The glorious and definitive coming of Christ at the end of time, to judge the living and the dead and to bring the Kingdom of God to its fulfillment.",
+      "corpo": "Professed in every Christian creed (\"he will come again to judge the living and the dead\"), the Parousia — the Greek word for \"coming\" or \"presence\" — is the Christian hope in the glorious and definitive return of Christ at the end of time, coinciding with the Last Judgment and the resurrection of the body (see the category Last Things). Scripture deliberately refuses any prediction of a date (\"But of that day and hour no one knows,\" Mt 24:36).",
+      "tags": [
+        "mysteries of the life of Christ",
+        "Parousia",
+        "eschatology"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Last_Judgement_%28Michelangelo%29.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": 16,
+      "referencia_biblica": "Matthew 24:36; Acts 1:11",
+      "paragrafos_ccc": [
+        "668-682"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-cristo-messias",
+      "slug": "titulo-cristo-messias",
+      "titulo": "Christ (Messiah, the Anointed One)",
+      "categoria": "jesus-cristo",
+      "resumo": "The title most often used for Jesus in the New Testament, from the Greek \"Christós\", a translation of \"Messiah\", the Anointed One awaited by Israel.",
+      "corpo": "\"Christ\" (from the Greek \"Christós\") translates the Hebrew \"Messiah\", \"the Anointed One\" — a title that designated kings, priests and prophets anointed with oil in Israel, and that came to designate the definitive liberator awaited by the Jewish people. Applied to Jesus, the title affirms that he fulfills and surpasses this expectation, uniting in his one person the three anointed offices: prophet, priest and king.",
+      "tags": [
+        "titles of Christ",
+        "Messiah"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Spas_vsederzhitel_sinay.jpg",
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": 17,
+      "referencia_biblica": "Matthew 16:16",
+      "paragrafos_ccc": [
+        "436-440"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-filho-de-deus",
+      "slug": "titulo-filho-de-deus",
+      "titulo": "Son of God",
+      "resumo": "A title that, applied to Jesus, affirms his unique and eternal relationship with the Father—one of equality of divine nature, and not of adoptive or metaphorical sonship, as in the Old Testament usages.",
+      "corpo": "In the Old Testament, \"son of God\" designates the angels, the chosen people, the children of Israel and, above all, the kings (Ps 2:7; 2 Sam 7:14), always in the sense of adoptive sonship, which creates a particular intimacy between God and the creature. Applied to the Messiah-King, the title did not necessarily imply, in the literal sense, more than a mere human being; those who called Jesus \"Messiah of Israel\" perhaps did not mean to say more than that (cf. Catechism, 441). It is on the lips of Peter—\"You are the Christ, the Son of the living God\" (Mt 16:16)—and in the recognition of the centurion at the foot of the cross—\"Truly this man was the Son of God\" (Mk 15:39)—that the title acquires its full Christian meaning.",
+      "categoria": "jesus-cristo",
+      "tags": [
+        "titles of Christ",
+        "Trinity",
+        "Council of Nicaea",
+        "homoousios",
+        "eternal generation",
+        "Christology"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/73/God2-Sistine_Chapel.png",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, §441-445",
+        "Gospel of John 1:14, 18; 3:16-18; 20:17",
+        "Psalm 2:7; 2 Samuel 7:14",
+        "Niceno-Constantinopolitan Creed (325/381): \"begotten, not made, consubstantial with the Father\"",
+        "Saint Athanasius of Alexandria, Orations against the Arians, I, 13-14",
+        "Saint Hilary of Poitiers, On the Trinity"
+      ],
+      "atualizado_em": null,
+      "tipo": "titulo",
+      "ordem": 18,
+      "referencia_biblica": "Matthew 16:16; John 1:14, 18",
+      "paragrafos_ccc": [
+        "441-445"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-filho-do-homem",
+      "slug": "titulo-filho-do-homem",
+      "titulo": "Son of Man",
+      "categoria": "jesus-cristo",
+      "resumo": "Title that Jesus himself preferred to use in referring to himself, rooted in the apocalyptic vision of Daniel 7.",
+      "corpo": "\"Son of Man\" is the title that the Gospels record most often on the lips of Jesus himself to designate himself — more than eighty times. It is rooted in the vision of Daniel 7:13-14, about a figure \"like a son of man\" who receives from the \"Ancient of Days\" an everlasting dominion and kingdom, thus uniting humility (\"son of man\" as simply \"human being\", in biblical Hebrew) and eschatological majesty.",
+      "tags": [
+        "titles of Christ"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Spas_vsederzhitel_sinay.jpg",
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": 19,
+      "referencia_biblica": "Daniel 7:13-14; Mark 14:61-62",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-senhor-kyrios",
+      "slug": "titulo-senhor-kyrios",
+      "titulo": "Lord (Kyrios)",
+      "categoria": "jesus-cristo",
+      "resumo": "A title that, in the Greek translation of the Old Testament, rendered the very name of God, applied by Saint Paul and the early community to Jesus.",
+      "corpo": "\"Lord\" (Greek \"Kyrios\") was, in the Septuagint — the Greek translation of the Old Testament —, the word used to replace the unpronounceable divine name of God (YHWH). Applying this title to Jesus, as Saint Paul and the earliest Christian community repeatedly do (\"Jesus is Lord,\" one of the most primitive confessions of faith, Rom 10:9), is a direct and bold affirmation of his divinity.",
+      "tags": [
+        "titles of Christ"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Spas_vsederzhitel_sinay.jpg",
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": 20,
+      "referencia_biblica": "Romans 10:9; Philippians 2:11",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-cordeiro-de-deus",
+      "slug": "titulo-cordeiro-de-deus",
+      "titulo": "Lamb of God",
+      "categoria": "jesus-cristo",
+      "resumo": "A title that links Jesus to the Jewish Passover lamb and to Isaiah's \"suffering servant,\" sacrificed to take away the sin of the world.",
+      "corpo": "Proclaimed by John the Baptist upon seeing Jesus (\"Behold, the Lamb of God, who takes away the sin of the world,\" Jn 1:29) and taken up in the liturgy of the Mass before Communion, the title \"Lamb\" links Jesus both to the Passover lamb sacrificed at the liberation from Egypt (Ex 12) and to Isaiah's \"suffering servant,\" \"led like a lamb to the slaughter\" (Is 53:7). In the Book of Revelation, the \"Lamb that was slain\" is the central image of Christ glorified in Heaven.",
+      "tags": [
+        "titles of Christ",
+        "Eucharist"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ghent_Altarpiece_-_Adoration_of_the_Mystic_Lamb.jpg",
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": 21,
+      "referencia_biblica": "John 1:29; Revelation 5:6",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-verbo-logos",
+      "slug": "titulo-verbo-logos",
+      "titulo": "The Word (Logos)",
+      "categoria": "jesus-cristo",
+      "resumo": "Title used by the Gospel of John to designate the eternal Son of God before and beyond his Incarnation as the Word of the Father.",
+      "corpo": "\"In the beginning was the Word, and the Word was with God, and the Word was God\" (Jn 1:1): the Gospel of John opens with this Greek title, \"Logos\" (Word/Reason), to designate the Son in his eternal existence with the Father, before and beyond the Incarnation — \"all things were made through him\" (Jn 1:3). It is the title that most directly affirms the eternal pre-existence and full divinity of the Son.",
+      "tags": [
+        "titles of Christ",
+        "Trinity"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg",
+      "imagem_credito": "Photo: NYC Wanderer (Kevin Eng) — Wikimedia Commons, CC BY-SA 2.0",
+      "tipo": "titulo",
+      "ordem": 22,
+      "referencia_biblica": "John 1:1-3, 14",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-rei-do-universo",
+      "slug": "titulo-rei-do-universo",
+      "titulo": "Christ the King",
+      "categoria": "jesus-cristo",
+      "resumo": "A title that affirms the universal sovereignty of Christ over all creation and history, celebrated in its own liturgical feast.",
+      "corpo": "The title \"Christ the King\" affirms his sovereignty over all creation, history, and every human conscience—not a political kingdom competing with earthly powers (\"My kingdom is not of this world,\" Jn 18:36), but a kingdom of truth, justice, love, and peace. The liturgical feast of Christ the King was instituted by Pius XI in 1925 and today closes the liturgical year, on the last Sunday before Advent.",
+      "tags": [
+        "titles of Christ",
+        "Christ the King"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Spas_vsederzhitel_sinay.jpg",
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": 23,
+      "referencia_biblica": "John 18:36-37",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-bom-pastor",
+      "slug": "titulo-bom-pastor",
+      "titulo": "The Good Shepherd",
+      "resumo": "A title Jesus applies to himself — the one who knows his sheep by name, walks ahead of them, and lays down his own life for them, in contrast to the hired hand who flees.",
+      "corpo": "\"I am the good shepherd. A good shepherd lays down his life for the sheep\" (Jn 10:11). The image has deep roots in the Old Testament: Psalm 23 presents the Lord as a shepherd who leads beside still waters; Ezekiel 34, written during the Babylonian exile, denounces the rulers of Judah who fed themselves — eating the curds, clothing themselves with the wool, and neither caring for the weak sheep nor seeking the strays — and announces that God himself will come to seek out and gather his flock, raising up \"one shepherd, my servant David\" (Ez 34:23). Jesus takes up this vocabulary and applies it to himself, claiming for himself the role that belonged to God.",
+      "categoria": "jesus-cristo",
+      "tags": [
+        "titles of Christ",
+        "Good Shepherd",
+        "Ezekiel",
+        "catacombs",
+        "early Christian art",
+        "Good Shepherd Sunday"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/The_Good_Shepherd%2C_Catacomb_of_Domitilla_%28200_CE%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Gospel of John 10:1-18",
+        "Ezekiel 34:1-31; 37:24; Psalm 23; Isaiah 40:11; Jeremiah 23:1-4",
+        "Catechism of the Catholic Church, §754 (\"the Church is a sheepfold, the sole and necessary gate to which is Christ\")",
+        "Second Vatican Council, Lumen Gentium, 6",
+        "Catacombs of Domitilla (2nd century) and of Priscilla (3rd century), frescoes of the Good Shepherd"
+      ],
+      "atualizado_em": null,
+      "tipo": "titulo",
+      "ordem": 24,
+      "referencia_biblica": "John 10:1-18",
+      "paragrafos_ccc": []
+    },
+    {
+      "id": "jesus-cristo:uniao-hipostatica",
+      "slug": "uniao-hipostatica",
+      "titulo": "The Hypostatic Union",
+      "categoria": "jesus-cristo",
+      "resumo": "The doctrine that in Christ one divine Person subsists in two complete natures, the divine and the human, without confusion and without separation.",
+      "corpo": "Defined above all at the Council of Chalcedon (451), the \"hypostatic union\" is the technical term for the unity of the person of Christ: in him there are two complete and distinct natures, divine and human, united nonetheless in one Person (hypostasis), that of the eternal Word. The conciliar formula describes them as united \"without confusion, without change, without division, without separation,\" against the errors that either mixed the natures together (Monophysitism) or separated them too much (Nestorianism).",
+      "tags": [
+        "Christological dogmas",
+        "Council of Chalcedon"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nicaea_icon.jpg",
+      "imagem_credito": null,
+      "tipo": "dogma_cristologico",
+      "ordem": 25,
+      "referencia_biblica": null,
+      "paragrafos_ccc": [
+        "464-469"
+      ],
+      "fontes": [
+        "Council of Chalcedon (451)",
+        "Catechism of the Catholic Church, nos. 464-469"
+      ]
+    },
+    {
+      "id": "jesus-cristo:verdadeiro-deus-e-verdadeiro-homem",
+      "slug": "verdadeiro-deus-e-verdadeiro-homem",
+      "titulo": "True God and True Man",
+      "categoria": "jesus-cristo",
+      "resumo": "The central affirmation of the Christian faith that Jesus Christ is fully and simultaneously God and man, not an intermediate mixture of the two.",
+      "corpo": "Against ancient tendencies to reduce Christ to \"merely\" God with a human appearance (Docetism) or to \"merely\" a specially inspired man (Adoptionism), the faith defined at Nicaea (325) and Chalcedon (451) affirms that Jesus Christ is fully and truly God and fully and truly man — with a real human body, soul, and will, including the real capacity to suffer, to hunger, to grow weary, and to die, without this diminishing in any way his full divinity.",
+      "tags": [
+        "Christological dogmas",
+        "Council of Nicaea"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Spas_vsederzhitel_sinay.jpg",
+      "imagem_credito": null,
+      "tipo": "dogma_cristologico",
+      "ordem": 26,
+      "referencia_biblica": null,
+      "paragrafos_ccc": [
+        "464-469"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:maternidade-divina-de-maria-cristologia",
+      "slug": "maternidade-divina-de-maria-cristologia",
+      "titulo": "Theotokos: The Christological Foundation of the Divine Motherhood",
+      "categoria": "jesus-cristo",
+      "resumo": "The title \"Mother of God,\" defined at Ephesus (431), is above all an affirmation about the identity of Christ, not only about Mary.",
+      "corpo": "Already treated from the Marian perspective in the Our Lady category, the title \"Theotokos\" (Mother of God), defined at the Council of Ephesus (431), has its principal theological weight in Christology: by affirming that Mary can be called Mother of God, the council protects the unity of the person of Christ against Nestorius, who excessively separated the humanity and the divinity in Christ, as if they were two distinct \"persons\" coexisting.",
+      "tags": [
+        "Christological dogmas",
+        "Council of Ephesus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kazan_moscow.jpg",
+      "imagem_credito": null,
+      "tipo": "dogma_cristologico",
+      "ordem": 27,
+      "referencia_biblica": null,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Council of Ephesus (431)"
+      ]
+    },
+    {
+      "id": "jesus-cristo:cristo-e-a-trindade",
+      "slug": "cristo-e-a-trindade",
+      "titulo": "Christ and the Most Holy Trinity",
+      "categoria": "jesus-cristo",
+      "resumo": "The second Person of the Trinity, consubstantial with the Father, distinct from the Father and the Holy Spirit, yet one God with them.",
+      "corpo": "Faith in the incarnate Christ is inseparable from Trinitarian faith: the Son is the second Person of the Most Holy Trinity, \"consubstantial with the Father\" (Nicene Creed) — of the same divine substance, and neither a superior creature nor a transitory \"mode\" of God (the error called modalism) —, eternally begotten of the Father and united with the Father and the Holy Spirit in one divine nature, while remaining personally distinct from both.",
+      "tags": [
+        "Christological dogmas",
+        "Trinity",
+        "Council of Nicaea"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Masaccio%2C_Holy_Trinity%2C_1425-28%2C_Santa_Maria_Novella%2C_Florence.jpg",
+      "imagem_credito": null,
+      "tipo": "dogma_cristologico",
+      "ordem": 28,
+      "referencia_biblica": null,
+      "paragrafos_ccc": [
+        "464",
+        "253-256"
+      ],
+      "fontes": [
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "jesus-cristo:circuncisao-de-jesus",
+      "slug": "circuncisao-de-jesus",
+      "titulo": "The Circumcision of Jesus",
+      "categoria": "jesus-cristo",
+      "resumo": "Eight days after his birth, Jesus is circumcised according to the Law of Moses and receives the name given by the angel before his conception.",
+      "corpo": "Luke records, in a single sentence, that \"when eight days were completed for his circumcision, he was named Jesus\" (Lk 2:21), the same name that the angel had given to Mary at the Annunciation. Circumcision was the rite by which every Jewish boy entered into the covenant of Abraham (Gen 17:10-12); by submitting to it, Jesus fully assumes the condition of an Israelite and obedience to the Law, \"born of a woman, born under the law\" (Gal 4:4).\n\nFor centuries the Western liturgical tradition celebrated this episode on January 1, the eighth day after Christmas; today the date is dedicated chiefly to Mary, Mother of God, but the mystery remains as a sign that the incarnate Word does not set aside the history and the concrete institutions of the people of Israel, but fulfills them from within. It is also the moment when Jesus publicly receives the name that \"signifies that God's own name is present in the person of his Son\" (CCC 432), the name that the apostles will later invoke to heal and set free.",
+      "tags": [
+        "mysteries of the life of Christ",
+        "circumcision",
+        "name of Jesus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/St._Jakob_%28Rothenburg_ob_der_Tauber%29%2C_Circoncision.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": null,
+      "referencia_biblica": "Luke 2:21",
+      "paragrafos_ccc": [
+        "527",
+        "432"
+      ],
+      "fontes": [
+        "Luke 2:21",
+        "Catechism of the Catholic Church, nos. 527, 432"
+      ]
+    },
+    {
+      "id": "jesus-cristo:jesus-entre-os-doutores",
+      "slug": "jesus-entre-os-doutores",
+      "titulo": "Jesus among the Teachers in the Temple",
+      "categoria": "jesus-cristo",
+      "resumo": "At the age of twelve, Jesus stays behind in Jerusalem and is found in the temple, sitting among the teachers, listening to them and asking them questions.",
+      "corpo": "It is the only episode of Jesus' childhood between his birth and the beginning of his public life that the Gospels record: during the family's annual pilgrimage to Jerusalem for the Passover, the twelve-year-old boy remains in the city without his parents noticing. Three days later, Joseph and Mary find him \"in the temple, sitting among the teachers, listening to them and asking them questions,\" leaving all amazed \"at his understanding and his answers\" (Lk 2:46-47).\n\nTo Mary's anguished remark, Jesus responds with his first recorded words in the Gospels: \"Did you not know that I must be in my Father's house?\" (Lk 2:49) — a discreet but already revealing affirmation of his divine sonship, which his parents \"did not understand\" (Lk 2:50). The episode ends with Jesus returning to Nazareth and living in obedience to Joseph and Mary, advancing \"in wisdom and age and favor before God and man\" (Lk 2:52). In the tradition of the Rosary, it is the fifth Joyful Mystery.",
+      "tags": [
+        "mysteries of the life",
+        "Joyful Mysteries",
+        "childhood of Jesus"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Disputa_con_los_doctores_%28El_Veron%C3%A9s%29_grande.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": null,
+      "referencia_biblica": "Luke 2:41-52",
+      "paragrafos_ccc": [
+        "534",
+        "583"
+      ],
+      "fontes": [
+        "Luke 2:41-52",
+        "Catechism of the Catholic Church, nos. 534, 583"
+      ]
+    },
+    {
+      "id": "jesus-cristo:lava-pes",
+      "slug": "lava-pes",
+      "titulo": "The Washing of the Feet at the Last Supper",
+      "categoria": "jesus-cristo",
+      "resumo": "Before the Passover meal, Jesus washes the disciples' feet, a servant's gesture that sums up the meaning of his whole life and of his new commandment.",
+      "corpo": "Only the Gospel of John narrates this episode, placing it at the opening of the account of the Last Supper: \"Jesus, knowing that his hour had come to pass from this world to the Father, [...] rose from supper, laid aside his garments, and taking a towel, tied it around his waist. Then he poured water into a basin and began to wash the disciples' feet\" (Jn 13:1, 4-5) — a task reserved, at that time, for slaves. In the face of Peter's resistance, Jesus explains that whoever does not let himself be washed has no share with him, and concludes by giving the disciples an example to repeat: \"I have washed your feet, [...] that as I have done to you, you also should do\" (Jn 13:14-15).\n\nThe gesture sacramentally anticipates the total self-giving of the cross, which will be fulfilled hours later, and establishes the \"new commandment\" of mutual love (Jn 13:34). This is why the Church ritually presents it anew at the Mass of the Lord's Supper, on Holy Thursday, when the celebrant washes the feet of chosen faithful, making visible that authority in the Church is essentially service.",
+      "tags": [
+        "mysteries of the life of Christ",
+        "Last Supper",
+        "service",
+        "humility"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Meister_des_Hausbuches_003.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": null,
+      "referencia_biblica": "John 13:1-17",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "John 13:1-17"
+      ]
+    },
+    {
+      "id": "jesus-cristo:flagelacao-e-coroacao-de-espinhos",
+      "slug": "flagelacao-e-coroacao-de-espinhos",
+      "titulo": "The Scourging and the Crowning with Thorns",
+      "categoria": "jesus-cristo",
+      "resumo": "Before being crucified, Jesus is scourged by order of Pilate and mocked by the Roman soldiers, who crown him with thorns as a false \"king of the Jews.\"",
+      "corpo": "After yielding to the pressure of the crowd, Pilate \"had Jesus scourged\" (Mt 27:26) — the Roman scourging, carried out with a whip of leather thongs tipped with metal or bone, was a severe torture, often used as a prelude to crucifixion. Then the soldiers take Jesus into the praetorium, clothe him in a purple cloak, twist a crown of thorns and place it on his head, kneeling before him in mockery and greeting him: \"Hail, King of the Jews!\" (Mt 27:27-29; Mk 15:16-19; Jn 19:1-3).\n\nWhat the soldiers intended as humiliation, the Church has read since the earliest centuries as an involuntary revelation: the one mocked as king is in fact the King, and the crown of thorns proclaims, in reverse, the kingship that will be fully manifested on the cross. They are the second and third stations of the Sorrowful Mysteries of the Rosary, and they nourish devotions such as the Holy Hour and meditations on the Holy Face.",
+      "tags": [
+        "sorrowful mysteries",
+        "Passion",
+        "redemptive suffering"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gotland-Dalhem-Kyrka_Glasmalerei_07.jpg",
+      "imagem_credito": null,
+      "tipo": "misterio_vida",
+      "ordem": null,
+      "referencia_biblica": "Matthew 27:26-30; Mark 15:15-19; John 19:1-3",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Matthew 27:26-30",
+        "John 19:1-3"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-emanuel",
+      "slug": "titulo-emanuel",
+      "titulo": "Emmanuel (God With Us)",
+      "categoria": "jesus-cristo",
+      "resumo": "A prophetic title that announces, centuries beforehand, the birth of a son whose name will express the presence of God in person among men.",
+      "corpo": "The name appears for the first time in the oracle of the prophet Isaiah to King Ahaz: \"Behold, a virgin shall conceive and bear a son, and shall call his name Immanuel\" (Is 7:14), a promise of a sign that God would not abandon the house of David. The Gospel of Matthew explicitly takes up the text to interpret the virginal birth of Jesus as its definitive fulfillment: \"All this took place to fulfill what the Lord had spoken by the prophet: [...] they shall call his name Emmanuel, which means, God with us\" (Mt 1:22-23).\n\nUnlike \"Jesus\", a proper name meaning \"the Lord saves\" and which the child in fact receives, \"Emmanuel\" functions as a theological title: it describes not only a mission, but a presence. It sums up the core of the Incarnation, which the liturgy of Advent and Christmas celebrates repeatedly, above all in the \"O\" Antiphons that precede Christmas, one of which is dedicated precisely to this title.",
+      "tags": [
+        "titles of Christ",
+        "Incarnation",
+        "Christmas",
+        "Advent"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": null,
+      "referencia_biblica": "Isaiah 7:14; Matthew 1:22-23",
+      "paragrafos_ccc": [
+        "497"
+      ],
+      "fontes": [
+        "Isaiah 7:14",
+        "Matthew 1:22-23",
+        "Catechism of the Catholic Church, no. 497"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-filho-de-davi",
+      "slug": "titulo-filho-de-davi",
+      "titulo": "Son of David",
+      "categoria": "jesus-cristo",
+      "resumo": "A messianic title that links Jesus to the promise made to King David of a descendant whose throne would last forever.",
+      "corpo": "The Gospel of Matthew opens the genealogy of Jesus by presenting him from the start as \"the son of David, the son of Abraham\" (Mt 1:1), taking up the ancient prophetic promise that an offspring of the house of David would reign forever (2 Sam 7:12-16). \"Son of David\" does not indicate immediate kinship here — more than a thousand years separate the two —, but messianic identity: this was how Jewish hope designated the expected deliverer, and this is how the Gospels record that the people addressed Jesus, especially in requests for healing, as in the case of the two blind men who cried out \"Have mercy on us, Son of David!\" (Mt 9:27) or of Bartimaeus (Mk 10:47-48).\n\nThe title reaches its highest point in Jesus' entry into Jerusalem, when the crowds acclaim him with the cry \"Hosanna to the Son of David\" (Mt 21:9), recognizing in him the messianic king who comes in the name of the Lord. At the same time, Jesus himself problematizes a purely political reading of the title by asking the Pharisees how the Messiah can be at once \"son\" and \"lord\" of David, citing Psalm 110 (Mt 22:41-45) — a sign that his messianic kingship transcends mere Davidic descent.",
+      "tags": [
+        "titles of Christ",
+        "Messiah",
+        "kingship"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": null,
+      "referencia_biblica": "Matthew 1:1; Matthew 9:27; Matthew 21:9",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Matthew 1:1",
+        "Matthew 21:9",
+        "2 Samuel 7:12-16"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-luz-do-mundo",
+      "slug": "titulo-luz-do-mundo",
+      "titulo": "Light of the World",
+      "categoria": "jesus-cristo",
+      "resumo": "A title by which Jesus presents himself in the Gospel of John, declaring himself to be the light that drives away darkness and guides those who follow him to life.",
+      "corpo": "In the context of the Jewish Feast of Tabernacles, marked by great lamps lit in the court of the temple, Jesus proclaims: \"I am the light of the world; he who follows me will not walk in darkness, but will have the light of life\" (Jn 8:12). The statement takes up the language of Isaiah about the \"people who walked in darkness\" and have seen \"a great light\" (Is 9:1) and the Johannine prologue, which had already called the Word the \"true light that enlightens every man\" (Jn 1:9).\n\nThe title is also ethical: Jesus extends the same image to his disciples (\"You are the light of the world,\" Mt 5:14), but as a derived reflection of his own light. In the episode of the man born blind, immediately linked to this title in the Gospel of John, Jesus reaffirms \"As long as I am in the world, I am the light of the world\" (Jn 9:5) before restoring sight to the blind man — a sign that the light he is shows itself concretely by overcoming physical and spiritual blindness.",
+      "tags": [
+        "titles of Christ",
+        "Gospel of John"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": null,
+      "referencia_biblica": "John 8:12; John 9:5",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "John 8:12",
+        "John 9:5",
+        "Isaiah 9:1"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-pao-da-vida",
+      "slug": "titulo-pao-da-vida",
+      "titulo": "Bread of Life",
+      "categoria": "jesus-cristo",
+      "resumo": "Eucharistic title by which Jesus defines himself in the discourse at Capernaum, right after the multiplication of the loaves, promising to satisfy forever those who feed on him.",
+      "corpo": "On the day after the multiplication of the loaves, when the crowds seek him out in Capernaum looking for more food, Jesus redirects their desire toward a bread that does not perish: \"I am the bread of life; whoever comes to me will never be hungry, and whoever believes in me will never thirst\" (Jn 6:35). The discourse advances to an even more radical and realistic statement: \"the bread that I will give is my flesh for the life of the world\" (Jn 6:51), words that scandalize some of the listeners and anticipate the institution of the Eucharist at the Last Supper.\n\nCatholic tradition reads this title as the direct biblical foundation of Eucharistic doctrine: Jesus does not merely teach about the bread of life, but gives himself, in the Mass, as that very bread, under the consecrated species. This is why chapter 6 of John is read in the liturgies that celebrate the Body and Blood of Christ, and why the title remains one of the most frequently invoked in Eucharistic devotion.",
+      "tags": [
+        "titles of Christ",
+        "Eucharist"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": null,
+      "referencia_biblica": "John 6:35, 48-51",
+      "paragrafos_ccc": [
+        "1338"
+      ],
+      "fontes": [
+        "John 6:35-51",
+        "Catechism of the Catholic Church, no. 1338"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-caminho-verdade-e-vida",
+      "slug": "titulo-caminho-verdade-e-vida",
+      "titulo": "The Way, the Truth, and the Life",
+      "categoria": "jesus-cristo",
+      "resumo": "Jesus' reply to Thomas at the Last Supper, declaring that he himself, in person, is the only access to the Father.",
+      "corpo": "During the long farewell discourse at the Last Supper, faced with Thomas's anguished question about how the disciples could know the way to where Jesus was going, he responds with one of the most quoted sentences of the Gospels: \"I am the way and the truth and the life. No one comes to the Father except through me\" (Jn 14:6). The three words do not describe separate functions, but a single mystery: Jesus does not merely point out a way or teach a truth; he IS the way, and therefore he can lead with absolute certainty to the life of the Father.\n\nThe title has central implications for the Catholic understanding of the uniqueness of Christ as mediator of salvation: there is no access to the Father that does not pass through him. At the same time, the Church understands this statement not as an arbitrary exclusion, but as a universal invitation, since Christ himself died for all; for this reason the verse is read both in contexts of consolation (it is the typical reading at funerals) and of evangelizing mission.",
+      "tags": [
+        "titles of Christ",
+        "Last Supper"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": null,
+      "referencia_biblica": "John 14:6",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "John 14:6"
+      ]
+    },
+    {
+      "id": "jesus-cristo:titulo-alfa-e-omega",
+      "slug": "titulo-alfa-e-omega",
+      "titulo": "Alpha and Omega",
+      "categoria": "jesus-cristo",
+      "resumo": "A title from the Book of Revelation that proclaims Christ as the beginning and end of all creation and of history, using the first and last letters of the Greek alphabet.",
+      "corpo": "In the Book of Revelation, both God and the risen Christ designate themselves with this formula: \"I am the Alpha and the Omega, says the Lord God, who is and who was and who is to come, the Almighty\" (Rev 1:8) and, at the end of the book, in the voice of Christ: \"I am the Alpha and the Omega, the first and the last, the beginning and the end\" (Rev 22:13). Alpha and omega are, respectively, the first and last letters of the Greek alphabet; to call oneself \"the Alpha and the Omega\" is equivalent to embracing everything, from beginning to end, in an affirmation of absolute sovereignty over time and history.\n\nApplied to Christ, the title places him on the same level as divine eternity, consistent with the faith professed in the Creed in \"the Only Begotten Son of God, [...] begotten, not made\". The image entered strongly into Christian iconography and liturgy — it is among the symbols traced on the Paschal candle at the Easter Vigil, when the celebrant inscribes the letters alpha and omega beside the cross, proclaiming that to Christ belong \"all time and all the ages\".",
+      "tags": [
+        "titles of Christ",
+        "Revelation",
+        "eschatology",
+        "Easter"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "titulo",
+      "ordem": null,
+      "referencia_biblica": "Revelation 1:8; 22:13",
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Revelation 1:8",
+        "Revelation 22:13"
+      ]
+    },
+    {
+      "id": "jesus-cristo:kenose-de-cristo",
+      "slug": "kenose-de-cristo",
+      "titulo": "The Kenosis (the Self-Emptying of Christ)",
+      "categoria": "jesus-cristo",
+      "resumo": "The doctrine, grounded in the hymn of Philippians, that the Son of God, without ceasing to be God, \"emptied himself\" by taking on the human condition and by obedience unto death on a cross.",
+      "corpo": "The term comes from the Greek \"ekenosen\" (he emptied himself), a verb used in the Christological hymn quoted by Paul: Christ Jesus, \"though he was in the form of God, did not regard equality with God as something to be grasped, but emptied himself, taking the form of a slave, coming in human likeness\" and humbling himself \"even to death, death on a cross\" (Phil 2:6-8). Kenosis does not mean that the Word ceased to be God when he became incarnate — which would be contrary to the dogma of the hypostatic union — but that the divinity, in Christ, chooses to manifest itself through lowliness, service, and apparent weakness, and not through the power that men would expect.\n\nThe doctrine avoids two extremes: denying the true humanity of Christ (docetism) or imagining that the Incarnation in some way diminishes the divine nature, which remains full and unchangeable. On the contrary, the hymn of Philippians concludes with exactly the opposite of lowering: \"Because of this, God greatly exalted him\" (Phil 2:9), so that kenosis is revealed as a path to glorification, not a loss. For this reason it is the classic biblical basis of the spirituality of humility and service in the Christian tradition.",
+      "tags": [
+        "Christology",
+        "Incarnation",
+        "humility"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "dogma_cristologico",
+      "ordem": null,
+      "referencia_biblica": "Philippians 2:6-11",
+      "paragrafos_ccc": [
+        "461",
+        "472"
+      ],
+      "fontes": [
+        "Philippians 2:6-11",
+        "Catechism of the Catholic Church, nos. 461, 472"
+      ]
+    },
+    {
+      "id": "jesus-cristo:duas-vontades-em-cristo",
+      "slug": "duas-vontades-em-cristo",
+      "titulo": "The Two Wills of Christ (Dyothelitism)",
+      "categoria": "jesus-cristo",
+      "resumo": "Dogma defined at the Third Council of Constantinople (681), according to which Christ, because he has two natures, also has two wills—divine and human—united without confusion or opposition.",
+      "corpo": "After Chalcedon (451) defined the two natures of Christ united in one Person, the controversy of Monothelitism arose in the seventh century. Seeking a path of reconciliation with the Monophysites, it held that in Christ there was only one will and one operation. The Third Council of Constantinople, the sixth ecumenical council, held in 680-681, condemned Monothelitism and defined Dyothelitism (from the Greek \"dýo thelémata\", two wills): Christ has a divine will, which he shares with the Father and the Holy Spirit, and a true human will, created and free—\"not opposed, but the human will following, without resistance or reluctance, [...] the divine and almighty will\", according to the conciliar formula.\n\nThe Scriptural basis most often cited for the dogma is Jesus' prayer in Gethsemane: \"Father, if you are willing, remove this cup from me; yet not my will but yours be done\" (Lk 22:42)—a text in which two real wills, and not merely rhetoric, are clearly distinguished, under the final command of the divine will. To deny Christ's human will would empty his concrete humanity, making the redemption incomplete, since—as the Fathers said—\"what was not assumed was not healed.\"",
+      "tags": [
+        "Christology",
+        "Constantinople III",
+        "councils"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "dogma_cristologico",
+      "ordem": null,
+      "referencia_biblica": "Luke 22:42",
+      "paragrafos_ccc": [
+        "475"
+      ],
+      "fontes": [
+        "Third Council of Constantinople (680-681)",
+        "Catechism of the Catholic Church, no. 475",
+        "Luke 22:42"
+      ]
+    },
+    {
+      "id": "jesus-cristo:cristo-unico-mediador",
+      "slug": "cristo-unico-mediador",
+      "titulo": "Christ, the One Mediator",
+      "categoria": "jesus-cristo",
+      "resumo": "Dogma according to which only Christ, true God and true man, can fully reconcile humanity with the Father, the foundation of every other mediation in the Church.",
+      "corpo": "Saint Paul states the principle directly: \"there is one God, and there is one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all\" (1 Tim 2:5-6). The uniqueness of Christ's mediation follows precisely from his twofold condition: only one who is, at the same time, fully God and fully man can truly represent God before men and men before God — which points to the hypostatic union defined at Chalcedon.\n\nThis dogma does not exclude other forms of intercession in the life of the Church — the prayer of the saints, the intercession of Mary, the sacramental mediation of ministers — but situates them as subordinate and derived participations in the one mediation of Christ, never parallel to it or in competition with it. This is what the Catechism sums up when it states that \"Mary's role [...] in no way obscures or diminishes this unique mediation of Christ, but rather shows its power\" (CCC 970), a principle valid, by extension, for all ecclesial mediation.",
+      "tags": [
+        "Christology",
+        "mediation",
+        "salvation"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo": "dogma_cristologico",
+      "ordem": null,
+      "referencia_biblica": "1 Timothy 2:5-6",
+      "paragrafos_ccc": [
+        "480",
+        "618",
+        "970"
+      ],
+      "fontes": [
+        "1 Timothy 2:5-6",
+        "Catechism of the Catholic Church, nos. 480, 618, 970"
+      ]
+    }
+  ]
+}

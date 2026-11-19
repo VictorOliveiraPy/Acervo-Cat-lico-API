@@ -1,0 +1,298 @@
+{
+  "_meta": {
+    "categoria": "sacramentos",
+    "nome": "Sacraments",
+    "descricao": "The seven sacraments of the Catholic Church — the matter, form, minister, and effects of each, based on the Catechism.",
+    "status": "exemplos-iniciais",
+    "aviso": "Describes the common doctrine on the matter, form, minister, and effects of each sacrament; it does not replace the in-person catechetical preparation required by the Church for receiving them.",
+    "revisao_editorial": "The structure of matter/form/minister/effects follows the classical exposition of Catholic sacramental theology, as systematized in the Catechism of the Catholic Church.",
+    "fontes_gerais": [
+      "Catechism of the Catholic Church, Part Two (\"The Celebration of the Christian Mystery\")",
+      "Code of Canon Law (1983), canons 840-1165"
+    ]
+  },
+  "itens": [
+    {
+      "id": "sacramentos:batismo",
+      "slug": "batismo",
+      "titulo": "Baptism",
+      "resumo": "The gateway to the Christian life and to the other sacraments: it erases original sin, makes the person an adopted child of God and a member of the Church, imprints an indelible character and, for this reason, is never repeated.",
+      "corpo": "Baptism is the foundation of the whole Christian life, the portal that gives access to the other sacraments. Through water and the word, the person is freed from sin and is reborn as a child of God, becoming a member of the Church and a temple of the Holy Spirit. Jesus commanded his disciples to baptize \"all nations, in the name of the Father, and of the Son, and of the Holy Spirit\" (Mt 28:19). The Catechism defines it as \"the sacrament of regeneration through water in the word\" (no. 1213), the gateway to life in the Spirit, and recalls that the word \"baptism\" comes from the Greek *baptizein*, meaning \"to plunge\" or \"immerse\": the plunge into the water symbolizes the catechumen's burial into Christ's death, from which he rises up by resurrection with him.\n\nThe oldest attested rite is that of the Didache (late first or early second century), which prescribes baptizing \"in running water\" — that is, flowing water — and, failing that, in other water, cold or warm; if neither is available, \"pour water three times on the head, in the name of the Father and of the Son and of the Holy Spirit.\" The same text commands that the one to be baptized and the one baptizing fast for one or two days beforehand. From this derive the two legitimate forms of administration: by immersion and by infusion (pouring of water). The matter is always natural water (the 1983 Code of Canon Law determines, in can. 854, that baptism is to be conferred by immersion or by infusion, according to the prescriptions of the Conference of Bishops), and the form is the Trinitarian formula.\n\nThe gravest question of Antiquity was that of baptism conferred by heretics. In the mid-third century, Bishop Cyprian of Carthage, supported by two African synods (255 and 256) and by the tradition of his Church, maintained that converted heretics must be rebaptized; Pope Stephen I (254-257), invoking the \"most ancient\" Roman tradition, defended the validity of heretical baptism, the laying on of hands being enough to reconcile. The rupture even came to threaten communion between Rome and the Churches of Africa and Asia Minor, with Dionysius of Alexandria among those who interceded for moderation. The question was reopened in the Donatist schism: the Donatists, following Cyprian, demanded the rebaptism of anyone who had been baptized by a \"traditor\" bishop during the persecution of Diocletian. Against them, Saint Augustine, in the treatise *De baptismo* (c. 400), established the definitive doctrine: it is Christ who baptizes, and the efficacy of the sacrament rests on the holiness of Christ, not on that of the minister — \"just as the light of the sun is not corrupted when it shines through a sewer.\" Baptism therefore imprints an objective and indelible character, which does not depend on the merit of the minister; it was this doctrine that the Council of Trent would later enshrine, defining that the sacraments of the New Law confer grace *ex opere operato* (Session VII, can. 8, 1547).\n\nAs for the minister, the ordinary ministers are the bishop, the priest and, in the Latin Church, the deacon (CCC 1256). In case of danger of death, any person — even an unbaptized one — can baptize validly, provided that he uses water and has the intention of doing what the Church does; can. 861 of the 1983 Code further provides that, in the absence or impediment of the ordinary minister, the catechist or another person designated for this purpose may baptize. The Code likewise commands (can. 867 §1) that parents see to it that their children are baptized \"within the first few weeks\" after birth and, in danger of death, without delay. The Catechism recalls that Baptism is necessary for salvation \"for those to whom the Gospel has been proclaimed and who have had the possibility of asking for this sacrament,\" but that \"God has bound salvation to the sacrament of Baptism, but he himself is not bound by his sacraments\" (no. 1257).\n\nTo this necessity the Catechism links two ancient figures: *baptism of blood*, since those who suffer death for the sake of the faith without having received Baptism are baptized by their death for and with Christ; and *baptism of desire*, by which the catechumen who dies before Baptism, or even one who, not knowing the Gospel, seeks the truth and does God's will, attains salvation. Neither is a sacrament, but both bring forth the fruits of Baptism (nos. 1258-1260). As for children who have died without Baptism, the Church \"can only entrust them to the mercy of God\" (no. 1261).\n\nThe sacrament imprints an indelible character (CCC 1272) — a spiritual mark that Saint Augustine compared to the sign engraved on Roman soldiers — and for this reason can never be repeated. The liturgical tradition also keeps the signs that accompany the water: the post-baptismal anointing with holy chrism, which already foreshadows Confirmation (CCC 1241-1242), the white garment recalling that the baptized has \"put on Christ,\" and the lighted candle from the Paschal candle. In the reformed Roman rite, the baptism of children was revised in 1969 with the Rite of Baptism for Children and, for adults, the catechumenate was restored by the Second Vatican Council (*Sacrosanctum Concilium*, no. 64), culminating in the Rite of Christian Initiation of Adults (RCIA), promulgated by Paul VI on January 6, 1972, which celebrates Baptism, Confirmation and the Eucharist together at the Easter Vigil.",
+      "categoria": "sacramentos",
+      "tags": [
+        "sacraments",
+        "Christian initiation",
+        "water",
+        "Holy Spirit",
+        "Saint Augustine",
+        "Donatism",
+        "Cyprian of Carthage",
+        "Didache",
+        "baptism of desire",
+        "baptism of blood"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Pietro_Perugino_-_Baptism_of_Christ_-_Sistine_Chapel_-_cat13a.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Gospel of Matthew 28:19",
+        "Didache, ch. 7 (Instructions on baptism in living water)",
+        "Saint Augustine, De baptismo (c. 400)",
+        "Council of Trent, Session VII, Decree on the Sacraments and Canons on Baptism (March 3, 1547)",
+        "Council of Florence, Decree for the Armenians Exsultate Deo (November 22, 1439)",
+        "Second Vatican Council, Constitution Sacrosanctum Concilium, no. 64",
+        "Rite of Christian Initiation of Adults (RCIA), promulgated by Paul VI on January 6, 1972",
+        "Code of Canon Law (1983), canons 854, 861 and 867",
+        "Catechism of the Catholic Church, nos. 1213-1284"
+      ],
+      "ordem": 1,
+      "materia": "Natural water",
+      "forma": "«I baptize you in the name of the Father, and of the Son, and of the Holy Spirit»",
+      "ministro": "Ordinary: bishop, priest or deacon. In danger of death, any person with the intention of doing what the Church does.",
+      "efeitos": "Remission of original sin and of all personal sins committed before, and of the punishments due to them; new life as an adopted child of God and member of the Church; imprints an indelible sacramental character, and therefore cannot be repeated.",
+      "paragrafos_ccc": [
+        "1213-1284"
+      ]
+    },
+    {
+      "id": "sacramentos:confirmacao",
+      "slug": "confirmacao",
+      "titulo": "Confirmation (Chrismation)",
+      "resumo": "Sacrament that completes baptismal grace with a special outpouring of the Holy Spirit, binding the Christian more firmly to Christ and to the Church and giving him strength to bear witness to the faith.",
+      "corpo": "Confirmation, also called Chrismation (from the Greek *myron*, \"perfumed oil\"), perfects baptismal grace: it is the sacrament that gives the Holy Spirit, as happened to the apostles on the day of Pentecost, in order to root the Christian more deeply in the divine filiation, unite him more firmly to Christ, increase the gifts of the Spirit, and give special strength to bear witness to the Christian faith. Its scriptural basis is the episode of the Samaritans: when Peter and John were sent, they \"prayed for them that they might receive the Holy Spirit... then they laid their hands on them, and they received the Holy Spirit\" (Acts 8:14-17).\n\nThe history of the rite explains a difference still visible today between East and West. In the first centuries, Confirmation normally constituted a single celebration with Baptism, forming with it, in the expression of Saint Cyprian, a \"double sacrament\" (CCC 1290). The increase in the baptism of infants, administered at any time of the year, and the multiplication of rural parishes, which enormously enlarged the dioceses, made it impossible for the bishop to be present at all baptismal celebrations. In the West, where it was desired to reserve to the bishop the completion of Baptism, the two sacraments were separated in time; the East kept them united, so that the priest who baptizes also confirms, but he can do so only with the *myron* consecrated by a bishop. In Rome, an ancient custom — a double anointing with chrism: that of the priest on coming out of the baptismal font, followed by that of the bishop on the forehead — facilitated the Western practice of separation (CCC 1290-1292).\n\nThe classic doctrinal reference point is the decree *Exsultate Deo* of the Council of Florence (November 22, 1439), addressed to the Armenians, which fixes the matter — the chrism, made of oil, which signifies the radiance of conscience, and of balsam, which signifies the sweet fragrance of good repute, blessed by the bishop —, the form, the ordinary minister (the bishop) and the effect: the giving of the Holy Spirit \"ad robur\" (for strength), as he was given to the apostles at Pentecost, so that the Christian may courageously confess the name of Christ. For this reason the person to be confirmed is anointed on the forehead, \"where the seat of shame is,\" so that he may not be ashamed to confess Christ. Florence also preserves the mention that, by dispensation of the Apostolic See and for a reasonable and urgent cause, a simple priest has been able to administer the sacrament with chrism consecrated by the bishop. The sacramental question of Confirmation was later settled in the Middle Ages: Peter Lombard (†1160), in Book IV of the *Sentences*, enumerated the seven sacraments of the New Law — Baptism, Confirmation, Eucharist, Penance, Anointing of the Sick, Holy Orders and Matrimony —, a distinction taken up by the Council of Trent.\n\nFaced with the Reformation, which reduced the sacrament to a mere ceremony, the Council of Trent devoted three canons to Confirmation in Session VII, held on March 3, 1547, under Paul III. Canon 1 declares anathema anyone who says that \"the confirmation of the baptized is a useless ceremony and not a true and proper sacrament, or that formerly it was nothing more than a kind of catechesis by which those approaching the age of discretion gave an account of their faith before the Church\"; canon 2 condemns anyone who would assert that attributing some virtue to the holy chrism is an injury to the Holy Spirit; and canon 3 declares anathema anyone who says that \"the ordinary minister of holy confirmation is not only the bishop, but any simple priest\". The same session defined, in the general canons, that the seven sacraments were all instituted by Christ and that those of the New Law confer grace *ex opere operato*.\n\nIn the current Roman rite, reformed by the *Ordo Confirmationis* promulgated on August 15, 1971, the bishop extends his hands over the group of those to be confirmed and invokes the outpouring of the Spirit, asking for the seven gifts; the essential rite follows: the anointing with holy chrism on the forehead, with the laying on of the hand, and the words \"Accipe signaculum doni Spiritus Sancti — Be sealed with the Gift of the Holy Spirit\" (in the Byzantine rite, other sense organs are also anointed, with the formula \"Signaculum doni Spiritus Sancti\") (CCC 1320). As to age, the 1983 Code of Canon Law determines (can. 891) that the sacrament be conferred \"at about the age of discretion,\" unless the Conference of Bishops has established another age, or there is danger of death or, in the judgment of the minister, a grave cause; in Brazil, the general norm set the age at twelve, and in Portugal the Episcopal Conference ordinarily determined fourteen. When celebrated separately from Baptism, it begins with the renewal of the baptismal promises, and its celebration within the Eucharist underscores the unity of the sacraments of Christian initiation (CCC 1321). Confirmation, like Baptism, is given only once, for it imprints an indelible character — a sign that Christ has marked the Christian with the seal of his Spirit.",
+      "categoria": "sacramentos",
+      "tags": [
+        "sacraments",
+        "Christian initiation",
+        "Holy Spirit",
+        "chrismation",
+        "Council of Florence",
+        "Council of Trent",
+        "bishop",
+        "Pentecost",
+        "Peter Lombard",
+        "age of discretion"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pietro_Longhi%2C_Confirmationis_Sacramentum.png",
+      "imagem_credito": null,
+      "fontes": [
+        "Acts of the Apostles 8:14-17",
+        "Council of Florence, Bull Exsultate Deo (November 22, 1439)",
+        "Council of Trent, Session VII, Canons on Confirmation (March 3, 1547)",
+        "Peter Lombard, Sentences, Book IV (12th century)",
+        "Ordo Confirmationis, promulgated on August 15, 1971",
+        "Code of Canon Law (1983), canon 891",
+        "Catechism of the Catholic Church, nos. 1285-1321"
+      ],
+      "ordem": 2,
+      "materia": "Anointing with chrism (perfumed oil consecrated by the bishop) on the forehead, with the laying on of hands",
+      "forma": "«Be sealed with the Gift of the Holy Spirit»",
+      "ministro": "Ordinary: the bishop. The priest may administer it in certain circumstances, such as danger of death or by delegation of the bishop.",
+      "efeitos": "Special outpouring of the Holy Spirit, as at Pentecost; roots more deeply in the divine filiation; unites more firmly to Christ and to the Church; increases the gifts of the Holy Spirit; gives strength to confess the faith; imprints an indelible sacramental character.",
+      "paragrafos_ccc": [
+        "1285-1321"
+      ]
+    },
+    {
+      "id": "sacramentos:eucaristia",
+      "slug": "eucaristia",
+      "titulo": "Eucharist",
+      "resumo": "\"Source and summit\" of the whole Christian life: Christ himself, truly present under the species of consecrated bread and wine, offered in sacrifice and given as food.",
+      "corpo": "The Eucharist contains the entire spiritual wealth of the Church, Christ himself, our Passover. Instituted by Jesus at the Last Supper, when he took the bread and the cup and said \"This is my Body... This cup is the new covenant in my Blood\" (Lk 22:19-20; cf. 1 Cor 11:23-26), it is renewed at every Mass by the action of the priest, who consecrates *in persona Christi*. The Church professes that, by the consecration, the bread and wine are changed truly, really, and substantially into the Body and Blood of Christ — only the outward appearances (the \"species\") of bread and wine remaining. The Catechism calls the Eucharist the \"source and summit of the Christian life\" (no. 1324) and recalls that the traditional names of the sacrament — Eucharist (thanksgiving), Lord's Supper, Breaking of Bread, Blessed Sacrament — gather successive layers of tradition, from the first communities to the writings of Saint Ignatius of Antioch (c. 107) and Saint Justin (c. 150).\n\nThe doctrine was solemnly defined by the Council of Trent in the Decree on the Most Holy Sacrament of the Eucharist, in its Thirteenth Session, on October 11, 1551. Chapter IV names the change: \"by this conversion of the whole substance of the bread into the Body and of the whole substance of the wine into the Blood... the Catholic Church has fittingly and properly called Transubstantiation\". The attached canons condemn anyone who would affirm that \"the substance of the bread and wine remains together with the Body and Blood\" (can. 2) or who would deny the presence of the whole Christ under each species and under every part of each species (can. 3). Canon 6 defines the worship of latria due to the sacrament, adored and carried in procession; canon 7 affirms the legitimacy of reservation and of communion for the sick.\n\nThe Tridentine insistence responds to the crisis of the Reformation. In the very first years, the question had divided the reformers themselves: at the Marburg Colloquy (October 1529), convened by Landgrave Philip I of Hesse, Luther and Ulrich Zwingli could not agree on the interpretation of the words \"Hoc est corpus meum\". Luther, refusing the symbolic reading and also rejecting transubstantiation because of its Aristotelian philosophical foundation, defended the real presence of the body and blood of Christ in the bread and wine; Zwingli saw in the Supper a mere commemoration. From this divergence came formulations such as the Lutheran *manducatio indignorum* — the body and blood being received orally also by the unworthy — which Philip Melanchthon and the Reformed rejected. The Catholic definition of Trent answered Luther and Zwingli at the same time.\n\nThe Council completed the Eucharistic doctrine in the following sessions. The Twenty-First Session (July 16, 1562) dealt with communion under both kinds and the communion of children, confirming the legitimacy of receiving communion under one kind only: as chapter II teaches, the custom of communicating under one kind only, introduced over time and approved by \"holy mother Church\", has the force of law. The measure was aimed directly at the Utraquists (\"sub utraque specie\"), who, taking up the Hussite claim and the practice of Jan Hus in the fifteenth century, maintained that it was necessary to receive both the bread and the wine, lest the reception be incomplete; Trent responded that, \"because of the glorious state of human nature\" of Christ, the shedding of blood is not possible, so that under each species the whole and entire Christ is present — Body, Blood, Soul, and Divinity — and that whoever receives communion under one kind only is not deprived of any grace necessary for salvation. The Twenty-Second Session (September 17, 1562) set forth the doctrine of the Eucharistic Sacrifice of the Mass, linking the Eucharist to the cross: it is the same sacrifice of Christ, made present in an unbloody manner. The Code of Canon Law of 1983 (can. 925) prescribes that communion be normally distributed under the species of bread, or under both species according to the liturgical laws.\n\nThe Second Vatican Council, in the constitution *Sacrosanctum Concilium* (1963), restored centrality to the participation of the faithful, ordered the celebration of the homily and the prayer of the faithful, and strongly recommended the communion of the laity immediately after that of the priest. Communion, which unites the believer to Christ and nourishes him, is a pledge of future glory. From the later devotional tradition — consolidated in the West from the thirteenth century, with the institution of the feast of Corpus Christi (Urban IV, bull *Transiturus de hoc mundo*, 1264) and the impetus of Saint Juliana of Cornillon — came Eucharistic adoration and the exposition of the Blessed Sacrament in the monstrance, forms of worship of the sacrament that Trent recognized and that remain alive in Catholic piety.",
+      "categoria": "sacramentos",
+      "tags": [
+        "sacraments",
+        "Eucharist",
+        "Christian initiation",
+        "transubstantiation",
+        "Council of Trent",
+        "Last Supper",
+        "real presence",
+        "Utraquism",
+        "Corpus Christi",
+        "Mass"
+      ],
+      "imagem": "/img-acervo/ig-monstrancia-sunburst.jpg",
+      "imagem_credito": "Photo: Maria Oswalt / Unsplash",
+      "fontes": [
+        "Gospel of Luke 22:19-20; 1 Corinthians 11:23-26",
+        "Council of Trent, Decree on the Most Holy Sacrament of the Eucharist (Session XIII, October 11, 1551), ch. IV and canons 2, 3, 6, and 7",
+        "Council of Trent, Sessions XXI (July 16, 1562) and XXII (September 17, 1562)",
+        "Second Vatican Council, Constitution Sacrosanctum Concilium (1963)",
+        "Code of Canon Law (1983), canon 925",
+        "Catechism of the Catholic Church, nos. 1322-1419"
+      ],
+      "ordem": 3,
+      "materia": "Wheat bread and grape wine",
+      "forma": "The words of institution spoken by Christ at the Last Supper (\"This is my Body... This is the cup of my Blood...\")",
+      "ministro": "Only a validly ordained priest (presbyter or bishop) can consecrate; communion may also be distributed by deacons and extraordinary ministers.",
+      "efeitos": "Intimate union with Christ; increase of the grace received in Baptism; forgiveness of venial sins and protection against future mortal sins; strengthens the unity of the mystical Body of the Church; pledge of future glory.",
+      "paragrafos_ccc": [
+        "1322-1419"
+      ]
+    },
+    {
+      "id": "sacramentos:penitencia-reconciliacao",
+      "slug": "penitencia-reconciliacao",
+      "titulo": "Penance and Reconciliation (Confession)",
+      "resumo": "Sacrament by which sins committed after Baptism are forgiven through the absolution of the priest, acting in the name of Christ and of the Church, by means of the penitent's contrition, confession, and satisfaction.",
+      "corpo": "Whoever sins after Baptism can receive, through the sacrament of Penance, new forgiveness and reconciliation with God and with the Church. Instituted by Christ when he entrusted to the apostles the power of the keys — \"whose sins you forgive are forgiven them\" (Jn 20:22-23; cf. Mt 16:19; 18:18) —, the sacrament is also called Confession, Conversion, and Reconciliation, each one illuminating an aspect of the same mystery.\n\nThe form in which the sacrament is lived today developed slowly. In the first centuries, canonical penance was a public act and, as a rule, unrepeatable: whoever fell into grave sin after Baptism submitted to a harsh discipline — often for years — before being readmitted to communion, and this \"state of penitent\" marked him for the rest of his life. The process amounted to a true state of excommunication, and reconciliation with the Church, a sign of reconciliation with God, tended to take place on Holy Thursday. In this period the first controversies arose: in the third century, Novatian denied that there was forgiveness for the lapsi — those who had denied the faith during the persecutions —, and Tertullian, after adhering to Montanism, came to refuse forgiveness for grave sins; in the opposite direction, Saint John Chrysostom was reproached by his adversaries precisely for frequently granting penance and forgiveness to repentant faithful.\n\nBetween the sixth and seventh centuries, under the influence of Irish and Anglo-Saxon monks, the so-called \"tariff penance\" emerged: penitential books — veritable manuals for confessors — stipulated the \"tariff\" of penance for each sin, and the rite became private, secret, and repeatable as many times as necessary. The first conciliar approval of this new practice is usually identified with the Council of Chalon-sur-Saône (c. 644-655), whose canon 8 states that penance, the \"medicine of the soul,\" must be given to penitents \"every time they confess.\" It was a deep structural change, which opened the sacrament to frequent reception throughout the whole life of the faithful; with it, however, came abuses, such as the \"commutations\" that exchanged penance for money or for Masses.\n\nThe Fourth Lateran Council (1215), in canon 21 — known by its opening words Omnis utriusque sexus —, gave the development its stable form: it prescribed for every Christian who had reached the age of discretion the obligation to confess his sins at least once a year to his own parish priest and to receive Communion at Easter, under penalty of being barred from the church during life and, at death, deprived of Christian burial. Although it is sometimes cited as if it had instituted sacramental confession, the canon in fact only confirmed earlier legislation and customs, and the decree has been called \"perhaps the most important legislative act in the history of the Church\"; from it came the flourishing of manuals for confessors (the summae confessorum) for the formation of parish priests.\n\nAgainst the reformers, the Council of Trent devoted Session XIV (November 25, 1551) to Penance. It defined that the acts of the penitent — contrition, confession, and satisfaction — are \"as it were the matter\" of the sacrament, required by divine institution for the integrity of the sacrament (ch. 3; Denzinger 1673), and that the form, \"in which its force principally consists,\" lies in the words of the minister: \"I absolve you\" (ch. 3). It distinguished perfect contrition (sorrow for sin out of love for God) from attrition (sorrow born of fear of punishment), teaching that perfect contrition, united with the desire for the sacrament, reconciles with God even before absolution (Denzinger 1677), and that satisfaction is not a human worship that obscures grace, but authentic reparation (Canons XIII-XIV). Canon IX further defined that priestly absolution is a judicial act, and not a mere announcement of a forgiveness already obtained by faith.\n\nThe course of the sacrament is, still today, the same. The penitent examines his conscience, repents with a purpose of amendment, confesses his sins to the priest, accepts the penance, and receives absolution. Grave sins must be confessed in kind and number, as far as memory allows; venial sins may be confessed and also forgiven in other ways. Absolution removes the eternal punishment; however, a temporal debt may remain, to be repaired by works of satisfaction. Only a bishop or a presbyter with the faculty granted by the competent authority can absolve, and the sacramental seal — the inviolable secrecy of confession, which forbids the confessor to betray the penitent \"in any way and for any reason, whether by word or by any other means\" (Can. 983 §1) — binds him absolutely: whoever directly violates the seal incurs an excommunication latae sententiae reserved to the Apostolic See (Can. 1388 §1).",
+      "categoria": "sacramentos",
+      "tags": [
+        "sacraments",
+        "confession",
+        "penance",
+        "reconciliation",
+        "sin",
+        "absolution",
+        "Fourth Lateran Council",
+        "Council of Trent",
+        "contrition",
+        "Irish penitentials",
+        "sacramental seal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PL_Wwa%2C_kos_Krzyza%2C_konfesjonal%2C_2023.04.08%2C_fot_Ivonna_Nowicka_corr_3.jpg",
+      "imagem_credito": "Photo: Ivonna Nowicka — Wikimedia Commons, CC BY-SA 4.0, 2023",
+      "fontes": [
+        "Gospel of John 20:22-23; Matthew 16:19; 18:18",
+        "Fourth Lateran Council (1215), canon 21 (Omnis utriusque sexus)",
+        "Council of Chalon-sur-Saône (c. 644-655), canon 8",
+        "Council of Trent, Session XIV (November 25, 1551), Doctrine and Canons on Penance (chs. 3-4; Canons IX, XIII-XIV; Denzinger 1673, 1677, 1704)",
+        "Code of Canon Law, Canons 983 §1 and 1388 §1",
+        "Catechism of the Catholic Church, nos. 1422-1498"
+      ],
+      "atualizado_em": null,
+      "ordem": 4,
+      "materia": "The acts of the penitent: contrition, confession of sins, and satisfaction (penance)",
+      "forma": "«I absolve you from your sins in the name of the Father, and of the Son, and of the Holy Spirit»",
+      "ministro": "Only a bishop or a priest who has the faculty to hear confessions, granted by the competent ecclesiastical authority.",
+      "efeitos": "Reconciliation with God and with the Church; forgiveness of sins committed after Baptism; remission of the eternal punishment due to mortal sins and, at least in part, of temporal punishments; peace and serenity of conscience; increase of spiritual strength for the Christian struggle.",
+      "paragrafos_ccc": [
+        "1422-1498"
+      ]
+    },
+    {
+      "id": "sacramentos:uncao-dos-enfermos",
+      "slug": "uncao-dos-enfermos",
+      "titulo": "Anointing of the Sick",
+      "resumo": "Sacrament of healing that entrusts the gravely ill and the elderly to the suffering and glorified Lord, for the relief of the body and the salvation of the soul, conferred with oil blessed by the bishop.",
+      "corpo": "The Anointing of the Sick is, together with Penance, one of the two sacraments called \"of healing.\" Its principal biblical foundation is in the Letter of James: \"Is any among you sick? Let him call for the elders of the church, and let them pray over him, anointing him with oil in the name of the Lord; and the prayer of faith will save the sick man, and the Lord will raise him up; and if he has committed sins, he will be forgiven\" (Jas 5:14-15). The Council of Trent (Session XIV, November 25, 1551) saw in this text the promulgation of the sacrament and, in Mk 6:13 — where the disciples \"anointed with oil many that were sick and healed them\" — its hint in the Gospel. Canon I of Session XIV anathematizes anyone who says \"that Extreme Unction is not truly and properly a sacrament instituted by Christ our Lord and promulgated by the blessed Apostle James, but only a rite received from the Fathers, or a human invention\" (Denzinger 1716).\n\nThe current name, however, is recent. For about eight centuries the rite described by James was practiced chiefly as an anointing for the healing of the sick. It was in the Carolingian period, in the Middle Ages, that the practice shifted toward preparation for death, receiving the name \"extreme unction\" — a term that presupposed anointing only in extreme conditions, when recovery was no longer expected. The Roman Church even came to anoint the organs of the senses, one by one, with a formula adapted to each (eyes, ears, nose, mouth, hands and feet). Reacting to this reduction (and also to the controversy with the reformers, who denied the sacramental character of the rite), the Council of Trent consolidated the doctrine — teaching that the anointing is intended for the sick, but \"especially for those who seem to be at the point of death\" (ch. iii) — but it was the Second Vatican Council that restored the original emphasis. The Constitution Sacrosanctum Concilium (no. 73) declares that \"Extreme Unction, which may also and more fittingly be called Anointing of the Sick, is not a sacrament for those only who are at the point of death,\" and that the opportune time for receiving it has certainly already arrived when the believer begins to be in danger of death from sickness or old age. Paul VI, in the Apostolic Constitution Sacram Unctionem Infirmorum (November 30, 1972), approved the reform of the rite and of the formula, simplifying the number of anointings to the forehead and the hands.\n\nAs for the matter, it has been debated for centuries whether olive oil is required. The Council of Florence, in the Bull Exultate Deo to the Patriarch of the Armenians (November 22, 1439, decree for the Armenians), expressly required that the matter be \"olive oil blessed by the bishop\"; a minority of theologians, relying on the silence of the text of James, defended the validity of \"oil of any kind\" with similar properties. The text of Florence — which names anointing as the fifth of the seven sacraments — also established that the sacrament is not to be administered \"except to the sick person whose death is feared\" (Denzinger 700). Paul VI resolved the question: in Sacram Unctionem Infirmorum, observing that \"olive oil, which was prescribed until now for the validity of the Sacrament, in some places is lacking or is difficult to obtain,\" he determined that \"another kind of oil\" may be used, \"which, however, must be obtained from plants.\" Today the oil of the sick is one of the three oils blessed by the bishop at the Chrism Mass (or Mass of the Holy Oils), celebrated on the morning of Holy Thursday, alongside the oil of catechumens and the holy chrism — the latter consecrated with balsam, the other two only blessed. The blessing of the oil of the sick uses the prayer \"Deus, totíus consolatiónis Pater\" (\"O God, Father of all consolation\"), which goes back to the Gelasian Sacramentary (7th-8th centuries). In a case of true necessity, any priest may bless this oil, but only within the celebration of the sacrament itself.\n\nThe celebration is communal, even when it takes place at a hospital bedside: it includes the penitential rite, the liturgy of the Word, the silent laying on of hands by the priests (the true epiclesis of the sacrament) and the anointing. In the reformed Roman rite, the anointing is done on the forehead and the hands, without repeating the sacramental formula. The sick person is invited to unite himself freely to the Passion of Christ, contributing to the good of the whole People of God. When death is foreseen to be near, the sacrament is celebrated together with Confession and the Eucharist — the latter then received as Viaticum, \"the last sacrament of the Christian.\" The sacrament may be repeated if the illness worsens or a new illness arises, and it is fitting to receive it before a serious surgery; it is not a single seal like Baptism or Holy Orders.",
+      "categoria": "sacramentos",
+      "tags": [
+        "sacraments",
+        "sick",
+        "healing",
+        "extreme unction",
+        "James",
+        "Council of Trent",
+        "Vatican II",
+        "oil of the sick",
+        "Viaticum",
+        "Council of Florence",
+        "Chrism Mass"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Extreme_Unction_Rogier_Van_der_Weyden.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Letter of James 5:14-15",
+        "Gospel of Mark 6:13",
+        "Eugene IV, Bull Exultate Deo to the Patriarch of the Armenians (November 22, 1439), decree for the Armenians (Denzinger 700)",
+        "Council of Trent, Session XIV (November 25, 1551), Doctrine and Canons on Extreme Unction (ch. iii; Canons I-II; Denzinger 1716)",
+        "Second Vatican Council, Sacrosanctum Concilium, nos. 73-75",
+        "Paul VI, Apostolic Constitution Sacram Unctionem Infirmorum (November 30, 1972)",
+        "Catechism of the Catholic Church, nos. 1499-1532"
+      ],
+      "atualizado_em": null,
+      "ordem": 5,
+      "materia": "Oil of the sick, blessed by the bishop (or, in case of necessity, by the celebrating priest himself)",
+      "forma": "«Through this holy anointing may the Lord in his love and mercy help you with the grace of the Holy Spirit...»",
+      "ministro": "Only a bishop or a priest.",
+      "efeitos": "Union of the sick person with the Passion of Christ, for his own good and that of the whole Church; comfort, peace and courage to endure the illness; forgiveness of sins, if the sick person was unable to confess; restoration of health, if it is conducive to the salvation of the soul; preparation for the passage to eternal life.",
+      "paragrafos_ccc": [
+        "1499-1532"
+      ]
+    },
+    {
+      "id": "sacramentos:ordem",
+      "slug": "ordem",
+      "titulo": "Holy Orders",
+      "resumo": "The sacrament through which the mission entrusted by Christ to his apostles continues to be exercised in the Church, in the three degrees of episcopate, presbyterate and diaconate, conferred by the laying on of hands of the bishop and the consecratory prayer.",
+      "corpo": "Holy Orders is defined in the Catechism as \"the sacrament through which the mission entrusted by Christ to his apostles continues to be exercised in the Church until the end of time\": it is, therefore, the sacrament of apostolic ministry, and it includes three degrees — episcopate, presbyterate and diaconate — which the Church has always understood to constitute a single sacrament (CCC 1536). Already in Roman antiquity the word ordo designated the established bodies of society, and ordinatio the act of integrating someone into one of these bodies; Tradition, with support from Scripture, applied the terms to the Church, speaking of the ordo episcoporum, the ordo presbyterorum and the ordo diaconorum (CCC 1537). The sacrament is not merely an election, designation or delegation by the community, but a consecration (consecratio) that confers a gift of the Holy Spirit and a sacred power (sacra potestas) that can only come from Christ through his Church (CCC 1538).\n\nThe three degrees were defined by Catholic doctrine and by the liturgy as two ministerial participations in the priesthood of Christ — the episcopate and the presbyterate —, to which the diaconate is ordered for service and assistance; therefore, in current usage, the term sacerdos designates bishops and presbyters, but not deacons (CCC 1554). The bishop receives the fullness of the sacrament and incorporation into the college of bishops in hierarchical communion with the Roman Pontiff; the presbyter is constituted a co-worker of the episcopal order; the deacon is configured to Christ the Servant and is destined for the ministry of the liturgy, of the word and of charity (CCC 1554, 1562-1571). The essential rite, common to the three degrees, is the laying on of hands by the bishop on the head of the ordinand, accompanied by the specific consecratory prayer, which asks for the outpouring of the Holy Spirit and of the gifts proper to the ministry (CCC 1573). The celebration should preferably take place on a Sunday and in the cathedral, within the Eucharistic liturgy, and the three ordinations follow the same scheme (CCC 1572).\n\nThe exact determination of the matter and form of the sacrament was fixed by Pope Pius XII in the Apostolic Constitution Sacramentum Ordinis, of November 30, 1947, which ended centuries of controversy. Until then, since the Decree for the Armenians of the Council of Florence (1439), the presentation of the instruments (the handing over of the chalice and paten) had been considered the matter of the presbyterate; Pius XII declared that the matter is, in all three degrees, solely the laying on of hands, and the form, the essential words of the consecratory Preface of each degree — for the deacon: \"Emitte in eum, quaesumus, Domine, Spiritum Sanctum, quo in opus ministerii tui fideliter exsequendi septiformis gratiae tuae munere roboretur\"; for the presbyter: \"Da, quaesumus, omnipotens Pater, in hunc famulum tuum Presbyterii dignitatem...\"; for the bishop: \"Comple in Sacerdote tuo ministerii tui summam...\". He further determined that the laying on of hands must physically touch the head of the ordinand, although moral contact suffices for validity. In the vernacular formulas of the current Roman Pontifical, the valid presbyteral form is \"Grant, we pray, almighty Father, to these your servants the dignity of the presbyterate...\", and the diaconal one, \"Send forth upon them, Lord, we pray, the Holy Spirit...\".\n\nOn the indelible character, the Council of Trent, in Session XXIII of July 15, 1563, condemned as heretical the opinion that Orders does not imprint a character or that a priest can become a layman again, defining that the Holy Spirit is conferred by sacred ordination, as the bishop's words \"Receive the Holy Spirit\" indicate (Denzinger 1771). The Catechism gathers the same doctrine: ordination imprints an indelible sacramental character and therefore cannot be repeated (CCC 1597). The sacrament is conferred only on baptized men whose suitability has been duly recognized, the Church being the authority responsible for calling to the ministry (CCC 1598). As for the diaconate, the Second Vatican Council restored it as a proper and permanent degree of the hierarchy (Lumen Gentium 29), a restoration implemented by Paul VI in the motu proprio Sacrum Diaconatus Ordinem, of June 18, 1967, which admits married men to the permanent diaconate, with a minimum age of thirty-five, leaving it to the Episcopal Conferences, with the approval of the Supreme Pontiff, to decide whether and where it is appropriate to establish it. Finally, the reservation of priestly ordination to men was declared definitive by John Paul II in the apostolic letter Ordinatio Sacerdotalis, of May 22, 1994, in which he states that \"the Church has no authority whatsoever to confer priestly ordination on women\".",
+      "categoria": "sacramentos",
+      "tags": [
+        "sacraments",
+        "clergy",
+        "ordination",
+        "bishop",
+        "presbyter",
+        "deacon",
+        "episcopate",
+        "presbyterate",
+        "diaconate",
+        "indelible character",
+        "Council of Trent",
+        "Second Vatican Council",
+        "Pius XII",
+        "John Paul II"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Nicolas_Poussin_-_The_Sacrament_of_Ordination_%28Christ_Presenting_the_Keys_to_Saint_Peter%29_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catechism of the Catholic Church, nos. 1536-1538, 1554, 1572-1573, 1597-1598 (editio typica, Vatican.va)",
+        "Council of Trent, Session XXIII (July 15, 1563), Doctrine and Canons on the Sacrament of Order (Denzinger 1763-1778; canons 1-9)",
+        "Pius XII, Apostolic Constitution Sacramentum Ordinis (November 30, 1947), on the matter and form of Holy Orders (Vatican.va, Latin text)",
+        "Second Vatican Council, Dogmatic Constitution Lumen Gentium, no. 29 (restoration of the diaconate as a proper and permanent degree)",
+        "Paul VI, Apostolic Letter in the form of Motu Proprio Sacrum Diaconatus Ordinem (June 18, 1967)",
+        "John Paul II, Apostolic Letter Ordinatio Sacerdotalis (May 22, 1994), on priestly ordination reserved to men alone",
+        "Reformed Roman Pontifical (De Ordinatione Episcopi, Presbyterorum et Diaconorum), on the matter and form of ordinations"
+      ],
+      "ordem": 6,
+      "materia": "Laying on of hands by the bishop",
+      "forma": "The consecratory prayer proper to each degree (episcopate, presbyterate or diaconate)",
+      "ministro": "Only a validly ordained bishop.",
+      "efeitos": "Configures the ordained to Christ, as Head and Shepherd (bishops and priests) or as Servant (deacons); confers sacred power to serve the people of God in the liturgy, in teaching and in pastoral governance; imprints an indelible sacramental character, and therefore cannot be repeated.",
+      "paragrafos_ccc": [
+        "1536-1600"
+      ]
+    },
+    {
+      "id": "sacramentos:matrimonio",
+      "slug": "matrimonio",
+      "titulo": "Matrimony",
+      "resumo": "The covenant by which a man and a woman establish between themselves a partnership of the whole of life, ordered to the good of the spouses and to the procreation and education of children, raised by Christ to the dignity of a sacrament among the baptized and marked by unity and indissolubility.",
+      "corpo": "Marriage between baptized persons was raised by Christ to the dignity of a sacrament. The Code of Canon Law defines it as \"the matrimonial covenant, by which a man and a woman establish between themselves a partnership of the whole of life, which of its own very nature is ordered toward the good of the spouses and the procreation and education of offspring\" (Can. 1055 §1). Between the baptized, there cannot be a valid matrimonial contract which is not by that very fact a sacrament (Can. 1055 §2). Its essential properties are unity (one man, one woman) and indissolubility (until death), founded on the words of Christ: \"what God has joined together, let no man put asunder\" (Mt 19:6; cf. Mk 10:9).\n\nUnlike the other sacraments, the spouses themselves are the ministers: they administer it to one another by expressing their mutual consent before the Church, the priest or deacon being the qualified witness who receives this consent in the name of the Church and gives the nuptial blessing. Marriage is brought about by the consent of the parties, legitimately manifested between persons who are qualified by law, \"and no human power is able to supply it\" (Can. 1057 §1).\n\nHistorically, for centuries the mere consent of the spouses sufficed for the validity of the bond — the principle of *consensus facit nuptias*, \"consent makes the marriage.\" This regime, however, allowed \"clandestine marriages,\" celebrated without witnesses or record, a source of grave abuses and uncertainty. As early as 1215 the Fourth Lateran Council had forbidden such marriages, but, barring some other impediment, still considered them valid, although illicit. In the East, the Council of Trullo (or Quinisext, Constantinople, 692), convened under Emperor Justinian II, declared invalid marriages contracted without the ecclesiastical form — a decision accepted in the East, but not in the West. The definitive answer for the West came at the Council of Trent: the Decree *Tametsi* (November 11, 1563, Session XXIV), the first of the ten chapters of the decree *De reformatione matrimonii*, required, under pain of invalidity — not merely illicitness — that the marriage be celebrated before the proper parish priest of one of the contracting parties (or a delegated priest) and in the presence of at least two witnesses, with prior publication of banns and entry in the parish register. It was also reaffirmed that the consent of the parents is not necessary for validity, although their refusal is discouraged. It was the first time the Church made the validity of marriage conditional on a specific canonical form. However, *Tametsi* was binding only in the territories and parishes where it had been effectively promulgated, so that clandestine marriages retained canonical validity in several regions for centuries — a situation that Alessandro Manzoni explored as the central point of *The Betrothed*, set in the Duchy of Milan, where the decree had not been published. The requirement became universal only with the decree *Ne Temere* of Pius X (August 10, 1907, in force at Easter, April 19, 1908), which bound all Catholics of the Latin rite to the canonical form, exempting only non-Catholics who married among themselves. Mixed marriage, however, remained marked by controversy: *Ne Temere* required the non-Catholic spouse to promise to raise the children in the Catholic faith, which gave rise to civil lawsuits in Canada (Quebec, 1911) and in Ireland (the *Tilson v. Tilson* case, 1950), until it was replaced by the milder *Matrimonia Mixta* in 1970.\n\nAgainst the reformers, who denied the sacramental character of marriage (Luther had called it an \"external and worldly thing, like clothes and food\"), Trent solemnly defined: \"If anyone says that matrimony is not truly and properly one of the seven sacraments of the evangelical law, instituted by Christ our Lord, but was invented in the Church by men, and does not confer grace, let him be anathema\" (Session XXIV, Canon I). The same council confirmed, in Canon VII, that the bond cannot be dissolved by the adultery of one of the parties and that both, even the innocent one, cannot contract another marriage while the other is alive. The Tridentine discipline was received by the 1917 Code and, adapted, by Can. 1108 of the 1983 Code.\n\nIn the celebration, the spouses exchange consent before God and the Church, and the priest confirms it and blesses the union. Consent must be free, without coercion or grave error, since it is what constitutes the bond. Catholic doctrine distinguishes the ends of marriage — the good of the spouses and openness to life, today presented as inseparable (cf. Gaudium et spes, n. 48) — and admits the possibility of a declaration of nullity when an essential element is lacking, which does not amount to a religious \"divorce,\" since a valid and consummated marriage cannot be dissolved by any human power.",
+      "categoria": "sacramentos",
+      "tags": [
+        "sacraments",
+        "matrimony",
+        "family",
+        "consent",
+        "indissolubility",
+        "Council of Trent",
+        "Decree Tametsi",
+        "canonical form",
+        "Ne Temere",
+        "Council of Trullo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/44/Catholic_wedding.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Gospel of Matthew 19:3-9; Mark 10:2-12",
+        "Code of Canon Law, Canons 1055-1057 and 1108",
+        "Council of Trent, Session XXIV (November 11, 1563): Doctrine on the Sacrament of Matrimony, Canons I and VII, and Decree Tametsi",
+        "Pius X, Decree Ne Temere (August 10, 1907), Congregation of the Council",
+        "Council of Trullo (Quinisext), Constantinople, 692",
+        "Second Vatican Council, Gaudium et spes, nn. 47-52",
+        "Catechism of the Catholic Church, nn. 1601-1666"
+      ],
+      "atualizado_em": null,
+      "ordem": 7,
+      "materia": "The mutual, free and valid consent itself, expressed by the spouses",
+      "forma": "The exchange of matrimonial consent before the Church",
+      "ministro": "The spouses themselves administer the sacrament to one another; the priest or deacon is the qualified witness of the Church and gives the nuptial blessing.",
+      "efeitos": "It creates a perpetual and exclusive bond between the spouses; it confers its own grace to perfect them in mutual love and strengthen them in their indissoluble unity; it consecrates the spouses for the duties and dignity of their state of life.",
+      "paragrafos_ccc": [
+        "1601-1666"
+      ]
+    }
+  ]
+}

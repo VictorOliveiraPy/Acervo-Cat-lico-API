@@ -1,0 +1,769 @@
+{
+  "_meta": {
+    "categoria": "calendario-liturgico",
+    "nome": "Liturgical Calendar",
+    "descricao": "The seasons, colors, and ranks of celebration of the Catholic Liturgical Year, and how its movable dates work.",
+    "status": "exemplos-iniciais",
+    "aviso": "Describes the structure of the calendar of the Roman Rite; particular calendars (diocesan, of religious orders) may add their own celebrations not listed here.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Roman Missal, \"Universal Norms on the Liturgical Year and the General Roman Calendar\"",
+      "Second Vatican Council, Constitution \"Sacrosanctum Concilium\" (1963)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "calendario-liturgico:advento",
+      "slug": "advento",
+      "titulo": "Advent",
+      "resumo": "A four-week season that opens the liturgical year, preparing for Christmas with a twofold emphasis: the historical coming and the final coming of Christ.",
+      "corpo": "Advent (from the Latin adventus, \"coming, arrival\") opens the liturgical year and comprises the four Sundays preceding Christmas, beginning with the Sunday closest to the feast of Saint Andrew (November 30). The word had secular use in the Roman Empire, designating the official visit of an important person (the adventus augusti, attested on coins) and the \"coming\" of the deity to the temple; the Vulgate adopted it as the classic term for the coming of Christ to earth and, later, for his glorious coming at the end of time (the Parousia).\n\nAdvent has a twofold meaning. In the first weeks, it directs our gaze to the second coming of Christ at the end of time; from December 17, it turns more directly to the immediate preparation for Christmas, the first coming in history. The season is therefore divided into two parts: up to December 16, with an eschatological emphasis; from December 17 to 24, when the readings focus on the messianic prophecies of Isaiah and the ancient O Antiphons appear. The Roman liturgy suppresses some festive elements during this season (the Gloria, the organ and flowers), but, unlike Lent, it is not a season of austere penance.\n\nThe origin of the season goes back to the fifth century: Saint Perpetuus, Bishop of Tours, is said to have established a three-day fast before Christmas, and from this period also dates the \"Lent of Saint Martin,\" a forty-day fast beginning the day after the feast of Saint Martin (November 11), hence called the \"Lent of Saint Martin.\" Saint Gregory the Great (590-604) was the first pope to compose an office for Advent, and the Gregorian Sacramentary is the oldest to provide proper Masses for the Sundays of this season. In the ninth century, the length of Advent was reduced to four weeks, as we read in a letter of Pope Saint Nicholas I (858-867) to the Bulgarians; by the twelfth century, the fast had already been replaced by simple abstinence.\n\nThe third Sunday is called Gaudete (\"Rejoice\"), a name taken from the Introit of the Mass, which begins with the words of Saint Paul: \"Gaudete in Domino semper: iterum dico, gaudete\" — \"Rejoice in the Lord always; again I say, rejoice\" (Phil 4:4). On this Sunday it is permitted to use rose-colored vestments (as on Laetare, the fourth Sunday of Lent), as a sign of joy in the midst of a season of expectation. The usual liturgical color of Advent is violet.\n\nAs a popular devotion, the Advent wreath — the ring of green branches with four candles — arose only in 1839, in the German Protestant milieu: it was created by the Lutheran theologian Johann Hinrich Wichern (1808-1881) at the Rauhes Haus in Hamburg, an institution he founded to take in poor children. The wreath, with candles lit one each Sunday, represents the growing light that culminates in the Light of the World, Christ.",
+      "categoria": "calendario-liturgico",
+      "tags": [
+        "liturgical year",
+        "Advent",
+        "Gaudete",
+        "Adventus",
+        "Advent wreath",
+        "Isaiah",
+        "O Antiphons"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Wichern_Adventskranz_originated_from_Germany.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Roman Missal",
+        "Universal Norms on the Liturgical Year and the General Roman Calendar",
+        "Gregorian Sacramentary",
+        "Letter of Pope Saint Nicholas I to the Bulgarians (9th century)",
+        "Catholic Encyclopedia, entry 'Gaudete Sunday'",
+        "Catechism of the Catholic Church"
+      ],
+      "atualizado_em": null,
+      "ordem": 1,
+      "cor_liturgica": "Violet (rose on Gaudete, the third Sunday)"
+    },
+    {
+      "id": "calendario-liturgico:tempo-do-natal",
+      "slug": "tempo-do-natal",
+      "titulo": "Christmas Time",
+      "resumo": "From Christmas to the Baptism of the Lord, it celebrates the birth of Christ and his manifestation to the world, with the Octave of Christmas, the Mother of God, and the Epiphany.",
+      "corpo": "Christmas Time begins with the First Vespers of the Solemnity of the Nativity of the Lord (December 24/25) and extends, in the current form of the Roman calendar, to the feast of the Baptism of the Lord, celebrated on the Sunday after the Epiphany (or, where the latter is celebrated on January 6, on the Sunday between January 7 and 13). It is one of the strong seasons of the liturgical year, which together with Advent forms the so-called Christmas Cycle: preparation, solemnity, and prolongation of the mystery of the Incarnation.\n\nThe eight days that follow Christmas — the Octave of Christmas — are celebrated as if they were a single day and include feasts of very ancient origin: Saint Stephen, the first martyr (December 26), Saint John, Apostle and Evangelist (27), and the Holy Innocents (28). On the Sunday after Christmas the Feast of the Holy Family of Jesus, Mary and Joseph is celebrated. The octave closes with the Solemnity of Holy Mary, Mother of God, on January 1: historically, the Roman rite celebrated on that day the memorial of the circumcision of the Child and the conferral of the Most Holy Name of Jesus. After the ancient Marian feast disappeared, Pope Pius XI, in 1931, on the fifteenth centenary of the Council of Ephesus (431), instituted a feast of Mary, Mother of God, for October 11; the reform of the calendar after the Second Vatican Council moved it to January 1, with the highest liturgical rank.\n\nThe Solemnity of the Epiphany commemorates the manifestation of the Savior to the Gentiles, beginning with the adoration of the Magi who came from the East (Mt 2:1-12), and its origin is very ancient. The feast arose in the East probably at the beginning of the third century, where it brought together in a single day the nativity of Christ, his baptism in the Jordan, and the first miracle at the wedding at Cana — the so-called \"holy light.\" In the fourth century the West fixed Christmas on December 25, and the Epiphany came to emphasize the revelation of Christ to the pagan world. For this reason the feast is celebrated on January 6, but, according to the Universal Norms on the Liturgical Year, it may be transferred to the Sunday between January 2 and 8 in places where January 6 is not a holy day of obligation — which the CNBB (the Brazilian bishops' conference) adopts in Brazil.\n\nChristmas Time concludes with the feast of the Baptism of the Lord, which recalls the beginning of Jesus' public mission, the \"beloved Son\" of the Father (Mt 3:17), and also, traditionally, the miracle at Cana. The liturgical color of the season is white or gold.",
+      "categoria": "calendario-liturgico",
+      "tags": [
+        "liturgical year",
+        "Christmas",
+        "Epiphany",
+        "Mary Mother of God",
+        "Baptism of the Lord",
+        "octave",
+        "Christmas Cycle"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Correggio_-_The_Holy_Night_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Universal Norms on the Liturgical Year and the General Roman Calendar (nos. 32-38)",
+        "Roman Missal",
+        "Sacrosanctum Concilium, nos. 102-104",
+        "CNBB, \"Christmas Time Lasts Until the Feast of the Baptism of the Lord\""
+      ],
+      "atualizado_em": null,
+      "ordem": 2,
+      "cor_liturgica": "White or gold"
+    },
+    {
+      "id": "calendario-liturgico:tempo-comum",
+      "slug": "tempo-comum",
+      "titulo": "Ordinary Time",
+      "resumo": "The longest period of the liturgical year, divided into two parts and into 33 or 34 weeks, in which the mystery of Christ is celebrated in its fullness, above all on Sundays.",
+      "corpo": "Ordinary Time is the time in which the Church does not celebrate a particular aspect of the mystery of Christ, but rather the mystery of Christ in its fullness, especially on Sundays. The Universal Norms on the Liturgical Year and the General Roman Calendar (UNLYC, no. 43), promulgated by Paul VI in 1969, speak of \"thirty-three or thirty-four weeks\" during the year that are not tied to a specific mystery. It is the largest and longest of the liturgical seasons, distributed in two blocks.\n\nThe first part runs from the Monday following the feast of the Baptism of the Lord (which closes the Christmas Season) to the eve of Ash Wednesday, when Lent begins. The second part resumes on the Monday after the Solemnity of Pentecost (the end of the Easter Season) and extends until the first Vespers of the First Sunday of Advent, which opens the following liturgical year. Since Easter is a movable feast, the number of weeks in each block varies from year to year; the numbering of the weeks is continuous, so that the sequence is resumed in the second part exactly where it was interrupted by Lent and Easter.\n\nThe name \"Ordinary\" (from the Latin ordinarius, \"ordered,\" and not \"mediocre\" or \"unimportant\") is due to the fact that its weeks are simply numbered and ordered. Some liturgists call the Sundays of this season \"Sundays in their pure state,\" since its core is Sunday itself — the \"weekly Easter,\" the Lord's Day on which the community has gathered since New Testament times to hear the Word and break the Bread (cf. Acts 2:42). In this sense, Ordinary Time is the primordial season, prior to the festive cycles of Christmas and Easter.\n\nStarting in the twentieth century, and above all with the reform of the Roman Missal promulgated by Paul VI in the Apostolic Constitution Missale Romanum, of April 3, 1969, the Sunday readings came to follow a three-year cycle: in Year A, Matthew is read; in Year B, Mark; in Year C, Luke. The semi-continuous reading of the Synoptic Gospels begins on the Third Sunday and goes through the Thirty-Third, since the last Sunday of this season is the Solemnity of Christ the King. Since the Gospel of Mark is the shortest, in Year B five Sundays, from the Seventeenth to the Twenty-First, are interspersed with chapter 6 of John (the Bread of Life discourse); John is also read on the feasts and solemnities of every year. The predominant liturgical color is green, the color of hope and of growth in the Christian life.",
+      "categoria": "calendario-liturgico",
+      "tags": [
+        "liturgical year",
+        "Ordinary Time",
+        "Ordinary Time",
+        "green",
+        "lectionary",
+        "Sunday"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Seven_Sacraments_Rogier.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Universal Norms on the Liturgical Year and the General Roman Calendar (UNLYC), no. 43",
+        "Paul VI, Apostolic Constitution Missale Romanum (April 3, 1969)",
+        "Roman Missal",
+        "Catechism of the Catholic Church",
+        "CNBB, 'The Liturgical Year'"
+      ],
+      "atualizado_em": null,
+      "ordem": 3,
+      "cor_liturgica": "Green"
+    },
+    {
+      "id": "calendario-liturgico:quaresma",
+      "slug": "quaresma",
+      "titulo": "Lent",
+      "resumo": "Forty days of penance, fasting, and prayer, from Ash Wednesday to the Mass of the Lord's Supper, in preparation for Easter.",
+      "corpo": "Lent is the liturgical season of preparation for Easter that, in the Roman Rite, extends from Ash Wednesday to the Mass of the Lord's Supper on Holy Thursday, when the Paschal Triduum begins. The name derives from the Latin quadragesima (\"fortieth\" or \"forty days\"), referring to the period of forty days that evokes both Jesus' forty days in the desert (Mt 4:1-11) and Israel's forty years in the desert. The Lenten liturgy marks this path of conversion with greater austerity: at Mass, the \"Gloria\" is omitted (except on solemnities and feasts) and the \"Alleluia\" gives way to the verse before the Gospel, signs of the penitential character of the season.\n\nThe Second Vatican Council reaffirmed the twofold meaning of Lent in the constitution Sacrosanctum Concilium (nos. 109-110): it is, at the same time, the season of preparation of catechumens for Baptism and the season in which the faithful are called to recall their own Baptism and to do penance. The same document asks that the \"paschal fast\" be preserved and sanctified, kept above all on Good Friday and, if possible, prolonged through Holy Saturday, \"so that the joys of the Sunday of the Resurrection may be attained with uplifted and clear mind.\"\n\nThe count of the \"forty days\" involves a subtlety that is often misunderstood: between Ash Wednesday and Holy Saturday there are 46 days; since Sundays, which are seen as \"little Easters\" and on which the Church has never required fasting, are not counted, exactly forty days of fasting remain. Catholics therefore often say that Lent has forty days \"not counting Sundays.\"\n\nThe concrete obligations of fasting and abstinence were reorganized by Pope Paul VI in the apostolic constitution Paenitemini, of February 17, 1966. Since then, the days of penance binding on the whole Church have been Ash Wednesday and Good Friday of the Passion (fasting and abstinence), as well as all Fridays of the year that do not fall on a solemnity (abstinence from meat). The law of fasting allows only one full meal a day, with small collations in the morning and evening according to local custom. Fasting, however, binds only from age 18 until the completion of age 59; abstinence, from age 14.\n\nThroughout Lent, other distinctive liturgical features also stand out: the fourth Sunday (Laetare) may use rose vestments as a pause of anticipated joy, and, according to custom, crosses and images may be veiled from the Saturday before the fifth Sunday, with the crosses remaining covered until the end of the Celebration of the Passion on Good Friday. The image accompanying this entry is the central detail of The Fight Between Carnival and Lent, by Pieter Bruegel the Elder (1559), a satirical panorama that places face to face the figure of Carnival and \"Lady Lent,\" the austere personification of the penitential season.",
+      "categoria": "calendario-liturgico",
+      "tags": [
+        "liturgical year",
+        "Lent",
+        "penance",
+        "fasting",
+        "Ash Wednesday",
+        "Paul VI",
+        "Second Vatican Council"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/05_Tentaciones_de_Cristo_%28Botticelli%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Second Vatican Council, Sacrosanctum Concilium, nos. 109-110",
+        "Paul VI, Apostolic Constitution Paenitemini, February 17, 1966",
+        "Roman Missal, General Instruction and rubrics for the Season of Lent",
+        "Catechism of the Catholic Church, no. 540",
+        "Universal Norms on the Liturgical Year and the General Roman Calendar"
+      ],
+      "atualizado_em": null,
+      "ordem": 4,
+      "cor_liturgica": "Violet (rose on the fourth Sunday, Laetare)"
+    },
+    {
+      "id": "calendario-liturgico:triduo-pascal",
+      "slug": "triduo-pascal",
+      "titulo": "Paschal Triduum",
+      "resumo": "The three central days of the liturgical year: from the Mass of the Lord's Supper on Holy Thursday to the Easter Vigil, celebrating the Passion, death and resurrection of Christ.",
+      "corpo": "The Paschal Triduum — the \"summit of the whole liturgical year\" — comprises the three most solemn days of the Christian calendar and celebrates, as a single mystery, the Passion, death and Resurrection of the Lord. The Universal Norms on the Liturgical Year and the General Roman Calendar (nos. 18-21) define it with technical precision: it begins with the Mass of the Lord's Supper, celebrated on the evening of Holy Thursday, has its center in the Easter Vigil, and closes with Evening Prayer on Easter Sunday. For this reason the centrality of the Triduum in the year is analogous to the centrality that Sunday has in the week.\n\nEach of the three days has its own liturgical character. On Holy Thursday, the Mass of the Lord's Supper commemorates the institution of the Eucharist and of the ministerial priesthood, and includes the rite of the Washing of the Feet; at the end, the consecrated species are carried in procession to a place of reservation (the \"altar of repose\"), where adoration continues until night. Good Friday is the only day of the year on which Mass is not celebrated: the proper liturgy is the Celebration of the Lord's Passion — with the Liturgy of the Word, the solemn universal prayer, the Adoration of the Cross, and communion with hosts consecrated the day before —, which takes place in the afternoon, traditionally at three o'clock. Holy Saturday is a day of silence, of the \"burial\" of the Lord: the Church waits at the tomb, without a Eucharistic celebration of its own, until the Vigil.\n\nThe Easter Vigil, celebrated on the night of Holy Saturday, is called by the liturgical tradition the \"mother of all holy vigils\": in it the Church, keeping watch, awaits the Resurrection and celebrates it in the sacraments. The norm is explicit in requiring that the whole celebration actually take place at night, beginning after nightfall and ending before dawn on Sunday. The Vigil is structured in four parts — the Liturgy of Light (blessing of the new fire and of the Paschal candle), the Liturgy of the Word, the Baptismal Liturgy, and the Liturgy of the Eucharist —, and it is the privileged moment for the administration of Baptism and the renewal of baptismal promises. It is also the only day on which communion may be kept not only by priests.\n\nThe present form of the Triduum is, to a large extent, the fruit of a relatively recent reform. During the Middle Ages, the original times had shifted: the Mass of the Lord's Supper and the Celebration of the Passion came to be held in the morning, and the Easter Vigil was even moved up to the morning of Holy Saturday, which emptied it of its nocturnal symbolism. Pope Pius XII began the restoration in 1951, returning the Vigil to the night on an experimental basis, and completed it with the decree Maxima Redemptionis, of November 19, 1955, which reorganized the whole of Holy Week and made the restored times permanent. The reform was not received without resistance: some prelates, such as Cardinal Francis Spellman of New York, even considered asking for a dispensation from the new rite of the Vigil, but in the end complied. The Second Vatican Council confirmed and deepened this structure, which passed into the Missal of Paul VI (1970).",
+      "categoria": "calendario-liturgico",
+      "tags": [
+        "liturgical year",
+        "Paschal Triduum",
+        "Easter",
+        "Holy Week",
+        "Holy Thursday",
+        "Good Friday",
+        "Easter Vigil",
+        "Pius XII"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Peter_Paul_Rubens%2C_Crucifixion%2C_c.1618-1620.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Universal Norms on the Liturgical Year and the General Roman Calendar, nos. 18-21",
+        "Roman Missal, Sacred Paschal Triduum",
+        "Sacrosanctum Concilium, nos. 5 and 109-110",
+        "Pius XII, Decree Maxima Redemptionis, November 19, 1955",
+        "Catechism of the Catholic Church, nos. 1168-1171"
+      ],
+      "atualizado_em": null,
+      "ordem": 5,
+      "cor_liturgica": "White (red on Good Friday)"
+    },
+    {
+      "id": "calendario-liturgico:tempo-pascal",
+      "slug": "tempo-pascal",
+      "titulo": "Easter Time",
+      "resumo": "The fifty days of joy that run from Easter to Pentecost, celebrated by the Church as a single \"great Sunday\".",
+      "corpo": "Easter Time extends for fifty days, from the Easter Vigil to the Solemnity of Pentecost, and constitutes \"the luminous center of the whole liturgical year\". The Easter Vigil, celebrated on the night of Holy Saturday, is called by tradition the \"mother of all vigils\" and the source from which the light of Easter springs; from it the Church enters a period of continuous joy, lived as if it were \"one single great Sunday\". The number fifty — seven times seven days plus one — evokes fullness and, for the Fathers of the Church, became an image of eternity and of the fulfillment of the mystery of Christ.\n\nThis understanding has very ancient roots. Tertullian, at the end of the second century, already called the fifty days of Easter laetissimum spatium, \"a space of immense and intense joy\", and observed that fasting was always banished during this period, even by the most austere ascetics. For this reason, in Easter Time the Alleluia — omitted during Lent — is sung again with redoubled frequency, and fasting is excluded even on Fridays, which lose their penitential character. Another permanent sign of the season is the Paschal Candle, lit during the celebrations as a symbol of the risen Christ who conquers the darkness of sin and death, alongside the baptismal water and the abundance of the Word of God.\n\nThe first octave of Easter has a more pronounced character of rejoicing and meditation on the Resurrection and on the birth of the Christian in baptism, a participation in the life of the Risen One. In the Acts of the Apostles, Jesus appears to the disciples for forty days speaking about the Kingdom of God (Acts 1:3): on the fortieth day the Solemnity of the Ascension of the Lord is celebrated — unless, according to the Universal Norms on the Liturgical Year, it is transferred to the 7th Sunday of Easter in places where it is not kept as a holy day of obligation, as is the case in Brazil. The days between the Ascension and the Saturday before Pentecost constitute a preparation for the coming of the Holy Spirit, the Paraclete.\n\nThe season culminates and is completed at Pentecost, when the Holy Spirit is poured out upon the Church, fully manifesting the Trinitarian mystery of salvation: the Father raises the Son, and the Son sends the Spirit who gives life to the Church. Since the date of Easter — set by the lunar cycle, following the ancient Jewish Passover — varies each year, the whole of Easter Time generally falls between the months of April and June. The liturgical color is white, and red at Pentecost.",
+      "categoria": "calendario-liturgico",
+      "tags": [
+        "liturgical year",
+        "Easter",
+        "Pentecost",
+        "Easter Vigil",
+        "Ascension",
+        "Tertullian",
+        "Paschal Candle"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Pietro_Perugino_cat53.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Universal Norms on the Liturgical Year and the General Roman Calendar (nos. 22-26)",
+        "Roman Missal",
+        "CNBB, \"Easter Time: Fifty Days of One Great Sunday\"",
+        "FAJE, \"Easter Time: A Space of Immense and Intense Joy\" (reference to Tertullian)"
+      ],
+      "atualizado_em": null,
+      "ordem": 6,
+      "cor_liturgica": "White (red at Pentecost)"
+    },
+    {
+      "id": "calendario-liturgico:cores-liturgicas",
+      "slug": "cores-liturgicas",
+      "titulo": "The Liturgical Colors",
+      "resumo": "The color code of the vestments that visually signals the season or the celebration of the day: white, red, green, violet, rose and, where customary, black.",
+      "corpo": "The colors of the sacred vestments are one of the most immediate visual signs of the liturgical year: they express, as the General Instruction of the Roman Missal (GIRM, no. 345) says, the \"specific character of the mysteries of the faith being celebrated\" and the sense of Christian life progressing through the course of the year.\n\nThe norm regulating the use of colors is found in the GIRM, nos. 345-347, which determines that the traditional usage of the Roman Rite is to be maintained. According to no. 346, white is used in the Offices and Masses of the Easter Time and the Christmas Time, and also in celebrations of the Lord (except those of his Passion), of the Blessed Virgin Mary, of the Angels, of saints who were not martyrs, and on the solemnities of All Saints, Saint John the Baptist, Saint John the Evangelist, the Chair of Saint Peter, and the Conversion of Saint Paul. Red is used on Passion Sunday (Palm Sunday) and Good Friday, on Pentecost Sunday, in celebrations of the Lord's Passion, on the feasts of the Apostles and Evangelists, and in celebrations of martyrs. Green is used in the Offices and Masses of Ordinary Time. Violet is used in Advent and Lent, and may also be used in Offices and Masses for the Dead. Where it is customary, black may also be used in Masses for the Dead, and rose on Gaudete Sunday (the Third Sunday of Advent) and Laetare Sunday (the Fourth Sunday of Lent).\n\nTo the set of \"canonical\" colors are added optional uses or uses by privilege: gold (or silver), which may replace white or another color on more solemn days, according to custom; and blue for Marian feasts in some countries, as in Brazil. No. 346 expressly notes the possibility that, on more solemn days, festive or more noble vestments may be used, \"even if they are not of the color of the day.\" The same norm leaves to Episcopal Conferences the faculty of proposing to the Apostolic See adaptations according to the needs and the mentality of peoples.\n\nRose deserves special mention, as it is the rarest color of the liturgy; tradition calls it \"rosacea.\" Used in a purely optional way and only twice a year, it works as a pause of anticipated joy in the midst of a penitential season: violet \"pierced\" by the light that draws near. For this reason the Third Sunday of Advent is called Gaudete and the Fourth Sunday of Lent, Laetare, both taken from the Introit of the Mass. It is worth remembering that not all vestments change color: the alb and the amice are always white, in memory of the baptismal garment; what varies with the calendar are the chasuble, the stole, the dalmatic and the cope.\n\nThe image accompanying this entry is a panel gathering chasubles (casullas) in the various liturgical colors, visually illustrating the code that distinguishes the seasons of the year.",
+      "categoria": "calendario-liturgico",
+      "tags": [
+        "liturgical year",
+        "liturgical colors",
+        "vestments",
+        "General Instruction of the Roman Missal",
+        "Gaudete",
+        "Laetare"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Casullas_de_los_colores_lit%C3%BArgicos.svg",
+      "imagem_credito": null,
+      "fontes": [
+        "Roman Missal, General Instruction, nos. 345-347",
+        "Roman Missal, no. 346 (traditional use of colors)",
+        "Catechism of the Catholic Church, nos. 1077 ff. (liturgical signs and symbols)"
+      ],
+      "atualizado_em": null,
+      "ordem": 7,
+      "cor_liturgica": null
+    },
+    {
+      "id": "calendario-liturgico:solenidade-festa-memoria",
+      "slug": "solenidade-festa-memoria",
+      "titulo": "Solemnity, Feast, and Memorial",
+      "resumo": "The three degrees of liturgical importance of a celebration in the Catholic calendar, from most to least solemn, with their own rules on vigils, precedence, and transfer.",
+      "corpo": "The liturgical calendar classifies each celebration of a saint, blessed, or mystery into one of three descending degrees of importance: solemnity, feast, and memorial. The distinction was established by the Universal Norms on the Liturgical Year and the General Roman Calendar (UNLYC), promulgated by Paul VI in 1969, which in no. 10 state: \"Celebrations are classified as solemnities, feasts, or memorials, according to their importance\". The criterion is the universal or local relevance of the saint or mystery being celebrated.\n\nSolemnities are the highest degree, made up of the most important days: the celebration begins already on the preceding evening, with First Vespers (UNLYC, no. 11). Some solemnities also have their own Vigil Mass, used on the evening before when there is an evening Mass. This is the case for Christmas, Easter, Pentecost, Corpus Christi, and the solemnities of the Apostles, among others. Solemnities have their own prayers, readings, and chants, or ones taken from the Common. An important point: solemnities are never omitted — when they cannot be celebrated on a given day, they are transferred to the nearest free day.\n\nFeasts occupy the intermediate degree. They are celebrated within the limits of the natural day and, for this reason, do not have First Vespers — except for feasts of the Lord that fall on a Sunday in Ordinary Time or in the Christmas Season, whose Office they replace (UNLYC, no. 13). In the Mass, they have their own prayers and readings or ones from the Common; in the Office of Readings, Lauds, and Vespers, everything is done as on solemnities (GILH, no. 231). Unlike solemnities, feasts are not transferred: if they cannot be celebrated because of another, more important celebration, they are simply omitted that year.\n\nMemorials commemorate one or several saints on weekdays. They may be obligatory or optional (UNLYC, nos. 11, 14). When several optional memorials occur on the same day, only one is celebrated, and the others are omitted. Obligatory memorials that fall on days of Lent or on December 17-24 — which take precedence — may be celebrated only as optional memorials, then called \"commemorations\".\n\nPrecedence among celebrations is governed by no. 16 of the UNLYC: Ash Wednesday and the weekdays of Holy Week (Monday to Thursday) take precedence over all other celebrations; the weekdays of Advent (from December 17 to 24) and all the weekdays of Lent take precedence over obligatory memorials; all other weekdays yield to solemnities and feasts and are combined with memorials. The celebration of All the Faithful Departed, on November 2, does not have the character of a solemnity, feast, or memorial, but is called by the Church the \"Commemoration\" — and it is celebrated even when it falls on a Sunday.",
+      "categoria": "calendario-liturgico",
+      "tags": [
+        "liturgical year",
+        "liturgical calendar",
+        "solemnity",
+        "feast",
+        "memorial",
+        "obligatory memorial",
+        "optional memorial"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Canonization_2014-The_Canonization_of_Saint_John_XXIII_and_Saint_John_Paul_II_%2814037015405%29.jpg",
+      "imagem_credito": "Photo: Jeffrey Bruno (Aleteia) — Wikimedia Commons, CC BY-SA 2.0, 2014",
+      "fontes": [
+        "Universal Norms on the Liturgical Year and the General Roman Calendar (UNLYC), nos. 10-16",
+        "General Instruction of the Liturgy of the Hours (GILH), no. 231",
+        "Roman Missal",
+        "Catechism of the Catholic Church"
+      ],
+      "atualizado_em": null,
+      "ordem": 8,
+      "cor_liturgica": null
+    },
+    {
+      "id": "calendario-liturgico:datas-moveis",
+      "slug": "datas-moveis",
+      "titulo": "Movable Dates of the Liturgical Calendar",
+      "resumo": "Why Easter and the feasts that depend on it — Ash Wednesday, the Ascension, Pentecost and Corpus Christi — change date every year, and how the ecclesiastical Computus calculates them.",
+      "corpo": "Unlike Christmas, fixed on December 25, the date of Easter varies each year because it follows a lunisolar calculation. The fundamental rule goes back to the First Ecumenical Council of Nicaea (325), which decided that Easter would be celebrated on the Sunday following the first full moon after the spring equinox of the northern hemisphere, deliberately breaking with the date of the Jewish Passover (the 14th of Nisan, which can fall on any day of the week). The International Theological Commission, in a 2025 document for the 1700th anniversary of Nicaea, recalls that at the Council the Church \"decisively chose to separate itself from the date of the Jewish Passover\", so that the Christian feast would be celebrated \"on the first Sunday after the full moon that follows or coincides with the spring equinox\".\n\nFor ecclesiastical use, the equinox is not observed astronomically but fixed by convention on March 21; the first full moon on or after that date is called the \"Paschal full moon\". If this full moon falls on a Sunday, Easter is moved to the following Sunday. In this way, Easter never occurs before March 22 or after April 25 — a range of 35 days. The mathematical system that predicts these dates over the years is the Computus, which relies on instruments such as the Golden Number (the year's position in the 19-year lunar cycle) and the Epact (the age of the Moon at the beginning of the year). The rule of the equinox fixed on March 21 and its formalization were consolidated mainly in the following centuries, through the work of Dionysius Exiguus, and not as a complete formula already at Nicaea.\n\nBecause all the feasts of the Paschal cycle are counted from Easter, they also move. Ash Wednesday, the beginning of Lent, falls 46 days before Easter; Palm Sunday, seven days before; Good Friday, two days before. The Ascension of the Lord is celebrated 40 days after Easter (in some regions, transferred to the following Sunday, the 43rd day); Pentecost, 50 days after; and the solemnity of Corpus Christi, 60 days after, always on a Thursday.\n\nThe difference between the Julian and Gregorian calendars also means that Catholics and Orthodox Christians celebrate Easter on different dates in most years, even though the underlying formula is the same. The search for a common date, capable of bringing all Christian confessions together on the same Paschal Sunday, remains one of the ecumenical themes raised on the occasion of the anniversary of Nicaea.",
+      "categoria": "calendario-liturgico",
+      "tags": [
+        "liturgical year",
+        "Easter",
+        "Council of Nicaea",
+        "Computus",
+        "Lent",
+        "Pentecost"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nicaea_icon.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "International Theological Commission, \"Jesus Christ, Son of God, Savior — 1700th Anniversary of the Ecumenical Council of Nicaea (325-2025)\", 2025",
+        "First Council of Nicaea (325)",
+        "Roman Missal",
+        "Metropolitan Tarasios, \"A Brief Reflection on the Calculation of the Date of the Celebration of Easter\" (ecclesia.org.br)"
+      ],
+      "atualizado_em": null,
+      "ordem": 9,
+      "cor_liturgica": null
+    },
+    {
+      "id": "calendario-liturgico:ciclo-dominical-abc",
+      "slug": "ciclo-dominical-abc",
+      "titulo": "The Cycle of Sunday Readings A, B and C",
+      "resumo": "The three-year system of Sunday Bible readings, which mainly runs through Matthew, Mark and Luke in successive years.",
+      "corpo": "The readings of the Sunday Mass in the Roman Rite have followed, since the liturgical reform of the Second Vatican Council, a three-year cycle — A, B and C — devoted mainly, in each year, to the continuous reading of one of the Synoptic Gospels: Matthew in Year A, Mark in Year B and Luke in Year C. The basis of the system is found in no. 51 of the Constitution Sacrosanctum Concilium (1963), which asked that \"the treasures of the Bible are to be opened up more lavishly, so that richer fare may be provided for the faithful at the table of God's word\" and that \"a more representative portion of the holy scriptures will be read to the people in the course of a prescribed number of years\". The response was the Roman Lectionary (Ordo Lectionum Missae, 1969).\n\nYear A runs mainly through the Gospel of Matthew; Year B, through that of Mark — the shortest of the Synoptics — which on some occasions is supplemented by passages from John; Year C, through that of Luke. The Gospel of John does not have a year of its own: it is reserved, regardless of the cycle, for the strong seasons of Lent and Easter and for great feasts and solemnities, where its high Christology is more fitting. For this reason, John is said to \"cross\" the three Synoptic years.\n\nThe Sunday Lectionary, which brings together Sundays and solemnities, is organized in three parts corresponding to the three years and offers four readings per celebration: the first reading, taken from the Old Testament and chosen in thematic connection with the Gospel of the day (in the Easter Season it is replaced by passages from the Acts of the Apostles); the responsorial psalm, which responds to the first reading; the second reading, generally a semi-continuous reading of the letters of the New Testament or of the Book of Revelation; and the Gospel. The part of the Lectionary called weekday (or ferial) follows a two-year cycle (even year and odd year) for the first reading, with the Gospel distributed by liturgical season.\n\nThe determination of Year A, B or C does not depend on the civil year but on the liturgical year, which begins on the First Sunday of Advent. By convention, the count starts from the first year of the Christian era (considered Year A); thus, Year C corresponds to the years whose sum of digits is divisible by three (for example, 2019 and 2022), and the following years alternate B and A. In practice, the current cycle already begins at the Advent that precedes the civil year in question.",
+      "categoria": "calendario-liturgico",
+      "tags": [
+        "liturgical year",
+        "Liturgy of the Word",
+        "lectionary",
+        "Second Vatican Council",
+        "Matthew",
+        "Mark",
+        "Luke",
+        "John"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg",
+      "imagem_credito": "Photo: NYC Wanderer (Kevin Eng) — Wikimedia Commons, CC BY-SA 2.0",
+      "fontes": [
+        "Sacrosanctum Concilium, no. 51",
+        "Roman Lectionary (Ordo Lectionum Missae)",
+        "Diocese of Montenegro, \"The liturgical year and its 3 cycles: how to know if it is A, B or C?\"",
+        "Diocese of Santo André, \"Get to know the Liturgical Books and their meanings\""
+      ],
+      "atualizado_em": null,
+      "ordem": 10,
+      "cor_liturgica": null
+    },
+    {
+      "id": "calendario-liturgico:semana-santa",
+      "slug": "semana-santa",
+      "titulo": "Holy Week",
+      "categoria": "calendario-liturgico",
+      "resumo": "The last week of Lent, from Palm Sunday to the Mass of the Lord's Supper, which recalls the last earthly days of Jesus before Easter.",
+      "corpo": "Holy Week extends from Palm Sunday of the Passion of the Lord until the morning of Holy Thursday, when Lent ends and, in the afternoon, the Easter Triduum begins with the Mass of the Lord's Supper. Still within Lent, these days heighten the sense of closeness to the Passion: the weekday Mass readings follow closely the final chapters of the Gospels, narrating Jesus' last confrontations in Jerusalem before his arrest.\n\nUntil the liturgical reform of 1955, the Roman rite called the Sunday before Palm Sunday \"Passion Sunday,\" thus marking the approach to Holy Week with two weeks, not just one; the post-conciliar reform of 1969 simplified this arrangement, concentrating the immediate preparation for the Triduum into a single Holy Week. In parishes, it is common to intensify penitential celebrations and confessions during these days, preparing the faithful to live the Easter Triduum with greater spiritual fruit.",
+      "tags": [
+        "liturgical year",
+        "Holy Week",
+        "Lent"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 11,
+      "cor_liturgica": "Purple (red on Palm Sunday)",
+      "fontes": [
+        "Roman Missal",
+        "Congregation for Divine Worship, \"Universal Norms on the Liturgical Year and the General Roman Calendar\""
+      ]
+    },
+    {
+      "id": "calendario-liturgico:domingo-de-ramos",
+      "slug": "domingo-de-ramos",
+      "titulo": "Palm Sunday of the Passion of the Lord",
+      "categoria": "calendario-liturgico",
+      "resumo": "The Sunday that opens Holy Week, uniting in a single liturgy the joy of Jesus' entry into Jerusalem and the solemn proclamation of his Passion.",
+      "corpo": "Palm Sunday of the Passion of the Lord (\"Dominica in Palmis de Passione Domini\") solemnly opens Holy Week by recalling two opposite and complementary moments: the triumphant entry of Jesus into Jerusalem, acclaimed by the crowd with palm branches and cries of \"Hosanna,\" and the proclamation, during the Mass itself, of the long account of the Passion according to one of the Synoptic Gospels (Matthew, Mark or Luke, depending on the year of the Sunday cycle). The celebration usually includes the blessing of the palms, whether of palm, olive or another local plant, and an entrance procession that symbolically relives that procession, before the liturgy changes tone to the gravity of the Passion.\n\nIn the old calendar prior to 1955, the day was called simply \"Palm Sunday,\" while the preceding Sunday was named \"Passion Sunday\"; between 1955 and the reform of 1969, that preceding Sunday came to be called the \"Second Sunday of the Passion,\" until the post-conciliar reform definitively united the two themes, palms and Passion, in a single celebration, as it is lived today.",
+      "tags": [
+        "liturgical year",
+        "Palm Sunday",
+        "Holy Week",
+        "Passion of Christ"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 12,
+      "cor_liturgica": "Red",
+      "fontes": [
+        "Roman Missal",
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:quarta-feira-de-cinzas",
+      "slug": "quarta-feira-de-cinzas",
+      "titulo": "Ash Wednesday",
+      "categoria": "calendario-liturgico",
+      "resumo": "The day that opens Lent with the imposition of ashes on the heads of the faithful, a penitential invitation to conversion that precedes Easter by 40 days.",
+      "corpo": "Ash Wednesday marks the beginning of Lent, forty days before the Mass of the Lord's Supper (not counting Sundays), and is one of the days of greatest participation by the faithful in the life of the Church, even among those who do not attend Mass regularly. Its central rite is the imposition of ashes on the head or forehead of the faithful, traditionally obtained from burning the palms blessed on Palm Sunday of the previous year, accompanied by one of the two formulas provided by the Missal: \"Remember that you are dust, and to dust you shall return\" or \"Repent, and believe in the Gospel.\"\n\nIt is also, together with Good Friday, one of the two days of obligatory fasting and abstinence from meat in the calendar of the Roman rite, according to the discipline established for adults between 18 and 59 years of age, with exceptions for reasons of health. Despite its penitential seriousness, Ash Wednesday is not a holy day of obligation (an obligation to participate in Mass), which does not prevent churches from usually being particularly full, a sign of the spiritual appeal that this simple gesture — receiving the ashes — still holds.",
+      "tags": [
+        "liturgical year",
+        "Lent",
+        "Ash Wednesday",
+        "penance"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 13,
+      "cor_liturgica": "Roxo",
+      "fontes": [
+        "Roman Missal",
+        "Code of Canon Law, can. 1251-1252"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:corpus-christi",
+      "slug": "corpus-christi",
+      "titulo": "Solemnity of the Most Holy Body and Blood of Christ (Corpus Christi)",
+      "categoria": "calendario-liturgico",
+      "resumo": "A solemnity that publicly celebrates the Real Presence of Christ in the Eucharist, instituted in 1264 on the basis of the visions of Saint Juliana of Cornillon.",
+      "corpo": "The Solemnity of the Most Holy Body and Blood of Christ, popularly known by its old Latin name \"Corpus Christi,\" was born from the mystical visions of Saint Juliana of Cornillon, an Augustinian religious of Liège (present-day Belgium), who from 1246 promoted there a local feast dedicated exclusively to the Eucharist. On August 11, 1264, Pope Urban IV, who had come to know Juliana's devotion firsthand when he was still archdeacon in Liège, extended the celebration to the whole Church by the bull \"Transiturus de hoc mundo,\" making it one of the most characteristic solemnities of Catholic Eucharistic piety.\n\nCelebrated on the Thursday after Trinity Sunday (or transferred to the following Sunday in many countries, including Brazil), the solemnity is marked by its traditional public procession with the Most Blessed Sacrament exposed in the monstrance, often accompanied by street carpets made of flower petals, colored sawdust, or salt, a popular expression of faith in the Real Presence of Christ carried literally into the streets.",
+      "tags": [
+        "Corpus Christi",
+        "Eucharist",
+        "Saint Juliana of Cornillon",
+        "Urban IV"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 14,
+      "cor_liturgica": "White",
+      "fontes": [
+        "Urban IV, bull «Transiturus de hoc mundo» (1264)",
+        "Roman Missal"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:cristo-rei",
+      "slug": "cristo-rei",
+      "titulo": "Solemnity of Our Lord Jesus Christ, King of the Universe",
+      "categoria": "calendario-liturgico",
+      "resumo": "Instituted by Pius XI in 1925 to affirm the kingship of Christ in the face of interwar secularism, it now closes the liturgical year before Advent.",
+      "corpo": "The Solemnity of Our Lord Jesus Christ, King of the Universe, was instituted by Pope Pius XI in the encyclical \"Quas Primas\" (December 11, 1925), in a historical context marked by growing secularism and the rise of totalitarian regimes after the First World War. For the Pope, publicly acknowledging the universal kingship of Christ over individuals, families, and nations was the way to restore true peace and justice in the world, which were threatened by the practical or explicit denial of God's authority over society.\n\nOriginally set on the last Sunday of October, the solemnity was moved by Paul VI's liturgical reform of 1969 to the last Sunday of the liturgical year, immediately before the beginning of the following Advent. This position is symbolically stronger, since it crowns and closes the entire annual cycle of the mysteries of Christ celebrated since the previous Advent, pointing to the definitive Kingdom that the liturgy proclaims at the end of time.",
+      "tags": [
+        "liturgical year",
+        "Christ the King",
+        "Quas Primas",
+        "Pius XI"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 15,
+      "cor_liturgica": "White",
+      "fontes": [
+        "Pius XI, encyclical «Quas Primas» (1925)",
+        "Roman Missal"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:ciclo-ferial-i-ii",
+      "slug": "ciclo-ferial-i-ii",
+      "titulo": "The Weekday Cycle of Readings (Odd and Even Years)",
+      "categoria": "calendario-liturgico",
+      "resumo": "Unlike the three-year Sunday ABC cycle, the weekday readings follow a two-year cycle, alternating between odd and even years.",
+      "corpo": "While Sunday Masses follow the familiar three-year cycle of readings A, B and C, weekday (\"ferial\") Masses in Ordinary Time follow a different scheme: a cycle of only two years, called Year I (odd-numbered years) and Year II (even-numbered years), which governs the first reading and the responsorial psalm. The weekday Gospel, for its part, does not change with this two-year cycle — it is the same every year, read in semi-continuous fashion according to the liturgical season, regardless of whether the year is odd or even.\n\nThis arrangement allows the Church to considerably broaden the range of Scripture proclaimed throughout the week, covering in two years a large part of the apostolic letters, the prophetic books and other Old Testament texts that would not fit in a cycle of a single year. Outside Ordinary Time — in Advent, Christmas, Lent and the Easter Season — the weekday readings have texts proper to each liturgical season, and do not follow this two-year cycle.",
+      "tags": [
+        "liturgical year",
+        "lectionary",
+        "liturgy of the word"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 16,
+      "cor_liturgica": null,
+      "fontes": [
+        "Ordo Lectionum Missae (Roman Lectionary)",
+        "Roman Missal"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:tempora-e-rogacoes",
+      "slug": "tempora-e-rogacoes",
+      "titulo": "Ember Days and Rogation Days",
+      "categoria": "calendario-liturgico",
+      "resumo": "Ancient Roman days of fasting and processions tied to the seasons of the year and to agricultural work, today preserved only as optional celebrations.",
+      "corpo": "The \"Four Ember Days\" (from the Latin \"quattuor tempora\", four times) were, in the traditional Roman calendar, three days — Wednesday, Friday, and Saturday — of fasting, abstinence, and prayer observed at each change of season of the year, with an origin that the ancient \"Liber Pontificalis\" attributes to Pope Saint Callistus I, in the early third century, and which were fixed in specific weeks of the liturgical year by Pope Saint Gregory VII, at the Synod of Rome in 1078. The \"Rogation Days\", in turn, were processions through the fields, especially linked to the September Ember Days, originating in ancient pre-Christian agricultural rites, Christianized as a supplication for the harvests and for the work of the land.\n\nThe liturgical reform of 1969 removed the obligatory nature of these observances from the General Roman Calendar, leaving it to the discretion of the episcopal conferences to set the time and manner of celebrating them according to local needs — above all agricultural, but also vocational, missionary, or of thanksgiving. For this reason, today the Ember Days and Rogation Days survive in quite varied forms, more as an optional tradition of some dioceses and communities than as a universal observance.",
+      "tags": [
+        "Ember Days",
+        "Rogation Days",
+        "Roman calendar",
+        "fasting"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 17,
+      "cor_liturgica": null,
+      "fontes": [
+        "Roman Missal, «Universal Norms on the Liturgical Year and the Calendar», nos. 45-47",
+        "Liber Pontificalis"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:calendario-geral-romano",
+      "slug": "calendario-geral-romano",
+      "titulo": "The General Roman Calendar",
+      "categoria": "calendario-liturgico",
+      "resumo": "The official calendar of the Roman Rite, reformed by Paul VI in 1969, which establishes the liturgical seasons and the sanctoral cycle common to the whole Latin Church.",
+      "corpo": "The General Roman Calendar is the reference liturgical calendar for the whole Church of the Roman Rite. It establishes the principal seasons of the liturgical year and the celebrations — solemnities, feasts and memorials of saints — common to the whole Latin Church, and serves as the basis for the particular calendars of each diocese, country or religious order, which may add their own celebrations to it. Its present form results from the reform carried out by Pope Paul VI, with the apostolic letter \"Mysterii Paschalis\" (February 14, 1969), which approved both the \"Universal Norms on the Liturgical Year and the Calendar\" and the new list of celebrations.\n\nAmong the most noticeable changes of this reform was the critical revision of the sanctoral cycle: about 200 saints present in the previous calendar were removed or had their celebration made optional, especially cases of doubtful historicity or of very localized cult, giving way to a leaner and historically more solid list, to which the Church continues to add newly canonized saints year after year.",
+      "tags": [
+        "General Roman Calendar",
+        "Mysterii Paschalis",
+        "Paul VI",
+        "liturgical reform"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 18,
+      "cor_liturgica": null,
+      "fontes": [
+        "Paul VI, apostolic letter «Mysterii Paschalis» (1969)",
+        "Roman Missal, «Universal Norms on the Liturgical Year and the Calendar»"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:oitava-liturgica",
+      "slug": "oitava-liturgica",
+      "titulo": "The Liturgical Octave",
+      "categoria": "calendario-liturgico",
+      "resumo": "The extension of the celebration of Christmas and Easter for eight consecutive days, treating the whole week as a single, continuous day of feast.",
+      "corpo": "An \"octave\" is the extension of the celebration of a great solemnity for eight consecutive days, so that the entire following week is lived liturgically as if it were a single, uninterrupted day of feast — a practice the Church has followed for many centuries, recognizing that a single day is insufficient to contain and absorb the mystery celebrated in the two greatest solemnities of the Christian year: the birth of Christ and his Resurrection.\n\nOf the Roman Missal prior to 1969, which came to know octaves for various other feasts, the post-conciliar liturgical reform retained only two: the Octave of Christmas, which runs from December 25 to January 1 (Solemnity of Mary, Mother of God), and the Octave of Easter, which extends from Easter Sunday to the following Sunday (the \"Divine Mercy Sunday,\" in the devotion spread by Saint Faustina Kowalska). Throughout the entire Easter Octave, for example, each day is celebrated liturgically as \"Easter Sunday,\" with the same degree of solemnity, in a symbolic insistence on the joy that the Resurrection inaugurates.",
+      "tags": [
+        "liturgical year",
+        "Octave",
+        "Christmas",
+        "Easter"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 19,
+      "cor_liturgica": null,
+      "fontes": [
+        "Roman Missal, \"Universal Norms on the Liturgical Year and the Calendar\"",
+        "Catechism of the Catholic Church"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:primeiras-visperas",
+      "slug": "primeiras-visperas",
+      "titulo": "First Vespers: When the Liturgical Day Begins",
+      "categoria": "calendario-liturgico",
+      "resumo": "Sundays and solemnities begin, liturgically, on the evening of the previous day — which is why there are \"First Vespers,\" prayed on the eve.",
+      "corpo": "Unlike the civil day, which begins at midnight, the liturgical day of Sundays and solemnities begins on the afternoon or evening of the previous day, following the ancient biblical reckoning of the Book of Genesis (\"And there was evening and there was morning\"). In practice, this means that a Mass celebrated on Saturday evening is already considered the Sunday Mass for the purpose of the Sunday obligation, and that the Liturgy of the Hours provides, for Sundays and solemnities, for \"First Vespers\" — prayed on the preceding evening — distinct from \"Second Vespers,\" prayed in the late afternoon of the day of the celebration itself.\n\nThis anticipation also explains why great solemnities such as Christmas have their most solemn liturgy already on the preceding night (the \"Vigil Mass\" or the \"Mass during the Night\"), and why the Paschal Triduum technically begins on the afternoon of Holy Thursday and not at midnight. The principle reflects a broader theological vision of liturgical time: more than a neutral sequence of hours, the Church's day is marked out by light and shadow as signs of the paschal mystery of death and resurrection.",
+      "tags": [
+        "liturgical year",
+        "liturgical day",
+        "vespers",
+        "Sunday obligation"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 20,
+      "cor_liturgica": null,
+      "fontes": [
+        "Roman Missal, \"Universal Norms on the Liturgical Year and the General Roman Calendar,\" no. 3",
+        "General Instruction of the Liturgy of the Hours"
+      ]
+    },
+    {
+      "id": "calendario-liturgico:santissima-trindade-solenidade",
+      "slug": "santissima-trindade-solenidade",
+      "titulo": "Solemnity of the Most Holy Trinity",
+      "categoria": "calendario-liturgico",
+      "resumo": "Celebrated on the Sunday after Pentecost, it marks the return to Ordinary Time and celebrates the central mystery of the Christian faith: one God in three persons.",
+      "corpo": "The liturgical devotion to the Most Holy Trinity grew out of the condemnation of Arianism by the Councils of Nicaea (325) and Constantinople (381), which solemnly affirmed the divinity of Christ and his relationship with the Father and the Holy Spirit; as early as the eighth century, proper liturgical prefaces on the Trinity began to circulate. The feast was born, however, from the bottom up, from practices of popular and monastic piety, and not from an immediate institution by the central authorities of the Church.\n\nPope Saint Gregory VII had set the summer Ember Days in the octave of Pentecost, leaving the following Sunday \"vacant,\" without a celebration of its own; monks then began to dedicate it to the Trinity, since the outpouring of the Holy Spirit at Pentecost completes the Trinitarian revelation. Only with Pope John XXII, between 1316 and 1334, was the feast extended to the whole Latin Church for that same Sunday, a position it still holds today, opening the longest part of Ordinary Time in the current calendar.",
+      "tags": [
+        "liturgical year",
+        "Most Holy Trinity",
+        "Pentecost"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 21,
+      "cor_liturgica": "White",
+      "fontes": [
+        "Wikipedia, \"Trinity Sunday\"",
+        "Pílulas Litúrgicas, \"The History of the Solemnity of the Most Holy Trinity\""
+      ]
+    },
+    {
+      "id": "calendario-liturgico:domingo-da-divina-misericordia",
+      "slug": "domingo-da-divina-misericordia",
+      "titulo": "Divine Mercy Sunday",
+      "resumo": "The Second Sunday of Easter, within the Octave of Easter, was dedicated by John Paul II to the Divine Mercy through the decree Misericors et miserator (May 5, 2000), in response to the request recorded by Saint Faustina Kowalska; the day was later granted a plenary indulgence.",
+      "corpo": "According to the \"Diary\" of the Polish religious Saint Faustina Kowalska, on the night of February 22, 1931, in her cell in the convent at Płock, Christ appeared to her dressed in white, with two rays — one red and one pale — coming from his chest, and asked her to paint an image with the inscription \"Jesus, I trust in You,\" adding that this image should be solemnly blessed on the first Sunday after Easter, which was to be the \"Feast of Mercy\" (Diary, nos. 47-49). The first Mass during which the image was displayed took place on April 28, 1935, the Second Sunday of Easter, coinciding with the close of the Jubilee of the Redemption proclaimed by Pius XI.\n\nThe request was only fulfilled decades later. In 1993, John Paul II beatified Faustina and, when he canonized her on April 30, 2000 — the Second Sunday of Easter of that Jubilee Year — he announced that the Second Sunday of Easter would from then on be dedicated in a special way to the Divine Mercy. A few days later, on May 5, 2000, the Congregation for Divine Worship and the Discipline of the Sacraments published the decree Misericors et miserator, signed by the prefect, Cardinal Jorge Medina Estévez, and the secretary, Archbishop Francesco Pio Tamburrino, giving the day the official name \"Divine Mercy Sunday\" and establishing its observance throughout the Church.\n\nOn June 29, 2002, the Apostolic Penitentiary published a new decree attaching a plenary indulgence to the day, under the usual conditions (confession, communion and prayer for the intentions of the Pope), and further asking that the faithful, before a devout image of Christ the Merciful, recite the Our Father and the Creed and add an invocation to mercy, such as \"Jesus, I trust in You.\" The same document provides that the sick, and those who cannot go to church, may obtain the indulgence by uniting themselves spiritually to the celebration.\n\nThe day is already included in the Octave of Easter, celebrated throughout the week with the same solemn rank as \"Easter Sunday,\" but it has been given its own Mass texts and has fostered an extensive popular devotion, centered on the image of the Merciful Jesus and on the Chaplet of the Divine Mercy, whose prayers Faustina recorded beginning in September 1935, preceded by a novena that begins on Good Friday. It has become one of the liveliest celebrations of the contemporary calendar.",
+      "categoria": "calendario-liturgico",
+      "tags": [
+        "Divine Mercy",
+        "Easter",
+        "Octave of Easter",
+        "Saint Faustina Kowalska",
+        "John Paul II",
+        "plenary indulgence"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kazimirowski_Eugeniusz%2C_Divine_Mercy%2C_1934.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Congregation for Divine Worship and the Discipline of the Sacraments, decree Misericors et miserator, May 5, 2000",
+        "Apostolic Penitentiary, Decree on the indulgences attached to devotions in honor of the Divine Mercy, June 29, 2002 (vatican.va)",
+        "Saint Faustina Kowalska, Diary, nos. 47-49 and 474-476",
+        "Holy See, homily for the canonization of Saint Faustina Kowalska, April 30, 2000"
+      ],
+      "atualizado_em": null,
+      "ordem": 22,
+      "cor_liturgica": "White"
+    },
+    {
+      "id": "calendario-liturgico:sagrado-coracao-de-jesus-solenidade",
+      "slug": "sagrado-coracao-de-jesus-solenidade",
+      "titulo": "Solemnity of the Sacred Heart of Jesus",
+      "resumo": "Celebrated on the Friday following the octave of Corpus Christi, it was extended to the whole Church by Pope Pius IX in 1856, based on the revelations to Saint Margaret Mary Alacoque.",
+      "corpo": "Devotion to the Sacred Heart of Jesus is rooted in the mystical experiences of Saint Margaret Mary Alacoque (1647-1690), a Visitation sister at Paray-le-Monial, France, between 1673 and 1675. The first great revelation took place on December 27, 1673, the feast of Saint John the Evangelist, when Christ let her rest her head on his breast and showed her his Heart burning with love; in 1674, he showed himself with his Heart radiant as the sun, surrounded by thorns and surmounted by a cross, asking for reparation; and the most famous date, June 16, 1675, during the octave of Corpus Christi, when he asked that a feast dedicated to his Heart be instituted on the Friday following the octave of the Blessed Sacrament. The sister's confessor, the Jesuit Saint Claude de la Colombière, recognized and affirmed the authenticity of these graces, and the devotion spread first among the Visitation monasteries and the French dioceses.\n\nOn August 23, 1856, by decree of the Sacred Congregation of Rites, Pope Pius IX extended the feast of the Sacred Heart to the whole Church, inscribing it in the universal calendar. The solemnity is celebrated on the Friday following the octave of Corpus Christi — that is, the third Friday after Pentecost —, a movable date that can fall between the end of May and the beginning of July, depending on the year of Easter.\n\nThe feast was preceded by a long process of recognition: Margaret Mary was beatified by Pius IX in 1864 and canonized by Benedict XV on May 13, 1920, the \"disciple of the Sacred Heart.\" Practices linked to the devotion, such as the First Fridays and the Holy Hour, also go back to the revelations of Paray-le-Monial.\n\nOn the Saturday immediately following the solemnity, the Church celebrates the memorial of the Immaculate Heart of Mary, instituted by Pope Pius XII on May 4, 1944, in response to the requests attributed to the apparitions of Fatima (1917), liturgically uniting the two devotions to the love of Christ and to Mary's cooperation in the work of salvation. In the old Tridentine calendar, this memorial was fixed on August 22, the octave of the Assumption.",
+      "categoria": "calendario-liturgico",
+      "tags": [
+        "Sacred Heart of Jesus",
+        "Pius IX",
+        "Saint Margaret Mary Alacoque",
+        "Paray-le-Monial",
+        "Immaculate Heart of Mary",
+        "Corpus Christi"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Margareta_maria_alacoque.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Aleteia, \"5 things to know about the Sacred Heart feast\" (decree of the Sacred Congregation of Rites, August 23, 1856)",
+        "Vatican News, \"Sacred Heart of Jesus\"",
+        "CNBB, \"The Solemnity of the Sacred Heart of Jesus\"",
+        "Wikipedia, \"Immaculate Heart of Mary\" (institution by Pius XII on May 4, 1944)"
+      ],
+      "atualizado_em": null,
+      "ordem": 23,
+      "cor_liturgica": "White"
+    },
+    {
+      "id": "calendario-liturgico:dias-santos-de-preceito",
+      "slug": "dias-santos-de-preceito",
+      "titulo": "Holy Days of Obligation",
+      "categoria": "calendario-liturgico",
+      "resumo": "Besides Sundays, canon law establishes certain solemnities on which the faithful are obliged to participate in Mass — a list that each episcopal conference may adjust to its local reality.",
+      "corpo": "Canon 1246 of the Code of Canon Law lists the holy days of obligation of the universal Church, in addition to all Sundays: the Nativity of Our Lord Jesus Christ, the Epiphany, the Ascension, the Most Holy Body and Blood of Christ, Holy Mary the Mother of God (January 1), the Immaculate Conception, the Assumption, Saint Joseph, Saints Peter and Paul the Apostles, and All Saints. The same canon, in §2, allows episcopal conferences, with the prior approval of the Apostolic See, to suppress some of these days or transfer them to a Sunday.\n\nIn Brazil, the CNBB has maintained as days of obligation the Solemnity of Holy Mary, Mother of God (January 1), Christmas (December 25), the Epiphany (generally transferred to the nearest Sunday), the Ascension and Corpus Christi (kept on their proper Thursday in some dioceses or transferred to the following Sunday, depending on the region), and the Immaculate Conception (December 8); the obligation regarding the solemnity of Saint Joseph, on March 19, was removed by the Brazilian episcopal conference.",
+      "tags": [
+        "days of obligation",
+        "canon law",
+        "liturgical calendar"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 24,
+      "cor_liturgica": null,
+      "fontes": [
+        "Code of Canon Law (1983), can. 1246",
+        "Biblioteca Católica MBC, \"Dias de preceito na Igreja Católica: quais são eles?\""
+      ]
+    },
+    {
+      "id": "calendario-liturgico:ano-jubilar-ano-santo",
+      "slug": "ano-jubilar-ano-santo",
+      "titulo": "Holy Year (Jubilee)",
+      "categoria": "calendario-liturgico",
+      "resumo": "A year of special grace, with a plenary indulgence linked to pilgrimage and the Holy Door, first instituted in 1300 by Pope Boniface VIII and now ordinarily celebrated every 25 years.",
+      "corpo": "The first Holy Year in history was proclaimed by Pope Boniface VIII, through the bull \"Antiquorum habet\" of February 22, 1300, granting a plenary indulgence to pilgrims who visited the basilicas of Saint Peter and Saint Paul in Rome — thirty times for Romans, fifteen times for those coming from outside. The interval between jubilees, initially set at one hundred years, was reduced to fifty by Pope Clement VI and, in 1475, to twenty-five years by Pope Paul II, a periodicity that remains to this day for ordinary jubilees.\n\nThe tradition of opening a Holy Door goes back to Pope Martin V, in the extraordinary Jubilee of 1423, at the Basilica of Saint John Lateran, and was later adopted also at the Basilica of Saint Peter. Besides the ordinary jubilees every 25 years, the Pope may call extraordinary jubilees on special occasions — such as the Jubilee of Mercy of 2015-2016 — and the most recent Holy Year, the Jubilee of Hope of 2025, was closed by Pope Leo XIV.",
+      "tags": [
+        "Holy Year",
+        "Jubilee",
+        "Holy Door",
+        "plenary indulgence"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 25,
+      "cor_liturgica": null,
+      "fontes": [
+        "Instituto Humanitas Unisinos, \"The 30 Jubilees or Holy Years in the History of the Church from 1300 to 2025\"",
+        "Agência Ecclesia, \"Vatican: Pope Leo XIV closes Holy Door, concluding Jubilee of Hope\""
+      ]
+    },
+    {
+      "id": "calendario-liturgico:calendario-ambrosiano",
+      "slug": "calendario-ambrosiano",
+      "titulo": "The Ambrosian Calendar",
+      "resumo": "The Archdiocese of Milan follows, with the approval of the Church, its own calendar and liturgical rite, distinct from the Roman Rite, with among other differences an Advent of six weeks.",
+      "corpo": "The Ambrosian Rite, so called in honor of Saint Ambrose of Milan, is a particular Latin liturgical rite, proper to the Archdiocese of Milan and some neighboring areas, expressly recognized and protected by the Second Vatican Council. Although the name recalls Saint Ambrose, Bishop of Milan from 374 to 397, the first development of the rite goes back to the episcopate of Saint Eusebius (449-462). When Pope Gregory I, at the end of the sixth century, reorganized the Roman liturgy and extended it to the whole Latin Church, the Ambrosian Rite managed to survive Romanization, alongside the Spanish Mozarabic Rite.\n\nIts definitive legitimation came with the bull Quo primum of Pius V (1570), which, in imposing the Tridentine Roman Missal, made an exception for the Churches that could prove more than two hundred years of uninterrupted use of their own rite, a condition that Milan successfully invoked. Of the ancient non-Roman Latin liturgies, the Ambrosian is today the only one used commonly and daily in its historic territory and the only one that was reformed according to the prescriptions of the Second Vatican Council. The Archbishop of Milan holds the title of \"head of the rite.\"\n\nIts own calendar differs from the Roman one in several points, the most notable being the length of Advent: six Sundays instead of four, beginning on the Sunday closest to November 12, about two weeks before the beginning of the Roman Advent. The sixth Sunday is dedicated to the solemnity of the Divine Motherhood of the Blessed Virgin Mary. When the Vigil of Christmas falls on a Sunday, it loses its vigil character and is celebrated with the Sunday rite, under the designation \"Prenatal Sunday.\"\n\nThe Ambrosian Lent and Holy Week also follow their own sequence of days and readings: the rite begins what is called the \"authentic Lent\" only on the first Sunday, preceded by the weekdays \"after the ashes\"; and Holy Week has an arrangement distinct from the Roman Missal. It thus preserves one of the oldest particular liturgical traditions still alive within the Latin Church.",
+      "categoria": "calendario-liturgico",
+      "tags": [
+        "Ambrosian Rite",
+        "Milan",
+        "Saint Ambrose",
+        "Advent",
+        "liturgical rites",
+        "Second Vatican Council"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Milano_Basilica_di_Sant%27Ambrogio_Fassade_1.jpg",
+      "imagem_credito": "Photograph by Zairon, CC BY-SA 4.0, via Wikimedia Commons",
+      "fontes": [
+        "National Secretariat of Liturgy (Portugal), Dicionário Litúrgico, entry \"Ambrosiana (Liturgia)\"",
+        "Rito ambrosiano, Wikipedia (it), on Saint Eusebius, the bull Quo primum (1570) and the post-conciliar reform",
+        "Constitution Sacrosanctum Concilium of the Second Vatican Council, no. 4",
+        "Cathopedia, Rito Ambrosiano, on Advent and the Lectionary"
+      ],
+      "atualizado_em": null,
+      "ordem": 26,
+      "cor_liturgica": null
+    },
+    {
+      "id": "calendario-liturgico:semana-de-oracao-pela-unidade-dos-cristaos",
+      "slug": "semana-de-oracao-pela-unidade-dos-cristaos",
+      "titulo": "Week of Prayer for Christian Unity",
+      "categoria": "calendario-liturgico",
+      "resumo": "An annual ecumenical observance, from January 18 to 25, between the feasts of the Chair of Saint Peter and the Conversion of Saint Paul, dedicated to common prayer for the unity of Christians.",
+      "corpo": "The dates of January 18 to 25 were proposed in 1908 by Father Paul (Lewis Thomas) Wattson, an Episcopalian who had converted to Catholicism, placing the week between the feast of the Chair of Saint Peter (January 18) and that of the Conversion of Saint Paul (January 25). In parallel, beginning in 1921, the ecumenical Faith and Order movement promoted an octave of prayer for unity at another time of the year, linked to Pentecost; the two traditions converged in 1941, when that ecumenical commission adopted the January dates already used by Catholics.\n\nSince 1968, the Week has been prepared jointly by the Pontifical Council for Promoting Christian Unity and the Faith and Order Commission of the World Council of Churches. Although it is not a liturgical rank in the Roman calendar, it is widely observed in Catholic parishes and dioceses through ecumenical celebrations alongside other Christian communities.",
+      "tags": [
+        "ecumenism",
+        "Christian unity",
+        "Saint Peter",
+        "Saint Paul"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 27,
+      "cor_liturgica": null,
+      "fontes": [
+        "World Council of Churches / Pontifical Council for Promoting Christian Unity, Resources for the Week of Prayer for Christian Unity",
+        "Archdiocese of Fortaleza, \"Do you know the history of the Week of Prayer for Christian Unity?\""
+      ]
+    },
+    {
+      "id": "calendario-liturgico:domund-dia-mundial-das-missoes",
+      "slug": "domund-dia-mundial-das-missoes",
+      "titulo": "DOMUND — World Mission Day",
+      "resumo": "Celebrated on the second-to-last Sunday of October since 1926, it is a day of prayer and collection in support of the evangelization of peoples, instituted by Pope Pius XI.",
+      "corpo": "On February 28, 1926, Pope Pius XI published the encyclical \"Rerum Ecclesiae\", reaffirming the missionary duty of all the faithful and continuing the apostolic letter \"Maximum illud\" (1919) of Benedict XV, which seeks to purify the mission of colonialist influences. Shortly afterward, on April 14, 1926, a decree of the Sacred Congregation of Rites officially established the second-to-last Sunday of October as World Mission Day, a day dedicated to prayer and offerings in support of the evangelization of peoples. The decree was published in the Acta Apostolicae Sedis (AAS 19, 1927, p. 23f).\n\nPopularly known by the acronym of Spanish origin DOMUND (\"Domingo Mundial de las Misiones\"), the day is part of the so-called \"Missionary Month\" in October, and its collections are redistributed throughout the world by the Pontifical Mission Societies to sustain evangelizing activity in territories that still depend on outside help.\n\nThe collections feed the Universal Solidarity Fund, which supports about a thousand poor dioceses in mission territories, distributing resources for projects in Africa, Asia, Oceania and Latin America. The collection expresses the co-responsibility of the whole Church for the universal mission, in accordance with the principle that mission belongs to the very nature of the Church.\n\nWorld Mission Day is historically linked to the Society for the Propagation of the Faith, founded in Lyon on May 3, 1822, by the French laywoman Pauline-Marie Jaricot (1799-1862), recognized by Pius VII and later united, with three other societies, in the family of the Pontifical Mission Societies. One of the hallmarks of the Day is the annual message that the Pope addresses to the Church, usually signed and released at the beginning of the year: the 2025 message, for example, had as its theme \"Missionaries of Hope Among the Peoples\", in harmony with the Jubilee Year.",
+      "categoria": "calendario-liturgico",
+      "tags": [
+        "DOMUND",
+        "missions",
+        "Pius XI",
+        "evangelization",
+        "Pontifical Mission Societies",
+        "Pauline Jaricot"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Pius XI, encyclical Rerum Ecclesiae, February 28, 1926 (vatican.va)",
+        "Decree of the Sacred Congregation of Rites, April 14, 1926, in AAS 19 (1927), p. 23f",
+        "Pontifical Mission Societies, \"Article: centenary of the decree that gave life to World Mission Day\"",
+        "Vatican News, \"Pope on World Mission Day: messengers and builders of hope\", 2025"
+      ],
+      "atualizado_em": null,
+      "ordem": 28,
+      "cor_liturgica": null
+    },
+    {
+      "id": "calendario-liturgico:natividade-de-sao-joao-batista",
+      "slug": "natividade-de-sao-joao-batista",
+      "titulo": "Nativity of Saint John the Baptist",
+      "resumo": "A solemnity celebrated on June 24, it is one of only three nativities in the Roman calendar — alongside Christmas and the birth of Mary (September 8) —, set six months before Christmas on the basis of the account in Luke 1:36.",
+      "corpo": "The liturgical calendar usually commemorates the saints on the date of their death, their true \"birth\" into Heaven, but it makes a rare exception for just three earthly births: that of Jesus (Christmas), that of Mary (September 8) and that of John the Baptist, celebrated as a solemnity on June 24. In John's case there is yet another distinction: besides his birth, the Church also celebrates his martyrdom, on August 29 — a privilege that, among the saints, he shares only with the Virgin Mary (Nativity and Assumption). Christ himself underlines the greatness of the Forerunner: \"Truly, I say to you, among those born of women there has risen no one greater than John the Baptist\" (Mt 11:11).\n\nThe feast is one of the oldest in the Church: already in the fourth century there were liturgical celebrations of John the Baptist on various dates, and the Council of Agde, in Gaul, in 506, listed the Nativity among the main festivals of the region — a day of rest, on which one was to attend Mass and abstain from servile work. So high was its rank that, like Christmas, three Masses were celebrated: one at the vigil, another at dawn and a third in the morning, associated respectively with the title of Forerunner, with the baptism he conferred and with his holiness. There is also a record that a synod at Seligenstadt, in Germany, in 1022, prescribed a fast and abstinence of fourteen days in preparation for the feast — a practice that, however, was never adopted by universal Roman usage. In 1642, when reorganizing the days of obligation, Pope Urban VIII kept the Nativity of Saint John the Baptist among the feasts of obligation. The vigil of the feast is attested since the sixth century.\n\nThe curious date — the 24th, and not June 25 — comes from the ancient Roman system of counting days backward from the calends of the following month: since June has only 30 days, the eighth day before the calends of July (\"octavo Kalendas Iulii\") falls on the 24th, and not the 25th. The day was chosen because it falls exactly six months before Christmas and three months after the Annunciation (March 25), reflecting the account in the Gospel of Luke according to which Elizabeth, Mary's cousin, was already \"in the sixth month\" when the angel Gabriel announced the conception of Jesus (Lk 1:36). It is often held that the Church Christianized the pagan summer solstice festival in the northern hemisphere, shifting the solstice celebrations to the Forerunner — although the liturgical explanation rests primarily on Luke's chronology. In any case, the symbolism of the solstice was taken up by the Fathers: Saint Augustine, in his sermon for the birth of John the Baptist, observes that \"John is born when the day begins to shorten; Christ, when the day begins to lengthen,\" applying to the Forerunner John's own words: \"He must increase, but I must decrease\" (Jn 3:30).\n\nThe solemnity has a very high precedence in the calendar. When June 24 coincides with the solemnity of the Sacred Heart of Jesus, the Nativity of John yields and is transferred: in the ordinary form of the Roman rite, to June 23 (in which case the vigil is moved up to June 22); in the extraordinary form (Missal of 1962), to the 25th. White is the proper color of the celebration. The feast is also kept by the Orthodox Church and the other Eastern Churches, where John is invoked under the title \"Forerunner\" (Prodromos, the Precursor) and the nativity is celebrated with an all-night vigil and a subsequent octave day (Afterfeast).",
+      "categoria": "calendario-liturgico",
+      "tags": [
+        "Saint John the Baptist",
+        "solemnity",
+        "liturgical calendar",
+        "June 24",
+        "Christmas",
+        "Forerunner",
+        "solstice",
+        "Council of Agde"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Stjohn-nativity.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Council of Agde (506), cited in Wikipedia, \"Nativity of John the Baptist\"",
+        "Vatican News, \"Nativity of Saint John the Baptist\" (liturgical holidays)",
+        "Saint Augustine, Sermon for the birth of John the Baptist (commentary on Jn 3:30)",
+        "The Fatima Center, \"The Feast and Fast in Honor of St. John the Baptist\" (Council of Agde, 506; Synod of Seligenstadt, 1022; Urban VIII, 1642)",
+        "Cardinal Orani Tempesta, \"Nativity of Saint John the Baptist\", Vatican News",
+        "Aleteia, \"Why the Church celebrates the Nativity of Saint John on June 23\" (transfer because of the Sacred Heart)"
+      ],
+      "atualizado_em": null,
+      "ordem": 29,
+      "cor_liturgica": "White"
+    },
+    {
+      "id": "calendario-liturgico:todos-os-santos-e-fieis-defuntos",
+      "slug": "todos-os-santos-e-fieis-defuntos",
+      "titulo": "All Saints and the Commemoration of All the Faithful Departed (November 1 and 2)",
+      "resumo": "Two consecutive days that close the circle of the communion of saints: the solemnity of All Saints, a holy day of obligation, followed by the commemoration of all the faithful who have died.",
+      "corpo": "On November 1, the solemnity of All Saints, a holy day of obligation according to canon 1246 of the Code of Canon Law, celebrates the whole company of the redeemed who already enjoy the vision of God, whether known or not to the official calendar, canonized or not. The feast has ancient roots: in the fourth century there was a celebration of \"All Martyrs\" in Rome, and in the eighth century Pope Gregory III dedicated a chapel of Saint Peter's Basilica to the memory of all the saints, fixing the date of November 1. It was Pope Gregory IV who, in 835, extended the feast to the whole universal Church. The Churches of the East, Catholic and Orthodox, celebrate All Saints on the first Sunday after Pentecost, symbolically bringing the Easter season to a close.\n\nOn the following day, November 2, the Church celebrates the Commemoration of All the Faithful Departed, \"All Souls' Day\" (in Brazil, \"Dia de Finados\"), praying for the souls who are still purifying their union with God in Purgatory. The date resulted from a monastic initiative: in 998, Saint Odilo (c. 962-1048/49), fifth abbot of Cluny, established in all the monasteries dependent on his abbey an annual day of prayer, fasting, and Mass for the dead, fixed on November 2, immediately after the feast of the blessed, in order to unite the triumph of the saints with the purification of those who still await the vision of God. The custom spread quickly throughout Christian Europe and was eventually adopted by the whole Latin Church.\n\nTogether, the two days express the doctrine of the communion of saints among the Church triumphant (in heaven), the Church suffering (undergoing purification), and the Church pilgrim (on earth), set forth in the Catechism of the Catholic Church (nos. 954-959). The proximity of the dates reinforces this unity: the eve celebrates those who have already arrived in glory; the following day, those who are still on the way to it. In Brazil, November 2 is a national holiday, and it is customary to visit cemeteries, bring flowers, and light candles; popular piety also maintains its own practices, such as the celebration of All Saints in Monte Santo (Bahia).",
+      "categoria": "calendario-liturgico",
+      "tags": [
+        "All Saints",
+        "Faithful Departed",
+        "All Souls' Day",
+        "communion of saints",
+        "Purgatory",
+        "November"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/All-Saints.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Roman Missal, Commemoration of All the Faithful Departed (November 2)",
+        "Catechism of the Catholic Church, nos. 954-959",
+        "Code of Canon Law, canon 1246 §1",
+        "Dia de Todos os Santos, Wikipedia (pt), on Gregory III, Gregory IV (835), and the fixing of November 2"
+      ],
+      "atualizado_em": null,
+      "ordem": 30,
+      "cor_liturgica": "White (November 1); violet or black optional (November 2)"
+    }
+  ]
+}

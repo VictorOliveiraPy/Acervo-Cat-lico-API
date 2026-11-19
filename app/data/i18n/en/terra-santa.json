@@ -1,0 +1,606 @@
+{
+  "_meta": {
+    "categoria": "terra-santa",
+    "nome": "Holy Land",
+    "descricao": "Places in Palestine, Israel and neighboring regions connected with the life of Christ and with biblical history, many of them also pilgrimage shrines.",
+    "status": "exemplos-iniciais",
+    "aviso": "An initial set of the best-known places; it does not replace a complete pilgrimage guide to the Holy Land.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Jerusalem Bible",
+      "Catechism of the Catholic Church"
+    ]
+  },
+  "itens": [
+    {
+      "id": "terra-santa:belem",
+      "slug": "belem",
+      "titulo": "Bethlehem",
+      "categoria": "terra-santa",
+      "resumo": "City of Judea where Jesus Christ was born, also the birthplace of King David.",
+      "corpo": "Bethlehem, about six miles from Jerusalem, is venerated as the place of the birth of Jesus, fulfilling the prophecy of Micah: \"But you, O Bethlehem Ephrathah, too small to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel\" (Mic 5:2). King David was also born and anointed there. The Basilica of the Nativity, built over the traditional grotto of the birth in the 4th century by order of Constantine and rebuilt by Justinian, is one of the oldest Christian churches in continuous use in the world, and has been declared a UNESCO World Heritage Site.",
+      "tags": [
+        "Nativity",
+        "David",
+        "Basilica of the Nativity"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Church_of_the_Nativity_%287703592746%29.jpg",
+      "imagem_credito": "Photo: Neil Ward — Wikimedia Commons, CC BY 2.0",
+      "local": "Bethlehem",
+      "pais": "Palestine (West Bank)",
+      "tipo_local": "city"
+    },
+    {
+      "id": "terra-santa:nazare",
+      "slug": "nazare",
+      "titulo": "Nazareth",
+      "categoria": "terra-santa",
+      "resumo": "City of Galilee where Jesus grew up and lived most of his hidden life.",
+      "corpo": "In the time of Jesus, Nazareth was a small agricultural village in Galilee, so insignificant that Nathanael would ask, \"Can anything good come out of Nazareth?\" (Jn 1:46). It was there that the angel Gabriel announced to Mary the virginal conception, and there Jesus lived almost thirty years before the beginning of his public ministry — the \"hidden years\" of work, prayer, and family life in Nazareth. The Basilica of the Annunciation, built over the traditional grotto of Mary's house, is today the largest Christian church in the Middle East.",
+      "tags": [
+        "Annunciation",
+        "hidden life",
+        "Holy Family"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Habsora_from_selezian.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "local": "Nazareth",
+      "pais": "Israel",
+      "tipo_local": "city"
+    },
+    {
+      "id": "terra-santa:cafarnaum",
+      "slug": "cafarnaum",
+      "titulo": "Capernaum",
+      "categoria": "terra-santa",
+      "resumo": "City on the shore of the Sea of Galilee that became the base of Jesus' public ministry.",
+      "corpo": "After leaving Nazareth, Jesus made his home in Capernaum, on the northern shore of the Sea of Galilee, which the Gospels call \"his own city\" (Mt 9:1). There he called the first apostles—fishermen such as Peter, Andrew, James, and John—healed a centurion's servant and Peter's mother-in-law, and taught in the local synagogue, whose white limestone ruins are still visible above older foundations of black basalt, possibly contemporary with Jesus. Nearby, archaeologists identify the \"House of Peter,\" venerated as a place of healing and preaching since the first Christian centuries.",
+      "tags": [
+        "synagogue",
+        "Peter",
+        "public ministry"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Kafar1.jpg",
+      "imagem_credito": "Photo: Wikimedia Commons — Wikimedia Commons, CC BY-SA 3.0",
+      "local": "Capernaum",
+      "pais": "Israel",
+      "tipo_local": "city"
+    },
+    {
+      "id": "terra-santa:getsemani",
+      "slug": "getsemani",
+      "titulo": "Gethsemane",
+      "categoria": "terra-santa",
+      "resumo": "Olive garden at the foot of the Mount of Olives where Jesus prayed in agony before his arrest.",
+      "corpo": "Gethsemane — from the Hebrew for \"oil press\" — was an olive grove at the foot of the Mount of Olives, across the Kidron Valley from Jerusalem, where Jesus used to withdraw to pray. On the night before the Passion, he underwent there the agony recounted in the Gospels: \"My soul is sorrowful even unto death\" (Mt 26:38), the sweat like drops of blood mentioned by Luke, and the arrest by the troops led by Judas. The Basilica of the Agony (or of All Nations), built in the twentieth century, preserves beside the altar the traditional rock where Jesus is said to have prayed, and the garden next to it keeps ancient olive trees.",
+      "tags": [
+        "Passion",
+        "agony",
+        "Mount of Olives",
+        "prayer"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Getsemane2.JPG",
+      "imagem_credito": "Photo: Mewasul — Wikimedia Commons, CC BY-SA 3.0",
+      "local": "Gethsemane",
+      "pais": "Israel",
+      "tipo_local": "shrine"
+    },
+    {
+      "id": "terra-santa:santo-sepulcro",
+      "slug": "santo-sepulcro",
+      "titulo": "Church of the Holy Sepulchre",
+      "categoria": "terra-santa",
+      "resumo": "Basilica in Jerusalem built over Calvary and the empty tomb of Christ, the holiest site in Christianity.",
+      "corpo": "Built by order of Constantine in the fourth century over the site identified as Golgotha (Calvary) and the tomb where Jesus was buried and rose from the dead, the Church of the Holy Sepulchre gathers under a single roof the final stations of the Passion, Death, and Resurrection. It is shared, in a delicate arrangement governed since the nineteenth century by the so-called Status Quo, among the Catholic, Greek Orthodox, and Armenian Churches and other Christian communities. The Stone of Anointing, Calvary on the upper level, and the Aedicule that houses the empty tomb make it the most important pilgrimage destination in Christendom.",
+      "tags": [
+        "Resurrection",
+        "Calvary",
+        "pilgrimage",
+        "Jerusalem"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/01/The_Church_of_the_Holy_Sepulchre-Jerusalem.JPG",
+      "imagem_credito": "Photo: https://www.flickr.com/photos/jlascar/ — Wikimedia Commons, CC BY 2.0",
+      "local": "Jerusalem",
+      "pais": "Israel",
+      "tipo_local": "shrine"
+    },
+    {
+      "id": "terra-santa:monte-das-oliveiras",
+      "slug": "monte-das-oliveiras",
+      "titulo": "Mount of Olives",
+      "categoria": "terra-santa",
+      "resumo": "A hill east of Jerusalem, the setting of the Ascension of Jesus and of decisive moments in his life.",
+      "corpo": "From the Mount of Olives, from which all of Jerusalem can be seen across the Kidron Valley, Jesus wept over the city, delivered the eschatological discourse and, according to the Acts of the Apostles, ascended into heaven before the apostles forty days after the Resurrection (Acts 1:9-12). At the summit, the Chapel of the Ascension marks the traditional site; on the slope lie the Garden of Gethsemane and the church of \"Dominus Flevit\" (\"The Lord wept\"), built in the shape of a tear.",
+      "tags": [
+        "Ascension",
+        "Jerusalem",
+        "eschatology"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mount_of_olives.jpg",
+      "imagem_credito": "Photo: The original uploader was תמרה at Hebrew Wikipedia. — Wikimedia Commons, Attribution",
+      "local": "Mount of Olives",
+      "pais": "Israel",
+      "tipo_local": "mountain"
+    },
+    {
+      "id": "terra-santa:rio-jordao",
+      "slug": "rio-jordao",
+      "titulo": "Jordan River",
+      "categoria": "terra-santa",
+      "resumo": "The river where John the Baptist baptized Jesus, marking the beginning of his public ministry.",
+      "corpo": "At the Jordan River, near Jericho, John the Baptist preached conversion and baptized multitudes when Jesus came to him to be baptized — an episode in which, according to the three Synoptic Gospels, the heavens were opened, the Spirit descended like a dove, and a voice proclaimed: \"This is my beloved Son\" (Mt 3:17). The traditional site, called Qasr al-Yahud on the western side, is today a place of pilgrimage and baptismal renewal for Christians from all over the world.",
+      "tags": [
+        "Baptism of Jesus",
+        "John the Baptist",
+        "Trinity"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/78/20100923_mer_morte13.JPG",
+      "imagem_credito": "Photo: Jean Housen — Wikimedia Commons, CC BY-SA 3.0",
+      "local": "Jordan River",
+      "pais": "Israel/Jordan",
+      "tipo_local": "rio"
+    },
+    {
+      "id": "terra-santa:monte-tabor",
+      "slug": "monte-tabor",
+      "titulo": "Mount Tabor",
+      "resumo": "An isolated mountain in Lower Galilee, venerated as the traditional site of the Transfiguration of Jesus and, over the centuries, the setting of biblical, monastic and military episodes.",
+      "corpo": "Standing alone on the Jezreel plain, about 8 km east of Nazareth and some 588 meters above sea level, Mount Tabor rises as a rounded cone that dominates the landscape of Lower Galilee. Christian tradition has identified it since the first centuries as the \"high mountain\" where Jesus was transfigured before Peter, James and John, appearing in glory beside Moses and Elijah (Mt 17:1-8; Mk 9:2-8; Lk 9:28-36), although the Gospels do not expressly name the mountain.\n\nThe Old Testament already associates Tabor with decisive episodes: it is the mountain where Deborah and Barak defeated Sisera, general of Jabin (Jgs 4), traditionally located in that region. Because of its strategic position, the summit repeatedly served as a fortress and refuge: it was walled in the time of Flavius Josephus, during the war against the Romans, and again in the Crusader era, of whose fortifications traces remain. Later, the mountain was the stage of a modern military episode: on April 16, 1799, in the Napoleonic campaign in Egypt and Syria, French forces commanded by Jean-Baptiste Kléber, relieved by Napoleon Bonaparte, defeated an Ottoman army far superior in number gathered at the foot of Tabor, an action that allowed the siege of Acre to continue.\n\nOn the religious level, oratories and monasteries were successively built on the summit: there is evidence of a Byzantine monastery and, later, of a Benedictine community and a Crusader monastery. In 1631 the mountain was entrusted to the Franciscans of the Custody of the Holy Land, who remain there, and over the centuries the place saw diplomatic disputes over its possession and use. The area now enclosed by walls houses the Franciscan sanctuary and a neighboring Greek Orthodox sanctuary.\n\nThe present Basilica of the Transfiguration was built between 1921 and 1924, in the Syrian-Roman style, and was the first major work of the Italian architect Antonio Barluzzi in the Holy Land, beginning a collaboration of more than a decade with the Franciscans. The basilica stands on the site venerated since the Byzantine era and incorporates ruins of earlier churches. The two bell towers rise over the ancient oratories of Moses and Elijah, and the side chapels remain dedicated to these two figures who appeared beside Jesus. The interior, divided into three naves, has at its center, behind the altar, the mosaic of the Transfiguration; the mosaics, executed by the Monticelli firm from preparatory drawings by Rodolfo Villani, and the stained-glass windows with peacocks form a Trinitarian iconographic program, with the chapel of Mary facing the Father and that of the Holy Spirit facing the Spirit represented by the dove. In 2024 the Custody celebrated the centenary of the basilica.",
+      "categoria": "terra-santa",
+      "tags": [
+        "Transfiguration",
+        "Moses and Elijah",
+        "Basilica of the Transfiguration",
+        "Antonio Barluzzi",
+        "Deborah",
+        "Battle of Mount Tabor",
+        "Custody of the Holy Land",
+        "Galilee"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Church_of_Transfiguration_Mount_Tabor200704.JPG",
+      "imagem_credito": "Photo: gugganij, 2007, Wikimedia Commons, CC BY-SA 2.5",
+      "fontes": [],
+      "atualizado_em": null,
+      "local": "Mount Tabor",
+      "pais": "Israel",
+      "tipo_local": "monte"
+    },
+    {
+      "id": "terra-santa:monte-das-bemaventurancas",
+      "slug": "monte-das-bemaventurancas",
+      "titulo": "Mount of the Beatitudes",
+      "resumo": "A hill on the Korazim plateau, on the shore of the Sea of Galilee, venerated as the site of the Sermon on the Mount; Barluzzi's octagonal church (1937-1938) commemorates the eight Beatitudes.",
+      "corpo": "On a gentle rise on the shore of the Sea of Galilee, between Capernaum and Tabgha, tradition places the Sermon on the Mount, in which Jesus proclaimed the Beatitudes (Mt 5:1-12) and a large part of his ethical and spiritual synthesis (Mt 5-7). The site, on the Korazim plateau, is also known as Mount Eremos; at an altitude of about 25 meters below sea level and some 200 meters above the surface of the lake, it is among the lowest summits in the world, and it offers a wide view over the Sea of Galilee. The memory of the place is very ancient: it has been commemorated for more than 1,600 years, and other locations have been proposed for the sermon, such as the nearby Mount Arbel and the Horns of Hattin.\n\nOn the slope below the present site, a Byzantine church was built in the 4th century and used until the 7th century; remains of a monastery and of a cistern cut into the rock survive, along with monuments bearing inscriptions, in a complex sometimes called \"Mount Eremos\", also venerated in memory of the missionary mandate and of Christ's appearance to the five hundred (1 Cor 15:6). The present Catholic chapel was built over these ruins.\n\nThe present Franciscan chapel was built between 1936 and 1938, according to a design by the Italian architect Antonio Barluzzi, with financial support from Mussolini's government through the National Association for Aid to Italian Missionaries (ANSMI). Neo-Byzantine in style and octagonal in plan, it has eight sides in reference to the eight Beatitudes of Matthew; inside, the floor is circular around the central altar and mosaics represent virtues, while the ribbed dome supports a cross visible from afar. The complex is maintained by the Franciscan Sisters Missionaries and remains one of the most serene places of pilgrimage in Galilee, being the starting point of routes such as the Jesus Trail.\n\nA few years before the end of the 20th century, the shrine once again received a pontiff: in March 2000, during his Jubilee pilgrimage, Pope John Paul II celebrated Mass at this site, a gesture that underscored the importance of the mount for dialogue among the Christian confessions and for the memory of Christ's teaching.",
+      "categoria": "terra-santa",
+      "tags": [
+        "Sermon on the Mount",
+        "Beatitudes",
+        "Galilee",
+        "Antonio Barluzzi",
+        "Mount Eremos",
+        "Capernaum",
+        "Tabgha",
+        "John Paul II"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Berg_der_Seligpreisungen_BW_5.JPG",
+      "imagem_credito": null,
+      "fontes": [],
+      "atualizado_em": null,
+      "local": "Mount of the Beatitudes",
+      "pais": "Israel",
+      "tipo_local": "shrine"
+    },
+    {
+      "id": "terra-santa:tabgha",
+      "slug": "tabgha",
+      "titulo": "Tabgha",
+      "categoria": "terra-santa",
+      "resumo": "A site on the shore of the Sea of Galilee venerated as the place of the multiplication of the loaves and fishes.",
+      "corpo": "Tabgha, from the Greek \"Heptapegon\" (\"seven springs\"), is traditionally identified as the site of the multiplication of the loaves and fishes for five thousand people (Mt 14:13-21). The Church of the Multiplication, rebuilt in the twentieth century on Byzantine foundations from the fifth century, preserves a famous floor mosaic depicting a basket with loaves and two fishes before the altar. Nearby, the Church of the Primacy of Peter marks the traditional site where the risen Jesus entrusted the care of the flock to Peter (Jn 21:15-17).",
+      "tags": [
+        "multiplication of the loaves",
+        "mosaic",
+        "Primacy of Peter"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Tabgha_Ein_Sheva_1903.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "local": "Tabgha",
+      "pais": "Israel",
+      "tipo_local": "shrine"
+    },
+    {
+      "id": "terra-santa:cesareia-de-filipe",
+      "slug": "cesareia-de-filipe",
+      "titulo": "Caesarea Philippi",
+      "categoria": "terra-santa",
+      "resumo": "A city in the north of Galilee where Peter professed that Jesus is the Christ, the Son of God.",
+      "corpo": "Near the springs of the Jordan River, at the foot of Mount Hermon, stood Caesarea Philippi, a center of pagan worship dedicated to the god Pan. It was there that Jesus asked the disciples, \"Who do men say that I am?\", and Peter answered: \"You are the Christ, the Son of the living God\" — a confession to which Jesus responded by promising to build his Church upon that \"rock\" (Mt 16:13-19). The contrast between the pagan shrine of Pan and Peter's messianic confession is read by tradition as a sign of Christ's victory over idols.",
+      "tags": [
+        "confession of Peter",
+        "primacy",
+        "Church"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Banias_Spring_Cliff_Pan%27s_Cave.JPG",
+      "imagem_credito": "Photo: gugganij — Wikimedia Commons, CC BY-SA 3.0",
+      "local": "Caesarea Philippi (Banias)",
+      "pais": "Israel/Golan",
+      "tipo_local": "city"
+    },
+    {
+      "id": "terra-santa:jerico",
+      "slug": "jerico",
+      "titulo": "Jericho",
+      "categoria": "terra-santa",
+      "resumo": "One of the oldest cities in the world, the setting of the healing of Bartimaeus and the encounter with Zacchaeus.",
+      "corpo": "Jericho, in the Jordan Valley near the Dead Sea, is one of the oldest inhabited cities of humanity, with archaeological finds more than nine thousand years old. In the Gospels, it is where Jesus heals the blind man Bartimaeus (Mk 10:46-52) and where the tax collector Zacchaeus climbs a sycamore tree to see him pass by, receiving Jesus in his house (Lk 19:1-10). In the Old Testament, it is the city whose walls fell before Joshua after the conquest of Canaan.",
+      "tags": [
+        "Zacchaeus",
+        "Bartimaeus",
+        "Joshua"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Jerycho-panorama.jpg",
+      "imagem_credito": "Photo: Janusz J. — Wikimedia Commons, CC BY-SA 3.0",
+      "local": "Jericho",
+      "pais": "Palestine (West Bank)",
+      "tipo_local": "city"
+    },
+    {
+      "id": "terra-santa:cana-da-galileia",
+      "slug": "cana-da-galileia",
+      "titulo": "Cana of Galilee",
+      "resumo": "A village in Galilee where Jesus performed his first sign, turning water into wine at a wedding; scholars are divided over the identification of the site between Kafr Kanna and Khirbet Qana.",
+      "corpo": "Cana is the setting of Jesus' first public sign: the changing of water into wine at a wedding banquet, obtained through the intercession of Mary (Jn 2:1-11). Tradition reads the episode as a messianic revelation and an anticipation of the Eucharistic banquet, as well as a biblical foundation for the dignity of marriage. The evangelist presents the miracle as the \"beginning of his signs\" (Jn 2:11), the starting point of the manifestation of Christ's glory.\n\nThe exact location of the site has long been debated. Western tradition settled on Kafr Kanna, a village about 7 km northeast of Nazareth, an identification that goes back to eighth-century sources and was reinforced by the ease of access for medieval pilgrims. Excavations, however, have never found there any remains of a Jewish settlement from the Roman period. Since 1998, under the direction of Douglas Edwards and later Tom McCollough, excavations at Khirbet Qana — ruins about 9 km farther north — have revealed a site predominantly inhabited by Jews between about 323 BC and AD 324, with a synagogue, coins from the Maccabean period, and inscriptions in Koine Greek with the formula \"Kyrios Iesou\" (\"Lord Jesus\") and crosses carved on the walls, an indication of very early Christian veneration. The historian James Tabor observes that the medieval preference for Kafr Kanna may have been a matter of practicality rather than precision, given the rugged terrain of Khirbet Qana.\n\nIn Kafr Kanna, the Custody of the Holy Land maintains the Franciscan Wedding Church. The Franciscans began acquiring the land in 1641 and completed it in 1879, through the work of Father Egidio Geisser, founder of the local Latin parish; a small church was built in 1880 and enlarged between 1897 and 1905. The present façade dates from 1901, and on September 30, 1906, the then-Bishop Angelo Roncalli — the future Pope John XXIII — consecrated the altar. In 1885 a chapel dedicated to Saint Bartholomew (Nathanael), one of the Twelve, a native of Cana (cf. Jn 21:2), was built about one hundred meters away. The church was extensively restored in the second half of the 1990s, with the work completed in 1999. The local Catholic community today numbers about one hundred families.\n\nThe excavations directed by Father Stanislao Loffreda (1969) and Father Eugenio Alliata (1997) showed that a synagogue (4th-5th centuries) with a colonnaded atrium and a large cistern, still preserved beneath the church, was built over the ruins of houses from the 1st to 4th centuries; Byzantine tombs of the 5th-6th centuries were also found. The pilgrimage tradition is ancient: an anonymous pilgrim of the 6th century reports having arrived at Cana, sat down at the place of the wedding, found two of the stone jars, filled one of them with wine, and offered it on the altar. Every year, on the Sunday after the feast of the Baptism of the Lord, the Latin parish celebrates the anniversary of the miracle with Mass and the renewal of the marriage promises of couples.",
+      "categoria": "terra-santa",
+      "tags": [
+        "first sign",
+        "Mary",
+        "marriage",
+        "Kafr Kanna",
+        "Khirbet Qana",
+        "Custody of the Holy Land",
+        "wedding at Cana",
+        "Galilee"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Catholic_Wedding_Church_%28Kafr_Kana%29_%2801%29.jpg",
+      "imagem_credito": "Photo: Chris06, 2019, Wikimedia Commons, CC BY-SA 4.0",
+      "fontes": [],
+      "atualizado_em": null,
+      "local": "Cana (Kafr Kanna)",
+      "pais": "Israel",
+      "tipo_local": "cidade"
+    },
+    {
+      "id": "terra-santa:betania",
+      "slug": "betania",
+      "titulo": "Bethany",
+      "categoria": "terra-santa",
+      "resumo": "A village near Jerusalem, home of Martha, Mary and Lazarus, where Jesus raised his friend from the dead.",
+      "corpo": "About three kilometers from Jerusalem, on the eastern slope of the Mount of Olives, Bethany was the home of Martha, Mary and Lazarus, close friends of Jesus. There he raised Lazarus four days after his death (Jn 11:1-44) and there, in the house of Simon the leper, a woman anointed his feet with precious perfume shortly before the Passion. The Arabic name of the present-day village, al-Eizariya, derives directly from the name of Lazarus (\"Eleazar\").",
+      "tags": [
+        "Lazarus",
+        "Martha and Mary",
+        "resurrection"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/44/Lazarus_Bethany.JPG",
+      "imagem_credito": "Photo: Marion Doss from Scranton, Kansas, USA — Wikimedia Commons, CC BY-SA 2.0",
+      "local": "Bethany (al-Eizariya)",
+      "pais": "Palestine (West Bank)",
+      "tipo_local": "city"
+    },
+    {
+      "id": "terra-santa:montanha-das-tentacoes",
+      "slug": "montanha-das-tentacoes",
+      "titulo": "Mount of Temptation (Mount Quarantania)",
+      "categoria": "terra-santa",
+      "resumo": "Mountain in the Judean Desert venerated as the site of Jesus' fasting and temptations in the desert.",
+      "corpo": "Rising abruptly above the city of Jericho, Mount Quarantania (Jebel Quruntul) has been identified by tradition since the earliest Christian centuries as the place where Jesus fasted forty days and was tempted by the devil before beginning his public ministry (Mt 4:1-11). A Greek Orthodox monastery, partly carved into the rock of the cliff itself, has marked the site since the Middle Ages, and is now accessible by cable car from Jericho.",
+      "tags": [
+        "temptations of Jesus",
+        "desert",
+        "fasting"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Mount_of_Temptation_from_Jericho_%284878885487%29.jpg",
+      "imagem_credito": null,
+      "local": "Mount Quarantania",
+      "pais": "Palestine (West Bank)",
+      "tipo_local": "monte"
+    },
+    {
+      "id": "terra-santa:via-dolorosa",
+      "slug": "via-dolorosa",
+      "titulo": "Via Dolorosa",
+      "categoria": "terra-santa",
+      "resumo": "Traditional route in Jerusalem that recalls Jesus' path to Calvary, carrying the cross.",
+      "corpo": "The Via Dolorosa (\"Way of Sorrows\") is the traditional route, marked by fourteen stations, that commemorates Jesus' journey from his condemnation by Pilate to the crucifixion and burial at Golgotha. Established as a devotion by the Franciscans beginning in the Middle Ages, it now runs through the narrow streets of the Old City of Jerusalem and ends inside the Church of the Holy Sepulchre itself. It is the historical basis of the devotional exercise of the Stations of the Cross, now practiced in churches all over the world.",
+      "tags": [
+        "Stations of the Cross",
+        "Passion",
+        "Jerusalem",
+        "devotion"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Via_Dolorosa.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "local": "Jerusalem",
+      "pais": "Israel",
+      "tipo_local": "shrine"
+    },
+    {
+      "id": "terra-santa:monte-sinai",
+      "slug": "monte-sinai",
+      "titulo": "Mount Sinai",
+      "categoria": "terra-santa",
+      "resumo": "Desert mountain where, according to Exodus, God gave Moses the Ten Commandments.",
+      "corpo": "In the south of the Sinai Peninsula, the mountain identified by tradition since the fourth century as the biblical Sinai is where, according to the Book of Exodus, God revealed himself to Moses in the burning bush and later gave him the tablets of the Law amid thunder and fire (Ex 19-20). At the foot of the mountain, Saint Catherine's Monastery, founded in the sixth century by order of Emperor Justinian, is one of the oldest Christian monasteries in continuous operation in the world and holds one of the most important collections of Byzantine manuscripts and icons.",
+      "tags": [
+        "Moses",
+        "Ten Commandments",
+        "Old Testament",
+        "Saint Catherine"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Mount_Sinai_Egypt.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "local": "Mount Sinai",
+      "pais": "Egypt",
+      "tipo_local": "mountain"
+    },
+    {
+      "id": "terra-santa:mar-morto",
+      "slug": "mar-morto",
+      "titulo": "Dead Sea",
+      "categoria": "terra-santa",
+      "resumo": "The lowest point on the earth's surface, associated with Sodom and Gomorrah and the Qumran manuscripts.",
+      "corpo": "The Dead Sea, whose salt density prevents any aquatic life, is associated in the Book of Genesis with the destruction of Sodom and Gomorrah because of the wickedness of their inhabitants (Gen 19). On its shores, the caves of Qumran preserved the Dead Sea Scrolls, discovered beginning in 1947 — the oldest known Hebrew biblical texts, about a thousand years older than the manuscripts that had been used until then, and a precious witness to the fidelity of the transmission of the biblical text over the centuries.",
+      "tags": [
+        "Sodom and Gomorrah",
+        "Qumran manuscripts",
+        "Old Testament"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Dead_Sea_1920px.jpg",
+      "imagem_credito": "Wikimedia Commons, Public domain",
+      "local": "Dead Sea",
+      "pais": "Israel/Jordan",
+      "tipo_local": "outro"
+    },
+    {
+      "id": "terra-santa:emaus",
+      "slug": "emaus",
+      "titulo": "Emmaus",
+      "categoria": "terra-santa",
+      "resumo": "Village mentioned in the Gospel of Luke as the destination of two disciples to whom the risen Jesus appeared on the road, breaking bread at table.",
+      "corpo": "Emmaus is mentioned only once in the New Testament, in Luke 24:13-35: on the day of the Resurrection, two disciples were walking from Jerusalem to this village when they were joined by a traveler whom they recognized as Jesus himself, risen from the dead, only at table, in the breaking of the bread. The exact location of Emmaus is, however, uncertain: as early as the third century, Eusebius of Caesarea identified the biblical village with Nicopolis, a city about 30 km west of Jerusalem, where archaeologists have found the ruins of a large complex of Byzantine churches built to welcome pilgrims.\n\nA second, more recent tradition places Emmaus at El-Qubeibeh, about 12 km northwest of Jerusalem — a distance closer to the information given by some manuscripts of the Gospel of Luke (60 stadia) —, where the Franciscans today maintain a shrine dedicated to the apparition. Whatever the exact site, Emmaus remains a biblical symbol of the recognition of Christ “in the breaking of the bread,” a Eucharistic theme dear to the Christian tradition.",
+      "tags": [
+        "Resurrection",
+        "New Testament",
+        "Luke"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Emmaus-Nicopolis / El-Qubeibeh",
+      "pais": "Israel",
+      "tipo_local": "biblical village",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Ema%C3%BAs-Nic%C3%B3polis",
+        "https://www.emmaus-nicopolis.org/emmaus/portugues"
+      ]
+    },
+    {
+      "id": "terra-santa:monte-carmelo",
+      "slug": "monte-carmelo",
+      "titulo": "Mount Carmel",
+      "categoria": "terra-santa",
+      "resumo": "A coastal mountain range in Israel where the prophet Elijah confronted the prophets of Baal, the spiritual birthplace of the Carmelite Order.",
+      "corpo": "Mount Carmel, a mountain range that extends to the Mediterranean coast in the region of present-day Haifa, is the setting of one of the most dramatic episodes of the Old Testament: the confrontation between the prophet Elijah and the 450 prophets of Baal, narrated in 1 Kings 18, in which fire from heaven consumed Elijah's sacrifice before all the people of Israel, proving the sovereignty of the one God. The mountain, whose Hebrew name Karmel means \"garden\" or \"vineyard of God,\" is also mentioned in other books of the Bible as a symbol of fertility and beauty.\n\nIt was in the caves and on the slopes of Mount Carmel that, beginning in the twelfth century, Latin hermits inspired by the austere example of Elijah gathered in a contemplative life, giving rise to the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel — the Carmelites. The mountain remains a place of pilgrimage and is today the site of the Stella Maris monastery, beside which a cave is venerated as the place of Elijah's retreat.",
+      "tags": [
+        "Elijah",
+        "Old Testament",
+        "Carmelites"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Haifa",
+      "pais": "Israel",
+      "tipo_local": "montanha",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Monte_Carmelo",
+        "https://idemais.com.br/noticias/com-quem-deus-falou-no-monte-carmelo-e-o-que-aconteceu-nesse-lugar-citado-na-biblia/"
+      ]
+    },
+    {
+      "id": "terra-santa:ain-karim",
+      "slug": "ain-karim",
+      "titulo": "Ain Karim",
+      "categoria": "terra-santa",
+      "resumo": "Village on the outskirts of Jerusalem venerated as the birthplace of Saint John the Baptist and the setting of the Gospel episode of the Visitation.",
+      "corpo": "Ain Karim (also spelled Ein Kerem), today a neighborhood on the outskirts of Jerusalem, has been identified by Christian tradition since the first centuries as the hometown of the priest Zechariah and his wife Elizabeth, parents of Saint John the Baptist. It is also the place where, according to the Gospel of Luke (1:39-56), Mary visited her cousin Elizabeth, who was six months pregnant, beginning the episode of the Visitation, in which Elizabeth greets her as “the mother of my Lord” and Mary proclaims the canticle of the Magnificat.\n\nTwo Franciscan sanctuaries mark these episodes in the village: the Church of the Visitation, completed in 1955 on Byzantine and Crusader ruins, built on the site of the supposed house of Elizabeth; and the Church of the Nativity of Saint John the Baptist, built over a grotto that tradition identifies as the exact place of the Forerunner's birth. Both remain among the most visited pilgrimage destinations in the Holy Land.",
+      "tags": [
+        "Visitation",
+        "John the Baptist",
+        "New Testament"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Jerusalem (Ein Kerem neighborhood)",
+      "pais": "Israel",
+      "tipo_local": "vila",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Igreja_da_Visita%C3%A7%C3%A3o",
+        "https://www.custodia.org/en/sanctuaries/ain-karem-saint-john-the-baptist/"
+      ]
+    },
+    {
+      "id": "terra-santa:monte-siao-cenaculo",
+      "slug": "monte-siao-cenaculo",
+      "titulo": "Mount Zion and the Upper Room",
+      "categoria": "terra-santa",
+      "resumo": "A hill located outside the walls of the Old City of Jerusalem, traditionally associated with the Upper Room (Cenacle), the room of the Last Supper and of the outpouring of the Holy Spirit at Pentecost.",
+      "corpo": "Mount Zion, a rise located just outside the southern wall of the Old City of Jerusalem, has preserved since early Christian antiquity the tradition of the Upper Room (the Cenacle) — the \"large upper room furnished\" (Mk 14:15) where, according to the Gospels, Jesus celebrated the Last Supper with the apostles before his Passion, and where the apostolic community, gathered in prayer with Mary, is said to have received the Holy Spirit on the day of Pentecost (Acts 2:1-4).\n\nThe building now pointed out as the Cenacle, with its upper floor of fourteenth-century Gothic arches, is part of a complex that over the centuries successively housed a Jewish-Christian synagogue, a Byzantine basilica, a Crusader church and, finally, an Ottoman mosque — today the ground floor is venerated by some as the tomb of King David. Although the exact identification of the site with the Gospel upper room is debated by historians, given the absence of precise geographical indication in the biblical texts, Mount Zion has remained since the Byzantine period one of the most visited Christian pilgrimage sites in Jerusalem.",
+      "tags": [
+        "Last Supper",
+        "Pentecost",
+        "Jerusalem"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Jerusalém",
+      "pais": "Israel",
+      "tipo_local": "monte",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Cen%C3%A1culo",
+        "https://pt.wikipedia.org/wiki/Monte_Si%C3%A3o"
+      ]
+    },
+    {
+      "id": "terra-santa:cesareia-maritima",
+      "slug": "cesareia-maritima",
+      "titulo": "Caesarea Maritima",
+      "categoria": "terra-santa",
+      "resumo": "Port city built by Herod the Great, the Roman administrative capital of Judea, where the Apostle Paul was held prisoner for two years before appealing to Caesar.",
+      "corpo": "Built by Herod the Great between 25 and 13 B.C., with an artificial harbor then considered one of the greatest feats of maritime engineering in the ancient world, Caesarea Maritima became the administrative capital of the Roman province of Judea and the seat of the Roman procurators and governors, among them Pontius Pilate, whose name was found inscribed on a stone discovered in the city's theater.\n\nThe city plays a prominent role in the Acts of the Apostles: the centurion Cornelius, the first Gentile baptized by Peter (Acts 10), lived there, and it was there that the Apostle Paul, arrested after the riots in Jerusalem, was held for two years before the procurators Felix and Festus, as well as King Herod Agrippa II, before exercising his right as a Roman citizen and appealing to Caesar, sailing from Caesarea for Rome (Acts 23–27). Today a national archaeological park, the site preserves ruins of the harbor, the Roman theater, the hippodrome, and later Byzantine and Crusader structures.",
+      "tags": [
+        "Paul of Tarsus",
+        "Roman Empire",
+        "Acts of the Apostles"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Mediterranean coast, between Haifa and Tel Aviv",
+      "pais": "Israel",
+      "tipo_local": "port city",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Cesareia_Mar%C3%ADtima",
+        "https://umpouquinhodecadalugar.com/asia/cesareia-maritima-a-capital-romana-da-judeia/"
+      ]
+    },
+    {
+      "id": "terra-santa:jope-jafa",
+      "slug": "jope-jafa",
+      "titulo": "Joppa (Jaffa)",
+      "categoria": "terra-santa",
+      "resumo": "Ancient Mediterranean port where the Apostle Peter raised Tabitha from the dead and, while praying on the roof of Simon's house, received the vision that opened the preaching of the Gospel to the Gentiles.",
+      "corpo": "Joppa, today the Jaffa district of Tel Aviv, is one of the oldest ports of the Mediterranean and the setting of two central episodes in the Acts of the Apostles. In the first (Acts 9:36-42), Peter is summoned to the city to the body of Tabitha (Dorcas), a disciple known for her good works among widows and the poor, and raises her to life — the first miracle of resurrection attributed to an apostle in the New Testament.\n\nIt was while staying at the house of Simon the tanner, by the sea in Joppa, that Peter had the vision of a great sheet coming down from heaven with clean and unclean animals, and three times heard the command “What God has made clean, you must not call common” (Acts 10:9-16) — a revelation that prepared him to welcome the Gentile centurion Cornelius and opened the way for the preaching of the Gospel beyond the Jewish people. The traditional “House of Simon the Tanner” is still pointed out to pilgrims today in the old quarter of Jaffa.",
+      "tags": [
+        "Apostle Peter",
+        "Acts of the Apostles",
+        "evangelization of the Gentiles"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Tel Aviv-Jaffa",
+      "pais": "Israel",
+      "tipo_local": "port city",
+      "fontes": [
+        "https://terrasantaviagens.com.br/destinos/israel/jope-jafa/",
+        "https://www.abiblia.org/ver.php?id=8280"
+      ]
+    },
+    {
+      "id": "terra-santa:poco-de-jaco",
+      "slug": "poco-de-jaco",
+      "titulo": "Jacob's Well",
+      "categoria": "terra-santa",
+      "resumo": "Well near Shechem where, according to the Gospel of John, Jesus spoke with the Samaritan woman and revealed himself as the Messiah.",
+      "corpo": "Jacob's Well, located near the ancient city of Shechem — today's Nablus, in the West Bank —, has been identified by tradition since the fourth century as the place described in John 4: there, weary from the journey, Jesus asked a Samaritan woman for water and entered into a conversation with her that culminated in the revelation of his messianic identity and in the conversion of many Samaritans of that city. In the Eastern Orthodox tradition, this woman is venerated as a saint under the name Photina.\n\nAs early as the year 384, a cruciform church stood over the well, rebuilt by the Emperor Justinian in the Byzantine period. Today the well is located in the crypt of a modern Greek Orthodox church, built on the site after the property was acquired by the Patriarchate of Jerusalem in the late nineteenth century, and it continues to be visited by pilgrims who collect water there from the same well mentioned in the Gospel.",
+      "tags": [
+        "Samaritan woman",
+        "Gospel of John",
+        "West Bank"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Nablus (Shechem)",
+      "pais": "West Bank (Palestine)",
+      "tipo_local": "biblical well",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Po%C3%A7o_de_Jac%C3%B3"
+      ]
+    },
+    {
+      "id": "terra-santa:monte-nebo",
+      "slug": "monte-nebo",
+      "titulo": "Mount Nebo",
+      "categoria": "terra-santa",
+      "resumo": "A peak in present-day Jordan from which, according to the Book of Deuteronomy, Moses beheld the Promised Land before dying without entering it.",
+      "corpo": "According to the biblical account in Deuteronomy 34, God led Moses to the summit of Mount Nebo, opposite Jericho, so that he might behold the whole extent of the Promised Land before dying, though without permitting him to cross the Jordan and enter it. From the top of the mountain, at an elevation of about 700 meters and 9 km from Madaba, one can see on clear days the Jordan Valley, the Dead Sea, Jericho and, in the distance, the hills of Jerusalem.\n\nFrom the earliest centuries of Christianity the site became a destination for pilgrimage, and on the summit stood, from the Byzantine period, a monastery with a memorial church dedicated to Moses, now rebuilt on the original foundations and preserving mosaics from the 6th and 7th centuries. Pope John Paul II visited Mount Nebo in 2000, during his Jubilee pilgrimage to the Holy Land, and Benedict XVI and Francis did the same on their respective visits to Jordan.",
+      "tags": [
+        "Moses",
+        "Old Testament",
+        "Jordan"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "near Madaba",
+      "pais": "Jordan",
+      "tipo_local": "monte",
+      "fontes": [
+        "https://madainproject.com/memorial_church_of_moses_(mount_nebo)",
+        "https://www.beinharimtours.com/mount-nebo-jordan/"
+      ]
+    },
+    {
+      "id": "terra-santa:caverna-dos-patriarcas-hebron",
+      "slug": "caverna-dos-patriarcas-hebron",
+      "titulo": "Cave of the Patriarchs",
+      "categoria": "terra-santa",
+      "resumo": "Sacred enclosure built by Herod the Great over the Cave of Machpelah, where biblical tradition places the burial of Abraham, Sarah and other patriarchs.",
+      "corpo": "According to Genesis 23, Abraham bought the Cave of Machpelah in Hebron from the Hittites as a burial place for his wife Sarah, and he himself was later buried there, as were Isaac, Rebekah, Jacob and Leah — the oldest site acquired and recognized as property by the people of Israel in the Bible. The monumental enclosure that now surrounds the caves, built of enormous limestone blocks by Herod the Great in the first century B.C., echoes in its building technique the Temple Mount in Jerusalem.\n\nRevered as a holy place by Jews, Christians and Muslims, the site was converted into a mosque after the Muslim conquest of the region, receiving the name Ibrahimi Mosque (Abraham), and to this day it is divided between spaces for Jewish and Islamic worship. A scene of tensions and episodes of violence throughout recent history, the sanctuary remains, for the Christian tradition, one of the places most directly linked to the origins of the faith in the one God professed by Abraham.",
+      "tags": [
+        "Abraham",
+        "Old Testament",
+        "West Bank"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Hebron",
+      "pais": "West Bank (Palestine)",
+      "tipo_local": "tomb / shrine",
+      "fontes": [
+        "https://pt.sacredsites.com/M%C3%A9dio-Oriente/Israel/hebron.html",
+        "https://www.universalidadedabiblia.com.br/as-tumbas-dos-patriarcas/"
+      ]
+    },
+    {
+      "id": "terra-santa:campo-dos-pastores",
+      "slug": "campo-dos-pastores",
+      "titulo": "Shepherds' Field",
+      "categoria": "terra-santa",
+      "resumo": "A field near Bethlehem where, according to the Gospel of Luke, an angel announced the birth of Jesus to the shepherds.",
+      "corpo": "On the outskirts of Bethlehem, in the town of Beit Sahour, tradition locates the field where shepherds were keeping watch over their flocks by night when, according to Luke 2:8-20, an angel of the Lord appeared to them announcing the birth of the Savior, followed by a multitude of angels singing “Glory to God in the highest, and on earth peace to men of good will.” Moved by the announcement, the shepherds went to Bethlehem and were the first to adore the Child in the manger.\n\nBetween 1953 and 1954, the Custody of the Holy Land built on the site the Sanctuary of the “Gloria in Excelsis Deo,” designed with a decagonal plan and sloping walls to evoke a nomadic tent, over the archaeological ruins of earlier Byzantine structures associated with the episode. Beside the ruins of a neighboring shepherds' cave, Franciscans and Orthodox each maintain their own place of worship, and the Shepherds' Field remains a traditional stop for pilgrims visiting Bethlehem, especially at Christmastime.",
+      "tags": [
+        "Nativity",
+        "Bethlehem",
+        "angels"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Beit Sahour, near Bethlehem",
+      "pais": "Palestine (West Bank)",
+      "tipo_local": "biblical site",
+      "fontes": [
+        "https://www.custodia.org/en/sanctuaries/bethlehem-the-shepherds-field-and-grotto/",
+        "https://www.custodia.org/en/news/beit-sahour-place-angels-annunciation-shepherds/"
+      ]
+    },
+    {
+      "id": "terra-santa:seforis",
+      "slug": "seforis",
+      "titulo": "Sepphoris",
+      "categoria": "terra-santa",
+      "resumo": "Ancient Roman city of Galilee near Nazareth, identified by Christian tradition as the birthplace of Saint Anne, mother of the Virgin Mary.",
+      "corpo": "Located about ten kilometers northwest of Nazareth, Sepphoris (Tzipori, in Hebrew) was, from the middle of the first century, the administrative capital of Galilee under Roman rule, known for the coexistence of Jewish, pagan and, later, Christian populations — which earned it the nickname “the ornament of Galilee.” Archaeological excavations have revealed an extensive Roman urban layout, with colonnades, a sophisticated hydraulic system, an amphitheater attributed to Herod Antipas and rich mosaics, among them the famous portrait known as the “Mona Lisa of Galilee.”\n\nAlthough not mentioned in the Gospels, Sepphoris is associated by an ancient Christian tradition, attested by the remains of a three-aisled church from the Crusader period, with the birthplace of Saint Anne, mother of the Virgin Mary — and, by extension, with Mary's childhood before her life in Nazareth. Because of the proximity and the routes that linked the two towns, scholars also consider it plausible that Jesus, raised as a carpenter in Nazareth, worked on building projects in the then-flourishing neighboring city.",
+      "tags": [
+        "Galilee",
+        "Saint Anne",
+        "biblical archaeology"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "near Nazareth, in Galilee",
+      "pais": "Israel",
+      "tipo_local": "historic city",
+      "fontes": [
+        "https://blog.cancaonova.com/terrasanta/2018/09/21/seforis-cidade-da-mae-de-maria/",
+        "http://portal.metodista.br/arqueologia/artigos/2012/israel-seforis"
+      ]
+    }
+  ]
+}
