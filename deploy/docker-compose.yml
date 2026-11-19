@@ -1,5 +1,7 @@
 services:
   api:
+    # Nome fixo: na VPS Micro a imagem chega pronta (Acervo-Cat-lico-Web/deploy/publicar.sh).
+    image: acervo-catolico-api:latest
     build:
       context: ..
       dockerfile: Dockerfile
