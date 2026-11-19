@@ -20,3 +20,9 @@ deploy/.env
 # commitadas: são screenshots/memes de produções com direitos autorais
 # (The Chosen etc.), não conteúdo nosso. Ver marketing/instagram/README.md.
 /img_insta/
+
+# Mapas dos lotes de tradução (scripts/traduzir_acervo.py) e as traduções de teste.
+/.traducao/
+
+# mutmut (testes mutantes)
+/mutants/

@@ -17,3 +17,13 @@ addopts = "--cov=app --cov-report=term-missing"
 
 [tool.coverage.report]
 fail_under = 70
+# Testes mutantes (make mutation): mutmut muda as regras de app/domain e confere se
+# os testes percebem. O Makefile desliga a cobertura nessa hora: com as trocas do
+# mutmut ela não fecha os 70% e a rodada de controle falharia.
+[tool.mutmut]
+paths_to_mutate = ["app/domain/"]
+# A cópia do mutmut só traz app/domain (mutado). O resto do app, os dados e os
+# scripts vão por aqui; app/ inteiro não, porque sobrescreveria o código mutado.
+# Rode pelo executável `mutmut` (make mutation), não `python -m mutmut`: com o -m,
+# os testes importam o app original e a rodada de controle falha.
+also_copy = ["app/application", "app/core", "app/data", "app/infrastructure", "app/interface", "app/__init__.py", "app/image_assets.py", "app/main.py", "app/models.py", "scripts/"]

@@ -88,7 +88,7 @@ def current_streak(active_days: Iterable[date], today: date) -> int:
 
 def longest_streak(active_days: Iterable[date]) -> int:
     best = run = 0
-    previous: date | None = None
+    previous: date | None = None  # pragma: no mutate (anotação, não roda)
     for day in sorted(set(active_days)):
         run = run + 1 if previous is not None and day - previous == timedelta(days=1) else 1
         best = max(best, run)

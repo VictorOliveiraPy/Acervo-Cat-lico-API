@@ -27,5 +27,6 @@ pytest-cov==6.0.0
 # são os primeiros `async def test_...` do projeto, e precisam do plugin de
 # verdade instalado, não só da configuração.
 pytest-asyncio==1.4.0
+mutmut==3.2.3
 ruff==0.8.4
 mypy==1.14.0

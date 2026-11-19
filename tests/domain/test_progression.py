@@ -85,3 +85,29 @@ def test_should_multiply_points_by_streak(streak: int, multiplier: float) -> Non
 def test_should_round_bonus_points_down() -> None:
     assert points_with_bonus(15, 1.5) == 22
     assert points_with_bonus(50, 2.0) == 100
+
+
+def _first_points_of(level: int) -> int:
+    """Menor pontuação que já está no nível, achada pela própria `level_info`."""
+    low, high = 0, 10**9
+    while low < high:
+        middle = (low + high) // 2
+        if level_info(middle).level >= level:
+            high = middle
+        else:
+            low = middle + 1
+    return low
+
+
+@pytest.mark.parametrize(
+    ("last_level", "stage_before", "stage_after"),
+    [(10, 1, 2), (25, 2, 3), (50, 3, 4)],
+)
+def test_should_change_the_saint_stage_exactly_after_levels_10_25_and_50(
+    last_level: int, stage_before: int, stage_after: int
+) -> None:
+    first_of_next = _first_points_of(last_level + 1)
+    before = level_info(first_of_next - 1)
+    after = level_info(first_of_next)
+    assert (before.level, before.stage) == (last_level, stage_before)
+    assert (after.level, after.stage) == (last_level + 1, stage_after)

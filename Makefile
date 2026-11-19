@@ -4,7 +4,7 @@
 
 PYTHON := .venv/Scripts/python.exe
 
-.PHONY: help venv install run lint typecheck test indexar sincronizar-imagens atualizacoes clean
+.PHONY: help venv install run lint typecheck test mutation indexar sincronizar-imagens atualizacoes clean
 
 help:
 	@echo "Setup"
@@ -18,6 +18,7 @@ help:
 	@echo "  make lint                  ruff check app tests"
 	@echo "  make typecheck             mypy app"
 	@echo "  make test                  pytest -q --cov (fail_under=70)"
+	@echo "  make mutation              mutmut em app/domain (testes mutantes)"
 	@echo ""
 	@echo "Scripts utilitários (precisam de DATABASE_URL/VOYAGE_API_KEY etc no .env)"
 	@echo "  make indexar               scripts/indexar_acervo.py - popula o índice do chatbot"
@@ -43,6 +44,9 @@ typecheck:
 
 test:
 	$(PYTHON) -m pytest -q --cov
+
+mutation:
+	PYTEST_ADDOPTS=--no-cov .venv/bin/mutmut run; .venv/bin/mutmut results
 
 indexar:
 	$(PYTHON) -m scripts.indexar_acervo
