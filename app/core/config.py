@@ -63,6 +63,16 @@ class Settings(BaseSettings):
     # que atesta quem está logado. Sem ele, /api/perfil responde 503.
     internal_api_secret: str | None = None
 
+    # Estúdio de vídeos: o gerador (no computador de quem administra) entra com este
+    # token; sem ele, /api/estudio responde 503. A chave do R2 fica só aqui na API,
+    # que entrega ao gerador e ao painel links de envio que valem alguns minutos.
+    estudio_token: str | None = None
+    r2_account_id: str | None = None
+    r2_bucket: str | None = None
+    r2_access_key_id: str | None = None
+    r2_secret_access_key: str | None = None
+    r2_public_base_url: str = "https://img.compendio-catolico.com"
+
     # Chatbot do acervo (RAG, `/api/chat`) — feature opcional como o mural de
     # velas: sem as duas chaves de API abaixo (ou sem `DATABASE_URL`, que
     # guarda os embeddings), o endpoint responde 503 em vez de derrubar a

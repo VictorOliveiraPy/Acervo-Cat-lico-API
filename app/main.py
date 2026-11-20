@@ -40,6 +40,13 @@ from app.infrastructure.liturgy.postgres_repository import (
 )
 from app.infrastructure.metrics.postgres_repository import PostgresMetricsRepository
 from app.infrastructure.profiles.postgres_repository import PostgresProfileRepository
+from app.infrastructure.studio.postgres_repository import (
+    PostgresReelRepository,
+    PostgresVideoRequestRepository,
+)
+from app.infrastructure.studio.postgres_repository import (
+    create_schema as create_studio_schema,
+)
 from app.interface.acervo.i18n_router import router as i18n_router
 from app.interface.acervo.router import router
 from app.interface.candles.router import router as candles_router
@@ -49,6 +56,7 @@ from app.interface.liturgy.router import default_liturgy_gateway
 from app.interface.liturgy.router import router as liturgy_router
 from app.interface.metrics.router import router as metrics_router
 from app.interface.profiles.router import router as profiles_router
+from app.interface.studio.router import router as studio_router
 
 logging.basicConfig(
     level=logging.DEBUG if settings.debug else logging.INFO,
@@ -109,6 +117,20 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
             logger.exception("Falha ao preparar a tabela de métricas")
             app.state.metrics_repository = None
 
+        # Estúdio de vídeos (reels e pedidos): mesmo pool.
+        try:
+            if pool is not None:
+                await create_studio_schema(pool)
+                app.state.reel_repository = PostgresReelRepository(pool)
+                app.state.video_request_repository = PostgresVideoRequestRepository(pool)
+            else:
+                app.state.reel_repository = None
+                app.state.video_request_repository = None
+        except Exception:
+            logger.exception("Falha ao preparar as tabelas do estúdio")
+            app.state.reel_repository = None
+            app.state.video_request_repository = None
+
         # Chatbot (RAG): além do banco, precisa das duas chaves de API — sem
         # qualquer uma das três, fica desativado (503), não derruba a API.
         if pool is not None and settings.deepseek_api_key and settings.voyage_api_key:
@@ -127,6 +149,8 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
         app.state.rag_repository = None
         app.state.profile_repository = None
         app.state.metrics_repository = None
+        app.state.reel_repository = None
+        app.state.video_request_repository = None
         logger.info("DATABASE_URL não configurada — mural de velas, liturgia diária e chatbot desativados")
 
     logger.info(
@@ -219,5 +243,6 @@ app.include_router(liturgy_router)
 app.include_router(chat_router)
 app.include_router(profiles_router)
 app.include_router(metrics_router)
+app.include_router(studio_router)
 app.include_router(router)
 app.include_router(i18n_router)
