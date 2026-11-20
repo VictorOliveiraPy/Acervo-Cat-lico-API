@@ -38,6 +38,7 @@ from app.infrastructure.chat.postgres_repository import PostgresRagRepository
 from app.infrastructure.liturgy.postgres_repository import (
     PostgresDailyLiturgyRepository,
 )
+from app.infrastructure.metrics.postgres_repository import PostgresMetricsRepository
 from app.infrastructure.profiles.postgres_repository import PostgresProfileRepository
 from app.interface.acervo.i18n_router import router as i18n_router
 from app.interface.acervo.router import router
@@ -46,6 +47,7 @@ from app.interface.chat.router import router as chat_router
 from app.interface.exception_handlers import register_exception_handlers
 from app.interface.liturgy.router import default_liturgy_gateway
 from app.interface.liturgy.router import router as liturgy_router
+from app.interface.metrics.router import router as metrics_router
 from app.interface.profiles.router import router as profiles_router
 
 logging.basicConfig(
@@ -96,6 +98,17 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
             logger.exception("Falha ao preparar as tabelas de perfis")
             app.state.profile_repository = None
 
+        # Métricas de visitas: mesmo pool; sem o banco, a gravação só é ignorada.
+        try:
+            if pool is not None:
+                await PostgresMetricsRepository.create_schema(pool)
+                app.state.metrics_repository = PostgresMetricsRepository(pool)
+            else:
+                app.state.metrics_repository = None
+        except Exception:
+            logger.exception("Falha ao preparar a tabela de métricas")
+            app.state.metrics_repository = None
+
         # Chatbot (RAG): além do banco, precisa das duas chaves de API — sem
         # qualquer uma das três, fica desativado (503), não derruba a API.
         if pool is not None and settings.deepseek_api_key and settings.voyage_api_key:
@@ -113,6 +126,7 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
         app.state.liturgy_repository = None
         app.state.rag_repository = None
         app.state.profile_repository = None
+        app.state.metrics_repository = None
         logger.info("DATABASE_URL não configurada — mural de velas, liturgia diária e chatbot desativados")
 
     logger.info(
@@ -204,5 +218,6 @@ app.include_router(candles_router)
 app.include_router(liturgy_router)
 app.include_router(chat_router)
 app.include_router(profiles_router)
+app.include_router(metrics_router)
 app.include_router(router)
 app.include_router(i18n_router)
