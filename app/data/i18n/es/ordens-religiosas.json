@@ -1,0 +1,645 @@
+{
+  "_meta": {
+    "categoria": "ordens-religiosas",
+    "nome": "Ordens Religiosas",
+    "descricao": "Ordens, congregações e institutos de vida consagrada católicos: fundador, origem e carisma de cada um.",
+    "status": "exemplos-iniciais",
+    "aviso": "No es una lista completa de las miles de órdenes y congregaciones católicas existentes; abarca algunas de las más numerosas e históricamente influyentes.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Catecismo de la Iglesia Católica, nn. 914-933 (vida consagrada)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "ordens-religiosas:beneditinos",
+      "slug": "beneditinos",
+      "titulo": "Benedictinos (Orden de San Benito)",
+      "categoria": "ordens-religiosas",
+      "resumo": "La orden monástica más antigua de Occidente, regida por la Regla de San Benito y por el lema \"ora et labora\".",
+      "corpo": "Fundada por San Benito de Nursia en Montecassino, la Orden de San Benito organiza la vida monástica en torno al equilibrio entre la oración litúrgica (el \"Oficio Divino\"), el trabajo manual e intelectual, y la lectura espiritual (\"lectio divina\"). Cada monasterio benedictino es autónomo, unido a las demás casas por una confederación, no por un gobierno central único como en órdenes posteriores. Fue decisiva en la preservación de la cultura clásica y cristiana durante la Alta Edad Media.",
+      "tags": [
+        "monacato",
+        "benedictinos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Fra_Angelico_031.jpg",
+      "imagem_credito": null,
+      "fundador": "San Benito de Nursia",
+      "ano_fundacao": "c. 529",
+      "carisma": "Vida monástica contemplativa en comunidad estable, equilibrio entre oración y trabajo",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:franciscanos",
+      "slug": "franciscanos",
+      "titulo": "Franciscanos (Orden de los Frailes Menores)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Orden mendicante fundada por San Francisco de Asís, marcada por la pobreza radical y el amor a la creación.",
+      "corpo": "Fundada por Francisco de Asís a comienzos del siglo XIII y aprobada por Inocencio III, la Orden de los Frailes Menores propone la pobreza evangélica radical —ni posesión individual ni comunitaria de bienes— y la itinerancia en la predicación, viviendo de la mendicidad y del trabajo. Hoy se divide en tres ramas principales (Frailes Menores, Capuchinos y Conventuales), además de la Orden de Santa Clara (femenina) y la Orden Tercera para laicos.",
+      "tags": [
+        "franciscanos",
+        "mendicantes"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bonaventura_Berlinghieri%2C_San_Francesco_e_storie_della_sua_vita%2C_1235%2C_01b.jpg",
+      "imagem_credito": "Foto: Sailko (2018) — Wikimedia Commons, CC BY-SA 4.0",
+      "fundador": "San Francisco de Asís",
+      "ano_fundacao": "1209",
+      "carisma": "Pobreza evangélica radical, fraternidad y amor a la creación",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:dominicanos",
+      "slug": "dominicanos",
+      "titulo": "Dominicos (Orden de Predicadores)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Orden mendicante fundada por santo Domingo de Guzmán, dedicada especialmente al estudio y a la predicación de la verdad.",
+      "corpo": "Fundada por Domingo de Guzmán para responder, mediante la predicación itinerante y el estudio teológico riguroso, al avance de herejías en el sur de Francia, la Orden de Predicadores se convirtió en uno de los mayores centros intelectuales de la Iglesia medieval — santo Tomás de Aquino y san Alberto Magno fueron dominicos. Su lema, \"contemplare et contemplata aliis tradere\" (contemplar y transmitir a los demás el fruto de la contemplación), resume su carisma.",
+      "tags": [
+        "dominicos",
+        "mendicantes"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/38/SaintDominic.jpg",
+      "imagem_credito": null,
+      "fundador": "santo Domingo de Guzmán",
+      "ano_fundacao": "1216",
+      "carisma": "Estudio, contemplación y predicación de la verdad",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:jesuitas",
+      "slug": "jesuitas",
+      "titulo": "Jesuitas (Compañía de Jesús)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Orden fundada por San Ignacio de Loyola, marcada por la obediencia al Papa, la formación intelectual y la misión.",
+      "corpo": "Fundada por Ignacio de Loyola y compañeros, aprobada por Paulo III en 1540, la Compañía de Jesús añade a los votos religiosos tradicionales un cuarto voto de obediencia especial al Papa en lo referente a las misiones. Tuvo un papel decisivo en la Contrarreforma, en la educación (fundando colegios por toda Europa y en el mundo colonial) y en las misiones — incluido Brasil, con José de Anchieta y Manuel da Nóbrega. Fue suprimida en 1773 y restaurada en 1814.",
+      "tags": [
+        "jesuitas",
+        "misiones",
+        "educación"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/15/St_Ignatius_of_Loyola_%281491-1556%29_Founder_of_the_Jesuits.jpg",
+      "imagem_credito": null,
+      "fundador": "San Ignacio de Loyola",
+      "ano_fundacao": "1540",
+      "carisma": "Obediencia al Papa, discernimiento espiritual (Ejercicios Espirituales) y misión",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:carmelitas",
+      "slug": "carmelitas",
+      "titulo": "Carmelitas",
+      "categoria": "ordens-religiosas",
+      "resumo": "Orden de origen eremítico en el Monte Carmelo, reformada en el siglo XVI por Santa Teresa de Ávila y San Juan de la Cruz.",
+      "corpo": "De origen eremítico ligado al Monte Carmelo, en Tierra Santa, la Orden del Carmen se organizó en Europa a partir del siglo XIII. En el siglo XVI, Teresa de Ávila y Juan de la Cruz promovieron una reforma que dio origen a la rama de los \"descalzos\", de vida más austera y contemplativa, junto a los \"carmelitas de la antigua observancia\". Es la orden de origen de Santa Teresita de Lisieux y de Santa Teresa Benedicta de la Cruz (Edith Stein).",
+      "tags": [
+        "carmelitas",
+        "mística"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Zurbar%C3%A1n_%28atribuido%29-John_of_the_Cross-1656.jpg",
+      "imagem_credito": null,
+      "fundador": "Origen eremítico; reforma por Santa Teresa de Ávila y San Juan de la Cruz",
+      "ano_fundacao": "c. siglo XII (origen); 1562 (reforma teresiana)",
+      "carisma": "Vida contemplativa, oración mental y devoción mariana",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:redentoristas",
+      "slug": "redentoristas",
+      "titulo": "Redentoristas (Congregación del Santísimo Redentor)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Congregación fundada por San Alfonso María de Ligorio, dedicada a la evangelización de los más abandonados, sobre todo en el medio rural.",
+      "corpo": "Fundada por Alfonso María de Ligorio en el Reino de Nápoles, se dedicó desde el inicio a la evangelización popular de los más pobres y espiritualmente abandonados, especialmente en zonas rurales carentes de atención pastoral regular. Es también responsable, desde 1866, de la custodia y difusión de la devoción a Nuestra Señora del Perpetuo Socorro.",
+      "tags": [
+        "redentoristas",
+        "misiones populares"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/St_Alphonsus_Liguori.jpg",
+      "imagem_credito": null,
+      "fundador": "San Alfonso María de Ligorio",
+      "ano_fundacao": "1732",
+      "carisma": "Evangelización de los más abandonados, especialmente en el medio popular y rural",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:salesianos",
+      "slug": "salesianos",
+      "titulo": "Salesianos (Sociedad de San Francisco de Sales)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Congregación fundada por San Juan Bosco, dedicada a la educación y evangelización de los jóvenes, sobre todo los más pobres.",
+      "corpo": "Fundada por Juan Bosco en Turín para atender a jóvenes pobres y en riesgo social de la revolución industrial, la congregación salesiana desarrolló un método educativo propio —el \"sistema preventivo\", basado en la razón, la religión y la amabilidad, en lugar de la represión— hoy aplicado en escuelas, oratorios y obras sociales salesianas en todo el mundo, incluyendo una extensa presencia en Brasil.",
+      "tags": [
+        "salesianos",
+        "educación",
+        "juventud"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Don_Bosco_%40_Torino%2C_1880_%28original%29.jpg",
+      "imagem_credito": null,
+      "fundador": "San Juan Bosco",
+      "ano_fundacao": "1859",
+      "carisma": "Educación y evangelización de los jóvenes, sobre todo los más pobres",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:missionarias-da-caridade",
+      "slug": "missionarias-da-caridade",
+      "titulo": "Misioneras de la Caridad",
+      "resumo": "Congregación fundada por Santa Teresa de Calcuta (1950), dedicada al cuidado de los \"más pobres entre los pobres\" y marcada por un cuarto voto de servicio gratuito e integral.",
+      "corpo": "Las Misioneras de la Caridad fueron fundadas por Santa Teresa de Calcuta (nacida Agnes Gonxha Bojaxhiu, 1910-1997) y oficialmente erigidas el 7 de octubre de 1950, como congregación diocesana de la Archidiócesis de Calcuta, en la India. Madre Teresa, religiosa de origen albanés que había sido maestra en la comunidad de las Hermanas de Loreto, obtuvo el 12 de agosto de 1949, de Pío XII, el permiso para dejar aquella congregación y quedar bajo la jurisdicción del Arzobispo de Calcuta; al año siguiente, recibió autorización para fundar la nueva comunidad. La obra comenzó como un pequeño grupo de doce miembros en Calcuta.\n\nLa misión de la congregación es servir, en palabras de Madre Teresa, a \"los más pobres entre los pobres\": los hambrientos, los desnudos, los sin techo, los lisiados, los ciegos, los enfermos de lepra y todos aquellos que se sienten indeseados, no amados y rechazados por la sociedad. La primera casa abierta por Madre Teresa fue el Nirmal Hriday (\"Corazón Puro\"), un hogar para moribundos en el barrio de Kalighat, en Calcuta, todavía hoy en actividad. A los tres votos tradicionales (castidad, pobreza y obediencia), las hermanas añaden un cuarto voto: el de ofrecer \"servicio gratuito y de todo corazón a los más pobres entre los pobres\". La congregación mantiene una rama contemplativa y una rama activa.\n\nLa expansión fuera de la India fue autorizada por Pablo VI, que el 1 de febrero de 1965 concedió a la congregación el \"Decretum Laudis\", elevándola a la condición de instituto de derecho pontificio. La primera casa fuera de la India se abrió en Venezuela; en 1968, el propio Pablo VI invitó a Madre Teresa a abrir una casa en Roma. Las hermanas dirigen orfanatos, hogares para enfermos de SIDA y casas de acogida en todo el mundo.\n\nLas cifras dan la medida de la expansión: en 2015 la congregación contaba con unas 5.150 hermanas en 758 casas, distribuidas en 120 países; en 2023, unas 5.750 hermanas servían en 139 países y 760 casas, de las cuales 244 en la India. Junto a las Misioneras de la Caridad surgieron ramas afines, como los Hermanos Misioneros de la Caridad, fundados en 1963 en Australia, y los Colaboradores de Madre Teresa, aprobados en 1969.\n\nLa obra de Madre Teresa —que recibió el Premio Nobel de la Paz en 1979 y fue canonizada por Francisco el 4 de septiembre de 2016— también es objeto de controversia. Exmisioneras relataron, en testimonios públicos, una cultura interna de abusos y negligencia, y estudiosos y medios de comunicación han cuestionado la calidad de la atención médica ofrecida en las casas, sobre todo la opción de no ofrecer a los moribundos tratamientos paliativos más intensivos. La congregación, de fuerte autonomía local, sostiene que su misión es principalmente espiritual y que se distingue por vivir la pobreza junto a los asistidos.",
+      "categoria": "ordens-religiosas",
+      "tags": [
+        "Misioneras de la Caridad",
+        "Madre Teresa de Calcuta",
+        "caridad",
+        "pobres",
+        "Calcuta",
+        "siglo XX",
+        "Nirmal Hriday"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Mother_Teresa_1.jpg",
+      "imagem_credito": "Foto: Kingkongphoto & www.celebrity-photos.com — Wikimedia Commons, CC BY-SA 2.0",
+      "fontes": [
+        "Missionaries of Charity – Wikipedia (en inglés): erección el 7 de octubre de 1950; Decretum Laudis de 1965; cuarto voto; cifras de 2023",
+        "Agencia ECCLESIA, \"Madre Teresa, 12 años después\" (Decretum Laudis, 1 de febrero de 1965)",
+        "Diócesis de Piracicaba, \"Samaritana de la Misericordia: Madre Teresa y los Papas\" (disolución de las Hermanas de Loreto, 1949; casa de Roma, 1968)",
+        "Instituto Humanitas Unisinos, \"Exmisioneras de la Caridad alegan cultura de abuso y negligencia\" (2023)"
+      ],
+      "atualizado_em": null,
+      "fundador": "Santa Teresa de Calcuta",
+      "ano_fundacao": "1950",
+      "carisma": "Servicio gratuito e integral a los más pobres entre los pobres"
+    },
+    {
+      "id": "ordens-religiosas:agostinianos",
+      "slug": "agostinianos",
+      "titulo": "Agustinos (Orden de San Agustín)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Orden mendicante que sigue la Regla atribuida a San Agustín, uniendo vida comunitaria, estudio y apostolado.",
+      "corpo": "Formada en el siglo XIII por la reunión de varios grupos eremíticos bajo la Regla atribuida a San Agustín de Hipona, la Orden de San Agustín combina la vida comunitaria fraterna, el estudio y diversas formas de apostolado. Martín Lutero fue fraile agustino antes de la ruptura de la Reforma; más recientemente, el Papa León XIV pertenece a esta orden.",
+      "tags": [
+        "agustinos",
+        "mendicantes"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg",
+      "imagem_credito": null,
+      "fundador": "Reunión de grupos eremíticos bajo la Regla de San Agustín",
+      "ano_fundacao": "1244",
+      "carisma": "Vida comunitaria fraterna, estudio y apostolado diversificado",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:clarissas",
+      "slug": "clarissas",
+      "titulo": "Clarisas (Orden de Santa Clara)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Rama femenina contemplativa de la tradición franciscana, fundada por Santa Clara de Asís.",
+      "corpo": "Fundada por Clara de Asís, discípula de Francisco, como la rama femenina contemplativa de la tradición franciscana, dedicada a la vida de clausura, la pobreza radical y la oración. Clara resistió durante décadas las presiones para que la orden aceptara rentas y propiedades, defendiendo el \"privilegio de la pobreza\" como identidad central de su carisma.",
+      "tags": [
+        "clarisas",
+        "franciscanos",
+        "vida contemplativa"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Simone_Martini_047.jpg",
+      "imagem_credito": null,
+      "fundador": "Santa Clara de Asís",
+      "ano_fundacao": "1212",
+      "carisma": "Pobreza radical y vida contemplativa de clausura",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:combonianos",
+      "slug": "combonianos",
+      "titulo": "Combonianos (Misioneros Combonianos del Corazón de Jesús)",
+      "resumo": "Instituto misionero fundado por San Daniel Comboni en Verona (1867), dedicado a la evangelización de África Central según el principio de \"salvar a África con África\".",
+      "corpo": "Los Misioneros Combonianos del Corazón de Jesús (MCCJ) tienen su origen en el \"Instituto para las Misiones Africanas\", fundado por San Daniel Comboni (1831-1881) en Verona, el 1 de junio de 1867. Nacido en Limone sul Garda, en una familia humilde de agricultores, Comboni fue ordenado sacerdote en 1854 y, tras una primera experiencia misionera en África Central (Sudán), se dedicó a la animación misionera por toda Europa para sostener las misiones africanas. El instituto nació como obra diocesana, formada por sacerdotes y hermanos de diversas nacionalidades que no hacían votos religiosos, sino que se comprometían mediante juramento de pertenencia y lealtad al instituto y a la misión; las primeras reglas datan de 1871.\n\nLa idea que guio toda la obra de Comboni es el \"Plan para la regeneración de África\", concebido —según la tradición del propio instituto— el 14 de septiembre de 1864, mientras rezaba junto a la tumba de San Pedro, durante el triduo preparatorio para la beatificación de Margarita María Alacoque. El Plan, resumido en el lema \"Salvar a África con África\" (o Nigrizia o muerte era el lema personal de Comboni), proponía preparar sacerdotes y misioneros africanos en la propia África, en ambiente africano, corrigiendo la convicción de que los europeos no resistían el clima y de que los africanos llevados a Europa se \"corrompían\" con la comodidad. Comboni presentó el proyecto a la Iglesia mediante un Postulado fechado el 24 de junio de 1870, firmado por setenta padres conciliares e incluido en la agenda del Concilio Vaticano I; el texto, sin embargo, nunca llegó a discutirse, pues el Concilio fue interrumpido por la toma de Roma.\n\nAdemás de la rama masculina, Comboni fundó el 1 de enero de 1872, también en Verona, el instituto femenino de las Hermanas Misioneras Combonianas, entonces llamadas \"Pie Madri della Nigrizia\" (Pías Madres de la Nigricia) — el primer instituto misionero femenino de Italia. Comboni concibió a las hermanas como participantes plenas de la misión en África Central, algo poco común para la época. En 1872 fue nombrado pro-vicario y, el 31 de julio de 1877, obispo y Vicario Apostólico de África Central (sede titular de Claudiópolis, en Isauria), recibiendo la consagración episcopal el 12 de agosto de 1877. Murió en Jartum, Sudán, el 10 de octubre de 1881, consumido por el cansancio.\n\nComboni fue beatificado por Juan Pablo II el 17 de marzo de 1996 y canonizado por el mismo pontífice el 5 de octubre de 2003; su fiesta litúrgica es el 10 de octubre. El milagro reconocido para la canonización fue la curación de la madre sudanesa Lubna Abdel Aziz, ocurrida el 11 de noviembre de 1997 en una maternidad de Jartum administrada por las Hermanas Combonianas. Hoy la familia comboniana reúne cerca de tres mil misioneros y misioneras; los combonianos están presentes en decenas de países de cuatro continentes, sobre todo en África, fieles al carisma de la evangelización y la defensa de la dignidad humana.",
+      "categoria": "ordens-religiosas",
+      "tags": [
+        "combonianos",
+        "misiones",
+        "África",
+        "Daniel Comboni",
+        "Verona",
+        "siglo XIX",
+        "Concilio Vaticano I"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Daniele_Comboni.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Historia del Instituto – Misioneros Combonianos (combonianos.org.br/historia-do-instituto)",
+        "Vaticano, biografía de Daniel Comboni para la canonización (vatican.va, 5 de octubre de 2003)",
+        "Entrada \"Daniel Comboni\" en la Wikipedia en portugués (concilio Vaticano I, Plan de 1864, canonización)",
+        "Hermanas Misioneras Combonianas (comboni.org/pt/contenuti/108014)"
+      ],
+      "atualizado_em": null,
+      "fundador": "San Daniele Comboni",
+      "ano_fundacao": "1867",
+      "carisma": "Evangelización de África con clero y religiosos nativos"
+    },
+    {
+      "id": "ordens-religiosas:opus-dei",
+      "slug": "opus-dei",
+      "titulo": "Opus Dei",
+      "categoria": "ordens-religiosas",
+      "resumo": "Prelatura personal fundada por San Josemaría Escrivá, que propone la búsqueda de la santidad en medio del trabajo y de la vida ordinaria secular.",
+      "corpo": "Fundada por el sacerdote español Josemaría Escrivá, el Opus Dei (\"obra de Dios\") no es una orden religiosa, sino una prelatura personal — estructura jurídica propia dentro de la Iglesia —, compuesta mayoritariamente por laicos, que propone la santificación del trabajo profesional y de las ocupaciones comunes de la vida secular como camino ordinario de santidad, sin exigir la vida religiosa clásica.",
+      "tags": [
+        "Opus Dei",
+        "laicos",
+        "santificación del trabajo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Josemaria_Escriva.jpg",
+      "imagem_credito": "Foto: Oficina de Información de la Prelatura del Opus Dei en España — Wikimedia Commons, CC BY-SA 2.0",
+      "fundador": "San Josemaría Escrivá",
+      "ano_fundacao": "1928",
+      "carisma": "Santificación del trabajo y de la vida ordinaria secular",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:irmas-de-madre-teresa",
+      "slug": "irmas-de-madre-teresa",
+      "titulo": "Siervos de María (Servitas)",
+      "resumo": "Orden mendicante fundada en Florencia, en 1233, por siete comerciantes laicos, con devoción especial a Nuestra Señora de los Dolores.",
+      "corpo": "La Orden de los Siervos de María —cuyos frailes son conocidos como \"servitas\"— fue fundada en Florencia, en 1233, por siete comerciantes de tejidos y lana pertenecientes a la clase media emergente de la ciudad. Según la tradición de la Orden, el 15 de agosto de 1233, fiesta de la Asunción, la Virgen se apareció a esos siete laicos, que formaban una cofradía llamada de los Laudenses, y los invitó a renunciar al mundo. Entonces repartieron sus bienes entre los pobres, se retiraron en comunidad a una casa abandonada en la periferia de Florencia, que más tarde se llamaría \"Santa María de Cafaggio\" —lugar donde hoy se alza el Santuario de la Santísima Anunciata— y, después, al Monte Senario, que sigue siendo la cuna espiritual de la Orden.\n\nLos fundadores, cuyos nombres se fijaron en el momento de la canonización —y que, según los estudiosos de la propia Orden, solo tienen valor histórico en los casos de Bonfilio y Alejo—, son: Bonfiglio dei Monaldi (Bonfilio), Giovanni di Buonagiunta (Bonagiunta), Bartolomeo degli Amidei (Amadeo), Ricovero dei Lippi-Uguccioni (Ugo), Benedetto dell'Antella (Manetto), Gherardino di Sostegno (Sostegno) y Alessio Falconieri (Alejo). El contexto florentino era de gran conflicto civil: por un lado los güelfos, partidarios del papado, por otro los gibelinos, partidarios del emperador; los \"Siete Santos Fundadores\" quisieron, por ello, dar testimonio de unidad y de paz, siendo proclamados por la liturgia \"ministros de la unidad y de la paz\".\n\nEntre los primeros seguidores destaca San Felipe Benizi, gran organizador y propagador de la Orden. Gracias al esfuerzo del prior general San Felipe y de su sucesor fray Lotaringo, el 11 de febrero de 1304, el papa dominico Benedicto XI, con la bula \"Dum levamus\", aprobó la Regla y las Constituciones de la nueva Orden, que entonces contaba con cuatro provincias en Italia (Toscana, Patrimonio de San Pedro, Romaña y Lombardía) y una en Alemania, con treinta y un prioratos y cerca de doscientos cincuenta frailes. En 1424, con la bula \"Sedis apostolicae providentia\", el papa Martín V ratificó la organización de la Tercera Orden, hoy llamada Orden Seglar de los Siervos de María.\n\nLa devoción característica de los servitas es la de Nuestra Señora de los Dolores, bajo el título de la Virgen Dolorosa, cuyo fundamento bíblico es la profecía de Simeón: \"y a ti una espada te atravesará el alma\" (Lc 2,35). La espiritualidad servita contempla los dolores de María a lo largo de la vida de Cristo —de la huida a Egipto a la pérdida del Niño en el Templo, del encuentro en el camino del Calvario al estar de pie junto a la cruz (Jn 19,25). Como las demás órdenes mendicantes, los servitas unen la vida comunitaria de oración y penitencia al apostolado activo.\n\nLos Siete Santos Fundadores fueron canonizados juntos, como si fueran uno solo, por el papa León XIII en 1888 —caso único en la historia de la Iglesia—, y su fiesta litúrgica se celebra el 17 de febrero. El Monte Senario permanece como punto de referencia de todos los Siervos y Siervas de María repartidos por el mundo, custodiando las reliquias de los siete fundadores.",
+      "categoria": "ordens-religiosas",
+      "tags": [
+        "servitas",
+        "Siervos de María",
+        "Nuestra Señora de los Dolores",
+        "Florencia",
+        "Monte Senario",
+        "siglo XIII",
+        "Felipe Benizi"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Getaria_-_Iglesia_del_Salvador_26.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Historia – Orden de los Siervos de María (servitasbrasil.org/quem-somos)",
+        "\"History\" – Orden de los Siervos de María (servidimaria.net, bula Dum levamus, 1304; Tercera Orden, 1424)",
+        "Vatican News, Santo del Día, SS. Siete Fundadores de la Orden de los Servitas (vaticannews.va)"
+      ],
+      "atualizado_em": null,
+      "fundador": "Siete Fundadores de Florencia",
+      "ano_fundacao": "1233",
+      "carisma": "Devoción a los dolores de Nuestra Señora y vida comunitaria apostólica"
+    },
+    {
+      "id": "ordens-religiosas:trapistas",
+      "slug": "trapistas",
+      "titulo": "Trapistas (Orden Cisterciense de la Estricta Observancia)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Rama reformada de los cistercienses, marcada por el silencio, la clausura rigurosa y el trabajo manual; origen también de la tradición de los quesos y licores trapenses.",
+      "corpo": "Los trapistas nacieron de una reforma promovida por el abad Armand de Rancé en el monasterio de La Trappe, en Francia, en el siglo XVII, con el propósito de recuperar el rigor original de la Regla de San Benito dentro de la tradición cisterciense. Viven en silencio casi absoluto, en clausura estricta y con un fuerte énfasis en el trabajo manual como medio de sustento y de oración; de esta disciplina procede la tradición, hoy mundialmente conocida, de los quesos, panes y licores producidos por monasterios trapenses. Se constituyeron como orden propia, distinta de la cisterciense común, en 1892.",
+      "tags": [
+        "monacato",
+        "reforma cisterciense",
+        "clausura"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Armand_Bouthillier_Rance.jpg",
+      "imagem_credito": null,
+      "fundador": "Armand Jean le Bouthillier de Rancé",
+      "ano_fundacao": "1664 (reforma); 1892 (orden propia)",
+      "carisma": "Vida monástica contemplativa en silencio y clausura, sostenida por el trabajo manual",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:cartuxos",
+      "slug": "cartuxos",
+      "titulo": "Cartujos (Orden de los Cartujos)",
+      "categoria": "ordens-religiosas",
+      "resumo": "La orden de vida eremítica más rigurosa de la Iglesia, en la que los monjes viven casi todo el tiempo solos en sus propias celdas, unidos por la liturgia común.",
+      "corpo": "Fundada por San Bruno de Colonia en 1084, en la región montañosa de la Chartreuse, cerca de Grenoble, en Francia, la Orden de los Cartujos combina el eremitismo con una estructura comunitaria mínima: cada monje vive prácticamente aislado en una celda individual, dedicado a la oración y al silencio, reuniéndose con los demás solo para los oficios litúrgicos y en raras ocasiones comunes a lo largo de la semana. Es considerada la forma de vida contemplativa más austera que aún se practica regularmente en la Iglesia latina. La casa madre, la Grande Chartreuse, sigue habitada hasta hoy.",
+      "tags": [
+        "monacato",
+        "eremitismo",
+        "clausura"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/La_Grande_Chartreuse.JPG",
+      "imagem_credito": null,
+      "fundador": "San Bruno de Colonia",
+      "ano_fundacao": "1084",
+      "carisma": "Vida eremítica solitaria dentro de una estructura comunitaria mínima",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 920-921 (vida eremítica)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:vicentinos",
+      "slug": "vicentinos",
+      "titulo": "Vicentinos (Congregación de la Misión)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Congregación fundada por San Vicente de Paúl para evangelizar el medio rural pobre y formar clero, también origen de las Hijas de la Caridad.",
+      "corpo": "Fundada por San Vicente de Paúl en 1625, en Francia, la Congregación de la Misión —cuyos miembros se llaman vicentinos o lazaristas, en referencia al antiguo priorato de Saint-Lazare, en París, sede de la comunidad— se dedicó originalmente a la evangelización de las poblaciones rurales pobres, entonces poco atendidas por la pastoral parroquial común, y a la formación de seminaristas y clero diocesano. Vicente de Paúl fundaría además, junto con Santa Luisa de Marillac, las Hijas de la Caridad, congregación hermana dedicada al servicio directo de los pobres y enfermos. El nombre «vicentino» se asocia hoy también a las Sociedades de San Vicente de Paúl, organizaciones laicales de caridad inspiradas en el mismo carisma, pero jurídicamente distintas de la congregación religiosa.",
+      "tags": [
+        "evangelización rural",
+        "formación del clero",
+        "caridad"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/27/CMPaul.png",
+      "imagem_credito": null,
+      "fundador": "San Vicente de Paúl",
+      "ano_fundacao": "1625",
+      "carisma": "Evangelización de los pobres y formación del clero",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:passionistas",
+      "slug": "passionistas",
+      "titulo": "Passionistas (Congregación de la Pasión de Jesucristo)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Congregación centrada en la memoria viva de la Pasión de Cristo, dedicada a las misiones populares y a la predicación de retiros.",
+      "corpo": "Fundada por San Pablo de la Cruz en 1720, en Italia, la Congregación de la Pasión de Jesucristo tiene como carisma propio mantener viva, en la predicación y en la vida espiritual de sus miembros, la memoria de la Pasión y Muerte de Cristo como el mayor signo del amor de Dios por la humanidad. Históricamente dedicada a misiones populares en regiones rurales poco atendidas y a la predicación de retiros espirituales, hoy mantiene también trabajo parroquial y educativo en diversos países, incluido Brasil.",
+      "tags": [
+        "Pasión de Cristo",
+        "misiones populares",
+        "retiros"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Curia_Provincial_MAPRAES_2015.jpg",
+      "imagem_credito": "Foto: Tiagosgd — Wikimedia Commons, CC BY-SA 4.0",
+      "fundador": "San Pablo de la Cruz",
+      "ano_fundacao": "1720",
+      "carisma": "Memoria viva de la Pasión de Cristo, misiones populares y retiros espirituales",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:maristas",
+      "slug": "maristas",
+      "titulo": "Hermanos Maristas (Instituto de los Hermanos Maristas)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Instituto de religiosos laicos dedicado a la educación de niños y jóvenes, con fuerte presencia en escuelas de todo el mundo, incluido Brasil.",
+      "corpo": "Fundado por San Marcelino Champagnat en 1817, en Francia, el Instituto de los Hermanos Maristas está formado por religiosos laicos —no sacerdotes— dedicados sobre todo a la educación escolar de niños y jóvenes, con especial atención a los más pobres y alejados de la fe, en la línea de las reformas educativas promovidas en la Europa posrevolucionaria. Bajo la protección espiritual de María, se expandió a decenas de países, manteniendo hoy una extensa red de escuelas y universidades, con una presencia particularmente fuerte en Brasil desde principios del siglo XX.",
+      "tags": [
+        "educación católica",
+        "religiosos laicos",
+        "María"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Marist-stem.jpg",
+      "imagem_credito": null,
+      "fundador": "San Marcelino Champagnat",
+      "ano_fundacao": "1817",
+      "carisma": "Educación evangelizadora de niños y jóvenes, con atención a los más pobres",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:ursulinas",
+      "slug": "ursulinas",
+      "titulo": "Ursulinas (Compañía de Santa Úrsula)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Fundada por Santa Ángela de Mérici, fue la primera asociación religiosa dedicada específicamente a la educación de niñas y jóvenes.",
+      "corpo": "Fundada en Brescia, Italia, por Ángela de Mérici bajo la protección de Santa Úrsula, la Compañía nació con una regla original para la época: las \"renunciadoras\" vivían fuera del convento, consagradas a Dios por voto de castidad, pero insertadas en sus propias casas y familias, dedicadas a la instrucción religiosa de niñas pobres y al cuidado de los enfermos. Con el tiempo, sobre todo tras la aprobación pontificia de 1544, varias ramas ursulinas se organizaron también en vida conventual, manteniendo el carisma educativo original. Es considerada pionera, en Occidente, de una forma de vida consagrada femenina orientada explícitamente a la educación.",
+      "tags": [
+        "ursulinas",
+        "educación femenina"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Saint_Angela_Merici.jpg",
+      "imagem_credito": null,
+      "fundador": "Santa Ángela de Mérici",
+      "ano_fundacao": "1535",
+      "carisma": "Educación cristiana de niñas y jóvenes, sobre todo las más pobres",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)",
+        "Wikipedia: Ángela Mérici"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:filhas-da-caridade",
+      "slug": "filhas-da-caridade",
+      "titulo": "Hijas de la Caridad de San Vicente de Paúl",
+      "categoria": "ordens-religiosas",
+      "resumo": "Fundada por San Vicente de Paúl y Santa Luisa de Marillac, fue la primera congregación femenina en vivir la caridad activa fuera de la clausura monástica.",
+      "corpo": "Fundada en París por Vicente de Paúl y Luisa de Marillac, la Compañía de las Hijas de la Caridad rompió con el modelo entonces vigente, según el cual toda religiosa debía vivir en clausura: las hermanas, llamadas por Vicente \"monjas sin clausura\", tenían por convento las casas de los enfermos, por celda un cuarto alquilado, por capilla la iglesia parroquial y por clausura la obediencia. Desde sus orígenes se dedican al servicio directo de los pobres, de los enfermos y de los abandonados en hospitales, escuelas y parroquias, siendo hoy una de las mayores congregaciones religiosas femeninas del mundo.",
+      "tags": [
+        "Hijas de la Caridad",
+        "caridad",
+        "pobres"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Saint_Vincent_de_Paul.jpg",
+      "imagem_credito": "Foto: Oxxo — Wikimedia Commons, CC BY-SA 3.0",
+      "fundador": "San Vicente de Paúl y Santa Luisa de Marillac",
+      "ano_fundacao": "1633",
+      "carisma": "Servicio directo y activo a los pobres, enfermos y abandonados, fuera de la clausura monástica",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)",
+        "Wikipedia: Hijas de la Caridad de San Vicente de Paúl"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:oratorianos",
+      "slug": "oratorianos",
+      "titulo": "Oratorianos (Congregación del Oratorio)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Fundada por San Felipe Neri en Roma, reúne sacerdotes y hermanos que viven en comunidad sin votos religiosos, dedicados a la oración y a la predicación.",
+      "corpo": "Erigida canónicamente en Roma por el Papa Gregorio XIII, la Congregación del Oratorio nació de los encuentros de oración, predicación sencilla y música sacra que Felipe Neri organizaba desde hacía años en la iglesia de San Girolamo della Carità. A diferencia de las órdenes religiosas tradicionales, los oratorianos no profesan votos públicos de pobreza, castidad y obediencia: cada casa (\"oratorio\") es autónoma, y sus miembros —sacerdotes y hermanos— viven en comunidad por libre vínculo de caridad, dedicados a la oración litúrgica, a la predicación accesible al pueblo sencillo y a la dirección espiritual.",
+      "tags": [
+        "oratorianos",
+        "Felipe Neri"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Painting_of_Saint_Philip_Neri%2C_by_Sebastiano_Conca.jpg",
+      "imagem_credito": null,
+      "fundador": "San Felipe Neri",
+      "ano_fundacao": "1575",
+      "carisma": "Vida comunitaria sin votos religiosos, oración, predicación sencilla y dirección espiritual",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)",
+        "Wikipedia: Congregación del Oratorio"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:trinitarios",
+      "slug": "trinitarios",
+      "titulo": "Trinitarios (Orden de la Santísima Trinidad)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Orden medieval fundada para el rescate de cristianos cautivos de musulmanes, hoy dedicada a diversas formas modernas de cautiverio y esclavitud.",
+      "corpo": "Fundada en Cerfroid, en Francia, por San Juan de Mata y San Félix de Valois, y aprobada por el Papa Inocencio III en 1198, la Orden de la Santísima Trinidad nació con la misión específica de rescatar a cristianos capturados por corsarios musulmanes en el Mediterráneo. Una regla propia, la llamada \"tertia pars\", determinaba que un tercio de todas las rentas de la orden se reservara exclusivamente para pagar rescates. Hoy, extinguida en gran parte la esclavitud de cautivos de aquel tipo histórico, los trinitarios reorientaron su carisma original hacia la lucha contra formas contemporáneas de cautiverio, como la trata de personas.",
+      "tags": [
+        "trinitarios",
+        "rescate de cautivos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Laurent_de_La_Hyre_-_St_John_of_Matha%2C_Founder_of_the_Order_of_the_Trinitarians_-_WGA12318.jpg",
+      "imagem_credito": null,
+      "fundador": "San Juan de Mata y San Félix de Valois",
+      "ano_fundacao": "1198",
+      "carisma": "Culto a la Santísima Trinidad, hospitalidad y rescate de cautivos",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)",
+        "Wikipedia: Orden de la Santísima Trinidad"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:mercedarios",
+      "slug": "mercedarios",
+      "titulo": "Mercedarios (Orden de Nuestra Señora de la Merced)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Orden fundada en Barcelona por San Pedro Nolasco para la redención de cristianos cautivos, cuyos miembros hacen un cuarto voto de ofrecerse en rescate de rehenes, si fuera necesario.",
+      "corpo": "Fundada en Barcelona por Pedro Nolasco, con el apoyo del rey Jaime I de Aragón, la Orden de Nuestra Señora de las Mercedes surgió, según la tradición, de una aparición mariana que pedía la creación de una orden dedicada a liberar a cristianos mantenidos cautivos por musulmanes en la frontera entre la Corona de Aragón y la España musulmana. Además de los tres votos religiosos comunes, los mercedarios profesan un cuarto voto: entregarse como rehén en lugar de un cautivo, si fuera necesario para garantizar su liberación. Se estima que la orden rescató a decenas de miles de cautivos entre los siglos XIII y XIV.",
+      "tags": [
+        "mercedarios",
+        "rescate de cautivos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/31/San_Pedro_Nolasco%2C_por_Jusepe_Mart%C3%ADnez.jpg",
+      "imagem_credito": null,
+      "fundador": "San Pedro Nolasco",
+      "ano_fundacao": "1218",
+      "carisma": "Redención de cristianos cautivos, con voto de entregarse en rescate si fuera necesario",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)",
+        "Wikipedia: Orden de Nuestra Señora de las Mercedes"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:camilianos",
+      "slug": "camilianos",
+      "titulo": "Camilos (Orden de los Ministros de los Enfermos)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Fundada por San Camilo de Lellis, se dedica a la asistencia a los enfermos, con un cuarto voto de servirlos aun con riesgo de la propia vida.",
+      "corpo": "Fundada en Roma por Camilo de Lellis —que en su juventud había sido soldado y jugador antes de su conversión—, la Orden de los Ministros de los Enfermos nació para dar asistencia material y espiritual a los enfermos en los hospitales, en una época en que estos eran con frecuencia lugares de abandono y descuido. Sus miembros profesan, además de los tres votos religiosos tradicionales, un cuarto voto específico: servir a los enfermos, incluso contagiosos, aun con riesgo de la propia vida. El símbolo de la orden, una cruz roja sobre el hábito, es hoy reconocido internacionalmente como referencia a la asistencia sanitaria inspirada en el cristianismo.",
+      "tags": [
+        "camilos",
+        "asistencia a los enfermos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Kamil_de_Lellis_001.JPG",
+      "imagem_credito": "Foto: Andrej Mohorčič (2014) — Wikimedia Commons, CC BY-SA 4.0",
+      "fundador": "San Camilo de Lellis",
+      "ano_fundacao": "1582",
+      "carisma": "Asistencia a los enfermos, con voto de servirlos aun con riesgo de la propia vida",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)",
+        "Wikipedia: Camilo de Lellis"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:teatinos",
+      "slug": "teatinos",
+      "titulo": "Teatinos (Clérigos Regulares)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Fundados por San Cayetano de Thiene y Juan Pedro Carafa, fueron una de las primeras congregaciones de clérigos regulares, dedicada a la reforma de la vida sacerdotal.",
+      "corpo": "Fundada en Roma por Cayetano de Thiene junto con Bonifacio de Colli, Pablo Consiglieri y el obispo Juan Pedro Carafa —futuro Papa Pablo IV—, la Orden de los Clérigos Regulares, conocida como teatinos por causa de la diócesis de Chieti (Theate, en latín) de la que Carafa era obispo, buscaba renovar el espíritu y la disciplina del clero secular desde dentro, uniendo la vida comunitaria de oración al ministerio sacerdotal activo. Se distinguían por una confianza radical en la Providencia divina, llegando a rechazar tanto los bienes personales como las rentas comunitarias fijas, viviendo únicamente de donaciones espontáneas.",
+      "tags": [
+        "teatinos",
+        "reforma del clero"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tiepolo_-_S%C3%A3o_Caetano_de_Tiene.jpg",
+      "imagem_credito": null,
+      "fundador": "San Cayetano de Thiene y Juan Pedro Carafa",
+      "ano_fundacao": "1524",
+      "carisma": "Renovación de la vida del clero secular y confianza radical en la Providencia",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)",
+        "Wikipedia: Ordem dos Clérigos Regulares"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:barnabitas",
+      "slug": "barnabitas",
+      "titulo": "Barnabitas (Clérigos Regulares de San Pablo)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Congregación fundada en Milán por San Antonio María Zaccaria, dedicada a la reforma espiritual del clero y de los laicos mediante la predicación y los sacramentos.",
+      "corpo": "Fundada en Milán por Antonio María Zaccaria, médico que se hizo sacerdote, junto con Tiago Antônio Morigia y Bartolomeu Ferrari, la Congregación de los Clérigos Regulares de San Pablo se conoció como \"barnabitas\" por su sede junto a la iglesia de San Bernabé, en Milán. Su objetivo era promover la reforma de la vida cristiana del clero y de los laicos en un período de crisis disciplinar en la Iglesia, mediante la predicación frecuente, la confesión y la comunión más asidua, prácticas entonces poco comunes entre los fieles laicos. Zaccaria también impulsó, con el apoyo de la condesa Ludovica Torelli, la fundación de una congregación femenina hermana, las Angélicas de San Pablo.",
+      "tags": [
+        "barnabitas",
+        "reforma del clero"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/ANTONIO-MARIA-ZACCARIA.jpg",
+      "imagem_credito": null,
+      "fundador": "San Antonio María Zaccaria",
+      "ano_fundacao": "1530",
+      "carisma": "Reforma de la vida cristiana del clero y de los laicos mediante la predicación y los sacramentos",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)",
+        "Wikipedia: Antonio María Zaccaria"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:irmazinhas-dos-pobres",
+      "slug": "irmazinhas-dos-pobres",
+      "titulo": "Hermanitas de los Pobres",
+      "categoria": "ordens-religiosas",
+      "resumo": "Fundada en Francia por Santa Juana Jugan, se dedica a la acogida y al cuidado de ancianos pobres y abandonados.",
+      "corpo": "Fundada en la Bretaña francesa por Juana Jugan —mujer pobre que, al acoger en su propia casa a una anciana vecina, ciega y abandonada, dio inicio a una obra que se convertiría en congregación religiosa—, las Hermanitas de los Pobres se dedican exclusivamente a acoger y cuidar a ancianos pobres y sin familia, sosteniendo sus casas casi por completo con donativos y con la propia mendicidad de las hermanas, en un espíritu de confianza ilimitada en la Providencia inspirado en las Bienaventuranzas. La congregación está hoy presente en decenas de países, atendiendo a miles de ancianos.",
+      "tags": [
+        "Hermanitas de los Pobres",
+        "ancianos",
+        "caridad"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Jeanne_Jugan.jpg",
+      "imagem_credito": null,
+      "fundador": "Santa Juana Jugan (Jeanne Jugan)",
+      "ano_fundacao": "1839",
+      "carisma": "Acogida y cuidado de ancianos pobres y abandonados, en la confianza en la Providencia",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)",
+        "Wikipedia: Hermanitas de los Pobres"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:franciscanas-missionarias-de-maria",
+      "slug": "franciscanas-missionarias-de-maria",
+      "titulo": "Franciscanas Misioneras de María",
+      "categoria": "ordens-religiosas",
+      "resumo": "Instituto misionero internacional fundado en la India por la Beata María de la Pasión, que une la espiritualidad franciscana a la misión universal ad gentes.",
+      "corpo": "Fundada en Ootacamund, en el sur de la India, por la religiosa francesa Helena de Chappotin de Neuville —conocida por su nombre religioso, María de la Pasión—, la congregación nació originalmente como \"Misioneras de María\", asumiendo en 1885 su denominación actual. Une la espiritualidad franciscana clásica, marcada por la pobreza, la sencillez y el amor a la creación, a una vocación explícitamente misionera universal (\"ad gentes\"), alimentada también por el celo misionero de la Sociedad de las Misiones Extranjeras de París. Hoy reúne religiosas de decenas de nacionalidades en misión en varios continentes.",
+      "tags": [
+        "franciscanos",
+        "misiones",
+        "vida consagrada femenina"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fundador": "Beata María de la Pasión (Helena de Chappotin de Neuville)",
+      "ano_fundacao": "1877",
+      "carisma": "Misión universal ad gentes vivida con espiritualidad franciscana",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)",
+        "Wikipedia: Franciscan Missionaries of Mary"
+      ]
+    },
+    {
+      "id": "ordens-religiosas:paulinas",
+      "slug": "paulinas",
+      "titulo": "Paulinas (Hijas de San Pablo)",
+      "categoria": "ordens-religiosas",
+      "resumo": "Congregación fundada por el Beato Santiago Alberione, dedicada a la evangelización a través de los medios de comunicación social — del libro al ambiente digital.",
+      "corpo": "Fundada en Alba, en Italia, por el padre Santiago Alberione con la colaboración decisiva de la Hermana Tecla Merlo, la Pía Sociedad Hijas de San Pablo nació de una intuición entonces inédita: usar los medios modernos de comunicación — la imprenta, y después el cine, la radio, la televisión e internet — como \"púlpito\" para evangelizar tan ampliamente como el propio apóstol Pablo desearía hacerlo hoy. Es la segunda rama, y la más numerosa, de la llamada Familia Paulina, un conjunto de diez institutos fundados por Alberione con el mismo carisma comunicacional.",
+      "tags": [
+        "paulinas",
+        "comunicación social",
+        "evangelización"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fundador": "Beato Santiago Alberione, con la Venerable Hermana Tecla Merlo",
+      "ano_fundacao": "1915",
+      "carisma": "Evangelización a través de los medios de comunicación social",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 925-927 (vida consagrada)",
+        "Vatican News: Irmãs Paulinas completam 100 anos de fundação"
+      ]
+    }
+  ]
+}

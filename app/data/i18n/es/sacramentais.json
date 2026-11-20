@@ -1,0 +1,437 @@
+{
+  "_meta": {
+    "categoria": "sacramentais",
+    "nome": "Sacramentales",
+    "descricao": "Signos sagrados que, por semejanza con los sacramentos, disponen a recibir la gracia: agua bendita, bendiciones, medallas y más.",
+    "status": "exemplos-iniciais",
+    "aviso": "Los sacramentales no tienen eficacia mágica independiente de la fe y de la oración de la Iglesia; se distinguen claramente de los siete sacramentos instituidos por Cristo.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Catecismo de la Iglesia Católica, nn. 1667-1679"
+    ]
+  },
+  "itens": [
+    {
+      "id": "sacramentais:agua-benta",
+      "slug": "agua-benta",
+      "titulo": "Agua Bendita",
+      "categoria": "sacramentais",
+      "resumo": "Agua bendecida por la Iglesia, usada como signo de purificación y recuerdo del Bautismo.",
+      "corpo": "El agua bendita es bendecida por un sacerdote o diácono y es usada por los fieles —al entrar en la iglesia, en bendiciones domésticas o en exorcismos menores— como signo sensible de purificación espiritual y recuerdo constante del propio Bautismo. No tiene poder mágico propio: su eficacia, como la de todo sacramental, depende de la fe y de la disposición de quien la usa, y de la oración de la Iglesia que la acompaña.",
+      "tags": [
+        "sacramentales",
+        "agua bendita",
+        "Bautismo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Pietro_Perugino_-_Baptism_of_Christ_-_Sistine_Chapel_-_cat13a.jpg",
+      "imagem_credito": null,
+      "ordem": 1,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:bencao",
+      "slug": "bencao",
+      "titulo": "Bendición",
+      "categoria": "sacramentais",
+      "resumo": "Sacramental que invoca la protección y la gracia de Dios sobre personas, objetos o circunstancias específicas.",
+      "corpo": "Las bendiciones son el más amplio y frecuente de los sacramentales: invocan el nombre de Dios y piden su protección sobre personas (bendición de los padres a los hijos, del sacerdote a los fieles), lugares (una casa nueva), objetos (un rosario, una imagen) o momentos particulares de la vida (un viaje, una cosecha). Pueden ser dadas por presbíteros, diáconos y, en muchos casos, por laicos — como los padres de familia, en el ámbito doméstico.",
+      "tags": [
+        "sacramentales",
+        "bendición"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sagrada_Familia_del_pajarito_%28Murillo%29.jpg",
+      "imagem_credito": null,
+      "ordem": 2,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:medalha-religiosa",
+      "slug": "medalha-religiosa",
+      "titulo": "Medalla Religiosa",
+      "resumo": "Pequeño objeto devocional, generalmente con la imagen de Cristo, María o un santo, que —una vez bendecido— sirve como signo de fe y recordatorio de la protección divina invocada, nunca como amuleto.",
+      "corpo": "Medallas como la Milagrosa (ver la categoría Nuestra Señora) o la de San Benito (ver Oraciones) son sacramentales populares. Según la enseñanza de la Iglesia, sacramentales como estos \"son signos sagrados por los que, a imitación de los sacramentos, se significan efectos principalmente espirituales, obtenidos por la impetración de la Iglesia\" (CIC 1667); por ello preparan para la recepción de los sacramentos y santifican las diversas circunstancias de la vida, \"nunca como amuleto con poder mágico independiente de la fe de quien lo usa\".\n\nEl origen de la Medalla Milagrosa se remonta a las apariciones relatadas por Santa Catalina Labouré (1806-1876), novicia de las Hijas de la Caridad de San Vicente de Paúl, en la capilla de la Rue du Bac, en París. En la aparición del 27 de noviembre de 1830, la Virgen habría mostrado un cuadro oval con la jaculatoria \"Oh María concebida sin pecado, rogad por nosotros que recurrimos a vos\" y pedido que se acuñara una medalla \"conforme a este modelo\". Catalina confió el pedido a su confesor, el P. Jean-Marie Aladel, quien lo llevó al arzobispo de París, Mons. Hyacinthe-Louis de Quelen. Tras la investigación canónica, la acuñación fue autorizada por decreto del 20 de junio de 1832; las primeras 1.500 medallas, grabadas por el orfebre Adrien Vachette, se distribuyeron a finales de ese mes, en plena epidemia de cólera que causó más de 18 mil víctimas en París. Los numerosos relatos de curaciones y conversiones hicieron que el pueblo la llamara \"Medalla Milagrosa\"; como originalmente era la \"Medalla de la Inmaculada Concepción\", la devoción precedió en más de dos décadas a la definición dogmática de 1854. El episodio más célebre fue la conversión, en 1842, del judío Alfonso de Ratisbona, que llevaba la medalla por desafío. Catalina Labouré fue canonizada por Pío XII en 1947.\n\nLa Medalla de San Benito es inseparable de la fórmula medieval de exorcismo Vade retro satana (\"Retírate, Satanás\"). El texto fue encontrado en un manuscrito de 1415 en la abadía benedictina de Metten, en Baviera; en el siglo XVII, durante un proceso por brujería, se descubrieron cruces pintadas en los muros del monasterio con las mismas letras, entonces ya olvidadas. La fórmula recibió la aprobación del Papa Benedicto XIV y fue incorporada al Ritual Romano en 1742. Las inscripciones de la medalla son las iniciales de versos latinos: alrededor de la cruz, \"Crux sacra sit mihi lux / Non draco sit mihi dux\" (C.S.S.M.L. / N.D.S.M.D.), en los ángulos \"Crux Sancti Patris Benedicti\" (C.S.P.B.), y la oración \"Vade retro Satana; nunquam suade mihi vana: sunt mala quae libas; ipse venena bibas\". La devoción se difundió sobre todo en el siglo XIX, en parte por la labor de Léon Dupont, el \"santo hombre de Tours\".",
+      "categoria": "sacramentais",
+      "tags": [
+        "sacramentais",
+        "medalla",
+        "Nuestra Señora de las Gracias",
+        "Medalla Milagrosa",
+        "San Benito",
+        "devoción popular"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/de/VirgenMedallaMilagrosa-IglesiaSagradaEucarisita-CABA.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1667-1679",
+        "Santa Sede / Capilla de Nuestra Señora de la Medalla Milagrosa, Rue du Bac, París — \"As aparições e a Medalha\"",
+        "Entrada \"Medalha Milagrosa\" de la Wikipedia en portugués (fuente: reconocimiento de 1836, grabador Adrien Vachette)",
+        "Entrada \"Vade retro satana\" de la Wikipedia en inglés (manuscrito de Metten, 1415; aprobación de Benedicto XIV, 1742)"
+      ],
+      "atualizado_em": null,
+      "ordem": 3
+    },
+    {
+      "id": "sacramentais:velas-e-cirios",
+      "slug": "velas-e-cirios",
+      "titulo": "Velas y Cirios",
+      "resumo": "Luz simbólica usada en la liturgia y en la devoción personal como signo de Cristo, \"luz del mundo\", y de la oración que se eleva a Dios; tiene en el Cirio Pascual su expresión máxima.",
+      "corpo": "El uso de velas y cirios en la liturgia —desde el Cirio Pascual (ver Glosario) hasta las velas del altar y las pequeñas velas encendidas por los devotos ante las imágenes— lleva el simbolismo bíblico de la luz que vence las tinieblas y de Cristo como \"luz del mundo\" (Jn 8,12), además de representar visiblemente la oración y la intención de quien la enciende. Según el Catecismo, entre los sacramentales se incluyen signos como \"la imposición de la mano, la señal de la cruz, la aspersión con agua bendita\"; la vela bendita, como las demás cosas útiles al hombre, se destina a santificar las circunstancias de la vida cristiana (CIC 1668, 1670).\n\nLa expresión máxima de este simbolismo es el Cirio Pascual, la mayor vela bendecida y encendida cada año en la Vigilia Pascual. La celebración comienza fuera de la iglesia, con la bendición del fuego nuevo; del fuego nuevo se enciende el Cirio, y el sacerdote dice: \"La luz de Cristo gloriosamente resucitado disipe las tinieblas del corazón y del espíritu\". El diácono o sacerdote introduce entonces el Cirio en la nave oscura, deteniéndose tres veces para cantar, elevando el tono: \"Lumen Christi\" (\"Luz de Cristo\"), a lo que la asamblea responde \"Deo gratias\". Las velas de todos se encienden de ese fuego, de modo que la iglesia se ilumina progresivamente a partir de una sola llama. El rito evoca la columna de fuego que guiaba a Israel en la noche del Éxodo (Ex 13,21) y va seguido de la proclamación del Pregón Pascual (Exsultet).\n\nEl Cirio se prepara ritualmente con signos grabados en la cera: una cruz, las letras griegas Alfa y Omega (\"Cristo es el principio y el fin\"), los números del año en curso y cinco granos de incienso, insertados en forma de cruz, que representan las cinco llagas de Cristo. Se usa a lo largo de todo el Tiempo Pascual y, en el resto del año, en las celebraciones del Bautismo y de las exequias, cuando la llama del Cirio enciende la vela bautismal. Las velas votivas encendidas por los fieles ante las imágenes en las iglesias son, por su parte, la prolongación devocional de este mismo simbolismo: cada llama visible representa una oración concreta elevada a Dios.",
+      "categoria": "sacramentais",
+      "tags": [
+        "sacramentais",
+        "velas",
+        "Círio Pascal",
+        "luz",
+        "Vigília Pascal",
+        "liturgia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Advent_wreath_and_candles_at_St._Pega%27s_church%2C_Peakirk_-_geograph.org.uk_-_8208229.jpg",
+      "imagem_credito": "Foto: Paul Bryan — Wikimedia Commons, CC BY-SA 2.0",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1667-1679 (esp. 1668, 1670)",
+        "Artículo \"Cirio Pascual\" de la Wikipedia en portugués (Pregón Pascual; símbolos: cruz, alfa y omega, cinco granos de incienso)",
+        "Agencia ECCLESIA, \"Vigilia Pascual: símbolos y significado\" (liturgia de la luz, bendición del fuego nuevo, Lumen Christi)",
+        "Misal Romano, Vigilia Pascual: Preconium Paschale (Exsultet)"
+      ],
+      "atualizado_em": null,
+      "ordem": 4
+    },
+    {
+      "id": "sacramentais:exorcismo-menor",
+      "slug": "exorcismo-menor",
+      "titulo": "Exorcismo Menor",
+      "categoria": "sacramentais",
+      "resumo": "Oración de protección contra la influencia del mal, distinta del exorcismo solemne reservado a casos de posesión diabólica reconocida.",
+      "corpo": "El \"exorcismo menor\" es una forma de oración de protección espiritual usada habitualmente en la liturgia —por ejemplo, en las oraciones preparatorias al Bautismo— que pide la liberación del poder del mal sobre la persona, sin presuponer un caso de posesión diabólica propiamente dicha. Se distingue del \"exorcismo solemne\" o mayor, reservado a casos excepcionales de posesión reconocida, que solo puede ser realizado por un sacerdote especialmente designado por el obispo, previa una rigurosa evaluación —incluida la médica y psicológica— para excluir causas naturales.",
+      "tags": [
+        "sacramentales",
+        "exorcismo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/GuidoReni_MichaelDefeatsSatan.jpg",
+      "imagem_credito": null,
+      "ordem": 5,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, n. 1673"
+      ]
+    },
+    {
+      "id": "sacramentais:bencao-do-santissimo-sacramental",
+      "slug": "bencao-do-santissimo-sacramental",
+      "titulo": "Señal de la Cruz",
+      "categoria": "sacramentais",
+      "resumo": "El gesto y la fórmula trinitaria más básicos de la vida cristiana, hechos al entrar en la oración o al recibir una bendición.",
+      "corpo": "La Señal de la Cruz —tocar la frente, el pecho y los hombros mientras se pronuncia «En el nombre del Padre, y del Hijo, y del Espíritu Santo»— es el gesto más elemental y repetido de la devoción católica, profesión silenciosa y física de la fe en la Santísima Trinidad y en el misterio de la cruz de Cristo, hecho al inicio y al final de casi toda oración y celebración litúrgica.",
+      "tags": [
+        "sacramentales",
+        "señal de la cruz",
+        "Trinidad"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Masaccio%2C_Holy_Trinity%2C_1425-28%2C_Santa_Maria_Novella%2C_Florence.jpg",
+      "imagem_credito": null,
+      "ordem": 6,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:agua-benta-domestica",
+      "slug": "agua-benta-domestica",
+      "titulo": "Bendición de Casas y Objetos",
+      "resumo": "Práctica de pedir al sacerdote —o, en ciertos casos, al propio fiel— la bendición de la casa, del lugar de trabajo o de objetos, consagrando a Dios los espacios e instrumentos de la vida cotidiana.",
+      "corpo": "Pedir la bendición de una casa nueva, de un vehículo, de instrumentos de trabajo o de otros bienes es una práctica de devoción muy extendida, que expresa el deseo de consagrar a Dios los espacios e instrumentos de la vida cotidiana, no solo los momentos explícitamente \"religiosos\". El Catecismo de la Iglesia Católica sitúa estas bendiciones entre los sacramentales: \"Entre los sacramentales figuran, en primer lugar, las bendiciones (de personas, de la mesa, de objetos y lugares)\" (CIC 1671), y recuerda que ellas \"comprenden al mismo tiempo la alabanza a Dios por sus obras y la intercesión de la Iglesia para que los hombres puedan usar de los dones de Dios según el espíritu del Evangelio\" (CIC 1678). La distinción técnica es entre bendiciones invocativas —que piden el auxilio divino para el uso de un bien— y bendiciones constitutivas, de alcance duradero, que reservan personas, objetos o lugares al culto (CIC 1672).\n\nLa disciplina litúrgica actual proviene del Rituale Romanum reformado tras el Concilio Vaticano II. El título propio De Benedictionibus, promulgado en 1984 (con ediciones típicas posteriores en 1985, 1993 y 2013), sustituyó al Benedictionale y reúne unas 179 bendiciones, de las cuales 95 están reservadas a los obispos —un contraste notable con las 29 bendiciones del Rituale Romanum de 1614. Entre estos ritos se encuentra el Ordo benedictionis novae domus (\"Rito de la bendición de una casa nueva\"), una de las 51 bendiciones actualizadas del antiguo libro de 1952. Las normas generales establecen que cualquier presbítero puede dar la bendición, salvo las reservadas al Romano Pontífice o a los obispos; ciertas bendiciones, sin embargo, pueden ser presididas por laicos, pues derivan del sacerdocio bautismal (CIC 1669).\n\nEl rito tradicional de la casa es sencillo y se basa en la aspersión con agua bendita. El sacerdote, al entrar, saluda: \"Pax huic domui\" —\"La paz sea en esta casa\", a lo que se responde \"Et omnibus habitantibus in ea\". Sigue la aspersión de las principales estancias con la antífona \"Asperges me, Domine, hyssopo, et mundabor\", una oración y la repetición de la aspersión. Es notable que el formulario romano más antiguo invocaba explícitamente la protección del Ángel de la guarda sobre la casa, \"así como en otro tiempo, al salir de Egipto, fueron preservadas las casas de los hebreos marcadas con la sangre del cordero\" —figura del propio Cristo.\n\nEn Brasil y en varios países se difundió la \"bendición de la casa en la Epifanía\": se reparte tiza bendecida y las familias escriben sobre la puerta la inscripción del año intercalada por cruces y las letras C, M, B, con la fórmula \"20 + C + M + B + 26\". Las letras recuerdan tradicionalmente los nombres atribuidos a los Magos —Caspar, Melchior y Balthasar— y también se leen como abreviatura del latín Christus mansionem benedicat, \"Cristo bendiga esta morada\". La práctica se remonta a la Europa medieval y se repite cada año, recordando que el hogar cristiano pertenece a Cristo.",
+      "categoria": "sacramentais",
+      "tags": [
+        "sacramentais",
+        "bênção",
+        "bendición de la casa",
+        "vida diaria",
+        "Epifanía",
+        "Rituale Romanum"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Epiphany_Season_door_chalking.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1667-1679 (esp. 1671, 1672, 1678)",
+        "Sacra Congregatio pro Cultu Divino, De Benedictionibus (editio typica, 1984), Ordo benedictionis novae domus",
+        "Rituale Romanum, Titulus VIII: De Benedictionibus",
+        "Catecismo de la Iglesia Católica, nn. 1667-1690 (vatican.va, edición en portugués)"
+      ],
+      "atualizado_em": null,
+      "ordem": 7
+    },
+    {
+      "id": "sacramentais:escapulario-do-carmo",
+      "slug": "escapulario-do-carmo",
+      "titulo": "Escapulario del Carmen",
+      "categoria": "sacramentais",
+      "resumo": "Sacramental mariano ligado a la tradición de una aparición de Nuestra Señora al carmelita San Simón Stock en 1251, signo de consagración y protección mariana.",
+      "corpo": "La tradición carmelita cuenta que, en la noche del 16 de julio de 1251, en Aylesford, Inglaterra, Nuestra Señora se apareció a San Simón Stock, entonces superior general de la Orden del Carmen, y le entregó un pequeño hábito de tela —el escapulario marrón— como signo de protección especial para quien lo usara con fe. No existe documentación histórica contemporánea que compruebe los detalles de la aparición, pero la devoción fue acogida y difundida por la Iglesia a lo largo de los siglos, y la propia Orden Carmelita recibió la aprobación del papa Inocencio IV.\n\nEl escapulario de tela es hoy una versión reducida del hábito religioso carmelita, que se lleva sobre el pecho y la espalda por los laicos inscritos en la Cofradía de Nuestra Señora del Monte Carmelo. Como todo sacramental, debe ser bendecido por un sacerdote antes del primer uso (la imposición suele hacerse una única vez), y su valor no está en la tela en sí, sino en el compromiso de vida cristiana y en la consagración mariana que expresa —nunca debe entenderse como un amuleto de protección automática.",
+      "tags": [
+        "sacramentales",
+        "escapulario",
+        "Nuestra Señora del Carmen",
+        "devoción mariana"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 8,
+      "fontes": [
+        "Tradición carmelita sobre San Simón Stock (Aylesford, 1251)",
+        "Catecismo de la Iglesia Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:medalha-de-sao-bento",
+      "slug": "medalha-de-sao-bento",
+      "titulo": "Medalla de San Benito",
+      "categoria": "sacramentais",
+      "resumo": "Medalla con fórmula exorcística latina, aprobada en 1742 por el papa Benedicto XIV, usada como signo de protección espiritual contra el mal.",
+      "corpo": "No se sabe con certeza cuándo se acuñó por primera vez la medalla de San Benito —los registros más antiguos remontan al siglo XV—, pero el diseño hoy más difundido data de 1880, año del 1400.º aniversario del nacimiento del santo. En 1742, el papa Benedicto XIV aprobó oficialmente la medalla, concedió indulgencias a quien la usara con fe y consagró la oración grabada en el reverso como fórmula de exorcismo menor, conocida por sus iniciales \"Vade Retro Satana\" (\"Retírate, Satanás\").\n\nEn el anverso, la medalla muestra la imagen de San Benito sosteniendo la Regla que escribió para los monjes y una cruz; a su lado, un cáliz del que sale una serpiente y un cuervo recuerdan episodios de la vida del santo en que escapó de intentos de envenenamiento. En el reverso, las iniciales en latín componen la oración completa: \"Crux sacra sit mihi lux, non draco sit mihi dux... Vade retro Satana, numquam suade mihi vana; sunt mala quae libas, ipse venena bibas\" — \"La cruz sagrada sea mi luz, no sea el dragón mi guía... Retírate, Satanás, nunca me aconsejes cosas vanas; es malo lo que me ofreces, bebe tú mismo tu veneno\". Como todo sacramental, su eficacia depende de la fe de quien la usa, nunca de un poder mágico propio del objeto.",
+      "tags": [
+        "sacramentales",
+        "medalla de San Benito",
+        "exorcismo",
+        "San Benito"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 9,
+      "fontes": [
+        "Benedicto XIV, aprobación de la medalla de San Benito (1742)",
+        "Catecismo de la Iglesia Católica, n. 1673"
+      ]
+    },
+    {
+      "id": "sacramentais:cinzas-da-quarta-feira-de-cinzas",
+      "slug": "cinzas-da-quarta-feira-de-cinzas",
+      "titulo": "Las Cenizas del Miércoles de Ceniza",
+      "categoria": "sacramentais",
+      "resumo": "Cenizas bendecidas e impuestas en la frente al inicio de la Cuaresma, signo de humildad, penitencia y llamada a la conversión.",
+      "corpo": "En el Miércoles de Ceniza, día que abre el tiempo litúrgico de la Cuaresma, el sacerdote o el diácono imponen las cenizas —obtenidas, según la costumbre, de la quema de los ramos bendecidos del Domingo de Ramos del año anterior— en la frente de los fieles, en forma de cruz, pronunciando una de dos fórmulas: \"Acuérdate de que eres polvo y en polvo te convertirás\" (cf. Gn 3,19) o \"Convertíos y creed en el Evangelio\" (cf. Mc 1,15).\n\nLas cenizas, como todo sacramental, necesitan ser bendecidas antes de usarse en la liturgia. El Catecismo explica que los sacramentales \"no confieren la gracia del Espíritu Santo a la manera de los sacramentos, pero, por la oración de la Iglesia, preparan para recibir la gracia y disponen a cooperar con ella\" (CEC 1670). El gesto recuerda al cristiano su condición de criatura mortal y lo invita a iniciar la Cuaresma con espíritu de penitencia, oración y caridad.",
+      "tags": [
+        "sacramentales",
+        "cenizas",
+        "Cuaresma",
+        "penitencia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 10,
+      "fontes": [
+        "Génesis 3,19; Marcos 1,15",
+        "Catecismo de la Iglesia Católica, n. 1670"
+      ]
+    },
+    {
+      "id": "sacramentais:ramos-bentos",
+      "slug": "ramos-bentos",
+      "titulo": "Ramos Bendecidos (Domingo de Ramos)",
+      "categoria": "sacramentais",
+      "resumo": "Ramos bendecidos el Domingo de Ramos, en memoria de la entrada triunfal de Jesús en Jerusalén, aclamado por la multitud con palmas y mantos.",
+      "corpo": "El Domingo de Ramos, que abre la Semana Santa, recuerda la entrada solemne de Jesús en Jerusalén poco antes de su Pasión: narrada en los cuatro Evangelios, la escena muestra a la multitud extendiendo mantos y agitando ramos de palmera por el camino, aclamándolo como el Mesías esperado. Ya en los siglos IV y V hay registros, en Jerusalén, de una procesión anual que recordaba ese episodio, práctica que después se difundió por todo el Oriente y, hacia el siglo IX, se unió a la liturgia de la Pasión en Occidente.\n\nEn la celebración actual, los ramos que los fieles traen son bendecidos por el sacerdote antes de la procesión de entrada, generalmente desde un lugar alejado de la iglesia principal. Llevados a casa después de la Misa, los ramos benditos suelen conservarse detrás de crucifijos o imágenes como signo doméstico de la victoria de Cristo, y luego son recogidos y quemados para convertirse en las cenizas usadas el Miércoles de Ceniza del año siguiente.",
+      "tags": [
+        "sacramentales",
+        "ramos bendecidos",
+        "Domingo de Ramos",
+        "Semana Santa"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 11,
+      "fontes": [
+        "Evangelios de la entrada en Jerusalén (Mt 21,1-11; Mc 11,1-10; Lc 19,28-40; Jn 12,12-19)",
+        "Catecismo de la Iglesia Católica, n. 1670"
+      ]
+    },
+    {
+      "id": "sacramentais:bencao-apostolica-em-artigo-de-morte",
+      "slug": "bencao-apostolica-em-artigo-de-morte",
+      "titulo": "Bendición Apostólica en artículo de muerte",
+      "categoria": "sacramentais",
+      "resumo": "Bendición concedida por el sacerdote en nombre del Papa a los fieles en peligro de muerte, acompañada de indulgencia plenaria.",
+      "corpo": "La Bendición Apostólica \"in articulo mortis\" (\"en el momento de la muerte\") es impartida por el sacerdote —habitualmente junto con los demás sacramentos administrados al enfermo grave— en nombre del propio Papa, y lleva asociada una indulgencia plenaria, es decir, la remisión total de la pena temporal aún debida por los pecados ya perdonados. El rito suele seguir a la confesión sacramental y a un acto de contrición, preparando espiritualmente al fiel para el paso definitivo al Padre.\n\nSegún la disciplina de la Iglesia sobre las indulgencias, aunque normalmente solo se puede obtener una indulgencia plenaria al día, se abre una excepción precisamente para quien se encuentra en peligro de muerte. Si no hay sacerdote disponible, la Iglesia concede benignamente la misma indulgencia al fiel bien dispuesto que, durante la vida, haya tenido el hábito de rezar con cierta regularidad, mostrando que lo esencial no es el rito externo aislado, sino la disposición interior de conversión y confianza en Dios.",
+      "tags": [
+        "sacramentales",
+        "bendición apostólica",
+        "indulgencia plenaria",
+        "enfermos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 12,
+      "fontes": [
+        "Pablo VI, Constitución Apostólica Indulgentiarum Doctrina (1967), norma 18",
+        "Catecismo de la Iglesia Católica, nn. 1471-1479"
+      ]
+    },
+    {
+      "id": "sacramentais:sinos-da-igreja",
+      "slug": "sinos-da-igreja",
+      "titulo": "Las campanas de la Iglesia",
+      "categoria": "sacramentais",
+      "resumo": "Instrumento litúrgico bendecido —popularmente llamado \"bautismo de las campanas\"— que convoca a los fieles a la oración y marca los tiempos de la vida de la comunidad.",
+      "corpo": "El uso de campanas en la vida de la Iglesia se remonta al siglo V, siendo San Paulino de Nola, en Italia, frecuentemente recordado como uno de los primeros obispos en introducirlas para marcar los horarios de las celebraciones; la práctica se extendió ampliamente entre las comunidades monásticas medievales, que necesitaban reunir a los monjes dispersos por el monasterio.\n\nAntes de entrar en uso litúrgico, cada campana recibe una bendición especial que, por su semejanza con el rito bautismal, es popularmente llamada \"bautismo de las campanas\": la campana es lavada con agua bendita, ungida con óleo, incensada y recibe un nombre —generalmente de un santo patrono o de la Virgen María. Los padres de la Iglesia medieval veían en esta bendición un modo de santificar el sonido de la campana, que debía no solo llamar a los fieles puntualmente a los oficios divinos, sino también ser signo sagrado que aleja el mal e invoca la misericordia de Dios sobre la comunidad.",
+      "tags": [
+        "sacramentales",
+        "campanas",
+        "bendición",
+        "liturgia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 13,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:vela-da-candelaria",
+      "slug": "vela-da-candelaria",
+      "titulo": "Vela de la Candelaria",
+      "categoria": "sacramentais",
+      "resumo": "Velas bendecidas en la Fiesta de la Presentación del Señor, el 2 de febrero, signo de Cristo como \"luz para iluminar a las naciones\".",
+      "corpo": "Cuarenta días después de la Navidad, el 2 de febrero, la Iglesia celebra la Presentación del Señor en el Templo, hecho narrado en el Evangelio de Lucas en el que el anciano Simeón reconoce en el niño Jesús la \"luz para iluminar a las naciones y gloria del pueblo de Israel\" (Lc 2,32). A partir de estas palabras, se desarrolló la costumbre —organizada de modo solemne ya en el siglo X, en la región de la Galia— de bendecir velas al inicio de la celebración y realizar una procesión con ellas encendidas hacia el altar, lo que dio a la fiesta el nombre popular de \"Candelaria\".\n\nLas velas bendecidas este día suelen llevarse a casa y encenderse en momentos de oración o dificultad a lo largo del año, como signo sensible de que Cristo es luz que ilumina la vida del cristiano. En muchas parroquias, se aprovecha la ocasión para bendecir también las velas que serán usadas en la fiesta de San Blas, celebrada al día siguiente.",
+      "tags": [
+        "sacramentales",
+        "vela",
+        "Presentación del Señor",
+        "Candelaria"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 14,
+      "fontes": [
+        "Evangelio según Lucas 2,22-32",
+        "Catecismo de la Iglesia Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:incenso",
+      "slug": "incenso",
+      "titulo": "Incienso",
+      "categoria": "sacramentais",
+      "resumo": "Sustancia aromática bendecida y quemada en la liturgia, signo sensible de la oración de los fieles que sube como humo ante Dios.",
+      "corpo": "El incienso se usa en la liturgia católica desde los primeros siglos, retomando un gesto ya presente en el culto judío: el humo perfumado que se eleva hacia lo alto es signo de la oración de la Iglesia y de cada fiel que se eleva a la presencia de Dios, imagen apreciada por la tradición bíblica de los Salmos (\"suba mi oración como incienso en tu presencia\", Sal 141,2). Antes de ser usado, el incienso recibe una bendición del sacerdote, lo que le confiere su valor de sacramental.\n\nLa Instrucción General del Misal Romano prevé el uso del incienso en momentos específicos de la Misa: para incensar el altar y la cruz, el libro de los Evangelios antes de su proclamación, las ofrendas de pan y vino, el sacerdote y los demás ministros, y el pueblo reunido —gesto de honor que reconoce la dignidad bautismal de todos los presentes. Lejos de ser un mero perfume ambiental, el incienso es, por tanto, signo litúrgico de ofrenda y de oración que se eleva al Cielo.",
+      "tags": [
+        "sacramentales",
+        "incienso",
+        "liturgia",
+        "oración"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 15,
+      "fontes": [
+        "Salmo 141,2",
+        "Instrucción General del Misal Romano",
+        "Catecismo de la Iglesia Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:crucifixo",
+      "slug": "crucifixo",
+      "titulo": "Crucifijo",
+      "categoria": "sacramentais",
+      "resumo": "Imagen de Cristo crucificado, bendecida por el sacerdote, presente en hogares e iglesias como signo de la Pasión redentora — nunca como amuleto.",
+      "corpo": "El crucifijo —la cruz con la imagen del cuerpo de Cristo— es uno de los sacramentales más difundidos de la tradición católica, que recuerda de modo visual y permanente el centro de la fe cristiana: la Pasión, muerte y resurrección de Jesús para la salvación de la humanidad. Es costumbre de la Iglesia recomendar que cada hogar tenga al menos un crucifijo en un lugar visible, para que la familia tenga ante los ojos, en el día a día, el recuerdo del sacrificio de Cristo.\n\nComo los demás objetos de devoción, el crucifijo debe ser bendecido por un sacerdote o diácono —bendición que, una vez realizada, normalmente no necesita repetirse para ese objeto específico. La bendición invoca el nombre de Dios sobre el objeto y lo destina a un uso que glorifica al Creador, pero no le confiere poder mágico alguno: el crucifijo es medio de oración, meditación y conversión, nunca amuleto de protección automática independiente de la fe de quien lo venera.",
+      "tags": [
+        "sacramentales",
+        "crucifijo",
+        "cruz",
+        "Pasión de Cristo"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 16,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:bencao-dos-animais",
+      "slug": "bencao-dos-animais",
+      "titulo": "Bendición de los Animales",
+      "categoria": "sacramentais",
+      "resumo": "Tradición ligada a San Francisco de Asís, celebrada generalmente el 4 de octubre, que reconoce a los animales como parte de la creación confiada al cuidado humano.",
+      "corpo": "Es costumbre extendida en muchas parroquias bendecir animales de compañía y de trabajo con ocasión de la fiesta de San Francisco de Asís (1181/1182-1226), celebrada el 4 de octubre. Francisco, canonizado ya en 1228, menos de dos años después de su muerte, se hizo conocido por su relación de fraternidad con toda la creación, llamando a los animales y a los elementos de la naturaleza \"hermanos\" y \"hermanas\" — lo que le valió, siglos después, el título de patrono de la ecología.\n\nAl bendecir a los animales, la Iglesia no les atribuye dignidad divina ni los iguala a la persona humana: reconoce, más bien, que muchos de ellos participan de la vida humana — ayudando en el trabajo, sirviendo de alimento o haciendo compañía — y que, como parte de la obra de Dios, merecen ser tratados con el respeto debido a la creación, de la cual el ser humano es responsable ante el Creador.",
+      "tags": [
+        "sacramentales",
+        "bendición de los animales",
+        "San Francisco de Asís",
+        "creación"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 17,
+      "fontes": [
+        "Vida de San Francisco de Asís (1181/1182-1226; canonizado en 1228)",
+        "Catecismo de la Iglesia Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:genuflexao",
+      "slug": "genuflexao",
+      "titulo": "Genuflexión",
+      "categoria": "sacramentais",
+      "resumo": "Gesto de doblar la rodilla derecha hasta el suelo ante el Santísimo Sacramento, signo corporal de adoración y humildad.",
+      "corpo": "La genuflexión —del latín genuflectere, \"doblar la rodilla\"— es el gesto de arrodillarse brevemente sobre la rodilla derecha ante una presencia sagrada, con origen en la tradición judía de postración ante Dios y adoptado desde temprano por los cristianos. Se distingue de una simple inclinación de cabeza o de tronco por su significado más fuerte: mientras la inclinación expresa respeto y reverencia en general, la genuflexión está reservada, en la liturgia romana, a la adoración debida al Santísimo Sacramento.\n\nDurante la Misa, los fieles suelen genuflexionar al entrar y salir del banco, si el sagrario se encuentra en la capilla mayor con el Santísimo reservado, y el sacerdote genuflexiona después de la consagración del pan y del vino y antes de la comunión. El gesto, sencillo y corporal, es un modo concreto de que el cristiano reconozca con el propio cuerpo la grandeza de Dios presente en la Eucaristía y la pequeñez de quien se arrodilla ante Él.",
+      "tags": [
+        "sacramentales",
+        "genuflexión",
+        "adoración",
+        "reverencia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 18,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1378, 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:bencao-da-mesa",
+      "slug": "bencao-da-mesa",
+      "titulo": "Bendición de la Mesa",
+      "categoria": "sacramentais",
+      "resumo": "Oración de gratitud antes de las comidas, que consagra el alimento cotidiano y reconoce en él un don recibido de Dios.",
+      "corpo": "Inspirado en la tradición judía de bendecir a Dios antes de comer, la costumbre cristiana de bendecir la mesa se remonta a los primeros siglos y sigue viva en muchas familias católicas hasta hoy. El Catecismo sitúa entre los sacramentales, en primer lugar, precisamente las bendiciones de personas, mesas, objetos y lugares — signos sagrados que disponen el corazón a recibir los frutos de los sacramentos y a santificar las diversas circunstancias de la vida.\n\nLa fórmula latina tradicional — \"Benedic, Domine, nos et haec tua dona, quae de tua largitate sumus sumpturi\" (\"Bendícenos, Señor, y bendice estos dones que vamos a recibir de tu bondad\") — puede rezarse en cualquier comida, generalmente dirigida por el padre o la madre de familia. Más que una fórmula fija, la bendición de la mesa expresa el reconocimiento de que el alimento diario es don de Dios, fruto de la tierra fértil y del trabajo humano, y no algo simplemente debido o tomado por garantizado.",
+      "tags": [
+        "sacramentales",
+        "bendición de la mesa",
+        "oración",
+        "vida cotidiana"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 19,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1667-1679"
+      ]
+    },
+    {
+      "id": "sacramentais:terco-abencoado",
+      "slug": "terco-abencoado",
+      "titulo": "El Rosario Bendecido",
+      "categoria": "sacramentais",
+      "resumo": "Las cuentas del Rosario, cuando son bendecidas por un sacerdote o diácono, se convierten en sacramental vinculado a la oración mariana y a las indulgencias.",
+      "corpo": "El rosario —objeto de cuentas usado para acompañar el rezo del Rosario— se convierte en sacramental cuando es bendecido por un sacerdote o diácono, que suele pedir, en la fórmula de bendición, que \"por las oraciones y por la gloria de María, Virgen Madre de Dios, en memoria de los misterios de la vida, muerte y resurrección de nuestro Señor Jesucristo\", las cuentas sean bendecidas y santificadas. A partir de ese momento, el objeto pasa a ser signo sagrado, pero su eficacia espiritual sigue ligada a la fe y a la disposición interior de quien reza con él, nunca a un poder mágico de las cuentas en sí.\n\nLa disciplina eclesiástica de las indulgencias reconoce además un beneficio adicional: el fiel que usa con piedad un rosario debidamente bendecido por cualquier sacerdote o diácono puede obtener indulgencia parcial; si el mismo rosario es bendecido por el Papa o por un obispo, quien lo usa con piedad puede obtener indulgencia plenaria en la solemnidad de los Santos Apóstoles Pedro y Pablo, añadiendo alguna fórmula legítima de profesión de fe.",
+      "tags": [
+        "sacramentales",
+        "rosario",
+        "rosario",
+        "indulgencia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 20,
+      "fontes": [
+        "Manual de Indulgencias (Enchiridion Indulgentiarum)",
+        "Catecismo de la Iglesia Católica, nn. 1667-1679"
+      ]
+    }
+  ]
+}

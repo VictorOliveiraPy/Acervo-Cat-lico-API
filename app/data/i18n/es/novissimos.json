@@ -1,0 +1,280 @@
+{
+  "_meta": {
+    "categoria": "novissimos",
+    "nome": "Novíssimos",
+    "descricao": "As \"últimas coisas\": morte, juicio particular, juicio final, cielo, infierno y purgatorio.",
+    "status": "exemplos-iniciais",
+    "aviso": "Exposición doctrinal introductoria sobre el destino último del hombre; para profundizar en la teología, consulte el Catecismo de la Iglesia Católica en su integridad.",
+    "revisao_editorial": "Las descripciones del Cielo, el Infierno y el Purgatorio evitan el literalismo respecto de las imágenes bíblicas simbólicas (fuego, tinieblas), siguiendo la cautela del propio Catecismo.",
+    "fontes_gerais": [
+      "Catecismo de la Iglesia Católica, nn. 1005-1060"
+    ]
+  },
+  "itens": [
+    {
+      "id": "novissimos:morte",
+      "slug": "morte",
+      "titulo": "La Muerte",
+      "categoria": "novissimos",
+      "resumo": "Para la fe católica, la muerte pone fin a la vida terrena de peregrinación y de decisión libre ante Dios, sin posibilidad de nueva elección después de ella.",
+      "corpo": "La Iglesia enseña que la muerte es el fin de la existencia terrena, el término del \"único curso de vida terrena\" en el que el hombre decide, a la luz de Dios, su destino eterno — sin una \"reencarnación\" ni una nueva oportunidad de elección después de ella (Hb 9,27). Considerada a la luz de la fe, la muerte cristiana es transformada por Cristo: unida a su muerte y resurrección, deja de ser solo fin biológico para convertirse en paso — por eso la Iglesia habla del día de la muerte de un santo como su \"dies natalis\", día de nacimiento para el Cielo.",
+      "tags": [
+        "novísimos",
+        "muerte",
+        "vida eterna"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Philips_Gjsels_-_Memento_Mori_with_a_skull_and_crossbones.jpg",
+      "imagem_credito": null,
+      "ordem": 1,
+      "fontes": [
+        "Hebreos 9,27",
+        "Catecismo de la Iglesia Católica, nn. 1005-1014"
+      ]
+    },
+    {
+      "id": "novissimos:juizo-particular",
+      "slug": "juizo-particular",
+      "titulo": "El Juicio Particular",
+      "resumo": "Juicio inmediato de cada alma en el momento de la muerte, que relaciona su vida con Cristo y decide su suerte eterna antes incluso de la resurrección final y del Juicio Final.",
+      "corpo": "Según la doctrina católica, cada persona es sometida, inmediatamente después de la muerte, a un juicio particular ante Cristo, en el cual su alma inmortal recibe la retribución eterna correspondiente a su fe y a sus obras: la entrada inmediata en la bienaventuranza del Cielo (quizá tras la purificación en el Purgatorio) o la condenación eterna. El Catecismo de la Iglesia Católica (nn. 1021-1022) enseña que la muerte pone fin a la vida del hombre como tiempo abierto a la aceptación o al rechazo de la gracia divina manifestada en Cristo, y que cada uno recibe \"en su alma inmortal la retribución eterna en un juicio particular que relaciona su vida con Cristo\". Se distingue del Juicio Final, que tendrá lugar al fin de los tiempos y comprenderá también la resurrección de los cuerpos.\n\nEl fundamento bíblico de esta doctrina está en la carta a los Hebreos —\"Está establecido que los hombres mueran una sola vez, y después de esto viene el juicio\" (Hb 9,27)— y en otros pasajes que afirman un destino inmediato y distinto para cada alma tras la muerte. El Catecismo cita la parábola del pobre Lázaro (Lc 16,22), la palabra de Cristo al buen ladrón en la cruz —\"hoy estarás conmigo en el Paraíso\" (Lc 23,43)— y textos como 2 Cor 5,8, Flp 1,23 y Hb 12,23. El mismo Catecismo observa que, aunque el Nuevo Testamento habla del juicio principalmente en la perspectiva del encuentro final con Cristo en su segunda venida, también asegura en repetidas ocasiones la existencia de una retribución inmediata tras la muerte de cada uno. El resumen doctrinal (n. 1051) lo formula de modo sucinto: al morir, cada hombre recibe en su alma inmortal su retribución eterna en un juicio particular por Cristo, juez de vivos y muertos.\n\nHistóricamente, la claridad sobre el juicio particular estuvo ligada a la definición del estado de las almas antes de la resurrección. La constitución *Benedictus Deus*, del papa Benedicto XII (1336), al definir que las almas de los justos ya gozan de la visión beatífica y que las de los condenados descienden inmediatamente a la perdición, presupone y consolida la doctrina de un juicio y de un destino fijados poco después de la muerte, antes del juicio general. La controversia con el papa Juan XXII (1316-1334), que parecía postergar la visión de Dios para el fin de los tiempos, fue precisamente el contexto en que esta verdad fue solemnemente afirmada.\n\nEl juicio particular no es, sin embargo, un segundo criterio independiente del Juicio Final: ambos revelan la misma relación personal con Cristo. Lo que distingue al juicio particular es su inmediatez y su carácter individual, que fijan definitivamente la suerte del alma en el momento de la muerte, mientras que el Juicio Final, en la segunda venida, manifestará públicamente ante toda la humanidad la verdad de cada vida. La oración litúrgica por el alma del difunto —\"que puedas contemplar cara a cara a tu Redentor\"— expresa la fe de que esa contemplación se decide ya en el paso de esta vida.",
+      "categoria": "novissimos",
+      "tags": [
+        "novísimos",
+        "juicio",
+        "juicio particular",
+        "muerte",
+        "escatología",
+        "Hebreos 9,27",
+        "Benedicto XII"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Last_Judgement_%28Michelangelo%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Hebreos 9,27",
+        "Lucas 16,22; Lucas 23,43",
+        "2 Corintios 5,8; Filipenses 1,23; Hebreos 12,23",
+        "Catecismo de la Iglesia Católica, nn. 1021-1022 (y n. 1051)",
+        "Benedicto XII, Constitución apostólica Benedictus Deus, 1336"
+      ],
+      "atualizado_em": null,
+      "ordem": 2
+    },
+    {
+      "id": "novissimos:juizo-final",
+      "slug": "juizo-final",
+      "titulo": "El Juicio Final",
+      "resumo": "Juicio universal y definitivo de toda la humanidad, al fin de los tiempos, que coincidirá con la resurrección de los muertos y la segunda venida gloriosa de Cristo.",
+      "corpo": "A diferencia del juicio particular de cada alma, el Juicio Final es el juicio universal de toda la historia humana, que tendrá lugar en la segunda venida gloriosa de Cristo —la \"Parusía\"—, cuando los muertos resucitarán en sus cuerpos y cada persona verá manifestada públicamente la verdad de su relación con Dios. El Catecismo de la Iglesia Católica (nn. 1038-1041) enseña que \"la resurrección de todos los muertos, de los justos y de los pecadores\" (cf. Hch 24,15) precederá al Juicio Final, en la \"hora en que todos los que están en los sepulcros oirán su voz y saldrán: los que hayan hecho el bien, para resurrección de vida; y los que hayan hecho el mal, para resurrección de condenación\" (Jn 5,28-29).\n\nLa descripción bíblica más célebre de este juicio es la escena de Mateo 25,31-46: el Hijo del Hombre viene en su gloria con todos los ángeles, se sienta en su trono y separa a las naciones \"como el pastor separa las ovejas de los cabritos\", pronunciando el criterio decisivo en las obras de misericordia —dar de comer al hambriento, vestir al desnudo, visitar al enfermo y al encarcelado—, identificándose Él mismo con los pequeños: \"cada vez que lo hicisteis con uno de estos mis hermanos más pequeños, conmigo lo hicisteis\". San Agustín, citado en la liturgia y en la tradición exegética, comenta que entonces se manifestará que los pobres fueron puestos en la tierra como portadores de las buenas obras al tesoro de Cristo, de modo que lo que no les fue dado no se encuentra depositado en Él.\n\nEl Catecismo subraya dos notas esenciales. Primero, el Juicio Final tendrá lugar cuando ocurra la venida gloriosa de Cristo, pero \"solo el Padre sabe el día y la hora, solo Él decide su venida\"; en él se pronunciará la palabra definitiva sobre toda la historia, y los hombres comprenderán el sentido último de toda la creación y de toda la economía de la salvación, viendo cómo la justicia de Dios triunfa sobre todas las injusticias y cómo su amor es más fuerte que la muerte. Segundo, el mensaje del Juicio Final no es primariamente de terror, sino una llamada a la conversión mientras aún hay \"el tiempo favorable, el tiempo de la salvación\" (2 Cor 6,2); inspira el santo temor de Dios, compromete en la justicia del Reino y anuncia la \"feliz esperanza\" (Tt 2,13) del retorno del Señor, que vendrá \"para ser glorificado en sus santos\" (2 Tes 1,10).\n\nEsta verdad está inscrita en la profesión de fe de la Iglesia, que confiesa que Cristo \"vendrá de nuevo, con gloria, para juzgar a vivos y muertos, y su Reino no tendrá fin\". La tradición litúrgica le dio expresión en el himno *Dies irae*, atribuido a la tradición franciscana medieval e incorporado a la Misa de Réquiem, con sus versos sobre el \"día de la ira\" en que el mundo se disolverá en cenizas. En el arte, la escena fue representada innumerables veces —desde el *Juicio Final* de Fra Angelico hasta el fresco de Miguel Ángel en la Capilla Sixtina (1536-1541), que cubre la pared del altar del Vaticano y reúne más de trescientas figuras en torno a Cristo juez. El Catecismo observa además que, al fin de los tiempos, el Reino de Dios alcanzará su plenitud con la promesa de \"cielos nuevos y tierra nueva\" (cf. Ap 21,1), cuando Dios será \"todo en todos\" (1 Cor 15,28).",
+      "categoria": "novissimos",
+      "tags": [
+        "novísimos",
+        "juicio",
+        "juicio final",
+        "resurrección",
+        "parusía",
+        "Mateo 25",
+        "escatología"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Last_Judgement_%28Michelangelo%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Mateo 25,31-46",
+        "Juan 5,28-29; Hechos 24,15",
+        "2 Corintios 6,2; Tito 2,13; 2 Tesalonicenses 1,10",
+        "Catecismo de la Iglesia Católica, nn. 1038-1041",
+        "Himno Dies irae (tradición litúrgica de la Misa de Réquiem)"
+      ],
+      "atualizado_em": null,
+      "ordem": 3
+    },
+    {
+      "id": "novissimos:ceu",
+      "slug": "ceu",
+      "titulo": "El Cielo",
+      "resumo": "La comunión de vida y amor plena y definitiva con la Santísima Trinidad, con María, los ángeles y todos los santos — la visión beatífica, felicidad suprema y fin último del hombre.",
+      "corpo": "El Cielo no es descrito por la doctrina católica como un lugar físico en el sentido común, sino como el estado supremo y definitivo de felicidad: la comunión de vida y de amor con la Trinidad, con la Virgen María, los ángeles y todos los bienaventurados. El Catecismo de la Iglesia Católica (nn. 1023-1029) define esta condición como la \"visión beatífica\": los que mueren en gracia y en amistad con Dios y están totalmente purificados viven para siempre con Cristo y ven a Dios \"tal como es\" (1 Jn 3,2), \"cara a cara\" (1 Cor 13,12). Se trata del conocimiento intuitivo e inmediato de la esencia divina misma, para el cual ninguna criatura puede servir de intermediaria, y que supera toda capacidad de comprensión o imaginación humana en esta vida.\n\nEsta formulación fue fijada sobre todo por la constitución apostólica *Benedictus Deus*, del papa Benedicto XII, promulgada el 29 de enero de 1336. En ella el papa define, con autoridad apostólica, que las almas de los justos — las que murieron sin nada que purificar, o que ya fueron purificadas después de la muerte — \"han visto y ven la esencia divina con visión intuitiva y aun cara a cara, sin que criatura alguna intervenga como objeto de visión\", y que esa visión y goce \"continúan sin interrupción y sin fin hasta el último Juicio y, después, para siempre\". El documento aclara también que, una vez iniciada esa visión inmediata, cesan en las almas los actos de fe y de esperanza, pues estas virtudes teologales ceden su lugar a la contemplación directa.\n\nEl *Benedictus Deus* fue respuesta a una controversia concreta. El papa Juan XXII (1316-1334), antes de ser elegido y después en sus predicaciones — más como teólogo particular que como maestro del magisterio —, había sostenido que las almas de los salvados sólo alcanzarían la visión de Dios después del Juicio Final, posición cercana a la idea de un \"sueño del alma\". Esto provocó una fuerte reacción de teólogos, sobre todo en la Universidad de París, que la acusaban de herética. En un consistorio del 3 de enero de 1334, Juan XXII declaró que nunca había tenido la intención de definir la cuestión, y, antes de morir, se retractó y profesó la creencia de que las almas separadas de los cuerpos ya gozan de la visión beatífica en el Cielo. La definición de Benedicto XII cerró la disputa y sigue siendo el texto de referencia sobre el estado de las almas antes de la resurrección.\n\nLa doctrina católica vincula el Cielo con la esperanza de la resurrección: la bienaventuranza del alma se completará, al fin de los tiempos, con la glorificación del cuerpo, dotado entonces de impasibilidad, esplendor, agilidad y sutileza. Al mismo tiempo, subraya el carácter relacional del Cielo: según el Catecismo (nn. 954-956), los bienaventurados no se alejan de los que aún peregrinan en la tierra, sino que interceden por ellos — la llamada comunión de los santos. Y añade que los que están en la gloria continúan cumpliendo con alegría la voluntad de Dios respecto de los demás hombres y de toda la creación, reinando con Cristo (cf. Ap 22,5). La liturgia, por su parte, expresa esta esperanza en la oración por los difuntos, pidiendo que el alma del fiel \"pueda contemplar cara a cara a su Redentor\", como reza el Rito de la Unción de los Enfermos y del cuidado pastoral de los moribundos.",
+      "categoria": "novissimos",
+      "tags": [
+        "novísimos",
+        "cielo",
+        "vida eterna",
+        "visión beatífica",
+        "Benedicto XII",
+        "escatología",
+        "comunión de los santos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Paradiso_Canto_31.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "1 Corintios 13,12",
+        "1 Juan 3,2",
+        "Catecismo de la Iglesia Católica, nn. 1023-1029 (y nn. 954-956)",
+        "Benedicto XII, Constitución apostólica Benedictus Deus, 29 de enero de 1336",
+        "Rito de la Unción de los Enfermos y del cuidado pastoral, Orden de recomendación de los moribundos, 146-147"
+      ],
+      "atualizado_em": null,
+      "ordem": 4
+    },
+    {
+      "id": "novissimos:inferno",
+      "slug": "inferno",
+      "titulo": "El Infierno",
+      "categoria": "novissimos",
+      "resumo": "Estado de autoexclusión definitiva y libre de la comunión con Dios, consecuencia de morir en pecado mortal no arrepentido.",
+      "corpo": "La Iglesia enseña la existencia del infierno y su eternidad no como una imposición arbitraria de Dios, sino como consecuencia del propio rechazo libre y definitivo, por parte de la criatura, de la comunión con Dios: \"morir en pecado mortal sin arrepentirse\" (Catecismo, n. 1033). Las Escrituras lo describen con imágenes simbólicas (\"fuego eterno\", \"tinieblas exteriores\") que expresan la gravedad de esa separación definitiva, más que descripciones literales de su naturaleza física.",
+      "tags": [
+        "novísimos",
+        "infierno",
+        "pecado mortal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/17/Hieronymus_Bosch_-_The_Garden_of_Earthly_Delights_-_Hell.jpg",
+      "imagem_credito": null,
+      "ordem": 5,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1033-1037"
+      ]
+    },
+    {
+      "id": "novissimos:purgatorio",
+      "slug": "purgatorio",
+      "titulo": "El Purgatorio",
+      "categoria": "novissimos",
+      "resumo": "Estado de purificación final para las almas que mueren en gracia de Dios, pero aún imperfectamente purificadas, antes de entrar en la plena visión de Dios.",
+      "corpo": "El Purgatorio no es, en la doctrina católica, un \"segundo infierno\" ni una segunda oportunidad de conversión: es el estado —no necesariamente un lugar en sentido espacial— de purificación final de las almas que mueren en amistad con Dios (destinadas con certeza al Cielo), pero que aún cargan con las consecuencias de pecados ya perdonados en cuanto a la culpa. La Iglesia recomienda el sufragio por los difuntos (oraciones, limosnas, indulgencias) como ayuda concreta a estas almas, con base bíblica citada, entre otros pasajes, en 2 Macabeos 12,46.",
+      "tags": [
+        "novísimos",
+        "purgatorio",
+        "sufragio por los muertos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Dor%C3%A9_Dante_Fegefeuer.jpg",
+      "imagem_credito": null,
+      "ordem": 6,
+      "fontes": [
+        "2 Macabeos 12,46",
+        "Catecismo de la Iglesia Católica, nn. 1030-1032"
+      ]
+    },
+    {
+      "id": "novissimos:parusia",
+      "slug": "parusia",
+      "titulo": "La Parusía (la Segunda Venida de Cristo)",
+      "categoria": "novissimos",
+      "resumo": "El glorioso retorno de Cristo al final de los tiempos, cuando juzgará públicamente a vivos y muertos — día y hora que, según el propio Catecismo, nadie conoce.",
+      "corpo": "Parusía viene del griego parousía (\"venida\", \"presencia\") y designa el glorioso retorno de Jesucristo al final de la historia, cuando juzgará públicamente a vivos y muertos en el Juicio Final. Desde la Ascensión, enseña el Catecismo, esta venida ya es inminente — pero nadie sabe \"los tiempos y los momentos que el Padre ha fijado con su propia autoridad\" (Hch 1,7): ni el día ni la hora han sido revelados a nadie, ni siquiera a los ángeles.\n\nLa Iglesia enseña que, antes de la Parusía, pasará por una última prueba que sacudirá la fe de muchos fieles — un período de apostasía religiosa marcado por el engaño de un \"Anticristo\", una impostura pseudomesiánica en la que el hombre se glorifica en lugar de Dios. Solo después de esta prueba final, y del triunfo definitivo de Dios sobre el mal, Cristo vendrá \"sobre las nubes del cielo, con gran poder y gloria\" (Mt 24,30).",
+      "tags": [
+        "parusia",
+        "segunda vinda",
+        "juízo final",
+        "escatologia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Icon_second_coming.jpg",
+      "imagem_credito": null,
+      "ordem": 7,
+      "fontes": []
+    },
+    {
+      "id": "novissimos:ressurreicao-dos-mortos",
+      "slug": "ressurreicao-dos-mortos",
+      "titulo": "La Resurrección de los Muertos",
+      "categoria": "novissimos",
+      "resumo": "El artículo del Credo que profesa que los cuerpos de los muertos resucitarán al fin de los tiempos, reunidos de nuevo con sus almas para la vida eterna o la condenación.",
+      "corpo": "El Credo cristiano profesa \"la resurrección de la carne\" como artículo distinto de fe, situado justo antes de \"la vida eterna\". La doctrina enseña que, al fin de los tiempos, los cuerpos de todos los que han muerto serán reunidos de nuevo con sus almas, del mismo modo —aunque de forma incomparablemente superior— como el cuerpo de Cristo resucitó verdaderamente al tercer día. El Catecismo explica que \"se siembra un cuerpo corruptible, resucita un cuerpo incorruptible\" (cf. 1Cor 15,42-44): se trata de un \"cuerpo espiritual\", transformado, y no de una simple reanimación de la vida biológica anterior.\n\nLa fe en la resurrección de la carne se distingue claramente de cualquier doctrina de reencarnación: la Iglesia enseña que cada persona vive una única existencia terrena, decidiendo en ella su destino eterno, y que el mismo cuerpo que cada uno tuvo en vida —transfigurado— será reunido con el alma en el juicio final, sea para la gloria, sea para la condenación, según la vida que cada uno haya vivido.\n\nEsta esperanza se fundamenta por completo en la resurrección de Cristo, \"primicias de los que duermen\" (1Cor 15,20): para San Pablo, si Cristo no resucitó, vana es la fe cristiana; pero, habiendo resucitado, garantiza la resurrección de todos los que están unidos a Él.",
+      "tags": [
+        "resurrección",
+        "credo",
+        "escatología",
+        "1 Corintios 15"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 988-1019",
+        "1 Corintios 15,12-44"
+      ]
+    },
+    {
+      "id": "novissimos:vida-eterna",
+      "slug": "vida-eterna",
+      "titulo": "La Vida Eterna",
+      "categoria": "novissimos",
+      "resumo": "Último artículo del Credo: la comunión plena y definitiva con Dios, a la que el hombre es llamado después de la muerte, del juicio y de la resurrección de la carne.",
+      "corpo": "\"Creo en la vida eterna\" es el último artículo del Símbolo de los Apóstoles y del Credo Niceno-Constantinopolitano, y resume la esperanza hacia la que converge toda la fe cristiana profesada en los artículos anteriores. Se trata de la comunión plena, definitiva y para siempre con Dios Uno y Trino, prometida a quienes mueren en su gracia y amistad — la misma realidad que la tradición designa también con los nombres de \"cielo\" o \"visión beatífica\".\n\nEl Catecismo enseña que, para el cristiano que une su muerte a la de Cristo, morir no es el fin, sino el paso al encuentro definitivo con el Señor: por eso la liturgia funeraria acompaña al moribundo con palabras de esperanza, encomendando su alma \"al lugar de la paz\" y \"a la compañía de la Virgen María y de todos los ángeles y santos\". La vida eterna no es solamente la supervivencia del alma, sino — después de la resurrección de la carne — la plenitud del ser humano completo, cuerpo y alma, glorificado en Dios.\n\nLa expresión \"vida eterna\" no designa una simple duración indefinida en el tiempo, sino otra calidad de existencia: participación, más allá del tiempo, en la propia vida de Dios, descrita por la Escritura como visión cara a cara (1 Cor 13,12) y como estado en el que \"Dios enjugará toda lágrima de sus ojos\" (Ap 21,4).",
+      "tags": [
+        "vida eterna",
+        "credo",
+        "escatología",
+        "visión beatífica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1020-1050",
+        "1 Corintios 13,12; Apocalipsis 21,4"
+      ]
+    },
+    {
+      "id": "novissimos:novos-ceus-e-nova-terra",
+      "slug": "novos-ceus-e-nova-terra",
+      "titulo": "Nuevos Cielos y Nueva Tierra",
+      "categoria": "novissimos",
+      "resumo": "La esperanza escatológica de que, al fin de los tiempos, todo el universo creado será transfigurado y renovado, y no simplemente destruido.",
+      "corpo": "Además del destino personal de cada ser humano, la escatología católica afirma también un destino para el universo material: citando la Segunda Carta de San Pedro y el Apocalipsis, el Catecismo enseña la esperanza de \"un cielo nuevo y una tierra nueva\" (2P 3,13; Ap 21,1), en los que habitará la justicia y Dios será \"todo en todos\" (1Co 15,28).\n\nEsta consumación, que la tradición llama también \"restauración universal\" (cf. Hch 3,21), no se entiende como aniquilación del mundo presente, sino como su transfiguración: el propio universo visible, enseña el Catecismo, está destinado a ser transformado, para que, liberado de la corruptibilidad introducida por el pecado, esté plenamente al servicio de los justos glorificados en Cristo.\n\nLa Iglesia rechaza, en este contexto, el milenarismo —la idea de un reinado terreno intermedio de Cristo antes del fin definitivo— por considerarlo una falsificación del Reino futuro, sobre todo en su forma politizada de mesianismo secularizado. La esperanza cristiana en los nuevos cielos y la nueva tierra no es un programa histórico que deba realizarse dentro del tiempo, sino el horizonte que solo se cumplirá más allá de la historia, en el Juicio Final.",
+      "tags": [
+        "escatología",
+        "Apocalipsis",
+        "consumación del mundo",
+        "milenarismo"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1042-1050",
+        "2 Pedro 3,13; Apocalipsis 21,1; 1 Corintios 15,28"
+      ]
+    },
+    {
+      "id": "novissimos:anticristo",
+      "slug": "anticristo",
+      "titulo": "El Anticristo",
+      "categoria": "novissimos",
+      "resumo": "La suprema decepción religiosa que, según el Catecismo, precederá a la gloriosa venida de Cristo, bajo la forma de un pseudomesianismo en el que el hombre se glorifica a sí mismo.",
+      "corpo": "El Catecismo enseña que, antes de la venida de Cristo, la Iglesia deberá atravesar una última prueba que sacudirá la fe de muchos creyentes: la persecución que acompaña su peregrinación en la tierra revelará el \"misterio de iniquidad\" bajo la forma de una impostura religiosa que ofrece a los hombres una solución aparente a sus problemas, a costa de la apostasía de la verdad. Esta suprema decepción religiosa es la del Anticristo, es decir, la de un pseudomesianismo en el que el hombre se glorifica a sí mismo, colocándose en el lugar de Dios y del Mesías venido en la carne (CIC 675).\n\nEl Catecismo aclara que esta decepción anticristiana ya se esboza en el mundo siempre que se pretende realizar dentro de la historia la esperanza mesiánica, que solo puede cumplirse más allá de ella, mediante el juicio escatológico: la Iglesia rechazó esta falsificación del Reino futuro incluso en su forma atenuada, bajo el nombre de milenarismo, y sobre todo en su forma política de mesianismo secularizado, \"intrínsecamente perverso\" (CIC 676).\n\nSolo a través de esta última Pascua, en la que seguirá al Señor en su Muerte y Resurrección, la Iglesia entrará en la gloria del Reino: el triunfo de Dios sobre este último embate del mal revestirá la forma del Juicio Final, después de la última sacudida cósmica de este mundo que pasa (CIC 677).",
+      "tags": [
+        "anticristo",
+        "escatología",
+        "milenarismo",
+        "juicio final"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 675-677"
+      ]
+    },
+    {
+      "id": "novissimos:limbo",
+      "slug": "limbo",
+      "titulo": "El Limbo",
+      "categoria": "novissimos",
+      "resumo": "Hipótesis teológica, nunca definida como dogma, sobre el destino de los niños muertos sin bautismo; hoy la Iglesia confía su salvación a la misericordia de Dios.",
+      "corpo": "El \"limbo de los infantes\" fue, a lo largo de siglos, una hipótesis teológica elaborada por autores medievales para explicar el destino de los niños que mueren sin el bautismo, sin haber cometido pecado personal, pero nacidos con el pecado original: un estado de felicidad natural, sin la visión beatífica, pero también sin sufrimiento. Esta hipótesis nunca fue definida como dogma de fe por la Iglesia, permaneciendo siempre una opinión teológica entre otras, aunque ampliamente difundida en la enseñanza común entre la Edad Media y el siglo XX.\n\nEn 2007, la Comisión Teológica Internacional publicó, con autorización del papa Benedicto XVI, el documento \"La esperanza de salvación para los niños que mueren sin bautismo\", reconociendo que la hipótesis del limbo reflejaba una visión excesivamente restrictiva de la salvación. El documento concluyó que existen \"serias razones teológicas\" para tener esperanza de que esos niños se salven y alcancen la visión de Dios, confiándolos a la misericordia divina, que quiere que todos los hombres se salven (1Tim 2,4) y que instituyó el bautismo sin, por ello, quedar limitada a él en sus propios medios de salvar.\n\nEl propio documento aclara que no se trata de un pronunciamiento del Magisterio solemne, y que la hipótesis del limbo sigue siendo una opinión teológicamente posible, aunque hoy poco propuesta; lo que la Iglesia afirma con claridad es la confianza en la misericordia de Dios y la recomendación urgente a los padres de no retrasar el bautismo de sus hijos.",
+      "tags": [
+        "limbo",
+        "bautismo",
+        "escatología",
+        "Comisión Teológica Internacional"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "fontes": [
+        "Comisión Teológica Internacional, La esperanza de salvación para los niños que mueren sin bautismo (19 de abril de 2007)",
+        "1 Timoteo 2,4"
+      ]
+    }
+  ]
+}

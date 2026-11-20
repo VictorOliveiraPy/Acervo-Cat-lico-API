@@ -1,0 +1,554 @@
+{
+  "_meta": {
+    "categoria": "pecados",
+    "nome": "Pecados",
+    "descricao": "Los siete pecados capitales y otras categorías clásicas del pecado en la moral católica, cada uno con la virtud que le es opuesta.",
+    "status": "exemplos-iniciais",
+    "aviso": "No sustituye el acompañamiento de un director espiritual o confesor para el discernimiento moral personal; es material catequético introductorio.",
+    "revisao_editorial": "El orden tradicional de los siete pecados capitales sigue la lista consolidada por San Gregorio Magno; la numeración de 'orden' refleja esa secuencia histórica, no una escala de gravedad moral fija entre ellos.",
+    "fontes_gerais": [
+      "Catecismo de la Iglesia Católica, nn. 1846-1876 (el pecado) y nn. 1852-1864",
+      "Santo Tomás de Aquino, «Suma Teológica», II-II"
+    ]
+  },
+  "itens": [
+    {
+      "id": "pecados:soberba",
+      "slug": "soberba",
+      "titulo": "Soberbia",
+      "categoria": "pecados",
+      "resumo": "El primero y, para la tradición espiritual, el más grave de los pecados capitales: el amor desordenado de la propia excelencia.",
+      "corpo": "La soberbia es el deseo desordenado de ser superior a los demás, el rechazo a reconocer la propia dependencia de Dios y de los demás. La tradición espiritual —desde San Agustín y San Gregorio Magno hasta Santo Tomás de Aquino— la considera raíz de todos los demás pecados capitales, por ser, en su forma más radical, el intento de la criatura de ocupar el lugar del Creador. Se llama \"pecado capital\" porque da origen a otros vicios (vanagloria, ambición desmedida, desprecio por el prójimo), no porque sea necesariamente el más grave en cada caso concreto —distinción que la moral católica siempre ha hecho.",
+      "tags": [
+        "pecados capitales",
+        "moral",
+        "virtudes"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Jheronimus_Bosch_Table_of_the_Mortal_Sins_%28Superbia%29.jpg",
+      "imagem_credito": null,
+      "ordem": 1,
+      "virtude_oposta": "Humildad",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1846-1876 (el pecado)"
+      ]
+    },
+    {
+      "id": "pecados:avareza",
+      "slug": "avareza",
+      "titulo": "Avaricia",
+      "categoria": "pecados",
+      "resumo": "Apego desordenado a los bienes materiales y a la riqueza, que cierra el corazón al compartir y a la confianza en la providencia de Dios.",
+      "corpo": "La avaricia es el deseo desordenado de poseer riquezas y bienes materiales, y el apego excesivo a ellos, incluso a costa de la justicia y de la caridad debidas al prójimo. Se distingue de la simple prudencia o economía doméstica por el hecho de convertir el tener en un fin en sí mismo, en lugar de un medio al servicio de la vida y de la caridad. El Evangelio la asocia con frecuencia a la dificultad de confiar en Dios (\"no podéis servir a Dios y al dinero\", Mt 6,24), y la virtud que le es opuesta, la generosidad, integra la lista de las obras de misericordia.",
+      "tags": [
+        "pecados capitales",
+        "moral",
+        "bienes materiales"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Jheronimus_Bosch_Table_of_the_Mortal_Sins_%28Avaricia%29.jpg",
+      "imagem_credito": null,
+      "ordem": 2,
+      "virtude_oposta": "Generosidad",
+      "fontes": [
+        "Evangelio según Mateo 6,24",
+        "Catecismo de la Iglesia Católica, nn. 1846-1876"
+      ]
+    },
+    {
+      "id": "pecados:luxuria",
+      "slug": "luxuria",
+      "titulo": "Lujuria",
+      "categoria": "pecados",
+      "resumo": "Búsqueda desordenada del placer sexual, desligada del sentido unitivo y procreativo que la Iglesia reconoce en la sexualidad humana.",
+      "corpo": "La lujuria es el deseo desordenado o el goce desmedido del placer sexual, buscado por sí mismo y desligado del contexto de donación total y fecunda que la moral católica reconoce como propio de la sexualidad dentro del matrimonio. El Catecismo distingue varios modos concretos en que este desorden se manifiesta —masturbación, fornicación, pornografía, prostitución— sin reducir la moral sexual católica a una lista de prohibiciones: el trasfondo es siempre la integración de la sexualidad en la donación de sí mismo al servicio del amor.",
+      "tags": [
+        "pecados capitales",
+        "moral",
+        "castidad"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Jheronimus_Bosch_Table_of_the_Mortal_Sins_%28Luxuria%29.jpg",
+      "imagem_credito": null,
+      "ordem": 3,
+      "virtude_oposta": "Castidad",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 2351-2359"
+      ]
+    },
+    {
+      "id": "pecados:ira",
+      "slug": "ira",
+      "titulo": "Ira",
+      "categoria": "pecados",
+      "resumo": "Deseo desordenado de venganza u odio al prójimo, distinto de la indignación legítima ante una injusticia real.",
+      "corpo": "La ira, como pecado capital, es el deseo desordenado de venganza o el odio persistente contra quien se considera que ha causado un mal. La tradición moral católica distingue esta ira pecaminosa de una reacción inicial de indignación ante una injusticia real —sentimiento humano en sí mismo neutro, y a veces incluso virtuoso, cuando está ordenado y es proporcionado— del odio que se instala y busca el mal del otro. Es pecado grave sobre todo cuando alimenta un deseo real de daño al prójimo.",
+      "tags": [
+        "pecados capitales",
+        "moral",
+        "paciencia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Jheronimus_Bosch_Table_of_the_Mortal_Sins_%28Ira%29.jpg",
+      "imagem_credito": null,
+      "ordem": 4,
+      "virtude_oposta": "Paciencia",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1846-1876 (el pecado)"
+      ]
+    },
+    {
+      "id": "pecados:gula",
+      "slug": "gula",
+      "titulo": "Gula",
+      "resumo": "Amor desordenado a los placeres de la comida y la bebida, que subordina la razón al apetito; vicio capital opuesto a la templanza y a la sobriedad.",
+      "corpo": "La gula es el amor desordenado a los placeres de la mesa —comer o beber más allá de la necesidad real, o con excesiva preocupación y refinamiento—, de modo que el apetito pasa a dominar la razón en lugar de ser por ella gobernado. El Catecismo de la Iglesia Católica la enumera entre los pecados capitales (n. 1866: soberbia, avaricia, envidia, ira, lujuria, gula y pereza o negligencia), entendidos como raíces generadoras de otros pecados y vicios.\n\nLa primera clasificación sistemática de sus formas es de San Gregorio Magno, en el libro XXX de los \"Moralia in Iob\": \"el vicio de la gula nos tienta de cinco maneras\" —adelantando la hora de las comidas; buscando manjares más refinados; deseando que el alimento sea preparado con demasiado esmero; excediéndose en la propia cantidad; y pecando por la ansia de un deseo inmenso—. Santo Tomás de Aquino retoma esta división (Suma Teológica, II-II, q. 148, a. 4) y la resume en el verso mnemotécnico praepropere (fuera de tiempo), laute (con lujo), nimis (demasiado), ardenter (con ardor) y studiose (con esmero excesivo). Como la gula también pone en riesgo la razón, Tomás discute en qué casos constituye pecado mortal, distinguiendo el desorden grave y deliberado de la simple falta venial.\n\nSiguiendo aún a Gregorio (Moralia XXXI), Tomás enumera las \"hijas\" o efectos de la gula (II-II, q. 148, a. 6): la alegría necia o indisciplinada (inepta laetitia), la bufonería o chocarrería (scurrilitas), la suciedad o impureza (immundicia), la locuacidad excesiva (multiloquium) y el embotamiento de la mente en cuanto a la comprensión (hebetudo mentis circa intelligentiam). El embotamiento se atribuye a la \"fumosidad\" de los alimentos y de la bebida, que perturba la inteligencia; por contraste, la abstinencia favorece la agudeza de la percepción espiritual. La lujuria es el efecto más frecuente y nocivo que Tomás asocia a la gula.\n\nPor ser un vicio opuesto a la virtud de la templanza —y a la sobriedad y a la abstinencia que de ella derivan—, los remedios tradicionales son la moderación en el comer y en el beber, el ayuno y la disciplina. En la tradición ascética, la gula se considera la primera puerta de entrada a los demás vicios: en la enseñanza de los Padres, el dominio del apetito por la comida es condición para gobernar las demás pasiones —formulación resumida en la sentencia de que \"no es el alimento, sino el deseo, lo que falta\".",
+      "categoria": "pecados",
+      "tags": [
+        "pecados capitales",
+        "moral",
+        "templanza",
+        "Tomás de Aquino",
+        "Gregorio Magno",
+        "hijas de la gula",
+        "gula"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/da/Jheronimus_Bosch_Table_of_the_Mortal_Sins_%28Gula%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, n. 1866 (lista de los pecados capitales)",
+        "San Gregorio Magno, Moralia in Iob, XXX (las cinco especies de gula) y XXXI (las hijas de la gula)",
+        "Santo Tomás de Aquino, Suma Teológica, II-II, q. 148, a. 4 (las especies de gula: praepropere, laute, nimis, ardenter, studiose)",
+        "Santo Tomás de Aquino, Suma Teológica, II-II, q. 148, a. 6 (las hijas de la gula)",
+        "Santo Tomás de Aquino, Suma Teológica, II-II, q. 141-170 (la templanza y los vicios opuestos)"
+      ],
+      "atualizado_em": null,
+      "ordem": 5,
+      "virtude_oposta": "Templanza"
+    },
+    {
+      "id": "pecados:inveja",
+      "slug": "inveja",
+      "titulo": "Envidia",
+      "resumo": "Tristeza por el bien ajeno y deseo desmedido de poseerlo, opuesta al gozo fraterno; vicio capital señalado por la Escritura como la puerta por la que la muerte entró en el mundo.",
+      "corpo": "La envidia es la tristeza experimentada ante el bien —material, moral o espiritual— que posee otra persona, acompañada con frecuencia del deseo, más o menos consciente, de que ella lo pierda. El Catecismo de la Iglesia Católica (n. 2539) la define como \"vicio capital\" que \"designa la tristeza que se siente ante el bien del prójimo y el deseo desordenado\" de poseerlo o alcanzarlo, y la distingue de la legítima aspiración a poseer también un bien que se ve en el otro (deseo que, ordenado, puede impulsar al crecimiento): pecaminosa es específicamente la tristeza por el bien ajeno en cuanto tal.\n\nLa gravedad de la envidia se apoya en fuente bíblica y patrística. El Libro de la Sabiduría (2,24) afirma que \"por envidia del diablo entró la muerte en el mundo\", texto que fundamenta la tradición de ver en ella el pecado primordial por excelencia: San Agustín la llama \"pecado diabólico\". Por eso, si el envidioso desea un mal grave al prójimo, su acto se convierte en pecado mortal, pues destruye la caridad, virtud a la que la envidia se opone directamente. En la Carta a los Gálatas (5,19-21), \"envidias\" figura entre las obras de la carne que excluyen del Reino de Dios.\n\nEl análisis más sistemático se encuentra en Santo Tomás de Aquino, que trata de la envidia como vicio capital (Suma Teológica, II-II, q. 36). Tomás la define como la tristeza por el bien del prójimo, ordenándola a la caridad como su opuesto; y, siguiendo a San Gregorio Magno, enumera sus \"hijas\", es decir, los vicios que de ella derivan. Las distingue por etapas: al principio, el envidioso se esfuerza por disminuir la gloria del otro —en secreto, por la murmuración; abiertamente, por la difamación (detracción). En medio, busca ese fin: si lo consigue, hay gozo por la desgracia ajena; si no, aflicción por la prosperidad del prójimo. Al término, se encuentra el odio, pues así como el bien es causa del amor, la tristeza es causa del odio (II-II, q. 36, a. 4).\n\nEl Catecismo incluye la envidia en la lista de los pecados capitales (n. 1866: soberbia, avaricia, envidia, ira, lujuria, gula y pereza o negligencia), comprendidos como raíces que generan otros pecados y vicios. El antídoto señalado por la tradición es la caridad fraterna —alegrarse por el bien del prójimo—, acompañada de la humildad y de la gratitud, que reconocen los propios dones como recibidos de la gracia.",
+      "categoria": "pecados",
+      "tags": [
+        "pecados capitales",
+        "moral",
+        "caridad",
+        "San Agustín",
+        "Tomás de Aquino",
+        "hijas de la envidia",
+        "Sabiduría"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Jheronimus_Bosch_Table_of_the_Mortal_Sins_%28Invidia%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, n. 2539",
+        "Catecismo de la Iglesia Católica, n. 1866 (lista de los pecados capitales)",
+        "San Agustín, sobre la envidia como \"pecado diabólico\" (cf. Sb 2,24: \"por envidia del diablo entró la muerte en el mundo\")",
+        "Santo Tomás de Aquino, Suma Teológica, II-II, q. 36 (la envidia y sus hijas)",
+        "San Gregorio Magno, Moralia in Iob (las hijas de la envidia)",
+        "Carta a los Gálatas 5,19-21"
+      ],
+      "atualizado_em": null,
+      "ordem": 6,
+      "virtude_oposta": "Caridad fraterna"
+    },
+    {
+      "id": "pecados:preguica",
+      "slug": "preguica",
+      "titulo": "Pereza (Acedia)",
+      "resumo": "Negligencia o desánimo espiritual — la acedia de los Padres del desierto, el «demonio del mediodía» — que lleva a abandonar los deberes y a resistir el esfuerzo del crecimiento en la vida cristiana.",
+      "corpo": "En la tradición monástica antigua, el pecado capital hoy llamado «pereza» era designado con la palabra griega «acedia» (akēdía), que no indica solo la pereza física común, sino un tedio o desánimo espiritual profundo, una tristeza difusa ante los bienes espirituales que lleva al monje a descuidar sus propios deberes —incluida la oración— y a resistir el esfuerzo necesario para perseverar. Es opuesta al «fervor» o «diligencia» en la búsqueda de aquello que verdaderamente importa.\n\nLa formulación original se encuentra en los Padres del desierto. Evagrio Póntico (c. 346-399), en obras como el «Tratado de la vida práctica» (Praktikós) y «Ocho pensamientos», describe ocho «pensamientos» o demonios que acosan al asceta: gula, fornicación, avaricia, tristeza, ira, acedia, vanagloria y soberbia. La acedia recibe aquí un tratamiento especial —Evagrio la llama «el más opresivo de todos los demonios» y «demonio del mediodía», en alusión al Salmo 90 (91 en la numeración hebrea): «no temerás... al demonio que devasta al mediodía» (Vulgata: ab incursu et daemonio meridiano). Para Evagrio, la acedia es un pensamiento «compuesto», que nace al mismo tiempo de la parte concupiscible y de la irascible y «abarca casi todos los demás pensamientos», amenazando con sofocar el intelecto como el sol en lo alto que abrasa los campos.\n\nJuan Casiano (c. 360-c. 435), en el «De institutis coenobiorum» y en las «Collationes», transmitió a Occidente esta doctrina de los ocho vicios, latinizándolos (gastrimargia, fornicatio, philargyria, ira, tristitia, acedia, cenodoxia, superbia) y fijando la expresión «meridianum daemonem». Fue, sin embargo, san Gregorio Magno, en los «Moralia in Iob» (siglo VI), quien redujo la lista a siete cabezas, génesis de la enumeración posterior de los pecados capitales. En la lista gregoriana figura la «tristitia» en lugar de la acedia, y la fusión de ambas —con el desplazamiento del sentido hacia la negligencia— consolidó lo que el Catecismo de la Iglesia Católica llama «la pereza o negligencia (acedia)» (n. 1866, que cita expresamente a san Juan Casiano y a san Gregorio Magno y distingue los vicios en soberbia, avaricia, envidia, ira, lujuria, gula y pereza o negligencia).\n\nEn la síntesis escolástica, santo Tomás de Aquino define la acedia como la tristeza ante el bien espiritual divino, tratándola como vicio capital en razón de su poder de generar otros males (Suma Teológica). Es en esta clave que el Catecismo (nn. 1846-1876) sitúa la doctrina del pecado y de los vicios capitales: llamados «capitales» porque son generadores de otros pecados y vicios, aunque no sean necesariamente y siempre pecados mortales.",
+      "categoria": "pecados",
+      "tags": [
+        "pecados capitales",
+        "moral",
+        "diligencia espiritual",
+        "acedia",
+        "Padres del desierto",
+        "Evagrio Póntico",
+        "Juan Casiano",
+        "Gregorio Magno",
+        "Tomás de Aquino"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Jheronimus_Bosch_Table_of_the_Mortal_Sins_%28Accidia%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, n. 1866 (lista de los pecados capitales; cita a san Juan Casiano y a san Gregorio Magno)",
+        "Catecismo de la Iglesia Católica, nn. 1846-1876 (el pecado y los vicios)",
+        "Evagrio Póntico, Praktikós (Tratado de la vida práctica), 12 y 28, y Ocho pensamientos",
+        "Juan Casiano, De institutis coenobiorum y Collationes (Conf. VII)",
+        "Salmo 90 (91), v. 6 (Vulgata: ab incursu et daemonio meridiano)",
+        "San Gregorio Magno, Moralia in Iob",
+        "Santo Tomás de Aquino, Suma Teológica, sobre la acedia (el vicio capital como tristeza por el bien espiritual)"
+      ],
+      "atualizado_em": null,
+      "ordem": 7,
+      "virtude_oposta": "Diligencia (fervor espiritual)"
+    },
+    {
+      "id": "pecados:pecado-mortal",
+      "slug": "pecado-mortal",
+      "titulo": "Pecado Mortal",
+      "categoria": "pecados",
+      "resumo": "Categoría de la moral católica para la transgresión grave que rompe la comunión de caridad con Dios y exige arrepentimiento y confesión para ser perdonada.",
+      "corpo": "Según el Catecismo, un pecado es mortal cuando reúne simultáneamente tres condiciones: materia grave, plena conciencia de su gravedad y consentimiento deliberado de la voluntad. A diferencia del pecado venial, que debilita la vida de gracia sin destruirla, el pecado mortal destruye la caridad en el corazón del hombre y lo priva de la vida sobrenatural de la gracia — de ahí su necesidad de ser reconciliado por el sacramento de la Penitencia antes de poder volver a comulgar.",
+      "tags": [
+        "moral",
+        "pecado",
+        "confesión"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Cole_Thomas_Expulsion_from_the_Garden_of_Eden_1828.jpg",
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1854-1861"
+      ]
+    },
+    {
+      "id": "pecados:pecado-venial",
+      "slug": "pecado-venial",
+      "titulo": "Pecado Venial",
+      "categoria": "pecados",
+      "resumo": "Transgresión que debilita la caridad sin destruirla, distinta del pecado mortal por la materia leve o por la falta de plena conciencia.",
+      "corpo": "El pecado venial ocurre cuando falta una de las tres condiciones del pecado mortal —materia grave, plena conciencia o pleno consentimiento— o cuando la materia en sí es leve. Debilita la caridad, manifiesta un afecto desordenado a los bienes creados y merece penas temporales, pero no rompe la alianza con Dios ni priva de la gracia santificante. Aun así, el Catecismo advierte que los pecados veniales deliberados y no corregidos disponen gradualmente al pecado mortal.",
+      "tags": [
+        "moral",
+        "pecado",
+        "confesión"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/79/The_Denial_of_Saint_Peter-Caravaggio_%281610%29.jpg",
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1862-1864"
+      ]
+    },
+    {
+      "id": "pecados:pecado-original",
+      "slug": "pecado-original",
+      "titulo": "Pecado Original",
+      "categoria": "pecados",
+      "resumo": "La situación de ruptura con Dios heredada por toda la humanidad a partir de la desobediencia de los primeros padres, transmitida —no cometida— por cada persona al nacer.",
+      "corpo": "El relato de Génesis 3 narra cómo el primer hombre, tentado por el demonio, dejó morir en su corazón la confianza en el Creador y, abusando de la libertad, desobedeció a su mandamiento, prefiriéndose a Dios y, en ese gesto, despreciándolo. De ese primer pecado resultó la pérdida de la santidad y de la justicia originales en que el hombre había sido constituido, hiriendo la naturaleza humana en sus propias fuerzas, sometiéndola a la ignorancia, al sufrimiento, al imperio de la muerte e inclinándola al pecado —inclinación que la tradición llama concupiscencia.\n\nLa Iglesia enseña que este pecado se transmite a toda la humanidad \"por propagación\", no por imitación: cada persona nace en una condición humana ya herida, y no por haber cometido personalmente una falta. Por eso el pecado original se llama \"pecado\" solo por analogía —es un pecado \"contraído\", no \"cometido\"— y se distingue claramente del pecado personal, acto libre de cada individuo. El remedio es el Bautismo, que, aunque no elimina las consecuencias de la naturaleza herida (como la propia concupiscencia), borra el pecado original y reintegra a la persona en la amistad con Dios.",
+      "tags": [
+        "pecado original",
+        "moral",
+        "Adán y Eva",
+        "bautismo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Cole_Thomas_Expulsion_from_the_Garden_of_Eden_1828.jpg",
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 396-412",
+        "Génesis 3"
+      ]
+    },
+    {
+      "id": "pecados:pecados-que-clamam-ao-ceu",
+      "slug": "pecados-que-clamam-ao-ceu",
+      "titulo": "Pecados que Claman al Cielo",
+      "categoria": "pecados",
+      "resumo": "Categoría tradicional de pecados especialmente graves, que la Escritura describe como un \"clamor\" que sube hasta Dios pidiendo justicia.",
+      "corpo": "La tradición catequética, recogida por el Catecismo de la Iglesia Católica (n. 1867), recuerda la existencia de pecados que \"claman al cielo\": la sangre de Abel, derramada por su hermano Caín (Gn 4,10); el pecado de los habitantes de Sodoma (Gn 18,20; 19,13); el clamor del pueblo oprimido en Egipto (Ex 3,7-10); el lamento del extranjero, de la viuda y del huérfano, que la Ley manda proteger de modo especial; y la injusticia cometida contra el asalariado a quien se niega el justo salario (Dt 24,14-15; Sant 5,4).\n\nLo que une estos ejemplos, tomados sobre todo del Antiguo Testamento, es la gravedad de ofensas que atentan directamente contra la vida, la dignidad y el sustento de personas particularmente indefensas: la víctima de un homicidio, el forastero sin protección legal, el trabajador sin poder para reclamar lo que se le debe. La expresión bíblica del \"clamor\" sugiere que, cuando la justicia humana falla o calla ante estas injusticias, es el propio Dios quien, en la Escritura, se presenta como el defensor último de quien no tiene quien lo defienda.",
+      "tags": [
+        "moral",
+        "justicia",
+        "Antiguo Testamento",
+        "pobres"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Cain_leadeth_abel_to_death_tissot.jpg",
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, n. 1867",
+        "Génesis 4,10; 18,20; Éxodo 3,7-10; Santiago 5,4"
+      ]
+    },
+    {
+      "id": "pecados:pecado-contra-o-espirito-santo",
+      "slug": "pecado-contra-o-espirito-santo",
+      "titulo": "Pecado contra el Espíritu Santo",
+      "categoria": "pecados",
+      "resumo": "El rechazo deliberado y obstinado de acoger la misericordia de Dios: considerado \"imperdonable\" no por un límite de la misericordia divina, sino por la libre resistencia del pecador a ella.",
+      "corpo": "Jesús afirma en el Evangelio que \"todos los pecados se perdonarán a los hijos de los hombres, y también cualesquiera blasfemias que digan; pero el que blasfeme contra el Espíritu Santo, nunca tendrá perdón, sino que es reo de pecado eterno\" (Mc 3,28-29; cf. Mt 12,31-32). El Catecismo explica que esto no significa que exista un pecado mayor que la misericordia de Dios, cuyos límites son infinitos: quien blasfema contra el Espíritu Santo es quien rechaza, deliberada y obstinadamente, recibir esa misma misericordia mediante el arrepentimiento, rechazando así el perdón de los pecados y la salvación ofrecida por el Espíritu Santo (CIC 1864).\n\nLa tradición espiritual, a partir de Santo Tomás de Aquino, suele distinguir seis formas concretas en que este endurecimiento del corazón se manifiesta: la desesperación de la salvación, la presunción de salvarse sin mérito, resistir a la verdad conocida como tal, envidiar la gracia alcanzada por otro, la obstinación deliberada en el pecado y la impenitencia final. En todos los casos, lo que está en juego no es un límite de Dios, sino la libertad humana que se cierra, hasta el final, a la gracia que se le ofrece.",
+      "tags": [
+        "Espíritu Santo",
+        "moral",
+        "misericordia",
+        "esperanza"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": "Esperanza",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, n. 1864",
+        "Marcos 3,28-29; Mateo 12,31-32"
+      ]
+    },
+    {
+      "id": "pecados:estruturas-de-pecado",
+      "slug": "estruturas-de-pecado",
+      "titulo": "Estructuras de Pecado",
+      "categoria": "pecados",
+      "resumo": "Expresión consagrada por Juan Pablo II para designar mecanismos sociales, económicos y políticos que, nacidos de pecados personales acumulados, adquieren vida propia e inducen nuevos pecados.",
+      "corpo": "En la encíclica \"Sollicitudo Rei Socialis\" (1987), Juan Pablo II observa que \"la interdependencia de los sistemas sociales, económicos y políticos crea, en el mundo de hoy, múltiples estructuras de pecado\" (n. 36) — mecanismos como la corrupción institucionalizada, la explotación económica sistemática o la indiferencia organizada ante la miseria, que superan la suma de los actos individuales y pasan a condicionar comportamientos, dificultando el bien y favoreciendo el mal de modo casi automático. El Catecismo recoge esta reflexión en el n. 1869, al hablar de \"pecado social\".",
+      "tags": [
+        "Sollicitudo Rei Socialis",
+        "Juan Pablo II",
+        "moral",
+        "doctrina social"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": "Solidaridad",
+      "fontes": [
+        "Juan Pablo II, Sollicitudo Rei Socialis, n. 36 (1987)",
+        "Catecismo de la Iglesia Católica, n. 1869"
+      ]
+    },
+    {
+      "id": "pecados:escandalo",
+      "slug": "escandalo",
+      "titulo": "Escándalo",
+      "categoria": "pecados",
+      "resumo": "La actitud o el comportamiento que lleva a otra persona a practicar el mal, convirtiendo a quien lo practica en \"tentador del prójimo\".",
+      "corpo": "El Catecismo define el escándalo como la actitud o el comportamiento que lleva a otro a practicar el mal: quien lo comete se convierte en tentador de su prójimo, atenta contra la virtud y la rectitud ajenas, pudiendo arrastrar al hermano a la muerte espiritual (CIC 2284). Jesús mismo advierte con severidad: \"Es inevitable que sucedan escándalos, pero ¡ay de aquel por quien vienen!\" (Lc 17,1), siendo particularmente grave cuando se dirige contra los pequeños o los más frágiles en la fe (Mt 18,6).\n\nEl Catecismo observa además que el escándalo asume una gravedad particular según la autoridad de quien lo practica o la fragilidad de quien lo sufre, y que se hace culpable de escándalo quien establece leyes o estructuras sociales que inducen a la degradación de las costumbres y de la práctica religiosa, o quien usa el poder del que dispone en condiciones que favorecen el mal, directa o indirectamente (CIC 2286-2287).",
+      "tags": [
+        "moral",
+        "ejemplo",
+        "responsabilidad moral"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": "Buen ejemplo",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 2284-2287",
+        "Lucas 17,1; Mateo 18,6"
+      ]
+    },
+    {
+      "id": "pecados:cooperacao-no-pecado-alheio",
+      "slug": "cooperacao-no-pecado-alheio",
+      "titulo": "Cooperación en el pecado ajeno",
+      "categoria": "pecados",
+      "resumo": "La responsabilidad moral de quien participa, ordena, aconseja, elogia o deja de impedir el pecado de otra persona, cuando tenía obligación de actuar.",
+      "corpo": "El pecado, enseña el Catecismo, es un acto personal; pero la responsabilidad por él puede compartirse cuando cooperamos voluntariamente en su realización (CIC 1868). Por complicidad se entiende la ayuda prestada a la ejecución de un mal que otra persona ya ha decidido cometer; la llamada complicidad formal —cuando alguien quiere el pecado ajeno o presta una colaboración que, por su propia naturaleza, significa aprobación de ese pecado— es siempre pecaminosa.\n\nLa tradición moral suele distinguir diversos modos concretos de esta cooperación: mandar, aconsejar, elogiar o aprobar el mal cometido por otro, participar directamente en él, callar o no denunciar cuando había obligación de hacerlo, proteger a quien hace el mal o no impedir el pecado ajeno pudiendo y debiendo hacerlo. Esta categoría se vincula estrechamente con el escándalo y las estructuras de pecado, recordando que la moral católica nunca aisló por completo la responsabilidad individual del tejido de relaciones en que cada persona está inserta.",
+      "tags": [
+        "moral",
+        "responsabilidad moral",
+        "complicidad"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, n. 1868"
+      ]
+    },
+    {
+      "id": "pecados:vicio",
+      "slug": "vicio",
+      "titulo": "Vicio",
+      "categoria": "pecados",
+      "resumo": "La disposición estable al mal formada en el alma por la repetición de pecados, que oscurece la conciencia y corrompe el juicio concreto sobre el bien y el mal.",
+      "corpo": "Según el Catecismo, el pecado engendra pecado: su repetición —aun tratándose de faltas veniales— origina el vicio, una inclinación perversa que oscurece la conciencia y corrompe la apreciación concreta del bien y del mal (CEC 1865, 1876). El vicio es, así, el opuesto exacto de la virtud: mientras esta es una disposición habitual y firme para hacer el bien, adquirida o infundida por la gracia y reforzada por la repetición de buenos actos, el vicio es la misma lógica del hábito operando en sentido contrario, como una \"segunda naturaleza\" que inclina al mal casi sin deliberación consciente.\n\nLos vicios pueden clasificarse relacionándolos con las virtudes a las que se oponen, o reconduciéndolos a los pecados capitales que la experiencia cristiana, siguiendo a San Juan Casiano y a San Gregorio Magno, distinguió a lo largo de los siglos: soberbia, avaricia, envidia, ira, lujuria, gula y pereza (acedia), cada uno de ellos capaz de generar, a su vez, otros vicios y otros pecados.",
+      "tags": [
+        "moral",
+        "vicios",
+        "pecados capitales",
+        "virtudes"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": "Virtud",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1865-1876"
+      ]
+    },
+    {
+      "id": "pecados:concupiscencia",
+      "slug": "concupiscencia",
+      "titulo": "Concupiscencia",
+      "categoria": "pecados",
+      "resumo": "La inclinación desordenada al pecado que permanece en la naturaleza humana incluso después del Bautismo, herida dejada por el pecado original.",
+      "corpo": "En sentido etimológico, \"concupiscencia\" designa cualquier forma vehemente de deseo humano; la teología cristiana le dio un sentido más preciso: el impulso del apetito sensible contrario a los dictámenes de la razón (CIC 2515). El Catecismo enseña que ella procede de la desobediencia del primer pecado, que desordenó las facultades morales del hombre: sin ser, en sí misma, una ofensa a Dios, la concupiscencia inclina al ser humano a cometer el pecado (CIC 405, 1264).\n\nAunque el Bautismo borre el pecado original y reconcilie a la persona con Dios, no quita esa inclinación, que permanece como campo de combate espiritual a lo largo de toda la vida cristiana — por eso el noveno y el décimo mandamientos piden explícitamente la purificación del propio deseo, y no solo de la conducta externa. Vencer la concupiscencia no es tarea del esfuerzo propio aislado, sino del ejercicio constante de la templanza sostenido por la gracia.",
+      "tags": [
+        "moral",
+        "pecado original",
+        "temperanza"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": "Templanza",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 405, 1264, 2515"
+      ]
+    },
+    {
+      "id": "pecados:pecado-de-omissao",
+      "slug": "pecado-de-omissao",
+      "titulo": "Pecado de Omisión",
+      "categoria": "pecados",
+      "resumo": "El pecado que consiste no en hacer el mal, sino en dejar de hacer el bien que se tenía obligación de hacer.",
+      "corpo": "El Catecismo recuerda que los pecados pueden clasificarse, según su objeto, como pecados de pensamiento, palabra, acción u omisión (CEC 1853). Esta última categoría se recuerda en toda confesión sacramental que sigue la antigua fórmula del Confiteor: \"he pecado mucho de pensamiento, palabra, obra y omisión\". No se trata de una categoría menor: Jesús, en la parábola del juicio final, condena explícitamente a quienes no dieron de comer al hambriento, no vistieron al desnudo ni visitaron al enfermo, no por haber hecho el mal, sino por no haber hecho el bien que podían y debían hacer (Mt 25,41-46).\n\nEsta es precisamente la cara invertida de las obras de misericordia: así como practicarlas es camino de salvación, descuidarlas por comodidad, indiferencia o miedo constituye un pecado real, aunque no se haya cometido ningún acto positivo de malicia.",
+      "tags": [
+        "moral",
+        "obras de misericordia",
+        "conciencia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": "Diligencia",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, n. 1853",
+        "Mateo 25,41-46"
+      ]
+    },
+    {
+      "id": "pecados:imputabilidade-do-pecado",
+      "slug": "imputabilidade-do-pecado",
+      "titulo": "Imputabilidad y Atenuantes del Pecado",
+      "categoria": "pecados",
+      "resumo": "El principio moral según el cual la responsabilidad personal por un pecado puede disminuirse, o incluso anularse, por factores como la ignorancia, el miedo, el hábito o las perturbaciones psicológicas.",
+      "corpo": "El Catecismo enseña que la imputabilidad y la responsabilidad de un acto pueden disminuirse, e incluso suprimirse, por la ignorancia, la inadvertencia, la violencia, el miedo, los hábitos, los afectos desordenados y otros factores psíquicos o sociales (CEC 1735). Esto significa que la gravedad objetiva de una materia no equivale automáticamente al grado de culpa subjetiva de quien la practica: una cosa es el mal cometido, otra es la responsabilidad personal de quien lo cometió ante Dios.\n\nEsta distinción es especialmente relevante para la gravedad del pecado mortal, que exige plena conciencia y consentimiento deliberado además de la materia grave: la ignorancia involuntaria puede disminuir, o incluso excusar, la imputabilidad de una falta grave, aunque el Catecismo advierte que nadie es considerado ignorante de los principios de la ley moral inscritos en la conciencia de toda persona (CEC 1860). Por eso, la tradición pastoral siempre ha insistido en que solo Dios juzga con plena justicia el interior de cada conciencia.",
+      "tags": [
+        "moral",
+        "conciencia",
+        "pecado mortal"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": null,
+      "virtude_oposta": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1735, 1859-1860"
+      ]
+    },
+    {
+      "id": "pecados:presuncao",
+      "slug": "presuncao",
+      "titulo": "Presunción",
+      "resumo": "Pecado contra la virtud teologal de la esperanza por el cual el hombre cuenta con la salvación sin méritos o con el perdón sin conversión, presumiendo de las propias fuerzas o de la misericordia divina. Santo Tomás lo trata en la Suma Teológica II-II, q. 21, y el Catecismo lo advierte en los números 2091-2092.",
+      "corpo": "La presunción (en latín praesumptio) es uno de los dos vicios que se oponen directamente a la virtud teologal de la esperanza, junto con la desesperación. Santo Tomás de Aquino le dedica la Cuestión 21 de la Segunda Parte de la Segunda Parte de la Suma Teológica, después de tratar de la desesperación en la Cuestión 20. Mientras que la desesperación consiste en dejar de esperar la salvación, la presunción consiste en esperar de Dios algo que no es digno de Dios esperar: el perdón sin arrepentimiento y la gloria sin méritos.\n\nEl Catecismo de la Iglesia Católica, en los números 2091 y 2092, incluye la presunción entre los pecados contra el primer mandamiento, al igual que la desesperación. Distingue expresamente dos especies: o el hombre presume de sus propias capacidades, esperando salvarse sin la ayuda de lo alto, o presume de la omnipotencia o de la misericordia de Dios, esperando obtener el perdón sin conversión y la gloria sin mérito (cf. CIC 2092). En esta segunda forma, la más sutil, el pecador invoca la misericordia divina para justificar el propio pecado.\n\nSanto Tomás observa que la presunción implica un acto desordenado del apetito y procede de un concepto falso: así como es falso que Dios no perdone a los que se arrepienten, también es falso que conceda el perdón a los que perseveran en el pecado o la gloria a los que dejan de practicar el bien (cf. II-II, q. 21, a. 2). El desorden, por tanto, no está en esperar demasiado, sino en esperar de Dios lo que no conviene a su santidad.\n\nEn la tradición moral, la presunción aparece con frecuencia asociada a la soberbia, ya que el hombre que presume de sí tiene de sí mismo una estima exagerada, llegando a pensar que, aunque peque, no será castigado. El Aquinate compara su gravedad con la de la desesperación y señala que la presunción es un pecado menor, en la medida en que es más propio de Dios tener misericordia y compadecerse, por causa de su infinita bondad, que castigar.\n\nLa virtud opuesta es la esperanza: la confianza filial que desea y espera de Dios la vida eterna y los medios para alcanzarla, fundada no en las propias fuerzas, sino en la fidelidad y la misericordia divinas, y que no dispensa de la conversión ni del mérito.",
+      "categoria": "pecados",
+      "tags": [
+        "presunción",
+        "esperanza",
+        "pecados contra la esperanza",
+        "soberbia",
+        "Suma Teológica",
+        "Tomás de Aquino",
+        "pecado"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 2091-2092",
+        "Santo Tomás de Aquino, Suma Teológica, II-II, q. 20-21",
+        "Homilías (homilias.com.br), \"Los pecados contra la esperanza\""
+      ],
+      "atualizado_em": null,
+      "ordem": null,
+      "virtude_oposta": "Esperanza"
+    },
+    {
+      "id": "pecados:desespero",
+      "slug": "desespero",
+      "titulo": "Desesperación",
+      "resumo": "Pecado contra la virtud de la esperanza por el cual el hombre deja de esperar de Dios la salvación, juzgando su propio pecado mayor que la misericordia divina. Santo Tomás lo trata en la Suma Teológica II-II, q. 20, y el Catecismo lo advierte en el número 2091.",
+      "corpo": "La desesperación (en latín desperatio) es el vicio opuesto a la esperanza teologal por defecto. Santo Tomás de Aquino inicia con él el tratado de los vicios opuestos a las virtudes teologales y dedica a este tema toda la Cuestión 20 de la Segunda Parte de la Segunda Parte de la Suma Teológica, en cuatro artículos, antes de tratar de la presunción. Consiste en que el hombre deja de esperar la bienaventuranza, considerándola inalcanzable por sí mismo.\n\nEl Catecismo de la Iglesia Católica, en el número 2091, la define en los términos de la Tradición: por la desesperación, el hombre deja de esperar de Dios la salvación y los medios para obtenerla. Mientras que la presunción minimiza el pecado, la desesperación lo aumenta hasta hacerlo mayor que la misericordia de Dios, poniendo el pecado por encima de la Cruz. La tradición espiritual observa, por ello, que la desesperación también tiene raíz en la soberbia, pues el pecador juzga su propia miseria más fuerte que la bondad divina.\n\nSanto Tomás enseña que la desesperación es pecado por implicar una esperanza desordenada y un juicio falso sobre Dios, y que es más grave que la presunción, porque se aparta de lo que es más propio de Dios, que es la misericordia. La iconografía cristiana encontró en el suicidio de Judas Iscariote la imagen clásica de la desesperación: el apóstol que, tras la traición, no vuelve a Cristo como Pedro, sino que se entrega a la falta de esperanza, ahorcándose. Las miniaturas medievales representan con frecuencia esta escena, por ejemplo en el folio 147v de las Très Riches Heures du duc de Berry.\n\nLa virtud opuesta es la esperanza, que confía en la promesa de salvación y en la fidelidad de Dios aun cuando el pecador reconoce su propia indignidad. La esperanza no niega la gravedad del pecado, pero se niega a medir la misericordia divina por la medida de la propia culpa.",
+      "categoria": "pecados",
+      "tags": [
+        "desesperación",
+        "esperanza",
+        "pecados contra la esperanza",
+        "Judas Iscariote",
+        "Suma Teológica",
+        "Tomás de Aquino",
+        "pecado"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Folio_147v_-_Judas_Hangs_Himself.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, n. 2091",
+        "Santo Tomás de Aquino, Suma Teológica, II-II, q. 20 (De la desesperación)",
+        "Homilías (homilias.com.br), \"Los pecados contra la esperanza\"",
+        "Wikimedia Commons, Très Riches Heures du duc de Berry, Folio 147v"
+      ],
+      "atualizado_em": null,
+      "ordem": null,
+      "virtude_oposta": "Esperanza"
+    },
+    {
+      "id": "pecados:tibieza",
+      "slug": "tibieza",
+      "titulo": "Tibieza (Tepidez)",
+      "resumo": "Pecado de negligencia espiritual por el que el fiel vacila o descuida corresponder al amor divino, negándose a entregarse al movimiento de la caridad. El Catecismo lo describe en el número 2094, vinculándolo a la acedia, y el Apocalipsis advierte contra la tibieza templada de la iglesia de Laodicea (Ap 3,15-16).",
+      "corpo": "La tibieza, también llamada tepidez, es el estado de negligencia espiritual por el que el cristiano vacila o deja de corresponder al amor de Dios. El Catecismo de la Iglesia Católica, en el número 2094, la describe precisamente en estos términos: \"La tibieza, que es vacilación o negligencia en corresponder al amor divino, puede implicar el rechazo a entregarse al movimiento de la caridad\". En el mismo número, el Catecismo la relaciona con la acedia o pereza, situándola entre los pecados contra el primer mandamiento.\n\nLa advertencia evangélica que fundamenta la tradición sobre la tibieza se encuentra en el Apocalipsis: la carta a la iglesia de Laodicea dice que los fieles \"ni son fríos ni calientes\" y amenaza con vomitarlos de la boca de Cristo (Ap 3,15-16). La exégesis cristiana leyó ahí la imagen del \"tibio\": aquel que no se entregó por completo a Dios ni se apartó totalmente de Él, permaneciendo en una indecisión peligrosa.\n\nLos autores espirituales vieron en la tibieza una enfermedad del alma que debilita la vida de Dios en el fiel, un relajamiento del fervor y de las prácticas piadosas que antes se vivían. La teología ascética, como la de Adolphe Tanquerey en su Compendio de Teología Ascética y Mística, la describe como un estado gravísimo, porque predispone a la caída: quien obra con tibieza está cerca de caer, como recuerda San Juan de la Cruz. Se distingue del pecado grave deliberado porque el tibio todavía no se ha entregado de nuevo por entero a la vida de pecado, pero camina al borde del precipicio.\n\nLa virtud opuesta es el fervor, es decir, la prontitud de la caridad para corresponder al amor de Dios con decisión y constancia. La tradición exhorta a reavivar ese fuego, para que el cristiano no sea tibio, sino ardiente en el servicio y en el amor al Señor.",
+      "categoria": "pecados",
+      "tags": [
+        "tibieza",
+        "tepidez",
+        "fervor",
+        "acedia",
+        "Apocalipsis",
+        "Laodicea",
+        "Catecismo",
+        "vida espiritual",
+        "pecado"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/BibleSPaoloFol331vFrontRev.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catecismo de la Iglesia Católica, n. 2094",
+        "Apocalipsis 3,15-16",
+        "Adolphe Tanquerey, Compendio de Teología Ascética y Mística (apud santuario.cancaonova.com)",
+        "San Juan de la Cruz (apud santuario.cancaonova.com)"
+      ],
+      "atualizado_em": null,
+      "ordem": null,
+      "virtude_oposta": "Fervor"
+    },
+    {
+      "id": "pecados:ingratidao",
+      "slug": "ingratidao",
+      "titulo": "Ingratitud",
+      "resumo": "Pecado especial, opuesto a la virtud de la gratitud, por el cual el hombre no reconoce, no agradece ni retribuye los beneficios recibidos, pecando contra la justicia debida al bienhechor. Santo Tomás lo trata en la Suma Teológica II-II, q. 106-107, y la parábola de los diez leprosos (Lc 17,11-19) lo ilustra en el Evangelio.",
+      "corpo": "La ingratitud (en latín *ingratitudo*) es el vicio opuesto a la gratitud, a la que Santo Tomás de Aquino dedica las cuestiones 106 y 107 de la Segunda Parte de la Segunda Parte de la Suma Teológica. La gratitud es, para el Aquinate, una virtud especial anexa a la justicia: reconocer y retribuir el beneficio recibido es una deuda moral. Por eso, define la ingratitud como el pecado que, más propiamente que cualquier otro vicio, falta a la gratitud, y concluye que, así como la gratitud es una virtud especial, también la ingratitud es un pecado especial.\n\nSanto Tomás distingue grados en la gratitud, y la ingratitud se mide por el orden inverso de esos grados: el primero consiste en reconocer el beneficio recibido; el segundo, en alabar y agradecer por él; el tercero, en retribuir en el lugar y el momento oportunos, según los propios medios. Como lo que es último en la generación es primero en la disolución, el primer grado de la ingratitud es la falta de retribución; el segundo es la disimulación, es decir, no demostrar haber recibido el beneficio; y el tercero, más grave, es no reconocer el beneficio, por olvido o por cualquier otro modo (cf. II-II, q. 107, a. 2). Añade que el ingrato peca contra la justicia, pues niega lo que se debe al bienhechor.\n\nEn las Escrituras, la ingratitud aparece como señal del corazón endurecido. El ejemplo evangélico clásico es la curación de los diez leprosos (Lc 17,11-19): de los diez curados, solo uno —y extranjero, samaritano— volvió para dar gracias, y Jesús observó la ausencia de los otros nueve. La Iglesia leyó en este pasaje la imagen viva de la ingratitud, contrapuesta a la gratitud que reconoce y agradece el don divino.\n\nLa virtud opuesta es la gratitud, que no es mero sentimiento, sino virtud moral enraizada en la justicia y en la caridad, por la cual se reconoce la deuda para con el bienhechor y se retribuye con acción de gracias. Se aplica en primer lugar a Dios, fuente de todo bien, y se extiende al prójimo.",
+      "categoria": "pecados",
+      "tags": [
+        "ingratitud",
+        "gratitud",
+        "justicia",
+        "Suma Teológica",
+        "Tomás de Aquino",
+        "diez leprosos",
+        "Evangelio de Lucas",
+        "pecado"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/CodexAureus_Cleansing_of_the_ten_lepers.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "San Tomás de Aquino, Suma Teológica, II-II, q. 106-107 (De la gratitud y la ingratitud)",
+        "Lucas 17,11-19",
+        "Permanencia (permanencia.org.br), \"Art. 2 – Si la ingratitud es un pecado especial\"",
+        "Wikimedia Commons, Codex Aureus, Cleansing of the ten lepers"
+      ],
+      "atualizado_em": null,
+      "ordem": null,
+      "virtude_oposta": "Gratitud"
+    }
+  ]
+}

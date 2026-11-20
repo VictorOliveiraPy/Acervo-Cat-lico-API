@@ -1,0 +1,653 @@
+{
+  "_meta": {
+    "categoria": "devocoes",
+    "nome": "Devociones",
+    "descricao": "Prácticas devocionales populares católicas — Vía Crucis, novenas, Sagrado Corazón, escapulario, adoración perpetua y más — distintas del texto aislado de una oración.",
+    "status": "exemplos-iniciais",
+    "aviso": "Describe prácticas de devoción popular aprobadas y ampliamente difundidas; la forma exacta de cada práctica (número de días, oraciones específicas) puede variar de una parroquia a otra y de un país a otro.",
+    "revisao_editorial": "Ninguna devoción aquí enumerada es de práctica obligatoria para el católico: se distinguen de los sacramentos y de los preceptos de la Iglesia, y son siempre formas facultativas de profundizar la vida espiritual.",
+    "fontes_gerais": [
+      "Catecismo de la Iglesia Católica, nn. 2676-2679 (formas de la oración cristiana)",
+      "Directorio sobre la piedad popular y la liturgia (Congregación para el Culto Divino, 2001)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "devocoes:via-sacra",
+      "slug": "via-sacra",
+      "titulo": "Vía Crucis (Via Crucis)",
+      "resumo": "Devoción que recorre, en catorce estaciones, los principales momentos de la Pasión de Cristo, desde su condena hasta la sepultura, fijada en ese número en 1731 bajo Clemente XII.",
+      "corpo": "El Vía Crucis reproduce simbólicamente el camino que Jesús recorrió hasta el Calvario, en catorce estaciones que van desde la condena por Pilato hasta la colocación en el sepulcro; en muchas iglesias se añade hoy una decimoquinta estación, de carácter devocional, sobre la Resurrección. Se practica especialmente los viernes, sobre todo en Cuaresma y en el Viernes Santo, tanto de manera individual como en procesión comunitaria ante cuadros o cruces fijados en las paredes de la iglesia.\n\nLa práctica de recorrer físicamente los lugares de la Pasión en Jerusalén está atestiguada ya en el siglo IV: la peregrina Egeria, en un viaje realizado entre los años 381 y 384 y descrito en su «Itinerarium Egeriae», relata con minuciosidad la liturgia estacional de Jerusalén, en la cual los cristianos, a lo largo de la Semana Santa, recorrían de un lugar a otro los episodios finales de la vida de Jesús, desde el Domingo de Ramos hasta la Pascua. Esa costumbre local se consolidó a lo largo de la Edad Media, reforzada por las Cruzadas de los siglos XI y XII y por la predicación de la Pasión. En 1342, la Santa Sede confió a los franciscanos la custodia de los Santos Lugares —incluidos el Santo Sepulcro y la Vía Dolorosa—, y ellos comenzaron a promover la devoción del camino de la cruz también fuera de Tierra Santa.\n\nPara los cristianos que no podían viajar hasta Jerusalén, se desarrolló la práctica de reproducir ese recorrido en iglesias y santuarios de Europa, como peregrinación \"por sustitución\". La difusión fuera de Tierra Santa se asocia comúnmente con España, por iniciativa del beato dominico Álvaro de Córdoba en el siglo XV, y se extendió después a Cerdeña y al resto del continente. Durante los siglos XV y XVI, los franciscanos erigieron conjuntos de capillas al aire libre que duplicaban los lugares santos; el número de estaciones, sin embargo, variaba mucho de un lugar a otro: había series con siete paradas (lo más común), otras con nueve, e incluso conjuntos con más de treinta.\n\nLa institucionalización llegó por etapas. En 1686, a petición de los propios franciscanos, el papa Inocencio XI les concedió el derecho de erigir las estaciones en sus iglesias. En 1731, el papa Clemente XII extendió ese derecho a todas las iglesias, siempre que las estaciones fueran erigidas por un religioso franciscano con el consentimiento del obispo local, y fijó definitivamente el número en catorce; vinculó además a la práctica la concesión de indulgencias. En ese mismo período se destacó San Leonardo de Porto Maurizio (1676-1751), misionero franciscano llamado por San Alfonso María de Ligorio \"el mayor misionero del siglo\": entre 1731 y 1751 habría erigido cerca de 571 conjuntos de estaciones por Italia y, en el Año Santo de 1750 proclamado por Benedicto XIV, plantó una gran cruz en el Coliseo de Roma y allí celebró el Vía Crucis. En 1857 y 1862, la facultad de erigir las estaciones se extendió a los obispos sin intermediación franciscana, consolidando la forma universal de la devoción.\n\nLas catorce estaciones tradicionales son:\n\n1ª — Jesús es condenado a muerte\n2ª — Jesús carga con la cruz\n3ª — Jesús cae por primera vez\n4ª — Jesús encuentra a su Madre\n5ª — Simón de Cirene ayuda a Jesús a llevar la cruz\n6ª — La Verónica enjuga el rostro de Jesús\n7ª — Jesús cae por segunda vez\n8ª — Jesús consuela a las mujeres de Jerusalén\n9ª — Jesús cae por tercera vez\n10ª — Jesús es despojado de sus vestiduras\n11ª — Jesús es clavado en la cruz\n12ª — Jesús muere en la cruz\n13ª — Jesús es bajado de la cruz\n14ª — Jesús es sepultado\n\nAlgunas de estas estaciones —como las tres caídas, el encuentro con la Verónica y el encuentro con las mujeres de Jerusalén— provienen de la tradición devocional, y no de un relato explícito de los cuatro Evangelios, lo cual este acervo registra como tal, sin confundir la tradición piadosa con la narración bíblica.",
+      "categoria": "devocoes",
+      "tags": [
+        "Vía Crucis",
+        "Cuaresma",
+        "Pasión de Cristo",
+        "franciscanos",
+        "Clemente XII",
+        "Jerusalén",
+        "Viernes Santo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Chapel_in_4th_Station_%28Via_Dolorosa%29.JPG",
+      "imagem_credito": "Anton 17, 2008 (CC BY-SA 3.0)",
+      "fontes": [
+        "«Itinerarium Egeriae» (Peregrinación de Egeria), siglos IV-V",
+        "W. H. Grattan-Flood, «Stations of the Cross», Catholic Encyclopedia (1912)",
+        "Loci Theologici / Franciscan Friars, «Stations of the Cross: A Franciscan Tradition» (2024)",
+        "Vatican News, «Vía Crucis: el lento nacimiento de un recorrido de la Pasión»"
+      ],
+      "atualizado_em": null,
+      "ordem": 1,
+      "origem": "Peregrinaciones medievales a Tierra Santa, difundido por los franciscanos a partir del siglo XIV"
+    },
+    {
+      "id": "devocoes:novenas",
+      "slug": "novenas",
+      "titulo": "Novenas",
+      "resumo": "Nueve días consecutivos de oración por una intención específica o en preparación para una fiesta, inspirados en los nueve días entre la Ascensión y Pentecostés.",
+      "corpo": "La práctica de la novena —nueve días seguidos, o nueve fechas periódicas, de oración con la misma intención— se remonta al intervalo entre la Ascensión de Jesús y la venida del Espíritu Santo en Pentecostés: el libro de los Hechos de los Apóstoles relata que, en ese período, los discípulos \"perseveraban unánimes en la oración, con María, la madre de Jesús\" (Hch 1,14). Esa vigilia orante de los primeros discípulos es considerada, en la tradición cristiana, la matriz simbólica de toda novena posterior, aunque el término y la práctica formal solo se desarrollaron siglos después.\n\nEl número nueve como medida de tiempo dedicado a la oración o al luto, sin embargo, ya era familiar al mundo antiguo antes del cristianismo: los romanos observaban un período de nueve días de rito fúnebre tras la muerte de alguien (el «novendiale») y celebraban anualmente la «parentalia novendialia» en memoria de los parientes fallecidos. La práctica pagana de nueve días de luto, seguida de un banquete, estaba tan difundida que escritores cristianos antiguos —entre ellos Agustín de Hipona, el Pseudo-Alcuino y Juan Beleth— llegaron a advertir a los fieles que no la imitaran. Al mismo tiempo, los Padres de la Iglesia atribuyeron al nueve un sentido propio: por ser el cuadrado de tres, número de la Trinidad, veían en él el símbolo del hombre imperfecto que se vuelve hacia Dios, en contraste con el diez, símbolo de la perfección; lo asociaban también a los nueve meses de gestación de Cristo, a la hora nona en que Jesús entregó el espíritu en la cruz y a los nueve días entre la Ascensión y Pentecostés.\n\nComo práctica bautizada explícitamente como \"novena\" y dirigida a Dios, a María o a los santos, la costumbre se desarrolló de modo más definido a partir de la Edad Media y recibió un gran impulso en el período barroco, sobre todo en los siglos XVII y XVIII, cuando órdenes religiosas —jesuitas, franciscanos, redentoristas, entre otras— comenzaron a publicar libritos con novenas específicas para preparar a los fieles para las fiestas litúrgicas (la Navidad, por ejemplo, tuvo su tradicional \"novena de Navidad\") o para pedir gracias concretas por intercesión de un santo de devoción popular. Un momento de reconocimiento oficial se produjo en 1897, cuando el papa León XIII, en la encíclica «Divinum illud munus», ordenó que en todas las iglesias parroquiales se rezara, en preparación a la solemnidad de Pentecostés, la novena al Espíritu Santo: la propia \"novena de los orígenes\" convertida en práctica prescrita para toda la Iglesia.\n\nExisten hoy dos grandes tipos de novena. Las novenas de preparación, rezadas en los nueve días que preceden a una fiesta (como la Inmaculada Concepción o la Navidad), tienen un carácter más litúrgico y comunitario, y con frecuencia se dirigen públicamente en la parroquia. Las novenas de súplica o de urgencia —rezadas ante una necesidad grave y específica— pueden hacerse en cualquier época del año, individualmente o en grupo, repitiendo una misma oración o fórmula durante nueve días consecutivos, con la confianza de que la perseverancia en la súplica, a imitación de los apóstoles reunidos con María, dispone el corazón para recibir la gracia pedida.\n\nLa Iglesia siempre ha procurado distinguir la novena, como forma legítima de piedad popular, de cualquier uso supersticioso del número nueve o de fórmulas repetidas de manera mecánica: el valor de la novena está en la disposición interior de perseverancia y confianza, y no en un cómputo mágico de días o de repeticiones. Por eso, aunque son popularísimas —y están ligadas hoy a prácticamente todo santo y toda advocación mariana de devoción relevante en el mundo católico—, las novenas siguen siendo clasificadas como devoción facultativa, y no como parte obligatoria de la vida sacramental católica.",
+      "categoria": "devocoes",
+      "tags": [
+        "novena",
+        "oración",
+        "piedad popular",
+        "Pentecostés",
+        "León XIII",
+        "Espíritu Santo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Hechos de los Apóstoles 1,14",
+        "León XIII, Encíclica «Divinum illud munus» (9 de mayo de 1897)",
+        "«Novena», Catholic Encyclopedia (1911)",
+        "Catecismo de la Iglesia Católica, sobre la piedad popular"
+      ],
+      "atualizado_em": null,
+      "ordem": 2,
+      "origem": "Hechos de los Apóstoles 1,12-14 (los nueve días entre la Ascensión y Pentecostés)"
+    },
+    {
+      "id": "devocoes:sagrado-coracao-de-jesus",
+      "slug": "sagrado-coracao-de-jesus",
+      "titulo": "Devoción al Sagrado Corazón de Jesús",
+      "categoria": "devocoes",
+      "resumo": "Devoción al amor humano y divino de Cristo, simbolizado en su corazón, difundida a partir de las revelaciones a Santa Margarita María Alacoque.",
+      "corpo": "La devoción al Sagrado Corazón de Jesús tiene raíces espirituales que se remontan a la Edad Media —en la meditación de místicas como Santa Gertrudis y Santa Matilde de Hackeborn sobre el costado herido de Cristo, abierto por la lanza, y en la espiritualidad francesa del siglo XVII, sobre todo en San Juan Eudes, que ya componía oficios litúrgicos en honor de los Sagrados Corazones de Jesús y de María antes incluso de las revelaciones que darían a la devoción su forma definitiva y su difusión masiva.\n\nEsa forma definitiva vino de las apariciones relatadas por Santa Margarita María Alacoque, religiosa de la Orden de la Visitación en el monasterio de Paray-le-Monial, en la Borgoña francesa. Entre 1673 y 1675, habría recibido de Jesús una serie de revelaciones privadas en las que él le mostraba su corazón, «ardiendo de amor por los hombres» y, al mismo tiempo, herido por la indiferencia, la ingratitud y los sacrilegios que ese amor recibe a cambio. La más decisiva de esas experiencias —conocida como la «gran aparición»— tuvo lugar hacia junio de 1675, durante la octava del Corpus Christi, cuando Jesús le habría pedido explícitamente la institución de una fiesta en honor de su Corazón, que debía celebrarse el viernes siguiente a esa octava.\n\nEn esas revelaciones, Jesús habría formulado además una serie de doce promesas a quien cultivase fielmente la devoción a su Corazón: entre ellas, paz en las familias, consuelo en las aflicciones, bendición sobre las empresas, refugio en la vida y en la hora de la muerte, y la llamada «gran promesa» —asociada a la práctica de los Primeros Viernes, también registrada en este acervo—, de conceder la gracia de la perseverancia final a quien comulgase con espíritu de reparación durante nueve primeros viernes consecutivos.\n\nMargarita María encontró inicialmente gran resistencia, incluso dentro de su propio convento, en cuanto a la autenticidad de esas experiencias místicas. Un apoyo decisivo vino del padre jesuita Claudio La Colombière, entonces confesor de la comunidad de Paray-le-Monial, que reconoció el valor espiritual de las revelaciones y se convirtió, él mismo, en uno de los primeros y más activos divulgadores de la devoción, siendo después canonizado, como también lo sería Margarita María, ya en el siglo XX.\n\nLa aprobación institucional fue lenta y gradual. Solo en 1765 la Sagrada Congregación de Ritos autorizó la celebración litúrgica del Sagrado Corazón para Francia, y la fiesta solo se extendió a toda la Iglesia en 1856, por el papa Pío IX, siendo elevada después por León XIII, en 1889, a la categoría litúrgica más solemne. El propio León XIII daría a la devoción su momento de mayor alcance público en 1899, al consagrar formalmente todo el género humano al Sagrado Corazón de Jesús en la encíclica «Annum Sacrum» —episodio tratado por separado en este acervo. Décadas después, en 1956, el papa Pío XII dedicaría a la devoción una encíclica entera, «Haurietis Aquas», sistematizando su fundamento bíblico y teológico y reafirmando su lugar central en la espiritualidad católica.\n\nEn el símbolo del Sagrado Corazón —generalmente representado rodeado de espinas, herido y emanando llamas y luz— la Iglesia ve una síntesis visual de dos naturalezas unidas en una sola persona: el amor humano, sensible y capaz de sufrir, y el amor divino, infinito, de Cristo. La devoción dio origen no solo a la fiesta litúrgica propia (móvil, en el calendario romano, diecinueve días después de Pentecostés) y a los Primeros Viernes, sino también a prácticas complementarias como la entronización de la imagen del Sagrado Corazón en los hogares y la Hora Santa, también presente en este acervo.",
+      "tags": [
+        "Sagrado Corazón",
+        "reparación",
+        "Margarita María Alacoque"
+      ],
+      "imagem": "/img-acervo/sagrado-coracao-de-jesus.jpg",
+      "imagem_credito": "Foto: Matea Gregg / Unsplash",
+      "ordem": 3,
+      "origem": "Apariciones a Santa Margarita María Alacoque en Paray-le-Monial (década de 1670)",
+      "fontes": [
+        "Catecismo de la Iglesia Católica",
+        "Arquidiócesis de Vitória da Conquista, «As 12 promessas do Sagrado Coração de Jesus a Santa Margarida Maria Alacoque»",
+        "Pío XII, Encíclica «Haurietis Aquas» (1956)"
+      ]
+    },
+    {
+      "id": "devocoes:primeiras-sextas-feiras",
+      "slug": "primeiras-sextas-feiras",
+      "titulo": "Los Primeros Viernes",
+      "categoria": "devocoes",
+      "resumo": "Práctica de comulgar el primer viernes de nueve meses consecutivos, en reparación y devoción al Sagrado Corazón de Jesús.",
+      "corpo": "Ligada directamente a la devoción al Sagrado Corazón de Jesús (ver entrada propia en este acervo), la práctica de los «Primeros Viernes» consiste en recibir la comunión eucarística el primer viernes de cada mes, durante nueve meses consecutivos, en espíritu de reparación por la indiferencia y los sacrilegios que el amor de Cristo, según la devoción, recibe de los hombres. La práctica suele incluir también la confesión en los días anteriores —no necesariamente el mismo día de la comunión— y un momento breve de oración o adoración ante el Santísimo Sacramento.\n\nSu origen se remonta a las revelaciones que Santa Margarita María Alacoque, religiosa de la Visitación, relató haber recibido de Jesús en Paray-le-Monial entre 1673 y 1675. En la llamada «gran aparición», ocurrida durante la octava del Corpus Christi de 1675, Jesús pidió explícitamente que el viernes siguiente a esa octava fuera dedicado a una fiesta especial en honor de su Corazón, con comunión y un acto de desagravio por las indignidades recibidas cuando está expuesto en los altares — petición que, con el tiempo, la piedad popular extendió, de un único viernes anual, al primer viernes de todos los meses del año.\n\nEntre las doce promesas atribuidas a Cristo en estas revelaciones, la última —tradicionalmente llamada «gran promesa»— es el fundamento directo de esta devoción: la garantía de que quien comulgara el primer viernes de nueve meses seguidos, con esa intención reparadora, recibiría la gracia de la penitencia final, no muriendo en desgracia ni sin los sacramentos, encontrando en el Corazón de Jesús «refugio seguro» en la hora postrera. Las demás once promesas —paz en las familias, consuelo en las aflicciones, bendición sobre las empresas, entre otras— componen, junto con esta última, el cuadro de gracias que la piedad popular asocia a la fidelidad al Sagrado Corazón.\n\nLos teólogos y catequistas siempre se han preocupado de aclarar que esta promesa no debe entenderse como una especie de pase automático para la salvación, obtenido por el mero cumplimiento mecánico de un calendario de nueve comuniones —lo que sería una lectura supersticiosa incompatible con la doctrina católica sobre la gracia y la libertad. La promesa presupone, más bien, una disposición interior real de conversión y amor reparador, de la cual la práctica de los nueve viernes es señal y sostén, no sustituto: quien comulga solo para «asegurar» la gracia final, sin vivir coherentemente la fe en los meses y años siguientes, vacía el sentido espiritual de la práctica.\n\nLa devoción se difundió ampliamente a partir del siglo XIX, a raíz de la expansión general del culto al Sagrado Corazón —expansión que tuvo uno de sus puntos culminantes en la consagración de todo el género humano al Sagrado Corazón, realizada por el papa León XIII en 1899 (ver entrada propia)—, y sigue viva hoy en parroquias de tradición latina y, en Brasil, especialmente ligada a movimientos y comunidades de espiritualidad eucarística, muchas de las cuales organizan celebraciones mensuales específicas el primer viernes, con exposición del Santísimo y momentos de reparación comunitaria.\n\nSe practica de forma paralela y complementaria a los «Cinco Primeros Sábados» pedidos décadas después en las apariciones de Fátima en devoción al Inmaculado Corazón de María — este acervo registra ambas devociones en entradas distintas, dada la diferencia de origen, destinatario (Jesús y María, respectivamente) y número de meses exigido (nueve en el caso del Sagrado Corazón, cinco en el caso del Inmaculado Corazón).",
+      "tags": [
+        "Sagrado Corazón",
+        "eucaristía",
+        "reparación"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/SacredHeartBatoni.jpg",
+      "imagem_credito": null,
+      "ordem": 4,
+      "origem": "Tradición ligada a las revelaciones a Santa Margarita María Alacoque",
+      "fontes": [
+        "Catecismo de la Iglesia Católica",
+        "Revista Arautos do Evangelho, «A devoção das primeiras sextas-feiras do mês — Promessa de um Coração abrasado de amor»",
+        "Gaudium Press, «A devoção das primeiras sextas-feiras do mês»",
+        "Arquidiocese de Vitória, «Primeira sexta-feira: Devoção ao Sagrado Coração de Jesus»"
+      ]
+    },
+    {
+      "id": "devocoes:escapulario-do-carmo",
+      "slug": "escapulario-do-carmo",
+      "titulo": "Escapulario del Monte Carmelo",
+      "categoria": "devocoes",
+      "resumo": "Pequeño hábito religioso reducido, usado como signo de consagración y protección mariana, vinculado a la Orden del Carmen.",
+      "corpo": "El escapulario marrón de Nuestra Señora del Monte Carmelo es una versión reducida del hábito religioso de los carmelitas —dos pequeños rectángulos de tela de lana unidos por cordones, usados sobre los hombros y caídos sobre el pecho y la espalda—, adoptado por laicos como signo de consagración a María y de pertenencia espiritual a la familia carmelita, cuyo origen se remonta a ermitaños que vivían en el Monte Carmelo, en Palestina, desde el siglo XII, organizados formalmente como orden religiosa a comienzos del siglo XIII.\n\nSegún la tradición de la orden, en la madrugada del 16 de julio de 1251, en Cambridge, Inglaterra, Nuestra Señora habría aparecido a San Simón Stock —entonces superior general de los carmelitas, en una época de gran dificultad para la joven orden, recién llegada a Europa y presionada para justificar su existencia ante la Santa Sede—, entregándole el escapulario con las palabras: \"Recibe, hijo amado, este escapulario [...]. Es señal de salvación, defensa en los peligros, alianza de paz y pacto sempiterno\". El relato tradicional sitúa en este episodio el origen tanto de la forma reducida del escapulario como de la fecha de su fiesta litúrgica, celebrada hasta hoy el 16 de julio.\n\nDécadas más tarde, según otra tradición de la orden, el papa Juan XXII habría recibido una revelación semejante y, en una bula conocida como \"Bula Sabatina\", habría declarado que quien usara el escapulario con fidelidad sería liberado rápidamente de las penas del purgatorio ya el primer sábado después de la muerte —el llamado \"privilegio sabatino\". La autenticidad histórica de esta bula es discutida por los historiadores, pero el privilegio sabatino, entendido no como un automatismo sino como una intercesión mariana especial condicionada a la práctica real de las virtudes cristianas, ha sido reafirmado por sucesivos documentos pontificios, entre ellos un decreto de la Sagrada Congregación de las Indulgencias de 1908.\n\nLa Iglesia siempre ha insistido en este punto: el escapulario no funciona como amuleto mágico ni dispensa de una vida cristiana coherente; es más bien un signo exterior y un recordatorio constante del compromiso bautismal y de la consagración a María, que debe traducirse en oración, participación en los sacramentos e imitación de las virtudes marianas. Por eso, su uso presupone la \"imposición\" formal por parte de un sacerdote autorizado (o la inscripción en la Cofradía del Carmen), que inserta espiritualmente al fiel en la familia carmelita, aunque siga siendo laico y sin votos religiosos.\n\nDesde el siglo XX, la Santa Sede permite sustituir la tela por la llamada \"medalla del escapulario\" —una medalla con la imagen de Nuestra Señora del Carmen por un lado y del Sagrado Corazón de Jesús por el otro—, opción pastoral pensada para climas cálidos y usos cotidianos, aunque el escapulario de tela sigue siendo la forma más tradicional y la preferida por la orden carmelita. Papas modernos, como Pío XII y Juan Pablo II —este último usuario fiel del escapulario desde su juventud—, recomendaron repetidamente la devoción como camino sencillo y accesible de vida mariana para los laicos.",
+      "tags": [
+        "escapulario",
+        "Nuestra Señora del Carmen",
+        "carmelitas"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Stetner_-_Madonna_with_the_Scapular%2C_1740.jpg",
+      "imagem_credito": null,
+      "ordem": 5,
+      "origem": "Tradición carmelita, que se remonta al siglo XIII (San Simón Stock)",
+      "fontes": [
+        "Catecismo de la Iglesia Católica",
+        "Formação Canção Nova, «História do Escapulário do Carmo»",
+        "Aleteia, «O escapulário: o que é, como surgiu e como nos ajuda para a salvação eterna»"
+      ]
+    },
+    {
+      "id": "devocoes:santo-terco-devocao",
+      "slug": "santo-terco-devocao",
+      "titulo": "El Santo Rosario como devoción diaria",
+      "resumo": "La práctica, difundida sobre todo después de las apariciones de Fátima, de rezar el rosario completo todos los días como camino de conversión y paz.",
+      "corpo": "Aunque el Rosario como oración ya existía desde hacía siglos (véase la entrada \"Los Misterios del Rosario\" en Oraciones), su práctica diaria cobró un impulso renovado sobre todo después de las apariciones de Fátima, en Portugal, en el año 1917. En Cova da Iria, tres niños pastores —Lucía dos Santos, entonces de diez años, y sus primos Francisco (nueve años) y Jacinta Marto (siete años)— relataron seis encuentros con Nuestra Señora, siempre el día 13, de mayo a octubre de aquel año, precedidos en 1916 por tres apariciones de un ángel. En prácticamente todas las apariciones, Nuestra Señora habría pedido insistentemente que los fieles rezasen el rosario \"todos los días\", como medio concreto de alcanzar la paz para el mundo, el fin de la Primera Guerra Mundial entonces en curso y la conversión de los pecadores.\n\nLa última aparición, el 13 de octubre de 1917, habría estado acompañada del episodio que la devoción popular llamó \"Milagro del Sol\", presenciado, según los relatos, por unas setenta mil personas reunidas bajo una lluvia torrencial. Tras un período de investigación canónica, el obispo de Leiria, D. José Alves Correia da Silva, publicó el 13 de octubre de 1930 una carta pastoral en la que declaraba \"dignas de crédito\" las visiones de los niños en Cova da Iria, y autorizaba el culto. Francisco y Jacinta murieron siendo aún niños, en la pandemia de gripe de 1918-1920, y fueron canonizados por el papa Francisco en 2017; Lucía se hizo religiosa y vivió hasta 2005, dejando las «Memorias» en las que relató los acontecimientos.\n\nEsta petición de recitación diaria, y no solo ocasional, marcó un cambio de énfasis en la espiritualidad mariana del siglo XX: el Rosario dejaba de ser simplemente una oración entre otras y pasaba a proponerse como práctica cotidiana estructurante de la vida espiritual del fiel común, comparable en regularidad a la oración de la mañana o de la noche. Pasó a recomendarse, desde entonces, tanto individualmente como en familia: la costumbre del \"rosario en familia\", que reúne a padres e hijos al final del día, se volvió particularmente fuerte en países de tradición católica latina, incluido Brasil.\n\nLos papas de los siglos XX y XXI dieron continuidad y refuerzo a esta petición. Pío XII y Pablo VI ya habían alentado ampliamente la práctica; pero fue Juan Pablo II quien le dio un tratamiento doctrinal más completo, en la carta apostólica «Rosarium Virginis Mariae», del 16 de octubre de 2002, con la que además abrió un \"Año del Rosario\" que se extendería hasta octubre de 2003. En ese documento, publicado al comienzo del vigésimo quinto año de su pontificado, el papa señaló una laguna en la estructura tradicional del Rosario —que, con sus misterios gozosos, dolorosos y gloriosos, pasaba directamente de la infancia de Jesús a su Pasión, sin detenerse en la vida pública adulta de Cristo— y propuso una cuarta serie, los \"misterios luminosos\": el Bautismo en el Jordán, la autorrevelación en las bodas de Caná, el anuncio del Reino con la invitación a la conversión, la Transfiguración y la institución de la Eucaristía, \"expresión sacramental del misterio pascual\". Con esta adición, el Rosario completo pasó a tener veinte misterios, distribuidos tradicionalmente en diferentes días de la semana.\n\nLa insistencia en rezar el rosario diariamente también está ligada, en la espiritualidad propuesta por Juan Pablo II, a la idea de contemplación: más que la repetición de fórmulas vocales, el Rosario diario se presenta como un método para meditar, día tras día y de modo progresivo, toda la vida de Cristo a través de los ojos de María, uniendo la sencillez de una oración accesible a cualquier fiel, incluso sin formación teológica, con una verdadera escuela de contemplación cristiana. Durante ese mismo pontificado, Juan Pablo II asoció además el Rosario con la paz, retomando la tradición de las súplicas marianas por la paz mundial. Es este doble carácter —de oración sencilla y, al mismo tiempo, de itinerario espiritual completo— el que sustenta hasta hoy la recomendación, hecha por prácticamente todos los papas recientes, de hacer del rosario no solo una oración ocasional, sino un hábito diario de vida cristiana.",
+      "categoria": "devocoes",
+      "tags": [
+        "rosario",
+        "Rosario",
+        "Fátima",
+        "María",
+        "Juan Pablo II",
+        "misterios luminosos",
+        "pastorcitos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Michelangelo_Merisi%2C_called_Caravaggio_-_Madonna_of_the_Rosary_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Juan Pablo II, Carta Apostólica «Rosarium Virginis Mariae» (16 de octubre de 2002)",
+        "Memorias de la Hermana Lucía (Santuario de Fátima)",
+        "Carta pastoral del obispo de Leiria D. José Alves Correia da Silva (13 de octubre de 1930)",
+        "Catecismo de la Iglesia Católica, sobre María y el Rosario"
+      ],
+      "atualizado_em": null,
+      "ordem": 6,
+      "origem": "Práctica de origen medieval, con impulso renovado tras las apariciones de Fátima (1917)"
+    },
+    {
+      "id": "devocoes:divina-misericordia-devocao",
+      "slug": "divina-misericordia-devocao",
+      "titulo": "Devoción a la Divina Misericordia",
+      "categoria": "devocoes",
+      "resumo": "Conjunto devocional —imagen, coronilla, fiesta propia y Hora de la Misericordia— centrado en la confianza en la misericordia infinita de Dios.",
+      "corpo": "La devoción a la Divina Misericordia articula varios elementos en torno a un único tema —la confianza incondicional en la misericordia de Dios para con todo pecador—, tal como lo relató santa Faustina Kowalska, religiosa polaca de la Congregación de las Hermanas de Nuestra Señora de la Misericordia, en un diario espiritual que comenzó a escribir a partir de 1934, por obediencia a su confesor. El 22 de febrero de 1931, habría tenido la primera de una serie de visiones de Jesús, quien le pidió que hiciera pintar una imagen suya tal como se le aparecía —vestido de blanco, con rayos rojos y blancos que salían de su pecho, simbolizando la sangre y el agua derramadas en la cruz— con la inscripción \"Jesús, en Ti confío\".\n\nEl padre Michał Sopoćko, capellán del convento de Vilna y, más tarde, su confesor y director espiritual, fue decisivo para que esas experiencias fueran tomadas en serio: sometió a Faustina a una evaluación psiquiátrica, obtuvo un dictamen médico favorable y comenzó a apoyar la difusión de la devoción, encargando en 1934 al pintor Eugeniusz Kazimirowski la primera imagen de la Divina Misericordia. Fue también Sopoćko quien pidió a Faustina que dejara por escrito sus experiencias, dando origen al \"Diario\", publicado póstumamente con el título \"La Divina Misericordia en mi alma\" y considerado hoy una de las obras místicas más leídas del catolicismo contemporáneo.\n\nLa devoción reúne, a partir de ese conjunto de revelaciones, cuatro elementos principales: la imagen de \"Jesús, en Ti confío\"; la Coronilla de la Misericordia (ver Oraciones), breve oración que se recita sobre las cuentas del rosario; la práctica de hacer, siempre que sea posible, una breve pausa de oración a las 15:00 h —la \"Hora de la Misericordia\", tradicionalmente asociada al momento de la muerte de Cristo en la cruz—; y la Fiesta de la Divina Misericordia, celebrada el segundo domingo de Pascua.\n\nLa trayectoria de esta devoción hasta el reconocimiento oficial no fue lineal. El 6 de marzo de 1959, el Santo Oficio, basándose en una traducción deficiente e incompleta del diario de Faustina, prohibió formalmente la difusión de imágenes y escritos vinculados a la devoción en las formas propuestas por ella. La prohibición solo fue levantada el 15 de abril de 1978, después de una nueva traducción más fiel al original polaco y de gestiones personales del entonces arzobispo de Cracovia, cardenal Karol Wojtyła, quien también había impulsado la causa de beatificación de Faustina. Seis meses después de obtenida esa revocación, el propio Wojtyła sería elegido papa, con el nombre de Juan Pablo II.\n\nYa como papa, Juan Pablo II canonizó a Faustina Kowalska el 30 de abril de 2000 —fecha que coincidía, aquel año, con el segundo domingo de Pascua— y aprovechó la misma ceremonia para instituir oficialmente la Fiesta de la Divina Misericordia en el calendario litúrgico universal, en ese mismo domingo. No por casualidad: el propio Juan Pablo II fallecería en la víspera de esa fiesta, el 2 de abril de 2005, reforzando a los ojos de muchos fieles el vínculo entre su pontificado y esta devoción, que él mismo había ayudado a salvar de décadas de sospecha eclesiástica.",
+      "tags": [
+        "misericordia divina",
+        "Santa Faustina"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kazimirowski_Eugeniusz%2C_Divine_Mercy%2C_1934.jpg",
+      "imagem_credito": null,
+      "ordem": 7,
+      "origem": "Diario de santa Faustina Kowalska (década de 1930); fiesta instituida por Juan Pablo II en 2000",
+      "fontes": [
+        "Catecismo de la Iglesia Católica",
+        "Miles Christi Resistens, «La devoción a la Divina Misericordia: ¿por qué el Santo Oficio la prohibió?»",
+        "ChurchPOP, «Cómo la devoción a la Divina Misericordia fue salvada por San Juan Pablo II»"
+      ]
+    },
+    {
+      "id": "devocoes:adoracao-perpetua",
+      "slug": "adoracao-perpetua",
+      "titulo": "Adoración Eucarística Perpetua",
+      "resumo": "Práctica de mantener el Santísimo Sacramento expuesto ininterrumpidamente, día y noche, con un relevo continuo de adoradores.",
+      "corpo": "Distinta de la adoración eucarística ocasional (ver la categoría Vida Litúrgica), la «adoración perpetua» designa la práctica de mantener el Santísimo Sacramento expuesto de modo continuo —24 horas al día, todos los días del año—, con fieles que se turnan en la oración para que nunca quede sin alguien que adore. La expresión se usa tanto en sentido estricto, para indicar una adoración físicamente ininterrumpida, como en sentido amplio, cuando la interrupción se produce solo por breves períodos o por motivos imperiosos, retomándose después la exposición.\n\nUno de los episodios más antiguos que suelen señalarse como origen de la práctica tuvo lugar en Aviñón, en Francia, el 11 de septiembre de 1226. En acción de gracias por la victoria sobre los albigenses —secta que rechazaba los sacramentos y, en especial, la presencia real en la Eucaristía—, el rey pidió que el Santísimo fuera expuesto solemnemente en la Capilla de la Santa Cruz. Ante el gran número de fieles que acudió a adorar, el obispo local, Pierre de Corbie, juzgó conveniente prolongar la exposición también durante la noche; la iniciativa fue ratificada después por la Santa Sede. Las fuentes divergen en cuanto al monarca: parte de la bibliografía (entre ella la Catholic Encyclopedia) indica a Luis VII, otra designa a Luis VIII, padre de San Luis IX. Esta adoración aviñonesa se mantuvo hasta 1792, cuando la Revolución Francesa la interrumpió, y fue retomada en 1829 por los Penitentes Grises. Muchos estudiosos, sin embargo, asocian la difusión de la adoración extralitúrgica con el establecimiento de la fiesta del Corpus Christi (1246-1247), anterior en organización a estas experiencias iniciales.\n\nA lo largo de la Edad Media y de la Edad Moderna, el mantenimiento de la adoración durante largos períodos quedó restringido sobre todo a monasterios y conventos de vida contemplativa, desde donde fue permeando gradualmente la vida de las diócesis. Un paso decisivo para su difusión fuera de la vida monástica llegó en el siglo XIX, cuando el sacerdote francés Pedro Julián Eymard, tras dejar la Congregación Marista, fundó en París, el 22 de mayo de 1856, la Congregación de los Padres del Santísimo Sacramento, dedicada específicamente a la promoción del culto eucarístico y a la adoración perpetua; fundó también las Siervas del Santísimo Sacramento, rama femenina, y una orden tercera laica. Fue canonizado por Juan XXIII en 1962 y es recordado como «apóstol de la Eucaristía».\n\nEn el siglo XX y, sobre todo, en las últimas décadas, la práctica dejó de ser exclusiva de los institutos religiosos y se extendió ampliamente a las parroquias comunes, con la creación de capillas de adoración perpetua mantenidas por equipos de laicos voluntarios organizados en turnos, muchas veces de hora en hora, que garantizan una presencia constante ante el Santísimo expuesto en una custodia. Las estimaciones varían mucho según la fuente y el criterio: se calcula hoy la existencia de algunos miles de estos espacios en varios países —las cifras citadas van de unas 2.500 a unas 5.000 capillas en el mundo, con un crecimiento notable en España y en Brasil—, cifra que este acervo registra como estimación, no como dato exacto.\n\nTeológicamente, la adoración perpetua se apoya en la fe católica en la presencia real de Cristo en la Eucaristía incluso fuera de la celebración de la Misa, y se entiende como una forma de prolongar en el tiempo la invitación de Jesús a los apóstoles en el Huerto de los Olivos —«¿No habéis podido velar una hora conmigo?» (Mt 26,40)—, el mismo episodio bíblico que está en el origen devocional de la Hora Santa, presente en este acervo.",
+      "categoria": "devocoes",
+      "tags": [
+        "adoración eucarística",
+        "eucaristía",
+        "Santísimo Sacramento",
+        "presencia real",
+        "Pedro Julián Eymard",
+        "Aviñón"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Genaro_P%C3%A9rez_Villaamil_-_The_Corpus_Christi_Procession_inside_Seville_Catedral_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Catholic Encyclopedia (1913), «Perpetual Adoration»",
+        "Catecismo de la Iglesia Católica",
+        "EWTN News/ACI Prensa, «On this day almost 800 years ago, the practice of perpetual adoration of the Blessed Sacrament began»",
+        "Gaudium Press, «Cresce o número de Capelas de Adoração Eucarística Perpétua na Espanha»",
+        "IPCO, «São Pedro Julião Eymard, Confessor»",
+        "Arquidiocese de Belo Horizonte, «São Pedro Julião Eymard»"
+      ],
+      "atualizado_em": null,
+      "ordem": 8,
+      "origem": "Práctica consolidada a partir de fundaciones monásticas medievales, hoy difundida en parroquias y capillas dedicadas"
+    },
+    {
+      "id": "devocoes:consagracao-a-maria",
+      "slug": "consagracao-a-maria",
+      "titulo": "Consagración a Jesús por María",
+      "categoria": "devocoes",
+      "resumo": "Práctica espiritual de entregarse totalmente a Cristo por medio de María, sistematizada por San Luis María Grignion de Montfort.",
+      "corpo": "Distinta de una simple oración a María, la \"consagración\" es un acto formal y deliberado de entrega total de la propia vida a Jesucristo a través de la mediación materna de María — no una devoción entre otras, sino, en la formulación de sus defensores, un camino espiritual completo y un medio privilegiado de vivir el propio bautismo. Fue sistematizada sobre todo por San Luis María Grignion de Montfort (1673-1716), misionero popular francés, en el «Tratado de la verdadera devoción a la Santísima Virgen» (ver Libros).\n\nCuriosamente, el manuscrito del Tratado permaneció prácticamente desconocido durante más de un siglo: escrito en los últimos años de vida de Montfort y guardado entre sus pertenencias, solo fue redescubierto por casualidad en 1842, en un baúl de la casa madre de la Compañía de María en Saint-Laurent-sur-Sèvre, en Francia, y publicado por primera vez en 1843. Este redescubrimiento tardío dio a la obra una difusión y una influencia que no tuvo en vida del autor, convirtiéndola en una de las referencias más citadas de la espiritualidad mariana de los siglos XIX y XX.\n\nEl método montfortiano de consagración se estructura clásicamente en un período de preparación de 33 días, dividido en bloques temáticos: los primeros doce días dedicados a vaciarse del \"espíritu del mundo\", entendido como todo lo que se opone al Espíritu de Cristo; un segundo bloque de días dedicado al conocimiento de sí mismo y de la propia condición pecadora; un tercero, al conocimiento de María; y un último, dedicado al conocimiento de Jesucristo, al cual toda la consagración, en última instancia, se dirige — la entrega a María entendida siempre como medio, nunca como fin en sí misma. Al final de este itinerario, el fiel hace, generalmente en una Misa y en una fecha de fiesta mariana significativa (como la Anunciación, el 25 de marzo, o la Inmaculada Concepción, el 8 de diciembre), la fórmula solemne de consagración de \"todo su ser\" a Jesús por María.\n\nLa espiritualidad de Montfort marcó profundamente a varios santos y papas posteriores. San Maximiliano Kolbe, fundador de la Milicia de la Inmaculada a comienzos del siglo XX, se inspiró directamente en ella para formular su propia doctrina de la \"consagración total\" a la Virgen. Pero fue sobre todo Juan Pablo II quien la hizo mundialmente conocida: el lema episcopal y luego papal que adoptó, \"Totus Tuus\" (\"Todo tuyo\", en latín), es una cita directa de una fórmula del propio Tratado de Montfort, y el papa afirmó repetidas veces que la lectura de esta obra, aún siendo joven obrero en la Polonia ocupada, fue decisiva para su comprensión de la mediación materna de María en el camino hacia Cristo.\n\nHoy, el método de Montfort sigue siendo el más difundido para este tipo de consagración mariana, habiendo servido de modelo, con adaptaciones, para consagraciones posteriores a otras figuras — incluso, más recientemente, para la consagración a San José también presente en este acervo, que replica la misma lógica de 33 días de preparación.",
+      "tags": [
+        "consagración mariana",
+        "María",
+        "Luis de Montfort"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Louis_de_Montfort.jpg",
+      "imagem_credito": null,
+      "ordem": 9,
+      "origem": "Sistematizada por San Luis de Montfort a comienzos del siglo XVIII",
+      "fontes": [
+        "Catecismo de la Iglesia Católica",
+        "Aliança de Misericórdia, «São Luís Grignion de Montfort e a verdadeira devoção a Nossa Senhora»",
+        "Portal Éfeso, «Saiba Como Se Consagrar à Virgem Maria: O Passo A Passo Dos 33 Dias De Preparação»"
+      ]
+    },
+    {
+      "id": "devocoes:angelus-devocao",
+      "slug": "angelus-devocao",
+      "titulo": "La práctica del Ángelus (tres veces al día)",
+      "resumo": "El hábito de interrumpir las actividades tres veces al día —mañana, mediodía y tarde— para rezar el Ángelus al toque de la campana, recordando la Encarnación; en el Tiempo Pascual se sustituye por la antífona Regina Caeli.",
+      "corpo": "Además del texto de la oración en sí (ver Oraciones), el Ángelus es también una práctica devocional de ritmo diario: tradicionalmente marcada por el toque de las campanas de la iglesia parroquial tres veces al día —por la mañana, al mediodía y al atardecer—, invita a los fieles a interrumpir por un instante las ocupaciones cotidianas para recordar el misterio de la Encarnación. El nombre deriva de la primera palabra del texto latino, «Angelus Domini nuntiavit Mariae» («El Ángel del Señor anunció a María»), y la oración se llamaba antiguamente «oración de la paz», por celebrar al Hijo de Dios que, encarnándose en el seno de la Virgen, estableció la paz entre Dios y los hombres.\n\nLas raíces de la costumbre son medievales y se desarrollaron en capas. La primera noticia segura se remonta a 1269, cuando San Buenaventura de Bagnoregio, entonces ministro general de la Orden Franciscana, en el Capítulo General de los Frailes Menores reunido en Pisa, prescribió a los religiosos saludar a la Madre de Dios al atardecer, al son de las campanas, con el rezo del Avemaría, recordando la Encarnación. El hábito se difundió por etapas jurídicas posteriores: un decreto del Sínodo de Estrigonia (Esztergom, Hungría), en 1307, concedió indulgencia a los fieles que rezaran tres Avemarías al toque de las campanas vespertinas; y un sínodo reunido en Colonia, a comienzos del siglo XV, determinó que en todas las iglesias se tocara la campana tres veces al amanecer, a la manera del atardecer. La composición del texto del Ángelus se atribuye, por tradición, al beato papa Urbano II (pontífice de 1088 a 1099) —atribución piadosa que las fuentes presentan como tal, sin documentación contemporánea.\n\nLa consolidación del Ángelus como oración triple se produjo en etapas distintas. El 29 de junio de 1456, el papa Calixto III, mediante la bula conocida como «Bulla Turcorum», ordenó que las campanas de todas las iglesias de la cristiandad tocaran al mediodía, convocando a los fieles a rezar por la defensa de quienes resistían el avance otomano. El contexto concreto fue el asedio de Belgrado: el 22 de julio de aquel año, Juan Hunyadi, auxiliado por la predicación del franciscano San Juan de Capistrano, derrotó al ejército de Mehmed II, victoria que detuvo durante unos setenta años el avance otomano sobre Europa Central. Es preciso señalar, como hacen las fuentes históricas, que la «campana del mediodía» ordenada por Calixto III no era originalmente idéntica al Ángelus —se trataba de un toque de súplica por la victoria cristiana—, y la fusión de ambas costumbres solo se consolidó más tarde. Fue el rey Luis XI de Francia quien, hacia 1472, determinó de modo sistemático que la campana tocara tres veces al día —por la mañana, al mediodía y al atardecer—, fijando la estructura que se volvería universal en los siglos siguientes, con el rezo de las tres Avemarías en cada toque.\n\nYa en la Edad Moderna, la devoción fue objeto de concesiones espirituales: el papa Benedicto XIII, el 14 de septiembre de 1724, anexó al Ángelus la indulgencia de cien días por cada rezo, con una indulgencia plenaria una vez al mes, para quien lo rezara en las condiciones habituales. La estructura tradicional de la oración alterna tres versículos y respuestas, cada uno seguido de un Avemaría, recordando el anuncio del ángel Gabriel a María, su respuesta de fe («Hágase en mí según tu palabra») y la Encarnación del Verbo («Y el Verbo se hizo carne y habitó entre nosotros»), concluyendo con una oración colecta y el Gloria. El toque de campanas que la acompaña suele seguir tres grupos de tres campanadas, seguidos de nueve campanadas continuas. Durante todo el Tiempo Pascual —de Pascua a Pentecostés— la Iglesia sustituye el Ángelus por la antífona mariana «Regina Caeli» («Reina del Cielo»), atestiguada en manuscritos litúrgicos desde el siglo XII y una de las cuatro antífonas marianas del Oficio; celebra la Resurrección en lugar de la Encarnación, siendo la única de las antífonas marianas que es una invitación a la alegría y no una súplica.\n\nLa dimensión pública y semanal de la devoción es relativamente reciente. La primera transmisión radiofónica del Ángelus tuvo lugar el 15 de agosto de 1954, fiesta de la Asunción, cuando el papa Pío XII dirigió la oración desde Castel Gandolfo; en el otoño de ese mismo año, Pío XII inició la tradición de rezar el Ángelus desde la ventana de su estudio en el Palacio Apostólico, con vista a la Plaza de San Pedro. Desde entonces, los papas rezan el Ángelus (o, en el Tiempo Pascual, el Regina Caeli) públicamente los domingos y días santos al mediodía, dirigiendo a los fieles una breve reflexión antes de la oración. Esta práctica se vinculó de modo particular a la memoria mariana de la Iglesia: el 13 de mayo de 1981, durante la audiencia semanal en la Plaza de San Pedro —en el día de Nuestra Señora de Fátima—, Juan Pablo II fue alcanzado por los disparos de Mehmet Ali Ağca y sobrevivió; años después atribuyó la protección a la Virgen y depositó en la corona de la imagen de Fátima la bala que lo hirió. La combinación de campana y oración, aún viva en muchas parroquias y comunidades rurales, sigue siendo uno de los gestos más reconocibles de la piedad católica cotidiana.",
+      "categoria": "devocoes",
+      "tags": [
+        "Ángelus",
+        "Regina Caeli",
+        "oración mariana",
+        "vida diaria",
+        "campanas",
+        "Encarnación",
+        "Pío XII",
+        "Calixto III"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Jean-Fran%C3%A7ois_Millet_-_The_Angelus_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Vatican News, «El origen del Ángelus», por Laura Lo Monaco (2022)",
+        "Catholic Encyclopedia (1913), entrada «Angelus» (indulgencia de Benedicto XIII, 14 sep. 1724)",
+        "Wikipedia (en), «Angelus» y «Siege of Belgrade (1456)» — nota sobre la distinción entre la campana del mediodía de Calixto III y el Ángelus",
+        "Aleteia (pt), «A oração do Ângelus: sua história, seu significado e como rezá-lo»"
+      ],
+      "atualizado_em": null,
+      "ordem": 10,
+      "origem": "Uso devocional consolidado hacia el siglo XVI"
+    },
+    {
+      "id": "devocoes:primeiros-sabados",
+      "slug": "primeiros-sabados",
+      "titulo": "Los Cinco Primeros Sábados",
+      "categoria": "devocoes",
+      "resumo": "Devoción mariana ligada a las apariciones de Fátima: confesión, comunión, rosario y meditación en reparación, el primer sábado de cinco meses seguidos.",
+      "corpo": "Distinta, aunque relacionada, de los Primeros Viernes al Sagrado Corazón, la devoción de los «Cinco Primeros Sábados» tiene su origen en el relato de las apariciones de Fátima: el primer sábado de cinco meses consecutivos, el fiel se confiesa, comulga, reza un rosario y medita durante quince minutos los misterios del Rosario, acompañando estos actos con la intención específica de reparación por las ofensas al Inmaculado Corazón de María.\n\nLa raíz de la petición está en la aparición del 13 de julio de 1917, cuando, según el relato de la vidente Lucía dos Santos, Nuestra Señora anunció que Dios deseaba establecer en el mundo la devoción a su Inmaculado Corazón como camino de paz. Pero la forma concreta y el número exacto —cinco sábados, con los cuatro actos específicos de confesión, comunión, rosario y meditación— solo llegarían años después, en una aparición posterior, ya sin la presencia de los otros dos pastorcitos, Francisco y Jacinta, fallecidos en 1919 y 1920.\n\nEsa aparición tuvo lugar el 10 de diciembre de 1925, en el convento de las Hermanas Doroteas de Pontevedra, en España, donde Lucía, entonces de dieciocho años y única sobreviviente de los tres videntes, vivía como postulante. Según su relato, Nuestra Señora se le apareció con el Niño Jesús en brazos, envuelto en una nube luminosa; en una de las manos, mostraba a Lucía un corazón rodeado de espinas. Fue el propio Niño Jesús quien primero se dirigió a ella, diciendo: «Ten compasión del Corazón de tu Santísima Madre, que está cubierto de espinas que los hombres ingratos le clavan a cada momento, sin que haya quien haga un acto de reparación para quitárselas». A continuación, Nuestra Señora explicó la petición concreta: a cuantos, durante cinco meses, en el primer sábado, se confesaran, comulgaran, rezaran un rosario y le hicieran compañía durante quince minutos meditando los misterios del Rosario, con el fin de desagraviarla, les prometía asistirlos en la hora de la muerte con las gracias necesarias para la salvación.\n\nUna segunda aparición, el 15 de febrero de 1926, aclaró dudas prácticas sobre cómo cumplir la devoción. Lucía, entonces ya novicia, relató haber visto a un niño que le pareció reconocer; al iniciar la conversación, el niño se reveló como el propio Niño Jesús, quien la reprendió por no haber hecho más para propagar la devoción de los cinco primeros sábados. Ante la objeción de Lucía —de que había almas que, por falta de confesor disponible en ese día exacto, tendrían dificultad para cumplir la exigencia—, Jesús aclaró que la confesión podía hacerse en otro día cercano al sábado, siempre que la comunión se recibiera en estado de gracia y con intención reparadora, flexibilización que permanece hasta hoy como norma práctica de la devoción.\n\nLa devoción de los Cinco Primeros Sábados funciona, así, como el complemento devocional práctico de la petición más amplia de consagración del mundo —y, especialmente, de Rusia— al Inmaculado Corazón de María, hecha ya en la aparición de julio de 1917 y tratada con más detalle en la entrada sobre la devoción al Inmaculado Corazón en este acervo. Difundida sobre todo a partir de mediados del siglo XX, cuando las apariciones de Fátima ganaron reconocimiento y divulgación mundial —reforzada por la beatificación de Francisco y Jacinta Marto en 2000 y por su canonización en 2017, en el centenario de las apariciones—, la práctica sigue viva hoy en santuarios marianos y parroquias de devoción fatimense en todo el mundo.",
+      "tags": [
+        "Fátima",
+        "María",
+        "reparación"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/First_Sculpture_of_Our_Lady_of_Fatima.jpg",
+      "imagem_credito": null,
+      "ordem": 11,
+      "origem": "Relato de las apariciones de Nuestra Señora de Fátima (1917) y de Pontevedra (1925)",
+      "fontes": [
+        "Catecismo de la Iglesia Católica",
+        "MBC, «Cinco primeros sábados: a devoção reparadora pedida por Nossa Senhora»",
+        "Wikipedia, «Apariciones de Pontevedra»",
+        "Via Crucis (Portugal), «Neste dia, em 1926, Jesus apareceu à Irmã Lúcia e questionou sobre os Cinco Primeiros Sábados»"
+      ]
+    },
+    {
+      "id": "devocoes:imaculado-coracao-de-maria",
+      "slug": "imaculado-coracao-de-maria",
+      "titulo": "Devoción al Inmaculado Corazón de María",
+      "resumo": "Devoción mariana que honra el corazón de María como símbolo de su amor materno y de su total entrega a Dios, sistematizada por san Juan Eudes en el siglo XVII y difundida mundialmente tras las apariciones de Fátima en 1917.",
+      "corpo": "Paralela y complementaria a la devoción al Sagrado Corazón de Jesús, la devoción al Inmaculado Corazón de María honra el corazón de la Virgen como símbolo de su amor materno, de su fe y de su total entrega a la voluntad de Dios. Su raíz bíblica está en el Evangelio según Lucas, que en dos ocasiones registra que María «conservaba todas estas cosas, meditándolas en su corazón» (Lc 2,19.51); los Padres de la Iglesia y los teólogos medievales, entre ellos san Bernardo, santa Gertrudis y santa Brígida, desarrollaron esa lectura. Como devoción orgánicamente estructurada, sin embargo, debe mucho al sacerdote francés san Juan Eudes: en 1648 obtuvo del obispo de Autun, en Francia, la aprobación de la celebración de una fiesta en honor del Corazón de María, siendo el primero en promover oficialmente, en unidad, el culto a los dos Corazones — de tal modo que León XIII lo llamó «autor del culto litúrgico a los Sagrados Corazones de Jesús y María», y san Pío X, al beatificarlo, lo saludó como «padre, doctor y apóstol» de esta devoción.\n\nFue, no obstante, el relato de las apariciones de Fátima, en 1917, lo que dio a la devoción alcance mundial. Según los testimonios de los tres pastorcitos — Lucía dos Santos, entonces de diez años, Francisco Marto, de nueve, y Jacinta Marto, de siete —, en la aparición del 13 de julio de 1917, en Cova da Iria, Nuestra Señora anunció: «Dios quiere establecer en el mundo la devoción a mi Inmaculado Corazón», y añadió la promesa de que, «para impedir la guerra, vendré a pedir la consagración de Rusia a mi Inmaculado Corazón y la Comunión reparadora los primeros sábados». La vidente Lucía, más tarde carmelita descalza, relató además haber visto el Corazón de María rodeado de espinas, ofendido por los pecados de los hombres y necesitado de reparación. Esta petición de reparación fue detallada años después, en la aparición del 10 de diciembre de 1925, en Pontevedra, en España, cuando la Virgen y el Niño Jesús se aparecieron a la joven postulante Lucía y pidieron la comunión reparadora los primeros sábados de cinco meses consecutivos — la llamada devoción de los Cinco Primeros Sábados, con la promesa de asistencia en la hora de la muerte a quien la practicase.\n\nLa respuesta institucional a este llamado llegó por etapas. El 31 de octubre de 1942, en plena Segunda Guerra Mundial, el papa Pío XII consagró toda la humanidad al Inmaculado Corazón de María, primero mediante un radiomensaje dirigido a Portugal y repitiendo solemnemente el acto en la Basílica de San Pedro el 8 de diciembre del mismo año; en los años siguientes, historiadores católicos relacionaron el gesto con el giro favorable a los Aliados, con las victorias de El Alamein (noviembre de 1942) y Stalingrado (febrero de 1943). El 7 de julio de 1952, mediante la carta apostólica «Sacro Vergente Anno», Pío XII consagró específicamente los pueblos de Rusia, entonces bajo régimen comunista ateo. Pablo VI renovó el gesto en 1964, al clausurar la tercera sesión del Concilio Vaticano II, y publicó en 1967 la exhortación apostólica «Signum Magnum», en la que pidió que el Corazón Inmaculado de María brillase «ante los ojos de todos los cristianos como modelo de perfecto amor hacia Dios y hacia el prójimo». Juan Pablo II, profundamente marcado por la espiritualidad de Fátima tras sobrevivir al atentado del 13 de mayo de 1981 — aniversario de la primera aparición —, volvería a consagrar el mundo y Rusia al Inmaculado Corazón en 1981, 1982 y, de forma considerada más plena por los fieles fatimistas, el 25 de marzo de 1984.\n\nMás recientemente, el 25 de marzo de 2022, el papa Francisco presidió, en la Basílica de San Pedro, una nueva consagración, durante una celebración penitencial, nombrando explícitamente, por primera vez en un acto de este tipo, tanto a Rusia como a Ucrania, en el contexto de la invasión rusa iniciada ese año. El mismo acto fue realizado simultáneamente por el prefecto del Dicasterio para la Evangelización en Fátima, uniendo el gesto tradicional fatimista a una súplica directa por la paz entre los dos países en guerra.\n\nLa fiesta litúrgica propia del Inmaculado Corazón de María fue instituida para toda la Iglesia por el decreto «Cultus liturgicus», del 4 de mayo de 1944, de la Congregación de Ritos, fijada inicialmente el 22 de agosto, octava de la Asunción, con Misa y oficio propios. En la reforma litúrgica posconciliar, la celebración fue trasladada al sábado siguiente a la solemnidad del Sagrado Corazón de Jesús, convirtiéndose en memoria (primero facultativa, después obligatoria) y reafirmando, en el propio calendario, el vínculo entre los dos Corazones unidos en la misma misión de salvación; la antigua fecha del 22 de agosto pasó a ser la memoria de Santa María Reina.",
+      "categoria": "devocoes",
+      "tags": [
+        "devoción mariana",
+        "Fátima",
+        "Inmaculado Corazón",
+        "consagración de Rusia",
+        "San Juan Eudes",
+        "primeros sábados",
+        "Pío XII"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Imaculado-coracao-de-maria.jpg",
+      "imagem_credito": "Foto: Francisco SC — Wikimedia Commons, CC BY 3.0",
+      "fontes": [
+        "Lucas 2,19.51",
+        "Memorias de la Hermana Lucía I, Santuario de Fátima (edición de las fuentes originales)",
+        "Pío XII, radiomensaje de consagración del mundo al Inmaculado Corazón (31 de octubre de 1942; repetido el 8 de diciembre de 1942), EWTN",
+        "Pío XII, Carta Apostólica «Sacro Vergente Anno» (1952)",
+        "Congregación de Ritos, decreto «Cultus liturgicus», 4 de mayo de 1944",
+        "Pablo VI, Exhortación Apostólica «Signum Magnum» (1967), n. 14",
+        "Osservatore Romano, «El Papa consagrará Rusia y Ucrania al Inmaculado Corazón de María» (2022)"
+      ],
+      "atualizado_em": null,
+      "ordem": 12,
+      "origem": "Antigua en la tradición mariana, consolidada devocionalmente tras las apariciones de Fátima (1917)"
+    },
+    {
+      "id": "devocoes:bencao-do-santissimo",
+      "slug": "bencao-do-santissimo",
+      "titulo": "Bendición con el Santísimo Sacramento",
+      "resumo": "Rito de adoración eucarística en que el obispo, el presbítero o el diácono bendice a los fieles con la hostia consagrada expuesta en la custodia, usando el velo humeral.",
+      "corpo": "La Bendición con el Santísimo Sacramento es un rito devocional, distinto de la Misa, en que la hostia consagrada es expuesta en la custodia para la adoración —generalmente al final de un período de adoración eucarística— y el ministro (obispo, presbítero o diácono, nunca un laico) traza con ella la señal de la cruz sobre la asamblea, bendiciéndola con la propia presencia real de Cristo, y no con su propia autoridad personal. Se trata, por lo tanto, de una bendición que procede de Cristo-Eucaristía, siendo el ministro solo un instrumento.\n\nEl desarrollo histórico de este rito está ligado a la institución de la fiesta del Corpus Christi por el papa Urbano IV, en 1264, motivada en buena parte por las visiones de la religiosa agustina Juliana de Cornillon, en Bélgica, que pedían una fiesta específica en honor del Cuerpo de Cristo. Para esa misma fiesta, Santo Tomás de Aquino compuso, a petición del propio Urbano IV, el oficio litúrgico completo, incluyendo el himno «Pange lingua gloriosi», cuyas dos últimas estrofas —que comienzan con las palabras «Tantum ergo Sacramentum»— se consolidaron, con el tiempo, como el canto propio del momento de la bendición eucarística, entonado hasta hoy en latín o en traducciones vernáculas en prácticamente todo el mundo católico. La práctica de exponer solemnemente el Santísimo en un receptáculo transparente —la custodia, cuya forma característica con una «luna» central de vidrio o cristal se desarrolló a lo largo de los siglos XIV y XV— creció precisamente a partir de la devoción generada por el Corpus Christi y de las procesiones eucarísticas que la fiesta consolidó.\n\nDurante siglos el rito de la bendición con el Santísimo no tuvo una codificación litúrgica oficial y uniforme: su forma fue fijándose por medio de directrices prácticas, entre las cuales tuvieron gran influencia las normas elaboradas en el siglo XVIII por el cardenal vicario de Roma Prospero Lambertini —que sería elegido papa poco después, con el nombre de Benedicto XIV—, ampliamente seguidas hasta el siglo XX. Una codificación oficial y universal solo llegaría con la publicación del «Rito de la Exposición y Bendición Eucarística», promulgado por la Santa Sede en 1973, que unificó la práctica en toda la Iglesia latina.\n\nUn elemento característico del rito es el velo humeral —del latín «humerus», hombro—, largo paño rectangular que el ministro se coloca sobre los hombros y usa para cubrirse las manos al sostener la custodia en el momento de bendecir. El gesto expresa visualmente que la bendición no procede de la persona del ministro, sino de Cristo presente en el Sacramento, del cual él es solo instrumento; en las exposiciones solemnes, el velo se usa sobre la capa pluvial, y el acólito se lo coloca al ministro antes de la bendición. La celebración completa suele seguir una estructura fija: exposición del Santísimo, un período de adoración silenciosa o cantada, la incensación del Sacramento, el canto del «Tantum ergo», un versículo con su respectiva oración (en Brasil, se acostumbra rezar el «Bendito seja Deus»), y, por último, la bendición en silencio con la custodia, concluida con la reposición de la hostia en el sagrario.",
+      "categoria": "devocoes",
+      "tags": [
+        "adoración eucarística",
+        "eucaristía",
+        "Corpus Christi",
+        "custodia",
+        "velo humeral",
+        "Tomás de Aquino"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Ritual Romano, Rito de la Exposición y Bendición Eucarística (1973)",
+        "Wikipedia, «Bênção do Santíssimo Sacramento»",
+        "Santa Inês Paramentos, «O Simbolismo do Véu Umeral nas Bênçãos do Santíssimo Sacramento»",
+        "Salvem a Liturgia, «Exposição e Bênção do Santíssimo Sacramento» (rúbricas)"
+      ],
+      "atualizado_em": null,
+      "ordem": 13,
+      "origem": "Desarrollada a partir de la institución de la fiesta del Corpus Christi (siglo XIII)"
+    },
+    {
+      "id": "devocoes:ladainha-lauretana",
+      "slug": "ladainha-lauretana",
+      "titulo": "Letanías de Nuestra Señora (Letanías Lauretanas)",
+      "resumo": "Secuencia de invocaciones y títulos marianos rezados en forma de letanía, tradicionalmente asociada al santuario de Loreto y única letanía mariana aprobada para uso público universal.",
+      "corpo": "Las Letanías Lauretanas son una secuencia de invocaciones a Nuestra Señora, cada una seguida de la respuesta \"ruega por nosotros\", que recorre decenas de títulos marianos —bíblicos, dogmáticos y simbólicos, como \"Virgen prudentísima\", \"Estrella de la mañana\", \"Torre de marfil\" y \"Reina de los Ángeles\"—, precedida de una invocación a la Santísima Trinidad y concluida con las invocaciones a Cristo como \"Cordero de Dios\". Las invocaciones se distribuyen en grupos: las que honran la maternidad divina, las referentes a la virginidad de María, las figuras simbólicas, las que invocan su misericordia y las que la aclaman Reina. Es costumbre concluir con ellas el rezo del rosario en muchas comunidades, y su estructura actual reúne cerca de cincuenta invocaciones marianas.\n\nRecibieron este nombre por su asociación histórica con el Santuario de la Santa Casa de Loreto, en la región italiana de las Marcas. Según los registros más antiguos conocidos, las letanías habrían sido cantadas solemnemente el 10 de diciembre de 1531, fecha asociada a la colocación de la primera piedra del revestimiento de mármol de la Santa Casa; existe además el testimonio de un legado de 1547, del canónigo de Loreto Juan de Albona, en favor de los agustinos de Recanati, para que se celebrara misa con el canto de las letanías marianas, y la noticia de peregrinos que, hacia 1565, llegaban al santuario ya cantándolas. Los historiadores consideran probable que las letanías, en versiones cercanas, circularan desde hacía más tiempo entre las muchas letanías marianas entonces existentes en Europa.\n\nEn el siglo XVI circulaban decenas de letanías diferentes dedicadas a María, con títulos y estructuras variables según la región y la devoción local. Para poner orden en esa diversidad, el papa Sixto V emitió, el 11 de julio de 1587, la bula \"Reddituri\", que concedió aprobación formal y universal a la versión de Loreto para uso público en la Iglesia y, al mismo tiempo, suprimió y prohibió el uso público de las demás letanías marianas entonces existentes, dejándolas permitidas solo en la devoción privada. La medida pretendía garantizar la uniformidad litúrgica y la pureza doctrinal, haciendo de la Lauretana la única letanía mariana oficialmente sancionada para uso universal.\n\nDesde entonces, la Santa Sede mantiene la prerrogativa de añadir nuevos títulos a las letanías, lo que ocurrió pocas veces a lo largo de los siglos. Entre los añadidos documentados están \"Reina concebida sin pecado original\" (1854, bajo Pío IX, en el contexto de la definición del dogma de la Inmaculada Concepción), \"Madre del Buen Consejo\" (por decreto de León XIII del 22 de abril de 1903), \"Reina de la Paz\" (1917), \"Reina asunta al cielo\" (1950) y \"Madre de la Iglesia\" —proclamada por Pablo VI el 21 de noviembre de 1964, al concluir la tercera sesión del Concilio Vaticano II, y formalmente incorporada al texto de las letanías en 1980, ya bajo Juan Pablo II, quien en 1995 añadiría también \"Reina de la Familia\".\n\nMás recientemente, el 20 de junio de 2020 —memoria del Inmaculado Corazón de María—, el papa Francisco determinó la inclusión de tres invocaciones más: \"Mater misericordiae\" (Madre de la Misericordia), insertada después de \"Madre de la Iglesia\"; \"Mater spei\" (Madre de la Esperanza), después de \"Madre de la divina gracia\"; y \"Solacium migrantium\" (Consuelo o Amparo de los Migrantes), después de \"Refugio de los pecadores\". La decisión fue comunicada por carta del prefecto de la Congregación para el Culto Divino, cardenal Robert Sarah, y del secretario del dicasterio, monseñor Arthur Roche, a los presidentes de las conferencias episcopales. Con estos añadidos, el número de títulos marianos de las letanías pasó de 51 a 54.\n\nPor su antigüedad, su aprobación universal y su estructura relativamente estable a lo largo de los siglos, las Letanías Lauretanas continúan siendo hoy la letanía mariana oficial y más difundida de la Iglesia católica, usada tanto en celebraciones públicas como en la devoción privada, sobre todo como conclusión tradicional del Rosario.",
+      "categoria": "devocoes",
+      "tags": [
+        "devoción mariana",
+        "letanía",
+        "Loreto",
+        "Sixto V",
+        "Pablo VI",
+        "papa Francisco",
+        "rosario"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/26/The-Litany-of-The-Blessed-Virgin-Mary.jpg",
+      "imagem_credito": "Foto de NoslivRage, 2013, vía Wikimedia Commons (CC BY-SA 3.0)",
+      "fontes": [
+        "Sixto V, Bula «Reddituri» (11 de julio de 1587)",
+        "Congregación para el Culto Divino y la Disciplina de los Sacramentos, carta del cardenal Robert Sarah y de monseñor Arthur Roche sobre la inclusión de las tres nuevas invocaciones (20 de junio de 2020)",
+        "Diócesis de São João del Rei, «A Ladainha de Nossa Senhora», con cronología de los añadidos papales y referencia a Basadonna; Santarelli, 2000",
+        "Periódico O São Paulo, «Papa acrescenta três novas invocações à Ladainha de Nossa Senhora» (2020)",
+        "Vatican News / arquidiocesedebelem.com.br, «Papa Francisco acrescenta três invocações à Ladainha de Nossa Senhora» (2020)"
+      ],
+      "atualizado_em": null,
+      "ordem": 14,
+      "origem": "Atestiguada en Loreto desde el siglo XVI; aprobada oficialmente por Sixto V en 1587"
+    },
+    {
+      "id": "devocoes:exercicios-espirituais-inacianos",
+      "slug": "exercicios-espirituais-inacianos",
+      "titulo": "Ejercicios Espirituales de San Ignacio de Loyola",
+      "categoria": "devocoes",
+      "resumo": "Método estructurado de retiro y discernimiento espiritual, organizado por San Ignacio de Loyola en cuatro \"semanas\" temáticas.",
+      "corpo": "Los Ejercicios Espirituales son un método de oración y discernimiento organizado por San Ignacio de Loyola, fundador de los jesuitas, a partir de su propia experiencia de conversión, y publicados en libro en 1548. Su origen se remonta a un episodio bien fechado: el 20 de mayo de 1521, al defender la ciudad de Pamplona del cerco de tropas francesas, el caballero vasco Íñigo López de Loyola fue alcanzado por una bala de cañón que le fracturó la pierna derecha e hirió la izquierda. Durante la larga y dolorosa convalecencia en el castillo de su familia, sin los libros de caballerías que solía leer, tuvo a su disposición solamente libros religiosos —una vida de Cristo y una colección de vidas de santos—, cuya lectura despertó en él un deseo creciente de imitar la vida de esos santos en lugar de la vida militar y mundana que llevaba hasta entonces.\n\nTras la recuperación, Ignacio se retiró a la ciudad de Manresa, en Cataluña, donde vivió casi un año, entre 1522 y 1523, en intensa oración, penitencia y experiencias místicas que irían madurando progresivamente el método de discernimiento y meditación que registraba, poco a poco, en un cuaderno de anotaciones personales. Fue en Manresa, a orillas del río Cardoner, donde Ignacio relató haber vivido, en septiembre de 1522, una iluminación mística particularmente intensa, en la cual comprendió de modo nuevo y unificado verdades de fe y de conocimiento que pasarían a estructurar toda su futura espiritualidad —episodio que los jesuitas consideran, junto con la conversión en Loyola, uno de los dos pilares fundacionales de su vocación.\n\nDe ese material de Manresa nacerían, a lo largo de años de reelaboración y uso práctico en el acompañamiento de otras personas, los Ejercicios Espirituales propiamente dichos, finalmente aprobados por el papa Pablo III, en 1548, mediante la bula \"Pastoralis Officii\", y publicados en libro ese mismo año. El texto no es una obra de lectura corrida, sino un manual técnico dirigido a quien acompaña espiritualmente a otra persona —el \"director\" de los Ejercicios—, que contiene instrucciones precisas (las \"anotaciones\") sobre cómo conducir cada etapa del retiro según la disposición de quien lo realiza.\n\nSe estructuran clásicamente en cuatro \"semanas\" temáticas, no necesariamente de siete días cada una: la primera, sobre el pecado, la misericordia de Dios y la propia condición de pecador; la segunda, sobre la vida pública de Cristo y la llamada a seguirlo, que incluye la célebre meditación de las \"Dos Banderas\" y el momento de la \"elección\" (la toma de una decisión de vida o de estado); la tercera, sobre la Pasión; y la cuarta, sobre la Resurrección, que culmina en la \"Contemplación para alcanzar amor\". En su forma íntegra, los Ejercicios se hacen en régimen de silencio y acompañamiento espiritual individual diario, a lo largo de un retiro cerrado de unos treinta días —práctica hoy reservada sobre todo a la formación de jesuitas y de pocos laicos—, pero desde el siglo XX se han difundido también versiones adaptadas, de pocos días o incluso distribuidas a lo largo de meses en la vida cotidiana (los llamados \"Ejercicios en la vida corriente\"), lo que hace el método accesible a un público mucho más amplio.\n\nAunque vinculados a la Compañía de Jesús, los Ejercicios se han convertido en referencia para retiros espirituales mucho más allá de ella, y hoy son utilizados, con adaptaciones, por diócesis, movimientos laicales y otras congregaciones religiosas en todo el mundo, e influyen profundamente en la espiritualidad católica moderna en torno a temas como el discernimiento vocacional, el examen de conciencia diario y la disponibilidad interior a la voluntad de Dios.",
+      "tags": [
+        "retiro espiritual",
+        "jesuitas",
+        "discernimiento"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Exercitia_Spiritualia_1ed2.jpg",
+      "imagem_credito": null,
+      "ordem": 15,
+      "origem": "Escritos por San Ignacio de Loyola entre 1522 y 1524; publicados en 1548",
+      "fontes": [
+        "Ignacio de Loyola, «Ejercicios Espirituales» (1548)",
+        "Vatican News, «San Ignacio de Loyola, la historia de una conversión»",
+        "Pablo III, Bula «Pastoralis Officii» (1548)"
+      ]
+    },
+    {
+      "id": "devocoes:via-matris",
+      "slug": "via-matris",
+      "titulo": "Via Matris (Rosario de los Siete Dolores)",
+      "resumo": "Ejercicio de piedad que recorre, en siete estaciones, los principales dolores de María —desde la profecía de Simeón hasta la sepultura de Jesús—, a imagen del Vía Crucis.",
+      "corpo": "La Via Matris (latín: «camino de la Madre»; la forma completa es Via Matris Dolorosae, «camino de la Madre de los Dolores») es el ejercicio de piedad que recorre en siete estaciones los principales sufrimientos vividos por la Virgen María, modelado sobre el Vía Crucis. Tiene por fundamento teológico la unión indisoluble de María con Cristo y su participación en la obra redentora del Hijo, presentando sus dolores no solo como episodios junto a la Cruz, sino como un camino de fe y de sufrimiento que se extiende a lo largo de toda su vida, desde el anuncio del ángel y la profecía de Simeón hasta la muerte y sepultura de Jesús (cf. Lc 1,26-38; Lc 2,34-35; Jn 19,25-30).\n\nLa devoción matriz que la sustenta es la de los Siete Dolores de María, promovida por la Orden de los Siervos de María (Servitas), fundada en Florencia en 1233 por siete prósperos comerciantes de tejidos y lana: Bonfilio Monaldi, Bonayunta Manetti, Manetto dell'Antella, Amadeo degli Amidei, Sostenes Sostegni, Hugo Uguccioni y Alejo Falconieri. Según la tradición de la orden, reunidos el 15 de agosto de 1233 en la cofradía laica de los Laudesi, los siete habrían tenido la visión de la Virgen vestida de luto, llorando por la guerra civil que desgarraba Florencia desde hacía dieciocho años; se retiraron entonces a una vida de penitencia y servicio a María, primero en la Villa Camarzia y después en el Monte Senario. La orden recibió la Regla de San Agustín hacia 1239 y fue aprobada definitivamente por carta apostólica en 1256; los siete fundadores fueron canonizados en una causa única —caso raro en la historia de la Iglesia— por el papa León XIII el 15 de enero de 1888.\n\nEl ejercicio de la Via Matris propiamente dicho, distinto de la devoción a los Siete Dolores que lo antecede, se desarrolló a partir de la predicación y de las prácticas de los Servitas, existiendo ya en forma embrionaria desde el siglo XVI y fijándose en su forma actual de siete estaciones a lo largo del siglo XIX; fue posteriormente aprobado por la Sede Apostólica y acogido, más tarde, como ejercicio recomendado para la Cuaresma. Los siete dolores tradicionalmente meditados son: la profecía de Simeón (Lc 2,34-35); la huida de la Sagrada Familia a Egipto (Mt 2,13-14); la desaparición del Niño Jesús durante tres días en Jerusalén (Lc 2,43-45); el encuentro de María con Jesús camino del Calvario (cf. Lc 23,27-31); la permanencia de María al pie de la Cruz (Jn 19,25-27); la recepción del cuerpo de Jesús bajado de la Cruz; y la sepultura (Jn 19,40-42). No todas estas estaciones tienen un relato evangélico explícito —algunas provienen de la tradición devocional consolidada—, distinción que este acervo registra para no confundir la piedad popular con la narración bíblica. La Piedad se considera su máxima expresión artística.\n\nDe la misma devoción a los Siete Dolores nacieron prácticas hermanas difundidas por los Servitas: el Rosario (o Corona) de los Siete Dolores, rezado en siete grupos de siete Avemarías separados por un Padre Nuestro, cuyas meditaciones habría compuesto el papa Pío VII, quien en 1817-1818 concedió indulgencias a esta recitación; y el Escapulario Negro de los Siete Dolores, signo de la Cofradía de Nuestra Señora de los Dolores vinculada a la orden y que, a diferencia de otros escapularios, exige únicamente tela de lana negra. La memoria litúrgica de Nuestra Señora de los Dolores se remonta a celebraciones medievales (los Servitas obtuvieron en 1668 licencia para la Misa votiva de los Siete Dolores); fue inscrita en el calendario romano en 1814 por Pío VII y, por disposición de Pío X, fijada el 15 de septiembre, día siguiente a la Exaltación de la Santa Cruz. La Via Matris se sigue practicando sobre todo en Cuaresma y en la Semana Santa, a menudo en paralelo o en alternancia con el Vía Crucis, ofreciendo a los fieles una perspectiva complementaria sobre la Pasión: la de la participación silenciosa y dolorosa de su Madre.",
+      "categoria": "devocoes",
+      "tags": [
+        "Via Matris",
+        "Nuestra Señora de los Dolores",
+        "Siete Dolores de María",
+        "servitas",
+        "Pasión de Cristo",
+        "Cuaresma",
+        "Rosario de los Siete Dolores"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Seven_Sorrows_S_Stefano_Rotondo_Roma.JPG",
+      "imagem_credito": null,
+      "fontes": [
+        "Directorio sobre la piedad popular y la liturgia, «Via Matris» (Congregación para el Culto Divino)",
+        "Locus Mariologicus, «Via Matris: el camino de la Madre y los siete dolores de María»",
+        "Vatican News, «Nuestra Señora de los Dolores» (fiestas litúrgicas)",
+        "Vatican News, «Santos Siete Fundadores de la Orden de los Siervos de Nuestra Señora»",
+        "Wikipedia, «Rosario de los Siete Dolores» y «Nuestra Señora de los Dolores»",
+        "Aleteia, «Via Matris: la versión del Vía Crucis basada en los 7 Dolores de Nuestra Señora»"
+      ],
+      "atualizado_em": null,
+      "ordem": 16,
+      "origem": "Tradición de la Orden de los Servitas, desarrollada a partir del siglo XIII, fijada en su forma actual en el siglo XIX"
+    },
+    {
+      "id": "devocoes:via-lucis",
+      "slug": "via-lucis",
+      "titulo": "Via Lucis (Camino de la Luz)",
+      "resumo": "Devoción de piedad popular nacida en 1988 que recorre catorce estaciones desde la Resurrección de Cristo hasta Pentecostés, como complemento pascual del Via Crucis.",
+      "corpo": "La Via Lucis, o Camino de la Luz, refleja deliberadamente la estructura del Via Crucis —mismo número de estaciones, mismo formato de lectura bíblica, breve meditación, oración y canto—, pero invierte su enfoque: en lugar de meditar la Pasión, recorre catorce momentos de la vida de Cristo resucitado, desde el sepulcro vacío en la mañana de Pascua hasta la venida del Espíritu Santo sobre los apóstoles en Pentecostés. Entre las estaciones habitualmente incluidas están el encuentro con María Magdalena, el camino de Emaús y la fracción del pan, la aparición a los discípulos en el Cenáculo, la institución del poder de perdonar los pecados, la fe de Tomás, la pesca milagrosa en el mar de Tiberíades, la confirmación de Pedro en el amor, el envío misionero, la Ascensión y la espera orante del Espíritu. Conviene señalar que la Iglesia nunca ha fijado una lista oficial y universal de las estaciones —tal como ocurrió históricamente con el propio Via Crucis, la lista se consolidó por la práctica, y las formulaciones varían según la región y el autor—; el consenso recae sobre todo en el número de catorce, elegido para reflejar las estaciones de la Cruz.\n\nLa devoción nació en el verano de 1988 a partir de una propuesta del padre salesiano Sabino Palumbieri, entonces profesor de Antropología Teológica en la Pontificia Universidad Salesiana de Roma, en el contexto del movimiento \"Testigos del Resucitado\" (Testimoni del Risorto), fundado por él el 8 de diciembre de 1984 y reconocido como grupo de la Familia Salesiana. La motivación de Palumbieri era pastoral: advertía que la espiritualidad popular católica, fuertemente centrada en el Via Crucis y en la meditación del sufrimiento de Cristo, carecía de un ejercicio devocional equivalente dedicado a la alegría y a la esperanza de la Resurrección, el otro polo, igualmente central, del misterio pascual. Todavía en 1989, el sucesor de Don Bosco, el Rector Mayor Don Egidio Viganò, tuvo conocimiento de la propuesta, se dejó involucrar por ella y nombró una comisión teológica para estudiar criterios y formularios.\n\nLa primera celebración solemne de la Via Lucis tuvo lugar en abril de 1990, en el suelo de las Catacumbas de San Calixto, en Roma, presidida por el propio Don Viganò, con ocasión del Capítulo General de los salesianos. En los años siguientes la devoción se extendió por parroquias y movimientos vinculados a la familia salesiana y recibió un reconocimiento creciente. En el Jubileo del Año Santo 2000, la Santa Sede la incluyó en el libro oficial de oraciones del peregrino, \"Pellegrini in preghiera\", recomendándola a la par del Via Crucis y del Rosario.\n\nEl reconocimiento oficial más amplio llegó el 17 de diciembre de 2001, cuando la entonces Congregación para el Culto Divino y la Disciplina de los Sacramentos publicó el \"Directorio sobre la piedad popular y la liturgia\". En el n. 153 de ese documento, dedicado expresamente a la Via Lucis, la Santa Sede observa que \"se ha desarrollado y difundido en muchas regiones en los últimos años un ejercicio de piedad llamado Via Lucis\" y que, \"siguiendo el modelo del Via Crucis, los fieles recorren meditando las diversas apariciones de Jesús —de la Resurrección a la Ascensión— en las que mostró su gloria a los discípulos\". La recomendación, sin embargo, no confiere a la devoción el mismo grado de codificación universal que el Via Crucis recibió siglos antes.\n\nSe recomienda de modo especial en el Tiempo Pascual —los cincuenta días entre la Pascua y Pentecostés— y los domingos, día de la semana tradicionalmente asociado de manera particular a la Resurrección desde los primeros siglos del cristianismo. Aunque todavía mucho menos difundida que el Via Crucis, la Via Lucis ha ganado espacio creciente en santuarios, comunidades de espiritualidad pascual y grandes encuentros eclesiales, incluso fuera del ámbito salesiano de origen, como en la oración presidida por el arzobispo Rino Fisichella durante el Jubileo de los Adolescentes, en Roma, en abril de 2025.",
+      "categoria": "devocoes",
+      "tags": [
+        "Resurrección",
+        "Tiempo Pascual",
+        "piedad popular",
+        "Pascua",
+        "Salesianos",
+        "Pentecostés"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Via_Lucis_Mariano_2013_Jerez-MIN-DSC04085.jpg",
+      "imagem_credito": "Foto de El Pantera, 2013, vía Wikimedia Commons (CC BY-SA 4.0)",
+      "fontes": [
+        "Congregación para el Culto Divino y la Disciplina de los Sacramentos, «Directorio sobre la piedad popular y la liturgia», n. 153 (17 de diciembre de 2001)",
+        "Vatican News (ed. italiana), «A Roma la Via Lucis, giovani dal mondo in preghiera con i testimoni della Resurrezione» (abril de 2025)",
+        "Congregación de las Hijas de María Auxiliadora / cgfmanet.org, «In cammino con il Risorto», sobre la fundación del movimiento Testimoni del Risorto (8 de diciembre de 1984) y el origen de la Via Lucis en 1988",
+        "InfoANS (Agencia de Noticias Salesiana), «Una nuova edizione della Via Lucis itinerante» (2024)",
+        "Wikipedia en español, «Via Lucis», con referencia al Directorio de 2001"
+      ],
+      "atualizado_em": null,
+      "ordem": 17,
+      "origem": "Propuesta por el padre salesiano Sabino Palumbieri en 1988; reconocida oficialmente en 2001"
+    },
+    {
+      "id": "devocoes:quarenta-horas",
+      "slug": "quarenta-horas",
+      "titulo": "Devoción de las Cuarenta Horas",
+      "resumo": "Exposición solemne y continua del Santísimo Sacramento durante cuarenta horas, en memoria del tiempo que el cuerpo de Cristo permaneció en el sepulcro.",
+      "corpo": "La devoción de las Cuarenta Horas (en italiano Quarant'Ore) consiste en la exposición solemne y continua del Santísimo Sacramento a la adoración de los fieles durante cuarenta horas seguidas, número que evoca tradicionalmente el tiempo que el cuerpo de Cristo permaneció en el sepulcro entre la muerte en la Cruz y la Resurrección. En su uso clásico, se mantiene en sucesión de iglesias, de modo que la exposición termine en una iglesia a la misma hora en que comienza en la siguiente. Se abre con una Misa solemne de Exposición y se concluye con la Misa de Deposición, ambas acompañadas de procesión con el Santísimo y del canto de las letanías de los santos.\n\nLos orígenes de la práctica se remontan a Milán, en 1527, por iniciativa del padre Antonio Bellotto, vinculado a la iglesia del Santo Sepulcro, que organizó la exposición prolongada en conexión con una cofradía local. Ya existía, antes de eso, la costumbre de exponer el Santísimo durante cuarenta horas en cuatro grandes fiestas del año (Navidad, Pascua, Ascensión y Pentecostés), pero de modo restringido y sin gran organización pública. En 1537, el papa Pablo III aprobó la forma milanesa de la devoción. La cuestión de quién organizó primero el sistema de exposición rotativa «de iglesia en iglesia» —manteniéndose ininterrumpida a lo largo de todo el año en Milán— fue objeto de debate entre historiadores; la evidencia parece favorecer al capuchino José Piantanida de Fermo (a quien el texto actual, con grafía libre, llama «Giuseppe da Ferno»), que habría dado a esa transferencia su forma estable. San Antonio María Zaccaria, fundador de los Clérigos Regulares de San Pablo (los Barnabitas), incorporó la práctica a la espiritualidad de su congregación, y San Carlos Borromeo le dio, en Milán, una forma disciplinada, con documentos propios para las Quarant'Ore y para la «Oratio sine intermissione» (oración ininterrumpida).\n\nLa práctica llegó a Roma hacia 1550, llevada por un joven sacerdote florentino recién llegado a la ciudad, Felipe Neri, que décadas después fundaría el Oratorio y se convertiría en una de las figuras centrales de la renovación espiritual romana de la Contrarreforma. Las motivaciones originales de la devoción eran sobre todo la oración por la unidad de los cristianos, entonces amenazada por la Reforma protestante, y por la paz entre las naciones católicas de Europa, a las que se añadió después un acento creciente de reparación por los pecados y ofensas contra el Santísimo Sacramento.\n\nUn paso decisivo para su universalización vino con la constitución «Graves et diuturnae», del 25 de noviembre de 1592, del papa Clemente VIII (documento también referido como Instructio Clementina). Ante las amenazas a la paz de la cristiandad y la situación convulsa de Francia, el pontífice determinó establecer públicamente «en esta ciudad madre de Roma» un curso ininterrumpido de oración, distribuyendo las iglesias y los horarios de tal modo que, a cada hora del día y de la noche, a lo largo de todo el año, el incienso de la oración subiera sin interrupción ante el Señor. El documento pide expresamente oraciones por la concordia de los príncipes cristianos, por Francia y por la derrota de los turcos otomanos, que entonces amenazaban con devastar la cristiandad, el mismo contexto geopolítico del papado de Clemente VIII, que trabajó por la reconciliación de Enrique IV y por la formación de una alianza cristiana contra el Imperio otomano.\n\nEn 1628, la Congregación de Ritos determinó que ninguna exposición de este tipo, ni siquiera en iglesias de órdenes religiosas, podría realizarse sin autorización previa del obispo local, norma que preserva el carácter solemne y supervisado de esta forma de adoración eucarística prolongada. En 1705, Clemente XI publicó una nueva instrucción sobre las Cuarenta Horas, consagrando el uso romano. La devoción se practica hoy en muchas diócesis, sobre todo como preparación para la Cuaresma o como parte de fiestas eucarísticas locales, y está en la raíz histórica de formas afines, como la Adoración Nocturna.",
+      "categoria": "devocoes",
+      "tags": [
+        "adoración eucarística",
+        "Cuarenta Horas",
+        "Milán",
+        "Felipe Neri",
+        "Clemente VIII",
+        "Carlos Borromeo",
+        "barnabitas"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Catholic Encyclopedia (1913), «Forty Hours' Devotion»",
+        "Clemente VIII, Constitución «Graves et diuturnae» (25 de noviembre de 1592)",
+        "Encyclopedia.com, «Forty Hours Devotion»",
+        "Gratis Date, «Historia de la devoción: las Cuarenta Horas»",
+        "Wikipedia, «Papa Clemente VIII»"
+      ],
+      "atualizado_em": null,
+      "ordem": 18,
+      "origem": "Milán, 1527, por iniciativa del padre Gian Antonio Bellotti"
+    },
+    {
+      "id": "devocoes:medalha-milagrosa",
+      "slug": "medalha-milagrosa",
+      "titulo": "Medalla Milagrosa",
+      "resumo": "Medalla mariana originada en las apariciones de Nuestra Señora a Santa Catalina Labouré, en París, en el año 1830.",
+      "corpo": "La devoción a la Medalla Milagrosa nació de las apariciones de Nuestra Señora a Catalina Labouré, joven novicia francesa de las Hijas de la Caridad de San Vicente de Paúl, en la capilla del convento de la Rue du Bac (140 rue du Bac), en París. Catalina, nacida el 2 de mayo de 1806 en una familia de agricultores de Fain-lès-Moutiers, en Borgoña, relató haber tenido, en la noche del 18 al 19 de julio de 1830 —víspera de la fiesta de San Vicente de Paúl—, una primera aparición en la que la Virgen le habló largamente sobre tiempos difíciles que vendrían para Francia y para la Iglesia. Poco antes, aún en 1830 y en la misma capilla, Catalina había relatado visiones de San Vicente de Paúl y de Cristo presente en la Hostia.\n\nLa aparición más decisiva ocurrió el 27 de noviembre de ese mismo año: Catalina vio a María de pie sobre un globo, con los pies sobre una serpiente y las manos extendidas irradiando rayos de luz que, según se le explicó en la visión, simbolizaban las gracias concedidas a quien las pidiera. Alrededor de la imagen se formó un halo ovalado con la inscripción en letras doradas —\"Oh María, sin pecado concebida, rogad por nosotros que recurrimos a Vos\"—, y, en el reverso, una M coronada por una cruz, bajo la cual aparecían dos corazones, el de Jesús rodeado de espinas y el de María traspasado por una espada, rodeados por doce estrellas. Según el relato, la propia Virgen habría pedido: \"Haz acuñar una medalla según este modelo; todas las personas que la lleven consigo recibirán grandes gracias\".\n\nCatalina relató estas experiencias a su confesor, el padre lazarista Jean-Marie Aladel, quien al principio dudó e incluso le prohibió pensar en el asunto, pero, convencido con el tiempo de la autenticidad del relato, solicitó al arzobispo de París, monseñor Hyacinthe-Louis de Quelen, la autorización para acuñar la medalla conforme al modelo descrito. Las fuentes divergen en cuanto al número exacto de la primera tirada: la capilla oficial menciona unas dos mil medallas distribuidas a partir de junio de 1832, mientras que estudios basados en los registros del orfebre responsable, Adrien Vachette, indican unas 1.500 unidades aún en 1832. El episodio coincidió, de modo notable para la devoción naciente, con una violenta epidemia de cólera que asolaba París desde febrero de 1832 —más de 18 mil muertos en pocas semanas, con picos de más de 800 fallecimientos en un solo día—, lo que contribuyó a difundir rápidamente relatos de curaciones y protección atribuidos a su uso.\n\nRegistrada inicialmente con el nombre de \"Medalla de la Inmaculada Concepción\", la pieza fue pronto rebautizada por el pueblo como \"Medalla Milagrosa\", en razón del creciente número de gracias relatadas por los fieles. Las cifras de su difusión impresionan: según los datos de Vachette citados por la prensa católica, se acuñaron cerca de 850 mil medallas en 1834, 15 millones en 1836 y más de 100 millones en 1842, lo que la convirtió en uno de los objetos de devoción más reproducidos de la historia de la Iglesia. El 6 de febrero de 1836, un tribunal canónico de la Arquidiócesis de París reconoció oficialmente el origen y los frutos de las apariciones. Un episodio célebre fue la conversión, en 1842, en Roma, del banquero judío Alfonso de Ratisbonne, quien llevaba la medalla por desafío y relató haber tenido una visión de Nuestra Señora, y que más tarde llegó a ser sacerdote.\n\nLa identidad de Catalina como la religiosa que había tenido las visiones permaneció en secreto durante unos 46 años; trabajó en silencio en el cuidado de ancianos y enfermos, y su condición de vidente solo se reveló en los últimos meses antes de su muerte, el 31 de diciembre de 1876. Fue canonizada en 1947 por el papa Pío XII. La medalla, cuya fiesta litúrgica de Nuestra Señora de las Gracias se celebra el 27 de noviembre, sigue siendo entendida por la Iglesia como sacramental —signo que dispone a los fieles a recibir la gracia—, y no como amuleto.",
+      "categoria": "devocoes",
+      "tags": [
+        "Nuestra Señora de las Gracias",
+        "Catalina Labouré",
+        "París",
+        "medalla",
+        "siglo XIX",
+        "apariciones marianas"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Miraculous_medal.jpg",
+      "imagem_credito": "Foto de Xhienne, 2007, vía Wikimedia Commons (CC BY-SA 2.5)",
+      "fontes": [
+        "Capilla de Nuestra Señora de la Medalla Milagrosa, París, página oficial «Las apariciones – La Medalla»",
+        "Aleteia, «Más de 700 curaciones y conversiones fueron oficialmente atribuidas a la Medalla Milagrosa al comienzo de la devoción» (2023), con datos del orfebre Adrien Vachette",
+        "Wikipedia en portugués, «Medalha Milagrosa» y «Catarina Labouré»",
+        "Segredos de Paris, «A história completa da Medalha Milagrosa de Paris»"
+      ],
+      "atualizado_em": null,
+      "ordem": 19,
+      "origem": "Apariciones marianas a Santa Catalina Labouré, en París, en el año 1830"
+    },
+    {
+      "id": "devocoes:escapulario-vermelho-da-paixao",
+      "slug": "escapulario-vermelho-da-paixao",
+      "titulo": "Escapulario Rojo de la Pasión",
+      "categoria": "devocoes",
+      "resumo": "Sacramental de devoción a la Pasión de Cristo, originado en apariciones relatadas por una religiosa francesa en 1846.",
+      "corpo": "El Escapulario Rojo de la Pasión tiene su origen en apariciones relatadas por la hermana Louise-Apolline Andriveau (1810-1895), religiosa de las Hijas de la Caridad, nacida en una familia campesina de Pourçain, en el centro de Francia. Destinada a la casa de Montolieu, en Troyes, donde se dedicaba al cuidado de enfermos y ancianos y era conocida por su intensa piedad en la meditación de la Pasión, Apolline relató una serie de apariciones de Jesús y de María entre el 26 de julio y el 14 de septiembre de 1846, en el convento de Troyes.\n\nLa primera y más decisiva de estas experiencias tuvo lugar el 26 de julio de 1846, en la octava de la fiesta de San Vicente de Paúl: Jesús se le habría aparecido sosteniendo en la mano derecha un escapulario de color escarlata suspendido por dos cordones de lana del mismo color, representado crucificado y, al pie de la cruz, rodeado de los instrumentos más dolorosos de su Pasión —el látigo, el martillo, la túnica que cubría su cuerpo herido—, pidiendo que el escapulario fuera difundido entre los fieles como signo de devoción a su Pasión.\n\nEl escapulario resultante se compone de dos pedazos de tela de lana roja unidos por cintas del mismo color: por un lado, la imagen de Jesús crucificado con los instrumentos de la Pasión y la inscripción «Pasión Sagrada de Nuestro Señor Jesucristo, sálvanos»; por el otro, una pequeña cruz con los Sagrados Corazones de Jesús y de María unidos. Según el relato de las apariciones, Cristo prometió un aumento especial de fe, esperanza y caridad, y una protección particular en los peligros, principalmente los viernes, a quien lo usara con verdadera devoción a su Pasión y la propagara entre los demás.\n\nLa aprobación eclesiástica siguió un camino relativamente ágil para los estándares de la época. Ya en la primavera de 1847, el padre Jean-Baptiste Étienne, entonces superior general de la Congregación de la Misión (los padres paúles o lazaristas, vinculados históricamente a las Hijas de la Caridad por la obra común de San Vicente de Paúl), fue recibido en audiencia por el papa Pío IX para tratar el asunto, sin que el pontífice presentara ninguna dificultad respecto a la devoción. Sin embargo, la aprobación formal por escrito solo llegaría una década después: el 25 de junio de 1857, Pío IX santificó y aprobó oficialmente el uso del sacramental, concediendo a los padres paúles la facultad específica de bendecir e imponer el escapulario a los fieles. El mismo papa extendió las indulgencias vinculadas a la devoción a todos los fieles en 1861, y la Santa Sede aprobó nuevas indulgencias en 1877, ampliando aún más el alcance espiritual de la práctica.\n\nJunto con la Medalla Milagrosa y el escapulario verde de la Inmaculada Concepción —este último también originado en revelaciones a una religiosa de las Hijas de la Caridad—, el Escapulario Rojo forma un pequeño grupo de sacramentales marianos y cristológicos vinculados históricamente a esa misma congregación fundada por San Vicente de Paúl y Santa Luisa de Marillac, todos aprobados por la Santa Sede a lo largo del siglo XIX como formas legítimas, aunque facultativas, de piedad popular centrada en la Pasión de Cristo y en la intercesión mariana. Se cuenta, junto con otros escapularios de colores y devociones diferentes —entre ellos el marrón del Carmen, ya presente en este acervo—, en el conjunto que la piedad popular llama informalmente «los cinco escapularios».",
+      "tags": [
+        "Pasión de Cristo",
+        "escapulario",
+        "Hijas de la Caridad"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 20,
+      "origem": "Apariciones relatadas por la hermana Apolline Andriveau, en Francia, en 1846",
+      "fontes": [
+        "Vocação Vicentina, «Medalha Milagrosa, Escapulário Verde e Escapulário Vermelho: História e Significado»",
+        "Zahn Info Portal, «Escapulário Vermelho da Paixão»",
+        "Ateliê Piedoso, «Escapulário Vermelho da Paixão de Cristo»"
+      ]
+    },
+    {
+      "id": "devocoes:consagracao-a-sao-jose",
+      "slug": "consagracao-a-sao-jose",
+      "titulo": "Consagración a San José",
+      "categoria": "devocoes",
+      "resumo": "Práctica devocional contemporánea de entrega personal a la intercesión y al ejemplo de San José, popularizada por un método de 33 días.",
+      "corpo": "La consagración a San José consiste en un período de preparación —más frecuentemente de 33 días— seguido de un acto solemne de entrega personal a la intercesión y al ejemplo del esposo de María. El método más difundido hoy fue popularizado por el sacerdote estadounidense Donald H. Calloway, religioso de la Congregación de los Marianos de la Inmaculada Concepción, en el libro «Consagración a San José: Las glorias de nuestro padre espiritual», publicado originalmente en inglés en 2020 y poco después en portugués, adaptando a San José la estructura de consagración mariana de 33 días creada por San Luis María Grignion de Montfort (ver Libros).\n\nSegún el propio Calloway relató en entrevistas, la decisión de escribir el libro nació de su reflexión sobre los desafíos de la paternidad y de la vida de familia en el mundo contemporáneo, y de la convicción de que San José —históricamente menos estudiado y menos invocado que María en la piedad popular católica— merecía un método de consagración tan estructurado y accesible como el que Montfort había ofrecido para la Virgen siglos antes. El sacerdote, devoto desde hace mucho tiempo tanto de María como de José, presenta la obra como fruto de años de estudio sobre la figura del santo.\n\nCada uno de los 33 días de preparación propone entre 20 y 30 minutos de lectura y meditación: una reflexión sobre uno de los títulos de las Letanías de San José, seguida de un texto espiritual más profundo sobre la vida o las virtudes del santo, y concluida con el rezo de las propias letanías. El itinerario culmina, generalmente en una Misa celebrada en una fecha festiva vinculada a José —como el 19 de marzo, solemnidad de San José, o el 1 de mayo, memoria de San José Obrero—, con el rezo de la fórmula solemne de consagración de toda la vida a su intercesión y protección paterna.\n\nEsta práctica se inserta en un renovado interés por la devoción a San José en la Iglesia contemporánea, reforzado por el «Año de San José» declarado por el papa Francisco en la carta apostólica «Patris corde», del 8 de diciembre de 2020, con ocasión del 150.º aniversario de la proclamación de José como Patrono de la Iglesia Universal, hecha por el beato Pío IX en la misma fecha en 1870. El Año de San José se extendió hasta el 8 de diciembre de 2021, y la carta de Francisco —que describe al santo en siete facetas («padre amado», «padre en la ternura», «padre en la obediencia», «padre en la acogida», «padre de valentía creativa», «padre trabajador» y «padre en la sombra»— se convirtió, junto con el libro de Calloway, en una de las referencias más citadas en ese período de redescubrimiento de la figura de José, históricamente eclipsada por la devoción mariana y la cristológica en la piedad popular.\n\nEl libro de Calloway, lanzado justamente en vísperas de ese Año jubilar, se convirtió en uno de los más vendidos de la editorial católica estadounidense Marian Press y hoy se cita como una de las obras más asociadas a la reciente ola de consagraciones a San José en parroquias, movimientos laicales y familias católicas de todo el mundo —un fenómeno devocional que, décadas antes, ya había recibido otros impulsos papales, como la proclamación de José como «Patrono de los Trabajadores» por Pío XII en 1955 y el título de «Custodio del Redentor» dado por Juan Pablo II en la exhortación «Redemptoris Custos», de 1989.",
+      "tags": [
+        "San José",
+        "consagración",
+        "espiritualidad contemporánea"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 21,
+      "origem": "Método difundido por el padre Donald Calloway a partir de 2020, inspirado en la consagración mariana de Montfort",
+      "fontes": [
+        "Locus Mariologicus, «Consagração a São José: o que é e como fazer»",
+        "Padre Paulo Ricardo, «É hora da “Consagração a São José”!»",
+        "Editora Salve Maria Salve José, «Consagração a São José — Pe. Donald Calloway»",
+        "Francisco, Carta apostólica «Patris corde» (2020)"
+      ]
+    },
+    {
+      "id": "devocoes:hora-santa",
+      "slug": "hora-santa",
+      "titulo": "Hora Santa",
+      "categoria": "devocoes",
+      "resumo": "Una hora de adoración y vigilia ante el Santísimo Sacramento, ligada a las revelaciones del Sagrado Corazón a Santa Margarita María Alacoque.",
+      "corpo": "La Hora Santa tiene su origen en las apariciones de Jesús a Santa Margarita María Alacoque, religiosa de la Orden de la Visitación en el monasterio de Paray-le-Monial, en la Borgoña francesa, entre 1673 y 1675. Según el relato de la propia santa, Cristo le pidió que, en la noche del jueves al viernes, entre las once y la medianoche, se uniera en oración a su agonía en el Huerto de los Olivos — el momento en que, según los Evangelios, pidió a los apóstoles Pedro, Santiago y Juan que velaran con él y los encontró dormidos por tres veces (Mt 26,36-46). Postrándose durante esa hora, el fiel es invitado a hacer compañía a Jesús en su tristeza mortal, en espíritu de reparación por la indiferencia de los hombres y, de modo particular, por el abandono de los propios discípulos aquella noche.\n\nLa devoción se estructura clásicamente en torno a tres elementos ligados a las memorias de Margarita María: la oración reparadora propiamente dicha, la meditación unida a los sufrimientos de Jesús en Getsemaní y algunos gestos de humillación física, como postrarse o permanecer de rodillas durante toda la hora. Se practica tradicionalmente en la noche anterior al primer viernes del mes, articulándose así con la devoción de los Primeros Viernes (ya presente en este acervo), aunque también se ofrece semanalmente, todos los jueves, en muchas parroquias y comunidades de espiritualidad eucarística.\n\nLa difusión institucional de la práctica llegó ya en el siglo XIX: en 1829, el padre jesuita Debrosse fundó en Paray-le-Monial la Cofradía de la Hora Santa, aprobada ese mismo año por el papa Pío VIII, que concedió a los cofrades una indulgencia plenaria por cada Hora Santa practicada. En 1834, el papa Gregorio XVI extendió esa indulgencia a todos los fieles que se inscribieran en los registros de la cofradía, y el 6 de abril de 1886 el papa León XIII elevó la asociación a la categoría de Archicofradía, reconociendo su alcance ya entonces mundial. Ya en el siglo XX, el 6 de abril de 1933, se fundó una nueva cofradía de la Hora Santa en el propio Getsemaní, en Jerusalén — en el mismo lugar donde, según la tradición cristiana, Jesús vivió esa hora de agonía dos milenios antes.\n\nHoy la Hora Santa suele rezarse ante el Santísimo Sacramento expuesto, uniéndose a la espiritualidad reparadora que también dio origen a la devoción al Sagrado Corazón y a la práctica de la Adoración Perpetua, ambas presentes en este acervo, y es particularmente común en parroquias, seminarios y comunidades religiosas como preparación semanal o mensual para la Eucaristía.\n\nEs una devoción distinta, aunque de espíritu semejante, de la «Hora de la Misericordia» de las 15 h de la devoción a la Divina Misericordia (también presente en este acervo): mientras que aquella recuerda el momento de la muerte de Cristo en la cruz, la Hora Santa está orientada a la agonía anterior a la Pasión, en Getsemaní, y conserva el rasgo distintivo de rezarse, en su forma clásica, durante la noche — un gesto de vigilia que retoma literalmente la petición de Jesús a los apóstoles adormecidos: «¿No habéis podido velar una hora conmigo?» (Mt 26,40).",
+      "tags": [
+        "Sagrado Corazón",
+        "adoración eucarística",
+        "Margarita María Alacoque"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 22,
+      "origem": "Ligada a las revelaciones del Sagrado Corazón a Santa Margarita María Alacoque (1673-1675)",
+      "fontes": [
+        "Qualita Turismo, «Santa Margarida Maria Alacoque»",
+        "Wikipedia (en), «Paray-le-Monial»",
+        "Montfort.org.br, «Hora Santa»"
+      ]
+    },
+    {
+      "id": "devocoes:consagracao-do-genero-humano-ao-sagrado-coracao",
+      "slug": "consagracao-do-genero-humano-ao-sagrado-coracao",
+      "titulo": "Consagración del Género Humano al Sagrado Corazón de Jesús",
+      "categoria": "devocoes",
+      "resumo": "Acto solemne por el cual el papa León XIII consagró toda la humanidad al Sagrado Corazón de Jesús, en 1899.",
+      "corpo": "En la encíclica «Annum Sacrum», del 25 de mayo de 1899, el papa León XIII anunció la consagración de todo el género humano al Sagrado Corazón de Jesús, presentándolo como símbolo del amor divino y remedio para los males sociales y espirituales de una época marcada por la creciente secularización, en preparación para el gran Jubileo del Año Santo de 1900. En la encíclica, el papa desarrolló el fundamento teológico del gesto: si Cristo es Rey de todos los hombres, incluso de aquellos que lo ignoran o lo rechazan, es legítimo que toda la humanidad —no solo los fieles católicos— sea formalmente consagrada a su Corazón como signo visible de esa realeza universal.\n\nLa decisión de León XIII, según relatos de la época, fue motivada también por la insistencia espiritual de una religiosa: la Beata María del Divino Corazón (María Droste zu Vischering, 1863-1899), superiora del convento del Buen Pastor en Oporto, Portugal, quien relató haber recibido, entre 1897 y 1899, revelaciones privadas en las que Jesús le pedía que transmitiera al papa el deseo de consagrar toda la humanidad —y no solo los países católicos— a su Sagrado Corazón. María del Divino Corazón envió cartas al propio León XIII relatando ese pedido; de modo particularmente marcante para los fieles que siguieron el episodio, ella falleció el 8 de junio de 1899, apenas tres días antes de que el papa realizara solemnemente la consagración que ella le había pedido. Fue beatificada por Juan Pablo II en 1975.\n\nEl acto solemne de consagración se realizó el 11 de junio de 1899, fiesta del Sagrado Corazón de aquel año, con la recitación de una fórmula específica en Roma y la indicación, dada por León XIII a todos los obispos del mundo, de que el mismo acto se repitiera en las catedrales e iglesias parroquiales de sus diócesis en la misma fecha, haciendo de la consagración de 1899 uno de los gestos de mayor alcance simultáneo y universal realizados hasta entonces por la Santa Sede.\n\nSe distingue, por su carácter de acto histórico único realizado por un papa en nombre de toda la Iglesia y de toda la humanidad, de la devoción cotidiana y personal al Sagrado Corazón ya presente en este acervo, aunque ambas comparten la misma base teológica: el reconocimiento del Corazón de Cristo como símbolo concreto de su amor humano y divino por los hombres. La consagración de 1899 es hoy recordada, junto con las consagraciones del mundo y de Rusia al Inmaculado Corazón de María hechas por Pío XII en 1942 y por papas posteriores (véase entrada propia), como uno de los grandes momentos del magisterio pontificio en que la Iglesia se volvió solemnemente hacia la humanidad entera.\n\nEl propio León XIII determinó que la fórmula de consagración de 1899 se recitara anualmente, el día de la fiesta del Sagrado Corazón, en todas las iglesias del mundo, práctica que se mantuvo por décadas y ayudó a mantener viva la memoria del acto entre los fieles mucho después de la muerte del papa, en 1903. Años más tarde, en 1956, el papa Pío XII retomaría y profundizaría el mismo tema en su encíclica «Haurietis Aquas», ya mencionada en la entrada sobre la devoción al Sagrado Corazón en este acervo, situando la consagración de 1899 dentro de una línea continua del magisterio pontificio sobre el significado teológico del Corazón de Cristo.",
+      "tags": [
+        "León XIII",
+        "Sagrado Corazón",
+        "Annum Sacrum"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 23,
+      "origem": "Encíclica «Annum Sacrum» de León XIII, 25 de mayo de 1899; consagración solemne el 11 de junio de 1899",
+      "fontes": [
+        "León XIII, Encíclica «Annum Sacrum» (1899)",
+        "Via Crucis (Portugal), «Neste dia, em 1899, o Papa Leão XIII consagrava o mundo ao Sagrado Coração de Jesus»",
+        "O Imaculado Coração Triunfará, «A Beata Maria do Divino Coração e a consagração do gênero humano ao Sagrado Coração de Jesus em 1899»"
+      ]
+    },
+    {
+      "id": "devocoes:menino-jesus-de-praga",
+      "slug": "menino-jesus-de-praga",
+      "titulo": "Devoción al Niño Jesús de Praga",
+      "resumo": "Devoción centrada en una pequeña estatua de cera sobre madera del Niño Jesús, de origen español, donada en 1628 a un convento carmelita de Praga y hoy venerada en la iglesia de Nuestra Señora de la Victoria.",
+      "corpo": "La estatua del Niño Jesús de Praga es, según las fuentes históricas, una imagen de madera revestida de cera, de unos 48 centímetros, que representa al Niño Jesús vestido como un príncipe, con la mano derecha alzada en bendición y la izquierda sosteniendo un globo coronado por la cruz («globus cruciger»). De origen español y de datación incierta —atribuida por diferentes tradiciones al siglo XIV o, más comúnmente, al siglo XVI—, apareció por primera vez en Bohemia en 1556, traída por María Maximiliana Manrique de Lara y Mendoza, dama de la nobleza española, al casarse con el noble bohemio Vratislav II de Pernštejn. Una antigua leyenda de la familia Lobkowicz afirma que la pieza habría pertenecido a Santa Teresa de Ávila, hipótesis piadosa no comprobada, pero coherente con el hecho de que la estatua se asemeja a las del Niño Jesús veneradas por Santa Teresa y San Juan de la Cruz. La imagen pasó después como herencia a Polyxena de Lobkowicz (1566-1642), que la recibió de su madre como regalo de boda.\n\nEn 1628, ya viuda y sin numerosos herederos directos, Polyxena donó la imagen a los frailes carmelitas descalzos de Praga, recién instalados en la iglesia de Nuestra Señora de la Victoria, en el barrio de Malá Strana. Según la tradición de la orden, al entregarla, la princesa habría dicho a los religiosos: «Venerables Padres, les traigo mi bien más precioso. Honrad esta imagen y nunca os faltará nada». Los carmelitas la colocaron en la capilla del noviciado, donde los jóvenes religiosos profesaban sus votos ante ella, rindiéndole devoción dos veces al día. El emperador Fernando II, de la Casa de Habsburgo, habría contribuido con el equivalente a 2.000 florines y una asignación mensual para el sustento del culto.\n\nLa trayectoria de la imagen sufrió un grave golpe durante la Guerra de los Treinta Años. El 15 de noviembre de 1631, tropas protestantes sajonas tomaron Praga; los carmelitas fueron expulsados y el convento saqueado, y la estatua fue arrojada, dañada, entre los escombros detrás del altar, con las dos manos rotas. Solo en 1637 pudieron los carmelitas regresar a la ciudad; entre ellos estaba el padre Cirilo de la Madre de Dios, originario de Luxemburgo (fallecido en 1675), que, recordando la devoción de sus tiempos de novicio, encontró la imagen entre los escombros. Según el relato tradicional de la orden, mientras rezaba ante la estatua mutilada, el padre Cirilo oyó las palabras: «Tened piedad de mí y yo tendré piedad de vosotros. Dadme las manos y yo os daré la paz. Os bendeciré tanto cuanto más me honréis». Él mismo se encargó de la restauración de las manos de la imagen y la devolvió a la veneración pública. En abril de 1639, cuando un ejército sueco inició un nuevo asedio a Praga, los habitantes acudieron presurosos al santuario del Niño Jesús; con la retirada de los sitiadores, atribuida a la intercesión de la imagen, la devoción cobró nuevo impulso.\n\nEl conde Bernardo Ignacio de Martinic, gran mariscal de Bohemia, ofreció a la estatua una corona de oro engastada con piedras preciosas, presentada el 14 de enero de 1651 durante una procesión que llevó la imagen a la iglesia de Nuestra Señora de la Victoria. Años después, el 4 de abril de 1655, la imagen fue solemnemente coronada por Monseñor José Corti (Josef Corta), obispo auxiliar de Praga, que representaba al cardenal Harrach, entonces enfermo. Este episodio se recuerda cada año en una misa festiva, celebrada en el tiempo de la Ascensión, con ocasión de la fiesta del Niño Jesús de Praga.\n\nRelatos de gracias y curaciones atribuidas a su intercesión extendieron la devoción por toda Europa y, después, por el mundo, sobre todo por medio de la obra de los carmelitas descalzos, convirtiéndola en una de las representaciones del Niño Jesús más reproducidas en hogares e iglesias católicas. La estatua original, conservada hasta hoy en la iglesia de Nuestra Señora de la Victoria, es cuidada, limpiada y vestida ritualmente por las hermanas carmelitas con uno de los cerca de cien mantos donados por los fieles; en septiembre de 2009, durante su viaje apostólico a la República Checa, el papa Benedicto XVI visitó aquella iglesia y donó a la imagen una corona de oro. Copias y réplicas de la imagen son veneradas actualmente en santuarios de varios países, incluido Brasil.",
+      "categoria": "devocoes",
+      "tags": [
+        "Niño Jesús",
+        "carmelitas",
+        "Praga",
+        "Infancia de Jesús",
+        "siglo XVII",
+        "Guerra de los Treinta Años"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Child_Jesus_of_Prague_%28original_statue%29_%28crop%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Wikipedia (en/pt), «Infant Jesus of Prague» / «Menino Jesus de Praga»",
+        "Wikipedia (en), «Polyxena of Lobkowicz»",
+        "Carmelo Cristo Redentor, «A história do Menino Jesus» (orden carmelita descalza)",
+        "Guia em Praga, «Igreja do Menino Jesus de Praga»",
+        "MaryPages, «Menino Jesus de Praga» (coronación de 1651 y 1655)"
+      ],
+      "atualizado_em": null,
+      "ordem": 24,
+      "origem": "Tradición carmelita de Praga, a partir de principios del siglo XVII"
+    },
+    {
+      "id": "devocoes:mes-de-maria",
+      "slug": "mes-de-maria",
+      "titulo": "El Mes de María (mayo mariano)",
+      "categoria": "devocoes",
+      "resumo": "Tradición de dedicar todo el mes de mayo a homenajes especiales a la Virgen María, con el rosario diario y la coronación de imágenes.",
+      "corpo": "Las primeras referencias a un mes entero dedicado a la Madre de Jesús se remontan al siglo XII, en la Iglesia oriental, donde ese mes era originalmente agosto. En Occidente, la asociación de mayo con María se nutrió de asociaciones culturales más antiguas con la llegada de la primavera en el hemisferio norte —el propio mes ya estaba, en la antigua Roma, ligado a divinidades de la fertilidad y del florecimiento—, pero se consolidó como práctica devocional cristiana organizada solo a finales del siglo XVI y a lo largo del XVII, en el contexto del fortalecimiento general de la devoción mariana promovido por la Contrarreforma católica.\n\nEn Roma, el papel de San Felipe Neri (1515-1595), fundador de la Congregación del Oratorio, fue decisivo para dar a la práctica una forma concreta y pedagógica: animaba a los jóvenes a adornar imágenes de María con flores, cantar alabanzas a la Madre de Dios y practicar actos de virtud en imitación suya durante el mes, llegando a componer un pequeño programa con cantos y el rezo de letanías ante una imagen de la Virgen en cada uno de los días —germen de la práctica que, siglos después, se haría común en parroquias de todo el mundo.\n\nLa consolidación teológica y devocional más sistemática llegó en el siglo XVIII, con la publicación, en Verona, en el año 1725, del libro «Il mese di Maria» («El mes de María»), de autoría jesuítica, que propuso un guion estructurado de meditaciones diarias para los treinta y un días de mayo. La obra tuvo gran circulación y fue decisiva para difundir la práctica como devoción popular organizada, y no solo como costumbre local restringida a algunas cofradías u oratorios. A partir del año 1800, la costumbre del mes mariano de mayo se estableció de modo más amplio en Europa y en las Américas, extendiéndose gradualmente también a los países de misión.\n\nYa en el siglo XX, la devoción recibió un impulso institucional notable del papa Pablo VI, que, en plena celebración del Concilio Vaticano II, publicó el 29 de abril de 1965 la encíclica «Mense Maio», dedicada a pedir que los fieles de todo el mundo intensificaran, durante el mes de mayo —sobre todo mediante el rezo del Rosario—, la oración por la paz mundial, por las necesidades de la Iglesia y por el buen éxito del Concilio entonces en curso, en una época marcada por la Guerra Fría. El gesto reforzó, en un momento de particular relevancia eclesial, el carácter de intercesión colectiva que el mes mariano ya tenía desde hacía siglos.\n\nHoy, muchas parroquias rezan diariamente el rosario en mayo ante un altar preparado con una imagen de Nuestra Señora, y es costumbre realizar la «Coronación de María», en la que una corona de flores se coloca sobre su imagen como signo de su realeza espiritual entre los santos —celebración que suele reunir de modo especial a los niños de la catequesis y se realiza, según la costumbre local, el primer domingo del mes o en otra fecha festiva de mayo.\n\nLa elección de mayo, y no de otro mes, también es interpretada por algunos autores espirituales como un símbolo natural afortunado: así como la primavera en el hemisferio norte es el tiempo del florecimiento de la naturaleza después del invierno, mayo se convirtió en el mes en que la Iglesia celebra a María como la «flor» más bella de la creación y aquella que, al engendrar a Cristo, hizo florecer para el mundo la propia salvación —lectura simbólica que, aunque no sea el fundamento histórico de la elección del mes, ayudó a arraigar la devoción en la sensibilidad popular a lo largo de los siglos.",
+      "tags": [
+        "mes mariano",
+        "mayo",
+        "Felipe Neri",
+        "coronación de María"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 25,
+      "origem": "Consolidada devocionalmente a partir del siglo XVI, con el impulso de San Felipe Neri en Roma",
+      "fontes": [
+        "ACI Digital, «¿Por qué mayo es el mes de María?»",
+        "Instituto Teológico Franciscano, «Mayo, Mes de María: Historia y Espiritualidad»",
+        "Pablo VI, Carta Encíclica «Mense Maio» (1965)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "_meta": {
+    "categoria": "liturgia",
+    "nome": "Vida Litúrgica",
+    "descricao": "La Santa Misa del Rito Romano parte por parte, la adoración al Santísimo Sacramento, el paso a paso de la Confesión y otros temas prácticos de la vida litúrgica y sacramental católica.",
+    "status": "exemplos-iniciais",
+    "aviso": "Describe la forma ordinaria del Rito Romano tal como figura en el Misal Romano actual; no es un manual de rúbricas ni sustituye la orientación de un párroco para dudas litúrgicas concretas.",
+    "revisao_editorial": "Las referencias al Catecismo y al Misal Romano siguen la edición típica actual; donde una práctica (por ejemplo, la adoración perpetua) admite variación local, ello se dice explícitamente en el cuerpo del texto.",
+    "fontes_gerais": [
+      "Misal Romano (edición típica)",
+      "Catecismo de la Iglesia Católica, Segunda Parte («La celebración del misterio cristiano»)",
+      "Concilio Vaticano II, Constitución «Sacrosanctum Concilium» (1963)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "liturgia:a-missa-visao-geral",
+      "slug": "a-missa-visao-geral",
+      "titulo": "La Santa Misa: visión general del Rito Romano",
+      "categoria": "liturgia",
+      "resumo": "Estructura de la Misa en el Rito Romano: Liturgia de la Palabra y Liturgia Eucarística, enmarcadas por los ritos iniciales y finales.",
+      "corpo": "La Misa del Rito Romano —la forma litúrgica más usada en el mundo católico, celebrada en su forma actual desde la reforma posconciliar del Misal Romano (1969)— se organiza en cuatro grandes bloques: los Ritos Iniciales, la Liturgia de la Palabra, la Liturgia Eucarística y los Ritos Finales. El Concilio Vaticano II, en la constitución \"Sacrosanctum Concilium\", describió la Misa como el centro de toda la vida cristiana, \"fuente y cima\" de toda la actividad de la Iglesia, uniendo en una sola celebración la mesa de la Palabra y la mesa del Cuerpo de Cristo. Este acervo detalla cada una de estas partes en entradas propias.",
+      "tags": [
+        "misa",
+        "rito romano",
+        "liturgia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg",
+      "imagem_credito": null,
+      "ordem": 1,
+      "paragrafos_ccc": [
+        "1345-1355"
+      ],
+      "fontes": [
+        "Concilio Vaticano II, «Sacrosanctum Concilium» (1963)",
+        "Misal Romano, Ordinario de la Misa"
+      ]
+    },
+    {
+      "id": "liturgia:ritos-iniciais-da-missa",
+      "slug": "ritos-iniciais-da-missa",
+      "titulo": "Los Ritos Iniciales de la Misa",
+      "resumo": "Secuencia de apertura de la Misa —entrada, saludo, acto penitencial, Kýrie, Gloria y oración colecta— que reúne a la asamblea y la dispone para escuchar la Palabra y celebrar la Eucaristía.",
+      "corpo": "Los Ritos Iniciales preceden a la Liturgia de la Palabra y tienen, según la definición de la propia Ordenación General del Misal Romano (OGMR, n. 46), \"el carácter de exordio, introducción y preparación\". Su finalidad es hacer que los fieles, reuniéndose en asamblea, constituyan una comunión entre sí y se dispongan a escuchar atentamente la Palabra de Dios y a celebrar dignamente la Eucaristía. La secuencia comprende: la entrada (con el canto de entrada y la procesión), el saludo al altar y a la asamblea, el acto penitencial, el \"Kýrie\" (Señor, ten piedad), el himno del \"Gloria\" y la oración colecta. En algunas celebraciones que, por norma de los libros litúrgicos, se unen a la Misa, los ritos iniciales se omiten o se realizan de modo propio (n. 46).\n\nLa entrada abre el rito: mientras el sacerdote avanza con el diácono y los ministros, se entona el canto de entrada, cuya función es abrir la celebración, fomentar la unión de los fieles e introducirlos en el misterio del tiempo litúrgico. Al llegar al altar, el sacerdote y los ministros hacen inclinación profunda y el sacerdote besa el altar en señal de veneración. Sigue el saludo —normalmente \"El Señor esté con vosotros\", al que el pueblo responde \"Y con tu espíritu\"— y, cuando está previsto, una breve monición de introducción. El sacerdote, de pie, hace la señal de la cruz: \"En el nombre del Padre, y del Hijo, y del Espíritu Santo\".\n\nEl acto penitencial invita a la asamblea a reconocer sus pecados y a pedir perdón antes de proseguir; puede asumir varias formas (el \"Yo confieso\" con el \"Señor, ten piedad\", o fórmulas con invocaciones). A él sigue el Kýrie, aclamación por la misericordia de Dios, heredada directamente de la antigua liturgia griega: cada aclamación (Kýrie eléison, Christe eléison) se dice normalmente dos veces —número que puede aumentar según la índole de la lengua o la música— y, cuando el Kýrie se canta como parte del acto penitencial, cada aclamación va precedida de un \"tropo\" (n. 52). El Gloria, según lo indica la OGMR (n. 53), es \"un himno antiquísimo y venerable con el que la Iglesia, congregada en el Espíritu Santo, glorifica y suplica a Dios y al Cordero\"; no está permitido sustituir su texto, y se entona en los domingos (excepto los de Adviento y Cuaresma) y en las fiestas y solemnidades. Cierra el conjunto la oración colecta —así llamada porque \"recoge\" (colectar) las súplicas de la asamblea—, precedida de la invitación \"Oremos\" y de un momento de silencio, y pronunciada por el sacerdote con los brazos abiertos.\n\nLa estructura actual es el resultado de una larga historia. La aclamación Kýrie eleison, de origen griego, fue incorporada muy pronto a la liturgia romana y permaneció en griego incluso en Roma; el Gloria in excelsis, también de raíz griega, entró en el uso romano hacia los siglos IV-V y continuó, en la tradición latina, siendo un cántico reservado a las celebraciones más solemnes. En la Misa tridentina, el canto de entrada (Introito) tenía una posición peculiar: en la Misa rezada el sacerdote lo leía solo después de las oraciones al pie del altar, y hasta 1908 —hasta que San Pío X restauró la disposición antigua—, incluso en las Misas cantadas, el coro comenzaba el Introito solo después de que el sacerdote hubiera iniciado aquellas oraciones, de modo que se uniera a la procesión de entrada. El Concilio Vaticano II, en la Sacrosanctum Concilium, y la revisión del Misal por Pablo VI reorganizaron estos elementos en la forma hoy descrita por la OGMR.\n\nEl Catecismo de la Iglesia Católica sitúa este conjunto en el corazón de la economía sacramental: la Eucaristía es \"fuente y cima de toda la vida cristiana\" (cf. Lumen gentium, 11) y la asamblea que se reúne para celebrarla constituye la comunión del pueblo de Dios (§1324, §1348). Los ritos iniciales, en este sentido, no son un simple preámbulo: son el momento en que la comunidad se constituye como cuerpo reunido por el Señor, antes de escuchar su Palabra y de participar en el sacrificio y en el banquete eucarístico.",
+      "categoria": "liturgia",
+      "tags": [
+        "misa",
+        "rito romano",
+        "liturgia",
+        "ritos iniciales",
+        "acto penitencial",
+        "Gloria",
+        "oración colecta"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Seven_Sacraments_Rogier.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Ordenación General del Misal Romano (OGMR), nn. 46-54, 256-259; nn. 52-53 sobre el Kýrie y el Gloria",
+        "Sacrosanctum Concilium, Constitución sobre la Sagrada Liturgia (Concilio Vaticano II)",
+        "Misal Romano — Ritos Iniciales",
+        "Catecismo de la Iglesia Católica, §1324, §1348-1349",
+        "Introit — artículo de Wikipedia (EN), sobre San Pío X y el Introito (1908)"
+      ],
+      "atualizado_em": null,
+      "ordem": 2,
+      "paragrafos_ccc": [
+        "1348-1349"
+      ]
+    },
+    {
+      "id": "liturgia:liturgia-da-palavra",
+      "slug": "liturgia-da-palavra",
+      "titulo": "La Liturgia de la Palabra",
+      "categoria": "liturgia",
+      "resumo": "Parte de la Misa dedicada a la proclamación de las Escrituras: lecturas, salmo responsorial, Evangelio, homilía, Credo y oración de los fieles.",
+      "corpo": "La Liturgia de la Palabra proclama la Sagrada Escritura como alimento espiritual de la asamblea. En los domingos y solemnidades incluye tres lecturas —del Antiguo Testamento (o de los Hechos de los Apóstoles en el Tiempo Pascual), de una carta apostólica y del Evangelio—, intercaladas con el salmo responsorial; sigue la homilía, en la que el sacerdote o diácono explica la Palabra proclamada, la profesión de fe (Credo) y la oración universal (u \"oración de los fieles\"), en la que la comunidad intercede por las necesidades de la Iglesia y del mundo.",
+      "tags": [
+        "misa",
+        "rito romano",
+        "Sagrada Escritura",
+        "liturgia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg",
+      "imagem_credito": "Foto: NYC Wanderer (Kevin Eng) — Wikimedia Commons, CC BY-SA 2.0",
+      "ordem": 3,
+      "paragrafos_ccc": [
+        "1349",
+        "103-104"
+      ],
+      "fontes": [
+        "Misal Romano",
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "liturgia:liturgia-eucaristica",
+      "slug": "liturgia-eucaristica",
+      "titulo": "La Liturgia Eucarística",
+      "categoria": "liturgia",
+      "resumo": "Núcleo sacramental de la Misa: presentación de las ofrendas, Plegaria Eucarística con la consagración, y fracción del pan, que culmina en la comunión.",
+      "corpo": "La Liturgia Eucarística es el centro de la Misa, en la que el pan y el vino, presentados en el ofertorio, se convierten, por la acción del Espíritu Santo y las palabras de la consagración pronunciadas por el sacerdote que actúa \"in persona Christi\", en el Cuerpo y la Sangre de Cristo, misterio que la Iglesia llama transubstanciación. La Plegaria Eucarística, cuyo texto varía según el canon elegido, tiene su origen y estructura esencial en la Última Cena. Siguen la fracción del pan y los ritos que preparan la comunión, incluidos el Padre Nuestro, el rito de la paz y el \"Cordero de Dios\".",
+      "tags": [
+        "misa",
+        "eucaristía",
+        "rito romano",
+        "liturgia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/43/BentoXVI-51-11052007_%28frag%29.jpg",
+      "imagem_credito": "Foto: Fabio Pozzebom/ABr(Agência Brasil) — Wikimedia Commons, CC BY 3.0 br",
+      "ordem": 4,
+      "paragrafos_ccc": [
+        "1333-1344",
+        "1373-1381"
+      ],
+      "fontes": [
+        "Misal Romano",
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "liturgia:ritos-de-comunhao",
+      "slug": "ritos-de-comunhao",
+      "titulo": "Los Ritos de la Comunión",
+      "categoria": "liturgia",
+      "resumo": "Secuencia que prepara y realiza la distribución de la Eucaristía a los fieles: Padre Nuestro, rito de la paz, fracción del pan y comunión propiamente dicha.",
+      "corpo": "Antes de comulgar, la asamblea reza el Padre Nuestro —que pide el \"pan de cada día\" y el perdón de las ofensas—, seguido del rito de la paz, en el que los fieles intercambian un signo de reconciliación fraterna, y de la fracción del pan mientras se canta el \"Cordero de Dios\". La comunión eucarística, distribuida bajo la especie del pan (y, cuando está prevista, también del vino), es el punto culminante de la participación de los fieles en el sacrificio celebrado, seguida de un momento de silencio o de un canto de acción de gracias.",
+      "tags": [
+        "misa",
+        "eucaristía",
+        "comunión",
+        "rito romano"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/The_First_Communion_MET_DT201073.jpg",
+      "imagem_credito": null,
+      "ordem": 5,
+      "paragrafos_ccc": [
+        "1382-1390"
+      ],
+      "fontes": [
+        "Misal Romano",
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "liturgia:ritos-finais-da-missa",
+      "slug": "ritos-finais-da-missa",
+      "titulo": "Los Ritos de Conclusión de la Misa",
+      "resumo": "Breve conclusión de la celebración —eventuales avisos, bendición final y despedida (\"Ite, missa est\")— que envía a los fieles a la misión en el mundo y de la cual deriva el propio nombre \"Misa\".",
+      "corpo": "Los Ritos de Conclusión cierran la Misa y comprenden, en la forma ordinaria del Rito Romano, tres momentos: los eventuales avisos al pueblo, la bendición final dada por el sacerdote y la despedida o envío. La Ordenación General del Misal Romano (OGMR) los describe con precisión: terminada la oración después de la Comunión, el diácono —o el propio sacerdote, si lo prefiere— hace los avisos (n. 139); sigue la bendición, a la que se puede añadir, en ocasiones especiales, una fórmula solemne o la \"oración sobre el pueblo\"; inmediatamente después de la bendición el sacerdote, con las manos juntas, dice: \"Pueden ir en paz\" (Ite, missa est), a lo que todos responden \"Demos gracias a Dios\" (Deo gratias) (n. 168). Solo entonces el sacerdote besa el altar en señal de veneración, hace con los ministros una inclinación profunda y se retira. Cuando la Misa es seguida inmediatamente por otra acción litúrgica (por ejemplo, la adoración y bendición del Santísimo), se omiten los ritos de conclusión, incluida la despedida, para que el pueblo no se disperse (n. 170).\n\nLa fórmula \"Ite, missa est\" es una de las más antiguas del Rito Romano, ya registrada en el llamado Ordo I (siglo VI o VII). De la palabra latina missa, presente en esta despedida, deriva el propio sustantivo \"Misa\": la hipótesis más aceptada es que el término eclesiástico missa provenga del missa de esta fórmula (un empleo de la forma hablada tardía por missio, \"envío\", \"despedida\"), lo que implica que la palabra ya existía antes del siglo VI, pudiendo remontarse al siglo III. Antes de las reformas de 1962, en las Misas sin Gloria se decía, en lugar del Ite, missa est, la fórmula Benedicamus Domino (\"Bendigamos al Señor\"), y la respuesta del pueblo era igualmente Deo gratias.\n\nLa historia de estos ritos conoció variaciones notables. En la Edad Media, y sobre todo después del siglo XII, se fueron añadiendo elementos después del Ite, missa est —una oración privada del sacerdote, el Evangelio final (\"último Evangelio\", por lo general el prólogo de Juan)—, de modo que la fórmula dejó de ser propiamente una despedida y pasó a integrar el cuerpo de la Misa; tal disposición fue fijada oficialmente en el Misal promulgado después del Concilio de Trento por San Pío V (1570). El teólogo medieval Guillermo Durando (siglo XIII) llegó a proponer que missa est equivaliera a \"la misa ha terminado\" o significara que la Misa \"es ahora un hecho cumplido\". La reforma litúrgica promovida por Pablo VI, a raíz del Concilio Vaticano II, devolvió al Ite, missa est su función primitiva de despedida.\n\nLa brevedad del rito es intencional. El Catecismo de la Iglesia Católica enseña que la Eucaristía es \"fuente y cima de toda la vida cristiana\" (cf. Lumen gentium, 11) y que los fieles son enviados a llevar al mundo lo que han celebrado. El verbo ite (\"id\") confiere a la despedida un carácter esencialmente misionero: la celebración termina proyectando a la asamblea en la vida cotidiana, para que en ella viva el misterio celebrado en el altar. Con ello, el nombre mismo de la Misa lleva en sí la idea de envío: participar en la Eucaristía es dejarse enviar.",
+      "categoria": "liturgia",
+      "tags": [
+        "misa",
+        "rito romano",
+        "liturgia",
+        "ritos de conclusión",
+        "Ite missa est",
+        "bendición final"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ventimiglia_Sant%27Agostino_Ite_missa_est.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Ordenación General del Misal Romano (OGMR), nn. 139-141, 168-170",
+        "Misal Romano — Ritos de Conclusión",
+        "Benedicamus Domino e Ite, missa est — entradas de Wikipedia (EN/PT), con referencia al Ordo Romanus I y a Du Cange",
+        "Guillermo Durando, Rationale divinorum officiorum (s. XIII)",
+        "Catecismo de la Iglesia Católica, §1324, §1327, §1392"
+      ],
+      "atualizado_em": null,
+      "ordem": 6,
+      "paragrafos_ccc": []
+    },
+    {
+      "id": "liturgia:adoracao-ao-santissimo-sacramento",
+      "slug": "adoracao-ao-santissimo-sacramento",
+      "titulo": "Adoración al Santísimo Sacramento",
+      "categoria": "liturgia",
+      "resumo": "Práctica de oración ante la Eucaristía expuesta, fundada en la fe católica en la presencia real y permanente de Cristo en las especies consagradas.",
+      "corpo": "La adoración eucarística se fundamenta en la doctrina de la presencia real: para la fe católica, Cristo permanece verdaderamente presente en el pan consagrado incluso después de terminada la Misa, lo que hace legítima y recomendable la adoración fuera de la celebración eucarística propiamente dicha. La práctica —atestiguada desde la Edad Media, cuando se consolidó la reserva permanente de la Eucaristía en el sagrario— puede adoptar la forma de visitas breves al Santísimo reservado en el sagrario, o de exposición solemne en una custodia (ostensorio) para una adoración prolongada, a veces continua (\"adoración perpetua\"). El Concilio de Trento y, después, el Catecismo de la Iglesia Católica reafirman el culto de latría (adoración debida solo a Dios) que se rinde a Cristo eucarístico.",
+      "tags": [
+        "eucaristía",
+        "adoración",
+        "liturgia"
+      ],
+      "imagem": "/img-acervo/adoracao-santissimo.jpg",
+      "imagem_credito": "Foto: Babak Habibi / Unsplash",
+      "ordem": 1,
+      "paragrafos_ccc": [
+        "1378-1381"
+      ],
+      "fontes": [
+        "Concilio de Trento, Decreto sobre la Santísima Eucaristía (1551)",
+        "Catecismo de la Iglesia Católica, nn. 1378-1381"
+      ]
+    },
+    {
+      "id": "liturgia:exposicao-e-bencao-do-santissimo",
+      "slug": "exposicao-e-bencao-do-santissimo",
+      "titulo": "Exposición y Bendición del Santísimo Sacramento",
+      "categoria": "liturgia",
+      "resumo": "Rito litúrgico en el que la hostia consagrada es expuesta en una custodia para la adoración pública y, al final, es usada para bendecir a la asamblea.",
+      "corpo": "La exposición del Santísimo Sacramento consiste en colocar la hostia consagrada, generalmente en una lúnula dentro de una custodia, a la vista de los fieles para la adoración — momento tradicionalmente acompañado de cantos como el \"Tantum Ergo\" (últimas estrofas del himno \"Pange Lingua\" de santo Tomás de Aquino) y de un tiempo de silencio y oración personal. La celebración concluye con la bendición eucarística, en la que el sacerdote o diácono, sosteniendo la custodia, traza la señal de la cruz sobre la asamblea — no una bendición del ministro en nombre propio, sino del mismo Cristo presente en el Sacramento.",
+      "tags": [
+        "eucaristía",
+        "adoración",
+        "liturgia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/C%C3%A1lice%2C_Patena_e_Colherinha.jpg",
+      "imagem_credito": "Foto: Wilfredor — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 2,
+      "paragrafos_ccc": [
+        "1378"
+      ],
+      "fontes": [
+        "Ritual Romano, «De Sacra Communione et de Cultu Mysterii Eucharistici Extra Missam»"
+      ]
+    },
+    {
+      "id": "liturgia:como-se-confessar",
+      "slug": "como-se-confessar",
+      "titulo": "Cómo confesarse: el paso a paso del sacramento de la Penitencia",
+      "categoria": "liturgia",
+      "resumo": "Guía práctica de los momentos de la confesión sacramental: examen de conciencia, acusación de los pecados, contrición, propósito de enmienda, absolución y penitencia.",
+      "corpo": "La confesión sacramental sigue una estructura sencilla, aunque su vivencia interior pueda ser profunda: (1) el examen de conciencia, hecho antes de entrar en el confesionario, revisando la vida a la luz de los mandamientos y del Evangelio; (2) el saludo y la señal de la cruz; (3) la confesión propiamente dicha, diciendo al sacerdote los pecados cometidos, con sinceridad y sin minimizar ni exagerar; (4) la escucha de una breve palabra o consejo del confesor; (5) la imposición de una penitencia (oración u obra reparadora); (6) la recitación del Acto de Contrición, expresando arrepentimiento y propósito de no pecar más; y (7) la absolución, dada por el sacerdote en nombre de Cristo y de la Iglesia, que perdona efectivamente los pecados confesados con verdadera contrición.",
+      "tags": [
+        "confesión",
+        "penitencia",
+        "sacramentos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PL_Wwa%2C_kos_Krzyza%2C_konfesjonal%2C_2023.04.08%2C_fot_Ivonna_Nowicka_corr_3.jpg",
+      "imagem_credito": "Foto: Ivonna Nowicka — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 3,
+      "paragrafos_ccc": [
+        "1450-1460"
+      ],
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1440-1470",
+        "Ritual Romano, «Ordo Paenitentiae» (1973)"
+      ]
+    },
+    {
+      "id": "liturgia:exame-de-consciencia",
+      "slug": "exame-de-consciencia",
+      "titulo": "El examen de conciencia",
+      "categoria": "liturgia",
+      "resumo": "Práctica de revisión personal de la propia vida a la luz de la ley moral, que se hace antes de la confesión y que se recomienda también como hábito diario de oración.",
+      "corpo": "El examen de conciencia consiste en revisar, con sinceridad y sin escrúpulo excesivo ni autoindulgencia, los propios pensamientos, palabras, acciones y omisiones desde la última confesión, usando generalmente como guion los Diez Mandamientos, los preceptos de la Iglesia o los pecados capitales. Además de su función inmediata de preparación para la confesión sacramental, el Catecismo recomienda el examen de conciencia como práctica espiritual diaria, tradicionalmente asociada a la oración de la noche, como modo sencillo de crecer en autoconocimiento y en conversión continua.",
+      "tags": [
+        "confesión",
+        "penitencia",
+        "vida espiritual"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 4,
+      "paragrafos_ccc": [
+        "1454"
+      ],
+      "fontes": [
+        "Misal Romano",
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "liturgia:liturgia-das-horas",
+      "slug": "liturgia-das-horas",
+      "titulo": "La Liturgia de las Horas",
+      "categoria": "liturgia",
+      "resumo": "Oración oficial y pública de la Iglesia a lo largo del día, estructurada en torno a los salmos, que santifica las diferentes horas con la alabanza a Dios.",
+      "corpo": "La Liturgia de las Horas (también llamada Oficio Divino o Breviario) es la oración pública y oficial que la Iglesia reza a lo largo del día —Laudes por la mañana, Vísperas al atardecer, Completas antes de dormir, y otras horas menores—, centrada en el rezo de los 150 salmos distribuidos a lo largo de cuatro semanas, intercalados con lecturas bíblicas y patrísticas. Es obligatoria para los clérigos y para muchos religiosos, pero el Concilio Vaticano II alentó también su adopción por parte de los laicos como forma de \"santificar todo el curso del día y de la noche\".",
+      "tags": [
+        "liturgia de las horas",
+        "oración",
+        "clero"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Folio_79r_-_Pentecostes.jpg",
+      "imagem_credito": null,
+      "ordem": 5,
+      "paragrafos_ccc": [
+        "1174-1178"
+      ],
+      "fontes": [
+        "Concilio Vaticano II, «Sacrosanctum Concilium», nn. 83-101 (1963)"
+      ]
+    },
+    {
+      "id": "liturgia:ano-liturgico-e-cores",
+      "slug": "ano-liturgico-e-cores",
+      "titulo": "El Año Litúrgico y los Colores Litúrgicos",
+      "categoria": "liturgia",
+      "resumo": "Ciclo anual de tiempos litúrgicos —Adviento, Navidad, Cuaresma, Pascua y Tiempo Ordinario—, cada uno señalado por un color propio de los ornamentos.",
+      "corpo": "El año litúrgico organiza el tiempo de la Iglesia en torno al misterio de Cristo, alternando tiempos fuertes —Adviento (preparación para la Navidad), el Tiempo de Navidad, la Cuaresma (preparación penitencial para la Pascua) y el Tiempo Pascual— con largos períodos de Tiempo Ordinario. Cada tiempo, y muchas celebraciones específicas, se asocian a un color litúrgico usado en los ornamentos del sacerdote: morado (penitencia, Adviento y Cuaresma), blanco o dorado (fiestas del Señor, de María y de los santos no mártires, y el Tiempo Pascual), rojo (Pasión, Pentecostés, fiestas de mártires) y verde (Tiempo Ordinario).",
+      "tags": [
+        "año litúrgico",
+        "liturgia",
+        "ornamentos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Catholic_priest_vesting_%28La_Ravoire_Morrow_-_My_Catholic_Faith%2C_1949%29.png",
+      "imagem_credito": null,
+      "ordem": 6,
+      "paragrafos_ccc": [
+        "1163-1173"
+      ],
+      "fontes": [
+        "Misal Romano",
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "liturgia:paramentos-liturgicos",
+      "slug": "paramentos-liturgicos",
+      "titulo": "Los Paramentos Litúrgicos",
+      "resumo": "Vestiduras usadas por los ministros en la celebración de la Misa — amito, alba, cíngulo, estola y casulla — cada una con un significado simbólico propio y una oración tradicional al ser revestida.",
+      "corpo": "Las vestiduras litúrgicas del sacerdote celebrante, en el orden en que se revisten, son: el amito, el alba, el cíngulo, la estola y la casulla. La Ordenación General del Misal Romano determina expresamente que la vestidura sagrada común a todos los ministros ordenados e instituidos es el alba, ceñida a la cintura por el cíngulo (a no ser que, por su hechura, el alba ya se ajuste al cuerpo) (n. 336); si el alba no cubre perfectamente la ropa común en torno al cuello, se pone antes el amito. La estola es la banda que marca específicamente el carácter del ministerio ordenado, y la vestidura propia del sacerdote celebrante en la Misa es la casulla — también llamada planeta —, que se reviste sobre el alba y la estola (n. 337). En las normas de la sacristía, la OGMR enumera estas vestiduras como \"alba, estola y casulla\" para el sacerdote, y \"alba, estola y dalmática\" para el diácono (n. 119).\n\nCada pieza tiene un simbolismo consolidado por la tradición. El alba (del latín alba, \"blanca\") es la túnica larga que recuerda la pureza del bautismo; el cíngulo, cordón de lino o lana, representa el dominio de sí y la castidad; la estola, puesta sobre los hombros, es signo del poder de orden recibido — se dice que evoca la \"estola de la inmortalidad\" perdida por el primer hombre; y la casulla, que lo cubre todo, simboliza el \"yugo de Cristo\", suave y ligero, asumido por el sacerdote. El amito, paño de lino puesto alrededor del cuello, fue interpretado, a la luz de Efesios 6,17, como el \"yelmo de la salvación\".\n\nUna antigua tradición devocional, registrada en los misales y en el Rituale Romanum, asocia a cada vestidura una oración rezada en silencio en el momento de revestirla. Al amito: \"Impone, Domine, capiti meo galeam salutis, ad expugnandos diabolicos incursus\" (\"Pon, Señor, sobre mi cabeza el yelmo de la salvación, para rechazar los ataques del demonio\"). Al alba: \"Dealba me, Domine, et munda cor meum; ut, in sanguine Agni dealbatus, gaudiis perfruar sempiternis\" (\"Blanquéame, Señor, y purifica mi corazón, para que, lavado en la Sangre del Cordero, goce de las alegrías eternas\"). Al cíngulo: \"Praecinge me, Domine, cingulo puritatis, et extingue in lumbis meis humorem libidinis; ut maneat in me virtus continentiae et castitatis\". A la estola: \"Redde mihi, Domine, stolam immortalitatis, quam perdidi in praevaricatione primi parentis\". Y, por último, a la casulla: \"Domine, qui dixisti: Iugum meum suave est et onus meum leve: fac ut istud portare sic valeam, quod consequar tuam gratiam\" (\"Señor, que dijiste: 'Mi yugo es suave y mi carga ligera', haz que pueda llevarlo de modo que alcance tu gracia\").\n\nEl color de la casulla y de la estola no es de libre elección, sino que sigue el calendario litúrgico. Según la OGMR (nn. 345-346), la diversidad de colores tiene por fin expresar externamente el carácter peculiar de los misterios celebrados y el sentido progresivo del Año Litúrgico. Los colores del Rito Romano son seis: el blanco (gloria, luz y pureza — Navidad, Pascua, fiestas del Señor y de Nuestra Señora, santos no mártires), el rojo (sangre y fuego — Pasión, Domingo de Ramos, Viernes Santo, Pentecostés, apóstoles mártires), el verde (Tiempo Ordinario), el morado o violeta (Adviento, Cuaresma y, facultativamente, Misas de difuntos), el negro (luto, hoy en desuso y sustituido por el morado) y el rosa, de uso opcional en los dos \"domingos de la alegría\", Gaudete (III de Adviento) y Laetare (IV de Cuaresma). En la Edad Media, el futuro Papa Inocencio III describió, en el tratado De sacro altaris mysterio (fines del siglo XII), la costumbre ya en uso en Roma, y el Misal de San Pío V (1570) consolidó el esquema de los colores que ha atravesado los siglos.",
+      "categoria": "liturgia",
+      "tags": [
+        "liturgia",
+        "paramentos",
+        "misa",
+        "casulla",
+        "estola",
+        "colores litúrgicos",
+        "rito romano"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Catholic_priest_vesting_%28La_Ravoire_Morrow_-_My_Catholic_Faith%2C_1949%29.png",
+      "imagem_credito": null,
+      "fontes": [
+        "Ordenación General del Misal Romano (OGMR), nn. 119, 336-337, 345-346",
+        "Rituale Romanum / Misal Romano — oraciones de la vestición (latín y traducción)",
+        "De sacro altaris mysterio, de Inocencio III (s. XII)",
+        "Misal de San Pío V (1570)",
+        "Presbíteros / Santa Liturgia — \"La vestición de los paramentos litúrgicos y las respectivas oraciones\""
+      ],
+      "atualizado_em": null,
+      "ordem": 7,
+      "paragrafos_ccc": []
+    },
+    {
+      "id": "liturgia:preceitos-da-igreja",
+      "slug": "preceitos-da-igreja",
+      "titulo": "Los Preceptos de la Iglesia",
+      "categoria": "liturgia",
+      "resumo": "Obligaciones mínimas de vida cristiana fijadas por la Iglesia: Misa dominical, confesión anual, Comunión pascual, entre otras.",
+      "corpo": "A diferencia de los Diez Mandamientos, de origen bíblico, los preceptos de la Iglesia son normas eclesiásticas que fijan el mínimo indispensable de esfuerzo en la oración y en la vida moral: participar en la Misa los domingos y días de precepto y abstenerse de trabajos innecesarios en esos días; confesar los pecados graves al menos una vez al año; comulgar al menos en el tiempo pascual; observar los tiempos de ayuno y abstinencia fijados por la Iglesia (como la Cuaresma); y proveer a las necesidades materiales de la Iglesia, según las propias posibilidades.",
+      "tags": [
+        "preceptos de la Iglesia",
+        "vida cristiana práctica"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Seven_Sacraments_Rogier.jpg",
+      "imagem_credito": null,
+      "ordem": 8,
+      "paragrafos_ccc": [
+        "2041-2043"
+      ],
+      "fontes": [
+        "Misal Romano",
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "liturgia:coroinha",
+      "slug": "coroinha",
+      "titulo": "Monaguillo",
+      "categoria": "liturgia",
+      "resumo": "Niño o joven que ayuda al sacerdote en la Misa —lleva el cirio, el incensario o el libro—, sin ser un ministerio instituido ni exigir formación o edad mínima.",
+      "corpo": "El monaguillo es la forma más sencilla y más antigua de ayudar al sacerdote en la Misa: lleva la cruz procesional, los cirios, el incensario (turíbulo) o el Misal, toca la campanilla en los momentos clave de la consagración y prepara lo que sea necesario en el altar. A diferencia del acólito, no es un ministerio instituido: no existe un rito formal de institución, y el propio párroco puede invitar y despedir libremente a los monaguillos, generalmente niños y adolescentes, varones y mujeres.\n\nLa tradición atribuye a San Tarsicio, joven de Roma del siglo III, el papel de patrono de los monaguillos: según la hagiografía, fue golpeado hasta la muerte por una multitud pagana al negarse a entregar la Eucaristía que llevaba escondida, prefiriendo morir antes que profanar el Santísimo Sacramento.",
+      "tags": [
+        "monaguillo",
+        "Misa",
+        "ministerios laicales",
+        "San Tarsicio"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Catholic_mass_servers_01.jpg",
+      "imagem_credito": "Foto: Kwameghana (Bright Kwame Ayisi) — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 9,
+      "paragrafos_ccc": []
+    },
+    {
+      "id": "liturgia:acolito",
+      "slug": "acolito",
+      "titulo": "Acólito",
+      "categoria": "liturgia",
+      "resumo": "Ministerio laical instituido por el obispo —abierto a los laicos desde 1972 y a las mujeres desde 2021—, con atribuciones que van más allá de las del monaguillo.",
+      "corpo": "A diferencia del monaguillo, el acólito es un ministerio instituido: existe desde 1972, cuando Pablo VI, en el motu proprio «Ministeria Quaedam», reformó las antiguas órdenes menores y abrió el acolitado a los laicos, que antes estaba reservado a los candidatos al sacerdocio. La institución se realiza mediante un rito propio, presidido por el obispo, y confiere al acólito atribuciones que el monaguillo no tiene: purificar los vasos sagrados después de la Comunión y, cuando sea necesario, actuar como ministro extraordinario de la Sagrada Comunión.\n\nEl 11 de enero de 2021, el Papa Francisco, mediante el motu proprio «Spiritus Domini», modificó el Código de Derecho Canónico (canon 230, §1) para permitir también la institución de mujeres como acólitas; hasta entonces, el ministerio estaba reservado a los hombres por su origen histórico, vinculado a los antiguos grados del camino hacia el sacerdocio.",
+      "tags": [
+        "acólito",
+        "ministerios instituidos",
+        "Pablo VI",
+        "Spiritus Domini"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Ministranten%2C_Fronleichnamsprozession_2023_in_Millstatt_11.jpg",
+      "imagem_credito": "Foto: Naturpuur — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 10,
+      "paragrafos_ccc": []
+    },
+    {
+      "id": "liturgia:cerimoniario",
+      "slug": "cerimoniario",
+      "titulo": "Ceremoniero",
+      "categoria": "liturgia",
+      "resumo": "Monaguillo o acólito experimentado que coordina los bastidores de la liturgia: posiciones, movimientos, rúbricas. El propio Papa tiene el suyo, en el Vaticano.",
+      "corpo": "Ceremoniero (o ceremoniera, en femenino) no es un grado aparte de monaguillo y acólito, sino una función: alguien con más experiencia en el servicio del altar que asume la coordinación de toda la celebración. Orienta a los demás monaguillos y acólitos sobre dónde ubicarse y cuándo moverse, y vela para que las rúbricas (las instrucciones litúrgicas oficiales) se sigan al pie de la letra, principalmente en celebraciones más complejas, como una Misa presidida por un obispo.\n\nLa función existe en su escala máxima en el Vaticano: la Santa Sede cuenta con un Maestro de las Celebraciones Litúrgicas Pontificias, cargo hoy ocupado por Diego Ravelli, responsable de coordinar cada detalle de las liturgias públicas del Papa, desde la posición exacta de cada objeto en el altar hasta el momento preciso de cada gesto. Guido Marini, su antecesor en el cargo entre 2007 y 2021, se hizo mundialmente conocido por pronunciar el \"Extra omnes\" que cierra las puertas de la Capilla Sixtina al inicio de un cónclave.",
+      "tags": [
+        "ceremoniero",
+        "liturgia",
+        "Vaticano",
+        "maestro de ceremonias"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Francis_Inauguration_fc04.jpg",
+      "imagem_credito": "Foto: Fczarnowski — Wikimedia Commons, CC BY-SA 3.0",
+      "ordem": 11,
+      "paragrafos_ccc": []
+    },
+    {
+      "id": "liturgia:leitorado-instituido",
+      "slug": "leitorado-instituido",
+      "titulo": "El Lectorado: Ministerio Instituido de la Palabra",
+      "categoria": "liturgia",
+      "resumo": "Ministerio litúrgico instituido que proclama las lecturas no evangélicas en la Misa, abierto a los laicos desde 1972 y explícitamente a las mujeres desde 2021.",
+      "corpo": "El lectorado es uno de los dos ministerios instituidos que quedaron de la reforma de Pablo VI: en el motu proprio \"Ministeria Quaedam\" (15 de agosto de 1972), el papa suprimió las antiguas órdenes menores del camino al sacerdocio (ostiariado, lectorado, exorcistado y acolitado) y las sustituyó por dos ministerios —lectorado y acolitado—, ahora abiertos, con rito propio de institución por el obispo o por un superior religioso, a laicos bautizados y confirmados, y ya no reservados a los candidatos a las órdenes sagradas. El lector instituido proclama las lecturas de la Misa que no sean el Evangelio (reservado al diácono o al sacerdote), puede asumir el Salmo responsorial a falta de salmista y anunciar las intenciones de la oración de los fieles cuando no hay diácono presente.\n\nDurante casi cincuenta años, la institución en el lectorado quedó reservada a los hombres. El papa Francisco, mediante el motu proprio \"Spiritus Domini\" (11 de enero de 2021), modificó el canon 230, §1 del Código de Derecho Canónico para declarar explícitamente que también las mujeres pueden ser instituidas lectoras y acólitas, reconociendo formalmente una práctica que ya era común en la distribución informal de esas funciones en las parroquias.",
+      "tags": [
+        "lectorado",
+        "Ministeria Quaedam",
+        "Spiritus Domini",
+        "ministerios instituidos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 12,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Pablo VI, motu proprio «Ministeria Quaedam» (1972)",
+        "Francisco, motu proprio «Spiritus Domini» (2021)"
+      ]
+    },
+    {
+      "id": "liturgia:ministro-extraordinario-da-comunhao",
+      "slug": "ministro-extraordinario-da-comunhao",
+      "titulo": "Ministro Extraordinario de la Sagrada Comunión",
+      "categoria": "liturgia",
+      "resumo": "Fiel laico autorizado por el obispo para distribuir la Eucaristía cuando faltan ministros ordinarios, instituido por la Iglesia en 1973 para atender necesidades pastorales concretas.",
+      "corpo": "A diferencia del sacerdote, del diácono y del acólito instituido —ministros ordinarios o estables de la Comunión—, el ministro extraordinario de la Sagrada Comunión es un laico designado solo cuando la necesidad concreta de la comunidad lo exige: gran número de fieles que han de comulgar, enfermos imposibilitados de salir de casa, o falta de clero suficiente. La figura fue creada por la instrucción \"Immensae Caritatis\", publicada por la Sagrada Congregación para la Disciplina de los Sacramentos el 29 de enero de 1973, que también facilitó la comunión de enfermos y ancianos y suavizó, para ellos, las normas del ayuno eucarístico.\n\nEl canon 230, §3 del Código de Derecho Canónico prevé esta posibilidad \"cuando lo aconseje la necesidad de la Iglesia\", correspondiendo al párroco o al obispo diocesano designar y formar a estos fieles, generalmente mediante un mandato temporal y renovable. Entre sus funciones más visibles está también llevar la comunión a enfermos y personas ancianas que no pueden participar en la Misa dominical, uniendo la mesa eucarística de la parroquia con la casa de quien está imposibilitado de llegar hasta ella.",
+      "tags": [
+        "ministro extraordinario",
+        "comunión",
+        "Immensae Caritatis"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 13,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Sagrada Congregación para la Disciplina de los Sacramentos, instrucción «Immensae Caritatis» (1973)",
+        "Código de Derecho Canónico, can. 230"
+      ]
+    },
+    {
+      "id": "liturgia:forma-extraordinaria-do-rito-romano",
+      "slug": "forma-extraordinaria-do-rito-romano",
+      "titulo": "La Forma Extraordinaria del Rito Romano (Misa Tridentina)",
+      "categoria": "liturgia",
+      "resumo": "La Misa celebrada según el Misal Romano anterior a la reforma de 1969, cuyo uso fue ampliado por Benedicto XVI en 2007 y posteriormente restringido por Francisco en 2021.",
+      "corpo": "La llamada \"Misa Tridentina\" o \"Misa en latín\" es la celebración eucarística según los libros litúrgicos vigentes antes de la reforma posconciliar del Misal Romano de 1969, en especial la edición de 1962, del Papa San Juan XXIII. En 2007, el motu proprio \"Summorum Pontificum\", de Benedicto XVI, reconoció esa forma como \"forma extraordinaria\" del único Rito Romano (junto a la \"forma ordinaria\", nacida de la reforma del Vaticano II), autorizando de modo general a cualquier sacerdote a celebrarla sin necesidad de un permiso específico del obispo.\n\nEn 2021, el Papa Francisco, mediante el motu proprio \"Traditionis Custodes\", revisó esa disciplina: devolvió al obispo diocesano la competencia exclusiva para autorizar el uso de la forma extraordinaria en su diócesis, restringiendo su celebración normalmente a lugares que no sean iglesias parroquiales y sometiendo a los grupos y sacerdotes interesados a la aprobación caso por caso del propio obispo. La medida buscó, según el documento, favorecer la comunión en torno a la reforma litúrgica conciliar, y generó reacciones diversas entre los fieles vinculados a esa tradición.",
+      "tags": [
+        "Summorum Pontificum",
+        "Traditionis Custodes",
+        "Misa Tridentina",
+        "Benedicto XVI"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 14,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Benedicto XVI, motu proprio «Summorum Pontificum» (2007)",
+        "Francisco, motu proprio «Traditionis Custodes» (2021)"
+      ]
+    },
+    {
+      "id": "liturgia:turibulo-e-incenso",
+      "slug": "turibulo-e-incenso",
+      "titulo": "El Incensario y el Incienso en la Liturgia",
+      "categoria": "liturgia",
+      "resumo": "El uso del incienso quemado en el incensario, heredado del culto del Templo de Jerusalén, simboliza la oración de la Iglesia que sube a la presencia de Dios.",
+      "corpo": "El incensario (del latín \"turibulum\", instrumento para el incienso) es el recipiente metálico suspendido de cadenas en el que se quema incienso sobre brasas en las celebraciones más solemnes. Su uso se remonta al culto del Templo de Jerusalén y fue incorporado a la liturgia cristiana desde los primeros siglos como signo de honor y reverencia: el humo que sube representa simbólicamente las oraciones del pueblo de Dios que suben a su presencia, según la imagen del Salmo 140 (141): \"Suba mi oración como incienso en tu presencia\".\n\nEn el Misal Romano, la incensación es facultativa y puede realizarse en varios momentos de la Misa: en la procesión y al inicio de la celebración, antes de la proclamación del Evangelio, sobre las ofrendas, el sacerdote y el pueblo después del ofertorio, y durante la elevación del Cuerpo y de la Sangre de Cristo después de la consagración. El gesto de balancear el incensario —tradicionalmente tres veces ante las personas e imágenes más veneradas— refuerza el carácter sensorial y contemplativo de la liturgia, uniendo el incienso al agua bendita, a las velas y a los ornamentos como signos que hacen visible el misterio celebrado.",
+      "tags": [
+        "incensario",
+        "incienso",
+        "liturgia",
+        "misa solemne"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 15,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Misal Romano, Ordenación General, nn. 276-277",
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "liturgia:rito-da-aspersao",
+      "slug": "rito-da-aspersao",
+      "titulo": "El Rito de la Aspersión con Agua Bendita",
+      "categoria": "liturgia",
+      "resumo": "Rito facultativo que puede sustituir al acto penitencial los domingos, rociando a la asamblea con agua bendita como memoria viva del propio Bautismo.",
+      "corpo": "El Misal Romano prevé que, los domingos, especialmente en el Tiempo Pascual, los Ritos Iniciales de la Misa puedan incluir la aspersión de la asamblea con agua bendita en lugar del acto penitencial habitual, práctica conocida por las palabras latinas con que tradicionalmente comienza: \"Asperges me, Domine\" (\"Rocíame, Señor\"), del Salmo 50, cantado durante la mayor parte del año, y \"Vidi Aquam\" (\"Vi el agua\"), del Salmo 117, reservado al Tiempo Pascual. Después de bendecir el agua (o de usar agua ya bendecida, como la de la Vigilia Pascual), el sacerdote asperge primero el altar, luego a sí mismo, a los ministros y, por último, a toda la asamblea.\n\nEl gesto recuerda directamente el Bautismo: el agua que un día lavó el pecado original e incorporó al fiel a Cristo y a la Iglesia es traída de nuevo, de forma sensible, al inicio de la celebración dominical, renovando simbólicamente aquella purificación. Por eso el rito es particularmente valorado en el Tiempo Pascual, cuando toda la Iglesia celebra el misterio de la Resurrección y la memoria bautismal que de él se deriva.",
+      "tags": [
+        "agua bendita",
+        "aspersión",
+        "bautismo",
+        "ritos iniciales"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 16,
+      "paragrafos_ccc": [
+        "1217-1222"
+      ],
+      "fontes": [
+        "Misal Romano, «Ritos Iniciales»",
+        "Ritual Romano"
+      ]
+    },
+    {
+      "id": "liturgia:jejum-eucaristico",
+      "slug": "jejum-eucaristico",
+      "titulo": "El ayuno eucarístico",
+      "categoria": "liturgia",
+      "resumo": "La abstinencia de alimentos y bebidas, fijada hoy en una sola hora antes de la comunión, como signo de respeto y de deseo ante el don de la Eucaristía.",
+      "corpo": "El ayuno eucarístico es la abstinencia de comida y bebida (con excepción del agua y de las medicinas) observada antes de recibir la Sagrada Comunión, práctica que la Iglesia ya conocía con considerable rigor desde la Antigüedad, llegando a exigir ayuno total desde la medianoche anterior. Pío XII, en la constitución apostólica \"Christus Dominus\" (6 de enero de 1953), suavizó por primera vez esta disciplina, permitiendo las Misas vespertinas y reduciendo el ayuno a tres horas en cuanto a alimentos sólidos y bebidas alcohólicas, y a una hora en cuanto a las bebidas no alcohólicas.\n\nEn 1964, Pablo VI redujo aún más esta exigencia, fijándola en una sola hora antes de la comunión para cualquier alimento o bebida, disciplina mantenida hasta hoy por el Código de Derecho Canónico (can. 919). Los enfermos y los ancianos, así como quienes los atienden, están dispensados incluso de esa hora mínima. Aunque hoy es breve, el ayuno eucarístico sigue expresando el mismo sentido espiritual de siempre: preparar el cuerpo y el corazón para recibir con verdadera hambre y deseo el Cuerpo de Cristo, distinguiendo ese alimento de cualquier otro.",
+      "tags": [
+        "ayuno eucarístico",
+        "comunión",
+        "Christus Dominus"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 17,
+      "paragrafos_ccc": [
+        "1387"
+      ],
+      "fontes": [
+        "Pío XII, constitución apostólica «Christus Dominus» (1953)",
+        "Código de Derecho Canónico, can. 919"
+      ]
+    },
+    {
+      "id": "liturgia:sacrario",
+      "slug": "sacrario",
+      "titulo": "El Sagrario: La Reserva Eucarística",
+      "categoria": "liturgia",
+      "resumo": "El pequeño cofre inviolable donde se guarda la Eucaristía consagrada fuera de la Misa, para los enfermos y para la adoración de los fieles.",
+      "corpo": "El sagrario (o tabernáculo, del latín \"tabernaculum\", tienda) es el receptáculo sólido e inviolable en el que la Iglesia guarda las hostias consagradas fuera de la celebración de la Misa. Desde los primeros siglos, cuando presbíteros y laicos llevaban el pan eucarístico consagrado a los enfermos y a los ausentes de la celebración, la Iglesia necesitó un lugar seguro para reservarlo; a lo largo de la Edad Media ese lugar pasó de dependencias de la sacristía y nichos en el presbiterio a, desde el siglo XI, un espacio destacado cercano al altar o sobre él, práctica que se consolidó de modo más uniforme en el período barroco, entre los siglos XVII y XVIII, y fue reafirmada por el Papa Benedicto XIV en su constitución \"Accepimus\" (1746).\n\nLas normas litúrgicas actuales exigen que el sagrario sea de material sólido e inamovible, mantenido siempre cerrado con llave cuando contiene el Santísimo Sacramento, para evitar cualquier peligro de profanación, y situado en un lugar de la iglesia verdaderamente noble, visible y adecuado para la oración. La pequeña lámpara o vela que arde permanentemente ante él señala a los fieles, a cualquier hora, la presencia real de Cristo allí reservado: invitación silenciosa a la visita y a la adoración eucarística incluso fuera de los horarios de Misa.",
+      "tags": [
+        "sagrario",
+        "tabernáculo",
+        "eucaristía",
+        "presencia real"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 18,
+      "paragrafos_ccc": [
+        "1183",
+        "1379"
+      ],
+      "fontes": [
+        "Misal Romano, Ordenación General, nn. 314-317",
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "liturgia:genuflexao-e-posturas-na-missa",
+      "slug": "genuflexao-e-posturas-na-missa",
+      "titulo": "La genuflexión y las posturas del cuerpo en la Misa",
+      "categoria": "liturgia",
+      "resumo": "Estar de pie, sentarse, arrodillarse y genuflexionar no son detalles indiferentes: cada postura corporal expresa y también educa una actitud interior en la Misa.",
+      "corpo": "La liturgia católica atribuye sentido a las posiciones del cuerpo, y no solo a las palabras: estar de pie —postura de los resucitados y de los que aguardan con prontitud— marca los momentos más solemnes, como los Ritos Iniciales, el Evangelio, el Credo y los Ritos Finales; sentarse conviene a la escucha atenta, como durante las lecturas y la homilía; y arrodillarse, postura de súplica y adoración, está indicado sobre todo durante la Plegaria Eucarística, salvo impedimentos de salud, falta de espacio o gran número de fieles.\n\nLa genuflexión propiamente dicha —doblar la rodilla derecha hasta el suelo y levantarse enseguida— es un gesto más breve y específico, reservado a la adoración del Santísimo Sacramento: se hace al entrar o salir de una iglesia donde él está reservado en el sagrario, y el propio sacerdote genuflexiona ante el altar después de la consagración y antes de la comunión. Distinta de la inclinación (mera reverencia, usada por ejemplo al pasar ante el altar sin el Santísimo expuesto), la genuflexión es así un gesto teológicamente preciso: no una cortesía cualquiera, sino el reconocimiento corporal de estar ante Dios realmente presente.",
+      "tags": [
+        "genuflexión",
+        "posturas litúrgicas",
+        "adoración",
+        "gestos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 19,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Misal Romano, Instrucción General, nn. 42-43",
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "liturgia:ritual-de-bencaos",
+      "slug": "ritual-de-bencaos",
+      "titulo": "El Ritual de Bendiciones",
+      "categoria": "liturgia",
+      "resumo": "El libro litúrgico que reúne las fórmulas oficiales de la Iglesia para bendecir personas, objetos y situaciones de la vida en nombre de Dios.",
+      "corpo": "El \"De Benedictionibus\" (\"Ritual de Bendiciones\", en su traducción española), publicado en edición típica latina en 1984, es el libro del Ritual Romano que reúne las fórmulas oficiales con que la Iglesia, en nombre de Dios, bendice personas, objetos, lugares y circunstancias de la vida cristiana. Toda bendición, enseña el propio ritual, es al mismo tiempo alabanza a Dios por sus dones y súplica para alcanzarlos, uniendo siempre una lectura de la Palabra a una oración, generalmente acompañada de la señal de la cruz, de la imposición de las manos o de la aspersión con agua bendita.\n\nEl ritual organiza las bendiciones en familias: bendiciones de personas (como de un niño, de una familia, de enfermos o de grupos específicos), de objetos y lugares destinados al uso litúrgico (como un nuevo altar o un sagrario), de objetos de devoción popular (rosarios, medallas, imágenes) y bendiciones para diversas otras finalidades, como el inicio del año o de un viaje. La teología distingue además bendiciones de carácter \"invocativo\" (piden a Dios su favor sobre las personas) de las de carácter \"constitutivo\" (destinan definitivamente un objeto o lugar al uso sagrado).",
+      "tags": [
+        "bendición",
+        "Ritual Romano",
+        "De Benedictionibus"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 20,
+      "paragrafos_ccc": [
+        "1671",
+        "1672"
+      ],
+      "fontes": [
+        "Ritual Romano, «De Benedictionibus» (1984)",
+        "Catecismo de la Iglesia Católica"
+      ]
+    },
+    {
+      "id": "liturgia:salmista",
+      "slug": "salmista",
+      "titulo": "El Salmista: ministerio del Salmo Responsorial",
+      "categoria": "liturgia",
+      "resumo": "Quien canta el Salmo Responsorial entre las lecturas de la Misa ejerce un verdadero ministerio litúrgico, no una simple interpretación musical.",
+      "corpo": "Entre la primera lectura y la segunda (o el Evangelio, en los días feriales), la Liturgia de la Palabra reserva un espacio de meditación orante a través del Salmo Responsorial, normalmente cantado por un salmista desde el ambón o desde otro lugar adecuado, mientras la asamblea responde con un estribillo entre las estrofas. Lejos de ser un mero intermedio musical, esta proclamación cantada es considerada por la propia Iglesia un gesto sacramental y un ministerio litúrgico aparte, distinto tanto del lector como del coro: el salmista presta su voz al propio salmo, prolongando de modo meditativo la lectura que acaba de ser proclamada.\n\nEjercer bien esta función exige, al mismo tiempo, técnica vocal y actitud espiritual y orante: no basta cantar afinado, es necesario salmodiar con buena dicción y verdadero sentido de oración, para que el Salmo —heredado de la misma tradición judía de oración que Jesús y los apóstoles rezaban— siga siendo, también en la Misa de hoy, palabra viva de alabanza, súplica o lamento ante Dios.",
+      "tags": [
+        "salmista",
+        "salmo responsorial",
+        "ministerio de música",
+        "liturgia de la palabra"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 21,
+      "paragrafos_ccc": [],
+      "fontes": [
+        "Misal Romano, Ordenación General, nn. 61, 102",
+        "Congregación para el Culto Divino, «Musicam Sacram» (1967)"
+      ]
+    },
+    {
+      "id": "liturgia:missas-votivas-e-de-defuntos",
+      "slug": "missas-votivas-e-de-defuntos",
+      "titulo": "Misas votivas y Misas de difuntos",
+      "categoria": "liturgia",
+      "resumo": "Además de la Misa del día fijada por el calendario, el Misal Romano prevé Misas votivas dedicadas a un misterio o a un santo, y Misas específicas por los difuntos.",
+      "corpo": "No toda Misa sigue necesariamente los textos del día fijados por el calendario litúrgico: el Misal Romano reserva una sección a las Misas votivas, celebradas por devoción —en días feriales del Tiempo Ordinario, o incluso cuando ocurre una memoria libre— en honor de algún misterio del Señor, de la Virgen María, de un ángel o de un santo, práctica ya atestiguada desde la Edad Media. Curiosamente, entre las primeras Misas votivas que se difundieron estuvieron precisamente las celebradas en sufragio por un difunto, a las que después se sumaron muchas otras intenciones devocionales.\n\nLas Misas de difuntos, hoy reunidas en una sección propia del Misal inmediatamente después de las votivas, ofrecen el sacrificio eucarístico de la Pascua de Cristo por los fallecidos, para que, por la comunión entre los miembros del Cuerpo de Cristo, unos reciban auxilio espiritual y otros, consuelo y esperanza. Se distinguen según la ocasión: la Misa exequial (en el funeral), la Misa celebrada al recibir la noticia de la muerte, la del día de la sepultura o del aniversario del fallecimiento, y las Misas cotidianas por los difuntos en general, todas ellas expresión concreta de la fe católica en la comunión de los santos, que une a vivos y muertos en la misma oración.",
+      "tags": [
+        "misa votiva",
+        "misa de difuntos",
+        "sufragio",
+        "comunión de los santos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 22,
+      "paragrafos_ccc": [
+        "958",
+        "1032"
+      ],
+      "fontes": [
+        "Misal Romano, «Misas votivas» y «Misas de difuntos»",
+        "Catecismo de la Iglesia Católica"
+      ]
+    }
+  ]
+}

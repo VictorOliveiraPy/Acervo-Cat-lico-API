@@ -1,0 +1,783 @@
+{
+  "_meta": {
+    "categoria": "documentos-magisterio",
+    "nome": "Documentos do Magistério",
+    "descricao": "Principais encíclicas, exortações e constituições pontifícias e conciliares, com resumo e contexto histórico.",
+    "status": "exemplos-iniciais",
+    "aviso": "Resumen introductorio; la lectura del texto íntegro del documento es siempre recomendable para citas o estudio profundo.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "vatican.va — archivo de documentos pontificios y conciliares"
+    ]
+  },
+  "itens": [
+    {
+      "id": "documentos-magisterio:rerum-novarum",
+      "slug": "rerum-novarum",
+      "titulo": "Rerum Novarum",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica fundadora de la doctrina social católica moderna, sobre la condición de los trabajadores en la sociedad industrial.",
+      "corpo": "Publicada por León XIII en 1891, «Rerum Novarum» («De las cosas nuevas») respondió a la cuestión social de finales del siglo XIX ante la industrialización, defendiendo al mismo tiempo el derecho a la propiedad privada y a la libre asociación sindical de los trabajadores, un salario justo y la responsabilidad del Estado de proteger a los más débiles — sin adherirse ni al socialismo colectivista ni al capitalismo sin frenos morales. Es considerada el documento fundador de la moderna doctrina social de la Iglesia.",
+      "tags": [
+        "doctrina social",
+        "León XIII"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Papa_Leone_XIII_%281898%29.jpg",
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "León XIII",
+      "ano": "1891",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:quadragesimo-anno",
+      "slug": "quadragesimo-anno",
+      "titulo": "Quadragesimo Anno",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de Pío XI, publicada cuarenta años después de la Rerum Novarum, que desarrolla la doctrina social ante la crisis de 1929.",
+      "corpo": "Escrita para conmemorar el cuadragésimo aniversario de la «Rerum Novarum», en plena Gran Depresión, «Quadragesimo Anno» (1931) desarrolla la doctrina social católica con el principio de la \"subsidiariedad\" — la idea de que las decisiones deben tomarse en el nivel más cercano posible a las personas afectadas, y que las instancias mayores solo deben intervenir cuando las menores no logran resolver por sí solas.",
+      "tags": [
+        "doctrina social",
+        "Pío XI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Pius_XI%2C_by_Nicola_Perscheid_%28retouched%29.jpg",
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Pío XI",
+      "ano": "1931",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:humani-generis",
+      "slug": "humani-generis",
+      "titulo": "Humani Generis",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de Pío XII que trata de los límites entre la fe y ciertas corrientes filosóficas y científicas modernas, incluida la cuestión de la evolución.",
+      "corpo": "Publicada en 1950, aborda de modo cauteloso la relación entre la fe católica y corrientes de pensamiento contemporáneas, siendo recordada sobre todo por admitir la posibilidad de discusión científica sobre la evolución biológica del cuerpo humano, siempre que se sostenga la creación directa del alma espiritual por Dios.",
+      "tags": [
+        "fe y ciencia",
+        "Pío XII"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Pius_XII_with_tabard%2C_by_Michael_Pitcairn%2C_1951.png",
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Pío XII",
+      "ano": "1950",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:mater-et-magistra",
+      "slug": "mater-et-magistra",
+      "titulo": "Mater et Magistra",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de San Juan XXIII sobre el desarrollo social y las desigualdades económicas globales, hito previo al Concilio Vaticano II.",
+      "corpo": "Publicada en 1961, «Mater et Magistra» («Madre y Maestra») actualiza la doctrina social ante temas nuevos como la industrialización agrícola, el desarrollo económico desigual entre las naciones y la carrera armamentista, ampliando el horizonte de la cuestión social más allá de la relación capital-trabajo tratada en la «Rerum Novarum».",
+      "tags": [
+        "doctrina social",
+        "San Juan XXIII"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ioannes_XXIII%2C_by_De_Agostini%2C_1958%E2%80%931963.jpg",
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "San Juan XXIII",
+      "ano": "1961",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:pacem-in-terris",
+      "slug": "pacem-in-terris",
+      "titulo": "Pacem in Terris",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de Juan XXIII sobre la paz mundial, publicada en plena Crisis de los Misiles de Cuba, dirigida a todos los hombres de buena voluntad.",
+      "corpo": "Publicada en abril de 1963, pocos meses después de que la Crisis de los Misiles de Cuba llevara al mundo al borde de una guerra nuclear, «Pacem in Terris» fue la primera encíclica dirigida no solo a los católicos, sino \"a todos los hombres de buena voluntad\", y trata de los derechos humanos fundamentales como base para la paz entre las naciones.",
+      "tags": [
+        "paz",
+        "derechos humanos",
+        "Juan XXIII"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ioannes_XXIII%2C_by_De_Agostini%2C_1958%E2%80%931963.jpg",
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Juan XXIII",
+      "ano": "1963",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:humanae-vitae",
+      "slug": "humanae-vitae",
+      "titulo": "Humanae Vitae",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de Pablo VI que reafirma la doctrina católica contra los métodos artificiales de anticoncepción, generando amplio debate público.",
+      "corpo": "Publicada en 1968, en medio de expectativas de cambio tras una comisión pontificia que había estudiado el tema, «Humanae Vitae» reafirmó la prohibición católica a los métodos artificiales de anticoncepción, insistiendo en el vínculo inseparable entre los sentidos unitivo y procreativo del acto conyugal. Generó un intenso debate público y teológico que continúa hasta hoy.",
+      "tags": [
+        "Humanae Vitae",
+        "moral sexual",
+        "Pablo VI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Paulus_VI%2C_by_Fotografia_Felici%2C_1969.jpg",
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Pablo VI",
+      "ano": "1968",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:evangelii-nuntiandi",
+      "slug": "evangelii-nuntiandi",
+      "titulo": "Evangelii Nuntiandi",
+      "resumo": "Exhortación apostólica de Pablo VI (1975) sobre la evangelización en el mundo contemporáneo, fruto del Sínodo de los Obispos de 1974 y referencia central para la acción misionera posconciliar.",
+      "corpo": "Evangelii Nuntiandi (\"Sobre el anuncio del Evangelio\" o \"La evangelización en el mundo moderno\") es la exhortación apostólica de Pablo VI sobre la evangelización, fechada el 8 de diciembre de 1975 —solemnidad de la Inmaculada Concepción—, en el décimo tercer año de su pontificado. El documento recoge y desarrolla los resultados de la III Asamblea General Ordinaria del Sínodo de los Obispos, reunida en Roma en octubre de 1974, cuyo tema era precisamente definir lo que la Iglesia entiende por \"evangelización\". En este sentido, es fruto directo de la recepción del Concilio Vaticano II y del decreto conciliar Ad Gentes, sobre la actividad misionera de la Iglesia, promulgado unos diez años antes.\n\nLa exhortación tiene una introducción y siete secciones. La introducción presenta la evangelización como el servicio principal de la Iglesia; la primera sección trata del vínculo entre Cristo evangelizador y la Iglesia, que imita a su Maestro; la segunda propone una definición de evangelización en contraste con otras concepciones posibles del término; la tercera expone su contenido; la cuarta, los métodos; la quinta, los destinatarios; y las últimas secciones tratan de los evangelizadores y del Espíritu Santo como agente principal de la evangelización.\n\nUno de los puntos más citados del texto es la afirmación del párrafo 15: \"Evangelizadora como es, la Iglesia comienza por evangelizarse a sí misma\", que sitúa la conversión y el testimonio de la propia comunidad como punto de partida de todo anuncio. Pablo VI amplía el sentido del término: evangelizar no es solo predicar verbalmente, sino incluir el testimonio de vida, la promoción humana y la liberación, la inculturación de la fe y el diálogo con las culturas. Es notable la insistencia en el \"testimonio\", que el Papa considera insustituible: el mundo de hoy, escribe, \"tiene sed de autenticidad\".\n\nEl contexto del documento es el de una Iglesia que, diez años después del Concilio, debía responder tanto al impulso misionero renovado como a corrientes teológicas y pastorales tensas en la época, sobre todo en América Latina. La exhortación procuró articular la evangelización con la promoción humana y la liberación sin reducirla a una de ellas, y el Sínodo de 1974 respondió a quienes pensaban que el tiempo de los misioneros había pasado. Pablo VI habla de los \"tiempos nuevos de la evangelización\", expresión que anuncia la \"nueva evangelización\" luego propiciada por san Juan Pablo II y retomada por Benedicto XVI y Francisco, cuya exhortación Evangelii gaudium (2013) declaradamente se inspira en Evangelii Nuntiandi. El documento es hoy considerado un hito en la teología y la pastoral de la evangelización posconciliar.",
+      "categoria": "documentos-magisterio",
+      "tags": [
+        "evangelización",
+        "Pablo VI",
+        "Sínodo de los Obispos",
+        "misión",
+        "nueva evangelización",
+        "Concilio Vaticano II",
+        "Siglo XX"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Pope_Paul_VI_%28Correio_da_Manh%C3%A3_-_AN_413%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Exhortación Apostólica Evangelii Nuntiandi, Pablo VI, 8 de diciembre de 1975 (texto oficial, sitio de la Santa Sede: vatican.va).",
+        "Evangelii nuntiandi, voz de la Wikipedia en portugués (introducción y siete secciones; Sínodo de 1974).",
+        "Vatican News, \"Evangelii nuntiandi: de Cristo evangelizador a una Iglesia evangelizadora\", 2018.",
+        "Concilio Vaticano II, decreto Ad Gentes, 1965."
+      ],
+      "atualizado_em": null,
+      "tipo_documento": "Exhortación Apostólica",
+      "papa_autor": "Pablo VI",
+      "ano": "1975"
+    },
+    {
+      "id": "documentos-magisterio:veritatis-splendor",
+      "slug": "veritatis-splendor",
+      "titulo": "Veritatis Splendor",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de Juan Pablo II sobre los fundamentos de la teología moral católica, en respuesta a corrientes que relativizaban la existencia de actos intrínsecamente malos.",
+      "corpo": "Publicada en 1993, es una de las encíclicas más sistemáticas de Juan Pablo II sobre teología moral fundamental, reafirmando la existencia de \"actos intrínsecamente malos\" —que ninguna circunstancia ni buena intención puede hacer lícitos— frente a corrientes de teología moral que, en el debate postconciliar, tendían a relativizar esa categoría.",
+      "tags": [
+        "teología moral",
+        "Juan Pablo II"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg",
+      "imagem_credito": "Foto: Gregorini Demetrio (1988) — Wikimedia Commons, CC BY-SA 3.0",
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Juan Pablo II",
+      "ano": "1993",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:evangelium-vitae",
+      "slug": "evangelium-vitae",
+      "titulo": "Evangelium Vitae",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de Juan Pablo II en defensa de la vida humana desde la concepción hasta la muerte natural, contra lo que llama «cultura de la muerte».",
+      "corpo": "Publicada en 1995, es la exposición más sistemática de Juan Pablo II sobre la defensa de la vida humana en todas sus fases, tratando con particular énfasis el aborto y la eutanasia, y acuñando la expresión «cultura de la muerte» para describir tendencias sociales y legales que, en su análisis, banalizan la destrucción de la vida humana vulnerable.",
+      "tags": [
+        "vida humana",
+        "Juan Pablo II"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg",
+      "imagem_credito": "Foto: Gregorini Demetrio (1988) — Wikimedia Commons, CC BY-SA 3.0",
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Juan Pablo II",
+      "ano": "1995",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:fides-et-ratio",
+      "slug": "fides-et-ratio",
+      "titulo": "Fides et Ratio",
+      "resumo": "Encíclica de Juan Pablo II (1998) sobre la relación entre fe y razón, descritas como \"las dos alas\" con las que el espíritu humano se eleva a la contemplación de la verdad.",
+      "corpo": "Fides et Ratio (\"Fe y Razón\") es la decimotercera de las catorce encíclicas de Juan Pablo II. Fue fechada el 14 de septiembre de 1998, Fiesta de la Exaltación de la Santa Cruz, en el vigésimo año de su pontificado, y dirigida a los obispos de la Iglesia Católica, aunque el propio texto se extiende también a filósofos, teólogos y al mundo académico. Antes de examinar el tema, la encíclica se inserta explícitamente en una línea magisterial: retoma la herencia de Aeterni Patris, la encíclica de León XIII del 4 de agosto de 1879 que reavivó la filosofía cristiana y la escolástica de Santo Tomás de Aquino, y pretende releer esa tarea en el paso del centenario del documento leonino.\n\nLa imagen de apertura — \"la fe y la razón son como las dos alas con las que el espíritu humano se eleva a la contemplación de la verdad\" — es la fórmula más conocida del documento y resume su tesis central: fe y razón no son rivales, sino dimensiones complementarias de un mismo impulso humano hacia la verdad. El texto se desarrolla en una introducción (\"Conócete a ti mismo\") y siete capítulos, numerados hasta el párrafo 108, que recorren la revelación de la Sabiduría de Dios, las fórmulas \"credo ut intellegam\" e \"intellego ut credam\", la relación entre fe y razón, las intervenciones del Magisterio en materia filosófica, la interacción de la teología con la filosofía y, por último, las exigencias y tareas actuales. La conclusión, de tono mariano, invoca a María como Sede de la Sabiduría, comparando la vocación de la filosofía genuina con la vocación de la Virgen, que ofreció toda su humanidad para que el Verbo se encarnara.\n\nEl documento combina confianza en la capacidad de la razón humana con una firme advertencia contra lo que denuncia como patologías modernas del pensamiento: el eclecticismo, el historicismo, el cientificismo, el pragmatismo y, sobre todo, el nihilismo, que reduce todo a \"las arenas movedizas de un escepticismo general\" — síntomas, según el Papa, de desconfianza en la verdad. Juan Pablo II sostiene que la filosofía tiene una vocación sapiencial y metafísica irrenunciable, y que la teología la necesita como instrumento propio, sin por ello subordinar la fe a la razón. En este punto, la encíclica reafirma la distinción entre el saber filosófico autónomo, válido en su campo, y el saber teológico, que parte de la Revelación.\n\nLa encíclica debe mucho al trabajo de la Congregación para la Doctrina de la Fe, en especial a la instrucción Donum veritatis (1990), sobre la vocación eclesial del teólogo, citada en el documento y responsable de parte de su reflexión sobre el papel del teólogo en la Iglesia. Por la densidad filosófica y la amplitud de la cuestión que aborda, Fides et Ratio es frecuentemente considerada una de las encíclicas más ambiciosas y menos accesibles de Juan Pablo II, y se ha convertido en referencia obligada en el debate sobre ciencia, filosofía y fe.",
+      "categoria": "documentos-magisterio",
+      "tags": [
+        "fe y razón",
+        "filosofía",
+        "Juan Pablo II",
+        "encíclica",
+        "teología",
+        "Santo Tomás de Aquino",
+        "Siglo XX"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Fides_et_ratio.JPG",
+      "imagem_credito": null,
+      "fontes": [
+        "Carta Encíclica Fides et Ratio, Juan Pablo II, 14 de septiembre de 1998 (texto oficial, sitio de la Santa Sede: vatican.va).",
+        "Fides et Ratio, entrada de la Wikipedia en portugués (estructura en siete capítulos; 13.ª de 14 encíclicas).",
+        "Aeterni Patris, encíclica de León XIII, 4 de agosto de 1879 (referencia al centenario).",
+        "Congregación para la Doctrina de la Fe, Instrucción Donum veritatis, 24 de mayo de 1990.",
+        "Notes on Fides et Ratio, Alfred J. Freddoso, University of Notre Dame (esquema de párrafos y capítulos)."
+      ],
+      "atualizado_em": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Juan Pablo II",
+      "ano": "1998"
+    },
+    {
+      "id": "documentos-magisterio:deus-caritas-est",
+      "slug": "deus-caritas-est",
+      "titulo": "Deus Caritas Est",
+      "resumo": "Primera encíclica de Benedicto XVI, sobre el amor de Dios y su unidad con el amor humano, y sobre la caridad como ejercicio concreto del amor por la Iglesia.",
+      "corpo": "Deus Caritas Est (\"Dios es amor\") es la primera encíclica del Papa Benedicto XVI, cuyo subtítulo es De Christiano Amore (\"Sobre el amor cristiano\"). Benedicto XVI firmó el documento el 25 de diciembre de 2005, día de Navidad, pero su promulgación y publicación oficial tuvieron lugar el 25 de enero de 2006, en latín y en traducciones oficiales a otras siete lenguas (inglés, francés, alemán, italiano, polaco, portugués y español); parte de la demora se atribuyó a la traducción del original alemán y a discusiones internas sobre la redacción. El título retoma la traducción latina de 1 Juan 4,16: \"Dios es amor, y quien permanece en el amor permanece en Dios y Dios en él\".\n\nEl texto comprende casi 16.000 palabras distribuidas en 42 párrafos, organizados en Introducción (n. 1), dos grandes partes y Conclusión (nn. 40-42). La Primera Parte, \"La unidad del amor en la creación y en la historia de la salvación\" (nn. 2-18), tiene carácter más especulativo y filosófico-teológico; la Segunda Parte, \"La caridad — el ejercicio del amor por la Iglesia como 'comunidad de amor'\" (nn. 19-39), tiene carácter más práctico y pastoral, tratando de la actividad caritativa institucional de la Iglesia. Según relatos ampliamente difundidos, la primera mitad fue escrita por Benedicto XVI en alemán, su lengua materna, en el verano de 2005, mientras que la segunda mitad habría sido elaborada a partir de escritos inacabados dejados por su predecesor, Juan Pablo II.\n\nEl centro teológico del documento es la articulación entre eros y ágape. Benedicto XVI rechaza la oposición simplista entre el amor posesivo y el amor oblativo, defendiendo que eros y ágape son \"dos mitades\" de un único amor, que se da y se recibe. El papa dialoga con la filosofía griega y con críticos del cristianismo: cita la frase de Virgilio \"Omnia vincit amor, et nos cedamus amori\" (\"El amor todo lo vence; cedamos también nosotros al amor\") y responde a la acusación de Friedrich Nietzsche de que el cristianismo habría \"envenenado\" el eros, convirtiéndolo en vicio. Recurre también a Aristóteles (Metafísica), al Pseudo-Dionisio (que llama a Dios eros y ágape), a Platón (El Banquete) y a San Agustín (Confesiones), además de analizar el Cantar de los Cantares y la Primera Carta de Juan.\n\nLa Segunda Parte trata de la caridad como deber esencial de la Iglesia, y no como actividad accesoria, distinguiéndola de la acción política y de la búsqueda de la justicia, sin separarlas. Sostiene que la actividad caritativa eclesial debe ser expresión de la fe, y no mera filantropía, y reafirma la necesidad de la oración para quien se dedica a obras de caridad. Entre sus particularidades, fue una de las primeras encíclicas publicadas después de que el Vaticano decidiera reivindicar derechos de autor sobre los escritos oficiales del Papa. El documento inauguró lo que suele llamarse la \"trilogía de las virtudes teologales\" de Benedicto XVI: a la caridad de esta encíclica siguieron la esperanza (Spe Salvi, 2007) y la fe (Lumen fidei, escrita sustancialmente por él y firmada por Francisco en 2013).",
+      "categoria": "documentos-magisterio",
+      "tags": [
+        "Benedicto XVI",
+        "caridad",
+        "amor",
+        "eros y ágape",
+        "virtudes teologales",
+        "encíclica",
+        "siglo XXI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/BentoXVI-30-10052007.jpg",
+      "imagem_credito": "Foto: Fabio Pozzebom/Agência Brasil (2007) — Wikimedia Commons, CC BY 3.0 BR",
+      "fontes": [
+        "Texto oficial en portugués: Vaticano, Carta Encíclica Deus Caritas Est de Benedicto XVI (25 de diciembre de 2005), vatican.va.",
+        "Wikipedia (pt y es), \"Deus Caritas Est\": fecha de firma (25/12/2005), publicación (25/01/2006), estructura en 42 párrafos y dos partes.",
+        "Wikipedia (en), \"Deus caritas est\": origen de la primera mitad (escrita por Benedicto XVI en alemán, verano de 2005) y de la segunda (escritos inacabados de Juan Pablo II); mención al copyright.",
+        "Aleteia y Guardian Angels Catholic Church, \"Deus Caritas Est: An Overview\": temas (eros, ágape, philia), citas a Virgilio y Nietzsche."
+      ],
+      "atualizado_em": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Benedicto XVI",
+      "ano": "2005"
+    },
+    {
+      "id": "documentos-magisterio:laudato-si",
+      "slug": "laudato-si",
+      "titulo": "Laudato Si'",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de Francisco sobre ecología integral, que vincula la crisis ambiental con la justicia social y con el \"cuidado de la casa común\".",
+      "corpo": "Publicada en 2015, es la primera encíclica dedicada de manera central a la cuestión ecológica, y propone el concepto de \"ecología integral\": la crisis ambiental no puede separarse de la crisis social y de la pobreza, y el cuidado de la creación (\"la casa común\") es parte inseparable de la fe cristiana, no un tema \"aparte\" de la moral católica tradicional.",
+      "tags": [
+        "ecología",
+        "medio ambiente",
+        "Francisco"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Pope_Francis_Korea_Haemi_Castle_19_%284x5_cropped%29.jpg",
+      "imagem_credito": "Foto: Korea.net / Korean Culture and Information Service (Jeon Han) — Wikimedia Commons, CC BY-SA 2.0",
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Francisco",
+      "ano": "2015",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:amoris-laetitia",
+      "slug": "amoris-laetitia",
+      "titulo": "Amoris Laetitia",
+      "resumo": "Exhortación apostólica postsinodal de Francisco (2016) sobre el amor en la familia, fruto de los Sínodos sobre la Familia de 2014 y 2015.",
+      "corpo": "Amoris Laetitia (\"La alegría del amor\") es la exhortación apostólica postsinodal del Papa Francisco sobre el amor en la familia, fechada el 19 de marzo de 2016 —solemnidad de San José— y publicada el 8 de abril del mismo año. El documento sintetiza el trabajo de dos Sínodos de los Obispos celebrados en Roma: la III Asamblea General Extraordinaria de 2014, con el tema de los desafíos pastorales de la familia en el contexto de la evangelización, que produjo la Relatio Synodi, y la XIV Asamblea General Ordinaria de 2015. Con nueve capítulos y más de trescientos párrafos, la exhortación aborda el amor conyugal y familiar, los desafíos pastorales contemporáneos y la necesidad de una \"conversión misionera\" en la pastoral familiar, sosteniendo que los pastores deben acompañar a las familias y ayudarlas a afrontar los desafíos que muchas veces enfrentan solas.\n\nEl documento evita tanto lo que describe como un \"deseo desenfrenado de cambiarlo todo\" como una rigidez que no quiere cambiar nada, e insiste en el discernimiento caso por caso, acompañado por el pastor. Entre los puntos más debatidos está el capítulo VIII, sobre todo los párrafos 300 a 305, que tratan de la atención pastoral a las personas en situaciones familiares \"irregulares\" —en especial los divorciados vueltos a casar civilmente— y proponen un itinerario de discernimiento personal y pastoral, descrito como la vía caritatis, en lugar de una regla general de admisión o de exclusión de los sacramentos.\n\nFue precisamente en torno a ese capítulo donde surgió la controversia más intensa en la recepción del documento. En 2016, cuatro cardenales —Walter Brandmüller, Carlo Caffarra, Joachim Meisner y Raymond Leo Burke— dirigieron al Papa Francisco y, en copia, al entonces prefecto de la Congregación para la Doctrina de la Fe, cardenal Gerhard Ludwig Müller, los llamados \"dubia\": cinco cuestiones que pedían aclaración sobre puntos del capítulo VIII, alegando que teólogos y estudiosos proponían interpretaciones no solo divergentes, sino contradictorias entre sí, y que los medios de comunicación acentuaban la disputa, generando incertidumbre y desorientación entre los fieles. El texto de los cardenales, titulado \"Buscando claridad: una petición para desatar los nudos en Amoris Laetitia\", se hizo público después de que el Papa no respondiera formalmente a las cuestiones, y el debate se prolongó durante años. En 2023, la Santa Sede divulgó respuestas a nuevos dubia presentados por otros cardenales sobre temas relacionados, incluida la administración de la Eucaristía a divorciados que viven en nueva unión.\n\nA pesar de la controversia, Francisco reafirmó que Amoris Laetitia no altera la doctrina del matrimonio —unión exclusiva, estable e indisoluble entre un hombre y una mujer— sino que propone un cambio de tono pastoral y un énfasis en la misericordia y el acompañamiento, en la estela del Año Jubilar de la Misericordia entonces en curso. Pasados los primeros años, el documento se afirmó como una referencia pastoral para la Iglesia en el tratamiento de las cuestiones de la familia.",
+      "categoria": "documentos-magisterio",
+      "tags": [
+        "familia",
+        "Francisco",
+        "Sínodo de los Obispos",
+        "matrimonio",
+        "divorciados vueltos a casar",
+        "misericordia",
+        "Siglo XXI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Pope_Francis_2014_%28cropped%29.png",
+      "imagem_credito": "Foto: Wikimedia Commons, CC BY-SA 2.0",
+      "fontes": [
+        "Exhortación Apostólica Postsinodal Amoris Laetitia, Francisco, 19 de marzo de 2016 (texto oficial, sitio de la Santa Sede: vatican.va).",
+        "\"Buscando claridad: una petición para desatar los nudos en 'Amoris Laetitia'\" — dubia de los cardenales Brandmüller, Caffarra, Meisner y Burke, 2016.",
+        "USCCB, \"Amoris Laetitia Archives\" (origen en los Sínodos de 2014 y 2015).",
+        "Congregación para la Doctrina de la Fe, respuestas a los dubia de dos cardenales, julio de 2023 (sitio de la Santa Sede).",
+        "Agencia Ecclesia, \"Amoris Laetitia: Papa incentiva a caminar con las familias\" (nueve capítulos y más de 300 puntos)."
+      ],
+      "atualizado_em": null,
+      "tipo_documento": "Exhortación Apostólica",
+      "papa_autor": "Francisco",
+      "ano": "2016"
+    },
+    {
+      "id": "documentos-magisterio:fratelli-tutti",
+      "slug": "fratelli-tutti",
+      "titulo": "Fratelli Tutti",
+      "resumo": "Encíclica de Francisco sobre la fraternidad universal y la amistad social, firmada en Asís e inspirada en San Francisco y en la parábola del Buen Samaritano.",
+      "corpo": "Fratelli tutti (\"Todos hermanos\") es la tercera encíclica del Papa Francisco, con el subtítulo \"Sobre la fraternidad y la amistad social\". El documento fue firmado el 3 de octubre de 2020 en el Sacro Convento de Asís, junto a la tumba de San Francisco —víspera de la memoria litúrgica del santo—, durante el primer viaje oficial del papa fuera de Roma tras el inicio de la pandemia de Covid-19, y publicado al día siguiente, 4 de octubre de 2020. El título proviene de las Admoniciones de San Francisco de Asís, retomadas citando 1 Juan: \"Amemos a nuestro hermano tanto cuando está lejos como cuando está junto a nosotros\".\n\nCompuesta por ocho capítulos y 287 números, la encíclica parte de un análisis crítico del contexto contemporáneo y propone caminos éticos y espirituales. Los capítulos son: I — \"Las sombras de un mundo cerrado\"; II — \"Un extraño en el camino\" (nn. 56-86), dedicado a la parábola del Buen Samaritano; III — \"Pensar y gestar un mundo abierto\"; IV — \"Un corazón abierto al mundo entero\"; V — \"La mejor política\"; VI — \"Diálogo y amistad social\"; VII — \"Caminos de un nuevo encuentro\"; y VIII — \"Las religiones al servicio de la fraternidad en el mundo\" (nn. 271-287). El capítulo II se considera el corazón teológico del documento: Francisco recurre al Buen Samaritano (Lc 10,25-37) para condenar la indiferencia y la \"cultura del descarte\", afirmando que nos hemos vuelto \"analfabetos en acompañar, cuidar y sostener a los más frágiles\" y que \"nos molesta el sufrimiento ajeno\", síntoma de una sociedad enferma. El documento concluye con dos oraciones: la \"Oración al Creador\" y la \"Oración cristiana ecuménica\".\n\nLa encíclica se inserta en la tradición del magisterio social de la Iglesia y dialoga con antecedentes directos, como la encíclica Laudato si' (2015) y el Documento sobre la Fraternidad Humana por la Paz Mundial y la Convivencia Común, firmado por Francisco con el gran imán de Al-Azhar, Ahmad Al-Tayyeb, en Abu Dabi, el 4 de febrero de 2019. Criticó con igual énfasis el populismo y ciertas formas de liberalismo económico, el nacionalismo cerrado, la demagogia y las \"teorías mágicas\" del mercado presentadas como solución a los problemas del mundo, además de apelar al rechazo de las guerras y a una mayor cooperación global, considerada deficiente en la gestión de la pandemia. La reflexión sobre la apertura a los migrantes y la fraternidad universal generó controversia: algunos, como la estadounidense Annemarie Paulin-Campbell, criticaron el propio título (\"Fratelli\", que aunque significa \"hermanos y hermanas\", tendría connotación masculina) y la ausencia de un tratamiento específico de cuestiones como la violencia de género.\n\nEl pontificado de Francisco vio en esta encíclica una síntesis de su programa de fraternidad. El papa declaró haberla ofrecido a Dios sobre la tumba de San Francisco, que lo inspiró, como había hecho con Laudato si', y repitió que \"los signos de los tiempos muestran claramente que la fraternidad humana y el cuidado de la creación constituyen el único camino hacia el desarrollo integral y la paz\".",
+      "categoria": "documentos-magisterio",
+      "tags": [
+        "Francisco",
+        "fraternidad",
+        "amistad social",
+        "San Francisco de Asís",
+        "Buen Samaritano",
+        "doctrina social de la Iglesia",
+        "siglo XXI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Pope_Francis_Korea_Haemi_Castle_19_%284x5_cropped%29.jpg",
+      "imagem_credito": "Foto: Korea.net / Korean Culture and Information Service (Jeon Han) — Wikimedia Commons, CC BY-SA 2.0",
+      "fontes": [
+        "Texto oficial en portugués: Vaticano, Carta Encíclica Fratelli tutti de Francisco (3 de octubre de 2020), vatican.va.",
+        "Sitio oficial de la encíclica (humandevelopment.va) y Vatican News: firma en Asís junto a la tumba de San Francisco (3/10/2020) y publicación el 4/10/2020.",
+        "Wikipedia (pt), \"Fratelli tutti\": ocho capítulos y 287 números; antecedente del Documento sobre la Fraternidad Humana (Abu Dabi, 2019).",
+        "Wikipedia (en), \"Fratelli tutti\": controversias sobre el título y la cuestión de género; anuncio el 5/09/2020.",
+        "Infografía oficial \"Carta Encíclica Fratelli Tutti\" (humandevelopment.va) e InfoAns, \"La estructura de la Encíclica Fratelli Tutti\": títulos de los ocho capítulos."
+      ],
+      "atualizado_em": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Francisco",
+      "ano": "2020"
+    },
+    {
+      "id": "documentos-magisterio:dei-verbum",
+      "slug": "dei-verbum",
+      "titulo": "Dei Verbum",
+      "resumo": "Constitución dogmática del Concilio Vaticano II sobre la Revelación Divina, su transmisión por la Escritura y la Tradición y el papel del Magisterio en su interpretación.",
+      "corpo": "Dei Verbum (\"La Palabra de Dios\") es la Constitución Dogmática sobre la Revelación Divina del Concilio Vaticano II, solemnemente promulgada por el Papa Pablo VI el 18 de noviembre de 1965, en la octava sesión pública de la cuarta y última etapa conciliar. El texto recibió 2.344 votos favorables (placet) frente a solo 6 contrarios (non placet), entre los 2.350 padres conciliares presentes, una aprobación casi unánime que confirmó el consenso alcanzado tras tres años de revisiones. Fue uno de los últimos documentos aprobados por el Concilio, que se clausuraría tres semanas después, el 8 de diciembre de 1965.\n\nSu historia fue una de las más agitadas del Concilio. El primer esquema, titulado De fontibus revelationis (\"Sobre las fuentes de la Revelación\"), había sido preparado por la Comisión Teológica Preparatoria bajo la influencia del Santo Oficio, entonces dirigido por el cardenal Alfredo Ottaviani, con la redacción atribuida a la subcomisión del jesuita Sebastian Tromp. Ese texto reflejaba una teología conservadora y presentaba la Escritura y la Tradición como dos fuentes paralelas de la Revelación. En noviembre de 1962, durante la primera sesión, el esquema sufrió una fuerte oposición de una mayoría de obispos y no alcanzó la mayoría de dos tercios necesaria. El Papa Juan XXIII intervino personalmente, retirándolo y creando, a comienzos de 1963, una comisión mixta que reunía representantes de las dos tendencias, presidida conjuntamente por los cardenales Alfredo Ottaviani y Augustin Bea. El nuevo texto, distribuido en mayo de 1963, se convirtió en la base de la versión final, aprobada tras sucesivas enmiendas. Entre los peritos (periti) que influyeron en el documento estuvo el entonces teólogo Joseph Ratzinger, futuro Benedicto XVI, que había criticado el \"tono negativo\" y la falta de finura teológica del primer esquema.\n\nEl documento se estructura en un prefacio (n. 1) y seis capítulos: (I) la propia Revelación (nn. 2-6); (II) la transmisión de la Revelación divina (nn. 7-10); (III) la inspiración divina y la interpretación de la Sagrada Escritura (nn. 11-13); (IV) el Antiguo Testamento (nn. 14-16); (V) el Nuevo Testamento (nn. 17-20); y (VI) la Sagrada Escritura en la vida de la Iglesia (nn. 21-26). La Constitución afirma que Dios se revela \"por medio de obras y palabras\" íntimamente ligadas y que, en Cristo, la Revelación alcanza su plenitud, \"porque después de él y fuera de él no hay nada más que esperar\". Supera el dualismo de las \"dos fuentes\" al afirmar que la Sagrada Tradición y la Sagrada Escritura \"brotan de la misma fuente divina\", \"se unen en un mismo todo\" y \"tienden al mismo fin\", y deben ser recibidas \"con el mismo espíritu de piedad y reverencia\".\n\nEntre los puntos más debatidos y de mayores consecuencias del texto se encuentra la cuestión de la inerrancia bíblica. Dei Verbum 11 afirma que los libros sagrados enseñan \"sin error aquella verdad que Dios quiso consignar en las Escrituras *para nuestra salvación*\". Esta fórmula, para algunos intérpretes, restringe la inerrancia al ámbito soteriológico, lo que ha generado una controversia duradera con lecturas más amplias defendidas por documentos anteriores, como Providentissimus Deus (1893) y Divino Afflante Spiritu (1943). El documento también abrió camino al uso legítimo del método histórico-crítico en la exégesis católica, al recomendar la consideración de los géneros literarios y de las intenciones de los autores sagrados. Por último, exhortó a que \"la Sagrada Escritura\" fuese colocada en el centro de la vida de la Iglesia, estimulando traducciones, estudio y devoción bíblica de los fieles.",
+      "categoria": "documentos-magisterio",
+      "tags": [
+        "Concilio Vaticano II",
+        "Sagrada Escritura",
+        "Revelación divina",
+        "Tradición",
+        "Pablo VI",
+        "inerrancia bíblica",
+        "siglo XX"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Vatican_II_in_session.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Texto oficial en latín y portugués: Vaticano, Constitución Dogmática Dei Verbum, promulgada por Pablo VI el 18 de noviembre de 1965 (vatican.va).",
+        "Catholic Resources, \"Vatican II: Dei Verbum — Dogmatic Constitution on Divine Revelation\" (estructura de capítulos y numeración).",
+        "Oxford Reference / Wikipedia (en), \"Dei verbum\": esquema De fontibus revelationis, comisión de Sebastian Tromp SJ, intervención de Juan XXIII y comisión mixta Ottaviani-Bea.",
+        "Emmaus Institute for Biblical Studies y Faith Magazine, artículos sobre la historia de la redacción, la votación (2.350 presentes; 2.344 placet; 6 non placet) y la controversia sobre la inerrancia."
+      ],
+      "atualizado_em": null,
+      "tipo_documento": "Constitución Dogmática (conciliar)",
+      "papa_autor": "Concilio Vaticano II (promulgada por Pablo VI)",
+      "ano": "1965"
+    },
+    {
+      "id": "documentos-magisterio:gaudium-et-spes",
+      "slug": "gaudium-et-spes",
+      "titulo": "Gaudium et Spes",
+      "categoria": "documentos-magisterio",
+      "resumo": "Constitución pastoral del Concilio Vaticano II sobre la Iglesia en el mundo contemporáneo, que trata temas como la dignidad humana, la cultura, la economía y la paz.",
+      "corpo": "Uno de los documentos más extensos e innovadores del Concilio Vaticano II, aborda directamente la relación de la Iglesia con el mundo moderno —la dignidad de la persona humana, la vida familiar, la cultura, la vida económico-social, la comunidad política, la paz y la comunidad de las naciones— en un tono de diálogo abierto poco común en los documentos conciliares anteriores.",
+      "tags": [
+        "Concilio Vaticano II",
+        "doctrina social"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Basilica_di_San_Pietro_-_Esterrno.jpg",
+      "imagem_credito": "Foto: PubblicUsername — Wikimedia Commons, CC BY 4.0",
+      "tipo_documento": "Constitución Pastoral (conciliar)",
+      "papa_autor": "Concilio Vaticano II (promulgada por Pablo VI)",
+      "ano": "1965",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:sacrosanctum-concilium",
+      "slug": "sacrosanctum-concilium",
+      "titulo": "Sacrosanctum Concilium",
+      "categoria": "documentos-magisterio",
+      "resumo": "Constitución del Concilio Vaticano II sobre la Sagrada Liturgia, que abrió el camino a la reforma litúrgica y a la participación activa de los fieles.",
+      "corpo": "Promulgada por Pablo VI el 4 de diciembre de 1963, fue el primer documento aprobado por el Concilio Vaticano II. Estableció que la liturgia debía reformarse para expresar con mayor claridad los misterios de la fe, distinguiendo lo que es de institución divina —y por tanto inmutable— de lo que puede variar con el tiempo y la cultura.\n\nSu principio central es la exigencia de que los fieles participen en la liturgia \"consciente, activa y fructuosamente\", derecho y deber que deriva del propio bautismo. Mantuvo el latín como lengua propia de los ritos latinos, pero abrió amplio espacio al uso de las lenguas vernáculas en las lecturas, oraciones y cantos, conforme a las normas de las conferencias episcopales —decisión que remodeló la experiencia de la Misa en todo el mundo católico en las décadas siguientes.",
+      "tags": [
+        "Vaticano II",
+        "liturgia",
+        "reforma litúrgica"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Basilica_di_San_Pietro_-_Esterrno.jpg",
+      "imagem_credito": "Foto: PubblicUsername — Wikimedia Commons, CC BY 4.0",
+      "tipo_documento": "Constitución Conciliar",
+      "papa_autor": "Concilio Vaticano II (promulgada por Pablo VI)",
+      "ano": "1963",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:lumen-gentium",
+      "slug": "lumen-gentium",
+      "titulo": "Lumen Gentium",
+      "categoria": "documentos-magisterio",
+      "resumo": "Constitución dogmática del Concilio Vaticano II sobre la naturaleza de la Iglesia como Pueblo de Dios y sacramento de unidad.",
+      "corpo": "Promulgada por Pablo VI el 21 de noviembre de 1964, es la constitución dogmática central del Concilio Vaticano II sobre la Iglesia. La describe como \"sacramento, o signo, e instrumento de la íntima unión con Dios y de la unidad de todo el género humano\" — a la vez comunidad visible y realidad espiritual, Cuerpo Místico de Cristo.\n\nUno de los desarrollos más discutidos del documento es la imagen de la Iglesia como Pueblo de Dios: clérigos, religiosos y laicos forman una sola comunidad, llamada en conjunto a la santidad, cada cual según su propio estado de vida. El texto también define la colegialidad episcopal — los obispos, sucesores de los Apóstoles, forman un colegio unido al Papa, con quien ejercen juntos la autoridad suprema sobre la Iglesia — y dedica su capítulo final a la Virgen María, unida a la obra de su Hijo como modelo y madre de la Iglesia.",
+      "tags": [
+        "Vaticano II",
+        "eclesiología",
+        "Pueblo de Dios"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Basilica_di_San_Pietro_-_Esterrno.jpg",
+      "imagem_credito": "Foto: PubblicUsername — Wikimedia Commons, CC BY 4.0",
+      "tipo_documento": "Constitución Dogmática",
+      "papa_autor": "Concilio Vaticano II (promulgada por Pablo VI)",
+      "ano": "1964",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:redemptor-hominis",
+      "slug": "redemptor-hominis",
+      "titulo": "Redemptor Hominis",
+      "categoria": "documentos-magisterio",
+      "resumo": "Primera encíclica de Juan Pablo II, que presenta a Cristo como centro del cosmos y de la historia y funda su magisterio en la dignidad de la persona humana.",
+      "corpo": "Publicada el 4 de marzo de 1979, menos de cinco meses después de su elección, fue la primera encíclica del pontificado de Juan Pablo II y sentó las bases de todo su magisterio posterior. Su tesis central — \"el Redentor del hombre, Jesucristo, es el centro del cosmos y de la historia\" — articula el mensaje cristiano entero a partir de la persona humana: Cristo \"se ha unido de cierto modo a cada hombre\", revelando plenamente al hombre su propia dignidad y vocación.\n\nA partir de esa base, el documento defiende la Declaración Universal de los Derechos Humanos y denuncia sus violaciones concretas — campos de concentración, tortura, discriminación religiosa —, además de cuestiones entonces emergentes: el desarrollo económico desigual entre naciones, la carrera armamentista nuclear y la explotación ambiental, todas leídas a la luz del bien integral de la persona.",
+      "tags": [
+        "Juan Pablo II",
+        "dignidad humana",
+        "derechos humanos"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg",
+      "imagem_credito": "Foto: Gregorini Demetrio (1988) — Wikimedia Commons, CC BY-SA 3.0",
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Juan Pablo II",
+      "ano": "1979",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:populorum-progressio",
+      "slug": "populorum-progressio",
+      "titulo": "Populorum Progressio",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de Pablo VI sobre el desarrollo de los pueblos, que definió el progreso como algo más amplio que el crecimiento económico.",
+      "corpo": "Publicada por Pablo VI el 26 de marzo de 1967, la encíclica trata del desarrollo de los pueblos como cuestión central para la paz mundial. Sostiene que \"el desarrollo no se reduce a un simple crecimiento económico: para ser auténtico, debe ser integral\", abarcando también la dimensión cultural, moral y espiritual de la persona — fórmula luego resumida como \"el desarrollo de todo el hombre y de todos los hombres\".\n\nDefiende la cooperación internacional y la justicia en el comercio entre naciones ricas y pobres, propone la reforma agraria y una industrialización equilibrada en los países en desarrollo, y critica tanto el capitalismo liberal sin frenos morales como los sistemas que ignoran la dignidad humana. Es de ella la fórmula que llegaría a ser una de las más citadas de la doctrina social de la Iglesia: \"el desarrollo es el nuevo nombre de la paz\".",
+      "tags": [
+        "Pablo VI",
+        "doctrina social",
+        "desarrollo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Paulus_VI%2C_by_Fotografia_Felici%2C_1969.jpg",
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Pablo VI",
+      "ano": "1967",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:centesimus-annus",
+      "slug": "centesimus-annus",
+      "titulo": "Centesimus Annus",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de Juan Pablo II que celebra el centenario de la Rerum Novarum y relee la doctrina social de la Iglesia tras la caída del comunismo europeo.",
+      "corpo": "Publicada el 1 de mayo de 1991 para conmemorar el centenario de la «Rerum Novarum» de León XIII, esta encíclica de Juan Pablo II relee cien años de doctrina social católica a la luz de un momento histórico preciso: la caída de los regímenes comunistas en Europa entre 1989 y 1990, que el Papa interpreta como fruto, en buena parte, de la resistencia no violenta de los pueblos y de la fuerza de la verdad frente a la mentira ideológica.\n\nReafirma los derechos fundamentales de los trabajadores —salario justo, descanso, asociación sindical— y critica tanto el socialismo marxista como el capitalismo desregulado, sosteniendo que \"no existe verdadera solución para la 'cuestión social' fuera del Evangelio\". Señala también los riesgos de las sociedades ya desarrolladas, como el consumismo y el relativismo moral, e insiste en que \"el hombre es la única criatura sobre la tierra que Dios ha querido por sí misma\".",
+      "tags": [
+        "Juan Pablo II",
+        "doctrina social",
+        "Rerum Novarum"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg",
+      "imagem_credito": "Foto: Gregorini Demetrio (1988) — Wikimedia Commons, CC BY-SA 3.0",
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Juan Pablo II",
+      "ano": "1991",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:ut-unum-sint",
+      "slug": "ut-unum-sint",
+      "titulo": "Ut Unum Sint",
+      "categoria": "documentos-magisterio",
+      "resumo": "Primera encíclica dedicada íntegramente al ecumenismo, en la que Juan Pablo II declara irreversible el compromiso católico con la unidad de los cristianos.",
+      "corpo": "Publicada el 25 de mayo de 1995, es la primera encíclica de la historia dedicada exclusivamente al ecumenismo. Juan Pablo II declara \"irreversible\" el compromiso asumido por la Iglesia Católica en el Concilio Vaticano II con la búsqueda de la unidad entre los cristianos, y describe los pilares de ese camino: conversión interior, oración común, diálogo teológico y colaboración práctica entre las diferentes comunidades cristianas.\n\nUn pasaje particularmente comentado del documento es aquel en el que el Papa invita a los líderes de otras Iglesias y comunidades cristianas a ayudarle a encontrar, en un diálogo fraterno, la forma de ejercicio del primado del Obispo de Roma que mejor sirva a la unidad, reconociendo que ese mismo ministerio necesita de una conversión constante para servir de hecho a los hermanos cristianos.",
+      "tags": [
+        "Juan Pablo II",
+        "ecumenismo",
+        "unidad cristiana"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg",
+      "imagem_credito": "Foto: Gregorini Demetrio (1988) — Wikimedia Commons, CC BY-SA 3.0",
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Juan Pablo II",
+      "ano": "1995",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:spe-salvi",
+      "slug": "spe-salvi",
+      "titulo": "Spe Salvi",
+      "categoria": "documentos-magisterio",
+      "resumo": "Segunda encíclica de Benedicto XVI, sobre la esperanza cristiana y su diferencia radical respecto de las esperanzas modernas fundadas solo en la razón o en el progreso.",
+      "corpo": "Publicada el 30 de noviembre de 2007, la encíclica toma su título de las palabras de San Pablo a los Romanos —\"spe salvi facti sumus\", \"en esperanza fuimos salvados\"— para tratar de la virtud teologal de la esperanza. Benedicto XVI distingue la esperanza cristiana de las esperanzas modernas fundadas en el progreso científico y en ideologías como las de Bacon y Marx, que prometen redención por medio de la razón o de estructuras políticas: para el Papa, la verdadera esperanza nace del encuentro personal con Dios en Cristo, no de conquistas técnicas ni de revoluciones.\n\nRechazando tanto el optimismo del progreso ilimitado como la desesperación de quien no ve sentido más allá de la historia, la encíclica propone la resurrección y la justicia de Dios como fundamento último de la esperanza humana, resumida en la frase: \"el hombre es redimido por el amor. Esto vale ya en el ámbito de este mundo.\"",
+      "tags": [
+        "Benedicto XVI",
+        "esperanza",
+        "virtudes teologales"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/BentoXVI-30-10052007.jpg",
+      "imagem_credito": "Foto: Fabio Pozzebom/Agência Brasil (2007) — Wikimedia Commons, CC BY 3.0 BR",
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Benedicto XVI",
+      "ano": "2007",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:caritas-in-veritate",
+      "slug": "caritas-in-veritate",
+      "titulo": "Caritas in Veritate",
+      "categoria": "documentos-magisterio",
+      "resumo": "Única encíclica social de Benedicto XVI, sobre la caridad en la verdad como fuerza motriz del desarrollo humano integral.",
+      "corpo": "Publicada el 29 de junio de 2009, es la tercera y última encíclica de Benedicto XVI, y la única dedicada a la doctrina social. Sostiene que \"la caridad en la verdad, que Jesucristo testimonió con su vida terrena [...], es la fuerza impulsora principal para el verdadero desarrollo de cada persona y de la humanidad entera\" — y que, sin esa verdad, la caridad corre el riesgo de quedar reducida a sentimentalismo, incapaz de orientar proyectos de desarrollo a escala universal.\n\nA partir de este principio, el Papa critica una globalización económica desligada de referencias éticas, defendiendo que el mercado por sí solo no resuelve los problemas sociales: se necesita una economía que integre también la gratuidad, la solidaridad y la responsabilidad, no solo la lógica del lucro.",
+      "tags": [
+        "Benedicto XVI",
+        "doctrina social",
+        "desarrollo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/BentoXVI-30-10052007.jpg",
+      "imagem_credito": "Foto: Fabio Pozzebom/Agência Brasil (2007) — Wikimedia Commons, CC BY 3.0 BR",
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Benedicto XVI",
+      "ano": "2009",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:christus-vivit",
+      "slug": "christus-vivit",
+      "titulo": "Christus Vivit",
+      "categoria": "documentos-magisterio",
+      "resumo": "Exhortación apostólica de Francisco a los jóvenes, fruto del Sínodo de los Obispos de 2018, sobre vivir la fe con alegría y discernir la propia vocación.",
+      "corpo": "Firmada el 25 de marzo de 2019, es la exhortación apostólica postsinodal en la que el Papa Francisco se dirige directamente a los jóvenes, fruto del Sínodo de los Obispos sobre los jóvenes celebrado en octubre de 2018. A lo largo de nueve capítulos, trata la juventud no como simple etapa de preparación para el futuro, sino como tiempo precioso en sí mismo, y aborda desafíos del mundo joven contemporáneo — el ambiente digital, las migraciones, los abusos, la violencia, la marginación.\n\nEl documento resume su mensaje en tres convicciones que el Papa pide a los jóvenes no olvidar: \"Dios te ama\", \"Cristo te salva\" y el Espíritu Santo te renueva continuamente. Invita a soñar, arriesgar y vivir el presente en la amistad con Jesús, con la frase que se ha convertido en lema del texto: \"Cristo vive: Él es nuestra esperanza, y la más bella juventud de este mundo!\"",
+      "tags": [
+        "Francisco",
+        "juventud",
+        "vocación"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Pope_Francis_Korea_Haemi_Castle_19_%284x5_cropped%29.jpg",
+      "imagem_credito": "Foto: Korea.net / Korean Culture and Information Service (Jeon Han) — Wikimedia Commons, CC BY-SA 2.0",
+      "tipo_documento": "Exhortación Apostólica",
+      "papa_autor": "Francisco",
+      "ano": "2019",
+      "fontes": []
+    },
+    {
+      "id": "documentos-magisterio:mit-brennender-sorge",
+      "slug": "mit-brennender-sorge",
+      "titulo": "Mit Brennender Sorge",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de Pío XI que denunció públicamente las violaciones del régimen nazi al concordato con la Santa Sede y la ideología racial del nazismo.",
+      "corpo": "Firmada por Pío XI el 14 de marzo de 1937 y redactada excepcionalmente en alemán, y no en latín como era costumbre, «Mit Brennender Sorge» («Con viva preocupación») denunció las reiteradas violaciones del régimen nazi al Concordato firmado con la Santa Sede en 1933, así como los fundamentos ideológicos del nacionalsocialismo, condenando la idolatría de la raza y de la nación como sustitutos de la fe cristiana. Fue el primer pronunciamiento oficial del Vaticano contra el nazismo como sistema.\n\nEl texto, cuyo borrador contó con la participación decisiva del entonces secretario de Estado Eugenio Pacelli —futuro Pío XII, que había conocido de cerca el ascenso de Hitler como nuncio en Alemania—, fue introducido clandestinamente en el país y leído desde el púlpito en todas las iglesias católicas alemanas el Domingo de Ramos de aquel año, burlando la vigilancia de la Gestapo. La dura reprensión al régimen provocó la detención inmediata de cientos de católicos, sacerdotes, religiosos y laicos, y sigue siendo uno de los documentos más citados de la resistencia católica al totalitarismo del siglo XX.",
+      "tags": [
+        "Pío XI",
+        "nazismo",
+        "siglo XX"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Pío XI",
+      "ano": "1937",
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Mit_brennender_Sorge",
+        "https://www.infobae.com/sociedad/2022/03/16/pio-xi-y-su-audaz-y-solitaria-denuncia-contra-el-nazismo/"
+      ]
+    },
+    {
+      "id": "documentos-magisterio:divini-redemptoris",
+      "slug": "divini-redemptoris",
+      "titulo": "Divini Redemptoris",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de Pío XI que condena el comunismo ateo como sistema de errores contrario a la dignidad humana y al orden social cristiano.",
+      "corpo": "Publicada el 19 de marzo de 1937 — apenas cinco días después de «Mit Brennender Sorge», contra el nazismo —, «Divini Redemptoris» expone de forma sistemática los principios del comunismo ateo, sobre todo en su manifestación bolchevique, describiéndolo como “un sistema lleno de errores y sofismas” que subvierte el orden social al negar la existencia de Dios y reducir al hombre a simple engranaje económico.\n\nAl mismo tiempo que condena el materialismo dialéctico y la lucha de clases como método de transformación social, la encíclica renueva el llamamiento a la justicia social ya presente en «Rerum Novarum» y «Quadragesimo Anno», advirtiendo que la respuesta cristiana al comunismo no puede ser la indiferencia ante las injusticias que lo alimentan, sino la construcción de un orden social fundado en la dignidad de la persona humana y en la doctrina social de la Iglesia.",
+      "tags": [
+        "Pío XI",
+        "comunismo",
+        "doctrina social"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Pío XI",
+      "ano": "1937",
+      "fontes": [
+        "https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html",
+        "https://en.wikipedia.org/wiki/Divini_Redemptoris"
+      ]
+    },
+    {
+      "id": "documentos-magisterio:divino-afflante-spiritu",
+      "slug": "divino-afflante-spiritu",
+      "titulo": "Divino Afflante Spiritu",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de Pío XII que autorizó el uso de los métodos histórico-críticos modernos en los estudios bíblicos católicos, marcando una nueva era en la exégesis de la Iglesia.",
+      "corpo": "Publicada el 30 de septiembre de 1943 con ocasión del quincuagésimo aniversario de la encíclica «Providentissimus Deus», de León XIII, «Divino Afflante Spiritu» es considerada una verdadera carta magna de los estudios bíblicos católicos contemporáneos. En ella, Pío XII alienta a los exegetas a estudiar las lenguas originales de las Escrituras —hebreo, arameo y griego—, a emplear los métodos histórico-críticos entonces en desarrollo y a identificar los géneros literarios propios de cada libro bíblico para comprender mejor su mensaje.\n\nAl permitir de forma limitada, pero decisiva, el uso de la crítica bíblica moderna, la encíclica deshizo décadas de reserva eclesiástica frente a estos métodos, asociados hasta entonces al racionalismo liberal, y preparó el terreno para la constitución dogmática «Dei Verbum» del Concilio Vaticano II, que consolidaría esa apertura dos décadas después.",
+      "tags": [
+        "Pío XII",
+        "Sagrada Escritura",
+        "exégesis bíblica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Pío XII",
+      "ano": "1943",
+      "fontes": [
+        "https://www.catolicoorante.com.br/docs/enciclicas/pioxii/hf_p-xii_enc_30091943_divino-afflante-spiritu_po.html",
+        "https://en.wikipedia.org/wiki/Divino_afflante_Spiritu"
+      ]
+    },
+    {
+      "id": "documentos-magisterio:mediator-dei",
+      "slug": "mediator-dei",
+      "titulo": "Mediator Dei",
+      "categoria": "documentos-magisterio",
+      "resumo": "Primera encíclica dedicada por entero a la liturgia, que sentó las bases del movimiento de reforma litúrgica que culminaría en el Concilio Vaticano II.",
+      "corpo": "Promulgada el 20 de noviembre de 1947, «Mediator Dei» fue la primera encíclica de la historia de la Iglesia dedicada íntegramente al tema de la sagrada liturgia. A lo largo de uno de los textos pontificios más extensos hasta entonces, Pío XII trata sistemáticamente del culto divino, del Oficio Divino, del culto eucarístico y de las directrices pastorales para la celebración litúrgica, al mismo tiempo que condena ciertos excesos del movimiento litúrgico naciente y reafirma la unión entre sacrificio, altar y comunión.\n\nEl documento es reconocido como el punto de partida del movimiento de reforma litúrgica que, al insistir en la participación activa de los fieles en las celebraciones —y no solo en un papel pasivo ante el culto—, prepararía directamente el camino para la constitución conciliar «Sacrosanctum Concilium», promulgada casi dos décadas después.",
+      "tags": [
+        "Pío XII",
+        "liturgia",
+        "movimiento litúrgico"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Pío XII",
+      "ano": "1947",
+      "fontes": [
+        "https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_20111947_mediator-dei.html",
+        "https://adoremus.org/2017/11/mediator-dei-70-years-later-groundbreaking-legacy-lives/"
+      ]
+    },
+    {
+      "id": "documentos-magisterio:nostra-aetate",
+      "slug": "nostra-aetate",
+      "titulo": "Nostra Aetate",
+      "categoria": "documentos-magisterio",
+      "resumo": "Declaración del Concilio Vaticano II sobre la relación de la Iglesia con las religiones no cristianas, hito del diálogo interreligioso y del rechazo del antisemitismo.",
+      "corpo": "Promulgada por Pablo VI el 28 de octubre de 1965, «Nostra Aetate» («En nuestro tiempo») es la más breve de las dieciséis constituciones, decretos y declaraciones del Concilio Vaticano II, pero una de las de mayor impacto histórico. En ella, el Concilio reconoce elementos de verdad y de bien presentes en otras tradiciones religiosas —hinduismo, budismo, islam y, de modo especial, judaísmo— y invita a los católicos al diálogo y a la colaboración con los fieles de estas religiones, preservando al mismo tiempo el testimonio de la fe cristiana.\n\nEl punto de mayor repercusión del documento se refiere a la relación con el pueblo judío: la declaración rechaza explícitamente la acusación tradicional de que los judíos, como pueblo, serían responsables de la muerte de Cristo, y condena todas las formas de antisemitismo «en cualquier época y por quien sea». «Nostra Aetate» es hoy considerada texto fundacional del diálogo interreligioso católico contemporáneo, especialmente de las relaciones entre la Iglesia y el judaísmo.",
+      "tags": [
+        "Concilio Vaticano II",
+        "diálogo interreligioso",
+        "judaísmo"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Declaración conciliar",
+      "papa_autor": "Pablo VI (Concilio Vaticano II)",
+      "ano": "1965",
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Nostra_aetate",
+        "https://www.britannica.com/topic/Nostra-aetate"
+      ]
+    },
+    {
+      "id": "documentos-magisterio:dignitatis-humanae",
+      "slug": "dignitatis-humanae",
+      "titulo": "Dignitatis Humanae",
+      "categoria": "documentos-magisterio",
+      "resumo": "Declaración del Concilio Vaticano II sobre la libertad religiosa, que afirma el derecho de la persona humana a no ser coaccionada en materia de fe.",
+      "corpo": "Promulgada en la última sesión del Concilio Vaticano II, el 7 de diciembre de 1965, «Dignitatis Humanae» afirma que la persona humana tiene derecho a la libertad religiosa, entendida como inmunidad de coacción por parte de individuos, grupos sociales o cualquier poder humano, de modo que nadie sea forzado a actuar contra su conciencia en materia religiosa, ni impedido de profesarla, en privado o en público, solo o en asociación con otros, dentro de los justos límites del orden público.\n\nEl documento fundamenta este derecho en la propia dignidad de la persona humana, llamada a adherirse libremente a la verdad, y aclara que reconocer la libertad religiosa civil no equivale a admitir un supuesto «derecho al error» en el plano moral o teológico, sino únicamente a proteger a la persona de la coacción externa del poder político. Fruto de un intenso debate conciliar, en el que tuvo un papel destacado la contribución del teólogo jesuita norteamericano John Courtney Murray, el texto representó un cambio significativo en la relación de la Iglesia con los Estados modernos y con el principio de la libertad de conciencia.",
+      "tags": [
+        "Concilio Vaticano II",
+        "libertad religiosa",
+        "dignidad humana"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Declaración conciliar",
+      "papa_autor": "Pablo VI (Concilio Vaticano II)",
+      "ano": "1965",
+      "fontes": [
+        "https://www.vaticannews.va/pt/vaticano/news/2020-06/dignitatis-humanae-declaracao-conciliar-historia-igreja.html"
+      ]
+    },
+    {
+      "id": "documentos-magisterio:familiaris-consortio",
+      "slug": "familiaris-consortio",
+      "titulo": "Familiaris Consortio",
+      "categoria": "documentos-magisterio",
+      "resumo": "Exhortación apostólica postsinodal de Juan Pablo II sobre la misión de la familia cristiana en el mundo contemporáneo.",
+      "corpo": "Promulgada el 22 de noviembre de 1981, «Familiaris Consortio» es la exhortación apostólica postsinodal en la que Juan Pablo II recoge y desarrolla las conclusiones del Sínodo de los Obispos sobre la familia, celebrado en Roma entre septiembre y octubre de 1980. El documento trata de la vocación de la familia cristiana como “comunidad de vida y amor”, abordando el matrimonio, la educación de los hijos, los desafíos de las familias en situaciones difíciles y la participación de la familia en la misión evangelizadora de la Iglesia y en la vida social.\n\nDirigido a toda la Iglesia y, de modo especial, a los jóvenes que se preparan para el matrimonio, el texto sigue siendo una referencia central del magisterio pontificio sobre la familia, retomada y desarrollada décadas después por los sínodos sobre la familia convocados por el papa Francisco, que dieron lugar a la exhortación «Amoris Laetitia».",
+      "tags": [
+        "Juan Pablo II",
+        "familia",
+        "matrimonio"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Exhortación apostólica",
+      "papa_autor": "Juan Pablo II",
+      "ano": "1981",
+      "fontes": [
+        "https://www.vatican.va/content/john-paul-ii/pt/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html"
+      ]
+    },
+    {
+      "id": "documentos-magisterio:sollicitudo-rei-socialis",
+      "slug": "sollicitudo-rei-socialis",
+      "titulo": "Sollicitudo Rei Socialis",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica social de Juan Pablo II que actualiza, veinte años después, las enseñanzas de Populorum Progressio sobre el desarrollo de los pueblos.",
+      "corpo": "Publicada el 30 de diciembre de 1987 para conmemorar el vigésimo aniversario de la encíclica «Populorum Progressio» de Pablo VI, «Sollicitudo Rei Socialis» retoma y actualiza la doctrina social de la Iglesia sobre el desarrollo de los pueblos a la luz del contexto de la segunda mitad de la década de 1980, marcada todavía por la división del mundo en bloques ideológicos rivales. Siguiendo el método ver-juzgar-actuar, el documento traza un panorama del mundo contemporáneo, ofrece una lectura ético-teológica de esa realidad y propone orientaciones concretas de acción.\n\nEl texto tiene el mérito de incorporar a la doctrina social oficial de la Iglesia categorías maduradas en la reflexión teológico-pastoral latinoamericana, como las «estructuras de pecado» y la «opción preferencial por los pobres», al mismo tiempo que Juan Pablo II insiste en que la doctrina social de la Iglesia pertenece «no al campo de la ideología, sino de la teología, y particularmente de la teología moral».",
+      "tags": [
+        "Juan Pablo II",
+        "doctrina social",
+        "desarrollo de los pueblos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "Juan Pablo II",
+      "ano": "1987",
+      "fontes": [
+        "https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html"
+      ]
+    },
+    {
+      "id": "documentos-magisterio:redemptoris-missio",
+      "slug": "redemptoris-missio",
+      "titulo": "Redemptoris Missio",
+      "categoria": "documentos-magisterio",
+      "resumo": "Encíclica de San Juan Pablo II sobre la validez permanente del mandato misionero de la Iglesia, publicada en el 25.º aniversario del decreto conciliar Ad Gentes.",
+      "corpo": "Firmada el 7 de diciembre de 1990, en el vigésimo quinto aniversario del decreto conciliar «Ad Gentes» sobre la actividad misionera de la Iglesia, «Redemptoris Missio» reafirma que la misión de Cristo Redentor, confiada a la Iglesia, está todavía lejos de su plena realización y que, al final del segundo milenio, la evangelización de los pueblos permanece “apenas en sus comienzos”.\n\nEscrita en un momento en que se debatía, en ciertos sectores teológicos, si la actividad misionera ad gentes seguía justificándose ante el reconocimiento del valor de otras tradiciones religiosas, la encíclica reafirma con vigor la urgencia y la validez permanente del mandato misionero recibido de los apóstoles, al mismo tiempo que valora el diálogo interreligioso como componente —y no sustituto— de la misión evangelizadora de la Iglesia.",
+      "tags": [
+        "San Juan Pablo II",
+        "misiones",
+        "evangelización"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Encíclica",
+      "papa_autor": "San Juan Pablo II",
+      "ano": "1990",
+      "fontes": [
+        "https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html"
+      ]
+    },
+    {
+      "id": "documentos-magisterio:misericordiae-vultus",
+      "slug": "misericordiae-vultus",
+      "titulo": "Misericordiae Vultus",
+      "categoria": "documentos-magisterio",
+      "resumo": "Bula de Francisco que convocó el Jubileo Extraordinario de la Misericordia, celebrado entre diciembre de 2015 y noviembre de 2016.",
+      "corpo": "Firmada el 11 de abril de 2015, víspera del Domingo de la Divina Misericordia, «Misericordiae Vultus» («El Rostro de la Misericordia») es la bula con la que el papa Francisco convocó el Jubileo Extraordinario de la Misericordia. Estructurado en 25 secciones, el documento parte de la afirmación de que Jesucristo es el rostro de la misericordia del Padre, presentando la misericordia no como algo abstracto, sino como un rostro que debe ser reconocido, contemplado y servido en el prójimo, sobre todo en los más pobres y sufrientes.\n\nEl Año Jubilar comenzó el 8 de diciembre de 2015, fecha del quincuagésimo aniversario de la clausura del Concilio Vaticano II, con la apertura de la Puerta Santa de la Basílica de San Pedro, y concluyó el 20 de noviembre de 2016, solemnidad de Cristo Rey del Universo. A lo largo del Jubileo, Francisco insistió en las obras de misericordia corporales y espirituales como camino concreto de conversión y de testimonio cristiano.",
+      "tags": [
+        "Papa Francisco",
+        "misericordia",
+        "jubileo"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Bula pontificia",
+      "papa_autor": "Francisco",
+      "ano": "2015",
+      "fontes": [
+        "https://www.vatican.va/content/francesco/pt/bulls/documents/papa-francesco_bolla_20150411_misericordiae-vultus.html"
+      ]
+    },
+    {
+      "id": "documentos-magisterio:laudate-deum",
+      "slug": "laudate-deum",
+      "titulo": "Laudate Deum",
+      "categoria": "documentos-magisterio",
+      "resumo": "Exhortación apostólica de Francisco que retoma y actualiza, ocho años después, las advertencias de Laudato Si' sobre la crisis climática.",
+      "corpo": "Publicada el 4 de octubre de 2023, fiesta de San Francisco de Asís, «Laudate Deum» está dirigida “a todas las personas de buena voluntad sobre la crisis climática” y funciona como continuación y actualización urgente de la encíclica «Laudato Si'», publicada ocho años antes. Estructurada en seis capítulos, la exhortación fue divulgada pocas semanas antes de la Conferencia del Clima de la ONU (COP28) en Dubái, con el objetivo declarado de presionar por respuestas concretas a la emergencia climática.\n\nEl papa Francisco afirma en el documento que “ya no se puede dudar del origen humano” de los cambios climáticos, lamentando que la actividad humana sea la principal causa del problema y advirtiendo que, aunque algunos daños ya son irreversibles, todavía es posible evitar consecuencias futuras más graves. El texto renueva el llamado a la corresponsabilidad internacional ante la crisis ambiental, insistiendo en que la respuesta no puede depender solo de medidas técnicas, sino que exige una conversión ecológica más profunda.",
+      "tags": [
+        "Papa Francisco",
+        "ecología",
+        "cambio climático"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "tipo_documento": "Exhortación apostólica",
+      "papa_autor": "Francisco",
+      "ano": "2023",
+      "fontes": [
+        "https://www.vatican.va/content/francesco/pt/apost_exhortations/documents/20231004-laudate-deum.html",
+        "https://www.vaticannews.va/pt/papa/news/2023-10/laudate-deum-grito-papa-uma-resposta-crise-climatica.html"
+      ]
+    }
+  ]
+}

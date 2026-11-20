@@ -1,0 +1,548 @@
+{
+  "_meta": {
+    "categoria": "liturgia-das-horas",
+    "nome": "Liturgia de las Horas",
+    "descricao": "Las horas del Oficio Divino —Laudes, Hora intermedia, Vísperas, Completas y Oficio de lectura— que santifican el curso del día con la oración pública de la Iglesia.",
+    "status": "exemplos-iniciais",
+    "aviso": "Visión introductoria del Breviario; no sustituye al propio libro litúrgico de la Liturgia de las Horas para el uso en la oración diaria.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Ordenación general de la Liturgia de las Horas",
+      "Sacrosanctum Concilium, cap. IV"
+    ]
+  },
+  "itens": [
+    {
+      "id": "liturgia-das-horas:o-oficio-divino",
+      "slug": "o-oficio-divino",
+      "titulo": "El Oficio Divino: visión general",
+      "categoria": "liturgia-das-horas",
+      "resumo": "La Liturgia de las Horas es la oración pública y común del Pueblo de Dios, que santifica todo el curso del día mediante horas fijas de oración.",
+      "corpo": "La Liturgia de las Horas, llamada también Oficio Divino o Breviario, es la oración oficial de la Iglesia distribuida a lo largo del día para santificar todas sus horas, tal como pedía Pablo al exhortar a \"orar sin cesar\" (1 Tes 5,17). Compuesta principalmente de salmos, cánticos bíblicos, lecturas y oraciones, la rezan diariamente sacerdotes, diáconos, religiosos y un número creciente de laicos, uniendo a quien la reza a la oración de Cristo y de toda la Iglesia extendida por el mundo, en un único coro que nunca cesa, de día y de noche. El Concilio Vaticano II la reformó profundamente en la constitución Sacrosanctum Concilium, simplificando su estructura y ampliando el repertorio de salmos y lecturas.",
+      "tags": [
+        "Sacrosanctum Concilium",
+        "Breviario",
+        "oración continua"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Illuminated_Manuscript%2C_Book_of_Hours_in_Dutch%2C_Annunciation%2C_Walters_Manuscript_W.918%2C_fol._13v.jpg",
+      "imagem_credito": null,
+      "ordem": 1
+    },
+    {
+      "id": "liturgia-das-horas:laudes",
+      "slug": "laudes",
+      "titulo": "Laudes (Oración de la mañana)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "La oración que consagra a Dios el comienzo del día, celebrada tradicionalmente al salir el sol como alabanza por la nueva creación de la luz.",
+      "corpo": "Laudes —del latín \"alabanzas\"— se reza al amanecer y consagra a Dios el comienzo del día y de la actividad humana, retomando el simbolismo bíblico de la luz que vence a las tinieblas y de la resurrección de Cristo, \"sol que nace de lo alto\" (Lc 1,78). Su estructura clásica incluye un salmo matutino, un cántico del Antiguo Testamento, un salmo de alabanza, una breve lectura bíblica y el cántico evangélico de Zacarías (Benedictus), que celebra la llegada de la salvación. Junto con Vísperas, la tradición litúrgica la considera una de las dos \"horas cardinales\", los puntos más importantes de todo el Oficio Divino.",
+      "tags": [
+        "Benedictus",
+        "hora cardinal",
+        "amanecer"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Caspar_David_Friedrich_-_Neubrandenburg_in_Flames_%28Sunrise_near_Neubrandenburg%29_-_WGA8287.jpg",
+      "imagem_credito": null,
+      "ordem": 2
+    },
+    {
+      "id": "liturgia-das-horas:hora-media",
+      "slug": "hora-media",
+      "titulo": "Hora Intermedia (Tercia, Sexta y Nona)",
+      "resumo": "Las breves oraciones de la mitad del día que santifican las horas de trabajo, tradicionalmente ligadas a momentos clave de la Pasión y de Pentecostés; desde la reforma del Vaticano II, fuera del coro se puede rezar solo una de ellas.",
+      "corpo": "La Hora Intermedia reúne las antiguas horas menores de Tercia (hacia las 9 h), Sexta (mediodía) y Nona (hacia las 15 h). La costumbre de orar en esos tres momentos del día tiene raíz en la piedad judía y pasó a los primeros cristianos: los Hechos de los Apóstoles registran oraciones en la hora tercia —cuando el Espíritu Santo descendió sobre los apóstoles en Pentecostés (Hch 2,15)—, en la sexta (Hch 10,9) y en la nona (Hch 3,1). En el siglo II, Clemente de Alejandría ya citaba esas horas como momentos privilegiados de oración; en el siglo III, Tertuliano y Orígenes les dieron fundamento bíblico, y los Cánones de Hipólito también las mencionan. Tercia, Sexta y Nona se convirtieron, a lo largo de los siglos, en horas eclesiásticas propiamente dichas, distintas de las oraciones privadas.\n\nLa tradición espiritual asoció cada una de esas horas a un misterio de la salvación. Tercia recuerda la venida del Espíritu Santo sobre los apóstoles en Pentecostés, \"a la hora tercia del día\"; Sexta evoca la crucifixión de Cristo al mediodía; Nona, su muerte en la cruz \"hacia la hora nona\" (Mt 27,46). Rezar la Hora Intermedia es, por tanto, un modo de insertar las ocupaciones del día en el propio misterio pascual, ofreciendo el trabajo en unión con Cristo.\n\nHistóricamente, estas horas mantuvieron durante mucho tiempo una estructura fija. Antes de la reforma de Pío X, las horas menores repetían diariamente las dieciocho divisiones restantes del Salmo 118; la constitución apostólica Divino afflatu, del 1 de noviembre de 1911, redistribuyó el salterio y modificó ese arreglo. En cambio, en la Hora Intermedia actual, el Salmo 118 sigue distribuido a lo largo de veintidós días —uno por división—, porque la tradición siempre lo atribuyó a las horas diurnas.\n\nLa reorganización promovida por el Concilio Vaticano II definió la forma vigente. La Sacrosanctum Concilium (n. 89, e) determinó que \"en el coro se mantengan las horas menores de Tercia, Sexta y Nona\", pero que \"fuera del coro es lícito escoger una de las tres, la que mejor corresponda a la hora del día\". Por eso, quien reza el Oficio individualmente suele recitar solo una de las tres, según el horario, mientras que las comunidades en coro continúan celebrándolas todas. Es la hora más breve de la Liturgia de las Horas, compuesta de himno, tres salmos (o fragmentos del Salmo 118), lectura breve, responsorio y oración conclusiva.",
+      "categoria": "liturgia-das-horas",
+      "tags": [
+        "Tercia",
+        "Sexta",
+        "Nona",
+        "horas menores",
+        "Pasión de Cristo",
+        "Pentecostés",
+        "Pío X",
+        "Concilio Vaticano II"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Jean-Fran%C3%A7ois_Millet_-_The_Angelus_-_Walters_37903.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Hechos de los Apóstoles 2,15; 3,1; 10,9",
+        "Concilio Vaticano II, Constitución Sacrosanctum Concilium, n. 89",
+        "Ordenación General de la Liturgia de las Horas, nn. 126-133",
+        "Pío X, Constitución Apostólica Divino afflatu, 1 de noviembre de 1911"
+      ],
+      "atualizado_em": null,
+      "ordem": 3
+    },
+    {
+      "id": "liturgia-das-horas:visperas",
+      "slug": "visperas",
+      "titulo": "Vísperas (Oración de la tarde)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "La oración del atardecer que da gracias por el día que ha pasado, celebrada tradicionalmente al encender las luces, con el cántico de María.",
+      "corpo": "Vísperas se reza al atardecer, cuando la luz del día comienza a declinar, y por eso está tradicionalmente ligada al rito de encender lámparas (lucernario) como símbolo de Cristo, luz que no se apaga con la llegada de la noche. Es la segunda de las \"horas cardinales\", con una estructura semejante a Laudes, pero culminando en el cántico de María, el Magníficat (Lc 1,46-55), que da gracias a Dios por las maravillas realizadas en la historia de la salvación. Es la hora que se celebra con mayor solemnidad en muchas comunidades religiosas y catedrales, a menudo cantada con incienso, como forma pública y festiva de oración vespertina.",
+      "tags": [
+        "Magníficat",
+        "hora cardinal",
+        "lucernario"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Jean_Jouvenet_-_Magnificat.jpg",
+      "imagem_credito": null,
+      "ordem": 4
+    },
+    {
+      "id": "liturgia-das-horas:completas",
+      "slug": "completas",
+      "titulo": "Completas (Oración antes de dormir)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "La última oración del día, breve y recogida, que confía el sueño y la propia vida a la protección de Dios.",
+      "corpo": "Completas es la oración más breve y recogida del Oficio Divino, que se reza inmediatamente antes de acostarse, y sirve como examen de conciencia simplificado y acto de abandono confiado en las manos de Dios antes del sueño, tradicionalmente asociado a la muerte, su \"hermano gemelo\" espiritual. De estructura estable a lo largo de la semana, tiene como punto culminante el cántico de Simeón (Nunc dimittis: \"Ahora, Señor, según tu promesa, puedes dejar a tu siervo irse en paz\", Lc 2,29-32) y concluye con una de las antífonas marianas —Salve Regina, Ave Regina caelorum, Regina caeli o Sub tuum praesidium, según el tiempo litúrgico.",
+      "tags": [
+        "Nunc dimittis",
+        "antífonas marianas",
+        "Salve Regina"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Rembrandt_-_Simeon_in_the_Temple_DSC6899.jpg",
+      "imagem_credito": null,
+      "ordem": 5
+    },
+    {
+      "id": "liturgia-das-horas:oficio-de-leituras",
+      "slug": "oficio-de-leituras",
+      "titulo": "Oficio de Lectura (Vigilia)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "La hora más extensa del Breviario, con lecturas bíblicas y patrísticas más largas, originalmente rezada de noche como vigilia.",
+      "corpo": "El Oficio de Lectura —antiguos \"Maitines\", heredero de las vigilias nocturnas de los primeros monjes— ofrece las lecturas más largas y sustanciosas de todo el Oficio Divino: un pasaje más extenso de la Escritura, leído en secuencia a lo largo del año litúrgico, y una segunda lectura patrística o de un autor espiritual, con comentarios de los Padres de la Iglesia, de santos o de documentos del Magisterio, vinculados al tiempo litúrgico o a la fiesta del día. Aunque tradicionalmente se rezaba de madrugada, la reforma del Vaticano II permite rezarlo en cualquier momento del día, y hoy se combina con frecuencia con Laudes por la mañana.",
+      "tags": [
+        "Maitines",
+        "vigilia",
+        "Padres de la Iglesia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/A_good_reading_%281890%29%2C_by_Eduard_von_Gr%C3%BCtzner.jpg",
+      "imagem_credito": null,
+      "ordem": 6
+    },
+    {
+      "id": "liturgia-das-horas:os-salmos-na-liturgia-das-horas",
+      "slug": "os-salmos-na-liturgia-das-horas",
+      "titulo": "Los Salmos en la Liturgia de las Horas",
+      "resumo": "El salterio es el corazón de la Liturgia de las Horas: los 150 salmos, rezados en un ciclo de cuatro semanas, forman la columna vertebral de cada hora del Oficio, y la Iglesia los lee como voz de Cristo.",
+      "corpo": "Los salmos constituyen el núcleo de cada hora de la Liturgia de las Horas. Los 150 salmos del salterio bíblico se distribuyen en un ciclo de cuatro semanas, que se repite a lo largo del año, de modo que quien reza el Oficio recorre prácticamente todo el Salterio en un mes. La Ordenación general de la Liturgia de las Horas (n. 126) precisa que \"los salmos están distribuidos en un ciclo de cuatro semanas\" y que se omiten unos pocos — manteniéndose, sin embargo, aquellos que la tradición ha hecho más conocidos. El ciclo se articula con el año litúrgico: comienza el primer domingo de Adviento, al inicio del Tiempo Ordinario, el primer domingo de Cuaresma y el Domingo de Pascua; en las solemnidades y fiestas, los salmos propios sustituyen a los del día.\n\nLa elección de los salmos no es aleatoria. La misma Ordenación explica que, para Laudes y Vísperas, se seleccionaron salmos acordes con el sentido de cada hora, y que algunos salmos cuyo tenor de violencia suena mal en la oración pública se dejaron fuera del ciclo. El Salmo 118, el más largo del salterio, recibe un tratamiento especial: por tradición siempre vinculado a las horas diurnas, se distribuye en veintidós días — uno por división — en la Hora Intermedia.\n\nEstos poemas fueron heredados directamente de la práctica de oración de Israel, del Templo y de las sinagogas, que el propio Jesús y los apóstoles rezaban. La Iglesia los utiliza, conforme a la Sacrosanctum Concilium (n. 90), porque poseen la virtud de elevar a Dios el espíritu de los hombres y de excitar en ellos santos afectos. La tradición cristiana lee los salmos también cristológicamente: la Carta a los Hebreos pone en labios de Cristo el salmo 22 (\"anunciaré tu nombre a mis hermanos, en medio de la asamblea te alabaré\"), de modo que quien salmodia presta su voz al propio Cristo que ora con su Cuerpo, la Iglesia, y por él. El salmo, observa además la Ordenación (n. 103), no es lectura ni prosa, sino poema de alabanza — en hebreo Tehillim, \"cánticos de alabanza\", y en griego psalmói, \"cánticos acompañados al son del salterio\" —, y conserva ese carácter musical incluso cuando se recita.\n\nLa numeración de los salmos difiere entre la Biblia hebrea y la versión griega de los Setenta adoptada por la Vulgata, diferencia que la Iglesia heredó y que explica por qué un mismo salmo puede aparecer con dos números (por ejemplo, el salmo 22 hebreo corresponde al 21 en la Vulgata). Herencia también de las traducciones litúrgicas, esta doble numeración permanece visible en los títulos de los salmos en la Liturgia de las Horas.",
+      "categoria": "liturgia-das-horas",
+      "tags": [
+        "salterio",
+        "ciclo de cuatro semanas",
+        "cristología de los salmos",
+        "Ordenación general de la Liturgia de las Horas",
+        "Salmo 118",
+        "Vulgata",
+        "Sacrosanctum Concilium"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Westminster_Psalter_David.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Ordenación general de la Liturgia de las Horas, nn. 100-104, 126-133",
+        "Concilio Vaticano II, Constitución Sacrosanctum Concilium, nn. 90-91",
+        "Carta a los Hebreos 2,12",
+        "Libro de los Salmos (numeración hebrea y de la Vulgata)"
+      ],
+      "atualizado_em": null,
+      "ordem": 7
+    },
+    {
+      "id": "liturgia-das-horas:liturgia-das-horas-e-vida-consagrada",
+      "slug": "liturgia-das-horas-e-vida-consagrada",
+      "titulo": "La Liturgia de las Horas en la Vida Consagrada",
+      "resumo": "Para monjes, religiosos y clérigos, el Oficio Divino estructura el ritmo diario de oración, trabajo y silencio; la Regla de San Benito lo consagró como \"Opus Dei\", y el Concilio Vaticano II lo reafirmó como obligación canónica del clero y de los consagrados.",
+      "corpo": "La Liturgia de las Horas, u Oficio Divino, organiza lo cotidiano de la vida consagrada en torno a horas fijas de oración intercaladas con trabajo y lectura. La costumbre cristiana de rezar en determinados momentos del día tiene su raíz en la práctica judía de oración en el Templo y en las sinagogas, que los propios apóstoles observaban: los Hechos de los Apóstoles registran oraciones en la hora tercia, sexta y nona (Hch 2,15; 3,1; 10,9). En el siglo II, Clemente de Alejandría ya mencionaba las horas de tercia, sexta y nona como momentos privilegiados de oración; en el siglo III, Tertuliano y Orígenes dieron a esos horarios un fundamento bíblico, vinculándolos a episodios de la vida de los apóstoles y de la Pasión. Prima y Completas son las más tardías, y aparecen hacia finales del siglo IV.\n\nFue en la tradición monástica donde esta estructura adquirió su forma estable. La Regla de San Benito (c. 530) dedica sus capítulos 8 a 19 al Oficio Divino y fija, en el capítulo 16, el principio de las siete horas diurnas —Maitines, Prima, Tercia, Sexta, Nona, Vísperas y Completas—, apoyado en el salmo \"siete veces al día te alabo\". La Regla introduce además un principio que llegaría a ser célebre en la espiritualidad benedictina: no anteponer nada al Oficio Divino, el \"Opus Dei\". El equilibrio entre oración y trabajo, resumido siglos más tarde en la fórmula \"ora et labora\", moldeó no solo los monasterios, sino toda la cultura occidental del tiempo marcado por el ritmo de la oración.\n\nA lo largo de los siglos, el Oficio fue siendo reformado. A comienzos del siglo XX, San Pío X promovió una reorganización profunda del Salterio del Breviario Romano mediante la constitución apostólica Divino afflatu, del 1 de noviembre de 1911, que rompió con la distribución heredada de San Benito y redistribuyó los salmos a lo largo de la semana. El Concilio Vaticano II retomó la reforma: la constitución Sacrosanctum Concilium (nn. 83-89) determinó que Laudes y Vísperas, \"los dos polos del Oficio cotidiano\", fueran consideradas las horas principales, suprimió la hora de Prima y permitió que, fuera del coro, se eligiera una de las horas menores según el momento del día. Pablo VI promulgó el Oficio renovado mediante la constitución apostólica Laudis canticum, del 1 de noviembre de 1970.\n\nEl derecho canónico vigente fija con precisión el alcance de la obligación. El canon 1174 §1 establece que \"están obligados a celebrar la liturgia de las horas los clérigos, según el c. 276 §2, 3.º; así como los miembros de los institutos de vida consagrada y de las sociedades de vida apostólica, según sus constituciones\". El canon 663 §3 exhorta a los religiosos a celebrarla dignamente según el derecho propio, mientras que el canon 1174 §2 dirige a los demás fieles una invitación vehemente, y no una imposición: \"Se invita encarecidamente también a los demás fieles, según las circunstancias, a que participen en la liturgia de las horas, puesto que es acción de la Iglesia.\" La misma Laudis canticum insiste en este punto: la Liturgia de las Horas \"se propone a todos los fieles, incluso a aquellos que legalmente no están obligados a ella\".\n\nAsí, la vida consagrada sigue siendo el lugar donde el Oficio encuentra su expresión más plena y comunitaria —rezado o cantado en coro, con frecuencia con el canto gregoriano como vehículo propio—, sin que eso agote su naturaleza: es, ante todo, oración de toda la Iglesia, en la cual el propio Cristo continúa alabando al Padre.",
+      "categoria": "liturgia-das-horas",
+      "tags": [
+        "Regla de San Benito",
+        "ora et labora",
+        "Opus Dei",
+        "vida religiosa",
+        "Concilio Vaticano II",
+        "Laudis canticum",
+        "derecho canónico"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/St._Benedict_delivering_his_rule_to_the_monks_of_his_order.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Regla de San Benito, capítulos 8-19 (esp. cap. 16 y 43)",
+        "Concilio Vaticano II, Constitución Sacrosanctum Concilium, nn. 83-89",
+        "Pablo VI, Constitución Apostólica Laudis canticum, 1 de noviembre de 1970",
+        "Código de Derecho Canónico (1983), cánones 276 §2 n.3; 663 §3; 1173-1175",
+        "Pío X, Constitución Apostólica Divino afflatu, 1 de noviembre de 1911"
+      ],
+      "atualizado_em": null,
+      "ordem": 8
+    },
+    {
+      "id": "liturgia-das-horas:invitatorio",
+      "slug": "invitatorio",
+      "titulo": "El Invitatorio",
+      "categoria": "liturgia-das-horas",
+      "resumo": "La apertura de todo el Oficio Divino: una invitación diaria, centrada en el Salmo 94(95), a alabar a Dios y escuchar su voz \"hoy\".",
+      "corpo": "El Invitatorio precede a la primera hora que se reza en el día —el Oficio de Lectura o, cuando este no abre la jornada, Laudes— y no se repite después. Su núcleo es casi siempre el Salmo 94(95), \"Venid, aclamemos al Señor\", ya atestiguado como apertura del Oficio por la Regla de San Benito en el siglo VI: una invitación renovada cada día a los fieles para que celebren las alabanzas de Dios, escuchen su voz y no endurezcan el corazón \"hoy\", como hizo Israel en el desierto.\n\nEse \"hoy\" es leído por la tradición cristiana, a partir del comentario de la Carta a los Hebreos, como el tiempo de gracia siempre presente que Dios ofrece a quien se dispone a escucharlo. Cantado con una antífona propia del día o del tiempo litúrgico, el Invitatorio sitúa desde el primer instante toda la Liturgia de las Horas en el registro adecuado: no una obligación que cumplir, sino una respuesta de alabanza a una invitación que parte del propio Dios.",
+      "tags": [
+        "Invitatorio",
+        "Salmo 94",
+        "Regla de San Benito"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 9
+    },
+    {
+      "id": "liturgia-das-horas:antifonas-na-liturgia-das-horas",
+      "slug": "antifonas-na-liturgia-das-horas",
+      "titulo": "Las antífonas en la Liturgia de las Horas",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Pequeños versos que enmarcan cada salmo y cántico, orientando su lectura a la luz del día, del tiempo litúrgico o del misterio de Cristo.",
+      "corpo": "Cada salmo o cántico rezado en una hora de la Liturgia de las Horas está enmarcado por una antífona: un breve verso, generalmente tomado de la propia Escritura, recitado o cantado antes y después de él. Lejos de ser un mero estribillo decorativo, la antífona cumple una función interpretativa: destaca un pensamiento del salmo que podría pasar inadvertido, le confiere un matiz propio según la fiesta o el tiempo litúrgico del día, y ayuda a leerlo de modo tipológico o cristológico, es decir, como voz que habla también de Cristo y de la Iglesia.\n\nAsí, el mismo Salmo 99, por ejemplo, puede sonar como simple alabanza en un día común y cobrar resonancia mariana o navideña en otro, solo por la antífona que lo enmarca. Los cánticos evangélicos —el Benedictus en Laudes y el Magnificat en Vísperas— tienen igualmente antífonas propias, dichas antes del cántico y repetidas al final, después del \"Gloria al Padre\"; en las mayores solemnidades, estas antífonas suelen ser más desarrolladas, como ocurre en las célebres \"Antífonas de la O\", rezadas en los últimos días del Adviento antes de la Navidad.",
+      "tags": [
+        "antífonas",
+        "salterio",
+        "Magnificat",
+        "Benedictus"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 10
+    },
+    {
+      "id": "liturgia-das-horas:te-deum",
+      "slug": "te-deum",
+      "titulo": "El Te Deum",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Antiguo himno de acción de gracias, cantado en el Oficio de Lectura de los domingos y de las grandes fiestas, y también en ocasiones solemnes fuera de la liturgia.",
+      "corpo": "El \"Te Deum laudamus\" (\"A ti, oh Dios, te alabamos\") es uno de los himnos más antiguos y más solemnes de la tradición litúrgica latina, presente en la liturgia romana ya desde el siglo VI como canto del Oficio de Maitines dominicales. Su autoría es incierta, pero los estudiosos señalan hoy como más probable a San Niceta de Remesiana, obispo del siglo IV; la antigua leyenda que atribuía su composición espontánea a San Ambrosio y a San Agustín, en el momento del bautismo de este último, se considera hoy solo una piadosa tradición.\n\nEn la Liturgia de las Horas reformada, el Te Deum se canta o se recita al final del Oficio de Lectura en los domingos fuera de la Cuaresma, en los días de las octavas de Navidad y de Pascua, y en las solemnidades y fiestas, heredando así el lugar que ocupaba al final de los antiguos Maitines, hora que dio origen al actual Oficio de Lectura y que podía rezarse a cualquier hora del día después de la reforma conciliar. Fuera de la Liturgia de las Horas, el himno sigue entonándose en ocasiones de particular acción de gracias, como el fin de año o acontecimientos eclesiales solemnes.",
+      "tags": [
+        "Te Deum",
+        "himno",
+        "oficio de lectura",
+        "acción de gracias"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 11
+    },
+    {
+      "id": "liturgia-das-horas:hora-prima",
+      "slug": "hora-prima",
+      "titulo": "La Hora de Prima (suprimida en 1970)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "La antigua hora que abría el día inmediatamente después de Laudes en el Breviario tradicional fue suprimida por la reforma del Vaticano II por superponerse a ella.",
+      "corpo": "En el antiguo Breviario Romano, anterior a la reforma posconciliar, el día litúrgico incluía ocho horas: Maitines, Laudes, Prima, Tercia, Sexta, Nona, Vísperas y Completas. La Hora de Prima, rezada a primera hora de la mañana, después de Laudes, tenía origen monástico —ligada al comienzo del trabajo y de las actividades del día en las comunidades religiosas— e incluía la lectura del Martirologio con el anuncio de los santos del día siguiente.\n\nLa constitución conciliar \"Sacrosanctum Concilium\" determinó expresamente, en el número 89, letra \"d\": \"suprímase la Hora de Prima\", por considerarla una duplicación de Laudes, con la cual se superponía en contenido y función. En la Liturgia de las Horas reformada por Pablo VI (1970), las antiguas horas menores de Tercia, Sexta y Nona fueron reagrupadas en la llamada \"Hora Intermedia\", de la cual normalmente se reza solo una, según el momento del día —completando la estructura más sencilla que rige hasta hoy: Oficio de Lectura, Laudes, Hora Intermedia, Vísperas y Completas.",
+      "tags": [
+        "Hora de Prima",
+        "Sacrosanctum Concilium",
+        "Breviario",
+        "reforma litúrgica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 12
+    },
+    {
+      "id": "liturgia-das-horas:oficio-parvo-de-nossa-senhora",
+      "slug": "oficio-parvo-de-nossa-senhora",
+      "titulo": "El Oficio Parvo de Nuestra Señora",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Versión abreviada y mariana del Oficio Divino, de origen medieval, rezada todavía hoy por algunas órdenes religiosas, órdenes terceras y asociaciones de laicos.",
+      "corpo": "El Oficio Parvo (o Pequeño Oficio) de Nuestra Señora es una forma abreviada del Oficio común de la Virgen María, compuesta por salmos, cánticos, lecturas breves y oraciones organizados según la misma estructura de las horas del Oficio Divino, pero de modo más sencillo y orientado específicamente a la devoción mariana. Su origen se remonta a la Edad Media, asociado por algunos estudiosos al monasterio benedictino de Montecassino ya en el siglo VIII, y su difusión debe mucho a la revisión y al impulso de San Pedro Damián, Doctor de la Iglesia del siglo XI, que lo recomendó primero a las comunidades benedictinas y, después, a los cistercienses y camaldulenses.\n\nA lo largo de los siglos, el Oficio Parvo se convirtió también en una de las formas más populares de oración entre el clero secular y, sobre todo, entre los laicos vinculados a órdenes terceras, cofradías y asociaciones de piedad mariana, ofreciéndoles una participación más sencilla en la oración continua de la Iglesia que el Oficio Divino completo. Todavía hoy es rezado por algunas comunidades religiosas femeninas y por fieles devotos, sobre todo en ambientes vinculados a la tradición litúrgica más antigua.",
+      "tags": [
+        "Oficio Parvo",
+        "Pequeño Oficio de Nuestra Señora",
+        "San Pedro Damián",
+        "devoción mariana"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 13
+    },
+    {
+      "id": "liturgia-das-horas:martirologio-romano",
+      "slug": "martirologio-romano",
+      "titulo": "El Martirologio Romano",
+      "categoria": "liturgia-das-horas",
+      "resumo": "El libro litúrgico que enumera, día a día, los santos y beatos venerados por la Iglesia, tradicionalmente leído en la víspera de su memoria.",
+      "corpo": "El Martirologio Romano es el libro litúrgico oficial que reúne, organizado por día del año, el elenco de los santos y beatos reconocidos por la Iglesia católica con una breve nota biográfica (el \"elogio\") sobre cada uno. A pesar del nombre, que remite a la antigua práctica de registrar la memoria de los mártires en cada iglesia local —anotando el día de su muerte, llamado \"dies natalis\", su \"nacimiento\" para el Cielo—, el libro reformado a partir de Roma en el siglo XVI pasó a incluir también confesores, vírgenes y otros santos no mártires, convirtiéndose en el santoral oficial de toda la Iglesia latina.\n\nEn el antiguo Breviario Romano, el elogio de los santos del día siguiente se leía al final de la Hora de Prima o en el refectorio de las comunidades religiosas —siempre referente al día siguiente, y nunca durante la propia Misa—. Con la supresión de Prima por la reforma conciliar, esa lectura pasó a hacerse, donde se mantiene la tradición, en otros momentos del día comunitario; los fieles laicos que deseen seguirla pueden incorporarla a su propia oración de la mañana o de la noche, como preparación espiritual para la memoria del día siguiente.",
+      "tags": [
+        "Martirologio Romano",
+        "santoral",
+        "hagiografía"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 14
+    },
+    {
+      "id": "liturgia-das-horas:canticos-biblicos-na-liturgia-das-horas",
+      "slug": "canticos-biblicos-na-liturgia-das-horas",
+      "titulo": "Los Cánticos Bíblicos en la Liturgia de las Horas",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Además de los 150 salmos, la Liturgia de las Horas reza cánticos del Antiguo y del Nuevo Testamento que completan la salmodia de cada hora.",
+      "corpo": "Junto a los 150 salmos, la Liturgia de las Horas incluye en su salmodia diaria cánticos bíblicos que no pertenecen al Salterio, sino a otros libros de la Escritura. En Laudes, la estructura clásica intercala un salmo matutino, un cántico del Antiguo Testamento —como los dos Cánticos de Moisés (Éxodo 15 y Deuteronomio 32), el Cántico de Ana (1 Samuel 2), el de Habacuc, el de Isaías o el de Jonás— y un segundo salmo de alabanza; en Vísperas, los dos salmos van seguidos de un cántico del Nuevo Testamento, tomado de las cartas apostólicas o del Apocalipsis.\n\nMás destacados aún son los tres grandes cánticos evangélicos del libro de Lucas, considerados el punto culminante de sus respectivas horas: el Benedictus, cántico de Zacarías al nacer su hijo Juan Bautista (Lc 1,68-79), que corresponde a Laudes; el Magnificat, cántico de María en la Visitación (Lc 1,46-55), que corresponde a Vísperas; y el Nunc dimittis, cántico de Simeón al acoger al Niño Jesús en el Templo (Lc 2,29-32), que cierra Completas todas las noches. Juntos, estos cánticos amplían el alcance bíblico del Oficio Divino más allá del Salterio, situando toda la oración de la Iglesia dentro del arco mayor de la historia de la salvación.",
+      "tags": [
+        "cánticos bíblicos",
+        "Magnificat",
+        "Benedictus",
+        "Nunc dimittis"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 15
+    },
+    {
+      "id": "liturgia-das-horas:historia-da-liturgia-das-horas",
+      "slug": "historia-da-liturgia-das-horas",
+      "titulo": "Breve historia de la Liturgia de las Horas",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Desde la reforma del Breviario por San Pío X, en 1911, hasta la promulgación de la actual Liturgia de las Horas por Pablo VI, en 1970.",
+      "corpo": "El Oficio Divino que la Iglesia reza hoy es heredero de una larga sucesión de reformas. En 1911, San Pío X promulgó mediante la bula \"Divino Afflatu\" una revisión profunda del Breviario Romano, redistribuyendo los salmos a lo largo de la semana de modo más equilibrado y anunciando explícitamente que aquella sería solo la primera etapa de una renovación más amplia del Oficio — trabajo continuado, décadas después, por la simplificación del calendario de fiestas decretada en 1955.\n\nLa reforma más radical vino del Concilio Vaticano II: la constitución \"Sacrosanctum Concilium\" (1963) pidió la revisión del Oficio para que volviera a ser rezado de modo más accesible también por los laicos, suprimió la Hora de Prima y reorganizó las horas menores. El trabajo de años, conducido por el grupo de estudio (\"Coetus\") encargado de la reforma, resultó en la constitución apostólica \"Laudis Canticum\", de Pablo VI, promulgada el 1 de noviembre de 1970, que aprobó el texto latino definitivo de la nueva \"Liturgia de las Horas\" — nombre que sustituyó oficialmente al antiguo \"Breviario\" — con el Salterio distribuido en cuatro semanas y un repertorio mucho más amplio de lecturas bíblicas y patrísticas.",
+      "tags": [
+        "Divino Afflatu",
+        "Laudis Canticum",
+        "Pío X",
+        "reforma litúrgica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 16
+    },
+    {
+      "id": "liturgia-das-horas:preces-na-liturgia-das-horas",
+      "slug": "preces-na-liturgia-das-horas",
+      "titulo": "Las Preces en Laudes y Vísperas",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Las invocaciones finales de Laudes y Vísperas, con las que la Iglesia consagra el día a Dios por la mañana e intercede por los demás al atardecer.",
+      "corpo": "Después del cántico evangélico y antes de la oración final, tanto Laudes como Vísperas incluyen una serie de invocaciones breves llamadas \"preces\", en las que la asamblea (o quien reza a solas) responde a cada intención con un estribillo fijo o variable. Aunque la estructura es semejante en las dos horas, el tono cambia según el momento del día: en Laudes, las preces tienden a ser súplicas por la jornada que se abre, consagrando a Dios el trabajo y las decisiones del día; en Vísperas, adquieren más bien un carácter de intercesión por los demás, más cercano a la Oración Universal de la Misa, y terminan siempre con una intención por los fieles difuntos.",
+      "tags": [
+        "preces",
+        "Laudes",
+        "Vísperas",
+        "intercesión"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 17
+    },
+    {
+      "id": "liturgia-das-horas:hinos-na-liturgia-das-horas",
+      "slug": "hinos-na-liturgia-das-horas",
+      "titulo": "Los Himnos en la Liturgia de las Horas",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Composiciones poéticas que abren cada hora del Oficio Divino, herederas de una tradición que se remonta a San Ambrosio de Milán y al poeta Prudencio.",
+      "corpo": "Cada hora de la Liturgia de las Horas comienza, después del versículo introductorio, con un himno: una composición poética, generalmente estrófica y de origen antiguo, dedicada a la alabanza de Dios y adaptada al carácter propio de aquel momento del día o de aquel tiempo litúrgico. La tradición de himnos cristianos tomó forma sobre todo en el Occidente latino a partir de finales del siglo IV, con San Ambrosio de Milán —cuyos himnos, de gran eficacia popular, se difundieron ampliamente y fueron adoptados incluso por los monjes de San Benito en el siglo VI— y, en la generación siguiente, con el poeta hispano-romano Prudencio, cuyas odas del \"Cathemerinon\" (\"libro del día\"), compuestas para horas y fiestas específicas, se convirtieron en un hito de la poesía latina cristiana.\n\nPor su carácter lírico, los himnos son el elemento más popular y musicalmente libre del Oficio, lo que permite una mayor variedad de melodías y traducciones que los salmos, y con frecuencia se escogen o se componen para destacar el sentido propio de una hora —la alegría de la mañana en Laudes, el atardecer en Vísperas, el reposo confiado en Completas— o de una fiesta específica del calendario litúrgico.",
+      "tags": [
+        "himnos",
+        "San Ambrosio",
+        "Prudencio",
+        "poesía litúrgica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 18
+    },
+    {
+      "id": "liturgia-das-horas:tenebrae-oficio-das-trevas",
+      "slug": "tenebrae-oficio-das-trevas",
+      "titulo": "Oficio de Tinieblas (Tenebrae)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Antigua celebración que combinaba Maitines y Laudes en los tres últimos días de la Semana Santa, marcada por el apagado progresivo de las velas hasta que la iglesia quedaba a oscuras.",
+      "corpo": "El Oficio de Tinieblas, o Tenebrae, era la celebración conjunta y anticipada de Maitines y Laudes en las vísperas del Jueves, Viernes y Sábado Santo, con registros de su práctica en monasterios europeos ya desde el siglo IX. Su estructura reunía nueve salmos y nueve lecturas en Maitines, seguidos de cinco salmos, el cántico Benedictus, una antífona y el Salmo 50 en Laudes, todo cantado mientras la iglesia se oscurecía progresivamente y quince velas dispuestas en un candelabro triangular —el \"tenebrario\"— se apagaban una a una.\n\nEl simbolismo de la oscuridad creciente era intencional: expresaba el abandono de Cristo, la huida de los discípulos y el silencio del Padre ante la Pasión del Hijo. La reforma litúrgica posconciliar reorganizó el Oficio de Lectura y Laudes del Triduo Pascual sin ese aparato ritual específico, pero el Tenebrae sigue celebrándose, como tradición facultativa y muy apreciada, en diversas comunidades religiosas, catedrales y parroquias vinculadas a la liturgia más antigua.",
+      "tags": [
+        "Tenebrae",
+        "Semana Santa",
+        "Maitines",
+        "tradición litúrgica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 19,
+      "fontes": [
+        "Wikipedia, \"Ofício de Trevas\"",
+        "Biblioteca Católica MBC, \"Ofício das Trevas: o que é e como viver essa tradição na Semana Santa\""
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:breviario-de-quinones",
+      "slug": "breviario-de-quinones",
+      "titulo": "El Breviario de Quiñones (1535)",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Reforma radical y efímera del Oficio Divino, encargada por el papa Clemente VII al cardenal franciscano Francisco de Quiñones, que simplificó el Breviario pero fue suprimida décadas después por la reacción postridentina.",
+      "corpo": "En 1528, el papa Clemente VII encargó al cardenal franciscano español Francisco de Quiñones que preparara un breviario más sencillo e históricamente más fiel. El resultado, publicado en 1535 y aprobado por Pablo III, reorganizaba por completo el Oficio Divino: los 150 salmos pasaban a recitarse íntegramente en una sola semana, el esquema de lectura bíblica se renovaba, y las lecturas de autenticidad dudosa o puramente legendarias se abandonaban en favor de textos bíblicos y patrísticos más sólidos.\n\nA pesar del éxito inicial entre el clero, la propuesta era demasiado radical para su tiempo y pronto fue atacada por teólogos de París, Roma y la Península Ibérica. Ya bajo el clima de la Contrarreforma, el Breviario de Quiñones fue condenado tras el Concilio de Trento, suprimido por el papa Pablo IV en 1558 y definitivamente prohibido por Pío V en 1568, cuando este promulgó el Breviario Romano tridentino, que estaría vigente, con pocos cambios, hasta el siglo XX.",
+      "tags": [
+        "Breviario",
+        "Francisco de Quiñones",
+        "Concilio de Trento",
+        "historia de la liturgia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 20,
+      "fontes": [
+        "Franciscanos.org, \"Francisco de Quiñones\"",
+        "Mercaba, \"Transformaciones, Desarrollos, Reformas\" (litúrgicas)"
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:vigilia-prolongada",
+      "slug": "vigilia-prolongada",
+      "titulo": "La Vigilia prolongada",
+      "categoria": "liturgia-das-horas",
+      "resumo": "En algunas solemnidades, sobre todo Navidad y Pentecostés, la Ordenación General de la Liturgia de las Horas prevé la posibilidad de prolongar el Oficio de Lectura en una vigilia nocturna más extensa.",
+      "corpo": "La Ordenación General de la Liturgia de las Horas (n. 71) reconoce que, a semejanza de la Vigilia Pascual, se ha hecho costumbre en diversas Iglesias comenzar ciertas solemnidades con una vigilia —destacándose, entre ellas, la Navidad y Pentecostés— y recomienda que esta costumbre se mantenga y se promueva según el uso propio de cada Iglesia particular. Donde sea oportuno celebrar otras solemnidades o peregrinaciones con una vigilia semejante, deben seguirse las normas propias de las celebraciones de la Palabra de Dios.\n\nEsta posibilidad recupera, de forma moderada, una práctica antigua de la vida monástica, en la cual las comunidades se reunían durante la noche para una oración más larga y más rica en lecturas antes de la aurora de una gran fiesta, distinta del Oficio de Lectura ordinario de cada día, tanto por la duración como por el carácter festivo y comunitario que asume la vigilia.",
+      "tags": [
+        "vigilia",
+        "oficio de lectura",
+        "Navidad",
+        "Pentecostés"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 21,
+      "fontes": [
+        "Ordenación General de la Liturgia de las Horas, n. 71"
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:obrigacao-canonica-do-oficio-divino",
+      "slug": "obrigacao-canonica-do-oficio-divino",
+      "titulo": "La obligación canónica de rezar el Oficio Divino",
+      "categoria": "liturgia-das-horas",
+      "resumo": "El Código de Derecho Canónico obliga a los presbíteros y a los diáconos a rezar diariamente la Liturgia de las Horas, según los libros litúrgicos aprobados, como parte de su búsqueda de la santidad propia del estado clerical.",
+      "corpo": "El canon 276, §2, 3º, del Código de Derecho Canónico de 1983 establece que \"los sacerdotes y los diáconos que aspiran al presbiterado tienen obligación de cumplir diariamente la Liturgia de las Horas según los libros litúrgicos propios y aprobados\"; en cambio, los diáconos permanentes tienen esa obligación en los términos que establezca la respectiva Conferencia Episcopal. La norma se inserta en un canon más amplio que recuerda a los clérigos su peculiar obligación de buscar la santidad, ya que, consagrados a Dios por un nuevo título en la recepción del orden, se convierten en dispensadores de los misterios divinos al servicio del pueblo.\n\nEsta obligación puede cumplirse tanto individualmente como en comunidad, aunque la celebración comunitaria es siempre preferible cuando es posible; en el caso de los religiosos vinculados por votos, la extensión exacta de esta obligación puede estar regulada, en cambio, por el derecho particular de su instituto.",
+      "tags": [
+        "derecho canónico",
+        "clero",
+        "obligación"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 22,
+      "fontes": [
+        "Código de Derecho Canónico (1983), can. 276 §2, 3º"
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:ordo-liturgico-anual",
+      "slug": "ordo-liturgico-anual",
+      "titulo": "El \"Ordo\" Litúrgico Anual",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Librito publicado cada año por cada conferencia episcopal o diócesis, que indica día a día qué celebración, color litúrgico y textos propios de la Misa y del Oficio Divino deben utilizarse.",
+      "corpo": "Como el calendario litúrgico combina, para cada día del año, el Propio del Tiempo, el Propio de los Santos y los eventuales calendarios particulares de diócesis, país u orden religiosa, no siempre es sencillo deducir por uno mismo qué celebración prevalece y qué textos usar en la Misa y en el Oficio Divino en un día específico. Por eso, cada conferencia episcopal publica anualmente un \"Ordo\" — en Brasil, el Directorio Litúrgico de la CNBB, distribuido a todas las diócesis — que trae, día a día, la clase de la celebración, las partes propias, las eventuales rúbricas específicas y la indicación de cuándo un santo del día es suprimido por una celebración de grado superior.\n\nEsta especie de calendario detallado existe, en formas más rudimentarias, desde hace siglos, pero se volvió mucho más estandarizada después de la reforma litúrgica de 1969-1970, que unificó la estructura de grados de celebración (solemnidad, fiesta, memoria) en todo el Rito Romano.",
+      "tags": [
+        "Ordo",
+        "calendario litúrgico",
+        "Directorio Litúrgico",
+        "CNBB"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 23,
+      "fontes": [
+        "Apologética Católica, \"Ordo Litúrgico 2021 com próprio do Brasil\""
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:liturgia-das-horas-em-lingua-vernacula",
+      "slug": "liturgia-das-horas-em-lingua-vernacula",
+      "titulo": "La Liturgia de las Horas en lengua vernácula",
+      "categoria": "liturgia-das-horas",
+      "resumo": "El permiso para rezar el Oficio Divino también en las lenguas vivas de los pueblos, y no solo en latín, fue uno de los primeros frutos prácticos de la reforma litúrgica del Concilio Vaticano II.",
+      "corpo": "La constitución \"Sacrosanctum Concilium\" (1963) abrió camino a un uso más amplio de la lengua vernácula en la liturgia, \"sobre todo en las lecturas y moniciones, en algunas oraciones y cantos\", superando la exclusividad casi total del latín que había regido hasta entonces. La primera aplicación práctica llegó con la instrucción \"Inter Oecumenici\", publicada el 26 de septiembre de 1964 por la Sagrada Congregación de Ritos y por el \"Consilium\" encargado de la reforma, que fijó los principios generales para la implementación ordenada de la renovación litúrgica.\n\nEn los años siguientes, el permiso fue ampliándose progresivamente, hasta que la promulgación de la \"Liturgia Horarum\" reformada (1970-1971) permitió a las conferencias episcopales de todo el mundo autorizar ediciones íntegramente vernáculas del Oficio Divino, dando origen a traducciones como la \"Liturgia das Horas\" en portugués, que hicieron la oración oficial de la Iglesia verdaderamente accesible también a los laicos a gran escala, uno de los objetivos explícitos de la reforma conciliar.",
+      "tags": [
+        "Sacrosanctum Concilium",
+        "lengua vernácula",
+        "reforma litúrgica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 24,
+      "fontes": [
+        "Concilio Vaticano II, Constitución «Sacrosanctum Concilium», n. 36 y 101",
+        "Vatican News, \"SC: Las Instrucciones de la Sagrada Congregación de Ritos\""
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:edicao-abreviada-popular",
+      "slug": "edicao-abreviada-popular",
+      "titulo": "La Edición Abreviada y Popular del Oficio",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Junto a la edición completa en cuatro volúmenes, existen ediciones reducidas en un solo volumen de la Liturgia de las Horas, pensadas para laicos, diáconos permanentes y comunidades que no rezan el Oficio íntegro.",
+      "corpo": "Además de la edición típica en cuatro volúmenes, organizada según los tiempos del año litúrgico y destinada sobre todo a clérigos y comunidades religiosas que rezan el Oficio completo, las editoriales católicas publican también versiones reducidas de un único volumen —como la \"Liturgia das Horas – edição abreviada com Hora Intermédia\" (\"Liturgia de las Horas – edición abreviada con Hora Intermedia\"), ya en su octava edición en lengua portuguesa—, que contienen generalmente Laudes, una Hora intermedia, Vísperas y Completas, con un ciclo de salmos simplificado.\n\nEstas ediciones populares hacen la oración oficial de la Iglesia prácticamente accesible fuera de los ámbitos clericales y religiosos, atendiendo sobre todo a laicos y diáconos permanentes; existen ediciones semejantes en otras lenguas, como el \"Christian Prayer\" y el \"Shorter Christian Prayer\" del mundo anglófono, todas ellas expresión del deseo, ya manifestado por el Concilio Vaticano II, de una participación laica más amplia en la Liturgia de las Horas.",
+      "tags": [
+        "Breviario",
+        "edición abreviada",
+        "laicos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 25,
+      "fontes": [
+        "Secretariado Nacional de Liturgia (Portugal), «Liturgia das Horas – Edição Abreviada»"
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:horologion-rito-bizantino",
+      "slug": "horologion-rito-bizantino",
+      "titulo": "El Horologion: el equivalente bizantino de la Liturgia de las Horas",
+      "categoria": "liturgia-das-horas",
+      "resumo": "En las Iglesias de rito bizantino, ortodoxas y católicas orientales, el libro correspondiente al Oficio Divino romano se llama Horologion, con una estructura propia de ocho horas.",
+      "corpo": "El Horologion —literalmente «libro de las horas»— es el libro litúrgico que reúne, en el rito bizantino, el ordinario y un repertorio limitado de textos propios para los ocho oficios del ciclo diario, tanto en las Iglesias ortodoxas como en las Iglesias católicas orientales en plena comunión con Roma: Medianoche (Mesonyktikon), Maitines (Órthros), Prima, Tercia, Sexta, Nona, Vísperas (Esperinón) y Completas (Apódeipnon). Es, primariamente, un libro para uso del lector y del cantor, distinto del Eucologio, que reúne los textos propios del sacerdote y del diácono.\n\nAunque su estructura es bastante diferente de la Liturgia de las Horas del Rito Romano, el Horologion cumple un papel análogo al santificar las horas del día por medio de la salmodia, la himnografía y las lecturas bíblicas: un recordatorio de que la oración continua a lo largo del día es una raíz apostólica común a toda la tradición cristiana, oriental y occidental.",
+      "tags": [
+        "Horologion",
+        "rito bizantino",
+        "ritos orientales"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 26,
+      "fontes": [
+        "OrthodoxWiki, \"Horologion\"",
+        "Enciclopedia Wikitólica, \"Rito Bizantino\""
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:antifonas-do-o",
+      "slug": "antifonas-do-o",
+      "titulo": "Las Antífonas de la «O»",
+      "categoria": "liturgia-das-horas",
+      "resumo": "Siete antífonas cantadas antes y después del Magníficat, en Vísperas, entre el 17 y el 23 de diciembre, cada una de las cuales invoca a Cristo con un título mesiánico diferente del Antiguo Testamento.",
+      "corpo": "Compuestas entre los siglos VII y VIII, las Antífonas de la «O» forman un pequeño compendio de la cristología de la Iglesia antigua, que resume el deseo de salvación tanto del Israel del Antiguo Testamento como de la Iglesia del Nuevo. Son siete invocaciones a Cristo, cada una centrada en un título mesiánico diferente: Oh Sabiduría, Oh Adonai (Señor), Oh Raíz de Jesé, Oh Llave de David, Oh Oriente, Oh Rey de las naciones y Oh Emmanuel, cantadas antes y después del Magníficat en Vísperas durante los últimos siete días antes de la vigilia de Navidad.\n\nUn detalle curioso confirma que las siete fueron compuestas deliberadamente como un conjunto único: leídas en orden inverso, las iniciales latinas de los títulos (Sapientia, Adonai, Radix, Clavis, Oriens, Rex, Emmanuel) forman el acróstico «ERO CRAS», que significa «mañana estaré» o «mañana vendré» — una firma poética que intensifica la expectativa mesiánica del Adviento en su semana final, y que inspiró directamente el himno «Veni, veni Emmanuel».",
+      "tags": [
+        "Antífonas de la «O»",
+        "Adviento",
+        "Magníficat",
+        "Vísperas"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 27,
+      "fontes": [
+        "Wikipedia, \"Antífonas de la «O»\"",
+        "ACI Digital, \"Las siete antífonas de Adviento que se rezan en la semana previa a la Navidad\""
+      ]
+    },
+    {
+      "id": "liturgia-das-horas:leitura-breve-e-responsorio-breve",
+      "slug": "leitura-breve-e-responsorio-breve",
+      "titulo": "La Lectura Breve y el Responsorio Breve",
+      "categoria": "liturgia-das-horas",
+      "resumo": "En todas las horas, excepto en el Oficio de Lectura y en el Invitatorio, un breve pasaje de la Escritura seguido de un responsorio breve ocupa el lugar que, en Laudes y Vísperas, corresponde a la lectura más larga.",
+      "corpo": "La estructura general de cada hora de la Liturgia de las Horas incluye, después del himno y de la salmodia, una lectura de la Sagrada Escritura —larga o breve— seguida de un responsorio. En Laudes y Vísperas, prevalece normalmente la \"lectura breve\", sustituible por una lectura más larga en ocasiones especiales, seguida del \"responsorio breve\": un canto responsorial corto que puede omitirse o sustituirse por otro canto de función equivalente, siempre que esté debidamente aprobado por la Conferencia Episcopal.\n\nEn la Hora Intermedia, esta misma estructura de lectura breve seguida de responsorio breve se repite en cada una de las horas menores, cambiando de texto según el día, la semana o el tiempo litúrgico, destacando siempre algún pensamiento bíblico adecuado a ese momento específico del día. Por más compactas que sean, estas lecturas breves cumplen la misma función de toda proclamación de la Palabra de Dios en la liturgia: no son un mero adorno, sino el centro en torno al cual gira cada hora del Oficio.",
+      "tags": [
+        "lectura breve",
+        "responsorio breve",
+        "Hora Intermedia",
+        "estructura litúrgica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 28,
+      "fontes": [
+        "Ordenación General de la Liturgia de las Horas, cap. III"
+      ]
+    }
+  ]
+}

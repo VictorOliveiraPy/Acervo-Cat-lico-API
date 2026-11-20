@@ -1,0 +1,360 @@
+{
+  "_meta": {
+    "categoria": "doutrina-social",
+    "nome": "Doutrina Social da Igreja",
+    "descricao": "Os princípios fundamentais da Doutrina Social — dignidade da pessoa, bem comum, subsidiariedade, solidariedade e outros — que orientam a leitura cristã da vida econômica, política e social.",
+    "status": "exemplos-iniciais",
+    "aviso": "Esta categoria trata dos princípios; os documentos que os desenvolvem (Rerum Novarum, Laudato Si' e outros) estão na categoria Documentos do Magistério.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "Compêndio da Doutrina Social da Igreja",
+      "Catecismo de la Iglesia Católica, n. 1878-1948"
+    ]
+  },
+  "itens": [
+    {
+      "id": "doutrina-social:dignidade-da-pessoa-humana",
+      "slug": "dignidade-da-pessoa-humana",
+      "titulo": "Dignidad de la Persona Humana",
+      "categoria": "doutrina-social",
+      "resumo": "El principio fundante de toda la Doctrina Social: cada persona posee un valor infinito por ser creada a imagen y semejanza de Dios.",
+      "corpo": "La dignidad de la persona humana es el principio del que derivan todos los demás principios de la Doctrina Social de la Iglesia. Se fundamenta en la afirmación bíblica de que el ser humano fue creado \"a imagen y semejanza de Dios\" (Gn 1,26-27) y fue elevado aún más por la Encarnación, en la que el mismo Hijo de Dios asumió la naturaleza humana. De esta dignidad se sigue que ninguna persona puede ser tratada como simple medio para fines económicos, políticos o sociales —ella es siempre un fin en sí misma—, y que esta dignidad es intrínseca e inviolable, independientemente de la edad, la salud, la capacidad productiva, la nacionalidad o cualquier otra condición.",
+      "tags": [
+        "imagen de Dios",
+        "Encarnación",
+        "vida humana"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sistine_Chapel_ceiling%2C_Creation_of_Adam.jpg",
+      "imagem_credito": null,
+      "ordem": 1
+    },
+    {
+      "id": "doutrina-social:bem-comum",
+      "slug": "bem-comum",
+      "titulo": "Bien Común",
+      "resumo": "El conjunto de las condiciones sociales que permiten a cada persona y a cada grupo alcanzar más plena y fácilmente su propia perfección, según la definición del Concilio Vaticano II retomada por el Catecismo.",
+      "corpo": "El bien común es una de las nociones centrales de la doctrina social de la Iglesia. Su formulación clásica se encuentra en el Concilio Vaticano II, en la constitución pastoral \"Gaudium et Spes\" (1965), n. 26, que lo define como \"el conjunto de condiciones de la vida social que permiten, tanto a los grupos como a cada uno de sus miembros, alcanzar más plena y fácilmente la propia perfección\". No se trata de la simple suma de los bienes individuales ni del interés de la mayoría contra la minoría, sino del bien de toda la persona y de todas las personas. El Concilio lo sitúa entre los \"aspectos más importantes\" de la dignidad de la persona humana y lo articula con la noción de orden moral de la sociedad y de autoridad legítima.\n\nEl Catecismo de la Iglesia Católica retoma y sistematiza esta enseñanza en los números 1905 a 1912, explicando que el bien común incluye \"tres elementos esenciales\". El primero es el respeto a la persona como tal (n. 1907): los poderes públicos deben respetar los derechos fundamentales e inalienables de la persona humana. El segundo es el bienestar social y el desarrollo de la propia sociedad (n. 1908): a la autoridad compete arbitrar entre intereses particulares, de modo que a cada uno le sea accesible \"alimento, vestido, salud, trabajo, educación y cultura, información conveniente, derecho a constituir familia\". El tercero es la paz (n. 1909), entendida como \"la permanencia y seguridad de un orden justo\". La misma tríada se reafirma en los nn. 1924-1927, que añaden que el bien común se extiende a toda la familia humana y exige una organización de la sociedad internacional (n. 1927).\n\nEl concepto había sido preparado por la enseñanza social anterior. La encíclica \"Mater et Magistra\" (1961) de Juan XXIII ya trataba del bien común como criterio de las instituciones económicas y sociales, y la Doctrina Social de la Iglesia lo desarrolla en el propio documento del Vaticano II, presentándolo como fundamento de la autoridad política: \"la autoridad política debe ejercerse dentro de los límites del orden moral y garantizar las condiciones necesarias para el ejercicio de la libertad\" (n. 1923). El Catecismo insiste en que \"el orden de las cosas debe estar subordinado al orden de las personas, y no al contrario\" (n. 1912), principio que subordina la economía y la técnica a la dignidad humana.\n\nMás allá de la definición jurídica, la tradición identifica en el bien común una \"hipoteca social\" sobre la propiedad y un deber de solidaridad: el bien común no es indiferente al modo en que se distribuyen los bienes, y la autoridad política y cada ciudadano están obligados a buscar condiciones justas de seguridad, trabajo, educación, salud y paz, con especial atención a los más vulnerables. En este sentido, el bien común es inseparable de la noción de justicia social y del destino universal de los bienes, que reaparecen, por ejemplo, en la \"Sollicitudo Rei Socialis\" (1987) de san Juan Pablo II.",
+      "categoria": "doutrina-social",
+      "tags": [
+        "Gaudium et Spes",
+        "Catecismo de la Iglesia Católica",
+        "autoridad política",
+        "justicia social",
+        "Mater et Magistra",
+        "dignidad humana"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Ambrogio_Lorenzetti_-_Allegory_of_Good_Government_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "fontes": [],
+      "atualizado_em": null,
+      "ordem": 2
+    },
+    {
+      "id": "doutrina-social:subsidiariedade",
+      "slug": "subsidiariedade",
+      "titulo": "Subsidiariedad",
+      "categoria": "doutrina-social",
+      "resumo": "El principio según el cual una estructura social mayor no debe sustituir la iniciativa y la responsabilidad que los cuerpos menores pueden ejercer por sí mismos.",
+      "corpo": "Formulado clásicamente por Pío XI en la encíclica \"Quadragesimo Anno\" (1931), el principio de subsidiariedad establece que \"así como es injusto sustraer a los individuos lo que ellos pueden realizar con su propia iniciativa e industria para confiarlo a la comunidad, también es una injusticia y, al mismo tiempo, un grave daño y perturbación del buen orden confiar a una sociedad mayor y más elevada lo que puede ser hecho por comunidades menores e inferiores.\" El Estado y otras instituciones mayores deben, por tanto, apoyar y coordinar —no absorber o sustituir— a la familia, las asociaciones locales y los cuerpos intermedios de la sociedad, respetando su autonomía legítima.",
+      "tags": [
+        "Quadragesimo Anno",
+        "Pío XI",
+        "cuerpos intermedios",
+        "Estado"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Christmas_family_by_John_Lewis_Krimmel_c_1812.jpg",
+      "imagem_credito": null,
+      "ordem": 3
+    },
+    {
+      "id": "doutrina-social:solidariedade",
+      "slug": "solidariedade",
+      "titulo": "Solidaridad",
+      "categoria": "doutrina-social",
+      "resumo": "La determinación firme y perseverante de esforzarse por el bien común, reconociendo la interdependencia entre todos los seres humanos.",
+      "corpo": "Juan Pablo II, en la encíclica \"Sollicitudo Rei Socialis\" (1987), define la solidaridad no como \"un sentimiento de vaga compasión\", sino como \"la determinación firme y perseverante de empeñarse por el bien común; es decir, por el bien de todos y de cada uno, porque todos somos verdaderamente responsables de todos.\" Reconoce la profunda interdependencia que une hoy a toda la familia humana —económica, cultural, política y ecológica— y convierte esa constatación en exigencia moral concreta de compartir y de responsabilidad mutua entre personas, pueblos y naciones, especialmente ante las desigualdades globales.",
+      "tags": [
+        "Sollicitudo Rei Socialis",
+        "Juan Pablo II",
+        "interdependencia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Vincent_van_Gogh_-_The_Good_Samaritan%2C_1890_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 4
+    },
+    {
+      "id": "doutrina-social:destino-universal-dos-bens",
+      "slug": "destino-universal-dos-bens",
+      "titulo": "Destino Universal de los Bienes",
+      "categoria": "doutrina-social",
+      "resumo": "El principio de que los bienes de la creación están destinados a toda la humanidad, lo que relativiza —sin abolir— el derecho de propiedad privada.",
+      "corpo": "La Doctrina Social enseña que Dios destinó la tierra y todo lo que contiene a toda la humanidad, de modo que los bienes creados deben llegar equitativamente a todos, bajo la guía de la justicia y con la caridad como compañera. El derecho de propiedad privada es legítimo y necesario, pero está subordinado a este destino universal originario: \"la propiedad privada... está subordinada al destino universal de los bienes\" (Gaudium et Spes, 69). Por eso la tradición social católica insiste en que la propiedad tiene siempre una \"hipoteca social\": no puede usarse de modo que perjudique el acceso de otros a lo necesario para una vida digna.",
+      "tags": [
+        "propiedad privada",
+        "Gaudium et Spes",
+        "justicia"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Blue_Marble_Western_Hemisphere.jpg",
+      "imagem_credito": null,
+      "ordem": 5
+    },
+    {
+      "id": "doutrina-social:opcao-preferencial-pelos-pobres",
+      "slug": "opcao-preferencial-pelos-pobres",
+      "titulo": "Opción Preferencial por los Pobres",
+      "resumo": "El llamado a colocar las necesidades de los pobres y vulnerables en el centro de las decisiones morales, sociales y económicas, entendido como primado en la práctica de la caridad cristiana y no como categoría sociológica o política.",
+      "corpo": "La \"opción preferencial por los pobres\" es una de las expresiones más características de la doctrina social contemporánea. Su formulación nació en América Latina: aunque la II Conferencia General del Episcopado Latinoamericano, en Medellín (1968), no usa literalmente el término \"opción\", ya habla de \"orientar preferentemente a los sectores más pobres y necesitados\" — el documento de Medellín menciona la palabra \"pobre(s)\" al menos 66 veces y \"pobreza\" como mínimo 33 veces. Fue en la III Conferencia, en Puebla (1979), donde la expresión \"opción preferencial por los pobres\" fue efectivamente acuñada, para reafirmar la continuidad con Medellín. Puebla vincula esta opción a la conversión de toda la Iglesia y a la promoción integral del ser humano.\n\nEl magisterio pontificio acogió la expresión. Juan Pablo II la asumió en la encíclica \"Sollicitudo Rei Socialis\" (1987), n. 42, bajo la forma de \"opción o amor preferencial por los pobres\", definiéndola como \"una forma especial de primacía en el ejercicio de la caridad cristiana, testimoniada por toda la Tradición de la Iglesia\". El texto añade que tal opción concierne \"a la vida de cada cristiano, en cuanto debe ser imitación de la vida de Cristo\", y se aplica a las responsabilidades sociales, al uso de los bienes y a las decisiones económicas y políticas, teniendo en cuenta, en el mundo actual, \"las inmensas muchedumbres de hambrientos, de mendigos, de sin techo, sin asistencia médica y, sobre todo, sin esperanza de un futuro mejor\".\n\nEsta acogida no se dio sin controversia. El 6 de agosto de 1984, la Congregación para la Doctrina de la Fe publicó, con autorización de Juan Pablo II y bajo la firma del prefecto, el cardenal Joseph Ratzinger, la Instrucción \"Libertatis Nuntius\" sobre algunos aspectos de la teología de la liberación. El documento \"reafirma con vigor y sin rodeos\" la opción preferencial por los pobres, pero advierte contra corrientes que la reducían a un \"evangelio puramente terrenal\" y hacían un uso \"insuficientemente crítico\" de conceptos del pensamiento marxista. La instrucción recuerda que la opción definida en Puebla era \"doble: por los pobres y por los jóvenes\", e insiste en que las desviaciones ideológicas \"conducen inevitablemente a traicionar la causa de los pobres\". En 1986, la instrucción \"Libertatis Conscientia\" completó la orientación, y, más tarde, Ratzinger (entonces Benedicto XVI) diría que la opción \"está implícita en la fe cristológica en aquel Dios que se hizo pobre por nosotros, para enriquecernos con su pobreza\".\n\nFrancisco retomó y consolidó el tema. En la exhortación \"Evangelii Gaudium\" (2013), n. 198, afirma que \"para la Iglesia, la opción por los pobres es más una categoría teológica que cultural, sociológica, política o filosófica\", y sintetiza el propósito en un programa pastoral: \"deseo una Iglesia pobre para los pobres\". El texto insiste en que \"la peor discriminación que sufren los pobres es la falta de atención espiritual\" (n. 200) y que la opción \"debe traducirse, principalmente, en una solicitud religiosa privilegiada y prioritaria\". La expresión no significa exclusión de otros grupos, sino prioridad moral: ante cualquier decisión económica, política o pastoral, se pide evaluar primero su impacto sobre los más pobres. Se enraíza en la práctica del propio Jesús, que anunció la buena nueva primeramente a los pobres (Lc 4,18), y en la enseñanza profética del Antiguo Testamento sobre la justicia debida al huérfano, a la viuda y al extranjero.",
+      "categoria": "doutrina-social",
+      "tags": [
+        "Puebla",
+        "Medellín",
+        "Sollicitudo Rei Socialis",
+        "Evangelii Gaudium",
+        "pobreza",
+        "teología de la liberación",
+        "justicia social",
+        "Francisco"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "fontes": [],
+      "atualizado_em": null,
+      "ordem": 6
+    },
+    {
+      "id": "doutrina-social:participacao",
+      "slug": "participacao",
+      "titulo": "Participación",
+      "categoria": "doutrina-social",
+      "resumo": "El derecho y el deber de todo ciudadano de contribuir activamente a la vida cultural, económica, social y política de su comunidad.",
+      "corpo": "La participación es el conjunto de actividades mediante las cuales el ciudadano, individualmente o asociado con otros, contribuye a la vida cultural, económica, social y política de la comunidad a la que pertenece. La Doctrina Social la considera tanto un deber como un derecho: los sistemas que excluyen de la participación efectiva a grandes sectores de la población —por pobreza, discriminación o autoritarismo político— lesionan gravemente la dignidad humana y el bien común, y por eso la Iglesia defiende la promoción activa de estructuras democráticas y asociativas que permitan la participación real de todos, especialmente de los más marginados.",
+      "tags": [
+        "ciudadanía",
+        "democracia",
+        "asociacionismo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 7
+    },
+    {
+      "id": "doutrina-social:dignidade-do-trabalho",
+      "slug": "dignidade-do-trabalho",
+      "titulo": "Dignidad del Trabajo",
+      "categoria": "doutrina-social",
+      "resumo": "La doctrina de que el trabajo humano no es mera mercancía, sino expresión de la dignidad de la persona y forma de colaboración con la obra creadora de Dios.",
+      "corpo": "Desde la encíclica fundadora \"Rerum Novarum\" (1891) hasta \"Laborem Exercens\" (1981), la Doctrina Social afirma que el trabajo posee un valor subjetivo que precede y supera su valor objetivo de mercado: no es simple mercancía que se compra y se vende al menor costo, sino expresión de la dignidad de quien trabaja y que participa, al transformar el mundo, de la propia obra creadora de Dios. De ello se derivan exigencias concretas: salario justo, condiciones dignas, derecho al descanso, a la organización sindical y a la protección contra la explotación; el principio de que \"el capital no puede subsistir sin el trabajo\", tanto como el trabajo depende de los medios de producción.",
+      "tags": [
+        "Rerum Novarum",
+        "Laborem Exercens",
+        "salario justo",
+        "sindicalismo"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ford_Madox_Brown_-_Work_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 8
+    },
+    {
+      "id": "doutrina-social:cuidado-da-casa-comum",
+      "slug": "cuidado-da-casa-comum",
+      "titulo": "Cuidado de la Casa Común",
+      "resumo": "La responsabilidad moral por la creación, entendida como don recibido de Dios que debe ser cultivado y custodiado, no explotado sin límites; fundamentada sobre todo en la encíclica \"Laudato Si'\" (2015) de Francisco y en el concepto de ecología integral.",
+      "corpo": "El principio del cuidado de la \"casa común\" fue desarrollado sobre todo en la encíclica \"Laudato Si' — sobre el cuidado de la casa común\", de Francisco. Fechada el 24 de mayo de 2015 y publicada oficialmente el 18 de junio del mismo año, el texto es la segunda encíclica del pontificado, sucede a \"Lumen fidei\" (2013) y se extiende por seis capítulos y 246 párrafos, concluyendo con dos oraciones. El título retoma la expresión \"Alabado seas\" del \"Cántico de las Criaturas\" de San Francisco de Asís. La encíclica enseña que la creación es un don de Dios confiado a la humanidad para \"cultivarla y guardarla\" (Gn 2,15), no para dominarla sin límites.\n\nLa crisis ecológica se interpreta como síntoma de una crisis más profunda, moral y espiritual, ligada a la misma lógica que genera la injusticia social. De ahí el concepto de \"ecología integral\" (expresión acuñada en el capítulo cuarto, especialmente en los nn. 137-139), que une el cuidado del medio ambiente con el cuidado de los pobres. El punto central aparece en la fórmula \"todo está interconectado\" (nn. 16, 91 y 138): en la exhortación, \"un enfoque ecológico verdadero se convierte siempre en un enfoque social, que debe integrar la justicia en los debates sobre el ambiente, para escuchar tanto el clamor de la tierra como el clamor de los pobres\" (LS 49). Otra idea clave es la \"conversión ecológica\" (capítulo sexto, nn. 216-221), presentada como conversión interior y comunitaria, y no solo como cambio técnico de comportamiento.\n\nEl documento no surge aislado, sino que recoge una línea anterior del magisterio. Ya Juan Pablo II había tratado la cuestión en el número 15 de la encíclica \"Redemptor Hominis\" (1979) y en el número 37 de \"Centesimus Annus\" (1991), y Benedicto XVI lo hizo en \"Caritas in Veritate\" (2009), donde afirma que \"el libro de la naturaleza es uno e indivisible\". La \"Laudato Si'\" dialoga además con documentos de las Iglesias locales, como el texto de la CNBB \"La Iglesia y la Cuestión Ecológica\" (1992) y la declaración de los obispos de la República Dominicana de 1987.\n\nLa enseñanza tuvo continuidad en el propio pontificado. El 4 de octubre de 2023, en la fiesta de San Francisco, Francisco publicó la exhortación apostólica \"Laudate Deum — sobre la crisis climática\", presentada como desarrollo de la encíclica y dirigida, en seis capítulos y 73 párrafos, \"a todas las personas de buena voluntad\". En ella el documento afirma explícitamente que \"el origen humano — 'antrópico' — del cambio climático ya no se puede poner en duda\" (n. 11) y advierte contra \"ciertas opiniones ridiculizadoras y poco racionales\" surgidas desde el interior de la propia Iglesia (n. 14). El cuidado de la casa común fue recibido también en el Sínodo para la Amazonía, cuyo fruto es la exhortación \"Querida Amazonía\" (2020), y en la noción de \"ecología integral\" desarrollada en la encíclica \"Fratelli Tutti\" (2020).",
+      "categoria": "doutrina-social",
+      "tags": [
+        "Laudato Si'",
+        "Laudate Deum",
+        "ecología integral",
+        "creación",
+        "Francisco",
+        "conversión ecológica",
+        "grito de los pobres"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/34/D%C3%BClmen%2C_Naturschutzgebiet_-Am_Enteborn-_--_2014_--_0202.jpg",
+      "imagem_credito": "Dietmar Rabich — Wikimedia Commons, CC BY-SA 4.0",
+      "fontes": [],
+      "atualizado_em": null,
+      "ordem": 9
+    },
+    {
+      "id": "doutrina-social:promocao-da-paz",
+      "slug": "promocao-da-paz",
+      "titulo": "Promoción de la Paz",
+      "categoria": "doutrina-social",
+      "resumo": "La paz como obra de la justicia, fruto de un orden social fundado en la verdad, la libertad, el amor y la justicia, no mera ausencia de guerra.",
+      "corpo": "La Doctrina Social rechaza la noción de paz como simple ausencia de conflicto armado, definiéndola, con Juan XXIII en la encíclica \"Pacem in Terris\" (1963), como fruto de un orden social fundado sobre la verdad, construido según la justicia, vivificado e integrado por la caridad y puesto en práctica en la libertad. En esta visión, la paz es obra de la justicia: donde hay una profunda desigualdad, opresión o exclusión, la paz permanece frágil o ilusoria, y la Iglesia insiste en la búsqueda de una solución pacífica de los conflictos, en el desarme y en la cooperación internacional como caminos concretos para consolidarla.",
+      "tags": [
+        "Pacem in Terris",
+        "Juan XXIII",
+        "justicia",
+        "desarme"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Peter_Paul_Rubens_-_Allegory_on_the_Blessings_of_Peace_-_WGA20333.jpg",
+      "imagem_credito": null,
+      "ordem": 10
+    },
+    {
+      "id": "doutrina-social:direitos-humanos",
+      "slug": "direitos-humanos",
+      "titulo": "Derechos Humanos",
+      "categoria": "doutrina-social",
+      "resumo": "El reconocimiento, fundado en la dignidad de la persona, de que todo ser humano posee derechos universales, inviolables e inalienables que ningún poder puede suprimir legítimamente.",
+      "corpo": "Fue Juan XXIII, en la encíclica \"Pacem in Terris\" (1963), quien presentó por primera vez de modo sistemático, en el magisterio pontificio, una lista de derechos fundados directamente en la dignidad de la persona humana: el derecho a la vida y a un nivel de vida digno, a la libertad de buscar la verdad y de expresarse, a la educación, al trabajo y a condiciones justas de trabajo, y a la participación en la vida pública — siempre acompañados de los deberes correspondientes que les dan sentido.\n\nLa Doctrina Social insiste en que estos derechos son universales, válidos para todo ser humano sin distinción de raza, nación o condición social, e indivisibles: los derechos civiles y políticos no pueden separarse de los derechos económicos, sociales y culturales, so pena de defender la libertad de unos olvidando la subsistencia digna de todos.",
+      "tags": [
+        "Pacem in Terris",
+        "Juan XXIII",
+        "dignidad de la persona"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 11
+    },
+    {
+      "id": "doutrina-social:justica-social",
+      "slug": "justica-social",
+      "titulo": "Justicia Social",
+      "categoria": "doutrina-social",
+      "resumo": "La exigencia de que las estructuras económicas, jurídicas y políticas de una sociedad estén ordenadas de modo que garanticen a cada persona y a cada grupo lo que le es debido.",
+      "corpo": "La expresión \"justicia social\" aparece por primera vez en una encíclica social con Pío XI, en \"Quadragesimo Anno\" (1931): el Papa enseña que la justicia y la caridad sociales deben penetrar completamente las instituciones de los pueblos y toda la vida de la sociedad, citando como aplicación concreta la exigencia de un salario justo para el trabajador.\n\nLa justicia social va más allá de la justicia que rige los intercambios entre individuos particulares: se aplica a las propias estructuras e instituciones, exigiendo que ninguna clase, grupo o categoría de personas sea sistemáticamente perjudicada por el modo en que la sociedad está organizada. Es, por ello, un principio distinto —aunque complementario— del bien común y de la virtud cardinal de la justicia ya tratados en esta misma categoría de contenidos.",
+      "tags": [
+        "Quadragesimo Anno",
+        "Pío XI",
+        "justicia",
+        "salario justo"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 12
+    },
+    {
+      "id": "doutrina-social:liberdade-religiosa",
+      "slug": "liberdade-religiosa",
+      "titulo": "Libertad Religiosa",
+      "categoria": "doutrina-social",
+      "resumo": "El derecho de toda persona a no ser coaccionada, en materia religiosa, ni por el Estado ni por ningún otro poder humano, fundado en la propia dignidad de la persona.",
+      "corpo": "El Concilio Vaticano II, en la declaración \"Dignitatis Humanae\" (1965), afirma que la persona humana tiene derecho a la libertad religiosa: nadie debe ser coaccionado a actuar contra su propia conciencia en materia religiosa, ni impedido de actuar según ella, dentro de los justos límites, sea en público o en privado, solo o asociado a otros. El documento funda este derecho tanto en la razón como en la propia revelación.\n\nLa declaración representó una maduración importante del pensamiento católico tras siglos de tensión con el liberalismo en torno al tema, y hoy sirve de base doctrinal para la defensa de minorías religiosas perseguidas en diferentes partes del mundo, así como fundamento para otras libertades civiles fundamentales.",
+      "tags": [
+        "Dignitatis Humanae",
+        "Concilio Vaticano II",
+        "libertad"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 13
+    },
+    {
+      "id": "doutrina-social:boa-politica-forma-de-caridade",
+      "slug": "boa-politica-forma-de-caridade",
+      "titulo": "La Buena Política como Forma de Caridad",
+      "categoria": "doutrina-social",
+      "resumo": "El principio de que el compromiso político, cuando se ordena al bien común, es una de las formas más altas del ejercicio de la caridad cristiana.",
+      "corpo": "La idea de que la política, vivida con rectitud, es \"la forma más elevada de la caridad\" se remonta a Pío XI y fue retomada por Pablo VI; Francisco la desarrolla extensamente en el quinto capítulo de la encíclica \"Fratelli Tutti\" (2020), titulado \"La mejor política\". Desde esta perspectiva, el compromiso político no es una vocación secundaria ni moralmente sospechosa, sino un camino genuino de servicio e incluso de santidad, cuando se orienta verdaderamente al bien de todos.\n\nEste principio contrasta con formas de política reducidas a interés de grupo, populismo o corrupción: la Doctrina Social recuerda que toda autoridad legítima existe para servir al bien común, no para dominar o perpetuarse en el poder.",
+      "tags": [
+        "Fratelli Tutti",
+        "Francisco",
+        "política",
+        "bien común"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 14
+    },
+    {
+      "id": "doutrina-social:fraternidade-e-amizade-social",
+      "slug": "fraternidade-e-amizade-social",
+      "titulo": "Fraternidad y Amistad Social",
+      "categoria": "doutrina-social",
+      "resumo": "La llamada, desarrollada por Francisco en la encíclica Fratelli Tutti, a construir lazos de fraternidad universal que superen fronteras, naciones e intereses particulares.",
+      "corpo": "Inspirada en las palabras de San Francisco de Asís a sus hermanos, la encíclica \"Fratelli Tutti\" (2020) toma como imagen central la parábola del Buen Samaritano (Lc 10,25-37), releída como modelo de lo que el Papa Francisco llama \"amistad social\": la capacidad de reconocer en el extraño, en el diferente o incluso en el adversario, a alguien a quien se debe amor concreto. Fraternidad universal y amistad social son descritas como \"dos polos inseparables\", cuya separación provoca deformación y polarización nociva.\n\nEste principio se relaciona estrechamente con la solidaridad ya presente en esta categoría, pero añade una dimensión propia: mientras la solidaridad es sobre todo responsabilidad compartida por el bien común, la fraternidad añade el reconocimiento afectivo del otro como hermano, independientemente de nacionalidad, raza o religión.",
+      "tags": [
+        "Fratelli Tutti",
+        "Francisco",
+        "fraternidad",
+        "Buen Samaritano"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Vincent_van_Gogh_-_The_Good_Samaritan%2C_1890_-_Google_Art_Project.jpg",
+      "imagem_credito": null,
+      "ordem": 15
+    },
+    {
+      "id": "doutrina-social:desenvolvimento-integral-dos-povos",
+      "slug": "desenvolvimento-integral-dos-povos",
+      "titulo": "Desarrollo Integral de los Pueblos",
+      "categoria": "doutrina-social",
+      "resumo": "La doctrina de que el verdadero desarrollo no se mide solo por el crecimiento económico, sino que debe promover a la persona entera y a todas las personas.",
+      "corpo": "En la encíclica \"Populorum Progressio\" (1967), Pablo VI acuña la fórmula que se ha vuelto casi proverbial: \"el desarrollo es el nuevo nombre de la paz\". El documento sostiene que el desarrollo auténtico no puede reducirse al crecimiento económico, debiendo promover \"a todo el hombre y a todos los hombres\" — es decir, las dimensiones social, cultural, política y espiritual de la persona, y no solo el indicador material del producto nacional.\n\nEsta visión critica directamente los modelos de desarrollo que ignoran la justicia distributiva entre naciones ricas y pobres, y sentó las bases para reflexiones posteriores de la Doctrina Social, como las encíclicas \"Caritas in Veritate\" y \"Laudato Si'\", que retoman y profundizan el tema.",
+      "tags": [
+        "Populorum Progressio",
+        "Pablo VI",
+        "desarrollo"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 16
+    },
+    {
+      "id": "doutrina-social:globalizacao-da-solidariedade",
+      "slug": "globalizacao-da-solidariedade",
+      "titulo": "Globalización de la Solidaridad",
+      "categoria": "doutrina-social",
+      "resumo": "La propuesta de que los lazos de interdependencia creados por la globalización económica se orienten por criterios éticos de solidaridad, y no solo por la lógica del mercado.",
+      "corpo": "En la encíclica \"Caritas in Veritate\" (2009), Benedicto XVI presenta la \"caridad en la verdad\" como principio dinámico en torno al cual gira toda la Doctrina Social, aplicándolo al fenómeno de la globalización: esta puede constituir una oportunidad real de progreso para toda la familia humana, pero solo si va acompañada de una renovación moral y cultural profunda y de un discernimiento responsable sobre las opciones tomadas en nombre del bien común.\n\nSin esta orientación ética, advierte el documento, la globalización económica tiende a ahondar las desigualdades en lugar de reducirlas. La encíclica retoma y actualiza, cuarenta años después, los temas de \"Populorum Progressio\", proponiendo formas de gobernanza capaces de subordinar la economía global al bien común de toda la humanidad.",
+      "tags": [
+        "Caritas in Veritate",
+        "Benedicto XVI",
+        "globalización"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 17
+    },
+    {
+      "id": "doutrina-social:economia-a-servico-da-pessoa-humana",
+      "slug": "economia-a-servico-da-pessoa-humana",
+      "titulo": "La Economía al Servicio de la Persona Humana",
+      "categoria": "doutrina-social",
+      "resumo": "El principio de que ningún sistema económico puede aceptarse si sacrifica la dignidad de la persona humana a sus propios engranajes.",
+      "corpo": "Escrita en 1991, en el centenario de la \"Rerum Novarum\" y poco después de la caída de los regímenes comunistas de Europa del Este, la encíclica \"Centesimus Annus\" de Juan Pablo II somete a una crítica igualmente severa tanto al colectivismo marxista como a las formas de capitalismo que ignoran la dimensión ética y social de la economía. El Papa es explícito en no proponer una \"tercera vía\" institucional entre los dos sistemas: lo que defiende es que la economía de mercado solo es legítima cuando está enmarcada por un sólido contexto jurídico y ético al servicio de la libertad humana integral.\n\nEl documento reafirma la primacía del trabajo sobre el capital y el destino universal de los bienes, principios ya tratados en esta categoría, insistiendo en que toda estructura económica es medio, nunca fin en sí misma, y que su criterio último de valoración debe ser siempre el servicio prestado a la persona humana.",
+      "tags": [
+        "Centesimus Annus",
+        "Juan Pablo II",
+        "economía"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 18
+    },
+    {
+      "id": "doutrina-social:familia-celula-fundamental-da-sociedade",
+      "slug": "familia-celula-fundamental-da-sociedade",
+      "titulo": "Familia, célula fundamental de la sociedad",
+      "categoria": "doutrina-social",
+      "resumo": "El reconocimiento de la familia, fundada en el matrimonio, como la primera y más fundamental de las sociedades humanas, anterior y superior al propio Estado.",
+      "corpo": "El Compendio de la Doctrina Social de la Iglesia dedica todo su quinto capítulo a la familia, presentada como la \"primera sociedad natural\", a la que corresponde el derecho de ser protegida por el Estado, y no absorbida ni sustituida por él — aplicación directa del principio de subsidiariedad ya tratado en esta categoría. El Catecismo resume esta convicción afirmando que \"la familia es la célula original de la vida social\" (CEC 2207).\n\nDe esta concepción se derivan derechos específicos que la Doctrina Social defiende como propios de la familia: el derecho de los padres a educar a los hijos según las propias convicciones morales y religiosas, la autonomía doméstica legítima y el deber del Estado y de otras instituciones de apoyarla en sus necesidades, sin pretender jamás ocupar su lugar insustituible.",
+      "tags": [
+        "familia",
+        "subsidiariedad",
+        "Compendio de la Doctrina Social"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Christmas_family_by_John_Lewis_Krimmel_c_1812.jpg",
+      "imagem_credito": null,
+      "ordem": 19
+    },
+    {
+      "id": "doutrina-social:cultura-do-descarte",
+      "slug": "cultura-do-descarte",
+      "titulo": "Rechazo de la Cultura del Descarte",
+      "categoria": "doutrina-social",
+      "resumo": "La crítica del Papa Francisco a una mentalidad que trata a las personas y a las cosas como desechables cuando dejan de ser útiles o productivas, y la llamada a una cultura del encuentro y del cuidado.",
+      "corpo": "En la exhortación apostólica \"Evangelii Gaudium\" (2013, n. 53), Francisco denuncia el surgimiento de una \"cultura del descarte\", propia de una economía que \"mata\" al excluir sistemáticamente a quienes ya \"no sirven\": los ancianos abandonados, los enfermos crónicos, los desempleados de larga duración, los no nacidos. No se trata, advierte el Papa, de una política específica, sino de una mentalidad más amplia y difusa, subyacente a muchas formas concretas de exclusión social y económica.\n\nEl tema se desarrolla después en \"Laudato Si'\" y \"Fratelli Tutti\", siempre en contraste con lo que Francisco llama \"cultura del encuentro\": el reconocimiento de que toda persona posee una dignidad inalienable, independientemente de su capacidad productiva o de su utilidad inmediata para los demás.",
+      "tags": [
+        "Evangelii Gaudium",
+        "Francisco",
+        "exclusión social"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 20
+    }
+  ]
+}

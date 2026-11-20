@@ -1,0 +1,711 @@
+{
+  "_meta": {
+    "categoria": "milagres-eucaristicos",
+    "nome": "Milagros Eucarísticos",
+    "descricao": "Milagros eucarísticos con culto y documentación eclesiástica reconocidos.",
+    "status": "exemplos-iniciais",
+    "aviso": "Incluye solo casos con culto y documentación eclesiástica reconocidos; no es un catálogo definitivo y no sustituye el juicio de la autoridad eclesiástica competente.",
+    "revisao_editorial": "Los milagros eucarísticos son hechos de devoción privada aprobada, no artículos de fe. Los casos medievales tienen fechas de origen transmitidas por la tradición local, sin precisión documental; por eso aparecen como siglo o con «según la tradición», y ninguna fecha se ha convertido en un número exacto. Los casos de los siglos XX y XXI (Buenos Aires, Sokółka) cuentan con documentación y exámenes científicos contemporáneos al propio hecho, con fechas precisas.",
+    "fontes_gerais": [
+      "Catecismo de la Iglesia Católica, nn. 1373-1381 (presencia real de Cristo en la Eucaristía)",
+      "Documentación y archivos de los santuarios responsables de la custodia de las reliquias",
+      "miracolieucaristici.org — Exposición «Los Milagros Eucarísticos del Mundo», organizada por el Beato Carlo Acutis"
+    ]
+  },
+  "itens": [
+    {
+      "id": "milagres-eucaristicos:lanciano",
+      "slug": "lanciano",
+      "titulo": "Milagro Eucarístico de Lanciano",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Reliquias de carne y sangre conservadas en Lanciano, Italia, veneradas desde la Edad Media.",
+      "corpo": "En Lanciano, en la región de los Abruzos (Italia), se conservan reliquias de carne y de sangre coagulada veneradas como milagro eucarístico. La tradición local sitúa el hecho en el siglo VIII, durante una Misa en la que un monje dudaba de la presencia real de Cristo en la Eucaristía.\n\nLas reliquias se custodian en el Santuario del Milagro Eucarístico de Lanciano, bajo el cuidado de los frailes menores conventuales, y se exponen a la veneración de los fieles. El caso es uno de los más antiguos y más difundidos de la devoción eucarística latina.\n\nLa Iglesia permite y acompaña este culto, pero la fe en la presencia real no depende de ningún milagro particular: se funda en las palabras de Cristo y en la doctrina profesada por la Iglesia, como expone el Catecismo en los nn. 1373-1381.",
+      "tags": [
+        "eucaristía",
+        "Italia",
+        "reliquia",
+        "presencia real"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/1_miracolo.jpg",
+      "local": "Lanciano, Abruzos (Italia)",
+      "ano": "siglo VIII (según la tradición local)",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1373-1381",
+        "Santuario del Milagro Eucarístico de Lanciano — documentación de custodia"
+      ],
+      "imagem_credito": "Foto: Franco Colacioppo / Triyus (2014) — Wikimedia Commons, CC BY-SA 3.0"
+    },
+    {
+      "id": "milagres-eucaristicos:bolsena-orvieto",
+      "slug": "bolsena-orvieto",
+      "titulo": "Milagro Eucarístico de Bolsena-Orvieto",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Corporal manchado de sangre venerado en la Catedral de Orvieto, asociado por la tradición a la institución de la fiesta del Corpus Christi.",
+      "corpo": "Según la tradición, durante una Misa celebrada en la iglesia de Santa Cristina, en Bolsena (Italia), el corporal se manchó con la sangre que brotó de la hostia consagrada. El corporal se conserva y se venera en la Catedral de Orvieto, donde se construyó una capilla propia para custodiarlo.\n\nLa tradición relaciona el hecho con la institución de la solemnidad del Santísimo Cuerpo y Sangre de Cristo (Corpus Christi) para toda la Iglesia latina, realizada por Urbano IV mediante la bula «Transiturus de hoc mundo», en 1264. El texto de la bula, sin embargo, no narra el milagro: el vínculo entre ambos acontecimientos pertenece a la tradición local, y este acervo lo registra como tal.\n\nAl Oficio y a la Misa de la solemnidad están ligados himnos de la tradición atribuidos a Santo Tomás de Aquino, entre ellos el «Pange lingua» y el «Lauda Sion».",
+      "tags": [
+        "eucaristía",
+        "Corpus Christi",
+        "Italia",
+        "Orvieto"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Duomo_orvieto_-_reliquario_del_corporale.JPG",
+      "local": "Bolsena y Orvieto (Italia)",
+      "ano": "1263 (según la tradición)",
+      "fontes": [
+        "Urbano IV, Bula «Transiturus de hoc mundo» (1264)",
+        "Catecismo de la Iglesia Católica, nn. 1373-1381",
+        "Catedral de Orvieto — Capilla del Corporal, documentación de custodia"
+      ],
+      "imagem_credito": null
+    },
+    {
+      "id": "milagres-eucaristicos:santarem",
+      "slug": "santarem",
+      "titulo": "Milagro Eucarístico de Santarém",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Reliquia eucarística venerada en la Iglesia del Santísimo Milagro, en Santarém, Portugal.",
+      "corpo": "En Santarém, Portugal, la Iglesia de San Esteban —conocida como Iglesia del Santísimo Milagro— conserva una reliquia eucarística venerada desde hace siglos por los fieles. La tradición local sitúa el origen del hecho en la Edad Media y lo asocia a una hostia consagrada sustraída de una celebración.\n\nLa reliquia se expone a la veneración y es objeto de romería y de procesión propias en la ciudad. Como en los demás casos, la documentación primaria más antigua es escasa, y este acervo se limita a registrar lo que transmite la tradición, sin fijar fechas exactas.\n\nEl valor catequético de estos hechos es despertar la fe y la adoración debidas al Santísimo Sacramento, cuya doctrina la Iglesia profesa independientemente de cualquier signo extraordinario.",
+      "tags": [
+        "eucaristía",
+        "Portugal",
+        "reliquia",
+        "adoración"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Igreja_do_Sant%C3%ADssimo_Milagre_01.jpg",
+      "local": "Santarém (Portugal)",
+      "ano": "siglo XIII (según la tradición local)",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1373-1381",
+        "Iglesia del Santísimo Milagro (San Esteban), Santarém — documentación de custodia"
+      ],
+      "imagem_credito": "Foto: GualdimG (2014) — Wikimedia Commons, CC BY-SA 4.0"
+    },
+    {
+      "id": "milagres-eucaristicos:siena",
+      "slug": "siena",
+      "titulo": "Milagro Eucarístico de Siena",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "223 hostias robadas en 1730 en la Basílica de San Francisco permanecen intactas casi tres siglos después.",
+      "corpo": "La noche del 14 de agosto de 1730, víspera de la Asunción, unos ladrones forzaron la Basílica de San Francisco en Siena, Italia, y robaron un copón de plata con hostias consagradas guardado en una capilla dedicada a San Antonio. La ciudad suspendió las fiestas de la Asunción y el obispo pidió oraciones y reparación por el sacrilegio.\n\nTres días después, el 17 de agosto, una feligresa notó un brillo que venía de una caja de limosnas en la Iglesia de Santa María in Provenzano; al abrirla, encontraron las hostias robadas, cubiertas de polvo y telarañas, pero intactas. Como estaban sucias, los frailes decidieron guardarlas en un lugar reservado para que se descompusieran naturalmente, proceso que se esperaba del pan ázimo en pocas semanas.\n\nEso nunca ocurrió: las 223 hostias permanecen, casi tres siglos después, intactas y sin señales de descomposición, custodiadas en la propia Basílica de San Francisco y expuestas a la veneración cada día 17 del mes, en memoria del día del reencuentro. Comisiones científicas las examinaron a lo largo de los siglos sin encontrar una explicación natural para su conservación.",
+      "tags": [
+        "eucaristía",
+        "Italia",
+        "hostias incorruptas",
+        "siglo XVIII"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/San_Francesco_Siena_Apr_2008.jpg",
+      "imagem_credito": "Foto: Gryffindor / Marku1988 (2008) — Wikimedia Commons, CC BY-SA 3.0",
+      "local": "Siena (Italia)",
+      "ano": "1730",
+      "fontes": [
+        "Basílica de San Francisco de Siena — documentación de custodia y del hallazgo (17 de agosto de 1730)",
+        "Catecismo de la Iglesia Católica, nn. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:buenos-aires",
+      "slug": "buenos-aires",
+      "titulo": "Milagro Eucarístico de Buenos Aires",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Hostia descartada en 1996 se transformó en tejido cardíaco; caso acompañado por el entonces obispo auxiliar Jorge Bergoglio, el futuro Papa Francisco.",
+      "corpo": "El 15 de agosto de 1996, en la parroquia Santa María, en el barrio de Almagro, en Buenos Aires, el padre Alejandro Pezet encontró una hostia consagrada descartada en el fondo de la iglesia. Siguiendo el procedimiento litúrgico para estos casos, la colocó en un recipiente con agua dentro del sagrario, para que se disolviera naturalmente.\n\nAl abrir el sagrario días después, el 26 de agosto, encontró no pan disuelto, sino un fragmento de tejido rojizo, mayor que la hostia original, que no se deshacía. El entonces obispo auxiliar de Buenos Aires, Mons. Jorge Mario Bergoglio —el futuro Papa Francisco—, fue informado y autorizó que el fragmento fuera fotografiado y conservado.\n\nAños después, entre 1999 y 2005, ya como arzobispo titular, Bergoglio autorizó el envío de muestras a laboratorios independientes para examen científico. El Dr. Frederick Zugibe, exmédico forense jefe del condado de Rockland (EE. UU.), analizó el material sin conocer su origen e identificó tejido de músculo cardíaco del ventrículo izquierdo, inflamado y con signos de sufrimiento intenso, compatible con tejido vivo; declaró públicamente no tener explicación científica para su conservación. En 2002, el profesor John Walker, de la Universidad de Sídney, confirmó la presencia de células musculares y glóbulos blancos intactos, que normalmente se desintegran pocos minutos después de la muerte.",
+      "tags": [
+        "eucaristía",
+        "Argentina",
+        "Papa Francisco",
+        "siglo XX"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/ParroquiaSantaMaria_Caballito_BsAs.jpg",
+      "imagem_credito": "Foto: Nicolasrnphoto (2013) — Wikimedia Commons, CC BY-SA 4.0",
+      "local": "Buenos Aires (Argentina)",
+      "ano": "1996",
+      "fontes": [
+        "Dr. Frederick Zugibe, informe de examen histológico (Rockland County, EE. UU.)",
+        "Prof. John Walker, Universidad de Sídney, examen complementario (2002)"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:amsterdam",
+      "slug": "amsterdam",
+      "titulo": "Milagro Eucarístico de Ámsterdam",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Una hostia administrada a un moribundo en 1345 sobrevivió intacta al fuego, dando origen a una procesión de peregrinación que se mantiene hasta hoy.",
+      "corpo": "El 16 de marzo de 1345, un hombre gravemente enfermo llamado Ysbrant Dommer recibió la unción de los enfermos y la comunión en su casa, en la Kalverstraat, en Ámsterdam. Poco después, vomitó la hostia recibida; siguiendo la norma litúrgica de la época para tales casos, la arrojaron al fuego del hogar, para que fuera consumida con reverencia.\n\nA la mañana siguiente, encontraron la hostia intacta entre las cenizas, sin ninguna señal del fuego. El caso fue llevado a las autoridades eclesiásticas y municipales, que reconocieron lo sucedido; en el lugar se construyó una capilla de peregrinación llamada «Heilige Stede» («Lugar Sagrado»), destino de peregrinos durante siglos, hasta ser demolida en el siglo XIX.\n\nLa devoción sobrevive en la «Stille Omgang» («Procesión Silenciosa»), restablecida en 1881 y celebrada todos los años en la noche entre el sábado y el domingo de Ramos, recorriendo en silencio el trayecto de la procesión medieval — hoy uno de los mayores actos de peregrinación católica de los Países Bajos, país de mayoría protestante desde la Reforma.",
+      "tags": [
+        "eucaristía",
+        "Países Bajos",
+        "Edad Media",
+        "peregrinación"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Stille_Omgang_in_Amsterdam%2C_Bestanddeelnr_922-2248.jpg",
+      "imagem_credito": null,
+      "local": "Ámsterdam (Países Bajos)",
+      "ano": "1345",
+      "fontes": [
+        "Crónicas municipales de Ámsterdam y del obispado de Utrecht (siglo XIV)",
+        "Catecismo de la Iglesia Católica, nn. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:turim",
+      "slug": "turim",
+      "titulo": "Milagro Eucarístico de Turín",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Un ostensorio con hostias robadas se elevó solo sobre la ciudad en 1453, dando origen a la Basílica del Corpus Domini.",
+      "corpo": "En 1453, soldados franceses victoriosos saquearon, durante un conflicto militar, la iglesia de la ciudad de Exilles, en el Piamonte, llevándose entre el botín un ostensorio con hostias consagradas. El 6 de junio —día de la fiesta del Corpus Christi de aquel año—, los soldados se dirigían a Turín para vender lo que habían saqueado, con el ostensorio atado a la grupa de una mula.\n\nAl llegar cerca de la ciudad, la mula tropezó y el ostensorio se soltó, elevándose solo en el aire sobre las casas e iluminando la plaza, según el relato tradicional, ante numerosos testigos. El obispo local recogió el ostensorio en procesión solemne.\n\nEl suceso está documentado en las Actas Capitulares del municipio de Turín de 1454, 1455 y 1456, redactadas pocos años después de lo ocurrido. En el lugar se erigió la Iglesia del Corpus Domini —reconstruida como basílica en el siglo XVI, ampliada en acción de gracias por el fin de una epidemia de peste en 1598, y elevada a la dignidad de basílica menor por Pío XI en 1928.",
+      "tags": [
+        "eucaristía",
+        "Italia",
+        "siglo XV"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Chiesa_Corpus_Domini_Torino.JPG",
+      "imagem_credito": "Foto: Franco56 (2007) — Wikimedia Commons, CC BY-SA 3.0",
+      "local": "Turín (Italia)",
+      "ano": "1453",
+      "fontes": [
+        "Actas Capitulares del Municipio de Turín (1454-1456)",
+        "Catecismo de la Iglesia Católica, nn. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:sokolka",
+      "slug": "sokolka",
+      "titulo": "Milagro Eucarístico de Sokółka",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Una hostia caída durante la Misa en 2008 formó una mancha de tejido cardíaco, examinada por dos patólogos independientes de la Universidad Médica de Białystok.",
+      "corpo": "El 12 de octubre de 2008, durante la Misa de las 8:30 en la iglesia de San Antonio de Padua, en Sokółka, en el noreste de Polonia, una hostia consagrada cayó de las manos del sacerdote durante la distribución de la comunión. Siguiendo el procedimiento litúrgico, fue recogida, colocada en un recipiente con agua y guardada en un sagrario por la sacristana, hermana Julia Dubowska.\n\nSiete días después, al abrir el sagrario —esperando encontrar el pan ya disuelto—, la hermana halló la hostia intacta, con una mancha roja en el centro, semejante a sangre. El caso fue llevado a la Curia de Białystok, que, a comienzos de 2009, encargó exámenes independientes a dos profesores de anatomía patológica de la Universidad Médica de Białystok, María Elżbieta Sobaniec-Łotowska y Stanisław Sulkowski.\n\nLos dos exámenes, realizados de forma independiente, llegaron a la misma conclusión: el fragmento transformado tenía una estructura idéntica a tejido del miocardio (músculo cardíaco) de una persona viva, cercana a la muerte, con lesiones observables solo en tejido vivo —y las fibras musculares aparecían entrelazadas con el pan de un modo que los investigadores declararon imposible de reproducir por medios humanos.",
+      "tags": [
+        "eucaristía",
+        "Polonia",
+        "siglo XXI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/St_Antoni_Church_in_Sok%C3%B3%C5%82ka-9.jpg",
+      "imagem_credito": "Foto: Tarkan18 (2009) — Wikimedia Commons, CC BY-SA 4.0",
+      "local": "Sokółka (Polonia)",
+      "ano": "2008",
+      "fontes": [
+        "Prof. Maria Elżbieta Sobaniec-Łotowska e Prof. Stanisław Sulkowski, Universidade Médica de Białystok, laudo histopatológico (2009)",
+        "Catecismo de la Iglesia Católica, nn. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:faverney",
+      "slug": "faverney",
+      "titulo": "Milagro Eucarístico de Faverney",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Dos hostias consagradas permanecieron suspendidas en el aire, sin apoyo, tras un incendio que destruyó en 1608 el altar donde estaban expuestas.",
+      "corpo": "En mayo de 1608, en la abadía benedictina de Faverney, en el este de Francia, un incendio nocturno destruyó el altar donde dos hostias consagradas habían sido dejadas expuestas para la adoración después de la fiesta del Corpus Christi. Al encontrar las ruinas a la mañana siguiente, los monjes relataron que el copón con las hostias permanecía suspendido en el aire, sin ningún apoyo material, sobre los escombros carbonizados — situación que se mantuvo, según el relato documentado en aquella época, durante unas 33 horas, hasta que fue recogido en una procesión solemne.",
+      "tags": [
+        "eucaristía",
+        "Francia",
+        "siglo XVII"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Faverney_-_Abbaye_02.JPG",
+      "imagem_credito": "Foto: Ginette Mathis — Wikimedia Commons, CC BY-SA 3.0",
+      "local": "Faverney (Francia)",
+      "ano": "1608",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:blanot",
+      "slug": "blanot",
+      "titulo": "Milagro Eucarístico de Blanot",
+      "resumo": "Fragmento de hostia que se habría convertido en una gota de sangre sobre un paño, en la iglesia de Blanot (Borgoña), en la Pascua del 31 de marzo de 1331, y cuya reliquia se conserva hasta hoy.",
+      "corpo": "El milagro eucarístico de Blanot tuvo lugar el 31 de marzo de 1331, domingo de Pascua, en la iglesia parroquial de Saint-Andoche-et-Saint-Thyrse, en la pequeña aldea borgoñona de Blanot, entonces parte de la diócesis de Autun. En la primera Misa del día, el vicario Hugues de Baumes distribuía la comunión a una iglesia llena; según la costumbre de la época, en las celebraciones concurridas dos laicos sostenían extendido un paño delante del sacerdote, para impedir que una hostia cayera al suelo. Los dos auxiliares eran Thomas Caillot y Guyot Besson.\n\nAl recibir la comunión, la última comulgante —la anciana viuda Jacquette Renaud d'Effours— dejó caer de su boca un fragmento de la hostia sobre el tejido, sin que ni ella ni el celebrante lo percibieran. Thomas Caillot advirtió entonces al sacerdote: «Padre, el Señor debe volver a la balaustrada, porque el Cuerpo de Nuestro Señor cayó de la boca de esta señora sobre el paño». Cuando Hugues de Baumes intentó recoger el fragmento —estimado en cerca de un quinto de la hostia— para colocarlo sobre el corporal, este se habría transformado ante sus ojos en una gota de sangre, dejando sobre el tejido una mancha del tamaño de la hostia. El vicario recortó la parte del paño con la mancha y la guardó en un relicario.\n\nEl obispo de Autun, Pierre Bertrand, fue informado y nombró una comisión de investigación compuesta por Jean Jarossier, juez eclesiástico, Hugues Chapelot, arcipreste de Lucenay, y Etienne Angovrand, notario real. Tras escuchar a los testigos, el obispo concluyó el origen sobrenatural del fenómeno. El papa Juan XXII concedió indulgencias plenarias a los peregrinos de Blanot, y el tejido pasó a ser llevado en procesión en las fiestas de Pascua, de Pentecostés y del Corpus Christi. Las hostias que quedaron en el copón tras aquella comunión nunca fueron usadas, permaneciendo reservadas en el sagrario; en 1706, todavía en buen estado tras 375 años, fueron llevadas en una procesión de cinco horas por los alrededores de la parroquia, con motivo del aniversario del milagro.\n\nLa reliquia atravesó la Revolución Francesa: el 27 de diciembre de 1793, un grupo de revolucionarios abrió el sagrario y llegó a manipular el paño manchado, conservado entonces en un tubo de cristal, pero lo desechó por considerarlo de poco valor; el tubo fue después confiado a la custodia del piadoso feligrés Dominique Cortet, sufriendo grietas en el manejo y en el escondite. Hoy custodiada en la iglesia de Blanot, la reliquia se expone en una vitrina, y el sexto centenario del prodigio fue celebrado con una gran procesión en 1931.",
+      "categoria": "milagres-eucaristicos",
+      "tags": [
+        "eucaristía",
+        "Francia",
+        "Borgoña",
+        "Edad Media",
+        "siglo XIV",
+        "Blanot",
+        "Autun",
+        "corporal",
+        "Pascua"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Procession_Blanot2.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Miracle eucharistique de Blanot (verbete), Wikipedia en francés",
+        "The Real Presence Association, Eucharistic Miracle of Blanot, France (1331)",
+        "Codex Dei / Marie de Nazareth, Une parcelle d'hostie consacrée se met à saigner à Blanot en 1331",
+        "L'église de Blanot (Côte d'Or), un lieu chargé d'histoire et de spiritualité, Les Amis de la Plaine (blogue)"
+      ],
+      "atualizado_em": null,
+      "local": "Blanot (Francia)",
+      "ano": "1331 (según la tradición)"
+    },
+    {
+      "id": "milagres-eucaristicos:daroca",
+      "slug": "daroca",
+      "titulo": "Milagros Eucarísticos de Daroca (Los Corporales)",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Seis corporales manchados de sangre, conservados desde el siglo XIII en Daroca, España, asociados a una batalla entre cristianos y musulmanes.",
+      "corpo": "La tradición sitúa el hecho en 1239, durante un enfrentamiento militar entre tropas cristianas y musulmanas en la región de Aragón: un sacerdote, temiendo profanación, habría escondido hostias consagradas en corporales de lino antes de la batalla; al recuperarlos después, los tejidos aparecerían manchados de sangre en las formas circulares de las hostias. Los seis corporales (\"Los Corporales\") son venerados desde entonces en la Colegiata de Santa María de Daroca, en España, y dan nombre a una fiesta regional propia.",
+      "tags": [
+        "eucaristía",
+        "España",
+        "Edad Media"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Colegiata_de_Santa_Mar%C3%ADa_de_los_Sagrados_Corporales%2C_Daroca%2C_Zaragoza%2C_Espa%C3%B1a%2C_2014-01-08%2C_DD_31.jpg",
+      "imagem_credito": "Foto: Diego Delso — Wikimedia Commons, CC BY-SA 3.0",
+      "local": "Daroca, Aragón (España)",
+      "ano": "1239 (según la tradición)",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:o-cebreiro",
+      "slug": "o-cebreiro",
+      "titulo": "Milagro Eucarístico de O Cebreiro",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Transformación eucarística relatada en una pequeña iglesia del Camino de Santiago, hacia el año 1300, en un contexto de incredulidad de un sacerdote local.",
+      "corpo": "Situado en una aldea alta gallega en el Camino de Santiago, el santuario de O Cebreiro conserva la tradición de que, hacia el año 1300, un cáliz con vino y una hostia se habrían transformado visiblemente en sangre y carne durante la Misa celebrada por un sacerdote local que, según el relato, dudaba de la presencia real de Cristo en la Eucaristía, a pesar del mal tiempo que llevaba a los peregrinos a insistir en la celebración. El cáliz de piedra asociado al relato se conserva en el santuario hasta hoy.",
+      "tags": [
+        "eucaristía",
+        "España",
+        "Edad Media",
+        "Camino de Santiago"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/90/Igrexa_de_Santa_Mar%C3%ADa_a_Real%2C_Pedrafita_do_Cebreiro.jpg",
+      "imagem_credito": "Foto: amaianos — Wikimedia Commons, CC BY 2.0",
+      "local": "O Cebreiro, Galicia (España)",
+      "ano": "c. 1300 (según la tradición)",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:ferrara",
+      "slug": "ferrara",
+      "titulo": "Milagro Eucarístico de Ferrara",
+      "resumo": "Según la tradición, en la Misa de Pascua del 28 de marzo de 1171, gotas de sangre habrían salpicado desde la hostia hasta la pequeña bóveda sobre el altar de la iglesia de Santa María in Vado, en Ferrara.",
+      "corpo": "El milagro eucarístico de Ferrara se data tradicionalmente el domingo de Pascua, 28 de marzo de 1171, en la entonces iglesia de Santa María Anteriore — hoy Basílica de Santa María in Vado. Según el relato transmitido, el prior Pietro da Verona, de los canónigos regulares portuenses, celebraba la Misa de la Resurrección asistido por los hermanos Bono, Leonardo y Aimone; en el momento de la fracción de la hostia, esta habría adquirido apariencia de carne y de ella habría brotado un hilo de sangre que salpicó la pequeña bóveda sobre el altar. El relato afirma además que muchos fieles dijeron haber visto en la hostia la figura de un niño.\n\nLa noticia se difundió rápidamente por la ciudad. Acudieron al lugar Amato, obispo de Ferrara, y Gherardo, arzobispo de Rávena — a quien la iglesia, confiada a los canónigos portuenses, estaba sujeta —, quienes escucharon a los testigos y reconocieron el carácter milagroso del hecho. El lugar se convirtió en meta de peregrinación, y la fama del prodigio impulsó la reconstrucción del templo, que, ya como basílica, fue consagrado en 1518. La documentación posterior refuerza la tradición: Giraldo Cambrense registra el episodio en la Gemma Ecclesiastica ya hacia 1197, y el papa Eugenio IV, en la bula Cantate Domino del 7 de abril de 1442, escribió que la iglesia de Santa María in Vado «debe ser honrada, porque en ella el cuerpo y la sangre de Cristo aparecieron manifiestamente durante la misa». El episodio también es recordado por Benedicto XIV en el De servorum Dei beatificatione et beatorum canonizatione.\n\nEn el plano material, la pequeña bóveda manchada de sangre fue conservada y, el 26 de marzo de 1501, trasladada desde la pared original al brazo derecho del transepto. En 1594-1595, por voluntad del duque Alfonso II d'Este, el arquitecto Alessandro Balbi construyó a su alrededor un tempietto — una capilla doble, con columnillas dóricas y jónicas, a la que se sube por escaleras laterales —, enmarcado en el siglo XVIII por el fresco de la Tienda del Padre Eterno, de Francesco Parolini, con decoraciones laterales de Giacomo Filippi y Giuseppe Antonio Ghedini. Los techos de la nave central, del transepto y del coro fueron decorados por el pintor ferrarés Carlo Bononi, con la ayuda de Giulio Cromer.\n\nEl prodigio suele situarse en el contexto de los movimientos heréticos activos en Ferrara y en la Italia de entonces, como el de los cátaros, presentándose como respuesta providencial a las dudas sobre la presencia real. A los ojos de la piedad popular y de la literatura local, el testimonio más duradero del evento es la propia bóveda manchada, todavía hoy conservada y venerada en el tempietto — la «Preciosísima Sangre» de Santa María in Vado.",
+      "categoria": "milagres-eucaristicos",
+      "tags": [
+        "eucaristía",
+        "Italia",
+        "Edad Media",
+        "siglo XII",
+        "Ferrara",
+        "Pascua",
+        "presencia real",
+        "preciosísima sangre"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Ferrara_Chiesa_di_Santa_Maria_in_Vado_Interno_Transetto_Sud_Tempietto_1.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Giraldo Cambrense, Gemma Ecclesiastica (c. 1197), apud A. Samaritani, La testimonianza di Giraldo Cambrense sul miracolo eucaristico di Ferrara, S.A.T.E., Ferrara, 1985",
+        "Bula Cantate Domino, del papa Eugenio IV, 7 de abril de 1442",
+        "Benedicto XIV, De servorum Dei beatificatione et beatorum canonizatione",
+        "Chiesa di Santa Maria in Vado (voz), Wikipedia en italiano",
+        "Alleanza Cattolica, Il miracolo eucaristico di Ferrara"
+      ],
+      "atualizado_em": null,
+      "local": "Ferrara (Italia)",
+      "ano": "1171 (según la tradición)"
+    },
+    {
+      "id": "milagres-eucaristicos:legnica",
+      "slug": "legnica",
+      "titulo": "Milagro Eucarístico de Legnica",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Hostia caída al suelo en 2013, en Polonia, que desarrolló una mancha roja examinada por especialistas forenses y patólogos.",
+      "corpo": "En diciembre de 2013, en una parroquia de Legnica, en Polonia, una hostia consagrada cayó al suelo durante la distribución de la comunión; siguiendo el procedimiento, fue recogida y colocada en agua para que se disolviera naturalmente. Días después, presentaba una mancha roja persistente. La comisión nombrada por el obispo local, que incluía peritos forenses y patólogos independientes, identificó en 2014 tejido muscular cardíaco de características similares a las de otros casos, como el de Sokółka, sin una explicación natural concluyente sobre su origen o persistencia.",
+      "tags": [
+        "eucaristía",
+        "Polonia",
+        "siglo XXI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw_Jacka_w_Legnicy.jpg",
+      "imagem_credito": "Foto: Emilia Ernst (changes by Rabanus Flavus) — Wikimedia Commons, CC BY-SA 4.0",
+      "local": "Legnica (Polonia)",
+      "ano": "2013",
+      "fontes": [
+        "Comisión del Obispado de Legnica, informe pericial (2014)",
+        "Catecismo de la Iglesia Católica, nn. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:bettbrunn",
+      "slug": "bettbrunn",
+      "titulo": "Milagro Eucarístico de Bettbrunn",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Origen de un santuario bávaro a partir de una hostia robada en el siglo XII y reencontrada intacta tras ser enterrada por un agricultor local.",
+      "corpo": "La tradición bávara sitúa hacia 1125 el relato de una hostia consagrada robada de una iglesia cercana y luego abandonada por su ladrón en un campo de Bettbrunn, en Baviera; un agricultor que la encontró, sin saber del robo, habría intentado enterrarla repetidas veces, viéndola siempre reaparecer intacta en la superficie, hasta que sacerdotes locales la recogieron en procesión. En el lugar se erigió el Santuario de Bettbrunn, destino de peregrinación regional hasta hoy.",
+      "tags": [
+        "eucaristía",
+        "Alemania",
+        "Edad Media"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Wallfahrtskirche_St._Salvator_Bettbrunn.jpg",
+      "imagem_credito": null,
+      "local": "Bettbrunn, Baviera (Alemania)",
+      "ano": "c. 1125 (según la tradición)",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:macerata-offida",
+      "slug": "macerata-offida",
+      "titulo": "Milagro Eucarístico de Offida",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Corporal manchado de sangre, en el centro de Italia, asociado por antigua tradición a una mujer que habría profanado una hostia por instigación diabólica en el siglo XIV.",
+      "corpo": "La tradición de la región de Offida, en el centro de Italia, narra que, en el siglo XIV, una joven llamada Ricciarella, instigada por una práctica de superstición popular, habría intentado usar una hostia consagrada robada de la Misa para fines de hechicería amorosa; al intentar cortarla o quemarla, la hostia habría sangrado abundantemente, manchando un corporal y asustándola hasta el punto de confesar el acto al párroco. El corporal es venerado desde entonces en la Iglesia de San Agustín de Offida.",
+      "tags": [
+        "eucaristía",
+        "Italia",
+        "Edad Media"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Offida_Chiesa_Collegiata_01.jpg",
+      "imagem_credito": "Foto: pizzodisevo 1937, from Italy — Wikimedia Commons, CC BY-SA 2.0",
+      "local": "Offida (Italia)",
+      "ano": "siglo XIV (según la tradición)",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:trani",
+      "slug": "trani",
+      "titulo": "Milagro Eucarístico de Trani",
+      "resumo": "Según la tradición, una hostia consagrada, puesta a freír en aceite por una mujer que dudaba de la presencia real, se habría convertido en carne y sangrado en abundancia; la reliquia se venera en Trani, en Apulia.",
+      "corpo": "El milagro eucarístico de Trani, conocido en la devoción local como la historia de la «hostia frita», se sitúa tradicionalmente hacia el año 1000, aunque la datación es imprecisa y discutida. Según el relato difundido, una mujer de religión no cristiana —llamada Zakés en versiones tardías del siglo XIX, como la del abogado tranés Orazio Palumbo, e identificada en fuentes católicas como judía— habría obtenido una hostia consagrada durante la comunión en la iglesia de Sant'Andrea (entonces dedicada a San Basilio y atendida por monjes de rito griego), ocultándola en un pañuelo. En casa, para comprobar si era pan, habría sumergido la partícula en aceite hirviendo; la hostia se habría transformado entonces en carne y comenzado a sangrar en tal cantidad que la sangre desbordó de la sartén e inundó el suelo, llegando a salir por la puerta de la casa.\n\nEl obispo de la ciudad —llamado Crisostomo en algunas versiones— fue informado y se dirigió al lugar, recogió los restos de la hostia y los trasladó en procesión a la catedral, instituyendo una procesión de reparación. El primer testimonio histórico escrito es de 1470: los peregrinos genoveses Anselmo y Giovanni Adorno, de regreso de Tierra Santa, relatan haber venerado «un pedazo milagroso del cuerpo de nuestro Señor», explicando que una mujer sencilla, sin mala intención sino por ignorancia, había intentado cocer una hostia consagrada y esta se había transformado de inmediato en un pedazo de carne «que se ve todavía hoy». Por ello, la historiografía sitúa el acontecimiento histórico en el siglo XIV —o, según otra atribución, en 1495—, distinto de la tradición popular que lo remonta al año mil. El franciscano Bartolomeu Campi, en L'innamorato di Gesù Cristo (1625), y el cisterciense Ferdinando Ughelli, en la Italia sacra (1670), dejaron reseñas del episodio.\n\nLa reliquia, constituida por dos fragmentos y perteneciente al Cabildo de la Catedral, fue guardada en una teca de plata donada en 1616 por Fabrizio de Cunio; conservada en la catedral, fue trasladada en 1981 a la iglesia de Sant'Andrea. La antigua casa del hecho fue reconocida por proceso canónico concluido en 1706 por el arzobispo Pietro de Torres y transformada, por iniciativa del noble Ottaviano Campitelli, en una capilla dedicada al Santísimo Salvador, mencionada en 1719 por el vicario general Antonio Paoli; desde 2021 la capilla es accesible y en ella se permite el culto. La reliquia pasó por varias recognitiones eclesiásticas —entre ellas las de 1616, 1678, 1706, 1719, 1824, 1886—, siendo las más recientes las de 1924, en el Primer Congreso Eucarístico Interdiocesano, cuando el arzobispo Giuseppe Maria Leo confirió a Trani el título de «Ciudad Eucarística», y la de 2004, en el octogésimo aniversario del mismo congreso.\n\nLa devoción se mantiene viva en la ciudad: una procesión penitencial del Viernes Santo, atestiguada desde el siglo XVI en documentos del Livro Rosso de la Universidad y reorganizada a partir del arzobispo Davanzati, recuerda el prodigio, y el milagro se asocia también, por tradición, al culto del Crucifijo de Colonna. La defensa de la tradición convive con la falta de fuentes contemporáneas al evento y con la divergencia de las dataciones propuestas.",
+      "categoria": "milagres-eucaristicos",
+      "tags": [
+        "eucaristía",
+        "Italia",
+        "Apulia",
+        "Trani",
+        "Edad Media",
+        "profanación",
+        "reliquia",
+        "hostia frita",
+        "procesión"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Teca-reliquiario_contenente_il_Miracolo_Eucaristico_di_Trani.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Anselmo e Giovanni Adorno, relato de peregrinación (1470), citado en el artículo Miracolo eucaristico di Trani, Wikipedia en italiano",
+        "Bartolomeu Campi, L'innamorato di Gesù Cristo (1625)",
+        "Ferdinando Ughelli, Italia sacra (1670)",
+        "Raffaele Iaria, I miracoli eucaristici in Italia, Edizioni Paoline, 2005, pp. 27-31",
+        "F. Spaccucci e G. Curci, Il miracolo eucaristico di Trani, Laurenziana, Napoli, 1996",
+        "Cathopedia, Miracolo eucaristico di Trani"
+      ],
+      "atualizado_em": null,
+      "local": "Trani (Italia)",
+      "ano": "1751"
+    },
+    {
+      "id": "milagres-eucaristicos:tixtla",
+      "slug": "tixtla",
+      "titulo": "Milagro Eucarístico de Tixtla",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Hostia caída durante la Misa en 2006, en México, con una mancha examinada por peritos — uno de los casos eucarísticos más recientes de América Latina.",
+      "corpo": "En octubre de 2006, en la parroquia de Tixtla, en el estado mexicano de Guerrero, una hostia consagrada cayó al suelo durante la comunión y fue recogida según el procedimiento litúrgico habitual, colocándose en un recipiente con agua. Días después, presentaba una mancha roja persistente que motivó el examen por peritos independientes, en un proceso de investigación eclesiástica conducido por la diócesis local, siguiendo un protocolo semejante al de otros casos documentados en el siglo XXI.",
+      "tags": [
+        "eucaristía",
+        "México",
+        "siglo XXI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Parroquia_San_Mart%C3%ADn_de_Tours%2CTixtla%2CEstado_de_Guerrero%2CM%C3%A9xico_%289070976957%29.jpg",
+      "imagem_credito": "Foto: Catedrales e Iglesias/Cathedrals and Churches from Puebla de los Ángeles, Mexico — Wikimedia Commons, CC BY 2.0",
+      "local": "Tixtla (México)",
+      "ano": "2006",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:cascia",
+      "slug": "cascia",
+      "titulo": "Milagro Eucarístico de Cascia",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Manchas de sangre en un mantel de altar en Cascia, Italia, atribuidas a un episodio de duda sobre la presencia real en el siglo XIV.",
+      "corpo": "En Cascia, en la región de Umbría (Italia), se venera un mantel de altar (corporal) manchado de sangre, vinculado según la tradición local a un episodio ocurrido en 1330: un sacerdote, sumido en la duda sobre la presencia real de Cristo en la Eucaristía, habría visto brotar sangre de la hostia consagrada durante la Misa.\n\nLa reliquia se conserva en la Basílica de Santa Rita de Casia, en la misma ciudad vinculada a la devoción a la santa agustina. Es uno de los casos eucarísticos más antiguos que todavía hoy se exponen a la veneración de los fieles en el centro de Italia.\n\nLa Iglesia permite y acompaña este culto, pero la fe en la presencia real no depende de ningún milagro particular: se funda en las palabras de Cristo y en la doctrina profesada por la Iglesia, como expone el Catecismo en los nn. 1373-1381.",
+      "tags": [
+        "eucaristía",
+        "Italia",
+        "reliquia",
+        "presencia real"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Basilica_inferiore_di_Santa_Rita_3.JPG",
+      "imagem_credito": null,
+      "local": "Cascia, Umbría (Italia)",
+      "ano": "1330 (según la tradición local)",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1373-1381",
+        "Documentación de custodia de la Basílica de Santa Rita de Casia"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:alatri",
+      "slug": "alatri",
+      "titulo": "Milagro Eucarístico de Alatri",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Hostia transformada en carne visible en Alatri, Italia, tras un intento de profanación en el siglo XIII.",
+      "corpo": "En Alatri, en el Lacio (Italia), la tradición sitúa en 1228 el caso de una hostia consagrada que, sustraída con fines de profanación por instigación de una hechicera, se habría transformado visiblemente en carne. El obispo local habría promovido entonces la veneración pública de la reliquia.\n\nLa reliquia se conserva en la Catedral de San Pablo Apóstol de Alatri, y el caso figura entre los más antiguos documentados en la Italia central.\n\nLa Iglesia permite y acompaña este culto, pero la fe en la presencia real no depende de ningún milagro particular: se funda en las palabras de Cristo y en la doctrina profesada por la Iglesia, como expone el Catecismo en los nn. 1373-1381.",
+      "tags": [
+        "eucaristía",
+        "Italia",
+        "reliquia",
+        "presencia real"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/San_Paolo_Alatri_3.jpg",
+      "imagem_credito": null,
+      "local": "Alatri, Lacio (Italia)",
+      "ano": "1228 (según la tradición local)",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1373-1381",
+        "Documentación de custodia de la Catedral de San Pablo Apóstol de Alatri"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:bagno-di-romagna",
+      "slug": "bagno-di-romagna",
+      "titulo": "Milagro Eucarístico de Bagno di Romagna",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Vino eucarístico transformado en sangre visible durante la consagración en Bagno di Romagna, en Italia, a comienzos del siglo XV.",
+      "corpo": "En Bagno di Romagna, en Emilia-Romaña (Italia), la tradición sitúa en 1412 el caso de un sacerdote agustino que, dominado por la duda sobre la presencia real de Cristo, habría visto el vino del cáliz transformarse visiblemente en sangre en el momento de la consagración durante la Misa.\n\nLa reliquia se conserva en la Basílica de Santa María Asunta de la ciudad, y sigue siendo objeto de veneración local hasta hoy.\n\nLa Iglesia permite y acompaña este culto, pero la fe en la presencia real no depende de ningún milagro particular: se funda en las palabras de Cristo y en la doctrina profesada por la Iglesia, como expone el Catecismo en los nn. 1373-1381.",
+      "tags": [
+        "eucaristía",
+        "Italia",
+        "reliquia",
+        "presencia real"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/BAGNO_DI_ROMAGNA_-Santa_Maria_Assunta_3.JPG",
+      "imagem_credito": null,
+      "local": "Bagno di Romagna, Emilia-Romaña (Italia)",
+      "ano": "1412 (según la tradición local)",
+      "fontes": [
+        "Catecismo de la Iglesia Católica, nn. 1373-1381",
+        "Documentación de custodia de la Basílica de Santa María Assunta de Bagno di Romagna"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:ludbreg",
+      "slug": "ludbreg",
+      "titulo": "Milagro Eucarístico de Ludbreg",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Vino transformado en sangre durante la consagración en una capilla de Croacia, en 1411, con reliquia venerada hasta hoy y aprobación papal en 1513.",
+      "corpo": "En 1411, en la capilla del castillo de los condes Batthyány, en la ciudad croata de Ludbreg, un sacerdote que celebraba la Misa fue asaltado por una fuerte duda sobre la presencia real de Cristo en el vino consagrado. En el momento de la consagración, el vino se transformó visiblemente en sangre en el cáliz. Temiendo las consecuencias, el sacerdote escondió la reliquia detrás del altar mayor, revelando el secreto solo poco antes de morir.\n\nDivulgado el hecho, comenzó una intensa peregrinación al lugar. A comienzos del siglo XVI, el papa Julio II envió una comisión para investigar los acontecimientos, y el 14 de abril de 1513 el papa León X publicó una bula autorizando el culto público a la reliquia, que él mismo llevó en procesión por las calles de Roma antes de devolverla a Ludbreg.\n\nActualmente, la reliquia es venerada en la iglesia parroquial de Ludbreg, y desde 1411 se celebra anualmente, a comienzos de septiembre, la celebración conocida como \"Sveta Nedilja\" (Domingo Santo), reuniendo a miles de peregrinos croatas.",
+      "tags": [
+        "eucaristía",
+        "Croacia",
+        "reliquia",
+        "presencia real"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Ludbreg (Croacia)",
+      "ano": "1411 (aprobación papal en 1513)",
+      "fontes": [
+        "Bula del papa León X autorizando el culto a la reliquia de Ludbreg (14 de abril de 1513)",
+        "Catecismo de la Iglesia Católica, nn. 1373-1381"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:walldurn",
+      "slug": "walldurn",
+      "titulo": "Milagro Eucarístico de Walldürn",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Sangre derramada de un cáliz formó la imagen de Cristo crucificado sobre un corporal, en Walldürn, Alemania, en 1330.",
+      "corpo": "En 1330, el padre Henrique Otto celebraba la Misa en Walldürn, pequeña ciudad del actual estado alemán de Baden-Württemberg, cuando, tras la consagración, derribó accidentalmente el cáliz. La preciosa Sangre derramada sobre el corporal formó la imagen de Cristo crucificado, rodeada por once imágenes idénticas de su cabeza coronada de espinas.\n\nTemiendo ser acusado de descuido sacrílego, el sacerdote escondió el corporal detrás de una piedra en el altar y guardó el secreto durante unos cincuenta años, revelándolo solamente en su lecho de muerte e indicando el escondite, donde el paño fue entonces encontrado.\n\nEl relato más antiguo por escrito del origen de la peregrinación fue publicado en Würzburg en 1589 por el párroco Jost Hoffius. Hoy el corporal manchado de sangre se conserva en un altar lateral de la Basílica menor de San Jorge en Walldürn, que recibe cada año a miles de peregrinos en la tradicional romería a la \"Sangre Preciosa\" (Heiligblut).",
+      "tags": [
+        "eucaristía",
+        "Alemania",
+        "reliquia",
+        "presencia real"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Walldürn, Baden-Württemberg (Alemania)",
+      "ano": "1330",
+      "fontes": [
+        "Wallfahrt-wallduern.de, documentación del Blutwunder von Walldürn",
+        "Jost Hoffius, relato de la origen de la peregrinación de Walldürn (Würzburg, 1589)"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:seefeld",
+      "slug": "seefeld",
+      "titulo": "Milagro Eucarístico de Seefeld",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Hostia sangrando y caballero tragado por el suelo de la iglesia, en el Jueves Santo de 1384, en Seefeld, en el Tirol austríaco.",
+      "corpo": "En el Jueves Santo de 1384, en la iglesia parroquial de San Oswaldo, en Seefeld, en el Tirol austríaco, el caballero Oswald Milser, señor de un castillo vecino, se acercó al altar con la espada desenvainada y hombres armados, exigiendo recibir la Hostia grande reservada al sacerdote celebrante, por considerar demasiado pequeña la hostia común distribuida a los fieles.\n\nSegún el relato tradicional, en cuanto la Hostia tocó su boca, el caballero comenzó a hundirse en el suelo de piedra hasta las rodillas, aterrorizado, aferrándose al altar con ambas manos —cuyas marcas la tradición afirma que aún son visibles—, mientras de la Hostia comenzó a brotar sangre viva. El caballero sobrevivió al episodio, pero pasó el resto de su vida como penitente en un monasterio.\n\nEl agujero en el piso donde el caballero habría quedado hundido está hoy cubierto por una reja y puede ser visto por los peregrinos, junto al altar reconstruido sobre el original, en la iglesia que se convirtió en santuario y destino de peregrinación en el Tirol.",
+      "tags": [
+        "eucaristía",
+        "Austria",
+        "presencia real",
+        "Edad Media"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Seefeld, Tirol (Austria)",
+      "ano": "1384",
+      "fontes": [
+        "Sacred Destinations, \"Seefeld Eucharistic Miracle, Austria\"",
+        "Miracolieucaristici.org, ficha del milagro de Seefeld"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:bois-seigneur-isaac",
+      "slug": "bois-seigneur-isaac",
+      "titulo": "Milagro Eucarístico de Bois-Seigneur-Isaac",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Un fragmento de hostia consagrada sangró durante cuatro días en 1405, en Bélgica, y el obispo de Cambrai autorizó el culto ya en 1413.",
+      "corpo": "A partir del martes anterior a Pentecostés de 1405, el noble Jean de Huldenberg afirmó haber recibido en sueños repetidas apariciones de Jesús cubierto de llagas, quien le invitaba a visitar una pequeña capilla en el bosque cercano a Bois-Seigneur-Isaac, en la actual Bélgica. Al asistir a la Misa celebrada por el párroco Pierre Ost, este notó, en el momento del ofertorio, que un fragmento de hostia de la celebración anterior, olvidado sobre el corporal, comenzaba a sangrar, fenómeno que se repitió en los cuatro días siguientes.\n\nEl obispo de Cambrai, Pierre d'Ailly, autorizó formalmente la devoción a la reliquia el 3 de mayo de 1413, y la primera procesión en su honor tuvo lugar al año siguiente. El 13 de enero de 1424, el papa Martín V aprobó oficialmente la fundación del monasterio erigido en el lugar.\n\nEl monasterio de Bois-Seigneur-Isaac sigue siendo destino de peregrinación, conservando en su capilla la reliquia del corporal manchado de sangre.",
+      "tags": [
+        "eucaristía",
+        "Bélgica",
+        "reliquia",
+        "presencia real"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Bois-Seigneur-Isaac (Bélgica)",
+      "ano": "1405 (aprobación episcopal en 1413)",
+      "fontes": [
+        "Autorización del obispo de Cambrai, Pierre d'Ailly, a la devoción de la reliquia (3 de mayo de 1413)",
+        "Bula del papa Martín V aprobando la fundación del monasterio (13 de enero de 1424)"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:silla",
+      "slug": "silla",
+      "titulo": "Milagro Eucarístico de Silla",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Hostias consagradas robadas en 1907, en España, fueron encontradas incorruptas bajo una piedra dos días después y así permanecen hasta hoy.",
+      "corpo": "El 25 de marzo de 1907, fiesta de la Anunciación, se descubrió en Silla, en la región de Valencia, España, que el sagrario de la iglesia había sido forzado y el copón con las hostias consagradas, robado. Dos días después, las hostias fueron encontradas intactas bajo una piedra en un huerto cercano y devueltas en procesión solemne a la parroquia local.\n\nExaminadas periódicamente a lo largo del siglo siguiente, las hostias permanecieron sin señal de descomposición, siendo este estado de conservación incorrupta el elemento central considerado extraordinario en el caso. El arzobispado de Valencia inició un primer proceso de reconocimiento en 1934, interrumpido por la Guerra Civil Española.\n\nEn 1983, tras nuevos exámenes periciales, documentales y testimoniales, el arzobispo de Valencia, don Miguel Roca Cabanellas, declaró por decreto auténticas y bien conservadas las sagradas formas, determinando que recibieran el culto previsto por el derecho canónico. Las hostias son veneradas hasta hoy en la parroquia de Nuestra Señora de los Ángeles, en Silla.",
+      "tags": [
+        "eucaristía",
+        "España",
+        "hostia incorrupta",
+        "presencia real"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Silla, Valencia (España)",
+      "ano": "1907 (decreto de reconocimiento en 1983)",
+      "fontes": [
+        "Decreto del arzobispo de Valencia, don Miguel Roca Cabanellas, sobre las sagradas formas de Silla (1983)",
+        "ACI Prensa, \"Valencia celebrará aniversario de milagro eucarístico de Silla\""
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:cimballa",
+      "slug": "cimballa",
+      "titulo": "Milagro Eucarístico de Cimballa",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Hostia transformada en carne sangrante durante la Misa de 1370, en España, episodio conocido como el \"Santísimo Misterio Dudado\".",
+      "corpo": "En 1370, en la parroquia de la Purificación de Nuestra Señora, en Cimballa, pequeña localidad del obispado de Tarazona, en la provincia de Zaragoza, España, el párroco mosén Tomás fue asaltado durante la Misa por fuertes dudas sobre la presencia real de Cristo en la Eucaristía. Tras la consagración, la Hostia se transformó en carne, de la que comenzó a brotar sangre que manchó el corporal — episodio que se conoció localmente como el \"Santísimo Misterio Dudado\" (Santísimo Misterio Dudado).\n\nArrepentido, el sacerdote pasó el resto de su vida en un monasterio, dedicado a la penitencia y a la oración. Habiendo llegado la noticia del milagro al rey Martín I de Aragón, este solicitó que la reliquia fuera llevada a la capilla del Palacio Real de Zaragoza, para preservarla de los riesgos de las guerras entre Aragón y Castilla que entonces estaban en curso.\n\nLa reliquia del corporal manchado de sangre se conserva hasta hoy en la iglesia parroquial de Cimballa, donde la memoria del milagro se celebra anualmente el 12 de septiembre.",
+      "tags": [
+        "eucaristía",
+        "España",
+        "reliquia",
+        "presencia real"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Cimballa, Zaragoza (España)",
+      "ano": "1370",
+      "fontes": [
+        "Miracolieucaristici.org, ficha del milagro eucarístico de Cimballa",
+        "Turismo de Aragón, \"La Ruta de los Milagros Eucarísticos\""
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:ivorra",
+      "slug": "ivorra",
+      "titulo": "Milagro Eucarístico de Ivorra",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Vino consagrado transformado en sangre en el año 1010, considerado el más antiguo milagro eucarístico documentado en España, con bula papal de aprobación.",
+      "corpo": "En el año 1010, el presbítero Bernardo Oliver, rector de la capilla de Ivorra, en la comarca de La Segarra, provincia de Lleida, España, fue asaltado por una fuerte tentación de duda sobre la presencia real de Cristo en el vino consagrado. En el momento en que pronunciaba las palabras de la consagración sobre el cáliz, el vino se transformó en sangre y se derramó sobre el mantel del altar y el suelo.\n\nEl obispo de Urgel, san Ermengol, fue testigo personal del fenómeno, lo reconoció como sobrenatural y llevó parte de la sangre preciosa a Roma, relatando lo sucedido al papa Sergio IV, quien aprobó la conducta del obispo y autorizó el culto público a la reliquia, confirmado por bula papal dentro de dos años.\n\nConsiderado el más antiguo milagro eucarístico documentado en suelo español, el caso de Ivorra es recordado como la \"Santa Duda\" (Santa Duda), y la reliquia, guardada en un relicario del siglo XV junto a los corporales manchados, todavía es venerada anualmente en la localidad.",
+      "tags": [
+        "eucaristía",
+        "España",
+        "reliquia",
+        "presencia real"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Ivorra, Lleida (España)",
+      "ano": "1010 (bula papal de Sergio IV)",
+      "fontes": [
+        "COPE, \"Ivorra, el pequeño pueblo de Lérida donde está documentado el primer Milagro Eucarístico de España\"",
+        "Miracolieucaristici.org, ficha del milagro eucarístico de Ivorra"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:erding",
+      "slug": "erding",
+      "titulo": "Milagro Eucarístico de Erding",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Una hostia robada de la Misa y luego abandonada por remordimiento flotó luminosa en el aire, en Erding, en Baviera, en 1417.",
+      "corpo": "En 1417, en la ciudad bávara de Erding, en Alemania, un campesino pobre, habiendo entendido mal una explicación de un vecino sobre la custodia de la Eucaristía en casa, imaginó que la hostia consagrada podría funcionar como un amuleto de buena suerte para mejorar su situación económica. En el Jueves Santo de ese año, se escondió en la boca la hostia recibida en la comunión y se la llevó consigo al salir de la iglesia.\n\nYa en el camino, embargado por el remordimiento por lo que había hecho, decidió volver para devolver la hostia, pero esta se le escapó de la mano y permaneció suspendida en el aire antes de caer al suelo. Cuando el párroco regresó al lugar, encontró la hostia posada sobre la tierra, emitiendo una fuerte luminosidad.\n\nPoco después se erigió una capilla en el lugar para conservar la memoria del hecho, dando origen a una tradición de peregrinación en la región de Erding que perdura como devoción local.",
+      "tags": [
+        "eucaristía",
+        "Alemania",
+        "presencia real"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Erding, Baviera (Alemania)",
+      "ano": "1417",
+      "fontes": [
+        "Miracolieucaristici.org, ficha del milagro eucarístico de Erding",
+        "Perpetual Eucharistic Adoration Inc., \"Eucharistic Miracle of Erding, Germany, 1417\""
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:chirattakonam",
+      "slug": "chirattakonam",
+      "titulo": "Milagro Eucarístico de Chirattakonam",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Una hostia expuesta en adoración desarrolló la imagen de un rostro semejante al de Cristo coronado de espinas, en la India, en 2001.",
+      "corpo": "El 28 de abril de 2001, en la iglesia parroquial de Santa María, en Chirattakonam, India, el padre Johnson Karoor expuso el Santísimo Sacramento en el ostensorio para la adoración pública. Pasados algunos minutos, se notaron tres marcas en la Hostia; al regresar días después, el sacerdote encontró en la Hostia la imagen de un rostro semejante al de Cristo coronado de espinas.\n\nEl caso fue examinado por monseñor Cyril Mar Baselios, en aquel momento arzobispo de la eparquía de Trivandrum de los siro-malankaras, quien confirmó el fenómeno, declarándolo coherente con aquello que los fieles ya profesan por la fe en la Eucaristía.\n\nLa Hostia se conserva en ostensorio en la iglesia de Chirattakonam, y el caso figura entre los milagros eucarísticos documentados de comienzos del siglo XXI, siguiendo los mismos criterios de discernimiento aplicados a casos anteriores.",
+      "tags": [
+        "eucaristía",
+        "India",
+        "adoración eucarística",
+        "presencia real"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Chirattakonam, Trivandrum (India)",
+      "ano": "2001",
+      "fontes": [
+        "Arquieparquía de Trivandrum de los Siro-Malankaras, declaración de monseñor Cyril Mar Baselios (2001)",
+        "Miracolieucaristici.org, ficha del milagro eucarístico de Chirattakonam"
+      ]
+    },
+    {
+      "id": "milagres-eucaristicos:douai",
+      "slug": "douai",
+      "titulo": "Milagro Eucarístico de Douai",
+      "categoria": "milagres-eucaristicos",
+      "resumo": "Una hostia caída durante la comunión de Pascua de 1254, en Francia, se habría alzado por sí misma del suelo, con apariciones del Niño Jesús presenciadas por la asamblea.",
+      "corpo": "El 14 de abril de 1254, día de Pascua, un sacerdote distribuía la comunión en la ciudad francesa de Douai cuando dejó caer una hostia consagrada. Al inclinarse para recogerla, la hostia se habría alzado por sí misma y se posó sobre la custodia, ante los fieles presentes. Según el relato histórico, atestiguado por el propio obispo Tomás de Cantimpré, parte de la asamblea vio en la hostia la imagen del Niño Jesús sonriente, otra parte vio a Cristo sufriente, y otros aún, a Cristo glorioso.\n\nLa reliquia se dio por perdida durante la Revolución Francesa, pero fue redescubierta en 1854 bajo la figura de Cristo en el altar de los difuntos: una pequeña caja de madera que contenía la hostia, todavía blanca, aunque dañada en los bordes.\n\nDesde hace más de 750 años, la hostia del milagro de Douai sigue expuesta a la adoración de los fieles algunas veces al mes en la iglesia de Saint-Pierre, en Douai, en el norte de Francia.",
+      "tags": [
+        "eucaristía",
+        "Francia",
+        "reliquia",
+        "presencia real"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "local": "Douai (Francia)",
+      "ano": "1254",
+      "fontes": [
+        "Testimonio del obispo Tomás de Cantimpré sobre el milagro de Douai (1254)",
+        "France Catholique, \"Le miracle eucharistique de Douai, un prodige encore accessible\""
+      ]
+    }
+  ]
+}

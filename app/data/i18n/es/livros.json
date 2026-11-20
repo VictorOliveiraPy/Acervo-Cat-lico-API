@@ -1,0 +1,819 @@
+{
+  "_meta": {
+    "categoria": "livros",
+    "nome": "Libros",
+    "descricao": "Indicaciones de lectura: clásicos de la espiritualidad católica y obras de referencia.",
+    "status": "exemplos-iniciais",
+    "aviso": "No es un catálogo definitivo ni exhaustivo de lecturas católicas. Las fechas de publicación de obras antiguas son aproximadas cuando la fuente primaria no permite precisión.",
+    "revisao_editorial": "Las fechas de composición de obras medievales/antiguas aparecen como aproximadas ('c.') cuando no hay consenso entre los historiadores.",
+    "fontes_gerais": []
+  },
+  "itens": [
+    {
+      "id": "livros:confissoes-agostinho",
+      "slug": "confissoes-agostinho",
+      "titulo": "Confesiones",
+      "categoria": "livros",
+      "resumo": "Relato autobiográfico de la conversión de San Agustín, uno de los textos fundacionales de la introspección espiritual occidental.",
+      "corpo": "Escritas entre 397 y 400, las «Confesiones» narran, en forma de oración dirigida a Dios, la trayectoria de Agustín desde su juventud disoluta en la Numidia romana hasta su conversión al cristianismo en Milán, bajo la influencia de San Ambrosio y de lecturas neoplatónicas y paulinas.\n\nEs considerada la primera autobiografía espiritual de la tradición occidental y un hito en la reflexión sobre la memoria, el tiempo y la interioridad — los últimos libros de la obra se dedican a una meditación filosófica sobre el tiempo y la creación, distante del tono narrativo de los primeros.\n\nEs lectura recomendada para quienes buscan comprender la experiencia de la conversión y de la gracia en la tradición cristiana, narrada con una sinceridad poco común para la época — Agustín no oculta sus propios errores de juventud.",
+      "tags": [
+        "patrística",
+        "conversión",
+        "espiritualidad",
+        "San Agustín"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "San Agustín, «Confesiones», edición crítica"
+      ],
+      "autor": "San Agustín de Hipona",
+      "ano_publicacao": "c. 397-400",
+      "genero": "Autobiografía espiritual"
+    },
+    {
+      "id": "livros:imitacao-de-cristo",
+      "slug": "imitacao-de-cristo",
+      "titulo": "La Imitación de Cristo",
+      "categoria": "livros",
+      "resumo": "Manual clásico de vida espiritual y devoción interior, uno de los libros cristianos más traducidos de la historia.",
+      "corpo": "Compilado a comienzos del siglo XV — la atribución más aceptada, aunque no unánime entre los historiadores, es al canónigo agustino Tomás de Kempis, vinculado al movimiento de la «Devotio Moderna» —, «La Imitación de Cristo» es un manual de vida espiritual dividido en cuatro libros, orientado a la unión con Dios por medio de la humildad, el desapego de las cosas del mundo y la imitación de la vida de Cristo.\n\nSe convirtió, después de la Biblia, en uno de los libros cristianos más editados y traducidos de la historia, influyendo en generaciones de lectores dentro y fuera del catolicismo — desde Ignacio de Loyola hasta Thomas Merton.\n\nEs una lectura densa y sentenciosa, pensada para leerse poco a poco, en capítulos breves, más como alimento diario para la oración que como texto corrido.",
+      "tags": [
+        "espiritualidad",
+        "Devotio Moderna",
+        "Edad Media"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Thomas_%C3%A0_Kempis_-_De_Imitatione_Christi.gif",
+      "imagem_credito": null,
+      "fontes": [
+        "Tomás de Kempis (atrib.), «De Imitatione Christi», manuscrito autógrafo de 1441"
+      ],
+      "autor": "Tomás de Kempis (atribución tradicional)",
+      "ano_publicacao": "c. 1418-1427",
+      "genero": "Espiritualidad"
+    },
+    {
+      "id": "livros:castelo-interior",
+      "slug": "castelo-interior",
+      "titulo": "Castillo Interior (Moradas)",
+      "categoria": "livros",
+      "resumo": "Descripción, en siete «moradas» concéntricas, del itinerario del alma hasta la unión mística con Dios.",
+      "corpo": "Escrito en 1577 por orden del confesor de Teresa de Ávila, «Castillo interior» describe el alma como un castillo de cristal con siete moradas concéntricas, recorridas en dirección al centro, donde habita Dios. Cada morada corresponde a una etapa del camino espiritual, desde la oración vocal sencilla hasta la «unión mística» y el «matrimonio espiritual».\n\nSe considera la obra maestra de la teología mística de Teresa de Ávila y uno de los textos centrales de la llamada «escuela carmelitana», junto a los escritos de San Juan de la Cruz. En 1970, esta obra y el conjunto de su producción espiritual contribuyeron a que Teresa fuera proclamada la primera mujer Doctora de la Iglesia.\n\nRecomendado a lectores que ya tengan cierta base en la oración: es un texto exigente, escrito por una mística experimentada para orientar a otras almas en la oración, no una introducción al tema.",
+      "tags": [
+        "mística",
+        "carmelitas",
+        "oración",
+        "España"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Santa_Teresa_en_gloria_%28Novelli%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Santa Teresa de Jesús, «Castillo interior (Moradas)» (1577)"
+      ],
+      "autor": "Santa Teresa de Ávila",
+      "ano_publicacao": "1577",
+      "genero": "Teología mística"
+    },
+    {
+      "id": "livros:historia-de-uma-alma",
+      "slug": "historia-de-uma-alma",
+      "titulo": "Historia de un Alma",
+      "categoria": "livros",
+      "resumo": "Autobiografía espiritual de Teresita de Lisieux, que presenta el «caminito» de la confianza y del amor en las cosas pequeñas.",
+      "corpo": "Escrita por obediencia a las superioras del Carmelo de Lisieux en los últimos años de vida de Teresa y publicada un año después de su muerte, en 1898, «Historia de un Alma» narra su infancia, vocación y vida religiosa, y expone lo que se conoce como el «caminito» (petite voie): la santidad buscada no en grandes hazañas, sino en la confianza total en Dios y en el amor vivido en las pequeñas acciones de la vida cotidiana.\n\nEl libro tuvo enorme difusión popular en el siglo XX y fue decisivo para la canonización rápida de Teresita, en 1925, y para su proclamación como Doctora de la Iglesia en 1997.\n\nEs una de las puertas de entrada más accesibles a la espiritualidad católica — escrita en lenguaje sencillo, por una joven de 24 años, sin formación teológica formal.",
+      "tags": [
+        "carmelitas",
+        "espiritualidad",
+        "Francia",
+        "siglo XIX"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Teresa-de-Lisieux.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Santa Teresa de Lisieux, «Historia de un Alma» (1898)"
+      ],
+      "autor": "Santa Teresa de Lisieux (Teresita del Niño Jesús)",
+      "ano_publicacao": "1898 (publicación póstuma)",
+      "genero": "Autobiografía espiritual"
+    },
+    {
+      "id": "livros:introducao-a-vida-devota",
+      "slug": "introducao-a-vida-devota",
+      "titulo": "Introducción a la Vida Devota",
+      "categoria": "livros",
+      "resumo": "Guía de vida espiritual escrita para laicos, pionera en afirmar que la santidad es vocación de todo cristiano, no solo de religiosos.",
+      "corpo": "Publicada en 1609 por el obispo de Ginebra, Francisco de Sales, «Introducción a la Vida Devota» está dirigida explícitamente a laicos que viven en el mundo —casados, ocupados con la familia y el trabajo—, no solo a religiosos de clausura. En ello reside su importancia histórica: afirma, en tono accesible y optimista, que la búsqueda de la santidad («vida devota») es vocación de todo cristiano, adaptada al estado de vida de cada uno.\n\nLa obra tuvo una influencia duradera en la espiritualidad católica moderna y es considerada precursora de la espiritualidad laical que el Concilio Vaticano II retomaría, siglos después, al afirmar el «llamado universal a la santidad».\n\nEs una buena puerta de entrada para quien busca una espiritualidad práctica aplicada a la vida común, sin exigir vocación religiosa ni clausura.",
+      "tags": [
+        "espiritualidad laical",
+        "Francia",
+        "siglo XVII"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Saint_Fran%C3%A7ois_de_Sales.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "San Francisco de Sales, «Introducción a la Vida Devota» (1609)"
+      ],
+      "autor": "San Francisco de Sales",
+      "ano_publicacao": "1609",
+      "genero": "Espiritualidad"
+    },
+    {
+      "id": "livros:catecismo-da-igreja-catolica",
+      "slug": "catecismo-da-igreja-catolica",
+      "titulo": "Catecismo de la Iglesia Católica",
+      "categoria": "livros",
+      "resumo": "Exposición oficial y orgánica de la fe católica, organizada en cuatro partes: credo, sacramentos, vida moral y oración.",
+      "corpo": "Promulgado por San Juan Pablo II en 1992, con edición típica latina definitiva en 1997, el «Catecismo de la Iglesia Católica» es la exposición oficial y sistemática de la doctrina católica — fruto de un proyecto aprobado por el Sínodo Extraordinario de los Obispos de 1985, veinte años después de la clausura del Concilio Vaticano II.\n\nEstá organizado en cuatro partes — la profesión de fe, la celebración del misterio cristiano, la vida en Cristo y la oración cristiana —, las mismas que estructuran las categorías «Catecismo» y «Crisma» de este acervo.\n\nEs la referencia doctrinal de base para la catequesis, la enseñanza teológica y el diálogo ecuménico e interreligioso en la Iglesia Católica contemporánea — no una lectura corrida, sino un libro de consulta.",
+      "tags": [
+        "catecismo",
+        "doctrina",
+        "magisterio",
+        "San Juan Pablo II"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Emblem_of_the_Catechism_of_the_Catholic_Church.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "San Juan Pablo II, Constitución Apostólica «Fidei Depositum» (11 de octubre de 1992)"
+      ],
+      "autor": "Iglesia Católica (promulgado por San Juan Pablo II)",
+      "ano_publicacao": "1992 (edición típica latina, 1997)",
+      "genero": "Referencia doctrinal"
+    },
+    {
+      "id": "livros:suma-teologica",
+      "slug": "suma-teologica",
+      "titulo": "Suma Teológica",
+      "categoria": "livros",
+      "resumo": "Síntesis sistemática de la teología católica de Santo Tomás de Aquino, estructurada en cuestiones y artículos que articulan fe y razón aristotélica.",
+      "corpo": "Compuesta entre 1265 y 1274, dejada inconclusa por la muerte del autor, la \"Suma Teológica\" se organiza en tres partes —Dios, el hombre y su retorno a Dios, y Cristo— usando el método escolástico de cuestiones, objeciones y respuestas. Se convirtió en la obra de referencia de la teología católica durante siglos y sigue siendo citada extensamente por el magisterio de la Iglesia, incluso en el Catecismo. Es una lectura densa, pensada más para la consulta y el estudio que para la lectura corrida.",
+      "tags": [
+        "escolástica",
+        "teología sistemática",
+        "Edad Media"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Tommaso_-_Summa_theologica%2C_1596_-_4593718.tif",
+      "imagem_credito": null,
+      "autor": "Santo Tomás de Aquino",
+      "ano_publicacao": "1265-1274 (inacabada)",
+      "genero": "Teología sistemática",
+      "fontes": []
+    },
+    {
+      "id": "livros:cidade-de-deus",
+      "slug": "cidade-de-deus",
+      "titulo": "La Ciudad de Dios",
+      "categoria": "livros",
+      "resumo": "Obra de San Agustín que responde a la acusación de que el cristianismo habría causado la caída de Roma, proponiendo una teología de la historia.",
+      "corpo": "Escrita a lo largo de más de diez años tras el saqueo de Roma por los visigodos en 410, \"La Ciudad de Dios\" refuta la acusación pagana de que el abandono de los dioses romanos en favor del cristianismo habría causado la catástrofe, y desarrolla, a partir de ahí, una amplia teología de la historia en torno a la distinción entre la \"ciudad terrena\", movida por el amor a sí misma, y la \"ciudad de Dios\", movida por el amor a Dios. Es una de las obras fundadoras de la filosofía de la historia occidental.",
+      "tags": [
+        "patrística",
+        "filosofía de la historia",
+        "siglo V"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Augustinus_-_De_civitate_Dei%2C_circa_1483_-_434232_a1r.jpg",
+      "imagem_credito": null,
+      "autor": "San Agustín de Hipona",
+      "ano_publicacao": "413-426",
+      "genero": "Teología y filosofía de la historia",
+      "fontes": []
+    },
+    {
+      "id": "livros:regra-de-sao-bento",
+      "slug": "regra-de-sao-bento",
+      "titulo": "Regla de San Benito",
+      "categoria": "livros",
+      "resumo": "Código de vida monástica del siglo VI, base de la mayoría de las órdenes religiosas occidentales, marcado por el lema \"ora et labora\".",
+      "corpo": "Escrita por San Benito de Nursia para los monjes de Montecasino, la Regla organiza la vida de la comunidad monástica en torno al equilibrio entre la oración litúrgica, el trabajo manual y la lectura, con un capítulo sobre la obediencia al abad y otro, célebre, \"Sobre la humildad\". Se convirtió en la base normativa de la vida monástica en el Occidente cristiano, difundida por toda la Europa medieval, y todavía rige hoy las comunidades benedictinas.",
+      "tags": [
+        "monacato",
+        "benedictinos",
+        "Edad Media"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Benedictus_-_Regula%2C_Anno_domini_MCCCCLXXXXV_die_XXVII_otubrio_-_2472028_ib00310000_TMD_MASTER_IMG_Scan00011.tif",
+      "imagem_credito": null,
+      "autor": "San Benito de Nursia",
+      "ano_publicacao": "c. siglo VI",
+      "genero": "Regla monástica",
+      "fontes": []
+    },
+    {
+      "id": "livros:noite-escura-da-alma",
+      "slug": "noite-escura-da-alma",
+      "titulo": "Noche Oscura",
+      "categoria": "livros",
+      "resumo": "Tratado poético-místico de San Juan de la Cruz sobre la purificación del alma en el camino de unión con Dios, a través de períodos de aridez espiritual.",
+      "corpo": "Compuesta como comentario a un poema propio, \"Noche oscura\" describe dos fases de purificación —de los sentidos y del espíritu— en las que el alma experimenta aridez, oscuridad y aparente ausencia de Dios como parte necesaria de la maduración espiritual, y no como señal de abandono divino. La expresión \"noche oscura del alma\" entró en el lenguaje espiritual común, muchas veces de modo impreciso, para designar cualquier crisis de fe —sentido más amplio que el significado técnico preciso que San Juan de la Cruz le dio.",
+      "tags": [
+        "mística",
+        "carmelitas descalzos",
+        "España"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Zurbar%C3%A1n_%28atribuido%29-John_of_the_Cross-1656.jpg",
+      "imagem_credito": null,
+      "autor": "San Juan de la Cruz",
+      "ano_publicacao": "c. 1578-1579",
+      "genero": "Teología mística",
+      "fontes": []
+    },
+    {
+      "id": "livros:dialogo-da-divina-providencia",
+      "slug": "dialogo-da-divina-providencia",
+      "titulo": "Diálogo de la Divina Providencia",
+      "categoria": "livros",
+      "resumo": "Obra mística de Santa Catalina de Siena, redactada en estado de éxtasis según sus secretarios, sobre la relación del alma con Dios.",
+      "corpo": "Dictada por la mística Catalina de Siena a sus secretarios durante estados que ella y sus contemporáneos describieron como éxtasis, la obra se presenta como un diálogo entre un \"alma\" y Dios Padre sobre temas centrales de la vida espiritual: la Providencia, la obediencia, la Iglesia y los sacerdotes, la oración y las lágrimas. Es uno de los clásicos de la mística italiana medieval.",
+      "tags": [
+        "mística",
+        "dominicos",
+        "Edad Media"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Catedral_De_Salta_Ojo_de_la_Providencia_-_Salta_Cathedral_All_Seeing_Eye.jpg",
+      "imagem_credito": "Foto: DrDread — Wikimedia Commons, CC BY-SA 3.0",
+      "autor": "Santa Catalina de Siena",
+      "ano_publicacao": "c. 1378",
+      "genero": "Teología mística",
+      "fontes": []
+    },
+    {
+      "id": "livros:diario-divina-misericordia",
+      "slug": "diario-divina-misericordia",
+      "titulo": "Diario: La Misericordia Divina en Mi Alma",
+      "categoria": "livros",
+      "resumo": "Registro personal de Santa Faustina Kowalska sobre sus experiencias místicas relacionadas con la devoción a la Divina Misericordia.",
+      "corpo": "Escrito por obediencia a su confesor entre 1934 y 1938, el diario de Faustina Kowalska, religiosa polaca de escasa instrucción formal, narra experiencias que ella interpretaba como comunicaciones de Jesús sobre la misericordia divina, incluyendo el origen de la imagen de \"Jesús, en Ti confío\" y de la Coronilla de la Misericordia. La obra, inicialmente vista con desconfianza por la jerarquía eclesiástica, fue decisiva para la institución de la Fiesta de la Divina Misericordia por San Juan Pablo II, en 2000, año también de su canonización.",
+      "tags": [
+        "misericordia divina",
+        "Polonia",
+        "siglo XX"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kazimirowski_Eugeniusz%2C_Divine_Mercy%2C_1934.jpg",
+      "imagem_credito": null,
+      "autor": "Santa Faustina Kowalska",
+      "ano_publicacao": "1934-1938 (publicación póstuma)",
+      "genero": "Diario espiritual",
+      "fontes": []
+    },
+    {
+      "id": "livros:pratica-da-presenca-de-deus",
+      "slug": "pratica-da-presenca-de-deus",
+      "titulo": "La práctica de la presencia de Dios",
+      "categoria": "livros",
+      "resumo": "Colección de cartas y conversaciones del hermano lego carmelita Lorenzo de la Resurrección sobre vivir unido a Dios en las tareas más sencillas de la vida cotidiana.",
+      "corpo": "Recopilada después de su muerte a partir de cartas y conversaciones registradas por un interlocutor, la obra reúne las enseñanzas del fraile lego carmelita Lorenzo de la Resurrección, que pasó la mayor parte de su vida religiosa en la cocina de su convento en París. Su propuesta central —encontrar a Dios no solo en los momentos formales de oración, sino en cada acción sencilla del día, hecha por amor a él— se convirtió en referencia de espiritualidad accesible a los laicos.",
+      "tags": [
+        "espiritualidad laical",
+        "carmelitas",
+        "Francia",
+        "siglo XVII"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Brother_Lawrence_in_the_kitchen.jpg",
+      "imagem_credito": null,
+      "autor": "Hermano Lorenzo de la Resurrección (Nicolas Herman)",
+      "ano_publicacao": "1692 (publicación póstuma)",
+      "genero": "Espiritualidad",
+      "fontes": []
+    },
+    {
+      "id": "livros:ascensao-ao-monte-carmelo",
+      "slug": "ascensao-ao-monte-carmelo",
+      "titulo": "Subida al Monte Carmelo",
+      "categoria": "livros",
+      "resumo": "Tratado teológico de San Juan de la Cruz sobre la purificación activa de los sentidos y del espíritu hacia la unión mística con Dios.",
+      "corpo": "Concebida como compañera del tratado \"Noche oscura\", esta obra describe, de forma más sistemática y doctrinal, el esfuerzo activo que el alma debe emprender —el desprendimiento voluntario de todo lo que no es Dios— como parte del camino ascético que prepara la purificación más pasiva descrita en la \"Noche oscura\". Es considerada, junto con esa obra hermana, el tratado más completo de la mística carmelita sobre la unión con Dios.",
+      "tags": [
+        "mística",
+        "carmelitas descalzos",
+        "España",
+        "siglo XVI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Zurbar%C3%A1n_%28atribuido%29-John_of_the_Cross-1656.jpg",
+      "imagem_credito": null,
+      "autor": "San Juan de la Cruz",
+      "ano_publicacao": "c. 1578-1585",
+      "genero": "Teología mística",
+      "fontes": []
+    },
+    {
+      "id": "livros:tratado-do-amor-de-deus",
+      "slug": "tratado-do-amor-de-deus",
+      "titulo": "Tratado del Amor de Dios",
+      "resumo": "Obra de San Francisco de Sales, publicada en 1616, sobre la naturaleza y los grados del amor a Dios — su suma de teología mística, complemento más denso a la \"Introducción a la vida devota\".",
+      "corpo": "El \"Tratado del amor de Dios\" (\"Traité de l'amour de Dieu\") fue publicado en 1616 y es considerado la obra cumbre teológica de San Francisco de Sales (1567-1622), obispo de Ginebra. El autor comenzó a redactarlo en 1615, a los 48 años, como un segundo tratado sobre la oración y la vida espiritual, después del éxito de la \"Introducción a la vida devota\" (1609). Mientras la \"Introducción\" se dirigía al lector laico bajo el nombre ficticio de Filotea, el \"Tratado\" adopta un registro más teológico y sistemático y se dirige a un discípulo imaginario llamado Teótimo (\"Théotime\"), siguiendo la distinción del propio autor: \"se habla de un modo a los jóvenes aprendices y de otro a los viejos compañeros\". La obra fue escrita en parte para las hermanas de la Visitación establecidas en Saboya y para su gran amiga y cofundadora, Santa Juana de Chantal.\n\nEl libro comprende doce libros y procura, en palabras del propio prólogo, presentar \"sin rodeos, sin arte y sencillamente, la historia de la generación, nacimiento, progreso, declive, operaciones, propiedades, beneficios y excelencias del amor divino\". Francisco de Sales parte de la inclinación natural del hombre — incluso pecador — a amar a Dios por encima de todas las cosas, y describe ese amor como atracción libre y recíproca entre el alma y Dios, sirviéndose de un rico repertorio de imágenes bíblicas: Dios como padre y señor, esposo y amigo, con rasgos de madre y de nodriza, sol cuya propia noche es revelación.\n\nEl punto culminante del itinerario es la doctrina de la \"santa indiferencia\": en la cima de la unión con Dios, después de haber hecho lo que podía, el alma se vuelve plena y santamente indiferente — incluso, paradójicamente, en cuanto a sus propios progresos en la virtud —, abandonándose por completo a la voluntad divina. Este énfasis en la indiferencia y en el amor puro hizo del \"Tratado\" un texto decisivo para los debates espirituales del siglo XVII; la cuestión del \"amor puro\" repercutiría después en la controversia entre Bossuet y Fénelon, a finales de siglo, y la sombra de un posible quietismo acechaba la recepción de la obra.\n\nLa intención pastoral de Francisco de Sales era regenerar por la vida interior la fe de los católicos tras las destrucciones de las guerras de religión, respondiendo a las acusaciones protestantes de que el catolicismo se contentaba con una religión exterior. El papa Benedicto XVI describió el \"Tratado\" como \"una verdadera suma, a la vez una fascinante obra literaria\". La obra conoció difusión europea: fue traducida al flamenco por Guillaume van Aelst (Amberes, 1651, con el título \"De liefde Godts\") y, en 1927, al español por Lorenzo Alonso Rueda. En Brasil y en portugués, integra las ediciones de la obra salesiana, siendo con frecuencia presentada como la faceta mística de la misma espiritualidad que la \"Introducción a la vida devota\" proponía en forma práctica.",
+      "categoria": "livros",
+      "tags": [
+        "espiritualidad",
+        "Francia",
+        "siglo XVII",
+        "Francisco de Sales",
+        "amor de Dios",
+        "teología mística",
+        "amor puro",
+        "Visitación"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Ch%C3%A2teau_de_Bussy-Rabutin_-_Saint_Fran%C3%A7ois_de_Sales%2C_%C3%A9v%C3%AAque_de_Gen%C3%A8ve_%28bgw19_0375%29.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "François de Sales, \"Traité de l'amour de Dieu\", éd. du Cerf (prefácio e descrição dos doze livros)",
+        "Wikipedia (francés), entrada \"Traité de l'amour de Dieu\" (publicación en 1616; traducción flamenca de 1651; traducción española de 1927)",
+        "Collegedesbernardins.fr, \"Saint François de Sales: le Docteur de l'amour\" (cita de Benedicto XVI sobre el Tratado como \"verdadera suma\")",
+        "Estudio \"La prédestination, querelle de mots ou querelle de choses?\" (HAL-SHS), sobre el Tratado de 1616 y el contexto doctrinal de la época"
+      ],
+      "atualizado_em": null,
+      "autor": "San Francisco de Sales",
+      "ano_publicacao": "1616",
+      "genero": "Teología espiritual"
+    },
+    {
+      "id": "livros:verdadeira-devocao-a-maria",
+      "slug": "verdadeira-devocao-a-maria",
+      "titulo": "Tratado de la Verdadera Devoción a la Santísima Virgen",
+      "categoria": "livros",
+      "resumo": "Obra de San Luis María Grignion de Montfort sobre la consagración total a Jesús por medio de María, redescubierta y publicada solo décadas después de su muerte.",
+      "corpo": "Escrito en las primeras décadas del siglo XVIII pero mantenido inédito, el manuscrito fue redescubierto solo en 1842 y tuvo gran influencia en la espiritualidad mariana de los siglos XIX y XX, entre otros en San Juan Pablo II, cuyo lema episcopal y papal \"Totus Tuus\" (\"Todo Tuyo\") remite directamente a esta espiritualidad de consagración a Jesús por medio de María.",
+      "tags": [
+        "espiritualidad mariana",
+        "Francia",
+        "siglo XVIII"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tratado_de_Verdadeira_devo%C3%A7%C3%A3o.jpg",
+      "imagem_credito": "Foto: joficial28292 — Wikimedia Commons, CC BY-SA 2.0",
+      "autor": "San Luis María Grignion de Montfort",
+      "ano_publicacao": "c. 1712 (publicado en 1842)",
+      "genero": "Espiritualidad mariana",
+      "fontes": []
+    },
+    {
+      "id": "livros:orthodoxy-chesterton",
+      "slug": "orthodoxy-chesterton",
+      "titulo": "Ortodoxia",
+      "categoria": "livros",
+      "resumo": "Ensayo autobiográfico-filosófico de G. K. Chesterton en defensa de la fe cristiana ortodoxa, escrito todavía antes de su conversión formal al catolicismo.",
+      "corpo": "Publicada en 1908, cuando Chesterton aún pertenecía formalmente a la Iglesia Anglicana —su conversión al catolicismo solo tendría lugar en 1922—, \"Ortodoxia\" narra en tono personal y paradójico cómo el autor llegó, por caminos intelectuales propios, a redescubrir y defender las verdades centrales del cristianismo histórico. Es una de las obras apologéticas más leídas y citadas del siglo XX, conocida por el estilo ingenioso y lleno de paradojas característico del autor.",
+      "tags": [
+        "apologética",
+        "conversión",
+        "Inglaterra",
+        "siglo XX"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/GK_Chesterton_%281920s%29.jpg",
+      "imagem_credito": null,
+      "autor": "Gilbert Keith Chesterton",
+      "ano_publicacao": "1908",
+      "genero": "Apologética",
+      "fontes": []
+    },
+    {
+      "id": "livros:historia-de-cristo-fulton-sheen",
+      "slug": "historia-de-cristo-fulton-sheen",
+      "titulo": "Vida de Cristo",
+      "categoria": "livros",
+      "resumo": "Biografía teológica y devocional de Jesucristo escrita por el arzobispo Fulton Sheen, uno de los mayores comunicadores católicos del siglo XX.",
+      "corpo": "Arzobispo estadounidense célebre por sus programas de radio y televisión que llegaban a millones de espectadores en los Estados Unidos de las décadas de 1950 y 1960, Fulton Sheen escribió esta obra combinando rigor teológico con un estilo accesible y meditativo, recorriendo la vida de Jesús desde la Encarnación hasta la Resurrección, siempre a la luz de la Cruz como clave de lectura de toda su existencia terrena.",
+      "tags": [
+        "cristología",
+        "Estados Unidos",
+        "siglo XX"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/GaudenzioFerrari_StorieCristo_Varallo.jpg",
+      "imagem_credito": null,
+      "autor": "Mons. Fulton J. Sheen",
+      "ano_publicacao": "1958",
+      "genero": "Cristología devocional",
+      "fontes": []
+    },
+    {
+      "id": "livros:segredo-de-maria",
+      "slug": "segredo-de-maria",
+      "titulo": "El Secreto de María",
+      "resumo": "Versión resumida, en forma de carta a un «alma predestinada», de las enseñanzas de San Luis María Grignion de Montfort sobre la consagración total a Jesús por medio de María, publicada póstumamente.",
+      "corpo": "\"El Secreto de María\" (en el original francés \"Le Secret de Marie\") es una de las tres obras mayores en las que San Luis María Grignion de Montfort expuso su teología mariana, junto al \"Tratado de la Verdadera Devoción a la Santísima Virgen\" y al \"Amor de la Sabiduría Eterna\". Compuesto hacia 1712 —año en que la tradición montfortiana sitúa también el \"Secreto admirable del Santísimo Rosario\"—, el texto se presenta como una carta o exhortación sobre la devoción a Nuestra Señora, redactada para un lector al que el santo se dirige como a un \"alma predestinada\". Se distribuye en dos partes: la primera sobre \"la necesidad de una verdadera devoción a María\" y la segunda sobre \"en qué consiste\" esa devoción.\n\nLa obra funciona como síntesis accesible del pensamiento que Montfort desarrollaría con mayor amplitud en el \"Tratado de la Verdadera Devoción\". Mientras el \"Tratado\" construye toda una mariología en torno a la mediación universal de María, el \"Secreto\" recoge lo esencial de esa doctrina en un lenguaje breve y directo, y por ello se difundió durante mucho tiempo como lectura de preparación para quienes deseaban realizar la consagración mariana. En ella aparece la imagen característica de María como \"el gran molde de Dios, formado por el Espíritu Santo\" para formar a Cristo en el alma, y la noción de la consagración como \"esclavitud de amor\", es decir, una entrega total y libre, no servil.\n\nSus vicisitudes editoriales son notables. Como buena parte de la producción de Montfort (1673-1716), la obra permaneció inédita en vida del autor y solo llegó a la luz mucho después de su muerte. Existe una distinción importante entre los dos libros montfortianos: el \"Tratado de la Verdadera Devoción\" fue descubierto por casualidad en 1842 en la casa madre de la Compañía de María en Saint-Laurent-sur-Sèvre y publicado en 1843, haciéndose célebre de inmediato; en cambio, \"El Secreto de María\" se da como publicado por primera vez en 1862, llegando a convertirse en el segundo título más conocido del santo, traducido a diversos idiomas. El conjunto de sus escritos fue sometido al examen de la Santa Sede, que declaró que no había en ellos nada que obstaculizara su beatificación y canonización (Montfort fue beatificado por León XIII en 1888 y canonizado por Pío XII en 1947).\n\nLa influencia de la espiritualidad mariana expresada en ella se extiende mucho más allá de la Francia del siglo XVIII. El lema apostólico \"Totus Tuus\" adoptado por San Juan Pablo II deriva directamente de la tradición montfortiana, que el propio papa describió como punto de inflexión decisivo en su vida. Esta deuda es reconocida en el magisterio reciente, como en la carta de Juan Pablo II a las familias montfortianas (2004), que recuerda la composición del núcleo de la obra a comienzos del siglo XVIII y su publicación, más de un siglo después, en 1843.",
+      "categoria": "livros",
+      "tags": [
+        "espiritualidad mariana",
+        "Francia",
+        "siglo XVIII",
+        "Montfort",
+        "consagración a María",
+        "mariología",
+        "esclavitud de amor"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Louis_de_Montfort.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "San Luis María Grignion de Montfort, \"Le Secret de Marie\" / \"El Secreto de María\", ed. Paulus (nota editorial sobre la primera publicación en 1862)",
+        "Juan Pablo II, Carta a las Familias Montfortianas (13 de enero de 2004), vatican.va",
+        "Wikipedia (inglés), voz \"True Devotion to Mary\" (descubrimiento del manuscrito en 1842 y publicación en 1843)"
+      ],
+      "atualizado_em": null,
+      "autor": "San Luis María Grignion de Montfort",
+      "ano_publicacao": "c. 1712 (publicación póstuma)",
+      "genero": "Espiritualidad mariana"
+    },
+    {
+      "id": "livros:diario-de-um-paroco-de-aldeia",
+      "slug": "diario-de-um-paroco-de-aldeia",
+      "titulo": "Diario de un párroco de aldea",
+      "categoria": "livros",
+      "resumo": "Novela de Georges Bernanos sobre la vida interior de un joven sacerdote francés, marcado por la duda, el sufrimiento físico y una silenciosa santidad.",
+      "corpo": "Publicada en 1936, la novela de Georges Bernanos narra, en forma de diario íntimo, los últimos meses de vida de un joven párroco en una parroquia rural francesa hostil e indiferente, que enfrenta una grave enfermedad física, la incomprensión y su propia fragilidad espiritual. Es considerada una de las obras maestras de la literatura católica del siglo XX, y fue llevada al cine por Robert Bresson en 1951.",
+      "tags": [
+        "literatura católica",
+        "Francia",
+        "siglo XX"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ambricourt_%C3%A9glise1.jpg",
+      "imagem_credito": "Foto: Thadée Szalamacha — Wikimedia Commons, CC BY-SA 3.0",
+      "autor": "Georges Bernanos",
+      "ano_publicacao": "1936",
+      "genero": "Romance",
+      "fontes": []
+    },
+    {
+      "id": "livros:poder-e-gloria-greene",
+      "slug": "poder-e-gloria-greene",
+      "titulo": "El poder y la gloria",
+      "categoria": "livros",
+      "resumo": "Novela de Graham Greene sobre un sacerdote fugitivo y alcohólico durante la persecución religiosa en México en los años 1930, y la gracia que persiste a pesar de su debilidad.",
+      "corpo": "Ambientada en la persecución religiosa desatada por el gobierno mexicano contra la Iglesia Católica en las décadas de 1920-1930 —trasfondo histórico real de la novela—, la obra de Graham Greene sigue a un sacerdote moralmente debilitado, llamado únicamente \"el cura whisky\", que continúa ejerciendo clandestinamente su ministerio sacerdotal a pesar de sus propias faltas. Es considerada una de las mayores novelas católicas del siglo XX sobre el misterio de la gracia divina actuando a través de instrumentos humanos imperfectos.",
+      "tags": [
+        "literatura católica",
+        "México",
+        "siglo XX"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Graham_Greene_in_1939.jpg",
+      "imagem_credito": null,
+      "autor": "Graham Greene",
+      "ano_publicacao": "1940",
+      "genero": "Romance",
+      "fontes": []
+    },
+    {
+      "id": "livros:mistica-cidade-de-deus",
+      "slug": "mistica-cidade-de-deus",
+      "titulo": "Mística Ciudad de Dios",
+      "categoria": "livros",
+      "resumo": "Extensa obra mística sobre la vida de la Virgen María, atribuida a María de Ágreda, monja española del siglo XVII conocida por sus relatos visionarios.",
+      "corpo": "Monja concepcionista española del siglo XVII, María de Jesús de Ágreda relató haber recibido, en éxtasis, visiones detalladas sobre la vida de María desde su concepción hasta la Asunción, registradas en esta extensa obra. Se lee como literatura de piedad y meditación mariana, y no como fuente histórica factual — distinción que este acervo, siguiendo su propia regla editorial, explicita para cualquier contenido de carácter visionario.",
+      "tags": [
+        "mariología",
+        "mística",
+        "España",
+        "siglo XVII"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Maria_de_Jesus_de_Agreda_-_frontispiece.jpg",
+      "imagem_credito": null,
+      "autor": "María de Jesús de Ágreda",
+      "ano_publicacao": "1670 (publicación póstuma)",
+      "genero": "Mariología mística",
+      "fontes": []
+    },
+    {
+      "id": "livros:obras-de-santa-teresinha-cartas",
+      "slug": "obras-de-santa-teresinha-cartas",
+      "titulo": "Cartas de Santa Teresita de Lisieux",
+      "categoria": "livros",
+      "resumo": "Correspondencia personal de Teresa de Lisieux con familiares y hermanas de comunidad, complemento epistolar de su autobiografía \"Historia de un alma\".",
+      "corpo": "Junto a \"Historia de un alma\", la extensa correspondencia de Teresita con su padre, con sus hermanas —varias de ellas también religiosas en el mismo Carmelo— y con otras personas ofrece un retrato más cotidiano y menos editado de su espiritualidad del \"caminito\", incluyendo cartas escritas ya en estado de grave enfermedad en los últimos meses de vida.",
+      "tags": [
+        "carmelitas",
+        "espiritualidad",
+        "Francia",
+        "siglo XIX"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Teresa-de-Lisieux.jpg",
+      "imagem_credito": null,
+      "autor": "Santa Teresa de Lisieux",
+      "ano_publicacao": "Publicación póstuma",
+      "genero": "Correspondencia espiritual",
+      "fontes": []
+    },
+    {
+      "id": "livros:caminho-de-perfeicao",
+      "slug": "caminho-de-perfeicao",
+      "titulo": "Camino de Perfección",
+      "resumo": "Manual de vida de oración escrito por Santa Teresa de Ávila para las hermanas de su primer convento reformado, redactado dos veces a causa de la censura eclesiástica y publicado póstumamente en Évora, en 1583.",
+      "corpo": "Segunda obra de Santa Teresa de Ávila, el \"Camino de Perfección\" nació en el monasterio de San José de Ávila —el primer convento de la reforma carmelita descalza—, cuando Teresa era su priora y formadora. Las propias hermanas insistieron (\"me han importunado tanto\") para que ella pusiera por escrito las lecciones que les daba de viva voz; como ellas no podían acceder a los libros de espiritualidad, entonces prohibidos por la Inquisición española a partir del índice de 1559. Teresa escribió con licencia de su confesor, el dominico Domingo Báñez. Compuesto probablemente en 1566, poco después del \"Libro de la Vida\", el texto se destina expresamente a las monjas del monasterio de San José, pero termina por servir a la formación espiritual de todos los carmelos que la Santa fue fundando.\n\nLa obra se conserva en dos autógrafos, lo que la convierte en un caso singular: la primera redacción, más espontánea, coloquial y atrevida, con 73 capítulos, se encuentra en la biblioteca del Real Monasterio de El Escorial; la segunda, más estructurada, reducida a 42 capítulos, se encuentra en las carmelitas descalzas de Valladolid. El motivo de la reescritura es histórico y revela las tensiones de la España del siglo XVI: el confesor y censor García de Toledo devolvió el manuscrito salpicado de tachas y advertencias, exigiendo que Teresa lo escribiera de nuevo. Se eliminaron precisamente los pasajes más polémicos —la \"apología de las mujeres\" orantes (capítulo 3 de la primera redacción), la crítica a los inquisidores que prohibían libros espirituales y las referencias a su propia experiencia mística—, en un contexto de antifeminismo y de sospecha contra toda literatura religiosa en lengua vulgar. La propia Teresa arrancaría luego de su puño el capítulo emblemático (unos cinco folios) en que comparaba la humildad con el juego del ajedrez, quizá para no parecer frívola al citar un juego que los moralistas de la época condenaban.\n\nLa materia del libro se divide en dos grandes partes: los primeros 26 capítulos reúnen consejos sobre la vida contemplativa (pobreza, humildad, amor al prójimo, mortificación); y los últimos dieciséis ofrecen una meditación orante del Padrenuestro, tomado como síntesis de toda oración cristiana —motivo por el cual la propia autora llamaba al escrito \"El Paternóster\". Es también un testimonio de la llamada \"polémica de la oración\" de la época, el conflicto entre los \"teólogos\" y los \"espirituales\" y místicos, trasfondo de las figuras de Melchor Cano, Fernando de Valdés y Carranza. Su título consagrado, ausente de los autógrafos originales (en las cubiertas escritas por otra mano), acabó fijándose en las copias que ella revisó.\n\nTeresa solo tardíamente pensó en imprimir la obra. En 1579 envió una copia a su amigo y mecenas portugués don Teutonio de Bragança, entonces arzobispo de Évora, para que la publicara en las prensas de aquella ciudad. La censura lisboeta impuso nuevos reparos —entre ellos suprimir el capítulo 31, sobre la oración de quietud— y la edición, aunque aprobada en Lisboa en octubre de 1580, no salió a la luz hasta febrero de 1583, pocos meses después de la muerte de la autora. La primera edición surgió así en Évora, bajo el título \"Tratado que escribió la Madre Teresa a las monjas de su Orden\", precedida de una elogiosa carta introductoria de don Teutonio. Siguieron la edición de Salamanca (1585), preparada por Jerónimo Gracián, y la de Valencia (1587). En 1588, en la edición de las obras completas organizada por fray Luis de León, el maestro salmantino reintegró al texto numerosos pasajes de la primera redacción —creando un texto híbrido que solo fue corregido por los editores críticos modernos; el texto íntegro de la versión primitiva fue publicado por primera vez por Vicente de la Fuente en 1861.",
+      "categoria": "livros",
+      "tags": [
+        "carmelitas",
+        "oración",
+        "España",
+        "siglo XVI",
+        "Teresa de Ávila",
+        "reforma carmelita",
+        "Padrenuestro",
+        "Inquisición"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Peter_Paul_Rubens_138.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Teresa de Ávila, \"Camino de Perfección\" (redacciones de El Escorial y de Valladolid), en teresavila.com",
+        "Guía doctrinal de Camino de Perfección (estudio sobre las dos redacciones y el censor García de Toledo)",
+        "Fidelino de Figueiredo / artículo \"El Camino de Perfección: génesis y aspectos lingüísticos\", Biblioteca Virtual Miguel de Cervantes",
+        "Wikipedia en español, voz \"Camino de perfección\" (edición de Évora, 1583; Salamanca, 1585; Valencia, 1587)"
+      ],
+      "atualizado_em": null,
+      "autor": "Santa Teresa de Ávila",
+      "ano_publicacao": "c. 1566",
+      "genero": "Espiritualidad"
+    },
+    {
+      "id": "livros:glorias-de-maria",
+      "slug": "glorias-de-maria",
+      "titulo": "Las Glorias de María",
+      "categoria": "livros",
+      "resumo": "Clásico de la devoción mariana de San Alfonso María de Ligorio, que reúne meditaciones sobre los privilegios y el papel de María en la salvación.",
+      "corpo": "Publicada en 1750 por San Alfonso María de Ligorio, fundador de los Redentoristas y Doctor de la Iglesia, «Las Glorias de María» es una de las obras marianas más leídas de la historia católica, organizada en torno al comentario al Avemaría y a la antífona «Salve Reina», y que reúne meditaciones patrísticas y devocionales sobre la intercesión, la misericordia y los privilegios de María en la obra de la salvación. Escrita con un estilo accesible y afectuoso, se convirtió en referencia de la piedad mariana popular, especialmente en la tradición de lengua italiana y portuguesa, y ha tenido cientos de ediciones desde su publicación.",
+      "tags": [
+        "Nuestra Señora",
+        "devoción mariana",
+        "Alfonso de Ligorio"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Le_Glorie_di_Maria.jpg",
+      "imagem_credito": null,
+      "autor": "San Alfonso María de Ligorio",
+      "ano_publicacao": "1750",
+      "genero": "Devoción mariana",
+      "fontes": [
+        "Alfonso María de Ligorio, «Las Glorias de María» (1750)"
+      ]
+    },
+    {
+      "id": "livros:um-exorcista-conta-a-sua-historia",
+      "slug": "um-exorcista-conta-a-sua-historia",
+      "titulo": "Un exorcista cuenta su historia",
+      "categoria": "livros",
+      "resumo": "Relato del padre Gabriele Amorth, exorcista oficial de la diócesis de Roma durante décadas, sobre su experiencia con casos de posesión y opresión demoníaca.",
+      "corpo": "Publicado en 1990, el libro reúne relatos y reflexiones del padre Gabriele Amorth, exorcista de la diócesis de Roma durante más de veinte años y uno de los fundadores de la Asociación Internacional de Exorcistas, sobre casos concretos de su práctica ministerial y sobre la doctrina católica acerca de la acción del demonio, distinguiendo con cuidado los fenómenos de origen psiquiátrico de los casos que la Iglesia considera de posible origen demoníaco. Se convirtió en un best-seller internacional y en uno de los textos más citados sobre el tema fuera de los círculos estrictamente académicos, aunque algunos puntos de sus opiniones personales —distintos de la doctrina oficial— han generado debate entre teólogos.",
+      "tags": [
+        "exorcismo",
+        "demonología",
+        "Gabriele Amorth"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gabriele_Amorth_2013.jpg",
+      "imagem_credito": "Foto: Ewa Ablewicz-Rzeczkowska — Wikimedia Commons, CC BY 4.0",
+      "autor": "Gabriele Amorth",
+      "ano_publicacao": "1990",
+      "genero": "Relato pastoral",
+      "fontes": [
+        "Gabriele Amorth, «Un exorcista cuenta su historia» (1990)"
+      ]
+    },
+    {
+      "id": "livros:introducao-ao-cristianismo",
+      "slug": "introducao-ao-cristianismo",
+      "titulo": "Introducción al Cristianismo",
+      "categoria": "livros",
+      "resumo": "Ensayo teológico de Joseph Ratzinger (futuro Benedicto XVI) sobre el Credo de los Apóstoles, considerado una de sus obras más influyentes antes del pontificado.",
+      "corpo": "Publicada en 1968, cuando Joseph Ratzinger —el futuro papa Benedicto XVI— todavía era profesor de teología en Alemania, «Introducción al Cristianismo» es un comentario estructurado al Credo de los Apóstoles, artículo por artículo, dirigido a un público culto pero no necesariamente especializado en teología, en un contexto de fuerte secularización intelectual europea en el posconcilio Vaticano II. Es considerada una de las obras más influyentes de Ratzinger anteriores al pontificado, y referencia frecuente en los cursos de teología fundamental.",
+      "tags": [
+        "Credo",
+        "teología fundamental",
+        "Benedicto XVI"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/BentoXVI-30-10052007.jpg",
+      "imagem_credito": "Foto: Fabio Pozzebom/ABr — Wikimedia Commons, CC BY 3.0 br",
+      "autor": "Joseph Ratzinger (Benedicto XVI)",
+      "ano_publicacao": "1968",
+      "genero": "Ensayo teológico",
+      "fontes": [
+        "Joseph Ratzinger, «Introducción al Cristianismo» (1968)"
+      ]
+    },
+    {
+      "id": "livros:teologia-do-corpo",
+      "slug": "teologia-do-corpo",
+      "titulo": "Hombre y mujer los creó (Teología del cuerpo)",
+      "categoria": "livros",
+      "resumo": "Ciclo de catequesis de Juan Pablo II sobre el cuerpo, la sexualidad y el amor humano a la luz de la creación y de la redención.",
+      "corpo": "Entre 1979 y 1984, Juan Pablo II dedicó 129 catequesis de las audiencias generales de los miércoles a un extenso ciclo de reflexiones conocido como «Teología del cuerpo», reunidas en libro bajo el título «Hombre y mujer los creó». Partiendo de los relatos de la creación en el Génesis, el papa desarrolla una antropología del cuerpo humano, de la sexualidad y del amor conyugal como signo del amor donante de Dios, buscando responder a las transformaciones de la moral sexual en Occidente tras la revolución de los años 1960 sin recurrir solo a prohibiciones, sino a una visión positiva de la corporeidad. Se convirtió en referencia central para la pastoral familiar y para los movimientos de espiritualidad conyugal en las décadas siguientes.",
+      "tags": [
+        "teología del cuerpo",
+        "Juan Pablo II",
+        "moral conyugal"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg",
+      "imagem_credito": "Foto: Gregorini Demetrio (1988) — Wikimedia Commons, CC BY-SA 3.0",
+      "autor": "San Juan Pablo II",
+      "ano_publicacao": "1979-1984 (catequesis); publicación en libro posterior",
+      "genero": "Catequesis magisterial",
+      "fontes": [
+        "Juan Pablo II, catequesis de las audiencias generales (1979-1984)"
+      ]
+    },
+    {
+      "id": "livros:combate-espiritual",
+      "slug": "combate-espiritual",
+      "titulo": "El Combate Espiritual",
+      "categoria": "livros",
+      "resumo": "Manual clásico de ascética cristiana sobre la lucha interior contra las propias pasiones y tentaciones, en el camino de la perfección.",
+      "corpo": "Publicado por primera vez en Venecia en 1589, \"El Combate Espiritual\" ofrece una guía práctica para el crecimiento en la vida espiritual, tratando temas como la oración, la humildad, la desconfianza en las propias fuerzas y la confianza en Dios como armas en la lucha contra el pecado y la tentación.\n\nTuvo un éxito inmediato y permanece, más de cuatro siglos después, ampliamente leído y recomendado — fue uno de los libros preferidos de San Francisco de Sales, que lo llevaba siempre consigo, y es considerado un clásico de la ascética cristiana junto a obras como \"La Imitación de Cristo\".",
+      "tags": [
+        "ascética",
+        "Italia",
+        "siglo XVI"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "autor": "Lorenzo Scupoli",
+      "ano_publicacao": "1589",
+      "genero": "Espiritualidad ascética",
+      "fontes": [
+        "Wikipedia, «Lorenzo Scupoli»"
+      ]
+    },
+    {
+      "id": "livros:livro-da-vida-teresa-avila",
+      "slug": "livro-da-vida-teresa-avila",
+      "titulo": "Libro de la Vida",
+      "categoria": "livros",
+      "resumo": "Autobiografía espiritual de Santa Teresa de Ávila, escrita por obediencia a sus confesores, en la que narra su conversión y sus experiencias místicas.",
+      "corpo": "Escrito a petición de sus confesores —una primera versión en 1562, hoy perdida, reescrita y ampliada en 1565 en el Carmelo de Ávila—, el \"Libro de la Vida\" narra la trayectoria interior de Teresa de Ávila desde la infancia hasta la madurez de su vida de oración y de sus experiencias místicas, bajo la orientación espiritual de San Juan de Ávila.\n\nJunto a \"Castillo interior\" (ya presente en este acervo), es una de las obras fundamentales de la mística española y de la literatura espiritual en lengua castellana, ofreciendo un retrato más biográfico y cronológico que el tratado más sistemático de las \"Moradas\".",
+      "tags": [
+        "carmelitas",
+        "mística",
+        "España",
+        "siglo XVI"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "autor": "Santa Teresa de Ávila",
+      "ano_publicacao": "1562-1565",
+      "genero": "Autobiografía espiritual",
+      "fontes": [
+        "Biblioteca Católica, «La vida de Santa Teresa de Ávila»"
+      ]
+    },
+    {
+      "id": "livros:cantico-espiritual-sao-joao-da-cruz",
+      "slug": "cantico-espiritual-sao-joao-da-cruz",
+      "titulo": "Cántico Espiritual",
+      "categoria": "livros",
+      "resumo": "Poema y comentario místico en forma de diálogo entre el alma y Cristo esposo, una de las cumbres de la poesía mística en lengua española.",
+      "corpo": "Compuesto en cuarenta estrofas y dividido en tres partes —treinta de ellas escritas mientras el autor estaba preso en la cárcel de Toledo—, el \"Cántico Espiritual\" se presenta como un diálogo de amor entre el alma y Cristo, su esposo divino, a la manera del Cantar de los Cantares bíblico, con influencia también de la tradición mística de Dionisio el Areopagita.\n\nEs considerado, junto a \"Noche Oscura\" y \"Subida al Monte Carmelo\" (ya presentes en este acervo), uno de los textos centrales de la llamada escuela mística carmelitana, distinguiéndose de estos por su carácter marcadamente poético y nupcial, más que doctrinal.",
+      "tags": [
+        "mística",
+        "carmelitas descalzos",
+        "poesía",
+        "España"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "autor": "San Juan de la Cruz",
+      "ano_publicacao": "c. 1578-1591",
+      "genero": "Poesía mística",
+      "fontes": [
+        "Ediciones Carmelitanas, «Cántico Espiritual: Ejercicio de amor entre el alma y el Esposo»"
+      ]
+    },
+    {
+      "id": "livros:chama-viva-de-amor",
+      "slug": "chama-viva-de-amor",
+      "titulo": "Llama de Amor Viva",
+      "categoria": "livros",
+      "resumo": "Última gran obra de San Juan de la Cruz, sobre la unión transformante del alma con Dios, imagen de la llama que ilumina sin destruir.",
+      "corpo": "Compuesta por un breve poema de cuatro estrofas acompañado de un extenso comentario en prosa —en una primera versión de 1585-1586 y en una segunda, revisada, de 1591—, \"Llama de amor viva\" describe la experiencia de unión transformante del alma ya purificada, en la que el Espíritu Santo, imaginado como una llama viva, penetra e inflama el alma sin consumirla.\n\nSe distingue del tono de privación y aridez de \"Noche oscura\" por celebrar, al contrario, la plenitud: la llama no destruye, sino que ilumina, calienta y transforma, coronando el itinerario místico descrito en las obras anteriores del autor, todas ya presentes en este acervo.",
+      "tags": [
+        "mística",
+        "carmelitas descalzos",
+        "España",
+        "siglo XVI"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "autor": "San Juan de la Cruz",
+      "ano_publicacao": "c. 1585-1591",
+      "genero": "Teología mística",
+      "fontes": [
+        "Anastasis Católica, «Análisis del poema Llama de amor viva de San Juan de la Cruz»"
+      ]
+    },
+    {
+      "id": "livros:homem-eterno-chesterton",
+      "slug": "homem-eterno-chesterton",
+      "titulo": "El Hombre Eterno",
+      "categoria": "livros",
+      "resumo": "Ensayo apologético de G. K. Chesterton en defensa de la singularidad del ser humano y de Cristo en la historia, escrito en respuesta al evolucionismo materialista.",
+      "corpo": "Publicada en 1925, \"El Hombre Eterno\" nació como respuesta directa a \"La Historia de las Civilizaciones\", de H. G. Wells, que presentaba una lectura materialista y evolucionista de la historia humana. Chesterton contrapone a esa visión la tesis de que el ser humano no es solo un animal más desarrollado, y de que la figura de Cristo no es solo un líder religioso más entre tantos.\n\nEl libro se divide en dos partes —\"El Hombre en la Caverna\", sobre la naturaleza única del ser humano en la creación, y \"El Hombre Llamado Cristo\", sobre el carácter singular de Jesús en la historia— y tuvo una influencia conocida en la conversión al cristianismo del entonces joven ateo C. S. Lewis.",
+      "tags": [
+        "apologética",
+        "Inglaterra",
+        "siglo XX"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "autor": "Gilbert Keith Chesterton",
+      "ano_publicacao": "1925",
+      "genero": "Apologética",
+      "fontes": [
+        "Livros em Resumo, «Resumen de El Hombre Eterno por G.K. Chesterton»"
+      ]
+    },
+    {
+      "id": "livros:segredo-do-rosario",
+      "slug": "segredo-do-rosario",
+      "titulo": "El Secreto del Rosario",
+      "categoria": "livros",
+      "resumo": "Obra didáctica de San Luis María Grignion de Montfort sobre el origen, los beneficios y el modo de rezar el Rosario mariano.",
+      "corpo": "Organizada en 55 breves capítulos, llamados \"rosas\", la obra expone de modo práctico y didáctico el origen histórico del Rosario, sus beneficios espirituales y el modo correcto de rezarlo, ilustrando cada punto con ejemplos de santos y místicos que, según relatos de la tradición, alcanzaron grandes gracias por medio de esta oración.\n\nPara Montfort, el Rosario no es un método fácil al alcance de cualquiera sin exigencia, sino un camino espiritualmente seguro entre las formas más elevadas de unión con Dios por Jesús a través de María — distinta de \"El Secreto de María\", ya presente en este acervo, obra más breve del mismo autor sobre la consagración mariana en general.",
+      "tags": [
+        "Rosario",
+        "espiritualidad mariana",
+        "Francia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "autor": "San Luis María Grignion de Montfort",
+      "ano_publicacao": "c. 1710 (publicación póstuma)",
+      "genero": "Espiritualidad mariana",
+      "fontes": [
+        "Padre Paulo Ricardo, «O Segredo Admirável do Santíssimo Rosário»"
+      ]
+    },
+    {
+      "id": "livros:uniformidade-com-a-vontade-de-deus",
+      "slug": "uniformidade-com-a-vontade-de-deus",
+      "titulo": "Tratado de la Conformidad con la Voluntad de Dios",
+      "categoria": "livros",
+      "resumo": "Breve tratado de San Alfonso María de Ligorio sobre la aceptación amorosa de la voluntad divina, también en las adversidades, como camino de santidad.",
+      "corpo": "En este tratado breve pero doctrinalmente denso, San Alfonso María de Ligorio enseña que la conformidad con la voluntad de Dios es la clave de la verdadera paz interior y de la santidad, tratando las virtudes de la resignación y de la confianza en Dios y mostrando cómo la aceptación amorosa de la voluntad divina, incluso en las adversidades, es camino seguro para la unión con Él.\n\nEs uno de los textos más reeditados del fundador de los Redentoristas, junto a \"Las Glorias de María\", ya presente en este acervo, y se recomienda con frecuencia como lectura de profundización para quien ya tiene alguna base de vida espiritual.",
+      "tags": [
+        "espiritualidad",
+        "Alfonso de Ligorio",
+        "redentoristas"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "autor": "San Alfonso María de Ligorio",
+      "ano_publicacao": "siglo XVIII",
+      "genero": "Espiritualidad",
+      "fontes": [
+        "Editora Santa Cruz, «Tratado da Conformidade com a Vontade de Deus»"
+      ]
+    },
+    {
+      "id": "livros:suma-contra-os-gentios",
+      "slug": "suma-contra-os-gentios",
+      "titulo": "Suma contra los Gentiles",
+      "categoria": "livros",
+      "resumo": "Obra de Tomás de Aquino escrita para auxiliar a los misioneros dominicos en el diálogo racional con musulmanes y judíos.",
+      "corpo": "Compuesta a partir de mediados del siglo XIII en un contexto vinculado al dominico Raimundo de Peñafort, consejero de Jaime I de Aragón y organizador de las misiones dominicas en España, la \"Suma contra los Gentiles\" pretendía ofrecer a los misioneros un instrumento racional de diálogo con musulmanes y judíos, apoyándose en la medida de lo posible en argumentos accesibles a la razón natural antes de tratar de los misterios estrictamente revelados.\n\nEs, entre las grandes obras sistemáticas de Tomás de Aquino, la única que él logró concluir por entero de su propia mano, distinguiéndose metodológicamente de la \"Suma Teológica\", ya presente en este acervo, más orientada a la exposición orgánica de la fe para estudiantes de teología que a la argumentación apologética.",
+      "tags": [
+        "escolástica",
+        "Tomás de Aquino",
+        "apologética",
+        "dominicos"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "autor": "Santo Tomás de Aquino",
+      "ano_publicacao": "c. 1259-1265",
+      "genero": "Teología sistemática y apologética",
+      "fontes": [
+        "Wikipedia, «Suma contra Gentios»"
+      ]
+    },
+    {
+      "id": "livros:preparacao-para-a-morte-ligorio",
+      "slug": "preparacao-para-a-morte-ligorio",
+      "titulo": "Preparación para la Muerte",
+      "categoria": "livros",
+      "resumo": "Colección de meditaciones de San Alfonso de Ligorio sobre las realidades últimas —muerte, juicio, cielo e infierno— como estímulo a la conversión diaria.",
+      "corpo": "Publicada en 1758, esta obra reúne una serie de meditaciones sobre la certeza y la incertidumbre de la hora de la muerte, la diferencia entre la muerte del pecador y la del justo, la brevedad del tiempo y la vanidad de las cosas del mundo, todas orientadas a despertar en el lector la búsqueda constante de la gracia de la perseverancia final y del amor a Dios.\n\nEs un clásico de la literatura devocional sobre las realidades últimas (la llamada escatología), en el estilo afectivo y directo característico de San Alfonso María de Ligorio, fundador de los Redentoristas y Doctor de la Iglesia.",
+      "tags": [
+        "escatología",
+        "espiritualidad",
+        "Alfonso de Ligorio"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "autor": "San Alfonso María de Ligorio",
+      "ano_publicacao": "1758",
+      "genero": "Espiritualidad",
+      "fontes": [
+        "Internet Archive, «Preparação para a Morte»"
+      ]
+    },
+    {
+      "id": "livros:regra-de-santo-agostinho",
+      "slug": "regra-de-santo-agostinho",
+      "titulo": "Regla de San Agustín",
+      "categoria": "livros",
+      "resumo": "La más antigua regla monástica occidental que sigue en uso, compuesta a partir de los escritos y cartas de San Agustín para una comunidad de vida consagrada.",
+      "corpo": "Redactada a partir de varios escritos de San Agustín, especialmente de una de sus cartas, en respuesta a la petición de un grupo de hombres que vivían juntos y deseaban seguir más de cerca la vida evangélica, la Regla tiene como tema principal la vida en comunión de bienes, tratando también de la oración, la castidad y la obediencia.\n\nA lo largo de la Edad Media, fue adoptada por los canónigos regulares de San Agustín y, más tarde, por los dominicos y por diversas órdenes de ermitaños agustinos, convirtiéndose, junto con la Regla de San Benito ya presente en este acervo, en una de las dos grandes reglas monásticas fundadoras de la vida religiosa occidental.",
+      "tags": [
+        "monacato",
+        "patrística",
+        "regla monástica"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "autor": "San Agustín de Hipona",
+      "ano_publicacao": "c. 397-411",
+      "genero": "Regla monástica",
+      "fontes": [
+        "Agostinianos.org.br, «Regra de Santo Agostinho»"
+      ]
+    }
+  ]
+}

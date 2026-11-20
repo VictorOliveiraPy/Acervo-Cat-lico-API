@@ -1,0 +1,634 @@
+{
+  "_meta": {
+    "categoria": "igreja-brasil",
+    "nome": "Igreja no Brasil",
+    "descricao": "A história e a organização da Igreja Católica no Brasil, da primeira Missa à CNBB.",
+    "status": "exemplos-iniciais",
+    "aviso": "Recorte histórico introdutório; temas como a Teologia da Libertação envolvem debates internos à Igreja que este acervo procura descrever, não arbitrar.",
+    "revisao_editorial": null,
+    "fontes_gerais": [
+      "CNBB — Conferência Nacional dos Bispos do Brasil",
+      "Pero Vaz de Caminha, Carta a El-Rei Dom Manuel (1500)"
+    ]
+  },
+  "itens": [
+    {
+      "id": "igreja-brasil:primeira-missa-no-brasil",
+      "slug": "primeira-missa-no-brasil",
+      "titulo": "La Primera Misa en Brasil",
+      "resumo": "Celebración eucarística del 26 de abril de 1500, cuatro días después de la llegada de la flota de Cabral, narrada en la Carta de Pero Vaz de Caminha y considerada el hito inicial del catolicismo en el territorio brasileño.",
+      "corpo": "La escuadra portuguesa comandada por Pedro Álvares Cabral avistó el litoral de la actual Bahía el 22 de abril de 1500 — día en que se dio al monte el nombre de Monte Pascoal, en referencia al tiempo litúrgico de la Pascua, y a la nueva tierra el de Isla de Vera Cruz. Tras los primeros contactos con los pueblos indígenas, los portugueses buscaron un lugar seguro para anclar y levantaron un altar en la región de Coroa Vermelha, actual municipio de Santa Cruz Cabrália, en el litoral sur de Bahía.\n\nAllí, el 26 de abril de 1500 — un domingo de la Octava de Pascua (el «domingo de Pascua de Resurrección» o «Pascoela») —, se celebró la primera Misa en tierras brasileñas, presidida por Fray Henrique de Coimbra, fraile franciscano que integraba la expedición con la misión de prestar asistencia religiosa y evangelizar. El propio escribano de la flota, Pero Vaz de Caminha, dejó el testimonio más célebre del episodio en la carta enviada al rey Don Manuel I, fechada el 1 de mayo de 1500: «Plantada la Cruz, con las armas y la divisa de Vuestra Alteza, que primeramente le pusieron, armaron altar al pie de ella. Allí dijo misa el padre fray Henrique, la cual fue cantada y oficiada por esos ya dichos.» Caminha registra además que unos cincuenta o sesenta indígenas asistieron a la celebración, imitando los gestos de los portugueses: «Y cuando llegó al Evangelio, que nos levantamos todos en pie, con las manos alzadas, ellos se levantaron con nosotros y alzaron las manos [...]. Y cuando alzaron a Dios, que nos pusimos de rodillas, ellos se pusieron así todos, como nosotros estábamos con las manos alzadas, y de tal manera sosegados que, certifico a Vuestra Alteza, nos causó mucha devoción.»\n\nLa narración de Caminha describe, en realidad, más de una celebración. A la Misa del 26 de abril en tierra firme/Coroa Vermelha siguió una segunda, el 1 de mayo de 1500, en el llamado «ilhéu» (en la desembocadura del río Mutari), cuando, según el escribano, el Capitán determinó «ir a oír misa y prédica en aquel ilhéu», armándose un pabellón con altar «muy bien dispuesto» y celebrando de nuevo Fray Henrique, «en voz entonada». La fecha tradicionalmente celebrada como la Primera Misa es, sin embargo, la del 26 de abril. Hay pequeñas divergencias en las fuentes en cuanto a la identificación del celebrante — algunas lo registran como «Fray Henrique Soares de Coimbra» —, pero el nombre consolidado es Fray Henrique de Coimbra. La cruz utilizada en la ceremonia se conserva en el Tesoro-Museo de la Sé de Braga, en Portugal, y fue usada también en la Misa de inauguración de Brasilia.\n\nLa Primera Misa se convirtió, desde el siglo XIX, en un tema central de la iconografía nacional. Fue inmortalizada en el cuadro «La Primera Misa en Brasil» (pintado hacia 1860 y expuesto en el Salón de la École des Beaux-Arts de París en 1861), de Victor Meirelles, hoy en el Museo Nacional de Bellas Artes, en Río de Janeiro. La escena es tradicionalmente presentada como el hito fundador de la presencia católica en Brasil y como el gesto simbólico que, junto con la toma de posesión de la tierra por la Corona, dio inicio al proceso de evangelización y colonización — proceso que, como reconoce la historiografía, estuvo también marcado por tensiones y violencias en la relación con los pueblos originarios.",
+      "categoria": "igreja-brasil",
+      "tags": [
+        "primera misa",
+        "colonización",
+        "evangelización",
+        "siglo XVI",
+        "Fray Henrique de Coimbra",
+        "Pero Vaz de Caminha",
+        "Coroa Vermelha",
+        "Victor Meirelles"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Meirelles-primeiramissa2.jpg",
+      "imagem_credito": null,
+      "fontes": [
+        "Pero Vaz de Caminha, Carta a El-Rei Dom Manuel I, 1º de maio de 1500 (edición digital de la Biblioteca Nacional y del Senado/Plenarinho).",
+        "Diócesis de Juína, «A primeira missa do Brasil foi celebrada há 526 anos», con transcripción de la Carta de Caminha.",
+        "Archidiócesis de Joinville, «Primeira Missa no Brasil celebra 526 anos no domingo (26)».",
+        "Victor Meirelles, «A Primeira Missa no Brasil» (c. 1860), Museo Nacional de Bellas Artes — registro en Wikimedia Commons."
+      ],
+      "atualizado_em": null,
+      "ordem": 1
+    },
+    {
+      "id": "igreja-brasil:companhia-de-jesus-no-brasil-colonial",
+      "slug": "companhia-de-jesus-no-brasil-colonial",
+      "titulo": "La Compañía de Jesús en el Brasil colonial",
+      "categoria": "igreja-brasil",
+      "resumo": "Los jesuitas, con especial protagonismo de Manuel da Nóbrega y José de Anchieta, organizaron la catequesis y la educación en la colonia entre los siglos XVI y XVIII.",
+      "corpo": "Llegados al Brasil ya en 1549, junto con el primer gobernador general, Tomé de Sousa, los jesuitas —con especial protagonismo de Manuel da Nóbrega y José de Anchieta— organizaron un extenso sistema de misiones (\"reducciones\"), colegios y catequesis entre los pueblos indígenas, convirtiéndose durante dos siglos en los principales educadores de la colonia, hasta que fueron expulsados del Brasil y de todo el imperio portugués por el Marqués de Pombal, en 1759.",
+      "tags": [
+        "jesuitas",
+        "colonización",
+        "catequesis indígena"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Benedito_Calixto_de_Jesus_-_Retrato_do_Padre_Jos%C3%A9_de_Anchieta%2C_Acervo_do_Museu_Paulista_da_USP.jpg",
+      "imagem_credito": null,
+      "ordem": 2,
+      "fontes": []
+    },
+    {
+      "id": "igreja-brasil:padroado-real",
+      "slug": "padroado-real",
+      "titulo": "El Patronato Regio",
+      "categoria": "igreja-brasil",
+      "resumo": "Sistema por el cual la Corona portuguesa ejerció, por concesión papal, amplio control administrativo sobre la Iglesia en el Brasil colonial e imperial.",
+      "corpo": "El \"patronato\" fue un sistema, concedido por los papas a los reyes de Portugal a partir del siglo XV, que otorgaba a la Corona amplios derechos administrativos sobre la Iglesia en sus territorios de ultramar —designación de obispos, cobro y uso del diezmo, autorización previa para la publicación de documentos pontificios—, a cambio del patrocinio real a la evangelización. Perduró, con adaptaciones, durante toda la época colonial y el Imperio, y fue extinguido solo con la proclamación de la República, en 1889-1891.",
+      "tags": [
+        "padroado",
+        "Igreja e Estado",
+        "Império"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Meirelles-primeiramissa2.jpg",
+      "imagem_credito": null,
+      "ordem": 3,
+      "fontes": []
+    },
+    {
+      "id": "igreja-brasil:separacao-igreja-estado-brasil",
+      "slug": "separacao-igreja-estado-brasil",
+      "titulo": "La Separación entre Iglesia y Estado (1890-1891)",
+      "resumo": "El Decreto nº 119-A, de 7 de enero de 1890, extinguió el patronato e instituyó la libertad religiosa, principio consolidado en la Constitución de 1891 y marco inicial del Estado laico brasileño.",
+      "corpo": "Con la proclamación de la República, el 15 de noviembre de 1889, la extinción del régimen de patronato se convirtió en una de las primeras tareas del gobierno provisional de Manoel Deodoro da Fonseca. El instrumento jurídico de esa ruptura fue el Decreto nº 119-A, de 7 de enero de 1890, redactado por el entonces ministro de Hacienda Rui Barbosa. En sus siete artículos, el decreto prohibía \"la intervención de la autoridad federal y de los Estados federados en materia religiosa\", consagraba \"la plena libertad de cultos\", vedaba la creación de leyes o actos administrativos que establecieran alguna religión y reconocía a todas las iglesias y confesiones religiosas como personas jurídicas capaces de adquirir y administrar bienes.\n\nEl texto resultó de una negociación hábil entre Rui Barbosa y el obispo Antônio de Macedo Costa (1830-1891), una de las principales figuras de la llamada \"Cuestión Religiosa\" del Imperio. Parte de las propuestas presentadas por Macedo Costa y por el monseñor Spolverini fue incorporada solo parcialmente —sobre todo en lo referente a la garantía de la libertad de culto y al mantenimiento de las propiedades eclesiásticas, el mayor temor del episcopado ante los precedentes europeos y americanos de confiscación de los bienes de la Iglesia en regímenes republicanos. Como medida de transición, el Estado se comprometió a seguir pagando las côngruas y a subvencionar los seminarios por un año más.\n\nLos principios del decreto fueron constitucionalizados por la Carta de 24 de febrero de 1891, la primera de la República. Su art. 72, § 3º, garantizaba que \"todos los individuos y confesiones religiosas pueden ejercer pública y libremente su culto, asociándose para ese fin y adquiriendo bienes\"; el § 4º, que \"la República solo reconoce el matrimonio civil, cuya celebración será gratuita\"; el § 5º, que \"los cementerios tendrán carácter secular\" y serían administrados por la autoridad municipal, aunque quedaba libre la práctica de los ritos de cada culto; el § 6º, que \"será laica la enseñanza impartida en los establecimientos públicos\"; y el § 7º, que \"ningún culto o iglesia gozará de subvención oficial, ni tendrá relaciones de dependencia o alianza con el Gobierno de la Unión o el de los Estados\". El art. 11, § 2º, reforzaba la prohibición de que la Unión y los Estados establecieran, subvencionaran o entorpecieran el ejercicio de cultos religiosos. La medida retiró además a los clérigos funciones notariales —como el registro de nacimientos, matrimonios y defunciones— que les correspondían bajo el patronato.\n\nPara la Iglesia, la separación representó, a corto plazo, la pérdida de privilegios y del amparo financiero del Estado; a medio y largo plazo, sin embargo, significó una ganancia de autonomía institucional frente al poder político. Libre de las ataduras del patronato, la Iglesia brasileña emprendió, en las décadas siguientes, un amplio proceso de reorganización eclesiástica —la llamada \"diocesanización\", con la creación de nuevas diócesis y circunscripciones— que, contrariando las expectativas pesimistas de parte del episcopado, fortaleció el catolicismo en el país. La ruptura iniciada en 1890-1891 estableció el marco inicial del Estado laico brasileño, principio reafirmado, con variaciones, por todas las constituciones posteriores.",
+      "categoria": "igreja-brasil",
+      "tags": [
+        "República",
+        "Igreja e Estado",
+        "século XIX",
+        "Rui Barbosa",
+        "Decreto 119-A",
+        "padroado",
+        "Estado laico",
+        "Constituição de 1891",
+        "Antônio de Macedo Costa"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "fontes": [
+        "Decreto nº 119-A, de 7 de enero de 1890, que extingue o padroado (firmado por Rui Barbosa).",
+        "Constitución de la República de los Estados Unidos del Brasil, de 24 de febrero de 1891, arts. 11 § 2º y 72 §§ 3º, 4º, 5º, 6º y 7º (publicación original, Cámara de Diputados).",
+        "BBC News Brasil, \"Santo pago con salario público, Dios en la Constitución, enseñanza religiosa en las escuelas: la intrincada historia de la separación entre Iglesia y Estado en Brasil\".",
+        "\"Modernidade republicana e diocesanização do catolicismo no Brasil\", Revista Brasileira de História (SciELO).",
+        "Atlas Histórico do Brasil (FGV), entrada \"Constituição de 1891\"."
+      ],
+      "atualizado_em": null,
+      "ordem": 4
+    },
+    {
+      "id": "igreja-brasil:cnbb",
+      "slug": "cnbb",
+      "titulo": "CNBB — Conferencia Nacional de Obispos de Brasil",
+      "categoria": "igreja-brasil",
+      "resumo": "Órgano de coordinación pastoral de los obispos católicos brasileños, una de las primeras conferencias episcopales nacionales del mundo.",
+      "corpo": "Fundada en 1952, bajo el impulso de Don Hélder Câmara, entre otros, la CNBB fue una de las primeras conferencias episcopales nacionales del mundo, sirviendo más tarde de modelo para la creación de conferencias semejantes en otros países y para la propia institución del Sínodo de los Obispos después del Concilio Vaticano II. Coordina directrices pastorales comunes entre las diócesis brasileñas, sin sustituir la autoridad propia de cada obispo diocesano.",
+      "tags": [
+        "CNBB",
+        "jerarquía",
+        "siglo XX"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Seven_Sacraments_Rogier.jpg",
+      "imagem_credito": null,
+      "ordem": 5,
+      "fontes": []
+    },
+    {
+      "id": "igreja-brasil:teologia-da-libertacao-brasil",
+      "slug": "teologia-da-libertacao-brasil",
+      "titulo": "La Teología de la Liberación en Brasil",
+      "categoria": "igreja-brasil",
+      "resumo": "Corriente teológica latinoamericana que enfatizó la \"opción preferencial por los pobres\", con fuerte presencia de teólogos brasileños.",
+      "corpo": "Surgida en América Latina a partir del final de la década de 1960 —el peruano Gustavo Gutiérrez es considerado su formulador seminal—, la Teología de la Liberación tuvo expresivos representantes brasileños, como los frailes franciscanos Leonardo y Clodovis Boff, proponiendo una lectura de la fe cristiana centrada en la \"opción preferencial por los pobres\" y en el análisis de las estructuras sociales de injusticia. Recibió tanto adhesión pastoral entusiasta como críticas y advertencias doctrinales de la Santa Sede, sobre todo en las décadas de 1980-1990.",
+      "tags": [
+        "teología de la liberación",
+        "opción por los pobres",
+        "siglo XX"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/df/1605_Francken_sieben_Werke_der_Barmherzigkeit_anagoria.JPG",
+      "imagem_credito": null,
+      "ordem": 6,
+      "fontes": []
+    },
+    {
+      "id": "igreja-brasil:santos-e-beatos-brasileiros",
+      "slug": "santos-e-beatos-brasileiros",
+      "titulo": "Santos e Beatos Brasileiros",
+      "categoria": "igreja-brasil",
+      "resumo": "El pequeño pero creciente número de brasileños canonizados o beatificados por la Iglesia Católica.",
+      "corpo": "Entre los santos y beatos brasileños reconocidos por la Iglesia se encuentran Fray Galvão (primer santo nacido en Brasil, canonizado en 2007), Santa Dulce de los Pobres (la \"Madre Teresa brasileña\", canonizada en 2019, ambos ya biografiados en la categoría Santos de este acervo) y diversos beatos y mártires, lo que refleja un proceso aún en expansión de reconocimiento oficial de figuras de santidad nacidas o activas en suelo brasileño.",
+      "tags": [
+        "santos brasileños",
+        "canonización"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Irma-dulce-santa-canonizada.jpg",
+      "imagem_credito": "Foto: Nascimento Azevedo — Wikimedia Commons, CC BY-SA 4.0",
+      "ordem": 7,
+      "fontes": []
+    },
+    {
+      "id": "igreja-brasil:cristo-redentor-simbolo",
+      "slug": "cristo-redentor-simbolo",
+      "titulo": "El Cristo Redentor como Símbolo Nacional",
+      "resumo": "La estatua art déco del Corcovado, inaugurada el 12 de octubre de 1931, se convirtió en uno de los símbolos más reconocidos del catolicismo brasileño y del propio país.",
+      "corpo": "La idea de erigir un gran monumento religioso en la cima del cerro del Corcovado, en Río de Janeiro, se remonta a 1859, cuando el padre lazarista francés Pierre-Marie Boss, de la Iglesia del Colegio Inmaculada Concepción, propuso una estatua de la Virgen María, proyecto que no avanzó. La propuesta solo cobró fuerza en el contexto de las celebraciones del centenario de la Independencia de Brasil (1822), cuando la Archidiócesis de Río de Janeiro, bajo el impulso del entonces cardenal Dom Sebastião Leme, organizó la llamada \"Semana del Monumento\" para recaudar fondos. Las obras preparatorias comenzaron en la década de 1920: la autorización para construir en el Corcovado se concedió el 1 de junio de 1922, ese mismo año se colocó la piedra fundamental y, el 22 de mayo de 1923, el proyecto del ingeniero Heitor da Silva Costa fue elegido en asamblea general de la Comisión Ejecutiva del Monumento Nacional al Cristo Redentor.\n\nLa concepción inicial del monumento, sin embargo, era diferente de la que se consagró: en el primer diseño, la figura de Cristo sostendría un globo terráqueo en una mano y una cruz en la otra, proyecto que llegó a ser ridiculizado por los cariocas como el \"Cristo de la Bola\". El diseño final, con los brazos abiertos en forma de cruz, fue definido por el pintor y grabador italiano Carlos Oswald. Heitor da Silva Costa concibió la estructura, mientras que el modelado de la escultura correspondió al escultor francés Paul Landowski, responsable de los moldes de la cabeza y de las manos, esculpidos en Francia. El cálculo estructural estuvo a cargo del ingeniero francés Albert Caquot, de la firma Pelnard-Considère y Caquot. La construcción, en hormigón armado revestido de piedra jabonosa (material elegido por resistir mejor las variaciones climáticas), duró unos nueve años, de 1922 a 1931. La estatua mide 38 metros de altura (con el pedestal), pesa aproximadamente 1.145 toneladas y se encuentra a 710 metros de altitud, siendo uno de los mayores monumentos del mundo en estilo art déco.\n\nLa inauguración, el 12 de octubre de 1931 —deliberadamente en el día de Nuestra Señora Aparecida, patrona de Brasil, y no por casualidad—, contó con la presencia del presidente Getúlio Vargas y del interventor del Distrito Federal Pedro Ernesto. El momento culminante de la ceremonia, a las 19h15, fue el encendido del monumento accionado por una señal de radio transmitida por el físico italiano Guglielmo Marconi desde Italia, gesto celebrado por la prensa de la época (Assis Chateaubriand, de los Diários Associados, envió un telegrama a Marconi saludando \"la chispa del genio latino\"). Según los registros del Iphan, sin embargo, el sistema de Marconi no funcionó como se esperaba, y el Cristo terminó iluminado por el equipo del ingeniero Gustavo Corção. Detrás de la estatua hay una capilla dedicada a Nuestra Señora Aparecida.\n\nA lo largo del siglo XX el monumento se consolidó no solo como hito religioso, sino como símbolo nacional, reproducido en imágenes oficiales y ampliamente asociado a la identidad brasileña. En 2007 fue elegido una de las \"Siete Maravillas del Mundo Moderno\" en una votación popular internacional. Sufrió daños por rayos (el más notorio en 2014, que alcanzó el dedo pulgar de la mano derecha) y pasó por amplios trabajos de restauración y refuerzo estructural. Más que obra de ingeniería, el Cristo Redentor permanece como el testimonio más visible del esfuerzo de la Iglesia brasileña, durante la Primera República, por afirmar públicamente la presencia católica en el espacio urbano y en la vida nacional.",
+      "categoria": "igreja-brasil",
+      "tags": [
+        "Cristo Redentor",
+        "Río de Janeiro",
+        "siglo XX",
+        "Heitor da Silva Costa",
+        "Paul Landowski",
+        "art déco",
+        "Corcovado",
+        "Dom Sebastião Leme"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+      "imagem_credito": "Foto: Arne Müseler — Wikimedia Commons, CC BY-SA 3.0 de",
+      "fontes": [
+        "Brasiliana Fotográfica (Biblioteca Nacional), \"A inauguração do Cristo Redentor, em 12 de outubro de 1931\", con base en O Paiz, Jornal do Brasil, Revista da Semana e O Cruzeiro (1931).",
+        "Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), entrada sobre el Cristo Redentor.",
+        "Heitor da Silva Costa, datos biográficos y relación con la construcción del Cristo Redentor (Wikipédia, entradas en portugués e inglés).",
+        "Santuário Cristo Redentor, \"Santuário Cristo Redentor celebra 150 anos do pai do rádio Guglielmo Marconi\"."
+      ],
+      "atualizado_em": null,
+      "ordem": 8
+    },
+    {
+      "id": "igreja-brasil:celam-medellin",
+      "slug": "celam-medellin",
+      "titulo": "El CELAM y la Conferencia de Medellín (1968)",
+      "categoria": "igreja-brasil",
+      "resumo": "El Consejo Episcopal Latinoamericano y su conferencia de 1968, que aplicó el Concilio Vaticano II a la realidad social latinoamericana, incluido Brasil.",
+      "corpo": "Fundado en 1955, el Consejo Episcopal Latinoamericano (CELAM) reúne las conferencias episcopales de toda América Latina, incluida la CNBB. Su segunda conferencia general, en Medellín (Colombia, 1968), aplicó las directrices del recién concluido Concilio Vaticano II a la realidad de pobreza y desigualdad estructural de la región, influyendo fuertemente en la pastoral social y en la Teología de la Liberación en las décadas siguientes, también en Brasil.",
+      "tags": [
+        "CELAM",
+        "Medellín",
+        "doctrina social"
+      ],
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/St._Peter%27s_Basilica_Rome_-_20140808_2350.jpg",
+      "imagem_credito": null,
+      "ordem": 9,
+      "fontes": []
+    },
+    {
+      "id": "igreja-brasil:questao-religiosa-brasil-imperio",
+      "slug": "questao-religiosa-brasil-imperio",
+      "titulo": "La Cuestión Religiosa (1872-1875)",
+      "categoria": "igreja-brasil",
+      "resumo": "Conflicto entre obispos católicos ultramontanos y el gobierno del Segundo Reinado, centrado en la presencia de masones en las hermandades religiosas.",
+      "corpo": "La Cuestión Religiosa fue un enfrentamiento institucional entre la Iglesia Católica y el Estado brasileño del Segundo Reinado, con protagonistas los obispos Dom Vital Maria Gonçalves de Oliveira, de Olinda, y Dom Antônio de Macedo Costa, de Pará —ambos formados en Roma en la corriente ultramontana, que defendía mayor autonomía de la Iglesia frente al regalismo practicado entonces en el país. El detonante fue la decisión de estos obispos de suspender de las hermandades y órdenes terceras a los miembros que fueran también masones, lo que la Corona consideró una usurpación de su prerrogativa de patronato.\n\nEl gobierno imperial, encabezado por el Vizconde de Rio Branco —que era también Gran Maestre de la masonería brasileña—, reaccionó procesando a los obispos por abuso de autoridad. Dom Vital fue condenado y llegó a ser encarcelado en 1875, siendo después amnistiado. El episodio expuso las tensiones estructurales del régimen de patronato y es considerado uno de los factores que, pocos años después, contribuyeron a la separación entre Iglesia y Estado proclamada con la República.",
+      "tags": [
+        "Dom Vital",
+        "Imperio",
+        "masonería",
+        "siglo XIX"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 10,
+      "fontes": [
+        "Wikipédia, \"Questão religiosa\"",
+        "Temporalidades (UFMG), \"A cruzada ultramontana contra o regalismo do Estado e o jesuitismo maçom, no contexto da Questão Religiosa (1872-1875)\""
+      ]
+    },
+    {
+      "id": "igreja-brasil:concilio-plenario-brasileiro-1939",
+      "slug": "concilio-plenario-brasileiro-1939",
+      "titulo": "El Concilio Plenario Brasileño (1939)",
+      "categoria": "igreja-brasil",
+      "resumo": "Primer concilio propio de la Iglesia en Brasil, presidido por Dom Sebastião Leme, que produjo el primer código jurídico-eclesiástico específico del país.",
+      "corpo": "Celebrado en Río de Janeiro en 1939, bajo la presidencia del cardenal Dom Sebastião Leme da Silveira Cintra, arzobispo de Río de Janeiro y legado pontificio para la ocasión, el Concilio Plenario Brasileño fue el primer concilio reunido específicamente para la Iglesia en Brasil, sustituyendo la aplicación, hasta entonces vigente, del Concilio Plenario Latinoamericano de 1899 y de las antiguas Primeras Constituciones del Arzobispado de Bahía, de 1707.\n\nEl documento resultante funcionó como el primer código jurídico-eclesiástico propio y exclusivo del episcopado brasileño, regulando temas como la disciplina del clero, la organización de las diócesis y la música sagrada en el país, aplicando, entre otras normas, las determinaciones del motu proprio \"Tra le Sollecitudini\" de Pío X sobre la música litúrgica. Es un hito de la madurez institucional de la Iglesia en Brasil, pocos años antes de la creación de la CNBB.",
+      "tags": [
+        "Dom Sebastião Leme",
+        "derecho canónico",
+        "siglo XX"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 11,
+      "fontes": [
+        "Wikipédia, \"Concilium Plenarium Brasiliense\"",
+        "Revista Paulus, \"Concílio Plenário na Igreja do Brasil\""
+      ]
+    },
+    {
+      "id": "igreja-brasil:primeira-diocese-do-brasil",
+      "slug": "primeira-diocese-do-brasil",
+      "titulo": "La Primera Diócesis de Brasil (1551)",
+      "categoria": "igreja-brasil",
+      "resumo": "La creación de la Diócesis de São Salvador de Bahía, en 1551, dio a la colonia portuguesa su primera estructura episcopal propia, hoy la Sede Primacial de Brasil.",
+      "corpo": "El 25 de febrero de 1551, el papa Julio III, por la bula \"Super specula militantis Ecclesiae\", erigió la Diócesis de São Salvador de Bahía, la primera circunscripción eclesiástica organizada en el territorio que llegaría a ser Brasil, desmembrada de la Diócesis portuguesa de Funchal. Su primer obispo, don Pedro Fernandes Sardinha, llegó a la colonia recién en 1552 y tuvo un episcopado conflictivo, incluso con los jesuitas locales.\n\nSardinha murió trágicamente: en el naufragio de la nave que lo llevaba de regreso a Portugal, en 1556, él y otros sobrevivientes que alcanzaron la costa fueron asesinados por indígenas caetés. A pesar del episodio trágico, la diócesis de Salvador se consolidó y fue elevada a Arquidiócesis Primacial de Brasil, título que conserva hasta hoy como la sede más antigua del país.",
+      "tags": [
+        "Salvador",
+        "Sede Primacial",
+        "colonización"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 12,
+      "fontes": [
+        "Arquidiocese de São Salvador da Bahia, \"A Diocese de São Salvador da Bahia\"",
+        "SciELO em Perspectiva: Humanas, \"A trajetória de D. Pedro Fernandes e a construção de uma igreja diocesana no Brasil\" (2021)"
+      ]
+    },
+    {
+      "id": "igreja-brasil:reducoes-jesuiticas-guaranis",
+      "slug": "reducoes-jesuiticas-guaranis",
+      "titulo": "Las Reducciones Jesuíticas Guaraníes y los Siete Pueblos de las Misiones",
+      "categoria": "igreja-brasil",
+      "resumo": "Red de misiones jesuíticas fundadas en el siglo XVII en el actual Rio Grande do Sul para catequizar y proteger a los indígenas guaraníes, hoy Patrimonio Mundial de la UNESCO.",
+      "corpo": "A partir del siglo XVII, jesuitas españoles fundaron, en la región que hoy corresponde al noroeste de Rio Grande do Sul, una red de \"reducciones\" — poblados planificados donde los indígenas guaraníes eran catequizados y reunidos bajo una organización social y económica propia, relativamente protegida de la esclavización practicada por los bandeirantes paulistas. Siete de estos poblados, conocidos como los \"Siete Pueblos de las Misiones\" (San Nicolás, San Luis Gonzaga, San Miguel Arcángel, San Lorenzo Mártir, San Juan Bautista, Santo Ángel Custodio y San Francisco de Borja), se convirtieron en el núcleo más conocido de esta experiencia misionera en el territorio brasileño actual.\n\nLa reducción de San Miguel Arcángel, instalada en su ubicación actual en 1687, con orígenes que se remontan a 1632, fue la mayor e imponente de ellas, con iglesia, escuelas y talleres de arte sacro. Las ruinas de São Miguel das Missões, hoy en el municipio de São Miguel das Missões (RS), fueron reconocidas por la UNESCO como Patrimonio Mundial en 1983, formando parte de un conjunto transnacional con sitios jesuítico-guaraníes de Argentina.",
+      "tags": [
+        "jesuitas",
+        "Guaraní",
+        "Rio Grande do Sul",
+        "Patrimonio Mundial"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 13,
+      "fontes": [
+        "IPHAN, \"Sete Povos das Missões\"",
+        "UNESCO, World Heritage List, \"Jesuit Missions of the Guaranis\""
+      ]
+    },
+    {
+      "id": "igreja-brasil:nossa-senhora-aparecida-padroeira-do-brasil",
+      "slug": "nossa-senhora-aparecida-padroeira-do-brasil",
+      "titulo": "La Proclamación de Nuestra Señora Aparecida como Patrona de Brasil (1930)",
+      "categoria": "igreja-brasil",
+      "resumo": "Decreto del papa Pío XI, a petición del cardenal Sebastião Leme, que declaró a Nuestra Señora de la Concepción Aparecida Reina y Patrona principal de Brasil.",
+      "corpo": "El 16 de julio de 1930, el papa Pío XI proclamó, por decreto, a Nuestra Señora de la Concepción Aparecida Reina y Patrona Principal de Brasil, atendiendo a la petición formal del cardenal Don Sebastião Leme, arzobispo de Río de Janeiro, presentada durante el Congreso Mariano de 1929, que celebraba los veinticinco años de la coronación de la imagen de la santa. La elección consolidó una devoción que ya era ampliamente popular desde el hallazgo de la imagen, en 1717, en las aguas del río Paraíba do Sul.\n\nLa proclamación solemne del decreto, sin embargo, solo tuvo lugar al año siguiente: el 31 de mayo de 1931, en Río de Janeiro, entonces capital federal, ante cerca de un millón de personas y en presencia del presidente Getúlio Vargas y de autoridades civiles, militares y eclesiásticas. El Santuario Nacional de Aparecida, en el interior de São Paulo, se convirtió desde entonces en uno de los principales destinos de peregrinación católica del mundo.",
+      "tags": [
+        "Nuestra Señora Aparecida",
+        "Pío XI",
+        "patrona"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 14,
+      "fontes": [
+        "CNBB, \"Padroeira do Brasil\"",
+        "A12, \"1930: Pio XI declara N.S. Aparecida Padroeira do Brasil\""
+      ]
+    },
+    {
+      "id": "igreja-brasil:visita-joao-paulo-ii-ao-brasil-1980",
+      "slug": "visita-joao-paulo-ii-ao-brasil-1980",
+      "titulo": "La Primera Visita de San Juan Pablo II a Brasil (1980)",
+      "categoria": "igreja-brasil",
+      "resumo": "Viaje apostólico del 30 de junio al 12 de julio de 1980, el primero de un papa al territorio brasileño, recorriendo catorce ciudades en trece días.",
+      "corpo": "Entre el 30 de junio y el 12 de julio de 1980, san Juan Pablo II realizó la primera visita de un papa a Brasil, aterrizando primero en Brasilia y pasando también por Belo Horizonte, Río de Janeiro, São Paulo, Aparecida, Porto Alegre, Curitiba, Manaos, Recife, Salvador, Belém, Teresina y Fortaleza — catorce ciudades en total, en poco más de trece días y más de catorce mil kilómetros recorridos.\n\nEl viaje incluyó momentos que se volvieron emblemáticos, como el encuentro del papa con la Hermana Dulce de los Pobres en Salvador y su visita a la favela de Vidigal, en Río de Janeiro. Se estima que unos doce millones de personas lo vieron en persona a lo largo del recorrido, además de otros millones que siguieron la visita por televisión — un hito en la relación entre la Santa Sede y el mayor país católico del mundo.",
+      "tags": [
+        "San Juan Pablo II",
+        "viaje apostólico",
+        "siglo XX"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 15,
+      "fontes": [
+        "Vatican News, \"Abrir as portas a Cristo: os 40 anos da primeira visita de João Paulo II ao Brasil\" (2020)",
+        "A12, \"Neste dia, em 1980, o Papa João Paulo II chegava ao Brasil\""
+      ]
+    },
+    {
+      "id": "igreja-brasil:jornada-mundial-da-juventude-rio-2013",
+      "slug": "jornada-mundial-da-juventude-rio-2013",
+      "titulo": "La Jornada Mundial de la Juventud Río 2013",
+      "categoria": "igreja-brasil",
+      "resumo": "XXVIII Jornada Mundial de la Juventud, primer viaje internacional del papa Francisco, que reunió a millones de jóvenes en Río de Janeiro.",
+      "corpo": "Celebrada en Río de Janeiro entre el 22 y el 29 de julio de 2013, la XXVIII Jornada Mundial de la Juventud fue el primer viaje internacional del recién elegido papa Francisco, que eligió para su estreno fuera de Italia precisamente su continente de origen. El evento reunió a más de tres millones y medio de jóvenes de todo el mundo, con momentos culminantes como la Vigilia y la Misa de clausura en la playa de Copacabana.\n\nLa agenda del papa tuvo un marcado acento social, con visitas a una favela (la Comunidad de Varginha), a un hospital de rehabilitación para drogodependientes y a jóvenes en situación de prisión, rasgo que se convertiría en característico de su pontificado. Diez años después, en 2023, Río celebró el aniversario del evento como un hito en la historia reciente de la Iglesia en Brasil.",
+      "tags": [
+        "Papa Francisco",
+        "JMJ",
+        "Río de Janeiro"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 16,
+      "fontes": [
+        "Vatican.va, \"Viaje Apostólico del Papa Francisco a Río de Janeiro, XXVIII Jornada Mundial de la Juventud\" (2013)",
+        "Vatican News, \"Río en fiesta por los 10 años de la JMJ 2013 con el Papa Francisco\" (2023)"
+      ]
+    },
+    {
+      "id": "igreja-brasil:congresso-eucaristico-internacional-1955",
+      "slug": "congresso-eucaristico-internacional-1955",
+      "titulo": "El 36.º Congreso Eucarístico Internacional (1955)",
+      "categoria": "igreja-brasil",
+      "resumo": "Único Congreso Eucarístico Internacional celebrado hasta ahora en Brasil, reunido en Río de Janeiro bajo el cardenal Jaime de Barros Câmara, con don Hélder Câmara como secretario general.",
+      "corpo": "Entre el 17 y el 24 de julio de 1955, Río de Janeiro acogió el XXXVI Congreso Eucarístico Internacional, bajo el lema \"El Reino Eucarístico de Cristo Redentor\", que hasta hoy es el único congreso de esta envergadura realizado en territorio brasileño. El evento, presidido por el arzobispo de Río, cardenal don Jaime de Barros Câmara, tuvo como secretario general al entonces obispo auxiliar don Hélder Câmara, que años después sería una de las figuras centrales en la fundación de la CNBB.\n\nLas celebraciones se realizaron en el aterro que entonces se construía en el barrio de Flamengo y reunieron multitudes, en uno de los mayores eventos católicos celebrados en el país. El papa Pío XII se dirigió a los participantes mediante un radiomensaje. La custodia utilizada en las celebraciones del Congreso se conserva hoy en la Iglesia de Santana, en el centro de Río de Janeiro, Santuario de Adoración Perpetua.",
+      "tags": [
+        "Eucaristía",
+        "Río de Janeiro",
+        "Don Hélder Câmara"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 17,
+      "fontes": [
+        "Wikipédia, \"XXXVI Congresso Eucarístico Internacional\"",
+        "Vatican.va, Radiomensagem de Pio XII ao XXXVI Congresso Eucarístico Internacional do Rio de Janeiro (24 de julho de 1955)"
+      ]
+    },
+    {
+      "id": "igreja-brasil:padre-cicero-e-religiosidade-popular",
+      "slug": "padre-cicero-e-religiosidade-popular",
+      "titulo": "Padre Cícero y la Religiosidad Popular de Juazeiro",
+      "categoria": "igreja-brasil",
+      "resumo": "Sacerdote cearense que, a pesar de décadas de censuras canónicas, se convirtió en uno de los mayores símbolos de devoción popular del Nordeste brasileño.",
+      "corpo": "El padre Cícero Romão Batista (1844-1934), párroco de Juazeiro do Norte, en Ceará, se convirtió en figura central de la religiosidad popular nordestina después del llamado \"Milagro de Juazeiro\", el 6 de marzo de 1889, cuando una hostia que él había dado a la beata María de Araújo pareció transformarse en sangre. La Iglesia, tras las investigaciones, no reconoció el fenómeno como milagro y, a lo largo de las décadas siguientes (1889-1926), impuso al padre Cícero sucesivas sanciones disciplinarias: prohibición de celebrar misa, suspensión a divinis y, en determinado momento, llegó a anunciarse su excomunión, aunque esta medida extrema nunca llegó a aplicarse efectivamente.\n\nAun apartado del ejercicio regular del sacerdocio, el padre Cícero mantuvo un enorme prestigio entre el pueblo, que comenzó a venerarlo como santo popular, devoción nunca reconocida oficialmente por la Iglesia, pero tampoco jamás reprimida por completo. En diciembre de 2015, con ocasión de la apertura del Año Santo de la Misericordia y por voluntad expresa del papa Francisco, la Santa Sede, mediante una carta del entonces secretario de Estado, Mons. Pietro Parolin, anunció un gesto de reconciliación con la memoria del sacerdote y de sus romeros.",
+      "tags": [
+        "Padre Cícero",
+        "Juazeiro do Norte",
+        "religiosidad popular"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 18,
+      "fontes": [
+        "Diário do Nordeste, \"Saiba quem foi Padre Cícero Romão Batista, o 'Padim Ciço'\"",
+        "Blog de Altaneira, \"As Punições ao Padre Cícero\""
+      ]
+    },
+    {
+      "id": "igreja-brasil:irmandades-e-confrarias-coloniais",
+      "slug": "irmandades-e-confrarias-coloniais",
+      "titulo": "Hermandades y Cofradías en el Brasil Colonial",
+      "categoria": "igreja-brasil",
+      "resumo": "Asociaciones laicales de fieles que organizaron el culto, la caridad y la vida social en las parroquias del Brasil colonial, entre ellas las Santas Casas de Misericordia.",
+      "corpo": "Desde el siglo XVI, inspiradas en modelos portugueses, florecieron en el Brasil colonial las hermandades y cofradías —asociaciones de laicos organizadas en torno a la devoción a un santo patrono, regidas por estatutos de compromiso que regulaban su vida interna. La primera de ellas, la Hermandad de la Santa Casa de Misericordia de Olinda, se remonta aproximadamente a 1539, siguiendo el modelo de las Santas Casas portuguesas dedicadas a la asistencia de los pobres, los enfermos y los huérfanos.\n\nAdemás de la caridad, las hermandades organizaban fiestas y procesiones en honor de sus patronos y servían como importantes espacios de sociabilidad y ascenso social: algunas, como las dedicadas a Nuestra Señora del Rosario, San Benito o Santa Efigenia, reunían mayoritariamente a hermanos negros y mulatos, libres o esclavizados, mientras que otras concentraban a la élite blanca colonial. En el apogeo del Ciclo del Oro en Minas Gerais, en el siglo XVIII, las hermandades laicales alcanzaron su mayor vigor económico y artístico, financiando buena parte de la arquitectura religiosa barroca de la región.",
+      "tags": [
+        "hermandades",
+        "Brasil colonial",
+        "Santa Casa de Misericordia"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 19,
+      "fontes": [
+        "Infopédia, \"Irmandades Religiosas no Brasil\"",
+        "historiadobrasil.net, \"Irmandades Leigas no Brasil Colonial\""
+      ]
+    },
+    {
+      "id": "igreja-brasil:cimi-conselho-indigenista-missionario",
+      "slug": "cimi-conselho-indigenista-missionario",
+      "titulo": "CIMI — Consejo Indigenista Misionero",
+      "categoria": "igreja-brasil",
+      "resumo": "Organismo vinculado a la CNBB, creado en 1972 en el auge de la dictadura militar, que reorientó la acción de la Iglesia entre los pueblos indígenas hacia la defensa de sus derechos y culturas.",
+      "corpo": "El Consejo Indigenista Misionero nació el 23 de abril de 1972 como organismo anexo a la Conferencia Nacional de Obispos de Brasil, en un momento en que el Estado brasileño, bajo el régimen militar, promovía grandes proyectos de infraestructura en la Amazonia y defendía abiertamente la integración forzada de los pueblos indígenas a la sociedad nacional como única perspectiva posible. Ante esto, el Cimi propuso repensar la presencia misionera católica entre los indígenas, dejando atrás un modelo puramente catequético y asimilacionista.\n\nEn su primera asamblea general, celebrada en 1975, el Cimi definió sus líneas centrales de acción —tierra, cultura y autodeterminación—, favoreciendo la articulación entre aldeas y pueblos y promoviendo grandes asambleas indígenas que sentaron las bases de la lucha por el derecho a la diversidad cultural en Brasil, muchas veces en choque directo con la política de desarrollo del régimen militar.",
+      "tags": [
+        "CIMI",
+        "pueblos indígenas",
+        "CNBB",
+        "dictadura militar"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 20,
+      "fontes": [
+        "Cimi, \"O Cimi\" (cimi.org.br)",
+        "Consolata América, \"Conselho Indigenista Missionário (Cimi) completa 50 anos de criação\""
+      ]
+    },
+    {
+      "id": "igreja-brasil:cpt-comissao-pastoral-da-terra",
+      "slug": "cpt-comissao-pastoral-da-terra",
+      "titulo": "CPT — Comisión Pastoral de la Tierra",
+      "categoria": "igreja-brasil",
+      "resumo": "Organismo vinculado a la CNBB, surgido en 1975 en el Encuentro de Obispos y Prelados de la Amazonía, dedicado a la defensa de los trabajadores rurales y del derecho a la tierra durante la dictadura militar.",
+      "corpo": "La Comisión Pastoral de la Tierra nació el 22 de junio de 1975, durante el Encuentro de Obispos y Prelados de la Amazonía, convocado por la CNBB y celebrado en Goiânia. Uno de sus principales precursores fue Dom Pedro Casaldáliga, obispo de la Prelatura de São Félix do Araguaia (MT), cuya carta pastoral \"Una Iglesia de la Amazonía en conflicto con el latifundio y la marginación social\", publicada en 1971 el día de su propia ordenación episcopal, ya denunciaba la violencia contra posseiros y trabajadores rurales de la región.\n\nAprobadas por la Presidencia de la CNBB en agosto de 1975, las resoluciones que crearon la CPT pronto superaron los límites de la Amazonía, convirtiéndose en un organismo nacional de apoyo jurídico y pastoral a los trabajadores del campo en conflictos de tierra en todo el país — uno de los focos de mayor tensión entre la Iglesia y los intereses de grandes propietarios rurales durante y después de la dictadura militar.",
+      "tags": [
+        "CPT",
+        "Dom Pedro Casaldáliga",
+        "reforma agraria",
+        "CNBB"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 21,
+      "fontes": [
+        "Comisión Pastoral de la Tierra, \"Quiénes somos\"",
+        "CPT Nacional, \"Hace 40 años nacía la CPT\" (2015)"
+      ]
+    },
+    {
+      "id": "igreja-brasil:comunidades-eclesiais-de-base-brasil",
+      "slug": "comunidades-eclesiais-de-base-brasil",
+      "titulo": "Comunidades Eclesiales de Base (CEB)",
+      "categoria": "igreja-brasil",
+      "resumo": "Pequeños grupos de fieles reunidos para la oración, la lectura bíblica y la acción comunitaria, surgidos en Brasil a finales de los años 1950 e impulsados por la Conferencia de Medellín (1968).",
+      "corpo": "Las Comunidades Eclesiales de Base surgieron en Brasil entre finales de la década de 1950 y comienzos de los años 1960, a partir de experiencias como la catequesis popular de Barra do Piraí (1956) y el Movimiento de Educación de Base, extendiéndose y cobrando fuerza sobre todo en los años 1970 y 1980. La II Conferencia del CELAM, reunida en Medellín en 1968, dio a estas comunidades un lugar central al proponer la CEB como principal instrumento pastoral para vivir, de forma comunitaria, la \"opción preferencial por los pobres\".\n\nLas CEB nacieron en una coyuntura marcada por el régimen militar autoritario y el cierre de los canales de participación política, encontrando en la CNBB la cobertura institucional que les permitió crecer incluso bajo la vigilancia del Estado. En Olinda y Recife, por ejemplo, Dom Hélder Câmara llegó a crear más de 500 de estas comunidades, que cumplieron simultáneamente un papel de evangelización y de resistencia a la dictadura.",
+      "tags": [
+        "Comunidades Eclesiales de Base",
+        "Medellín",
+        "teología de la liberación"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 22,
+      "fontes": [
+        "CPDOC-FGV, \"Comunidades Eclesiais de Base (CEBs)\"",
+        "Portal das CEBs, \"História das CEBs\""
+      ]
+    },
+    {
+      "id": "igreja-brasil:dom-helder-camara-bispo-dos-pobres",
+      "slug": "dom-helder-camara-bispo-dos-pobres",
+      "titulo": "Dom Hélder Câmara, el \"Obispo de los Pobres\"",
+      "categoria": "igreja-brasil",
+      "resumo": "Arzobispo de Olinda y Recife de 1964 a 1985, se convirtió en uno de los rostros más conocidos internacionalmente en la defensa de los derechos humanos y en la opción por los pobres en la Iglesia de Brasil.",
+      "corpo": "Nacido en Fortaleza el 7 de febrero de 1909, Hélder Pessoa Câmara fue ordenado sacerdote en 1931 y obispo en 1952, convirtiéndose en secretario general de la recién fundada CNBB y, después, obispo auxiliar de Río de Janeiro durante doce años. El 12 de marzo de 1964 fue nombrado arzobispo de Olinda y Recife, apenas dieciocho días antes de que los militares instauraran, con el golpe de 1964, el régimen que duraría 21 años.\n\nEn Recife creó más de 500 Comunidades Eclesiales de Base y se hizo conocido internacionalmente como \"Dom Hélder\" o \"hermano de los pobres\", por su incansable defensa de los derechos humanos, incluso mientras era objeto, dentro de Brasil, de un cerco de silencio impuesto por la censura del régimen militar. Murió en Recife el 27 de agosto de 1999.",
+      "tags": [
+        "Dom Hélder Câmara",
+        "Recife",
+        "derechos humanos",
+        "dictadura militar"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 23,
+      "fontes": [
+        "Memórias da Ditadura, \"Dom Hélder Câmara\"",
+        "Instituto Humanitas Unisinos, \"Hélder Câmara, 'o bispo dos pobres'\""
+      ]
+    },
+    {
+      "id": "igreja-brasil:dom-paulo-evaristo-arns-e-a-ditadura",
+      "slug": "dom-paulo-evaristo-arns-e-a-ditadura",
+      "titulo": "Dom Paulo Evaristo Arns y la Defensa de los Derechos Humanos",
+      "categoria": "igreja-brasil",
+      "resumo": "Cardenal arzobispo de São Paulo, se convirtió en símbolo de la resistencia a las violaciones de derechos humanos de la dictadura militar, coordinando con el pastor Jaime Wright el proyecto \"Brasil: Nunca Más\".",
+      "corpo": "Nacido en Forquilhinha (SC) el 14 de septiembre de 1921, Dom Paulo Evaristo Arns fue el quinto arzobispo y el tercer cardenal de la Arquidiócesis de São Paulo. El contacto directo con presos políticos y el conocimiento de las prácticas de tortura del régimen militar lo marcaron definitivamente como defensor de los derechos humanos; tras el asesinato del periodista Vladimir Herzog bajo tortura en 1975, presidió en la Catedral de la Sé un acto ecuménico que entró en la historia de la lucha por la redemocratización de Brasil.\n\nA finales de los años 1970, coordinó, junto con el pastor presbiteriano Jaime Wright, el proyecto \"Brasil: Nunca Más\", que reunió clandestinamente copias de procesos de la Justicia Militar para documentar sistemáticamente las violaciones de derechos humanos cometidas durante la dictadura. Murió en São Paulo el 14 de diciembre de 2016, a los 95 años.",
+      "tags": [
+        "Dom Paulo Evaristo Arns",
+        "São Paulo",
+        "derechos humanos",
+        "Brasil Nunca Más"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 24,
+      "fontes": [
+        "Jornal da USP, \"Dom Paulo Evaristo Arns, um ícone da democracia e dos direitos humanos\"",
+        "Memórias da Ditadura, \"Dom Paulo Evaristo Arns\""
+      ]
+    },
+    {
+      "id": "igreja-brasil:basilica-de-aparecida-construcao",
+      "slug": "basilica-de-aparecida-construcao",
+      "titulo": "La construcción de la Basílica de Aparecida",
+      "categoria": "igreja-brasil",
+      "resumo": "Iniciada en 1955, la nueva basílica del Santuario Nacional de Aparecida se convirtió en el mayor templo católico de Brasil y el segundo mayor del mundo dedicado a Nuestra Señora.",
+      "corpo": "Las obras de la nueva basílica del Santuario Nacional de Nuestra Señora Aparecida comenzaron el 11 de noviembre de 1955, con la construcción de la Nave Norte, según el proyecto del arquitecto Benedito Calixto de Jesus Neto, en estilo neorrománico marcado por ladrillos a la vista y gran monumentalidad. La planta en forma de cruz griega mide 188 por 183 metros, con una cúpula de 70 metros de altura y una torre de 109 metros, con capacidad para recibir entre 30 y 45 mil personas en su interior.\n\nCon estas dimensiones, la basílica se convirtió en el mayor templo católico de Brasil y en el segundo mayor del mundo, superada únicamente por la Basílica de San Pedro, en el Vaticano, y en la mayor iglesia mariana del planeta. La pequeña iglesia original del siglo XVIII, donde la imagen fue venerada originalmente, permanece junto a ella como la \"Basílica Vieja\", preservada como hito histórico de la devoción que antecedió a este templo monumental.",
+      "tags": [
+        "Aparecida",
+        "santuario",
+        "arquitectura religiosa"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 25,
+      "fontes": [
+        "Revista Haus, \"Santuário e Basílica de Nossa Senhora Aparecida em números\"",
+        "Sempre Família, \"300 anos de Aparecida: concluídas as obras da segunda maior igreja do mundo\""
+      ]
+    },
+    {
+      "id": "igreja-brasil:cirio-de-nazare",
+      "slug": "cirio-de-nazare",
+      "titulo": "Fiesta de Nuestra Señora de Nazaré (Círio de Nazaré)",
+      "categoria": "igreja-brasil",
+      "resumo": "Procesión fluvial y terrestre que se celebra en Belém do Pará desde 1793 en honor a Nuestra Señora de Nazaré, reconocida por la UNESCO como Patrimonio Cultural Inmaterial de la Humanidad en 2013.",
+      "corpo": "La devoción a Nuestra Señora de Nazaré en Pará se remonta a 1700, cuando el caboclo Plácido habría encontrado una imagen de la Virgen en el igarapé Murutucu, lugar donde hoy se alza la Basílica-Santuario de Nazaré. El primer Círio propiamente dicho se celebró el 8 de septiembre de 1793, por iniciativa del gobernador de la capitanía, Dom Francisco de Souza Coutinho; desde entonces, la celebración se realiza todos los años el segundo domingo de octubre.\n\nEn la procesión, la imagen de madera de la santa es llevada desde la Catedral de la Sé hasta la Plaza del Santuario de Nazaré, reuniendo multitudes: más de dos millones de devotos en 2013, año récord. El 4 de diciembre de ese mismo año, la UNESCO reconoció el Círio de Nazaré como Patrimonio Cultural Inmaterial de la Humanidad, por reunir una rica diversidad de rituales sagrados y expresiones culturales populares en torno a una sola devoción mariana.",
+      "tags": [
+        "Círio de Nazaré",
+        "Belém do Pará",
+        "devoción mariana",
+        "Patrimonio Inmaterial"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 26,
+      "fontes": [
+        "ONU Brasil, \"Círio de Nazaré é declarado Patrimônio Imaterial da Humanidade da UNESCO\"",
+        "UNESCO Intangible Cultural Heritage, \"Círio de Nazaré (The Taper of Our Lady of Nazareth)\""
+      ]
+    },
+    {
+      "id": "igreja-brasil:primeiras-constituicoes-arcebispado-bahia-1707",
+      "slug": "primeiras-constituicoes-arcebispado-bahia-1707",
+      "titulo": "Las Primeras Constituciones del Arzobispado de Bahía (1707)",
+      "categoria": "igreja-brasil",
+      "resumo": "Código jurídico-eclesiástico promulgado por el arzobispo Don Sebastião Monteiro da Vide en 1707, que reguló la vida de la Iglesia en el Brasil colonial durante más de dos siglos.",
+      "corpo": "Fruto de un sínodo diocesano celebrado el 12 de junio de 1707, las Constituciones Primeras del Arzobispado de Bahía fueron promulgadas por el arzobispo Don Sebastião Monteiro da Vide como un extenso código de normas eclesiásticas, que refleja principalmente los decretos del Concilio de Trento, pero adaptados a las condiciones específicas de la colonia — incluida la presencia de la esclavitud. Publicada por primera vez en Lisboa en 1719, la obra fue durante mucho tiempo el código más completo de su género aplicado al Brasil.\n\nHasta el Concilio Plenario Brasileño de 1939, las Constituciones Primeras siguieron siendo la principal referencia canónica y pastoral para la jerarquía católica en todo el territorio brasileño — más de dos siglos de vigencia, un período poco común de estabilidad normativa en una colonia y luego en un imperio que vivió tantas otras transformaciones políticas.",
+      "tags": [
+        "Bahía",
+        "derecho canónico",
+        "Brasil colonial",
+        "Don Sebastião Monteiro da Vide"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 27,
+      "fontes": [
+        "Wikipédia, \"Constituições Primeiras do Arcebispado da Bahia\"",
+        "Revista Eclesiástica Brasileira, \"Igreja e escravidão nas constituições do Arcebispado da Bahia de 1707\""
+      ]
+    },
+    {
+      "id": "igreja-brasil:jose-de-anchieta-apostolo-do-brasil",
+      "slug": "jose-de-anchieta-apostolo-do-brasil",
+      "titulo": "San José de Anchieta, el Apóstol de Brasil",
+      "categoria": "igreja-brasil",
+      "resumo": "Jesuita español que llegó a Brasil en 1553, cofundador de São Paulo y de Río de Janeiro, se convirtió en uno de los mayores educadores y evangelizadores de la colonia.",
+      "corpo": "Nacido en Tenerife en 1534, José de Anchieta llegó a Brasil en 1553 para ayudar en la catequesis de los pueblos indígenas, habiendo participado en la fundación del colegio que dio origen a la ciudad de São Paulo, en 1554, y en negociaciones de paz decisivas para la fundación de Río de Janeiro, en 1565. Autor de la primera gramática de la lengua tupí y de poemas y obras de teatro usados como instrumento catequético, recibió el título de \"Apóstol de Brasil\" por su dedicación total a la evangelización de los indígenas.\n\nBeatificado por San Juan Pablo II en 1980, José de Anchieta fue canonizado por el papa Francisco el 3 de abril de 2014, mediante la llamada canonización equipolente, que dispensa la comprobación de un nuevo milagro en razón del culto ya consolidado a lo largo de los siglos — su causa, iniciada todavía en el siglo XVII, tardó 417 años en concluirse, una de las más largas de la historia de la Iglesia. Murió en Reritiba (actual Anchieta, en Espírito Santo) en 1597.",
+      "tags": [
+        "José de Anchieta",
+        "jesuitas",
+        "catequesis indígena",
+        "canonización"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 28,
+      "fontes": [
+        "Vatican News, \"São José de Anchieta, Apóstolo do Brasil\"",
+        "A12, \"Relembre a 'canonização equipolente' de São José de Anchieta\""
+      ]
+    },
+    {
+      "id": "igreja-brasil:igreja-e-a-escravidao-no-brasil",
+      "slug": "igreja-e-a-escravidao-no-brasil",
+      "titulo": "La Iglesia Católica y la esclavitud en Brasil",
+      "categoria": "igreja-brasil",
+      "resumo": "La relación de la Iglesia con la esclavitud en Brasil estuvo marcada por contradicciones: presente en la sociedad esclavista desde la colonización, pero también objeto, a lo largo de los siglos, de condenas pontificias y de la participación de clérigos en el movimiento abolicionista.",
+      "corpo": "Desde la colonización, la Iglesia Católica estuvo profundamente arraigada en una sociedad esclavista: órdenes religiosas y cofradías laicas poseían personas esclavizadas, y las propias Constituciones del Arzobispado de Bahía de 1707 regulaban la institución sin condenarla. Aun así, la Santa Sede emitió condenas pontificias explícitas: ya en 1741, el papa Benedicto XIV envió una carta a los obispos de Brasil condenando la esclavización de los indígenas, y en 1839 el papa Gregorio XVI, mediante la bula \"In Supremo Apostolatus\", condenó formalmente la trata de esclavos africanos, casi cincuenta años antes de la abolición en Brasil.\n\nA partir de la década de 1870, parte del alto clero brasileño se comprometió activamente con la campaña abolicionista, intensificando sus declaraciones contra el cautiverio en los años que precedieron a la Ley Áurea. La encíclica \"In Plurimis\", del papa León XIII, fechada el 5 de mayo de 1888, llegó a Brasil días después de la firma de la ley; en agradecimiento al gesto de la princesa Isabel, el mismo papa le enviaría la Rosa de Oro, una de las más altas condecoraciones pontificias.",
+      "tags": [
+        "esclavitud",
+        "abolición",
+        "historia de la Iglesia",
+        "Gregorio XVI"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 29,
+      "fontes": [
+        "Gregorio XVI, bula «In Supremo Apostolatus» (1839)",
+        "Biblioteca Católica MBC, \"Igreja Católica, escravidão e abolição\""
+      ]
+    },
+    {
+      "id": "igreja-brasil:frei-galvao-primeiro-santo-brasileiro",
+      "slug": "frei-galvao-primeiro-santo-brasileiro",
+      "titulo": "La canonización de Fray Galvão (2007)",
+      "categoria": "igreja-brasil",
+      "resumo": "El 11 de mayo de 2007, durante su viaje a Brasil, el papa Benedicto XVI canonizó a Fray Antônio de Sant'Ana Galvão, convirtiéndolo en el primer santo nacido en territorio brasileño.",
+      "corpo": "Nacido en Guaratinguetá el 10 de mayo de 1739 y fallecido en el Monasterio de la Luz, en São Paulo, el 23 de diciembre de 1822 — pocos meses después de la independencia de Brasil —, Fray Galvão fue canonizado por el papa Benedicto XVI el 11 de mayo de 2007, durante una Misa celebrada en el Campo de Marte, en São Paulo, ante unas 800 mil personas, en el primer viaje del pontífice al país.\n\nEl acontecimiento convirtió a Fray Galvão en el primer santo nacido en suelo brasileño, hito que el gobierno brasileño reconoció al instituir, mediante la Ley nº 11.532, de 25 de octubre de 2007, el 11 de mayo como el Día Nacional de Fray Galvão. Doce años después, en 2019, Brasil tendría su segunda santa nacida en el país, Santa Dulce de los Pobres, ya mencionada de manera general entre los santos y beatos brasileños en este acervo.",
+      "tags": [
+        "Fray Galvão",
+        "Benedicto XVI",
+        "canonización",
+        "São Paulo"
+      ],
+      "imagem": null,
+      "imagem_credito": null,
+      "ordem": 30,
+      "fontes": [
+        "Vatican News, \"Frei Galvão: 15 anos da canonização do primeiro santo brasileiro\"",
+        "CBS News, \"Pope Canonizes First Brazilian Saint\" (2007)"
+      ]
+    }
+  ]
+}
