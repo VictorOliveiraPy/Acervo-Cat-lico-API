@@ -228,3 +228,12 @@ def test_worker_reports_errors_and_admin_can_retry(client: TestClient) -> None:
         ]
         == "cancelado"
     )
+
+
+def test_worker_gets_nothing_while_r2_is_not_configured(client: TestClient, monkeypatch: pytest.MonkeyPatch) -> None:
+    # Sem o R2, o vídeo não teria para onde ir: o pedido fica na fila em vez de
+    # gastar meia hora de render e falhar no envio.
+    client.post("/api/admin/pedidos", json={"tema": "Missa"}, headers=ADMIN)
+    monkeypatch.setattr(settings, "r2_secret_access_key", None)
+    assert client.post("/api/estudio/proximo", headers=WORKER).status_code == 503
+    assert client.get("/api/admin/pedidos", headers=ADMIN).json()[0]["status"] == "na_fila"

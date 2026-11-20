@@ -359,6 +359,7 @@ async def worker_next(
     request: Request, x_estudio_token: str = Header(default="")
 ) -> Response | dict[str, object]:
     _worker(x_estudio_token)
+    _r2()  # sem o R2 configurado, o vídeo pronto não teria para onde ir
     claimed = await _requests(request).claim_next()
     return _request_json(claimed) if claimed else Response(status_code=204)
 
