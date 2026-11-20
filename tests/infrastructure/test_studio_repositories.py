@@ -102,7 +102,7 @@ async def test_requests_queue_in_order_and_claim_once(repos: tuple) -> None:
     first = await requests.create(
         NewVideoRequest("Confissão", "O padre pode contar?", "", "cinema")
     )
-    await requests.create(NewVideoRequest("Missa", "", "", "meme"))
+    await requests.create(NewVideoRequest("Missa", "", "", "catequese"))
 
     claimed = await requests.claim_next()
     assert (

@@ -21,7 +21,9 @@ REEL_THEMES: dict[str, str] = {
     "igrejas": "Igrejas e devoções",
     "curiosidades": "Curiosidades",
 }
-VIDEO_FORMATS = ("cinema", "meme")
+# Cinema: pinturas em 3D, narrado. Catequese: o modelo Pergaminho do videos-py, narrado
+# e didático, com o texto entrando na palavra dita.
+VIDEO_FORMATS = ("cinema", "catequese")
 
 _SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 MAX_TITLE = 140
@@ -123,7 +125,7 @@ def new_request(data: Mapping[str, object]) -> NewVideoRequest:
         raise ValidationError("pergunta: termine com ponto de interrogação.")
     video_format = data.get("formato", "cinema")
     if video_format not in VIDEO_FORMATS:
-        raise ValidationError("formato: cinema ou meme.")
+        raise ValidationError("formato: cinema ou catequese.")
     return NewVideoRequest(
         theme=_text(data, "tema", limit=MAX_THEME, required=True),
         question=question,

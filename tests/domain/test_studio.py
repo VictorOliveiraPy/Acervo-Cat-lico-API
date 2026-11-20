@@ -91,9 +91,12 @@ def test_new_request_needs_a_theme_and_a_known_format() -> None:
     with pytest.raises(ValidationError):
         new_request({"tema": "x", "formato": "novela"})
     with pytest.raises(ValidationError):
+        new_request({"tema": "x", "formato": "meme"})  # o meme saiu do painel
+    assert new_request({"tema": "Os sacramentos", "formato": "catequese"}).format == "catequese"
+    with pytest.raises(ValidationError):
         new_request({"tema": "x", "pergunta": "Sem interrogação"})
 
 
 def test_known_lists() -> None:
     assert "santos" in REEL_THEMES and "curiosidades" in REEL_THEMES
-    assert VIDEO_FORMATS == ("cinema", "meme")
+    assert VIDEO_FORMATS == ("cinema", "catequese")
