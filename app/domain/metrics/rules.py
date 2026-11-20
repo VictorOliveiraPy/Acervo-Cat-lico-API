@@ -33,7 +33,12 @@ EVENT_NAMES: frozenset[str] = frozenset(
 
 _BOT = re.compile(
     r"bot|crawl|spider|slurp|headless|lighthouse|preview|facebookexternalhit|whatsapp|"
-    r"telegram|discord|curl|wget|python|httpx|axios|node-fetch|go-http",
+    r"telegram|discord|curl|wget|python|httpx|axios|node-fetch|go-http|"
+    # Ferramentas que abrem a página como um navegador, sem "bot" no nome: as do
+    # Google (inspeção de URL do Search Console, verificação, prévias), testes de
+    # velocidade e auditorias de SEO. Costumam abrir como computador e celular juntos.
+    r"google-|ptst|gtmetrix|pingdom|uptime|monitor|siteaudit|ahrefs|semrush|"
+    r"screaming frog|yandex|baidu|petal|bytespider",
     re.IGNORECASE,
 )
 _PHONE = re.compile(r"mobile|android|iphone|ipod|ipad", re.IGNORECASE)

@@ -34,6 +34,18 @@ OWN = ("compendio-catolico.com",)
         "WhatsApp/2.23",
         "curl/8.0",
         "",
+        # Ferramentas que renderizam como navegador, sem "bot" no nome:
+        "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X) AppleWebKit/537.36 Chrome/131.0 Mobile Safari/537.36 "
+        "(compatible; Google-InspectionTool/1.0;)",
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131.0 Safari/537.36 Chrome-Lighthouse",
+        "Mozilla/5.0 (Linux; Android 11; moto g power) AppleWebKit/537.36 Chrome/131.0 Mobile Safari/537.36 "
+        "PTST/241101",
+        "Mozilla/5.0 (compatible; Google-Site-Verification/1.0)",
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google-PageRenderer "
+        "Google (+https://developers.google.com/+/web/snippet/))",
+        "Mozilla/5.0 (compatible; AhrefsSiteAudit/6.1)",
+        "Mozilla/5.0 GTmetrix",
+        "Mozilla/5.0 (compatible; UptimeRobot/2.0)",
     ],
 )
 def test_should_treat_crawlers_previews_and_empty_agents_as_bots(ua: str) -> None:
