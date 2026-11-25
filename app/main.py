@@ -74,7 +74,12 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
     pool: asyncpg.Pool | None = None
     if settings.database_url:
         try:
-            pool = await asyncpg.create_pool(settings.database_url, min_size=1, max_size=5)
+            # Sem cache de consultas preparadas: o pooler do Neon (PgBouncer) reaproveita
+            # conexões entre versões da API, e depois de um ALTER TABLE o plano guardado de um
+            # `SELECT *` fica inválido (InvalidCachedStatementError em toda chamada).
+            pool = await asyncpg.create_pool(
+                settings.database_url, min_size=1, max_size=5, statement_cache_size=0
+            )
             await PostgresCandleRepository.create_schema(pool)
             app.state.candle_repository = PostgresCandleRepository(pool)
             logger.info("Mural de velas conectado")
