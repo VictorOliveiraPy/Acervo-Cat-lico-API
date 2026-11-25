@@ -101,3 +101,8 @@ def test_new_request_needs_a_theme_and_a_known_format() -> None:
 def test_known_lists() -> None:
     assert "santos" in REEL_THEMES and "curiosidades" in REEL_THEMES
     assert VIDEO_FORMATS == ("cinema", "catequese", "objecao")
+
+
+def test_own_voice_in_every_format() -> None:
+    for formato in VIDEO_FORMATS:
+        assert new_request({"tema": "Missa", "formato": formato, "voz_propria": True}).own_voice is True

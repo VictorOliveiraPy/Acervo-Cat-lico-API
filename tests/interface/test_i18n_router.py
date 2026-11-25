@@ -3,6 +3,8 @@ TestClient (app real, dados reais)."""
 
 from __future__ import annotations
 
+from pathlib import Path
+
 import pytest
 from fastapi.testclient import TestClient
 
@@ -44,8 +46,18 @@ def test_should_list_only_translated_categories_for_i18n_language(
 def test_should_404_when_i18n_category_not_translated_yet(client: TestClient) -> None:
     """Categoria válida no enum, mas sem tradução pra este idioma: 404 igual
     a uma categoria que não existe — nunca um erro cru de servidor."""
-    # Given / When
-    response = client.get("/api/i18n/es/santos")
+    # Given: uma categoria do português que o espanhol ainda não tem (a fila de
+    # tradução avança, então não dá para fixar uma).
+    data = Path(__file__).resolve().parents[2] / "app" / "data"
+    pendentes = sorted(
+        {p.name for p in (data / "i18n" / "en").glob("*.json")}
+        - {p.name for p in (data / "i18n" / "es").glob("*.json")}
+    )
+    if not pendentes:
+        pytest.skip("O espanhol já tem todas as categorias.")
+
+    # When
+    response = client.get(f"/api/i18n/es/{pendentes[0].removesuffix('.json')}")
 
     # Then
     assert response.status_code == 404

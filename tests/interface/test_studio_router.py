@@ -266,8 +266,10 @@ def test_own_voice_flow_waits_for_the_recording(client: TestClient) -> None:
     assert again["voz_url"] == link["public_url"]
 
 
-def test_own_voice_only_where_the_template_supports_it(client: TestClient) -> None:
-    response = client.post(
-        "/api/admin/pedidos", json={"tema": "Os sacramentos", "formato": "catequese", "voz_propria": True}, headers=ADMIN
-    )
-    assert response.status_code == 422
+def test_own_voice_in_every_format(client: TestClient) -> None:
+    # Todos os modelos sincronizam a gravação de quem administra, inclusive o Pergaminho.
+    for formato in ("cinema", "catequese", "objecao"):
+        response = client.post(
+            "/api/admin/pedidos", json={"tema": "Os sacramentos", "formato": formato, "voz_propria": True}, headers=ADMIN
+        )
+        assert response.status_code == 201 and response.json()["voz_propria"] is True, formato
