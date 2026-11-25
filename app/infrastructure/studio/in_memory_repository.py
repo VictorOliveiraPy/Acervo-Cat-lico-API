@@ -61,6 +61,7 @@ class InMemoryVideoRequestRepository(VideoRequestRepository):
             question=request.question,
             notes=request.notes,
             format=request.format,
+            own_voice=request.own_voice,
             created_at=now,
             updated_at=now,
         )

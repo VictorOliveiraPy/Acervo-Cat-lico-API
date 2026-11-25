@@ -237,3 +237,37 @@ def test_worker_gets_nothing_while_r2_is_not_configured(client: TestClient, monk
     monkeypatch.setattr(settings, "r2_secret_access_key", None)
     assert client.post("/api/estudio/proximo", headers=WORKER).status_code == 503
     assert client.get("/api/admin/pedidos", headers=ADMIN).json()[0]["status"] == "na_fila"
+
+
+def test_own_voice_flow_waits_for_the_recording(client: TestClient) -> None:
+    created = client.post(
+        "/api/admin/pedidos",
+        json={"tema": "Santa Catarina", "formato": "cinema", "voz_propria": True},
+        headers=ADMIN,
+    ).json()
+    assert created["voz_propria"] is True and created["voz_url"] is None
+
+    job = client.post("/api/estudio/proximo", headers=WORKER).json()
+    assert job["voz_propria"] is True
+    # O gerador escreve o roteiro e para: o painel mostra o texto para gravar.
+    roteiro = "Santa Catarina. Quem era ela?\n\nEra uma noviça em Paris."
+    assert client.post(f"/api/estudio/pedidos/{job['id']}/roteiro", json={"texto": roteiro}, headers=WORKER).status_code == 204
+    waiting = client.get("/api/admin/pedidos", headers=ADMIN).json()[0]
+    assert (waiting["status"], waiting["roteiro"]) == ("aguardando_voz", roteiro)
+    assert client.post("/api/estudio/proximo", headers=WORKER).status_code == 204  # não volta à fila sozinho
+
+    link = client.post("/api/admin/uploads", json={"slug": f"pedido-{job['id']}", "tipo": "voz"}, headers=ADMIN).json()
+    assert link["public_url"].endswith(f"/vozes/pedido-{job['id']}.audio")
+    assert client.post(f"/api/admin/pedidos/{job['id']}/voz", json={"voz_url": "https://outro-site.com/x"}, headers=ADMIN).status_code == 422
+    sent = client.post(f"/api/admin/pedidos/{job['id']}/voz", json={"voz_url": link["public_url"]}, headers=ADMIN)
+    assert sent.status_code == 200 and sent.json()["status"] == "na_fila"
+
+    again = client.post("/api/estudio/proximo", headers=WORKER).json()
+    assert again["voz_url"] == link["public_url"]
+
+
+def test_own_voice_only_where_the_template_supports_it(client: TestClient) -> None:
+    response = client.post(
+        "/api/admin/pedidos", json={"tema": "Os sacramentos", "formato": "catequese", "voz_propria": True}, headers=ADMIN
+    )
+    assert response.status_code == 422

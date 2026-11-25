@@ -117,3 +117,15 @@ async def test_requests_queue_in_order_and_claim_once(repos: tuple) -> None:
     )
     assert done is not None and (done.status, done.slug) == ("pronto", "confissao")
     assert [r.id for r in await requests.list_recent(10)] == [second.id, first.id]
+
+
+async def test_requests_keep_the_own_voice_script_and_recording(repos: tuple) -> None:
+    _, requests = repos
+    created = await requests.create(NewVideoRequest("Santa Catarina", "", "", "cinema", own_voice=True))
+    assert created.own_voice is True and created.script == "" and created.voice_url is None
+
+    await requests.update(created.id, status="aguardando_voz", script="Texto para gravar.")
+    await requests.update(created.id, status="na_fila", voice_url="https://img/vozes/pedido-1.audio")
+    found = await requests.get(created.id)
+    assert found is not None
+    assert (found.status, found.script, found.voice_url) == ("na_fila", "Texto para gravar.", "https://img/vozes/pedido-1.audio")

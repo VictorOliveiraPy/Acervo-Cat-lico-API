@@ -24,6 +24,8 @@ REEL_THEMES: dict[str, str] = {
 # Cinema: pinturas em 3D, narrado. Catequese: o modelo Pergaminho do videos-py, narrado
 # e didático. Objeção: uma objeção comum à fé e a resposta curta, sobre pinturas.
 VIDEO_FORMATS = ("cinema", "catequese", "objecao")
+# Só o modelo Cinema sincroniza uma gravação real; o Pergaminho (catequese) só tem voz sintética.
+OWN_VOICE_FORMATS = ("cinema", "objecao")
 
 _SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 MAX_TITLE = 140
@@ -126,9 +128,15 @@ def new_request(data: Mapping[str, object]) -> NewVideoRequest:
     video_format = data.get("formato", "cinema")
     if video_format not in VIDEO_FORMATS:
         raise ValidationError("formato: cinema, catequese ou objeção.")
+    own_voice = data.get("voz_propria", False)
+    if not isinstance(own_voice, bool):
+        raise ValidationError("voz_propria: sim ou não.")
+    if own_voice and video_format not in OWN_VOICE_FORMATS:
+        raise ValidationError("Voz própria só no Cinema e na Objeção.")
     return NewVideoRequest(
         theme=_text(data, "tema", limit=MAX_THEME, required=True),
         question=question,
         notes=_text(data, "notas", limit=MAX_NOTES, required=False),
         format=str(video_format),
+        own_voice=own_voice,
     )

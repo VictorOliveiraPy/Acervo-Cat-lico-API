@@ -37,7 +37,13 @@ from app.infrastructure.storage.r2 import R2Config, delete_object, presign_url
 router = APIRouter(tags=["estúdio"])
 
 UPLOAD_SECONDS = 15 * 60
-_FILES = {"video": ("mp4", "video/mp4"), "capa": ("jpg", "image/jpeg")}
+# Tipo -> (pasta no bucket, extensão, content-type). A voz vem em qualquer formato de
+# áudio (gravação do navegador ou arquivo do celular); o gerador converte.
+_FILES = {
+    "video": ("reels", "mp4", "video/mp4"),
+    "capa": ("reels", "jpg", "image/jpeg"),
+    "voz": ("vozes", "audio", "application/octet-stream"),
+}
 SlugParam = Annotated[str, Path(pattern=r"^[a-z0-9]+(?:-[a-z0-9]+)*$", max_length=80)]
 
 
@@ -138,6 +144,9 @@ def _request_json(req: VideoRequest) -> dict[str, object]:
         "progresso": req.progress,
         "erro": req.error,
         "slug": req.slug,
+        "voz_propria": req.own_voice,
+        "roteiro": req.script,
+        "voz_url": req.voice_url,
         "criado_em": req.created_at.isoformat() if req.created_at else None,
         "atualizado_em": req.updated_at.isoformat() if req.updated_at else None,
     }
@@ -146,11 +155,11 @@ def _request_json(req: VideoRequest) -> dict[str, object]:
 def _upload(slug: str, kind: str) -> dict[str, str]:
     if kind not in _FILES:
         raise AppException(
-            "tipo: video ou capa.", status_code=422, code="DADOS_INVALIDOS"
+            "tipo: video, capa ou voz.", status_code=422, code="DADOS_INVALIDOS"
         )
     config = _r2()
-    extension, content_type = _FILES[kind]
-    key = f"reels/{slug}.{extension}"
+    folder, extension, content_type = _FILES[kind]
+    key = f"{folder}/{slug}.{extension}"
     return {
         "upload_url": presign_url(config, "PUT", key, expires_seconds=UPLOAD_SECONDS),
         "public_url": config.public_url(key),
@@ -456,3 +465,50 @@ async def worker_error(
     message = str(body.get("mensagem", "Erro sem descrição."))[:500]
     await _requests(request).update(request_id, status="erro", error=message)
     return Response(status_code=204)
+
+
+# ----------------------------------------------------------------- voz própria
+
+
+@router.post(
+    "/api/estudio/pedidos/{request_id}/roteiro",
+    status_code=204,
+    response_class=Response,
+    summary="Roteiro pronto para gravar: o pedido espera a voz",
+)
+async def worker_script(
+    request: Request,
+    request_id: int,
+    body: dict[str, object] = Body(...),
+    x_estudio_token: str = Header(default=""),
+) -> Response:
+    _worker(x_estudio_token)
+    await _own(request, request_id)
+    script = str(body.get("texto", "")).strip()[:8000]
+    if not script:
+        raise AppException("texto obrigatório.", status_code=422, code="DADOS_INVALIDOS")
+    await _requests(request).update(
+        request_id, status="aguardando_voz", stage="Esperando a sua voz", progress=50, script=script
+    )
+    return Response(status_code=204)
+
+
+@router.post("/api/admin/pedidos/{request_id}/voz", summary="Gravação enviada: o pedido volta à fila")
+async def admin_voice(
+    request: Request,
+    request_id: int,
+    body: dict[str, object] = Body(...),
+    x_internal_secret: str = Header(default=""),
+) -> dict[str, object]:
+    _admin(x_internal_secret)
+    url = body.get("voz_url")
+    # Só uma gravação do nosso bucket: o gerador baixa o que estiver aqui.
+    prefix = settings.r2_public_base_url.rstrip("/") + "/vozes/"
+    if not isinstance(url, str) or not url.startswith(prefix):
+        raise AppException("voz_url: envie a gravação pelo painel.", status_code=422, code="DADOS_INVALIDOS")
+    updated = await _requests(request).update(
+        request_id, status="na_fila", stage="", progress=0, error="", voice_url=url
+    )
+    if updated is None:
+        raise NotFoundException("Pedido não encontrado.", code="PEDIDO_NAO_ENCONTRADO")
+    return _request_json(updated)

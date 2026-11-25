@@ -27,6 +27,8 @@ _REQUEST_COLUMNS = {
     "progress": "progresso",
     "error": "erro",
     "slug": "slug",
+    "script": "roteiro",
+    "voice_url": "voz_url",
 }
 
 
@@ -57,6 +59,9 @@ def _request(row: Any) -> VideoRequest:
         progress=row["progresso"],
         error=row["erro"],
         slug=row["slug"],
+        own_voice=row["voz_propria"],
+        script=row["roteiro"],
+        voice_url=row["voz_url"],
         created_at=row["criado_em"],
         updated_at=row["atualizado_em"],
     )
@@ -94,6 +99,9 @@ async def create_schema(pool: AsyncPool) -> None:
             atualizado_em TIMESTAMPTZ NOT NULL DEFAULT now()
         );
         CREATE INDEX IF NOT EXISTS idx_pedidos_video_status ON pedidos_video (status, id);
+        ALTER TABLE pedidos_video ADD COLUMN IF NOT EXISTS voz_propria BOOLEAN NOT NULL DEFAULT FALSE;
+        ALTER TABLE pedidos_video ADD COLUMN IF NOT EXISTS roteiro TEXT NOT NULL DEFAULT '';
+        ALTER TABLE pedidos_video ADD COLUMN IF NOT EXISTS voz_url TEXT;
         """
     )
 
@@ -169,11 +177,13 @@ class PostgresVideoRequestRepository(VideoRequestRepository):
 
     async def create(self, request: NewVideoRequest) -> VideoRequest:
         row = await self._pool.fetchrow(
-            "INSERT INTO pedidos_video (tema, pergunta, notas, formato) VALUES ($1, $2, $3, $4) RETURNING *",
+            "INSERT INTO pedidos_video (tema, pergunta, notas, formato, voz_propria)"
+            " VALUES ($1, $2, $3, $4, $5) RETURNING *",
             request.theme,
             request.question,
             request.notes,
             request.format,
+            request.own_voice,
         )
         return _request(row)
 
