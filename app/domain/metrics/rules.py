@@ -28,6 +28,7 @@ EVENT_NAMES: frozenset[str] = frozenset(
         "lesson_completed",
         "calendar_subscribed",
         "prayer_action",
+        "leao_confirmar",
     }
 )
 
