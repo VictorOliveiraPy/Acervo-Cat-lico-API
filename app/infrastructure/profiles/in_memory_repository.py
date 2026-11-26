@@ -30,6 +30,7 @@ class _Row:
     activities: dict[tuple[str, date], int] = field(default_factory=dict)
     favorites: list[Favorite] = field(default_factory=list)
     notes: list[Note] = field(default_factory=list)
+    path_steps: dict[int, date] = field(default_factory=dict)
 
 
 class InMemoryProfileRepository(ProfileRepository):
@@ -56,6 +57,7 @@ class InMemoryProfileRepository(ProfileRepository):
             last_activity_days=last_days,
             active_days=frozenset(row.lesson_days)
             | frozenset(day for _, day in row.activities),
+            path_steps=tuple(sorted(row.path_steps.items())),
         )
 
     async def ensure(self, subject: str, display_name: str) -> Profile:
@@ -110,6 +112,13 @@ class InMemoryProfileRepository(ProfileRepository):
         if row is None:
             return None
         row.activities.setdefault((activity, day), points)
+        return self._to_profile(row)
+
+    async def advance_path(self, subject: str, house: int, day: date) -> Profile | None:
+        row = self._rows.get(subject)
+        if row is None:
+            return None
+        row.path_steps.setdefault(house, day)
         return self._to_profile(row)
 
     async def delete(self, subject: str) -> None:

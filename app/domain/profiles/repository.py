@@ -56,6 +56,10 @@ class ProfileRepository(ABC):
         marcar de novo no mesmo dia não soma pontos."""
 
     @abstractmethod
+    async def advance_path(self, subject: str, house: int, day: date) -> Profile | None:
+        """Registra a casa do Caminho da Santidade concluída no dia (a regra é do domínio)."""
+
+    @abstractmethod
     async def delete(self, subject: str) -> None:
         """Apaga o perfil e, com ele, lições, favoritos e anotações."""
 

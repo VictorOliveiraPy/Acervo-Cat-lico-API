@@ -16,6 +16,7 @@ from app.domain.profiles.entities import (
     Profile,
     RankingRow,
 )
+from app.domain.profiles.path import HOUSES, VIAS, houses_done, task_name
 from app.domain.profiles.progression import (
     current_streak,
     level_info,
@@ -52,6 +53,51 @@ class LessonsRequest(BaseModel):
 
 class PatronRequest(BaseModel):
     padroeiro_id: PatronSaint
+
+
+class PathRequest(BaseModel):
+    casa: int = Field(ge=1, le=len(HOUSES))
+
+
+class PathProgressResponse(BaseModel):
+    # Casas seguidas desde a primeira; `hoje`, as concluídas hoje (para a festa na tela).
+    concluidas: int
+    hoje: list[int]
+
+
+class ViaResponse(BaseModel):
+    id: str
+    nome: str
+    descricao: str
+
+
+class HouseResponse(BaseModel):
+    numero: int
+    via: str
+    titulo: str
+    texto: str
+    tipo: Literal["atividade", "licao"]
+    tarefa: str
+    tarefa_nome: str
+    licoes: int
+
+
+class PathResponse(BaseModel):
+    vias: list[ViaResponse]
+    casas: list[HouseResponse]
+
+    @classmethod
+    def build(cls) -> PathResponse:
+        return cls(
+            vias=[ViaResponse(id=v.id, nome=v.name, descricao=v.description) for v in VIAS],
+            casas=[
+                HouseResponse(
+                    numero=h.number, via=h.via, titulo=h.title, texto=h.text, tipo=h.kind,
+                    tarefa=h.task, tarefa_nome=task_name(h), licoes=h.lessons_needed,
+                )
+                for h in HOUSES
+            ],
+        )
 
 
 class ActivityRequest(BaseModel):
@@ -106,6 +152,7 @@ class ProfileResponse(BaseModel):
     atividades: list[ActivityResponse]
     nivel: LevelResponse
     sequencia: StreakResponse
+    caminho: PathProgressResponse
 
     @classmethod
     def from_entity(cls, profile: Profile, today: date) -> ProfileResponse:
@@ -140,6 +187,10 @@ class ProfileResponse(BaseModel):
                 atual=current_streak(profile.active_days, today),
                 recorde=longest_streak(profile.active_days),
                 multiplicador=multiplier,
+            ),
+            caminho=PathProgressResponse(
+                concluidas=houses_done(profile.path_steps),
+                hoje=[number for number, day in profile.path_steps if day == today],
             ),
         )
 

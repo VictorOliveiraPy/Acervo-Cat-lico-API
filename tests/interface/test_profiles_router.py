@@ -215,3 +215,35 @@ def test_should_multiply_practice_points_from_the_seventh_day(client: TestClient
     ).json()
     assert after["pontos"] == 6 * 15 + 22
     assert after["sequencia"]["atual"] == 7
+
+
+def test_path_definition_is_public(client: TestClient) -> None:
+    body = client.get("/api/caminho").json()
+    assert [via["id"] for via in body["vias"]] == ["purgativa", "iluminativa", "unitiva"]
+    assert len(body["casas"]) == 36
+    first = body["casas"][0]
+    assert set(first) == {"numero", "via", "titulo", "texto", "tipo", "tarefa", "tarefa_nome", "licoes"}
+    assert first["numero"] == 1 and first["tipo"] == "atividade"
+
+
+def test_path_advances_one_house_per_task(client: TestClient) -> None:
+    profile = client.post("/api/perfil", json={"nome": "Ana"}, headers=ANA).json()
+    assert profile["caminho"] == {"concluidas": 0, "hoje": []}
+    first = client.get("/api/caminho").json()["casas"][0]
+
+    refused = client.post("/api/perfil/caminho", json={"casa": 1}, headers=ANA)
+    assert refused.status_code == 409 and refused.json()["code"] == "CAMINHO_BLOQUEADO"
+    assert "Marque" in refused.json()["message"]
+
+    client.post("/api/perfil/atividades", json={"atividade": first["tarefa"]}, headers=ANA)
+    done = client.post("/api/perfil/caminho", json={"casa": 1}, headers=ANA)
+    assert done.status_code == 200 and done.json()["caminho"] == {"concluidas": 1, "hoje": [1]}
+    # Pular casa não vale; a mesma casa de novo também não.
+    assert client.post("/api/perfil/caminho", json={"casa": 3}, headers=ANA).status_code == 409
+    assert client.post("/api/perfil/caminho", json={"casa": 1}, headers=ANA).status_code == 409
+    assert client.post("/api/perfil/caminho", json={"casa": 99}, headers=ANA).status_code == 422
+
+
+def test_path_needs_a_profile_and_the_secret(client: TestClient) -> None:
+    assert client.post("/api/perfil/caminho", json={"casa": 1}, headers={"X-User-Sub": "x"}).status_code == 401
+    assert client.post("/api/perfil/caminho", json={"casa": 1}, headers=BIA).status_code == 404

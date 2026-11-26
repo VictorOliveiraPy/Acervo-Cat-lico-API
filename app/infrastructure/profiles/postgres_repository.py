@@ -93,6 +93,12 @@ class PostgresProfileRepository(ProfileRepository):
                 pontos INT NOT NULL,
                 PRIMARY KEY (google_sub, atividade, dia)
             );
+            CREATE TABLE IF NOT EXISTS perfil_caminho (
+                google_sub TEXT NOT NULL REFERENCES perfis (google_sub) ON DELETE CASCADE,
+                casa INT NOT NULL,
+                dia DATE NOT NULL,
+                PRIMARY KEY (google_sub, casa)
+            );
             CREATE TABLE IF NOT EXISTS favoritos (
                 id BIGSERIAL PRIMARY KEY,
                 google_sub TEXT NOT NULL REFERENCES perfis (google_sub) ON DELETE CASCADE,
@@ -145,6 +151,10 @@ class PostgresProfileRepository(ProfileRepository):
             """,
             subject,
         )
+        path = await self._pool.fetch(
+            "SELECT casa, dia FROM perfil_caminho WHERE google_sub = $1 ORDER BY casa",
+            subject,
+        )
         return Profile(
             display_name=row["nome_exibicao"],
             preferences=list(row["preferencias"]),
@@ -155,6 +165,7 @@ class PostgresProfileRepository(ProfileRepository):
             last_activity_days={a["atividade"]: a["ultimo_dia"] for a in activities},
             active_days=frozenset(lesson["dia"] for lesson in lessons if lesson["dia"])
             | frozenset(a["dia"] for a in activity_days),
+            path_steps=tuple((step["casa"], step["dia"]) for step in path),
         )
 
     async def ensure(self, subject: str, display_name: str) -> Profile:
@@ -236,6 +247,20 @@ class PostgresProfileRepository(ProfileRepository):
             activity,
             day,
             points,
+        )
+        return await self._load(subject)
+
+    async def advance_path(self, subject: str, house: int, day: date) -> Profile | None:
+        if not await self.exists(subject):
+            return None
+        await self._pool.execute(
+            """
+            INSERT INTO perfil_caminho (google_sub, casa, dia) VALUES ($1, $2, $3)
+            ON CONFLICT (google_sub, casa) DO NOTHING
+            """,
+            subject,
+            house,
+            day,
         )
         return await self._load(subject)
 

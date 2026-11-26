@@ -81,6 +81,8 @@ class Profile:
     last_activity_days: dict[str, date] = field(default_factory=dict)
     # Dias (de Brasília) com lição concluída ou prática marcada: base da sequência.
     active_days: frozenset[date] = frozenset()
+    # Casas do Caminho da Santidade concluídas: (número da casa, dia).
+    path_steps: tuple[tuple[int, date], ...] = ()
 
 
 @dataclass(frozen=True)

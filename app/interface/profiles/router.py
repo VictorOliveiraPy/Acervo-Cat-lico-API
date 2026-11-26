@@ -22,6 +22,7 @@ from app.core.exceptions import (
 )
 from app.core.rate_limiting import build_rate_limiter
 from app.domain.profiles.entities import ACTIVITY_POINTS
+from app.domain.profiles.path import PathError, check_advance
 from app.domain.profiles.progression import points_with_bonus, todays_multiplier
 from app.domain.profiles.repository import ProfileRepository
 from app.interface.profiles.schemas import (
@@ -31,6 +32,8 @@ from app.interface.profiles.schemas import (
     LessonsRequest,
     NoteRequest,
     NoteResponse,
+    PathRequest,
+    PathResponse,
     PatronRequest,
     ProfileResponse,
     ProfileSyncRequest,
@@ -138,6 +141,37 @@ async def complete_activity(
     multiplier = todays_multiplier(current.active_days, today)
     points = points_with_bonus(ACTIVITY_POINTS[payload.atividade], multiplier)
     profile = await repo.complete_activity(subject, payload.atividade, today, points)
+    return ProfileResponse.from_entity(_found(profile), today)  # type: ignore[arg-type]
+
+
+@router.get("/caminho", response_model=PathResponse, summary="A trilha do Caminho da Santidade")
+async def path_definition() -> PathResponse:
+    """Pública: o perfil, a página da trilha e a home leem daqui, sem copiar as casas."""
+    return PathResponse.build()
+
+
+@router.post("/perfil/caminho", response_model=ProfileResponse)
+async def advance_path(
+    payload: PathRequest,
+    subject: str = Depends(authenticated_subject),
+    repo: ProfileRepository = Depends(get_profile_repository),
+    today: date = Depends(brazil_today),
+) -> ProfileResponse:
+    """Conclui a próxima casa, se a tarefa dela foi feita (a regra está no domínio)."""
+    current = await repo.get(subject)
+    if current is None:
+        raise NotFoundException(message="Perfil não encontrado.", code="PERFIL_NAO_ENCONTRADO")
+    try:
+        check_advance(
+            payload.casa,
+            steps=current.path_steps,
+            last_activity_days=current.last_activity_days,
+            lessons_count=len(current.completed_lessons),
+            today=today,
+        )
+    except PathError as error:
+        raise AppException(str(error), status_code=409, code="CAMINHO_BLOQUEADO") from error
+    profile = await repo.advance_path(subject, payload.casa, today)
     return ProfileResponse.from_entity(_found(profile), today)  # type: ignore[arg-type]
 
 
